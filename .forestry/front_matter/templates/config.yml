@@ -5,7 +5,7 @@ fields:
 - type: text
   name: title
   label: Title
-  description: Site title
+  description: Titre du site
   config:
     required: true
 - name: caption
@@ -13,6 +13,7 @@ fields:
   config:
     required: false
   label: Caption
+  description: Légende du logo
 - name: opening
   type: textarea
   default: ''
