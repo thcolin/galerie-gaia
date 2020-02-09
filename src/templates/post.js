@@ -2,8 +2,8 @@ import React from 'react'
 import _ from 'lodash'
 import moment from 'moment-strftime'
 
-import { Layout } from '../components/index'
-import { htmlToReact, safePrefix } from '../utils'
+import { Layout } from 'components/index'
+import { htmlToReact, safePrefix } from 'utils'
 
 export default class Post extends React.Component {
   render () {

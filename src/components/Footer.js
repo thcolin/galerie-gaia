@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { htmlToReact, Link } from '../utils'
+import { htmlToReact, Link } from 'utils'
 import Social from 'components/Social'
 
 export default class Footer extends React.Component {

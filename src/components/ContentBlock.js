@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { htmlToReact, markdownify, Link, safePrefix } from '../utils'
+import { htmlToReact, markdownify, Link, safePrefix } from 'utils'
 
 export default class ContentBlock extends React.Component {
   render () {

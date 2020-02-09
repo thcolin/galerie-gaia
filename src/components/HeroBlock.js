@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { markdownify } from '../utils'
+import { markdownify } from 'utils'
 
 export default class HeroBlock extends React.Component {
   render () {

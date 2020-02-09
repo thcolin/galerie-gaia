@@ -2,8 +2,8 @@ import React from 'react'
 import _ from 'lodash'
 import moment from 'moment-strftime'
 
-import { Layout } from '../components/index'
-import { getPages, Link, safePrefix, htmlToReact } from '../utils'
+import { Layout } from 'components/index'
+import { getPages, Link, safePrefix, htmlToReact } from 'utils'
 
 export default class Blog extends React.Component {
   render () {

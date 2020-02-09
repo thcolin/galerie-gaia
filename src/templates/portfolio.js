@@ -1,8 +1,8 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { Layout } from '../components/index'
-import { getPages, Link, safePrefix } from '../utils'
+import { Layout } from 'components/index'
+import { getPages, Link, safePrefix } from 'utils'
 
 export default class Portfolio extends React.Component {
   render () {

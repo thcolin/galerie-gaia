@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { htmlToReact, getPages, Link, safePrefix } from '../utils'
+import { htmlToReact, getPages, Link, safePrefix } from 'utils'
 
 export default class PortfolioBlock extends React.Component {
   render () {

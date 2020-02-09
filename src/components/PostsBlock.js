@@ -2,7 +2,7 @@ import React from 'react'
 import _ from 'lodash'
 import moment from 'moment-strftime'
 
-import { htmlToReact, getPages, Link, safePrefix } from '../utils'
+import { htmlToReact, getPages, Link, safePrefix } from 'utils'
 
 export default class PostsBlock extends React.Component {
   render () {

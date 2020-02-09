@@ -1,9 +1,9 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { Layout } from '../components/index'
-import { htmlToReact, safePrefix } from '../utils'
-import ContactForm from '../components/ContactForm'
+import { Layout } from 'components/index'
+import { htmlToReact, safePrefix } from 'utils'
+import ContactForm from 'components/ContactForm'
 
 export default class Contact extends React.Component {
   render () {

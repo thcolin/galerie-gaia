@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { htmlToReact, markdownify } from '../utils'
+import { htmlToReact, markdownify } from 'utils'
 
 export default class ServicesBlock extends React.Component {
   render () {

@@ -1,7 +1,7 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { htmlToReact, safePrefix } from '../utils'
+import { htmlToReact, safePrefix } from 'utils'
 
 export default class TestimonialsBlock extends React.Component {
   render () {
