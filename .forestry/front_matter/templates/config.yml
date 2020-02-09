@@ -24,3 +24,15 @@ fields:
       format: markdown
   label: Opening
   description: Les horaires d'ouverture
+- name: phone
+  type: text
+  config:
+    required: false
+  label: Phone
+  description: Numéro de téléphone
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+  description: Adresse email
