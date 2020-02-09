@@ -1,6 +1,6 @@
 ---
-label: Global Site Config
-hide_body: true
+label: Metadata
+hide_body: false
 fields:
 - type: text
   name: title
