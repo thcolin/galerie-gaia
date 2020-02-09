@@ -6,7 +6,7 @@ webhook_url: https://api.stackbit.com/project/5e3f397fe32af10019202ebc/webhook/f
 sections:
 - type: document
   path: site-metadata.json
-  label: Global Site Config
+  label: Metadata
   templates:
   - config
 - type: document
