@@ -8,6 +8,11 @@ fields:
   description: Site title
   config:
     required: true
+- name: caption
+  type: text
+  config:
+    required: false
+  label: Caption
 - type: select
   name: color_scheme
   label: Color Scheme
@@ -80,8 +85,3 @@ fields:
     label: Enable Social Links
     description: Display social links in the footer.
     default: true
-- name: caption
-  type: text
-  config:
-    required: false
-  label: Caption
