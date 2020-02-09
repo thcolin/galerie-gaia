@@ -80,3 +80,8 @@ fields:
     label: Enable Social Links
     description: Display social links in the footer.
     default: true
+- name: caption
+  type: text
+  config:
+    required: false
+  label: Caption
