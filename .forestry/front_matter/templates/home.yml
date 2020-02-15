@@ -5,7 +5,8 @@ fields:
 - name: carousel
   type: blocks
   label: Carousel
-  template_types: []
+  template_types:
+  - work
   config:
     min: 
     max: 
