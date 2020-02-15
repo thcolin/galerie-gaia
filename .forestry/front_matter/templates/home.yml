@@ -2,18 +2,19 @@
 label: Home
 hide_body: true
 fields:
-- name: work
-  type: include
-  config: {}
-  template: work
-  label: Work
-  description: Oeuvre
 - name: carousel
-  type: list
+  type: field_group_list
+  fields:
+  - name: work
+    type: include
+    config: {}
+    template: work
+    label: Work
+    description: Oeuvre
   config:
-    use_select: false
     min: 
     max: 
+    labelField: 
   label: Carousel
   description: Carousel
 pages:
