@@ -8,3 +8,5 @@ fields:
     required: false
   label: Title
   description: Titre de l'oeuvre
+pages:
+- src/pages/works/1.md
