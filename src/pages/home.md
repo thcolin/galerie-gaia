@@ -1,4 +1,6 @@
 ---
 title: Accueil
-template: 'test'
+template: test
+carousel: []
+
 ---

@@ -10,3 +10,5 @@ fields:
     max: 
   label: Carousel
   description: Carousel
+pages:
+- src/pages/home.md
