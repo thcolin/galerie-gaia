@@ -27,5 +27,3 @@ fields:
   default: home
   config:
     required: true
-pages:
-- src/pages/index.md
