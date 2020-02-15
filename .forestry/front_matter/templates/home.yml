@@ -3,13 +3,26 @@ label: Home
 hide_body: true
 fields:
 - name: carousel
-  type: blocks
-  label: Carousel
-  template_types:
-  - work
+  type: field_group_list
+  fields:
+  - name: work
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: works
+        file: 
+        path: 
+    label: Work
+    description: Oeuvre
   config:
     min: 
     max: 
+    labelField: 
+  label: Carousel
   description: Carousel
 pages:
 - src/pages/home.md
