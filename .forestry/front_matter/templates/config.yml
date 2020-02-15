@@ -14,6 +14,16 @@ fields:
     required: false
   label: Caption
   description: Légende du logo
+- name: announcement
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Announcement
+  description: Annonce
 - name: opening
   type: textarea
   default: ''
