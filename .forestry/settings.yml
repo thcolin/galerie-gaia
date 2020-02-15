@@ -5,13 +5,13 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e3f397fe32af10019202ebc/webhook/forestry
 sections:
 - type: document
-  path: src/pages/home.md
-  label: Home
-- type: document
   path: site-metadata.json
   label: Metadata
   templates:
   - config
+- type: document
+  path: src/pages/home.md
+  label: Home
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
