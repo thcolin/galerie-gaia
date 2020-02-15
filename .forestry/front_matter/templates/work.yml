@@ -10,3 +10,4 @@ fields:
   description: Titre de l'oeuvre
 pages:
 - src/pages/works/1.md
+- src/pages/works/2.md
