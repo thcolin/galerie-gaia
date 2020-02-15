@@ -21,6 +21,6 @@ export default function (html) {
           return <ScriptTag key={index} {...node.attribs} />
         }
       }
-    }
+    },
   })
 };

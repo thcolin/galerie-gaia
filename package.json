@@ -11,8 +11,10 @@
     "lint": "npx standardx --fix --verbose | npx snazzy"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.27",
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "classnames": "^2.2.6",
+    "emotion": "^10.0.27",
     "fs-extra": "^7.0.1",
     "gatsby": "2.3.30",
     "gatsby-plugin-react-helmet": "^3.0.0",
@@ -22,11 +24,15 @@
     "js-yaml": "^3.12.2",
     "lodash": "^4.17.11",
     "marked": "^0.6.1",
+    "marksy": "^8.0.0",
     "moment": "^2.23.0",
     "moment-strftime": "^0.5.0",
     "node-sass": "^4.11.0",
     "node-sass-utils": "^1.1.2",
+    "normalize.css": "^8.0.1",
+    "pure-react-carousel": "^1.25.0",
     "react": "^16.12.0",
+    "react-animate-height": "^2.0.20",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.0",
     "react-html-parser": "^2.0.2",
@@ -35,7 +41,10 @@
     "sprintf-js": "^1.1.2"
   },
   "devDependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.27",
     "babel-eslint": "^10.0.3",
+    "babel-preset-gatsby": "^0.2.28",
+    "eslint": "^6.8.0",
     "husky": "^4.2.1",
     "snazzy": "^8.0.0",
     "standardx": "^5.0.0"
@@ -44,7 +53,8 @@
     "parser": "babel-eslint",
     "rules": {
       "comma-dangle": [
-        "error"
+        "error",
+        "always-multiline"
       ],
       "no-unused-vars": [
         "error",

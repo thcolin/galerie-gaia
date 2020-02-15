@@ -23,7 +23,7 @@ export {
   ServicesBlock,
   Social,
   TestimonialsBlock,
-  Layout
+  Layout,
 }
 
 export default {
@@ -38,5 +38,5 @@ export default {
   ServicesBlock,
   Social,
   TestimonialsBlock,
-  Layout
+  Layout,
 }

@@ -29,3 +29,95 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+# Roadmap
+* Look at useful `meta` tags (`description` ?)
+
+# Data
+* event[]
+  * title
+  * paragraph?
+  * dateStart
+  * dateEnd
+* artist[]
+  * firstname
+  * lastname?
+  * biography?
+  * work[]
+    * title
+    * paragraph?
+    * dimensions?
+      * h
+      * l
+      * p?
+    * price?
+* message[]
+  * name
+  * mail
+  * message
+
+# Pages
+* Navigation
+  * Logo
+    * title
+    * caption
+  * List
+    * link[]
+  * RichText
+    * event
+  * RichText
+    * schedule
+  * RichText
+    * contact
+* Home (/)
+  * Carousel
+    * work[]
+      * Image
+        * link
+* Artists (/artists)
+  * Grid
+    * artist[]
+      * Thumbnail
+        * text
+        * link
+* Artist (/artists/:artist)
+  * Works
+    * Carousel
+      * work[]
+    * Title
+    * RichText
+  * Title
+  * RichText
+* Expositions (/expositions)
+  * List
+    * ⚠️ pagination
+    * events[]
+      * Image
+      * Title
+      * RichText
+      * Caption (date start / end)
+      * Separator
+* About (/about)
+  * Tabs
+    * tabs[]
+      * Page
+        * RichText
+        * Image
+* Contact (/contact)
+  * Google Maps
+    * Caption
+  * Separator
+  * Title
+  * RichText
+  * Separator
+  * Link
+  * Contact
+    * Facebook
+    * Instagram
+    * Form
+      * Send mail with [formstatic](https://formstatic.dev/)
+      * See [netlify documentation](https://docs.netlify.com/forms/setup/))
+      * Use ([getform](https://getform.io/))
+      * name
+      * mail
+      * message

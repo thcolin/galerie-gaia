@@ -13,7 +13,7 @@ sections:
   path: src/pages/home.md
   label: Home
 - type: document
-  path: src/pages/artists.json
+  path: src/pages/artists.md
   label: Artists
 upload_dir: static/images
 public_path: "/images"

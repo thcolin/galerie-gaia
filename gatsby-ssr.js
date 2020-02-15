@@ -17,6 +17,6 @@ exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
       <script src={safePrefix('assets/js/plugins.js')} />
       <script src={safePrefix('assets/js/main.js')} />
 
-    </>
+    </>,
   ])
 }
