@@ -1,6 +1,7 @@
 ---
 title: Accueil
 template: test
-carousel: []
+carousel:
+- title: "3"
 
 ---
