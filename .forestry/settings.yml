@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src/pages/home.md
   label: Home
-  match: "**/*"
 - type: document
   path: site-metadata.json
   label: Metadata
