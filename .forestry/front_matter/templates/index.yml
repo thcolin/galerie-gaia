@@ -14,14 +14,14 @@ fields:
       source:
         type: pages
         section: works
-        file:
-        path:
+        file: 
+        path: 
     label: Work
     description: Oeuvre
   config:
-    min:
-    max:
-    labelField:
+    min: 
+    max: 
+    labelField: 
   label: Carousel
   description: Carousel
 pages:

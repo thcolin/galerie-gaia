@@ -14,6 +14,77 @@ fields:
     maxSize: 250
   label: Image
   description: Image
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+  description: Images
+- name: technique
+  type: text
+  config:
+    required: false
+  label: Technique
+  description: Technique
+- name: dimensions
+  type: field_group
+  config: {}
+  fields:
+  - name: length
+    type: number
+    label: Length
+    description: Longueur
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: width
+    type: number
+    label: Width
+    description: Largeur
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: depth
+    type: number
+    description: Profondeur
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+    label: Depth
+  label: Dimensions
+  description: Dimensions
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Description
+- name: price
+  type: number
+  label: Price
+  description: Prix
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: sold
+  type: boolean
+  label: Sold
+  description: Vendu
 pages:
 - src/pages/works/1.md
 - src/pages/works/2.md
