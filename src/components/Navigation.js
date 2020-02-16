@@ -29,11 +29,11 @@ const Navigation = ({ pageContext, ...props }) => {
         <div css={Navigation.styles.body}>
           <div css={Navigation.styles.list}>
             <ul>
-              <li><Link to=''>Accueil</Link></li>
-              <li><Link to=''>Artistes</Link></li>
-              <li><Link to=''>Expositions</Link></li>
-              <li><Link to=''>Prestations</Link></li>
-              <li><Link to=''>Contact</Link></li>
+              <li><Link to='/'>Accueil</Link></li>
+              <li><Link to='/artists'>Artistes</Link></li>
+              <li><Link to='/expositions'>Expositions</Link></li>
+              <li><Link to='/about'>Prestations</Link></li>
+              <li><Link to='/contact'>Contact</Link></li>
             </ul>
           </div>
           <RichText css={Navigation.styles.paragraph}>

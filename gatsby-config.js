@@ -13,13 +13,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-stackbit-static-sass',
-      options: {
-        inputFile: `${__dirname}/src/sass/main.scss`,
-        outputFile: `${__dirname}/public/assets/css/main.css`,
-      },
-    },
-    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: ['gatsby-remark-component'],
@@ -31,13 +24,5 @@ module.exports = {
 
       },
     },
-    // {
-    //   resolve: '@stackbit/gatsby-plugin-menus',
-    //   options: {
-    //     sourceUrlPath: 'fields.url',
-    //     pageContextProperty: 'menus',
-    //     menus: require('./src/data/menus.json'),
-    //   },
-    // },
   ],
 }
