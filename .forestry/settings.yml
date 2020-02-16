@@ -18,7 +18,7 @@ sections:
   templates:
   - config
 - type: document
-  path: src/pages/home.md
+  path: src/pages/index.md
   label: Home
 - type: document
   path: src/pages/artists.md

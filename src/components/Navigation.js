@@ -92,21 +92,26 @@ Navigation.styles = {
     [theme.medias.medium]: {
       height: 'inherit !important',
       overflow: 'inherit !important',
+      flex: 1,
     },
     [theme.medias.large]: {
       height: 'inherit !important',
       overflow: 'inherit !important',
+      flex: 1,
     },
     '>div': {
       [theme.medias.medium]: {
         display: 'block !important',
+        height: '100%',
       },
       [theme.medias.large]: {
         display: 'block !important',
+        height: '100%',
       },
     },
   },
   body: {
+    height: '100%',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',

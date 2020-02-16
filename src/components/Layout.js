@@ -37,7 +37,6 @@ Layout.styles = {
     width: '100%',
     minHeight: '100vh',
     minWidth: '100vw',
-    backgroundColor: 'green',
     [theme.medias.small]: {
       flexDirection: 'column',
     },
