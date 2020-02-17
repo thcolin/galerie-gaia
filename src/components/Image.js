@@ -1,27 +1,24 @@
-import React, { useState } from 'react'
+import React, { useState, useCallback } from 'react'
 
 const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
   const [ready, setReady] = useState(false)
+  const ref = useCallback(node => {
+    if (!ready && node !== null && node.complete) {
+      setReady(true)
+    }
+  }, [])
 
   return (
     <div css={[props.css, Image.styles.element]}>
       <img
         {...props}
+        ref={ref}
         css={Image.styles.image}
         src={src.replace(/\.(png|jpe?g)$/, `${min ? '-min' : ''}.$1`)}
         alt={alt}
-        onLoad={() => {
-          console.log('onLoad')
-          setReady(true)
-        }}
-        onError={() => {
-          console.log('onError')
-          setReady(true)
-        }}
-        onAbort={() => {
-          console.log('onAbort')
-          setReady(true)
-        }}
+        onLoad={() => setReady(true)}
+        onError={() => setReady(true)}
+        onAbort={() => setReady(true)}
         style={{
           opacity: ready ? 1 : 0,
         }}
