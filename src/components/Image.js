@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const Image = ({ trace = true, min = true, src, alt = '', ...props }) => {
+const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
   const [ready, setReady] = useState(false)
 
   return (
@@ -10,9 +10,18 @@ const Image = ({ trace = true, min = true, src, alt = '', ...props }) => {
         css={Image.styles.image}
         src={src.replace(/\.(png|jpe?g)$/, `${min ? '-min' : ''}.$1`)}
         alt={alt}
-        onLoad={() => setReady(true)}
-        onError={() => setReady(true)}
-        onAbort={() => setReady(true)}
+        onLoad={() => {
+          console.log('onLoad')
+          setReady(true)
+        }}
+        onError={() => {
+          console.log('onError')
+          setReady(true)
+        }}
+        onAbort={() => {
+          console.log('onAbort')
+          setReady(true)
+        }}
         style={{
           opacity: ready ? 1 : 0,
         }}
@@ -21,9 +30,6 @@ const Image = ({ trace = true, min = true, src, alt = '', ...props }) => {
         <img
           css={Image.styles.trace}
           src={src.replace(/\.(png|jpe?g)$/, '-min.svg')}
-          // style={{
-          //   opacity: ready ? 0 : 1,
-          // }}
         />
       )}
     </div>
