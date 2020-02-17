@@ -1,13 +1,15 @@
 import React from 'react'
 import { css } from 'emotion'
 import Layout from 'components/Layout'
+import Image from 'components/Image'
 import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
 import 'pure-react-carousel/dist/react-carousel.es.css'
 import theme from 'theme'
 
 const Home = ({ ...props }) => {
-  const carousel = props.pageContext.frontmatter.carousel
-    .map(relation => props.pageContext.pages.filter(
+  const { frontmatter, pages } = props.pageContext
+  const carousel = frontmatter.carousel
+    .map(relation => pages.filter(
       page => page.relativePath === relation.work.replace(/src\/pages\//, '')).pop()
     )
     .filter(work => work)
@@ -16,13 +18,17 @@ const Home = ({ ...props }) => {
     <Layout {...props}>
       <CarouselProvider
         isPlaying
+        infinite
+        interval={5000}
+        touchEnabled={false}
+        dragEnabled={false}
         totalSlides={carousel.length}
         className={css(Home.styles.carousel)}
       >
         <Slider>
           {carousel.map((work, index) => (
-            <Slide key={index}>
-              <img src={work.frontmatter.image} css={Home.styles.work} />
+            <Slide key={index} className={css(Home.styles.work)}>
+              <Image src={work.frontmatter.image} />
             </Slide>
           ))}
         </Slider>
@@ -56,9 +62,11 @@ Home.styles = {
     },
   },
   work: {
-    height: '100%',
-    width: '100%',
-    objectFit: 'cover',
+    img: {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    },
   },
 }
 

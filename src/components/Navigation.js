@@ -72,8 +72,11 @@ Navigation.styles = {
   },
   header: {
     display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
     '>div': {
-      margin: '1em 0',
+      marginTop: '1rem',
+      marginBottom: '1rem',
     },
   },
   logo: {
@@ -84,6 +87,7 @@ Navigation.styles = {
   toggle: {
     display: 'none',
     fontSize: '2em',
+    marginLeft: '2rem',
     [theme.medias.small]: {
       display: 'block',
     },

@@ -1,4 +1,5 @@
 import React, { createElement } from 'react'
+import Image from 'components/Image'
 import marksy from 'marksy'
 
 const compile = marksy({
@@ -67,7 +68,7 @@ const compile = marksy({
       <del>{children}</del>
     ),
     img: ({ src, alt }) => (
-      <img src={src} alt={alt} />
+      <Image src={src} alt={alt} width='100%' />
     ),
     code: ({ language, code }) => (
       <code language={language}>{code}</code>

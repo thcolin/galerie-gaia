@@ -33,10 +33,8 @@ Layout.styles = {
   element: {
     display: 'flex',
     flexDirection: 'row',
-    height: '100%',
-    width: '100%',
-    minHeight: '100vh',
-    minWidth: '100vw',
+    height: '100vh',
+    width: '100vw',
     [theme.medias.small]: {
       flexDirection: 'column',
     },
@@ -56,6 +54,7 @@ Layout.styles = {
   container: {
     display: 'flex',
     flex: 1,
+    overflowY: 'scroll',
   },
 }
 
