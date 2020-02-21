@@ -8,6 +8,19 @@ fields:
     required: false
   label: Title
   description: Titre de l'oeuvre
+- name: artist
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: artists
+      file: 
+      path: 
+  label: Artist
+  description: Artiste
 - name: image
   type: file
   config:
