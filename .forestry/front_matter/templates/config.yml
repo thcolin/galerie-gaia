@@ -11,7 +11,7 @@ fields:
 - name: caption
   type: text
   config:
-    required: false
+    required: true
   label: Caption
   description: Légende du logo
 - name: announcement
@@ -37,12 +37,12 @@ fields:
 - name: phone
   type: text
   config:
-    required: false
+    required: true
   label: Phone
   description: Numéro de téléphone
 - name: email
   type: text
   config:
-    required: false
+    required: true
   label: Email
   description: Adresse email
