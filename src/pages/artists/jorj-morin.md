@@ -5,6 +5,7 @@ death: 1909
 location: Nantes
 field: Peinture, Dessin, Gravure, Mosaique
 expose: true
+template: ''
 
 ---
 Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à Nantes en tant que graphiste indépendant puis exercera comme dessinateur publicitaire jusqu’au milieu des années 60 doté d'un style clair, épuré et teinté humour, pour la Biscuiterie Nantaise, Cassegrain, Cinzano, Petit Navire, Decré…  
