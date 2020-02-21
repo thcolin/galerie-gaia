@@ -14,11 +14,6 @@ fields:
     maxSize: 250
   label: Image
   description: Image
-- name: images
-  type: image_gallery
-  config: {}
-  label: Images
-  description: Images
 - name: technique
   type: text
   config:
