@@ -93,6 +93,14 @@ fields:
   type: boolean
   label: Sold
   description: Vendu
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: work
 pages:
 - src/pages/works/1.md
 - src/pages/works/2.md
