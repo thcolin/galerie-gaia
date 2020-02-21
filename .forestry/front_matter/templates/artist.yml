@@ -40,16 +40,6 @@ fields:
     required: false
   label: Field
   description: Champ Artistique
-- name: biography
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Biography
-  description: Biographie
 - name: expose
   type: boolean
   label: Expose
