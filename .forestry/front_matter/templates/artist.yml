@@ -44,5 +44,13 @@ fields:
   type: boolean
   label: Expose
   description: Exposer
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: artist
 pages:
 - src/pages/artists/jorj-morin.md
