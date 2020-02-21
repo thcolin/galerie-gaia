@@ -44,6 +44,3 @@ fields:
   type: boolean
   label: Expose
   description: Exposer
-pages:
-- src/pages/artists/jean-pierre.md
-- src/pages/artists/jorj-morin.md
