@@ -38,7 +38,7 @@ fields:
 - name: field
   type: text
   config:
-    required: false
+    required: true
   label: Field
   description: Champ Artistique
 - name: expose
