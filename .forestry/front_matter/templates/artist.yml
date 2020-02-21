@@ -1,4 +1,56 @@
 ---
 label: Artist
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: Nom
+- name: birth
+  type: datetime
+  label: Birth
+  description: Annnée de naissance
+  config:
+    required: false
+    date_format: YYYY
+    time_format: " "
+    display_utc: false
+    export_format: YYYY
+- name: death
+  type: datetime
+  label: Death
+  description: Année de décès
+  config:
+    required: false
+    date_format: YYYY
+    time_format: " "
+    display_utc: false
+    export_format: YYYY
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
+  description: Localisation
+- name: field
+  type: text
+  config:
+    required: false
+  label: Field
+  description: Champ Artistique
+- name: biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Biography
+  description: Biographie
+- name: expose
+  type: boolean
+  label: Expose
+  description: Exposer
