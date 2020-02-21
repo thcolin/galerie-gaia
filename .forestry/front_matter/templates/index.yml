@@ -19,7 +19,7 @@ fields:
     label: Work
     description: Oeuvre
   config:
-    min: 
+    min: '1'
     max: 
     labelField: work
   label: Carousel
