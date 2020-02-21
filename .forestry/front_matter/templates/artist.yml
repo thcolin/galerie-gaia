@@ -54,4 +54,3 @@ fields:
   default: artist
 pages:
 - src/pages/artists/jorj-morin.md
-- src/pages/artists/test.md
