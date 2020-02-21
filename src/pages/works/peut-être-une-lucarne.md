@@ -8,8 +8,8 @@ dimensions:
   length: 81
   width: 60
   depth: 
-description: ''
-price: 
+description: "1956"
+price: 3500
 sold: false
 
 ---
