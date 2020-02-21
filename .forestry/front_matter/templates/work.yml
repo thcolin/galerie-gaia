@@ -104,4 +104,3 @@ fields:
   default: work
 pages:
 - src/pages/works/1.md
-- src/pages/works/2.md
