@@ -102,5 +102,3 @@ fields:
   description: Template
   hidden: true
   default: work
-pages:
-- src/pages/works/1.md
