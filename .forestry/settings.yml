@@ -5,6 +5,13 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e3f397fe32af10019202ebc/webhook/forestry
 sections:
 - type: directory
+  path: src/pages/artists
+  label: Artists
+  create: all
+  match: "**/*"
+  templates:
+  - artist
+- type: directory
   path: src/pages/works
   label: Works
   create: documents
