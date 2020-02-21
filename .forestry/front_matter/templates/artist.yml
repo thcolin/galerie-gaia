@@ -2,12 +2,6 @@
 label: Artist
 hide_body: false
 fields:
-- name: name
-  type: text
-  config:
-    required: false
-  label: Name
-  description: Nom
 - name: birth
   type: datetime
   label: Birth
