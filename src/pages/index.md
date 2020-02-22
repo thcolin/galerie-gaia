@@ -2,6 +2,6 @@
 title: Accueil
 template: home
 carousel:
-- work: src/pages/works/1.md
-- work: src/pages/works/2.md
+- work: src/pages/works/peut-être-une-lucarne.md
+
 ---
