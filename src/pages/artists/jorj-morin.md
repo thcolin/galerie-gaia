@@ -6,6 +6,29 @@ location: Nantes
 field: Peinture, Dessin, Gravure, Mosaique
 expose: true
 template: ''
+biography: "Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à Nantes en
+  tant que graphiste indépendant puis exercera comme dessinateur publicitaire jusqu’au
+  milieu des années 60 doté d'un style clair, épuré et teinté humour, pour la Biscuiterie
+  Nantaise, Cassegrain, Cinzano, Petit Navire, Decré…  \n   \nDès les années 30, il
+  poursuit une quête personnelle à travers le dessin, la peinture et en 1947 la gravure.
+  Morin devient un membre actif du groupe d’artistes nantais Archipel.  \n   \nLa
+  tapisserie et la mosaïque seront expérimentées à partir des années 50 et donneront
+  place à la fin des années 60 au monumental avec une trentaine d’installations dans
+  des écoles et lycées principalement.  \n   \nDe nombreuses galeries présentèrent
+  son travail à Nantes (Convergence), Paris (La Demeure), Lyon ( L’œil écoute). Par
+  ailleurs, Morin organisera également des expositions personnelles à Bruxelles, Essen-Werden,
+  Hamburg, Augsburg, Köln.  \n   \nSa proximité avec Louis Ferrand, ami et peintre
+  nantais du groupe Archipel sera concrétisée par une exposition commune au château
+  des ducs de Bretagne en 1991.  \n   \nEn 1980, l'artiste s’installe à la Poissonnière
+  (Angers) où il poursuit son œuvre de peintre et de graveur, jusqu’à son décès le
+  13 Mai 1995.  \n C'est en 2018 que la famille Morin effectue une donation de gravures,
+  au Musée des Arts de Nantes.  \n   \nL’exposition Polymorphie organisée en 2020
+  par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective
+  n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non
+  familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter
+  à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe
+  les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette
+  de couleurs nous font intimement vibrer."
 
 ---
 Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à Nantes en tant que graphiste indépendant puis exercera comme dessinateur publicitaire jusqu’au milieu des années 60 doté d'un style clair, épuré et teinté humour, pour la Biscuiterie Nantaise, Cassegrain, Cinzano, Petit Navire, Decré…  
