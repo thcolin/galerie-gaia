@@ -152,9 +152,6 @@ Artist.styles = {
       padding: '0.5em 0',
       color: theme.colors.gray,
     },
-    '>div': {
-      padding: '1em 0',
-    },
   },
   icon: {
     padding: '1em',
@@ -164,7 +161,7 @@ Artist.styles = {
   },
   about: {
     flex: 1,
-    padding: '1rem 0',
+    padding: '1rem',
     '>h2': {
       display: 'inline',
       padding: 0,
@@ -180,7 +177,7 @@ Artist.styles = {
       fontSize: '0.875em',
     },
     '>div': {
-      padding: '1em 0',
+      padding: '0.5em 0',
       fontSize: '0.875em',
       lineHeight: '1.5',
     },

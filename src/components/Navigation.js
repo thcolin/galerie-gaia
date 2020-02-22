@@ -127,7 +127,7 @@ Navigation.styles = {
     justifyContent: 'space-between',
     flex: 1,
     '>div': {
-      margin: '1em',
+      margin: '0.5rem 1rem',
     },
   },
   list: {
@@ -153,7 +153,10 @@ Navigation.styles = {
   },
   paragraph: {
     fontSize: '1.25em',
-    lineHeight: '1.5em',
+    lineHeight: '1.5',
+    '>p': {
+      margin: 0,
+    },
   },
   contact: {
     fontSize: '1.25em',
