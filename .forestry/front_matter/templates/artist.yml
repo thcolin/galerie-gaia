@@ -1,6 +1,6 @@
 ---
 label: Artist
-hide_body: false
+hide_body: true
 display_field: title
 fields:
 - name: title
@@ -53,5 +53,15 @@ fields:
   description: Template
   hidden: true
   default: artist
+- name: biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Biography
+  description: Biographie
 pages:
 - src/pages/artists/jorj-morin.md
