@@ -32,22 +32,23 @@ const Layout = ({ children, ...props }) => (
 Layout.styles = {
   element: {
     display: 'flex',
-    flexDirection: 'row',
+    flexDirection: 'column',
     height: '100vh',
     width: '100vw',
-    [theme.medias.small]: {
-      flexDirection: 'column',
+    [theme.medias.large]: {
+      flexDirection: 'row',
+    },
+    [theme.medias.extralarge]: {
+      flexDirection: 'row',
     },
   },
   navigation: {
     display: 'flex',
-    [theme.medias.small]: {
-      maxWidth: '100%',
-    },
-    [theme.medias.medium]: {
+    maxWidth: '100%',
+    [theme.medias.large]: {
       maxWidth: '20em',
     },
-    [theme.medias.large]: {
+    [theme.medias.extralarge]: {
       maxWidth: '20em',
     },
   },
@@ -55,6 +56,7 @@ Layout.styles = {
     display: 'flex',
     flex: 1,
     overflowY: 'scroll',
+    maxWidth: '100%',
   },
 }
 

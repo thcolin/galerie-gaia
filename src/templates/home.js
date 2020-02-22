@@ -1,49 +1,63 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { css } from 'emotion'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
 import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
 import 'pure-react-carousel/dist/react-carousel.es.css'
-import theme from 'theme'
+import resolve from 'utils/resolve'
 
 const Home = ({ ...props }) => {
+  const [ready, setReady] = useState(false)
   const { frontmatter, pages } = props.pageContext
   const carousel = frontmatter.carousel
     .map(relation => pages.filter(
-      page => page.relativePath === relation.work.replace(/src\/pages\//, '')).pop()
+      page => page.relativePath === resolve.fromFilesystem2Gatsby(relation.work, { extension: true })).pop()
     )
     .filter(work => work)
 
+  useEffect(() => {
+    setReady(true)
+  }, [])
+
   return (
     <Layout {...props}>
-      <CarouselProvider
-        isPlaying
-        infinite
-        interval={5000}
-        touchEnabled={false}
-        dragEnabled={false}
-        totalSlides={carousel.length}
-        className={css(Home.styles.carousel)}
+      <div
+        css={Home.styles.element}
+        style={{
+          opacity: ready ? 1 : 0,
+        }}
       >
-        <Slider>
-          {carousel.map((work, index) => (
-            <Slide key={index} className={css(Home.styles.work)}>
-              <Image src={work.frontmatter.image} />
-            </Slide>
-          ))}
-        </Slider>
-      </CarouselProvider>
+        <CarouselProvider
+          isPlaying
+          infinite
+          interval={5000}
+          touchEnabled={false}
+          dragEnabled={false}
+          totalSlides={carousel.length}
+          className={css(Home.styles.carousel)}
+        >
+          <Slider>
+            {carousel.map((work, index) => (
+              <Slide key={index} className={css(Home.styles.work)}>
+                <Image src={work.frontmatter.image} />
+              </Slide>
+            ))}
+          </Slider>
+        </CarouselProvider>
+      </div>
     </Layout>
   )
 }
 
 Home.styles = {
+  element: {
+    height: '100%',
+    width: '100%',
+    transition: 'opacity ease-in-out 400ms',
+  },
   carousel: {
     height: '100%',
     width: '100%',
-    [theme.medias.small]: {
-      height: 'auto',
-    },
     '>div': {
       height: '100%',
       width: '100%',

@@ -1,17 +1,21 @@
 const colors = {
   white: '#ffffff',
-  black: '#000000',
+  black: '#1A1A1A',
+  grey: '#CCCCCC',
+  gray: '#3A3A3A',
 }
 
 const fonts = {
   primary: '"Walkway Regular", sans-serif',
   secondary: '"Merriweather", sans-serif',
+  default: '"Montserrat", sans-serif',
 }
 
 const medias = {
   small: '@media only screen and (max-width: 767px)',
   medium: '@media only screen and (min-width: 768px) and (max-width: 991px)',
-  large: '@media only screen and (min-width: 992px)',
+  large: '@media only screen and (min-width: 992px) and (max-width: 1199px)',
+  extralarge: '@media only screen and (min-width: 1200px)',
 }
 
 const resets = {

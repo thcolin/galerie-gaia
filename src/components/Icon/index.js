@@ -1,8 +1,12 @@
 import React from 'react'
 import Menu from './Menu'
+import Arrow from './Arrow'
+import Close from './Close'
 
 const icons = {
   menu: Menu,
+  arrow: Arrow,
+  close: Close,
 }
 
 const Icon = ({ children, ...props }) => {

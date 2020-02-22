@@ -21,7 +21,7 @@ const Navigation = ({ pageContext, ...props }) => {
         </div>
         <div css={Navigation.styles.toggle}>
           <button css={theme.resets.button} onClick={() => setOpen(!open)}>
-            <Icon children='menu' />
+            <Icon children={open ? 'close' : 'menu'} />
           </button>
         </div>
       </div>
@@ -69,6 +69,8 @@ Navigation.styles = {
     overflow: 'hidden',
     backgroundColor: theme.colors.white,
     textAlign: 'center',
+    overflowY: 'auto',
+    fontFamily: theme.fonts.primary,
   },
   header: {
     display: 'flex',
@@ -80,35 +82,39 @@ Navigation.styles = {
     },
   },
   logo: {
-    [theme.medias.small]: {
-      fontSize: '0.75em',
+    fontSize: '0.75em',
+    [theme.medias.large]: {
+      fontSize: '1em',
+    },
+    [theme.medias.extralarge]: {
+      fontSize: '1em',
     },
   },
   toggle: {
-    display: 'none',
     fontSize: '2em',
     marginLeft: '2rem',
-    [theme.medias.small]: {
-      display: 'block',
+    [theme.medias.large]: {
+      display: 'none',
+    },
+    [theme.medias.extralarge]: {
+      display: 'none',
     },
   },
   container: {
-    [theme.medias.medium]: {
-      height: 'inherit !important',
-      overflow: 'inherit !important',
-      flex: 1,
-    },
     [theme.medias.large]: {
       height: 'inherit !important',
       overflow: 'inherit !important',
       flex: 1,
-    },
-    '>div': {
-      [theme.medias.medium]: {
+      '>div': {
         display: 'block !important',
         height: '100%',
       },
-      [theme.medias.large]: {
+    },
+    [theme.medias.extralarge]: {
+      height: 'inherit !important',
+      overflow: 'inherit !important',
+      flex: 1,
+      '>div': {
         display: 'block !important',
         height: '100%',
       },
@@ -133,10 +139,14 @@ Navigation.styles = {
       '>li': {
         margin: '0 0 0.5em',
         fontSize: '1.25em',
+        textAlign: 'center',
         lineHeight: '1.5em',
         textTransform: 'uppercase',
-        [theme.medias.small]: {
-          textAlign: 'center',
+        [theme.medias.large]: {
+          textAlign: 'left',
+        },
+        [theme.medias.extralarge]: {
+          textAlign: 'left',
         },
       },
     },
