@@ -87,7 +87,7 @@ const RichText = ({ children, options = {}, ...props }) => (
 
 RichText.styles = {
   element: {
-    
+
   },
 }
 
