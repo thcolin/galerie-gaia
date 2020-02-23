@@ -5,9 +5,9 @@ title: Peut-être une lucarne
 image: "/images/1324.jpg"
 technique: Huile sur toile
 dimensions:
-  length: 81
+  height: 81
   width: 60
-  depth: 
+  depth:
 description: "1956"
 price: 3500
 sold: false

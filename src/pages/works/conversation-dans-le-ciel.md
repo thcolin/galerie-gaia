@@ -5,9 +5,9 @@ title: Conversation dans le ciel
 image: "/images/1108.jpg"
 technique: Acrylique sur toile
 dimensions:
-  length: 81
+  height: 81
   width: 54
-  depth: 
+  depth:
 description: 1955-56
 price: 3000
 sold: false

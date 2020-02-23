@@ -5,9 +5,9 @@ title: Étoile verte
 image: "/images/1109.jpg"
 technique: Acrylique sur toile
 dimensions:
-  length: 60
+  height: 60
   width: 81
-  depth: 
+  depth:
 description: "1983"
 price: 3300
 sold: false
