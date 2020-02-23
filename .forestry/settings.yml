@@ -34,7 +34,7 @@ sections:
   label: Artists
 - type: document
   path: site-metadata.json
-  label: Metadata
+  label: Menu
   templates:
   - config
 upload_dir: static/images
