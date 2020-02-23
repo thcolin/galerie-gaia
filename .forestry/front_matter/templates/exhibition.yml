@@ -1,4 +1,41 @@
 ---
 label: Exhibition
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Titre
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
+  description: Localisation
+- name: artist
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: artists
+      file: 
+      path: 
+  label: Artist
+  description: Artiste
+- name: start
+  type: text
+  config:
+    required: false
+  label: Start
+  description: Date de début
+- name: end
+  type: text
+  config:
+    required: false
+  label: End
+  description: Date de fin
