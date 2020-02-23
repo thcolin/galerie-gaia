@@ -38,10 +38,10 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: length
+  - name: height
     type: number
-    label: Length
-    description: Longueur
+    label: Height
+    description: Hauteur
     default: 0
     required: true
     config:
