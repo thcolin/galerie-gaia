@@ -39,3 +39,11 @@ fields:
     required: false
   label: End
   description: Date de fin
+- name: template
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Template
+  description: Template
+  default: exhibition
