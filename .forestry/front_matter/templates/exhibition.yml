@@ -47,3 +47,5 @@ fields:
   label: Template
   description: Template
   default: exhibition
+pages:
+- src/pages/exhibition/clin-d-oeil.md
