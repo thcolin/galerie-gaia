@@ -12,6 +12,11 @@ const Artist = ({ ...props }) => {
   const { pageContext } = props
   const { frontmatter, relativePath, pages } = pageContext
 
+  const exhibitions = pages.filter(page => (
+    page.frontmatter.template === 'exhibition' &&
+    page.frontmatter.artist === resolve.fromGatsby2Filesystem(relativePath)
+  ))
+
   const works = pages.filter(page => (
     page.frontmatter.template === 'work' &&
     page.frontmatter.artist === resolve.fromGatsby2Filesystem(relativePath)
@@ -67,7 +72,18 @@ const Artist = ({ ...props }) => {
             </div>
             <div css={Artist.styles.work}>
               <h2>{work.frontmatter.title}</h2>
-              <span>{work.frontmatter.technique}</span>
+              <span>
+                {work.frontmatter.technique}
+                {(
+                  work.frontmatter.dimensions.height ||
+                  work.frontmatter.dimensions.width ||
+                  work.frontmatter.dimensions.depth
+                ) && ` (${[
+                  work.frontmatter.dimensions.height,
+                  work.frontmatter.dimensions.width,
+                  work.frontmatter.dimensions.depth,
+                ].filter(size => size).join(' x ')})`}
+              </span>
               <small>{work.frontmatter.price} €</small>
               {!!work.frontmatter.description && (
                 <RichText children={work.frontmatter.description} />
@@ -85,6 +101,25 @@ const Artist = ({ ...props }) => {
             <RichText children={frontmatter.biography} />
           )}
         </div>
+        {!!exhibitions.length && (
+          <div css={Artist.styles.exhibitions}>
+            <h3>Expositions</h3>
+            {exhibitions.map(({ frontmatter: exhibition }, index) => (
+              <p css={Artist.styles.exhibition} key={index}>
+                <span>
+                  {[
+                    exhibition.start,
+                    exhibition.end,
+                  ].filter(date => date).join(' - ')}
+                </span>
+                <span> / </span>
+                <strong>{exhibition.location}</strong>
+                <span> / </span>
+                <span>{exhibition.title}</span>
+              </p>
+            ))}
+          </div>
+        )}
       </div>
     </Layout>
   )
@@ -113,10 +148,16 @@ Artist.styles = {
     },
   },
   slide: {
-    '>img': {
-      objectFit: 'contain',
-      height: '100%',
-      width: '100%',
+    '>div': {
+      '>img': {
+        objectFit: 'contain',
+        height: '100%',
+        width: '100%',
+        maxHeight: '50vh',
+        [theme.medias.extralarge]: {
+          maxHeight: 'initial',
+        },
+      },
     },
   },
   thumbnail: {
@@ -181,6 +222,12 @@ Artist.styles = {
       fontSize: '0.875em',
       lineHeight: '1.5',
     },
+  },
+  exhibitions: {
+    padding: '0 1rem 1rem',
+  },
+  exhibition: {
+    fontSize: '0.875em',
   },
 }
 

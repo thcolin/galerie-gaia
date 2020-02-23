@@ -31,7 +31,11 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
 
 # Roadmap
-* Look at useful `meta` tags (`description` ?)
+* Improve SEO
+  * Look at useful `meta` tags (`description` ?)
+* Improve redirect (`/works`, `/exhibitions`)
+  * Look at [gatsby-netlify-plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-netlify/)
+  * Fix `404` too
 
 # Data
 * event[]
