@@ -33,7 +33,7 @@ fields:
     schema:
       format: markdown
   label: Opening
-  description: Les horaires d'ouverture
+  description: Horaires d'ouverture
 - name: phone
   type: text
   config:
