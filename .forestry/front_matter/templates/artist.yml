@@ -37,14 +37,6 @@ fields:
   type: boolean
   label: Expose
   description: Exposer
-- name: template
-  type: text
-  config:
-    required: false
-  label: Template
-  description: Template
-  hidden: true
-  default: artist
 - name: biography
   type: textarea
   default: ''
@@ -55,5 +47,13 @@ fields:
       format: markdown
   label: Biography
   description: Biographie
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: artist
 pages:
 - src/pages/artists/jorj-morin.md
