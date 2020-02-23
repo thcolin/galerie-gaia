@@ -4,13 +4,14 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e3f397fe32af10019202ebc/webhook/forestry
 sections:
-- type: directory
-  path: src/pages/exhibition
-  label: Exhibitions
-  create: all
-  match: "**/*"
+- type: document
+  path: site-metadata.json
+  label: Metadata
   templates:
-  - exhibition
+  - config
+- type: document
+  path: src/pages/index.md
+  label: Home
 - type: directory
   path: src/pages/artists
   label: Artists
@@ -26,14 +27,13 @@ sections:
   new_doc_ext: md
   templates:
   - work
-- type: document
-  path: site-metadata.json
-  label: Metadata
+- type: directory
+  path: src/pages/exhibition
+  label: Exhibitions
+  create: all
+  match: "**/*"
   templates:
-  - config
-- type: document
-  path: src/pages/index.md
-  label: Home
+  - exhibition
 - type: document
   path: src/pages/artists.md
   label: Artists
