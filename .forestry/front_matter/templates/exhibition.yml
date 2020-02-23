@@ -11,7 +11,7 @@ fields:
 - name: location
   type: text
   config:
-    required: false
+    required: true
   label: Location
   description: Localisation
 - name: artist
@@ -30,7 +30,7 @@ fields:
 - name: start
   type: text
   config:
-    required: false
+    required: true
   label: Start
   description: Date de début
 - name: end
