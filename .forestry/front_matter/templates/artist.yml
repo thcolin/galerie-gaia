@@ -9,26 +9,6 @@ fields:
     required: true
   label: Title
   description: Nom
-- name: birth
-  type: datetime
-  label: Birth
-  description: Annnée de naissance
-  config:
-    required: false
-    date_format: YYYY
-    time_format: " "
-    display_utc: false
-    export_format: YYYY
-- name: death
-  type: datetime
-  label: Death
-  description: Année de décès
-  config:
-    required: false
-    date_format: YYYY
-    time_format: " "
-    display_utc: false
-    export_format: YYYY
 - name: location
   type: text
   config:
@@ -41,6 +21,18 @@ fields:
     required: true
   label: Field
   description: Champ Artistique
+- name: birth
+  type: text
+  config:
+    required: false
+  label: Birth
+  description: Année de naissance
+- name: death
+  type: text
+  config:
+    required: false
+  label: Death
+  description: Année de décès
 - name: expose
   type: boolean
   label: Expose
