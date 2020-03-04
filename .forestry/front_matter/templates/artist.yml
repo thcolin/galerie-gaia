@@ -68,6 +68,102 @@ fields:
   description: Template
   hidden: true
   default: artist
+- name: works
+  type: blocks
+  label: Works
+  template_types:
+  - work
+  config:
+    min: 
+    max: 
+  description: Oeuvres
+- name: works_
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+    description: Titre de l'oeuvre
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+    description: Image
+  - name: technique
+    type: text
+    config:
+      required: false
+    label: Technique
+    description: Technique
+  - name: dimensions
+    type: field_group
+    config: {}
+    fields:
+    - name: height
+      type: number
+      label: Height
+      description: Hauteur
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+        required: false
+    - name: width
+      type: number
+      label: Width
+      description: Largeur
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    - name: depth
+      type: number
+      label: Depth
+      description: Profondeur
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    label: Dimensions
+    description: Dimensions
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Description
+    description: Description
+  - name: price
+    type: number
+    label: Price
+    description: Prix
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: sold
+    type: boolean
+    label: Sold
+    description: Vendu
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Works_
 pages:
 - src/pages/artists/dimitri-bourriau.md
 - src/pages/artists/jorj-morin.md
