@@ -56,4 +56,5 @@ fields:
   hidden: true
   default: artist
 pages:
+- src/pages/artists/dimitri-bourriau.md
 - src/pages/artists/jorj-morin.md
