@@ -13,5 +13,6 @@ biography: Artiste français, Dimitri Bourriau "Jahz Design", est graphiste de f
   Il sillonne le globe à la recherche de lieux en déclin. Il attire notre attention
   sur notre civilisation en constante mutation à la mémoire éphémère. En 2018, l'artiste
   devient ambassadeur d'Irix, marque d'objectif ultra grand-angle d’origine Suisse.
+highlight: src/pages/works/buzluzdha.md
 
 ---
