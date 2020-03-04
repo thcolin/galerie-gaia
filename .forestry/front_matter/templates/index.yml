@@ -3,8 +3,18 @@ label: Home
 hide_body: true
 fields:
 - name: carousel
-  type: image_gallery
-  config: {}
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+    description: Image
+  config:
+    min: 
+    max: 
+    labelField: 
   label: Carousel
   description: Carousel
 pages:
