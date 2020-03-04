@@ -12,7 +12,7 @@ const Navigation = ({ pageContext, ...props }) => {
 
   return (
     <div css={Navigation.styles.element}>
-      <div css={Navigation.styles.header}>
+      <header css={Navigation.styles.header}>
         <div css={Navigation.styles.logo}>
           <Logo
             title={pageContext.site.siteMetadata.title}
@@ -24,25 +24,25 @@ const Navigation = ({ pageContext, ...props }) => {
             <Icon children={open ? 'close' : 'menu'} />
           </button>
         </div>
-      </div>
+      </header>
       <AnimateHeight duration={500} height={open ? 'auto' : 0} className={css(Navigation.styles.container)}>
         <div css={Navigation.styles.body}>
-          <div css={Navigation.styles.list}>
-            <ul>
+          <nav css={Navigation.styles.list}>
+            <ol>
               <li><Link to='/'>Accueil</Link></li>
               <li><Link to='/artists'>Artistes</Link></li>
               <li><Link to='/expositions'>Expositions</Link></li>
               <li><Link to='/about'>Prestations</Link></li>
               <li><Link to='/contact'>Contact</Link></li>
-            </ul>
-          </div>
+            </ol>
+          </nav>
           <RichText css={Navigation.styles.paragraph}>
             {pageContext.site.siteMetadata.announcement}
           </RichText>
           <RichText css={Navigation.styles.paragraph}>
             {pageContext.site.siteMetadata.opening}
           </RichText>
-          <div css={Navigation.styles.contact}>
+          <footer css={Navigation.styles.contact}>
             <a href={`tel:${pageContext.site.siteMetadata.phone}`}>
               {pageContext.site.siteMetadata.phone}
             </a>
@@ -52,7 +52,7 @@ const Navigation = ({ pageContext, ...props }) => {
             </a>
             <br />
             <Link to='/sitemap'>plan du site</Link>
-          </div>
+          </footer>
         </div>
       </AnimateHeight>
     </div>
@@ -131,11 +131,11 @@ Navigation.styles = {
     },
   },
   list: {
-    '>ul': {
+    '>ol': {
       listStyleType: 'none',
       textAlign: 'left',
       padding: 0,
-      margin: '0 3em',
+      margin: '2rem 3em 0',
       '>li': {
         margin: '0 0 0.5em',
         fontSize: '1.25em',
@@ -152,9 +152,9 @@ Navigation.styles = {
     },
   },
   paragraph: {
-    fontSize: '1.25em',
     lineHeight: '1.5',
     '>p': {
+      fontSize: '1.125rem',
       margin: 0,
     },
   },

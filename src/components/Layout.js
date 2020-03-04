@@ -19,12 +19,12 @@ const Layout = ({ children, ...props }) => (
       <meta name='google' content='notranslate' />
     </Helmet>
     <div css={Layout.styles.element}>
-      <div css={Layout.styles.navigation}>
+      <aside css={Layout.styles.navigation}>
         <Navigation {...props} />
-      </div>
-      <div css={Layout.styles.container}>
+      </aside>
+      <section css={Layout.styles.container}>
         {children}
-      </div>
+      </section>
     </div>
   </>
 )

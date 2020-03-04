@@ -71,7 +71,7 @@ const Artist = ({ ...props }) => {
               />
             </div>
             <div css={Artist.styles.work}>
-              <h2>{work.frontmatter.title}</h2>
+              <h2><cite>{work.frontmatter.title}</cite></h2>
               <span>
                 {work.frontmatter.technique}
                 {(
@@ -92,9 +92,11 @@ const Artist = ({ ...props }) => {
           </div>
         )}
         <div css={Artist.styles.about}>
-          <h2>{frontmatter.title}</h2>
+          <h1>{frontmatter.title}</h1>
           {(frontmatter.birth || frontmatter.death) && (
-            <small>({[frontmatter.birth, frontmatter.death].filter(year => year).join(' - ')})</small>
+            <small>
+              ({[frontmatter.birth, frontmatter.death].filter(year => year).join(' - ')})
+            </small>
           )}
           <p>{[frontmatter.location, frontmatter.field].join(' - ')}</p>
           {!!frontmatter.biography && (
@@ -203,7 +205,7 @@ Artist.styles = {
   about: {
     flex: 1,
     padding: '1rem',
-    '>h2': {
+    '>h1': {
       display: 'inline',
       padding: 0,
       margin: 0,
