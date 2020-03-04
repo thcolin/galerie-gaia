@@ -9,6 +9,19 @@ fields:
     required: true
   label: Title
   description: Nom
+- name: highlight
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: works
+      file: 
+      path: 
+  label: Highlight
+  description: Oeuvre mise en avant
 - name: location
   type: text
   config:
