@@ -3,6 +3,7 @@ const colors = {
   black: '#1A1A1A',
   grey: '#CCCCCC',
   gray: '#3A3A3A',
+  shadow: 'rgba(0, 0, 0, 0.5)',
 }
 
 const fonts = {

@@ -9,7 +9,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
   }, [])
 
   return (
-    <div css={[props.css, Image.styles.element]}>
+    <span css={[props.css, Image.styles.element]}>
       <img
         {...props}
         ref={ref}
@@ -29,13 +29,14 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
           src={src.replace(/\.(png|jpe?g)$/, '-min.svg')}
         />
       )}
-    </div>
+    </span>
   )
 }
 
 Image.styles = {
   element: {
     position: 'relative',
+    display: 'block',
     height: '100%',
     width: '100%',
     zIndex: 0,

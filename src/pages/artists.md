@@ -1,0 +1,4 @@
+---
+title: Artistes
+template: artists
+---

@@ -9,8 +9,7 @@ import resolve from 'utils/resolve'
 import theme from 'theme'
 
 const Artist = ({ ...props }) => {
-  const { pageContext } = props
-  const { frontmatter, relativePath, pages } = pageContext
+  const { pageContext: { frontmatter, relativePath, pages } } = props
 
   const exhibitions = pages.filter(page => (
     page.frontmatter.template === 'exhibition' &&
@@ -19,6 +18,7 @@ const Artist = ({ ...props }) => {
 
   const works = pages.filter(page => (
     page.frontmatter.template === 'work' &&
+    !page.frontmatter.sold &&
     page.frontmatter.artist === resolve.fromGatsby2Filesystem(relativePath)
   ))
 
@@ -84,7 +84,9 @@ const Artist = ({ ...props }) => {
                   work.frontmatter.dimensions.depth,
                 ].filter(size => size).join(' x ')})`}
               </span>
-              <small>{work.frontmatter.price} €</small>
+              {!!work.frontmatter.price && (
+                <small>{work.frontmatter.price} €</small>
+              )}
               {!!work.frontmatter.description && (
                 <RichText children={work.frontmatter.description} />
               )}
@@ -98,7 +100,9 @@ const Artist = ({ ...props }) => {
               ({[frontmatter.birth, frontmatter.death].filter(year => year).join(' - ')})
             </small>
           )}
-          <p>{[frontmatter.location, frontmatter.field].join(' - ')}</p>
+          {(frontmatter.location || frontmatter.field) && (
+            <p>{[frontmatter.location, frontmatter.field].filter(s => s).join(' - ')}</p>
+          )}
           {!!frontmatter.biography && (
             <RichText children={frontmatter.biography} />
           )}
@@ -142,11 +146,27 @@ Artist.styles = {
     },
   },
   carousel: {
+    display: 'flex',
+    flexDirection: 'column',
+    minHeight: 'calc(50vh + 7rem)',
     padding: '1rem 0',
     transition: 'opacity ease-in-out 400ms',
     [theme.medias.extralarge]: {
       padding: '1rem 1rem 1rem 0',
       width: '50%',
+    },
+    '>div': {
+      flex: 1,
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'stretch',
+      '>div': {
+        height: '100%',
+        width: '100%',
+        ul: {
+          height: '100%',
+        },
+      },
     },
   },
   slide: {
@@ -156,9 +176,6 @@ Artist.styles = {
         height: '100%',
         width: '100%',
         maxHeight: '50vh',
-        [theme.medias.extralarge]: {
-          maxHeight: 'initial',
-        },
       },
     },
   },

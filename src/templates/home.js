@@ -7,14 +7,14 @@ import 'pure-react-carousel/dist/react-carousel.es.css'
 import resolve from 'utils/resolve'
 
 const Home = ({ ...props }) => {
-  const [ready, setReady] = useState(false)
-  const { frontmatter, pages } = props.pageContext
+  const { pageContext: { frontmatter, pages } } = props
   const carousel = frontmatter.carousel
     .map(relation => pages.filter(
       page => page.relativePath === resolve.fromFilesystem2Gatsby(relation.work, { extension: true })).pop()
     )
     .filter(work => work)
 
+  const [ready, setReady] = useState(false)
   useEffect(() => {
     setReady(true)
   }, [])

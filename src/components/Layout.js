@@ -47,9 +47,11 @@ Layout.styles = {
     maxWidth: '100%',
     [theme.medias.large]: {
       maxWidth: '20em',
+      minHeight: '100vh',
     },
     [theme.medias.extralarge]: {
       maxWidth: '20em',
+      minHeight: '100vh',
     },
   },
   container: {

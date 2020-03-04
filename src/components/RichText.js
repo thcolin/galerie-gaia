@@ -1,4 +1,5 @@
 import React, { createElement } from 'react'
+import { Link } from 'gatsby'
 import Image from 'components/Image'
 import marksy from 'marksy'
 
@@ -50,8 +51,12 @@ const compile = marksy({
     td: ({ children }) => (
       <td>{children}</td>
     ),
-    a: ({ href, title, target, children }) => (
-      <a href={href} title={title} target={target}>
+    a: ({ children, href, context, ...props }) => href.charAt(0) === '/' ? (
+      <Link to={href} {...props}>
+        {children}
+      </Link>
+    ) : (
+      <a href={href} target='_blank' rel="noopener noreferrer" {...props}>
         {children}
       </a>
     ),
@@ -87,7 +92,9 @@ const RichText = ({ children, options = {}, ...props }) => (
 
 RichText.styles = {
   element: {
-
+    a: {
+      textDecoration: 'underline',
+    },
   },
 }
 
