@@ -1,11 +1,11 @@
 ---
 title: Jorj Morin
-birth: 1995
-death: 1909
+birth: "1995"
+death: "1909"
 location: Nantes
 field: Peinture, Dessin, Gravure, Mosaique
 expose: true
-template: 'artist'
+template: artist
 biography: "Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à Nantes en
   tant que graphiste indépendant puis exercera comme dessinateur publicitaire jusqu’au
   milieu des années 60 doté d'un style clair, épuré et teinté humour, pour la Biscuiterie
@@ -29,3 +29,6 @@ biography: "Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à 
   à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe
   les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette
   de couleurs nous font intimement vibrer."
+highlight: src/pages/works/peut-être-une-lucarne.md
+
+---
