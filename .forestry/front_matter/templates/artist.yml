@@ -9,19 +9,6 @@ fields:
     required: true
   label: Title
   description: Nom
-- name: highlight
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: works
-      file: 
-      path: 
-  label: Highlight
-  description: Oeuvre mise en avant
 - name: location
   type: text
   config:
@@ -60,24 +47,7 @@ fields:
       format: markdown
   label: Biography
   description: Biographie
-- name: template
-  type: text
-  config:
-    required: false
-  label: Template
-  description: Template
-  hidden: true
-  default: artist
 - name: works
-  type: blocks
-  label: Works
-  template_types:
-  - work
-  config:
-    min: 
-    max: 
-  description: Oeuvres
-- name: works_
   type: field_group_list
   fields:
   - name: title
@@ -163,7 +133,16 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Works_
+  label: Works
+  description: Oeuvres
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: artist
 pages:
 - src/pages/artists/dimitri-bourriau.md
 - src/pages/artists/jorj-morin.md
