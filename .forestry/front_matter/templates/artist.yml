@@ -143,6 +143,39 @@ fields:
   description: Template
   hidden: true
   default: artist
+- name: exhibitions
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+    description: Titre
+  - name: location
+    type: text
+    config:
+      required: false
+    label: Location
+    description: Localisation
+  - name: start
+    type: text
+    config:
+      required: false
+    label: Start
+    description: Date de début
+  - name: end
+    type: text
+    config:
+      required: false
+    label: End
+    description: Date de fin
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Exhibitions
+  description: Expositions
 pages:
 - src/pages/artists/dimitri-bourriau.md
 - src/pages/artists/jorj-morin.md
