@@ -30,5 +30,17 @@ biography: "Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à 
   les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette
   de couleurs nous font intimement vibrer."
 highlight: src/pages/works/peut-être-une-lucarne.md
+works: []
+works_:
+- title: Conversation dans le ciel
+  image: "/images/1108.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 81
+    width: 54
+    depth: 
+  description: 1955-56
+  price: 3000
+  sold: false
 
 ---
