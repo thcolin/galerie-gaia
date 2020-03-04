@@ -103,6 +103,7 @@ fields:
   hidden: true
   default: work
 pages:
+- src/pages/works/buzluzdha.md
 - src/pages/works/conversation-dans-le-ciel.md
 - src/pages/works/peut-être-une-lucarne.md
 - src/pages/works/étoile-verte.md
