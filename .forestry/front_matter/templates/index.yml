@@ -3,25 +3,8 @@ label: Home
 hide_body: true
 fields:
 - name: carousel
-  type: field_group_list
-  fields:
-  - name: work
-    type: select
-    default: []
-    config:
-      required: true
-      options: []
-      source:
-        type: pages
-        section: works
-        file: 
-        path: 
-    label: Work
-    description: Oeuvre
-  config:
-    min: '1'
-    max: 
-    labelField: work
+  type: image_gallery
+  config: {}
   label: Carousel
   description: Carousel
 pages:
