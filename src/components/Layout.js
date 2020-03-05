@@ -56,8 +56,9 @@ Layout.styles = {
   },
   container: {
     display: 'flex',
+    flexDirection: 'column',
     flex: 1,
-    overflowY: 'scroll',
+    overflowY: 'auto',
     maxWidth: '100%',
   },
 }

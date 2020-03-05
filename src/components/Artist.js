@@ -9,7 +9,7 @@ const Artist = ({ url, frontmatter, ...props }) => {
 
   return (
     <Link to={url} css={Artist.styles.element} ref={hoverRef}>
-      <Image src={frontmatter.works[0].image} />
+      <Image src={frontmatter.works.filter(work => !work.sold).shift().image} />
       <span
         css={Artist.styles.overlay}
         style={{

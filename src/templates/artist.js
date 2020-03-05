@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import { Redirect } from '@reach/router'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
 import Image from 'components/Image'
@@ -8,13 +9,19 @@ import '@brainhubeu/react-carousel/lib/style.css'
 import theme from 'theme'
 
 const Artist = ({ ...props }) => {
-  // redirect if !expose
   const { pageContext: { frontmatter } } = props
 
-  const slides = frontmatter.works.map(work => work.image).filter(image => !!image)
+  if (!frontmatter.expose) {
+    return (
+      <Redirect to='/artists' />
+    )
+  }
+
+  const works = frontmatter.works.filter(work => !work.sold)
+  const slides = works.map(work => work.image).filter(image => !!image)
   const [slide, setSlide] = useState(0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length
-  const work = frontmatter.works[index]
+  const work = works[index]
 
   const [ready, setReady] = useState(false)
   useEffect(() => {
@@ -24,7 +31,7 @@ const Artist = ({ ...props }) => {
   return (
     <Layout {...props}>
       <div css={Artist.styles.element}>
-        {frontmatter.works.length && (
+        {!!works.length && (
           <div css={Artist.styles.works}>
             <div
               css={Artist.styles.carousel}
@@ -159,7 +166,7 @@ Artist.styles = {
     },
   },
   slide: {
-    '>div': {
+    '>span': {
       '>img': {
         objectFit: 'contain',
         height: '100%',
@@ -171,7 +178,7 @@ Artist.styles = {
   thumbnail: {
     height: '3rem',
     width: '5rem',
-    '>div': {
+    '>span': {
       '>img': {
         objectFit: 'contain',
         height: '100%',
