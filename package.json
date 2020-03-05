@@ -43,6 +43,7 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-images-resizer": "0.0.8",
     "gulp-jimp-resize": "github:CSKingMartin/gulp-jimp-resize#master",
+    "gulp-rename": "^2.0.0",
     "gulp-util": "^3.0.8",
     "husky": "^4.2.1",
     "merge-stream": "^2.0.0",

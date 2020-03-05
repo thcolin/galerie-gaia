@@ -37,20 +37,29 @@ works:
   dimensions:
     height: 81
     width: 54
-    depth: 
+    depth:
   description: 1955-56
   price: 3000
   sold: false
-works_:
-- title: Conversation dans le ciel
-  image: "/images/1108.jpg"
+- title: Étoile verte
+  image: "/images/1109.jpg"
   technique: Acrylique sur toile
   dimensions:
-    height: '81'
-    width: '54'
-    depth: 
-  description: 1955-56
-  price: '3000'
+    height: 60
+    width: 81
+    depth:
+  description: "1983"
+  price: 3300
+  sold: false
+- title: Peut-être une lucarne
+  image: "/images/1324.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 81
+    width: 60
+    depth:
+  description: "1956"
+  price: 3500
   sold: false
 exhibitions:
 - title: Clin d'Oeil

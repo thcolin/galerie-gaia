@@ -14,7 +14,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
         {...props}
         ref={ref}
         css={Image.styles.image}
-        src={src.replace(/\.(png|jpe?g)$/, `${min ? '-min' : ''}.$1`)}
+        src={min ? src.replace(/^\/images/, '/images/min') : src}
         alt={alt}
         onLoad={() => setReady(true)}
         onError={() => setReady(true)}
@@ -26,7 +26,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
       {trace && (
         <img
           css={Image.styles.trace}
-          src={src.replace(/\.(png|jpe?g)$/, '-min.svg')}
+          src={src.replace(/^\/images/, '/images/traces').replace(/\.(png|jpe?g)$/, '.svg')}
         />
       )}
     </span>

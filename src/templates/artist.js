@@ -5,27 +5,16 @@ import Image from 'components/Image'
 import Icon from 'components/Icon'
 import Carousel, { Dots } from '@brainhubeu/react-carousel'
 import '@brainhubeu/react-carousel/lib/style.css'
-import resolve from 'utils/resolve'
 import theme from 'theme'
 
 const Artist = ({ ...props }) => {
-  const { pageContext: { frontmatter, relativePath, pages } } = props
+  // redirect if !expose
+  const { pageContext: { frontmatter } } = props
 
-  const exhibitions = pages.filter(page => (
-    page.frontmatter.template === 'exhibition' &&
-    page.frontmatter.artist === resolve.fromGatsby2Filesystem(relativePath)
-  ))
-
-  const works = pages.filter(page => (
-    page.frontmatter.template === 'work' &&
-    !page.frontmatter.sold &&
-    page.frontmatter.artist === resolve.fromGatsby2Filesystem(relativePath)
-  ))
-
-  const slides = works.map(work => work.frontmatter.image).filter(image => !!image)
+  const slides = frontmatter.works.map(work => work.image).filter(image => !!image)
   const [slide, setSlide] = useState(0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length
-  const work = works[index]
+  const work = frontmatter.works[index]
 
   const [ready, setReady] = useState(false)
   useEffect(() => {
@@ -35,7 +24,7 @@ const Artist = ({ ...props }) => {
   return (
     <Layout {...props}>
       <div css={Artist.styles.element}>
-        {works.length && (
+        {frontmatter.works.length && (
           <div css={Artist.styles.works}>
             <div
               css={Artist.styles.carousel}
@@ -71,24 +60,24 @@ const Artist = ({ ...props }) => {
               />
             </div>
             <div css={Artist.styles.work}>
-              <h2><cite>{work.frontmatter.title}</cite></h2>
+              <h2><cite>{work.title}</cite></h2>
               <span>
-                {work.frontmatter.technique}
+                {work.technique}
                 {(
-                  work.frontmatter.dimensions.height ||
-                  work.frontmatter.dimensions.width ||
-                  work.frontmatter.dimensions.depth
+                  work.dimensions.height ||
+                  work.dimensions.width ||
+                  work.dimensions.depth
                 ) && ` (${[
-                  work.frontmatter.dimensions.height,
-                  work.frontmatter.dimensions.width,
-                  work.frontmatter.dimensions.depth,
+                  work.dimensions.height,
+                  work.dimensions.width,
+                  work.dimensions.depth,
                 ].filter(size => size).join(' x ')})`}
               </span>
-              {!!work.frontmatter.price && (
-                <small>{work.frontmatter.price} €</small>
+              {!!work.price && (
+                <small>{work.price} €</small>
               )}
-              {!!work.frontmatter.description && (
-                <RichText children={work.frontmatter.description} />
+              {!!work.description && (
+                <RichText children={work.description} />
               )}
             </div>
           </div>
@@ -107,10 +96,10 @@ const Artist = ({ ...props }) => {
             <RichText children={frontmatter.biography} />
           )}
         </div>
-        {!!exhibitions.length && (
+        {frontmatter.exhibitions?.length && (
           <div css={Artist.styles.exhibitions}>
             <h3>Expositions</h3>
-            {exhibitions.map(({ frontmatter: exhibition }, index) => (
+            {frontmatter.exhibitions.map((exhibition, index) => (
               <p css={Artist.styles.exhibition} key={index}>
                 <span>
                   {[

@@ -1,27 +1,15 @@
 import React from 'react'
 import Layout from 'components/Layout'
 import Artist from 'components/Artist'
-import resolve from 'utils/resolve'
 
 const Artists = ({ ...props }) => {
   const { pageContext: { pages } } = props
 
-  const artists = pages
-    .filter(page => page.frontmatter.template === 'artist' && page.frontmatter.expose)
-    .map(artist => ({
-      ...artist,
-      frontmatter: {
-        ...artist.frontmatter,
-        highlight: pages.find(page => (
-          page.frontmatter.template === 'work' &&
-          artist.frontmatter.highlight === resolve.fromGatsby2Filesystem(page.relativePath)
-        )),
-        works: pages.filter(page => (
-          page.frontmatter.template === 'work' &&
-          page.frontmatter.artist === resolve.fromGatsby2Filesystem(artist.relativePath)
-        )),
-      },
-    }))
+  const artists = pages.filter(page =>
+    page.frontmatter.template === 'artist' &&
+    page.frontmatter.expose &&
+    page.frontmatter.works.length
+  )
 
   return (
     <Layout {...props}>

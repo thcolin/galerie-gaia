@@ -4,15 +4,10 @@ import Layout from 'components/Layout'
 import Image from 'components/Image'
 import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
 import 'pure-react-carousel/dist/react-carousel.es.css'
-import resolve from 'utils/resolve'
 
 const Home = ({ ...props }) => {
-  const { pageContext: { frontmatter, pages } } = props
+  const { pageContext: { frontmatter } } = props
   const carousel = frontmatter.carousel
-    .map(relation => pages.filter(
-      page => page.relativePath === resolve.fromFilesystem2Gatsby(relation.work, { extension: true })).pop()
-    )
-    .filter(work => work)
 
   const [ready, setReady] = useState(false)
   useEffect(() => {
@@ -37,9 +32,9 @@ const Home = ({ ...props }) => {
           className={css(Home.styles.carousel)}
         >
           <Slider>
-            {carousel.map((work, index) => (
-              <Slide key={index} className={css(Home.styles.work)}>
-                <Image src={work.frontmatter.image} />
+            {carousel.map((slide, index) => (
+              <Slide key={index} className={css(Home.styles.slide)}>
+                <Image src={slide.image} />
               </Slide>
             ))}
           </Slider>
@@ -75,7 +70,7 @@ Home.styles = {
       },
     },
   },
-  work: {
+  slide: {
     img: {
       height: '100%',
       width: '100%',

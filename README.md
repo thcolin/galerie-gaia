@@ -33,9 +33,11 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
 # Roadmap
 * Improve SEO
   * Look at useful `meta` tags (`description` ?)
-* Improve redirect (`/works`, `/exhibitions`)
+* Improve redirect
   * Look at [gatsby-netlify-plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-netlify/)
   * Fix `404` too
+* Export data
+  * Rename image with generated `slug` (check which one use Gatsby)
 
 # Data
 * event[]

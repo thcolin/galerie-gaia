@@ -5,13 +5,11 @@ import useHover from 'hooks/use-hover'
 import theme from 'theme'
 
 const Artist = ({ url, frontmatter, ...props }) => {
-  if (!frontmatter.highlight && !frontmatter.works.length) return null
-
   const [hoverRef, isHovered] = useHover()
 
   return (
     <Link to={url} css={Artist.styles.element} ref={hoverRef}>
-      <Image src={(frontmatter.highlight || frontmatter.works[0]).frontmatter.image} />
+      <Image src={frontmatter.works[0].image} />
       <span
         css={Artist.styles.overlay}
         style={{
