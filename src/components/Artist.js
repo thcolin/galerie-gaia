@@ -29,6 +29,9 @@ Artist.styles = {
     height: '100%',
     width: '100%',
     overflow: 'hidden',
+    '>span>img': {
+      objectFit: 'cover',
+    },
   },
   overlay: {
     position: 'absolute',

@@ -32,7 +32,7 @@ function trace () {
 
 function images () {
   return src(`${__dirname}/static/images/*.{png,jpg,jpeg}`)
-    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/images/min/${file.basename}`)))
+    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
     .pipe(imgresize({
       sizes: [
         { width: 1920, upscale: false },
@@ -43,14 +43,14 @@ function images () {
       imgmin.optipng({ optimizationLevel: 5 }),
     ]))
     .pipe(rename(path => {
-      path.dirname += '/min' // f-o gulp-jimp-resize
+      path.dirname = '' // f-o gulp-jimp-resize
     }))
-    .pipe(dest('./'))
+    .pipe(dest(`${__dirname}/static/cdn`))
 }
 
 function traces () {
-  return src(`${__dirname}/static/images/min/*.{png,jpg,jpeg}`)
-    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/images/traces/${file.basename.replace(/\..+$/, '.svg')}`)))
+  return src(`${__dirname}/static/cdn/*.{png,jpg,jpeg}`)
+    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename.replace(/\..+$/, '.svg')}`)))
     .pipe(trace())
     .pipe(imgmin([
       imgmin.svgo({
@@ -60,18 +60,18 @@ function traces () {
         ],
       }),
     ]))
-    .pipe(dest(`${__dirname}/static/images/traces`))
+    .pipe(dest(`${__dirname}/static/cdn`))
 }
 
 function wipe () {
-  const svg = src(`${__dirname}/static/images/traces/*.svg`)
+  const svg = src(`${__dirname}/static/cdn/*.svg`)
     .pipe(filter(file => (
       !fs.existsSync(`${__dirname}/static/images/${file.basename.replace(/\.svg$/, '.png')}`) &&
       !fs.existsSync(`${__dirname}/static/images/${file.basename.replace(/\.svg$/, '.jpg')}`) &&
       !fs.existsSync(`${__dirname}/static/images/${file.basename.replace(/\.svg$/, '.jpeg')}`)
     )))
 
-  const min = src(`${__dirname}/static/images/min/*.{png,jpg,jpeg}`)
+  const min = src(`${__dirname}/static/cdn/*.{png,jpg,jpeg}`)
     .pipe(filter(file => !fs.existsSync(`${__dirname}/static/images/${file.basename}`)))
 
   return merge(svg, min)
