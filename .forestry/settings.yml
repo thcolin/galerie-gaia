@@ -14,27 +14,9 @@ sections:
   match: "**/*"
   templates:
   - artist
-- type: directory
-  path: src/pages/works
-  label: Works
-  create: documents
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - work
-- type: directory
-  path: src/pages/exhibition
-  label: Exhibitions
-  create: all
-  match: "**/*"
-  templates:
-  - exhibition
-- type: document
-  path: src/pages/artists.md
-  label: Artists
 - type: document
   path: site-metadata.json
-  label: Menu
+  label: Informations
   templates:
   - config
 upload_dir: static/images
