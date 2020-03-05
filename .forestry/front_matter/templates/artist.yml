@@ -135,14 +135,6 @@ fields:
     labelField: 
   label: Works
   description: Oeuvres
-- name: template
-  type: text
-  config:
-    required: false
-  label: Template
-  description: Template
-  hidden: true
-  default: artist
 - name: exhibitions
   type: field_group_list
   fields:
@@ -176,6 +168,14 @@ fields:
     labelField: 
   label: Exhibitions
   description: Expositions
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: artist
 pages:
 - src/pages/artists/dimitri-bourriau.md
 - src/pages/artists/jorj-morin.md
