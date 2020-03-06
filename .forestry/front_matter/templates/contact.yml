@@ -18,6 +18,16 @@ fields:
       format: markdown
   label: Description
   description: Description
+- name: about
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: About
+  description: À propos
 - name: template
   type: text
   config:
