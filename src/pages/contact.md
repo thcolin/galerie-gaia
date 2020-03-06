@@ -21,5 +21,9 @@ description: "La **Galerie Gaïa** prolonge l’esprit d’un lieu créé en 197
   nous honorent de leur confiance. Ainsi ses gravures, peintures et dessins sont exposées
   et disponibles à la vente en exclusivité à la galerie."
 title: La Galerie
+about: |-
+  Un besoin d’information,
+  Connaître les actualités de la galerie,
+  Envie d’être invité aux prochains vernissages ?
 
 ---
