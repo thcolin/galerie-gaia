@@ -20,5 +20,6 @@ description: "La **Galerie Gaïa** prolonge l’esprit d’un lieu créé en 197
   \  \nLes héritiers de Jorg Morin célèbre publicitaire nantais, peintre et graveur
   nous honorent de leur confiance. Ainsi ses gravures, peintures et dessins sont exposées
   et disponibles à la vente en exclusivité à la galerie."
+title: La Galerie
 
 ---
