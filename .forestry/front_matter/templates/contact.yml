@@ -20,3 +20,5 @@ fields:
   description: Template
   hidden: true
   default: contact
+pages:
+- src/pages/contact.md
