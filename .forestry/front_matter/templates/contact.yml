@@ -1,4 +1,12 @@
 ---
 label: Contact
 hide_body: true
-fields: []
+fields:
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: contact
