@@ -2,6 +2,12 @@
 label: Contact
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Titre
 - name: description
   type: textarea
   default: ''
