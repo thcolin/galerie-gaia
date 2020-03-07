@@ -17,8 +17,12 @@ const About = ({ ...props }) => {
         </header>
         <hr />
         <div css={About.styles.content}>
-          {frontmatter.tabs[index].content.map(({ column }, index) => (
-            <RichText key={index} children={column} />
+          {frontmatter.tabs.map(({ content }, i) => (
+            <div key={i} style={{ display: i !== index ? 'none' : 'flex' }}>
+              {content.map(({ column }, index) => (
+                <RichText key={index} children={column} />
+              ))}
+            </div>
           ))}
         </div>
       </section>
@@ -57,20 +61,22 @@ About.styles = {
       flexDirection: 'column',
     },
     '>div': {
-      display: 'flex',
-      flexDirection: 'column',
-      flex: 1,
-      padding: '0 1rem',
-      fontSize: '1rem',
-      lineHeight: '1.5',
-      ':first-of-type': {
-        paddingLeft: 0,
-      },
-      ':last-of-type': {
-        paddingRight: 0,
-      },
-      [theme.medias.small]: {
-        padding: 0,
+      '>div': {
+        display: 'flex',
+        flexDirection: 'column',
+        flex: 1,
+        padding: '0 1rem',
+        fontSize: '1rem',
+        lineHeight: '1.5',
+        ':first-of-type': {
+          paddingLeft: 0,
+        },
+        ':last-of-type': {
+          paddingRight: 0,
+        },
+        [theme.medias.small]: {
+          padding: 0,
+        },
       },
     },
   },

@@ -23,7 +23,6 @@ const Artist = ({ ...props }) => {
   const slides = works.map(work => work.image).filter(image => !!image)
   const [slide, setSlide] = useState(0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length
-  const work = works[index]
 
   const [ready, setReady] = useState(false)
   useEffect(() => {
@@ -71,25 +70,29 @@ const Artist = ({ ...props }) => {
               />
             </div>
             <div css={Artist.styles.work}>
-              <h2><cite>{work.title}</cite></h2>
-              <span>
-                {work.technique}
-                {(
-                  work.dimensions.height ||
-                  work.dimensions.width ||
-                  work.dimensions.depth
-                ) && ` (${[
-                  work.dimensions.height,
-                  work.dimensions.width,
-                  work.dimensions.depth,
-                ].filter(size => size).join(' x ')})`}
-              </span>
-              {!!work.price && (
-                <small>{work.price} €</small>
-              )}
-              {!!work.description && (
-                <RichText children={work.description} />
-              )}
+              {works.map((work, i) => (
+                <div key={i} style={{ display: i !== index ? 'none' : 'block' }}>
+                  <h2><cite>{work.title}</cite></h2>
+                  <span>
+                    {work.technique}
+                    {(
+                      work.dimensions.height ||
+                      work.dimensions.width ||
+                      work.dimensions.depth
+                    ) && ` (${[
+                      work.dimensions.height,
+                      work.dimensions.width,
+                      work.dimensions.depth,
+                    ].filter(size => size).join(' x ')})`}
+                  </span>
+                  {!!work.price && (
+                    <small>{work.price} €</small>
+                  )}
+                  {!!work.description && (
+                    <RichText children={work.description} />
+                  )}
+                </div>
+              ))}
             </div>
           </div>
         )}
@@ -191,26 +194,28 @@ Artist.styles = {
     },
   },
   work: {
-    flex: 1,
-    padding: '1rem',
-    [theme.medias.extralarge]: {
-      padding: '2rem 0 1rem 1rem',
-    },
-    '>h2': {
-      padding: 0,
-      margin: 0,
-      color: theme.colors.black,
-    },
-    '>span': {
-      display: 'block',
-      padding: '0.5em 0',
-      fontSize: '0.875em',
-      color: theme.colors.grey,
-    },
-    '>small': {
-      display: 'block',
-      padding: '0.5em 0',
-      color: theme.colors.gray,
+    '>div': {
+      flex: 1,
+      padding: '1rem',
+      [theme.medias.extralarge]: {
+        padding: '2rem 0 1rem 1rem',
+      },
+      '>h2': {
+        padding: 0,
+        margin: 0,
+        color: theme.colors.black,
+      },
+      '>span': {
+        display: 'block',
+        padding: '0.5em 0',
+        fontSize: '0.875em',
+        color: theme.colors.grey,
+      },
+      '>small': {
+        display: 'block',
+        padding: '0.5em 0',
+        color: theme.colors.gray,
+      },
     },
   },
   icon: {
