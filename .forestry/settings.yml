@@ -5,23 +5,27 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e3f397fe32af10019202ebc/webhook/forestry
 sections:
 - type: document
-  path: site-metadata.json
-  label: Informations
-  templates:
-  - config
-- type: document
   path: src/pages/index.md
-  label: Home
+  label: Accueil
 - type: directory
   path: src/pages/artists
-  label: Artists
+  label: Artistes
   create: all
   match: "**/*"
   templates:
   - artist
 - type: document
+  path: src/pages/about.md
+  label: À propos
+  match: "**/*"
+- type: document
   path: src/pages/contact.md
   label: Contact
+- type: document
+  path: site-metadata.json
+  label: Informations
+  templates:
+  - config
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
