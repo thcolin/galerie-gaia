@@ -44,3 +44,5 @@ fields:
   description: Template
   hidden: true
   default: about
+pages:
+- src/pages/about.md

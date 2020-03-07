@@ -1,3 +1,5 @@
 ---
 template: about
+tabs: []
+
 ---
