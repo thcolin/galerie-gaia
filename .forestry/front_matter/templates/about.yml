@@ -1,4 +1,38 @@
 ---
 label: About
 hide_body: true
-fields: []
+fields:
+- name: tabs
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+    description: Titre
+  - name: content
+    type: field_group_list
+    fields:
+    - name: column
+      type: textarea
+      default: ''
+      config:
+        required: true
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: Column
+      description: Colonne
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Content
+    description: Contenu
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Tabs
+  description: Onglets
