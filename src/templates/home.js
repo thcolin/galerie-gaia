@@ -16,7 +16,7 @@ const Home = ({ ...props }) => {
 
   return (
     <Layout {...props}>
-      <div
+      <section
         css={Home.styles.element}
         style={{
           opacity: ready ? 1 : 0,
@@ -39,7 +39,7 @@ const Home = ({ ...props }) => {
             ))}
           </Slider>
         </CarouselProvider>
-      </div>
+      </section>
     </Layout>
   )
 }

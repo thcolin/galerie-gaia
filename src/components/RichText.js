@@ -86,7 +86,7 @@ const compile = marksy({
 
 const RichText = ({ children, options = {}, ...props }) => (
   <div {...props} css={[RichText.styles.element, props.css]}>
-    {compile(children, options).tree}
+    {compile(children || '', options).tree}
   </div>
 )
 

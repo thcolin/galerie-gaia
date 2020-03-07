@@ -22,9 +22,9 @@ const Layout = ({ children, ...props }) => (
       <aside css={Layout.styles.navigation}>
         <Navigation {...props} />
       </aside>
-      <section css={Layout.styles.container}>
+      <div css={Layout.styles.container}>
         {children}
-      </section>
+      </div>
     </div>
   </>
 )

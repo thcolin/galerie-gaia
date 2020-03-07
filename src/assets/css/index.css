@@ -41,23 +41,49 @@ cite {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.5em;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.25em;
 }
 
 h3 {
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 h4 {
-  font-size: 0.75rem;
+  font-size: 0.75em;
 }
 
-p {
-  font-size: 0.875rem;
+p, strong {
+  font-size: 0.875em;
+}
+
+input, textarea {
+  padding: 0.5em;
+  font-size: 0.875em;
+  border: 1px solid #eee;
+}
+
+button {
+  background: none;
+  padding: 0.5em 1em;
+  font-size: 0.875em;
+  border: 1px solid #eee;
+  transition: border 400ms ease-in-out, background 400ms ease-in-out;
+}
+
+button:hover:not(:disabled) {
+  cursor: pointer;
+  background: #fcfcfc;
+  border: 1px solid #d4d4d4;
+}
+
+hr {
+  margin: 2rem 1rem;
+  border: 0;
+  border-top: 1px solid #eee;
 }
 
 *[hidden] {
@@ -75,4 +101,14 @@ a:hover {
 
 a[disabled] {
   pointer-events: none;
+}
+
+div[data-rmiz-wrap="visible"] > button {
+  cursor: zoom-in !important;
+  opacity: 0;
+}
+
+div[data-rmiz-overlay="true"] > button {
+  cursor: zoom-out !important;
+  opacity: 0;
 }

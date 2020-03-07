@@ -14,7 +14,7 @@ const Artists = ({ ...props }) => {
 
   return (
     <Layout {...props}>
-      <div css={Artists.styles.element}>
+      <section css={Artists.styles.element}>
         <div css={Artists.styles.grid}>
           {artists.map(artist => (
             <article key={artist.relativePath} css={Artists.styles.article}>
@@ -22,7 +22,7 @@ const Artists = ({ ...props }) => {
             </article>
           ))}
         </div>
-      </div>
+      </section>
     </Layout>
   )
 }

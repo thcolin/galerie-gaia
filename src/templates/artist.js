@@ -6,6 +6,8 @@ import Image from 'components/Image'
 import Icon from 'components/Icon'
 import Carousel, { Dots } from '@brainhubeu/react-carousel'
 import '@brainhubeu/react-carousel/lib/style.css'
+import Zoom from 'react-medium-image-zoom'
+import 'react-medium-image-zoom/dist/styles.css'
 import theme from 'theme'
 
 const Artist = ({ ...props }) => {
@@ -30,7 +32,7 @@ const Artist = ({ ...props }) => {
 
   return (
     <Layout {...props}>
-      <div css={Artist.styles.element}>
+      <section css={Artist.styles.element}>
         {!!works.length && (
           <div css={Artist.styles.works}>
             <div
@@ -50,9 +52,11 @@ const Artist = ({ ...props }) => {
                 value={slide}
                 onChange={(slide) => setSlide(slide)}
                 slides={slides.map((image, index) => (
-                  <div css={Artist.styles.slide} key={index}>
-                    <Image src={image} />
-                  </div>
+                  <Zoom key={index}>
+                    <div css={Artist.styles.slide}>
+                      <Image src={image} />
+                    </div>
+                  </Zoom>
                 ))}
               />
               <Dots
@@ -122,7 +126,7 @@ const Artist = ({ ...props }) => {
             ))}
           </div>
         )}
-      </div>
+      </section>
     </Layout>
   )
 }
@@ -234,7 +238,6 @@ Artist.styles = {
     },
     '>div': {
       padding: '0.5em 0',
-      fontSize: '0.875em',
       lineHeight: '1.5',
     },
   },

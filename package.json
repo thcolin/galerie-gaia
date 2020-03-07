@@ -30,6 +30,8 @@
     "react-animate-height": "^2.0.20",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.0.0-beta.2",
+    "react-hook-form": "^5.0.1",
+    "react-medium-image-zoom": "^4.1.0",
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
@@ -73,6 +75,9 @@
     }
   },
   "standardx": {
+    "globals": [
+      "fetch"
+    ],
     "ignore": [
       "/plugins",
       "/static"

@@ -42,6 +42,10 @@ const Navigation = ({ pageContext, ...props }) => {
           <RichText css={Navigation.styles.paragraph}>
             {pageContext.site.siteMetadata.opening}
           </RichText>
+          <div css={Navigation.styles.social}>
+            <a href={pageContext.site.siteMetadata.instagram} target='_blank' rel='noopener noreferrer'><Icon children='instagram' /></a>
+            <a href={pageContext.site.siteMetadata.facebook} target='_blank' rel='noopener noreferrer'><Icon children='facebook' /></a>
+          </div>
           <footer css={Navigation.styles.contact}>
             <a href={`tel:${pageContext.site.siteMetadata.phone}`}>
               {pageContext.site.siteMetadata.phone}
@@ -128,6 +132,12 @@ Navigation.styles = {
     flex: 1,
     '>div': {
       margin: '0.5rem 1rem',
+      [theme.medias.small]: {
+        margin: '1rem',
+      },
+      [theme.medias.medium]: {
+        margin: '1rem',
+      },
     },
   },
   list: {
@@ -161,6 +171,11 @@ Navigation.styles = {
   contact: {
     fontSize: '1.25em',
     lineHeight: '1.5em',
+  },
+  social: {
+    '>a': {
+      padding: '1em',
+    },
   },
 }
 

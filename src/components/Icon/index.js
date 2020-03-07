@@ -2,11 +2,15 @@ import React from 'react'
 import Menu from './Menu'
 import Arrow from './Arrow'
 import Close from './Close'
+import Instagram from './Instagram'
+import Facebook from './Facebook'
 
 const icons = {
   menu: Menu,
   arrow: Arrow,
   close: Close,
+  instagram: Instagram,
+  facebook: Facebook,
 }
 
 const Icon = ({ children, ...props }) => {
