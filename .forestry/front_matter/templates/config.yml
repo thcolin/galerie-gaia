@@ -46,3 +46,15 @@ fields:
     required: true
   label: Email
   description: Adresse email
+- name: instagram
+  type: text
+  config:
+    required: false
+  label: Instagram
+  description: Instagram
+- name: facebook
+  type: text
+  config:
+    required: false
+  label: Facebook
+  description: Facebook
