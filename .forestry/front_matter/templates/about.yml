@@ -36,3 +36,11 @@ fields:
     labelField: title
   label: Tabs
   description: Onglets
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: about

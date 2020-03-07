@@ -17,7 +17,6 @@ sections:
 - type: document
   path: src/pages/about.md
   label: À propos
-  match: "**/*"
 - type: document
   path: src/pages/contact.md
   label: Contact
