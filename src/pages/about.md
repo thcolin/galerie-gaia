@@ -3,7 +3,7 @@ template: about
 tabs:
 - title: Evènementiel
   content:
-  - column: "#### Evènementiel\n\n**Singularisez vous**  \nMarquez la relation avec
+  - column: "# Evènementiel\n\n**Singularisez vous**  \nMarquez la relation avec
       vos clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
       une exposition privée d’artistes contemporains dans votre entreprise ou dans
       un lieu de votre choix\n\n![](/images/1.jpg)"
@@ -12,7 +12,7 @@ tabs:
       projet - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![](/images/2.jpg)"
 - title: Défiscalisation
   content:
-  - column: "#### Défiscalisation\n\n**Pourquoi :**  \n  \nL’art sur le lieu de travail
+  - column: "# Défiscalisation\n\n**Pourquoi :**  \n  \nL’art sur le lieu de travail
       peut apporter de l’inspiration, de la créativité, du beau !  \nImaginez votre
       plaisir, celui de vos équipes et des clients, en entrant dans un espace personnalisé
       grâce à votre choix d’une toile, d’une sculpture, d’une estampe, photo ou dessin.

@@ -1,4 +1,5 @@
 import React, { useState, useCallback } from 'react'
+import theme from 'theme'
 
 const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
   const [ready, setReady] = useState(false)
@@ -36,7 +37,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
 Image.styles = {
   element: {
     position: 'relative',
-    display: 'block',
+    display: 'flex',
     height: '100%',
     width: '100%',
     zIndex: 0,
@@ -48,6 +49,7 @@ Image.styles = {
     width: '100%',
     top: 0,
     left: 0,
+    backgroundColor: theme.colors.silver,
   },
   image: {
     height: '100%',
