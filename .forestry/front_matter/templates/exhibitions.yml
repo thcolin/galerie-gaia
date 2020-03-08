@@ -19,3 +19,5 @@ fields:
   description: Template
   hidden: true
   default: exhibitions
+pages:
+- src/pages/expositions.md
