@@ -28,5 +28,6 @@ exhibitions:
     des 25 artistes a été éditée en édition limitée à 250 exemplaires. Exemplaires
     encore disponibles à la galerie 40€. [http://assomorgane.fr/Partenariat-avec-GAIA.html](http://assomorgane.fr/Partenariat-avec-GAIA.html)
     \ \n   \n_Du 25/02/16 au 27/02/16_"
+title: Expositions
 
 ---
