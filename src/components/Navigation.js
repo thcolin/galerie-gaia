@@ -73,13 +73,19 @@ Navigation.styles = {
     overflow: 'hidden',
     backgroundColor: theme.colors.white,
     textAlign: 'center',
-    overflowY: 'auto',
     fontFamily: theme.fonts.primary,
+    [theme.medias.large]: {
+      overflowY: 'auto',
+    },
+    [theme.medias.extralarge]: {
+      overflowY: 'auto',
+    },
   },
   header: {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'space-between',
+    flexShrink: 0,
     '>div': {
       marginTop: '1rem',
       marginBottom: '1rem',

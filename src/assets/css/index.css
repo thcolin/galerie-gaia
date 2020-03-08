@@ -65,6 +65,11 @@ p>strong {
 }
 
 input, textarea {
+  --webkit-appearance: none;
+  --moz-appearance: none;
+  appearance: none;
+  background: none;
+  border-radius: 0;
   padding: 0.5em;
   font-size: 0.875em;
   border: 1px solid #eee;

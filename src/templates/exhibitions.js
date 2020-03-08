@@ -58,6 +58,8 @@ Exhibitions.styles = {
         maxWidth: '50%',
         [theme.medias.small]: {
           flex: 1,
+          height: '15rem',
+          maxHeight: 'unset',
           minWidth: 'unset',
           maxWidth: 'unset',
           margin: '0 0 2rem 0',
