@@ -8,6 +8,12 @@ fields:
     required: true
   label: Title
   description: Titre
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: Image
 - name: content
   type: textarea
   default: ''
