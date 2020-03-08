@@ -15,6 +15,10 @@ sections:
   templates:
   - artist
 - type: document
+  path: src/pages/expositions.md
+  label: Expositions
+  match: "**/*"
+- type: document
   path: src/pages/about.md
   label: À propos
 - type: document
