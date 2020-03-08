@@ -3,8 +3,8 @@ template: about
 tabs:
 - title: Evènementiel
   content:
-  - column: "# Evènementiel\n\n**Singularisez vous**  \nMarquez la relation avec
-      vos clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
+  - column: "# Evènementiel\n\n**Singularisez vous**  \nMarquez la relation avec vos
+      clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
       une exposition privée d’artistes contemporains dans votre entreprise ou dans
       un lieu de votre choix\n\n![](/images/1.jpg)"
   - column: "**Surprenez les !**  \nOffrez une oeuvre d’art à vos clients, vos salariés
@@ -32,5 +32,6 @@ tabs:
       \ \nLe montant annuel maximum déductible 350 000 x 0,005 soit 1750€  \nAmortissement
       annuel de l’œuvre 7000€ / 5 ans = 1400€  \nAinsi sur 5 ans vous pouvez déduire
       la totalité de votre acquisition"
+title: Prestations
 
 ---
