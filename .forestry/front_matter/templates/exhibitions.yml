@@ -1,4 +1,21 @@
 ---
 label: Exhibitions
 hide_body: true
-fields: []
+fields:
+- name: exhibitions
+  type: blocks
+  label: Exhibitions
+  template_types:
+  - exhibition
+  config:
+    min: 
+    max: 
+  description: Expositions
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: exhibitions
