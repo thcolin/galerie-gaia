@@ -57,10 +57,10 @@ About.styles = {
   },
   content: {
     display: 'flex',
-    [theme.medias.small]: {
-      flexDirection: 'column',
-    },
     '>div': {
+      [theme.medias.small]: {
+        flexDirection: 'column',
+      },
       '>div': {
         display: 'flex',
         flexDirection: 'column',

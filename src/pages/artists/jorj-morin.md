@@ -32,7 +32,7 @@ biography: "Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à 
 highlight: src/pages/works/peut-être-une-lucarne.md
 works:
 - title: Conversation dans le ciel
-  image: "/images/1108.jpg"
+  image: "/forestry/1108.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 81
@@ -42,7 +42,7 @@ works:
   price: 3000
   sold: false
 - title: Étoile verte
-  image: "/images/1109.jpg"
+  image: "/forestry/1109.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 60
@@ -52,7 +52,7 @@ works:
   price: 3300
   sold: false
 - title: Peut-être une lucarne
-  image: "/images/1324.jpg"
+  image: "/forestry/1324.jpg"
   technique: Huile sur toile
   dimensions:
     height: 81

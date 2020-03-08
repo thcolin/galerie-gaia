@@ -16,7 +16,7 @@ biography: Artiste français, Dimitri Bourriau "Jahz Design", est graphiste de f
 highlight: src/pages/works/dictator.md
 works:
 - title: Buzluzdha
-  image: "/images/1001.jpg"
+  image: "/forestry/1001.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -28,7 +28,7 @@ works:
   price:
   sold: false
 - title: Dictator
-  image: "/images/1007.jpg"
+  image: "/forestry/1007.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80

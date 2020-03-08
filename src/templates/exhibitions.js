@@ -1,14 +1,13 @@
 import React from 'react'
 import Layout from 'components/Layout'
+import Image from 'components/Image'
+import RichText from 'components/RichText'
 import usePagination from 'hooks/use-pagination'
+import theme from 'theme'
 
 const Exhibitions = ({ ...props }) => {
-  const { pageContext: { pages } } = props
-
-  const exhibitions = pages.filter(exhibition =>
-    exhibition.frontmatter.template === 'exhibition' &&
-    exhibition.frontmatter.display
-  )
+  const { pageContext: { frontmatter } } = props
+  const { exhibitions } = frontmatter
 
   const { page, setPage, pieces, length } = usePagination(exhibitions, 10)
 
@@ -16,7 +15,16 @@ const Exhibitions = ({ ...props }) => {
     <Layout {...props}>
       <section css={Exhibitions.styles.element}>
         {pieces.map((exhibition, index) => (
-          <article key={index} />
+          <>
+            <article key={index}>
+              <Image src={exhibition.image} />
+              <div>
+                <h2>{exhibition.title}</h2>
+                <RichText children={exhibition.content} />
+              </div>
+            </article>
+            <hr />
+          </>
         ))}
         {length > 1 && (
           <nav>
@@ -36,6 +44,38 @@ Exhibitions.styles = {
     flexDirection: 'column',
     flex: 1,
     padding: '2em',
+    '>article': {
+      display: 'flex',
+      flexDirection: 'row',
+      alignItems: 'flex-start',
+      [theme.medias.small]: {
+        flexDirection: 'column',
+      },
+      '>span': {
+        flex: 0,
+        maxHeight: '15rem',
+        minWidth: '15rem',
+        maxWidth: '50%',
+        [theme.medias.small]: {
+          flex: 1,
+          minWidth: 'unset',
+          maxWidth: 'unset',
+          margin: '0 0 2rem 0',
+        },
+        '>img': {
+          objectFit: 'contain',
+        },
+      },
+      '>div': {
+        flex: 1,
+        display: 'flex',
+        flexDirection: 'column',
+        margin: '0 0 0 2rem',
+        '>div': {
+          lineHeight: '1.5',
+        },
+      },
+    },
     '>nav': {
       display: 'flex',
       alignItems: 'center',

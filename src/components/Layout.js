@@ -19,11 +19,13 @@ const Layout = ({ children, ...props }) => (
       <meta name='google' content='notranslate' />
     </Helmet>
     <div css={Layout.styles.element}>
-      <aside css={Layout.styles.navigation}>
-        <Navigation {...props} />
-      </aside>
       <div css={Layout.styles.container}>
-        {children}
+        <aside css={Layout.styles.navigation}>
+          <Navigation {...props} />
+        </aside>
+        <div css={Layout.styles.wrapper}>
+          {children}
+        </div>
       </div>
     </div>
   </>
@@ -32,9 +34,14 @@ const Layout = ({ children, ...props }) => (
 Layout.styles = {
   element: {
     display: 'flex',
+    justifyContent: 'center',
+  },
+  container: {
+    display: 'flex',
     flexDirection: 'column',
     height: '100vh',
     width: '100vw',
+    maxWidth: '1920px',
     [theme.medias.large]: {
       flexDirection: 'row',
     },
@@ -54,7 +61,7 @@ Layout.styles = {
       minHeight: '100vh',
     },
   },
-  container: {
+  wrapper: {
     display: 'flex',
     flexDirection: 'column',
     flex: 1,

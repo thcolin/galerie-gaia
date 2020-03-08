@@ -29,7 +29,7 @@ const Contact = ({ ...props }) => {
       <section css={Contact.styles.description}>
         <h1>{frontmatter.title}</h1>
         <RichText>{frontmatter.description}</RichText>
-        <strong><a href='/Dossier de Presse - Galerie Gaia.pdf' target='_blank'>Dossier de Presse</a></strong>
+        <strong><a href='/forestry/Dossier de Presse - Galerie Gaia.pdf' target='_blank'>Dossier de Presse</a></strong>
       </section>
       <hr />
       <section css={Contact.styles.contact}>
@@ -92,13 +92,21 @@ Contact.styles = {
       },
       '>div': {
         display: 'flex',
+        [theme.medias.small]: {
+          flexDirection: 'column',
+        },
         '>input': {
           width: '100%',
           margin: '0 1rem',
+          [theme.medias.small]: {
+            margin: '0.5rem 0',
+          },
           ':first-of-type': {
+            marginTop: 0,
             marginLeft: 0,
           },
           ':last-of-type': {
+            marginBottom: 0,
             marginRight: 0,
           },
         },

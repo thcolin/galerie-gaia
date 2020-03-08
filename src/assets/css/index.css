@@ -60,6 +60,10 @@ p, strong, li {
   font-size: 0.875em;
 }
 
+p>strong {
+  font-size: 1em;
+}
+
 input, textarea {
   padding: 0.5em;
   font-size: 0.875em;

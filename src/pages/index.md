@@ -2,7 +2,7 @@
 title: Accueil
 template: home
 carousel:
-- image: "/images/1001.jpg"
-- image: "/images/1324.jpg"
+- image: "/forestry/1001.jpg"
+- image: "/forestry/1324.jpg"
 
 ---

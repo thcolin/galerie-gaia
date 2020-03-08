@@ -15,10 +15,10 @@ exhibitions:
     Galerie Gaïa pour Toma L, comme une pause à la maison, dans son pied à terre.
     2015 - 2020 - 5ème saison qui commence d'arrache pied pour la Galerie Gaïa. Merci
     pour cette fidélité.  \n   \n_Du 21/03/20 au 30/04/20_"
-  image: "/images/82.jpg"
+  image: "/forestry/82.jpg"
 - template: exhibition
   title: Hasards pour Morgane
-  image: "/images/24.jpg"
+  image: "/forestry/24.jpg"
   content: "En effectuant un don pour l'association Morgane, le hasard du tirage a
     attribué aux 25 premiers acquéreurs une des 25 oeuvres originales sur papier,
     réalisées spécialement par un des 25 artistes de la galerie. Pour comprendre l'histoire

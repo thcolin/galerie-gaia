@@ -31,7 +31,7 @@ function trace () {
 }
 
 function images () {
-  return src(`${__dirname}/static/images/*.{png,jpg,jpeg}`)
+  return src(`${__dirname}/static/forestry/*.{png,jpg,jpeg}`)
     .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
     .pipe(imgresize({
       sizes: [
@@ -66,13 +66,13 @@ function traces () {
 function wipe () {
   const svg = src(`${__dirname}/static/cdn/*.svg`)
     .pipe(filter(file => (
-      !fs.existsSync(`${__dirname}/static/images/${file.basename.replace(/\.svg$/, '.png')}`) &&
-      !fs.existsSync(`${__dirname}/static/images/${file.basename.replace(/\.svg$/, '.jpg')}`) &&
-      !fs.existsSync(`${__dirname}/static/images/${file.basename.replace(/\.svg$/, '.jpeg')}`)
+      !fs.existsSync(`${__dirname}/static/forestry/${file.basename.replace(/\.svg$/, '.png')}`) &&
+      !fs.existsSync(`${__dirname}/static/forestry/${file.basename.replace(/\.svg$/, '.jpg')}`) &&
+      !fs.existsSync(`${__dirname}/static/forestry/${file.basename.replace(/\.svg$/, '.jpeg')}`)
     )))
 
   const min = src(`${__dirname}/static/cdn/*.{png,jpg,jpeg}`)
-    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/images/${file.basename}`)))
+    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/forestry/${file.basename}`)))
 
   return merge(svg, min)
     .pipe(clean())
