@@ -1,0 +1,62 @@
+---
+template: artist
+title: Jean Nicolas Gaillard
+location: .
+field: Peinture
+birth: 0
+death: 0
+expose: false
+biography: ''
+works:
+  - title: Paysage américain
+    image: /forestry/paysage-americain.jpg
+    technique: ''
+    dimensions:
+      height: 70
+      width: null
+      depth: null
+    description: ''
+    price: .nan
+    sold: false
+  - title: sans titre
+    image: /forestry/sans-titre.jpg
+    technique: acrylique sur toile
+    dimensions:
+      height: 60
+      width: null
+      depth: null
+    description: ''
+    price: .nan
+    sold: false
+  - title: sans titre
+    image: /forestry/sans-titre.jpg
+    technique: huile sur bois
+    dimensions:
+      height: 50
+      width: null
+      depth: null
+    description: ''
+    price: .nan
+    sold: false
+  - title: '381'
+    image: /forestry/381.jpg
+    technique: huile sur bois
+    dimensions:
+      height: 90
+      width: null
+      depth: null
+    description: ''
+    price: .nan
+    sold: false
+  - title: Elles
+    image: /forestry/elles.jpg
+    technique: mixte sur bois
+    dimensions:
+      height: 130
+      width: null
+      depth: null
+    description: ''
+    price: .nan
+    sold: false
+---
+

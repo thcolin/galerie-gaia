@@ -1,0 +1,152 @@
+---
+template: artist
+title: ART GALERIES NANTES
+location: ''
+field: Evenement
+birth: 0
+death: 0
+expose: true
+biography: >-
+  En 2015, rue Fénelon, l’idée d’association germe !
+
+  En 2016, l’association loi 1901 Art Galeries Nantes est créée. Elle fédère
+  alors 14 galeries et
+
+  lieux de diffusion nantais.
+
+  A l’actif, de l’association, trois « Nuits des Galeries » - qui se révèleront
+  des succès – lors
+
+  desquelles chacun a pu se déplacer d’un lieu à l’autre, d’une découverte à
+  l’autre, d’une
+
+  surprise à l’autre : parce que l’idée avait vu le jour, les galeries ont
+  ouvert la nuit !
+
+  En 2019, 9 galeries restent présentes au sein de l’association.
+
+  Certaines galeries ont disparu du paysage nantais. En effet, une page de cette
+  histoire
+
+  privée et artistique s’est tournée, par choix personnel et/ou par impératifs
+  économiques.
+
+  Cependant, la relève est assurée et se profile ainsi une dynamique qui
+  permettra aux
+
+  artistes d’être toujours représentés et cela dans toutes leurs formes
+  d’expression.
+
+  Les objectifs d’Art Galeries Nantes sont :
+
+  - Fédérer les galeries d’art et lieux de diffusion et d’assurer une
+  représentativité auprès des
+
+  institutions et des collectivités,
+
+  - Occuper une place dans le rayonnement culturel et artistique de la métropole
+  nantaise,
+
+  - Promouvoir les arts plastiques auprès du grand public,
+
+  - Concevoir, éditer et diffuser tous supports de communication et de promotion
+  de
+
+  l’association et de ses actions développées en commun (Guide des Galeries
+  nantaises édité
+
+  par l’association à plus de 40 000 exemplaires)
+
+  - Concevoir, organiser et accompagner toutes manifestations artistiques
+  collectives.
+
+
+  A ce jour, l’association est toujours active et attentive aux mutations
+  sociétales. Pour
+
+  attester de sa présence et continuer à faire battre le coeur de la ville
+  auprès des institutions
+
+  officielles, Art Galeries Nantes décide de créer cet évènement singulier « LES
+  GALERIES, LE
+
+  DIMANCHE »
+
+  Dans cette invitation, la virgule est importante !
+
+  En effet, elle initie le temps d’une pause, le temps d’une déambulation, le
+  temps du regard
+
+  qui sourit à ce qui se propose, le temps qui permet d’envisager un après en
+  l’occurrence la
+
+  Nuit des Galeries #4 en 2020 !
+
+  En cet après-midi du dimanche 24 novembre, l’occasion sera pour les fidèles de
+  nos lieux,
+
+  aux amoureux-curieux d’artistes de franchir le pas de nos portes, de
+  re-découvrir nos
+
+  galeries et nos lieux et surtout les artistes que nous y accueillons avec
+  toujours autant de
+
+  bienveillance et la volonté insensée – mais si grisante - de leur promotion et
+  diffusion !
+works:
+  - title: 'Nuit des Galeries#2'
+    image: /forestry/nuit-des-galeries2.jpg
+    technique: ''
+    dimensions:
+      height: null
+      width: null
+      depth: null
+    description: ''
+    price: .nan
+    sold: false
+  - title: 'Nuit des Galeries#3'
+    image: /forestry/nuit-des-galeries3.jpg
+    technique: ''
+    dimensions:
+      height: null
+      width: null
+      depth: null
+    description: |-
+      19 AVRIL 2018 20H - 00H00
+      4 Photographes 1 oeuvre par artiste
+      Neil Ratnavira Eric Marais Rycho Dimitri Roubichou
+      Venez écrire sur leur travail 
+      4 Pass au Musée des Arts à gagner
+    price: .nan
+    sold: false
+  - title: 'Nuit des Galeries#1'
+    image: /forestry/nuit-des-galeries1.jpg
+    technique: ''
+    dimensions:
+      height: null
+      width: null
+      depth: null
+    description: '2016'
+    price: .nan
+    sold: false
+  - title: 'Les galeries, le dimanche 24 Novembre 2019'
+    image: /forestry/les-galeries-le-dimanche-24-novembre-2019.jpg
+    technique: Portes grandes ouvertes
+    dimensions:
+      height: 13
+      width: null
+      depth: null
+    description: >-
+      13H Exposition Philippe Lecomte
+
+      15H Présence de l'artiste 
+
+      16H Débat avec Louis Raymond sur l'état de la critique de l'art "De l'art
+      ou du cochon"
+
+      toute la journée démonstration de l'application ARTIFEXIO le shazam de
+      l'art - Start Up Nantaise
+    price: .nan
+    sold: false
+---
+

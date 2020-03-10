@@ -98,12 +98,12 @@ const Artist = ({ ...props }) => {
         )}
         <div css={Artist.styles.about}>
           <h1>{frontmatter.title}</h1>
-          {(frontmatter.birth || frontmatter.death) && (
+          {!!(frontmatter.birth || frontmatter.death) && (
             <small>
               ({[frontmatter.birth, frontmatter.death].filter(year => year).join(' - ')})
             </small>
           )}
-          {(frontmatter.location || frontmatter.field) && (
+          {!!(frontmatter.location || frontmatter.field) && (
             <p>{[frontmatter.location, frontmatter.field].filter(s => s).join(' - ')}</p>
           )}
           {!!frontmatter.biography && (
@@ -144,6 +144,7 @@ Artist.styles = {
   works: {
     display: 'flex',
     flexDirection: 'column',
+    flexShrink: 0,
     [theme.medias.extralarge]: {
       flexDirection: 'row',
     },
@@ -166,10 +167,22 @@ Artist.styles = {
       '>div': {
         height: '100%',
         width: '100%',
+        '>div': {
+          '&:first-of-type': {
+            display: 'flex',
+          },
+          '&:last-of-type': {
+            display: 'flex',
+          },
+        },
         ul: {
           height: '100%',
         },
       },
+    },
+    '>ul': {
+      overflowX: 'auto',
+      justifyContent: 'flex-start',
     },
   },
   slide: {

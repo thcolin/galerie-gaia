@@ -6,7 +6,7 @@ tabs:
   - column: "# Evènementiel\n\n**Singularisez vous**  \nMarquez la relation avec vos
       clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
       une exposition privée d’artistes contemporains dans votre entreprise ou dans
-      un lieu de votre choix\n\n![](/forestry/1.jpg)"
+      un lieu de votre choix\n\n![](/forestry/event.jpg)"
   - column: "**Surprenez les !**  \nOffrez une oeuvre d’art à vos clients, vos salariés
       (lauréats de challenges, ancienneté, anniversaire, retraite...)   \n  \n**Un
       projet - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![](/forestry/2.jpg)"

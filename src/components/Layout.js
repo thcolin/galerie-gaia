@@ -39,7 +39,7 @@ Layout.styles = {
   container: {
     display: 'flex',
     flexDirection: 'column',
-    minHeight: '100vh',
+    height: '100vh',
     width: '100vw',
     maxWidth: '1920px',
     [theme.medias.large]: {
@@ -54,11 +54,11 @@ Layout.styles = {
     maxWidth: '100%',
     [theme.medias.large]: {
       maxWidth: '20em',
-      minHeight: '100vh',
+      height: '100vh',
     },
     [theme.medias.extralarge]: {
       maxWidth: '20em',
-      minHeight: '100vh',
+      height: '100vh',
     },
   },
   wrapper: {

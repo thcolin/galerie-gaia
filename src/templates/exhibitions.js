@@ -45,6 +45,7 @@ Exhibitions.styles = {
     flex: 1,
     padding: '2em',
     '>article': {
+      flexShrink: 0,
       display: 'flex',
       flexDirection: 'row',
       alignItems: 'flex-start',
@@ -53,7 +54,7 @@ Exhibitions.styles = {
       },
       '>span': {
         flex: 0,
-        maxHeight: '15rem',
+        height: '15rem',
         minWidth: '15rem',
         maxWidth: '50%',
         [theme.medias.small]: {
@@ -73,6 +74,9 @@ Exhibitions.styles = {
         display: 'flex',
         flexDirection: 'column',
         margin: '0 0 0 2rem',
+        [theme.medias.small]: {
+          margin: 0,
+        },
         '>div': {
           lineHeight: '1.5',
         },
