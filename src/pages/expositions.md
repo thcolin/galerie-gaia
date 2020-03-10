@@ -34,6 +34,12 @@ exhibitions:
 
 
       _Du 03/21/2020 au 04/30/2020_
+  - title: Il peint sur Nantes Toma L
+    image: /forestry/il-peint-sur-nantes-toma-l.jpg
+    content: |-
+      Vernissage Samedi 21 Mars 18H00
+
+      _Du 03/21/2020 au 04/30/2020_
   - title: POLYMORPHIE JORJ MORIN
     image: /forestry/polymorphie-jorj-morin.jpg
     content: >-
@@ -51,13 +57,13 @@ exhibitions:
   - title: Fêtes - Art 2019
     image: /forestry/fetes-art-2019.jpg
     content: |-
-      Des idées cadeaux à partir de 20€ suivez Instagram et Facebook
-      Une idée par jour dans le calendr-idées suivez Instagram et Facebook
+      Des idées cadeaux à partir de 20€ suivez Instagram et Facebook 
+      Une idée par jour dans le calendr-idées suivez Instagram et Facebook 
       Retrouvez ces idées dans l'onglet Artiste Fêtes-Art
-      Des bons cadeaux
-      Livraisons offertes
+      Des bons cadeaux 
+      Livraisons offertes 
       OUVERTURES SPECIALES EN DECEMBRE 2019
-      Ouvertures du lundi 2 au lundi 23 de 11H - 19H
+      Ouvertures du lundi 2 au lundi 23 de 11H - 19H 
       Ouverture les dimanches 8 - 17 - 22 /12 de 15H à 19H
 
       _Du 12/02/2019 au 12/23/2019_
@@ -109,7 +115,7 @@ exhibitions:
       Sélection de dessins et toiles, une abstraction qui n'en est pas une, la
       seule condition pour le savoir est de prendre son temps devant chacune et
       de se laisser faire et faire confiance à son instinct. La couleur fera le
-      reste.
+      reste. 
 
       L'exposition se clôture le DIMANCHE 24 NOVEMBRE de 13H à 18H dans le cadre
       de l'évènement "Les galeries, le dimanche" organisé par l'association Art
@@ -120,7 +126,7 @@ exhibitions:
   - title: C'est ouvert tout l'été
     image: /forestry/cest-ouvert-tout-lete.jpg
     content: |-
-      la galerie est ouverte du jeudi au samedi 11H 19H
+      la galerie est ouverte du jeudi au samedi 11H 19H 
       SAUF LES 1ER - 2 - 3 - 15 AOUT 2019
 
       _Du 07/28/2019 au 08/31/2019_
@@ -153,7 +159,7 @@ exhibitions:
       voie du moderne en peinture passait par l'aménagement de blanc aussi
       important que les zones peintes et que l'ensemble peint et non peint
       pouvait et devait s'agencer en un plan respirant dont pas un point ne
-      s'enfonce.
+      s'enfonce. 
 
       E.W. peut faire sienne cette position picturale. L’espace blanc, « vide »
       dans la peinture de cette artiste, n’est pas quelque chose de vague ou
@@ -188,7 +194,7 @@ exhibitions:
   - title: ISTHME
     image: /forestry/isthme.jpg
     content: >-
-      peinture et collage - estampe
+      peinture et collage - estampe 
 
       "Quand la peinture  vient des moments passés en mer, la nuit, quand le
       monde est ombre géante, voie lactée et frémissement de lumière, quand se
@@ -201,7 +207,7 @@ exhibitions:
     image: /forestry/georges-rousse-photographe-plasticien.jpg
     content: >-
       Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à
-      Nantes
+      Nantes 
 
       la galerie Gaïa vous propose une sélection de 7 photographies en édition
       limitée à 10 exemplaires
@@ -256,20 +262,20 @@ exhibitions:
 
       Et bien au théâtre Graslin ...
 
-      Ils sont vraiment  fous ces nantais !
+      Ils sont vraiment  fous ces nantais ! 
 
       Là ce n'est plus un pas de côté c'est du grand éc-art !
 
-      Du 5 au 9 septembre
+      Du 5 au 9 septembre 
 
       Suivez nous avec la galerie Gaïa partenaire de cet événement totalement
       décalé où sport et culture se mélangent si bien :
 
       Pour le 4ème opus  Tangui Robert va effectuer un marathon de 5 jours avec
       1 croquis réalisé chaque jour, édité dans la nuit pour une exposition à
-      J+1 !
+      J+1 ! 
 
-      Attention cette édition se limite à 20 exemplaires
+      Attention cette édition se limite à 20 exemplaires 
 
       achat sur place au Théâtre Graslin - ou réservation Galerie Gaïa - 20€
 
@@ -287,7 +293,7 @@ exhibitions:
   - title: KAZY installée chez Keran
     image: /forestry/kazy-installee-chez-keran.jpg
     content: >-
-      Keran 1 Rue Viviani Nantes
+      Keran 1 Rue Viviani Nantes 
 
       ouvert au public de 9H à 12H & 14H à 18H du lundi au vendredi
 
@@ -318,13 +324,13 @@ exhibitions:
       Allez... venez rafraîchir la mémoire de vos émotions le 21 juin à 18h...
       visiteurs d un jour, clients de toujours, passants qui passent en se
       disant "pas le temps maintenant mais c est vraiment bien cette galerie" et
-      bien entrez et partageons vos Histoires de ce lieu qui vous appartient.
+      bien entrez et partageons vos Histoires de ce lieu qui vous appartient. 
 
       4 artistes préparent 2 serigraphies inédites qui seront disponibles en
       exclusivité :
 
       Le collectif Au Seuil avec Jeronimo Gaëtan Chevrier Tangui Robert, et
-      Boris Jakobek
+      Boris Jakobek 
 
       L'exposition de leurs oeuvres durera jusqu'au 28 juillet.
 
@@ -358,7 +364,7 @@ exhibitions:
   - title: MAXIME LUTUN VENTE PRIVEE
     image: /forestry/maxime-lutun-vente-privee.jpg
     content: |-
-      SCULPTEUR DE LUMIERE
+      SCULPTEUR DE LUMIERE 
       vente privée 18H 21H
 
       _Du 12/01/2017 au 12/03/2017_
@@ -366,7 +372,7 @@ exhibitions:
     image: /forestry/claude-francheteau.jpg
     content: |-
       VERNISSAGE CAFE PHILO
-      AVEC CLAUDE BAZELIS
+      AVEC CLAUDE BAZELIS 
       VENDREDI 24 NOVEMBRE 19H
 
       _Du 11/24/2017 au 12/16/2017_
@@ -400,21 +406,21 @@ exhibitions:
   - title: START ' UP 2017
     image: /forestry/start-up-2017.jpg
     content: >-
-      ST'ART UP 2017 2eme Edition
+      ST'ART UP 2017 2eme Edition 
 
       ce rendez vous lancé en 2016  à des étudiants en arts plastiques et des
       autodidactes que je sélectionne d'exposer pour une 1ere fois en galerie.
 
-      Venez voir
+      Venez voir 
 
-      et pourquoi pas
+      et pourquoi pas 
 
-      acquérir une  oeuvre d'un  pour les soutenir
+      acquérir une  oeuvre d'un  pour les soutenir 
 
 
       ETRE CURIEUX
 
-      REGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
+      REGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS 
 
       PENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE
 
@@ -429,7 +435,7 @@ exhibitions:
   - title: 'Nuit des Galeries#2 TETE A TETE'
     image: /forestry/nuit-des-galeries2-tete-a-tete.jpg
     content: >-
-      TETE A TETE
+      TETE A TETE 
 
       Ou L’Art du Portrait, à condition que ce soit le vôtre!
 
@@ -459,31 +465,31 @@ exhibitions:
   - title: Rencontre Annick ARGANT & Jean Claude BREAT
     image: /forestry/rencontre-annick-argant-and-jean-claude-breat.jpg
     content: |-
-      Annick ARGANT sculptures et volumes
+      Annick ARGANT sculptures et volumes 
       Jean Claude BREAT peintures
 
       _Du 03/16/2017 au 04/15/2017_
   - title: PHILIPPE LECOMTE
     image: /forestry/philippe-lecomte.jpg
     content: |-
-      Techniques mixtes sur papier et toile
+      Techniques mixtes sur papier et toile 
       Rencontre avec l'artiste samedi 28 de 16H à 19H
 
       _Du 01/28/2017 au 02/25/2017_
   - title: Mur d'essayage
     image: /forestry/mur-dessayage.jpg
     content: >-
-      9 expositions en 2016,
+      9 expositions en 2016, 
 
-      peut-être avez vous vu et pas pris le temps
+      peut-être avez vous vu et pas pris le temps 
 
-      peut-être n'avez vous pas vu une exposition
+      peut-être n'avez vous pas vu une exposition 
 
       alors j'ai sélectionné pour vous dans la réserve de la galerie un choix
       d'oeuvres des artistes présentés cette année
 
       Et pour vous permettre d'apprécier je vous ai installé un "mur
-      d'essayage"...pour essayer
+      d'essayage"...pour essayer 
 
       Tout simplement!
 
@@ -526,11 +532,11 @@ exhibitions:
 
       Tous deux assument pleinement ce paradoxe d'oeuvres contemporaines par le
       passage d'une démarche plus méthodique que technique. Pas de performance,
-      mais un regard qui sonde au-delà de l'image.
+      mais un regard qui sonde au-delà de l'image. 
 
       Tous deux se sont accaparé des vieilles méthodes de travail, rien
       d'immédiat, où lenteur et  patience leur donnent cette impression d'être à
-      contre-courant, comme Les derniers des Mohicans.
+      contre-courant, comme Les derniers des Mohicans. 
 
       D. EMERY présente sa dernière série "Bibliothèque" et,
 
@@ -560,13 +566,13 @@ exhibitions:
       ST'ART UP c'est un rendez vous que je lance pour exposer une sélection
       d'étudiants en arts plastiques et des autodidactes.
 
-      Donc venir voir leur exposition signifie :
+      Donc venir voir leur exposition signifie : 
 
       ETRE CURIEUX
 
-      REGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
+      REGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS 
 
-      PENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE
+      PENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE 
 
 
       Mathilde GUIHO photographie - Mikola MUDRYK peinture - Julie MAQUET
@@ -590,16 +596,16 @@ exhibitions:
 
       Découvrez le travail collectif et personnel :
 
-      peintures et photos de Stéphanie BILLARANT,
+      peintures et photos de Stéphanie BILLARANT, 
 
-      dessins et sténopés de Bruno DUMAS,
+      dessins et sténopés de Bruno DUMAS, 
 
       dessin et gravure de Sylvain DUBOIS ainsi que l'installation de VACCUM
       CIRCUS
 
       fresque au plafond de KAZY USCLEF
 
-      écritures en lumière de FLORENCE BANDRIER
+      écritures en lumière de FLORENCE BANDRIER 
 
 
       NOCTURNE LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère
@@ -616,7 +622,7 @@ exhibitions:
       serait tout le contraire ! Venez regarder par le trou de la serrure de la
       Chambre 21 ! De l’extérieur et sous vos yeux, apparaitra une œuvre.
       Installations, performances participatives avec un collectif de 5 artistes
-      jusqu'à 1h du matin.
+      jusqu'à 1h du matin. 
 
       Venez pour voir en live, pour participer, pour jouer, pour apprendre...
 
@@ -687,8 +693,8 @@ exhibitions:
     image: /forestry/exposition-decouverte.jpg
     content: |-
       Annick ARGANT sculpture de bronze et totem en grés
-      Jean Claude BREAT peintre
-      Catherine MARCHADOUR coloriste
+      Jean Claude BREAT peintre 
+      Catherine MARCHADOUR coloriste 
       Jean Pierre MARCHADOUR  inclassable ....dactylographie ....
       Et toujours  les artistes présents à la galerie  
 
@@ -705,7 +711,7 @@ exhibitions:
   - title: Florence BANDRIER & Renaud ALLIRAND
     image: /forestry/florence-bandrier-and-renaud-allirand.jpg
     content: |-
-      Peintures Gravure et Encres
+      Peintures Gravure et Encres 
       "Des écritures qui s'empreintent du visible à l'illisible ..."
 
       _Du 05/21/2015 au 06/13/2015_
@@ -717,3 +723,4 @@ exhibitions:
 
       _Du 04/09/2015 au 05/17/2015_
 ---
+

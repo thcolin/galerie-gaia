@@ -26,16 +26,6 @@ artists.forEach(artist => {
       })),
     works: works
       .filter(work => parseInt(work.artist) === parseInt(artist._id))
-      .map(work => {
-        if (fs.existsSync(`${__dirname}/../static/forestry/${work._id}.jpg`)) {
-          fs.renameSync(
-            `${__dirname}/../static/forestry/${work._id}.jpg`,
-            `${__dirname}/../static/forestry/${slug((work.title || work._id), { lower: true })}.jpg`
-          )
-        }
-
-        return work
-      })
       .map(work => ({
         title: (work.title || work._id).trim(),
         image: `/forestry/${slug((work.title || work._id), { lower: true })}.jpg`,
