@@ -142,6 +142,7 @@ biography: >-
   PROJETS 2019:
             Résidence artiste, NORVEGE, Institut Français, 1-30 septembre 2019
             Edition « Le Catalogue », 40 sculptures- 40 écrivains, courant 2019
+exhibitions: []
 works:
   - title: '949'
     image: /forestry/949.jpg

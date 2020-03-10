@@ -56,6 +56,7 @@ biography: >-
   sensation de repos et de silence intérieur.
 
   Provoquer et non soumettre à tout prix."
+exhibitions: []
 works:
   - title: 1=+
     image: /forestry/1.jpg

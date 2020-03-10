@@ -15,6 +15,7 @@ biography: >-
   Il attire notre attention sur notre civilisation en constante mutation à la
   mémoire éphémère. En 2018, l'artiste devient ambassadeur d'Irix, marque
   d'objectif ultra grand-angle d’origine Suisse.
+exhibitions: []
 works:
   - title: Buzludzha - Bulgarie
     image: /forestry/buzludzha-bulgarie.jpg

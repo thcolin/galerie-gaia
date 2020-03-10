@@ -29,6 +29,7 @@ biography: >-
   arrêt son Art et lui-même jusqu’aux limites ! Plus que jamais, Neil a
   l’impression, d’être devenu ce peintre qui a toujours souhaité partager son
   travail avec tout le monde et tous ceux qui souhaitent regarder de plus prêt.
+exhibitions: []
 works:
   - title: Mad Men - Le Crillon
     image: /forestry/mad-men-le-crillon.jpg

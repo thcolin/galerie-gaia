@@ -28,6 +28,7 @@ biography: >-
   peindre ce que je voulais. Dans la B.D on est coincé par les personnages,
   tandis que, dans cette peinture, je suis libre complètement libre, même par le
   format. "
+exhibitions: []
 works:
   - title: COMBO 13/25
     image: /forestry/combo-1325.jpg

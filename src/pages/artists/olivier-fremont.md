@@ -51,6 +51,7 @@ biography: >-
 
 
   Olivier Fremont
+exhibitions: []
 works:
   - title: SANS
     image: /forestry/sans.jpg

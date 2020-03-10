@@ -76,6 +76,7 @@ biography: >-
   Galerie L’espace du dedans . Lille . 
 
   Galerie Gaïa . Nantes .
+exhibitions: []
 works:
   - title: 14p1r1 - 14p1r2 - 14p1r3
     image: /forestry/14p1r1-14p1r2-14p1r3.jpg

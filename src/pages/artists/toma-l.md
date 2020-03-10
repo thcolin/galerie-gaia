@@ -93,6 +93,7 @@ biography: >-
   Récompense pour le projet d'édition Vas-y : 3ème place dans la catégorie
   maitresse Book Publishing - Hardack. Prix décerné par Fedrigoni lors des Top
   Awards 2013.
+exhibitions: []
 works:
   - title: Simple black
     image: /forestry/simple-black.jpg

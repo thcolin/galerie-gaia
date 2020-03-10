@@ -57,6 +57,7 @@ biography: >-
   » 
 
   Isthme
+exhibitions: []
 works:
   - title: Exposition peinture collage estampe
     image: /forestry/exposition-peinture-collage-estampe.jpg

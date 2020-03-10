@@ -60,6 +60,7 @@ biography: >-
 
 
   Thanh
+exhibitions: []
 works:
   - title: SANS TITRE
     image: /forestry/sans-titre.jpg

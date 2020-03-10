@@ -31,6 +31,7 @@ biography: >-
 
 
   Marie Vandooren
+exhibitions: []
 works:
   - title: Jeux d'enfants 1
     image: /forestry/jeux-denfants-1.jpg

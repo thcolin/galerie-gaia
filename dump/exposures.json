@@ -1,0 +1,298 @@
+[
+  {
+    "_id": "1",
+    "artist": 3,
+    "dateStart": 2015,
+    "dateEnd": 2010,
+    "title": "Affordable Art Fair, Galerie Virginie Barrou Planquart",
+    "location": "Bruxelles, Belgique"
+  },
+  {
+    "_id": "2",
+    "artist": 3,
+    "dateStart": 2015,
+    "dateEnd": 0,
+    "title": "Affordable Art Fair London Battersea, Galerie Virginie Barrou Planquart",
+    "location": "Bruxelles, Belgique"
+  },
+  {
+    "_id": "3",
+    "artist": 3,
+    "dateStart": 2014,
+    "dateEnd": 0,
+    "title": "Salon La Se?rienne des Arts, Sevres",
+    "location": "Rec?oit le prix Artension"
+  },
+  {
+    "_id": "4",
+    "artist": 3,
+    "dateStart": 2014,
+    "dateEnd": 0,
+    "title": "Les Demoiselles de Verre",
+    "location": "Claret He?rault"
+  },
+  {
+    "_id": "5",
+    "artist": 3,
+    "dateStart": 2014,
+    "dateEnd": 0,
+    "title": "Carrousel des me?tiers d'art et de cre?ation",
+    "location": "Paris"
+  },
+  {
+    "_id": "6",
+    "artist": 3,
+    "dateStart": 2014,
+    "dateEnd": 0,
+    "title": "Le Verre Contemporain, Galerie Espace Calende",
+    "location": "Rouen"
+  },
+  {
+    "_id": "7",
+    "artist": 3,
+    "dateStart": 2014,
+    "dateEnd": 0,
+    "title": "Marche? de l'art",
+    "location": "St Germain en Laye"
+  },
+  {
+    "_id": "8",
+    "artist": 4,
+    "dateStart": 2014,
+    "dateEnd": 0,
+    "title": "FIAC",
+    "location": "Stand Orange"
+  },
+  {
+    "_id": "9",
+    "artist": 4,
+    "dateStart": 2013,
+    "dateEnd": 0,
+    "title": "On the Other Side of the Sky",
+    "location": "Galerie Lavignes Bastille Paris"
+  },
+  {
+    "_id": "10",
+    "artist": 4,
+    "dateStart": 2012,
+    "dateEnd": 0,
+    "title": "Wax",
+    "location": "Alpha Gallery, Londres"
+  },
+  {
+    "_id": "11",
+    "artist": 4,
+    "dateStart": 2012,
+    "dateEnd": 0,
+    "title": "Days are Dark & Nights are Clear",
+    "location": "Hayhill Cork Street Gallery Londres"
+  },
+  {
+    "_id": "12",
+    "artist": 4,
+    "dateStart": 2011,
+    "dateEnd": 0,
+    "title": "ZEROBULLET$",
+    "location": "Riff Art Projects Gallery , Paris"
+  },
+  {
+    "_id": "13",
+    "artist": 4,
+    "dateStart": 2011,
+    "dateEnd": 0,
+    "title": "Quiet Days Under the Trees",
+    "location": "Hayhill Cork Street Gallery Londres"
+  },
+  {
+    "_id": "16",
+    "artist": 11,
+    "dateStart": 18062015,
+    "dateEnd": 7072015,
+    "title": "G a l e r i e  G a ï a ",
+    "location": "Nantes "
+  },
+  {
+    "_id": "17",
+    "artist": 5,
+    "dateStart": 18,
+    "dateEnd": 7,
+    "title": "A l'intérieur",
+    "location": "G a l e r i e   G a ? a  ? Nantes "
+  },
+  {
+    "_id": "18",
+    "artist": 24,
+    "dateStart": 2014,
+    "dateEnd": 2014,
+    "title": "galerie Arts Pluriels ",
+    "location": ""
+  },
+  {
+    "_id": "19",
+    "artist": 24,
+    "dateStart": 260515,
+    "dateEnd": 260515,
+    "title": "la « Neige n’est pas loin » édition avec le poète Alain Freixe 2015 18 peintures anthologie Bilingue des poètes de Zeeland ",
+    "location": "G a l e r i e   G a ? a Nantes "
+  },
+  {
+    "_id": "20",
+    "artist": 26,
+    "dateStart": 0,
+    "dateEnd": null,
+    "title": "Tony Soulié",
+    "location": "G a l e r i e  G a ? a"
+  },
+  {
+    "_id": "21",
+    "artist": 4,
+    "dateStart": 40615,
+    "dateEnd": 270615,
+    "title": "GALERIE KORALEWSKI",
+    "location": "PARIS 75003 http://www.valotaworks.com/news.html"
+  },
+  {
+    "_id": "22",
+    "artist": 11,
+    "dateStart": 2015,
+    "dateEnd": 2015,
+    "title": "ART PARIS ART FAIR",
+    "location": "Grand Palais Paris"
+  },
+  {
+    "_id": "23",
+    "artist": 11,
+    "dateStart": 2013,
+    "dateEnd": null,
+    "title": "VOIES OFF ",
+    "location": "ARLES "
+  },
+  {
+    "_id": "24",
+    "artist": 11,
+    "dateStart": 2015,
+    "dateEnd": 2015,
+    "title": "LE PURGATOIRE ",
+    "location": "PARIS "
+  },
+  {
+    "_id": "25",
+    "artist": 17,
+    "dateStart": 2016,
+    "dateEnd": null,
+    "title": "Grain de Sel  exposition individuelle",
+    "location": "SENE"
+  },
+  {
+    "_id": "26",
+    "artist": 17,
+    "dateStart": 2015,
+    "dateEnd": null,
+    "title": "G a l e r i e   G a ï a exposition collective de l'été",
+    "location": "Nantes "
+  },
+  {
+    "_id": "27",
+    "artist": 17,
+    "dateStart": 2015,
+    "dateEnd": null,
+    "title": "Cabinet Hollstein  espace galerie, aout",
+    "location": "Tours "
+  },
+  {
+    "_id": "28",
+    "artist": 16,
+    "dateStart": 10,
+    "dateEnd": null,
+    "title": "http://www.corinneheraud.com/fr/actualite.html",
+    "location": "G a l e r i e  G a ? a "
+  },
+  {
+    "_id": "29",
+    "artist": 17,
+    "dateStart": 2015,
+    "dateEnd": null,
+    "title": "Galerie Olivia Ganancia Paris ",
+    "location": "http://www.oliviaganancia.com"
+  },
+  {
+    "_id": "30",
+    "artist": 12,
+    "dateStart": 2014,
+    "dateEnd": null,
+    "title": "Exposition personnelle",
+    "location": "Galerie Rouge Grenade   Paris XX"
+  },
+  {
+    "_id": "31",
+    "artist": 12,
+    "dateStart": 2015,
+    "dateEnd": null,
+    "title": "Espace art contemporain AVV ",
+    "location": "St Mathurin sur Loire  49"
+  },
+  {
+    "_id": "32",
+    "artist": 8,
+    "dateStart": 2014,
+    "dateEnd": null,
+    "title": "Art Elysées - Foire Internationale. Représentée par la GALERIE PHILIPPE SAMUEL",
+    "location": "PARIS "
+  },
+  {
+    "_id": "33",
+    "artist": 8,
+    "dateStart": 2014,
+    "dateEnd": null,
+    "title": "PULS ART ",
+    "location": "LE MANS "
+  },
+  {
+    "_id": "34",
+    "artist": 20,
+    "dateStart": 3,
+    "dateEnd": null,
+    "title": "Clin d'Oeil ",
+    "location": "GALERIE GAIA"
+  },
+  {
+    "_id": "35",
+    "artist": 48,
+    "dateStart": 0,
+    "dateEnd": null,
+    "title": "ASIE RIDERZ Voyage à Nantes 2015",
+    "location": " http://asieriderz.com/?p=940&lang=fr"
+  },
+  {
+    "_id": "36",
+    "artist": 51,
+    "dateStart": 0,
+    "dateEnd": null,
+    "title": "En permanence à la galerie Lindengruen    www.lindengruen.at   ",
+    "location": "Vienne Autriche "
+  },
+  {
+    "_id": "37",
+    "artist": 51,
+    "dateStart": 0,
+    "dateEnd": null,
+    "title": "en permanence à la galerie Ze Art  www.zeartgalerie.com",
+    "location": "Dinard"
+  },
+  {
+    "_id": "38",
+    "artist": 48,
+    "dateStart": 0,
+    "dateEnd": null,
+    "title": "Direction artistique et exposition collective LA VILLA OCCUPADA ",
+    "location": "Le Voyage ? Nantes 2014 "
+  },
+  {
+    "_id": "39",
+    "artist": 54,
+    "dateStart": 0,
+    "dateEnd": null,
+    "title": "en permanence ",
+    "location": "Galerie 0livia GANANCIA, Paris 6?."
+  }
+]

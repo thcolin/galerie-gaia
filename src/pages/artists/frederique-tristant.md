@@ -77,6 +77,7 @@ biography: >-
   2002
 
   Doctorat Se?miotique Visuelle / Universite? Michel de Montaigne Bordeaux III
+exhibitions: []
 works:
   - title: A quoi penses-tu
     image: /forestry/a-quoi-penses-tu.jpg

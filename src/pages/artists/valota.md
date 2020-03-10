@@ -40,6 +40,35 @@ biography: >-
   éclore la couleur. Ces univers s’illuminent par la figure de la femme qui
   règne sur ses « sujets de curiosité » : hippocampes, licornes, fleurs de vie,
   ...
+exhibitions:
+  - title: FIAC
+    location: Stand Orange
+    start: 2014
+    end: 0
+  - title: On the Other Side of the Sky
+    location: Galerie Lavignes Bastille Paris
+    start: 2013
+    end: 0
+  - title: Wax
+    location: 'Alpha Gallery, Londres'
+    start: 2012
+    end: 0
+  - title: Days are Dark & Nights are Clear
+    location: Hayhill Cork Street Gallery Londres
+    start: 2012
+    end: 0
+  - title: ZEROBULLET$
+    location: 'Riff Art Projects Gallery , Paris'
+    start: 2011
+    end: 0
+  - title: Quiet Days Under the Trees
+    location: Hayhill Cork Street Gallery Londres
+    start: 2011
+    end: 0
+  - title: GALERIE KORALEWSKI
+    location: 'PARIS 75003 http://www.valotaworks.com/news.html'
+    start: 40615
+    end: 270615
 works:
   - title: Days are Dark and Night are Clears
     image: /forestry/days-are-dark-and-night-are-clears.jpg

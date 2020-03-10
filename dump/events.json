@@ -1,0 +1,542 @@
+[
+  {
+    "_id": "1",
+    "title": "Exposition inaugurale",
+    "dateStart": 1428597000,
+    "dateEnd": 1431817200,
+    "extended": false,
+    "description": "Muriel CHENE sculptures\nVALOTA peintures",
+    "youtube": null,
+    "vernissage": true
+  },
+  {
+    "_id": "8",
+    "title": "Florence BANDRIER & Renaud ALLIRAND",
+    "dateStart": 1432224000,
+    "dateEnd": 1434214800,
+    "extended": false,
+    "description": "Peintures Gravure et Encres \n\"Des écritures qui s'empreintent du visible à l'illisible ...\"",
+    "youtube": null,
+    "vernissage": true
+  },
+  {
+    "_id": "11",
+    "title": "Marianne ABOUGIT et Stéphanie BILLARANT",
+    "dateStart": 1434580860,
+    "dateEnd": 1435963260,
+    "extended": false,
+    "description": "Souvenirs de ces paysages ou paysages inventés, mondes oubliés ou rêvés...\nQue voit on? Que veut on voir? ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "14",
+    "title": "EXPOSITION DECOUVERTE",
+    "dateStart": 1454549940,
+    "dateEnd": 1455327540,
+    "extended": true,
+    "description": "Annick ARGANT sculpture de bronze et totem en grés\nJean Claude BREAT peintre \nCatherine MARCHADOUR coloriste \nJean Pierre MARCHADOUR  inclassable ....dactylographie ....\nEt toujours  les artistes présents à la galerie  \n\nUne solution venir voir !\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "15",
+    "title": "Michel BOUVET Affichiste et Jorj MORIN Peintre ",
+    "dateStart": 1441275420,
+    "dateEnd": 1441448220,
+    "extended": false,
+    "description": "Rencontre avec Michel BOUVET vendredi 4 septembre à partir de 18H\nvente des sérigraphies numérotées et signées et coffrets rétrospective en édition limitée ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "17",
+    "title": "Corinne HERAUD & Sandrine PAUMELLE",
+    "dateStart": 1441891560,
+    "dateEnd": 1443273960,
+    "extended": false,
+    "description": "vernissage jeudi 10 septembre 18H",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "20",
+    "title": "Exposition Claude Francheteau ",
+    "dateStart": 1444260720,
+    "dateEnd": 1445643120,
+    "extended": true,
+    "description": "Présent le 9 octobre à la galerie Claude sera à nouveau présent le 16 octobre après midi à la galerie avec ses papiers et ses crayons. Vous étiez nombreux vendredi dernier, alors il récidive!",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "21",
+    "title": "Tony SOULIE",
+    "dateStart": 1447939560,
+    "dateEnd": 1449321960,
+    "extended": true,
+    "description": "vernissage jeudi 19 Novembre à 18H\ndes lithos, des aquatintes, et des peintures originales ",
+    "youtube": "https://www.youtube.com/watch?v=t6Et5ZKeUXY",
+    "vernissage": true
+  },
+  {
+    "_id": "24",
+    "title": "Hasards pour Morgane ",
+    "dateStart": 1456440780,
+    "dateEnd": 1456613580,
+    "extended": false,
+    "description": "En effectuant un don pour l'association Morgane, le hasard du tirage a attribué aux 25 premiers acquéreurs une des 25 oeuvres originales sur papier, réalisées spécialement par un des 25 artistes de la galerie.\n\nPour comprendre l'histoire de cet événement, les oeuvres ont été exposées du 25 au 27 février avant dispersion, avec la vente caritative par tirage au sort des 25 oeuvres.\n\nPour se souvenir de cette aventure un Livre coffret  \"Hasards pour Morgane\" souvenirs des 25 oeuvres des 25 artistes a été éditée en édition limitée à 250 exemplaires. Exemplaires encore disponibles à la galerie 40€.\n\nhttp://assomorgane.fr/Partenariat-avec-GAIA.html",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "26",
+    "title": "La Chambre 21 pour La Nuit des Galeries ",
+    "dateStart": 1461261600,
+    "dateEnd": 1461189600,
+    "extended": false,
+    "description": "On dit que la curiosité est un vilain défaut, de notre point de vue, ce serait tout le contraire ! Venez regarder par le trou de la serrure de la Chambre 21 ! De l’extérieur et sous vos yeux, apparaitra une œuvre. Installations, performances participatives avec un collectif de 5 artistes jusqu'à 1h du matin. \nVenez pour voir en live, pour participer, pour jouer, pour apprendre...\n\n\npour en savoir plus sur l'événement  http://www.chambre21.fr\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "27",
+    "title": "La Chambre 21 ",
+    "dateStart": 1461317400,
+    "dateEnd": 1463218200,
+    "extended": false,
+    "description": "Après le succès de la 1ere nuit des galeries, prolongation de l'exposition La Chambre 21 jusqu'au 14 mai.\nDécouvrez le travail collectif et personnel :\npeintures et photos de Stéphanie BILLARANT, \ndessins et sténopés de Bruno DUMAS, \ndessin et gravure de Sylvain DUBOIS ainsi que l'installation de VACCUM CIRCUS\nfresque au plafond de KAZY USCLEF\nécritures en lumière de FLORENCE BANDRIER \n\nNOCTURNE LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère ",
+    "youtube": "www.chambre21.fr",
+    "vernissage": false
+  },
+  {
+    "_id": "28",
+    "title": "Nadja HOLLAND peintre Marianne ABERGEL sculptrice & céramiste",
+    "dateStart": 1464261000,
+    "dateEnd": 1465643400,
+    "extended": false,
+    "description": "rencontre avec les artistes samedi 28 Mai 15H ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "29",
+    "title": "ST'ART UP 1ere Edition ",
+    "dateStart": 1466169480,
+    "dateEnd": 1466774280,
+    "extended": false,
+    "description": "ST'ART UP c'est un rendez vous que je lance pour exposer une sélection d'étudiants en arts plastiques et des autodidactes.\nDonc venir voir leur exposition signifie : \nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE \n\nMathilde GUIHO photographie - Mikola MUDRYK peinture - Julie MAQUET plasticienne - Mathieu WÜHRMANN peinture - Valentin LAMBERT peinture - Eric BERIOT peinture\n\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "32",
+    "title": "APHO  \"là-bas\" ",
+    "dateStart": 1467327600,
+    "dateEnd": 1472252400,
+    "extended": false,
+    "description": "Photographe et vidéaste nantaise, Adeline Moreau a suivi Kazy Usclef à travers 4 pays d’Afrique, pendant l’étape de repérage des artistes qui composent aujourd’hui l’exposition Grafikama (Service Peinture). En parallèle d’APHA «Ici», le documentaire vidéo qui traite de l’intégralité du projet, elle expose une série de photos prises pendant cette première phase de travail dans les grandes métropoles africaines.\nhttp://www.grafikama.fr/fr/category/artistes-fr/",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "33",
+    "title": "Les derniers des Mohicans ",
+    "dateStart": 1474059900,
+    "dateEnd": 1475355900,
+    "extended": false,
+    "description": "Bruno DUMAS photographie au sténopé et Dominique EMERY dessine sur ses carnets pour inspirer son travail de gravure.\nTous deux assument pleinement ce paradoxe d'oeuvres contemporaines par le passage d'une démarche plus méthodique que technique. Pas de performance, mais un regard qui sonde au-delà de l'image. \nTous deux se sont accaparé des vieilles méthodes de travail, rien d'immédiat, où lenteur et  patience leur donnent cette impression d'être à contre-courant, comme Les derniers des Mohicans. \nD. EMERY présente sa dernière série \"Bibliothèque\" et,\nB. DUMAS les sténopés que vous retrouverez dans le livre \"Je t'efface dans la pierre\". Ces photos ont inspiré l'écriture de Luc VIGIER et la mise en page de Sylvain DUBOIS.",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "35",
+    "title": "Franco Salas Borquez installé dans le hall de la société Keran ",
+    "dateStart": 1475231100,
+    "dateEnd": 1480677900,
+    "extended": false,
+    "description": "Le travail de Franco Salas-Borquez est le fruit de sa réflexion consciente et inconsciente envers le monde et le caractère amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque naturellement et instinctivement que le peintre développe son travail à travers la thématique de la mer déchainée.\nLorsqu’il peint, Franco fait appel à son intuition pour exercer des gestes chargés de force et de tension. Sa liberté d’artiste s’exprime alors dans toute cette révolte et peu à peu la mer prend vie, les vagues hurlent telles des âmes. Ensuite, l’agitation créatrice laisse place à la patience, telle une méditation qui permet de ressentir l’intensité de l’instant. L’étape finale du tableau est une sorte de recommencement, l’artiste se détache de ses peurs et de sa rigueur technique. Avec ces derniers gestes, il dessine la force du vent qui libère la mer de sa propre colère.\nÀ travers le langage universel et poétique de l’artiste, on découvre la peinture comme force créatrice et destructive où seule la beauté peut être sauvée.\n\ntexte de  Nathalie Tatai-Pogioni\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "36",
+    "title": "Clothilde Lasserre & Edith Basseville ",
+    "dateStart": 1475930820,
+    "dateEnd": 1477745220,
+    "extended": false,
+    "description": "Parfois le geste du pinceau de Clothilde Lasserre semble se tordre de plaisir.\nAlors en installant les sculptures de fil d'acier d'Edith Basseville à côté des toiles de Clothilde , on assiste à une échappée belle de ce mouvement qui prend forme et vie dans les sculptures et mobiles d'Edith.\nMagie des oeuvres qui lors d'une installation créent des dialogues et des interactions poétiques.\nExposition à vivre sur place !\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "37",
+    "title": "Mur d'essayage ",
+    "dateStart": 1480699140,
+    "dateEnd": 1483204740,
+    "extended": false,
+    "description": "9 expositions en 2016, \npeut-être avez vous vu et pas pris le temps \npeut-être n'avez vous pas vu une exposition \nalors j'ai sélectionné pour vous dans la réserve de la galerie un choix d'oeuvres des artistes présentés cette année\nEt pour vous permettre d'apprécier je vous ai installé un \"mur d'essayage\"...pour essayer \nTout simplement!\nDimanche 18 15H 19H\nLundi 19 Mardi 20 Mercredi 21 15H 19H\nJeudi 22 vendredi 23 11H 21H\nSamedi 24 fermé ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "39",
+    "title": "PHILIPPE LECOMTE ",
+    "dateStart": 1485595140,
+    "dateEnd": 1488014340,
+    "extended": false,
+    "description": "Techniques mixtes sur papier et toile \nRencontre avec l'artiste samedi 28 de 16H à 19H ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "40",
+    "title": "Rencontre Annick ARGANT & Jean Claude BREAT",
+    "dateStart": 1489668300,
+    "dateEnd": 1492256700,
+    "extended": false,
+    "description": "Annick ARGANT sculptures et volumes \nJean Claude BREAT peintures ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "41",
+    "title": "Exposition Argant et Bréat dans la galerie de l'entreprise Keran",
+    "dateStart": 1490990820,
+    "dateEnd": 1496434020,
+    "extended": false,
+    "description": "",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "43",
+    "title": "Nuit des Galeries#2 TETE A TETE ",
+    "dateStart": 1491486540,
+    "dateEnd": 1491647400,
+    "extended": false,
+    "description": "TETE A TETE \nOu L’Art du Portrait, à condition que ce soit le vôtre!\nLe portrait suppose, raconte, transmet une histoire personnelle qui peut se voir, se deviner et se ressentir avec autant de variations qu’il y a d’artistes pour vous regarder. Peintres et photographes,\nN. Holland, C.Francheteau et B.Dumas vous invitent à passer à l’acte en acceptant d’oublier le selfie et de vous laisser portraiturer!\nDès 20h la galerie se transformera en atelier vivant où Françoise Boudier réalisera sous vos yeux le buste d’un modèle installé confortablement dans son fauteuil.\nPlus qu’acteur, devenez sujet !\nSAMEDI 8 Discussion conférence par Juliette EOCHE DUVAL avec les 4 artistes sur le Portrait aujourd'hui, pour quoi, quel sens, quelle histoire ? Samedi 8 Avril 11H- 12H30",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "44",
+    "title": "LE PORTRAIT ",
+    "dateStart": 1492166880,
+    "dateEnd": 1492253280,
+    "extended": false,
+    "description": "",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "46",
+    "title": "Francky CRIQUET \"Comme à l'atelier\"",
+    "dateStart": 1493851560,
+    "dateEnd": 1495838760,
+    "extended": false,
+    "description": "",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "48",
+    "title": "START ' UP 2017 ",
+    "dateStart": 1498746060,
+    "dateEnd": 1498918860,
+    "extended": false,
+    "description": "ST'ART UP 2017 2eme Edition \nce rendez vous lancé en 2016  à des étudiants en arts plastiques et des autodidactes que je sélectionne d'exposer pour une 1ere fois en galerie.\nVenez voir \net pourquoi pas \nacquérir une  oeuvre d'un  pour les soutenir \n\nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "50",
+    "title": "HORAIRES D ETE 11H 13H  & 15H 19H ",
+    "dateStart": 1499361180,
+    "dateEnd": 1503767580,
+    "extended": false,
+    "description": "Prenez les chemins de traverse et laissez vous glisser sur l'oeuvre de Tangui Robert au Château des Ducs dans le cadre du VAN puis venez vous plonger dans son oeuvre toute en pic et profondeur !",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "53",
+    "title": "TANGUI ROBERT",
+    "dateStart": 1499815140,
+    "dateEnd": 1504135140,
+    "extended": false,
+    "description": "",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "54",
+    "title": "Go Segawa ",
+    "dateStart": 1504804620,
+    "dateEnd": 1506187020,
+    "extended": false,
+    "description": "",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "55",
+    "title": "Damien Hamon & Tangui Robert chez KERAN ",
+    "dateStart": 1506427800,
+    "dateEnd": 1511529000,
+    "extended": false,
+    "description": "artistes permanents et visibles à la galerie ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "56",
+    "title": "Xavier Jallais \"Automorphie\"",
+    "dateStart": 1507190460,
+    "dateEnd": 1508572860,
+    "extended": false,
+    "description": "Vernissage jeudi 5 à partir de 18H",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "57",
+    "title": "Claude FRANCHETEAU",
+    "dateStart": 1511563140,
+    "dateEnd": 1513463940,
+    "extended": false,
+    "description": "VERNISSAGE CAFE PHILO\nAVEC CLAUDE BAZELIS \nVENDREDI 24 NOVEMBRE 19H",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "58",
+    "title": "MAXIME LUTUN VENTE PRIVEE",
+    "dateStart": 1512082860,
+    "dateEnd": 1512255660,
+    "extended": false,
+    "description": "SCULPTEUR DE LUMIERE \nvente privée 18H 21H ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "59",
+    "title": "Images de Ryszard Swierad 25/01 - 17/02 \"Ce que je crois voir\"",
+    "dateStart": 1516887960,
+    "dateEnd": 1518875160,
+    "extended": false,
+    "description": "\"Ce que je crois voir\" c'est un trouble devant la matière qui efface le réel de l'image que notre oeil comprend d'instinct, mais très vite on s'échappe du réel pour se raconter une histoire, un film, les oeuvres de Rych'o donne envie d'écrire la suite\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "60",
+    "title": "Laure Carré ",
+    "dateStart": 1521838800,
+    "dateEnd": 1523738940,
+    "extended": false,
+    "description": "Il n’y a rien d’éponyme dans les formes que LAURE nous offre dans son travail sur toile, pas même dans ses collages-dessins. En apparence ! Ainsi l’énergie circule  vite et amplifie les mouvements tout en courbe mais s’arrête net. Si carré il y a ce n’est pas pour la forme mais pour son exigence vis-à-vis de sa toile. \n\nLà n’est pas le premier paradoxe chez cette artiste lumineuse qui impose des sujets troubles où la solitude s’accompagne d’un double de soi qui parfois ne l’est pas. Rêves et fantômes sont invités à participer au présent sans aucun effacement.\nLaure est solaire car elle se laisse faire par son geste et donc elle ne résiste pas, il n’y a pas de lutte entre elle et sa toile mais les états dans lesquels elle laisse ses personnages nous amènent à nous en occuper. Elle nous les confie, à condition d’en prendre soin. \nImpossible de laisser ces personnages seuls dans ces situations et vu le choix des couleurs, même si Laure se défend de toute histoire à nous raconter, il va bien falloir que nous en parlions, car tout est sans dessus dessous. \nAlors si on pense à Bazelitz, si une époque les mains de Egon Schiele s’imposaient, nous sommes actuellement dans une période de grande liberté créative ou Laure emprunte avec respect à ses icônes de la peinture. \n\nEt ainsi va cette vie « c’est vrai et pourquoi pas ! », rien ne la contrarie Laure quand on regarde son travail, son atelier - car elle travaille tout le temps - c’est pour nous, pour ceux qui aiment la regarder, pour ceux qui la découvrent et s’étonnent. Devant autant de toiles il ne faut agir, mais se laisser faire et cheminer vers l’une d’elle.\nC’est comme cela que je me retrouve avec une sélection que je ne peux montrer en une seule fois. Donc Jeudi 5 Avril je fais un 2ème accrochage!\nL’expo dans l’expo, on met la galerie à l’envers pour finir au Carré Madame Laure en vous souhaitant un très bel anniversaire ! \n\nElisabeth GIVRE\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "62",
+    "title": "Pierre Muckensturm & Go Segawa ",
+    "dateStart": 1522332720,
+    "dateEnd": 1526652720,
+    "extended": false,
+    "description": "installation située chez KERAN 4 rue Viviani à Nantes ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "63",
+    "title": "Nuit des Galeries#3 No limit",
+    "dateStart": 1524160800,
+    "dateEnd": 1524088800,
+    "extended": false,
+    "description": "\" 140 caractères minimum \"\n4 artistes vous proposent 1 oeuvre photo. No limit, selon votre inspiration vous écrivez la suite & vous partagez sur Facebok et Instagram \nArtistes : Neil RATNAVIRA  Eric MARAIS RYCHO Dimitri ROUBICHOU\nLors des premières Nuit des Galeries j'ai observé combien le public de tout âge aimait participer, en dessinant, jouant, posant pour leur portrait.\nCette année je souhaite explorer des contraires dans les codes de notre société tout en les utilisant.\n1er contraire : 1 seule oeuvre à regarder par artiste plutôt qu'une PROFUSION +/- =UNIQUE\n2eme contraire : rien ne presse, rien d'URGENT   +/- = PRENDRE LE TEMPS\n3eme contraire : dire ce qu'une oeuvre nous inspire avec ses mots plutôt que de réduire ses émotions à des EMOTICONS +/- = RACONTER DES HISTOIRES\n\nA disposition : papiers-crayons version XIXeme siècle , machines à écrire vs XXeme, tablettes vs XXIeme siècle.\n\n\nChaque artiste de manière totalement  subjective choisira le texte sur son oeuvre afin d'offrir 4 PASS du MUSEE DES ARTS DE NANTES \n\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "64",
+    "title": "L'hallucination simple ",
+    "dateStart": 1528527960,
+    "dateEnd": 1530342360,
+    "extended": false,
+    "description": "Texte de son ami Roland HALBERT qui sera en signature de son livre \nsamedi 23 juin à 14H\n__________________________________________\nLa peinture de Patrick Guéguen : « art brut » ? « art ethnique » ? « art singulier » ? Quand on a prononcé ces formules magiques de la critique, on n’a pas dit grand-chose. Il y a fort à craindre que ce soient là des dénominations commodes et des classifications trompeuses qui empêchent de voir en profondeur. Rimbaud vous éclaire davantage sur ces tableaux lorsqu’il évoque l’hallucination simple : « Je m’habituai à l’hallucination simple. » (Alchimie du verbe). Et nul besoin de stupéfiants pour susciter ce regard vrillant, cette vision d’affût qui transperce les apparences et traverse les modes. Vous habituer à l’hallucination simple revient à échanger vos écrans opaques contre le microscope-télescope Hubble. Alors, commence l’atelier des dieux et se réinvente la création du monde avec l’écarquillement lyrique de l’œil plongé dans l’aquarium astral ou happé par le fourmillement de la vie terrestre. \n...suite du texte disponible à la galerie et sur demande contact@galeriegaia.fr",
+    "youtube": null,
+    "vernissage": true
+  },
+  {
+    "_id": "65",
+    "title": "40 ans d'Histoire d'Art ",
+    "dateStart": 1529596800,
+    "dateEnd": 1532797200,
+    "extended": false,
+    "description": "Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu . Mais savez vous que l'histoire a commencé en 1978 ?\nAllez... venez rafraîchir la mémoire de vos émotions le 21 juin à 18h... visiteurs d un jour, clients de toujours, passants qui passent en se disant \"pas le temps maintenant mais c est vraiment bien cette galerie\" et bien entrez et partageons vos Histoires de ce lieu qui vous appartient. \n4 artistes préparent 2 serigraphies inédites qui seront disponibles en exclusivité :\nLe collectif Au Seuil avec Jeronimo Gaëtan Chevrier Tangui Robert, et Boris Jakobek \nL'exposition de leurs oeuvres durera jusqu'au 28 juillet. \n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "66",
+    "title": "KAZY installée chez Keran",
+    "dateStart": 1530707640,
+    "dateEnd": 1536323640,
+    "extended": false,
+    "description": "Keran 1 Rue Viviani Nantes \nouvert au public de 9H à 12H & 14H à 18H du lundi au vendredi\nDu mur à la toile...\n\nLe chat au pied de Trempolino à Nantes, la Villa Occupada pour le Voyage à Nantes, des murs à Casablanca, Istambul, Johannesburg, Shanghai, Tokyo, Hong Kong...\nComment un graffeur habitué aux grands espaces bruts peut-il nous embarquer dans ses histoires ?\n\nL'émotion n'a pas d'échelle et ne se commande pas, c'est avec un esprit libre que Kazy Usclef nous dévoilera ses toiles pour l'exposition Keran.\nLaissez-vous embarquer !\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "67",
+    "title": "La galerie est ouverte tout l'été",
+    "dateStart": 1530976260,
+    "dateEnd": 1535728260,
+    "extended": false,
+    "description": "",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "68",
+    "title": "4eme Open International de Squash de Nantes ",
+    "dateStart": 1536098400,
+    "dateEnd": 1536444000,
+    "extended": false,
+    "description": "A la rentrée c'est promis je fais du sport !\nOui mais où ?\nEt bien au théâtre Graslin ...\nIls sont vraiment  fous ces nantais ! \nLà ce n'est plus un pas de côté c'est du grand éc-art !\nDu 5 au 9 septembre \nSuivez nous avec la galerie Gaïa partenaire de cet événement totalement décalé où sport et culture se mélangent si bien :\nPour le 4ème opus  Tangui Robert va effectuer un marathon de 5 jours avec 1 croquis réalisé chaque jour, édité dans la nuit pour une exposition à J+1 ! \nAttention cette édition se limite à 20 exemplaires \nachat sur place au Théâtre Graslin - ou réservation Galerie Gaïa - 20€\nLes derniers billets (succès oblige il n'en reste pas beaucoup...) sont en vente auprès de PSA Open International Squash Nantes. \n",
+    "youtube": "https://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg",
+    "vernissage": false
+  },
+  {
+    "_id": "69",
+    "title": "\"Découverte de Talents\" ",
+    "dateStart": 1538668800,
+    "dateEnd": 1538683200,
+    "extended": false,
+    "description": "Partenaire chez Cinna Nantes, la Galerie Gaïa propose de faire découvrir le talent de Neil Ratnavira, artiste peintre et aussi photographe de rue.\nSon énergie très contrôlée se retrouve libérée dans ce travail sur toile & papier où les couleurs s'étalent avec force spontanéité, mais le geste est très maitrisée.\nFin observateur de la gestuelle picturale de Franz Kline  cet artiste américano-srilankais et installée en France il y a deux ans, nous propose une prolongation contemporaine de cet univers très expressif.\nNeil Ratnavira réalisera plusieurs toiles sur place avec encres & pinceaux ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "70",
+    "title": "Keran accueille Gianni BASSO",
+    "dateStart": 1539684960,
+    "dateEnd": 1544786220,
+    "extended": false,
+    "description": "REALITE OU ABSTRACTION?\n\nCroire ce que l on voit ou douter.\nFaire confiance à son intuition ou hésiter.\nToutes ces émotions sont provoquées par la proposition photographique de Gianni BASSO.\nGlisser, plonger dans ses eaux énigmatiques, c est comme initier un voyage presque familier.",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "71",
+    "title": "Georges ROUSSE Photographe plasticien ",
+    "dateStart": 1549579920,
+    "dateEnd": 1552171920,
+    "extended": false,
+    "description": "Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à Nantes \nla galerie Gaïa vous propose une sélection de 7 photographies en édition limitée à 10 exemplaires ",
+    "youtube": "https://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2_314968",
+    "vernissage": false
+  },
+  {
+    "_id": "72",
+    "title": "ISTHME ",
+    "dateStart": 1559811600,
+    "dateEnd": 1561827600,
+    "extended": false,
+    "description": "peinture et collage - estampe \n\"Quand la peinture  vient des moments passés en mer, la nuit, quand le monde est ombre géante, voie lactée et frémissement de lumière, quand se révèlent toutes les nuances de bleus, alors le voyage de la matière sur la toile sublime la rencontre de l’eau et du ciel.\"\n\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "73",
+    "title": "Vagabondage avec Elisabeth WADECKI",
+    "dateStart": 1562339460,
+    "dateEnd": 1564240320,
+    "extended": false,
+    "description": "A propos de la peinture d’Elisabeth Wadecki\n\nProust disait « écrire pour éclaircir la vie ».\nOn pourrait dire de même de la peinture d’E.W. Sa peinture est lumineuse. L’artiste dit avancer sur son chemin, sereinement, partant de rien et vers nulle part, avec comme seule quête, nécessité, cette route, l’acte de créer et d’être présente à la vie.\nLes traces laissées sont ce que cette artiste recueille de la transformation constante de la nature et de la fugacité des éléments.\nL’acte pictural ne relève pas chez elle d’une projection mais elle garde la trace d’une circulation entre sujet et monde.  Au carrefour du temps et de l’espace, elle fixe sur la toile quelque chose des petites bulles décrites par Proust. Sa peinture n’illustre pas elle est la sensation de sa propre réalisation.\nCézanne a apporté à HantaÏ l'assurance que la voie de la peinture moderne consistait dans l'expression par la couleur. La force de la couleur peut à elle seule donner à la forme sa plénitude et rendre compte de la construction du monde. Cézanne lui a également apporté l'évidence que la voie du moderne en peinture passait par l'aménagement de blanc aussi important que les zones peintes et que l'ensemble peint et non peint pouvait et devait s'agencer en un plan respirant dont pas un point ne s'enfonce. \nE.W. peut faire sienne cette position picturale. L’espace blanc, « vide » dans la peinture de cette artiste, n’est pas quelque chose de vague ou d’inexistant mais un élément dynamique et agissant. Il est le lieu de non-dits et donc de tous les possibles. Ce « rien » relie l’espace peint à un monde invisible, il vise la plénitude.                                                      C’est peut-être un état vers lequel tend cette peinture. Comme l’explique François Cheng dans « Vide et plein, le langage pictural chinois » ce « vide » constitue sans doute le lien par excellence où la forme, la couleur ou le « plein » serait à même d’atteindre cette vraie plénitude.\nLa peinture d’E.W. provoque une ouverture de perceptions, une sollicitation des sens, outre la vue, où se joue une incorporation du réel, une union entre le corps, le sujet, et le monde qui l’entoure. Partout, le geste de l’artiste semble dans son élan, sa variété, capter les souffles qui animent l’univers. Il s’arrondit, s’allège et se fragmente en touches denses ou fluides, s’effiloche pour mieux épouser l’essence cachée des choses.\nSa peinture garde la trace d’un frémissement à travers le temps, comme si l’œil du peintre n’avait capté que l’essence même du réel, tel un calligraphe qui, dans la vitalité et l’immédiateté de son geste, jette ça et là un jaune moisson, un vert lentilles d’eau, un rose ou un terre-de-sienne d’argile, et prend son envol dans l’espace subtil d’un blanc mat, ou celui d’un bleu crépusculaire...\nOù il n’est question que de notre « être au monde… »\n\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "74",
+    "title": "C'est ouvert tout l'été ",
+    "dateStart": 1564304280,
+    "dateEnd": 1567241880,
+    "extended": false,
+    "description": "la galerie est ouverte du jeudi au samedi 11H 19H \nSAUF LES 1ER - 2 - 3 - 15 AOUT 2019",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "75",
+    "title": "Dessin et Peinture de Philippe LECOMTE ",
+    "dateStart": 1573123440,
+    "dateEnd": 1574592240,
+    "extended": false,
+    "description": "VERNISSAGE VENDREDI 8/11 18H - 20H\nSélection de dessins et toiles, une abstraction qui n'en est pas une, la seule condition pour le savoir est de prendre son temps devant chacune et de se laisser faire et faire confiance à son instinct. La couleur fera le reste. \nL'exposition se clôture le DIMANCHE 24 NOVEMBRE de 13H à 18H dans le cadre de l'évènement \"Les galeries, le dimanche\" organisé par l'association Art Galeries Nantes.",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "77",
+    "title": "De l'art ou du bacon?",
+    "dateStart": 1574607600,
+    "dateEnd": 1574613000,
+    "extended": false,
+    "description": "DIMANCHE 24 NOVEMBRE\ndernier jour de l'exposition de Philippe LECOMTE\nCe sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste\n",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "78",
+    "title": "Les galeries, le dimanche 24 Novembre",
+    "dateStart": 1574596800,
+    "dateEnd": 1574614800,
+    "extended": false,
+    "description": "Dans cette invitation, la virgule est importante !\nEn effet, elle initie le temps d’une pause, le temps d’une déambulation, le temps du regard\nqui sourit à ce qui se propose, le temps qui permet d’envisager un après en l’occurrence la\nNuit des Galeries #4 en 2020 !\nEn cet après-midi du dimanche 24 novembre, l’occasion sera pour les fidèles de nos lieux,\naux amoureux-curieux d’artistes de franchir le pas de nos portes, de re-découvrir nos\ngaleries et nos lieux et surtout les artistes que nous y accueillons avec toujours autant de\nbienveillance et la volonté insensée – mais si grisante - de leur promotion et diffusion !",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "79",
+    "title": "Fêtes - Art 2019",
+    "dateStart": 1575280800,
+    "dateEnd": 1577124000,
+    "extended": false,
+    "description": "Des idées cadeaux à partir de 20€ suivez Instagram et Facebook \nUne idée par jour dans le calendr-idées suivez Instagram et Facebook \nRetrouvez ces idées dans l'onglet Artiste Fêtes-Art\nDes bons cadeaux \nLivraisons offertes \nOUVERTURES SPECIALES EN DECEMBRE 2019\nOuvertures du lundi 2 au lundi 23 de 11H - 19H \nOuverture les dimanches 8 - 17 - 22 /12 de 15H à 19H ",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "80",
+    "title": "POLYMORPHIE JORJ MORIN ",
+    "dateStart": 1579168800,
+    "dateEnd": 1580580000,
+    "extended": false,
+    "description": "L'exposition POLYMORPHIE  c'est le désir de faire découvrir à ceux qui ne connaissent pas l'artiste nantais Jorj MORIN, comme il est passionnant de regarder un artiste se confronter à des supports différents  qui offrent des contraintes jubilatoires.\nDécouvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "81",
+    "title": "Il peint sur Nantes Toma L",
+    "dateStart": 1584784800,
+    "dateEnd": 1588256040,
+    "extended": false,
+    "description": "Vernissage Samedi 21 Mars 18H00",
+    "youtube": null,
+    "vernissage": false
+  },
+  {
+    "_id": "82",
+    "title": "Il peint sur Nantes Toma L",
+    "dateStart": 1584789720,
+    "dateEnd": 1588242120,
+    "extended": false,
+    "description": "Tomber par hasard sur le travail de Toma L est la plus belle des chutes!\n\nChuter c'est être arrêté de force, reprendre sa respiration par nécessité avant de se remettre sur pied et comprendre là où l'on s'est fait mal.\nAprès coup, nous découvrons que la peinture de Toma L est un croche pied facétieux du bonhomme qui malicieusement s'amuse de notre gamelle dans un tintamarre incroyable de couleurs.\nNous pourrions aussi perdre pied dans les fonds blancs de ses lithos maculées par ses contours de velours noirs ou ses flaques d'encre.\nMais dans chaque face à face avec une oeuvre de Toma L, il y a de toute façon une histoire à tiroir à dé-nicher.\n\nÇa tombe bien...\n\"Il peint sur Nantes\", première exposition à la Galerie Gaïa  pour Toma L, comme une pause à la maison, dans son pied à terre.\n\n2015 - 2020  - 5ème saison qui commence d'arrache pied pour la Galerie Gaïa.\nMerci pour cette fidélité.",
+    "youtube": null,
+    "vernissage": false
+  }
+]

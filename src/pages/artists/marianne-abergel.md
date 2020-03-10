@@ -105,6 +105,7 @@ biography: >-
 
   2016> 2007 enseigne les Arts plastiques/volume à l'EPSA (école d'architecture
   de la ville de Paris)
+exhibitions: []
 works:
   - title: 'Les Chimères : Le lièvre'
     image: /forestry/les-chimeres-le-lievre.jpg

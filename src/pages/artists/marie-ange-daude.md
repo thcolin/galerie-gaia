@@ -50,6 +50,7 @@ biography: >-
 
   Exposition personnelle « Dévisage ! Défigure ! » les carmes à Langon en
   décembre 2017
+exhibitions: []
 works:
   - title: Carol
     image: /forestry/carol.jpg

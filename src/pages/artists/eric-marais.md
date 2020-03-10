@@ -40,6 +40,7 @@ biography: >-
   Et s’il doit rester des traces de tout cela, Eric Marais veille à ce qu’il
   s’agisse d’œuvres uniques. Non pas des reliques, mais de beaux objets, de
   beaux ti- rages, comme un ultime moyen d’émerveiller.
+exhibitions: []
 works:
   - title: Le concert dans l'oeuf de Jérôme Bosch
     image: /forestry/le-concert-dans-loeuf-de-jerome-bosch.jpg

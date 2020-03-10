@@ -48,6 +48,7 @@ biography: >-
   - "Le marché noir" Festival de micro-édition, Rennes, 2015
 
   - "72 heures de la sérigraphie" Festival de micro-édition, Pol'n, Nantes, 2015
+exhibitions: []
 works:
   - title: Réveil
     image: /forestry/reveil.jpg

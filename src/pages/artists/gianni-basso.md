@@ -106,6 +106,7 @@ biography: >-
   me font voyager sur les cours des rivières, des mers, des océans. Je vois,
   comme un enfant, une multitude de couleurs et je sais qu’il est temps de
   plonger dans les rayons de soleil dans le remous des chutes d’eau ».
+exhibitions: []
 works:
   - title: AMSTERDAM
     image: /forestry/amsterdam.jpg

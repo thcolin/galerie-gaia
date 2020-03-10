@@ -48,6 +48,7 @@ biography: >-
   En tout cas en évolution, la vie se manifeste 
 
   et apporte aussi ses réjouissances.
+exhibitions: []
 works:
   - title: console
     image: /forestry/console.jpg

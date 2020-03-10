@@ -32,6 +32,7 @@ biography: >-
   particulier pour l'observateur. Pour cela, l'œil a effectué un cadrage
   particulier, qui met en scène cette trace urbaine et lui donne du sens par
   rapport à un ensemble de références propres. "
+exhibitions: []
 works:
   - title: L'oeil de la Duchesse
     image: /forestry/loeil-de-la-duchesse.jpg

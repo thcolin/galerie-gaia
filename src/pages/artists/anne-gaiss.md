@@ -65,6 +65,7 @@ biography: >-
    Traits d’union, Galerie Dom-Art, Dax, France
    Art Hors Normes, Lanxi Gallery, Shangaï, Chine
    Galerie Gaïa, Nantes
+exhibitions: []
 works:
   - title: Nigredo
     image: /forestry/nigredo.jpg

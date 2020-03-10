@@ -174,6 +174,7 @@ biography: >-
   Paintings 1980-1995, Centre d'Art Contemporain, Montbeliard. France
 
   Paintings 1980-1995, Musée d'Art Moderne, Céret, France
+exhibitions: []
 works:
   - title: Sans titre
     image: /forestry/sans-titre.jpg

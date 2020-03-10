@@ -84,6 +84,7 @@ biography: >-
   l’absolu.
 
    » (…) car  la Vie  n’est  pas  autre  chose  que  la  capacité  de  maintenir  un  état d’équilibre , au  milieu du changement des  évènements « .    tiré du livre de Baghavad-Gita
+exhibitions: []
 works:
   - title: Les Nanas
     image: /forestry/les-nanas.jpg

@@ -40,6 +40,7 @@ biography: >-
   Grande fresque murale(23m) pour Thomson (Velizy) 
 
   Tympan (bas relief) pour l’église de l’Herbergement
+exhibitions: []
 works:
   - title: Femme lunaire
     image: /forestry/femme-lunaire.jpg

@@ -49,6 +49,11 @@ biography: >-
   (Article de Patrick-Gilles Persin)
 
   https://www.youtube.com/watch?v=t6Et5ZKeUXY
+exhibitions:
+  - title: Tony Soulié
+    location: G a l e r i e  G a ? a
+    start: 0
+    end: null
 works:
   - title: La rue de la Soi
     image: /forestry/la-rue-de-la-soi.jpg

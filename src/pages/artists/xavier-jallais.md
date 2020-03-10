@@ -78,6 +78,7 @@ biography: >-
   2010 :Le chemin des ateliers, Chauvigny (86)
 
   Qui suis-je ?, rencontre d’art contemporain, château de Saint Auvent (87)
+exhibitions: []
 works:
   - title: Automorphie Structure tridimensionnelle 2
     image: /forestry/automorphie-structure-tridimensionnelle-2.jpg

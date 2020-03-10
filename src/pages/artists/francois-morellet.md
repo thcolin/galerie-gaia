@@ -42,6 +42,7 @@ biography: >-
   il est le deuxième artiste vivant à réaliser une œuvre pérenne  au Musée du
   Louvre. En 2011, son exposition « Réinstallations » au Centre Pompidou est sa
   455ème exposition personnelle.
+exhibitions: []
 works:
   - title: PI 02001E TT coloré
     image: /forestry/pi-02001e-tt-colore.jpg

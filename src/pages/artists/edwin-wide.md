@@ -32,6 +32,7 @@ biography: >-
   détruits et la rapidité de notre existence. »
 
   François-René de Chateaubriand
+exhibitions: []
 works:
   - title: '03/01/18 14:15'
     image: /forestry/030118-1415.jpg

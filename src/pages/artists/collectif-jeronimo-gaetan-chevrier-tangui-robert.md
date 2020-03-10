@@ -37,6 +37,7 @@ biography: >-
   de l’autre. En parallèle de cette production collective chacun a prolongé son
   travail personnel autour des questions d’extraction, de déplacements et de
   recouvrements propres à l’exploitation des carrières."
+exhibitions: []
 works:
   - title: Gisements
     image: /forestry/gisements.jpg

@@ -52,6 +52,17 @@ biography: >-
   cri joyeux d'un rouge qui point sur la mer ou comment la Zélande est peinture.
 
   Christian Perrier mai 2015
+exhibitions:
+  - title: galerie Arts Pluriels
+    location: ''
+    start: 2014
+    end: 2014
+  - title: >-
+      la « Neige n’est pas loin » édition avec le poète Alain Freixe 2015 18
+      peintures anthologie Bilingue des poètes de Zeeland
+    location: G a l e r i e   G a ? a Nantes
+    start: 260515
+    end: 260515
 works: []
 ---
 

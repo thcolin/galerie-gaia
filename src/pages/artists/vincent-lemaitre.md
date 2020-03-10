@@ -35,6 +35,11 @@ biography: >-
 
 
   Vincent Lemaitre 2015
+exhibitions:
+  - title: en permanence
+    location: 'Galerie 0livia GANANCIA, Paris 6?.'
+    start: 0
+    end: null
 works: []
 ---
 

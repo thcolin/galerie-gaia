@@ -55,6 +55,7 @@ biography: >-
 
 
   Où il n’est question que de présence au monde.
+exhibitions: []
 works:
   - title: Sans Titre N°4
     image: /forestry/sans-titre-ndegree4.jpg

@@ -26,6 +26,15 @@ biography: >-
   nombre. Ses productions sont les plus fréquemment nourries de voyages et
   référencées à la rue, source d'inspiration infinie considérée comme une
   galerie à ciel ouvert et un parfait terrain d'expérimentation.
+exhibitions:
+  - title: ASIE RIDERZ Voyage à Nantes 2015
+    location: 'http://asieriderz.com/?p=940&lang=fr'
+    start: 0
+    end: null
+  - title: Direction artistique et exposition collective LA VILLA OCCUPADA
+    location: Le Voyage ? Nantes 2014
+    start: 0
+    end: null
 works:
   - title: MASQUE
     image: /forestry/masque.jpg

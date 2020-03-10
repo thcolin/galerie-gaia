@@ -52,6 +52,7 @@ biography: >-
   Galerie Gaïa - Nantes - Janvier 2017
 
   Galerie Gaïa - Nantes - Novembre 2019
+exhibitions: []
 works:
   - title: Sans
     image: /forestry/sans.jpg

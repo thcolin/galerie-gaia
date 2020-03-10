@@ -37,6 +37,7 @@ biography: >-
   se consacre pleinement à son art en atelier, réalisant sculptures et
   peintures, qui se concrétisent par une exposition de ses œuvres à Lyon (« La
   Galerie »).
+exhibitions: []
 works:
   - title: La tendresse
     image: /forestry/la-tendresse.jpg

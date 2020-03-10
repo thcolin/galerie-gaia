@@ -17,6 +17,7 @@ biography: >-
   Francheteau, la peinture beaucoup plus onirique de Nadja Hollande ou encore le
   les photographies au sténopé de Brumos Dumas et enfin les sculptures de
   Françoise Boudier.
+exhibitions: []
 works:
   - title: '610'
     image: /forestry/610.jpg

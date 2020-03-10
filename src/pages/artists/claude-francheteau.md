@@ -37,6 +37,15 @@ biography: >-
 
 
   Norbert Marsal- Carl de Châteauneuf.
+exhibitions:
+  - title: Exposition personnelle
+    location: Galerie Rouge Grenade   Paris XX
+    start: 2014
+    end: null
+  - title: Espace art contemporain AVV
+    location: St Mathurin sur Loire  49
+    start: 2015
+    end: null
 works:
   - title: CIEL 2031
     image: /forestry/ciel-2031.jpg

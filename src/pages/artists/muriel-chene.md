@@ -44,6 +44,35 @@ biography: >-
 
 
   Carole Andréani
+exhibitions:
+  - title: 'Affordable Art Fair, Galerie Virginie Barrou Planquart'
+    location: 'Bruxelles, Belgique'
+    start: 2015
+    end: 2010
+  - title: 'Affordable Art Fair London Battersea, Galerie Virginie Barrou Planquart'
+    location: 'Bruxelles, Belgique'
+    start: 2015
+    end: 0
+  - title: 'Salon La Se?rienne des Arts, Sevres'
+    location: Rec?oit le prix Artension
+    start: 2014
+    end: 0
+  - title: Les Demoiselles de Verre
+    location: Claret He?rault
+    start: 2014
+    end: 0
+  - title: Carrousel des me?tiers d'art et de cre?ation
+    location: Paris
+    start: 2014
+    end: 0
+  - title: 'Le Verre Contemporain, Galerie Espace Calende'
+    location: Rouen
+    start: 2014
+    end: 0
+  - title: Marche? de l'art
+    location: St Germain en Laye
+    start: 2014
+    end: 0
 works:
   - title: Entre ciel et fonds II
     image: /forestry/entre-ciel-et-fonds-ii.jpg

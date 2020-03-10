@@ -32,6 +32,7 @@ biography: >-
 
   Et les sérigrapies sont réalisées par un CAT régionales, ce qui est aussi
   important pour Valérie LEROUX
+exhibitions: []
 works:
   - title: ''
     image: /forestry/ia.jpg

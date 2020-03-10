@@ -77,6 +77,7 @@ biography: >-
   2011
 
   Bram van Velde - Geer Van Velde, Museum Belvédère, Heerenveen
+exhibitions: []
 works:
   - title: MP 320 (23/100)
     image: /forestry/mp-320-23100.jpg

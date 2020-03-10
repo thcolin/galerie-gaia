@@ -7,6 +7,7 @@ birth: 0
 death: 0
 expose: true
 biography: ''
+exhibitions: []
 works:
   - title: Hervé Di Rosa - Le Pêcheur 29/60
     image: /forestry/herve-di-rosa-le-pecheur-2960.jpg

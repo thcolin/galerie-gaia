@@ -59,6 +59,7 @@ biography: >-
 
   MAI 2019 : WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD - MALL GALLERIES,
   London
+exhibitions: []
 works:
   - title: OMER
     image: /forestry/omer.jpg

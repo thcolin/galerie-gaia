@@ -35,6 +35,15 @@ biography: >-
 
 
   Annick Argant
+exhibitions:
+  - title: En permanence à la galerie Lindengruen    www.lindengruen.at
+    location: Vienne Autriche
+    start: 0
+    end: null
+  - title: en permanence à la galerie Ze Art  www.zeartgalerie.com
+    location: Dinard
+    start: 0
+    end: null
 works:
   - title: Petit Ange
     image: /forestry/petit-ange.jpg

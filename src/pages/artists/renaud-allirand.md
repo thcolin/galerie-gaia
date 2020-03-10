@@ -61,6 +61,7 @@ biography: >-
 
 
   Translation: Diana Quinby
+exhibitions: []
 works:
   - title: Sans titre
     image: /forestry/sans-titre.jpg

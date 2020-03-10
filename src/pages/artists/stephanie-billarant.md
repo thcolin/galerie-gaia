@@ -7,6 +7,23 @@ birth: 0
 death: 0
 expose: true
 biography: "Stéphanie Billarant, née à Nantes en 1966, obtient un BA communication et art (Wake Forest university – Winston Salem N.C.)\_; elle y apprend les arts graphiques – sérigraphie, sculpture, gravure - la réalisation de courts métrages, le montage, mais aussi le théâtre et la danse, le piano et le chant. Ce sont les arts du spectacle qui forgeront ses premières sensibilités artistiques.\_\_\nA vingt ans la peinture s’impose comme une évidence. Commence un long parcours où elle apprend et maîtrise les techniques de la figuration, mais part assez vite vers des mondes plus étrangers, d’où elle va peu à peu faire émerger sa surréalité.\n\_Aujourd’hui son œuvre s’est enrichie de toutes ces travées. Elle garde du spectacle le goût pour le mouvement qui va s’exprimer par la découverte de la photographie en 2007.\_Le medium lui permet d’aboutir sa réflexion sur la perte des repères. Loin de la détourner\_de la peinture, il montre de nouvelles directions ; elle découvre l’encre,\_explore sa matière, projette des mondes ramifiés qui plongent l’œil dans un vertige figuratif.\_\n\_\nStéphanie Billarant expose aujourd’hui régulièrement dans plusieurs galeries nantaises et parisiennes. En mars 2013, Patrick BRILLET (éditeur de mobilier design – Fine Art Londres) présente une série des ses photos au Grand Palais pour ART PARIS ART FAIR.\n\nParallèlement à son travail d'artiste,\_elle est aussi photographe de mer (photographe officiel Energy Team 34thACWS)"
+exhibitions:
+  - title: G a l e r i e  G a ï a
+    location: Nantes
+    start: 18062015
+    end: 7072015
+  - title: ART PARIS ART FAIR
+    location: Grand Palais Paris
+    start: 2015
+    end: 2015
+  - title: VOIES OFF
+    location: ARLES
+    start: 2013
+    end: null
+  - title: LE PURGATOIRE
+    location: PARIS
+    start: 2015
+    end: 2015
 works:
   - title: IN III // N°11
     image: /forestry/in-iii-ndegree11.jpg

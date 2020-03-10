@@ -54,6 +54,7 @@ biography: >-
   La couleur, les transparences prennent toute leur place, les tons sont chauds.
   La peinture, le geste sont tout en énergie. Ils donnent toute la force aux
   personnages.
+exhibitions: []
 works:
   - title: Il court
     image: /forestry/il-court.jpg

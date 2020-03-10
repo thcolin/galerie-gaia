@@ -14,6 +14,7 @@ biography: >-
 
   Une histoire incroyable que je vous raconterai en venant le regarder à la
   galerie...
+exhibitions: []
 works:
   - title: SINE NOB'LITATE
     image: /forestry/sine-noblitate.jpg

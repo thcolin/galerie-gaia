@@ -66,6 +66,7 @@ biography: >-
 
 
   " Hand Art" Production FFHB Edition De La Martiniére Sortie Oct 2012
+exhibitions: []
 works:
   - title: '1347'
     image: /forestry/1347.jpg

@@ -48,6 +48,7 @@ biography: >-
   supports différents et qui offrent des contraintes jubilatoires. Qu’importe
   les dates de ces œuvres passées, car au présent, ses lignes claires et cette
   palette de couleurs nous font intimement vibrer.
+exhibitions: []
 works:
   - title: Vers l'Ouest
     image: /forestry/vers-louest.jpg

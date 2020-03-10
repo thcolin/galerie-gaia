@@ -7,6 +7,7 @@ birth: 0
 death: 0
 expose: true
 biography: ''
+exhibitions: []
 works:
   - title: Terre
     image: /forestry/terre.jpg

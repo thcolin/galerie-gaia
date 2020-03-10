@@ -31,6 +31,7 @@ biography: >-
   de la notion de la peinture et de la sculpture, il essaie de déplacer le
   dessin de l’espace à deux dimensions à l’illusion de l’espace en trois
   dimensions.
+exhibitions: []
 works:
   - title: main
     image: /forestry/main.jpg

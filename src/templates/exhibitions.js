@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment, useRef } from 'react'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
 import RichText from 'components/RichText'
@@ -9,14 +9,26 @@ const Exhibitions = ({ ...props }) => {
   const { pageContext: { frontmatter } } = props
   const { exhibitions } = frontmatter
 
+  const ref = useRef(null)
   const { page, setPage, pieces, length } = usePagination(exhibitions, 10)
+
+  const movePage = (page) => {
+    setPage(page)
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+
+      if (ref.current) {
+        ref.current.scrollIntoView()
+      }
+    }, 300)
+  }
 
   return (
     <Layout {...props}>
-      <section css={Exhibitions.styles.element}>
+      <section ref={ref} css={Exhibitions.styles.element}>
         {pieces.map((exhibition, index) => (
-          <>
-            <article key={index}>
+          <Fragment key={exhibition.title}>
+            <article>
               <Image src={exhibition.image} />
               <div>
                 <h2>{exhibition.title}</h2>
@@ -24,13 +36,13 @@ const Exhibitions = ({ ...props }) => {
               </div>
             </article>
             <hr />
-          </>
+          </Fragment>
         ))}
         {length > 1 && (
           <nav>
-            <button disabled={page === 0} onClick={() => setPage(page - 1)}>Previous</button>
+            <button disabled={page === 0} onClick={() => movePage(page - 1)}>Previous</button>
             <span>{page + 1} / {length}</span>
-            <button disabled={(page + 1) === length} onClick={() => setPage(page + 1)}>Next</button>
+            <button disabled={(page + 1) === length} onClick={() => movePage(page + 1)}>Next</button>
           </nav>
         )}
       </section>
@@ -43,7 +55,7 @@ Exhibitions.styles = {
     display: 'flex',
     flexDirection: 'column',
     flex: 1,
-    padding: '2em',
+    padding: '2em 2em 0',
     '>article': {
       flexShrink: 0,
       display: 'flex',
@@ -54,7 +66,8 @@ Exhibitions.styles = {
       },
       '>span': {
         flex: 0,
-        height: '15rem',
+        alignItems: 'center',
+        minHeight: '20rem',
         minWidth: '15rem',
         maxWidth: '50%',
         [theme.medias.small]: {
@@ -86,6 +99,7 @@ Exhibitions.styles = {
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'center',
+      padding: '0 0 2em',
       '>button': {
         margin: '0 1rem',
       },

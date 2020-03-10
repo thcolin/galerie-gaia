@@ -93,6 +93,7 @@ biography: >-
 
   bienveillance et la volonté insensée – mais si grisante - de leur promotion et
   diffusion !
+exhibitions: []
 works:
   - title: 'Nuit des Galeries#2'
     image: /forestry/nuit-des-galeries2.jpg

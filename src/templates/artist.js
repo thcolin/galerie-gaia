@@ -110,7 +110,7 @@ const Artist = ({ ...props }) => {
             <RichText children={frontmatter.biography} />
           )}
         </div>
-        {frontmatter.exhibitions?.length && (
+        {!!frontmatter.exhibitions?.length && (
           <div css={Artist.styles.exhibitions}>
             <h3>Expositions</h3>
             {frontmatter.exhibitions.map((exhibition, index) => (

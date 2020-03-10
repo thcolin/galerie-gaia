@@ -7,6 +7,7 @@ birth: 0
 death: 0
 expose: true
 biography: "L'artiste fut diplômé de l'Académie des Beaux-Arts de Wroclaw (Pologne).\n\nAprès une remise en question de sa vie, Richard Swierad a décidé de se consacrer entièrement à la création artistique.\nIl compose d'abord une «\_matrice\_», «\_image-sensation\_», à partir d'une ou plusieurs photographies  qu'il a prises lui-même. A partir de là, avec des outils numériques, se met en mouvement le geste du peintre qu'il a toujours été. \n\n«\_Je suis imagiste\_»..."
+exhibitions: []
 works:
   - title: St Lui
     image: /forestry/st-lui.jpg

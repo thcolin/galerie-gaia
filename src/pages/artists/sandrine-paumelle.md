@@ -26,6 +26,7 @@ biography: >-
 
 
   Sandrine Paumelle
+exhibitions: []
 works:
   - title: Comme d'habitude
     image: /forestry/comme-dhabitude.jpg
