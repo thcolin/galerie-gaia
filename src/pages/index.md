@@ -2,7 +2,8 @@
 title: Accueil
 template: home
 carousel:
-- image: "/forestry/1001.jpg"
-- image: "/forestry/1324.jpg"
+- image: "/forestry/jouvence.jpg"
+- image: "/forestry/mp-314-33100.jpg"
+- image: "/forestry/diptyque-performance-du-vernissage.jpg"
 
 ---
