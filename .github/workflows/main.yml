@@ -10,11 +10,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install build dependencies
-      run: sudo apt-get install cmake autoconf automake libtool nasm make pkg-config git
-    - name: Build static with Gulp
-      uses: elstudio/actions-js-build/build@v2
-    - name: Commit changes
-      uses: elstudio/actions-js-build/commit@v3
-      with:
-        commitMessage: Update from Gulp - Updated static folder
+    - uses: actions/setup-node@v1
+    # - name: Install build dependencies
+    #   run: sudo apt-get install cmake autoconf automake libtool nasm make pkg-config git
+    - run: npm install -g gulp
+    - run: npm install
+    - run: gulp
+    - name: Commit report
+      run: |
+        git config --global user.name 'Thomas Colin'
+        git config --global user.email 'thcolin@users.noreply.github.com'
+        git commit -am "Update from Gulp - Updated static folder"
+        git push
