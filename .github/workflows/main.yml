@@ -1,11 +1,11 @@
-name: Gulp build and commit updated static
+name: Build and deploy
 
 on:
   push:
     branches: [ master ]
 
 jobs:
-  gulp-build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
