@@ -1,11 +1,11 @@
-name: Build and deploy
+name: Build and publish
 
 on:
   push:
     branches: [ master ]
 
 jobs:
-  build-deploy:
+  build-publish:
     runs-on: ubuntu-latest
 
     steps:
