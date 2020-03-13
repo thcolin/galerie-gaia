@@ -11,17 +11,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
-    - run: npm install -g gulp
-    - run: npm install
-    - run: gulp
-    - name: Configure git
-      run: |
-        git config --global user.name 'Thomas Colin'
-        git config --global user.email 'thcolin@users.noreply.github.com'
-    - run: ./.github/scripts/commit_static.sh
-    - run: npm run build
-    - run: mv public docs
-    - run: |
-        git add docs
-        git commit -am "Publish Github Pages docs folder"
-        git push
+    - run: ./.github/scripts/setup.sh
+    - run: ./.github/scripts/build_static.sh
+    - run: ./.github/scripts/build_publish.sh
