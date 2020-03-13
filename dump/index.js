@@ -67,6 +67,7 @@ fs.writeFileSync(
     exhibitions: events
       .reverse()
       .map(event => ({
+        template: 'exhibition',
         title: (event.title || '').trim(),
         image: `/forestry/${slug((event.title || event._id), { lower: true })}.jpg`,
         content: [
