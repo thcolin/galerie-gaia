@@ -3,8 +3,8 @@ template: artist
 title: Xavier Jallais
 location: ''
 field: Peintre
-birth: "1"
-death: "0"
+birth: ''
+death: ''
 expose: true
 biography: "Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vienne.
   \ Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire de l’Art
