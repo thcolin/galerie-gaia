@@ -74,12 +74,6 @@ Navigation.styles = {
     backgroundColor: theme.colors.white,
     textAlign: 'center',
     fontFamily: theme.fonts.primary,
-    [theme.medias.large]: {
-      overflowY: 'auto',
-    },
-    [theme.medias.extralarge]: {
-      overflowY: 'auto',
-    },
   },
   header: {
     display: 'flex',
@@ -111,6 +105,12 @@ Navigation.styles = {
     },
   },
   container: {
+    [theme.medias.small]: {
+      overflowY: 'auto',
+    },
+    [theme.medias.medium]: {
+      overflowY: 'auto',
+    },
     [theme.medias.large]: {
       height: 'inherit !important',
       overflow: 'inherit !important',
@@ -136,6 +136,7 @@ Navigation.styles = {
     flexDirection: 'column',
     justifyContent: 'space-between',
     flex: 1,
+    overflowY: 'auto',
     '>div': {
       margin: '0.5rem 1rem',
       [theme.medias.small]: {
