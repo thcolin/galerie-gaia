@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-git worktree add public gh-pages
+git worktree --checkout add public gh-pages
 npm run build
 cd public
 
