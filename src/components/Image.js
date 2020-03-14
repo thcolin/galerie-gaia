@@ -15,7 +15,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
         {...props}
         ref={ref}
         css={Image.styles.image}
-        src={min ? src.replace(/^\/forestry/, '/cdn') : src}
+        src={`/galerie-gaia${min ? src.replace(/^\/forestry/, '/cdn') : src}`}
         alt={alt}
         onLoad={() => setReady(true)}
         onError={() => setReady(true)}
@@ -27,7 +27,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
       {trace && (
         <img
           css={Image.styles.trace}
-          src={src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/, '.svg')}
+          src={`/galerie-gaia${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/, '.svg')}`}
         />
       )}
     </span>

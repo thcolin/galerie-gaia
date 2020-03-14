@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/',
+  pathPrefix: '/galerie-gaia',
   siteMetadata: require('./site-metadata.json'),
   plugins: [
     'gatsby-plugin-resolve-src',
