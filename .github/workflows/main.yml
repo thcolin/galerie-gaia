@@ -11,6 +11,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
-    - run: ./.github/scripts/setup.sh
     - run: ./.github/scripts/build_static.sh
-    - run: ./.github/scripts/build_publish.sh
+    - uses: enriikke/gatsby-gh-pages-action@v2
+      with:
+        access-token: ${{ secrets.ACCESS_TOKEN }}
+        deploy-branch: gh-pages
