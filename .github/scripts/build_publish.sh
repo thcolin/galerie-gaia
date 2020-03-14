@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 
-ls -l
+git worktree add public gh-pages
 npm run build
 cd public
-git status
 
 if [ -z "$(git status --porcelain)" ]; then
   echo "Working directory clean, nothing to publish"
