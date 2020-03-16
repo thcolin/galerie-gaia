@@ -84,6 +84,9 @@ Contact.styles = {
       fontSize: '1.5rem',
       color: theme.colors.black,
     },
+    '>div': {
+      lineHeight: '1.5',
+    },
     '>form': {
       display: 'flex',
       flexDirection: 'column',
