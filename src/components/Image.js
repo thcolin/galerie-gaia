@@ -54,7 +54,7 @@ Image.styles = {
   image: {
     height: '100%',
     width: '100%',
-    transition: 'opacity ease-in-out 400ms 400ms',
+    transition: 'opacity ease-in-out 400ms',
   },
 }
 
