@@ -1,4 +1,29 @@
 ---
 label: " Artistes"
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Titre
+  default: Artistes
+- name: artists
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: artistes-page
+  label: Artists
+  description: Artistes
+- name: template
+  type: text
+  config:
+    required: false
+  label: template
+  hidden: true
+  default: artists
