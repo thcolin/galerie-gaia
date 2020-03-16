@@ -9,14 +9,7 @@ sections:
   label: Accueil
 - type: document
   path: src/pages/artists.md
-  label: Artistes - Page
-- type: directory
-  path: src/pages/artists
-  label: Artistes - Bibliothèque
-  create: all
-  match: "**/*"
-  templates:
-  - artist
+  label: Artistes
 - type: document
   path: src/pages/expositions.md
   label: Expositions
@@ -31,6 +24,13 @@ sections:
   label: Informations
   templates:
   - config
+- type: directory
+  path: src/pages/artists
+  label: Les artistes
+  create: all
+  match: "**/*"
+  templates:
+  - artist
 upload_dir: static/forestry
 public_path: "/forestry"
 front_matter_path: ''
