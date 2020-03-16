@@ -10,7 +10,6 @@ sections:
 - type: document
   path: src/pages/artists.md
   label: Artistes - Page
-  match: "**/*"
 - type: directory
   path: src/pages/artists
   label: Artistes - Bibliothèque
