@@ -50,6 +50,8 @@ Artist.styles = {
     color: theme.colors.white,
     fontSize: '1.25em',
     fontWeight: 600,
+    textAlign: 'center',
+    lineHeight: 1.5,
     transition: 'transform 300ms ease-in-out',
   },
   image: {
