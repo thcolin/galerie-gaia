@@ -1,5 +1,5 @@
 ---
-label: " Artistes"
+label: " Artists"
 hide_body: true
 fields:
 - name: title
@@ -13,7 +13,7 @@ fields:
   type: blocks
   label: Artists
   template_types:
-  - artistes
+  - artist
   config:
     min: 
     max: 
