@@ -10,15 +10,13 @@ fields:
   description: Titre
   default: Artistes
 - name: artists
-  type: list
+  type: blocks
+  label: Artists
+  template_types:
+  - artistes
   config:
-    use_select: true
     min: 
     max: 
-    source:
-      type: pages
-      section: artistes-page
-  label: Artists
   description: Artistes
 - name: template
   type: text
@@ -27,3 +25,5 @@ fields:
   label: template
   hidden: true
   default: artists
+pages:
+- src/pages/artists.md
