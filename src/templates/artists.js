@@ -5,14 +5,14 @@ import theme from 'theme'
 
 const Artists = ({ ...props }) => {
   const { pageContext: { pages, frontmatter } } = props
-  const selection = frontmatter.artists.map(artist => artist.artist.split('/').pop())
 
-  const artists = pages.filter(page =>
-    page.frontmatter.template === 'artist' &&
-    page.frontmatter.expose &&
-    page.frontmatter.works.filter(work => !work.sold).length &&
-    selection.includes(page.base)
-  )
+  const artists = frontmatter.artists
+    .map(artist => pages.find(page => page.base === artist.artist.split('/').pop()))
+    .filter(page =>
+      page &&
+      page.frontmatter.expose &&
+      page.frontmatter.works.filter(work => !work.sold).length
+    )
 
   return (
     <Layout {...props}>
