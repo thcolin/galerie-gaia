@@ -7,9 +7,13 @@ sections:
 - type: document
   path: src/pages/index.md
   label: Accueil
+- type: document
+  path: src/pages/artists.md
+  label: Artistes - Page
+  match: "**/*"
 - type: directory
   path: src/pages/artists
-  label: Artistes
+  label: Artistes - Bibliothèque
   create: all
   match: "**/*"
   templates:
