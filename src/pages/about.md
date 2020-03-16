@@ -3,8 +3,8 @@ template: about
 tabs:
 - title: Evènementiel
   content:
-  - column: "# Evènementiel\n\n**Singularisez vous**  \nMarquez la relation avec vos
-      clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
+  - column: "# Evènementiel\n\n**Singularisez vous !**  \nMarquez la relation avec
+      vos clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
       une exposition privée d’artistes contemporains dans votre entreprise ou dans
       un lieu de votre choix\n\n![](/forestry/event.jpg)"
   - column: "**Surprenez les !**  \nOffrez une oeuvre d’art à vos clients, vos salariés
