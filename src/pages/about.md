@@ -73,14 +73,14 @@ tabs:
       vous soutenez le développement de la création artistique contemporaine\n\n![Artiste
       Isabelle HEALY](/forestry/fondation.jpg 'Sculpture \"Fondation\"')"
   - column: "_L’oeuvre doit être exposée au public ou aux salariés durant 5 ans, durée
-      de son amortissement_  \n   \n**Comment :**  \n  \nL’œuvre figure dans les immobilisations
+      de son amortissement_\n\n**Comment :**\n\nL’œuvre figure dans les immobilisations
       de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
-      spécial au passif du bilan de la société.  \n   \n**Exemple :**  \n  \nUne entreprise
+      spécial au passif du bilan de la société.\n\n**Exemple :**\n\nUne entreprise
       réalisant 350 000€ de chiffre d’affaire acquiert une œuvre de 7000€ HT  \nLa
       déduction annuelle ne peut excéder la limite de 5 pour mille du chiffre d’affaire.
       \ \nLe montant annuel maximum déductible 350 000 x 0,005 soit 1750€  \nAmortissement
       annuel de l’œuvre 7000€ / 5 ans = 1400€  \nAinsi sur 5 ans vous pouvez déduire
-      la totalité de votre acquisition"
+      la totalité de votre acquisition\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
 title: Prestations
 
 ---
