@@ -32,8 +32,8 @@ tabs:
       de voeux en édition limitée\n* Création de cartes de voeux représentant les
       valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
       de départ (retraite - promotion)\n* Cadeau client pour un anniversaire patrimonial
-      de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n*
-      ![](/forestry/galeriegaia@opensquash2018.jpg)\n\n![](/forestry/galeriegaia@lnh-coffretanniversaire.jpg)"
+      de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste
+      Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")![](/forestry/galeriegaia@kazy-adelis.JPG)"
 - title: Défiscalisation
   content:
   - column: "# Défiscalisation\n\n**Pourquoi :**  \n  \nL’art sur le lieu de travail
