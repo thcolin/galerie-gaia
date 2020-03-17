@@ -15,14 +15,14 @@ tabs:
       ![](/forestry/GAIACARTE03.jpg)![](/forestry/ville-revee.jpg)
   - column: "Trophée par un artiste\n\nAu choix dans les oeuvres disponibles \n\nCréation
       spéciale pour l'évènement \n\n![](/forestry/galeriegaia@opensquash2018.jpg)"
-- title: Evènementiel B to B  ET B to C
+- title: Evènementiel
   content:
   - column: |-
-      # Expérience client
+      # Evènementiel
 
       **Singularisez vous !**
 
-      Marquez les esprits  pour booster l'expérience client en créant **un évènement exclusif :**
+      Marquez les esprits  pour booster l'expérience clients en créant **un évènement exclusif :**
 
       * exposition privée d’artistes régionaux
       * performance d'artiste en live
@@ -31,8 +31,8 @@ tabs:
   - column: "**Surprenez en offrant une oeuvre d'artiste !**\n\n* Catalogue de cartes
       de voeux en édition limitée\n* Création de cartes de voeux représentant les
       valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
-      de départ (retraite - promotion)\n* Anniversaire de l'entreprise\n\n**Un projet
-      - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n*
+      de départ (retraite - promotion)\n* Anniversaire patrimonial de l'entreprise
+      (50 - 100 ans)\n\n**Un projet - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n*
       ![](/forestry/galeriegaia@opensquash2018.jpg)\n\n![](/forestry/galeriegaia@lnh-coffretanniversaire.jpg)"
 - title: Défiscalisation
   content:
