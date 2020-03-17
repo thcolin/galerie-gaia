@@ -15,17 +15,17 @@ tabs:
       ![](/forestry/galeriegaia@opensquash2018.jpg)\n\n![](/forestry/galeriegaia@lnh-coffretanniversaire.jpg)\n\n![](/forestry/2.jpg)"
 - title: Défiscalisation
   content:
-  - column: "# Défiscalisation\n\n**Pourquoi :**  \n  \nL’art sur le lieu de travail
-      peut apporter de l’inspiration, de la créativité, du beau !  \nImaginez votre
-      plaisir, celui de vos équipes et des clients, en entrant dans un espace personnalisé
+  - column: "# Défiscalisation\n\n**Pourquoi :**\n\nL’art sur le lieu de travail peut
+      apporter de l’inspiration, de la créativité, du beau !  \nImaginez votre plaisir,
+      celui de vos équipes et des clients, en entrant dans un espace personnalisé
       grâce à votre choix d’une toile, d’une sculpture, d’une estampe, photo ou dessin.
       \ \nImaginez celles ci dans les allées de vos bureaux, salle de réunion ou votre
       bureau.  \nSoutenir un artiste vivant est un acte fort pour communiquer sur
-      la culture de votre entreprise, sur ses valeurs.  \n   \nCette déduction a été
-      créée pour les entreprises et pour les professions libérales qui achètent des
-      œuvres d’art originales et d’artistes vivants.  \nGrâce à votre investissement
-      :\n\n* vous constituez un patrimoine\n* vous faites une économie d’impôts\n*
-      vous soutenez le développement de la création artistique contemporaine"
+      la culture de votre entreprise, sur ses valeurs.\n\nCette déduction a été créée
+      pour les entreprises et pour les professions libérales qui achètent des œuvres
+      d’art originales et d’artistes vivants.  \nGrâce à votre investissement :\n\n*
+      vous constituez un patrimoine\n* vous faites une économie d’impôts\n* vous soutenez
+      le développement de la création artistique contemporaine\n\n  ![](/forestry/20190202_131517.jpg)"
   - column: "_L’oeuvre doit être exposée au public ou aux salariés durant 5 ans, durée
       de son amortissement_  \n   \n**Comment :**  \n  \nL’œuvre figure dans les immobilisations
       de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
