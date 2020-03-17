@@ -1,6 +1,14 @@
 ---
 template: about
 tabs:
+- title: 'RSE '
+  content:
+  - column: |-
+      Développer sa marque employeur en créant votre identité arty !
+
+      Je prépare une sélection spécifique de sérigraphies, photos, sculptures ou oeuvres originales après étude de vos locaux et en écho à la culture de votre entreprise.
+
+      Le choix peut être organisé aussi en mode collaboratif et participatif.
 - title: Idées cadeaux originales
   content:
   - column: "Liste de mariage, anniversaire, départ à la retraite \n\nLa carte cadeau
