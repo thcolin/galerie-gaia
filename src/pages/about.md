@@ -3,6 +3,8 @@ template: about
 tabs:
 - title: Idées cadeaux originales
   content:
+  - column: "Liste de mariage, anniversaire, départ à la retraite \n\nLa carte cadeau
+      permet de laisser le choix \n\nRetour possible de l'oeuvre choisie\n\n![](/forestry/galeriegaia-cartecadeau.jpg)"
   - column: |-
       Carte de voeux
 
