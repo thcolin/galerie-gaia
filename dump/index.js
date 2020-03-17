@@ -31,9 +31,9 @@ artists.forEach(artist => {
         image: `/forestry/${slug((work.title || work._id), { lower: true })}.jpg`,
         technique: (work.technique || '').trim(),
         dimensions: {
-          height: parseInt((work.dimensions || '').split('x')[0]) || null,
-          width: parseInt((work.dimensions || '').split('x')[1]) || null,
-          depth: parseInt((work.dimensions || '').split('x')[2]) || null,
+          height: parseInt((work.dimensions || '').split(/x/i)[0]) || null,
+          width: parseInt((work.dimensions || '').split(/x/i)[1]) || null,
+          depth: parseInt((work.dimensions || '').split(/x/i)[2]) || null,
         },
         description: (work.description || '').trim(), // search for /(\/? ?(\d+(? )?(?EUR|€)))/
         price: parseInt(work.priceSale),

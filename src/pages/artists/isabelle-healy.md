@@ -91,8 +91,8 @@ works:
     technique: Bronze 3/8
     dimensions:
       height: 35
-      width: null
-      depth: null
+      width: 35
+      depth: 11
     description: |-
       2500€ 
       Disponible sur commande
@@ -103,8 +103,8 @@ works:
     technique: Bronze 6/8
     dimensions:
       height: 51
-      width: null
-      depth: null
+      width: 8
+      depth: 7
     description: |-
       1900€
       Disponible sur commande
@@ -115,8 +115,8 @@ works:
     technique: Bronze 4/8
     dimensions:
       height: 65
-      width: null
-      depth: null
+      width: 13
+      depth: 13
     description: |-
       4200€
       Disponible sur commande
@@ -127,8 +127,8 @@ works:
     technique: Bronze 2/8
     dimensions:
       height: 21
-      width: null
-      depth: null
+      width: 12
+      depth: 6
     description: |-
       1200€
       Disponible sur commande
@@ -149,8 +149,8 @@ works:
     technique: Bronze et feuille d'or
     dimensions:
       height: 97
-      width: null
-      depth: null
+      width: 60
+      depth: 20
     description: |-
       8 500 € 
       Disponible sur commande
@@ -171,7 +171,7 @@ works:
     technique: Bronze
     dimensions:
       height: 73
-      width: null
+      width: 58
       depth: null
     description: >-
       Confluence (grand format de l'envolée) 8400€. Disponible sur commande
@@ -186,7 +186,7 @@ works:
     technique: Bronze
     dimensions:
       height: 28
-      width: null
+      width: 37
       depth: null
     description: >-
       Fondation 5700€. "L'Humain est la première force dans n'importe quel
@@ -198,8 +198,8 @@ works:
     technique: Bronze
     dimensions:
       height: 50
-      width: null
-      depth: null
+      width: 43
+      depth: 14
     description: >-
       Les Albatros 5500€
 
@@ -222,8 +222,8 @@ works:
     technique: Bronze
     dimensions:
       height: 11
-      width: null
-      depth: null
+      width: 12
+      depth: 5
     description: 2000€
     price: .nan
     sold: false

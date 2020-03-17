@@ -59,7 +59,7 @@ works:
     technique: technique mixte sur bois
     dimensions:
       height: 120
-      width: null
+      width: 90
       depth: null
     description: 2200€
     price: .nan
@@ -85,7 +85,7 @@ works:
     technique: Mixte sur papier
     dimensions:
       height: 50
-      width: null
+      width: 65
       depth: null
     description: 490€ encadré
     price: .nan
@@ -95,7 +95,7 @@ works:
     technique: Mixte sur papier
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: 1300€ encadré
     price: .nan
@@ -105,7 +105,7 @@ works:
     technique: Mixte sur papier
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 490€ encadré
     price: .nan
@@ -115,7 +115,7 @@ works:
     technique: ''
     dimensions:
       height: 54
-      width: null
+      width: 76
       depth: null
     description: 650€ encadré
     price: .nan
@@ -125,7 +125,7 @@ works:
     technique: ''
     dimensions:
       height: 150
-      width: null
+      width: 150
       depth: null
     description: 3500€
     price: .nan
@@ -135,7 +135,7 @@ works:
     technique: ''
     dimensions:
       height: 80
-      width: null
+      width: 120
       depth: null
     description: 1300€ encadré
     price: .nan
@@ -145,7 +145,7 @@ works:
     technique: ''
     dimensions:
       height: 38
-      width: null
+      width: 28
       depth: null
     description: 280€ encadré
     price: .nan
@@ -155,7 +155,7 @@ works:
     technique: ''
     dimensions:
       height: 50
-      width: null
+      width: 33
       depth: null
     description: 380€ encadré
     price: .nan
@@ -165,7 +165,7 @@ works:
     technique: ''
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: 350€
     price: .nan
@@ -175,7 +175,7 @@ works:
     technique: ''
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: 1800€
     price: .nan
@@ -185,7 +185,7 @@ works:
     technique: ''
     dimensions:
       height: 36
-      width: null
+      width: 28
       depth: null
     description: 280€ encadré
     price: .nan
@@ -195,7 +195,7 @@ works:
     technique: ''
     dimensions:
       height: 56
-      width: null
+      width: 38
       depth: null
     description: 380€ encadré
     price: .nan
@@ -205,7 +205,7 @@ works:
     technique: ''
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 490€ encadré
     price: .nan
@@ -215,7 +215,7 @@ works:
     technique: mixte sur papier
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 650€ encadré (cadre flottant)
     price: .nan

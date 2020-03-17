@@ -44,7 +44,7 @@ works:
     technique: Serigraphies
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: 380€
     price: .nan
@@ -66,7 +66,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: |-
       20 EXEMPLAIRES 
@@ -78,7 +78,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 20
-      width: null
+      width: 30
       depth: null
     description: 160€ encadré
     price: .nan
@@ -88,7 +88,7 @@ works:
     technique: ''
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 170€ encadré
     price: .nan
@@ -98,7 +98,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 170€ encadré
     price: .nan
@@ -108,7 +108,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 170€ encadré
     price: .nan
@@ -118,7 +118,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 170€ encadré
     price: .nan
@@ -128,7 +128,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 170€ encadré
     price: .nan
@@ -138,7 +138,7 @@ works:
     technique: Sérigraphie 2/5
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 450€ encadré
     price: .nan
@@ -148,7 +148,7 @@ works:
     technique: Sérigraphie 1/1
     dimensions:
       height: 30
-      width: null
+      width: 21
       depth: null
     description: 230€ encadré
     price: .nan
@@ -158,7 +158,7 @@ works:
     technique: Sérigraphie 1/1
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 280€
     price: .nan
@@ -168,7 +168,7 @@ works:
     technique: Sérigraphie 1/1
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: 350€
     price: .nan
@@ -178,7 +178,7 @@ works:
     technique: Sérigraphie /10
     dimensions:
       height: 30
-      width: null
+      width: 20
       depth: null
     description: 160€
     price: .nan
@@ -188,7 +188,7 @@ works:
     technique: Sérigraphie /10
     dimensions:
       height: 30
-      width: null
+      width: 24
       depth: null
     description: 180€
     price: .nan

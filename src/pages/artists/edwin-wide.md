@@ -39,7 +39,7 @@ works:
     technique: 'Mixte : spray & acrylique sur bois'
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: Toile sur châssis Prix 1500€
     price: .nan
@@ -69,7 +69,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 130
-      width: null
+      width: 89
       depth: null
     description: >-
       2018 cette toile nécessite d'être vu à la galerie pour un effet d'optique
@@ -84,7 +84,7 @@ works:
     technique: Spray et acrylique sur bois
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: 1500€
     price: .nan

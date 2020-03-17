@@ -60,7 +60,7 @@ works:
     technique: LITHOGRAPHIE
     dimensions:
       height: 90
-      width: null
+      width: 76
       depth: null
     description: 900€
     price: .nan
@@ -70,7 +70,7 @@ works:
     technique: lithographie
     dimensions:
       height: 90
-      width: null
+      width: 76
       depth: null
     description: 900€
     price: .nan

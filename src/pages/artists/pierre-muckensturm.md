@@ -83,7 +83,7 @@ works:
     technique: Gravure - Aquatinte sur cuivre sur papier BFK Rives
     dimensions:
       height: 47
-      width: null
+      width: 38
       depth: null
     description: |-
       Installation en triptyque 
@@ -98,7 +98,7 @@ works:
     technique: Aquatinte sur cuivre sur papier BFK Rives
     dimensions:
       height: 47
-      width: null
+      width: 38
       depth: null
     description: 2014 / 350€
     price: .nan
@@ -108,7 +108,7 @@ works:
     technique: Aquatinte sur cuivre sur papier BFK Rives
     dimensions:
       height: 47
-      width: null
+      width: 38
       depth: null
     description: 2014 / 350€
     price: .nan
@@ -118,7 +118,7 @@ works:
     technique: Aquatinte sur cuivre sur papier BFK Rives
     dimensions:
       height: 47
-      width: null
+      width: 38
       depth: null
     description: 2014 / 350€
     price: .nan
@@ -128,7 +128,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 50
-      width: null
+      width: 50
       depth: null
     description: 2014 / 400€
     price: .nan
@@ -138,7 +138,7 @@ works:
     technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
     dimensions:
       height: 75
-      width: null
+      width: 56
       depth: null
     description: 2018 / 600€
     price: .nan
@@ -148,7 +148,7 @@ works:
     technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2018 / 600€
     price: .nan
@@ -158,7 +158,7 @@ works:
     technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2018 / 600€
     price: .nan
@@ -168,7 +168,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: 2013 / 350€
     price: .nan
@@ -178,7 +178,7 @@ works:
     technique: Aquatinte et pointe sèche sur cuivre sur papier BFK Rives
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: 2016 / 400€
     price: .nan
@@ -188,7 +188,7 @@ works:
     technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2017 / 600€
     price: .nan
@@ -198,7 +198,7 @@ works:
     technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2017 / 600€
     price: .nan
@@ -208,7 +208,7 @@ works:
     technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
     dimensions:
       height: 25
-      width: null
+      width: 19
       depth: null
     description: 2018 / 200€
     price: .nan
@@ -218,7 +218,7 @@ works:
     technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
     dimensions:
       height: 25
-      width: null
+      width: 19
       depth: null
     description: 2018  / 200€
     price: .nan
@@ -228,7 +228,7 @@ works:
     technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
     dimensions:
       height: 25
-      width: null
+      width: 19
       depth: null
     description: 2018 / 200€
     price: .nan
@@ -238,7 +238,7 @@ works:
     technique: Carborundum sur zinc sur papier BFK Rives
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2019 / 600€
     price: .nan
@@ -248,8 +248,8 @@ works:
     technique: Technique mixte et huile sur toile (2 éléments déformés)
     dimensions:
       height: 41
-      width: null
-      depth: null
+      width: 41
+      depth: 83
     description: 2019 / 2750€
     price: .nan
     sold: false

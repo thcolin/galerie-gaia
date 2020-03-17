@@ -67,8 +67,8 @@ works:
     technique: bois massif peint
     dimensions:
       height: 28
-      width: null
-      depth: null
+      width: 28
+      depth: 39
     description: |-
       Il se vend seul 
       mais additionnés entre eux ils se complètent pour créer une table 
@@ -107,8 +107,8 @@ works:
     technique: Cube en chêne massif et feuille d'or
     dimensions:
       height: 39
-      width: null
-      depth: null
+      width: 29
+      depth: 29
     description: |-
       680€
       Conçu comme une stèle, un tabouret, un chevet 

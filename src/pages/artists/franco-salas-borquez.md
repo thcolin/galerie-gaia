@@ -14,7 +14,7 @@ works:
     technique: huile sur toile 2016
     dimensions:
       height: 273
-      width: null
+      width: 159
       depth: null
     description: '-'
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: huile sur toile 2016
     dimensions:
       height: 182
-      width: null
+      width: 260
       depth: null
     description: '-'
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: crayon fusain sur toile
     dimensions:
       height: 200
-      width: null
+      width: 190
       depth: null
     description: '-'
     price: .nan
@@ -44,7 +44,7 @@ works:
     technique: huile sur toile 2016
     dimensions:
       height: 190
-      width: null
+      width: 200
       depth: null
     description: '-'
     price: .nan
@@ -54,7 +54,7 @@ works:
     technique: huile sur toile 2016
     dimensions:
       height: 312
-      width: null
+      width: 166
       depth: null
     description: '-'
     price: .nan

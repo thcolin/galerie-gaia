@@ -70,7 +70,7 @@ works:
     technique: Bronze
     dimensions:
       height: 25
-      width: null
+      width: 15
       depth: null
     description: ''
     price: .nan

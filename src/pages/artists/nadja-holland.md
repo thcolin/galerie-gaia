@@ -30,7 +30,7 @@ works:
     technique: ''
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan
@@ -40,7 +40,7 @@ works:
     technique: Huile
     dimensions:
       height: 120
-      width: null
+      width: 140
       depth: null
     description: ''
     price: .nan
@@ -50,7 +50,7 @@ works:
     technique: HUILE sur toile
     dimensions:
       height: 90
-      width: null
+      width: 90
       depth: null
     description: ''
     price: .nan
@@ -60,7 +60,7 @@ works:
     technique: Huile sur toile
     dimensions:
       height: 25
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -70,7 +70,7 @@ works:
     technique: Huile sur toile
     dimensions:
       height: 60
-      width: null
+      width: 60
       depth: null
     description: ''
     price: .nan

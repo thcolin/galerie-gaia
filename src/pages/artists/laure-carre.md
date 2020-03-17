@@ -24,7 +24,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 200
-      width: null
+      width: 200
       depth: null
     description: ''
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: Huile sur toile technique mixte
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: ''
     price: .nan
@@ -44,7 +44,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: Prix 1400€
     price: .nan
@@ -54,7 +54,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 75
-      width: null
+      width: 75
       depth: null
     description: 1200€
     price: .nan
@@ -64,7 +64,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: 1400€
     price: .nan
@@ -74,7 +74,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 50
-      width: null
+      width: 50
       depth: null
     description: ''
     price: .nan
@@ -84,7 +84,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 50
-      width: null
+      width: 33
       depth: null
     description: 200€ Imprimé au musée de l'imprimerie de Nantes en 2017.
     price: .nan
@@ -94,7 +94,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 56
-      width: null
+      width: 38
       depth: null
     description: ''
     price: .nan
@@ -104,7 +104,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 50
-      width: null
+      width: 33
       depth: null
     description: 2016 200€
     price: .nan
@@ -114,7 +114,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 38
-      width: null
+      width: 56
       depth: null
     description: ''
     price: .nan
@@ -124,7 +124,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 50
-      width: null
+      width: 33
       depth: null
     description: 2017 200€
     price: .nan
@@ -134,7 +134,7 @@ works:
     technique: ''
     dimensions:
       height: 37
-      width: null
+      width: 44
       depth: null
     description: 230€
     price: .nan
@@ -144,7 +144,7 @@ works:
     technique: ''
     dimensions:
       height: 34
-      width: null
+      width: 23
       depth: null
     description: 130€
     price: .nan

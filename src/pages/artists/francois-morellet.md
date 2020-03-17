@@ -49,7 +49,7 @@ works:
     technique: Sérigraphie 12 couleurs 50 exemplaires 18/50
     dimensions:
       height: 40
-      width: null
+      width: 120
       depth: null
     description: >-
       oeuvre en très bon état, protégée et encadrée dans une boite en plexi du

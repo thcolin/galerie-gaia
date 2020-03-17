@@ -14,7 +14,7 @@ works:
     technique: Photo sur papier baryté
     dimensions:
       height: 20
-      width: null
+      width: 20
       depth: null
     description: |-
       /9 exemplaire 
@@ -26,7 +26,7 @@ works:
     technique: Photo sur papier baryté
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: |-
       /9 exemplaire 
@@ -38,7 +38,7 @@ works:
     technique: Photo sur papier baryté
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: |-
       /9 exemplaires - certificat fournis
@@ -50,7 +50,7 @@ works:
     technique: Photo sur papier baryté
     dimensions:
       height: 20
-      width: null
+      width: 20
       depth: null
     description: |-
       /9 exemplaire
@@ -62,7 +62,7 @@ works:
     technique: Photo sur papier baryté
     dimensions:
       height: 20
-      width: null
+      width: 20
       depth: null
     description: >-
       photo encadrée avec verre antireflet baguette aluminium nielsen format 35
@@ -74,7 +74,7 @@ works:
     technique: Photo sur papier baryté
     dimensions:
       height: 20
-      width: null
+      width: 30
       depth: null
     description: |-
       /9 exemplaire 
@@ -86,7 +86,7 @@ works:
     technique: Photo sur papier
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: |-
       1200€

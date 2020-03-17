@@ -26,7 +26,7 @@ works:
     technique: Sténopé
     dimensions:
       height: 60
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -52,7 +52,7 @@ works:
     technique: photographie sur papier
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: oeuvre encadrée 150€
     price: .nan
@@ -62,7 +62,7 @@ works:
     technique: photographie
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: oeuvre encadrée 150€
     price: .nan
@@ -72,7 +72,7 @@ works:
     technique: photographie
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: oeuvre encadrée 150€
     price: .nan

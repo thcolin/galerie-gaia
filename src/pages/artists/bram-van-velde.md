@@ -84,7 +84,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 89
-      width: null
+      width: 63
       depth: null
     description: |-
       1978 /
@@ -96,7 +96,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 54
-      width: null
+      width: 35
       depth: null
     description: |-
       1978 / 
@@ -108,7 +108,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 54
-      width: null
+      width: 35
       depth: null
     description: 1978 / 1210€
     price: .nan
@@ -118,7 +118,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 98
-      width: null
+      width: 62
       depth: null
     description: 1975 / 2400€
     price: .nan
@@ -128,7 +128,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 45
-      width: null
+      width: 36
       depth: null
     description: 1978 / 1100€
     price: .nan
@@ -138,7 +138,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 57
-      width: null
+      width: 55
       depth: null
     description: 1980 / 1700€
     price: .nan
@@ -148,7 +148,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 59
-      width: null
+      width: 54
       depth: null
     description: 1980 / 1700€
     price: .nan
@@ -158,7 +158,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 61
-      width: null
+      width: 60
       depth: null
     description: |-
       1980 /

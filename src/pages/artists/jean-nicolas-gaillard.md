@@ -14,7 +14,7 @@ works:
     technique: ''
     dimensions:
       height: 70
-      width: null
+      width: 70
       depth: null
     description: ''
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 60
-      width: null
+      width: 60
       depth: null
     description: ''
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: huile sur bois
     dimensions:
       height: 50
-      width: null
+      width: 50
       depth: null
     description: ''
     price: .nan
@@ -44,7 +44,7 @@ works:
     technique: huile sur bois
     dimensions:
       height: 90
-      width: null
+      width: 120
       depth: null
     description: ''
     price: .nan
@@ -54,7 +54,7 @@ works:
     technique: mixte sur bois
     dimensions:
       height: 130
-      width: null
+      width: 130
       depth: null
     description: ''
     price: .nan

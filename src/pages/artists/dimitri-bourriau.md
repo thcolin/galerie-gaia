@@ -22,7 +22,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -37,7 +37,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -50,7 +50,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -63,7 +63,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -76,7 +76,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 80
-      width: null
+      width: 120
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -89,7 +89,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -102,7 +102,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 80
-      width: null
+      width: 120
       depth: null
     description: |-
       Tirage à 15 exemplaires 
@@ -115,7 +115,7 @@ works:
     technique: Tirage papier contrecollé dibon
     dimensions:
       height: 120
-      width: null
+      width: 80
       depth: null
     description: |-
       Tirage à 15 exemplaires 

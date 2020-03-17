@@ -39,7 +39,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 92
-      width: null
+      width: 65
       depth: null
     description: 80€
     price: .nan
@@ -49,7 +49,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 92
-      width: null
+      width: 65
       depth: null
     description: 80€
     price: .nan
@@ -59,7 +59,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 92
-      width: null
+      width: 65
       depth: null
     description: 80€
     price: .nan
@@ -69,7 +69,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 92
       depth: null
     description: ''
     price: .nan
@@ -79,7 +79,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 92
-      width: null
+      width: 65
       depth: null
     description: 80€
     price: .nan
@@ -109,7 +109,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 92
       depth: null
     description: ''
     price: .nan
@@ -119,7 +119,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 92
       depth: null
     description: 80€
     price: .nan
@@ -129,7 +129,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 92
       depth: null
     description: 80€
     price: .nan
@@ -139,7 +139,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 92
       depth: null
     description: 80€
     price: .nan
@@ -149,7 +149,7 @@ works:
     technique: Sérigraphie /50
     dimensions:
       height: 65
-      width: null
+      width: 92
       depth: null
     description: 80€
     price: .nan
@@ -159,7 +159,7 @@ works:
     technique: céramique pièce unique
     dimensions:
       height: 26
-      width: null
+      width: 18
       depth: null
     description: 980€ pièce unique cabochon amovible
     price: .nan
@@ -169,7 +169,7 @@ works:
     technique: Sérigraphie  12/50
     dimensions:
       height: 92
-      width: null
+      width: 65
       depth: null
     description: 80€
     price: .nan
@@ -179,7 +179,7 @@ works:
     technique: Sérigraphie 14/50
     dimensions:
       height: 92
-      width: null
+      width: 65
       depth: null
     description: '2019'
     price: .nan

@@ -68,7 +68,7 @@ works:
     technique: eau forte et pointe sèche sur cuivre
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: |-
       1/15 
@@ -81,7 +81,7 @@ works:
     technique: eau forte et pointe sèche sur zinc
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: |-
       5/8
@@ -94,7 +94,7 @@ works:
     technique: eau fort et pointe sèche sur cuivre
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: |-
       3/6 
@@ -107,7 +107,7 @@ works:
     technique: eau forte et pointe sèche sur cuivre
     dimensions:
       height: 56
-      width: null
+      width: 76
       depth: null
     description: |-
       20/40
@@ -120,7 +120,7 @@ works:
     technique: eau forte sur cuivre
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: |-
       E.A 2/5 
@@ -133,7 +133,7 @@ works:
     technique: eau forte et pointe sèche sur cuivre
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: |-
       E.A 
@@ -146,7 +146,7 @@ works:
     technique: Eau forte et pointe sèche sur cuivre
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: |-
       4/5
@@ -158,7 +158,7 @@ works:
     technique: Eau forte et pointe sèche sur cuivre
     dimensions:
       height: 50
-      width: null
+      width: 65
       depth: null
     description: 10/10
     price: .nan

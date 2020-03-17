@@ -181,7 +181,7 @@ works:
     technique: aquatinte 2/19
     dimensions:
       height: 76
-      width: null
+      width: 57
       depth: null
     description: |-
       2006
@@ -193,7 +193,7 @@ works:
     technique: Aquatinte et vernis mou
     dimensions:
       height: 81
-      width: null
+      width: 61
       depth: null
     description: |-
       2009
@@ -205,7 +205,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: 2006 550€
     price: .nan
@@ -215,7 +215,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: 2006 650€
     price: .nan
@@ -225,7 +225,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 58
-      width: null
+      width: 38
       depth: null
     description: 2004 450€
     price: .nan
@@ -235,7 +235,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 58
-      width: null
+      width: 38
       depth: null
     description: 2004 450€
     price: .nan

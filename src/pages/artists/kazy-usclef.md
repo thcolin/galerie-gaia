@@ -56,7 +56,7 @@ works:
     technique: peinture
     dimensions:
       height: 300
-      width: null
+      width: 300
       depth: null
     description: >-
       Réalisation pour la 1ere  Nuit des Galeries dans le cadre de l'exposition
@@ -121,7 +121,7 @@ works:
     technique: Acrylique et technique mixte sur toile
     dimensions:
       height: 130
-      width: null
+      width: 162
       depth: null
     description: 3000 €
     price: .nan
@@ -131,7 +131,7 @@ works:
     technique: Huile sur toile et technique mixte
     dimensions:
       height: 94
-      width: null
+      width: 100
       depth: null
     description: 1900 € avec caisse américaine noire
     price: .nan

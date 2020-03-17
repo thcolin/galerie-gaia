@@ -135,7 +135,7 @@ works:
     technique: Cire et pigment sur bois
     dimensions:
       height: 60
-      width: null
+      width: 73
       depth: null
     description: ''
     price: .nan
@@ -145,7 +145,7 @@ works:
     technique: encaustique sur bois
     dimensions:
       height: 15
-      width: null
+      width: 20
       depth: null
     description: ''
     price: .nan

@@ -81,7 +81,7 @@ works:
     technique: Huile sur toile 2016
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan

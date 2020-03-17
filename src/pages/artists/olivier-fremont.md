@@ -58,8 +58,8 @@ works:
     technique: Bronze 1/8
     dimensions:
       height: 10
-      width: null
-      depth: null
+      width: 4
+      depth: 4
     description: 1200€
     price: .nan
     sold: false
@@ -68,8 +68,8 @@ works:
     technique: Bronze 1/8 sur socle bois
     dimensions:
       height: 10
-      width: null
-      depth: null
+      width: 4
+      depth: 4
     description: 1200€
     price: .nan
     sold: false
@@ -78,8 +78,8 @@ works:
     technique: Bronze 1/8 sur socle bois
     dimensions:
       height: 15
-      width: null
-      depth: null
+      width: 5
+      depth: 5
     description: 1400€
     price: .nan
     sold: false
@@ -98,8 +98,8 @@ works:
     technique: Acier pièce unique
     dimensions:
       height: 49
-      width: null
-      depth: null
+      width: 16
+      depth: 16
     description: 650 €
     price: .nan
     sold: false
@@ -108,8 +108,8 @@ works:
     technique: Acier pièce unique
     dimensions:
       height: 52
-      width: null
-      depth: null
+      width: 13
+      depth: 6
     description: 650 €
     price: .nan
     sold: false
@@ -118,8 +118,8 @@ works:
     technique: Acier pièce unique
     dimensions:
       height: 43
-      width: null
-      depth: null
+      width: 25
+      depth: 15
     description: 750 €
     price: .nan
     sold: false

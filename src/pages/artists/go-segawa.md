@@ -106,8 +106,8 @@ works:
     technique: dessin volume
     dimensions:
       height: 13
-      width: null
-      depth: null
+      width: 13
+      depth: 13
     description: ''
     price: .nan
     sold: false
@@ -126,8 +126,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 9
-      width: null
-      depth: null
+      width: 4
+      depth: 4
     description: "red & yellow (15/50) (16/50) 2019 9,6 X 4,6 X 4,6 70€\nred & yellow (3/25)\t2019 12,5 X 6 X 6 130€"
     price: .nan
     sold: false
@@ -136,8 +136,8 @@ works:
     technique: Impression  jet d’encre sur polyester
     dimensions:
       height: 9
-      width: null
-      depth: null
+      width: 4
+      depth: 4
     description: |-
       Oval II – dark 9,6 X 4,6 X 4,6 (3/25) 2019 70€
       Oval II – dark 12,5 X 6 X 6 (9/50, 10/50) 2019 130€
@@ -148,8 +148,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 8
-      width: null
-      depth: null
+      width: 8
+      depth: 8
     description: 2019 110€
     price: .nan
     sold: false
@@ -158,8 +158,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 7
-      width: null
-      depth: null
+      width: 7
+      depth: 7
     description: 2018 80€
     price: .nan
     sold: false
@@ -168,8 +168,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 8
-      width: null
-      depth: null
+      width: 8
+      depth: 8
     description: 2018 110€
     price: .nan
     sold: false
@@ -178,8 +178,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 8
-      width: null
-      depth: null
+      width: 8
+      depth: 8
     description: 2019 110€
     price: .nan
     sold: false
@@ -188,8 +188,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 6
-      width: null
-      depth: null
+      width: 6
+      depth: 6
     description: 2016 60€
     price: .nan
     sold: false
@@ -198,8 +198,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 7
-      width: null
-      depth: null
+      width: 7
+      depth: 7
     description: 2016 105€
     price: .nan
     sold: false
@@ -208,8 +208,8 @@ works:
     technique: Impression jet d’encre sur polyester
     dimensions:
       height: 7
-      width: null
-      depth: null
+      width: 11
+      depth: 11
     description: 2016 130€
     price: .nan
     sold: false

@@ -137,7 +137,7 @@ works:
     technique: Acrylique sur toile
     dimensions:
       height: 250
-      width: null
+      width: 160
       depth: null
     description: ''
     price: .nan
@@ -147,7 +147,7 @@ works:
     technique: Acrylique sur toile
     dimensions:
       height: 210
-      width: null
+      width: 156
       depth: null
     description: ''
     price: .nan
@@ -157,7 +157,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 180
-      width: null
+      width: 140
       depth: null
     description: ''
     price: .nan

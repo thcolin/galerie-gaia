@@ -84,7 +84,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 83
-      width: null
+      width: 110
       depth: null
     description: 1300€
     price: .nan
@@ -94,7 +94,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 83
-      width: null
+      width: 110
       depth: null
     description: 1300€
     price: .nan
@@ -104,7 +104,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 58
-      width: null
+      width: 64
       depth: null
     description: 700€
     price: .nan
@@ -114,7 +114,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 83
-      width: null
+      width: 112
       depth: null
     description: 1300€
     price: .nan
@@ -124,7 +124,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 82
-      width: null
+      width: 113
       depth: null
     description: 1300€
     price: .nan
@@ -134,7 +134,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 84
-      width: null
+      width: 110
       depth: null
     description: 1300€
     price: .nan
@@ -144,7 +144,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 77
-      width: null
+      width: 118
       depth: null
     description: 1300€
     price: .nan
@@ -154,7 +154,7 @@ works:
     technique: Aquarelle sur papier imprimé
     dimensions:
       height: 112
-      width: null
+      width: 112
       depth: null
     description: 1300€
     price: .nan

@@ -68,7 +68,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -78,7 +78,7 @@ works:
     technique: Sérigraphie /10
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: 120€
     price: .nan
@@ -88,8 +88,8 @@ works:
     technique: Dessin / Collage
     dimensions:
       height: 21
-      width: null
-      depth: null
+      width: 29
+      depth: 32
     description: 150€ encadré
     price: .nan
     sold: false
@@ -98,8 +98,8 @@ works:
     technique: Dessin / Collage
     dimensions:
       height: 21
-      width: null
-      depth: null
+      width: 29
+      depth: 32
     description: 150€ encadré
     price: .nan
     sold: false
@@ -108,8 +108,8 @@ works:
     technique: Dessin / Collage
     dimensions:
       height: 21
-      width: null
-      depth: null
+      width: 29
+      depth: 32
     description: 150€ encadré
     price: .nan
     sold: false
@@ -118,8 +118,8 @@ works:
     technique: Dessin / Collage
     dimensions:
       height: 21
-      width: null
-      depth: null
+      width: 29
+      depth: 32
     description: 150€ encadré
     price: .nan
     sold: false
@@ -128,7 +128,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       190€
@@ -140,7 +140,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 71
-      width: null
+      width: 51
       depth: null
     description: 2019 190€
     price: .nan
@@ -150,7 +150,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 71
-      width: null
+      width: 51
       depth: null
     description: 2019 190€
     price: .nan
@@ -160,7 +160,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       20 exemplaires 
@@ -172,7 +172,7 @@ works:
     technique: Collage sur sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       Pièce unique 
@@ -184,7 +184,7 @@ works:
     technique: Collage sur sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       Exemplaire unique
@@ -196,7 +196,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       15 exemplaires 

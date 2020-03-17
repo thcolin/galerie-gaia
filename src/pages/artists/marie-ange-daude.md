@@ -57,7 +57,7 @@ works:
     technique: Plumes collées sur fils nylon tendus dans caisse bois
     dimensions:
       height: 90
-      width: null
+      width: 90
       depth: null
     description: |-
       Cadre bois, vitre anti-reflet.
@@ -69,7 +69,7 @@ works:
     technique: Découpage et superposition de calque polyester dans caisse bois
     dimensions:
       height: 90
-      width: null
+      width: 90
       depth: null
     description: |-
       Cadre acier brut, vitre anti-reflet. 
@@ -81,7 +81,7 @@ works:
     technique: Découpage et superposition de calque polyester dans caisse bois
     dimensions:
       height: 90
-      width: null
+      width: 90
       depth: null
     description: |-
       Cadre acier brut, vitre anti-reflet.
@@ -93,7 +93,7 @@ works:
     technique: Tulle et aérosol dans caisse bois vitrée
     dimensions:
       height: 90
-      width: null
+      width: 90
       depth: null
     description: |-
       Cadre acier brut, vitre anti-reflet.
@@ -105,7 +105,7 @@ works:
     technique: Tulle et aérosol dans caisse bois
     dimensions:
       height: 90
-      width: null
+      width: 90
       depth: null
     description: |-
       Cadre acier brut.

@@ -14,7 +14,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: |-
       3200€
@@ -26,7 +26,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: |-
       3200€
@@ -38,7 +38,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: 30 exemplaires
     price: .nan
@@ -48,7 +48,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: |-
       3200€
@@ -60,7 +60,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: |-
       3200€
@@ -72,7 +72,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: |-
       3200€
@@ -84,7 +84,7 @@ works:
     technique: Photographie épreuve pigmentaire
     dimensions:
       height: 112
-      width: null
+      width: 92
       depth: null
     description: |-
       3200€

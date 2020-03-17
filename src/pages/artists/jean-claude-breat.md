@@ -63,7 +63,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 180
-      width: null
+      width: 200
       depth: null
     description: ''
     price: .nan
@@ -83,7 +83,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 150
-      width: null
+      width: 150
       depth: null
     description: ''
     price: .nan
@@ -93,7 +93,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 120
-      width: null
+      width: 150
       depth: null
     description: ''
     price: .nan
@@ -103,7 +103,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan
@@ -113,7 +113,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 50
-      width: null
+      width: 50
       depth: null
     description: PRIX SUR DEMANDE
     price: .nan
@@ -133,7 +133,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 200
-      width: null
+      width: 200
       depth: null
     description: ''
     price: .nan

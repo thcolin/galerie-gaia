@@ -18,7 +18,7 @@ works:
     technique: mixte
     dimensions:
       height: 52
-      width: null
+      width: 62
       depth: null
     description: ''
     price: 0
@@ -28,7 +28,7 @@ works:
     technique: mixte
     dimensions:
       height: 40
-      width: null
+      width: 50
       depth: null
     description: ''
     price: 0
@@ -38,7 +38,7 @@ works:
     technique: mixte
     dimensions:
       height: 40
-      width: null
+      width: 50
       depth: null
     description: ''
     price: 0
@@ -48,7 +48,7 @@ works:
     technique: ''
     dimensions:
       height: 50
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -58,7 +58,7 @@ works:
     technique: mixte
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -68,7 +68,7 @@ works:
     technique: mixte
     dimensions:
       height: 70
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan
@@ -78,7 +78,7 @@ works:
     technique: mixte
     dimensions:
       height: 81
-      width: null
+      width: 65
       depth: null
     description: ''
     price: 1500

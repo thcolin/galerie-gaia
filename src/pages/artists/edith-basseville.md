@@ -24,8 +24,8 @@ works:
     technique: Fil de fer et tiges d'acier
     dimensions:
       height: 43
-      width: null
-      depth: null
+      width: 36
+      depth: 36
     description: hommage à Karl Blosssfeldt
     price: .nan
     sold: false
@@ -34,8 +34,8 @@ works:
     technique: fer forgé assemblé et soudé
     dimensions:
       height: 17
-      width: null
-      depth: null
+      width: 45
+      depth: 10
     description: ''
     price: .nan
     sold: false
@@ -44,8 +44,8 @@ works:
     technique: fer forgé assemblé et soudé
     dimensions:
       height: 17
-      width: null
-      depth: null
+      width: 26
+      depth: 8
     description: ''
     price: .nan
     sold: false

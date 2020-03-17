@@ -55,7 +55,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: Affiche 120€
     price: .nan
@@ -65,7 +65,7 @@ works:
     technique: sérigraphie
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: ''
     price: .nan
@@ -75,7 +75,7 @@ works:
     technique: sérigraphie /20
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: |-
       Commande par la Galerie Gaïa pour les 40 ans du lieu
@@ -87,7 +87,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 320€
     price: .nan
@@ -97,7 +97,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 100€
     price: .nan
@@ -107,7 +107,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 100€
     price: .nan
@@ -117,7 +117,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 320€
     price: .nan
@@ -127,7 +127,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 100€
     price: .nan
@@ -137,7 +137,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 100€
     price: .nan
@@ -147,7 +147,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 320€
     price: .nan
@@ -157,7 +157,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 100€
     price: .nan

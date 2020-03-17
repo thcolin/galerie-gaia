@@ -52,7 +52,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: 450€
     price: .nan
@@ -62,7 +62,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 40
-      width: null
+      width: 40
       depth: null
     description: 450€
     price: .nan
@@ -86,7 +86,7 @@ works:
     technique: MIXTE SUR TOILE
     dimensions:
       height: 50
-      width: null
+      width: 80
       depth: null
     description: ''
     price: .nan
@@ -96,7 +96,7 @@ works:
     technique: mixte sur toile
     dimensions:
       height: 17
-      width: null
+      width: 36
       depth: null
     description: ''
     price: .nan
@@ -106,7 +106,7 @@ works:
     technique: Mixte sur toile
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: ''
     price: .nan
@@ -116,7 +116,7 @@ works:
     technique: ''
     dimensions:
       height: 98
-      width: null
+      width: 68
       depth: null
     description: ''
     price: .nan
@@ -126,7 +126,7 @@ works:
     technique: Acrylique
     dimensions:
       height: 98
-      width: null
+      width: 69
       depth: null
     description: ''
     price: .nan
@@ -216,7 +216,7 @@ works:
     technique: Acrylique sur toile
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: 1800€
     price: .nan

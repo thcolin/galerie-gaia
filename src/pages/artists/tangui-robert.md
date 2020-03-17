@@ -39,7 +39,7 @@ works:
     technique: 'Gravure sur zinc et pigment doré, collage'
     dimensions:
       height: 25
-      width: null
+      width: 31
       depth: null
     description: 2014 / 270€
     price: .nan
@@ -49,7 +49,7 @@ works:
     technique: Gravure sur zinc et photo et piquetage photographique
     dimensions:
       height: 43
-      width: null
+      width: 33
       depth: null
     description: 2018 / 375€
     price: .nan
@@ -59,7 +59,7 @@ works:
     technique: Gravure sur zinc et pigment doré
     dimensions:
       height: 31
-      width: null
+      width: 25
       depth: null
     description: 2019 / 180€
     price: .nan
@@ -69,7 +69,7 @@ works:
     technique: 'Gravure sur zinc,cire,acrilique sur photographique'
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: 2018 / 650€
     price: .nan
@@ -79,7 +79,7 @@ works:
     technique: Gravure sur zinc et photo et piquetage photographique
     dimensions:
       height: 43
-      width: null
+      width: 53
       depth: null
     description: 2013 430€
     price: .nan
@@ -89,7 +89,7 @@ works:
     technique: Gravure sur zinc et photo et piquetage photographique
     dimensions:
       height: 40
-      width: null
+      width: 50
       depth: null
     description: 2014 430€
     price: .nan
@@ -99,7 +99,7 @@ works:
     technique: 'Gravure sur zinc,acrilique sur photographique'
     dimensions:
       height: 43
-      width: null
+      width: 33
       depth: null
     description: 2017 375€
     price: .nan
@@ -109,7 +109,7 @@ works:
     technique: 'Gravure sur zinc, bronze'
     dimensions:
       height: 73
-      width: null
+      width: 53
       depth: null
     description: 2016 900€
     price: .nan
@@ -119,7 +119,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 30
-      width: null
+      width: 20
       depth: null
     description: 180€ encadré
     price: .nan
@@ -129,7 +129,7 @@ works:
     technique: Gravure sur zinc et piquetage photographique
     dimensions:
       height: 26
-      width: null
+      width: 39
       depth: null
     description: 2015 280€
     price: .nan

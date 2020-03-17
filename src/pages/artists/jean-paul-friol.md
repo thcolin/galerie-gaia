@@ -14,7 +14,7 @@ works:
     technique: 'Collage, papier soie, encre'
     dimensions:
       height: 73
-      width: null
+      width: 61
       depth: null
     description: 1991 / 450€
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: 'Collage, papier soie, encre'
     dimensions:
       height: 50
-      width: null
+      width: 75
       depth: null
     description: 1991 / 450€
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: 'Collage, kraft, email à froid, acrylique'
     dimensions:
       height: 72
-      width: null
+      width: 50
       depth: null
     description: 1995 / 450€
     price: .nan
@@ -46,7 +46,7 @@ works:
       papier soie, scotch, kraft
     dimensions:
       height: 113
-      width: null
+      width: 78
       depth: null
     description: 2008 / 680 euros encadré
     price: .nan
@@ -56,7 +56,7 @@ works:
     technique: 'Collage, papier soie, kraft, émail à froid, acrylique'
     dimensions:
       height: 75
-      width: null
+      width: 110
       depth: null
     description: 1994 / 450€
     price: .nan
@@ -66,7 +66,7 @@ works:
     technique: Gravure
     dimensions:
       height: 53
-      width: null
+      width: 43
       depth: null
     description: |-
       Numérotation 7/20
@@ -79,7 +79,7 @@ works:
     technique: Gravure
     dimensions:
       height: 32
-      width: null
+      width: 42
       depth: null
     description: |-
       Numérotation 13/20
@@ -92,7 +92,7 @@ works:
     technique: Gravure
     dimensions:
       height: 41
-      width: null
+      width: 31
       depth: null
     description: |-
       Numérotation 5/15
@@ -105,7 +105,7 @@ works:
     technique: Papier collé
     dimensions:
       height: 99
-      width: null
+      width: 63
       depth: null
     description: |-
       1996 /
@@ -117,7 +117,7 @@ works:
     technique: collage papier et dessin
     dimensions:
       height: 91
-      width: null
+      width: 63
       depth: null
     description: 1991 / 450€
     price: .nan

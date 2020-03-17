@@ -115,7 +115,7 @@ works:
     technique: Gravure
     dimensions:
       height: 450
-      width: null
+      width: 300
       depth: null
     description: 450€
     price: .nan
@@ -125,7 +125,7 @@ works:
     technique: 'Tapisserie: Lissière Edith Morin'
     dimensions:
       height: 111
-      width: null
+      width: 187
       depth: null
     description: 1973 / 3400€
     price: .nan
@@ -135,7 +135,7 @@ works:
     technique: "Tappiserie: Lissier\_: Pierre Carton ERBA"
     dimensions:
       height: 92
-      width: null
+      width: 118
       depth: null
     description: Sans date / 1700€
     price: .nan
@@ -145,7 +145,7 @@ works:
     technique: 'Tapisserie: Lissier Pierre Daquin Atelier St Cyr'
     dimensions:
       height: 118
-      width: null
+      width: 184
       depth: null
     description: 1973 / 3500€
     price: .nan
@@ -155,7 +155,7 @@ works:
     technique: Mosaïque
     dimensions:
       height: 149
-      width: null
+      width: 34
       depth: null
     description: 1975 / 3600€
     price: .nan
@@ -165,7 +165,7 @@ works:
     technique: Mosaïque
     dimensions:
       height: 46
-      width: null
+      width: 47
       depth: null
     description: 1980 / 1800€
     price: .nan
@@ -175,7 +175,7 @@ works:
     technique: 'Mosaïque: Marbre rose, jaune, travertin rouge'
     dimensions:
       height: 48
-      width: null
+      width: 36
       depth: null
     description: 1973 / 1500€
     price: .nan

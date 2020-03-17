@@ -36,7 +36,7 @@ works:
     technique: digigraphie /10 exemplaires
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: |-
       il reste 3 tirages disponibles 
@@ -48,7 +48,7 @@ works:
     technique: Digigraphie /10 exemplaires
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: 300€
     price: .nan
@@ -58,7 +58,7 @@ works:
     technique: Digigraphie /10 exemplaires
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: 300€
     price: .nan
@@ -68,7 +68,7 @@ works:
     technique: Photographie sur papier
     dimensions:
       height: 80
-      width: null
+      width: 80
       depth: null
     description: |-
       contrecollée sur aluminium et caisse US
@@ -91,7 +91,7 @@ works:
     technique: digigraphie
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: |-
       tirage limité à 10 exemplaires 
@@ -103,7 +103,7 @@ works:
     technique: digigraphie
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: tirage en 10 exemplaires
     price: .nan
@@ -113,7 +113,7 @@ works:
     technique: digigraphie
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: tirage à 10 exemplaires
     price: .nan
@@ -123,7 +123,7 @@ works:
     technique: digigraphie
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: Tirage sur papier d'art en 10 exemplaires
     price: .nan
@@ -133,7 +133,7 @@ works:
     technique: Photographie
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: Tirage sur papier fine art
     price: .nan

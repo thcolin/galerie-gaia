@@ -67,7 +67,7 @@ works:
     technique: MIXTE
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan
@@ -77,7 +77,7 @@ works:
     technique: Mixte
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan
@@ -87,7 +87,7 @@ works:
     technique: Mixte
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: VENDUE
     price: .nan
@@ -97,7 +97,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: ''
     price: .nan

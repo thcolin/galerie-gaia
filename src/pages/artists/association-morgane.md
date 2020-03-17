@@ -14,7 +14,7 @@ works:
     technique: cire sur papier
     dimensions:
       height: 42
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: mixte sur papier
     dimensions:
       height: 42
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: mixte sur papier
     dimensions:
       height: 42
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -44,7 +44,7 @@ works:
     technique: ''
     dimensions:
       height: 15
-      width: null
+      width: 21
       depth: null
     description: >-
       100 pages extraits des 25 oeuvres des 25 artistes qui ont participé au
@@ -58,7 +58,7 @@ works:
     technique: technique mixte sur papier
     dimensions:
       height: 30
-      width: null
+      width: 42
       depth: null
     description: ''
     price: .nan
@@ -68,7 +68,7 @@ works:
     technique: Technique mixte sur papier
     dimensions:
       height: 21
-      width: null
+      width: 42
       depth: null
     description: ''
     price: .nan
@@ -78,7 +78,7 @@ works:
     technique: Technique mixte sur papier
     dimensions:
       height: 21
-      width: null
+      width: 42
       depth: null
     description: ''
     price: .nan
@@ -100,7 +100,7 @@ works:
     technique: ''
     dimensions:
       height: 21
-      width: null
+      width: 15
       depth: null
     description: >-
       livre retraçant l'histoire de l'exposition Hasards pour Morgane avec une

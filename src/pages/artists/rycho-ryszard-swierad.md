@@ -14,7 +14,7 @@ works:
     technique: Photographie
     dimensions:
       height: 22
-      width: null
+      width: 22
       depth: null
     description: ''
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: photographie
     dimensions:
       height: 22
-      width: null
+      width: 22
       depth: null
     description: ''
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: Mixte
     dimensions:
       height: 92
-      width: null
+      width: 66
       depth: null
     description: |-
       tirage sur papier 3/21
@@ -46,7 +46,7 @@ works:
     technique: Mixte
     dimensions:
       height: 96
-      width: null
+      width: 70
       depth: null
     description: Tirage papier 4/21
     price: .nan
@@ -56,7 +56,7 @@ works:
     technique: Mixte
     dimensions:
       height: 96
-      width: null
+      width: 70
       depth: null
     description: |-
       tirage sur papier 3/21
@@ -68,7 +68,7 @@ works:
     technique: Mixte
     dimensions:
       height: 96
-      width: null
+      width: 70
       depth: null
     description: tirage sur papier 2/21
     price: .nan
@@ -78,7 +78,7 @@ works:
     technique: Mixte
     dimensions:
       height: 96
-      width: null
+      width: 70
       depth: null
     description: tirage sur papier 5/21
     price: .nan
@@ -88,7 +88,7 @@ works:
     technique: mixte sur papier
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: tirage à 22 exemplaires
     price: .nan
@@ -98,7 +98,7 @@ works:
     technique: TIRAGE PAPIER 1/21
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -108,7 +108,7 @@ works:
     technique: TIRAGE PAPIER 3/21
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -118,7 +118,7 @@ works:
     technique: TIRAGE PAPIER 3/21
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -128,7 +128,7 @@ works:
     technique: TIRAGE PAPIER 3/21
     dimensions:
       height: 30
-      width: null
+      width: 30
       depth: null
     description: ''
     price: .nan
@@ -138,7 +138,7 @@ works:
     technique: TIRAGE PAPIER 3/21
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: ''
     price: .nan
@@ -148,7 +148,7 @@ works:
     technique: ''
     dimensions:
       height: 90
-      width: null
+      width: 60
       depth: null
     description: ''
     price: .nan
@@ -158,7 +158,7 @@ works:
     technique: image photographique
     dimensions:
       height: 50
-      width: null
+      width: 50
       depth: null
     description: ''
     price: .nan
@@ -168,7 +168,7 @@ works:
     technique: image
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: |-
       tirage sur papier 2/7
@@ -180,7 +180,7 @@ works:
     technique: image
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: |-
       tirage sur papier 
@@ -192,7 +192,7 @@ works:
     technique: image
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: |-
       tirage sur papier

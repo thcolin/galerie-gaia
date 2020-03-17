@@ -33,7 +33,7 @@ works:
     technique: huile
     dimensions:
       height: 70
-      width: null
+      width: 65
       depth: null
     description: ''
     price: .nan
@@ -43,7 +43,7 @@ works:
     technique: Huile
     dimensions:
       height: 130
-      width: null
+      width: 130
       depth: null
     description: ''
     price: .nan
@@ -53,7 +53,7 @@ works:
     technique: huile
     dimensions:
       height: 116
-      width: null
+      width: 75
       depth: null
     description: ''
     price: .nan
@@ -63,7 +63,7 @@ works:
     technique: ''
     dimensions:
       height: 40
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -73,7 +73,7 @@ works:
     technique: ''
     dimensions:
       height: 50
-      width: null
+      width: 50
       depth: null
     description: ''
     price: .nan

@@ -62,7 +62,7 @@ works:
     technique: Acrylique et bâtons d'huile sur papier
     dimensions:
       height: 31
-      width: null
+      width: 31
       depth: null
     description: |-
       2019 / 
@@ -74,7 +74,7 @@ works:
     technique: Acrylique et bâtons d'huile sur papier
     dimensions:
       height: 31
-      width: null
+      width: 31
       depth: null
     description: |-
       2019/ 
@@ -86,7 +86,7 @@ works:
     technique: Acrylique et bâtons d'huile sur papier
     dimensions:
       height: 31
-      width: null
+      width: 31
       depth: null
     description: 2019 / 280€ encadré
     price: .nan
@@ -96,7 +96,7 @@ works:
     technique: Acrylique et bâtons d’huile sur papier
     dimensions:
       height: 86
-      width: null
+      width: 54
       depth: null
     description: 2018 / 900€ encadré
     price: .nan
@@ -106,7 +106,7 @@ works:
     technique: Acrylique et bâtons d'huile sur papier
     dimensions:
       height: 114
-      width: null
+      width: 54
       depth: null
     description: 2018 / 1350€ encadré
     price: .nan
@@ -116,7 +116,7 @@ works:
     technique: Acrylique et pastel
     dimensions:
       height: 52
-      width: null
+      width: 72
       depth: null
     description: 2018 /  Encadré aluminum sous verre 800€
     price: .nan
@@ -126,7 +126,7 @@ works:
     technique: Acrylique et pastel
     dimensions:
       height: 52
-      width: null
+      width: 72
       depth: null
     description: 2018 /  Encadré aluminum sous verre 800€
     price: .nan
@@ -136,7 +136,7 @@ works:
     technique: 'Acrylique, pastel fusain sur toile'
     dimensions:
       height: 116
-      width: null
+      width: 81
       depth: null
     description: 2019 / 1800€
     price: .nan
@@ -146,7 +146,7 @@ works:
     technique: Toile marouflée sur carton
     dimensions:
       height: 41
-      width: null
+      width: 41
       depth: null
     description: 2018 / 550€
     price: .nan
@@ -156,7 +156,7 @@ works:
     technique: Toile marouflée sur carton
     dimensions:
       height: 41
-      width: null
+      width: 41
       depth: null
     description: 2018  /  550€
     price: .nan
@@ -166,7 +166,7 @@ works:
     technique: 'Acrylique, pastels sur carton'
     dimensions:
       height: 22
-      width: null
+      width: 22
       depth: null
     description: 2018 / 280€
     price: .nan
@@ -176,7 +176,7 @@ works:
     technique: 'Acrylique, pastels sur carton'
     dimensions:
       height: 22
-      width: null
+      width: 22
       depth: null
     description: 2018 /  280€
     price: .nan
@@ -186,7 +186,7 @@ works:
     technique: Acrylique et pastel
     dimensions:
       height: 30
-      width: null
+      width: 57
       depth: null
     description: 2019 / 600€ encadré
     price: .nan
@@ -196,7 +196,7 @@ works:
     technique: Acrylique et pastel
     dimensions:
       height: 30
-      width: null
+      width: 60
       depth: null
     description: 2019 /  600€ encadré
     price: .nan
@@ -206,7 +206,7 @@ works:
     technique: 'Acrylique, pastels, fusain sur toile'
     dimensions:
       height: 100
-      width: null
+      width: 81
       depth: null
     description: 2018 / 1600€
     price: .nan
@@ -216,7 +216,7 @@ works:
     technique: Acrylique et pastel sur toile
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: 2018 / 1800€
     price: .nan
@@ -226,7 +226,7 @@ works:
     technique: Acrylique et pastel sur toile
     dimensions:
       height: 100
-      width: null
+      width: 100
       depth: null
     description: 2018 / 1800€
     price: .nan

@@ -113,7 +113,7 @@ works:
     technique: Photographie
     dimensions:
       height: 90
-      width: null
+      width: 140
       depth: null
     description: tirage sur dibon 2/10 1500 euros
     price: .nan
@@ -123,7 +123,7 @@ works:
     technique: Photographie
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: tirage sur dibon 4/10 1500 euros
     price: .nan
@@ -133,7 +133,7 @@ works:
     technique: Photographie
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: tirage sur dibon 4/10 1500 euros
     price: .nan
@@ -153,7 +153,7 @@ works:
     technique: Photographie
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: tirage sur dibon 1/10 1500 euros
     price: .nan

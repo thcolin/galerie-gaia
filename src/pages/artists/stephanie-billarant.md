@@ -43,7 +43,7 @@ works:
     technique: photographie
     dimensions:
       height: 30
-      width: null
+      width: 20
       depth: null
     description: ''
     price: .nan
@@ -53,7 +53,7 @@ works:
     technique: Photographie
     dimensions:
       height: 30
-      width: null
+      width: 40
       depth: null
     description: ''
     price: .nan
@@ -63,7 +63,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 46
-      width: null
+      width: 66
       depth: null
     description: ''
     price: .nan
@@ -73,7 +73,7 @@ works:
     technique: acrylique sur toile
     dimensions:
       height: 115
-      width: null
+      width: 90
       depth: null
     description: ''
     price: .nan

@@ -14,7 +14,7 @@ works:
     technique: 'Aquatinte, eau forte'
     dimensions:
       height: 125
-      width: null
+      width: 87
       depth: null
     description: 1400€ encadré
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 72
-      width: null
+      width: 50
       depth: null
     description: |-
       1985
@@ -36,7 +36,7 @@ works:
     technique: Gravure
     dimensions:
       height: 76
-      width: null
+      width: 53
       depth: null
     description: |-
       1987
@@ -48,7 +48,7 @@ works:
     technique: Epreuve pigmentaire
     dimensions:
       height: 66
-      width: null
+      width: 48
       depth: null
     description: |-
       2019
@@ -60,7 +60,7 @@ works:
     technique: Pointe sèche
     dimensions:
       height: 30
-      width: null
+      width: 47
       depth: null
     description: |-
       1967 Editions Jacques Putman pour les suite Prisunic
@@ -72,7 +72,7 @@ works:
     technique: Aquatinte et pointe sèche
     dimensions:
       height: 56
-      width: null
+      width: 75
       depth: null
     description: |-
       1989 
@@ -84,7 +84,7 @@ works:
     technique: Pointe sèche et aquatinte
     dimensions:
       height: 55
-      width: null
+      width: 75
       depth: null
     description: |-
       1966
@@ -96,7 +96,7 @@ works:
     technique: Eau forte
     dimensions:
       height: 85
-      width: null
+      width: 63
       depth: null
     description: |-
       1999-2000
@@ -108,7 +108,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 80
-      width: null
+      width: 61
       depth: null
     description: |-
       2013
@@ -120,7 +120,7 @@ works:
     technique: Aquatinte
     dimensions:
       height: 80
-      width: null
+      width: 61
       depth: null
     description: |-
       2013
@@ -132,7 +132,7 @@ works:
     technique: Eau forte
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: |-
       2003
@@ -144,7 +144,7 @@ works:
     technique: Eau forte
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: |-
       2003
@@ -156,7 +156,7 @@ works:
     technique: Eau forte
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: |-
       2003
@@ -168,7 +168,7 @@ works:
     technique: Zincographie en couleur et 4 timbres humides
     dimensions:
       height: 59
-      width: null
+      width: 78
       depth: null
     description: |-
       1977
@@ -180,7 +180,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 64
-      width: null
+      width: 49
       depth: null
     description: |-
       1997
@@ -192,7 +192,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: |-
       1989
@@ -204,7 +204,7 @@ works:
     technique: ''
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: 800€
     price: .nan
@@ -214,7 +214,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 35
-      width: null
+      width: 26
       depth: null
     description: |-
       1994
@@ -227,7 +227,7 @@ works:
     technique: Sérigraphie atelier Byse Lille
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: |-
       2002
@@ -239,7 +239,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 42
-      width: null
+      width: 57
       depth: null
     description: 2017 460€
     price: .nan
@@ -249,7 +249,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 42
-      width: null
+      width: 57
       depth: null
     description: 2017 460€
     price: .nan
@@ -259,7 +259,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 32
-      width: null
+      width: 25
       depth: null
     description: 2016 100€
     price: .nan
@@ -269,7 +269,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 32
-      width: null
+      width: 25
       depth: null
     description: 2016 100€
     price: .nan
@@ -279,7 +279,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 32
-      width: null
+      width: 25
       depth: null
     description: 2016 100€
     price: .nan
@@ -289,7 +289,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 69
-      width: null
+      width: 69
       depth: null
     description: Numérotation 28/60 600€
     price: .nan
@@ -299,7 +299,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 96
-      width: null
+      width: 68
       depth: null
     description: 2007 1500€
     price: .nan
@@ -309,7 +309,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 96
-      width: null
+      width: 68
       depth: null
     description: 2007 1500€
     price: .nan
@@ -319,7 +319,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 48
-      width: null
+      width: 64
       depth: null
     description: 1982 1400€ encadré
     price: .nan
@@ -329,7 +329,7 @@ works:
     technique: Sérigraphie (36/60)
     dimensions:
       height: 66
-      width: null
+      width: 51
       depth: null
     description: |-
       1995 
@@ -341,7 +341,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 56
-      width: null
+      width: 76
       depth: null
     description: s.d. 900€
     price: .nan
@@ -351,7 +351,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 65
-      width: null
+      width: 51
       depth: null
     description: s.d. 1500€
     price: .nan

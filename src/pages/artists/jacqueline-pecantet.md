@@ -14,7 +14,7 @@ works:
     technique: ''
     dimensions:
       height: 10
-      width: null
+      width: 10
       depth: null
     description: ''
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: Eau forte et gaufrage 3/15
     dimensions:
       height: 52
-      width: null
+      width: 39
       depth: null
     description: ''
     price: .nan

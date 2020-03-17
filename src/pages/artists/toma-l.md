@@ -100,7 +100,7 @@ works:
     technique: 'Techn. mixte sur papier, caisse américaine chêne'
     dimensions:
       height: 70
-      width: null
+      width: 72
       depth: null
     description: 2012 /  2900€
     price: .nan
@@ -110,7 +110,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 57
-      width: null
+      width: 38
       depth: null
     description: 2018 /  300€
     price: .nan
@@ -120,7 +120,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 2018  /  350€
     price: .nan
@@ -130,7 +130,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 2018  / 350 euros
     price: .nan
@@ -140,7 +140,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 2018  / 350€
     price: .nan
@@ -150,7 +150,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2018  / 450€
     price: .nan
@@ -160,7 +160,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 76
-      width: null
+      width: 56
       depth: null
     description: 2018 /  450€
     price: .nan
@@ -170,7 +170,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 66
-      width: null
+      width: 51
       depth: null
     description: 2017 / 400€
     price: .nan
@@ -180,7 +180,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 72
-      width: null
+      width: 51
       depth: null
     description: 2017 / 400€
     price: .nan
@@ -190,7 +190,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: 2017 /  400€
     price: .nan
@@ -200,7 +200,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: 2017 / 400€
     price: .nan
@@ -210,7 +210,7 @@ works:
     technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
     dimensions:
       height: 150
-      width: null
+      width: 95
       depth: null
     description: 2017 /  5500€
     price: .nan
@@ -220,7 +220,7 @@ works:
     technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
     dimensions:
       height: 162
-      width: null
+      width: 114
       depth: null
     description: 2016 / 5800€
     price: .nan

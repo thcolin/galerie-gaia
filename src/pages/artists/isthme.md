@@ -75,7 +75,7 @@ works:
     dimensions:
       height: 6
       width: null
-      depth: null
+      depth: 25
     description: |-
       Prix sur demande 
       Installation créée pour l'exposition à la galerie 
@@ -87,7 +87,7 @@ works:
     technique: Linogravure 10 /13
     dimensions:
       height: 50
-      width: null
+      width: 64
       depth: null
     description: |-
       350€
@@ -99,7 +99,7 @@ works:
     technique: Acrylique sur toile
     dimensions:
       height: 146
-      width: null
+      width: 114
       depth: null
     description: |-
       2019 /
@@ -111,7 +111,7 @@ works:
     technique: Acrylique sur toile
     dimensions:
       height: 146
-      width: null
+      width: 114
       depth: null
     description: |-
       2800€ /
@@ -123,7 +123,7 @@ works:
     technique: Acrylique sur toile
     dimensions:
       height: 130
-      width: null
+      width: 97
       depth: null
     description: |-
       2016-2019 /
@@ -135,7 +135,7 @@ works:
     technique: Collage
     dimensions:
       height: 76
-      width: null
+      width: 58
       depth: null
     description: 600€
     price: .nan
@@ -145,7 +145,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 50
-      width: null
+      width: 65
       depth: null
     description: 350€
     price: .nan
@@ -155,7 +155,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 66
-      width: null
+      width: 50
       depth: null
     description: 350€
     price: .nan
@@ -165,7 +165,7 @@ works:
     technique: Collage
     dimensions:
       height: 76
-      width: null
+      width: 59
       depth: null
     description: 600€
     price: .nan
@@ -175,7 +175,7 @@ works:
     technique: Collage
     dimensions:
       height: 77
-      width: null
+      width: 57
       depth: null
     description: 600€
     price: .nan
@@ -185,7 +185,7 @@ works:
     technique: Collage
     dimensions:
       height: 83
-      width: null
+      width: 63
       depth: null
     description: Informations bientôt disponibles
     price: .nan
@@ -195,7 +195,7 @@ works:
     technique: Collage
     dimensions:
       height: 83
-      width: null
+      width: 63
       depth: null
     description: Informations bientôt disponibles
     price: .nan
@@ -205,7 +205,7 @@ works:
     technique: Collage
     dimensions:
       height: 90
-      width: null
+      width: 70
       depth: null
     description: Informations bientôt disponibles
     price: .nan
@@ -215,7 +215,7 @@ works:
     technique: Collage
     dimensions:
       height: 90
-      width: null
+      width: 70
       depth: null
     description: 780€ encadré
     price: .nan
@@ -225,7 +225,7 @@ works:
     technique: Collage
     dimensions:
       height: 89
-      width: null
+      width: 70
       depth: null
     description: 780€ encadré
     price: .nan
@@ -235,7 +235,7 @@ works:
     technique: Lithographie
     dimensions:
       height: 69
-      width: null
+      width: 53
       depth: null
     description: 480€ encadré
     price: .nan

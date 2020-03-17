@@ -26,7 +26,7 @@ works:
     technique: Sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       20 exemplaires 
@@ -38,7 +38,7 @@ works:
     technique: Collage sur sérigraphie
     dimensions:
       height: 70
-      width: null
+      width: 50
       depth: null
     description: |-
       Pièce unique
@@ -50,7 +50,7 @@ works:
     technique: Sérigraphie (36/60)
     dimensions:
       height: 65
-      width: null
+      width: 50
       depth: null
     description: 600€
     price: .nan
@@ -60,7 +60,7 @@ works:
     technique: Sérigraphie 1/1
     dimensions:
       height: 40
-      width: null
+      width: 30
       depth: null
     description: 280€
     price: .nan
@@ -70,7 +70,7 @@ works:
     technique: Sérigraphie 1/1
     dimensions:
       height: 40
-      width: null
+      width: 60
       depth: null
     description: 350€
     price: .nan
@@ -80,8 +80,8 @@ works:
     technique: Sérigraphie 3/25 (2019)
     dimensions:
       height: 6
-      width: null
-      depth: null
+      width: 12
+      depth: 12
     description: |-
       Volume pliable 6X12X12
       160€
@@ -92,7 +92,7 @@ works:
     technique: Sérigraphie /10
     dimensions:
       height: 30
-      width: null
+      width: 20
       depth: null
     description: |-
       2020 
@@ -104,7 +104,7 @@ works:
     technique: Sérigraphie /10
     dimensions:
       height: 30
-      width: null
+      width: 24
       depth: null
     description: |-
       2020

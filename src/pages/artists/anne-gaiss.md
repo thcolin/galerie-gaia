@@ -72,7 +72,7 @@ works:
     technique: Découpes et incisions sur papier français Maison de la Roque
     dimensions:
       height: 38
-      width: null
+      width: 55
       depth: null
     description: |-
       Oeuvre encadrée (50 X 68). 
@@ -89,7 +89,7 @@ works:
     technique: Découpes et incisions sur feuille de cuivre
     dimensions:
       height: 55
-      width: null
+      width: 55
       depth: null
     description: 2200 €
     price: .nan
@@ -99,7 +99,7 @@ works:
     technique: Découpes et incisions sur feuille de cuivre
     dimensions:
       height: 55
-      width: null
+      width: 55
       depth: null
     description: 2200 €
     price: .nan
@@ -119,7 +119,7 @@ works:
     technique: ''
     dimensions:
       height: 50
-      width: null
+      width: 70
       depth: null
     description: ''
     price: .nan

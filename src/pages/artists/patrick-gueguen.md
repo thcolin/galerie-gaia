@@ -14,7 +14,7 @@ works:
     technique: Encre et acrylique sur papier
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: 2400€
     price: .nan
@@ -24,7 +24,7 @@ works:
     technique: Encre et acrylique sur papier
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: ''
     price: .nan
@@ -34,7 +34,7 @@ works:
     technique: Encre et acrylique sur papier
     dimensions:
       height: 100
-      width: null
+      width: 70
       depth: null
     description: ''
     price: .nan
@@ -44,7 +44,7 @@ works:
     technique: encre et acrylique sur papier
     dimensions:
       height: 40
-      width: null
+      width: 50
       depth: null
     description: ''
     price: .nan

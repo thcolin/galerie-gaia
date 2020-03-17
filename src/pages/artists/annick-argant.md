@@ -100,8 +100,8 @@ works:
     technique: Bronze
     dimensions:
       height: 17
-      width: null
-      depth: null
+      width: 28
+      depth: 18
     description: ''
     price: .nan
     sold: false

@@ -18,7 +18,7 @@ works:
   dimensions:
     height: 75
     width: 110
-    depth: 
+    depth:
   description: "Dessin original effectué au crayon \nEstampe technique du giclée sur
     papier Arches"
   price: 1000
@@ -28,10 +28,10 @@ works:
   technique: stylo
   dimensions:
     height: 180
-    width: 
-    depth: 
+    width: 110
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: FE
   image: "/forestry/fe.jpg"
@@ -39,7 +39,7 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 
+    depth:
   description: ''
   price: 600
   sold: false
