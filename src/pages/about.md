@@ -7,10 +7,11 @@ tabs:
       \ pour booster l'expérience clients en créant **un évènement exclusif :**\n\n*
       exposition privée d’artistes régionaux \n* performance d'artiste en live \n\n
       \ ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)\n\n![](/forestry/event.jpg)"
-  - column: "**Surprenez les en offrant une oeuvre d'artiste !**\n\n* Cartes de voeux
-      en édition limitée\n\n\n* Trophée de challenge interne \n\n\n* Cadeau de départ
-      (retraite - promotion)\n* Anniversaire de l'entreprise \n\n**Un projet - Un
-      budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n*
+  - column: "**Surprenez les en offrant une oeuvre d'artiste !**\n\n* Catalogue de
+      cartes de voeux en édition limitée \n* Création de cartes de voeux représentant
+      les valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n*
+      Cadeau de départ (retraite - promotion)\n* Anniversaire de l'entreprise \n\n**Un
+      projet - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n*
       ![](/forestry/galeriegaia@opensquash2018.jpg)\n\n![](/forestry/galeriegaia@lnh-coffretanniversaire.jpg)\n\n![](/forestry/2.jpg)"
 - title: Défiscalisation
   content:
