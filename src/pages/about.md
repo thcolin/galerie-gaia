@@ -15,14 +15,14 @@ tabs:
       ![](/forestry/GAIACARTE03.jpg)![](/forestry/ville-revee.jpg)
   - column: "Trophée par un artiste\n\nAu choix dans les oeuvres disponibles \n\nCréation
       spéciale pour l'évènement \n\n![](/forestry/galeriegaia@opensquash2018.jpg)"
-- title: Evènementiel
+- title: Evènementiel B to B  ET B to C
   content:
   - column: |-
-      # Evènementiel
+      # Expérience client
 
       **Singularisez vous !**
 
-      Marquez les esprits  pour booster l'expérience clients en créant **un évènement exclusif :**
+      Marquez les esprits  pour booster l'expérience client en créant **un évènement exclusif :**
 
       * exposition privée d’artistes régionaux
       * performance d'artiste en live
