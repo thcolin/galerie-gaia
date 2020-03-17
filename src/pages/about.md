@@ -9,6 +9,8 @@ tabs:
       Je prépare une sélection spécifique de sérigraphies, photos, sculptures ou oeuvres originales après étude de vos locaux et en écho à la culture de votre entreprise.
 
       Le choix peut être organisé aussi en mode collaboratif et participatif.
+
+      ![](/forestry/20190202_131517.jpg)
 - title: Idées cadeaux originales
   content:
   - column: "Liste de mariage, anniversaire, départ à la retraite \n\nLa carte cadeau
