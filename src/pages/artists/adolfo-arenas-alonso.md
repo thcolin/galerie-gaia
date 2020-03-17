@@ -33,25 +33,15 @@ works:
   description: ''
   price: 
   sold: false
-- title: Sine Nob'litate
-  image: "/forestry/sine-noblitate.jpg"
-  technique: stylo
-  dimensions:
-    height: 75
-    width: 
-    depth: 
-  description: détail de l'œuvre
-  price: 
-  sold: false
 - title: FE
   image: "/forestry/fe.jpg"
   technique: DESSIN reproduction technique du giclée 16/25
   dimensions:
-    height: 60
-    width: 
+    height: 70
+    width: 50
     depth: 
   description: ''
-  price: 
+  price: 600
   sold: false
 
 ---
