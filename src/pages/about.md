@@ -12,21 +12,35 @@ tabs:
 
       [demande de renseignements](galeriegaia@orange.fr "renseignements deco bureau")
 
-      ![](/forestry/20190202_131517.jpg)
+      ![Artiste Villéglé lithographie](/forestry/20190202_131517.jpg "décoration bureau")
 - title: Idées cadeaux originales
   content:
-  - column: "Liste de mariage, anniversaire, départ à la retraite \n\nLa carte cadeau
-      permet de laisser le choix \n\nRetour possible de l'oeuvre choisie\n\n![](/forestry/galeriegaia-cartecadeau.jpg)"
+  - column: |-
+      Liste de mariage, anniversaire, départ à la retraite
+
+      La carte cadeau permet de laisser le choix
+
+      Retour possible de l'oeuvre choisie
+
+      ![carte cadeau galerie mariage anniversaire départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg "carte cadeau")
   - column: |-
       Carte de voeux
 
-      A choisir dans un catalogue sur demande
+      A choisir dans un catalogue [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ")
 
       Création spéciale pour incarner les valeurs de votre entreprise
 
-      ![](/forestry/GAIACARTE03.jpg)![](/forestry/ville-revee.jpg)
-  - column: "Trophée par un artiste\n\nAu choix dans les oeuvres disponibles \n\nCréation
-      spéciale pour l'évènement \n\n![](/forestry/galeriegaia@opensquash2018.jpg)"
+      ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
+  - column: |-
+      Trophée par un artiste
+
+      Au choix dans les oeuvres disponibles
+
+      Création spéciale pour l'évènement
+
+      [demande de renseignements ](galeriegaia@orange.fr "trophée artiste")
+
+      ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash Nantes")
 - title: Evènementiel
   content:
   - column: |-
