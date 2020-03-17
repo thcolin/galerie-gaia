@@ -10,6 +10,8 @@ tabs:
 
       Le choix peut être organisé aussi en mode collaboratif et participatif.
 
+      [demande de renseignements](galeriegaia@orange.fr "renseignements deco bureau")
+
       ![](/forestry/20190202_131517.jpg)
 - title: Idées cadeaux originales
   content:
