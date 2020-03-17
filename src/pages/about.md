@@ -7,9 +7,9 @@ tabs:
       vos clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
       une exposition privée d’artistes contemporains dans votre entreprise ou dans
       un lieu de votre choix\n\n![](/forestry/event.jpg)"
-  - column: "**Surprenez les !**  \nOffrez une oeuvre d’art à vos clients, vos salariés
-      (lauréats de challenges, ancienneté, anniversaire, retraite...)   \n  \n**Un
-      projet - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![](/forestry/2.jpg)"
+  - column: "**Surprenez les !**  \nCartes de voeux en édition limitée\n\nTrophée
+      de challenge interne \n\nCadeau de départ (retraite - promotion)\n\n**Un projet
+      - Un budget - Un devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![](/forestry/2.jpg)"
 - title: Défiscalisation
   content:
   - column: "# Défiscalisation\n\n**Pourquoi :**  \n  \nL’art sur le lieu de travail
