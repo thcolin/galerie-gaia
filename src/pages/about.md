@@ -13,7 +13,7 @@ tabs:
       * exposition privée d’artistes régionaux
       * performance d'artiste en live
 
-        ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)
+        ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)![](/forestry/galeriegaia@galerieslafayette@valerieleroux.jpg)
   - column: "**Surprenez en offrant une oeuvre d'artiste !**\n\n* Catalogue de cartes
       de voeux en édition limitée\n* Création de cartes de voeux représentant les
       valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
