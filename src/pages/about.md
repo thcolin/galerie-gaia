@@ -44,13 +44,11 @@ tabs:
 - title: Evènementiel
   content:
   - column: |-
-      # Evènementiel
+      **Singularisez vous avec un évènementiel artistique pour vos clients !**
 
-      **Singularisez vous !**
+      Marquez les esprits  pour booster l'expérience clients en créant **un évènement artistique exclusif :**
 
-      Marquez les esprits  pour booster l'expérience clients en créant **un évènement exclusif :**
-
-      * exposition privée d’artistes régionaux
+      * exposition privée d’artistes (régionaux-nationaux-internationaux)
       * performance d'artiste en live
 
         ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)![](/forestry/galeriegaia@galerieslafayette@valerieleroux.jpg)
