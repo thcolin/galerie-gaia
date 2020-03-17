@@ -11,21 +11,21 @@ description: "La **Galerie Gaïa** prolonge l’esprit d’un lieu créé en 197
   dont l’oeuvre est en devenir.\n\nEn 2015 Elisabeth Givre prolonge l’aventure et
   ancre avec la **Galerie Gaïa**, l’art contemporain comme la véritable empreinte
   de ce lieu situé dans le cœur historique de la ville de Nantes.\n\n6 expositions
-  personnelles en solo-show alternant avec des installations collectives montrant
-  simultanément des peintures, sculptures, photographies, dessins, gravures, lithographies,
-  sérigraphies, céramiques et objets uniques de designer que je chine pour vous les
-  faire découvrir en exclusivité.\n\nLes héritiers de Jorg Morin célèbre publicitaire
-  nantais, peintre et graveur nous honorent de leur confiance. Ainsi ses gravures,
-  peintures, stèles et tapisseries sont exposées et disponibles à la vente en exclusivité
-  à la galerie.\n\nVenez, entrez et découvrez  \nl’évidence  \nl’évidence devant une
-  œuvre qui s’impose  \nl’évidence qui ne se discute pas et dont on pourra discuter
-  \ \nl’évidence qui se garde pour soi  \nl’évidence qui se partage  \nl’évidence
-  qui euphorise et qui rayonne\n\nVous pouvez aussi réserver les oeuvres que vous
-  découvrez sur le site car tout ce que vous voyez est disponible à la vente ou la
-  location (précisions dans \"A propos\", les expéditions sont possibles dans le monde
-  entier.\n\nSi vous habitez à proximité, je propose aussi de vous prêter les oeuvres
-  contre un chèque de caution de son montant. Ainsi tranquillement dans votre espace
-  vous pouvez choisir en toute confiance."
+  personnelles en solo-show alternent dans l'année avec des installations collectives
+  montrant simultanément des peintures, sculptures, photographies, dessins, gravures,
+  lithographies, sérigraphies, céramiques et objets uniques de designer que je sélectionne
+  avec attention.\n\nLes héritiers de Jorg Morin célèbre publicitaire nantais, peintre
+  et graveur nous honorent de leur confiance. Ainsi ses gravures, peintures, stèles
+  et tapisseries sont exposées et disponibles à la vente en exclusivité à la galerie.\n\nUn
+  crédo : faire simple\n\nVous pouvez ainsi réserver les oeuvres que vous découvrez
+  sur le site car tout ce que vous voyez est disponible à la vente ou la location
+  (modalités dans \"A propos\").\n\nLes expéditions sont possibles dans le monde entier
+  (DHL - UPS- TNT).\n\nUne hésitation ? Je vous propose d'essayer l'oeuvre chez vous
+  une semaine contre un chèque de caution de son montant. Ainsi tranquillement dans
+  votre espace vous pouvez choisir en toute confiance.\n\nVenez, entrez et découvrez
+  \ \nl’évidence  \nl’évidence devant une œuvre qui s’impose  \nl’évidence qui ne
+  se discute pas et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence
+  qui se partage  \nl’évidence qui euphorise et qui rayonne"
 title: La Galerie
 about: "Un besoin d’information,  \nConnaître les actualités de la galerie,  \nEnvie
   d’être invité aux prochains vernissages ?"
