@@ -1,6 +1,12 @@
 ---
 template: about
 tabs:
+- title: Idées cadeaux originales
+  content:
+  - column: "Carte de voeux \n\nA choisir dans un catalogue sur demande \n\nCréation
+      spéciale pour incarner les valeurs de votre entreprise "
+  - column: "Trophée par un artiste\n\nAu choix dans les oeuvres disponibles \n\nCréation
+      spéciale pour l'évènement \n\n![](/forestry/galeriegaia@opensquash2018.jpg)"
 - title: Evènementiel
   content:
   - column: |-
