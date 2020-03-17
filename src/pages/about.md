@@ -3,10 +3,10 @@ template: about
 tabs:
 - title: Evènementiel
   content:
-  - column: "# Evènementiel\n\n**Singularisez vous !**  \nMarquez la relation avec
-      vos clients, partenaires, équipes\n\n**Créez un évènement exclusif**  \nAvec
-      une exposition privée d’artistes contemporains dans votre entreprise ou dans
-      un lieu de votre choix\n\n![](/forestry/event.jpg)"
+  - column: "# Evènementiel\n\n**Singularisez vous !**\n\n  \nMarquez les esprits
+      \ pour booster l'expérience clients en créant **un évènement exclusif :**\n\n*
+      exposition privée d’artistes régionaux \n* performance d'artiste en live \n\n
+      \ ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)\n\n![](/forestry/event.jpg)"
   - column: "**Surprenez les en offrant une oeuvre d'artiste !**\n\n* Cartes de voeux
       en édition limitée\n\n\n* Trophée de challenge interne \n\n\n* Cadeau de départ
       (retraite - promotion)\n* Anniversaire de l'entreprise \n\n**Un projet - Un
