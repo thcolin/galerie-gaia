@@ -12,7 +12,7 @@ tabs:
 
       [demande de renseignements](galeriegaia@orange.fr "renseignements deco bureau")
 
-      ![Artiste Villéglé lithographie](/forestry/20190202_131517.jpg "décoration bureau")
+      ![Artiste Franco Salas Borquez](/forestry/20160928_112856.jpg "Keran groupe SCE")![Artiste Villéglé lithographie](/forestry/20190202_131517.jpg "décoration bureau")
 - title: Idées cadeaux originales
   content:
   - column: |-
