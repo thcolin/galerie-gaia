@@ -79,14 +79,10 @@ tabs:
       ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
 - title: 'Idées cadeaux '
   content:
-  - column: |-
-      Liste de mariage, anniversaire, départ à la retraite
-
-      La carte cadeau permet de laisser le choix
-
-      Retour possible de l'oeuvre choisie
-
-      ![carte cadeau galerie mariage anniversaire départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg "carte cadeau")
+  - column: "Liste de mariage, anniversaire, départ à la retraite   \nLa carte cadeau
+      permet de laisser le choix de plus de 400 oeuvres   \nEchange et retour possible
+      \n\n![carte cadeau galerie mariage anniversaire départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg
+      \"carte cadeau\")"
   - column: |-
       Carte de voeux
 
