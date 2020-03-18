@@ -3,13 +3,12 @@ template: about
 tabs:
 - title: Location avec option d'achat
   content:
-  - column: "L'Art de vivre au travail \n\nDans des bureaux nouvelles générations,
-      la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque
-      employeur, le bien être au travail pour améliorer la créativité et l'esprit
-      coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural.
-      Concrètement la mise ne place d'oeuvres d'artistes dans l'espace de travail
-      flexible et lifestyle devient chaleureux et cela renforce l'identité de l'entreprise
-      qui aujourd'hui veut se singulariser auprès de ses clients et attirer des talents."
+  - column: |-
+      L'Art de vivre au travail
+
+      Dans des bureaux nouvelles générations, la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque employeur, le bien être au travail pour améliorer la créativité et l'esprit coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural. Concrètement la mise en place d'oeuvres d'artistes dans l'espace de travail flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et attirer des talents.
+
+      ![](/forestry/galeriegaia@edwinwide-omr.jpg)
   - column: |-
       J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
