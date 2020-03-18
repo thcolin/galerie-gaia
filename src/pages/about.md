@@ -3,21 +3,6 @@ template: about
 tabs:
 - title: Location avec option d'achat
   content:
-  - column: "\nSimulation pour une oeuvre de 3 500 €\n\nDurée de la location 24 mois\n\nLoyer
-      mensuel terme à échoir 193 € ht\n\nEconomie d’impôt générée  1 296 €\n\nCoût
-      global (hors économie charges sociales, IR …) 3 332 €\n\n\\* Les loyers sont
-      une charge déductible et génèrent une économie d'IS estimée à 28 %\n\nUn transfert
-      de propriété pour la valeur résiduelle de 5 % des oeuvres vous\n\nsera proposé
-      à l’issue du contrat de location.\n\nLes montants mini et maxi  d'un dossier
-      de 1000€ à 75000€\n\nLes durées mini et maxi d'une location 12 mois à \n\nLe
-      + : toutes les oeuvres d'artistes sont concernées sans restriction (décédés
-      ou vivants) et sans obligation d'être visible dans les parties communes de l'entreprise,
-      ce qui n'est pas le cas dans l'achat d'oeuvres.\n\n[faire une simulation](http://bail-art.com/le-leasing/
-      \"simulation Bail Art Galerie Gaia\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
-  - column: |-
-      J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
-
-      [Gazette drouot juin 2017 (1).pdf](/forestry/Gazette drouot juin 2017 (1).pdf "Gazette drouot juin 2017 (1).pdf")
   - column: "L'Art de vivre au travail \n\nDans des bureaux nouvelles générations,
       la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque
       employeur, le bien être au travail pour améliorer la créativité et l'esprit
@@ -25,6 +10,36 @@ tabs:
       Concrètement la mise ne place d'oeuvres d'artistes dans l'espace de travail
       flexible et lifestyle devient chaleureux et cela renforce l'identité de l'entreprise
       qui aujourd'hui veut se singulariser auprès de ses clients et attirer des talents."
+  - column: |-
+      J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
+
+      [Gazette drouot juin 2017 (1).pdf](/forestry/Gazette drouot juin 2017 (1).pdf "Gazette drouot juin 2017 (1).pdf")
+  - column: |-
+      Simulation pour une oeuvre de 3 500 €
+
+      Durée de la location 24 mois
+
+      Loyer mensuel terme à échoir 193 € ht
+
+      Economie d’impôt générée  1 296 €
+
+      Coût global (hors économie charges sociales, IR …) 3 332 €
+
+      \* Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %
+
+      Un transfert de propriété pour la valeur résiduelle de 5 % des oeuvres vous
+
+      sera proposé à l’issue du contrat de location.
+
+      Les montants mini et maxi  d'un dossier de 1000€ à 75000€
+
+      Les durées mini et maxi d'une location 12 mois à
+
+      Le + : toutes les oeuvres d'artistes sont concernées sans restriction (décédés ou vivants) et sans obligation d'être visible dans les parties communes de l'entreprise, ce qui n'est pas le cas dans l'achat d'oeuvres.
+
+      [faire une simulation](http://bail-art.com/le-leasing/ "simulation Bail Art Galerie Gaia")
+
+      ![Galerie Gaia partenaire avec Bail Art](/forestry/BAILART•Logo HD.jpg "Bail Art")
 - title: 'RSE '
   content:
   - column: |-
