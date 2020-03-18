@@ -76,13 +76,13 @@ const Artist = ({ ...props }) => {
                   <span>
                     {work.technique}
                     {(
-                      work.dimensions.height ||
-                      work.dimensions.width ||
-                      work.dimensions.depth
+                      work.dimensions?.height ||
+                      work.dimensions?.width ||
+                      work.dimensions?.depth
                     ) && ` (${[
-                      work.dimensions.height,
-                      work.dimensions.width,
-                      work.dimensions.depth,
+                      work.dimensions?.height,
+                      work.dimensions?.width,
+                      work.dimensions?.depth,
                     ].filter(size => size).join(' x ')})`}
                   </span>
                   {!!work.price && (
