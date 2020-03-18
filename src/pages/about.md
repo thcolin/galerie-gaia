@@ -3,11 +3,10 @@ template: about
 tabs:
 - title: Location avec option d'achat
   content:
-  - column: J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à
-      des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat.
-      Le leasing d'art offre la possibilité d'améliorer son environnement de travail
-      ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis
-      à l'IS ou IRPP.
+  - column: |-
+      J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
+
+      [Gazette drouot juin 2017 (1).pdf](/forestry/Gazette drouot juin 2017 (1).pdf "Gazette drouot juin 2017 (1).pdf")
   - column: "L'Art de vivre au travail \n\nDans des bureaux nouvelles générations,
       la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque
       employeur, le bien être au travail pour améliorer la créativité et l'esprit
