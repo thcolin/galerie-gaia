@@ -103,6 +103,8 @@ tabs:
 - title: 'Références '
   content:
   - column: |-
+      Merci pour la confiance accordée pour des projets riche en émotion
+
       ![](/forestry/keran.jpg)
 
       ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
