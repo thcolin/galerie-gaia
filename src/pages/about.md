@@ -105,7 +105,7 @@ tabs:
       de départ (retraite - promotion)\n* Cadeau client pour un anniversaire patrimonial
       de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste
       Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")![](/forestry/galeriegaia@kazy-adelis.JPG)"
-- title: Idées cadeaux originales
+- title: 'Idées cadeaux '
   content:
   - column: |-
       Liste de mariage, anniversaire, départ à la retraite
