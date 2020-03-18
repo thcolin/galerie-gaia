@@ -84,11 +84,11 @@ tabs:
       \n\n![carte cadeau galerie mariage anniversaire départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg
       \"carte cadeau\")"
   - column: |-
-      Carte de voeux
+      ##### Carte de voeux
 
-      A choisir dans un catalogue [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ")
+      Des artistes de la galerie ont créé des modèles de cartes de voeux disponibles dans un catalogue [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
 
-      Création spéciale pour incarner les valeurs de votre entreprise
+      Si vous voulez personnaliser votre carte de voeux en incarnant des valeurs de votre entreprise, je vous sélectionne un artiste qui vous soumettra un projet avant validation.
 
       ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
   - column: |-
