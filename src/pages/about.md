@@ -51,15 +51,12 @@ tabs:
       annuel de l’œuvre 7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
 - title: Evènementiel
   content:
-  - column: |-
-      **Singularisez vous avec un évènementiel artistique pour vos clients !**
-
-      Marquez les esprits  pour booster l'expérience clients en créant **un évènement artistique exclusif :**
-
-      * exposition privée d’artistes (régionaux-nationaux-internationaux)
-      * performance d'artiste en live
-
-        ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)![](/forestry/galeriegaia@galerieslafayette@valerieleroux.jpg)
+  - column: "##### **Créez une expérience client singulière !**\n\nJe vous propose
+      la gestion de ce projet en tant que commissaire d'exposition\n\n* Sélection
+      d'artistes régionaux, nationaux ou internationaux pour créer une exposition
+      dans vos locaux, avec la médiation lors du vernissage \n* Sélection d'artistes
+      pour réaliser une performance live lors d'une soirée privée\n\n  ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)\n\n
+      \ [demande de renseignement]() "
   - column: "**Surprenez en offrant une oeuvre d'artiste !**\n\n* Catalogue de cartes
       de voeux en édition limitée\n* Création de cartes de voeux représentant les
       valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
