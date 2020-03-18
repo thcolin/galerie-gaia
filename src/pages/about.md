@@ -66,18 +66,16 @@ tabs:
       Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
 - title: 'Architecte d''intérieur '
   content:
-  - column: |-
-      L'architecte travaille en priorité sur les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation de couleurs, papiers peints et oeuvres d'artistes.
-
-      Passez au concret à distance ou sur rendez-vous je vous conseille avec des propositions d'oeuvres de la galerie ou que je source pour votre projet.
-
-      Les objets de décoration sont souvent manufacturés et multiples quand l'art est unique et rend très personnel un décor.
-
-      Livraison et prêt d'oeuvres sur la région nantaise.
-
-      Apport d'affaire pour toute vente effectuée par vos soins.
-
-      ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
+  - column: "##### Projet clé en main :\n\nL'architecte travaille en priorité sur
+      les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation
+      de couleurs, papiers peints et simulation d'oeuvres d'artistes récupérées sur
+      internet.  \nLes objets de décoration sont souvent manufacturés et multiples
+      quand l'art est unique et rend très personnel un décor.\n\nPassez au concret
+      avec des propositions d'oeuvres de la galerie ou que je sourcerai spécialement
+      pour votre projet.  \nApport d'affaire pour toutes ventes effectuées par vos
+      soins.\n\n[demande de renseignements](galeriegaia@orange.fr \"renseignement
+      architecte\")\n\nLivraison et prêt d'oeuvres sur la région nantaise.\n\n![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
+      \"https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/\")\n\n![](/forestry/logochristophevinet.jpg)"
 - title: 'Idées cadeaux '
   content:
   - column: "Liste de mariage, anniversaire, départ à la retraite   \nLa carte cadeau
