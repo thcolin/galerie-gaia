@@ -84,10 +84,10 @@ tabs:
       \"https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/\")"
 - title: 'Idées cadeaux '
   content:
-  - column: "Liste de mariage, anniversaire, départ à la retraite   \nLa carte cadeau
-      permet de laisser le choix de plus de 400 oeuvres   \nEchange et retour possible
-      \n\n![carte cadeau galerie mariage anniversaire départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg
-      \"carte cadeau\")"
+  - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
+      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
+      et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
+      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
   - column: |-
       ##### Carte de voeux
 
