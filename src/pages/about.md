@@ -9,36 +9,12 @@ tabs:
       Dans des bureaux nouvelles générations, la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque employeur, le bien être au travail pour améliorer la créativité et l'esprit coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural. Concrètement la mise en place d'oeuvres d'artistes dans l'espace de travail flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et attirer des talents.
 
       ![](/forestry/galeriegaia@edwinwide-omr.jpg)
-  - column: |-
+
       J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
-      [Gazette drouot juin 2017 (1).pdf](/forestry/Gazette drouot juin 2017 (1).pdf "Gazette drouot juin 2017 (1).pdf")
-  - column: |-
-      Simulation pour une oeuvre de 3 500 €
+      [Gazette drouot juin 2017.pdf](/forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
 
-      Durée de la location 24 mois
-
-      Loyer mensuel terme à échoir 193 € ht
-
-      Economie d’impôt générée  1 296 €
-
-      Coût global (hors économie charges sociales, IR …) 3 332 €
-
-      \* Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %
-
-      Un transfert de propriété pour la valeur résiduelle de 5 % des oeuvres vous
-
-      sera proposé à l’issue du contrat de location.
-
-      Les montants mini et maxi  d'un dossier de 1000€ à 75000€
-
-      Les durées mini et maxi d'une location 12 mois à
-
-      Le + : toutes les oeuvres d'artistes sont concernées sans restriction (décédés ou vivants) et sans obligation d'être visible dans les parties communes de l'entreprise, ce qui n'est pas le cas dans l'achat d'oeuvres.
-
-      [faire une simulation](http://bail-art.com/le-leasing/ "simulation Bail Art Galerie Gaia")
-
-      ![Galerie Gaia partenaire avec Bail Art](/forestry/BAILART•Logo HD.jpg "Bail Art")
+      Exemple :
 - title: Défiscalisation
   content:
   - column: "# Défiscalisation\n\n**Pourquoi :**\n\nL’art sur le lieu de travail peut
@@ -62,18 +38,6 @@ tabs:
       \ \nLe montant annuel maximum déductible 350 000 x 0,005 soit 1750€  \nAmortissement
       annuel de l’œuvre 7000€ / 5 ans = 1400€  \nAinsi sur 5 ans vous pouvez déduire
       la totalité de votre acquisition\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
-- title: 'RSE '
-  content:
-  - column: |-
-      Développer sa marque employeur en créant votre identité arty !
-
-      Je prépare une sélection spécifique de sérigraphies, photos, sculptures ou oeuvres originales après étude de vos locaux et en écho à la culture de votre entreprise.
-
-      Le choix peut être organisé aussi en mode collaboratif et participatif.
-
-      [demande de renseignements](galeriegaia@orange.fr "renseignements deco bureau")
-
-      ![Artiste Franco Salas Borquez](/forestry/20160928_112856.jpg "Keran groupe SCE")![Artiste Villéglé lithographie](/forestry/20190202_131517.jpg "décoration bureau")
 - title: Evènementiel
   content:
   - column: |-
