@@ -49,15 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
-- title: 'Little trash '
-  image: "/forestry/galeriegaia@tomaL-2018020601-littletrash-100x70cm.jpg"
-  technique: technique mixte sur papier
+- title: Red side of the man
+  image: "/forestry/galeriegaia@tomaL-2018031701-redsideoftheman-145x70cm.jpg"
+  technique: technique mixte sur toile en lin
   dimensions:
-    depth: 
-    height: 115
-    width: 85
-  description: papier flottant sous verre cadre blanc
-  price: 3500
+    height: 146
+    width: 107
+  description: 'caisse américaine noire '
+  price: 5900
 - title: Wood cartel black
   image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
@@ -66,7 +65,7 @@ works:
     depth: 
     width: 70
   description: 'caisse américaine '
-  price: 1850
+  price: 
   sold: false
 - title: Drawing black
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
