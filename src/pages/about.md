@@ -12,9 +12,9 @@ tabs:
 
       J'ai retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
-      [Gazette drouot juin 2017.pdf](/forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
+      [Gazette drouot juin 2017.pdf](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
 
-      ##### Exemple
+      ##### Exemple :
 
       * pour une oeuvre de 3500€
       * location 24 mois
@@ -41,8 +41,8 @@ tabs:
       investissement :\n\n* vous constituez un patrimoine\n* vous faites une économie
       d’impôts\n* vous soutenez le développement de la création artistique contemporaine\n\n![Artiste
       Isabelle HEALY](/forestry/fondation.jpg 'Sculpture \"Fondation\"')"
-  - column: "\n**Comment :** \n\nL’oeuvre doit être exposée au public ou aux salariés
-      durant 5 ans, durée de son amortissement.\n\nL’œuvre figure dans les immobilisations
+  - column: "**Comment :**\n\nL’oeuvre doit être exposée au public ou aux salariés
+      durant 5 ans, durée de son amortissement.  \nL’œuvre figure dans les immobilisations
       de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
       spécial au passif du bilan de la société.\n\n**Exemple :**\n\n* Une entreprise
       réalisant 350 000€ de chiffre d’affaire acquiert une œuvre de 7000€ HT\n* La
