@@ -3,243 +3,224 @@ template: artist
 title: Elisabeth Wadecki
 location: ''
 field: Peintre plasticienne
-birth: 0
-death: 0
+birth: "0"
+death: "0"
 expose: true
-biography: >-
-  Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais et d'une mère
-  française. L'artiste se forme à L’Ecole Nationale des Beaux-Arts de Nancy.
-  Elle vit et travaille depuis près de 30 ans dans la région nantaise.
-
-  Qu’elle choisisse la peinture ou l’installation, Elisabeth Wadecki s’attache
-  avant tout à la sensualité des surfaces. Sa technique s’appuie sur une
-  minutieuse préparation des surfaces : la nature charnelle du support textile
-  transparait à travers une peinture extrêmement fluide, qui joue de la
-  transparence et de l’absence d’épaisseur. 
-
-  Ses paysages naturels ou intimes, transcrits de manière quasi topographique
-  par couches successives, là où effacements et retraits, se font l’écho de
-  trajectoires et racontent l’histoire de corps, de geste et de sensualité,
-  propres à l’abstraction. Le geste étale, lisse, prend l’espace. Toujours en
-  lien avec le rythme des saisons, la gamme chromatique de l’artiste rejoint la
-  peinture naturaliste.
-
-  La texture picturale des toiles, constituée de surfaces plus ou moins
-  transparentes, onctueuses, humides, donne à voir un paysage quelque peu en
-  lévitation. La composition semble se déployer en miroir et rappelle la
-  spécificité des paysages chinois. La peinture d’Elisabeth Wadecki est très
-  certainement empreinte d'influence asiatique, et relève d’un mélange intuitif
-  de références contemporaines tant picturales que littéraires. L’on sent ici
-  dans cette peinture, sourdre les mots ; on sent frémir la retenue délicate et
-  l’envol éternel de la poésie japonaise. En effet l’artiste, sensible à
-  l’extrême à la vie, à ses formes les plus simples et quotidiennes, fréquente
-  l’art des haïkus, qu’elle couche en toute liberté dans ses petits carnets.
-
-  L'artiste propose une peinture qui provoque une ouverture de perceptions et
-  une sollicitation des sens ; outre la vue, où se joue une incorporation du
-  réel, une union entre le corps, le sujet et le monde qui l’entoure.  L’art
-  pictural d’Elisabeth Wadecki, bien au-delà d’une projection abstraite, relève
-  d’une restitution d’un mouvement, d’une circulation entre sujet et monde.
-
-  Partout, le geste de l’artiste semble dans son élan, sa variété, capter les
-  souffles qui animent l’univers. Il s’arrondit, s’allège et se fragmente en
-  touches denses ou fluides, s’effiloche pour ainsi mieux épouser l’essence
-  cachée des choses.
-
-
-  Sa peinture garde la trace d’un frémissement à travers le temps, comme si
-  l’œil du peintre n’avait capté que l’essence même du réel, tel un calligraphe
-  qui, dans la vitalité et l’immédiateté de son geste, jette ça et là un jaune
-  moisson, un vert lentilles d’eau, un rose ou un terre-de-sienne d’argile, et
-  prend son envol dans l’espace subtil d’un blanc mat.
-
-
-  Où il n’est question que de présence au monde.
+biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais et d'une
+  mère française. L'artiste se forme à L’Ecole Nationale des Beaux-Arts de Nancy.
+  Elle vit et travaille depuis près de 30 ans dans la région nantaise.\nQu’elle choisisse
+  la peinture ou l’installation, Elisabeth Wadecki s’attache avant tout à la sensualité
+  des surfaces. Sa technique s’appuie sur une minutieuse préparation des surfaces
+  : la nature charnelle du support textile transparait à travers une peinture extrêmement
+  fluide, qui joue de la transparence et de l’absence d’épaisseur. \nSes paysages
+  naturels ou intimes, transcrits de manière quasi topographique par couches successives,
+  là où effacements et retraits, se font l’écho de trajectoires et racontent l’histoire
+  de corps, de geste et de sensualité, propres à l’abstraction. Le geste étale, lisse,
+  prend l’espace. Toujours en lien avec le rythme des saisons, la gamme chromatique
+  de l’artiste rejoint la peinture naturaliste.\nLa texture picturale des toiles,
+  constituée de surfaces plus ou moins transparentes, onctueuses, humides, donne à
+  voir un paysage quelque peu en lévitation. La composition semble se déployer en
+  miroir et rappelle la spécificité des paysages chinois. La peinture d’Elisabeth
+  Wadecki est très certainement empreinte d'influence asiatique, et relève d’un mélange
+  intuitif de références contemporaines tant picturales que littéraires. L’on sent
+  ici dans cette peinture, sourdre les mots ; on sent frémir la retenue délicate et
+  l’envol éternel de la poésie japonaise. En effet l’artiste, sensible à l’extrême
+  à la vie, à ses formes les plus simples et quotidiennes, fréquente l’art des haïkus,
+  qu’elle couche en toute liberté dans ses petits carnets.\nL'artiste propose une
+  peinture qui provoque une ouverture de perceptions et une sollicitation des sens
+  ; outre la vue, où se joue une incorporation du réel, une union entre le corps,
+  le sujet et le monde qui l’entoure.  L’art pictural d’Elisabeth Wadecki, bien au-delà
+  d’une projection abstraite, relève d’une restitution d’un mouvement, d’une circulation
+  entre sujet et monde.\nPartout, le geste de l’artiste semble dans son élan, sa variété,
+  capter les souffles qui animent l’univers. Il s’arrondit, s’allège et se fragmente
+  en touches denses ou fluides, s’effiloche pour ainsi mieux épouser l’essence cachée
+  des choses.\n\nSa peinture garde la trace d’un frémissement à travers le temps,
+  comme si l’œil du peintre n’avait capté que l’essence même du réel, tel un calligraphe
+  qui, dans la vitalité et l’immédiateté de son geste, jette ça et là un jaune moisson,
+  un vert lentilles d’eau, un rose ou un terre-de-sienne d’argile, et prend son envol
+  dans l’espace subtil d’un blanc mat.\n\nOù il n’est question que de présence au
+  monde."
 exhibitions: []
 works:
-  - title: Sans Titre N°4
-    image: /forestry/sans-titre-ndegree4.jpg
-    technique: Acrylique et bâtons d'huile sur papier
-    dimensions:
-      height: 31
-      width: 31
-      depth: null
-    description: |-
-      2019 / 
-      280€ encadré
-    price: .nan
-    sold: false
-  - title: Sans Titre N°8
-    image: /forestry/sans-titre-ndegree8.jpg
-    technique: Acrylique et bâtons d'huile sur papier
-    dimensions:
-      height: 31
-      width: 31
-      depth: null
-    description: |-
-      2019/ 
-       280€ encadré
-    price: .nan
-    sold: false
-  - title: Sans Titre N°12
-    image: /forestry/sans-titre-ndegree12.jpg
-    technique: Acrylique et bâtons d'huile sur papier
-    dimensions:
-      height: 31
-      width: 31
-      depth: null
-    description: 2019 / 280€ encadré
-    price: .nan
-    sold: false
-  - title: En mon jardin (N°6)
-    image: /forestry/en-mon-jardin-ndegree6.jpg
-    technique: Acrylique et bâtons d’huile sur papier
-    dimensions:
-      height: 86
-      width: 54
-      depth: null
-    description: 2018 / 900€ encadré
-    price: .nan
-    sold: false
-  - title: En mon jardin (N°7)
-    image: /forestry/en-mon-jardin-ndegree7.jpg
-    technique: Acrylique et bâtons d'huile sur papier
-    dimensions:
-      height: 114
-      width: 54
-      depth: null
-    description: 2018 / 1350€ encadré
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°4)
-    image: /forestry/sans-titre-ndegree4.jpg
-    technique: Acrylique et pastel
-    dimensions:
-      height: 52
-      width: 72
-      depth: null
-    description: 2018 /  Encadré aluminum sous verre 800€
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°3)
-    image: /forestry/sans-titre-ndegree3.jpg
-    technique: Acrylique et pastel
-    dimensions:
-      height: 52
-      width: 72
-      depth: null
-    description: 2018 /  Encadré aluminum sous verre 800€
-    price: .nan
-    sold: false
-  - title: Le soleil se lève et tout devient nuit (N°3)
-    image: /forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg
-    technique: 'Acrylique, pastel fusain sur toile'
-    dimensions:
-      height: 116
-      width: 81
-      depth: null
-    description: 2019 / 1800€
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°4)
-    image: /forestry/sans-titre-ndegree4.jpg
-    technique: Toile marouflée sur carton
-    dimensions:
-      height: 41
-      width: 41
-      depth: null
-    description: 2018 / 550€
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°5)
-    image: /forestry/sans-titre-ndegree5.jpg
-    technique: Toile marouflée sur carton
-    dimensions:
-      height: 41
-      width: 41
-      depth: null
-    description: 2018  /  550€
-    price: .nan
-    sold: false
-  - title: Si on allait (N°1)
-    image: /forestry/si-on-allait-ndegree1.jpg
-    technique: 'Acrylique, pastels sur carton'
-    dimensions:
-      height: 22
-      width: 22
-      depth: null
-    description: 2018 / 280€
-    price: .nan
-    sold: false
-  - title: Si on allait (N°5)
-    image: /forestry/si-on-allait-ndegree5.jpg
-    technique: 'Acrylique, pastels sur carton'
-    dimensions:
-      height: 22
-      width: 22
-      depth: null
-    description: 2018 /  280€
-    price: .nan
-    sold: false
-  - title: Le Roi profond (N°3 ouest)
-    image: /forestry/le-roi-profond-ndegree3-ouest.jpg
-    technique: Acrylique et pastel
-    dimensions:
-      height: 30
-      width: 57
-      depth: null
-    description: 2019 / 600€ encadré
-    price: .nan
-    sold: false
-  - title: Le Roi profond (N°4 ouest)
-    image: /forestry/le-roi-profond-ndegree4-ouest.jpg
-    technique: Acrylique et pastel
-    dimensions:
-      height: 30
-      width: 60
-      depth: null
-    description: 2019 /  600€ encadré
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°4)
-    image: /forestry/sans-titre-ndegree4.jpg
-    technique: 'Acrylique, pastels, fusain sur toile'
-    dimensions:
-      height: 100
-      width: 81
-      depth: null
-    description: 2018 / 1600€
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°8)
-    image: /forestry/sans-titre-ndegree8.jpg
-    technique: Acrylique et pastel sur toile
-    dimensions:
-      height: 100
-      width: 100
-      depth: null
-    description: 2018 / 1800€
-    price: .nan
-    sold: false
-  - title: Sans Titre (N°11)
-    image: /forestry/sans-titre-ndegree11.jpg
-    technique: Acrylique et pastel sur toile
-    dimensions:
-      height: 100
-      width: 100
-      depth: null
-    description: 2018 / 1800€
-    price: .nan
-    sold: false
-  - title: Sans Titre (1/10)
-    image: /forestry/sans-titre-110.jpg
-    technique: ''
-    dimensions:
-      height: null
-      width: null
-      depth: null
-    description: 290€ encadré
-    price: .nan
-    sold: false
----
+- title: Le soleil se lève et tout devient nuit (N°3)
+  image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
+  technique: Acrylique, pastel fusain sur toile
+  dimensions:
+    height: 116
+    width: 81
+    depth: 
+  description: 2019 / 1800€
+  price: 
+  sold: false
+- title: Sans Titre N°4
+  image: "/forestry/sans-titre-ndegree4.jpg"
+  technique: Acrylique et bâtons d'huile sur papier
+  dimensions:
+    height: 31
+    width: 31
+    depth: 
+  description: "2019 / \n280€ encadré"
+  price: 
+  sold: false
+- title: Sans Titre N°8
+  image: "/forestry/sans-titre-ndegree8.jpg"
+  technique: Acrylique et bâtons d'huile sur papier
+  dimensions:
+    height: 31
+    width: 31
+    depth: 
+  description: "2019/ \n 280€ encadré"
+  price: 
+  sold: false
+- title: Sans Titre N°12
+  image: "/forestry/sans-titre-ndegree12.jpg"
+  technique: Acrylique et bâtons d'huile sur papier
+  dimensions:
+    height: 31
+    width: 31
+    depth: 
+  description: 2019 / 280€ encadré
+  price: 
+  sold: false
+- title: En mon jardin (N°6)
+  image: "/forestry/en-mon-jardin-ndegree6.jpg"
+  technique: Acrylique et bâtons d’huile sur papier
+  dimensions:
+    height: 86
+    width: 54
+    depth: 
+  description: 2018 / 900€ encadré
+  price: 
+  sold: false
+- title: En mon jardin (N°7)
+  image: "/forestry/en-mon-jardin-ndegree7.jpg"
+  technique: Acrylique et bâtons d'huile sur papier
+  dimensions:
+    height: 114
+    width: 54
+    depth: 
+  description: 2018 / 1350€ encadré
+  price: 
+  sold: false
+- title: Sans Titre (N°4)
+  image: "/forestry/sans-titre-ndegree4.jpg"
+  technique: Acrylique et pastel
+  dimensions:
+    height: 52
+    width: 72
+    depth: 
+  description: 2018 /  Encadré aluminum sous verre 800€
+  price: 
+  sold: false
+- title: Sans Titre (N°3)
+  image: "/forestry/sans-titre-ndegree3.jpg"
+  technique: Acrylique et pastel
+  dimensions:
+    height: 52
+    width: 72
+    depth: 
+  description: 2018 /  Encadré aluminum sous verre 800€
+  price: 
+  sold: false
+- title: Sans Titre (N°4)
+  image: "/forestry/sans-titre-ndegree4.jpg"
+  technique: Toile marouflée sur carton
+  dimensions:
+    height: 41
+    width: 41
+    depth: 
+  description: 2018 / 550€
+  price: 
+  sold: false
+- title: Sans Titre (N°5)
+  image: "/forestry/sans-titre-ndegree5.jpg"
+  technique: Toile marouflée sur carton
+  dimensions:
+    height: 41
+    width: 41
+    depth: 
+  description: 2018  /  550€
+  price: 
+  sold: false
+- title: Si on allait (N°1)
+  image: "/forestry/si-on-allait-ndegree1.jpg"
+  technique: Acrylique, pastels sur carton
+  dimensions:
+    height: 22
+    width: 22
+    depth: 
+  description: 2018 / 280€
+  price: 
+  sold: false
+- title: Si on allait (N°5)
+  image: "/forestry/si-on-allait-ndegree5.jpg"
+  technique: Acrylique, pastels sur carton
+  dimensions:
+    height: 22
+    width: 22
+    depth: 
+  description: 2018 /  280€
+  price: 
+  sold: false
+- title: Le Roi profond (N°3 ouest)
+  image: "/forestry/le-roi-profond-ndegree3-ouest.jpg"
+  technique: Acrylique et pastel
+  dimensions:
+    height: 30
+    width: 57
+    depth: 
+  description: 2019 / 600€ encadré
+  price: 
+  sold: false
+- title: Le Roi profond (N°4 ouest)
+  image: "/forestry/le-roi-profond-ndegree4-ouest.jpg"
+  technique: Acrylique et pastel
+  dimensions:
+    height: 30
+    width: 60
+    depth: 
+  description: 2019 /  600€ encadré
+  price: 
+  sold: false
+- title: Sans Titre (N°4)
+  image: "/forestry/sans-titre-ndegree4.jpg"
+  technique: Acrylique, pastels, fusain sur toile
+  dimensions:
+    height: 100
+    width: 81
+    depth: 
+  description: 2018 / 1600€
+  price: 
+  sold: false
+- title: Sans Titre (N°8)
+  image: "/forestry/sans-titre-ndegree8.jpg"
+  technique: Acrylique et pastel sur toile
+  dimensions:
+    height: 100
+    width: 100
+    depth: 
+  description: 2018 / 1800€
+  price: 
+  sold: false
+- title: Sans Titre (N°11)
+  image: "/forestry/sans-titre-ndegree11.jpg"
+  technique: Acrylique et pastel sur toile
+  dimensions:
+    height: 100
+    width: 100
+    depth: 
+  description: 2018 / 1800€
+  price: 
+  sold: false
+- title: Sans Titre (1/10)
+  image: "/forestry/sans-titre-110.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: 290€ encadré
+  price: 
+  sold: false
 
+---
