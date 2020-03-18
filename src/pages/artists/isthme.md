@@ -3,252 +3,227 @@ template: artist
 title: Isthme .
 location: ''
 field: Peintre
-birth: 0
-death: 0
+birth: "0"
+death: "0"
 expose: true
-biography: >-
-  La démarche d'Isthme est toute d'équilibre entre improvisation sensible et
-  rigueur intellectuelle, entre  construction purement plastique et frémissement
-  d'une vision naturelle transposée par la poésie, entre suggestion et évidence
-  picturale, entre abstraction et allusion à une réalité elliptique.
-
-
-  Les collages, les peintures sur papier, les toiles de grand format, conçues en
-  diptyques et en polyptyques jusqu'à constituer des séries qui viennent
-  s'imposer au regard dans les belles architectures où Isthme les expose,
-  deviennent le médium d'une seule et même démarche.
-
-  Les collages s'assemblent et se juxtaposent comme des « fragments de nature »,
-  d'une nature qui se trouverait ici reconstituée dans un ordre inattendu et
-  personnel, par une vision plus proche de la réalité sensible qu'une
-  restitution fidèle du monde. Les déchirures des papiers introduisent le hasard
-  et la fulgurance, même si la position réfléchie de chaque morceau du collage
-  et l'équilibre dynamique de la composition semblent être l'objectif principal
-  d’Isthme.
-
-
-  Isthme fait jouer des accords audacieux, accords de complémentaires en
-  apparence mais savamment détournés et enrichis par des tons inattendus. Les
-  couleurs sont portées par une écriture très libre selon une approche assez
-  rationnelle du chromatisme et pour une proposition novatrice et personnelle de
-  l'harmonie et du rythme plastique.
-
-
-  Dans ses peintures abstraites et radicales, qui ne semblent n'avoir ni haut ni
-  bas, c'est la sensation spatiale qui domine, et la dispersion des éléments
-  colorés sur la surface, quelle qu'en soit l'étendue, laisse à penser que nous
-  sommes devant un détail ou un fragment d'une œuvre beaucoup plus grande
-  encore. L'écriture, comme bribes d'un discours de formes colorées traversant
-  la surface, évoquent des sons qui résonneraient dans le vaste espace de la
-  mémoire.
-
-
-  Toutes ces incursions dans les différentes techniques et les champs de
-  création sensiblement mais méthodiquement, explorées constituent  une œuvre
-  nouvelle et originale où la volonté intellectuelle règne mais où la main est
-  toujours présente.
-
-
-  Daniel Lacomme
-
-
-  « Peindre est ma respiration. Elle m'est vitale. Elle agit comme une force ...
-  Ma peinture est alors ivresse, réjouissance et grâce comme vertige ou torpeur.
-  » 
-
-  Isthme
+biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sensible
+  et rigueur intellectuelle, entre  construction purement plastique et frémissement
+  d'une vision naturelle transposée par la poésie, entre suggestion et évidence picturale,
+  entre abstraction et allusion à une réalité elliptique.\n\nLes collages, les peintures
+  sur papier, les toiles de grand format, conçues en diptyques et en polyptyques jusqu'à
+  constituer des séries qui viennent s'imposer au regard dans les belles architectures
+  où Isthme les expose, deviennent le médium d'une seule et même démarche.\nLes collages
+  s'assemblent et se juxtaposent comme des « fragments de nature », d'une nature qui
+  se trouverait ici reconstituée dans un ordre inattendu et personnel, par une vision
+  plus proche de la réalité sensible qu'une restitution fidèle du monde. Les déchirures
+  des papiers introduisent le hasard et la fulgurance, même si la position réfléchie
+  de chaque morceau du collage et l'équilibre dynamique de la composition semblent
+  être l'objectif principal d’Isthme.\n\nIsthme fait jouer des accords audacieux,
+  accords de complémentaires en apparence mais savamment détournés et enrichis par
+  des tons inattendus. Les couleurs sont portées par une écriture très libre selon
+  une approche assez rationnelle du chromatisme et pour une proposition novatrice
+  et personnelle de l'harmonie et du rythme plastique.\n\nDans ses peintures abstraites
+  et radicales, qui ne semblent n'avoir ni haut ni bas, c'est la sensation spatiale
+  qui domine, et la dispersion des éléments colorés sur la surface, quelle qu'en soit
+  l'étendue, laisse à penser que nous sommes devant un détail ou un fragment d'une
+  œuvre beaucoup plus grande encore. L'écriture, comme bribes d'un discours de formes
+  colorées traversant la surface, évoquent des sons qui résonneraient dans le vaste
+  espace de la mémoire.\n\nToutes ces incursions dans les différentes techniques et
+  les champs de création sensiblement mais méthodiquement, explorées constituent  une
+  œuvre nouvelle et originale où la volonté intellectuelle règne mais où la main est
+  toujours présente.\n\nDaniel Lacomme\n\n« Peindre est ma respiration. Elle m'est
+  vitale. Elle agit comme une force ... Ma peinture est alors ivresse, réjouissance
+  et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
-  - title: Exposition peinture collage estampe
-    image: /forestry/exposition-peinture-collage-estampe.jpg
-    technique: peinture collage estampe
-    dimensions:
-      height: null
-      width: null
-      depth: null
-    description: 6 juin - 29 juin 2019
-    price: .nan
-    sold: false
-  - title: 'Nuits en mer #24 Installation'
-    image: /forestry/nuits-en-mer-24-installation.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 6
-      width: null
-      depth: 25
-    description: |-
-      Prix sur demande 
-      Installation créée pour l'exposition à la galerie 
-      elle se compose de 6 panneaux installées selon le protocole de l'artiste
-    price: .nan
-    sold: false
-  - title: sans
-    image: /forestry/sans.jpg
-    technique: Linogravure 10 /13
-    dimensions:
-      height: 50
-      width: 64
-      depth: null
-    description: |-
-      350€
-      Imprimée au musée de l'imprimerie de Nantes
-    price: .nan
-    sold: false
-  - title: 'Nuit en mer #34'
-    image: /forestry/nuit-en-mer-34.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 146
-      width: 114
-      depth: null
-    description: |-
-      2019 /
-      2800€
-    price: .nan
-    sold: false
-  - title: 'Venise, un matin'
-    image: /forestry/venise-un-matin.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 146
-      width: 114
-      depth: null
-    description: |-
-      2800€ /
-      2019
-    price: .nan
-    sold: false
-  - title: 'Black Rhapsody #14'
-    image: /forestry/black-rhapsody-14.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 130
-      width: 97
-      depth: null
-    description: |-
-      2016-2019 /
-      2200€
-    price: .nan
-    sold: false
-  - title: Sans Titre
-    image: /forestry/sans-titre.jpg
-    technique: Collage
-    dimensions:
-      height: 76
-      width: 58
-      depth: null
-    description: 600€
-    price: .nan
-    sold: false
-  - title: Nuit en mer III (1/13)
-    image: /forestry/nuit-en-mer-iii-113.jpg
-    technique: Lithographie
-    dimensions:
-      height: 50
-      width: 65
-      depth: null
-    description: 350€
-    price: .nan
-    sold: false
-  - title: Sans Titre (4/10)
-    image: /forestry/sans-titre-410.jpg
-    technique: Lithographie
-    dimensions:
-      height: 66
-      width: 50
-      depth: null
-    description: 350€
-    price: .nan
-    sold: false
-  - title: Sans
-    image: /forestry/sans.jpg
-    technique: Collage
-    dimensions:
-      height: 76
-      width: 59
-      depth: null
-    description: 600€
-    price: .nan
-    sold: false
-  - title: Sans Titre
-    image: /forestry/sans-titre.jpg
-    technique: Collage
-    dimensions:
-      height: 77
-      width: 57
-      depth: null
-    description: 600€
-    price: .nan
-    sold: false
-  - title: Sans
-    image: /forestry/sans.jpg
-    technique: Collage
-    dimensions:
-      height: 83
-      width: 63
-      depth: null
-    description: Informations bientôt disponibles
-    price: .nan
-    sold: false
-  - title: Sans Titre
-    image: /forestry/sans-titre.jpg
-    technique: Collage
-    dimensions:
-      height: 83
-      width: 63
-      depth: null
-    description: Informations bientôt disponibles
-    price: .nan
-    sold: false
-  - title: Sans Titre
-    image: /forestry/sans-titre.jpg
-    technique: Collage
-    dimensions:
-      height: 90
-      width: 70
-      depth: null
-    description: Informations bientôt disponibles
-    price: .nan
-    sold: false
-  - title: Sans Titre
-    image: /forestry/sans-titre.jpg
-    technique: Collage
-    dimensions:
-      height: 90
-      width: 70
-      depth: null
-    description: 780€ encadré
-    price: .nan
-    sold: false
-  - title: Sans Titre
-    image: /forestry/sans-titre.jpg
-    technique: Collage
-    dimensions:
-      height: 89
-      width: 70
-      depth: null
-    description: 780€ encadré
-    price: .nan
-    sold: false
-  - title: Nuit en mer IV (4/25)
-    image: /forestry/nuit-en-mer-iv-425.jpg
-    technique: Lithographie
-    dimensions:
-      height: 69
-      width: 53
-      depth: null
-    description: 480€ encadré
-    price: .nan
-    sold: false
-  - title: Isabelle dans son atelier
-    image: /forestry/isabelle-dans-son-atelier.jpg
-    technique: ''
-    dimensions:
-      height: null
-      width: null
-      depth: null
-    description: ''
-    price: .nan
-    sold: false
----
+- title: Venise, un matin
+  image: "/forestry/venise-un-matin.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 146
+    width: 114
+    depth: 
+  description: |-
+    2800€ /
+    2019
+  price: 
+  sold: false
+- title: Exposition peinture collage estampe
+  image: "/forestry/exposition-peinture-collage-estampe.jpg"
+  technique: peinture collage estampe
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: 6 juin - 29 juin 2019
+  price: 
+  sold: false
+- title: 'Nuits en mer #24 Installation'
+  image: "/forestry/nuits-en-mer-24-installation.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 6
+    width: 
+    depth: 25
+  description: "Prix sur demande \nInstallation créée pour l'exposition à la galerie
+    \nelle se compose de 6 panneaux installées selon le protocole de l'artiste"
+  price: 
+  sold: false
+- title: sans
+  image: "/forestry/sans.jpg"
+  technique: Linogravure 10 /13
+  dimensions:
+    height: 50
+    width: 64
+    depth: 
+  description: |-
+    350€
+    Imprimée au musée de l'imprimerie de Nantes
+  price: 
+  sold: false
+- title: 'Nuit en mer #34'
+  image: "/forestry/nuit-en-mer-34.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 146
+    width: 114
+    depth: 
+  description: |-
+    2019 /
+    2800€
+  price: 
+  sold: false
+- title: 'Black Rhapsody #14'
+  image: "/forestry/black-rhapsody-14.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 130
+    width: 97
+    depth: 
+  description: |-
+    2016-2019 /
+    2200€
+  price: 
+  sold: false
+- title: Sans Titre
+  image: "/forestry/sans-titre.jpg"
+  technique: Collage
+  dimensions:
+    height: 76
+    width: 58
+    depth: 
+  description: 600€
+  price: 
+  sold: false
+- title: Nuit en mer III (1/13)
+  image: "/forestry/nuit-en-mer-iii-113.jpg"
+  technique: Lithographie
+  dimensions:
+    height: 50
+    width: 65
+    depth: 
+  description: 350€
+  price: 
+  sold: false
+- title: Sans Titre (4/10)
+  image: "/forestry/sans-titre-410.jpg"
+  technique: Lithographie
+  dimensions:
+    height: 66
+    width: 50
+    depth: 
+  description: 350€
+  price: 
+  sold: false
+- title: Sans
+  image: "/forestry/sans.jpg"
+  technique: Collage
+  dimensions:
+    height: 76
+    width: 59
+    depth: 
+  description: 600€
+  price: 
+  sold: false
+- title: Sans Titre
+  image: "/forestry/sans-titre.jpg"
+  technique: Collage
+  dimensions:
+    height: 77
+    width: 57
+    depth: 
+  description: 600€
+  price: 
+  sold: false
+- title: Sans
+  image: "/forestry/sans.jpg"
+  technique: Collage
+  dimensions:
+    height: 83
+    width: 63
+    depth: 
+  description: Informations bientôt disponibles
+  price: 
+  sold: false
+- title: Sans Titre
+  image: "/forestry/sans-titre.jpg"
+  technique: Collage
+  dimensions:
+    height: 83
+    width: 63
+    depth: 
+  description: Informations bientôt disponibles
+  price: 
+  sold: false
+- title: Sans Titre
+  image: "/forestry/sans-titre.jpg"
+  technique: Collage
+  dimensions:
+    height: 90
+    width: 70
+    depth: 
+  description: Informations bientôt disponibles
+  price: 
+  sold: false
+- title: Sans Titre
+  image: "/forestry/sans-titre.jpg"
+  technique: Collage
+  dimensions:
+    height: 90
+    width: 70
+    depth: 
+  description: 780€ encadré
+  price: 
+  sold: false
+- title: Sans Titre
+  image: "/forestry/sans-titre.jpg"
+  technique: Collage
+  dimensions:
+    height: 89
+    width: 70
+    depth: 
+  description: 780€ encadré
+  price: 
+  sold: false
+- title: Nuit en mer IV (4/25)
+  image: "/forestry/nuit-en-mer-iv-425.jpg"
+  technique: Lithographie
+  dimensions:
+    height: 69
+    width: 53
+    depth: 
+  description: 480€ encadré
+  price: 
+  sold: false
+- title: Isabelle dans son atelier
+  image: "/forestry/isabelle-dans-son-atelier.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: ''
+  price: 
+  sold: false
 
+---
