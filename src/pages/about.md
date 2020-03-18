@@ -1,28 +1,6 @@
 ---
 template: about
 tabs:
-- title: 'Références '
-  content:
-  - column: |-
-      ![](/forestry/keran.jpg)
-
-      ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
-
-      ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)
-- title: 'Architecte d''intérieur '
-  content:
-  - column: |-
-      L'architecte travaille en priorité sur les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation de couleurs, papiers peints et oeuvres d'artistes.
-
-      Passez au concret à distance ou sur rendez-vous je vous conseille avec des propositions d'oeuvres de la galerie ou que je source pour votre projet.
-
-      Les objets de décoration sont souvent manufacturés et multiples quand l'art est unique et rend très personnel un décor.
-
-      Livraison et prêt d'oeuvres sur la région nantaise.
-
-      Apport d'affaire pour toute vente effectuée par vos soins.
-
-      ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
 - title: 'Location '
   content:
   - column: |-
@@ -113,6 +91,20 @@ tabs:
       de départ (retraite - promotion)\n* Cadeau client pour un anniversaire patrimonial
       de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste
       Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")![](/forestry/galeriegaia@kazy-adelis.JPG)"
+- title: 'Architecte d''intérieur '
+  content:
+  - column: |-
+      L'architecte travaille en priorité sur les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation de couleurs, papiers peints et oeuvres d'artistes.
+
+      Passez au concret à distance ou sur rendez-vous je vous conseille avec des propositions d'oeuvres de la galerie ou que je source pour votre projet.
+
+      Les objets de décoration sont souvent manufacturés et multiples quand l'art est unique et rend très personnel un décor.
+
+      Livraison et prêt d'oeuvres sur la région nantaise.
+
+      Apport d'affaire pour toute vente effectuée par vos soins.
+
+      ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
 - title: 'Idées cadeaux '
   content:
   - column: |-
@@ -141,6 +133,14 @@ tabs:
       [demande de renseignements ](galeriegaia@orange.fr "trophée artiste")
 
       ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash Nantes")
+- title: 'Références '
+  content:
+  - column: |-
+      ![](/forestry/keran.jpg)
+
+      ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
+
+      ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)
 title: Prestations
 
 ---
