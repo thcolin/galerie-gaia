@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: 'Green side of the man '
+  image: "/forestry/galeriegaia@tomaL-2018031801-greensideoftheman-145x89.jpg"
+  technique: 'Technique mixte sur toile de lin '
+  dimensions:
+    height: 160
+    width: 121
+  description: caisse américaine noire
+  price: 5900
 - title: Red side of the man
   image: "/forestry/galeriegaia@tomaL-2018031701-redsideoftheman-145x70cm.jpg"
   technique: technique mixte sur toile en lin
