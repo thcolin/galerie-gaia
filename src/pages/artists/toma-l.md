@@ -49,6 +49,24 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Wood cartel black
+  image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm.jpg"
+  technique: 'Technique mixte sur bois '
+  dimensions:
+    height: 106
+    depth: 
+    width: 70
+  description: 'caisse américaine '
+  price: 
+  sold: false
+- title: Drawing black
+  image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 100
+    width: 70
+  description: caisse américaine chêne
+  price: 0
 - title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
   technique: ''
@@ -115,8 +133,8 @@ works:
   image: "/forestry/bonne-pierre-bon-oeil-14-bleu.jpg"
   technique: Lithographie
   dimensions:
-    height: 76
-    width: 56
+    height: 66
+    width: 51
     depth: 
   description: 2018  / 450€
   price: 
@@ -153,10 +171,10 @@ works:
   sold: false
 - title: Stone Age (16)
   image: "/forestry/stone-age-16.jpg"
-  technique: Lithographie
+  technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
-    height: 66
-    width: 50
+    height: 150
+    width: 95
     depth: 
   description: 2017 /  400€
   price: 
