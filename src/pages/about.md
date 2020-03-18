@@ -1,6 +1,14 @@
 ---
 template: about
 tabs:
+- title: 'Références '
+  content:
+  - column: |-
+      ![](/forestry/keran.jpg)
+
+      ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
+
+      ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)
 - title: 'Architecte d''intérieur '
   content:
   - column: |-
