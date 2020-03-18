@@ -18,6 +18,16 @@ biography: "ETE 2018 EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NAN
   sont réalisées par un CAT régionales, ce qui est aussi important pour Valérie LEROUX"
 exhibitions: []
 works:
+- title: Flacon
+  image: "/forestry/flacon.jpg"
+  technique: céramique pièce unique
+  dimensions:
+    height: 26
+    width: 
+    depth: 
+  description: 980€ pièce unique cabochon amovible
+  price: 
+  sold: false
 - title: Poisson russe
   image: "/forestry/ia.jpg"
   technique: Sérigraphie
@@ -28,26 +38,6 @@ works:
   description: ''
   price: 80
   sold: false
-- title: Sans
-  image: "/forestry/sans.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 92
-    width: 
-    depth: 
-  description: 80€
-  price: 
-  sold: false
-- title: Sans
-  image: "/forestry/sans.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 92
-    width: 
-    depth: 
-  description: 80€
-  price: 
-  sold: false
 - title: "679"
   image: "/forestry/679.jpg"
   technique: Sérigraphie
@@ -56,16 +46,6 @@ works:
     width: 
     depth: 
   description: ''
-  price: 
-  sold: false
-- title: Sans
-  image: "/forestry/sans.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 92
-    width: 
-    depth: 
-  description: 80€
   price: 
   sold: false
 - title: Bouteille
@@ -136,16 +116,6 @@ works:
     width: 
     depth: 
   description: 80€
-  price: 
-  sold: false
-- title: Flacon
-  image: "/forestry/flacon.jpg"
-  technique: céramique pièce unique
-  dimensions:
-    height: 26
-    width: 
-    depth: 
-  description: 980€ pièce unique cabochon amovible
   price: 
   sold: false
 - title: Corail bleu
