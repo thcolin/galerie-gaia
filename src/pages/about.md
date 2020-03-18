@@ -29,10 +29,10 @@ tabs:
       ![](/forestry/BAILART•Logo HD.jpg)
 - title: Défiscalisation
   content:
-  - column: "# Défiscalisation\n\n**Pourquoi :**\n\nL’art sur le lieu de travail peut
-      apporter de l’inspiration, de la créativité, du beau !  \nImaginez votre plaisir,
-      celui de vos équipes et des clients, en entrant dans un espace personnalisé
-      grâce à votre choix d’une toile, d’une sculpture, d’une estampe, photo ou dessin.
+  - column: "##### Défiscalisation\n\nL’art sur le lieu de travail peut apporter de
+      l’inspiration, de la créativité, du beau !  \nImaginez votre plaisir, celui
+      de vos équipes et des clients, en entrant dans un espace personnalisé grâce
+      à votre choix d’une toile, d’une sculpture, d’une estampe, photo ou dessin.
       \ \nImaginez celles-ci dans les couloirs de vos bureaux, salles de réunion ou
       votre bureau.  \nSoutenir un artiste vivant est un acte fort pour communiquer
       sur la culture de votre entreprise, sur ses valeurs.\n\nCette déduction a été
