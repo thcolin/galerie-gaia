@@ -30,6 +30,16 @@ biography: "Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vi
   château de Saint Auvent (87)"
 exhibitions: []
 works:
+- title: Atlas 2 (3/3)
+  image: "/forestry/atlas-2-33.jpg"
+  technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m
+  dimensions:
+    height: 46
+    width: 
+    depth: 
+  description: 2019 230€
+  price: 
+  sold: false
 - title: Automorphie Structure tridimensionnelle 2
   image: "/forestry/automorphie-structure-tridimensionnelle-2.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
@@ -87,16 +97,6 @@ works:
 - title: Double stigmates (1/7)
   image: "/forestry/double-stigmates-17.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
-  dimensions:
-    height: 46
-    width: 
-    depth: 
-  description: 2019 230€
-  price: 
-  sold: false
-- title: Atlas 2 (3/3)
-  image: "/forestry/atlas-2-33.jpg"
-  technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m
   dimensions:
     height: 46
     width: 
