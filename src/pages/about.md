@@ -1,7 +1,21 @@
 ---
 template: about
 tabs:
-- title: Location avec option d'achat
+- title: 'Architecte d''intérieur '
+  content:
+  - column: |-
+      L'architecte travaille en priorité sur les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation de couleurs, papiers peints et oeuvres d'artistes.
+
+      Passez au concret à distance ou sur rendez-vous je vous conseille avec des propositions d'oeuvres de la galerie ou que je source pour votre projet.
+
+      Les objets de décoration sont souvent manufacturés et multiples quand l'art est unique et rend très personnel un décor.
+
+      Livraison et prêt d'oeuvres sur la région nantaise.
+
+      Apport d'affaire pour toute vente effectuée par vos soins.
+
+      ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
+- title: 'Location '
   content:
   - column: |-
       L'Art de vivre au travail
@@ -39,6 +53,29 @@ tabs:
       [faire une simulation](http://bail-art.com/le-leasing/ "simulation Bail Art Galerie Gaia")
 
       ![Galerie Gaia partenaire avec Bail Art](/forestry/BAILART•Logo HD.jpg "Bail Art")
+- title: Défiscalisation
+  content:
+  - column: "# Défiscalisation\n\n**Pourquoi :**\n\nL’art sur le lieu de travail peut
+      apporter de l’inspiration, de la créativité, du beau !  \nImaginez votre plaisir,
+      celui de vos équipes et des clients, en entrant dans un espace personnalisé
+      grâce à votre choix d’une toile, d’une sculpture, d’une estampe, photo ou dessin.
+      \ \nImaginez celles-ci dans les couloirs de vos bureaux, salles de réunion ou
+      votre bureau.  \nSoutenir un artiste vivant est un acte fort pour communiquer
+      sur la culture de votre entreprise, sur ses valeurs.\n\nCette déduction a été
+      créée pour les entreprises et pour les professions libérales qui achètent des
+      œuvres d’art originales et d’artistes vivants.  \nGrâce à votre investissement
+      :\n\n* vous constituez un patrimoine\n* vous faites une économie d’impôts\n*
+      vous soutenez le développement de la création artistique contemporaine\n\n![Artiste
+      Isabelle HEALY](/forestry/fondation.jpg 'Sculpture \"Fondation\"')"
+  - column: "_L’oeuvre doit être exposée au public ou aux salariés durant 5 ans, durée
+      de son amortissement_\n\n**Comment :**\n\nL’œuvre figure dans les immobilisations
+      de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
+      spécial au passif du bilan de la société.\n\n**Exemple :**\n\nUne entreprise
+      réalisant 350 000€ de chiffre d’affaire acquiert une œuvre de 7000€ HT  \nLa
+      déduction annuelle ne peut excéder la limite de 5 pour mille du chiffre d’affaire.
+      \ \nLe montant annuel maximum déductible 350 000 x 0,005 soit 1750€  \nAmortissement
+      annuel de l’œuvre 7000€ / 5 ans = 1400€  \nAinsi sur 5 ans vous pouvez déduire
+      la totalité de votre acquisition\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
 - title: 'RSE '
   content:
   - column: |-
@@ -51,6 +88,23 @@ tabs:
       [demande de renseignements](galeriegaia@orange.fr "renseignements deco bureau")
 
       ![Artiste Franco Salas Borquez](/forestry/20160928_112856.jpg "Keran groupe SCE")![Artiste Villéglé lithographie](/forestry/20190202_131517.jpg "décoration bureau")
+- title: Evènementiel
+  content:
+  - column: |-
+      **Singularisez vous avec un évènementiel artistique pour vos clients !**
+
+      Marquez les esprits  pour booster l'expérience clients en créant **un évènement artistique exclusif :**
+
+      * exposition privée d’artistes (régionaux-nationaux-internationaux)
+      * performance d'artiste en live
+
+        ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)![](/forestry/galeriegaia@galerieslafayette@valerieleroux.jpg)
+  - column: "**Surprenez en offrant une oeuvre d'artiste !**\n\n* Catalogue de cartes
+      de voeux en édition limitée\n* Création de cartes de voeux représentant les
+      valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
+      de départ (retraite - promotion)\n* Cadeau client pour un anniversaire patrimonial
+      de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste
+      Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")![](/forestry/galeriegaia@kazy-adelis.JPG)"
 - title: Idées cadeaux originales
   content:
   - column: |-
@@ -79,46 +133,6 @@ tabs:
       [demande de renseignements ](galeriegaia@orange.fr "trophée artiste")
 
       ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash Nantes")
-- title: Evènementiel
-  content:
-  - column: |-
-      **Singularisez vous avec un évènementiel artistique pour vos clients !**
-
-      Marquez les esprits  pour booster l'expérience clients en créant **un évènement artistique exclusif :**
-
-      * exposition privée d’artistes (régionaux-nationaux-internationaux)
-      * performance d'artiste en live
-
-        ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)![](/forestry/galeriegaia@galerieslafayette@valerieleroux.jpg)
-  - column: "**Surprenez en offrant une oeuvre d'artiste !**\n\n* Catalogue de cartes
-      de voeux en édition limitée\n* Création de cartes de voeux représentant les
-      valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
-      de départ (retraite - promotion)\n* Cadeau client pour un anniversaire patrimonial
-      de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste
-      Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")![](/forestry/galeriegaia@kazy-adelis.JPG)"
-- title: Défiscalisation
-  content:
-  - column: "# Défiscalisation\n\n**Pourquoi :**\n\nL’art sur le lieu de travail peut
-      apporter de l’inspiration, de la créativité, du beau !  \nImaginez votre plaisir,
-      celui de vos équipes et des clients, en entrant dans un espace personnalisé
-      grâce à votre choix d’une toile, d’une sculpture, d’une estampe, photo ou dessin.
-      \ \nImaginez celles-ci dans les couloirs de vos bureaux, salles de réunion ou
-      votre bureau.  \nSoutenir un artiste vivant est un acte fort pour communiquer
-      sur la culture de votre entreprise, sur ses valeurs.\n\nCette déduction a été
-      créée pour les entreprises et pour les professions libérales qui achètent des
-      œuvres d’art originales et d’artistes vivants.  \nGrâce à votre investissement
-      :\n\n* vous constituez un patrimoine\n* vous faites une économie d’impôts\n*
-      vous soutenez le développement de la création artistique contemporaine\n\n![Artiste
-      Isabelle HEALY](/forestry/fondation.jpg 'Sculpture \"Fondation\"')"
-  - column: "_L’oeuvre doit être exposée au public ou aux salariés durant 5 ans, durée
-      de son amortissement_\n\n**Comment :**\n\nL’œuvre figure dans les immobilisations
-      de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
-      spécial au passif du bilan de la société.\n\n**Exemple :**\n\nUne entreprise
-      réalisant 350 000€ de chiffre d’affaire acquiert une œuvre de 7000€ HT  \nLa
-      déduction annuelle ne peut excéder la limite de 5 pour mille du chiffre d’affaire.
-      \ \nLe montant annuel maximum déductible 350 000 x 0,005 soit 1750€  \nAmortissement
-      annuel de l’œuvre 7000€ / 5 ans = 1400€  \nAinsi sur 5 ans vous pouvez déduire
-      la totalité de votre acquisition\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
 title: Prestations
 
 ---
