@@ -3,153 +3,77 @@ template: artist
 title: Marianne Abergel
 location: Paris
 field: sculpteur
-birth: 0
-death: 0
+birth: "0"
+death: "0"
 expose: true
-biography: >-
-  Les terres de Marianne Abergel
-
-
-  Terre  : Lorsque Marianne Abergel nous parle de son travail, elle parle de la
-  terre, elle va «  faire de la terre  ». Finalement, elle part sur ses terres.
-  Des terres nourries d’architecture et de danse qui lorsque les pièces prennent
-  forme sous ses doigts dessinent l’essence de ce qu’elles veulent être : un
-  'cercle-roue', un 'buste-vase', un 'animal-humain', un 'chromosone-danseur',
-  une 'terre-poilue', une 'verticale-molle',  un 'tableau-architecture  '...
-
-
-  Transformer  : La terre, l’animal et l’Homme ne font qu’un. Une unité qui
-  souffre, pense, prends peur, se ramasse et se meurt dans la blancheur d’un
-  sujet de porcelaine éternellement vivant. Cette terre traditionnellement
-  réservée aux tasses, soucoupes et autres étendards de l’apparat bourgeois se
-  fait ours, singe ou dauphin. Mais aussi paysage d’une architecture imaginaire,
-  miniaturisée, rassemblée dans le plan vertical d’un carré blanc sur fond noir,
-  encadré  : la porcelaine s’accroche au mur comme un tableau.
-
-
-  Objets  : Les objets du quotidien, vase, bol, coupelle, assiette sont en grès.
-  Une terre à l’état sauvage, rugueuse et irrégulière, qui respire pour laisser
-  les verticales vaciller sous la lumière. On croit voir des poteries exhumées
-  depuis peu d’un site archéologique pour nous procurer cet incroyable plaisir :
-  contempler l’éternité. 
-
-
-  Essence  : Un peu, pas trop, juste ce qu’il faut, de terre, de couleur, de
-  forme et de mouvement pour travailler sur les limites de la définition même de
-  l’objet par la matière et le conduire à l’essentiel, à ses propres fondements.
-  Cette approche donne aux œuvres de Marianne Abergel, une étonnante présence
-  qui,  au-delà de la forme visible, dans l’épaisseur de la matière nous montre
-  un art contemporain qui puise sa force dans l’expression difficile de la quête
-  des origines.
-
-
-  Emmanuelle Sarrazin
-
-  Docteure en architecture- Sept 2014
-
-
-  expositions collectives:
-
-  2016. Salon PULS'ART. Le Mans
-
-
-  2015. Journées de la Céramique. Saint Sulpice. Paris
-
-  2015. '20 ans'  Galerie Empreintes. Aydat
-
-
-  2014. Terra Terra. Chapelle Bonduel. Bruxelles
-
-  2013. Beauty & the beast. Espace 111 Montreuil.
-
-  2012. Les Hivernales. Montreuil
-
-  2011. Festival Européen des Arts céramique. Terralha. Saint Quentin la
-  poeterie.
-
-  2011. salon 'Céramique 14' Paris
-
-
-  expositions individuelles:
-
-  2016. Le hublot. Ivry sur Seine
-
-  2015. Espace/boutique Anne Willi. Paris
-
-  2010. Galerie Empreintes. Aydat
-
-
-  oeuvres in situ:
-
-  2012. Laboratoire Cerba
-
-  2011. Théâtre des cinq diamants. Paris
-
-  2009. Laboratoire Pasteur-Cerba
-
-
-  commandes privées:
-
-  2015. 'les trois singes de la Sagesse'
-
-  2013. 'grandes HerbesFolles'. Porto Vechio Corse
-
-  2008. 'Juliette et Roméo'. commande du corps de l'Opéra de Paris pour Sasha
-  Waltz
-
-
-
-  Enseignements:
-
-  2016> 2009 enseigne la céramique aux Ateliers d'Art d'Ivry sur Seine
-
-  2016> 2007 enseigne les Arts plastiques/volume à l'EPSA (école d'architecture
-  de la ville de Paris)
+biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous
+  parle de son travail, elle parle de la terre, elle va «  faire de la terre  ». Finalement,
+  elle part sur ses terres. Des terres nourries d’architecture et de danse qui lorsque
+  les pièces prennent forme sous ses doigts dessinent l’essence de ce qu’elles veulent
+  être : un 'cercle-roue', un 'buste-vase', un 'animal-humain', un 'chromosone-danseur',
+  une 'terre-poilue', une 'verticale-molle',  un 'tableau-architecture  '...\n\nTransformer
+  \ : La terre, l’animal et l’Homme ne font qu’un. Une unité qui souffre, pense, prends
+  peur, se ramasse et se meurt dans la blancheur d’un sujet de porcelaine éternellement
+  vivant. Cette terre traditionnellement réservée aux tasses, soucoupes et autres
+  étendards de l’apparat bourgeois se fait ours, singe ou dauphin. Mais aussi paysage
+  d’une architecture imaginaire, miniaturisée, rassemblée dans le plan vertical d’un
+  carré blanc sur fond noir, encadré  : la porcelaine s’accroche au mur comme un tableau.\n\nObjets
+  \ : Les objets du quotidien, vase, bol, coupelle, assiette sont en grès. Une terre
+  à l’état sauvage, rugueuse et irrégulière, qui respire pour laisser les verticales
+  vaciller sous la lumière. On croit voir des poteries exhumées depuis peu d’un site
+  archéologique pour nous procurer cet incroyable plaisir : contempler l’éternité.
+  \n\nEssence  : Un peu, pas trop, juste ce qu’il faut, de terre, de couleur, de forme
+  et de mouvement pour travailler sur les limites de la définition même de l’objet
+  par la matière et le conduire à l’essentiel, à ses propres fondements. Cette approche
+  donne aux œuvres de Marianne Abergel, une étonnante présence qui,  au-delà de la
+  forme visible, dans l’épaisseur de la matière nous montre un art contemporain qui
+  puise sa force dans l’expression difficile de la quête des origines.\n\nEmmanuelle
+  Sarrazin\nDocteure en architecture- Sept 2014\n\nexpositions collectives:\n2016.
+  Salon PULS'ART. Le Mans\n\n2015. Journées de la Céramique. Saint Sulpice. Paris\n2015.
+  '20 ans'  Galerie Empreintes. Aydat\n\n2014. Terra Terra. Chapelle Bonduel. Bruxelles\n2013.
+  Beauty & the beast. Espace 111 Montreuil.\n2012. Les Hivernales. Montreuil\n2011.
+  Festival Européen des Arts céramique. Terralha. Saint Quentin la poeterie.\n2011.
+  salon 'Céramique 14' Paris\n\nexpositions individuelles:\n2016. Le hublot. Ivry
+  sur Seine\n2015. Espace/boutique Anne Willi. Paris\n2010. Galerie Empreintes. Aydat\n\noeuvres
+  in situ:\n2012. Laboratoire Cerba\n2011. Théâtre des cinq diamants. Paris\n2009.
+  Laboratoire Pasteur-Cerba\n\ncommandes privées:\n2015. 'les trois singes de la Sagesse'\n2013.
+  'grandes HerbesFolles'. Porto Vechio Corse\n2008. 'Juliette et Roméo'. commande
+  du corps de l'Opéra de Paris pour Sasha Waltz\n\n\nEnseignements:\n2016> 2009 enseigne
+  la céramique aux Ateliers d'Art d'Ivry sur Seine\n2016> 2007 enseigne les Arts plastiques/volume
+  à l'EPSA (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
-  - title: 'Les Chimères : Le lièvre'
-    image: /forestry/les-chimeres-le-lievre.jpg
-    technique: grès blanc et émail
-    dimensions:
-      height: 30
-      width: null
-      depth: null
-    description: |-
-      640€ 
-      socle vendu séparément
-    price: .nan
-    sold: false
-  - title: 'Les Chimères : Le Cerf'
-    image: /forestry/les-chimeres-le-cerf.jpg
-    technique: Grès noir et émail
-    dimensions:
-      height: 30
-      width: null
-      depth: null
-    description: |-
-      624€
-      socle vendu séparément
-    price: .nan
-    sold: false
-  - title: 'les Chimères : Girafe'
-    image: /forestry/les-chimeres-girafe.jpg
-    technique: Porcelaine et or
-    dimensions:
-      height: 10
-      width: null
-      depth: null
-    description: 290€
-    price: .nan
-    sold: false
-  - title: 'Les chimères : Le lièvre'
-    image: /forestry/les-chimeres-le-lievre.jpg
-    technique: porcelaine et or
-    dimensions:
-      height: 10
-      width: null
-      depth: null
-    description: 290€
-    price: .nan
-    sold: false
----
+- title: 'Les Chimères : Le Cerf'
+  image: "/forestry/les-chimeres-le-cerf.jpg"
+  technique: Grès noir et émail
+  dimensions:
+    height: 30
+    width: 
+    depth: 
+  description: |-
+    624€
+    socle vendu séparément
+  price: 
+  sold: false
+- title: 'Les Chimères : Le lièvre'
+  image: "/forestry/les-chimeres-le-lievre.jpg"
+  technique: grès blanc et émail
+  dimensions:
+    height: 30
+    width: 
+    depth: 
+  description: "640€ \nsocle vendu séparément"
+  price: 
+  sold: false
+- title: 'les Chimères : Girafe'
+  image: "/forestry/les-chimeres-girafe.jpg"
+  technique: Porcelaine et or
+  dimensions:
+    height: 10
+    width: 
+    depth: 
+  description: 290€
+  price: 
+  sold: false
 
+---
