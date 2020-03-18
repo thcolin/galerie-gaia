@@ -3,13 +3,11 @@ template: artist
 title: Bruno Dumas
 location: Nantes
 field: peinture dessin sténopé
-birth: 0
-death: 0
+birth: "0"
+death: "0"
 expose: false
-biography: >-
-  une très belle source de son inspiration 
-  http://www.espritsnomades.com/artsplastiques/sudek/sudek.html
-
+biography: |-
+  une très belle source de son inspiration  http://www.espritsnomades.com/artsplastiques/sudek/sudek.html
 
   Hasard objectif
    Bruno Dumas vit depuis quelques temps dans un décor de manèges et de peupliers vivants. Le boîtier sous le bras, il choisit son lieu et son sujet, pose la valise, dresse doucement le trépied ? et attend. Ce que savent les photographes, toujours dans les antichambres, en tension vers la scène. Le sténopé ouvert ? avec ce geste délicat du danseur qui écarte son bras un peu arrondi vers l'intérieur, le regard fixé sur un point de rotation devant lui ? il se passe ce qui passe dans les yeux des enfants et des chats qui découvrent pour la première fois l'autre bout du
@@ -21,61 +19,60 @@ biography: >-
    Luc Vigier
 exhibitions: []
 works:
-  - title: Marie Sophie dans la bergère
-    image: /forestry/marie-sophie-dans-la-bergere.jpg
-    technique: Sténopé
-    dimensions:
-      height: 60
-      width: 40
-      depth: null
-    description: ''
-    price: .nan
-    sold: false
-  - title: Livre artistique
-    image: /forestry/livre-artistique.jpg
-    technique: ''
-    dimensions:
-      height: null
-      width: null
-      depth: null
-    description: >-
-      Bruno DUMAS ne peut s'empecher de dessiner, surtout dans des livres. Alors
-      il a commencé sur les pages blanches et dans les marges. Et puis il a osé
-      de partout entre les lignes et sur les mots.  Parfois en délicatesse et
-      puis d'un coup son dessin efface le mot, il s'impose. APPORTEZ NOUS VOTRE
-      LIVRE DE POCHE OU EDITION RARE ET ACCEPTEZ QUE BRUNO DUMAS LE TRANSFORME
-      EN LIVRE ARTISTIQUE ET UNIQUE
-    price: .nan
-    sold: false
-  - title: Bol
-    image: /forestry/bol.jpg
-    technique: photographie sur papier
-    dimensions:
-      height: 30
-      width: 40
-      depth: null
-    description: oeuvre encadrée 150€
-    price: .nan
-    sold: false
-  - title: Musée des Arts Nantes
-    image: /forestry/musee-des-arts-nantes.jpg
-    technique: photographie
-    dimensions:
-      height: 30
-      width: 40
-      depth: null
-    description: oeuvre encadrée 150€
-    price: .nan
-    sold: false
-  - title: Bouteilles
-    image: /forestry/bouteilles.jpg
-    technique: photographie
-    dimensions:
-      height: 30
-      width: 40
-      depth: null
-    description: oeuvre encadrée 150€
-    price: .nan
-    sold: false
----
+- title: Musée des Arts Nantes
+  image: "/forestry/musee-des-arts-nantes.jpg"
+  technique: photographie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 
+  description: oeuvre encadrée 150€
+  price: 
+  sold: false
+- title: Marie Sophie dans la bergère
+  image: "/forestry/marie-sophie-dans-la-bergere.jpg"
+  technique: Sténopé
+  dimensions:
+    height: 60
+    width: 40
+    depth: 
+  description: ''
+  price: 
+  sold: false
+- title: Livre artistique
+  image: "/forestry/livre-artistique.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: Bruno DUMAS ne peut s'empecher de dessiner, surtout dans des livres.
+    Alors il a commencé sur les pages blanches et dans les marges. Et puis il a osé
+    de partout entre les lignes et sur les mots.  Parfois en délicatesse et puis d'un
+    coup son dessin efface le mot, il s'impose. APPORTEZ NOUS VOTRE LIVRE DE POCHE
+    OU EDITION RARE ET ACCEPTEZ QUE BRUNO DUMAS LE TRANSFORME EN LIVRE ARTISTIQUE
+    ET UNIQUE
+  price: 
+  sold: false
+- title: Bol
+  image: "/forestry/bol.jpg"
+  technique: photographie sur papier
+  dimensions:
+    height: 30
+    width: 40
+    depth: 
+  description: oeuvre encadrée 150€
+  price: 
+  sold: false
+- title: Bouteilles
+  image: "/forestry/bouteilles.jpg"
+  technique: photographie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 
+  description: oeuvre encadrée 150€
+  price: 
+  sold: false
 
+---
