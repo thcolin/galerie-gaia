@@ -3,6 +3,16 @@ template: about
 tabs:
 - title: Location avec option d'achat
   content:
+  - column: "\nSimulation pour une oeuvre de 3 500 €\n\nDurée de la location 24 mois\n\nLoyer
+      mensuel terme à échoir 193 € ht\n\nEconomie d’impôt générée  1 296 €\n\nCoût
+      global (hors économie charges sociales, IR …) 3 332 €\n\n\\* Les loyers sont
+      une charge déductible et génèrent une économie d'IS estimée à 28 %\n\nUn transfert
+      de propriété pour la valeur résiduelle de 5 % des oeuvres vous\n\nsera proposé
+      à l’issue du contrat de location.\n\nLes montants mini et maxi  d'un dossier
+      de 1000€ à 75000€\n\nLes durées mini et maxi d'une location 12 mois à \n\nLe
+      + : toutes les oeuvres d'artistes sont concernées sans restriction (décédés
+      ou vivants) et sans obligation d'être visible dans les parties communes de l'entreprise,
+      ce qui n'est pas le cas dans l'achat d'oeuvres."
   - column: |-
       J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
