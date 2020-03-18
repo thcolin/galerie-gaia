@@ -12,13 +12,23 @@ biography: |-
   Une histoire incroyable que je vous raconterai en venant le regarder à la galerie...
 exhibitions: []
 works:
+- title: FE
+  image: "/forestry/fe.jpg"
+  technique: DESSIN reproduction technique du giclée 16/25
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: ''
+  price: 600
+  sold: false
 - title: SINE NOB'LITATE
   image: "/forestry/sine-noblitate.jpg"
   technique: Estampe 1/1
   dimensions:
     height: 75
     width: 110
-    depth:
+    depth: 
   description: "Dessin original effectué au crayon \nEstampe technique du giclée sur
     papier Arches"
   price: 1000
@@ -29,19 +39,9 @@ works:
   dimensions:
     height: 180
     width: 110
-    depth:
+    depth: 
   description: ''
-  price:
-  sold: false
-- title: FE
-  image: "/forestry/fe.jpg"
-  technique: DESSIN reproduction technique du giclée 16/25
-  dimensions:
-    height: 70
-    width: 50
-    depth:
-  description: ''
-  price: 600
+  price: 
   sold: false
 
 ---
