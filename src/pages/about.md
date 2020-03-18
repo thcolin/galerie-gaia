@@ -57,12 +57,12 @@ tabs:
       dans vos locaux, avec la médiation lors du vernissage \n* Sélection d'artistes
       pour réaliser une performance live lors d'une soirée privée\n\n  ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)\n\n
       \ [demande de renseignement]() "
-  - column: "**Surprenez en offrant une oeuvre d'artiste !**\n\n* Catalogue de cartes
-      de voeux en édition limitée\n* Création de cartes de voeux représentant les
-      valeurs de votre entreprise\n* Trophée de challenge interne, sportif\n* Cadeau
-      de départ (retraite - promotion)\n* Cadeau client pour un anniversaire patrimonial
-      de l'entreprise (50-100 ans)\n\n**un Projet - un Budget - un Devis**  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste
-      Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")![](/forestry/galeriegaia@kazy-adelis.JPG)"
+  - column: "**Trophée artistique pour challenge** \n\nLa remise d'un trophée pour
+      un challenge sportif ou une incentive interne est  un moment fort en communication.
+      \  \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
+      définition du cahier des charges pour que le trophée soit à la hauteur de vos
+      ambitions  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste Go
+      Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
 - title: 'Architecte d''intérieur '
   content:
   - column: |-
