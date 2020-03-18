@@ -51,12 +51,13 @@ tabs:
       annuel de l’œuvre 7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
 - title: Evènementiel
   content:
-  - column: "##### **Créez une expérience client singulière !**\n\nJe vous propose
-      la gestion de ce projet en tant que commissaire d'exposition\n\n* Sélection
-      d'artistes régionaux, nationaux ou internationaux pour créer une exposition
-      dans vos locaux, avec la médiation lors du vernissage \n* Sélection d'artistes
-      pour réaliser une performance live lors d'une soirée privée\n\n  ![](/forestry/galeriegaia@keran@basso.jpg)![](/forestry/galeriegaia@audi@molliere.jpg)\n\n
-      \ [demande de renseignement]() "
+  - column: "**Créez une expérience client singulière !**\n\nJe vous propose la gestion
+      de ce projet en tant que commissaire d'exposition\n\n* Sélection d'artistes
+      régionaux, nationaux ou internationaux pour créer une exposition dans vos locaux,
+      avec la médiation lors du vernissage\n* Sélection d'artistes pour réaliser une
+      performance live lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel
+      \n\n  ![](/forestry/galeriegaia@keran@basso.jpg)\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
+      \"Adelis 70 ans \")\n\n  [demande de renseignement]()"
   - column: "**Trophée artistique pour challenge** \n\nLa remise d'un trophée pour
       un challenge sportif ou une incentive interne est  un moment fort en communication.
       \  \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
