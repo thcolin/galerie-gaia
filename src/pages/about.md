@@ -51,13 +51,19 @@ tabs:
       annuel de l’œuvre 7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
 - title: Evènementiel
   content:
-  - column: "**Créez une expérience client singulière !**\n\nJe vous propose la gestion
-      de ce projet en tant que commissaire d'exposition\n\n* Sélection d'artistes
-      régionaux, nationaux ou internationaux pour créer une exposition dans vos locaux,
-      avec la médiation lors du vernissage\n* Sélection d'artistes pour réaliser une
-      performance live lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel
-      \n\n  ![](/forestry/galeriegaia@keran@basso.jpg)\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
-      \"Adelis 70 ans \")\n\n  [demande de renseignement]()"
+  - column: |-
+      **Créez une expérience client singulière !**
+
+      Je vous propose la gestion de ce projet en tant que commissaire d'exposition
+
+      * Sélection d'artistes régionaux, nationaux ou internationaux pour créer une exposition dans vos locaux, avec la médiation lors du vernissage
+      * Sélection d'artistes pour réaliser une performance live lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel
+
+        ![](/forestry/galeriegaia@keran@basso.jpg "Keran exposition Giani Basso")
+
+        ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG "Adelis 70 ans ")
+
+        [demande de renseignement]()
   - column: "**Trophée artistique pour challenge** \n\nLa remise d'un trophée pour
       un challenge sportif ou une incentive interne est  un moment fort en communication.
       \  \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
@@ -75,7 +81,7 @@ tabs:
       pour votre projet.  \nApport d'affaire pour toutes ventes effectuées par vos
       soins.\n\n[demande de renseignements](galeriegaia@orange.fr \"renseignement
       architecte\")\n\nLivraison et prêt d'oeuvres sur la région nantaise.\n\n![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
-      \"https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/\")\n\n![](/forestry/logochristophevinet.jpg)"
+      \"https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/\")"
 - title: 'Idées cadeaux '
   content:
   - column: "Liste de mariage, anniversaire, départ à la retraite   \nLa carte cadeau
@@ -90,16 +96,6 @@ tabs:
       Si vous voulez personnaliser votre carte de voeux en incarnant des valeurs de votre entreprise, je vous sélectionne un artiste qui vous soumettra un projet avant validation.
 
       ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
-  - column: |-
-      Trophée par un artiste
-
-      Au choix dans les oeuvres disponibles
-
-      Création spéciale pour l'évènement
-
-      [demande de renseignements ](galeriegaia@orange.fr "trophée artiste")
-
-      ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash Nantes")
 - title: 'Références '
   content:
   - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
