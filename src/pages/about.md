@@ -1,6 +1,15 @@
 ---
 template: about
 tabs:
+- title: Location avec option d'achat
+  content:
+  - column: "L'Art de vivre au travail \n\nDans des bureaux nouvelles générations,
+      la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque
+      employeur, le bien être au travail pour améliorer la créativité et l'esprit
+      coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural.
+      Concrètement la mise ne place d'oeuvres d'artistes dans l'espace de travail
+      flexible et lifestyle devient chaleureux et cela renforce l'identité de l'entreprise
+      qui aujourd'hui veut se singulariser auprès de ses clients et attirer des talents."
 - title: 'RSE '
   content:
   - column: |-
