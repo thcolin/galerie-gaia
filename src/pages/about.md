@@ -107,7 +107,7 @@ tabs:
 
       ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
 
-      ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)
+      ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)![](/forestry/logochristophevinet.jpg)![](/forestry/index.png)
 title: Prestations
 
 ---
