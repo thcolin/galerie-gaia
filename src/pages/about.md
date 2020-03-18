@@ -24,7 +24,7 @@ tabs:
 
         \* Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %
 
-      ##### Faire une simulation
+      [http://bail-art.com/le-leasing/](http://bail-art.com/le-leasing/ "Faire une simulation")
 
       ![](/forestry/BAILART•Logo HD.jpg)
 - title: Défiscalisation
