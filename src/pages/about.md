@@ -12,7 +12,8 @@ tabs:
       de 1000€ à 75000€\n\nLes durées mini et maxi d'une location 12 mois à \n\nLe
       + : toutes les oeuvres d'artistes sont concernées sans restriction (décédés
       ou vivants) et sans obligation d'être visible dans les parties communes de l'entreprise,
-      ce qui n'est pas le cas dans l'achat d'oeuvres."
+      ce qui n'est pas le cas dans l'achat d'oeuvres.\n\n[faire une simulation](http://bail-art.com/le-leasing/
+      \"simulation Bail Art Galerie Gaia\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
   - column: |-
       J'ai retenu le professionalisme de Bail Art, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
