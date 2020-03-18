@@ -102,6 +102,15 @@ tabs:
       ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash Nantes")
 - title: 'Références '
   content:
+  - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
+      travail,   \nCes lieux où vous serez regardé-e, écouté-e sans qu'on vous impose
+      du déjà vu,  \nDes artisans à la frontière de la démarche artistique !  \nSouvent
+      devenus ami-e-s, allez hop venez de ma part en toute légerté\n\nGilles et Julie
+      : j'veux du cuir !\n\nDamien Hamon : le bois, mais quel bois et dans quel état
+      !\n\nL'Aménité : je veux manger et me faire du bien, merci les voisins \n\nLa
+      Souris d'Agneau : parce que c'est trop bon et que Franck vous sert avec une
+      telle gentillesse\n\nLe Bouchon : il n'y a pas que la terrasse d'incontournable,
+      toute l'équipe le mérite"
   - column: |-
       Merci pour la confiance accordée pour des projets riche en émotion
 
