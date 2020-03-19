@@ -181,15 +181,15 @@ works:
     VERNISSAGE 21 MARS 18H
   price: 
   sold: false
-- title: Simple black
+- title: Simple black 2012111101
   image: "/forestry/simple-black.jpg"
   technique: Techn. mixte sur papier, caisse américaine chêne
   dimensions:
     height: 70
     width: 72
     depth: 
-  description: 2012 /  2900€
-  price: 
+  description: ''
+  price: 2900
   sold: false
 - title: Bonne pierre bon œil (10)
   image: "/forestry/bonne-pierre-bon-oeil-10.jpg"
@@ -301,15 +301,15 @@ works:
   description: 2017 /  5500€
   price: 
   sold: false
-- title: Red Canaille
+- title: Red Canaille 2016050213
   image: "/forestry/red-canaille.jpg"
   technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 162
     width: 114
     depth: 
-  description: 2016 / 5800€
-  price: 
+  description: ''
+  price: ''
   sold: false
 
 ---
