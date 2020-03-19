@@ -21,7 +21,7 @@ tabs:
 
       J'ai retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
-      [Gazette drouot juin 2017.pdf](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
+      [Gazette drouot juin 2017.pdf](/static/forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
 
       ##### Exemple :
 
