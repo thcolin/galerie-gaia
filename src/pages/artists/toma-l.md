@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Graphite & Colors 2019022501
+  image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019.jpg"
+  technique: 'Technique mixte sur papier marouflé sur bois '
+  dimensions:
+    height: 182
+    width: 121
+  description: caisse américaine chêne
+  price: 6700
 - title: Graphite & Color 2019011401
   image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -74,8 +82,8 @@ works:
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
   dimensions:
-    height: 109
-    width: 79
+    height: 108
+    width: 78
   description: caisse américaine chêne
   price: 3500
 - title: Black and simple color 2018091803
@@ -110,6 +118,7 @@ works:
     width: 107
   description: 'caisse américaine noire '
   price: 5900
+  sold: false
 - title: Wood cartel black
   image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
