@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Little simple brut 202031102
+  image: "/forestry/galeriegaia@tomaL-2020031102-LITTLESIMPLEBRUT-40x30cm.jpg"
+  technique: 'Couture et Technique mixte sur papier '
+  dimensions:
+    height: 50
+    width: 40
+  description: Cadre en chêne et verre musée
+  price: 1600
 - title: Little simple brut 202031101
   image: "/forestry/galeriegaia@tomaL-2020031101-LITTLESIMPLEBRUT-40x30cm.jpg"
   technique: Couture et Technique mixte sur papier
