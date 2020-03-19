@@ -34,13 +34,14 @@ About.styles = {
   element: {
     padding: '2rem',
     '>hr': {
-      margin: '2rem 1rem 1rem',
+      margin: '1rem',
     },
   },
   header: {
     display: 'flex',
     overflowY: 'auto',
     whiteSpace: 'nowrap',
+    padding: '0 0 1rem',
     '>h3': {
       margin: 0,
       fontFamily: theme.fonts.primary,
