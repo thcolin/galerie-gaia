@@ -21,7 +21,7 @@ tabs:
 
       J'ai retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
 
-      [Gazette drouot juin 2017.pdf](/static/forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
+      [Gazette drouot juin 2017.pdf](forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
 
       ##### Exemple :
 
@@ -30,8 +30,7 @@ tabs:
       * loyer mensuel terme à échoir *  193€ HT
       * économies d'impôts générées 1296€ HT
       * coût global hors économies de charges sociales, IR... 3332€ HT
-
-        \* Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %
+        * Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %
 
       [http://bail-art.com/le-leasing/](http://bail-art.com/le-leasing/ "Faire une simulation")
 
