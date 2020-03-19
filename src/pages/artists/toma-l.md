@@ -161,7 +161,7 @@ works:
   description: 'caisse américaine '
   price: 
   sold: false
-- title: Drawing black
+- title: Drawing black 2012040601
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
   technique: Technique mixte sur papier
   dimensions:
