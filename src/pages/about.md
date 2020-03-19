@@ -111,11 +111,11 @@ tabs:
       travail,  \nCes lieux où vous serez regardé-e, écouté-e sans qu'on vous impose
       du déjà vu,  \nDes artisans à la frontière de la démarche artistique !  \nSouvent
       devenus ami-e-s, allez hop venez de ma part en toute légerté\n\n[Gilles et Julie](https://gillesetjulie.com/)
-      : j'veux du cuir !\n\nDamien Hamon : ébèniste qui met le bois dans tous ses
-      états !\n\nL'Aménité : je veux manger et me faire du bien, merci les voisins\n\nLa
-      Souris d'Agneau : parce que c'est trop bon et que Franck vous sert en prenant
-      soin de vous\n\nLe Bouchon : il n'y a pas que la terrasse d'incontournable,
-      toute l'équipe le mérite"
+      : j'veux du cuir !\n\n[Damien Hamon](https://daha.fr/ \"Damien Hamon\") : ébèniste
+      qui met le bois dans tous ses états !\n\nL'Aménité : je veux manger et me faire
+      du bien, merci les voisins\n\nLa Souris d'Agneau : parce que c'est trop bon
+      et que Franck vous sert en prenant soin de vous\n\nLe Bouchon : il n'y a pas
+      que la terrasse d'incontournable, toute l'équipe le mérite"
   - column: |-
       Merci pour la confiance accordée pour des projets riche en émotion
 
