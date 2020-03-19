@@ -112,10 +112,15 @@ tabs:
       devenus ami-e-s, allez hop venez de ma part en toute légerté\n\n[Gilles et Julie](https://gillesetjulie.com/)
       : j'veux du cuir !\n\n[Damien Hamon](https://daha.fr/ \"Damien Hamon\") : ébéniste
       qui met le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
-      \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\nLa
-      Souris d'Agneau : parce que c'est trop bon et que Franck vous sert en prenant
-      soin de vous\n\nLe Bouchon : il n'y a pas que la terrasse d'incontournable,
-      toute l'équipe le mérite"
+      \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\n[La
+      Souris d'Agneau](http://www.lasourisdagneau.fr/ \"La souris d'Agneau\") : parce
+      que c'est trop bon et que Franck vous sert en prenant soin de vous\n\n[Le Bouchon](https://www.le-bouchon-nantes.com/
+      \"Le Bouchon\") : il n'y a pas que la terrasse d'incontournable, toute l'équipe
+      le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr \"Barak\")
+      : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
+      \"Ressources\") : mon marchand de couleur et celui aussi de quelques artistes
+      de la galerie. Conseil de pro!\n\nLulu Rouget :\n\nVincent Guerlais :\n\nLe
+      Reflet : "
   - column: |-
       Merci pour la confiance accordée pour des projets riche en émotion
 
