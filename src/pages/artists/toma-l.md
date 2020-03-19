@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Little simple brut 2020031103
+  image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm.jpg"
+  technique: Couture et Technique mixte sur papier
+  dimensions:
+    height: 40
+    width: 30
+  description: cadre ne chêne verre musée
+  price: 1600
 - title: Little simple brut 202031102
   image: "/forestry/galeriegaia@tomaL-2020031102-LITTLESIMPLEBRUT-40x30cm.jpg"
   technique: 'Couture et Technique mixte sur papier '
@@ -65,7 +73,7 @@ works:
     width: 30
   description: cadre en chêne et verre musée
   price: 1600
-- title: Little trash & color
+- title: Little trash & color 2019022702
   image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm.jpg"
   technique: Technique mixte sur toile en lin
   dimensions:
@@ -126,6 +134,7 @@ works:
     width: 79
   description: 'caisse américaine noire '
   price: 3500
+  sold: false
 - title: 'Green side of the man '
   image: "/forestry/galeriegaia@tomaL-2018031801-greensideoftheman-145x89.jpg"
   technique: 'Technique mixte sur toile de lin '
@@ -133,7 +142,7 @@ works:
     height: 160
     width: 121
   description: caisse américaine noire
-  price: 5900
+  price: 
 - title: Red side of the man
   image: "/forestry/galeriegaia@tomaL-2018031701-redsideoftheman-145x70cm.jpg"
   technique: technique mixte sur toile en lin
@@ -142,7 +151,6 @@ works:
     width: 107
   description: 'caisse américaine noire '
   price: 5900
-  sold: false
 - title: Wood cartel black
   image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
