@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Black and simple color
+  image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie.jpg"
+  technique: 'Technique mixte sur papier marouflé sur bois '
+  dimensions:
+    height: 109
+    width: 79
+  description: 'caisse américaine noire '
+  price: 3500
 - title: 'Green side of the man '
   image: "/forestry/galeriegaia@tomaL-2018031801-greensideoftheman-145x89.jpg"
   technique: 'Technique mixte sur toile de lin '
