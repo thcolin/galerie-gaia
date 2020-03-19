@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Little simple brut 202031101
+  image: "/forestry/galeriegaia@tomaL-2020031101-LITTLESIMPLEBRUT-40x30cm.jpg"
+  technique: Couture et Technique mixte sur papier
+  dimensions:
+    height: 40
+    width: 30
+  description: cadre en chêne et verre musée
+  price: 1600
 - title: Little trash & color
   image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm.jpg"
   technique: Technique mixte sur toile en lin
