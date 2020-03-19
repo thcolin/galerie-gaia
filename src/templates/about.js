@@ -40,6 +40,7 @@ About.styles = {
   header: {
     display: 'flex',
     overflowY: 'auto',
+    whiteSpace: 'nowrap',
     '>h3': {
       margin: 0,
       fontFamily: theme.fonts.primary,
