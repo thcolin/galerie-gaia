@@ -49,6 +49,11 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Black ans simple color 2018091809
+  image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie.jpg"
+  technique: 'Technique mixte sur papier marouflé sur bois '
+  description: caisse américaine noire
+  price: 3500
 - title: Black and simple color 2018091805
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
