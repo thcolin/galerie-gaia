@@ -291,15 +291,15 @@ works:
   description: 2017 / 400€
   price: 
   sold: false
-- title: Simple White Trash
+- title: Simple White Trash 2017051101
   image: "/forestry/simple-white-trash.jpg"
   technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 150
     width: 95
     depth: 
-  description: 2017 /  5500€
-  price: 
+  description: ''
+  price: 5500
   sold: false
 - title: Red Canaille 2016050213
   image: "/forestry/red-canaille.jpg"
