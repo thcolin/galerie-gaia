@@ -3,14 +3,14 @@ template: about
 tabs:
 - title: 1 immeuble 1 oeuvre
   content:
-  - column: "##### 1 immeuble 1 oeuvre \n\nPour les promoteurs référencés auprès du
+  - column: "##### 1 immeuble 1 oeuvre\n\nPour les promoteurs référencés auprès du
       Ministère de la Culture dans le cadre du 1% logement ou du programme \"1 immeuble
-      1 oeuvre \"   \net pour tous les autres qui souhaitent intégrer un projet d'artiste
-      dans les jardins, les halls d'entrée ou toutes autres parties communes ,   \n**contactez-moi
+      1 oeuvre \"  \net pour tous les autres qui souhaitent intégrer un projet d'artiste
+      dans les jardins, les halls d'entrée ou toutes autres parties communes ,  \n**contactez-moi
       pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
-      en mode projet et en amont avec les architectes.  \n  \nCi-dessous l'oeuvre
-      \"Le masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en
-      2020.\n\n![](/forestry/masque.jpg)"
+      en mode projet et en amont avec les architectes.\n\nCi-dessous l'oeuvre \"Le
+      masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020.\n\n![](/forestry/masque.jpg
+      \"Masque kazy\")"
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
