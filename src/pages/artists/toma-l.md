@@ -120,7 +120,7 @@ works:
     height: 109
     width: 79
 - title: Black ans simple color 2018091809
-  image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie.jpg"
+  image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   description: caisse américaine noire
   price: 3500
