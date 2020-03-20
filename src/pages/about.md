@@ -186,5 +186,11 @@ tabs:
       display: false
       placeholder: ''
 title: Prestations
+seo:
+  title: Prestations
+  type: website
+  description: La Galerie Gaïa vous offre différentes prestations, des plus personnelles
+    aux plus professionnelles
+  image: ''
 
 ---

@@ -68,5 +68,11 @@ fields:
   description: Template
   hidden: true
   default: about
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
 pages:
 - src/pages/about.md
