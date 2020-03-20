@@ -63,7 +63,7 @@ works:
   description: 
   price: 
   sold: false
-- title: Sans titre
+- title: Octopus IV
   image: "/forestry/1437.jpg"
   technique: Mixte sur toile
   dimensions:
