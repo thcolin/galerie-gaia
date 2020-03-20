@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Trash and color 2019111701
+  image: "/forestry/2019111701-TrashAndColor-162x130cm.jpg"
+  technique: technique mixte sur toile en lin sur châssis à clef
+  dimensions:
+    height: 162
+    width: 130
+  description: ''
+  price: 6500
 - title: Liitle trash 2018020601
   image: "/forestry/2018020601-littletrash-100x70cm.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
