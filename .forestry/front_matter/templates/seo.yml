@@ -35,6 +35,7 @@ fields:
       wysiwyg: false
       schema:
         format: markdown
+      max: '200'
     label: Description
     description: Description
   - name: image
