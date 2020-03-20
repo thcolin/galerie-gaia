@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: '',
   siteMetadata: require('./site-metadata.json'),
   plugins: [
     'gatsby-plugin-sitemap',
