@@ -96,7 +96,7 @@ works:
   description: caisse américaine noire
   price: 5200
 - title: Graphite & Colors 2019022501
-  image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019.jpg"
+  image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 182
