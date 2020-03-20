@@ -34,18 +34,19 @@ tabs:
       une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
 - title: Défiscalisation
   content:
-  - column: "##### Défiscalisation\n\nL’art sur le lieu de travail peut apporter de
-      l’inspiration, de la créativité, du beau et permet de constituer un patrimoine
-      !  \nImaginez votre plaisir, celui de vos équipes et des clients, en entrant
-      dans un espace personnalisé grâce à votre choix d’une toile, d’une sculpture,
-      d’une estampe, photo ou dessin.  \nImaginez celles-ci dans les couloirs de vos
-      bureaux, salles de réunion ou votre bureau.  \nSoutenir un artiste vivant est
-      un acte fort pour communiquer sur la culture de votre entreprise, sur ses valeurs.\n\nCette
-      déduction a été créée pour les entreprises et pour les professions libérales
-      qui achètent des œuvres d’art originales et d’artistes vivants.  \nGrâce à votre
-      investissement :\n\n* vous constituez un patrimoine\n* vous faites une économie
-      d’impôts\n* vous soutenez le développement de la création artistique contemporaine\n\n![Artiste
-      Isabelle HEALY](/forestry/fondation.jpg 'Sculpture \"Fondation\"')"
+  - column: "##### Défiscalisation\n\nL’art sur le lieu de travail apporte de l’inspiration,
+      de la créativité, du beau et permet de constituer un patrimoine !  \nImaginez
+      votre plaisir, celui de vos équipes et des clients, en entrant dans un espace
+      personnalisé grâce à votre choix d’une toile, d’une sculpture, d’une estampe,
+      photo ou dessin.  \nSoutenir un artiste vivant est un acte fort pour communiquer
+      sur la culture de votre entreprise, sur ses valeurs.\n\nCette déduction a été
+      créée pour les entreprises et pour les professions libérales qui achètent des
+      œuvres d’art originales et d’artistes vivants.  \nGrâce à votre investissement
+      :\n\n* vous constituez un patrimoine\n* vous faites une économie d’impôts\n*
+      vous soutenez le développement de la création artistique contemporaine\n\n[texte
+      de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
+      \"Texte officiel\")\n\n![Artiste Isabelle HEALY](/forestry/fondation.jpg 'Sculpture
+      \"Fondation\"')"
   - column: "**Comment :**\n\nL’oeuvre doit être exposée au public ou aux salariés
       durant 5 ans, durée de son amortissement.  \nL’œuvre figure dans les immobilisations
       de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
