@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Liitle trash 2018020601
+  image: "/forestry/2018020601-littletrash-100x70cm.jpg"
+  technique: 'Technique mixte sur papier marouflé sur bois '
+  dimensions:
+    height: 109
+    width: 79
+  description: cadre blanc flottant sous verre
+  price: 3500
 - title: Little simple brut 2020031103
   image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm.jpg"
   technique: Couture et Technique mixte sur papier
