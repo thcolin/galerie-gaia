@@ -98,9 +98,9 @@ const Artist = ({ ...props }) => {
         )}
         <div css={Artist.styles.about}>
           <h1>{frontmatter.title}</h1>
-          {!!(frontmatter.birth || frontmatter.death) && (
+          {!!(parseInt(frontmatter).birth || parseInt(frontmatter).death) && (
             <small>
-              ({[frontmatter.birth, frontmatter.death].filter(year => year).join(' - ')})
+              ({[parseInt(frontmatter).birth, parseInt(frontmatter).death].filter(year => year).join(' - ')})
             </small>
           )}
           {!!(frontmatter.location || frontmatter.field) && (
