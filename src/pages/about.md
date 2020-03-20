@@ -10,7 +10,7 @@ tabs:
       pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
       en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
       masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
-  - column: "![](/forestry/masque.jpg \"Masque kazy\")"
+  - column: '![](/forestry/masque.jpg "Masque kazy")'
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
@@ -20,18 +20,17 @@ tabs:
       \  \nConcrètement la mise en place d'oeuvres d'artistes dans l'espace de travail
       flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité
       de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et
-      attirer des talents.\n\nJ'ai
-      retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres
-      d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing
-      d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier
-      d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.\n\n[Gazette
-      Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf
-      \"Article Gazette drouot \")\n\n##### Exemple :\n\n* pour une oeuvre de 3500€\n*
-      location 24 mois\n* loyer mensuel terme à échoir *  193€ HT\n* économies d'impôts
-      générées 1296€ HT\n* coût global hors économies de charges sociales, IR... 3332€
-      HT\n  * Les loyers sont une charge déductible et génèrent une économie d'IS
-      estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/ \"Faire
-      une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
+      attirer des talents.\n\nJ'ai retenu le professionalisme de **Bail Art**, pour
+      faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire
+      à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement
+      de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous
+      êtes soumis à l'IS ou IRPP.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
+      drouot juin 2017.pdf \"Article Gazette drouot \")\n\n##### Exemple :\n\n* pour
+      une oeuvre de 3500€\n* location 24 mois\n* loyer mensuel terme à échoir *  193€
+      HT\n* économies d'impôts générées 1296€ HT\n* coût global hors économies de
+      charges sociales, IR... 3332€ HT\n  * Les loyers sont une charge déductible
+      et génèrent une économie d'IS estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/
+      \"Faire une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
   - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
 - title: Défiscalisation
   content:
@@ -89,11 +88,16 @@ tabs:
       nantaise.  \n  \n\\+ Apport d'affaire pour toutes ventes effectuées par vos
       soins.\n\n[Demande de renseignements](galeriegaia@orange.fr \"renseignement
       architecte\")"
-  - column: "![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
-  Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
-  \"Le Molière Christophe Vinet\")"
+  - column: |-
+      ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
+
+      [Brasserie Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/ "Le Molière Christophe Vinet")
 - title: 'Idées cadeaux '
   content:
+  - column: |-
+      Encadrement
+
+      sqdf
   - column: |-
       ##### Carte de voeux
 
