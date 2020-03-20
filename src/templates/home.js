@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import SEO from 'components/SEO'
 import { css } from 'emotion'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
@@ -17,6 +18,12 @@ const Home = ({ ...props }) => {
 
   return (
     <Layout {...props}>
+      <SEO
+        title="Accueil"
+        description={props.pageContext.site.siteMetadata.description}
+        image={carousel[0]?.image}
+        pageContext={props.pageContext}
+      />
       <section
         css={Home.styles.element}
         style={{

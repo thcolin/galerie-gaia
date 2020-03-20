@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { withPrefix } from 'gatsby'
 import { Redirect } from '@reach/router'
+import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
 import Contact from 'components/Contact'
@@ -11,6 +12,8 @@ import '@brainhubeu/react-carousel/lib/style.css'
 import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
 import theme from 'theme'
+import rmmd from 'remove-markdown'
+import { truncate } from 'utils/string'
 
 const Artist = ({ ...props }) => {
   const { pageContext: { frontmatter } } = props
@@ -33,6 +36,12 @@ const Artist = ({ ...props }) => {
 
   return (
     <Layout {...props}>
+      <SEO
+        title={frontmatter.title}
+        description={truncate(rmmd(frontmatter.biography))}
+        image={slides[0]?.image}
+        pageContext={props.pageContext}
+      />
       <section css={Artist.styles.element}>
         {!!works.length && (
           <div css={Artist.styles.works}>

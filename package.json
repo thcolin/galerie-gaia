@@ -34,6 +34,7 @@
     "react-helmet": "^6.0.0-beta.2",
     "react-hook-form": "^5.0.1",
     "react-medium-image-zoom": "^4.1.0",
+    "remove-markdown": "^0.3.0",
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {

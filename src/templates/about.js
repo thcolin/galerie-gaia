@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
 import Contact from 'components/Contact'
@@ -10,6 +11,7 @@ const About = ({ ...props }) => {
 
   return (
     <Layout {...props}>
+      <SEO {...frontmatter.seo} pageContext={props.pageContext} />
       <section css={About.styles.element}>
         <header css={About.styles.header}>
           {frontmatter.tabs.map((tab, index) => (
@@ -21,8 +23,8 @@ const About = ({ ...props }) => {
           {frontmatter.tabs.map(({ content, title }, i) => (
             <div key={i} style={{ display: i !== index ? 'none' : 'flex' }}>
               {content.map(({ column, contact }, index) => (
-                <div>
-                  <RichText key={index} children={column} />
+                <div key={index}>
+                  <RichText children={column} />
                   {contact.display && (
                     <Contact
                       id="uT-oykFnR_MeNQndwoxtc"

@@ -1,4 +1,5 @@
 import React, { Fragment, useRef } from 'react'
+import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
 import RichText from 'components/RichText'
@@ -25,6 +26,12 @@ const Exhibitions = ({ ...props }) => {
 
   return (
     <Layout {...props}>
+      <SEO
+        title={frontmatter.title}
+        description={frontmatter.description}
+        image={pieces[0]?.exhibition?.image}
+        pageContext={props.pageContext}
+      />
       <section ref={ref} css={Exhibitions.styles.element}>
         {pieces.map((exhibition, index) => (
           <Fragment key={exhibition.title}>

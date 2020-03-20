@@ -17,6 +17,8 @@ const Layout = ({ children, ...props }) => (
       <meta charSet='utf-8' />
       <meta name='viewport' content='width=device-width, initialScale=1.0' />
       <meta name='google' content='notranslate' />
+      <meta property="og:locale" content="fr_FR" />
+      <meta property="og:site_name" content={props.pageContext.site.siteMetadata.title} />
     </Helmet>
     <div css={Layout.styles.element}>
       <div css={Layout.styles.container}>
