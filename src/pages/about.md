@@ -100,7 +100,7 @@ tabs:
       vous avez chez vous des oeuvres qui ont besoin de l'être, ou de refaire les
       encadrements toutes commandes fait l'objet d'un devis.\n\nLe verre musée protèges
       à 98% des UV du soleil et de la lune, en plus il est anti-reflet. Option sur
-      devis.\n\n![](/forestry/galeriegaia@encadrementsurmesure.jpg)"
+      devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)"
   - column: |-
       ##### Carte de voeux
 
