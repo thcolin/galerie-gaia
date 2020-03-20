@@ -47,6 +47,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Drawing Trash Color 2020031203
+  image: "/forestry/galeriegaia@tomaL-2020031301-drawingtrashcolor-102x70cm 2.jpg"
+  technique: 'Technique mixte sur papier '
+  dimensions:
+    height: 120
+    width: 90
+  description: 'cadre blanc sous verre '
+  price: 3500
 - title: Drawing trash color 2020031202
   image: "/forestry/galeriegaia@tomaL-2020031202-drawingtrashcolor-102x70cm.jpg"
   technique: Technique mixte sur papier
