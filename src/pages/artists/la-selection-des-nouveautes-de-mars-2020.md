@@ -9,6 +9,14 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Atlantis Teatro Dimitri Bourriau
+  image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
+  technique: Tirage Argentique, contrecollé sur Dibond
+  dimensions:
+    height: 100
+    width: 150
+  description: "Tirage 15 exemplaires en caisse américaine   \nprix sur demande "
+  price: 0
 - title: Sélection du mois de Mars 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''

@@ -21,7 +21,7 @@ works:
     width: 120
     depth: 
   description: 
-  price: 2800
+  price: 2400
   sold: false
 - title: Icare V
   image: "/forestry/1439.jpg"
@@ -31,7 +31,7 @@ works:
     width: 150
     depth: 
   description: 
-  price: 
+  price: 2700
   sold: false
 - title: Oxygen
   image: "/forestry/1440.jpg"
@@ -41,7 +41,7 @@ works:
     width: 89
     depth: 
   description: 
-  price: 
+  price: 1500
   sold: false
 - title: Sans titre
   image: "/forestry/1435.jpg"
