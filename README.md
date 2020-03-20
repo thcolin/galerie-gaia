@@ -15,10 +15,3 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
   `npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5e3f397fe32af10019202ebc`
 1. Starts a development server: `npm run develop`
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
-
-# Roadmap
-* Improve SEO
-  * Look at useful `meta` tags (`description` ?)
-* Improve redirect
-  * Look at [gatsby-netlify-plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-netlify/)
-  * Fix `404` too
