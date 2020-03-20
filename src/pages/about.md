@@ -119,8 +119,12 @@ tabs:
       le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr \"Barak\")
       : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
       \"Ressources\") : mon marchand de couleurs et celui aussi de quelques artistes
-      de la galerie. Conseil de pro!\n\nLulu Rouget :\n\nVincent Guerlais :\n\nLe
-      Reflet : "
+      de la galerie. Conseil de pro!\n\n[Lulu Rouget](https://www.lulurouget.fr/ \"Lulu
+      Rouget\") : dans l'assiette c'est comme une é-toile\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
+      \"Vincent Guerlais \") : parce que sa patisserie nommée Gaïa est juste un délice\n\n[Le
+      Reflet](https://www.restaurantlereflet.fr/ \"Le Reflet\") : une délicieuse cuisine
+      où la bonne humeur est de mise \n\nDomaine Bretaudeau : si la cuvée Gaïa est
+      en rupture de stock je n'y suis pour rien !"
   - column: |-
       Merci pour la confiance accordée pour des projets riche en émotion
 
