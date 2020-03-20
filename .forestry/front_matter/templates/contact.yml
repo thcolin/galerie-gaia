@@ -36,5 +36,11 @@ fields:
   description: Template
   hidden: true
   default: contact
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
 pages:
 - src/pages/contact.md
