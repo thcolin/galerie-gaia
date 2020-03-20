@@ -33,7 +33,7 @@ works:
   description: 
   price: 
   sold: false
-- title: Sans titre
+- title: Oxygen
   image: "/forestry/1440.jpg"
   technique: Mixte sur toile
   dimensions:
