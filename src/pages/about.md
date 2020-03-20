@@ -94,10 +94,13 @@ tabs:
       [Brasserie Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/ "Le Molière Christophe Vinet")
 - title: 'Idées cadeaux '
   content:
-  - column: |-
-      Encadrement
-
-      sqdf
+  - column: "##### Encadrement\n\nEncadrer c'est conserver et sublimer une oeuvre.
+      \ \nJe vous propose mes conseils pour toutes oeuvres acquises à la galerie que
+      je confie ensuite à mon atelier d'encadrement (standard et sur-mesure).\n\nSi
+      vous avez chez vous des oeuvres qui ont besoin de l'être, ou de refaire les
+      encadrements toutes commandes fait l'objet d'un devis.\n\nLe verre musée protèges
+      à 98% des UV du soleil et de la lune, en plus il est anti-reflet. Option sur
+      devis.\n\n![](/forestry/galeriegaia@encadrementsurmesure.jpg)"
   - column: |-
       ##### Carte de voeux
 
