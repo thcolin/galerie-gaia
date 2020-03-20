@@ -54,5 +54,6 @@ artists:
 - artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/adolfo-arenas-alonso.md
 - artist: src/pages/artists/art-galeries-nantes.md
+description: La Galerie vous propose de découvrir de nombreux artistes contemporains
 
 ---

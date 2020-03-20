@@ -8,6 +8,17 @@ fields:
   description: Titre du site
   config:
     required: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '200'
+  label: Description
+  description: Description
 - name: caption
   type: text
   config:
