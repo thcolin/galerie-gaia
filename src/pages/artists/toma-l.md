@@ -48,7 +48,7 @@ exhibitions:
   location: Galerie Gaia
 works:
 - title: Trash and color 2019111701
-  image: "/forestry/2019111701-TrashAndColor-162x130cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2019111701-TrashAndColor-162x130cm.jpg"
   technique: technique mixte sur toile en lin sur châssis à clef
   dimensions:
     height: 162
