@@ -61,7 +61,7 @@ works:
     width: 100
     depth: 
   description: 
-  price: 
+  price: 2500
   sold: false
 - title: Octopus IV
   image: "/forestry/1437.jpg"
@@ -71,7 +71,7 @@ works:
     width: 100
     depth: 
   description: 
-  price: 
+  price: 3000
   sold: false
 
 ---
