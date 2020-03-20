@@ -80,7 +80,7 @@ works:
   description: Cadre en chêne et verre musée
   price: 1600
 - title: Little simple brut 202031101
-  image: "/forestry/galeriegaia@tomaL-2020031101-LITTLESIMPLEBRUT-40x30cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2020031101-LITTLECOLOR-40x30cm.jpg"
   technique: Couture et Technique mixte sur papier
   dimensions:
     height: 40
@@ -88,7 +88,7 @@ works:
   description: cadre en chêne et verre musée
   price: 1600
 - title: Little trash & color 2019022702
-  image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm-1.jpg"
   technique: Technique mixte sur toile en lin
   dimensions:
     height: 142
