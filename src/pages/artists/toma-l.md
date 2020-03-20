@@ -150,7 +150,7 @@ works:
   price: 3500
   sold: false
 - title: 'Green side of the man '
-  image: "/forestry/galeriegaia@tomaL-2018031801-greensideoftheman-145x89.jpg"
+  image: "/forestry/galeriegaia@tomaL-2018031801-Greensideohtheman-160x121cm-ES.jpg"
   technique: 'Technique mixte sur toile de lin '
   dimensions:
     height: 160
