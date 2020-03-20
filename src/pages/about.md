@@ -3,13 +3,14 @@ template: about
 tabs:
 - title: 1 immeuble 1 oeuvre
   content:
-  - column: "##### 1 immeuble 1 oeuvre\n\nPour les promoteurs référencés auprès du
-      Ministère de la Culture dans le cadre du 1% logement et du programme \"1 immeuble
-      1 oeuvre \" et pour tous les autres qui souhaitent intégrer un projet d'artiste
-      dans les jardins, les halls d'entrée ou toutes autres parties communes , contactez-moi
-      pour vous soumettre des noms d'artistes qui sont en capacité de travailler en
-      mode projet et en amont avec les architectes.  \nCi-dessous l'oeuvre \"Le masque\"
-      de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020;\n\n![](/forestry/masque.jpg)"
+  - column: "##### 1 immeuble 1 oeuvre \n\nPour les promoteurs référencés auprès du
+      Ministère de la Culture dans le cadre du 1% logement ou du programme \"1 immeuble
+      1 oeuvre \"   \net pour tous les autres qui souhaitent intégrer un projet d'artiste
+      dans les jardins, les halls d'entrée ou toutes autres parties communes ,   \n**contactez-moi
+      pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
+      en mode projet et en amont avec les architectes.  \n  \nCi-dessous l'oeuvre
+      \"Le masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en
+      2020.\n\n![](/forestry/masque.jpg)"
 - title: 'Location '
   content:
   - column: |-
