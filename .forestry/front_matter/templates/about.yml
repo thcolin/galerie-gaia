@@ -30,6 +30,24 @@ fields:
           format: markdown
       label: Column
       description: Colonne
+    - name: contact
+      type: field_group
+      config: {}
+      fields:
+      - name: display
+        type: boolean
+        label: Display
+        description: Afficher
+        default: false
+      - name: placeholder
+        type: text
+        config:
+          required: false
+        label: Placeholder
+        description: Incitation
+        default: Un message à nous adresser ?
+      label: Contact
+      description: Contact
     config:
       min: 
       max: 
