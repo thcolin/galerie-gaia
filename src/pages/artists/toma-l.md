@@ -56,7 +56,7 @@ works:
   description: ''
   price: 6500
 - title: Liitle trash 2018020601
-  image: "/forestry/2018020601-littletrash-100x70cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 109
