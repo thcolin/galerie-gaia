@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
+import Contact from 'components/Contact'
 import theme from 'theme'
 
 const About = ({ ...props }) => {
@@ -17,10 +18,25 @@ const About = ({ ...props }) => {
         </header>
         <hr />
         <div css={About.styles.content}>
-          {frontmatter.tabs.map(({ content }, i) => (
+          {frontmatter.tabs.map(({ content, title }, i) => (
             <div key={i} style={{ display: i !== index ? 'none' : 'flex' }}>
-              {content.map(({ column }, index) => (
-                <RichText key={index} children={column} />
+              {content.map(({ column, contact }, index) => (
+                <div>
+                  <RichText key={index} children={column} />
+                  {contact.display && (
+                    <Contact
+                      id="uT-oykFnR_MeNQndwoxtc"
+                      placeholder={contact.placeholder}
+                      toggle={true}
+                      inputs={[
+                        {
+                          name: 'subject',
+                          value: title,
+                        }
+                      ]}
+                    />
+                  )}
+                </div>
               ))}
             </div>
           ))}
