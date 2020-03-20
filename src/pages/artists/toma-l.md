@@ -158,7 +158,7 @@ works:
   description: caisse américaine noire
   price: 
 - title: Red side of the man
-  image: "/forestry/galeriegaia@tomaL-2018031701-redsideoftheman-145x70cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2018031701-Redsideohtheman-160x121cm-ES.jpg"
   technique: technique mixte sur toile en lin
   dimensions:
     height: 146
@@ -166,7 +166,7 @@ works:
   description: 'caisse américaine noire '
   price: 5900
 - title: Wood cartel black
-  image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm ES.jpg"
   technique: 'Technique mixte sur bois '
   dimensions:
     height: 106
