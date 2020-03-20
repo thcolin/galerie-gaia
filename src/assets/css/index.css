@@ -64,6 +64,10 @@ p>strong {
   font-size: 1em;
 }
 
+li>p {
+  font-size: 1em;
+}
+
 input, textarea {
   --webkit-appearance: none;
   --moz-appearance: none;
