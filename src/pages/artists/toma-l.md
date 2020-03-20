@@ -49,6 +49,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Brut and simple color 2019111401
+  image: "/forestry/2019111401-BrutAndSimpleColor196x130cm .jpg"
+  technique: Technique mixte sur toile en lin châssis à clefs
+  dimensions:
+    height: 160
+    width: 176
+  description: ''
+  price: 8400
 - title: Trash and color 2019111701
   image: "/forestry/2019111701-TrashAndColor-162x130cm.jpg"
   technique: technique mixte sur toile en lin sur châssis à clef
