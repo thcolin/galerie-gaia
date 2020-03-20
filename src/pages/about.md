@@ -92,18 +92,18 @@ tabs:
       \"Le Molière Christophe Vinet\")"
 - title: 'Idées cadeaux '
   content:
-  - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
-      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
-      et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
-      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
   - column: |-
       ##### Carte de voeux
 
       Des artistes de la galerie ont créé des modèles de cartes de voeux disponibles dans un catalogue [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
 
-      Si vous voulez personnaliser votre carte de voeux en incarnant des valeurs de votre entreprise, je vous sélectionne un artiste qui vous soumettra un projet avant validation.
+      Si vous voulez personnaliser votre carte de voeux en incarnant des valeurs de votre entreprise, insérer votre logo et un texte, je vous propose une sélection d'artistes qui travailleront sur votre projet.
 
       ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
+  - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
+      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
+      et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
+      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
 - title: 'Références '
   content:
   - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
