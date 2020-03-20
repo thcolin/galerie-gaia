@@ -83,11 +83,13 @@ tabs:
       de couleurs, papiers peints et simulation d'oeuvres d'artistes récupérées sur
       internet.  \nLes objets de décoration sont souvent manufacturés et multiples
       quand l'art est unique et rend très personnel un décor.\n\nPassez au concret
-      avec des propositions d'oeuvres de la galerie ou que je sourcerai spécialement
-      pour votre projet.  \nApport d'affaire pour toutes ventes effectuées par vos
+      avec des propositions d'oeuvres disponible à la galerie ou que je sourcerais
+      spécialement pour votre projet.  \nLivraison et prêt d'oeuvres sur la région
+      nantaise.  \n  \n\\+ Apport d'affaire pour toutes ventes effectuées par vos
       soins.\n\n[demande de renseignements](galeriegaia@orange.fr \"renseignement
-      architecte\")\n\nLivraison et prêt d'oeuvres sur la région nantaise.\n\n![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
-      \"https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/\")"
+      architecte\")\n\n![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
+      Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
+      \"Le Molière Christophe Vinet\")"
 - title: 'Idées cadeaux '
   content:
   - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
