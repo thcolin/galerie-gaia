@@ -49,10 +49,10 @@ artists:
 - artist: src/pages/artists/marianne-abergel.md
 - artist: src/pages/artists/combas.md
 - artist: src/pages/artists/renaud-allirand.md
-- artist: src/pages/artists/art-galeries-nantes.md
 - artist: src/pages/artists/daha-daha.md
 - artist: src/pages/artists/stephanie-billarant.md
 - artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/adolfo-arenas-alonso.md
+- artist: src/pages/artists/art-galeries-nantes.md
 
 ---
