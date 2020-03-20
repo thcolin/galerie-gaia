@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { css } from 'emotion'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
+import isMobile from 'is-mobile'
 import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
 import 'pure-react-carousel/dist/react-carousel.es.css'
 
@@ -25,7 +26,7 @@ const Home = ({ ...props }) => {
         <CarouselProvider
           isPlaying
           infinite
-          interval={5000}
+          interval={isMobile() ? 3000 : 5000}
           touchEnabled={false}
           dragEnabled={false}
           totalSlides={carousel.length}

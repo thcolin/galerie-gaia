@@ -21,6 +21,7 @@
     "gatsby-plugin-resolve-src": "^2.0.0",
     "gatsby-source-filesystem": "2.0.28",
     "gatsby-transformer-remark": "2.3.8",
+    "is-mobile": "^2.2.1",
     "js-yaml": "^3.12.2",
     "lodash": "^4.17.11",
     "marksy": "^8.0.0",
