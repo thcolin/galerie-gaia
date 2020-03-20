@@ -64,7 +64,7 @@ works:
   description: cadre blanc flottant sous verre
   price: 3500
 - title: Little simple brut 2020031103
-  image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
   technique: Couture et Technique mixte sur papier
   dimensions:
     height: 40
@@ -72,7 +72,7 @@ works:
   description: cadre ne chêne verre musée
   price: 1600
 - title: Little simple brut 202031102
-  image: "/forestry/galeriegaia@tomaL-2020031102-LITTLESIMPLEBRUT-40x30cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
   technique: 'Couture et Technique mixte sur papier '
   dimensions:
     height: 50
