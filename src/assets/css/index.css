@@ -56,16 +56,18 @@ h4 {
   font-size: 0.75em;
 }
 
-p, strong, li {
-  font-size: 0.875em;
+strong {
+  font-size: 0.875rem;
 }
 
-p>strong {
-  font-size: 1em;
+p {
+  font-size: 0.875rem;
+  line-height: 1.5;
 }
 
-li>p {
-  font-size: 1em;
+li {
+  font-size: 0.875rem;
+  line-height: 1.7;
 }
 
 input, textarea {
@@ -75,14 +77,14 @@ input, textarea {
   background: none;
   border-radius: 0;
   padding: 0.5em;
-  font-size: 0.875em;
+  font-size: 0.875rem;
   border: 1px solid #eee;
 }
 
 button {
   background: none;
   padding: 0.5em 1em;
-  font-size: 0.875em;
+  font-size: 0.875rem;
   border: 1px solid #eee;
   transition: border 400ms ease-in-out, background 400ms ease-in-out;
 }

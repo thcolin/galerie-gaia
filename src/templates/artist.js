@@ -102,7 +102,7 @@ const Artist = ({ ...props }) => {
                         name,
                         value: (
                           typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? `${typeof window !== 'undefined' && window.location?.protocol}//${window.location?.hostname}${withPrefix(work.image)}` :
+                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${withPrefix(work.image)}` :
                           work[name]
                         ),
                       })),
