@@ -191,6 +191,6 @@ seo:
   type: website
   description: La Galerie Gaïa vous offre différentes prestations, des plus personnelles
     aux plus professionnelles
-  image: ''
+  image: "/forestry/seo-about.jpg"
 
 ---
