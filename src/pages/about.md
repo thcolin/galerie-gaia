@@ -10,7 +10,13 @@ tabs:
       pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
       en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
       masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
+    contact:
+      display: false
+      placeholder: ''
   - column: '![](/forestry/masque.jpg "Masque kazy")'
+    contact:
+      display: false
+      placeholder: ''
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
@@ -31,7 +37,13 @@ tabs:
       charges sociales, IR... 3332€ HT\n  * Les loyers sont une charge déductible
       et génèrent une économie d'IS estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/
       \"Faire une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
+    contact:
+      display: false
+      placeholder: ''
   - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
+    contact:
+      display: false
+      placeholder: ''
 - title: Défiscalisation
   content:
   - column: "##### Défiscalisation\n\nL’art sur le lieu de travail apporte de l’inspiration,
@@ -47,6 +59,9 @@ tabs:
       de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
       \"Texte officiel\")\n\n![Artiste Isabelle HEALY](/forestry/fondation.jpg 'Sculpture
       \"Fondation\"')"
+    contact:
+      display: false
+      placeholder: ''
   - column: "**Comment :**\n\nL’oeuvre doit être exposée au public ou aux salariés
       durant 5 ans, durée de son amortissement.  \nL’œuvre figure dans les immobilisations
       de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
@@ -55,6 +70,9 @@ tabs:
       déduction annuelle ne peut excéder la limite de 5 pour mille du chiffre d’affaire.\n*
       Le montant annuel maximum déductible 350 000 x 0,005 soit 1750€\n* Amortissement
       annuel de l’œuvre 7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
+    contact:
+      display: false
+      placeholder: ''
 - title: Evènementiel
   content:
   - column: |-
@@ -68,14 +86,18 @@ tabs:
         ![](/forestry/galeriegaia@keran@basso.jpg "Keran exposition Giani Basso")
 
         ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG "Adelis 70 ans ")
-
-      [Demande de renseignement]()
+    contact:
+      display: true
+      placeholder: Une demande de renseignements ?
   - column: "**Trophée artistique pour challenge** \n\nLa remise d'un trophée pour
       un challenge sportif ou une incentive interne est  un moment fort en communication.
       \  \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
       définition du cahier des charges pour que le trophée soit à la hauteur de vos
       ambitions\n\n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste Go
       Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Architecte d''intérieur '
   content:
   - column: "##### Projet clé en main :\n\nL'architecte travaille en priorité sur
@@ -85,13 +107,17 @@ tabs:
       quand l'art est unique et rend très personnel un décor.\n\nPassez au concret
       avec des propositions d'oeuvres disponible à la galerie ou que je sourcerais
       spécialement pour votre projet.  \nLivraison et prêt d'oeuvres sur la région
-      nantaise.  \n  \n\\+ Apport d'affaire pour toutes ventes effectuées par vos
-      soins.\n\n[Demande de renseignements](galeriegaia@orange.fr \"renseignement
-      architecte\")"
+      nantaise.\n\n\\+ Apport d'affaire pour toutes ventes effectuées par vos soins."
+    contact:
+      display: true
+      placeholder: Une demande de renseignements ?
   - column: |-
       ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
 
       [Brasserie Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/ "Le Molière Christophe Vinet")
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Idées cadeaux '
   content:
   - column: "##### Encadrement\n\nEncadrer c'est conserver et sublimer une oeuvre.
@@ -101,6 +127,9 @@ tabs:
       encadrements toutes commandes fait l'objet d'un devis.\n\nLe verre musée protèges
       à 98% des UV du soleil et de la lune, en plus il est anti-reflet. Option sur
       devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)"
+    contact:
+      display: false
+      placeholder: ''
   - column: |-
       ##### Carte de voeux
 
@@ -111,10 +140,16 @@ tabs:
       ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")
 
       ![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
+    contact:
+      display: false
+      placeholder: ''
   - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
       \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
       et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
       retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Références '
   content:
   - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
@@ -136,6 +171,9 @@ tabs:
       Reflet](https://www.restaurantlereflet.fr/ \"Le Reflet\") : une délicieuse cuisine
       où la bonne humeur est de mise \n\nDomaine Bretaudeau : si la cuvée Gaïa est
       en rupture de stock je n'y suis pour rien !"
+    contact:
+      display: false
+      placeholder: ''
   - column: |-
       Merci pour la confiance accordée par ces sociétés qui me confient des projets riches en défi et émotion
 
@@ -144,6 +182,9 @@ tabs:
       ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
 
       ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)![](/forestry/logochristophevinet.jpg)![](/forestry/index.png)
+    contact:
+      display: false
+      placeholder: ''
 title: Prestations
 
 ---
