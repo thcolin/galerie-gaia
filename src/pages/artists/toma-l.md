@@ -105,14 +105,14 @@ works:
   price: 6700
 - title: Graphite & Color 2019011401
   image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
-  technique: 'Technique mixte sur papier marouflé sur bois '
+  technique: Technique mixte sur papier marouflé sur bois
   dimensions:
     height: 157
     width: 125
   description: caisse américaine chêne
   price: 6200
 - title: Black and simple color 2018091815
-  image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm.jpg"
+  image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
   description: Caisse américaine noire
   price: 3500
   technique: 'Technique mixte sur papier marouflé sur bois '
