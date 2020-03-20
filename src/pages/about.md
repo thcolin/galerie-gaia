@@ -8,9 +8,9 @@ tabs:
       1 oeuvre \"  \net pour tous les autres qui souhaitent intégrer un projet d'artiste
       dans les jardins, les halls d'entrée ou toutes autres parties communes ,  \n**contactez-moi
       pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
-      en mode projet et en amont avec les architectes.\n\nCi-dessous l'oeuvre \"Le
-      masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020.\n\n![](/forestry/masque.jpg
-      \"Masque kazy\")"
+      en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
+      masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
+  - column: "![](/forestry/masque.jpg \"Masque kazy\")"
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
@@ -20,7 +20,7 @@ tabs:
       \  \nConcrètement la mise en place d'oeuvres d'artistes dans l'espace de travail
       flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité
       de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et
-      attirer des talents.\n\n![](/forestry/galeriegaia@edwinwide-omr.jpg)\n\nJ'ai
+      attirer des talents.\n\nJ'ai
       retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres
       d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing
       d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier
@@ -32,6 +32,7 @@ tabs:
       HT\n  * Les loyers sont une charge déductible et génèrent une économie d'IS
       estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/ \"Faire
       une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
+  - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
 - title: Défiscalisation
   content:
   - column: "##### Défiscalisation\n\nL’art sur le lieu de travail apporte de l’inspiration,
@@ -43,7 +44,7 @@ tabs:
       créée pour les entreprises et pour les professions libérales qui achètent des
       œuvres d’art originales et d’artistes vivants.  \nGrâce à votre investissement
       :\n\n* vous constituez un patrimoine\n* vous faites une économie d’impôts\n*
-      vous soutenez le développement de la création artistique contemporaine\n\n[texte
+      vous soutenez le développement de la création artistique contemporaine\n\n[Texte
       de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
       \"Texte officiel\")\n\n![Artiste Isabelle HEALY](/forestry/fondation.jpg 'Sculpture
       \"Fondation\"')"
@@ -69,12 +70,12 @@ tabs:
 
         ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG "Adelis 70 ans ")
 
-        [demande de renseignement]()
+      [Demande de renseignement]()
   - column: "**Trophée artistique pour challenge** \n\nLa remise d'un trophée pour
       un challenge sportif ou une incentive interne est  un moment fort en communication.
       \  \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
       définition du cahier des charges pour que le trophée soit à la hauteur de vos
-      ambitions  \n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste Go
+      ambitions\n\n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste Go
       Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
 - title: 'Architecte d''intérieur '
   content:
@@ -86,10 +87,11 @@ tabs:
       avec des propositions d'oeuvres disponible à la galerie ou que je sourcerais
       spécialement pour votre projet.  \nLivraison et prêt d'oeuvres sur la région
       nantaise.  \n  \n\\+ Apport d'affaire pour toutes ventes effectuées par vos
-      soins.\n\n[demande de renseignements](galeriegaia@orange.fr \"renseignement
-      architecte\")\n\n![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
-      Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
-      \"Le Molière Christophe Vinet\")"
+      soins.\n\n[Demande de renseignements](galeriegaia@orange.fr \"renseignement
+      architecte\")"
+  - column: "![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
+  Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
+  \"Le Molière Christophe Vinet\")"
 - title: 'Idées cadeaux '
   content:
   - column: |-
@@ -99,7 +101,9 @@ tabs:
 
       Si vous voulez personnaliser votre carte de voeux en incarnant des valeurs de votre entreprise, insérer votre logo et un texte, je vous propose une sélection d'artistes qui travailleront sur votre projet.
 
-      ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
+      ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")
+
+      ![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
   - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
       \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
       et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
