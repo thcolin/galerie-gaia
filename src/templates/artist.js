@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import { withPrefix } from 'gatsby'
 import { Redirect } from '@reach/router'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
@@ -101,7 +102,7 @@ const Artist = ({ ...props }) => {
                         name,
                         value: (
                           typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? `${window.location.protocol}//${window.location.hostname}/galerie-gaia${work.image}` : // TODO: Remove /galerie-gaia
+                          name === 'image' ? `${window?.location?.protocol}//${window?.location?.hostname}${withPrefix(work.image)}` :
                           work[name]
                         ),
                       })),

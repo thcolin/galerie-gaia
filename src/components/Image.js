@@ -1,4 +1,5 @@
 import React, { useState, useCallback } from 'react'
+import { withPrefix } from 'gatsby'
 import theme from 'theme'
 
 const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
@@ -15,7 +16,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
         {...props}
         ref={ref}
         css={Image.styles.image}
-        src={`/galerie-gaia${min ? src.replace(/^\/forestry/, '/cdn') : src}`}
+        src={withPrefix(`${min ? src.replace(/^\/forestry/, '/cdn') : src}`)}
         alt={alt}
         onLoad={() => setReady(true)}
         onError={() => setReady(true)}
@@ -27,7 +28,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
       {trace && (
         <img
           css={Image.styles.trace}
-          src={`/galerie-gaia${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/, '.svg')}`}
+          src={withPrefix(`${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, '.svg')}`)}
         />
       )}
     </span>
