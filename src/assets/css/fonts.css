@@ -1,5 +1,6 @@
 @font-face {
     font-family: 'Walkway Regular';
+    font-display: swap;
     src: url('../fonts/Walkway_SemiBold-webfont.eot');
     src: url('../fonts/Walkway_SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/Walkway_SemiBold-webfont.woff') format('woff'),
@@ -11,6 +12,7 @@
 
 @font-face {
     font-family: 'Walkway Regular';
+    font-display: swap;
     src: url('../fonts/Walkway_UltraBold-webfont.eot');
     src: url('../fonts/Walkway_UltraBold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/Walkway_UltraBold-webfont.woff') format('woff'),
@@ -22,6 +24,7 @@
 
 @font-face {
   font-family: 'Merriweather';
+  font-display: swap;
   font-style: normal;
   font-weight: normal;
   src: local('Merriweather'),
