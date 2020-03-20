@@ -47,8 +47,17 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: 'Atelier Toma L Série Drawing Trash Color '
+  image: "/forestry/drawingtrashcolor2-102x70cm_bd.jpg"
+  technique: 'Technique mixte sur papier '
+  dimensions:
+    height: 100
+    width: 70
+  description: "Oeuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nmise
+    sous verre cadre blanc "
+  price: 3500
 - title: Drawing Trash Color 2020031203
-  image: "/forestry/galeriegaia@tomaL-2020031301-drawingtrashcolor-102x70cm 2.jpg"
+  image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
   technique: 'Technique mixte sur papier '
   dimensions:
     height: 120
@@ -56,15 +65,15 @@ works:
   description: 'cadre blanc sous verre '
   price: 3500
 - title: Drawing trash color 2020031202
-  image: "/forestry/galeriegaia@tomaL-2020031202-drawingtrashcolor-102x70cm.jpg"
+  image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 100
     width: 70
   description: 'cadre blanc sous verre '
   price: 3500
-- title: Drawing trash color 2020031201
-  image: "/forestry/galeriegaia@tomaL-2020031201-drawingtrashcolor-102x70cm 2.jpg"
+- title: 'Drawing Trash Color 2020031201 '
+  image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 120
