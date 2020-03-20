@@ -1,24 +1,11 @@
 import React from 'react'
-import { useForm } from 'react-hook-form'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
+import ContactForm from 'components/Contact'
 import theme from 'theme'
 
 const Contact = ({ ...props }) => {
   const { pageContext: { frontmatter } } = props
-  const { register, watch, handleSubmit, formState } = useForm({ mode: 'onChange' })
-  const onSubmit = async data => fetch('https://submit-form.com/qJR6evrvE_8YqOTqPnVUU', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      Accept: 'application/json',
-    },
-    body: JSON.stringify(data),
-  })
-    .then((res) => res.json().then(obj => console.log(obj)))
-    .catch((error) => console.warn(error))
-
-  watch()
 
   return (
     <Layout {...props}>
@@ -35,18 +22,7 @@ const Contact = ({ ...props }) => {
       <section css={Contact.styles.contact}>
         <h2>Contact</h2>
         <RichText>{frontmatter.about}</RichText>
-        <form onSubmit={handleSubmit(onSubmit)}>
-          <div>
-            <input ref={register({ required: true })} name='name' type='text' placeholder='Prénom, Nom' />
-            <input ref={register({ required: true })} name='email' type='email' placeholder='Email' />
-            {/* honeypot / spam filtering */}
-            <input ref={register} type='text' name='address' style={{ display: 'none' }} tabIndex='-1' autoComplete='off' />
-          </div>
-          <textarea ref={register({ required: true })} name='message' maxLength='1000' placeholder='Un message à nous adresser ?' />
-          <button type='submit' disabled={!(formState.isValid && !formState.isSubmitting)}>
-            {formState.isSubmitted ? 'Envoyé !' : formState.isSubmitting ? 'Chargement...' : 'Envoyer'}
-          </button>
-        </form>
+        <ContactForm id="qJR6evrvE_8YqOTqPnVUU" />
       </section>
     </Layout>
   )
@@ -88,38 +64,8 @@ Contact.styles = {
       lineHeight: '1.5',
     },
     '>form': {
-      display: 'flex',
-      flexDirection: 'column',
-      '>*': {
-        margin: '0.5rem 0',
-      },
-      '>div': {
-        display: 'flex',
-        [theme.medias.small]: {
-          flexDirection: 'column',
-        },
-        '>input': {
-          width: '100%',
-          margin: '0 1rem',
-          [theme.medias.small]: {
-            margin: '0.5rem 0',
-          },
-          ':first-of-type': {
-            marginTop: 0,
-            marginLeft: 0,
-          },
-          ':last-of-type': {
-            marginBottom: 0,
-            marginRight: 0,
-          },
-        },
-      },
       '>textarea': {
-        width: '100%',
         height: '8rem',
-      },
-      '>button': {
-        alignSelf: 'flex-end',
       },
     },
   },

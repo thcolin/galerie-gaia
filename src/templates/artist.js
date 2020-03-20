@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Redirect } from '@reach/router'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
+import Contact from 'components/Contact'
 import Image from 'components/Image'
 import Icon from 'components/Icon'
 import Carousel, { Dots } from '@brainhubeu/react-carousel'
@@ -91,6 +92,25 @@ const Artist = ({ ...props }) => {
                   {!!work.description && (
                     <RichText children={work.description} />
                   )}
+                  <Contact
+                    id="PHr_SEkN0Pj2VLhcXtR5H"
+                    placeholder="Une demande de renseignement sur cette oeuvre ?"
+                    toggle={true}
+                    inputs={[
+                      ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
+                        name,
+                        value: (
+                          typeof work[name] === 'object' ? JSON.stringify(work[name]) :
+                          name === 'image' ? `${window.location.protocol}//${window.location.hostname}/galerie-gaia${work.image}` : // TODO: Remove /galerie-gaia
+                          work[name]
+                        ),
+                      })),
+                      {
+                        name: 'artist',
+                        value: frontmatter.title,
+                      },
+                    ]}
+                  />
                 </div>
               ))}
             </div>
@@ -235,6 +255,15 @@ Artist.styles = {
       },
       '>div': {
         lineHeight: 1.5,
+      },
+      '>form': {
+        margin: '1rem 0 0 0',
+        '>textarea': {
+          height: '4rem',
+        },
+      },
+      '>button': {
+        margin: '1rem 0 0 0',
       },
     },
   },
