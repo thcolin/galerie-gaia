@@ -22,61 +22,61 @@ exhibitions:
 - title: En permanence à la galerie Lindengruen    www.lindengruen.at
   location: Vienne Autriche
   start: "0"
-  end: 
+  end:
 - title: en permanence à la galerie Ze Art  www.zeartgalerie.com
   location: Dinard
   start: "0"
-  end: 
+  end:
 works:
 - title: Les grands CARR'AIMANTS
   image: "/forestry/les-grands-carraimants.jpg"
   technique: grés sur socle bois
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "."
-  price: 
+    height:
+    width:
+    depth:
+  description: ""
+  price:
   sold: false
 - title: Petit Ange
   image: "/forestry/petit-ange.jpg"
   technique: bronze doré
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Opus
   image: "/forestry/opus.jpg"
   technique: bronze blanc
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: CARR'AIMANT
   image: "/forestry/carraimant.jpg"
   technique: grés sur socle bois
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "."
-  price: 
+    height:
+    width:
+    depth:
+  description: ""
+  price:
   sold: false
 - title: CARR'AIMANT
   image: "/forestry/carraimant.jpg"
   technique: Grés sur socle bois
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "."
-  price: 
+    height:
+    width:
+    depth:
+  description: ""
+  price:
   sold: false
 - title: Hymne à la vie
   image: "/forestry/hymne-a-la-vie.jpg"
@@ -86,27 +86,27 @@ works:
     width: 28
     depth: 18
   description: ''
-  price: 
+  price:
   sold: false
 - title: Carr'aimants
   image: "/forestry/carraimants.jpg"
   technique: grés et bois
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "."
-  price: 
+    height:
+    width:
+    depth:
+  description: ""
+  price:
   sold: false
 - title: Carr'aiment
   image: "/forestry/carraiment.jpg"
   technique: Grès sur socle bois
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: De 150€ à 1800€
-  price: 
+  price:
   sold: false
 
 ---

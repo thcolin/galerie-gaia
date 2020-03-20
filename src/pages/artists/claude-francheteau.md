@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Claude Francheteau
-location: .
+location: ""
 field: Peinture
 birth: 0
 death: 0
@@ -222,4 +222,3 @@ works:
     price: .nan
     sold: false
 ---
-

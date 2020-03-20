@@ -1,9 +1,9 @@
 ---
 template: artist
 title: Laure Carré
-location: "."
-field: peintre
-birth: "1"
+location: ""
+field: Peintre
+birth: "0"
 death: "0"
 expose: true
 biography: "Exposition Galerie Gaïa mars avril 2018.\n\nL'artiste est née en 1968.
@@ -47,19 +47,19 @@ works:
   dimensions:
     height: 80
     width: 80
-    depth: 
+    depth:
   description: 1400€
-  price: 
+  price:
   sold: false
 - title: "637"
   image: "/forestry/637.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Salle d'attente
   image: "/forestry/salle-dattente.jpg"
@@ -67,9 +67,9 @@ works:
   dimensions:
     height: 200
     width: 200
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: La boxeuse amoureuse
   image: "/forestry/la-boxeuse-amoureuse.jpg"
@@ -77,9 +77,9 @@ works:
   dimensions:
     height: 80
     width: 80
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: La nuit la piscine
   image: "/forestry/la-nuit-la-piscine.jpg"
@@ -87,9 +87,9 @@ works:
   dimensions:
     height: 80
     width: 80
-    depth: 
+    depth:
   description: Prix 1400€
-  price: 
+  price:
   sold: false
 - title: To tame
   image: "/forestry/to-tame.jpg"
@@ -97,9 +97,9 @@ works:
   dimensions:
     height: 75
     width: 75
-    depth: 
+    depth:
   description: 1200€
-  price: 
+  price:
   sold: false
 - title: En quittant Phoenix
   image: "/forestry/en-quittant-phoenix.jpg"
@@ -107,9 +107,9 @@ works:
   dimensions:
     height: 50
     width: 50
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Walk in the kingdom (14/18)
   image: "/forestry/walk-in-the-kingdom-1418.jpg"
@@ -117,9 +117,9 @@ works:
   dimensions:
     height: 50
     width: 33
-    depth: 
+    depth:
   description: 200€ Imprimé au musée de l'imprimerie de Nantes en 2017.
-  price: 
+  price:
   sold: false
 - title: Vice Versa (13/14)
   image: "/forestry/vice-versa-1314.jpg"
@@ -127,9 +127,9 @@ works:
   dimensions:
     height: 56
     width: 38
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Rencontre royale (9/10)
   image: "/forestry/rencontre-royale-910.jpg"
@@ -137,9 +137,9 @@ works:
   dimensions:
     height: 50
     width: 33
-    depth: 
+    depth:
   description: 2016 200€
-  price: 
+  price:
   sold: false
 - title: Jeux de quilles (10/14)
   image: "/forestry/jeux-de-quilles-1014.jpg"
@@ -147,9 +147,9 @@ works:
   dimensions:
     height: 38
     width: 56
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Autoportrait (6/16)
   image: "/forestry/autoportrait-616.jpg"
@@ -157,9 +157,9 @@ works:
   dimensions:
     height: 50
     width: 33
-    depth: 
+    depth:
   description: 2017 200€
-  price: 
+  price:
   sold: false
 - title: In the wood for love
   image: "/forestry/in-the-wood-for-love.jpg"
@@ -167,9 +167,9 @@ works:
   dimensions:
     height: 37
     width: 44
-    depth: 
+    depth:
   description: 230€
-  price: 
+  price:
   sold: false
 - title: Native spririt
   image: "/forestry/native-spririt.jpg"
@@ -177,9 +177,9 @@ works:
   dimensions:
     height: 34
     width: 23
-    depth: 
+    depth:
   description: 130€
-  price: 
+  price:
   sold: false
 
 ---

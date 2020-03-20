@@ -2,7 +2,7 @@
 template: artist
 title: Marianne Abergel
 location: Paris
-field: sculpteur
+field: Sculpteur
 birth: "0"
 death: "0"
 expose: true
@@ -48,32 +48,32 @@ works:
   technique: Grès noir et émail
   dimensions:
     height: 30
-    width: 
-    depth: 
+    width:
+    depth:
   description: |-
     624€
     socle vendu séparément
-  price: 
+  price:
   sold: false
 - title: 'Les Chimères : Le lièvre'
   image: "/forestry/les-chimeres-le-lievre.jpg"
   technique: grès blanc et émail
   dimensions:
     height: 30
-    width: 
-    depth: 
+    width:
+    depth:
   description: "640€ \nsocle vendu séparément"
-  price: 
+  price:
   sold: false
 - title: 'les Chimères : Girafe'
   image: "/forestry/les-chimeres-girafe.jpg"
   technique: Porcelaine et or
   dimensions:
     height: 10
-    width: 
-    depth: 
+    width:
+    depth:
   description: 290€
-  price: 
+  price:
   sold: false
 
 ---

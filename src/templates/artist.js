@@ -98,9 +98,9 @@ const Artist = ({ ...props }) => {
         )}
         <div css={Artist.styles.about}>
           <h1>{frontmatter.title}</h1>
-          {!!(parseInt(frontmatter).birth || parseInt(frontmatter).death) && (
+          {!!(parseInt(frontmatter.birth) || parseInt(frontmatter.death)) && (
             <small>
-              ({[parseInt(frontmatter).birth, parseInt(frontmatter).death].filter(year => year).join(' - ')})
+              ({[parseInt(frontmatter.birth), parseInt(frontmatter.death)].filter(year => year).join(' - ')})
             </small>
           )}
           {!!(frontmatter.location || frontmatter.field) && (
@@ -115,13 +115,17 @@ const Artist = ({ ...props }) => {
             <h3>Expositions</h3>
             {frontmatter.exhibitions.map((exhibition, index) => (
               <p css={Artist.styles.exhibition} key={index}>
-                <span>
-                  {[
-                    exhibition.start,
-                    exhibition.end,
-                  ].filter(date => date).join(' - ')}
-                </span>
-                <span> / </span>
+                {!!(parseInt(exhibition.start) || parseInt(exhibition.end)) && (
+                  <>
+                    <span>
+                      {[
+                        parseInt(exhibition.start),
+                        parseInt(exhibition.end),
+                      ].filter(date => date).join(' - ')}
+                    </span>
+                    <span> / </span>
+                  </>
+                )}
                 <strong>{exhibition.location}</strong>
                 <span> / </span>
                 <span>{exhibition.title}</span>
@@ -228,6 +232,9 @@ Artist.styles = {
         display: 'block',
         padding: '0.5em 0',
         color: theme.colors.gray,
+      },
+      '>div': {
+        lineHeight: 1.5,
       },
     },
   },

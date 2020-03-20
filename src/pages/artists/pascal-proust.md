@@ -2,7 +2,7 @@
 template: artist
 title: Pascal Proust
 location: ''
-field: architecte plasticien
+field: Architecte Plasticien
 birth: 0
 death: 0
 expose: true
@@ -45,12 +45,12 @@ biography: >-
   enchaînements du raisonnement logique qui ne souffre aucun écart, aucune
   négligence ou approximation
   ».                                                                                                                                                                     
-                                                                                                              
+
   FORMATION:
             - collaborateur d’architecte de 1976 à 1978.
             -agence d'architecture de 1978 à 1999 à Angers en tant que dessinateur-projeteur-
               compositeur spécialisé dans l’aménagement de théâtres.
-          
+
   PERFECTIONNEMENT:
             -École Supérieure des Beaux-Arts d’Angers 2001-2002 cours de dessin
             -École Supérieure des Beaux-Arts d’Angers 2015-2016-2017 cours de gravure
@@ -122,7 +122,7 @@ biography: >-
   KANNO, Michel JOUET, Bertrand DORNY, Joe DOWNING, Natilia DUMITRESCO, Pierre
   FICHET, Paul JENKINS, John-Franklin KOENIG, Robert MALAVAL, Gérard SCHNEIDER,
   André LANSKOY, Kim en JOONG, Vu TRAN TRONG, Jean BRANCHET, Pavel MANSOUROFF.
-   
+
              Installations d’Art environnemental
   -2017 « The stopover »,550 sculptures au château d’Angers, Centre des
   Monuments Nationaux
@@ -138,7 +138,7 @@ biography: >-
   -2010 « The Stopover », Parc Vojanovy Sady, Prague, REPUBLIQUE TCHÈQUE,
                 en collaboration avec l’Institut Français, installation de 300 sculptures
   -2010 Sola, Lysefjorden, Sandnes, NORVÈGE-installation de 170 sculptures
-   
+
   PROJETS 2019:
             Résidence artiste, NORVEGE, Institut Français, 1-30 septembre 2019
             Edition « Le Catalogue », 40 sculptures- 40 écrivains, courant 2019
@@ -165,4 +165,3 @@ works:
     price: .nan
     sold: false
 ---
-

@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Stephanie Billarant
-location: "."
+location: ""
 field: Peinture / Photo
 birth: "0"
 death: "0"

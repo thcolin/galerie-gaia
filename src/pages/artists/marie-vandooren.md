@@ -2,7 +2,7 @@
 template: artist
 title: Marie Vandooren
 location: ''
-field: peintre
+field: Peintre
 birth: "0"
 death: "0"
 expose: true
@@ -20,9 +20,9 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 
+    depth:
   description: "20 exemplaires \n200€"
-  price: 
+  price:
   sold: false
 - title: Jeux d'enfants 1
   image: "/forestry/jeux-denfants-1.jpg"
@@ -30,7 +30,7 @@ works:
   dimensions:
     height: 34
     width: 27
-    depth: 
+    depth:
   description: 300€
   price: 300
   sold: false
@@ -40,7 +40,7 @@ works:
   dimensions:
     height: 34
     width: 27
-    depth: 
+    depth:
   description: 300€
   price: 300
   sold: false
@@ -50,7 +50,7 @@ works:
   dimensions:
     height: 30
     width: 40
-    depth: 
+    depth:
   description: 300€
   price: 300
   sold: false
@@ -60,9 +60,9 @@ works:
   dimensions:
     height: 30
     width: 40
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: 'Contraste #2'
   image: "/forestry/contraste-2.jpg"
@@ -70,9 +70,9 @@ works:
   dimensions:
     height: 30
     width: 40
-    depth: 
+    depth:
   description: 120€
-  price: 
+  price:
   sold: false
 - title: Sans Titre N°16
   image: "/forestry/sans-titre-ndegree16.jpg"
@@ -82,7 +82,7 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price: 
+  price:
   sold: false
 - title: Sans Titre N°20
   image: "/forestry/sans-titre-ndegree20.jpg"
@@ -92,7 +92,7 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price: 
+  price:
   sold: false
 - title: Sans Titre N°21
   image: "/forestry/sans-titre-ndegree21.jpg"
@@ -102,7 +102,7 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price: 
+  price:
   sold: false
 - title: Sans Titre N°22
   image: "/forestry/sans-titre-ndegree22.jpg"
@@ -112,7 +112,7 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price: 
+  price:
   sold: false
 - title: Sans Titre (7/10)
   image: "/forestry/sans-titre-710.jpg"
@@ -120,11 +120,11 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 
+    depth:
   description: |-
     190€
     2019
-  price: 
+  price:
   sold: false
 - title: Sans Titre (1/5)
   image: "/forestry/sans-titre-15.jpg"
@@ -132,9 +132,9 @@ works:
   dimensions:
     height: 71
     width: 51
-    depth: 
+    depth:
   description: 2019 190€
-  price: 
+  price:
   sold: false
 - title: Sans Titre (1/5)
   image: "/forestry/sans-titre-15.jpg"
@@ -142,9 +142,9 @@ works:
   dimensions:
     height: 71
     width: 51
-    depth: 
+    depth:
   description: 2019 190€
-  price: 
+  price:
   sold: false
 - title: Silo
   image: "/forestry/silo.jpg"
@@ -152,9 +152,9 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 
+    depth:
   description: "Pièce unique \n200€"
-  price: 
+  price:
   sold: false
 - title: Silo 2
   image: "/forestry/silo-2.jpg"
@@ -162,11 +162,11 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 
+    depth:
   description: |-
     Exemplaire unique
     200€
-  price: 
+  price:
   sold: false
 - title: Végétal bleu
   image: "/forestry/vegetal-bleu.jpg"
@@ -174,9 +174,9 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 
+    depth:
   description: "15 exemplaires \n160€"
-  price: 
+  price:
   sold: false
 
 ---

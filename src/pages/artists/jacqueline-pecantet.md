@@ -2,7 +2,7 @@
 template: artist
 title: Jacqueline Pécantet
 location: ''
-field: céramique
+field: Céramique
 birth: 0
 death: 0
 expose: true
@@ -30,4 +30,3 @@ works:
     price: .nan
     sold: false
 ---
-

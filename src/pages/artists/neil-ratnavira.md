@@ -2,7 +2,7 @@
 template: artist
 title: Neil Ratnavira
 location: ''
-field: photographe - peintre
+field: Photographe - Peintre
 birth: "0"
 death: "0"
 expose: true
@@ -33,9 +33,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: tirage en 10 exemplaires
-  price: 
+  price:
   sold: false
 - title: Mad Men - Le Crillon
   image: "/forestry/mad-men-le-crillon.jpg"
@@ -43,9 +43,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: "il reste 3 tirages disponibles \nprix encadrée avec verre musée 480€"
-  price: 
+  price:
   sold: false
 - title: Tate
   image: "/forestry/tate.jpg"
@@ -53,9 +53,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: 300€
-  price: 
+  price:
   sold: false
 - title: Sens interdit
   image: "/forestry/sens-interdit.jpg"
@@ -63,9 +63,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: 300€
-  price: 
+  price:
   sold: false
 - title: Rainbow glass
   image: "/forestry/rainbow-glass.jpg"
@@ -73,9 +73,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: Tirage sur papier fine art
-  price: 
+  price:
   sold: false
 - title: La Tour Anne de Bretagne
   image: "/forestry/la-tour-anne-de-bretagne.jpg"
@@ -83,19 +83,19 @@ works:
   dimensions:
     height: 80
     width: 80
-    depth: 
+    depth:
   description: "contrecollée sur aluminium et caisse US\ntirage unique \nvendu"
-  price: 
+  price:
   sold: false
 - title: Neil Ratnavira
   image: "/forestry/neil-ratnavira.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Amoeba Music - Los Angeles
   image: "/forestry/amoeba-music-los-angeles.jpg"
@@ -103,9 +103,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: "tirage limité à 10 exemplaires \n300€"
-  price: 
+  price:
   sold: false
 - title: A star is born - Los Angeles
   image: "/forestry/a-star-is-born-los-angeles.jpg"
@@ -113,9 +113,9 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: tirage à 10 exemplaires
-  price: 
+  price:
   sold: false
 - title: Caption this - Amsterdam
   image: "/forestry/caption-this-amsterdam.jpg"
@@ -123,19 +123,19 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
+    depth:
   description: Tirage sur papier d'art en 10 exemplaires
-  price: 
+  price:
   sold: false
 - title: "1434"
   image: "/forestry/1434.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: "Pièce unique \n1500€ sans cadre \n1800€ encadrée avec verre anti-reflet"
-  price: 
+  price:
   sold: false
 
 ---

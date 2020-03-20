@@ -2,7 +2,7 @@
 template: artist
 title: Franco Salas Borquez
 location: Franco Chilien
-field: peinture à l'huile
+field: Peinture à l'huile
 birth: "0"
 death: "0"
 expose: true
@@ -29,9 +29,9 @@ works:
   dimensions:
     height: 273
     width: 159
-    depth: 
+    depth:
   description: "-"
-  price: 
+  price:
   sold: false
 - title: le chaos et l'ordre
   image: "/forestry/le-chaos-et-lordre.jpg"
@@ -39,9 +39,9 @@ works:
   dimensions:
     height: 182
     width: 260
-    depth: 
+    depth:
   description: "-"
-  price: 
+  price:
   sold: false
 - title: la flame et l'horizon
   image: "/forestry/la-flame-et-lhorizon.jpg"
@@ -49,9 +49,9 @@ works:
   dimensions:
     height: 200
     width: 190
-    depth: 
+    depth:
   description: "-"
-  price: 
+  price:
   sold: false
 - title: le profond
   image: "/forestry/le-profond.jpg"
@@ -59,9 +59,9 @@ works:
   dimensions:
     height: 190
     width: 200
-    depth: 
+    depth:
   description: "-"
-  price: 
+  price:
   sold: false
 - title: la furie
   image: "/forestry/la-furie.jpg"
@@ -69,9 +69,9 @@ works:
   dimensions:
     height: 312
     width: 166
-    depth: 
+    depth:
   description: "-"
-  price: 
+  price:
   sold: false
 
 ---

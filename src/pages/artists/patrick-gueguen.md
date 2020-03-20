@@ -2,7 +2,7 @@
 template: artist
 title: Patrick Guéguen
 location: ''
-field: peintre
+field: Peintre
 birth: 0
 death: 0
 expose: true
@@ -100,4 +100,3 @@ works:
     price: .nan
     sold: false
 ---
-

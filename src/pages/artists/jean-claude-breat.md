@@ -2,7 +2,7 @@
 template: artist
 title: Jean Claude Bréat
 location: France
-field: peintre
+field: Peintre
 birth: "0"
 death: "0"
 expose: true
@@ -37,9 +37,9 @@ works:
   dimensions:
     height: 120
     width: 150
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: 1=+
   image: "/forestry/1.jpg"
@@ -47,19 +47,19 @@ works:
   dimensions:
     height: 180
     width: 200
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: EXPO KERAN
   image: "/forestry/expo-keran.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: TIBET
   image: "/forestry/tibet.jpg"
@@ -67,9 +67,9 @@ works:
   dimensions:
     height: 150
     width: 150
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: TOTEM
   image: "/forestry/totem.jpg"
@@ -77,9 +77,9 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: TARTRUFFE & COCHON QUI RIT
   image: "/forestry/tartruffe-and-cochon-qui-rit.jpg"
@@ -87,19 +87,19 @@ works:
   dimensions:
     height: 50
     width: 50
-    depth: 
+    depth:
   description: PRIX SUR DEMANDE
-  price: 
+  price:
   sold: false
 - title: ATELIER
   image: "/forestry/atelier.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: T MAX
   image: "/forestry/t-max.jpg"
@@ -107,9 +107,9 @@ works:
   dimensions:
     height: 200
     width: 200
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 
 ---

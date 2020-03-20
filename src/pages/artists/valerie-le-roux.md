@@ -2,7 +2,7 @@
 template: artist
 title: Valérie Le Roux
 location: ''
-field: plasticienne
+field: Plasticienne
 birth: "0"
 death: "0"
 expose: true
@@ -23,10 +23,10 @@ works:
   technique: céramique pièce unique
   dimensions:
     height: 26
-    width: 
-    depth: 
+    width:
+    depth:
   description: 980€ pièce unique cabochon amovible
-  price: 
+  price:
   sold: false
 - title: Poisson russe
   image: "/forestry/ia.jpg"
@@ -34,7 +34,7 @@ works:
   dimensions:
     height: 92
     width: 65
-    depth: 
+    depth:
   description: ''
   price: 80
   sold: false
@@ -43,100 +43,100 @@ works:
   technique: Sérigraphie
   dimensions:
     height: 65
-    width: 
-    depth: 
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Bouteille
   image: "/forestry/bouteille.jpg"
   technique: Céramique
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: 88€
-  price: 
+  price:
   sold: false
 - title: Grande coupe
   image: "/forestry/grande-coupe.jpg"
   technique: Céramique
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: 130€
-  price: 
+  price:
   sold: false
 - title: "862"
   image: "/forestry/862.jpg"
   technique: Sérigraphie
   dimensions:
     height: 65
-    width: 
-    depth: 
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: "864"
   image: "/forestry/864.jpg"
   technique: Sérigraphie
   dimensions:
     height: 65
-    width: 
-    depth: 
+    width:
+    depth:
   description: 80€
-  price: 
+  price:
   sold: false
 - title: "866"
   image: "/forestry/866.jpg"
   technique: Sérigraphie
   dimensions:
     height: 65
-    width: 
-    depth: 
+    width:
+    depth:
   description: 80€
-  price: 
+  price:
   sold: false
 - title: "865"
   image: "/forestry/865.jpg"
   technique: Sérigraphie
   dimensions:
     height: 65
-    width: 
-    depth: 
+    width:
+    depth:
   description: 80€
-  price: 
+  price:
   sold: false
 - title: Feuille bleue
   image: "/forestry/feuille-bleue.jpg"
   technique: Sérigraphie /50
   dimensions:
     height: 65
-    width: 
-    depth: 
+    width:
+    depth:
   description: 80€
-  price: 
+  price:
   sold: false
 - title: Corail bleu
   image: "/forestry/corail-bleu.jpg"
   technique: Sérigraphie  12/50
   dimensions:
     height: 92
-    width: 
-    depth: 
+    width:
+    depth:
   description: 80€
-  price: 
+  price:
   sold: false
 - title: Végétal jaune
   image: "/forestry/vegetal-jaune.jpg"
   technique: Sérigraphie 14/50
   dimensions:
     height: 92
-    width: 
-    depth: 
+    width:
+    depth:
   description: "2019"
-  price: 
+  price:
   sold: false
 
 ---

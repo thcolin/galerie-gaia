@@ -2,7 +2,7 @@
 template: artist
 title: Combas
 location: ''
-field: peinture
+field: Peinture
 birth: 0
 death: 0
 expose: true
@@ -47,4 +47,3 @@ works:
     price: .nan
     sold: false
 ---
-

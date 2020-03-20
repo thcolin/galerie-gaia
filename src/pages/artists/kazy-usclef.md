@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Kazy Usclef
-location: "."
+location: ""
 field: Graffeur
 birth: "0"
 death: "0"
@@ -14,14 +14,14 @@ biography: |-
 
   Le travail de Kazy Usclef pourrait se définir par une recherche constante de rencontre, technique, humaine, culturelle où le frottement alimente de manière constante sa recherche artistique. C'est par cette recherche qu'il alimente une variété de langage dans un souci d' accessibilité par le plus grand nombre. Ses productions sont les plus fréquemment nourries de voyages et référencées à la rue, source d'inspiration infinie considérée comme une galerie à ciel ouvert et un parfait terrain d'expérimentation.
 exhibitions:
-- title: ASIE RIDERZ Voyage à Nantes 2015
-  location: http://asieriderz.com/?p=940&lang=fr
+- title: http://asieriderz.com/?p=940
+  location: ASIE RIDERZ Voyage à Nantes 2015
   start: "0"
-  end: 
+  end:
 - title: Direction artistique et exposition collective LA VILLA OCCUPADA
-  location: Le Voyage ? Nantes 2014
+  location: Le Voyage à Nantes 2014
   start: "0"
-  end: 
+  end:
 works:
 - title: Double
   image: "/forestry/double.jpg"
@@ -29,21 +29,21 @@ works:
   dimensions:
     height: 94
     width: 100
-    depth: 
+    depth:
   description: 1900 € avec caisse américaine noire
-  price: 
+  price:
   sold: false
 - title: MASQUE
   image: "/forestry/masque.jpg"
   technique: mixte sur bois
   dimensions:
     height: 2
-    width: 
-    depth: 
+    width:
+    depth:
   description: |-
     oeuvre éphémère sauvée de la destruction voilà son histoire fantastique si vous voulez l'acquérir c'est pour poursuivre cette incroyable histoire. Masque visible sur Nantes.
     Prix 12 000€ - vendu
-  price: 
+  price:
   sold: false
 - title: Fresque pour la Galerie Gaïa
   image: "/forestry/fresque-pour-la-galerie-gaia.jpg"
@@ -51,11 +51,11 @@ works:
   dimensions:
     height: 300
     width: 300
-    depth: 
+    depth:
   description: |-
     Réalisation pour la 1ere  Nuit des Galeries dans le cadre de l'exposition La Chambre 21
     Nous pouvons étudier un projet pour vous sur un mur privé, dans un hall d'entreprise, ou sur toile. Prix selon le projet
-  price: 
+  price:
   sold: false
 - title: Double Trouble
   image: "/forestry/double-trouble.jpg"
@@ -63,12 +63,12 @@ works:
   dimensions:
     height: 69
     width: 114
-    depth: 
+    depth:
   description: |-
     2017
     580 € encadrée baguette aluminium et verre musée
     épuisé
-  price: 
+  price:
   sold: false
 - title: Routine 2
   image: "/forestry/routine-2.jpg"
@@ -76,11 +76,11 @@ works:
   dimensions:
     height: 97
     width: 192
-    depth: 
+    depth:
   description: |-
     2017
     vendu
-  price: 
+  price:
   sold: false
 - title: Routine 3
   image: "/forestry/routine-3.jpg"
@@ -88,12 +88,12 @@ works:
   dimensions:
     height: 97
     width: 162
-    depth: 
+    depth:
   description: |-
     2017
 
     3 000 €
-  price: 
+  price:
   sold: false
 - title: Double Trouble
   image: "/forestry/double-trouble.jpg"
@@ -101,9 +101,9 @@ works:
   dimensions:
     height: 69
     width: 114
-    depth: 
+    depth:
   description: "2017 \n580 € encadrée : baguette aluminium et verre musée"
-  price: 
+  price:
   sold: false
 - title: Le Minotaure
   image: "/forestry/le-minotaure.jpg"
@@ -111,9 +111,9 @@ works:
   dimensions:
     height: 130
     width: 162
-    depth: 
+    depth:
   description: 3000 €
-  price: 
+  price:
   sold: false
 
 ---

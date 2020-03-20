@@ -2,7 +2,7 @@
 template: artist
 title: Renaud Allirand
 location: Paris
-field: Graveur, peintre
+field: Graveur / Peintre
 birth: "0"
 death: "0"
 expose: true
@@ -68,12 +68,12 @@ works:
   dimensions:
     height: 65
     width: 50
-    depth: 
+    depth:
   description: |-
     5/8
     2010
     400 €
-  price: 
+  price:
   sold: false
 - title: 3 juillet
   image: "/forestry/3-juillet.jpg"
@@ -81,9 +81,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: "3/6 \n2009 \n450 €"
-  price: 
+  price:
   sold: false
 - title: 12 Mai
   image: "/forestry/12-mai.jpg"
@@ -91,9 +91,9 @@ works:
   dimensions:
     height: 56
     width: 76
-    depth: 
+    depth:
   description: "20/40\n2010 \n500 €"
-  price: 
+  price:
   sold: false
 - title: VI
   image: "/forestry/vi.jpg"
@@ -101,9 +101,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: "E.A 2/5 \n2015\n450€"
-  price: 
+  price:
   sold: false
 - title: XXVII
   image: "/forestry/xxvii.jpg"
@@ -111,11 +111,11 @@ works:
   dimensions:
     height: 65
     width: 50
-    depth: 
+    depth:
   description: |-
     4/5
     350 €
-  price: 
+  price:
   sold: false
 
 ---

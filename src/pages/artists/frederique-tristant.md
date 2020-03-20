@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Frédérique Tristant
-location: "."
+location: ""
 field: Peintre plasticienne
 birth: "0"
 death: "0"
@@ -45,9 +45,9 @@ works:
   dimensions:
     height: 112
     width: 112
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 - title: A quoi penses-tu
   image: "/forestry/a-quoi-penses-tu.jpg"
@@ -55,9 +55,9 @@ works:
   dimensions:
     height: 83
     width: 110
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 - title: Bouche bleue
   image: "/forestry/bouche-bleue.jpg"
@@ -65,9 +65,9 @@ works:
   dimensions:
     height: 83
     width: 110
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 - title: Couvre lit
   image: "/forestry/couvre-lit.jpg"
@@ -75,9 +75,9 @@ works:
   dimensions:
     height: 58
     width: 64
-    depth: 
+    depth:
   description: 700€
-  price: 
+  price:
   sold: false
 - title: La pianiste
   image: "/forestry/la-pianiste.jpg"
@@ -85,9 +85,9 @@ works:
   dimensions:
     height: 83
     width: 112
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 - title: Lune Rouge
   image: "/forestry/lune-rouge.jpg"
@@ -95,9 +95,9 @@ works:
   dimensions:
     height: 82
     width: 113
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 - title: Se reposer seulement
   image: "/forestry/se-reposer-seulement.jpg"
@@ -105,9 +105,9 @@ works:
   dimensions:
     height: 84
     width: 110
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 - title: Stendhal
   image: "/forestry/stendhal.jpg"
@@ -115,9 +115,9 @@ works:
   dimensions:
     height: 77
     width: 118
-    depth: 
+    depth:
   description: 1300€
-  price: 
+  price:
   sold: false
 
 ---

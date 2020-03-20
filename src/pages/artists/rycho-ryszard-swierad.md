@@ -2,7 +2,7 @@
 template: artist
 title: Rycho Ryszard Swierad
 location: Pologne
-field: peintre-photographe
+field: Peintre / Photographe
 birth: 0
 death: 0
 expose: true
@@ -183,7 +183,7 @@ works:
       width: 70
       depth: null
     description: |-
-      tirage sur papier 
+      tirage sur papier
       700 €
     price: .nan
     sold: false
@@ -200,4 +200,3 @@ works:
     price: .nan
     sold: false
 ---
-

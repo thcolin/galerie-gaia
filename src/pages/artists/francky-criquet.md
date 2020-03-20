@@ -2,7 +2,7 @@
 template: artist
 title: Francky Criquet
 location: ''
-field: peinture
+field: Peinture
 birth: "0"
 death: "0"
 expose: true
@@ -22,11 +22,11 @@ works:
   image: "/forestry/618.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: La tendresse
   image: "/forestry/la-tendresse.jpg"
@@ -34,9 +34,9 @@ works:
   dimensions:
     height: 67
     width: 81
-    depth: 
+    depth:
   description: 2000 euros
-  price: 
+  price:
   sold: false
 - title: L'écoute de la seconde éternelle
   image: "/forestry/lecoute-de-la-seconde-eternelle.jpg"
@@ -44,9 +44,9 @@ works:
   dimensions:
     height: 106
     width: 156
-    depth: 
+    depth:
   description: 3000 euros
-  price: 
+  price:
   sold: false
 - title: Les chevaux de passage
   image: "/forestry/les-chevaux-de-passage.jpg"
@@ -54,59 +54,59 @@ works:
   dimensions:
     height: 75
     width: 174
-    depth: 
+    depth:
   description: "Diptyque \n\n2500 euros"
-  price: 
+  price:
   sold: false
 - title: "547"
   image: "/forestry/547.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: "616"
   image: "/forestry/616.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: 3000 €
-  price: 
+  price:
   sold: false
 - title: "617"
   image: "/forestry/617.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: "620"
   image: "/forestry/620.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
-- title: "."
+- title: ""
   image: "/forestry/lg.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height:
+    width:
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 - title: Diptyque performance du vernissage
   image: "/forestry/diptyque-performance-du-vernissage.jpg"
@@ -114,9 +114,9 @@ works:
   dimensions:
     height: 250
     width: 160
-    depth: 
+    depth:
   description: ''
-  price: 
+  price:
   sold: false
 
 ---

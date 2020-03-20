@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Pierre Muckensturm
-location: "."
+location: ""
 field: Peintre et Graveur
 birth: "0"
 death: "0"
@@ -51,9 +51,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: 2019 / 600€
-  price: 
+  price:
   sold: false
 - title: 14p1r1 - 14p1r2 - 14p1r3
   image: "/forestry/14p1r1-14p1r2-14p1r3.jpg"
@@ -61,10 +61,10 @@ works:
   dimensions:
     height: 47
     width: 38
-    depth: 
+    depth:
   description: "Installation en triptyque \n\n14p1r1 (8/11)\n14p1r2 (8/11)\n14p1r3
     (8/11)"
-  price: 
+  price:
   sold: false
 - title: 14p1r1 (8/11)
   image: "/forestry/14p1r1-811.jpg"
@@ -72,9 +72,9 @@ works:
   dimensions:
     height: 47
     width: 38
-    depth: 
+    depth:
   description: 2014 / 350€
-  price: 
+  price:
   sold: false
 - title: 14p1r2 (8/11)
   image: "/forestry/14p1r2-811.jpg"
@@ -82,9 +82,9 @@ works:
   dimensions:
     height: 47
     width: 38
-    depth: 
+    depth:
   description: 2014 / 350€
-  price: 
+  price:
   sold: false
 - title: 14p1r3 (8/11)
   image: "/forestry/14p1r3-811.jpg"
@@ -92,9 +92,9 @@ works:
   dimensions:
     height: 47
     width: 38
-    depth: 
+    depth:
   description: 2014 / 350€
-  price: 
+  price:
   sold: false
 - title: 14c3-1 (9/11)
   image: "/forestry/14c3-1-911.jpg"
@@ -102,9 +102,9 @@ works:
   dimensions:
     height: 50
     width: 50
-    depth: 
+    depth:
   description: 2014 / 400€
-  price: 
+  price:
   sold: false
 - title: 184J210811 (4/7)
   image: "/forestry/184j210811-47.jpg"
@@ -112,9 +112,9 @@ works:
   dimensions:
     height: 75
     width: 56
-    depth: 
+    depth:
   description: 2018 / 600€
-  price: 
+  price:
   sold: false
 - title: 184J210831 (4/11)
   image: "/forestry/184j210831-411.jpg"
@@ -122,9 +122,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: 2018 / 600€
-  price: 
+  price:
   sold: false
 - title: 184J210821 (6/11)
   image: "/forestry/184j210821-611.jpg"
@@ -132,9 +132,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: 2018 / 600€
-  price: 
+  price:
   sold: false
 - title: 13R8-1 (9/11)
   image: "/forestry/13r8-1-911.jpg"
@@ -142,9 +142,9 @@ works:
   dimensions:
     height: 65
     width: 50
-    depth: 
+    depth:
   description: 2013 / 350€
-  price: 
+  price:
   sold: false
 - title: 162R220613 (4/11)
   image: "/forestry/162r220613-411.jpg"
@@ -152,9 +152,9 @@ works:
   dimensions:
     height: 66
     width: 50
-    depth: 
+    depth:
   description: 2016 / 400€
-  price: 
+  price:
   sold: false
 - title: 172J230921 (6/11)
   image: "/forestry/172j230921-611.jpg"
@@ -162,9 +162,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: 2017 / 600€
-  price: 
+  price:
   sold: false
 - title: 172J230922 (6/11)
   image: "/forestry/172j230922-611.jpg"
@@ -172,9 +172,9 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth: 
+    depth:
   description: 2017 / 600€
-  price: 
+  price:
   sold: false
 - title: 186s19111 (9/25)
   image: "/forestry/186s19111-925.jpg"
@@ -182,9 +182,9 @@ works:
   dimensions:
     height: 25
     width: 19
-    depth: 
+    depth:
   description: 2018 / 200€
-  price: 
+  price:
   sold: false
 - title: 186s19112 (9/25)
   image: "/forestry/186s19112-925.jpg"
@@ -192,9 +192,9 @@ works:
   dimensions:
     height: 25
     width: 19
-    depth: 
+    depth:
   description: 2018  / 200€
-  price: 
+  price:
   sold: false
 - title: 186s19113 (9/25)
   image: "/forestry/186s19113-925.jpg"
@@ -202,9 +202,9 @@ works:
   dimensions:
     height: 25
     width: 19
-    depth: 
+    depth:
   description: 2018 / 200€
-  price: 
+  price:
   sold: false
 - title: 199p22051 (A+B)
   image: "/forestry/199p22051-ab.jpg"
@@ -214,7 +214,7 @@ works:
     width: 41
     depth: 83
   description: 2019 / 2750€
-  price: 
+  price:
   sold: false
 
 ---
