@@ -9,13 +9,25 @@ fields:
   label: Title
   description: Titre
   default: Artistes
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '200'
+  label: Description
+  description: Description
 - name: template
   type: text
   config:
     required: false
-  label: template
+  label: Template
   hidden: true
   default: artists
+  description: Template
 - name: artists
   type: field_group_list
   fields:
