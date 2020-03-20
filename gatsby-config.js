@@ -2,6 +2,7 @@ module.exports = {
   pathPrefix: '/galerie-gaia',
   siteMetadata: require('./site-metadata.json'),
   plugins: [
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-resolve-src',
     'gatsby-plugin-react-helmet',
     'gatsby-source-data',
