@@ -47,6 +47,14 @@ exhibitions:
   start: 'reporté '
   location: Galerie Gaia
 works:
+- title: Drawing trash color 2020031202
+  image: "/forestry/galeriegaia@tomaL-2020031202-drawingtrashcolor-102x70cm.jpg"
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 100
+    width: 70
+  description: 'cadre blanc sous verre '
+  price: 3500
 - title: Drawing trash color 2020031201
   image: "/forestry/galeriegaia@tomaL-2020031201-drawingtrashcolor-102x70cm 2.jpg"
   technique: Technique mixte sur papier
@@ -86,7 +94,7 @@ works:
     height: 50
     width: 40
   description: Cadre en chêne et verre musée
-  price: 1600
+  price: 5200
 - title: Little simple brut 202031101
   image: "/forestry/galeriegaia@tomaL-2020031101-LITTLECOLOR-40x30cm.jpg"
   technique: Couture et Technique mixte sur papier
@@ -109,7 +117,7 @@ works:
   dimensions:
     height: 182
     width: 121
-  description: caisse américaine chêne
+  description: Caisse américaine noire
   price: 6700
 - title: Graphite & Color 2019011401
   image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
@@ -123,7 +131,7 @@ works:
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
   description: Caisse américaine noire
   price: 3500
-  technique: 'Technique mixte sur papier marouflé sur bois '
+  technique: Technique mixte sur papier
   dimensions:
     height: 109
     width: 79
@@ -134,12 +142,13 @@ works:
   price: 3500
 - title: Black and simple color 2018091805
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
-  technique: Technique mixte sur papier
+  technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
-    height: 108
-    width: 78
-  description: caisse américaine chêne
+    height: 109
+    width: 79
+  description: 'caisse américaine noire '
   price: 3500
+  sold: false
 - title: Black and simple color 2018091803
   image: "/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
@@ -147,7 +156,7 @@ works:
     height: 108
     width: 78
   description: caisse américaine chêne
-  price: 3500
+  price: 
 - title: Black and simple color 2018091802
   image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -165,6 +174,7 @@ works:
     width: 121
   description: caisse américaine noire
   price: 
+  sold: false
 - title: Red side of the man
   image: "/forestry/galeriegaia@tomaL-2018031701-Redsideohtheman-160x121cm-ES.jpg"
   technique: technique mixte sur toile en lin
@@ -275,12 +285,12 @@ works:
   sold: false
 - title: Stone Age (02)
   image: "/forestry/stone-age-02.jpg"
-  technique: Lithographie
+  technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 66
-    width: 51
+    width: 95
     depth: 
-  description: 2017 / 400€
+  description: 2017 /  400€
   price: 
   sold: false
 - title: Stone Age (12)
