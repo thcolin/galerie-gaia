@@ -15,6 +15,16 @@ biography: Artiste français, Dimitri Bourriau "Jahz Design", est graphiste de f
   devient ambassadeur d'Irix, marque d'objectif ultra grand-angle d’origine Suisse.
 exhibitions: []
 works:
+- title: Atlantis Teatro
+  image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
+  technique: Tirage Argentique, contrecollé sur Dibond
+  dimensions:
+    height: 100
+    width: 150
+    depth: 
+  description: "Tirage à 15 exemplaires   \nprix sur demande "
+  price: 
+  sold: false
 - title: Greenhouse 3
   image: "/forestry/greenhouse-3.jpg"
   technique: Tirage papier contrecollé dibon
