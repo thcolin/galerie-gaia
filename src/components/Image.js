@@ -16,7 +16,7 @@ const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
         {...props}
         ref={ref}
         css={Image.styles.image}
-        src={withPrefix(`${min ? src.replace(/^\/forestry/, '/cdn') : src}`)}
+        src={withPrefix(`${min ? src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, match => match.toLowerCase()) : src}`)}
         alt={alt}
         onLoad={() => setReady(true)}
         onError={() => setReady(true)}
