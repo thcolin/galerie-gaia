@@ -196,7 +196,7 @@ works:
   price: 
   sold: false
 - title: Simple black 2012111101
-  image: "/forestry/simple-black.jpg"
+  image: "/forestry/galeriegaia@tomaL-2012130102-drawingblack-72x70cm.jpg"
   technique: Techn. mixte sur papier, caisse américaine chêne
   dimensions:
     height: 70
