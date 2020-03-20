@@ -126,7 +126,7 @@ tabs:
       où la bonne humeur est de mise \n\nDomaine Bretaudeau : si la cuvée Gaïa est
       en rupture de stock je n'y suis pour rien !"
   - column: |-
-      Merci pour la confiance accordée pour des projets riche en émotion
+      Merci pour la confiance accordée par ces sociétés qui me confient des projets riches en défi et émotion
 
       ![](/forestry/keran.jpg)
 
