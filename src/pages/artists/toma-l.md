@@ -141,7 +141,7 @@ works:
   description: caisse américaine chêne
   price: 3500
 - title: Black and simple color 2018091802
-  image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie.jpg"
+  image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 109
