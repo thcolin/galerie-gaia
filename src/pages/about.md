@@ -11,31 +11,27 @@ tabs:
       en mode projet et en amont avec les architectes.  \n  \nCi-dessous l'oeuvre
       \"Le masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en
       2020.\n\n![](/forestry/masque.jpg)"
-- title: 'Location '
+- title: Location Leasing
   content:
-  - column: |-
-      ##### L'Art de vivre au travail
-
-      Dans des bureaux nouvelles générations, la tendance de fond va bien au-delà d'un mobilier design. La RSE, la marque employeur, le bien être au travail pour améliorer la créativité et l'esprit coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural. Concrètement la mise en place d'oeuvres d'artistes dans l'espace de travail flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et attirer des talents.
-
-      ![](/forestry/galeriegaia@edwinwide-omr.jpg)
-
-      J'ai retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.
-
-      [Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf "Gazette drouot juin 2017.pdf")
-
-      ##### Exemple :
-
-      * pour une oeuvre de 3500€
-      * location 24 mois
-      * loyer mensuel terme à échoir *  193€ HT
-      * économies d'impôts générées 1296€ HT
-      * coût global hors économies de charges sociales, IR... 3332€ HT
-        * Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %
-
-      [http://bail-art.com/le-leasing/](http://bail-art.com/le-leasing/ "Faire une simulation")
-
-      ![](/forestry/BAILART•Logo HD.jpg)
+  - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
+      la tendance de fond va bien au-delà d'un mobilier design.   \nLa RSE, la marque
+      employeur, le bien être au travail pour améliorer la créativité et l'esprit
+      coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural.
+      \  \nConcrètement la mise en place d'oeuvres d'artistes dans l'espace de travail
+      flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité
+      de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et
+      attirer des talents.\n\n![](/forestry/galeriegaia@edwinwide-omr.jpg)\n\nJ'ai
+      retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres
+      d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing
+      d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier
+      d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.\n\n[Gazette
+      Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf
+      \"Article Gazette drouot \")\n\n##### Exemple :\n\n* pour une oeuvre de 3500€\n*
+      location 24 mois\n* loyer mensuel terme à échoir *  193€ HT\n* économies d'impôts
+      générées 1296€ HT\n* coût global hors économies de charges sociales, IR... 3332€
+      HT\n  * Les loyers sont une charge déductible et génèrent une économie d'IS
+      estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/ \"Faire
+      une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
 - title: Défiscalisation
   content:
   - column: "##### Défiscalisation\n\nL’art sur le lieu de travail peut apporter de
