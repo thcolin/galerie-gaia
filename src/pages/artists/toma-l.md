@@ -7,7 +7,7 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
-  Catalogue Exposition Toma L "Il peint sur Nantes"
+  [Télécharger le Catalogue Exposition Toma L "Il peint sur Nantes"](https://galeriegaia.fr:forestry/TomaL-recapdesoeuvres-18mars2020-GalerieGaia.pdf "Catalogue Toma L")
 
   L’artiste est né en 1975.
 
