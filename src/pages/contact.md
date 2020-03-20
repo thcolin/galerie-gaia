@@ -29,5 +29,13 @@ description: "La **Galerie Gaïa** prolonge l’esprit d’un lieu créé en 197
 title: La Galerie
 about: "Un besoin d’information,  \nConnaître les actualités de la galerie,  \nEnvie
   d’être invité aux prochains vernissages ?"
+seo:
+  title: Contact
+  type: website
+  description: |-
+    Un besoin d’information,
+    Connaître les actualités de la galerie,
+    Envie d’être invité aux prochains vernissages ?
+  image: "/forestry/seo-contact.jpg"
 
 ---
