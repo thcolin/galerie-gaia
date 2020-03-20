@@ -8,6 +8,17 @@ fields:
     required: true
   label: Title
   description: Titre
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '200'
+  label: Description
+  description: Description
 - name: exhibitions
   type: blocks
   label: Exhibitions

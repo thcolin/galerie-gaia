@@ -505,5 +505,7 @@ exhibitions:
 
     _Du 04/09/2015 au 05/17/2015_
 title: Expositions
+description: La Galerie vous accueil chaque jour du Jeudi au Samedi, de 11h à 19h
+  pour découvrir de nouvelles oeuvres
 
 ---
