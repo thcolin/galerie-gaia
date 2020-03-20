@@ -53,7 +53,7 @@ works:
   description: 
   price: 
   sold: false
-- title: Sans titre
+- title: Icare II
   image: "/forestry/1436.jpg"
   technique: Mixte sur toile
   dimensions:
