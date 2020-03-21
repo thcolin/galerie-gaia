@@ -48,27 +48,49 @@ biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\
   Lyon 3 nov - 10 oct\n\n2015\n\nArt up Lille grand Palais | Salon d’art | Galerie
   Saltiel.  \nPaper Love | 15 avril au 10 mai 2015 Exposition en solo show à la Galerie
   W | Paris.  \n8ème Avenue | Salon d’art | Galerie Saltiel.\n\n2014\n\nExposition
-  Galerie W - Paris, Juin et Novembre 2014.\n\nExposition \"Pré-Figure\" à la Galerie
+  Galerie W - Paris, Juin et Novembre 2014.  \nExposition \"Pré-Figure\" à la Galerie
   d'art contemporain de la ville de Chinon \"Indre et loire\", du 19 avril au 1er
   juin 2014. – Un assemblage, un jeu de bois géant, un volume qui joue sur la perspective
   et la perception des \"visages\". L'évolution, le parcours dans la galerie créent
   des points de vue, des regards différents sur le noir, et sur la couleur qui se
-  dévoilent ou se dissimulent.\n\nÉdition d'un jeu de carte accompagnant l'exposition
-  Pré-Figure. Mise en page, studio 2point2.  Auto édition soutenue par On Off Galerie.\n\nExposition
-  Galerie Saltiel, Aix en Provence. Avril 2014\n\n2013\n\nLe Chorégraphe Jean-Charles
-  GIL invite le peintre à explorer la nouvelle d’Olivier Sacks -La femme désincarnée-
-  tirée du livre « L’homme qui prenait sa femme pour un chapeau ». Cette rencontre
-  donnera lieu à la performance intitulée «Désincarné».\nSpectacle dans le cadre d’août
-  en danse, Projet Marseille Provence 2013.\n\nÀ l’occasion de la résidence initiée
-  par le chorégraphe, Toma-L invite le photographe Jérémy Herman et le vidéaste Paul
-  Chabot à le rejoindre dans l’univers des corps en mouvement. Cette collaboration
+  dévoilent ou se dissimulent.  \nÉdition d'un jeu de carte accompagnant l'exposition
+  Pré-Figure. Mise en page, studio 2point2.  Auto édition soutenue par On Off Galerie.
+  \ \nExposition Galerie Saltiel, Aix en Provence. Avril 2014\n\n**2013**\n\nLe Chorégraphe
+  Jean-Charles GIL invite le peintre à explorer la nouvelle d’Olivier Sacks -La femme
+  désincarnée- tirée du livre « L’homme qui prenait sa femme pour un chapeau ». Cette
+  rencontre donnera lieu à la performance intitulée «Désincarné». Spectacle dans le
+  cadre d’août en danse, Projet Marseille Provence 2013.\n\nÀ l’occasion de la résidence
+  initiée par le chorégraphe, Toma-L invite le photographe Jérémy Herman et le vidéaste
+  Paul Chabot à le rejoindre dans l’univers des corps en mouvement. Cette collaboration
   donnera lieu à une exposition présentée sur le site des représentations. Jérémy
   et Thomas donnent naissance à la serie des «Yôkailleux», photographies confrontées
-  aux peintures et éléménts du spectacle «Désincarné».\n\nLe catalogue «Sans Titre»
-  témoignage de la résidence au Ballet d’Europe. Mise en page, studio 2point2.  Auto
-  édition coproduite par Thomas Labarthe et Sébastien Fritsch.\n\nRécompense pour
-  le projet d'édition Vas-y : 3ème place dans la catégorie maitresse Book Publishing
-  - Hardack. Prix décerné par Fedrigoni lors des Top Awards 2013."
+  aux peintures et éléménts du spectacle «Désincarné».\n\nLe catalogue «_Sans Titre_»
+  témoignage de la résidence au Ballet d’Europe. Mise en page, studio _2point2._ Une
+  auto édition coproduite par Thomas Labarthe et Sébastien Fritsch.\n\n**2012**\n\nInstallation
+  et projection | Gaîté Lyrique, Paris  \nRéalisation du décor pour un video clip
+  | Groupe de musique Ni | Macon.  \nInstallation et exposition | Halle Saint-Pierre,
+  Paris  \nInstallation et exposition | New Hotel of Marseille, Marseille  \nExposition
+  de dessins et signature | Librairie Mazarine, Paris  \nPrésentation du projet Vas-y
+  | Salon du livre, Paris  \nExposition de dessins et installation | L’Index, Nantes\n\n**2011**\n\nMarseille,
+  février et mars 2011. Le peintre, épaulé d’une équipe d’auteur, designer graphique,
+  photographe et vidéaste s’immergent dans une galerie-atelier pour donner naissance
+  à une matière nouvelle, entièrement destinée à l’édition. Le projet, baptisé _Vas-y_
+  est envisagé comme un huis-clos créatif. Auto édition coproduite par Thomas Labarthe
+  et Sébastien Fritsch.\n\n**2009**\n\nCourant 2009, la rencontre avec son agent Sébastien
+  Fritsch donne lieu à une série d’expositions et de nombreux projets créatifs dans
+  le sud de la France.Engagé dans son élan artistique, Thomas Labarthe sait aussi
+  engager les autres. Aujourd’hui, vidéaste, photographe, auteur, graphiste et scénographe
+  mutualisent leurs savoir-faire autour du peintre.\n\n**2008**\n\nIl est exposé en
+  France par la Galerie Id‑Art (Paris, 3e) et se rend à deux reprises à New-York,
+  pour des résidences.\n\n**2006**\n\nIl présente Figures Libres au Centre Altercultura
+  à Barcelone. Initialement exutoire, sa création se structure de plus en plus. Thomas
+  Labarthe trouve ses formats, commence à définir ses masses, ses formes et ses couleurs.
+  Riche et féconde, son expérience de vie en Espagne le lie aux chromies du sud. À
+  voir son travail, beaucoup invoquent d’ailleurs Joan Miró. D’autres citent Dubuffet
+  ou Basquiat. Thomas, lui, peint à l’estomac, au cœur.\n\n**2001**\n\nThomas Labarthe
+  découvre **Jean Dubuffet au Centre Pompidou**. Une rétrospective qui constitue pour
+  lui un « véritable électrochoc ». 3 mois plus tard, il peint Mala bestia, sa première
+  toile. Le temps des expositions suivra : Paris, Carhaix, Nantes ou Tours."
 exhibitions:
 - title: 'Il peint sur Nantes '
   start: 'reporté '
