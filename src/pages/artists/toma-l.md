@@ -369,25 +369,25 @@ works:
   description: 2017 / 400€
   price: 
   sold: false
-- title: Stone Age (16)
+- title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
   technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 150
     width: 95
     depth: 
-  description: 2017 /  400€
-  price: 
+  description: "3017160202"
+  price: 400
   sold: false
-- title: Stone Age (09)
+- title: Stone Age 09
   image: "/forestry/stone-age-09.jpg"
   technique: Lithographie
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: 2017 / 400€
-  price: 
+  description: "3017101206"
+  price: 400
   sold: false
 - title: 'Simple White Trash '
   image: "/forestry/simple-white-trash.jpg"
