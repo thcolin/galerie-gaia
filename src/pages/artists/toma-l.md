@@ -289,25 +289,25 @@ works:
   description: "caisse américaine chêne  \n2012111101"
   price: 2900
   sold: false
-- title: Bonne pierre bon œil (10)
+- title: Bonne pierre bon œil 10
   image: "/forestry/bonne-pierre-bon-oeil-10.jpg"
   technique: Lithographie
   dimensions:
     height: 57
     width: 38
     depth: 
-  description: 2018 /  300€
-  price: 
+  description: "3018100904"
+  price: 300
   sold: false
-- title: Bonne pierre bon œil (13)
+- title: Bonne pierre bon œil 13 (vert)
   image: "/forestry/bonne-pierre-bon-oeil-13.jpg"
   technique: Lithographie
   dimensions:
     height: 40
     width: 30
     depth: 
-  description: 2018  /  350€
-  price: 
+  description: "3018130908"
+  price: 350
   sold: false
 - title: Bonne pierre bon œil 13 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
@@ -366,7 +366,7 @@ works:
     height: 72
     width: 51
     depth: 
-  description: ''
+  description: "Musée de l'imprimerie   \n301712002"
   price: 400
   sold: false
 - title: Stone Age 16
