@@ -1,22 +1,6 @@
 ---
 template: about
 tabs:
-- title: 1 immeuble 1 oeuvre
-  content:
-  - column: "##### 1 immeuble 1 oeuvre\n\nPour les promoteurs référencés auprès du
-      Ministère de la Culture dans le cadre du 1% logement ou du programme \"1 immeuble
-      1 oeuvre \"  \net pour tous les autres qui souhaitent intégrer un projet d'artiste
-      dans les jardins, les halls d'entrée ou toutes autres parties communes ,  \n**contactez-moi
-      pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
-      en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
-      masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
-    contact:
-      display: true
-      placeholder: Renseignement projet immobilier
-  - column: '![](/forestry/masque.jpg "Masque kazy")'
-    contact:
-      display: false
-      placeholder: ''
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
@@ -88,7 +72,7 @@ tabs:
       pour Manpower pour vous proposer un projet clé en main.\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
     contact:
       display: true
-      placeholder: renseignement team building
+      placeholder: Renseignement team building
   - column: |-
       **Créez une expérience client singulière !**
 
@@ -112,6 +96,22 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement création trophée arty
+- title: 1 immeuble 1 oeuvre
+  content:
+  - column: "##### 1 immeuble 1 oeuvre\n\nPour les promoteurs référencés auprès du
+      Ministère de la Culture dans le cadre du 1% logement ou du programme \"1 immeuble
+      1 oeuvre \"  \net pour tous les autres qui souhaitent intégrer un projet d'artiste
+      dans les jardins, les halls d'entrée ou toutes autres parties communes ,  \n**contactez-moi
+      pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
+      en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
+      masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
+    contact:
+      display: true
+      placeholder: Renseignement projet immobilier
+  - column: '![](/forestry/masque.jpg "Masque kazy")'
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Architecte d''intérieur '
   content:
   - column: "##### Projet clé en main :\n\nL'architecte travaille en priorité sur
