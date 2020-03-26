@@ -78,16 +78,16 @@ tabs:
   content:
   - column: "##### **Team Building artistique**\n\nVous recherchez une idée qui sort
       des sentiers battus pour vos **séminaires, incentives, réunions en comité de
-      direction?**  \n  \nFédérez l’esprit d’équipe en rassemblant vos salariés autour
-      d un projet commun, de 10 à 1000 personnes en créant une fresque collective
-      en équipe sur votre culture d'entreprise, votre Histoire, vos valeurs.  \nVous
+      direction?**\n\nFédérez l’esprit d’équipe en rassemblant vos salariés autour
+      d un projet commun, **de 10 à 1000 personnes en créant une fresque collective**
+      en équipes sur votre culture d'entreprise, votre Histoire, vos valeurs.  \nVous
       pourrez vous servir de cette réalisation en support de communication interne
       et externe.  \nAutres contextes pour créer cet évènement original :  **anniversaire
       d’entreprise,  inauguration, lancement de produit ou de service, arbre de Noël
       avec les enfants de vos collaborateurs...**\n\nJ'ai sélectionné le talent et
       le savoir-faire d'une artiste qui a eu un parcours comme cadre commerciale dans
-      dans la grande distribution.   \nAssociée à mon expertise de chef de projet
-      et de formateur pour Manpower Group , nous vous proposons un projet clé en main
+      dans la grande distribution.  \nAssociée à mon expertise de chef de projet et
+      de formateur pour Manpower Group , nous vous proposons un projet clé en main
       ( RH - RSE - Communication interne & externe).\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
     contact:
       display: true
@@ -107,11 +107,11 @@ tabs:
       display: true
       placeholder: Renseignement exposition en entreprise
   - column: "**Trophée artistique pour challenge**\n\nLa remise d'un trophée pour
-      un challenge sportif ou une incentive interne est  un moment fort en communication.
-      \ \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
-      définition du cahier des charges pour que le trophée soit à la hauteur de vos
-      ambitions\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open
-      International Squash\")"
+      un challenge sportif ou une incentive interne est  un moment singulier car très
+      photographié et diffusé sur les réseaux sociaux.  \n  \nJe vous propose de **vous
+      démarquer** en vous proposant des artistes qui travailleront sur votre cahier
+      des charges pour que le trophée soit à la hauteur de votre évènement.\n\n![Artiste
+      Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
     contact:
       display: true
       placeholder: Renseignement création trophée arty
