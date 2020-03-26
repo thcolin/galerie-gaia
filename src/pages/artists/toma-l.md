@@ -399,15 +399,15 @@ works:
   description: "2017051101"
   price: 5500
   sold: false
-- title: Red Canaille 2016050213
+- title: 'Red Canaille '
   image: "/forestry/red-canaille.jpg"
-  technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
+  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 162
     width: 114
     depth: 
-  description: ''
-  price: ''
+  description: "2016050213"
+  price: 5800
   sold: false
 
 ---
