@@ -11,8 +11,8 @@ tabs:
       en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
       masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
     contact:
-      display: false
-      placeholder: ''
+      display: true
+      placeholder: Renseignement projet immobilier
   - column: '![](/forestry/masque.jpg "Masque kazy")'
     contact:
       display: false
@@ -38,8 +38,8 @@ tabs:
       et génèrent une économie d'IS estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/
       \"Faire une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
     contact:
-      display: false
-      placeholder: ''
+      display: true
+      placeholder: Renseignement leasing
   - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
       display: false
@@ -102,16 +102,16 @@ tabs:
         ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG "Adelis 70 ans ")
     contact:
       display: true
-      placeholder: Une demande de renseignements ?
-  - column: "**Trophée artistique pour challenge** \n\nLa remise d'un trophée pour
+      placeholder: Renseignement exposition en entreprise
+  - column: "**Trophée artistique pour challenge**\n\nLa remise d'un trophée pour
       un challenge sportif ou une incentive interne est  un moment fort en communication.
-      \  \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
+      \ \nJe vous propose de vous accompagner sur la sélection de l'artiste et la
       définition du cahier des charges pour que le trophée soit à la hauteur de vos
-      ambitions\n\n[Contactez-nous](mailto:contact@galeriegaia.fr)\n\n![Artiste Go
-      Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
+      ambitions\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open
+      International Squash\")"
     contact:
-      display: false
-      placeholder: ''
+      display: true
+      placeholder: Renseignement création trophée arty
 - title: 'Architecte d''intérieur '
   content:
   - column: "##### Projet clé en main :\n\nL'architecte travaille en priorité sur
