@@ -75,6 +75,10 @@ tabs:
       placeholder: ''
 - title: Evènementiel
   content:
+  - column: "##### **Team Building artistique**"
+    contact:
+      display: false
+      placeholder: ''
   - column: |-
       **Créez une expérience client singulière !**
 
