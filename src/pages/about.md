@@ -203,8 +203,8 @@ title: Prestations
 seo:
   title: Prestations
   type: website
-  description: La Galerie Gaïa vous offre différentes prestations, des plus personnelles
-    aux plus professionnelles
+  description: 'La Galerie Gaïa  vous propose de travailler sur vos projets professionnels
+    et vous conseille à titre personnel sur vos acquisitions. '
   image: "/forestry/seo-about.jpg"
 
 ---
