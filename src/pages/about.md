@@ -137,10 +137,11 @@ tabs:
       les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation
       de couleurs, papiers peints et simulation d'oeuvres d'artistes récupérées sur
       internet.  \nLes objets de décoration sont souvent manufacturés et multiples
-      quand l'art est unique et rend très personnel un décor.\n\nPassez au concret
+      quand l'art est unique et rend très personnel un décor.\n\n**Passez au concret
       avec des propositions d'oeuvres disponible à la galerie ou que je sourcerais
-      spécialement pour votre projet.  \nLivraison et prêt d'oeuvres sur la région
-      nantaise.\n\n\\++ Apport d'affaire pour toutes ventes effectuées par vos soins"
+      spécialement pour votre projet.**  \nLivraison et prêt d'oeuvres sur la région
+      Pays de La Loire\n\n**++** Apport d'affaire pour toutes ventes effectuées par
+      vos soins"
     contact:
       display: true
       placeholder: Renseignement projet décoration d'intérieur
