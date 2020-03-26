@@ -1,6 +1,17 @@
 ---
 template: about
 tabs:
+- title: 'Courtier en art '
+  content:
+  - column: "Le métier de **courtier en art consiste à vous conseiller en vue d'acquisitions
+      à titre patrimonial.**  \nGrâce à des contacts avec des **galeries internationales**
+      via ma marketplace de **Artprice**, je peux gérer pour vous la sélection et/ou
+      la négociation d'une oeuvre.  \n\\++ Vous pouvez choisir **la solution optimale**
+      qui comprend le dossier de financement, les démarches administratives, la logistique
+      de livraison et l'accrochage par un professionnel."
+    contact:
+      display: true
+      placeholder: ''
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
