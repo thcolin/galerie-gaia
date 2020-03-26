@@ -153,45 +153,45 @@ works:
     width: 30
   description: "cadre ne chêne verre musée  \n2020031103"
   price: 1600
-- title: Little simple brut 202031102
+- title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
   technique: 'Couture et Technique mixte sur papier '
   dimensions:
     height: 50
     width: 40
-  description: Cadre en chêne et verre musée
+  description: "Cadre en chêne et verre musée  \n202031102"
   price: 5200
-- title: Little simple brut 202031101
+- title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031101-LITTLECOLOR-40x30cm.jpg"
   technique: Couture et Technique mixte sur papier
   dimensions:
     height: 40
     width: 30
-  description: cadre en chêne et verre musée
+  description: "cadre en chêne et verre musée  \n202031101"
   price: 1600
-- title: Little trash & color 2019022702
+- title: 'Little trash & color '
   image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm-1.jpg"
   technique: Technique mixte sur toile en lin
   dimensions:
     height: 142
     width: 105
-  description: caisse américaine noire
+  description: "caisse américaine noire  \n2019022702"
   price: 5200
-- title: Graphite & Colors 2019022501
+- title: 'Graphite & Colors '
   image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 182
     width: 121
-  description: Caisse américaine noire
+  description: "Caisse américaine noire  \n2019022501"
   price: 6700
-- title: Graphite & Color 2019011401
+- title: 'Graphite & Color '
   image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
   technique: Technique mixte sur papier marouflé sur bois
   dimensions:
     height: 157
     width: 125
-  description: caisse américaine chêne
+  description: "caisse américaine chêne  \n2019011401"
   price: 6200
 - title: Black and simple color 2018091815
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
