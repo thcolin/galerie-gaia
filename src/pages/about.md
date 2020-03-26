@@ -8,10 +8,12 @@ tabs:
       via ma marketplace de **Artprice**, je peux gérer pour vous la sélection et/ou
       la négociation d'une oeuvre.  \n\\++ Vous pouvez choisir **la solution optimale**
       qui comprend le dossier de financement, les démarches administratives, la logistique
-      de livraison et l'accrochage par un professionnel."
+      de livraison et l'accrochage par un professionnel.\n\n[info.gouv biens exonérés
+      impôts](https://www.impots.gouv.fr/portail/particulier/patrimoine-taxable-lisf
+      \"ISF\") "
     contact:
       display: true
-      placeholder: ''
+      placeholder: Renseignement courtage en art
 - title: Location Leasing
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
