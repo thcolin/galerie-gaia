@@ -359,7 +359,7 @@ works:
   description: 2017 /  400€
   price: 
   sold: false
-- title: Stone Age (12)
+- title: Stone Age 12
   image: "/forestry/stone-age-12.jpg"
   technique: Lithographie
   dimensions:
