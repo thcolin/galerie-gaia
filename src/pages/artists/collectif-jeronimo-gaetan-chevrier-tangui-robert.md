@@ -27,6 +27,14 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
+- title: Versants 1
+  image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
+  technique: 'Sérigraphie '
+  dimensions:
+    height: 50
+    width: 70
+  description: 16 exemplaires
+  price: 420
 - title: Strate I
   image: "/forestry/strate-i.jpg"
   technique: Sérigraphie 1/1
@@ -45,6 +53,16 @@ works:
     width: 70
     depth: 
   description: 380€
+  price: 
+  sold: false
+- title: gisements 3
+  image: "/forestry/gisements-3.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 20
+    width: 30
+    depth: 
+  description: 160€ encadré
   price: 
   sold: false
 - title: Installation murale
@@ -66,16 +84,6 @@ works:
     width: 70
     depth: 
   description: "20 EXEMPLAIRES \nCOMMANDE POUR LES 40 ANS DU LIEU"
-  price: 
-  sold: false
-- title: gisements 3
-  image: "/forestry/gisements-3.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 20
-    width: 30
-    depth: 
-  description: 160€ encadré
   price: 
   sold: false
 - title: Viçosa I
