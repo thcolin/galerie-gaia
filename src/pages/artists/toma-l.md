@@ -371,12 +371,12 @@ works:
   sold: false
 - title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
-  technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
+  technique: Lithographie
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: "3017160202"
+  description: "Tirage à 2 exemplaires  \n3017160202"
   price: 400
   sold: false
 - title: Stone Age 09
