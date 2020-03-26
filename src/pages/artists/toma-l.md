@@ -137,21 +137,21 @@ works:
     width: 130
   description: "2019111701"
   price: 6500
-- title: Liitle trash 2018020601
+- title: 'Liitle trash '
   image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 109
     width: 79
-  description: cadre blanc flottant sous verre
+  description: "cadre blanc flottant sous verre  \n2018020601"
   price: 3500
-- title: Little simple brut 2020031103
+- title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
   technique: Couture et Technique mixte sur papier
   dimensions:
     height: 40
     width: 30
-  description: cadre ne chêne verre musée
+  description: "cadre ne chêne verre musée  \n2020031103"
   price: 1600
 - title: Little simple brut 202031102
   image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
