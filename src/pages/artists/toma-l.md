@@ -309,25 +309,25 @@ works:
   description: 2018  /  350€
   price: 
   sold: false
-- title: Bonne pierre bon œil (13) (noir)
+- title: Bonne pierre bon œil 13 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
   technique: Lithographie
   dimensions:
     height: 40
     width: 30
     depth: 
-  description: 2018  / 350 euros
-  price: 
+  description: "3018130906"
+  price: 350
   sold: false
-- title: Bonne pierre bon œil (13)(rouge)
+- title: Bonne pierre bon œil 13 (rouge)
   image: "/forestry/bonne-pierre-bon-oeil-13rouge.jpg"
   technique: Lithographie
   dimensions:
     height: 40
     width: 30
     depth: 
-  description: 2018  / 350€
-  price: 
+  description: "3018130903"
+  price: 350
   sold: false
 - title: Bonne pierre bon œil 14 (bleu)
   image: "/forestry/bonne-pierre-bon-oeil-14-bleu.jpg"
