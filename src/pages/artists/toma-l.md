@@ -105,37 +105,37 @@ works:
   description: "Oeuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nmise
     sous verre cadre blanc "
   price: 3500
-- title: Drawing Trash Color 2020031203
+- title: 'Drawing Trash Color '
   image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
   technique: 'Technique mixte sur papier '
   dimensions:
     height: 120
     width: 90
-  description: 'cadre blanc sous verre '
+  description: "cadre blanc sous verre  \n2020031203"
   price: 3500
-- title: Drawing trash color 2020031202
+- title: 'Drawing trash color '
   image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 100
     width: 70
-  description: 'cadre blanc sous verre '
+  description: "cadre blanc sous verre  \n2020031202"
   price: 3500
-- title: 'Drawing Trash Color 2020031201 '
+- title: 'Drawing Trash Color  '
   image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 120
     width: 90
-  description: cadre blanc sous verre
+  description: "cadre blanc sous verre  \n2020031201"
   price: 3500
-- title: Trash and color 2019111701
+- title: 'Trash and color '
   image: "/forestry/galeriegaia@tomaL-2019111701-TrashAndColor-162x130cm.jpg"
   technique: technique mixte sur toile en lin sur châssis à clef
   dimensions:
     height: 162
     width: 130
-  description: ''
+  description: "2019111701"
   price: 6500
 - title: Liitle trash 2018020601
   image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
