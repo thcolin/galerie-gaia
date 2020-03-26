@@ -95,10 +95,10 @@ tabs:
   - column: |-
       **Créez une expérience client singulière !**
 
-      Je vous propose la gestion de ce projet en tant que commissaire d'exposition:
+      En tant que commissaire d'exposition je vous propose :
 
-      * Sélection d'artistes régionaux, nationaux ou internationaux pour créer une exposition dans vos locaux, avec la médiation lors du vernissage
-      * Sélection d'artistes pour réaliser une performance live lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel
+      * Une sélection d'artistes régionaux, nationaux ou internationaux pour créer une exposition dans vos locaux, avec la médiation lors du vernissage
+      * Un choix d'artistes pour réaliser une performance live lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.
 
         ![](/forestry/galeriegaia@keran@basso.jpg "Keran exposition Giani Basso")
 
