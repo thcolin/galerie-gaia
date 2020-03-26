@@ -223,13 +223,13 @@ works:
     width: 78
   description: "caisse américaine chêne  \n2018091803"
   price: 
-- title: Black and simple color 2018091802
+- title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 109
     width: 79
-  description: 'caisse américaine noire '
+  description: "caisse américaine noire  \n2018091802"
   price: 3500
   sold: false
 - title: 'Green side of the man '
@@ -259,13 +259,13 @@ works:
   description: 'caisse américaine '
   price: 
   sold: false
-- title: Drawing black 2012040601
+- title: 'Drawing black '
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 100
     width: 70
-  description: caisse américaine chêne
+  description: "caisse américaine chêne  \n2012040601"
   price: 0
 - title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
@@ -279,14 +279,14 @@ works:
     VERNISSAGE 21 MARS 18H
   price: 
   sold: false
-- title: Simple black 2012111101
+- title: 'Simple black '
   image: "/forestry/galeriegaia@tomaL-2012130102-drawingblack-72x70cm.jpg"
-  technique: Techn. mixte sur papier, caisse américaine chêne
+  technique: Technique mixte sur papier
   dimensions:
     height: 70
     width: 72
     depth: 
-  description: ''
+  description: "caisse américaine chêne  \n2012111101"
   price: 2900
   sold: false
 - title: Bonne pierre bon œil (10)
@@ -389,14 +389,14 @@ works:
   description: 2017 / 400€
   price: 
   sold: false
-- title: Simple White Trash 2017051101
+- title: 'Simple White Trash '
   image: "/forestry/simple-white-trash.jpg"
-  technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
+  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 150
     width: 95
     depth: 
-  description: ''
+  description: "2017051101"
   price: 5500
   sold: false
 - title: Red Canaille 2016050213
