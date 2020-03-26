@@ -44,9 +44,9 @@ tabs:
       \"Texte officiel\")\n\n![Artiste Isabelle HEALY](/forestry/fondation.jpg 'Sculpture
       \"Fondation\"')"
     contact:
-      display: false
-      placeholder: ''
-  - column: "**Comment :**\n\nL’oeuvre doit être exposée au public ou aux salariés
+      display: true
+      placeholder: Renseignement defiscalisation
+  - column: "**Concrètement :**\n\nL’oeuvre doit être exposée au public ou aux salariés
       durant 5 ans, durée de son amortissement.  \nL’œuvre figure dans les immobilisations
       de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
       spécial au passif du bilan de la société.\n\n**Exemple :**\n\n* Une entreprise
