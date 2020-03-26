@@ -24,12 +24,7 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   matière organique de son sol.\"  \n_Claire Burban**\n\nTangui Robert, architecte
   plasticien, Gaëtan Chevrier, photographe et Jéronimo, artiste et sérigraphe, sont
   tous trois Nantais et se sont réunis par affinité artistique pour produire ensemble
-  et croiser leur production respective. \n\n\"La carrière, lieu d’extraction, fut
-  le point de départ de ce projet. En juillet 2017, l’arpentage de deux sites (carrière
-  de Trimouns / Pyrénées et carrière du Roy / Caunes-Minervois), nous a permis d’éprouver
-  des paysages façonnés par l’homme qui peu à peu évoluent, se déplacent ou disparaissent.
-  Ces transformations qui interrogent l’empreinte humaine, ont été le déclencheur
-  de notre processus commun de réinterprétation. "
+  et croiser leur production respective."
 exhibitions: []
 works:
 - title: Strate I
