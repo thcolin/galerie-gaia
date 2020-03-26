@@ -76,7 +76,7 @@ tabs:
   - column: |-
       **Créez une expérience client singulière !**
 
-      Je vous propose la gestion de ce projet en tant que commissaire d'exposition
+      Je vous propose la gestion de ce projet en tant que commissaire d'exposition:
 
       * Sélection d'artistes régionaux, nationaux ou internationaux pour créer une exposition dans vos locaux, avec la médiation lors du vernissage
       * Sélection d'artistes pour réaliser une performance live lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel
@@ -124,7 +124,7 @@ tabs:
       nantaise.\n\n\\+ Apport d'affaire pour toutes ventes effectuées par vos soins."
     contact:
       display: true
-      placeholder: Une demande de renseignements ?
+      placeholder: Renseignement projet décoration d'intérieur
   - column: |-
       ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
 
