@@ -6,16 +6,30 @@ field: sérigraphe
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  VERSANTS
-  Dessin, gravure, sérigraphie, mural & sculpture.
-
-  Tangui Robert, architecte plasticien, Gaëtan Chevrier, photographe et Jéronimo, artiste et sérigraphe, sont tous trois Nantais et se sont réunis par affinité artistique pour produire ensemble et croiser leur production respective. Ce projet de collaboration prend corps autour de la notion de transformation du paysage.
-  La posture de production de ce projet est double : d’une part prolonger nos démarches au travers de médium déjà engagés, et d’autre part, envisager d’ouvrir nos pratiques vers de nouveaux champs plastiques (sérigraphie, gravure, installation, sculptures...).
-
-
-  "La carrière, lieu d’extraction, fut le point de départ de ce projet. En juillet 2017, l’arpentage de deux sites (carrière de Trimouns / Pyrénées et carrière du Roy / Caunes-Minervois), nous a permis d’éprouver des paysages façonnés par l’homme qui peu à peu évoluent, se déplacent ou disparaissent. Ces transformations qui interrogent l’empreinte humaine, ont été le déclencheur de notre processus commun de réinterprétation.
-  Le retour en atelier a été l’occasion de réaliser une production à six mains dans laquelle nous nous autorisions à puiser, découper et manipuler le travail de l’autre. En parallèle de cette production collective chacun a prolongé son travail personnel autour des questions d’extraction, de déplacements et de recouvrements propres à l’exploitation des carrières."
+biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\" Tangui
+  Robert, Jérôme Maillet et Gaëtan Chevrier se sont réunis pour créer ensemble autour
+  d’un espace construit et façonné par l’homme : La carrière.Depuis leur rencontre,
+  ils explorent différents lieux d’extractions. Autant de manières, de matières, de
+  paysages, d’outils que de façon d’apprivoiser ces espaces et ces minéraux. Une carrière
+  de cuivre ou une carrière de marbre ne forme pas les mêmes contours, n’additionne
+  pas les mêmes empreintes humaines._  \n_Ces trois artistes ont trouvé une direction
+  commune : extraire un maximum de matière à penser, transformer, superposer, graver,
+  coloriser, échanger, calquer, dessiner, photographier, sculpter._  \n_En acceptant
+  de laisser retoucher leur production par un autre des artistes du trio, les œuvres
+  sont dénaturées elles aussi, coupées, recadrées, parfois sorties de leurs contextes.
+  Certaines œuvres sont signées à trois mains, d’autres en duo ou plus traditionnellement
+  sont des productions personnelles._  \n_L’attraction du vide dans l’accumulation
+  des textures et volumes fait surgir des équations pertinentes, des espaces parallèles._
+  \ \n_L’extraction de la matière grise sur le papier questionne l’extraction de la
+  matière organique de son sol.\"  \n_Claire Burban**\n\nTangui Robert, architecte
+  plasticien, Gaëtan Chevrier, photographe et Jéronimo, artiste et sérigraphe, sont
+  tous trois Nantais et se sont réunis par affinité artistique pour produire ensemble
+  et croiser leur production respective. \n\n\"La carrière, lieu d’extraction, fut
+  le point de départ de ce projet. En juillet 2017, l’arpentage de deux sites (carrière
+  de Trimouns / Pyrénées et carrière du Roy / Caunes-Minervois), nous a permis d’éprouver
+  des paysages façonnés par l’homme qui peu à peu évoluent, se déplacent ou disparaissent.
+  Ces transformations qui interrogent l’empreinte humaine, ont été le déclencheur
+  de notre processus commun de réinterprétation. "
 exhibitions: []
 works:
 - title: Strate I
