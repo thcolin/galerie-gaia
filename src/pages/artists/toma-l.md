@@ -339,22 +339,22 @@ works:
   description: 2018  / 450€
   price: 
   sold: false
-- title: Bonne pierre bon œil (14) (noir)
+- title: Bonne pierre bon œil 14 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-14-noir.jpg"
   technique: Lithographie
   dimensions:
     height: 76
     width: 56
     depth: 
-  description: 2018 /  450€
-  price: 
+  description: "301841009"
+  price: 450
   sold: false
 - title: Stone Age 02
   image: "/forestry/stone-age-02.jpg"
   technique: lithographie
   dimensions:
     height: 66
-    width: 95
+    width: 51
     depth: 
   description: "Tirage à 10 exemplaires   \n3017021009"
   price: 400
@@ -366,8 +366,8 @@ works:
     height: 72
     width: 51
     depth: 
-  description: 2017 / 400€
-  price: 
+  description: ''
+  price: 400
   sold: false
 - title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
