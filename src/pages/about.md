@@ -66,23 +66,27 @@ tabs:
       qui comprend le dossier de financement, les démarches administratives, la logistique
       de livraison et l'accrochage par un professionnel.\n\n[info.gouv biens exonérés
       impôts](https://www.impots.gouv.fr/portail/particulier/patrimoine-taxable-lisf
-      \"ISF\")\n\n![](/forestry/galeriegaia@villegle-courtage.png)"
+      \"ISF\")"
     contact:
       display: true
       placeholder: Renseignement courtage en art
+  - column: "![](/forestry/galeriegaia@villegle-courtage-1.png)"
+    contact:
+      display: false
+      placeholder: ''
 - title: Evènementiel
   content:
-  - column: "##### **Team Building artistique** \n\nVous recherchez une idée qui sort
-      des sentiers battus pour vos **séminaires, incentives, réunions en comité de
-      direction?  \n**Fédérez l’esprit d’équipe en rassemblant vos salariés autour
-      d un projet commun, de 10 à 1000 personnes en créant une fresque collective
-      en équipe sur votre culture d'entreprise, votre Histoire, vos valeurs.  \nVous
-      pourrez vous servir de cette réalisation en support de communication interne
-      et externe.  \nAutres contextes pour créer cet évènement original :  anniversaire
-      d’entreprise,  inauguration, lancement de produit ou de service, arbre de Noël
-      avec les enfants de vos collaborateurs...\n\nJ'ai sélectionné le talent et le
-      savoir-faire de Nathalie Périé,  associée à mon expertise d'ex chef de projet
-      pour Manpower pour vous proposer un projet clé en main.\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
+  - column: "##### **Team Building artistique**\n\nVous recherchez une idée qui sort
+      des sentiers battus pour vos séminaires, incentives, réunions en comité de direction?
+      \ \n  \nFédérez l’esprit d’équipe en rassemblant vos salariés autour d un projet
+      commun, de 10 à 1000 personnes en créant une fresque collective en équipe sur
+      votre culture d'entreprise, votre Histoire, vos valeurs.  \nVous pourrez vous
+      servir de cette réalisation en support de communication interne et externe.
+      \ \nAutres contextes pour créer cet évènement original :  anniversaire d’entreprise,
+      \ inauguration, lancement de produit ou de service, arbre de Noël avec les enfants
+      de vos collaborateurs...\n\nJ'ai sélectionné le talent et le savoir-faire de
+      Nathalie Périé,  associée à mon expertise d'ex chef de projet pour Manpower
+      pour vous proposer un projet clé en main.\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
     contact:
       display: true
       placeholder: Renseignement team building
