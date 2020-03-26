@@ -193,35 +193,35 @@ works:
     width: 125
   description: "caisse américaine chêne  \n2019011401"
   price: 6200
-- title: Black and simple color 2018091815
+- title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
-  description: Caisse américaine noire
+  description: "Caisse américaine noire  \n2018091815"
   price: 3500
   technique: Technique mixte sur papier
   dimensions:
     height: 109
     width: 79
-- title: Black ans simple color 2018091809
+- title: 'Black ans simple color '
   image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
-  description: caisse américaine noire
+  description: "caisse américaine noire  \n2018091809"
   price: 3500
-- title: Black and simple color 2018091805
+- title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 109
     width: 79
-  description: 'caisse américaine noire '
+  description: "caisse américaine noire  \n2018091805"
   price: 3500
   sold: false
-- title: Black and simple color 2018091803
+- title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 108
     width: 78
-  description: caisse américaine chêne
+  description: "caisse américaine chêne  \n2018091803"
   price: 
 - title: Black and simple color 2018091802
   image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
