@@ -373,8 +373,8 @@ works:
   image: "/forestry/stone-age-16.jpg"
   technique: Techn. mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
-    height: 150
-    width: 95
+    height: 66
+    width: 50
     depth: 
   description: "3017160202"
   price: 400
