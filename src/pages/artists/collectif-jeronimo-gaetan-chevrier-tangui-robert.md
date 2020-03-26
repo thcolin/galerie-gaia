@@ -27,6 +27,14 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
+- title: Viçosa VII
+  image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 70
+    width: 100
+  description: en 15 exemplaires
+  price: 620
 - title: Versants 1
   image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
   technique: 'Sérigraphie '
