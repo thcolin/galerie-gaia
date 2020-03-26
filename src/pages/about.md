@@ -121,7 +121,7 @@ tabs:
       quand l'art est unique et rend très personnel un décor.\n\nPassez au concret
       avec des propositions d'oeuvres disponible à la galerie ou que je sourcerais
       spécialement pour votre projet.  \nLivraison et prêt d'oeuvres sur la région
-      nantaise.\n\n\\+ Apport d'affaire pour toutes ventes effectuées par vos soins."
+      nantaise.\n\n\\++ Apport d'affaire pour toutes ventes effectuées par vos soins"
     contact:
       display: true
       placeholder: Renseignement projet décoration d'intérieur
@@ -149,21 +149,21 @@ tabs:
 
       Des artistes de la galerie ont créé des modèles de cartes de voeux disponibles dans un catalogue [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
 
-      Si vous voulez personnaliser votre carte de voeux en incarnant des valeurs de votre entreprise, insérer votre logo et un texte, je vous propose une sélection d'artistes qui travailleront sur votre projet.
+      Si vous voulez personnaliser votre carte en incarnant des valeurs de votre entreprise, insérer votre logo et un texte, je vous propose une sélection d'artistes qui travailleront sur votre projet.
 
       ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")
 
       ![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
     contact:
-      display: false
-      placeholder: ''
+      display: true
+      placeholder: Devis pour cartes de voeux
   - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
       \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
       et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
       retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
     contact:
-      display: false
-      placeholder: ''
+      display: true
+      placeholder: Demande carte cadeau
 - title: 'Références '
   content:
   - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
