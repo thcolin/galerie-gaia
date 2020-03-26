@@ -164,9 +164,9 @@ tabs:
   - column: |-
       ##### Carte de voeux
 
-      Des artistes de la galerie ont créé des modèles de cartes de voeux disponibles dans un catalogue [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
+      Des artistes de la galerie ont créé à ma demande des modèles de **cartes de voeux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
 
-      Si vous voulez personnaliser votre carte en incarnant des valeurs de votre entreprise, insérer votre logo et un texte, je vous propose une sélection d'artistes qui travailleront sur votre projet.
+      Nous pouvons aussi **personnaliser votre carte** en incarnant des valeurs de votre entreprise, insérer votre **logo et un texte**.
 
       ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")
 
