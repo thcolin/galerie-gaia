@@ -5,6 +5,7 @@ module.exports = {
     'gatsby-plugin-resolve-src',
     'gatsby-plugin-react-helmet',
     'gatsby-source-data',
+    'gatsby-plugin-robots-txt',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -20,9 +21,7 @@ module.exports = {
     },
     {
       resolve: 'gatsby-remark-page-creator',
-      options: {
-
-      },
+      options: {},
     },
   ],
 }
