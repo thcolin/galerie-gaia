@@ -105,14 +105,16 @@ Navigation.styles = {
     },
   },
   container: {
+    height: 'inherit !important',
     [theme.medias.small]: {
+      height: 'unset',
       overflowY: 'auto',
     },
     [theme.medias.medium]: {
+      height: 'unset',
       overflowY: 'auto',
     },
     [theme.medias.large]: {
-      height: 'inherit !important',
       overflow: 'inherit !important',
       flex: 1,
       '>div': {
@@ -121,7 +123,6 @@ Navigation.styles = {
       },
     },
     [theme.medias.extralarge]: {
-      height: 'inherit !important',
       overflow: 'inherit !important',
       flex: 1,
       '>div': {
