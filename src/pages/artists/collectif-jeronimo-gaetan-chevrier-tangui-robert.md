@@ -194,5 +194,7 @@ works:
   description: 180€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/
 ---
+

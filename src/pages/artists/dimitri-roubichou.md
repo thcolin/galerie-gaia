@@ -93,5 +93,7 @@ works:
       Tirage possible sur d'autres formats
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/82-dimitri-roubichou/
 ---
 

@@ -102,5 +102,7 @@ works:
   description: ''
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/11-stephanie-billarant/
 ---
+

@@ -117,5 +117,7 @@ works:
     350 €
   price:
   sold: false
-
+redirect_from:
+  - /artistes/35-renaud-allirand/
 ---
+

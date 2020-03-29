@@ -112,5 +112,7 @@ works:
     1700€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/90-bram-van-velde/
 ---
+

@@ -73,5 +73,7 @@ works:
   description: "-"
   price:
   sold: false
-
+redirect_from:
+  - /artistes/64-franco-salas-borquez/
 ---
+

@@ -108,5 +108,7 @@ works:
   description: De 150€ à 1800€
   price:
   sold: false
-
+redirect_from:
+  - /artistes/51-annick-argant/
 ---
+

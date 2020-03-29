@@ -50,6 +50,7 @@ exports.onCreateNode = ({node, getNode, actions}, options) => {
         }
 
         createNodeField({node, name: "url", value: url});
+        createNodeField({node, name: "slug", value: url});
         createNodeField({node, name: "absolutePath", value: fileNode.absolutePath});
         createNodeField({node, name: "relativePath", value: fileNode.relativePath});
         createNodeField({node, name: "absoluteDir", value: fileNode.dir});
@@ -123,6 +124,7 @@ exports.createPages = ({graphql, getNode, actions, getNodesByType}) => {
                 component: component,
                 context: {
                     url: url,
+                    slug: url,
                     relativePath: node.fields.relativePath,
                     relativeDir: node.fields.relativeDir,
                     base: node.fields.base,

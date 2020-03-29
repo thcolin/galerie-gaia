@@ -122,5 +122,7 @@ works:
     description: 1991 / 450€
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/101-jean-paul-friol/
 ---
 

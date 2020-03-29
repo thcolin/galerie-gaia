@@ -118,5 +118,7 @@ works:
   description: ''
   price:
   sold: false
-
+redirect_from:
+  - /artistes/72-francky-criquet/
 ---
+

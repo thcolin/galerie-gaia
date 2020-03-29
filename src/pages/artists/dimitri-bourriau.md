@@ -114,5 +114,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/98-dimitri-bourriau/
 ---
+

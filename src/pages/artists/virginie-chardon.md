@@ -75,5 +75,7 @@ works:
   description: ''
   price: 5400
   sold: false
-
+redirect_from:
+  - /artistes/95-virginie-chardon/
 ---
+

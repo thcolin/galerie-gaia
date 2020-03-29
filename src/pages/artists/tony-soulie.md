@@ -75,4 +75,6 @@ works:
     description: 900€
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/26-tony-soulie/
 ---

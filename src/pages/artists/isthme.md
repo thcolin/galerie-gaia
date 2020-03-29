@@ -225,5 +225,7 @@ works:
   description: ''
   price:
   sold: false
-
+redirect_from:
+  - /artistes/85tistes/85-isthme/
 ---
+

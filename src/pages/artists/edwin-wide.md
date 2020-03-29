@@ -76,5 +76,7 @@ works:
   description: 1500€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/91-edwin-wide/
 ---
+

@@ -349,5 +349,7 @@ works:
   description: s.d. 1500€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/102-estampes/
 ---
+

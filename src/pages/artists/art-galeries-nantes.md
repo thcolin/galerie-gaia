@@ -87,5 +87,7 @@ works:
   description: "2016"
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/81-art-galeries-nantes/
 ---
+

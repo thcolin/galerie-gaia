@@ -172,5 +172,7 @@ works:
   description: 650€ encadré (cadre flottant)
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/71-philippe-lecomte/
 ---
+

@@ -107,5 +107,7 @@ works:
     180€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/78-la-selection-des-nouveautes-de-mars-2020/
 ---
+

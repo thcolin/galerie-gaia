@@ -99,4 +99,6 @@ works:
     description: ''
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/84-patrick-gueguen/
 ---

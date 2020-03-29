@@ -91,5 +91,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/93-georges-rousse/
 ---
 

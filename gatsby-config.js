@@ -23,5 +23,7 @@ module.exports = {
       resolve: 'gatsby-remark-page-creator',
       options: {},
     },
+    'gatsby-redirect-from',
+    'gatsby-plugin-meta-redirect',
   ],
 }

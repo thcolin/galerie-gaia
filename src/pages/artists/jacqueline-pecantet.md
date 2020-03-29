@@ -29,4 +29,6 @@ works:
     description: ''
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/36tistes/36-jacqueline-pecantet/
 ---

@@ -91,5 +91,7 @@ works:
   description: ''
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/87-anne-gaiss/
 ---
+

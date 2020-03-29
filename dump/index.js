@@ -47,6 +47,15 @@ artists.forEach(artist => {
   )
 })
 
+artists
+  .filter(artist => artist.exposed && fs.existsSync(`${__dirname}/../src/pages/artists/${slug(`${[(artist.firstName || '').trim(), (artist.lastName || '').trim()].filter(s => s).join(' ')}`, { lower: true })}.md`))
+  .forEach(artist => {
+    const file = `${__dirname}/../src/pages/artists/${slug(`${[(artist.firstName || '').trim(), (artist.lastName || '').trim()].filter(s => s).join(' ')}`, { lower: true })}.md`
+    const md = fs.readFileSync(file, 'utf8')
+    const append = matter.stringify('', { redirect_from: [`/${artist.slug}/`] })
+    fs.writeFileSync(file, `${md.substr(0, md.length - 5)}${append.substr(4)}`)
+  })
+
 function getFormattedDate (foo) {
   var date = new Date(foo)
   var year = date.getFullYear()

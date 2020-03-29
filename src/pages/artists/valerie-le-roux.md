@@ -138,5 +138,7 @@ works:
   description: "2019"
   price:
   sold: false
-
+redirect_from:
+  - /artistes/79-valerie-le-roux/
 ---
+

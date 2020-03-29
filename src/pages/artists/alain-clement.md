@@ -92,5 +92,7 @@ works:
   description: 2004 450€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/89-alain-clement/
 ---
+

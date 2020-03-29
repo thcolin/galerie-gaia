@@ -83,5 +83,7 @@ works:
   description: "Claude Francheteau\nhuile sur toile \nPortrait"
   price:
   sold: false
-
+redirect_from:
+  - /artistes/74-portrait/
 ---
+

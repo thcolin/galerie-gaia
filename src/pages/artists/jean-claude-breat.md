@@ -111,5 +111,7 @@ works:
   description: ''
   price:
   sold: false
-
+redirect_from:
+  - /artistes/52-jean-claude-breat/
 ---
+

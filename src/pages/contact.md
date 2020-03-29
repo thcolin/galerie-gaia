@@ -37,5 +37,7 @@ seo:
     Connaître les actualités de la galerie,
     Envie d’être invité aux prochains vernissages ?
   image: "/forestry/seo-contact.jpg"
+redirect_from:
+  - /galerie-d-art-nantes/
 
 ---

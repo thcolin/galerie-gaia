@@ -164,4 +164,6 @@ works:
     description: ''
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/96-pascal-proust/
 ---

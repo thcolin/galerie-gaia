@@ -221,4 +221,6 @@ works:
     description: 1800€
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/12-claude-francheteau/
 ---

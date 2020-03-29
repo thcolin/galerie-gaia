@@ -104,5 +104,7 @@ works:
   description: ''
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/4-valota/
 ---
+

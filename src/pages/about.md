@@ -223,5 +223,9 @@ seo:
   description: 'La Galerie Gaïa  vous propose de travailler sur vos projets professionnels
     et vous conseille à titre personnel sur vos acquisitions. '
   image: "/forestry/seo-about.jpg"
+redirect_from:
+  - /prestations/
+  - /defiscalisation-oeuvre-d-art/
+  - /location-de-salle-a-nantes/
 
 ---

@@ -138,5 +138,7 @@ works:
   description: 100€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/86-boris-jakobek/
 ---
+

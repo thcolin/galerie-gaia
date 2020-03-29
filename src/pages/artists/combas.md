@@ -46,4 +46,6 @@ works:
       Prix sur demande
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/38-combas/
 ---

@@ -409,5 +409,7 @@ works:
   description: "2016050213"
   price: 5800
   sold: false
-
+redirect_from:
+  - /artistes/99-toma-l/
 ---
+

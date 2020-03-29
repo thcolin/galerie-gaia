@@ -216,5 +216,7 @@ works:
   description: 2019 / 2750€
   price:
   sold: false
-
+redirect_from:
+  - /artistes/58-pierre-muckensturm/
 ---
+

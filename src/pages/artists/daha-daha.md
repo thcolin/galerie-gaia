@@ -72,5 +72,7 @@ works:
     sur commande
   price:
   sold: false
-
+redirect_from:
+  - /artistes/66-daha-daha/
 ---
+

@@ -181,5 +181,7 @@ works:
   description: 130€
   price:
   sold: false
-
+redirect_from:
+  - /artistes/76-laure-carre/
 ---
+

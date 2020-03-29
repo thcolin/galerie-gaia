@@ -118,5 +118,7 @@ works:
   description: 2015 280€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/25-tangui-robert/
 ---
+

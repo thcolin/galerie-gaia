@@ -73,5 +73,7 @@ works:
   description: 650 €
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/13-olivier-fremont/
 ---
+

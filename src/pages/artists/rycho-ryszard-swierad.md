@@ -199,4 +199,6 @@ works:
       700 €
     price: .nan
     sold: false
+redirect_from:
+  - /artistes/60-rycho-ryszard-swierad/
 ---

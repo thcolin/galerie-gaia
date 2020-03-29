@@ -115,5 +115,7 @@ works:
   description: 3000 €
   price:
   sold: false
-
+redirect_from:
+  - /artistes/48-kazy-usclef/
 ---
+

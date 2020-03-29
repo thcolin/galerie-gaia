@@ -192,5 +192,7 @@ works:
   description: 2016 105€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/15-go-segawa/
 ---
+

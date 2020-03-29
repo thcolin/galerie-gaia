@@ -178,5 +178,7 @@ works:
   description: ''
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/104-jean-francois-molliere/
 ---
+

@@ -173,5 +173,7 @@ works:
   description: "Tapisserie Espace Nacrée et L oeil vigilant \nSculpture Gérard Voisin"
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/20-jorj-morin/
+  - /artistes/103-jorj-morin/
 ---

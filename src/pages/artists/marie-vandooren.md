@@ -178,5 +178,7 @@ works:
   description: "15 exemplaires \n160€"
   price:
   sold: false
-
+redirect_from:
+  - /artistes/94-marie-vandooren/
 ---
+

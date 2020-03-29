@@ -119,5 +119,7 @@ works:
   description: 1300€
   price:
   sold: false
-
+redirect_from:
+  - /artistes/100-frederique-tristant/
 ---
+

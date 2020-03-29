@@ -137,5 +137,7 @@ works:
   description: "Pièce unique \n1500€ sans cadre \n1800€ encadrée avec verre anti-reflet"
   price:
   sold: false
-
+redirect_from:
+  - /artistes/80-neil-ratnavira/
 ---
+

@@ -222,5 +222,7 @@ works:
   description: 290€ encadré
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/97-elisabeth-wadecki/
 ---
+

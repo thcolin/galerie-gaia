@@ -163,5 +163,7 @@ works:
   description: 2000€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/69-isabelle-healy/
 ---
+

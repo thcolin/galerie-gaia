@@ -75,5 +75,7 @@ works:
   description: 290€
   price:
   sold: false
-
+redirect_from:
+  - /artistes/59-marianne-abergel/
 ---
+

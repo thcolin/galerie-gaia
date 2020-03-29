@@ -43,5 +43,7 @@ works:
   description: ''
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/42-adolfo-arenas-alonso/
 ---
+

@@ -114,5 +114,7 @@ works:
   description: 2019 230€
   price: 
   sold: false
-
+redirect_from:
+  - /artistes/75-xavier-jallais/
 ---
+
