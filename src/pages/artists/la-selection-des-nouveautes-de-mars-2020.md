@@ -9,6 +9,10 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection du mois de Mars 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
 - title: Atlantis Teatro Dimitri Bourriau
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibond
@@ -16,10 +20,6 @@ works:
     height: 100
     width: 150
   description: "Tirage 15 exemplaires en caisse américaine   \nprix sur demande "
-  price: 0
-- title: Sélection du mois de Mars 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
   price: 0
 - title: MARIE VANDOREEN - Palindrome
   image: "/forestry/marie-vandoreen-palindrome.jpg"
@@ -108,6 +108,6 @@ works:
   price: 
   sold: false
 redirect_from:
-  - /artistes/78-la-selection-des-nouveautes-de-mars-2020/
----
+- "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 
+---
