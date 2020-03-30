@@ -7,6 +7,8 @@ exhibitions:
   content: |-
     [Télécharger le catalogue **ici**](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf "catalogue ")
 
+    [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf "catalogue Toma L")
+
     L' Exposition est reportée , on se la garde bien au chaud pour en profiter quand nous pourrons nous revoir tous ensemble.
 
     Tomber par hasard sur le travail de Toma L est la plus belle des chutes!
