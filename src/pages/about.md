@@ -3,24 +3,30 @@ template: about
 tabs:
 - title: Art et fiscalité
   content:
-  - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
-      la tendance de fond va bien au-delà d'un mobilier design.  \nLa **RSE**, la
-      **marque employeur**, le **bien être au travail** pour améliorer la **créativité**
-      et l'**esprit coopératif**, tous ces concepts peuvent être stimulés par l'art
-      mural et sculptural.  \nConcrètement je vous propose une sélection d'oeuvres
-      d'artistes à installer dans vos espaces de travail, salle d'attentes pour donner
-      une ambiance chaleureuse et renforcer l'identité de votre entreprise auprès
-      de vos clients et collaborateurs.\n\nJ'ai retenu le professionalisme de **Bail
-      Art**, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire
-      à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement
-      de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous
-      êtes soumis à l'IS ou IRPP.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
-      drouot juin 2017.pdf \"Article Gazette drouot \")\n\n##### Exemple :\n\n* pour
-      une oeuvre de 3500€\n* location 24 mois\n* loyer mensuel terme à échoir *  193€
-      HT\n* économies d'impôts générées 1296€ HT\n* coût global hors économies de
-      charges sociales, IR... 3332€ HT\n  * Les loyers sont une charge déductible
-      et génèrent une économie d'IS estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/
-      \"Faire une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
+  - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
+      la tendance de fond va bien au-delà d'un mobilier design pour donner une **ambiance
+      chaleureuse** et renforcer l'**identité de votre entreprise** auprès de **vos
+      clients et collaborateurs.**  \nLa **RSE**, la **marque employeur**, le **bien
+      être au travail** pour améliorer la **créativité** et l'**esprit coopératif**,
+      tous ces concepts peuvent aussi être stimulés par l'art.  \n  \n**Concrètement**
+      je vous propose mon expérience pour : \n\n  **Une sélection** d'oeuvres d'artistes
+      **de la galerie** (photos - sérigraphies - sculptures)  \n  Une sélection d'oeuvres
+      sourcées spécialement selon vos critères (style - budget)   \n  Une fresque
+      murale créée spécialement pour vos locaux  ( intérieur - extérieur)  \n Une
+      installation visuelle, sonore, lumineuse, mobile.\n\n**Financièrement quelle
+      est la bonne option entre l'achat en défiscalisation, la location et le leasing
+      ?  \nCe sont des solutions qui répondent à des choix stratégiques différents.**\n\nJ'ai
+      retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres
+      d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing
+      d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier
+      d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.\n\n[Gazette
+      Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf
+      \"Article Gazette drouot \")\n\n##### Exemple :\n\n* pour une oeuvre de 3500€\n*
+      location 24 mois\n* loyer mensuel terme à échoir *  193€ HT\n* économies d'impôts
+      générées 1296€ HT\n* coût global hors économies de charges sociales, IR... 3332€
+      HT\n  * Les loyers sont une charge déductible et génèrent une économie d'IS
+      estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/ \"Faire
+      une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
     contact:
       display: true
       placeholder: Renseignement leasing
