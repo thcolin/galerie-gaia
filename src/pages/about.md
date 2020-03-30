@@ -9,14 +9,14 @@ tabs:
       clients et collaborateurs.**  \nLa **RSE**, la **marque employeur**, le **bien
       être au travail** pour améliorer la **créativité** et l'**esprit coopératif**,
       tous ces concepts peuvent aussi être stimulés par l'art.\n\nConcrètement je
-      vous propose mon expérience pour : \n\n* Une sélection d'oeuvres d'artistes
-      de la galerie (photos - sérigraphies - sculptures- peintures )\n* Une sélection
+      vous propose mon expérience pour :\n\n* Une sélection d'oeuvres d'artistes de
+      la galerie (photos - sérigraphies - sculptures- peintures )\n* Une sélection
       d'oeuvres sourcées spécialement selon vos critères (style - budget)\n* Une fresque
       murale créée spécialement pour vos locaux  ( intérieur - extérieur)\n* Une installation
       visuelle, sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage
       de votre entreprise...\n\n**Financièrement quelle est la bonne option entre
       l'achat en défiscalisation ou la location financière ?  \nCe sont des solutions
-      qui répondent à des choix de stratégie patrimoniale ou fiscale différentes.**\n\n![Edwin
+      qui répondent à des choix de stratégie patrimoniale et fiscale différentes.**\n\n![Edwin
       Wide](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
       display: true
