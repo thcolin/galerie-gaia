@@ -117,13 +117,15 @@ tabs:
       placeholder: Renseignement création trophée arty
 - title: 1 immeuble 1 oeuvre
   content:
-  - column: "##### 1 immeuble 1 oeuvre\n\nPour les promoteurs référencés auprès du
-      Ministère de la Culture dans le cadre du 1% logement ou du programme \"1 immeuble
-      1 oeuvre \"  \net pour tous les autres qui souhaitent intégrer un projet d'artiste
-      dans les jardins, les halls d'entrée ou toutes autres parties communes ,  \n**contactez-moi
-      pour vous soumettre des noms d'artistes** qui sont en capacité de travailler
-      en mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le
-      masque\" de Kazy Usclef qui va intégrer le hall d'un immeuble nantais en 2020."
+  - column: "##### 1 immeuble 1 oeuvre\n\nVous êtes un promoteur référencé auprès
+      du Ministère de la Culture dans le cadre du 1% logement ou du programme \"1
+      immeuble 1 oeuvre \" ?  \nVous êtes  promoteur immobilier indépendant et vous
+      souhaitez intégrer un projet d'artiste dans les jardins, les halls d'entrée
+      ou toutes autres parties communes pour valoriser le lieu pour le rendre singulier
+      et attractif dans votre stratégie de communication?  \n  \n**Contactez-moi pour
+      vous soumettre des noms d'artistes** qui seront en capacité de travailler en
+      mode projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le masque\"
+      de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020."
     contact:
       display: true
       placeholder: Renseignement projet immobilier
@@ -224,8 +226,8 @@ seo:
     et vous conseille à titre personnel sur vos acquisitions. '
   image: "/forestry/seo-about.jpg"
 redirect_from:
-  - /prestations/
-  - /defiscalisation-oeuvre-d-art/
-  - /location-de-salle-a-nantes/
+- "/prestations/"
+- "/defiscalisation-oeuvre-d-art/"
+- "/location-de-salle-a-nantes/"
 
 ---
