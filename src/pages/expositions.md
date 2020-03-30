@@ -4,19 +4,20 @@ exhibitions:
 - template: exhibition
   title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
-  content: "L' Exposition est reportée , on se la garde bien au chaud pour en profiter
-    quand nous pourrons nous revoir tous ensemble.\n\nTomber par hasard sur le travail
-    de Toma L est la plus belle des chutes!\n\nChuter c'est être arrêté de force,
-    reprendre sa respiration par nécessité avant de se remettre sur pied et comprendre
-    là où l'on s'est fait mal.\nAprès coup, nous découvrons que la peinture de Toma
-    L est un croche pied facétieux du bonhomme qui malicieusement s'amuse de notre
-    gamelle dans un tintamarre incroyable de couleurs.\nNous pourrions aussi perdre
-    pied dans les fonds blancs de ses lithos maculées par ses contours de velours
-    noirs ou ses flaques d'encre.\nMais dans chaque face à face avec une oeuvre de
-    Toma L, il y a de toute façon une histoire à tiroir à dé-nicher.\n\nÇa tombe bien...\n\"Il
-    peint sur Nantes\", première exposition à la Galerie Gaïa  pour Toma L, comme
-    une pause à la maison, dans son pied à terre.\n\n2015 - 2020  - 5ème saison  pour
-    la Galerie Gaïa. \n\nVotre fidélité sera infiniment précieuse"
+  content: "[Télécharger le catalogue **ici**](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdff
+    \"catalogue \") \n\nL' Exposition est reportée , on se la garde bien au chaud
+    pour en profiter quand nous pourrons nous revoir tous ensemble.\n\nTomber par
+    hasard sur le travail de Toma L est la plus belle des chutes!\n\nChuter c'est
+    être arrêté de force, reprendre sa respiration par nécessité avant de se remettre
+    sur pied et comprendre là où l'on s'est fait mal.\nAprès coup, nous découvrons
+    que la peinture de Toma L est un croche pied facétieux du bonhomme qui malicieusement
+    s'amuse de notre gamelle dans un tintamarre incroyable de couleurs.\nNous pourrions
+    aussi perdre pied dans les fonds blancs de ses lithos maculées par ses contours
+    de velours noirs ou ses flaques d'encre.\nMais dans chaque face à face avec une
+    oeuvre de Toma L, il y a de toute façon une histoire à tiroir à dé-nicher.\n\nÇa
+    tombe bien...\n\"Il peint sur Nantes\", première exposition à la Galerie Gaïa
+    \ pour Toma L, comme une pause à la maison, dans son pied à terre.\n\n2015 - 2020
+    \ - 5ème saison  pour la Galerie Gaïa.\n\nVotre fidélité sera infiniment précieuse"
 - template: exhibition
   title: POLYMORPHIE JORJ MORIN
   image: "/forestry/polymorphie-jorj-morin.jpg"
