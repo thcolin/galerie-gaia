@@ -6,7 +6,7 @@ field: Peintre
 birth: "0"
 death: "0"
 expose: true
-biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\"](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020.pdf
+biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\"](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf
   \"Catalogue Toma L\")\n\nL’artiste est né en 1975.\n\n« Je compose en associant
   les pleins et les vides. Les masses sont sombres, moyennes et claires. La lumière
   vient de la toile ou de la couleur. Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes
