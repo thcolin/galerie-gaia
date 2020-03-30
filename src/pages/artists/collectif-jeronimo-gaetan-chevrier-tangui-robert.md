@@ -27,6 +27,16 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
+- title: Strate I
+  image: "/forestry/strate-i.jpg"
+  technique: Sérigraphie 1/1
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: 280€
+  price: 
+  sold: false
 - title: Viçosa VII
   image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
   technique: Sérigraphie
@@ -43,16 +53,6 @@ works:
     width: 70
   description: 16 exemplaires
   price: 420
-- title: Strate I
-  image: "/forestry/strate-i.jpg"
-  technique: Sérigraphie 1/1
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 280€
-  price: 
-  sold: false
 - title: Gisements
   image: "/forestry/gisements.jpg"
   technique: Serigraphies
@@ -195,6 +195,6 @@ works:
   price: 
   sold: false
 redirect_from:
-  - /artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/
----
+- "/artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/"
 
+---
