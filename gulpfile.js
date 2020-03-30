@@ -35,22 +35,22 @@ function trace () {
 function images () {
   return merge(
     src(`${__dirname}/static/forestry/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
+      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
+      .pipe(filter(file => sizeOf(file.path).width <= 1920))
       .pipe(rename(path => {
         path.extname = path.extname.toLowerCase()
       }))
-      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
-      .pipe(filter(file => sizeOf(file.path).width <= 1920))
       .pipe(debug({ title: 'image-min:' }))
       .pipe(imgmin([
         imgmin.mozjpeg(),
         imgmin.optipng(),
       ])),
     src(`${__dirname}/static/forestry/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
+      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
+      .pipe(filter(file => sizeOf(file.path).width > 1920))
       .pipe(rename(path => {
         path.extname = path.extname.toLowerCase()
       }))
-      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
-      .pipe(filter(file => sizeOf(file.path).width > 1920))
       .pipe(debug({ title: 'image-resize:' }))
       .pipe(resizer({ width: 1920 }))
       .pipe(debug({ title: 'image-min:' }))
@@ -64,10 +64,10 @@ function images () {
 
 function traces () {
   return src(`${__dirname}/static/cdn/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
+    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.stem}.svg`)))
     .pipe(rename(path => {
       path.extname = path.extname.toLowerCase()
     }))
-    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.stem}.svg`)))
     .pipe(debug({ title: 'trace-resize:' }))
     .pipe(resizer({ width: 500 }))
     .pipe(debug({ title: 'trace-process:' }))
