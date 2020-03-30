@@ -42,13 +42,13 @@ tabs:
   - column: |-
       **Achat en défiscalisation**
 
-      Cette défiscalisation a été initiée par Jean-Jacques Aillagon Ministre de la Culture  pour soutenir les artistes vivants. Ainsi entreprises et professions libérales peuvent s'engager sur ce mécénat en se constituant un patrimoine.
+      Cette défiscalisation a été initiée par Jean-Jacques Aillagon Ministre de la Culture  pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**
 
       [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914 "Texte officiel")
 
       **Concrètement :**
 
-      * L’oeuvre doit être exposée au public et aux salariés durant 5 ans
+      * L’oeuvre doit être **exposée au public et aux salariés** durant 5 ans
       * L’œuvre figure dans les immobilisations de l’entreprise
       * Le montant de la déduction est inscrit à un compte de réserve spécial au passif du bilan de la société.
 
