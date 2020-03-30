@@ -161,8 +161,8 @@ tabs:
       placeholder: ''
 - title: 'Idées cadeaux '
   content:
-  - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
-      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
+  - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
+      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nÉchange
       et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
       retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
     contact:
