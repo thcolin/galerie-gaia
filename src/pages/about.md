@@ -213,7 +213,7 @@ tabs:
       display: false
       placeholder: ''
   - column: |-
-      Merci pour la confiance accordée par ces sociétés qui me confient des projets riches en défi et émotion
+      **Merci pour la confiance** accordée par ces sociétés qui me confient des projets riches en défis et émotions artistiques.
 
       ![](/forestry/keran.jpg)
 
