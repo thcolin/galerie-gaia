@@ -43,6 +43,18 @@ tabs:
     contact:
       display: false
       placeholder: ''
+  - column: "**Achat en défiscalisation** \n\n###### Soutenir un artiste vivant est
+      un acte fort pour communiquer sur la culture de votre entreprise, sur ses valeurs
+      d'engagement et de mécène.\n\nCette défiscalisation a été créée pour les entreprises
+      et pour les professions libérales et grâce à cet investissement :\n\n* vous
+      constituez un patrimoine\n* vous faites une économie d’impôts\n* vous soutenez
+      le développement de la création artistique contemporaine\n\n[Texte de référence
+      du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
+      \"Texte officiel\")\n\n![Artiste Isabelle HEALY](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/fondation.jpg
+      'Sculpture \"Fondation\"')"
+    contact:
+      display: false
+      placeholder: ''
 - title: Défiscalisation
   content:
   - column: "##### Défiscalisation\n\nL’art sur le lieu de travail apporte de l’inspiration,
