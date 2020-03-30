@@ -39,19 +39,26 @@ tabs:
     contact:
       display: false
       placeholder: ''
-  - column: "**Achat en défiscalisation**\n\nCette défiscalisation a été initiée par
-      Jean-Jacques Aillagon Ministre de la Culture  pour soutenir les artistes vivants.
-      Ainsi entreprises et professions libérales peuvent s'engager sur ce mécénat
-      en se constituant un patrimoine.\n\n[Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
-      \"Texte officiel\")\n\n**Concrètement :**\n\n* L’oeuvre doit être exposée au
-      public et aux salariés durant 5 ans\n* L’œuvre figure dans les immobilisations
-      de l’entreprise\n* Le montant de la déduction est inscrit à un compte de réserve
-      spécial au passif du bilan de la société.\n\n**Exemple pour une oeuvre de 7000€
-      :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire \n* La déduction
-      annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005
-      = 1750€ de plafond annuel déductible\n* Déduction annuelle de l'oeuvre de l'IS
-      \  7000€ / 5 ans = 1400€\n\n![Artiste Isabelle HEALY](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/fondation.jpg
-      'Sculpture \"Fondation\"')"
+  - column: |-
+      **Achat en défiscalisation**
+
+      Cette défiscalisation a été initiée par Jean-Jacques Aillagon Ministre de la Culture  pour soutenir les artistes vivants. Ainsi entreprises et professions libérales peuvent s'engager sur ce mécénat en se constituant un patrimoine.
+
+      [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914 "Texte officiel")
+
+      **Concrètement :**
+
+      * L’oeuvre doit être exposée au public et aux salariés durant 5 ans
+      * L’œuvre figure dans les immobilisations de l’entreprise
+      * Le montant de la déduction est inscrit à un compte de réserve spécial au passif du bilan de la société.
+
+      **Exemple pour une oeuvre de 7000€ :**
+
+      * Une entreprise réalisant 350 000€ de chiffre d’affaire
+      * La déduction annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond annuel déductible
+      * Déduction annuelle de l'oeuvre de l'IS   7000€ / 5 ans = 1400€
+
+      ![](/forestry/fondation.jpg)
     contact:
       display: false
       placeholder: ''
