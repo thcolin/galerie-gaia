@@ -195,6 +195,13 @@ tabs:
       placeholder: ''
 - title: 'Idées cadeaux '
   content:
+  - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
+      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
+      et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
+      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
+    contact:
+      display: true
+      placeholder: Demande carte cadeau
   - column: "##### Encadrement\n\nEncadrer c'est conserver et sublimer une oeuvre.
       \ \nNous vous conseillons avec mon atelier d'encadrement **pour toutes oeuvres
       acquises ou non à la galerie.**\n\n**++** Le verre musée protèges à 98% des
@@ -215,13 +222,6 @@ tabs:
     contact:
       display: true
       placeholder: Devis pour cartes de voeux
-  - column: "##### Carte cadeau\n\nListe de mariage, anniversaire, départ à la retraite
-      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nEchange
-      et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
-      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
-    contact:
-      display: true
-      placeholder: Demande carte cadeau
 - title: 'Références '
   content:
   - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
