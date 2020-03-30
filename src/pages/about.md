@@ -3,6 +3,24 @@ template: about
 tabs:
 - title: Art et fiscalité
   content:
+  - column: "**La location financière** \n\nJ'ai retenu le professionalisme de la
+      société **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec la location
+      & option d'achat à la fin du contrat (leasing). \n\n* La location **n’altère
+      pas votre capacité d'emprunt** et **allège le haut du bilan** (hors IFRS) \n*
+      la location permet d'**étaler le coût de l'achat** entre **13 et 60 mois.**\n*
+      Les **loyers sont déductibles** du résultat imposable et **diminuent ainsi l'IS
+      (entreprises) ou IRPP (professions libérales).**\n* Au terme du contrat l'oeuvre
+      sera cédée pour une **valeur résiduelle de 5%.**\n* Cela concerne des **artistes
+      vivants ou non**.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
+      drouot juin 2017.pdf \"Article Gazette drouot \")\n\n**Exemple pour une oeuvre
+      de 3500€ sur 24 mois :**\n\n* loyer mensuel terme à échoir *  193€ HT\n* économies
+      d'impôts générées 1296€ HT\n* coût global hors économies de charges sociales,
+      IR... 3332€ HT\n\n  _Les loyers sont une charge déductible et génèrent une économie
+      d'IS estimée à 28 %_\n\n[Faire une simulation](http://bail-art.com/le-leasing/
+      \"Faire une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
+    contact:
+      display: false
+      placeholder: ''
   - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
       la tendance de fond va bien au-delà d'un mobilier design pour donner une **ambiance
       chaleureuse** et renforcer l'**identité de votre entreprise** auprès de **vos
