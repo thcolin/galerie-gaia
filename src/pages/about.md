@@ -16,7 +16,7 @@ tabs:
       visuelle, sonore, lumineuse, mobile.\n\n**Financièrement quelle est la bonne
       option entre l'achat en défiscalisation ou la location financière ?  \nCe sont
       des solutions qui répondent à des choix de stratégie patrimoniale ou fiscale
-      différentes.**"
+      différentes.**\n\n![Edwin Wide](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
       display: true
       placeholder: Renseignement leasing
