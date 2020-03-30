@@ -55,35 +55,6 @@ tabs:
     contact:
       display: false
       placeholder: ''
-- title: Défiscalisation
-  content:
-  - column: "##### Défiscalisation\n\nL’art sur le lieu de travail apporte de l’inspiration,
-      de la créativité, du beau et permet de constituer un patrimoine !  \nImaginez
-      votre plaisir, celui de vos équipes et des clients, en entrant dans un espace
-      personnalisé grâce à votre choix d’une toile, d’une sculpture, d’une estampe,
-      photo ou dessin.  \nSoutenir un artiste vivant est un acte fort pour communiquer
-      sur la culture de votre entreprise, sur ses valeurs.\n\nCette déduction a été
-      créée pour les entreprises et pour les professions libérales qui achètent des
-      œuvres d’art originales et d’artistes vivants.  \nGrâce à votre investissement
-      :\n\n* vous constituez un patrimoine\n* vous faites une économie d’impôts\n*
-      vous soutenez le développement de la création artistique contemporaine\n\n[Texte
-      de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
-      \"Texte officiel\")\n\n![Artiste Isabelle HEALY](/forestry/fondation.jpg 'Sculpture
-      \"Fondation\"')"
-    contact:
-      display: true
-      placeholder: Renseignement defiscalisation
-  - column: "**Concrètement :**\n\nL’oeuvre doit être exposée au public ou aux salariés
-      durant 5 ans, durée de son amortissement.  \nL’œuvre figure dans les immobilisations
-      de l’entreprise  \nLe montant de la déduction est inscrit à un compte de réserve
-      spécial au passif du bilan de la société.\n\n**Exemple :**\n\n* Une entreprise
-      réalisant 350 000€ de chiffre d’affaire acquiert une œuvre de 7000€ HT\n* La
-      déduction annuelle ne peut excéder la limite de 5 pour mille du chiffre d’affaire.\n*
-      Le montant annuel maximum déductible 350 000 x 0,005 soit 1750€\n* Amortissement
-      annuel de l’œuvre 7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
-    contact:
-      display: false
-      placeholder: ''
 - title: 'Courtier en art '
   content:
   - column: "Le métier de **courtier en art consiste à vous conseiller en vue d'acquisitions
