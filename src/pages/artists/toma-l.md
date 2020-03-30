@@ -23,8 +23,8 @@ biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\
   sensations : le propre des objets magiques, bénéfiques.\n\nL’artiste questionne,
   doute, travaille, se tourmente, se surprend, trouve, partage, travaille encore.
   Il peint à l’estomac, au cœur. On est en apesanteur.\n\\[Toma-L - Juin 2014 - ©
-  Galerie W\\]\n\n2020 \n\nExposition \"Il peint sur Nantes\" prévue le 21 Mars à
-  la Galerie Gaïa sera reprogrammée dès que possible. \n\n2019\n\nExposition Querelle
+  Galerie W\\]\n\n2020\n\nExposition \"Il peint sur Nantes\" prévue le 21 Mars à la
+  Galerie Gaïa sera reprogrammée dès que possible.\n\n2019\n\nExposition Querelle
   Carbone | Du 4 avril au 9 mai | Le Cosmonaute | Ateliers des Capucins | Brest  \nArt
   Elysée | Salon d’art du 17 au 21 Octobre | Galerie Saltiel | Paris.  \nExposition
   Solo Show | Nov 2019 Galerie Saltiel | Aix-En-Provences  \nExposition, Installation
@@ -93,9 +93,10 @@ biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\
   lui un « véritable électrochoc ». 3 mois plus tard, il peint Mala bestia, sa première
   toile. Le temps des expositions suivra : Paris, Carhaix, Nantes ou Tours."
 exhibitions:
-- title: 'Il peint sur Nantes '
+- title: '"Il peint sur Nantes" exposition reportée '
   start: 'reporté '
   location: Galerie Gaia
+  end: reporté
 works:
 - title: 'Atelier Toma L Série Drawing Trash Color '
   image: "/forestry/drawingtrashcolor2-102x70cm_bd.jpg"
