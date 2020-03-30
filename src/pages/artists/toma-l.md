@@ -222,7 +222,7 @@ works:
     height: 108
     width: 78
   description: "caisse américaine chêne  \n2018091803"
-  price: 
+  price: 3500
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -410,6 +410,6 @@ works:
   price: 5800
   sold: false
 redirect_from:
-  - /artistes/99-toma-l/
----
+- "/artistes/99-toma-l/"
 
+---
