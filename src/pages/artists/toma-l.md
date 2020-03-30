@@ -3,8 +3,8 @@ template: artist
 title: Toma L
 location: ''
 field: Peintre
-birth: "0"
-death: "0"
+birth: ''
+death: ''
 expose: true
 biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\"](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf
   \"Catalogue Toma L\")\n\nL’artiste est né en 1975.\n\n« Je compose en associant
