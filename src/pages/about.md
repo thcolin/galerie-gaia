@@ -16,7 +16,7 @@ tabs:
       visuelle, sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage
       de votre entreprise...\n\n**Financièrement quelle est la bonne option entre
       l'achat en défiscalisation ou la location financière ?  \nCe sont des solutions
-      qui répondent à des choix de stratégie patrimoniale et fiscale différents.**\n\n![Edwin
+      qui répondent à des choix de stratégies patrimoniales et fiscales différentes.**\n\n![Edwin
       Wide](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
       display: true
