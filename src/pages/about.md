@@ -3,6 +3,27 @@ template: about
 tabs:
 - title: Art et fiscalité
   content:
+  - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
+      la tendance de fond va bien au-delà d'un mobilier design pour donner une **ambiance
+      chaleureuse** et renforcer l'**identité de votre entreprise** auprès de **vos
+      clients et collaborateurs.**  \nLa **RSE**, la **marque employeur**, le **bien
+      être au travail** pour améliorer la **créativité** et l'**esprit coopératif**,
+      tous ces concepts peuvent aussi être stimulés par l'art.\n\n**Concrètement**
+      je vous propose mon expérience pour :\n\n**Une sélection** d'oeuvres d'artistes
+      **de la galerie** (photos - sérigraphies - sculptures)  \nUne sélection d'oeuvres
+      sourcées spécialement selon vos critères (style - budget)  \nUne fresque murale
+      créée spécialement pour vos locaux  ( intérieur - extérieur)  \nUne installation
+      visuelle, sonore, lumineuse, mobile.\n\n**Financièrement quelle est la bonne
+      option entre l'achat en défiscalisation ou la location financière ?  \nCe sont
+      des solutions qui répondent à des choix de stratégie patrimoniale ou fiscale
+      différentes.**"
+    contact:
+      display: true
+      placeholder: Renseignement leasing
+  - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
+    contact:
+      display: false
+      placeholder: ''
   - column: "**La location financière** \n\nJ'ai retenu le professionalisme de la
       société **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec la location
       & option d'achat à la fin du contrat (leasing). \n\n* La location **n’altère
@@ -18,37 +39,6 @@ tabs:
       IR... 3332€ HT\n\n  _Les loyers sont une charge déductible et génèrent une économie
       d'IS estimée à 28 %_\n\n[Faire une simulation](http://bail-art.com/le-leasing/
       \"Faire une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
-    contact:
-      display: false
-      placeholder: ''
-  - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
-      la tendance de fond va bien au-delà d'un mobilier design pour donner une **ambiance
-      chaleureuse** et renforcer l'**identité de votre entreprise** auprès de **vos
-      clients et collaborateurs.**  \nLa **RSE**, la **marque employeur**, le **bien
-      être au travail** pour améliorer la **créativité** et l'**esprit coopératif**,
-      tous ces concepts peuvent aussi être stimulés par l'art.  \n  \n**Concrètement**
-      je vous propose mon expérience pour : \n\n  **Une sélection** d'oeuvres d'artistes
-      **de la galerie** (photos - sérigraphies - sculptures)  \n  Une sélection d'oeuvres
-      sourcées spécialement selon vos critères (style - budget)   \n  Une fresque
-      murale créée spécialement pour vos locaux  ( intérieur - extérieur)  \n Une
-      installation visuelle, sonore, lumineuse, mobile.\n\n**Financièrement quelle
-      est la bonne option entre l'achat en défiscalisation, la location et le leasing
-      ?  \nCe sont des solutions qui répondent à des choix stratégiques différents.**\n\nJ'ai
-      retenu le professionalisme de **Bail Art**, pour faciliter l'accès à des oeuvres
-      d'art avec l'option de devenir propriétaire à la fin du contrat. Le leasing
-      d'art offre la possibilité d'améliorer son environnement de travail ET de bénéficier
-      d'avantages financiers et fiscaux selon si vous êtes soumis à l'IS ou IRPP.\n\n[Gazette
-      Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf
-      \"Article Gazette drouot \")\n\n##### Exemple :\n\n* pour une oeuvre de 3500€\n*
-      location 24 mois\n* loyer mensuel terme à échoir *  193€ HT\n* économies d'impôts
-      générées 1296€ HT\n* coût global hors économies de charges sociales, IR... 3332€
-      HT\n  * Les loyers sont une charge déductible et génèrent une économie d'IS
-      estimée à 28 %\n\n[Faire une simulation](http://bail-art.com/le-leasing/ \"Faire
-      une simulation\")\n\n![](/forestry/BAILART•Logo HD.jpg)"
-    contact:
-      display: true
-      placeholder: Renseignement leasing
-  - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
       display: false
       placeholder: ''
