@@ -42,6 +42,24 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: En mon jardin N°4
+  image: "/forestry/galeriegaia@wadecki-En mon jardin n°4 100x100 2019 papier marouflé
+    sur toile.JPG"
+  technique: 'Papier marouflé sur toile '
+  dimensions:
+    height: 100
+    width: 100
+  description: ''
+  price: 0
+- title: En mon jardin N°3
+  image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
+    sur toile.JPG"
+  technique: 'papier marouflé sur toile '
+  dimensions:
+    height: 119
+    width: 89
+  description: "2019"
+  price: 1800
 - title: Le soleil se lève et tout devient nuit (N°3)
   image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
   technique: Acrylique, pastel fusain sur toile
@@ -223,6 +241,6 @@ works:
   price: 
   sold: false
 redirect_from:
-  - /artistes/97-elisabeth-wadecki/
----
+- "/artistes/97-elisabeth-wadecki/"
 
+---
