@@ -210,7 +210,7 @@ tabs:
       display: false
       placeholder: ''
   - column: |-
-      ##### Carte de voeux
+      ##### Carte de voeux entreprise
 
       Des artistes de la galerie ont créé à ma demande des modèles de **cartes de voeux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
 
