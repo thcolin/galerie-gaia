@@ -8,24 +8,28 @@ description: "La **Galerie Gaïa** prolonge l’esprit d’un lieu créé en 197
   Suit alors une programmation d’oeuvres contemporaines abstraites, des gravures,
   lithographies, sérigraphies. Ainsi alternent des artistes confirmés et des expositions
   de Villeglé, Hartung, Corneille, Combas, Bram Van Velde , Alechinsky… et des artistes
-  dont l’oeuvre est en devenir.\n\nEn 2015 Elisabeth Givre prolonge l’aventure et
-  ancre avec la **Galerie Gaïa**, l’art contemporain comme la véritable empreinte
-  de ce lieu situé dans le cœur historique de la ville de Nantes.\n\n6 expositions
-  personnelles en solo-show alternent dans l'année avec des installations collectives
-  montrant simultanément des peintures, sculptures, photographies, dessins, gravures,
-  lithographies, sérigraphies, céramiques et objets uniques de designer que je sélectionne
-  avec attention.\n\nLes héritiers de Jorg Morin célèbre publicitaire nantais, peintre
-  et graveur nous honorent de leur confiance. Ainsi ses gravures, peintures, stèles
-  et tapisseries sont exposées et disponibles à la vente en exclusivité à la galerie.\n\nUn
-  crédo : faire simple\n\nVous pouvez ainsi réserver les oeuvres que vous découvrez
-  sur le site car tout ce que vous voyez est disponible à la vente ou la location
-  (modalités dans \"A propos\").\n\nLes expéditions sont possibles dans le monde entier
-  (DHL - UPS- TNT).\n\nUne hésitation ? Je vous propose d'essayer l'oeuvre chez vous
-  une semaine contre un chèque de caution de son montant. Ainsi tranquillement dans
-  votre espace vous pouvez choisir en toute confiance.\n\nVenez, entrez et découvrez
-  \ \nl’évidence  \nl’évidence devant une œuvre qui s’impose  \nl’évidence qui ne
-  se discute pas et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence
-  qui se partage  \nl’évidence qui euphorise et qui rayonne"
+  dont l’oeuvre est en devenir.\n\n**En 2015 Elisabeth Givre** prolonge l’aventure
+  et ancre avec la **Galerie Gaïa**, l’art contemporain comme la véritable empreinte
+  de ce lieu situé dans le cœur historique de la ville de Nantes, le quartier Decré.\n\n6
+  expositions personnelles en solo-show alternent dans l'année avec des installations
+  collectives montrant simultanément des peintures, sculptures, photographies, dessins,
+  gravures, lithographies, sérigraphies, céramiques et objets uniques de designer
+  que je sélectionne avec attention.\n\nLes héritiers de Jorj Morin célèbre publicitaire
+  nantais, peintre et graveur nous honorent de leur confiance. Ainsi ses gravures,
+  peintures, stèles et tapisseries sont exposées et disponibles à la vente en exclusivité
+  à la galerie.\n\nVous avez trouvé une oeuvre sur le site qui vous plait et vous
+  hésitez ?   \nComment financer votre achat ?   \nLes livraisons sont-elles possibles
+  partout ?  \n**Un crédo : faire simple  \n**  \n**1.**  **Essayer l'oeuvre chez
+  vous** pendant une semaine contre un chèque de caution de son montant. Ainsi tranquillement
+  dans votre espace, avec votre lumière vous pourrez choisir en toute confiance.  \n**2.**
+  \ **Financez votre choix** avec la défiscalisation, le leasing, le paiement en plusieurs
+  fois ou la carte cadeau avec une cagnotte (détail dans la rubrique Prestation) et
+  par virement.  \n**3**. Tout ce que vous voyez est disponible et les expéditions
+  sont possibles en France et dans le monde entier (DHL - UPS- TNT) sur devis.\n\n**Depuis
+  chez vous ou dans la galerie...**  \n**Venez, entrez et découvrez**  \n**l’évidence**
+  \ \n**l’évidence devant une œuvre qui s’impose  \nl’évidence qui ne se discute pas
+  et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence qui
+  se partage  \nl’évidence qui euphorise et qui rayonne**"
 title: La Galerie
 about: "Un besoin d’information,  \nConnaître les actualités de la galerie,  \nEnvie
   d’être invité aux prochains vernissages ?"
@@ -38,6 +42,6 @@ seo:
     Envie d’être invité aux prochains vernissages ?
   image: "/forestry/seo-contact.jpg"
 redirect_from:
-  - /galerie-d-art-nantes/
+- "/galerie-d-art-nantes/"
 
 ---
