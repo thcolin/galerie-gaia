@@ -1,17 +1,17 @@
 ---
 template: about
 tabs:
-- title: Location Leasing
+- title: Art et fiscalité
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des bureaux nouvelles générations,
-      la tendance de fond va bien au-delà d'un mobilier design.   \nLa RSE, la marque
-      employeur, le bien être au travail pour améliorer la créativité et l'esprit
-      coopératif, tous ces concepts peuvent être stimulés par l'art mural et sculptural.
-      \  \nConcrètement la mise en place d'oeuvres d'artistes dans l'espace de travail
-      flexible et lifestyle lui donne une ambiance chaleureuse et renforce l'identité
-      de l'entreprise qui aujourd'hui veut se singulariser auprès de ses clients et
-      attirer des talents.\n\nJ'ai retenu le professionalisme de **Bail Art**, pour
-      faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire
+      la tendance de fond va bien au-delà d'un mobilier design.  \nLa **RSE**, la
+      **marque employeur**, le **bien être au travail** pour améliorer la **créativité**
+      et l'**esprit coopératif**, tous ces concepts peuvent être stimulés par l'art
+      mural et sculptural.  \nConcrètement je vous propose une sélection d'oeuvres
+      d'artistes à installer dans vos espaces de travail, salle d'attentes pour donner
+      une ambiance chaleureuse et renforcer l'identité de votre entreprise auprès
+      de vos clients et collaborateurs.\n\nJ'ai retenu le professionalisme de **Bail
+      Art**, pour faciliter l'accès à des oeuvres d'art avec l'option de devenir propriétaire
       à la fin du contrat. Le leasing d'art offre la possibilité d'améliorer son environnement
       de travail ET de bénéficier d'avantages financiers et fiscaux selon si vous
       êtes soumis à l'IS ou IRPP.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
