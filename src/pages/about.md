@@ -21,10 +21,6 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement leasing
-  - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
-    contact:
-      display: false
-      placeholder: ''
   - column: "**La location financière** \n\nJ'ai retenu le professionalisme de la
       société **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec la location
       & option d'achat à la fin du contrat (leasing). \n\n* La location **n’altère
@@ -224,10 +220,10 @@ tabs:
       placeholder: Devis pour cartes de voeux
 - title: 'Références '
   content:
-  - column: "Ces lieux à part, hors mode où le sur-mesure fait partie de l'ADN du
-      travail,  \nCes lieux où vous serez regardé-e, écouté-e sans qu'on vous impose
-      du déjà vu,  \nDes artisans à la frontière de la démarche artistique !  \nSouvent
-      devenus ami-e-s, **allez hop venez de ma part en toute légèreté**\n\n[Gilles
+  - column: "**Voici quelques  lieux à part**, hors mode où le sur-mesure fait partie
+      de l'ADN du travail,  \nCes lieux où vous serez regardé-e, écouté-e sans qu'on
+      vous impose du déjà vu,  \nDes artisans à la frontière de la démarche artistique
+      !  \nSouvent devenus ami-e-s, **allez hop venez de ma part en toute légèreté**\n\n[Gilles
       et Julie](https://gillesetjulie.com/) : j'veux du cuir !\n\n[Damien Hamon](https://daha.fr/
       \"Damien Hamon\") : ébéniste qui met le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
       \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\n[La
