@@ -123,12 +123,12 @@ tabs:
       et diffusé sur les réseaux sociaux.\n\nJe vous propose de **vous démarquer**
       grâce à une recherche d'artistes qui travaillent sur commande, avec un cahier
       des charges pour que le trophée soit à la hauteur de votre évènement.\n\nCi-dessous
-      trophée de l'Open de Squash de Nantes par l'artiste Go Segawa\n\n![Artiste Go
+      Open International de Squash Nantes - trophée par Go Segawa\n\n![Artiste Go
       Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
     contact:
       display: true
       placeholder: Renseignement création trophée arty
-- title: 1 immeuble 1 oeuvre
+- title: Immobilier Architecture
   content:
   - column: "##### 1 immeuble 1 oeuvre\n\nVous êtes un promoteur référencé auprès
       du Ministère de la Culture dans le cadre du 1% logement ou du programme \"1
