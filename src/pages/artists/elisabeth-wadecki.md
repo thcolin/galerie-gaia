@@ -200,45 +200,45 @@ works:
   description: 2019 /  600€ encadré
   price: 
   sold: false
-- title: Sans Titre (N°4)
+- title: Sans Titre N°4
   image: "/forestry/sans-titre-ndegree4.jpg"
   technique: Acrylique, pastels, fusain sur toile
   dimensions:
     height: 100
     width: 81
     depth: 
-  description: 2018 / 1600€
-  price: 
+  description: '2018 '
+  price: 1600
   sold: false
-- title: Sans Titre (N°8)
+- title: Sans Titre N°8
   image: "/forestry/sans-titre-ndegree8.jpg"
   technique: Acrylique et pastel sur toile
   dimensions:
     height: 100
     width: 100
     depth: 
-  description: 2018 / 1800€
-  price: 
+  description: '2018 '
+  price: 1800
   sold: false
-- title: Sans Titre (N°11)
+- title: Sans Titre N°11
   image: "/forestry/sans-titre-ndegree11.jpg"
   technique: Acrylique et pastel sur toile
   dimensions:
     height: 100
     width: 100
     depth: 
-  description: 2018 / 1800€
-  price: 
+  description: '2018 '
+  price: 1800
   sold: false
-- title: Sans Titre (1/10)
+- title: Sans Titre N° 11 (1/10)
   image: "/forestry/sans-titre-110.jpg"
-  technique: ''
+  technique: 'Tirage en quadrichromie '
   dimensions:
     height: 
     width: 
     depth: 
-  description: 290€ encadré
-  price: 
+  description: "2018 \n\nprix avec encadrement verre musée antireflet"
+  price: 290
   sold: false
 redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
