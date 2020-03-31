@@ -80,7 +80,7 @@ works:
   description: "2019   \noeuvre  encadrée baguette aluminium plaquée chêne naturel"
   price: 280
   sold: false
-- title: En mon jardin N°6
+- title: En mon jardin N°8
   image: "/forestry/en-mon-jardin-ndegree6.jpg"
   technique: Acrylique et bâtons d’huile sur papier
   dimensions:
@@ -100,7 +100,7 @@ works:
   description: "2019   \noeuvre encadrée baguette aluminium"
   price: 1350
   sold: false
-- title: Sans Titre N°3
+- title: Sans Titre N°4
   image: "/forestry/sans-titre-ndegree3.jpg"
   technique: Acrylique et pastel sur papier
   dimensions:
