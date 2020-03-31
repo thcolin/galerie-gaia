@@ -54,41 +54,21 @@ works:
 - title: En mon jardin N°3
   image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
     sur toile.JPG"
-  technique: 'papier marouflé sur toile '
+  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
     height: 119
     width: 89
   description: "2019"
   price: 1800
-- title: Le soleil se lève et tout devient nuit (N°3)
+- title: Le soleil se lève et tout devient nuit N°4
   image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
   technique: Acrylique, pastel fusain sur toile
   dimensions:
     height: 116
     width: 81
     depth: 
-  description: 2019 / 1800€
-  price: 
-  sold: false
-- title: Sans Titre N°4
-  image: "/forestry/sans-titre-ndegree4.jpg"
-  technique: Acrylique et bâtons d'huile sur papier
-  dimensions:
-    height: 31
-    width: 31
-    depth: 
-  description: "2019 / \n280€ encadré"
-  price: 
-  sold: false
-- title: Sans Titre N°8
-  image: "/forestry/sans-titre-ndegree8.jpg"
-  technique: Acrylique et bâtons d'huile sur papier
-  dimensions:
-    height: 31
-    width: 31
-    depth: 
-  description: "2019/ \n 280€ encadré"
-  price: 
+  description: '2019 '
+  price: 1800
   sold: false
 - title: Sans Titre N°12
   image: "/forestry/sans-titre-ndegree12.jpg"
@@ -97,18 +77,18 @@ works:
     height: 31
     width: 31
     depth: 
-  description: 2019 / 280€ encadré
-  price: 
+  description: "2019   \noeuvre  encadrée baguette aluminium plaquée chêne naturel"
+  price: 280
   sold: false
-- title: En mon jardin (N°6)
+- title: En mon jardin N°6
   image: "/forestry/en-mon-jardin-ndegree6.jpg"
   technique: Acrylique et bâtons d’huile sur papier
   dimensions:
     height: 86
     width: 54
     depth: 
-  description: 2018 / 900€ encadré
-  price: 
+  description: "2019   \noeuvre encadrée baguette aluminium "
+  price: 900
   sold: false
 - title: En mon jardin N°7
   image: "/forestry/en-mon-jardin-ndegree7.jpg"
