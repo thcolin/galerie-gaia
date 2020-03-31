@@ -2,7 +2,7 @@ import React, { useState, useCallback } from 'react'
 import { withPrefix } from 'gatsby'
 import theme from 'theme'
 
-const Image = ({ min = true, trace = true, src, alt = '', ...props }) => {
+const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => {
   const [ready, setReady] = useState(false)
   const ref = useCallback(node => {
     if (!ready && node !== null && node.complete) {
