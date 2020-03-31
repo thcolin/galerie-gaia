@@ -16,6 +16,21 @@ biography: |-
   texte de  Nathalie Tatai-Pogioni
 exhibitions: []
 works:
+- title: Vague hurlante
+  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
+  description: ''
+  price: 3000
+  dimensions:
+    height: 81
+    width: 130
+- title: Video vague hurlante
+  image: "/forestry/galeriegaia@borquezvaguehurlante.mp4"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 81
+    width: 130
+  description: "2020"
+  price: 3000
 - title: L'équilibre
   technique: 'Huile sur toile '
   dimensions:
@@ -24,13 +39,6 @@ works:
   description: "2020"
   price: 2900
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
-- title: Vague hurlante
-  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
-  description: ''
-  price: 3000
-  dimensions:
-    height: 81
-    width: 130
 - title: l ocean aveugle
   image: "/forestry/l-ocean-aveugle.jpg"
   technique: huile sur toile 2016
