@@ -86,7 +86,7 @@ tabs:
     contact:
       display: false
       placeholder: ''
-- title: Evènementiel entreprise
+- title: 'Evènementiel '
   content:
   - column: "##### **Team Building artistique**\n\nVous recherchez une idée qui sort
       des sentiers battus pour vos **séminaires, incentives, réunions en comité de
