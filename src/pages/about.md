@@ -105,12 +105,12 @@ tabs:
       display: true
       placeholder: Renseignement team building
   - column: |-
-      **Créez une expérience client singulière !**
+      **Créer une exposition dans vos locaux !**
 
       En tant que commissaire d'exposition je vous propose :
 
-      * Une sélection d'artistes régionaux, nationaux ou internationaux pour créer une **exposition dans vos locaux**, avec la médiation lors du vernissage
-      * Un choix d'artistes pour réaliser une **performance live** lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.
+      * Une sélection d'artistes régionaux ou nationaux  pour créer une **expérience client singulière** avec la médiation artistique lors du vernissage.
+      * Un choix d'artistes pour vivre une **performance en live** lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.
 
         ![](/forestry/galeriegaia@keran@basso.jpg "Keran exposition Giani Basso")
 
