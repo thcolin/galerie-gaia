@@ -150,55 +150,55 @@ works:
   description: 2018 / 550€
   price: 
   sold: false
-- title: Sans Titre (N°5)
+- title: Sans Titre N°5
   image: "/forestry/sans-titre-ndegree5.jpg"
   technique: Toile marouflée sur carton
   dimensions:
     height: 41
     width: 41
     depth: 
-  description: 2018  /  550€
-  price: 
+  description: "2018   \noeuvre encadrée baguette bois naturel "
+  price: 550
   sold: false
-- title: Si on allait (N°1)
+- title: Si on allait N°1
   image: "/forestry/si-on-allait-ndegree1.jpg"
   technique: Acrylique, pastels sur carton
   dimensions:
     height: 22
     width: 22
     depth: 
-  description: 2018 / 280€
-  price: 
+  description: "2018   \noeuvre encadrée baguette bois naturel"
+  price: 280
   sold: false
-- title: Si on allait (N°5)
+- title: Si on allait N°5
   image: "/forestry/si-on-allait-ndegree5.jpg"
   technique: Acrylique, pastels sur carton
   dimensions:
     height: 22
     width: 22
     depth: 
-  description: 2018 /  280€
-  price: 
+  description: "2018   \noeuvre encadrée baguette bois naturel"
+  price: 280
   sold: false
-- title: Le Roi profond (N°3 ouest)
+- title: Le Rai profond N°3 ouest
   image: "/forestry/le-roi-profond-ndegree3-ouest.jpg"
-  technique: Acrylique et pastel
+  technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
     width: 57
     depth: 
-  description: 2019 / 600€ encadré
-  price: 
+  description: "2019 \n\noeuvre encadrée baguette aluminium "
+  price: 600
   sold: false
-- title: Le Roi profond (N°4 ouest)
+- title: Le Rai profond N°4 ouest
   image: "/forestry/le-roi-profond-ndegree4-ouest.jpg"
-  technique: Acrylique et pastel
+  technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
     width: 60
     depth: 
-  description: 2019 /  600€ encadré
-  price: 
+  description: "2019 \n\noeuvre encadré baguette aluminium"
+  price: 600
   sold: false
 - title: Sans Titre N°4
   image: "/forestry/sans-titre-ndegree4.jpg"
