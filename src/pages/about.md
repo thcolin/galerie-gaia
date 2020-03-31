@@ -118,12 +118,13 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement exposition en entreprise
-  - column: "**Trophée artistique pour challenge**\n\nLa remise d'un trophée pour
-      un challenge sportif ou une incentive interne est  un moment singulier car très
-      photographié et diffusé sur les réseaux sociaux.  \n  \nJe vous propose de **vous
-      démarquer** en vous proposant des artistes qui travailleront sur votre cahier
-      des charges pour que le trophée soit à la hauteur de votre évènement.\n\n![Artiste
-      Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
+  - column: "**Trophée artistique** \n\nLa remise d'un trophée lors d'un challenge
+      sportif ou une incentive interne est  un moment singulier car très photographié
+      et diffusé sur les réseaux sociaux.\n\nJe vous propose de **vous démarquer**
+      grâce à une recherche d'artistes qui travaillent sur commande, avec un cahier
+      des charges pour que le trophée soit à la hauteur de votre évènement.\n\nCi-dessous
+      trophée de l'Open de Squash de Nantes par l'artiste Go Segawa\n\n![Artiste Go
+      Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
     contact:
       display: true
       placeholder: Renseignement création trophée arty
