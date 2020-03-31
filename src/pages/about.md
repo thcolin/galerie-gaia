@@ -24,27 +24,26 @@ tabs:
   - column: |-
       **La location financière**
 
-      J'ai retenu le professionalisme de la société **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec la location & option d'achat à la fin du contrat (leasing).
+      J'ai retenu le professionnalisme de la société **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la location & option d'achat à la fin du contrat (leasing).
 
       * Votre **capacité d'emprunt** est préservée et le haut du bilan allégé (hors IFRS)
       * **Étalement  du coût de l'achat** entre **13 et 60 mois.**
       * Déduction du résultat imposable et **réduction de l'IS (entreprises)** ou **IRPP (professions libérales).**
-      * Au terme du contrat l'oeuvre peut vous être cédée pour une **valeur résiduelle** de 5%.
+      * Au terme du contrat l’œuvre peut vous être cédée pour une **valeur résiduelle** de 5%.
       * Cela concerne des **artistes vivants ou non**.
 
       [Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf "Article Gazette drouot ")
 
-      **Exemple pour une oeuvre de 3500€ sur 24 mois :**
+      **Calcul pour une œuvre de 3500€ sur 24 mois :**
 
       * loyer mensuel terme à échoir *  193€ HT
       * économies d'impôts générées 1296€ HT
-      * coût global hors économies de charges sociales, IR... 3332€ HT
+      * coût global hors économies de charges sociales, IR = 3332€ HT
+        * _Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %_
 
-        _Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %_
+      [Faire une simulation](http://bail-art.com/le-leasing/ "FAIRE UNE SIMULATION")
 
-      [Faire une simulation](http://bail-art.com/le-leasing/ "Faire une simulation")
-
-      ![](/forestry/BAILART•Logo HD.jpg)
+      ![](/forestry/BAILART•Logo HD.jpg)![](/forestry/galeriegaia@boisrond-omr.jpg)
     contact:
       display: false
       placeholder: ''
