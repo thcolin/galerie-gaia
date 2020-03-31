@@ -43,6 +43,14 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
 exhibitions: []
 works:
 - title: Sans titre N°4
+  image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique,pastels- surtoile-marouflée-surcarton-2018-550euros-41x41-encadrébaguetteboisnaturel.jpg"
+  technique: acrylique et pastels sur toile marouflée sur carton
+  dimensions:
+    height: 40
+    width: 40
+  description: oeuvre encadrée baguette bois naturel
+  price: 550
+- title: Sans titre N°4
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
