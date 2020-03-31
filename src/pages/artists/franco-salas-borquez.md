@@ -21,8 +21,9 @@ works:
   dimensions:
     height: 100
     width: 100
-  description: ''
-  price: 0
+  description: "2020"
+  price: 2900
+  image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: ''
