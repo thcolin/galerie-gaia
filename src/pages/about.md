@@ -167,6 +167,16 @@ tabs:
     contact:
       display: false
       placeholder: ''
+  - column: "##### Architecte d'intérieur\n\nUne fois les espaces et volumes créés,
+      une fois les couleurs et papiers peints retenus, le mobilier adapté, que mettre
+      au mur et sur les étagères ?  \nSélectionnez avec vos clients sur le site les
+      oeuvres et sculptures qui vous interpellent et je vous les livre (région Pays
+      de Loire) pour faire des essais sur place.\n\n**+** Possibilité de **prêt durant
+      une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++ Apport
+      d'affaire** pour toutes ventes effectuées par vos soins"
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Idées cadeaux '
   content:
   - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
