@@ -137,8 +137,9 @@ tabs:
       autres parties communes pour valoriser le lieu, le rendre singulier et attractif
       dans votre **stratégie de commercialisation** ?\n\n**Contactez-moi pour vous
       soumettre des noms d'artistes** qui seront en capacité de travailler en mode
-      projet et en amont avec les architectes.\n\nCi-contre l'oeuvre \"Le masque\"
-      de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020."
+      projet et en amont avec les architectes.\n\nCi-dessous installation \"Le masque\"
+      de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020.\n\n![/forestry/masque.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/masque.jpg
+      \"Masque kazy\")"
     contact:
       display: true
       placeholder: Renseignement projet immobilier
