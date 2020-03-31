@@ -45,7 +45,7 @@ works:
 - title: En mon jardin N°4
   image: "/forestry/galeriegaia@wadecki-En mon jardin n°4 100x100 2019 papier marouflé
     sur toile.JPG"
-  technique: 'Papier marouflé sur toile '
+  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
     height: 100
     width: 100
