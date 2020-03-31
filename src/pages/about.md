@@ -48,19 +48,17 @@ tabs:
       display: false
       placeholder: ''
   - column: |-
-      **Achat en défiscalisation**
+      **La défiscalisation**
 
-      Cette défiscalisation a été initiée par Jean-Jacques Aillagon Ministre de la Culture  pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**
-
-      [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914 "Texte officiel")
-
-      **Concrètement :**
+      Cette niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture  pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**
 
       * L’oeuvre doit être **exposée au public et aux salariés** durant 5 ans
       * L’œuvre figure dans les immobilisations de l’entreprise
       * Le montant de la déduction est inscrit à un compte de réserve spécial au passif du bilan de la société.
 
-      **Exemple pour une oeuvre de 7000€ :**
+        [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914 "Texte officiel")
+
+      **Calcul pour une oeuvre de 7000€ :**
 
       * Une entreprise réalisant 350 000€ de chiffre d’affaire
       * La déduction annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond annuel déductible
@@ -68,8 +66,8 @@ tabs:
 
       ![](/forestry/fondation.jpg)
     contact:
-      display: false
-      placeholder: ''
+      display: true
+      placeholder: Demande de conseils fiscaux pour acquisition d'une oeuvre
 - title: 'Courtier en art '
   content:
   - column: "Le métier de **courtier en art consiste à vous conseiller en vue d'acquisitions
