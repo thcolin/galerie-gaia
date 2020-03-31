@@ -42,6 +42,23 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: En mon jardin N°3
+  image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
+    sur toile.JPG"
+  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
+  dimensions:
+    height: 119
+    width: 89
+  description: "2019"
+  price: 1800
+- title: Sans titre N°3
+  image: "/forestry/galeriegaia@wadecki@Sanstitre-2018-72x52-acrylique, pastels,fusain-surpapier-encadréaluminiumsousverre-700euros.jpg"
+  technique: 'pastel et fusain sur papier '
+  dimensions:
+    height: 52
+    width: 72
+  description: "2018  \noeuvre encadrée baguette aluminium "
+  price: 700
 - title: Sans titre N°8
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°8-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
@@ -59,6 +76,15 @@ works:
     width: 40
   description: oeuvre encadrée baguette bois naturel
   price: 550
+- title: En mon jardin N°4
+  image: "/forestry/galeriegaia@wadecki-En mon jardin n°4 100x100 2019 papier marouflé
+    sur toile.JPG"
+  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
+  dimensions:
+    height: 100
+    width: 100
+  description: "2019"
+  price: 1800
 - title: Sans titre N°4
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
@@ -77,24 +103,6 @@ works:
     width: 31
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
-- title: En mon jardin N°4
-  image: "/forestry/galeriegaia@wadecki-En mon jardin n°4 100x100 2019 papier marouflé
-    sur toile.JPG"
-  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: "2019"
-  price: 1800
-- title: En mon jardin N°3
-  image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
-    sur toile.JPG"
-  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
-  dimensions:
-    height: 119
-    width: 89
-  description: "2019"
-  price: 1800
 - title: Le soleil se lève et tout devient nuit N°4
   image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
   technique: Acrylique, pastel fusain sur toile
