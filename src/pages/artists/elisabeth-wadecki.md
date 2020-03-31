@@ -110,45 +110,25 @@ works:
   description: 2018 / 900€ encadré
   price: 
   sold: false
-- title: En mon jardin (N°7)
+- title: En mon jardin N°7
   image: "/forestry/en-mon-jardin-ndegree7.jpg"
   technique: Acrylique et bâtons d'huile sur papier
   dimensions:
     height: 114
     width: 54
     depth: 
-  description: 2018 / 1350€ encadré
-  price: 
+  description: "2019   \noeuvre encadrée baguette aluminium"
+  price: 1350
   sold: false
-- title: Sans Titre (N°4)
-  image: "/forestry/sans-titre-ndegree4.jpg"
-  technique: Acrylique et pastel
-  dimensions:
-    height: 52
-    width: 72
-    depth: 
-  description: 2018 /  Encadré aluminum sous verre 800€
-  price: 
-  sold: false
-- title: Sans Titre (N°3)
+- title: Sans Titre N°3
   image: "/forestry/sans-titre-ndegree3.jpg"
-  technique: Acrylique et pastel
+  technique: Acrylique et pastel sur papier
   dimensions:
     height: 52
     width: 72
     depth: 
-  description: 2018 /  Encadré aluminum sous verre 800€
-  price: 
-  sold: false
-- title: Sans Titre (N°4)
-  image: "/forestry/sans-titre-ndegree4.jpg"
-  technique: Toile marouflée sur carton
-  dimensions:
-    height: 41
-    width: 41
-    depth: 
-  description: 2018 / 550€
-  price: 
+  description: "2018   \nEncadré aluminum sous verre "
+  price: 800
   sold: false
 - title: Sans Titre N°5
   image: "/forestry/sans-titre-ndegree5.jpg"
