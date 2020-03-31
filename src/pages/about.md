@@ -88,19 +88,19 @@ tabs:
       placeholder: ''
 - title: 'Evènementiel '
   content:
-  - column: "##### **Team Building artistique**\n\nVous recherchez une idée qui sort
-      des sentiers battus pour vos **séminaires, incentives, réunions en comité de
-      direction?**\n\nFédérez l’esprit d’équipe en rassemblant vos salariés autour
-      d un projet commun, **de 10 à 1000 personnes en créant une fresque collective**
-      en équipes sur votre culture d'entreprise, votre Histoire, vos valeurs.  \nVous
-      pourrez vous servir de cette réalisation en support de communication interne
-      et externe.  \nAutres contextes pour créer cet évènement original :  **anniversaire
-      d’entreprise,  inauguration, lancement de produit ou de service, arbre de Noël
-      avec les enfants de vos collaborateurs...**\n\nJ'ai sélectionné le talent et
-      le savoir-faire d'une artiste qui a eu un parcours comme cadre commerciale dans
-      dans la grande distribution.  \nAssociée à mon expertise de chef de projet et
-      de formateur pour Manpower Group , nous vous proposons un projet clé en main
-      ( RH - RSE - Communication interne & externe).\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
+  - column: "##### **Team Building artistique**\n\nVous recherchez une idée originale,
+      qui sort des sentiers battus pour vos **séminaires, incentives, réunions de
+      comité de direction ?**\n\n**Créer une fresque collective !  \nDe 10 à 1000
+      collaborateurs ou clients,**  fédérez des équipes qui seront coachées par une
+      artiste autour de la culture de votre entreprise, de son Histoire, de ses  valeurs.
+      \ \nCette réalisation deviendra un support de communication interne et externe.
+      \ \nCet évènement peut être l'occasion d'un **anniversaire d’entreprise, d'une
+      \ inauguration d'un showroom, du lancement d'un produit ou d'un service, d'un
+      arbre de Noël ...**\n\n**++** J'ai sélectionné le talent et l'expérience d'une
+      artiste qui a eu précédemment un parcours comme cadre commerciale dans dans
+      la grande distribution,  \nAssocié à mon expertise de chef de projet et de formateur
+      en développement personnel pour Manpower Group ,   \nnous vous proposons un
+      **projet clé en main  RH - RSE - Communication interne & externe.**\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
     contact:
       display: true
       placeholder: Renseignement team building
