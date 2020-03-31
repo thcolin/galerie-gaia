@@ -16,6 +16,13 @@ biography: |-
   texte de  Nathalie Tatai-Pogioni
 exhibitions: []
 works:
+- title: L'équilibre
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 100
+    width: 100
+  description: ''
+  price: 0
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: ''
@@ -29,9 +36,9 @@ works:
   dimensions:
     height: 273
     width: 159
-    depth:
+    depth: 
   description: "-"
-  price:
+  price: 
   sold: false
 - title: le chaos et l'ordre
   image: "/forestry/le-chaos-et-lordre.jpg"
@@ -39,9 +46,9 @@ works:
   dimensions:
     height: 182
     width: 260
-    depth:
+    depth: 
   description: "-"
-  price:
+  price: 
   sold: false
 - title: la flame et l'horizon
   image: "/forestry/la-flame-et-lhorizon.jpg"
@@ -49,9 +56,9 @@ works:
   dimensions:
     height: 200
     width: 190
-    depth:
+    depth: 
   description: "-"
-  price:
+  price: 
   sold: false
 - title: le profond
   image: "/forestry/le-profond.jpg"
@@ -59,9 +66,9 @@ works:
   dimensions:
     height: 190
     width: 200
-    depth:
+    depth: 
   description: "-"
-  price:
+  price: 
   sold: false
 - title: la furie
   image: "/forestry/la-furie.jpg"
@@ -69,11 +76,11 @@ works:
   dimensions:
     height: 312
     width: 166
-    depth:
+    depth: 
   description: "-"
-  price:
+  price: 
   sold: false
 redirect_from:
-  - /artistes/64-franco-salas-borquez/
----
+- "/artistes/64-franco-salas-borquez/"
 
+---
