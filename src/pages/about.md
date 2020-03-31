@@ -146,6 +146,18 @@ tabs:
     contact:
       display: false
       placeholder: ''
+  - column: "##### Architecte d'intérieur\n\nUne fois les espaces et volumes créés,
+      une fois les couleurs et papiers peints retenus, le mobilier adapté, que mettre
+      au mur et sur les étagères ?  \nSélectionnez avec vos clients sur le site les
+      oeuvres et sculptures qui vous interpellent et je vous les livre (région Pays
+      de Loire) pour faire des essais sur place.\n\n**+** Possibilité de **prêt durant
+      une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++ Apport
+      d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
+      Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
+      \"Le Molière Christophe Vinet\")"
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Architecte d''intérieur '
   content:
   - column: "##### Projet clé en main :\n\nL'architecte travaille en priorité sur
@@ -173,7 +185,9 @@ tabs:
       oeuvres et sculptures qui vous interpellent et je vous les livre (région Pays
       de Loire) pour faire des essais sur place.\n\n**+** Possibilité de **prêt durant
       une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++ Apport
-      d'affaire** pour toutes ventes effectuées par vos soins"
+      d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
+      Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
+      \"Le Molière Christophe Vinet\")"
     contact:
       display: false
       placeholder: ''
