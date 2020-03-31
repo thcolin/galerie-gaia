@@ -26,10 +26,10 @@ tabs:
 
       J'ai retenu le professionalisme de la société **Bail Art**, pour faciliter l'accès à des oeuvres d'art avec la location & option d'achat à la fin du contrat (leasing).
 
-      * La location n’altère pas votre **capacité d'emprunt** et allège le haut du bilan (hors IFRS)
-      * la location permet d'**étaler le coût de l'achat** entre **13 et 60 mois.**
-      * Les loyers sont déductibles du résultat imposable et **diminuent** ainsi **l'IS (entreprises)** ou **IRPP (professions libérales).**
-      * Au terme du contrat l'oeuvre sera cédée pour une **valeur résiduelle** de 5%.
+      * Votre **capacité d'emprunt** est préservée et le haut du bilan allégé (hors IFRS)
+      * **Étalement  du coût de l'achat** entre **13 et 60 mois.**
+      * Déduction du résultat imposable et **réduction de l'IS (entreprises)** ou **IRPP (professions libérales).**
+      * Au terme du contrat l'oeuvre peut vous être cédée pour une **valeur résiduelle** de 5%.
       * Cela concerne des **artistes vivants ou non**.
 
       [Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf "Article Gazette drouot ")
