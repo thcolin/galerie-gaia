@@ -6,28 +6,22 @@ field: Peintre
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  L’artiste est né en 1958 à la Rochelle. Il a validé une licence d’Arts Plastiques en 1979, et s’installe en tant que graphiste indépendant en 1982. Lecompte est inscrit à la Maison des Artistes depuis 1985.
-
-  « Le travail de Philippe Lecomte porte sur le corps et ne cherche pas seulement à prendre en compte sa représentation.
-  Il s'intéresse autant à la surface qu'à ce qu'elle recouvre, car le visible ne lui semble pas être le sujet de la peinture. Si cela était le cas, il suffirait d'ouvrir les yeux.Chacun sait que la réalité descriptible n'est qu'une part de la réalité.La peinture ne peut être illustrative, elle ne montre pas : elle découvre. » Amélie Maison d’Art
-
-
-  Expositions  Personnelles :
-  Galerie Fradin - Nantes (44) - 1996 - 1997
-  Galerie du Rayon Vert (44) - Nantes - 2003
-  Le terrain vague (44) - Nantes - 2005
-  Galerie Arts Pluriels (44) - Nantes - 2007
-  Festival Poeisis (44) - Chateaubriant - Juin 2008
-  Atelier Le Bras (44) - Nantes - Septembre 2008
-  Atelier Legault (49) - Pouancé - Octobre 2009
-  Atelier Le Bras (44) - Nantes - Mai 2010
-  Galerie Art Concept - Bordeaux (33) - Novembre 2010
-  Galerie Tandille - St Vivien-de-Médoc (33) - Septembre 2011
-  Galerie du Rayon Vert - Nantes (44) - Février 2013
-  Galerie Antireflets - Nantes (44) - Mars 2016
-  Galerie Gaïa - Nantes - Janvier 2017
-  Galerie Gaïa - Nantes - Novembre 2019
+biography: "Né en 1958 à la Rochelle. Vit et travaille à Nantes.\n\n« Mon travail
+  porte sur le corps et ne cherche pas seulement à prendre en compte sa représentation.
+  Il s’intéresse autant à la surface qu’à ce qu’elle recouvre, car le visible ne lui
+  semble pas être le sujet de la peinture. Si cela était le cas, il suffirait d’ouvrir
+  les yeux.Chacun sait que la réalité descriptible n’est qu’une part de la réalité.
+  La peinture ne peut être illustrative, elle ne montre pas : elle découvre. »\n\nExpositions
+  personnelles :\n\n1996 - 1997 Galerie Fradin - (44) - Nantes \n\n2003 Galerie du
+  Rayon Vert (44) - Nantes\n\n2005 Le terrain vague - (44) - Nantes\n\n2007 Galerie
+  Arts Pluriels (44) - Nantes\n\n2008 Festival Poeisis - (44) Chateaubriant   \nAtelier
+  Le Bras - (44) - Nantes\n\n2009 Atelier Legault - (49) Pouancé\n\n2010 Atelier Le
+  Bras - (44) Nantes  \nGalerie Art Concept - (33) Bordeaux\n\n2011Galerie Tandille
+  - (33) Vertheuil\n\n2013 Galerie du Rayon Vert - (44) - Nantes  \nGalerie Anti Reflets
+  - (44) Nantes\n\n2016 Galerie L’appart - (24) Périgueux\n\n2017 Galerie Gaïa - (44)
+  Nantes  \nAtelier Le Bras - (44) Nantes\n\n2019 Galerie Tandille - (33) Vertheuil
+  \ \nGalerie Ars Raden - (29) Quimper  \nGalerie Les 2 Zèbres - (12) Monnes  \nGalerie
+  Les Bigotes - (56) Vannes   \nGalerie Gaïa - (44) Nantes"
 exhibitions: []
 works:
 - title: 2017PLp12
@@ -173,6 +167,6 @@ works:
   price: 
   sold: false
 redirect_from:
-  - /artistes/71-philippe-lecomte/
----
+- "/artistes/71-philippe-lecomte/"
 
+---
