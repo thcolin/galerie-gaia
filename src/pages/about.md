@@ -70,13 +70,14 @@ tabs:
       placeholder: Demande de conseils fiscaux pour acquisition d'une oeuvre
 - title: 'Courtier en art '
   content:
-  - column: "Le métier de **courtier en art consiste à vous conseiller en vue d'acquisitions
-      à titre patrimonial.**  \nGrâce à des contacts avec des **galeries internationales**
-      via ma marketplace de **Artprice**, je peux gérer pour vous la sélection et/ou
-      la négociation d'une oeuvre.  \n\\++ Vous pouvez choisir **la solution optimale**
-      qui comprend le dossier de financement, les démarches administratives, la logistique
-      de livraison et l'accrochage par un professionnel.\n\n[info.gouv biens exonérés
-      impôts](https://www.impots.gouv.fr/portail/particulier/patrimoine-taxable-lisf
+  - column: "Le métier de **courtier en art consiste à vous conseiller sur une sélection
+      d'artistes en vue d'acquisitions à titre patrimonial.**  \nGrâce à des contacts
+      avec des **galeries internationales** via la marketplace de **Artprice**, je
+      peux gérer pour vous la recherche d'une œuvre et mener la négociation.  \n  \n\\++
+      Vous pouvez choisir **la solution \"de clou à clou\"** qui comprend le dossier
+      de financement, les démarches administratives, la logistique de livraison et
+      l'accrochage ou l'installation par un professionnel.  \n  \n[site info.gouv
+      liste des biens exonérés ISF](https://www.impots.gouv.fr/portail/particulier/patrimoine-taxable-lisf
       \"ISF\")"
     contact:
       display: true
@@ -85,7 +86,7 @@ tabs:
     contact:
       display: false
       placeholder: ''
-- title: Evènementiel
+- title: Evènementiel entreprise
   content:
   - column: "##### **Team Building artistique**\n\nVous recherchez une idée qui sort
       des sentiers battus pour vos **séminaires, incentives, réunions en comité de
