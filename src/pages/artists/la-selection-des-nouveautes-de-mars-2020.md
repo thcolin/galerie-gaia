@@ -9,6 +9,18 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection du mois de Mars 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+- title: En mon jardin N°4 de Elisabeth Wadecki
+  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
+  technique: 'acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 97
+    width: 130
+  description: "2020"
+  price: 2200
 - title: En mon jardin N°1 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
@@ -26,10 +38,6 @@ works:
     depth: 41
   description: ''
   price: 4900
-- title: Sélection du mois de Mars 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
 - title: Atlantis Teatro Dimitri Bourriau
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibond
