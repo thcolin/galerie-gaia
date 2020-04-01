@@ -42,6 +42,14 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: En mon jardin N°4
+  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
+  technique: Acrylique et bâtons d'huile sur toile
+  dimensions:
+    height: 97
+    width: 130
+  description: "2020"
+  price: 2200
 - title: En mon jardin N°1
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros.JPG"
   technique: 'Acrylique bâtons d''huile sur toile '
