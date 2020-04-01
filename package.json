@@ -8,7 +8,8 @@
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
-    "lint": "npx standardx --fix --verbose | npx snazzy"
+    "lint": "npx standardx --fix --verbose | npx snazzy",
+    "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.13.19",
