@@ -42,44 +42,30 @@ works:
   dimensions:
     height: 146
     width: 114
-    depth:
-  description: |-
-    2800€ /
-    2019
-  price:
+    depth: 
+  description: "2019"
+  price: 2800
   sold: false
 - title: Exposition peinture collage estampe
   image: "/forestry/exposition-peinture-collage-estampe.jpg"
   technique: peinture collage estampe
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: 6 juin - 29 juin 2019
-  price:
+  price: 
   sold: false
 - title: 'Nuits en mer #24 Installation'
   image: "/forestry/nuits-en-mer-24-installation.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 6
-    width:
+    width: 
     depth: 25
-  description: "Prix sur demande \nInstallation créée pour l'exposition à la galerie
-    \nelle se compose de 6 panneaux installées selon le protocole de l'artiste"
-  price:
-  sold: false
-- title: sans
-  image: "/forestry/sans.jpg"
-  technique: Linogravure 10 /13
-  dimensions:
-    height: 50
-    width: 64
-    depth:
-  description: |-
-    350€
-    Imprimée au musée de l'imprimerie de Nantes
-  price:
+  description: Prix sur demande Installation créée pour l'exposition à la galerie
+    elle se compose de 6 panneaux installés selon le protocole de l'artiste
+  price: ''
   sold: false
 - title: 'Nuit en mer #34'
   image: "/forestry/nuit-en-mer-34.jpg"
@@ -87,11 +73,9 @@ works:
   dimensions:
     height: 146
     width: 114
-    depth:
-  description: |-
-    2019 /
-    2800€
-  price:
+    depth: 
+  description: '2019  '
+  price: 2800
   sold: false
 - title: 'Black Rhapsody #14'
   image: "/forestry/black-rhapsody-14.jpg"
@@ -99,21 +83,9 @@ works:
   dimensions:
     height: 130
     width: 97
-    depth:
-  description: |-
-    2016-2019 /
-    2200€
-  price:
-  sold: false
-- title: Sans Titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Collage
-  dimensions:
-    height: 76
-    width: 58
-    depth:
-  description: 600€
-  price:
+    depth: 
+  description: '2016-2019  '
+  price: 2200
   sold: false
 - title: Nuit en mer III (1/13)
   image: "/forestry/nuit-en-mer-iii-113.jpg"
@@ -121,9 +93,9 @@ works:
   dimensions:
     height: 50
     width: 65
-    depth:
-  description: 350€
-  price:
+    depth: 
+  description: 'Musée imprimerie de Nantes '
+  price: 350
   sold: false
 - title: Sans Titre (4/10)
   image: "/forestry/sans-titre-410.jpg"
@@ -131,29 +103,9 @@ works:
   dimensions:
     height: 66
     width: 50
-    depth:
+    depth: 
   description: 350€
-  price:
-  sold: false
-- title: Sans
-  image: "/forestry/sans.jpg"
-  technique: Collage
-  dimensions:
-    height: 76
-    width: 59
-    depth:
-  description: 600€
-  price:
-  sold: false
-- title: Sans Titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Collage
-  dimensions:
-    height: 77
-    width: 57
-    depth:
-  description: 600€
-  price:
+  price: 
   sold: false
 - title: Sans
   image: "/forestry/sans.jpg"
@@ -161,49 +113,9 @@ works:
   dimensions:
     height: 83
     width: 63
-    depth:
+    depth: 
   description: Informations bientôt disponibles
-  price:
-  sold: false
-- title: Sans Titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Collage
-  dimensions:
-    height: 83
-    width: 63
-    depth:
-  description: Informations bientôt disponibles
-  price:
-  sold: false
-- title: Sans Titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Collage
-  dimensions:
-    height: 90
-    width: 70
-    depth:
-  description: Informations bientôt disponibles
-  price:
-  sold: false
-- title: Sans Titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Collage
-  dimensions:
-    height: 90
-    width: 70
-    depth:
-  description: 780€ encadré
-  price:
-  sold: false
-- title: Sans Titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Collage
-  dimensions:
-    height: 89
-    width: 70
-    depth:
-  description: 780€ encadré
-  price:
+  price: 
   sold: false
 - title: Nuit en mer IV (4/25)
   image: "/forestry/nuit-en-mer-iv-425.jpg"
@@ -211,21 +123,21 @@ works:
   dimensions:
     height: 69
     width: 53
-    depth:
+    depth: 
   description: 480€ encadré
-  price:
+  price: 
   sold: false
-- title: Isabelle dans son atelier
+- title: Isthme dans son atelier
   image: "/forestry/isabelle-dans-son-atelier.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
 redirect_from:
-  - /artistes/85tistes/85-isthme/
----
+- "/artistes/85tistes/85-isthme/"
 
+---
