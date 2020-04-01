@@ -14,16 +14,16 @@ tabs:
       (style - budget)\n* Création d'une fresque murale pour vos locaux en intérieur
       ou extérieur par un artiste graffeur (street-art)\n* Réalisation d'une installation
       visuelle, sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage
-      de votre entreprise...\n\n###### Achat en location financière ou en défiscalisation
-      ?\n\nDeux solutions qui répondent à des choix stratégiques patrimoniaux et fiscaux
-      différents.\n\n##### **La location financière**\n\nJ'ai retenu le professionnalisme
-      de la société **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la
-      location & option d'achat à la fin du contrat.\n\n* C**apacité d'emprunt** préservée
-      et haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13
-      à 60 mois.**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
-      ou **IRPP (professions libérales).**\n* Au terme du contrat un transfert de
-      propriété vous est proposé au terme du contrat de location.\n* Cela concerne
-      des **artistes vivants ou non**.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
+      de votre entreprise...\n\n##### Achat en location financière ou en défiscalisation
+      ?  \n  \nDeux solutions qui répondent à des choix stratégiques patrimoniaux
+      et fiscaux différents.\n\n##### **La location financière**\n\nJ'ai retenu le
+      professionnalisme de la société **Bail Art**, pour faciliter l'accès à des œuvres
+      d'art avec la location & option d'achat à la fin du contrat.\n\n* C**apacité
+      d'emprunt** préservée et haut du bilan allégé (hors IFRS)\n* **Étalement du
+      coût d'achat** de **13 à 60 mois.**\n* Déduction du résultat imposable et **réduction
+      de l'IS (entreprises)** ou **IRPP (professions libérales).**\n* Au terme du
+      contrat un transfert de propriété vous est proposé au terme du contrat de location.\n*
+      Cela concerne des **artistes vivants ou non**.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
       drouot juin 2017.pdf \"Article Gazette drouot \")\n\n**Calcul pour une œuvre
       de 3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir *  193€ HT\n* économies
       d'impôts générées 1296€ HT\n* coût global hors économies de charges sociales,
@@ -44,13 +44,17 @@ tabs:
       annuel déductible\n* Déduction annuelle de l' IS   7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
     contact:
       display: true
-      placeholder: Renseignement leasing & défiscalisation
+      placeholder: Renseignement location & défiscalisation
   - column: |-
       ![](/forestry/galeriegaia@edwinwide-omr.jpg)
 
       ![](/forestry/442A2827.JPG)
 
       ![](/forestry/galeriegaia@tomaL-2018031801-Greensideohtheman-160x121cm-ES.jpg)
+
+      ![](/forestry/_DSF6849 (2).JPG)
+
+      ![](/forestry/New york JF Molliere 01.JPG)
     contact:
       display: false
       placeholder: ''

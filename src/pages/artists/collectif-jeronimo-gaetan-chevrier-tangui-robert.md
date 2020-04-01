@@ -37,133 +37,6 @@ works:
   description: 280€
   price: 
   sold: false
-- title: Viçosa VII
-  image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 70
-    width: 100
-  description: en 15 exemplaires
-  price: 620
-- title: Versants 1
-  image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
-  technique: 'Sérigraphie '
-  dimensions:
-    height: 50
-    width: 70
-  description: 16 exemplaires
-  price: 420
-- title: Gisements
-  image: "/forestry/gisements.jpg"
-  technique: Serigraphies
-  dimensions:
-    height: 50
-    width: 70
-    depth: 
-  description: 380€
-  price: 
-  sold: false
-- title: gisements 3
-  image: "/forestry/gisements-3.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 20
-    width: 30
-    depth: 
-  description: 160€ encadré
-  price: 
-  sold: false
-- title: Installation murale
-  image: "/forestry/installation-murale.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "projet et réalisation de fresque sur mesure \nétude, devis sur devis
-    à la galerie"
-  price: 
-  sold: false
-- title: Sérigraphie pour Gaïa
-  image: "/forestry/serigraphie-pour-gaia.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 50
-    width: 70
-    depth: 
-  description: "20 EXEMPLAIRES \nCOMMANDE POUR LES 40 ANS DU LIEU"
-  price: 
-  sold: false
-- title: Viçosa I
-  image: "/forestry/vicosa-i.jpg"
-  technique: ''
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 170€ encadré
-  price: 
-  sold: false
-- title: Viçosa II
-  image: "/forestry/vicosa-ii.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 170€ encadré
-  price: 
-  sold: false
-- title: Viçosa IV
-  image: "/forestry/vicosa-iv.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 170€ encadré
-  price: 
-  sold: false
-- title: Viçosa V
-  image: "/forestry/vicosa-v.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 170€ encadré
-  price: 
-  sold: false
-- title: Viçosa VI
-  image: "/forestry/vicosa-vi.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 170€ encadré
-  price: 
-  sold: false
-- title: 'Strate #20'
-  image: "/forestry/strate-20.jpg"
-  technique: Sérigraphie 2/5
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: 450€ encadré
-  price: 
-  sold: false
-- title: 'Diptyque Strates #8'
-  image: "/forestry/diptyque-strates-8.jpg"
-  technique: Sérigraphie 1/1
-  dimensions:
-    height: 30
-    width: 21
-    depth: 
-  description: 230€ encadré
-  price: 
-  sold: false
 - title: Strate II
   image: "/forestry/strate-ii.jpg"
   technique: Sérigraphie 1/1
@@ -172,6 +45,16 @@ works:
     width: 60
     depth: 
   description: 350€
+  price: 
+  sold: false
+- title: Strate 20
+  image: "/forestry/strate-20.jpg"
+  technique: Sérigraphie 2/5
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: 450€ encadré
   price: 
   sold: false
 - title: Strate 27
@@ -192,6 +75,113 @@ works:
     width: 24
     depth: 
   description: 180€
+  price: 
+  sold: false
+- title: Diptyque Strate 8
+  image: "/forestry/diptyque-strates-8.jpg"
+  technique: Sérigraphie 1/1
+  dimensions:
+    height: 30
+    width: 21
+    depth: 
+  description: 230€ encadré
+  price: 
+  sold: false
+- title: Viçosa VII
+  image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 70
+    width: 100
+  description: en 15 exemplaires
+  price: 620
+- title: Viçosa VI
+  image: "/forestry/vicosa-vi.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: 170€ encadré
+  price: 
+  sold: false
+- title: Viçosa V
+  image: "/forestry/vicosa-v.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: 170€ encadré
+  price: 
+  sold: false
+- title: Viçosa IV
+  image: "/forestry/vicosa-iv.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: 170€ encadré
+  price: 
+  sold: false
+- title: Viçosa II
+  image: "/forestry/vicosa-ii.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: 170€ encadré
+  price: 
+  sold: false
+- title: Viçosa I
+  image: "/forestry/vicosa-i.jpg"
+  technique: ''
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: 170€ encadré
+  price: 
+  sold: false
+- title: gisements 3
+  image: "/forestry/gisements-3.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 20
+    width: 30
+    depth: 
+  description: 160€ encadré
+  price: 
+  sold: false
+- title: Versants 1
+  image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
+  technique: 'Sérigraphie '
+  dimensions:
+    height: 50
+    width: 70
+  description: 16 exemplaires
+  price: 420
+- title: Installation murale
+  image: "/forestry/installation-murale.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: "projet et réalisation de fresque sur mesure \nétude, devis sur devis
+    à la galerie"
+  price: 
+  sold: false
+- title: Sérigraphie pour Gaïa
+  image: "/forestry/serigraphie-pour-gaia.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 50
+    width: 70
+    depth: 
+  description: "20 EXEMPLAIRES \nCOMMANDE POUR LES 40 ANS DU LIEU"
   price: 
   sold: false
 redirect_from:
