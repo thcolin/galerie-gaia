@@ -9,6 +9,14 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: En mon jardin N°1 de Elisabeth Wadecki
+  image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros.JPG"
+  technique: 'acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 150
+    width: 150
+  description: "2019"
+  price: 3200
 - title: Stan par  Virginie Chardon
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2916.jpg"
   technique: bronze
