@@ -106,17 +106,16 @@ tabs:
       autres parties communes pour valoriser le lieu, le rendre singulier et attractif
       dans votre **stratégie de commercialisation** ?\n\n**Contactez-moi pour vous
       soumettre des noms d'artistes** qui seront en capacité de travailler en mode
-      projet et en amont avec les architectes.\n\nCi-dessous installation \"Le masque\"
-      de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020.\n\n![/forestry/masque.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/masque.jpg
+      projet et en amont avec les architectes.\n\n_Installation \"Le masque\" de Kazy
+      Usclef qui intègre le hall d'un immeuble nantais en 2020._\n\n![/forestry/masque.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/masque.jpg
       \"Masque kazy\")\n\n##### Architecte d'intérieur\n\nUne fois les espaces et
       volumes créés, une fois les couleurs et papiers peints retenus, le mobilier
       adapté, que mettre au mur et sur les étagères ?  \nSélectionnez avec vos clients
       sur le site les œuvres et sculptures qui vous interpellent et je vous les livre
       (région Pays de Loire) pour faire des essais sur place.\n\n**+** Possibilité
       de **prêt durant une semaine** contre chèque de caution du montant de l’œuvre.\n\n**++
-      Apport d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
-      Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
-      \"Le Molière Christophe Vinet\")"
+      Apport d'affaire** pour toutes ventes effectuées par vos soins\n\n_Brasserie
+      Le Molière par Christophe Vinet - Photographies JF Mollière_\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)"
     contact:
       display: true
       placeholder: Renseignement projet immobilier
@@ -137,7 +136,11 @@ tabs:
   - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
       \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nÉchange
       et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
-      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")"
+      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")\n\n##### Encadrement\n\nEncadrer
+      c'est conserver et sublimer une oeuvre.  \nNous vous conseillons avec mon atelier
+      d'encadrement **pour toutes oeuvres acquises ou non à la galerie.**\n\n**++**
+      Le verre musée protèges à 98% des UV du soleil et de la lune, en plus il est
+      anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)"
     contact:
       display: true
       placeholder: Demande carte cadeau
