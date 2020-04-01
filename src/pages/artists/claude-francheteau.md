@@ -29,6 +29,14 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: Ciel 060
+  image: "/forestry/galeriegaia_Francheteau_Ciel060(2016)_37x37_(cadre50x50).jpg"
+  technique: Dessin
+  dimensions:
+    height: 37
+    width: 37
+  description: œuvre encadrée 50X50 cm
+  price: 400
 - title: CIEL 2067
   image: "/forestry/ciel-2067.jpg"
   technique: Acrylique sur toile
@@ -36,8 +44,8 @@ works:
     height: 80
     width: 80
     depth: 
-  description: 1800€
-  price: 
+  description: caisse américaine bois brut
+  price: 1800
   sold: false
 - title: CIEL 2031
   image: "/forestry/ciel-2031.jpg"
@@ -57,68 +65,6 @@ works:
     width: 40
     depth: 
   description: 450€
-  price: 
-  sold: false
-- title: 'TETE A TETE pour la Nuit des Galeries #2'
-  image: "/forestry/tete-a-tete-pour-la-nuit-des-galeries-2.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: |-
-    TOUJOURS D ACTUALITE  :  Passez commande pour votre portrait ou celui d'une personne que vous aimez !
-    un belle idée de cadeau
-  price: 
-  sold: false
-- title: CAFE PHILO EXPO
-  image: "/forestry/cafe-philo-expo.jpg"
-  technique: MIXTE SUR TOILE
-  dimensions:
-    height: 50
-    width: 80
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: CIEL 2018
-  image: "/forestry/ciel-2018.jpg"
-  technique: mixte sur toile
-  dimensions:
-    height: 17
-    width: 36
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: CIEL 2063
-  image: "/forestry/ciel-2063.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: CIEL 2061
-  image: "/forestry/ciel-2061.jpg"
-  technique: ''
-  dimensions:
-    height: 98
-    width: 68
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: CIEL 2060
-  image: "/forestry/ciel-2060.jpg"
-  technique: Acrylique
-  dimensions:
-    height: 98
-    width: 69
-    depth: 
-  description: ''
   price: 
   sold: false
 - title: "937"
