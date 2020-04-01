@@ -130,14 +130,14 @@ works:
   price: 
   sold: false
 - title: In the wood for love
-  image: "/forestry/in-the-wood-for-love.jpg"
+  image: "/forestry/galeriegaia@laurecarre-inthewoodforlove-collage.jpg"
   technique: ''
   dimensions:
     height: 37
     width: 44
     depth: 
-  description: 230€
-  price: 
+  description: ''
+  price: 300
   sold: false
 - title: Native spririt
   image: "/forestry/native-spririt.jpg"
