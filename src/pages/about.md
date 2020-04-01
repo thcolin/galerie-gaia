@@ -133,13 +133,13 @@ tabs:
 - title: 'Idées cadeaux '
   content:
   - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
-      \ \nLa carte cadeau permet de laisser le choix de plus de 400 oeuvres  \nÉchange
-      et retour possible\n\n![carte cadeau galerie mariage anniversaire départ à la
-      retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")\n\n##### Encadrement\n\nEncadrer
-      c'est conserver et sublimer une oeuvre.  \nNous vous conseillons avec mon atelier
-      d'encadrement **pour toutes oeuvres acquises ou non à la galerie.**\n\n**++**
-      Le verre musée protèges à 98% des UV du soleil et de la lune, en plus il est
-      anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)\n\n#####
+      \ \nLa carte cadeau permet de  choisir parmi +400 œuvres disponibles.  \nA partir
+      de 50€ sans limite dans le temps.\n\n![carte cadeau galerie mariage anniversaire
+      départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")\n\n#####
+      Encadrement\n\nEncadrer c'est conserver et sublimer une oeuvre.  \nNous vous
+      conseillons avec mon atelier d'encadrement **pour toutes oeuvres acquises ou
+      non à la galerie.**\n\n**++** Le verre musée protèges à 98% des UV du soleil
+      et de la lune, en plus il est anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)\n\n#####
       Carte de voeux entreprise\n\nDes artistes de la galerie ont créé à ma demande
       des modèles de **cartes de voeux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr
       \"catalogue carte de voeux \").\n\nNous pouvons aussi **personnaliser votre
