@@ -21,29 +21,22 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement leasing & défiscalisation
-  - column: |-
-      **La location financière**
-
-      J'ai retenu le professionnalisme de la société **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la location & option d'achat à la fin du contrat (leasing).
-
-      * Votre **capacité d'emprunt** est préservée et le haut du bilan allégé (hors IFRS)
-      * **Étalement  du coût de l'achat** entre **13 et 60 mois.**
-      * Déduction du résultat imposable et **réduction de l'IS (entreprises)** ou **IRPP (professions libérales).**
-      * Au terme du contrat l’œuvre peut vous être cédée pour une **valeur résiduelle** de 5%.
-      * Cela concerne des **artistes vivants ou non**.
-
-      [Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf "Article Gazette drouot ")
-
-      **Calcul pour une œuvre de 3500€ & 24 mois :**
-
-      * loyer mensuel terme à échoir *  193€ HT
-      * économies d'impôts générées 1296€ HT
-      * coût global hors économies de charges sociales, IR = 3332€ HT
-        * _Les loyers sont une charge déductible et génèrent une économie d'IS estimée à 28 %_
-
-      [Faire une simulation](http://bail-art.com/le-leasing/ "FAIRE UNE SIMULATION")
-
-      ![](/forestry/BAILART•Logo HD.jpg)![Isabelle Healy](/forestry/fondation.jpg "Sculpture ")"Fondation" Bronze I Healy
+  - column: "**La location financière**\n\nJ'ai retenu le professionnalisme de la
+      société **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la location
+      & option d'achat à la fin du contrat (leasing).\n\n* Votre **capacité d'emprunt**
+      est préservée et le haut du bilan allégé (hors IFRS)\n* **Étalement  du coût
+      de l'achat** entre **13 et 60 mois.**\n* Déduction du résultat imposable et
+      **réduction de l'IS (entreprises)** ou **IRPP (professions libérales).**\n*
+      Au terme du contrat l’œuvre peut vous être cédée pour une **valeur résiduelle**
+      de 5%.\n* Cela concerne des **artistes vivants ou non**.\n\n[Gazette Drouot
+      - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf \"Article
+      Gazette drouot \")\n\n**Calcul pour une œuvre de 3500€ & 24 mois :**\n\n* loyer
+      mensuel terme à échoir *  193€ HT\n* économies d'impôts générées 1296€ HT\n*
+      coût global hors économies de charges sociales, IR = 3332€ HT\n  * _Les loyers
+      sont une charge déductible et génèrent une économie d'IS estimée à 28 %_\n\n[Faire
+      une simulation](http://bail-art.com/le-leasing/ \"FAIRE UNE SIMULATION\")\n\n![](/forestry/BAILART•Logo
+      HD.jpg)![Isabelle Healy](/forestry/fondation.jpg \"Sculpture \")  \n_\"Fondation\"
+      bronze Isabelle Healy_"
     contact:
       display: false
       placeholder: ''
