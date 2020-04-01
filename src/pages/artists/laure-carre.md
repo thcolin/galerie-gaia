@@ -39,25 +39,25 @@ works:
   description: 1400€
   price: 
   sold: false
-- title: "637"
+- title: Brume et Basile
   image: "/forestry/637.jpg"
-  technique: ''
+  technique: Lithographie
   dimensions:
     height: 
     width: 
     depth: 
   description: ''
-  price: 
+  price: 160
   sold: false
 - title: Salle d'attente
   image: "/forestry/salle-dattente.jpg"
-  technique: Mixte sur toile
+  technique: Huile sur toile
   dimensions:
     height: 200
     width: 200
     depth: 
   description: ''
-  price: 
+  price: 6000
   sold: false
 - title: La boxeuse amoureuse
   image: "/forestry/la-boxeuse-amoureuse.jpg"
