@@ -18,12 +18,12 @@ exhibitions: []
 works:
 - title: en famille la dernière série des bronze
   image: "/forestry/en-famille-la-derniere-serie-des-bronze.jpg"
-  technique: ''
+  technique: Bronze édition 8 exemplaires Fonderie Le Floch
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: Prix selon format 1000€ - 1200€ - 1400€
   price: 
   sold: false
 - title: Famille Hérons
@@ -33,8 +33,8 @@ works:
     height: 49
     width: 16
     depth: 16
-  description: 650 €
-  price: 
+  description: ''
+  price: 650
   sold: false
 - title: Don Cristo
   image: "/forestry/don-cristo.jpg"
@@ -43,8 +43,8 @@ works:
     height: 52
     width: 13
     depth: 6
-  description: 650 €
-  price: 
+  description: ''
+  price: 650
   sold: false
 redirect_from:
 - "/artistes/13-olivier-fremont/"

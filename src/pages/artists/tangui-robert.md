@@ -1,21 +1,19 @@
 ---
 template: artist
 title: Tangui Robert
-location: ""
+location: ''
 field: Photographe et Graveur
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  Tangui Robert est un architecte et plasticien.
-  L'artiste fait coexister l'architecture et la peinture. Robert a mis en place une création singulière, hybride entre art et architecture, qu'il affine et développe au fil de ses expériences professionnelles et de ses voyages dans le monde.
-  Son travail fait alors appel à de nombreux modes de représentations, à différentes échelles.
-  Il exerce sur des territoires urbains, s'inspirant de l'atmosphère de la rue, retranscrivant ce qu'il découvre par ses croquis.
-  Le spectateur est alors face à une composition abstraite et précise à la fois.
-  Les fragments urbains présentés ici appartiennent à Louxor, Pékin, Bucarest, Porto, Udaipur ou Xiamen...
-
-
-  "Au hasard de promenades urbaines, il arrive parfois que l'œil se fixe sur un détail... un mur, un graff, une trace, un collage... qui prend soudain un sens particulier pour l'observateur. Pour cela, l'œil a effectué un cadrage particulier, qui met en scène cette trace urbaine et lui donne du sens par rapport à un ensemble de références propres. "
+biography: Le travail artistique de Tangui Robert est à la lisière de l’architecture,
+  de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister
+  cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler
+  de manière hybride, en mêlant expériences professionnelles, voyages à travers le
+  monde, et recherches plus théoriques autour de la question du regard et de la perception
+  du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques,
+  collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture
+  de Nantes.
 exhibitions: []
 works:
 - title: Yangshuo (EA)
@@ -119,6 +117,6 @@ works:
   price: 
   sold: false
 redirect_from:
-  - /artistes/25-tangui-robert/
----
+- "/artistes/25-tangui-robert/"
 
+---
