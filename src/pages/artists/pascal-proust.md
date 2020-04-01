@@ -77,15 +77,24 @@ biography: "Pascal Proust est né en 1960, sur les bords de Loire.\n\n\"À trave
   Catalogue », 40 sculptures- 40 écrivains, courant 2019"
 exhibitions: []
 works:
-- title: "949"
-  image: "/forestry/949.jpg"
-  technique: ''
+- title: Folie PP 5-2019
+  technique: tôle acier laqué, pliée, couleur rouge
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
+    height: 33
+    width: 38
+    depth: 13
+  description: "2019"
+  price: 1000
+  image: "/forestry/@proust-PP5-33x13-1.jpg"
+- title: Folie PP 8-2019
+  image: "/forestry/949.jpg"
+  technique: tôle acier laqué, pliée, couleur rouge
+  dimensions:
+    height: 34
+    width: 15
+    depth: 16
+  description: "2019"
+  price: 900
   sold: false
 - title: Folie PP 6-2019
   image: "/forestry/@proust-PP6-35x15-1.JPG"
