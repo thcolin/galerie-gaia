@@ -8,14 +8,14 @@ tabs:
       chaleureuse** et renforcer l'**identité de votre entreprise** auprès de **vos
       clients et collaborateurs.**  \nLa **RSE**, la **marque employeur**, le **bien
       être au travail** pour améliorer la **créativité** et l'**esprit coopératif**,
-      toutes ces intentions peuvent   \n**être boostées par l'installation d'oeuvres
-      d'artistes.**\n\nJe vous propose plusieurs solutions :\n\n* Sélection d'oeuvres
+      toutes ces intentions peuvent  \n**être boostées par l'installation d’œuvres
+      d'artistes.**\n\nJe vous propose plusieurs solutions :\n\n* Sélection d’œuvres
       en réserve à la galerie (photos - sérigraphies - sculptures- peintures )\n*
       Sourcing spécialement selon vos critères (style - budget)\n* Création d'une
       fresque murale pour vos locaux en intérieur ou extérieur par un artiste graffeur
       (street-art)\n* Réalisation d'une installation visuelle, sonore, lumineuse,
       mobile sur mesure avec des matériaux de recyclage de votre entreprise...\n\n**Achat
-      en défiscalisation OU location financière ?  \n  \nCe sont des solutions qui
+      en défiscalisation ou location financière ?**\n\n**Ce sont des solutions qui
       répondent à des choix stratégiques patrimoniaux et fiscaux différents.**\n\n![Edwin
       Wide](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
