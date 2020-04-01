@@ -4,19 +4,19 @@ tabs:
 - title: Art et fiscalité
   content:
   - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
-      la tendance de fond va bien au-delà d'un mobilier design pour donner une **ambiance
-      chaleureuse** et renforcer l'**identité de votre entreprise** auprès de **vos
-      clients et collaborateurs.**  \nLa **RSE**, la **marque employeur**, le **bien
-      être au travail** pour améliorer la **créativité** et l'**esprit coopératif**,
-      toutes ces intentions peuvent  \n**être boostées par l'installation d’œuvres
-      d'artistes.**\n\nJe vous propose plusieurs solutions :\n\n* Sélection d’œuvres
-      en réserve à la galerie (photos - sérigraphies - sculptures- peintures )\n*
-      Sourcing spécifique selon vos critères (style - budget)\n* Création d'une fresque
-      murale pour vos locaux en intérieur ou extérieur par un artiste graffeur (street-art)\n*
-      Réalisation d'une installation visuelle, sonore, lumineuse, mobile sur mesure
-      avec des matériaux de recyclage de votre entreprise...\n\n###### **Achat en
-      location financière ou en défiscalisation ?  \n**Deux solutions qui répondent
-      à des choix stratégiques patrimoniaux et fiscaux différents.\n\n![Edwin Wide](/forestry/galeriegaia@edwinwide-omr.jpg)\n\n#####
+      la tendance de fond va bien au-delà d'un mobilier design pour donner une ambiance
+      chaleureuse et renforcer l'**identité de votre entreprise** auprès de vos clients
+      et collaborateurs.  \nLa RSE, la marque employeur, le bien être au travail pour
+      améliorer la créativité et l'esprit coopératif, toutes ces intentions peuvent
+      \ \nêtre **boostées par l'installation d’œuvres d'artistes.**\n\nJe vous propose
+      plusieurs solutions :\n\n* Sélection d’œuvres en réserve à la galerie (photos
+      - sérigraphies - sculptures- peintures )\n* Sourcing spécifique selon vos critères
+      (style - budget)\n* Création d'une fresque murale pour vos locaux en intérieur
+      ou extérieur par un artiste graffeur (street-art)\n* Réalisation d'une installation
+      visuelle, sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage
+      de votre entreprise...\n\n###### Achat en location financière ou en défiscalisation
+      ?\n\nDeux solutions qui répondent à des choix stratégiques patrimoniaux et fiscaux
+      différents.\n\n![Edwin Wide](/forestry/galeriegaia@edwinwide-omr.jpg)\n\n#####
       **La location financière**\n\nJ'ai retenu le professionnalisme de la société
       **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la location & option
       d'achat à la fin du contrat (leasing).\n\n* C**apacité d'emprunt** préservée
@@ -42,7 +42,7 @@ tabs:
       \"Texte officiel\")\n\n**Calcul pour une œuvre de 7000€ :**\n\n* Une entreprise
       réalisant 350 000€ de chiffre d’affaire\n* La déduction annuelle est plafonnée
       à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond
-      annuel déductible\n* Déduction annuelle de l' IS   7000€ / 5 ans = 1400€\n\n![/forestry/galeriegaia@boisrond-omr.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@boisrond-omr.jpg)"
+      annuel déductible\n* Déduction annuelle de l' IS   7000€ / 5 ans = 1400€\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
     contact:
       display: true
       placeholder: Renseignement leasing & défiscalisation
