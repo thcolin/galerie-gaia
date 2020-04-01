@@ -137,19 +137,19 @@ tabs:
       de 50€ sans limite dans le temps.\n\n![carte cadeau galerie mariage anniversaire
       départ à la retraite](/forestry/galeriegaia-cartecadeau.jpg \"carte cadeau\")\n\n#####
       Encadrement\n\nEncadrer c'est conserver et sublimer une oeuvre.  \nNous vous
-      conseillons avec mon atelier d'encadrement **pour toutes oeuvres acquises ou
+      conseillons avec mon atelier d'encadrement **pour toutes œuvres acquises ou
       non à la galerie.**\n\n**++** Le verre musée protèges à 98% des UV du soleil
       et de la lune, en plus il est anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)\n\n#####
-      Carte de voeux entreprise\n\nDes artistes de la galerie ont créé à ma demande
-      des modèles de **cartes de voeux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr
-      \"catalogue carte de voeux \").\n\nNous pouvons aussi **personnaliser votre
-      carte** en incarnant des valeurs de votre entreprise, insérer votre **logo et
-      un texte**.\n\n![artiste Rycho](/forestry/GAIACARTE03.jpg \"carte de voeux signées
-      numérotées\")\n\n![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg \"carte
-      de voeux \")"
+      Carte de vœux professionnelle \n\nDes artistes de la galerie créés  pour la
+      galerie des modèles de **cartes de vœux disponibles dans un catalogue** [sur
+      demande](galeriegaia@orange.fr \"catalogue carte de voeux \").\n\nNous pouvons
+      aussi **personnaliser votre carte** en incarnant les valeurs de votre entreprise,
+      insérer votre **logo et un texte**.\n\n![artiste Rycho](/forestry/GAIACARTE03.jpg
+      \"carte de voeux signées numérotées\")\n\n![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg
+      \"carte de voeux \")"
     contact:
       display: true
-      placeholder: Demande carte cadeau
+      placeholder: Renseignements cartes de voeux
 - title: 'Références '
   content:
   - column: "**Voici quelques  lieux à part**, hors mode où le sur-mesure fait partie
@@ -175,7 +175,7 @@ tabs:
       display: false
       placeholder: ''
   - column: |-
-      **Merci pour la confiance** accordée par ces sociétés qui me confient des projets riches en défis et émotions artistiques.
+      **Merci pour la confiance** accordée par ces sociétés pour des projets riches en défis et émotions artistiques.
 
       ```marksy
         h(Gallery, {

@@ -18,8 +18,8 @@ description: "La **Galerie Gaïa** prolonge l’esprit d’un lieu créé en 197
   nantais, peintre et graveur nous honorent de leur confiance. Ainsi ses gravures,
   peintures, stèles et tapisseries sont exposées et disponibles à la vente en exclusivité
   à la galerie.\n\nVous avez trouvé une oeuvre sur le site qui vous plait et vous
-  hésitez ?   \nComment financer votre achat ?   \nLes livraisons sont-elles possibles
-  partout ?  \n**Un crédo : faire simple  \n**  \n**1.**  **Essayer l'oeuvre chez
+  hésitez ?  \nComment financer votre achat ?  \nLes livraisons sont-elles possibles
+  partout ?  \n\\**Un crédo : faire simple  \n\\**  \n**1.**  **Essayer l'oeuvre chez
   vous** pendant une semaine contre un chèque de caution de son montant. Ainsi tranquillement
   dans votre espace, avec votre lumière vous pourrez choisir en toute confiance.  \n**2.**
   \ **Financez votre choix** avec la défiscalisation, le leasing, le paiement en plusieurs
