@@ -57,7 +57,7 @@ works:
   description: édition 8 exemplaire
   price: 4900
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
-- title: Omer
+- title: Omer Le Dog Allemand
   image: "/forestry/omer.jpg"
   technique: bronze
   dimensions:
@@ -77,14 +77,14 @@ works:
   description: ''
   price: 6700
   sold: false
-- title: Balthazar
+- title: Balthazar l'Orang Outan
   image: "/forestry/balthazar.jpg"
   technique: bronze
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
+    height: 43
+    width: 30
+    depth: 38
+  description: Fonderie Paumelle
   price: 5400
   sold: false
 redirect_from:
