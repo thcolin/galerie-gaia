@@ -45,18 +45,23 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement leasing & défiscalisation
-  - column: "![](/forestry/442A2827.JPG)_Hipolythe bronze Valérie Chardon_"
+  - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
     contact:
       display: false
       placeholder: ''
-  - column: "![](/forestry/galeriegaia@edwinwide-omr.jpg)"
+  - column: "![](/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81
+      2019.jpg)"
     contact:
       display: false
       placeholder: ''
   - column: |-
       ![](/forestry/galeriegaia@edwinwide-omr.jpg)
 
-      ![](/forestry/fondation.jpg)![](/forestry/galeriegaia@boisrond-omr.jpg)
+      ![](/forestry/442A2827.JPG)
+
+      ![](/forestry/galeriegaia@boisrond-omr.jpg)
+
+      ![](/forestry/galeriegaia@tomaL-2018031801-Greensideohtheman-160x121cm-ES.jpg)
     contact:
       display: false
       placeholder: ''
