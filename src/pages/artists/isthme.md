@@ -104,8 +104,8 @@ works:
     height: 66
     width: 50
     depth: 
-  description: 350€
-  price: 
+  description: 'Musée imprimerie de Nantes '
+  price: 350
   sold: false
 - title: Sans
   image: "/forestry/sans.jpg"
@@ -124,8 +124,9 @@ works:
     height: 69
     width: 53
     depth: 
-  description: 480€ encadré
-  price: 
+  description: "œuvre encadrée montage caisson baguette chêne\n\n2019 Musée imprimerie
+    de Nantes "
+  price: 480
   sold: false
 - title: Isthme dans son atelier
   image: "/forestry/isabelle-dans-son-atelier.jpg"
