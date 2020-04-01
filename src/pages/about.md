@@ -15,8 +15,8 @@ tabs:
       fresque murale pour vos locaux en intérieur ou extérieur par un artiste graffeur
       (street-art)\n* Réalisation d'une installation visuelle, sonore, lumineuse,
       mobile sur mesure avec des matériaux de recyclage de votre entreprise...\n\n**Achat
-      en défiscalisation ou location financière ?**\n\n**Ce sont des solutions qui
-      répondent à des choix stratégiques patrimoniaux et fiscaux différents.**\n\n![Edwin
+      en location financière ou en défiscalisation ?**\n\n**Ce sont des solutions
+      qui répondent à des choix stratégiques patrimoniaux et fiscaux différents.**\n\n![Edwin
       Wide](/forestry/galeriegaia@edwinwide-omr.jpg)\n\n**La location financière**\n\nJ'ai
       retenu le professionnalisme de la société **Bail Art**, pour faciliter l'accès
       à des œuvres d'art avec la location & option d'achat à la fin du contrat (leasing).\n\n*
@@ -48,46 +48,6 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement leasing & défiscalisation
-  - column: "**La location financière**\n\nJ'ai retenu le professionnalisme de la
-      société **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la location
-      & option d'achat à la fin du contrat (leasing).\n\n* Votre **capacité d'emprunt**
-      est préservée et le haut du bilan allégé (hors IFRS)\n* **Étalement  du coût
-      de l'achat** entre **13 et 60 mois.**\n* Déduction du résultat imposable et
-      **réduction de l'IS (entreprises)** ou **IRPP (professions libérales).**\n*
-      Au terme du contrat l’œuvre peut vous être cédée pour une **valeur résiduelle**
-      de 5%.\n* Cela concerne des **artistes vivants ou non**.\n\n[Gazette Drouot
-      - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf \"Article
-      Gazette drouot \")\n\n**Calcul pour une œuvre de 3500€ & 24 mois :**\n\n* loyer
-      mensuel terme à échoir *  193€ HT\n* économies d'impôts générées 1296€ HT\n*
-      coût global hors économies de charges sociales, IR = 3332€ HT\n  * _Les loyers
-      sont une charge déductible et génèrent une économie d'IS estimée à 28 %_\n\n[Faire
-      une simulation](http://bail-art.com/le-leasing/ \"FAIRE UNE SIMULATION\")\n\n![](/forestry/BAILART•Logo
-      HD.jpg)![Isabelle Healy](/forestry/fondation.jpg \"Sculpture \")  \n_\"Fondation\"
-      bronze Isabelle Healy_"
-    contact:
-      display: false
-      placeholder: ''
-  - column: |-
-      **La défiscalisation**
-
-      Cette niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture  pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**
-
-      * L’oeuvre doit être **exposée au public et aux salariés** durant 5 ans
-      * L’œuvre figure dans les immobilisations de l’entreprise
-      * Le montant de la déduction est inscrit à un compte de réserve spécial au passif du bilan de la société.
-
-        [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914 "Texte officiel")
-
-      **Calcul pour une oeuvre de 7000€ :**
-
-      * Une entreprise réalisant 350 000€ de chiffre d’affaire
-      * La déduction annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond annuel déductible
-      * Déduction annuelle de l'oeuvre de l'IS   7000€ / 5 ans = 1400€
-
-      ![/forestry/galeriegaia@boisrond-omr.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@boisrond-omr.jpg)
-    contact:
-      display: true
-      placeholder: Demande de conseils fiscaux pour acquisition d'une oeuvre
 - title: 'Courtier en art '
   content:
   - column: "Le métier de **courtier en art consiste à vous conseiller sur une sélection
