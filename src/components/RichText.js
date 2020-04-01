@@ -1,6 +1,7 @@
 import React, { createElement } from 'react'
 import { Link } from 'gatsby'
 import Image from 'components/Image'
+import Gallery from 'components/Gallery'
 import marksy from 'marksy'
 
 const compile = marksy({
@@ -81,6 +82,9 @@ const compile = marksy({
     codespan: ({ children }) => (
       <codespan>{children}</codespan>
     ),
+  },
+  components: {
+    Gallery,
   },
 })
 

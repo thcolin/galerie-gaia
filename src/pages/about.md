@@ -185,11 +185,22 @@ tabs:
   - column: |-
       **Merci pour la confiance** accordée par ces sociétés qui me confient des projets riches en défis et émotions artistiques.
 
-      ![](/forestry/keran.jpg)
-
-      ![](/forestry/galeriegaia@kazy-carnetadelis.jpg)
-
-      ![](/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg)![](/forestry/cinna_logo_zeeblog_zeeloft.jpg)![](/forestry/logo galeries lafayette.jpg)![](/forestry/LOGO SQUASH.png)![](/forestry/LOGO OMR.png)![](/forestry/LOGO AUDI.jpg)![](/forestry/logochristophevinet.jpg)![](/forestry/index.png)
+      ```marksy
+        h(Gallery, {
+          images: [
+            '/forestry/keran.jpg',
+            '/forestry/galeriegaia@kazy-carnetadelis.jpg',
+            '/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg',
+            '/forestry/cinna_logo_zeeblog_zeeloft.jpg',
+            '/forestry/logo galeries lafayette.jpg',
+            '/forestry/LOGO SQUASH.png',
+            '/forestry/LOGO OMR.png',
+            '/forestry/LOGO AUDI.jpg',
+            '/forestry/logochristophevinet.jpg',
+            '/forestry/index.png',
+          ]
+        })
+      ```
     contact:
       display: false
       placeholder: ''
