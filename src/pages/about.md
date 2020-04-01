@@ -34,7 +34,7 @@ tabs:
 
       [Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf "Article Gazette drouot ")
 
-      **Calcul pour une œuvre de 3500€ sur 24 mois :**
+      **Calcul pour une œuvre de 3500€ & 24 mois :**
 
       * loyer mensuel terme à échoir *  193€ HT
       * économies d'impôts générées 1296€ HT
@@ -43,7 +43,7 @@ tabs:
 
       [Faire une simulation](http://bail-art.com/le-leasing/ "FAIRE UNE SIMULATION")
 
-      ![](/forestry/BAILART•Logo HD.jpg)![](/forestry/galeriegaia@boisrond-omr.jpg)
+      ![](/forestry/BAILART•Logo HD.jpg)![Isabelle Healy](/forestry/fondation.jpg "Sculpture ")"Fondation" Bronze I Healy
     contact:
       display: false
       placeholder: ''
@@ -63,6 +63,8 @@ tabs:
       * Une entreprise réalisant 350 000€ de chiffre d’affaire
       * La déduction annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond annuel déductible
       * Déduction annuelle de l'oeuvre de l'IS   7000€ / 5 ans = 1400€
+
+      ![/forestry/galeriegaia@boisrond-omr.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@boisrond-omr.jpg)
 
       ![](/forestry/fondation.jpg)
     contact:
