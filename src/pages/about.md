@@ -90,18 +90,19 @@ tabs:
       Créer une exposition dans vos locaux\n\nEn tant que commissaire d'exposition
       je vous propose :\n\n* Une sélection d'artistes régionaux ou nationaux  pour
       créer une **expérience client singulière** avec la médiation artistique lors
-      du vernissage.\n* Un choix d'artistes pour vivre une **performance en live**
-      lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.  \n    \n
+      du vernissage \n* Un choix d'artistes pour vivre une **performance en live**
+      lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.\n* La prise
+      en charge de toute la logistique ( transport - installation - scénographie)\n\n
       \ _Exposition dans le hall du groupe Keran_\n\n  ![](/forestry/galeriegaia@keran@basso.jpg
       \"Keran exposition Giani Basso\")\n\n  _Fresque 70 ans groupe Adélis - Artiste
       Kazy Usclef_\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
       \"Adelis 70 ans \")\n\n##### **Trophée artistique**\n\nLa remise d'un trophée
       lors d'un challenge sportif ou une incentive interne est  un moment singulier
-      car très photographié et diffusé sur les réseaux sociaux.\n\nJe vous propose
-      de **vous démarquer** grâce à une recherche d'artistes qui travaillent sur commande,
-      avec un cahier des charges pour que le trophée soit à la hauteur de votre évènement.\n\n_Trophée
-      de l'Open International de Squash Nantes par Go Segawa_\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg
-      \"Open International Squash\")"
+      car très photographié et diffusé sur les réseaux sociaux.\n\nD**émarquez-vous**
+      \ grâce à la conception par un artiste d'un trophée qui sera à la hauteur de
+      votre évènement.\n\n_Trophée de l'Open International de Squash Nantes par Go
+      Segawa_\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open
+      International Squash\")"
     contact:
       display: true
       placeholder: Renseignement évènementiel
@@ -127,18 +128,6 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement projet immobilier
-  - column: "##### Architecte d'intérieur\n\nUne fois les espaces et volumes créés,
-      une fois les couleurs et papiers peints retenus, le mobilier adapté, que mettre
-      au mur et sur les étagères ?  \nSélectionnez avec vos clients sur le site les
-      oeuvres et sculptures qui vous interpellent et je vous les livre (région Pays
-      de Loire) pour faire des essais sur place.\n\n**+** Possibilité de **prêt durant
-      une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++ Apport
-      d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
-      Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
-      \"Le Molière Christophe Vinet\")"
-    contact:
-      display: false
-      placeholder: ''
 - title: 'Idées cadeaux '
   content:
   - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
