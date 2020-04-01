@@ -131,23 +131,23 @@ works:
   sold: false
 - title: In the wood for love
   image: "/forestry/galeriegaia@laurecarre-inthewoodforlove-collage.jpg"
-  technique: ''
+  technique: mixte
   dimensions:
     height: 37
     width: 44
     depth: 
-  description: ''
+  description: "2019"
   price: 300
   sold: false
 - title: Native spririt
-  image: "/forestry/native-spririt.jpg"
-  technique: ''
+  image: "/forestry/galeriegaia@laurecarre-nativespirit-collage.jpg"
+  technique: mixte
   dimensions:
     height: 34
     width: 23
     depth: 
-  description: 130€
-  price: 
+  description: "2019"
+  price: 200
   sold: false
 redirect_from:
 - "/artistes/76-laure-carre/"
