@@ -19,12 +19,12 @@ tabs:
       à des choix stratégiques patrimoniaux et fiscaux différents.\n\n![Edwin Wide](/forestry/galeriegaia@edwinwide-omr.jpg)\n\n#####
       **La location financière**\n\nJ'ai retenu le professionnalisme de la société
       **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la location & option
-      d'achat à la fin du contrat (leasing).\n\n* Votre **capacité d'emprunt** est
-      préservée et le haut du bilan allégé (hors IFRS)\n* **Étalement  du coût de
-      l'achat** entre **13 et 60 mois.**\n* Déduction du résultat imposable et **réduction
-      de l'IS (entreprises)** ou **IRPP (professions libérales).**\n* Au terme du
-      contrat l’œuvre peut vous être cédée pour une **valeur résiduelle** de 5%.\n*
-      Cela concerne des **artistes vivants ou non**.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
+      d'achat à la fin du contrat (leasing).\n\n* C**apacité d'emprunt** préservée
+      et haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13
+      à 60 mois.**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
+      ou **IRPP (professions libérales).**\n* Au terme du contrat l’œuvre peut vous
+      être cédée pour une **valeur résiduelle** de 5%.\n* Cela concerne des **artistes
+      vivants ou non**.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
       drouot juin 2017.pdf \"Article Gazette drouot \")\n\n**Calcul pour une œuvre
       de 3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir *  193€ HT\n* économies
       d'impôts générées 1296€ HT\n* coût global hors économies de charges sociales,
@@ -34,16 +34,15 @@ tabs:
       \"Sculpture \")  \n_\"Fondation\" bronze Isabelle Healy_\n\n##### **La défiscalisation**\n\nCette
       niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
       \ pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales
-      peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**\n\n* L’oeuvre
+      peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**\n\n* L’œuvre
       doit être **exposée au public et aux salariés** durant 5 ans\n* L’œuvre figure
       dans les immobilisations de l’entreprise\n* Le montant de la déduction est inscrit
       à un compte de réserve spécial au passif du bilan de la société.\n\n  [Texte
       de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
-      \"Texte officiel\")\n\n**Calcul pour une oeuvre de 7000€ :**\n\n* Une entreprise
+      \"Texte officiel\")\n\n**Calcul pour une œuvre de 7000€ :**\n\n* Une entreprise
       réalisant 350 000€ de chiffre d’affaire\n* La déduction annuelle est plafonnée
       à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond
-      annuel déductible\n* Déduction annuelle de l'oeuvre de l'IS   7000€ / 5 ans
-      = 1400€\n\n![/forestry/galeriegaia@boisrond-omr.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@boisrond-omr.jpg)"
+      annuel déductible\n* Déduction annuelle de l' IS   7000€ / 5 ans = 1400€\n\n![/forestry/galeriegaia@boisrond-omr.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@boisrond-omr.jpg)"
     contact:
       display: true
       placeholder: Renseignement leasing & défiscalisation
@@ -102,7 +101,7 @@ tabs:
   content:
   - column: "##### Promoteur Immobilier\n\nVous êtes promoteur référencé auprès du
       Ministère de la Culture dans le cadre du 1% logement ou du programme **\"1 immeuble
-      1 oeuvre \"** ?  \nVous êtes  promoteur immobilier indépendant et vous souhaitez
+      1 œuvre \"** ?  \nVous êtes  promoteur immobilier indépendant et vous souhaitez
       intégrer un projet d'artiste dans les jardins, les halls d'entrée ou toutes
       autres parties communes pour valoriser le lieu, le rendre singulier et attractif
       dans votre **stratégie de commercialisation** ?\n\n**Contactez-moi pour vous
@@ -112,9 +111,9 @@ tabs:
       \"Masque kazy\")\n\n##### Architecte d'intérieur\n\nUne fois les espaces et
       volumes créés, une fois les couleurs et papiers peints retenus, le mobilier
       adapté, que mettre au mur et sur les étagères ?  \nSélectionnez avec vos clients
-      sur le site les oeuvres et sculptures qui vous interpellent et je vous les livre
+      sur le site les œuvres et sculptures qui vous interpellent et je vous les livre
       (région Pays de Loire) pour faire des essais sur place.\n\n**+** Possibilité
-      de **prêt durant une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++
+      de **prêt durant une semaine** contre chèque de caution du montant de l’œuvre.\n\n**++
       Apport d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
       Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
       \"Le Molière Christophe Vinet\")"
