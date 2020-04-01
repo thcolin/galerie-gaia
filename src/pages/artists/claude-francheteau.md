@@ -47,16 +47,6 @@ works:
   description: caisse américaine bois brut
   price: 1800
   sold: false
-- title: CIEL 2031
-  image: "/forestry/ciel-2031.jpg"
-  technique: acrylique sur toile
-  dimensions:
-    height: 30
-    width: 30
-    depth: 
-  description: 450€
-  price: 
-  sold: false
 - title: CIEL 2032
   image: "/forestry/ciel-2032.jpg"
   technique: acrylique sur toile
@@ -64,18 +54,18 @@ works:
     height: 40
     width: 40
     depth: 
-  description: 450€
-  price: 
+  description: 'encadrée bois '
+  price: 600
   sold: false
-- title: "937"
+- title: Ciel 2005
   image: "/forestry/937.jpg"
-  technique: ''
+  technique: Acrylique sur toile
   dimensions:
-    height: 
-    width: 
+    height: 20
+    width: 20
     depth: 
   description: ''
-  price: 
+  price: 250
   sold: false
 - title: "938"
   image: "/forestry/938.jpg"
