@@ -140,30 +140,17 @@ tabs:
       c'est conserver et sublimer une oeuvre.  \nNous vous conseillons avec mon atelier
       d'encadrement **pour toutes oeuvres acquises ou non à la galerie.**\n\n**++**
       Le verre musée protèges à 98% des UV du soleil et de la lune, en plus il est
-      anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)"
+      anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)\n\n#####
+      Carte de voeux entreprise\n\nDes artistes de la galerie ont créé à ma demande
+      des modèles de **cartes de voeux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr
+      \"catalogue carte de voeux \").\n\nNous pouvons aussi **personnaliser votre
+      carte** en incarnant des valeurs de votre entreprise, insérer votre **logo et
+      un texte**.\n\n![artiste Rycho](/forestry/GAIACARTE03.jpg \"carte de voeux signées
+      numérotées\")\n\n![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg \"carte
+      de voeux \")"
     contact:
       display: true
       placeholder: Demande carte cadeau
-  - column: "##### Encadrement\n\nEncadrer c'est conserver et sublimer une oeuvre.
-      \ \nNous vous conseillons avec mon atelier d'encadrement **pour toutes oeuvres
-      acquises ou non à la galerie.**\n\n**++** Le verre musée protèges à 98% des
-      UV du soleil et de la lune, en plus il est anti-reflet. Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)"
-    contact:
-      display: false
-      placeholder: ''
-  - column: |-
-      ##### Carte de voeux entreprise
-
-      Des artistes de la galerie ont créé à ma demande des modèles de **cartes de voeux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr "catalogue carte de voeux ").
-
-      Nous pouvons aussi **personnaliser votre carte** en incarnant des valeurs de votre entreprise, insérer votre **logo et un texte**.
-
-      ![artiste Rycho](/forestry/GAIACARTE03.jpg "carte de voeux signées numérotées")
-
-      ![Artiste Stéphanie Billarant](/forestry/ville-revee.jpg "carte de voeux ")
-    contact:
-      display: true
-      placeholder: Devis pour cartes de voeux
 - title: 'Références '
   content:
   - column: "**Voici quelques  lieux à part**, hors mode où le sur-mesure fait partie
