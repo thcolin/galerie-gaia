@@ -61,19 +61,19 @@ works:
   image: "/forestry/omer.jpg"
   technique: bronze
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
+    height: 50
+    width: 46
+    depth: 40
+  description: Fonderie Candide
   price: 7000
   sold: false
 - title: Le pélican
   image: "/forestry/le-pelican.jpg"
   technique: bronze
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height: 60
+    width: 26
+    depth: 61
   description: ''
   price: 6700
   sold: false
