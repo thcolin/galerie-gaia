@@ -134,47 +134,18 @@ tabs:
       soumettre des noms d'artistes** qui seront en capacité de travailler en mode
       projet et en amont avec les architectes.\n\nCi-dessous installation \"Le masque\"
       de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020.\n\n![/forestry/masque.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/masque.jpg
-      \"Masque kazy\")"
-    contact:
-      display: true
-      placeholder: Renseignement projet immobilier
-  - column: '![](/forestry/masque.jpg "Masque kazy")'
-    contact:
-      display: false
-      placeholder: ''
-  - column: "##### Architecte d'intérieur\n\nUne fois les espaces et volumes créés,
-      une fois les couleurs et papiers peints retenus, le mobilier adapté, que mettre
-      au mur et sur les étagères ?  \nSélectionnez avec vos clients sur le site les
-      oeuvres et sculptures qui vous interpellent et je vous les livre (région Pays
-      de Loire) pour faire des essais sur place.\n\n**+** Possibilité de **prêt durant
-      une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++ Apport
-      d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
+      \"Masque kazy\")\n\n##### Architecte d'intérieur\n\nUne fois les espaces et
+      volumes créés, une fois les couleurs et papiers peints retenus, le mobilier
+      adapté, que mettre au mur et sur les étagères ?  \nSélectionnez avec vos clients
+      sur le site les oeuvres et sculptures qui vous interpellent et je vous les livre
+      (région Pays de Loire) pour faire des essais sur place.\n\n**+** Possibilité
+      de **prêt durant une semaine** contre chèque de caution du montant de l'oeuvre.\n\n**++
+      Apport d'affaire** pour toutes ventes effectuées par vos soins\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\n[Brasserie
       Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/
       \"Le Molière Christophe Vinet\")"
     contact:
-      display: false
-      placeholder: ''
-- title: 'Architecte d''intérieur '
-  content:
-  - column: "##### Projet clé en main :\n\nL'architecte travaille en priorité sur
-      les espaces et volumes, et grâce à la 3D les murs aussi alternent entre simulation
-      de couleurs, papiers peints et simulation d'oeuvres d'artistes récupérées sur
-      internet.  \nLes objets de décoration sont souvent manufacturés et multiples
-      quand l'art est unique et rend très personnel un décor.\n\n**Passez au concret
-      avec des propositions d'oeuvres disponible à la galerie ou que je sourcerais
-      spécialement pour votre projet.**  \nLivraison et prêt d'oeuvres sur la région
-      Pays de La Loire\n\n**++** Apport d'affaire pour toutes ventes effectuées par
-      vos soins"
-    contact:
       display: true
-      placeholder: Renseignement projet décoration d'intérieur
-  - column: |-
-      ![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)
-
-      [Brasserie Le Molière Nantes par Christophe Vinet](https://www.facebook.com/pg/Christophe-Vinet-102063224512436/community/ "Le Molière Christophe Vinet")
-    contact:
-      display: false
-      placeholder: ''
+      placeholder: Renseignement projet immobilier
   - column: "##### Architecte d'intérieur\n\nUne fois les espaces et volumes créés,
       une fois les couleurs et papiers peints retenus, le mobilier adapté, que mettre
       au mur et sur les étagères ?  \nSélectionnez avec vos clients sur le site les
