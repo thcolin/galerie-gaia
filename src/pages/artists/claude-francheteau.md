@@ -67,65 +67,35 @@ works:
   description: ''
   price: 250
   sold: false
-- title: "938"
-  image: "/forestry/938.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: "939"
+- title: Ciel 2044
   image: "/forestry/939.jpg"
-  technique: ''
+  technique: 'Acrylique sur toile '
   dimensions:
-    height: 
-    width: 
+    height: 40
+    width: 40
     depth: 
-  description: ''
-  price: 
+  description: 'œuvre encadrée bois '
+  price: 600
   sold: false
-- title: "940"
+- title: Ciel 2056
   image: "/forestry/940.jpg"
-  technique: ''
+  technique: 'Acrylique sur toile '
   dimensions:
-    height: 
-    width: 
+    height: 22
+    width: 14
     depth: 
-  description: ''
-  price: 
+  description: 'œuvre encadrée bois '
+  price: 240
   sold: false
-- title: "941"
-  image: "/forestry/941.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: "942"
-  image: "/forestry/942.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-- title: "943"
+- title: Ciel 045
   image: "/forestry/943.jpg"
-  technique: ''
+  technique: Dessin
   dimensions:
-    height: 
-    width: 
+    height: 22
+    width: 17
     depth: 
-  description: ''
-  price: 
+  description: œuvre encadrée 40X30cm
+  price: 160
   sold: false
 - title: "944"
   image: "/forestry/944.jpg"
