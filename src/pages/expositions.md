@@ -4,8 +4,7 @@ exhibitions:
 - template: exhibition
   title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
-  content: |-
-    [Télécharger le catalogue **ici**](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf "catalogue ")
+  content: |2-
 
     [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf "catalogue Toma L")
 
