@@ -40,13 +40,13 @@ exhibitions:
 works:
 - title: Hipolyte le morse
   image: "/forestry/hipolyte-le-morse.jpg"
-  technique: bronze x/8
+  technique: 'bronze '
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
+    height: 77
+    width: 44
+    depth: 32
+  description: 'Edition en 8 exemplaires '
+  price: 5900
   sold: false
 - title: Stan
   technique: 'Bronze '
