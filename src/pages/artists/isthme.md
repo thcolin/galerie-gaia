@@ -87,35 +87,38 @@ works:
   description: '2016-2019  '
   price: 2200
   sold: false
-- title: Nuit en mer III (1/13)
+- title: 'Nuit en mer #3 (1/13)'
   image: "/forestry/nuit-en-mer-iii-113.jpg"
   technique: Lithographie
   dimensions:
-    height: 50
-    width: 65
+    height: 76
+    width: 56
     depth: 
-  description: 'Musée imprimerie de Nantes '
+  description: 2018 Musée imprimerie de Nantes
   price: 350
   sold: false
-- title: Sans Titre (4/10)
+- title: 'Nuits en Mer #4'
   image: "/forestry/sans-titre-410.jpg"
   technique: Lithographie
   dimensions:
-    height: 66
-    width: 50
+    height: 76
+    width: 56
     depth: 
-  description: 'Musée imprimerie de Nantes '
+  description: 2018 Musée imprimerie de Nantes
   price: 350
   sold: false
-- title: Sans
+- title: 'Soul Ground  #4'
   image: "/forestry/sans.jpg"
-  technique: Collage
+  technique: Collage sur papier Arches
   dimensions:
-    height: 83
-    width: 63
+    height: 76
+    width: 57
     depth: 
-  description: Informations bientôt disponibles
-  price: 
+  description: |-
+    2016
+
+    œuvre encadrée montage caisson papier flottant baguette chêne
+  price: 780
   sold: false
 - title: Nuit en mer IV (4/25)
   image: "/forestry/nuit-en-mer-iv-425.jpg"
