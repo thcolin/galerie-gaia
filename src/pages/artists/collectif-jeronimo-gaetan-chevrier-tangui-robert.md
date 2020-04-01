@@ -1,8 +1,8 @@
 ---
 template: artist
-title: Collectif Jeronimo Gaëtan Chevrier Tangui Robert
+title: Projet Versants
 location: ''
-field: sérigraphe
+field: sérigraphie
 birth: "0"
 death: "0"
 expose: true
