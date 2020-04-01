@@ -116,18 +116,20 @@ tabs:
       dans votre **stratégie de commercialisation** ?\n\n**Contactez-moi pour vous
       soumettre des noms d'artistes** qui seront en capacité de travailler en mode
       projet et en amont avec les architectes.\n\n_Installation \"Le masque\" de Kazy
-      Usclef qui intègre le hall d'un immeuble nantais en 2020._\n\n![/forestry/masque.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/masque.jpg
-      \"Masque kazy\")\n\n##### Architecte d'intérieur\n\nUne fois les espaces et
-      volumes créés, une fois les couleurs et papiers peints retenus, le mobilier
-      adapté, que mettre au mur et sur les étagères ?  \nSélectionnez avec vos clients
-      sur le site les œuvres et sculptures qui vous interpellent et je vous les livre
-      (région Pays de Loire) pour faire des essais sur place.\n\n**+** Possibilité
-      de **prêt durant une semaine** contre chèque de caution du montant de l’œuvre.\n\n**++
-      Apport d'affaire** pour toutes ventes effectuées par vos soins\n\n_Brasserie
-      Le Molière par Christophe Vinet - Photographies JF Mollière_\n\n![/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg](https://app.forestry.io/sites/rvlyohao9wjrjw/body-media//forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)"
+      Usclef qui intègre le hall d'un immeuble nantais en 2020._\n\n![Kazy Usclef
+      ](/forestry/masque.jpg \"Masque\")\n\n##### Architecte d'intérieur\n\nUne fois
+      les espaces et volumes créés, une fois les couleurs et papiers peints retenus,
+      le mobilier adapté, que mettre au mur et sur les étagères ?  \nSélectionnez
+      avec vos clients sur le site les œuvres et sculptures qui vous interpellent
+      et je vous les livre (région Pays de Loire) pour faire des essais sur place.\n\n**+**
+      Possibilité de **prêt durant une semaine** contre chèque de caution du montant
+      de l’œuvre.\n\n**++ Apport d'affaire** pour toutes ventes effectuées par vos
+      soins\n\n_Brasserie Le Molière par Christophe Vinet - Photographies JF Mollière_\n\n![Jean
+      François Mollière](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
+      \"brasserie Le Molière\")"
     contact:
       display: true
-      placeholder: Renseignement projet immobilier
+      placeholder: Renseignement projet immobilier - décoration
 - title: 'Idées cadeaux '
   content:
   - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
