@@ -48,7 +48,16 @@ works:
   description: ''
   price: 
   sold: false
-- title: OMER
+- title: Stan
+  technique: 'Bronze '
+  dimensions:
+    height: 25
+    width: 53
+    depth: 41
+  description: édition 8 exemplaire
+  price: 4900
+  image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
+- title: Omer
   image: "/forestry/omer.jpg"
   technique: bronze
   dimensions:
