@@ -29,6 +29,14 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: Ciel 2005
+  image: "/forestry/galeriegaia_Francheteau_Ciel2005(2016)_20x20_230.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 20
+    width: 20
+  description: 'œuvre encadrée bois '
+  price: 250
 - title: Ciel 060
   image: "/forestry/galeriegaia_Francheteau_Ciel060(2016)_37x37_(cadre50x50).jpg"
   technique: Dessin
@@ -96,16 +104,6 @@ works:
     depth: 
   description: œuvre encadrée 40X30cm
   price: 160
-  sold: false
-- title: "944"
-  image: "/forestry/944.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
   sold: false
 redirect_from:
 - "/artistes/12-claude-francheteau/"
