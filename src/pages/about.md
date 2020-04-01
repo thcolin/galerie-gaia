@@ -79,11 +79,24 @@ tabs:
       arbre de Noël ...**\n\n**++** J'ai sélectionné le talent et l'expérience d'une
       artiste qui a eu précédemment un parcours comme cadre commerciale dans dans
       la grande distribution,  \nAssocié à mon expertise de chef de projet et de formateur
-      en développement personnel pour Manpower Group ,   \nnous vous proposons un
-      **projet clé en main  RH - RSE - Communication interne & externe.**\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)"
+      en développement personnel pour Manpower Group ,  \nnous vous proposons un **projet
+      clé en main  RH - RSE - Communication interne & externe.**\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)\n\n#####
+      Créer une exposition dans vos locaux\n\nEn tant que commissaire d'exposition
+      je vous propose :\n\n* Une sélection d'artistes régionaux ou nationaux  pour
+      créer une **expérience client singulière** avec la médiation artistique lors
+      du vernissage.\n* Un choix d'artistes pour vivre une **performance en live**
+      lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.\n\n  ![](/forestry/galeriegaia@keran@basso.jpg
+      \"Keran exposition Giani Basso\")\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
+      \"Adelis 70 ans \")\n\n##### **Trophée artistique**\n\nLa remise d'un trophée
+      lors d'un challenge sportif ou une incentive interne est  un moment singulier
+      car très photographié et diffusé sur les réseaux sociaux.\n\nJe vous propose
+      de **vous démarquer** grâce à une recherche d'artistes qui travaillent sur commande,
+      avec un cahier des charges pour que le trophée soit à la hauteur de votre évènement.\n\nCi-dessous
+      Open International de Squash Nantes - trophée par Go Segawa\n\n![Artiste Go
+      Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
     contact:
       display: true
-      placeholder: Renseignement team building
+      placeholder: Renseignement évènementiel
   - column: |-
       **Créer une exposition dans vos locaux !**
 
@@ -98,13 +111,16 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement exposition en entreprise
-  - column: "**Trophée artistique** \n\nLa remise d'un trophée lors d'un challenge
-      sportif ou une incentive interne est  un moment singulier car très photographié
-      et diffusé sur les réseaux sociaux.\n\nJe vous propose de **vous démarquer**
-      grâce à une recherche d'artistes qui travaillent sur commande, avec un cahier
-      des charges pour que le trophée soit à la hauteur de votre évènement.\n\nCi-dessous
-      Open International de Squash Nantes - trophée par Go Segawa\n\n![Artiste Go
-      Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
+  - column: |-
+      ##### **Trophée artistique**
+
+      La remise d'un trophée lors d'un challenge sportif ou une incentive interne est  un moment singulier car très photographié et diffusé sur les réseaux sociaux.
+
+      Je vous propose de **vous démarquer** grâce à une recherche d'artistes qui travaillent sur commande, avec un cahier des charges pour que le trophée soit à la hauteur de votre évènement.
+
+      Ci-dessous Open International de Squash Nantes - trophée par Go Segawa
+
+      ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash")
     contact:
       display: true
       placeholder: Renseignement création trophée arty
