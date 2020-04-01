@@ -48,7 +48,7 @@ works:
   dimensions:
     height: 150
     width: 150
-  description: ''
+  description: "2019"
   price: 3500
 - title: En mon jardin N°3
   image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
