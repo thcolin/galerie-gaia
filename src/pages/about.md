@@ -85,45 +85,20 @@ tabs:
       je vous propose :\n\n* Une sélection d'artistes régionaux ou nationaux  pour
       créer une **expérience client singulière** avec la médiation artistique lors
       du vernissage.\n* Un choix d'artistes pour vivre une **performance en live**
-      lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.\n\n  ![](/forestry/galeriegaia@keran@basso.jpg
-      \"Keran exposition Giani Basso\")\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
+      lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.  \n    \n
+      \ _Exposition dans le hall du groupe Keran_\n\n  ![](/forestry/galeriegaia@keran@basso.jpg
+      \"Keran exposition Giani Basso\")\n\n  _Fresque 70 ans groupe Adélis - Artiste
+      Kazy Usclef_\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
       \"Adelis 70 ans \")\n\n##### **Trophée artistique**\n\nLa remise d'un trophée
       lors d'un challenge sportif ou une incentive interne est  un moment singulier
       car très photographié et diffusé sur les réseaux sociaux.\n\nJe vous propose
       de **vous démarquer** grâce à une recherche d'artistes qui travaillent sur commande,
-      avec un cahier des charges pour que le trophée soit à la hauteur de votre évènement.\n\nCi-dessous
-      Open International de Squash Nantes - trophée par Go Segawa\n\n![Artiste Go
-      Segawa](/forestry/galeriegaia@opensquash2018.jpg \"Open International Squash\")"
+      avec un cahier des charges pour que le trophée soit à la hauteur de votre évènement.\n\n_Trophée
+      de l'Open International de Squash Nantes par Go Segawa_\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg
+      \"Open International Squash\")"
     contact:
       display: true
       placeholder: Renseignement évènementiel
-  - column: |-
-      **Créer une exposition dans vos locaux !**
-
-      En tant que commissaire d'exposition je vous propose :
-
-      * Une sélection d'artistes régionaux ou nationaux  pour créer une **expérience client singulière** avec la médiation artistique lors du vernissage.
-      * Un choix d'artistes pour vivre une **performance en live** lors d'une soirée privée, d'un congrès, d'un anniversaire mémoriel.
-
-        ![](/forestry/galeriegaia@keran@basso.jpg "Keran exposition Giani Basso")
-
-        ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG "Adelis 70 ans ")
-    contact:
-      display: true
-      placeholder: Renseignement exposition en entreprise
-  - column: |-
-      ##### **Trophée artistique**
-
-      La remise d'un trophée lors d'un challenge sportif ou une incentive interne est  un moment singulier car très photographié et diffusé sur les réseaux sociaux.
-
-      Je vous propose de **vous démarquer** grâce à une recherche d'artistes qui travaillent sur commande, avec un cahier des charges pour que le trophée soit à la hauteur de votre évènement.
-
-      Ci-dessous Open International de Squash Nantes - trophée par Go Segawa
-
-      ![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg "Open International Squash")
-    contact:
-      display: true
-      placeholder: Renseignement création trophée arty
 - title: Immobilier Architecture
   content:
   - column: "##### Promoteur Immobilier\n\nVous êtes promoteur référencé auprès du
