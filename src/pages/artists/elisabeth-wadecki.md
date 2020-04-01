@@ -151,7 +151,7 @@ works:
     width: 72
     depth: 
   description: "2018   \nEncadré aluminum sous verre "
-  price: 800
+  price: 700
   sold: false
 - title: Sans Titre N°5
   image: "/forestry/sans-titre-ndegree5.jpg"
