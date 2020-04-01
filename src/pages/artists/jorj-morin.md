@@ -174,6 +174,5 @@ works:
   price: 
   sold: false
 redirect_from:
-  - /artistes/20-jorj-morin/
   - /artistes/103-jorj-morin/
 ---
