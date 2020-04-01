@@ -40,7 +40,7 @@ artists:
 - artist: src/pages/artists/patrick-gueguen.md
 - artist: src/pages/artists/xavier-jallais.md
 - artist: src/pages/artists/jean-claude-breat.md
-- artist: src/pages/artists/jorj-morin.md
+- artist: src/pages/artists/jorj-morin-peintre.md
 - artist: src/pages/artists/tony-soulie.md
 - artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/portrait.md
