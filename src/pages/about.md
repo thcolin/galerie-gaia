@@ -30,8 +30,8 @@ tabs:
       d'impôts générées 1296€ HT\n* coût global hors économies de charges sociales,
       IR = 3332€ HT\n  * _Les loyers sont une charge déductible et génèrent une économie
       d'IS estimée à 28 %_\n\n[Faire une simulation](http://bail-art.com/le-leasing/
-      \"FAIRE UNE SIMULATION\")\n\n![](/forestry/BAILART•Logo HD.jpg)![Isabelle Healy](/forestry/fondation.jpg
-      \"Sculpture \")  \n_\"Fondation\" bronze Isabelle Healy_\n\n##### **La défiscalisation**\n\nCette
+      \"FAIRE UNE SIMULATION\")\n\n![Isabelle Healy](/forestry/fondation.jpg \"Sculpture
+      \")  \n_\"Fondation\" bronze Isabelle Healy_\n\n##### **La défiscalisation**\n\nCette
       niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
       \ pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales
       peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**\n\n* L’œuvre
@@ -46,6 +46,13 @@ tabs:
     contact:
       display: true
       placeholder: Renseignement leasing & défiscalisation
+  - column: |-
+      ![](/forestry/galeriegaia@edwinwide-omr.jpg)
+
+      ![](/forestry/fondation.jpg)![](/forestry/galeriegaia@boisrond-omr.jpg)
+    contact:
+      display: false
+      placeholder: ''
 - title: 'Courtier en art '
   content:
   - column: "Le métier de **courtier en art consiste à vous conseiller sur une sélection
