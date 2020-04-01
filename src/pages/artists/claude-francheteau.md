@@ -29,6 +29,32 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: CIEL 2067
+  image: "/forestry/ciel-2067.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 80
+    width: 80
+    depth: 
+  description: caisse américaine bois brut
+  price: 1800
+  sold: false
+- title: Ciel 2070
+  image: "/forestry/galeriegaia_Francheteau_Ciel2070(2018)_30x30.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 30
+    width: 30
+  description: 'œuvre encadrée bois '
+  price: 400
+- title: Ciel 2042
+  image: "/forestry/galeriegaia_Francheteau_Ciel2042(2016)_20x30.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 30
+    width: 20
+  description: 'œuvre encadrée bois '
+  price: 380
 - title: Ciel 2026
   image: "/forestry/galeriegaia_Francheteau_Ciel2026(2016)_15x30.jpg"
   technique: Acrylique sur toile
@@ -53,16 +79,6 @@ works:
     width: 37
   description: œuvre encadrée 50X50 cm
   price: 400
-- title: CIEL 2067
-  image: "/forestry/ciel-2067.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: caisse américaine bois brut
-  price: 1800
-  sold: false
 - title: CIEL 2032
   image: "/forestry/ciel-2032.jpg"
   technique: acrylique sur toile
