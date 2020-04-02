@@ -29,6 +29,14 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
+- title: Jackie
+  image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 35
+    width: 26
+  description: ''
+  price: 350
 - title: In the west
   image: "/forestry/in-the-west.jpg"
   technique: Huile sur toile
