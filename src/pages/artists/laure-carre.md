@@ -29,14 +29,6 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
-- title: Chien d'atelier
-  image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
-  technique: Huile sur toile
-  dimensions:
-    height: 100
-    width: 100
-  description: 02/2020
-  price: 1800
 - title: Jackie
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   technique: 'Huile sur toile '
@@ -45,6 +37,22 @@ works:
     width: 26
   description: "2020"
   price: 350
+- title: Main dans la main
+  image: "/forestry/galeriegaia@laurecarre-portrait.jpeg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 40
+    width: 30
+  description: 06/2019
+  price: 450
+- title: Chien d'atelier
+  image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
+  technique: Huile sur toile
+  dimensions:
+    height: 100
+    width: 100
+  description: 02/2020
+  price: 1800
 - title: Une chaise la nuit
   image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
   technique: 'Encre sur papier '
