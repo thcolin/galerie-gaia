@@ -29,6 +29,22 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
+- title: Jean Jeunet
+  image: "/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 86
+    width: 72
+  description: 06/2018
+  price: 1600
+- title: Lipstick face
+  image: "/forestry/galeriegaia@laurecarre-lipstickface-huile-100X73.jpeg"
+  dimensions:
+    height: 100
+    width: 73
+  description: '08/2019'
+  price: 1600
+  technique: Huile sur toile
 - title: Playing with Laïka on the moon
   image: "/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg"
   technique: Huile sur toile
