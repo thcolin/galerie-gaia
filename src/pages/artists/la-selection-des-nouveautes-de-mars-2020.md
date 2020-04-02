@@ -9,6 +9,10 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Jackie de Laure Carré
+  image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
+  description: ''
+  price: 0
 - title: Sélection du mois de Mars 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
@@ -16,6 +20,22 @@ works:
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 97
+    width: 130
+  description: "2020"
+  price: 2200
+- title: Une chaise la nuit de Laure Carré
+  image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
+  technique: 'Encre sur papier '
+  dimensions:
+    height: 20
+    width: 20
+  description: Mars 2020
+  price: 200
+- title: En mon jardin N°4 de Elisabeth Wadecki
+  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
+  technique: bronze
   dimensions:
     height: 97
     width: 130
@@ -38,6 +58,7 @@ works:
     depth: 41
   description: ''
   price: 4900
+  sold: false
 - title: Atlantis Teatro Dimitri Bourriau
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibond

@@ -35,8 +35,16 @@ works:
   dimensions:
     height: 35
     width: 26
-  description: ''
+  description: "2020"
   price: 350
+- title: Une chaise la nuit
+  image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
+  technique: 'Encre sur papier '
+  dimensions:
+    height: 20
+    width: 20
+  description: "2020"
+  price: 200
 - title: In the west
   image: "/forestry/in-the-west.jpg"
   technique: Huile sur toile
