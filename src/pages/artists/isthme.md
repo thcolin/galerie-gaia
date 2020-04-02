@@ -46,6 +46,7 @@ works:
   description: "2019"
   price: 2800
   sold: false
+  contextual: true
 - title: Exposition peinture collage estampe
   image: "/forestry/exposition-peinture-collage-estampe.jpg"
   technique: peinture collage estampe
@@ -56,6 +57,7 @@ works:
   description: 6 juin - 29 juin 2019
   price: 
   sold: false
+  contextual: true
 - title: 'Nuits en mer #24 Installation'
   image: "/forestry/nuits-en-mer-24-installation.jpg"
   technique: Acrylique sur toile
@@ -67,6 +69,7 @@ works:
     elle se compose de 6 panneaux installés selon le protocole de l'artiste
   price: ''
   sold: false
+  contextual: true
 - title: 'Nuit en mer #34'
   image: "/forestry/nuit-en-mer-34.jpg"
   technique: Acrylique sur toile
@@ -77,6 +80,7 @@ works:
   description: '2019  '
   price: 2800
   sold: false
+  contextual: true
 - title: 'Black Rhapsody #14'
   image: "/forestry/black-rhapsody-14.jpg"
   technique: Acrylique sur toile
@@ -87,6 +91,7 @@ works:
   description: '2016-2019  '
   price: 2200
   sold: false
+  contextual: true
 - title: 'Nuit en mer #3 (1/13)'
   image: "/forestry/nuit-en-mer-iii-113.jpg"
   technique: Lithographie
@@ -97,6 +102,7 @@ works:
   description: 2018 Musée imprimerie de Nantes
   price: 350
   sold: false
+  contextual: true
 - title: 'Nuits en Mer #4'
   image: "/forestry/sans-titre-410.jpg"
   technique: Lithographie
@@ -107,6 +113,7 @@ works:
   description: 2018 Musée imprimerie de Nantes
   price: 350
   sold: false
+  contextual: true
 - title: 'Soul Ground  #4'
   image: "/forestry/sans.jpg"
   technique: Collage sur papier Arches
@@ -120,6 +127,7 @@ works:
     œuvre encadrée montage caisson papier flottant baguette chêne
   price: 780
   sold: false
+  contextual: true
 - title: Nuit en mer IV (4/25)
   image: "/forestry/nuit-en-mer-iv-425.jpg"
   technique: Lithographie
@@ -131,6 +139,7 @@ works:
     de Nantes "
   price: 480
   sold: false
+  contextual: true
 - title: Isthme dans son atelier
   image: "/forestry/isabelle-dans-son-atelier.jpg"
   technique: ''
@@ -141,6 +150,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/85tistes/85-isthme/"
 

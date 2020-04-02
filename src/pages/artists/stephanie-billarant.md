@@ -42,6 +42,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "644"
   image: "/forestry/644.jpg"
   technique: ''
@@ -52,6 +53,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "645"
   image: "/forestry/645.jpg"
   technique: ''
@@ -62,6 +64,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "647"
   image: "/forestry/647.jpg"
   technique: ''
@@ -72,6 +75,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "648"
   image: "/forestry/648.jpg"
   technique: ''
@@ -82,6 +86,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "649"
   image: "/forestry/649.jpg"
   technique: ''
@@ -92,6 +97,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "650"
   image: "/forestry/650.jpg"
   technique: ''
@@ -102,6 +108,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/11-stephanie-billarant/
 ---

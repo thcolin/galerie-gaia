@@ -23,6 +23,7 @@ works:
   description: 
   price: 2400
   sold: false
+  contextual: true
 - title: Icare V
   image: "/forestry/1439.jpg"
   technique: Mixte sur toile
@@ -33,6 +34,7 @@ works:
   description: 
   price: 2700
   sold: false
+  contextual: true
 - title: Oxygen
   image: "/forestry/1440.jpg"
   technique: Mixte sur toile
@@ -43,6 +45,7 @@ works:
   description: 
   price: 1500
   sold: false
+  contextual: true
 - title: Sans titre
   image: "/forestry/1435.jpg"
   technique: Mixte sur toile
@@ -53,6 +56,7 @@ works:
   description: 
   price: 
   sold: false
+  contextual: true
 - title: Icare II
   image: "/forestry/1436.jpg"
   technique: Mixte sur toile
@@ -63,6 +67,7 @@ works:
   description: 
   price: 2500
   sold: false
+  contextual: true
 - title: Octopus IV
   image: "/forestry/1437.jpg"
   technique: Mixte sur toile
@@ -73,5 +78,6 @@ works:
   description: 
   price: 3000
   sold: false
+  contextual: true
 
 ---

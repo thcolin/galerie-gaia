@@ -72,6 +72,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: SANS TITRE
     image: /forestry/sans-titre.jpg
     technique: Mixte
@@ -82,6 +83,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: SANS TITRE
     image: /forestry/sans-titre.jpg
     technique: Mixte
@@ -92,6 +94,7 @@ works:
     description: VENDUE
     price: .nan
     sold: false
+    contextual: true
   - title: '235'
     image: /forestry/235.jpg
     technique: acrylique sur toile
@@ -102,5 +105,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

@@ -118,6 +118,7 @@ works:
     description: tirage sur dibon 2/10 1500 euros
     price: .nan
     sold: false
+    contextual: true
   - title: CASTRO PUGLIA
     image: /forestry/castro-puglia.jpg
     technique: Photographie
@@ -128,6 +129,7 @@ works:
     description: tirage sur dibon 4/10 1500 euros
     price: .nan
     sold: false
+    contextual: true
   - title: SAINT QUAY
     image: /forestry/saint-quay.jpg
     technique: Photographie
@@ -138,6 +140,7 @@ works:
     description: tirage sur dibon 4/10 1500 euros
     price: .nan
     sold: false
+    contextual: true
   - title: Rapallo 1
     image: /forestry/rapallo-1.jpg
     technique: Photographie
@@ -148,6 +151,7 @@ works:
     description: tirage sur dibon 2/10 1500 euros
     price: .nan
     sold: false
+    contextual: true
   - title: RODI 3
     image: /forestry/rodi-3.jpg
     technique: Photographie
@@ -158,6 +162,7 @@ works:
     description: tirage sur dibon 1/10 1500 euros
     price: .nan
     sold: false
+    contextual: true
   - title: Kastellorizo
     image: /forestry/kastellorizo.jpg
     technique: photographie
@@ -168,6 +173,7 @@ works:
     description: tirage sur dibon 2/10 2500 euros
     price: .nan
     sold: false
+    contextual: true
   - title: Keran accueille Gianni BASSO
     image: /forestry/keran-accueille-gianni-basso.jpg
     technique: ''
@@ -178,5 +184,6 @@ works:
     description: Exposition personnelle chez Keran du 16-10 au 14-12-18
     price: .nan
     sold: false
+    contextual: true
 ---
 

@@ -48,6 +48,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1347"
   image: "/forestry/1347.jpg"
   technique: ''
@@ -58,6 +59,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1348"
   image: "/forestry/1348.jpg"
   technique: ''
@@ -68,6 +70,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1350"
   image: "/forestry/1350.jpg"
   technique: ''
@@ -78,6 +81,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1351"
   image: "/forestry/1351.jpg"
   technique: ''
@@ -88,6 +92,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1352"
   image: "/forestry/1352.jpg"
   technique: ''
@@ -98,6 +103,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1353"
   image: "/forestry/1353.jpg"
   technique: ''
@@ -108,6 +114,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1354"
   image: "/forestry/1354.jpg"
   technique: ''
@@ -118,6 +125,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1355"
   image: "/forestry/1355.jpg"
   technique: ''
@@ -128,6 +136,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1356"
   image: "/forestry/1356.jpg"
   technique: ''
@@ -138,6 +147,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1357"
   image: "/forestry/1357.jpg"
   technique: ''
@@ -148,6 +158,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1358"
   image: "/forestry/1358.jpg"
   technique: ''
@@ -158,6 +169,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1359"
   image: "/forestry/1359.jpg"
   technique: ''
@@ -168,6 +180,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: "1360"
   image: "/forestry/1360.jpg"
   technique: ''
@@ -178,6 +191,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/104-jean-francois-molliere/
 ---

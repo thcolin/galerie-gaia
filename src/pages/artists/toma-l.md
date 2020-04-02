@@ -217,6 +217,7 @@ works:
   description: "caisse américaine noire  \n2018091805"
   price: 3500
   sold: false
+  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
@@ -234,6 +235,7 @@ works:
   description: "caisse américaine noire  \n2018091802"
   price: 3500
   sold: false
+  contextual: true
 - title: 'Green side of the man '
   image: "/forestry/galeriegaia@tomaL-2018031801-Greensideohtheman-160x121cm-ES.jpg"
   technique: 'Technique mixte sur toile de lin '
@@ -243,6 +245,7 @@ works:
   description: caisse américaine noire
   price: 
   sold: false
+  contextual: true
 - title: Red side of the man
   image: "/forestry/galeriegaia@tomaL-2018031701-Redsideohtheman-160x121cm-ES.jpg"
   technique: technique mixte sur toile en lin
@@ -261,6 +264,7 @@ works:
   description: 'caisse américaine '
   price: 
   sold: false
+  contextual: true
 - title: 'Drawing black '
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
   technique: Technique mixte sur papier
@@ -281,6 +285,7 @@ works:
     VERNISSAGE 21 MARS 18H
   price: 
   sold: false
+  contextual: true
 - title: 'Simple black '
   image: "/forestry/galeriegaia@tomaL-2012130102-drawingblack-72x70cm.jpg"
   technique: Technique mixte sur papier
@@ -291,6 +296,7 @@ works:
   description: "caisse américaine chêne  \n2012111101"
   price: 2900
   sold: false
+  contextual: true
 - title: Bonne pierre bon œil 10
   image: "/forestry/bonne-pierre-bon-oeil-10.jpg"
   technique: Lithographie
@@ -301,6 +307,7 @@ works:
   description: "3018100904"
   price: 300
   sold: false
+  contextual: true
 - title: Bonne pierre bon œil 13 (vert)
   image: "/forestry/bonne-pierre-bon-oeil-13.jpg"
   technique: Lithographie
@@ -311,6 +318,7 @@ works:
   description: "3018130908"
   price: 350
   sold: false
+  contextual: true
 - title: Bonne pierre bon œil 13 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
   technique: Lithographie
@@ -321,6 +329,7 @@ works:
   description: "3018130906"
   price: 350
   sold: false
+  contextual: true
 - title: Bonne pierre bon œil 13 (rouge)
   image: "/forestry/bonne-pierre-bon-oeil-13rouge.jpg"
   technique: Lithographie
@@ -331,6 +340,7 @@ works:
   description: "3018130903"
   price: 350
   sold: false
+  contextual: true
 - title: Bonne pierre bon œil 14 (bleu)
   image: "/forestry/bonne-pierre-bon-oeil-14-bleu.jpg"
   technique: Lithographie
@@ -341,6 +351,7 @@ works:
   description: "3018141009"
   price: 450
   sold: false
+  contextual: true
 - title: Bonne pierre bon œil 14 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-14-noir.jpg"
   technique: Lithographie
@@ -351,6 +362,7 @@ works:
   description: "301841008"
   price: 450
   sold: false
+  contextual: true
 - title: Stone Age 02
   image: "/forestry/stone-age-02.jpg"
   technique: lithographie
@@ -361,6 +373,7 @@ works:
   description: "Tirage à 10 exemplaires   \n3017021009"
   price: 400
   sold: false
+  contextual: true
 - title: Stone Age 12
   image: "/forestry/stone-age-12.jpg"
   technique: Lithographie
@@ -371,6 +384,7 @@ works:
   description: "Musée de l'imprimerie   \n301712002"
   price: 400
   sold: false
+  contextual: true
 - title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
   technique: Lithographie
@@ -381,6 +395,7 @@ works:
   description: "Tirage à 2 exemplaires  \n3017160202"
   price: 400
   sold: false
+  contextual: true
 - title: Stone Age 09
   image: "/forestry/stone-age-09.jpg"
   technique: Lithographie
@@ -391,6 +406,7 @@ works:
   description: "Tirage à 12 exemplaires   \n3017101206"
   price: 400
   sold: false
+  contextual: true
 - title: 'Simple White Trash '
   image: "/forestry/simple-white-trash.jpg"
   technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
@@ -401,6 +417,7 @@ works:
   description: "2017051101"
   price: 5500
   sold: false
+  contextual: true
 - title: 'Red Canaille '
   image: "/forestry/red-canaille.jpg"
   technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
@@ -411,6 +428,7 @@ works:
   description: "2016050213"
   price: 5800
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/99-toma-l/"
 

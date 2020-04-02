@@ -19,6 +19,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: THANH Hasards pour Morgane
     image: /forestry/thanh-hasards-pour-morgane.jpg
     technique: mixte sur papier
@@ -29,6 +30,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Tangui ROBERT Hasards pour Morgane
     image: /forestry/tangui-robert-hasards-pour-morgane.jpg
     technique: mixte sur papier
@@ -39,6 +41,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Livre coffret Hasards pour Morgane
     image: /forestry/livre-coffret-hasards-pour-morgane.jpg
     technique: ''
@@ -53,6 +56,7 @@ works:
       Tirage limité à 250 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: JEAN NOEL HALLET
     image: /forestry/jean-noel-hallet.jpg
     technique: technique mixte sur papier
@@ -63,6 +67,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: NADJA HOLLAND
     image: /forestry/nadja-holland.jpg
     technique: Technique mixte sur papier
@@ -73,6 +78,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: CORINNE HERAUD
     image: /forestry/corinne-heraud.jpg
     technique: Technique mixte sur papier
@@ -83,6 +89,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: LIVRE COFFRET HASARDS POUR MORGANE
     image: /forestry/livre-coffret-hasards-pour-morgane.jpg
     technique: ''
@@ -95,6 +102,7 @@ works:
       tirage limité à 250 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Livre coffret Hasards pour Morgane
     image: /forestry/livre-coffret-hasards-pour-morgane.jpg
     technique: ''
@@ -107,6 +115,7 @@ works:
       reproduction  des oeuvres des artistes
     price: .nan
     sold: false
+    contextual: true
   - title: Quelques feuillets exposés
     image: /forestry/quelques-feuillets-exposes.jpg
     technique: ''
@@ -117,6 +126,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Exposition des 25 feuillets
     image: /forestry/exposition-des-25-feuillets.jpg
     technique: ''
@@ -127,6 +137,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Exposition des 25 oeuvres
     image: /forestry/exposition-des-25-oeuvres.jpg
     technique: ''
@@ -137,6 +148,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Exposition des 25 oeuvres
     image: /forestry/exposition-des-25-oeuvres.jpg
     technique: ''
@@ -147,6 +159,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Exposition des 25 oeuvres
     image: /forestry/exposition-des-25-oeuvres.jpg
     technique: ''
@@ -157,6 +170,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Tirage au sort des 25 oeuvres
     image: /forestry/tirage-au-sort-des-25-oeuvres.jpg
     technique: ''
@@ -167,6 +181,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Tirage au sort des 25 oeuvres
     image: /forestry/tirage-au-sort-des-25-oeuvres.jpg
     technique: ''
@@ -177,5 +192,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

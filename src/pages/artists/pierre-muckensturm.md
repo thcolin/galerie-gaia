@@ -35,6 +35,7 @@ works:
   description: '2019 '
   price: 600
   sold: false
+  contextual: true
 - title: 14p1r1 - 14p1r2 - 14p1r3
   image: "/forestry/14p1r1-14p1r2-14p1r3.jpg"
   technique: Gravure - Aquatinte sur cuivre sur papier BFK Rives
@@ -46,6 +47,7 @@ works:
     (8/11)"
   price: 1000
   sold: false
+  contextual: true
 - title: 14p1r1 (8/11)
   image: "/forestry/14p1r1-811.jpg"
   technique: Aquatinte sur cuivre sur papier BFK Rives
@@ -56,6 +58,7 @@ works:
   description: '2014 '
   price: 350
   sold: false
+  contextual: true
 - title: 14p1r2 (8/11)
   image: "/forestry/14p1r2-811.jpg"
   technique: Aquatinte sur cuivre sur papier BFK Rives
@@ -66,6 +69,7 @@ works:
   description: '2014 '
   price: 350
   sold: false
+  contextual: true
 - title: 14p1r3 (8/11)
   image: "/forestry/14p1r3-811.jpg"
   technique: Aquatinte sur cuivre sur papier BFK Rives
@@ -76,6 +80,7 @@ works:
   description: '2014 '
   price: 350
   sold: false
+  contextual: true
 - title: 14c3-1 (9/11)
   image: "/forestry/14c3-1-911.jpg"
   technique: Aquatinte
@@ -86,6 +91,7 @@ works:
   description: '2014 '
   price: 400
   sold: false
+  contextual: true
 - title: 184J210811 (4/7)
   image: "/forestry/184j210811-47.jpg"
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
@@ -96,6 +102,7 @@ works:
   description: '2018 '
   price: 600
   sold: false
+  contextual: true
 - title: 184J210831 (4/11)
   image: "/forestry/184j210831-411.jpg"
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
@@ -106,6 +113,7 @@ works:
   description: '2018 '
   price: 600
   sold: false
+  contextual: true
 - title: 184J210821 (6/11)
   image: "/forestry/184j210821-611.jpg"
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
@@ -116,6 +124,7 @@ works:
   description: '2018 '
   price: 600
   sold: false
+  contextual: true
 - title: 13R8-1 (9/11)
   image: "/forestry/13r8-1-911.jpg"
   technique: Aquatinte
@@ -126,6 +135,7 @@ works:
   description: '2013 '
   price: 350
   sold: false
+  contextual: true
 - title: 162R220613 (4/11)
   image: "/forestry/162r220613-411.jpg"
   technique: Aquatinte et pointe sèche sur cuivre sur papier BFK Rives
@@ -136,6 +146,7 @@ works:
   description: '2016 '
   price: 400
   sold: false
+  contextual: true
 - title: 172J230921 (6/11)
   image: "/forestry/172j230921-611.jpg"
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
@@ -146,6 +157,7 @@ works:
   description: "2017"
   price: 600
   sold: false
+  contextual: true
 - title: 172J230922 (6/11)
   image: "/forestry/172j230922-611.jpg"
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
@@ -156,6 +168,7 @@ works:
   description: '2017 '
   price: 600
   sold: false
+  contextual: true
 - title: 186s19111 (9/25)
   image: "/forestry/186s19111-925.jpg"
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
@@ -166,6 +179,7 @@ works:
   description: '2018 '
   price: 200
   sold: false
+  contextual: true
 - title: 186s19112 (9/25)
   image: "/forestry/186s19112-925.jpg"
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
@@ -176,6 +190,7 @@ works:
   description: '2018  '
   price: 200
   sold: false
+  contextual: true
 - title: 186s19113 (9/25)
   image: "/forestry/186s19113-925.jpg"
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
@@ -186,6 +201,7 @@ works:
   description: '2018 '
   price: 200
   sold: false
+  contextual: true
 - title: 199p22051 (A+B)
   image: "/forestry/IMG_20190522_154750.jpg"
   technique: Technique mixte et huile sur toile (2 éléments déformés)
@@ -196,6 +212,7 @@ works:
   description: "2019   \nprotocole d'accrochage fournit par l'artiste"
   price: 2750
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/58-pierre-muckensturm/"
 

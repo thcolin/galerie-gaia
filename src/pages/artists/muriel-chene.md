@@ -84,6 +84,7 @@ works:
     description: VENDUE
     price: 1200
     sold: false
+    contextual: true
   - title: Le Reflet n'est jamais Solitaire  VI   3/8
     image: /forestry/le-reflet-nest-jamais-solitaire-vi-38.jpg
     technique: pâte de verre  et fusain
@@ -94,5 +95,6 @@ works:
     description: 950€
     price: .nan
     sold: false
+    contextual: true
 ---
 

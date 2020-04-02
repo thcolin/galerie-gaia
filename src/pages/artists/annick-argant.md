@@ -38,6 +38,7 @@ works:
   description: ""
   price:
   sold: false
+  contextual: true
 - title: Petit Ange
   image: "/forestry/petit-ange.jpg"
   technique: bronze doré
@@ -48,6 +49,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: Opus
   image: "/forestry/opus.jpg"
   technique: bronze blanc
@@ -58,6 +60,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: CARR'AIMANT
   image: "/forestry/carraimant.jpg"
   technique: grés sur socle bois
@@ -68,6 +71,7 @@ works:
   description: ""
   price:
   sold: false
+  contextual: true
 - title: CARR'AIMANT
   image: "/forestry/carraimant.jpg"
   technique: Grés sur socle bois
@@ -78,6 +82,7 @@ works:
   description: ""
   price:
   sold: false
+  contextual: true
 - title: Hymne à la vie
   image: "/forestry/hymne-a-la-vie.jpg"
   technique: Bronze
@@ -88,6 +93,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: Carr'aimants
   image: "/forestry/carraimants.jpg"
   technique: grés et bois
@@ -98,6 +104,7 @@ works:
   description: ""
   price:
   sold: false
+  contextual: true
 - title: Carr'aiment
   image: "/forestry/carraiment.jpg"
   technique: Grès sur socle bois
@@ -108,6 +115,7 @@ works:
   description: De 150€ à 1800€
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/51-annick-argant/
 ---

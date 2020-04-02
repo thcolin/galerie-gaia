@@ -55,6 +55,7 @@ works:
     Up Nantaise"
   price: 
   sold: false
+  contextual: true
 - title: Nuit des Galeries#2
   image: "/forestry/nuit-des-galeries2.jpg"
   technique: ''
@@ -65,6 +66,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Nuit des Galeries#3
   image: "/forestry/nuit-des-galeries3.jpg"
   technique: ''
@@ -77,6 +79,7 @@ works:
     Pass au Musée des Arts à gagner"
   price: 
   sold: false
+  contextual: true
 - title: Nuit des Galeries#1
   image: "/forestry/nuit-des-galeries1.jpg"
   technique: ''
@@ -87,6 +90,7 @@ works:
   description: "2016"
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/81-art-galeries-nantes/
 ---

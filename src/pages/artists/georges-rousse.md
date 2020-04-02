@@ -21,6 +21,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Luxembourg
     image: /forestry/luxembourg.jpg
     technique: Photographie épreuve pigmentaire
@@ -33,6 +34,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Vevey
     image: /forestry/vevey.jpg
     technique: Photographie épreuve pigmentaire
@@ -43,6 +45,7 @@ works:
     description: 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Bordeaux
     image: /forestry/bordeaux.jpg
     technique: Photographie épreuve pigmentaire
@@ -55,6 +58,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Mumbai
     image: /forestry/mumbai.jpg
     technique: Photographie épreuve pigmentaire
@@ -67,6 +71,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Séoul
     image: /forestry/seoul.jpg
     technique: Photographie épreuve pigmentaire
@@ -79,6 +84,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: Genève
     image: /forestry/geneve.jpg
     technique: Photographie épreuve pigmentaire
@@ -91,6 +97,7 @@ works:
       tirage à 30 exemplaires
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/93-georges-rousse/
 ---

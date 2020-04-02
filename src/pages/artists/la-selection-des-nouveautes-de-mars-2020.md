@@ -63,6 +63,7 @@ works:
   description: ''
   price: 4900
   sold: false
+  contextual: true
 - title: Atlantis Teatro Dimitri Bourriau
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibond
@@ -81,6 +82,7 @@ works:
   description: 280€
   price: 
   sold: false
+  contextual: true
 - title: GO SEGAWA - Mass
   image: "/forestry/go-segawa-mass.jpg"
   technique: Sérigraphie 3/25 (2019)
@@ -93,6 +95,7 @@ works:
     160€
   price: 
   sold: false
+  contextual: true
 - title: SEUIL - Strate 28
   image: "/forestry/seuil-strate-28.jpg"
   technique: Sérigraphie /10
@@ -105,6 +108,7 @@ works:
     180€
   price: 
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 

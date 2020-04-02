@@ -65,6 +65,7 @@ works:
     description: 900€
     price: .nan
     sold: false
+    contextual: true
   - title: Le dragon
     image: /forestry/le-dragon.jpg
     technique: lithographie
@@ -75,6 +76,7 @@ works:
     description: 900€
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/26-tony-soulie/
 ---

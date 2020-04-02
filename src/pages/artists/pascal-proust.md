@@ -96,6 +96,7 @@ works:
   description: "2019"
   price: 900
   sold: false
+  contextual: true
 - title: Folie PP 6-2019
   image: "/forestry/@proust-PP6-35x15-1.JPG"
   technique: tôle acier laqué, pliée, couleur rouge
@@ -108,6 +109,7 @@ works:
     2019
   price: 900
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/96-pascal-proust/"
 

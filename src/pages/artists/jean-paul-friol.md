@@ -19,6 +19,7 @@ works:
     description: 1991 / 450€
     price: .nan
     sold: false
+    contextual: true
   - title: Papier collé 005
     image: /forestry/papier-colle-005.jpg
     technique: 'Collage, papier soie, encre'
@@ -29,6 +30,7 @@ works:
     description: 1991 / 450€
     price: .nan
     sold: false
+    contextual: true
   - title: Papier collé 135
     image: /forestry/papier-colle-135.jpg
     technique: 'Collage, kraft, email à froid, acrylique'
@@ -39,6 +41,7 @@ works:
     description: 1995 / 450€
     price: .nan
     sold: false
+    contextual: true
   - title: Papier collé 178
     image: /forestry/papier-colle-178.jpg
     technique: >-
@@ -51,6 +54,7 @@ works:
     description: 2008 / 680 euros encadré
     price: .nan
     sold: false
+    contextual: true
   - title: Papier collé 071
     image: /forestry/papier-colle-071.jpg
     technique: 'Collage, papier soie, kraft, émail à froid, acrylique'
@@ -61,6 +65,7 @@ works:
     description: 1994 / 450€
     price: .nan
     sold: false
+    contextual: true
   - title: Sans Titre
     image: /forestry/sans-titre.jpg
     technique: Gravure
@@ -74,6 +79,7 @@ works:
       140€ sans cadre
     price: .nan
     sold: false
+    contextual: true
   - title: Sans Titre
     image: /forestry/sans-titre.jpg
     technique: Gravure
@@ -87,6 +93,7 @@ works:
       120€ sans cadre
     price: .nan
     sold: false
+    contextual: true
   - title: Sans Titre
     image: /forestry/sans-titre.jpg
     technique: Gravure
@@ -100,6 +107,7 @@ works:
       120€ sans cadre
     price: .nan
     sold: false
+    contextual: true
   - title: Sans titre
     image: /forestry/sans-titre.jpg
     technique: Papier collé
@@ -112,6 +120,7 @@ works:
       450€
     price: .nan
     sold: false
+    contextual: true
   - title: Visage yeux cernés noirs
     image: /forestry/visage-yeux-cernes-noirs.jpg
     technique: collage papier et dessin
@@ -122,6 +131,7 @@ works:
     description: 1991 / 450€
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/101-jean-paul-friol/
 ---

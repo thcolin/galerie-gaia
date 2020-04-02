@@ -28,6 +28,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: La tendresse
   image: "/forestry/la-tendresse.jpg"
   technique: ''
@@ -38,6 +39,7 @@ works:
   description: 2000 euros
   price:
   sold: false
+  contextual: true
 - title: L'écoute de la seconde éternelle
   image: "/forestry/lecoute-de-la-seconde-eternelle.jpg"
   technique: ''
@@ -48,6 +50,7 @@ works:
   description: 3000 euros
   price:
   sold: false
+  contextual: true
 - title: Les chevaux de passage
   image: "/forestry/les-chevaux-de-passage.jpg"
   technique: ''
@@ -58,6 +61,7 @@ works:
   description: "Diptyque \n\n2500 euros"
   price:
   sold: false
+  contextual: true
 - title: "547"
   image: "/forestry/547.jpg"
   technique: ''
@@ -68,6 +72,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: "616"
   image: "/forestry/616.jpg"
   technique: ''
@@ -78,6 +83,7 @@ works:
   description: 3000 €
   price:
   sold: false
+  contextual: true
 - title: "617"
   image: "/forestry/617.jpg"
   technique: ''
@@ -88,6 +94,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: "620"
   image: "/forestry/620.jpg"
   technique: ''
@@ -98,6 +105,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: ""
   image: "/forestry/lg.jpg"
   technique: ''
@@ -108,6 +116,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: Diptyque performance du vernissage
   image: "/forestry/diptyque-performance-du-vernissage.jpg"
   technique: Acrylique sur toile
@@ -118,6 +127,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/72-francky-criquet/
 ---

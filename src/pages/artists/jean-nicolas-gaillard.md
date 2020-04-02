@@ -19,6 +19,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: sans titre
     image: /forestry/sans-titre.jpg
     technique: acrylique sur toile
@@ -29,6 +30,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: sans titre
     image: /forestry/sans-titre.jpg
     technique: huile sur bois
@@ -39,6 +41,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: '381'
     image: /forestry/381.jpg
     technique: huile sur bois
@@ -49,6 +52,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Elles
     image: /forestry/elles.jpg
     technique: mixte sur bois
@@ -59,5 +63,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

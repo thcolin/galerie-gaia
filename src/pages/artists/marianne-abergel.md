@@ -55,6 +55,7 @@ works:
     socle vendu séparément
   price:
   sold: false
+  contextual: true
 - title: 'Les Chimères : Le lièvre'
   image: "/forestry/les-chimeres-le-lievre.jpg"
   technique: grès blanc et émail
@@ -65,6 +66,7 @@ works:
   description: "640€ \nsocle vendu séparément"
   price:
   sold: false
+  contextual: true
 - title: 'les Chimères : Girafe'
   image: "/forestry/les-chimeres-girafe.jpg"
   technique: Porcelaine et or
@@ -75,6 +77,7 @@ works:
   description: 290€
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/59-marianne-abergel/
 ---

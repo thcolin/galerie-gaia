@@ -49,6 +49,7 @@ works:
   description: "-"
   price: 
   sold: false
+  contextual: true
 - title: le chaos et l'ordre
   image: "/forestry/le-chaos-et-lordre.jpg"
   technique: huile sur toile 2016
@@ -59,6 +60,7 @@ works:
   description: "-"
   price: 
   sold: false
+  contextual: true
 - title: la flame et l'horizon
   image: "/forestry/la-flame-et-lhorizon.jpg"
   technique: crayon fusain sur toile
@@ -69,6 +71,7 @@ works:
   description: "-"
   price: 
   sold: false
+  contextual: true
 - title: le profond
   image: "/forestry/le-profond.jpg"
   technique: huile sur toile 2016
@@ -79,6 +82,7 @@ works:
   description: "-"
   price: 
   sold: false
+  contextual: true
 - title: la furie
   image: "/forestry/la-furie.jpg"
   technique: huile sur toile 2016
@@ -89,6 +93,7 @@ works:
   description: "-"
   price: 
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/64-franco-salas-borquez/"
 

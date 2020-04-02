@@ -39,6 +39,7 @@ works:
   description: caisse américaine bois brut
   price: 1800
   sold: false
+  contextual: true
 - title: Ciel 2070
   image: "/forestry/galeriegaia_Francheteau_Ciel2070(2018)_30x30.jpg"
   technique: 'Acrylique sur toile '
@@ -89,6 +90,7 @@ works:
   description: 'encadrée bois '
   price: 600
   sold: false
+  contextual: true
 - title: Ciel 2005
   image: "/forestry/937.jpg"
   technique: Acrylique sur toile
@@ -99,6 +101,7 @@ works:
   description: ''
   price: 250
   sold: false
+  contextual: true
 - title: Ciel 2044
   image: "/forestry/939.jpg"
   technique: 'Acrylique sur toile '
@@ -109,6 +112,7 @@ works:
   description: 'œuvre encadrée bois '
   price: 600
   sold: false
+  contextual: true
 - title: Ciel 2056
   image: "/forestry/940.jpg"
   technique: 'Acrylique sur toile '
@@ -119,6 +123,7 @@ works:
   description: 'œuvre encadrée bois '
   price: 240
   sold: false
+  contextual: true
 - title: Ciel 045
   image: "/forestry/943.jpg"
   technique: Dessin
@@ -129,6 +134,7 @@ works:
   description: œuvre encadrée 40X30cm
   price: 160
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/12-claude-francheteau/"
 

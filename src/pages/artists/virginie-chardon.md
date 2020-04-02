@@ -57,6 +57,7 @@ works:
   description: 'Edition en 8 exemplaires '
   price: 5900
   sold: false
+  contextual: true
 - title: Omer Le Dog Allemand
   image: "/forestry/omer.jpg"
   technique: bronze
@@ -67,6 +68,7 @@ works:
   description: Fonderie Candide
   price: 7000
   sold: false
+  contextual: true
 - title: Le pélican
   image: "/forestry/le-pelican.jpg"
   technique: bronze
@@ -77,6 +79,7 @@ works:
   description: ''
   price: 6700
   sold: false
+  contextual: true
 - title: Balthazar l'Orang Outan
   image: "/forestry/balthazar.jpg"
   technique: bronze
@@ -87,6 +90,7 @@ works:
   description: Fonderie Paumelle
   price: 5400
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/95-virginie-chardon/"
 

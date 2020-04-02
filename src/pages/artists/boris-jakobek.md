@@ -36,6 +36,7 @@ works:
   description: 100€
   price: 
   sold: false
+  contextual: true
 - title: Réveil
   image: "/forestry/reveil.jpg"
   technique: Sérigraphie
@@ -46,6 +47,7 @@ works:
   description: 'Affiche '
   price: 120
   sold: false
+  contextual: true
 - title: "822"
   image: "/forestry/822.jpg"
   technique: sérigraphie
@@ -56,6 +58,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: La coupe
   image: "/forestry/la-coupe.jpg"
   technique: sérigraphie /20
@@ -68,6 +71,7 @@ works:
     50€
   price: 
   sold: false
+  contextual: true
 - title: Donald (1/1)
   image: "/forestry/donald-11.jpg"
   technique: Sérigraphie
@@ -78,6 +82,7 @@ works:
   description: 320€
   price: 
   sold: false
+  contextual: true
 - title: Homme courbé (15/50)
   image: "/forestry/homme-courbe-1550.jpg"
   technique: Sérigraphie
@@ -88,6 +93,7 @@ works:
   description: 100€
   price: 
   sold: false
+  contextual: true
 - title: La réunion (3/20)
   image: "/forestry/la-reunion-320.jpg"
   technique: Sérigraphie
@@ -98,6 +104,7 @@ works:
   description: 100€
   price: 
   sold: false
+  contextual: true
 - title: Les marcheurs (1/1)
   image: "/forestry/les-marcheurs-11.jpg"
   technique: Sérigraphie
@@ -108,6 +115,7 @@ works:
   description: 320€
   price: 
   sold: false
+  contextual: true
 - title: Les oreilles qui saignent (7/14)
   image: "/forestry/les-oreilles-qui-saignent-714.jpg"
   technique: Sérigraphie
@@ -118,6 +126,7 @@ works:
   description: 100€
   price: 
   sold: false
+  contextual: true
 - title: Main (1/1)
   image: "/forestry/main-11.jpg"
   technique: Sérigraphie
@@ -128,6 +137,7 @@ works:
   description: 320€
   price: 
   sold: false
+  contextual: true
 - title: Trois points (11/15)
   image: "/forestry/trois-points-1115.jpg"
   technique: Sérigraphie
@@ -138,6 +148,7 @@ works:
   description: 100€
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/86-boris-jakobek/
 ---

@@ -5,6 +5,7 @@ import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
 import Contact from 'components/Contact'
+import Contextual from 'components/Contextual'
 import Image from 'components/Image'
 import Icon from 'components/Icon'
 import Carousel, { Dots } from '@brainhubeu/react-carousel'
@@ -101,6 +102,9 @@ const Artist = ({ ...props }) => {
                   )}
                   {!!work.description && (
                     <RichText children={work.description} />
+                  )}
+                  {!!work.contextual && (
+                    <Contextual work={work} />
                   )}
                   <Contact
                     id="PHr_SEkN0Pj2VLhcXtR5H"
@@ -273,7 +277,7 @@ Artist.styles = {
         },
       },
       '>button': {
-        margin: '1rem 0 0 0',
+        margin: '1rem 0',
       },
     },
   },

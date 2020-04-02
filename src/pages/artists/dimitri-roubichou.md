@@ -21,6 +21,7 @@ works:
       150€
     price: .nan
     sold: false
+    contextual: true
   - title: Cinq
     image: /forestry/cinq.jpg
     technique: Photo sur papier baryté
@@ -33,6 +34,7 @@ works:
       450€
     price: .nan
     sold: false
+    contextual: true
   - title: Sept
     image: /forestry/sept.jpg
     technique: Photo sur papier baryté
@@ -45,6 +47,7 @@ works:
       450€
     price: .nan
     sold: false
+    contextual: true
   - title: Anémone
     image: /forestry/anemone.jpg
     technique: Photo sur papier baryté
@@ -57,6 +60,7 @@ works:
       150€
     price: .nan
     sold: false
+    contextual: true
   - title: Anémone
     image: /forestry/anemone.jpg
     technique: Photo sur papier baryté
@@ -69,6 +73,7 @@ works:
       X 35 250€
     price: .nan
     sold: false
+    contextual: true
   - title: Quatre
     image: /forestry/quatre.jpg
     technique: Photo sur papier baryté
@@ -81,6 +86,7 @@ works:
       190€
     price: .nan
     sold: false
+    contextual: true
   - title: ACATE
     image: /forestry/acate.jpg
     technique: Photo sur papier
@@ -93,6 +99,7 @@ works:
       Tirage possible sur d'autres formats
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/82-dimitri-roubichou/
 ---

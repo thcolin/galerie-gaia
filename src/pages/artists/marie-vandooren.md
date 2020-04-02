@@ -24,6 +24,7 @@ works:
   description: "20 exemplaires \n200€"
   price:
   sold: false
+  contextual: true
 - title: Jeux d'enfants 1
   image: "/forestry/jeux-denfants-1.jpg"
   technique: Huile sur toile
@@ -34,6 +35,7 @@ works:
   description: 300€
   price: 300
   sold: false
+  contextual: true
 - title: Jeux d'enfants 2
   image: "/forestry/jeux-denfants-2.jpg"
   technique: Huile sur toile
@@ -44,6 +46,7 @@ works:
   description: 300€
   price: 300
   sold: false
+  contextual: true
 - title: Urbanisme et reflexion
   image: "/forestry/urbanisme-et-reflexion.jpg"
   technique: Huile sur toile
@@ -54,6 +57,7 @@ works:
   description: 300€
   price: 300
   sold: false
+  contextual: true
 - title: Immeuble cubique
   image: "/forestry/immeuble-cubique.jpg"
   technique: Sérigraphie
@@ -64,6 +68,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: 'Contraste #2'
   image: "/forestry/contraste-2.jpg"
   technique: Sérigraphie /10
@@ -74,6 +79,7 @@ works:
   description: 120€
   price:
   sold: false
+  contextual: true
 - title: Sans Titre N°16
   image: "/forestry/sans-titre-ndegree16.jpg"
   technique: Dessin / Collage
@@ -84,6 +90,7 @@ works:
   description: 150€ encadré
   price:
   sold: false
+  contextual: true
 - title: Sans Titre N°20
   image: "/forestry/sans-titre-ndegree20.jpg"
   technique: Dessin / Collage
@@ -94,6 +101,7 @@ works:
   description: 150€ encadré
   price:
   sold: false
+  contextual: true
 - title: Sans Titre N°21
   image: "/forestry/sans-titre-ndegree21.jpg"
   technique: Dessin / Collage
@@ -104,6 +112,7 @@ works:
   description: 150€ encadré
   price:
   sold: false
+  contextual: true
 - title: Sans Titre N°22
   image: "/forestry/sans-titre-ndegree22.jpg"
   technique: Dessin / Collage
@@ -114,6 +123,7 @@ works:
   description: 150€ encadré
   price:
   sold: false
+  contextual: true
 - title: Sans Titre (7/10)
   image: "/forestry/sans-titre-710.jpg"
   technique: Sérigraphie
@@ -126,6 +136,7 @@ works:
     2019
   price:
   sold: false
+  contextual: true
 - title: Sans Titre (1/5)
   image: "/forestry/sans-titre-15.jpg"
   technique: Sérigraphie
@@ -136,6 +147,7 @@ works:
   description: 2019 190€
   price:
   sold: false
+  contextual: true
 - title: Sans Titre (1/5)
   image: "/forestry/sans-titre-15.jpg"
   technique: Sérigraphie
@@ -146,6 +158,7 @@ works:
   description: 2019 190€
   price:
   sold: false
+  contextual: true
 - title: Silo
   image: "/forestry/silo.jpg"
   technique: Collage sur sérigraphie
@@ -156,6 +169,7 @@ works:
   description: "Pièce unique \n200€"
   price:
   sold: false
+  contextual: true
 - title: Silo 2
   image: "/forestry/silo-2.jpg"
   technique: Collage sur sérigraphie
@@ -168,6 +182,7 @@ works:
     200€
   price:
   sold: false
+  contextual: true
 - title: Végétal bleu
   image: "/forestry/vegetal-bleu.jpg"
   technique: Sérigraphie
@@ -178,6 +193,7 @@ works:
   description: "15 exemplaires \n160€"
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/94-marie-vandooren/
 ---

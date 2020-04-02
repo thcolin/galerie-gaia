@@ -27,6 +27,7 @@ const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => {
       />
       {trace && (
         <img
+          {...props}
           css={Image.styles.trace}
           src={withPrefix(`${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, '.svg')}`)}
         />

@@ -22,6 +22,7 @@ works:
   description: ''
   price: 600
   sold: false
+  contextual: true
 - title: SINE NOB'LITATE
   image: "/forestry/sine-noblitate.jpg"
   technique: Estampe 1/1
@@ -33,6 +34,7 @@ works:
     papier Arches"
   price: 1000
   sold: false
+  contextual: true
 - title: JOCONDO IL BELLE
   image: "/forestry/jocondo-il-belle.jpg"
   technique: stylo
@@ -43,6 +45,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/42-adolfo-arenas-alonso/
 ---

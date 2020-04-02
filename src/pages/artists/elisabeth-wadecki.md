@@ -129,6 +129,7 @@ works:
   description: '2019 '
   price: 1800
   sold: false
+  contextual: true
 - title: Sans Titre N°12
   image: "/forestry/sans-titre-ndegree12.jpg"
   technique: Acrylique et bâtons d'huile sur papier
@@ -139,6 +140,7 @@ works:
   description: "2019   \noeuvre  encadrée baguette aluminium plaquée chêne naturel"
   price: 280
   sold: false
+  contextual: true
 - title: En mon jardin N°8
   image: "/forestry/en-mon-jardin-ndegree6.jpg"
   technique: Acrylique et bâtons d’huile sur papier
@@ -149,6 +151,7 @@ works:
   description: "2019   \noeuvre encadrée baguette aluminium "
   price: 900
   sold: false
+  contextual: true
 - title: En mon jardin N°7
   image: "/forestry/en-mon-jardin-ndegree7.jpg"
   technique: Acrylique et bâtons d'huile sur papier
@@ -159,6 +162,7 @@ works:
   description: "2019   \noeuvre encadrée baguette aluminium"
   price: 1350
   sold: false
+  contextual: true
 - title: Sans Titre N°4
   image: "/forestry/sans-titre-ndegree3.jpg"
   technique: Acrylique et pastel sur papier
@@ -169,6 +173,7 @@ works:
   description: "2018   \nEncadré aluminum sous verre "
   price: 700
   sold: false
+  contextual: true
 - title: Sans Titre N°5
   image: "/forestry/sans-titre-ndegree5.jpg"
   technique: Toile marouflée sur carton
@@ -179,6 +184,7 @@ works:
   description: "2018   \noeuvre encadrée baguette bois naturel "
   price: 550
   sold: false
+  contextual: true
 - title: Si on allait N°1
   image: "/forestry/si-on-allait-ndegree1.jpg"
   technique: Acrylique, pastels sur carton
@@ -189,6 +195,7 @@ works:
   description: "2018   \noeuvre encadrée baguette bois naturel"
   price: 280
   sold: false
+  contextual: true
 - title: Si on allait N°5
   image: "/forestry/si-on-allait-ndegree5.jpg"
   technique: Acrylique, pastels sur carton
@@ -199,6 +206,7 @@ works:
   description: "2018   \noeuvre encadrée baguette bois naturel"
   price: 280
   sold: false
+  contextual: true
 - title: Le Rai profond N°3 ouest
   image: "/forestry/le-roi-profond-ndegree3-ouest.jpg"
   technique: 'Acrylique et pastel sur papier '
@@ -209,6 +217,7 @@ works:
   description: "2019 \n\noeuvre encadrée baguette aluminium "
   price: 600
   sold: false
+  contextual: true
 - title: Le Rai profond N°4 ouest
   image: "/forestry/le-roi-profond-ndegree4-ouest.jpg"
   technique: 'Acrylique et pastel sur papier '
@@ -219,6 +228,7 @@ works:
   description: "2019 \n\noeuvre encadré baguette aluminium"
   price: 600
   sold: false
+  contextual: true
 - title: Sans Titre N°4
   image: "/forestry/sans-titre-ndegree4.jpg"
   technique: Acrylique, pastels, fusain sur toile
@@ -229,6 +239,7 @@ works:
   description: '2018 '
   price: 1600
   sold: false
+  contextual: true
 - title: Sans Titre N°8
   image: "/forestry/sans-titre-ndegree8.jpg"
   technique: Acrylique et pastel sur toile
@@ -239,6 +250,7 @@ works:
   description: '2018 '
   price: 1800
   sold: false
+  contextual: true
 - title: Sans Titre N°11
   image: "/forestry/sans-titre-ndegree11.jpg"
   technique: Acrylique et pastel sur toile
@@ -249,6 +261,7 @@ works:
   description: '2018 '
   price: 1800
   sold: false
+  contextual: true
 - title: Sans Titre N° 11 (1/10)
   image: "/forestry/sans-titre-110.jpg"
   technique: 'Tirage en quadrichromie '
@@ -259,6 +272,7 @@ works:
   description: "2018 \n\nprix avec encadrement verre musée antireflet"
   price: 290
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
 

@@ -64,6 +64,7 @@ works:
       3000 €
     price: .nan
     sold: false
+    contextual: true
   - title: lost Apsaroke
     image: /forestry/lost-apsaroke.jpg
     technique: Découpage et superposition de calque polyester dans caisse bois
@@ -76,6 +77,7 @@ works:
       2600 €
     price: .nan
     sold: false
+    contextual: true
   - title: lost Apache
     image: /forestry/lost-apache.jpg
     technique: Découpage et superposition de calque polyester dans caisse bois
@@ -88,6 +90,7 @@ works:
       2600 €
     price: .nan
     sold: false
+    contextual: true
   - title: to bring you my love
     image: /forestry/to-bring-you-my-love.jpg
     technique: Tulle et aérosol dans caisse bois vitrée
@@ -100,6 +103,7 @@ works:
       2600 €
     price: .nan
     sold: false
+    contextual: true
   - title: phœnix 2
     image: /forestry/phoenix-2.jpg
     technique: Tulle et aérosol dans caisse bois
@@ -112,5 +116,6 @@ works:
       2600 €
     price: .nan
     sold: false
+    contextual: true
 ---
 

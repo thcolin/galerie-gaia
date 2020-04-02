@@ -75,6 +75,7 @@ works:
     400 €
   price:
   sold: false
+  contextual: true
 - title: 3 juillet
   image: "/forestry/3-juillet.jpg"
   technique: eau fort et pointe sèche sur cuivre
@@ -85,6 +86,7 @@ works:
   description: "3/6 \n2009 \n450 €"
   price:
   sold: false
+  contextual: true
 - title: 12 Mai
   image: "/forestry/12-mai.jpg"
   technique: eau forte et pointe sèche sur cuivre
@@ -95,6 +97,7 @@ works:
   description: "20/40\n2010 \n500 €"
   price:
   sold: false
+  contextual: true
 - title: VI
   image: "/forestry/vi.jpg"
   technique: eau forte sur cuivre
@@ -105,6 +108,7 @@ works:
   description: "E.A 2/5 \n2015\n450€"
   price:
   sold: false
+  contextual: true
 - title: XXVII
   image: "/forestry/xxvii.jpg"
   technique: Eau forte et pointe sèche sur cuivre
@@ -117,6 +121,7 @@ works:
     350 €
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/35-renaud-allirand/
 ---

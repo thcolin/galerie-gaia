@@ -19,6 +19,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Rhizomes
     image: /forestry/rhizomes.jpg
     technique: Eau forte et gaufrage 3/15
@@ -29,6 +30,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/36tistes/36-jacqueline-pecantet/
 ---

@@ -52,6 +52,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: buste homme
     image: /forestry/buste-homme.jpg
     technique: bronze
@@ -65,6 +66,7 @@ works:
       Devis et organisation des rendez-vous à la galerie.
     price: .nan
     sold: false
+    contextual: true
   - title: Petite fille
     image: /forestry/petite-fille.jpg
     technique: Bronze
@@ -75,5 +77,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

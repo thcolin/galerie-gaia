@@ -36,6 +36,7 @@ works:
     \n1700€"
   price: 
   sold: false
+  contextual: true
 - title: 03/01/18 14:15
   image: "/forestry/030118-1415.jpg"
   technique: 'Mixte : spray & acrylique sur bois'
@@ -46,6 +47,7 @@ works:
   description: Toile sur châssis Prix 1500€
   price: 
   sold: false
+  contextual: true
 - title: Thomas 1980
   image: "/forestry/thomas-1980.jpg"
   technique: ''
@@ -56,6 +58,7 @@ works:
   description: VENDUE
   price: 
   sold: false
+  contextual: true
 - title: Edwin Wide
   image: "/forestry/edwin-wide.jpg"
   technique: ''
@@ -66,6 +69,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Inconnue#1
   image: "/forestry/inconnue1.jpg"
   technique: Spray et acrylique sur bois
@@ -76,6 +80,7 @@ works:
   description: 1500€
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/91-edwin-wide/
 ---

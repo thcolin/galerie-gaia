@@ -37,6 +37,7 @@ works:
   description: tirage en 10 exemplaires
   price:
   sold: false
+  contextual: true
 - title: Mad Men - Le Crillon
   image: "/forestry/mad-men-le-crillon.jpg"
   technique: digigraphie /10 exemplaires
@@ -47,6 +48,7 @@ works:
   description: "il reste 3 tirages disponibles \nprix encadrée avec verre musée 480€"
   price:
   sold: false
+  contextual: true
 - title: Tate
   image: "/forestry/tate.jpg"
   technique: Digigraphie /10 exemplaires
@@ -57,6 +59,7 @@ works:
   description: 300€
   price:
   sold: false
+  contextual: true
 - title: Sens interdit
   image: "/forestry/sens-interdit.jpg"
   technique: Digigraphie /10 exemplaires
@@ -67,6 +70,7 @@ works:
   description: 300€
   price:
   sold: false
+  contextual: true
 - title: Rainbow glass
   image: "/forestry/rainbow-glass.jpg"
   technique: Photographie
@@ -77,6 +81,7 @@ works:
   description: Tirage sur papier fine art
   price:
   sold: false
+  contextual: true
 - title: La Tour Anne de Bretagne
   image: "/forestry/la-tour-anne-de-bretagne.jpg"
   technique: Photographie sur papier
@@ -87,6 +92,7 @@ works:
   description: "contrecollée sur aluminium et caisse US\ntirage unique \nvendu"
   price:
   sold: false
+  contextual: true
 - title: Neil Ratnavira
   image: "/forestry/neil-ratnavira.jpg"
   technique: ''
@@ -97,6 +103,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: Amoeba Music - Los Angeles
   image: "/forestry/amoeba-music-los-angeles.jpg"
   technique: digigraphie
@@ -107,6 +114,7 @@ works:
   description: "tirage limité à 10 exemplaires \n300€"
   price:
   sold: false
+  contextual: true
 - title: A star is born - Los Angeles
   image: "/forestry/a-star-is-born-los-angeles.jpg"
   technique: digigraphie
@@ -117,6 +125,7 @@ works:
   description: tirage à 10 exemplaires
   price:
   sold: false
+  contextual: true
 - title: Caption this - Amsterdam
   image: "/forestry/caption-this-amsterdam.jpg"
   technique: digigraphie
@@ -127,6 +136,7 @@ works:
   description: Tirage sur papier d'art en 10 exemplaires
   price:
   sold: false
+  contextual: true
 - title: "1434"
   image: "/forestry/1434.jpg"
   technique: ''
@@ -137,6 +147,7 @@ works:
   description: "Pièce unique \n1500€ sans cadre \n1800€ encadrée avec verre anti-reflet"
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/80-neil-ratnavira/
 ---

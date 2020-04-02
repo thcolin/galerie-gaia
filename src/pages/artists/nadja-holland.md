@@ -35,6 +35,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Montées des Eaux
     image: /forestry/montees-des-eaux.jpg
     technique: Huile
@@ -45,6 +46,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: SOURCE
     image: /forestry/source.jpg
     technique: HUILE sur toile
@@ -55,6 +57,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Ficelles
     image: /forestry/ficelles.jpg
     technique: Huile sur toile
@@ -65,6 +68,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: JOUVENCE
     image: /forestry/jouvence.jpg
     technique: Huile sur toile
@@ -75,6 +79,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: '368'
     image: /forestry/368.jpg
     technique: Huile sur toile
@@ -85,5 +90,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

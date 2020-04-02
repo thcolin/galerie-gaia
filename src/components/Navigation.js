@@ -3,15 +3,11 @@ import Logo from 'components/Logo'
 import Icon from 'components/Icon'
 import RichText from 'components/RichText'
 import { Link } from 'gatsby'
+import trapScroll from 'utils/trapScroll'
 import theme from 'theme'
 
 const Navigation = ({ pageContext, ...props }) => {
   const [open, _setOpen] = useState(false)
-
-  const trapScroll = (enable) => {
-    document.body.style['max-height'] = enable ? '100vh' : 'initial'
-    document.body.style['overflow'] = enable ? 'hidden' : 'initial'
-  }
 
   const setOpen = (value) => {
     window.scrollTo({ top: 0, behavior: 'smooth' })

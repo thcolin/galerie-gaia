@@ -54,6 +54,7 @@ works:
   description: N°33
   price: 0
   sold: false
+  contextual: true
 - title: On the other side of the sky
   image: "/forestry/on-the-other-side-of-the-sky.jpg"
   technique: Cire sur planche
@@ -64,6 +65,7 @@ works:
   description: N°17
   price: 0
   sold: false
+  contextual: true
 - title: Arborescence
   image: "/forestry/arborescence.jpg"
   technique: Cire sur planche
@@ -74,6 +76,7 @@ works:
   description: N°70
   price: 0
   sold: false
+  contextual: true
 - title: Meteor Days are Dark and Night are Clears
   image: "/forestry/meteor-days-are-dark-and-night-are-clears.jpg"
   technique: Cire sur planche
@@ -84,6 +87,7 @@ works:
   description: N°82
   price: 0
   sold: false
+  contextual: true
 - title: On the other side of the sky N°14
   image: "/forestry/on-the-other-side-of-the-sky-ndegree14.jpg"
   technique: Cire et pigment sur bois
@@ -94,6 +98,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Détail d'une oeuvre
   image: "/forestry/detail-dune-oeuvre.jpg"
   technique: encaustique sur bois
@@ -104,6 +109,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/4-valota/
 ---

@@ -28,6 +28,7 @@ works:
   description: 980€ pièce unique cabochon amovible
   price:
   sold: false
+  contextual: true
 - title: Poisson russe
   image: "/forestry/ia.jpg"
   technique: Sérigraphie
@@ -38,6 +39,7 @@ works:
   description: ''
   price: 80
   sold: false
+  contextual: true
 - title: "679"
   image: "/forestry/679.jpg"
   technique: Sérigraphie
@@ -48,6 +50,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: Bouteille
   image: "/forestry/bouteille.jpg"
   technique: Céramique
@@ -58,6 +61,7 @@ works:
   description: 88€
   price:
   sold: false
+  contextual: true
 - title: Grande coupe
   image: "/forestry/grande-coupe.jpg"
   technique: Céramique
@@ -68,6 +72,7 @@ works:
   description: 130€
   price:
   sold: false
+  contextual: true
 - title: "862"
   image: "/forestry/862.jpg"
   technique: Sérigraphie
@@ -78,6 +83,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: "864"
   image: "/forestry/864.jpg"
   technique: Sérigraphie
@@ -88,6 +94,7 @@ works:
   description: 80€
   price:
   sold: false
+  contextual: true
 - title: "866"
   image: "/forestry/866.jpg"
   technique: Sérigraphie
@@ -98,6 +105,7 @@ works:
   description: 80€
   price:
   sold: false
+  contextual: true
 - title: "865"
   image: "/forestry/865.jpg"
   technique: Sérigraphie
@@ -108,6 +116,7 @@ works:
   description: 80€
   price:
   sold: false
+  contextual: true
 - title: Feuille bleue
   image: "/forestry/feuille-bleue.jpg"
   technique: Sérigraphie /50
@@ -118,6 +127,7 @@ works:
   description: 80€
   price:
   sold: false
+  contextual: true
 - title: Corail bleu
   image: "/forestry/corail-bleu.jpg"
   technique: Sérigraphie  12/50
@@ -128,6 +138,7 @@ works:
   description: 80€
   price:
   sold: false
+  contextual: true
 - title: Végétal jaune
   image: "/forestry/vegetal-jaune.jpg"
   technique: Sérigraphie 14/50
@@ -138,6 +149,7 @@ works:
   description: "2019"
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/79-valerie-le-roux/
 ---

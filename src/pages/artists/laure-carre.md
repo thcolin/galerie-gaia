@@ -95,6 +95,7 @@ works:
   description: 1400€
   price: 
   sold: false
+  contextual: true
 - title: Brume et Basile
   image: "/forestry/637.jpg"
   technique: Lithographie
@@ -105,6 +106,7 @@ works:
   description: ''
   price: 160
   sold: false
+  contextual: true
 - title: Salle d'attente
   image: "/forestry/salle-dattente.jpg"
   technique: Huile sur toile
@@ -115,6 +117,7 @@ works:
   description: ''
   price: 6000
   sold: false
+  contextual: true
 - title: La boxeuse amoureuse
   image: "/forestry/la-boxeuse-amoureuse.jpg"
   technique: Huile sur toile technique mixte
@@ -125,6 +128,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: La nuit la piscine
   image: "/forestry/la-nuit-la-piscine.jpg"
   technique: Mixte sur toile
@@ -135,6 +139,7 @@ works:
   description: Prix 1400€
   price: 
   sold: false
+  contextual: true
 - title: En quittant Phoenix
   image: "/forestry/en-quittant-phoenix.jpg"
   technique: Mixte sur toile
@@ -145,6 +150,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Walk in the kingdom (14/18)
   image: "/forestry/walk-in-the-kingdom-1418.jpg"
   technique: Lithographie
@@ -155,6 +161,7 @@ works:
   description: 200€ Imprimé au musée de l'imprimerie de Nantes en 2017.
   price: 
   sold: false
+  contextual: true
 - title: Rencontre royale (9/10)
   image: "/forestry/rencontre-royale-910.jpg"
   technique: Lithographie
@@ -165,6 +172,7 @@ works:
   description: 2016 200€
   price: 
   sold: false
+  contextual: true
 - title: Autoportrait (6/16)
   image: "/forestry/autoportrait-616.jpg"
   technique: Lithographie
@@ -175,6 +183,7 @@ works:
   description: 2017 200€
   price: 
   sold: false
+  contextual: true
 - title: In the wood for love
   image: "/forestry/galeriegaia@laurecarre-inthewoodforlove-collage.jpg"
   technique: mixte
@@ -185,6 +194,7 @@ works:
   description: "2019"
   price: 300
   sold: false
+  contextual: true
 - title: Native spririt
   image: "/forestry/galeriegaia@laurecarre-nativespirit-collage.jpg"
   technique: mixte
@@ -195,6 +205,7 @@ works:
   description: "2019"
   price: 200
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/76-laure-carre/"
 

@@ -26,6 +26,7 @@ works:
   description: Prix selon format 1000€ - 1200€ - 1400€
   price: 
   sold: false
+  contextual: true
 - title: Famille Hérons
   image: "/forestry/famille-herons.jpg"
   technique: Acier pièce unique
@@ -36,6 +37,7 @@ works:
   description: ''
   price: 650
   sold: false
+  contextual: true
 - title: Don Cristo
   image: "/forestry/don-cristo.jpg"
   technique: Acier pièce unique
@@ -46,6 +48,7 @@ works:
   description: ''
   price: 650
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/13-olivier-fremont/"
 

@@ -37,6 +37,7 @@ works:
   description: 280€
   price: 
   sold: false
+  contextual: true
 - title: Strate II
   image: "/forestry/strate-ii.jpg"
   technique: Sérigraphie 1/1
@@ -47,6 +48,7 @@ works:
   description: 350€
   price: 
   sold: false
+  contextual: true
 - title: Strate 20
   image: "/forestry/strate-20.jpg"
   technique: Sérigraphie 2/5
@@ -57,6 +59,7 @@ works:
   description: 450€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Strate 27
   image: "/forestry/strate-27.jpg"
   technique: Sérigraphie /10
@@ -67,6 +70,7 @@ works:
   description: 160€
   price: 
   sold: false
+  contextual: true
 - title: Strate 28
   image: "/forestry/strate-28.jpg"
   technique: Sérigraphie /10
@@ -77,6 +81,7 @@ works:
   description: 180€
   price: 
   sold: false
+  contextual: true
 - title: Diptyque Strate 8
   image: "/forestry/diptyque-strates-8.jpg"
   technique: Sérigraphie 1/1
@@ -87,6 +92,7 @@ works:
   description: 230€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Viçosa VII
   image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
   technique: Sérigraphie
@@ -105,6 +111,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Viçosa V
   image: "/forestry/vicosa-v.jpg"
   technique: Sérigraphie
@@ -115,6 +122,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Viçosa IV
   image: "/forestry/vicosa-iv.jpg"
   technique: Sérigraphie
@@ -125,6 +133,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Viçosa II
   image: "/forestry/vicosa-ii.jpg"
   technique: Sérigraphie
@@ -135,6 +144,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Viçosa I
   image: "/forestry/vicosa-i.jpg"
   technique: ''
@@ -145,6 +155,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
+  contextual: true
 - title: gisements 3
   image: "/forestry/gisements-3.jpg"
   technique: Sérigraphie
@@ -155,6 +166,7 @@ works:
   description: 160€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Versants 1
   image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
   technique: 'Sérigraphie '
@@ -174,6 +186,7 @@ works:
     à la galerie"
   price: 
   sold: false
+  contextual: true
 - title: Sérigraphie pour Gaïa
   image: "/forestry/serigraphie-pour-gaia.jpg"
   technique: Sérigraphie
@@ -184,6 +197,7 @@ works:
   description: "20 EXEMPLAIRES \nCOMMANDE POUR LES 40 ANS DU LIEU"
   price: 
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/62-collectif-jeronimo-gaetan-chevrier-tangui-robert/"
 

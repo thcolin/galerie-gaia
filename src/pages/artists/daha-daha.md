@@ -29,6 +29,7 @@ works:
     est"
   price:
   sold: false
+  contextual: true
 - title: console
   image: "/forestry/console.jpg"
   technique: ''
@@ -39,6 +40,7 @@ works:
   description: "projet de meubles sur mesure \ninformation à la galerie"
   price:
   sold: false
+  contextual: true
 - title: cubes pliés
   image: "/forestry/cubes-plies.jpg"
   technique: bois massif peint
@@ -50,6 +52,7 @@ works:
     créer une table \nbrut 500€TTC\nhuilé 580€TTC\npeint 600€TTC\nOr 690€TTC"
   price:
   sold: false
+  contextual: true
 - title: Fauteuil Ellipse
   image: "/forestry/fauteuil-ellipse.jpg"
   technique: ''
@@ -60,6 +63,7 @@ works:
   description: "prix selon le choix du bois \nsur commande"
   price:
   sold: false
+  contextual: true
 - title: Valet
   image: "/forestry/valet.jpg"
   technique: chêne
@@ -72,6 +76,7 @@ works:
     sur commande
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/66-daha-daha/
 ---

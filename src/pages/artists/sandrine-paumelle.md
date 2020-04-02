@@ -38,6 +38,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Je voudrais rencontrer cet arbre
     image: /forestry/je-voudrais-rencontrer-cet-arbre.jpg
     technique: Huile
@@ -48,6 +49,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Une journée hivernale
     image: /forestry/une-journee-hivernale.jpg
     technique: huile
@@ -58,6 +60,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: un  certain calme
     image: /forestry/un-certain-calme.jpg
     technique: ''
@@ -68,6 +71,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: mon premier paysage
     image: /forestry/mon-premier-paysage.jpg
     technique: ''
@@ -78,5 +82,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

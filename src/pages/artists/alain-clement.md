@@ -52,6 +52,7 @@ works:
   description: 2006 650€
   price: 
   sold: false
+  contextual: true
 - title: 'Sans titre #2'
   image: "/forestry/sans-titre-2.jpg"
   technique: Aquatinte et vernis mou
@@ -62,6 +63,7 @@ works:
   description: '2009 '
   price: 650
   sold: false
+  contextual: true
 - title: 06MA3G (14/19)
   image: "/forestry/06ma3g-1419.jpg"
   technique: Aquatinte
@@ -72,6 +74,7 @@ works:
   description: '2006 '
   price: 550
   sold: false
+  contextual: true
 - title: 04JA1G (16/30)
   image: "/forestry/04ja1g-1630.jpg"
   technique: Aquatinte
@@ -82,6 +85,7 @@ works:
   description: 2004 450€
   price: 
   sold: false
+  contextual: true
 - title: 04JA4G(8/30)
   image: "/forestry/04ja4g830.jpg"
   technique: Aquatinte
@@ -92,6 +96,7 @@ works:
   description: 2004 450€
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/89-alain-clement/
 ---

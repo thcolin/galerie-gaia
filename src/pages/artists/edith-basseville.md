@@ -29,6 +29,7 @@ works:
     description: hommage à Karl Blosssfeldt
     price: .nan
     sold: false
+    contextual: true
   - title: 'ES#2 2016'
     image: /forestry/es2-2016.jpg
     technique: fer forgé assemblé et soudé
@@ -39,6 +40,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: 'Ecriture Spatiale ES#1'
     image: /forestry/ecriture-spatiale-es1.jpg
     technique: fer forgé assemblé et soudé
@@ -49,6 +51,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: '434'
     image: /forestry/434.jpg
     technique: ''
@@ -59,6 +62,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: '435'
     image: /forestry/435.jpg
     technique: ''
@@ -69,6 +73,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: '436'
     image: /forestry/436.jpg
     technique: ''
@@ -79,5 +84,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

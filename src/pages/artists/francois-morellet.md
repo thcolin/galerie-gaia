@@ -58,5 +58,6 @@ works:
       Vendu
     price: .nan
     sold: false
+    contextual: true
 ---
 

@@ -49,6 +49,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 - title: A quoi penses-tu
   image: "/forestry/a-quoi-penses-tu.jpg"
   technique: Aquarelle sur papier imprimé
@@ -59,6 +60,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 - title: Bouche bleue
   image: "/forestry/bouche-bleue.jpg"
   technique: Aquarelle sur papier imprimé
@@ -69,6 +71,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 - title: Couvre lit
   image: "/forestry/couvre-lit.jpg"
   technique: Aquarelle sur papier imprimé
@@ -79,6 +82,7 @@ works:
   description: 700€
   price:
   sold: false
+  contextual: true
 - title: La pianiste
   image: "/forestry/la-pianiste.jpg"
   technique: Aquarelle sur papier imprimé
@@ -89,6 +93,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 - title: Lune Rouge
   image: "/forestry/lune-rouge.jpg"
   technique: Aquarelle sur papier imprimé
@@ -99,6 +104,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 - title: Se reposer seulement
   image: "/forestry/se-reposer-seulement.jpg"
   technique: Aquarelle sur papier imprimé
@@ -109,6 +115,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 - title: Stendhal
   image: "/forestry/stendhal.jpg"
   technique: Aquarelle sur papier imprimé
@@ -119,6 +126,7 @@ works:
   description: 1300€
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/100-frederique-tristant/
 ---

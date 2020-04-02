@@ -33,6 +33,7 @@ works:
   description: 1900 € avec caisse américaine noire
   price:
   sold: false
+  contextual: true
 - title: MASQUE
   image: "/forestry/masque.jpg"
   technique: mixte sur bois
@@ -45,6 +46,7 @@ works:
     Prix 12 000€ - vendu
   price:
   sold: false
+  contextual: true
 - title: Fresque pour la Galerie Gaïa
   image: "/forestry/fresque-pour-la-galerie-gaia.jpg"
   technique: peinture
@@ -57,6 +59,7 @@ works:
     Nous pouvons étudier un projet pour vous sur un mur privé, dans un hall d'entreprise, ou sur toile. Prix selon le projet
   price:
   sold: false
+  contextual: true
 - title: Double Trouble
   image: "/forestry/double-trouble.jpg"
   technique: Sérigraphie sur papier japonais
@@ -70,6 +73,7 @@ works:
     épuisé
   price:
   sold: false
+  contextual: true
 - title: Routine 2
   image: "/forestry/routine-2.jpg"
   technique: Acrylique
@@ -82,6 +86,7 @@ works:
     vendu
   price:
   sold: false
+  contextual: true
 - title: Routine 3
   image: "/forestry/routine-3.jpg"
   technique: Acrylique
@@ -95,6 +100,7 @@ works:
     3 000 €
   price:
   sold: false
+  contextual: true
 - title: Double Trouble
   image: "/forestry/double-trouble.jpg"
   technique: Sérigraphie sur papier japonais
@@ -105,16 +111,18 @@ works:
   description: "2017 \n580 € encadrée : baguette aluminium et verre musée"
   price:
   sold: false
+  contextual: true
 - title: Le Minotaure
   image: "/forestry/le-minotaure.jpg"
   technique: Acrylique et technique mixte sur toile
   dimensions:
-    height: 130
-    width: 162
+    height: 162
+    width: 130
     depth:
   description: 3000 €
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/48-kazy-usclef/
 ---

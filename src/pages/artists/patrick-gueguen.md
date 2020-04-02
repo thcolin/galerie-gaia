@@ -19,6 +19,7 @@ works:
     description: 2400€
     price: .nan
     sold: false
+    contextual: true
   - title: Perroquet vigie
     image: /forestry/perroquet-vigie.jpg
     technique: Encre et acrylique sur papier
@@ -29,6 +30,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Cerf aux 2 personnages
     image: /forestry/cerf-aux-2-personnages.jpg
     technique: Encre et acrylique sur papier
@@ -39,6 +41,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: '1220825'
     image: /forestry/1220825.jpg
     technique: encre et acrylique sur papier
@@ -49,6 +52,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Exposition vernissage samedi 9 juin 11H
     image: /forestry/exposition-vernissage-samedi-9-juin-11h.jpg
     technique: ''
@@ -59,6 +63,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: VERNISSAGE SAMEDI 9 JUIN 11H
     image: /forestry/vernissage-samedi-9-juin-11h.jpg
     technique: ''
@@ -69,6 +74,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Ganesh pour saluer Raza
     image: /forestry/ganesh-pour-saluer-raza.jpg
     technique: Encre et acrylique sur papier
@@ -79,6 +85,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: La déesse au repos-plaisir sur son menhir
     image: /forestry/la-deesse-au-repos-plaisir-sur-son-menhir.jpg
     technique: Encre et acrylique sur papier
@@ -89,6 +96,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Les étranges messagers du centre et des extrémités
     image: /forestry/les-etranges-messagers-du-centre-et-des-extremites.jpg
     technique: Encre et acrylique sur papier
@@ -99,6 +107,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/84-patrick-gueguen/
 ---

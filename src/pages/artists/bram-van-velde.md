@@ -38,6 +38,7 @@ works:
   description: 1980 / 1700€
   price: 
   sold: false
+  contextual: true
 - title: MP 320 (23/100)
   image: "/forestry/mp-320-23100.jpg"
   technique: Lithographie
@@ -50,6 +51,7 @@ works:
      2400€
   price: 
   sold: false
+  contextual: true
 - title: MP 315 (64/100)
   image: "/forestry/mp-315-64100.jpg"
   technique: Lithographie
@@ -60,6 +62,7 @@ works:
   description: "1978 / \n 920€"
   price: 
   sold: false
+  contextual: true
 - title: MP 314 (33/100)
   image: "/forestry/mp-314-33100.jpg"
   technique: Lithographie
@@ -70,6 +73,7 @@ works:
   description: 1978 / 1210€
   price: 
   sold: false
+  contextual: true
 - title: MP 167 (32/100)
   image: "/forestry/mp-167-32100.jpg"
   technique: Lithographie
@@ -80,6 +84,7 @@ works:
   description: 1975 / 2400€
   price: 
   sold: false
+  contextual: true
 - title: MP 310 (95/100)
   image: "/forestry/mp-310-95100.jpg"
   technique: Lithographie
@@ -90,6 +95,7 @@ works:
   description: 1978 / 1100€
   price: 
   sold: false
+  contextual: true
 - title: MP 361 (63/100)
   image: "/forestry/mp-361-63100.jpg"
   technique: Lithographie
@@ -100,6 +106,7 @@ works:
   description: 1980 / 1700€
   price: 
   sold: false
+  contextual: true
 - title: MP 371 (84/100)
   image: "/forestry/mp-371-84100.jpg"
   technique: Lithographie
@@ -112,6 +119,7 @@ works:
     1700€
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/90-bram-van-velde/
 ---

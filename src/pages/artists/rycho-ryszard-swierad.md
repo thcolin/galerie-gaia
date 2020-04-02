@@ -19,6 +19,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Elle
     image: /forestry/elle.jpg
     technique: photographie
@@ -29,6 +30,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: CC5937
     image: /forestry/cc5937.jpg
     technique: Mixte
@@ -41,6 +43,7 @@ works:
       600€
     price: .nan
     sold: false
+    contextual: true
   - title: NY22
     image: /forestry/ny22.jpg
     technique: Mixte
@@ -51,6 +54,7 @@ works:
     description: Tirage papier 4/21
     price: .nan
     sold: false
+    contextual: true
   - title: NY744A
     image: /forestry/ny744a.jpg
     technique: Mixte
@@ -63,6 +67,7 @@ works:
       600 €
     price: .nan
     sold: false
+    contextual: true
   - title: Titanic
     image: /forestry/titanic.jpg
     technique: Mixte
@@ -73,6 +78,7 @@ works:
     description: tirage sur papier 2/21
     price: .nan
     sold: false
+    contextual: true
   - title: Albert
     image: /forestry/albert.jpg
     technique: Mixte
@@ -83,6 +89,7 @@ works:
     description: tirage sur papier 5/21
     price: .nan
     sold: false
+    contextual: true
   - title: NY tuesday
     image: /forestry/ny-tuesday.jpg
     technique: mixte sur papier
@@ -93,6 +100,7 @@ works:
     description: tirage à 22 exemplaires
     price: .nan
     sold: false
+    contextual: true
   - title: '1995'
     image: /forestry/1995.jpg
     technique: TIRAGE PAPIER 1/21
@@ -103,6 +111,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: COCA IN NY
     image: /forestry/coca-in-ny.jpg
     technique: TIRAGE PAPIER 3/21
@@ -113,6 +122,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: E125ST
     image: /forestry/e125st.jpg
     technique: TIRAGE PAPIER 3/21
@@ -123,6 +133,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: OEEVE
     image: /forestry/oeeve.jpg
     technique: TIRAGE PAPIER 3/21
@@ -133,6 +144,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: 3 FRERES
     image: /forestry/3-freres.jpg
     technique: TIRAGE PAPIER 3/21
@@ -143,6 +155,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: NY6084
     image: /forestry/ny6084.jpg
     technique: ''
@@ -153,6 +166,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Sleep Way
     image: /forestry/sleep-way.jpg
     technique: image photographique
@@ -163,6 +177,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: CC 0013
     image: /forestry/cc-0013.jpg
     technique: image
@@ -175,6 +190,7 @@ works:
       600 €
     price: .nan
     sold: false
+    contextual: true
   - title: Lenox Pizza
     image: /forestry/lenox-pizza.jpg
     technique: image
@@ -187,6 +203,7 @@ works:
       700 €
     price: .nan
     sold: false
+    contextual: true
   - title: Skyline
     image: /forestry/skyline.jpg
     technique: image
@@ -199,6 +216,7 @@ works:
       700 €
     price: .nan
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/60-rycho-ryszard-swierad/
 ---

@@ -34,6 +34,7 @@ works:
   description: 1300€ encadré
   price: 
   sold: false
+  contextual: true
 - title: Exposition dessin et peinture
   image: "/forestry/exposition-dessin-et-peinture.jpg"
   technique: ''
@@ -46,6 +47,7 @@ works:
     Sélection de dessins et toiles, une abstraction qui n'en est pas une, la seule condition pour le savoir est de prendre son temps devant chacune et de se laisser faire et faire confiance à son instinct. La couleur fera le reste.
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp65
   image: "/forestry/2018plp65.jpg"
   technique: Mixte sur papier
@@ -56,6 +58,7 @@ works:
   description: 490€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp55
   image: "/forestry/2018plp55.jpg"
   technique: Mixte sur papier
@@ -66,6 +69,7 @@ works:
   description: 1300€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp24
   image: "/forestry/2018plp24.jpg"
   technique: Mixte sur papier
@@ -76,6 +80,7 @@ works:
   description: 490€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp54
   image: "/forestry/2018plp54.jpg"
   technique: ''
@@ -86,6 +91,7 @@ works:
   description: 650€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2017PLp83
   image: "/forestry/2017plp83.jpg"
   technique: ''
@@ -96,6 +102,7 @@ works:
   description: 3500€
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp28a
   image: "/forestry/2018plp28a.jpg"
   technique: ''
@@ -106,6 +113,7 @@ works:
   description: 280€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp7a
   image: "/forestry/2018plp7a.jpg"
   technique: ''
@@ -116,6 +124,7 @@ works:
   description: 380€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp101
   image: "/forestry/2018plp101.jpg"
   technique: ''
@@ -126,6 +135,7 @@ works:
   description: 350€
   price: 
   sold: false
+  contextual: true
 - title: 2017PLp82
   image: "/forestry/2017plp82.jpg"
   technique: ''
@@ -136,6 +146,7 @@ works:
   description: 280€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp73
   image: "/forestry/2018plp73.jpg"
   technique: ''
@@ -146,6 +157,7 @@ works:
   description: 380€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2018PLp45
   image: "/forestry/2018plp45.jpg"
   technique: ''
@@ -156,6 +168,7 @@ works:
   description: 490€ encadré
   price: 
   sold: false
+  contextual: true
 - title: 2016PLp11
   image: "/forestry/2016plp11.jpg"
   technique: mixte sur papier
@@ -166,6 +179,7 @@ works:
   description: 650€ encadré (cadre flottant)
   price: 
   sold: false
+  contextual: true
 redirect_from:
 - "/artistes/71-philippe-lecomte/"
 

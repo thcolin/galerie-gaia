@@ -25,6 +25,7 @@ works:
   description: "Tirage à 15 exemplaires   \nprix sur demande "
   price: 
   sold: false
+  contextual: true
 - title: Greenhouse 3
   image: "/forestry/greenhouse-3.jpg"
   technique: Tirage papier contrecollé dibon
@@ -36,6 +37,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 - title: Buzludzha - Bulgarie
   image: "/forestry/buzludzha-bulgarie.jpg"
   technique: Tirage papier contrecollé dibon
@@ -48,6 +50,7 @@ works:
     \nhttps://www.youtube.com/watch?v=NU0CPodqDCE"
   price: 
   sold: false
+  contextual: true
 - title: Dictator
   image: "/forestry/dictator.jpg"
   technique: Tirage papier contrecollé dibon
@@ -59,6 +62,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 - title: Buzludzha - Bulgarie interieur
   image: "/forestry/buzludzha-bulgarie-interieur.jpg"
   technique: Tirage papier contrecollé dibon
@@ -70,6 +74,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 - title: Jumanji Theater
   image: "/forestry/jumanji-theater.jpg"
   technique: Tirage papier contrecollé dibon
@@ -81,6 +86,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 - title: Soviet Spa
   image: "/forestry/soviet-spa.jpg"
   technique: Tirage papier contrecollé dibon
@@ -92,6 +98,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 - title: Blue Sanatorium
   image: "/forestry/blue-sanatorium.jpg"
   technique: Tirage papier contrecollé dibon
@@ -103,6 +110,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 - title: Soviet Sanotorium
   image: "/forestry/soviet-sanotorium.jpg"
   technique: Tirage papier contrecollé dibon
@@ -114,6 +122,7 @@ works:
     \nPrix sur demande"
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/98-dimitri-bourriau/
 ---

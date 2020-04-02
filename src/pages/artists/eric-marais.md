@@ -52,6 +52,7 @@ works:
     description: source pour la réalisation de L'oeuf
     price: .nan
     sold: false
+    contextual: true
   - title: L'oeuf
     image: /forestry/loeuf.jpg
     technique: sténopé
@@ -62,6 +63,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: extrait de l 'oeuf
     image: /forestry/extrait-de-l-oeuf.jpg
     technique: ''
@@ -72,5 +74,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

@@ -49,6 +49,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Nigredo
   image: "/forestry/nigredo.jpg"
   technique: Découpes et incisions sur papier français Maison de la Roque
@@ -61,6 +62,7 @@ works:
     €"
   price: 
   sold: false
+  contextual: true
 - title: Nigredo VII
   image: "/forestry/nigredo-vii.jpg"
   technique: Découpes et incisions sur feuille de cuivre
@@ -71,6 +73,7 @@ works:
   description: 2200 €
   price: 
   sold: false
+  contextual: true
 - title: Nigredo VIII
   image: "/forestry/nigredo-viii.jpg"
   technique: Découpes et incisions sur feuille de cuivre
@@ -81,6 +84,7 @@ works:
   description: 2200 €
   price: 
   sold: false
+  contextual: true
 - title: Animus Anima
   image: "/forestry/animus-anima.jpg"
   technique: ''
@@ -91,6 +95,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/87-anne-gaiss/
 ---

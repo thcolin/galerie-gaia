@@ -66,6 +66,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: L 'éclair
     image: /forestry/l-eclair.jpg
     technique: huile sur toile 2016
@@ -76,6 +77,7 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
   - title: Le Secret
     image: /forestry/le-secret.jpg
     technique: Huile sur toile 2016
@@ -86,5 +88,6 @@ works:
     description: ''
     price: .nan
     sold: false
+    contextual: true
 ---
 

@@ -51,6 +51,7 @@ works:
     projet"
   price: 
   sold: false
+  contextual: true
 - title: Les Nanas
   image: "/forestry/les-nanas.jpg"
   technique: Bronze 3/8
@@ -61,6 +62,7 @@ works:
   description: "2500€ \nDisponible sur commande"
   price: 
   sold: false
+  contextual: true
 - title: Firmaman
   image: "/forestry/firmaman.jpg"
   technique: Bronze 6/8
@@ -73,6 +75,7 @@ works:
     Disponible sur commande
   price: 
   sold: false
+  contextual: true
 - title: La sphère des possibles
   image: "/forestry/la-sphere-des-possibles.jpg"
   technique: Bronze 4/8
@@ -85,6 +88,7 @@ works:
     Disponible sur commande
   price: 
   sold: false
+  contextual: true
 - title: L étoile qui danse
   image: "/forestry/l-etoile-qui-danse.jpg"
   technique: Bronze 2/8
@@ -97,6 +101,7 @@ works:
     Disponible sur commande
   price: 
   sold: false
+  contextual: true
 - title: l'atelier à la Croix Rousse à Lyon
   image: "/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
   technique: ''
@@ -107,6 +112,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Notre Héritage
   image: "/forestry/notre-heritage.jpg"
   technique: Bronze et feuille d'or
@@ -117,6 +123,7 @@ works:
   description: "8 500 € \nDisponible sur commande"
   price: 
   sold: false
+  contextual: true
 - title: Notre Héritage
   image: "/forestry/notre-heritage.jpg"
   technique: ''
@@ -127,6 +134,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Confluence
   image: "/forestry/confluence.jpg"
   technique: Bronze
@@ -140,6 +148,7 @@ works:
     - Définition Larousse nom féminin, {latin confluencia}. Point de convergence de deux cours d'eau.
   price: 
   sold: false
+  contextual: true
 - title: Les Albatros
   image: "/forestry/les-albatros.jpg"
   technique: Bronze
@@ -153,6 +162,7 @@ works:
     "Souvent, pour s'amuser, les hommes d'équipage prennent des albatros, vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches, que ces rois de l'azur, maladroits et honteux, laissent piteusement leurs grandes ailes blanches comme des avirons traîner à côté d'eux. Ce voyageur ailé, comme il est gauche et veule ! Lui, naguère si beau, qu'il est comique et laid ! L'un agace son bec avec un brûle-gueule, L'autre mime en boitant, l'infirme qui volait ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l'arche; exilé sur le sol au milieu des huées, ses ailes de géant l'empêchent de marcher." - "L'Albatros" de Charles Beaudelaire
   price: 
   sold: false
+  contextual: true
 - title: Anouck
   image: "/forestry/anouck.jpg"
   technique: Bronze
@@ -163,6 +173,7 @@ works:
   description: 2000€
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/69-isabelle-healy/
 ---

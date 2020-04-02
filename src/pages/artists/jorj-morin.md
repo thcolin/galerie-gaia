@@ -33,6 +33,7 @@ works:
   description: ceci est un zoom sur la tapisserie Signaux indécis
   price: 
   sold: false
+  contextual: true
 - title: Vers l'Ouest
   image: "/forestry/vers-louest.jpg"
   technique: Gravure
@@ -43,6 +44,7 @@ works:
   description: 1981 / 150€
   price: 
   sold: false
+  contextual: true
 - title: En forme de feuille
   image: "/forestry/en-forme-de-feuille.jpg"
   technique: Gravure
@@ -53,6 +55,7 @@ works:
   description: 1972 / 150€
   price: 
   sold: false
+  contextual: true
 - title: Bouquet bleu
   image: "/forestry/bouquet-bleu.jpg"
   technique: Gravure
@@ -63,6 +66,7 @@ works:
   description: 1976 / 150€
   price: 
   sold: false
+  contextual: true
 - title: Bride abattue
   image: "/forestry/bride-abattue.jpg"
   technique: Gravure
@@ -73,6 +77,7 @@ works:
   description: 1984 / 250€
   price: 
   sold: false
+  contextual: true
 - title: Capture
   image: "/forestry/capture.jpg"
   technique: Gravure
@@ -83,6 +88,7 @@ works:
   description: 1988 / 250€
   price: 
   sold: false
+  contextual: true
 - title: Jeu de pistes
   image: "/forestry/jeu-de-pistes.jpg"
   technique: Gravure
@@ -93,6 +99,7 @@ works:
   description: 1978 / 250€
   price: 
   sold: false
+  contextual: true
 - title: Les 3 veiileurs 1977
   image: "/forestry/les-3-veiileurs-1977.jpg"
   technique: Gravure
@@ -103,6 +110,7 @@ works:
   description: 450€
   price: 
   sold: false
+  contextual: true
 - title: Espace nacré
   image: "/forestry/espace-nacre.jpg"
   technique: 'Tapisserie: Lissière Edith Morin'
@@ -113,6 +121,7 @@ works:
   description: 1973 / 3400€
   price: 
   sold: false
+  contextual: true
 - title: Papillon
   image: "/forestry/papillon.jpg"
   technique: 'Tappiserie: Lissier : Pierre Carton ERBA'
@@ -123,6 +132,7 @@ works:
   description: Sans date / 1700€
   price: 
   sold: false
+  contextual: true
 - title: Signaux indécis
   image: "/forestry/signaux-indecis.jpg"
   technique: 'Tapisserie: Lissier Pierre Daquin Atelier St Cyr'
@@ -133,6 +143,7 @@ works:
   description: 1973 / 3500€
   price: 
   sold: false
+  contextual: true
 - title: Balise verte
   image: "/forestry/balise-verte.jpg"
   technique: Mosaïque
@@ -143,6 +154,7 @@ works:
   description: 1975 / 3600€
   price: 
   sold: false
+  contextual: true
 - title: Disque tournant
   image: "/forestry/disque-tournant.jpg"
   technique: Mosaïque
@@ -153,6 +165,7 @@ works:
   description: 1980 / 1800€
   price: 
   sold: false
+  contextual: true
 - title: Cloture restreinte
   image: "/forestry/cloture-restreinte.jpg"
   technique: 'Mosaïque: Marbre rose, jaune, travertin rouge'
@@ -163,6 +176,7 @@ works:
   description: 1973 / 1500€
   price: 
   sold: false
+  contextual: true
 - title: Exposition Polymorphie 2020
   image: "/forestry/exposition-polymorphie-2020.jpg"
   technique: ''
@@ -173,6 +187,7 @@ works:
   description: "Tapisserie Espace Nacrée et L oeil vigilant \nSculpture Gérard Voisin"
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/103-jorj-morin/
 ---

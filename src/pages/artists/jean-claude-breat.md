@@ -41,6 +41,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: 1=+
   image: "/forestry/1.jpg"
   technique: Mixte sur toile
@@ -51,6 +52,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: EXPO KERAN
   image: "/forestry/expo-keran.jpg"
   technique: ''
@@ -61,6 +63,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: TIBET
   image: "/forestry/tibet.jpg"
   technique: Mixte sur toile
@@ -71,6 +74,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: TOTEM
   image: "/forestry/totem.jpg"
   technique: Mixte sur toile
@@ -81,6 +85,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: TARTRUFFE & COCHON QUI RIT
   image: "/forestry/tartruffe-and-cochon-qui-rit.jpg"
   technique: Mixte sur toile
@@ -91,6 +96,7 @@ works:
   description: PRIX SUR DEMANDE
   price:
   sold: false
+  contextual: true
 - title: ATELIER
   image: "/forestry/atelier.jpg"
   technique: ''
@@ -101,6 +107,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 - title: T MAX
   image: "/forestry/t-max.jpg"
   technique: Mixte sur toile
@@ -111,6 +118,7 @@ works:
   description: ''
   price:
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/52-jean-claude-breat/
 ---

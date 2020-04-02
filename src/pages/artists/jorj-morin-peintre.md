@@ -33,6 +33,7 @@ works:
     description: 1955-56 / 3000€
     price: 
     sold: false
+    contextual: true
   - title: Etoile verte
     image: /forestry/1109.jpg
     technique: Acrylique sur toile
@@ -43,6 +44,7 @@ works:
     description: 1983 / 3300€
     price: 
     sold: false
+    contextual: true
   - title: Vent tournant
     image: /forestry/1278.jpg
     technique: Acrylique sur toile
@@ -53,6 +55,7 @@ works:
     description: 1975 / 4300€
     price: 
     sold: false
+    contextual: true
   - title: Neon
     image: /forestry/1279.jpg
     technique: Acrylique sur toile
@@ -63,6 +66,7 @@ works:
     description: 1983 / 3300€
     price: 
     sold: false
+    contextual: true
   - title: Equilibre fragile
     image: /forestry/1280.jpg
     technique: Acrylique sur toile
@@ -73,6 +77,7 @@ works:
     description: 1987 / 4300€
     price: 
     sold: false
+    contextual: true
   - title: Equilibre fugace
     image: /forestry/1281.jpg
     technique: Acrylique sur toile
@@ -83,6 +88,7 @@ works:
     description: 1983 / 4700 € 
     price: 
     sold: false
+    contextual: true
   - title: Barques fragiles 
     image: /forestry/1315.jpg
     technique: Huile sur toile
@@ -93,6 +99,7 @@ works:
     description: 1955 / 2000€
     price: 
     sold: false
+    contextual: true
   - title: Célébration du soir
     image: /forestry/1316.jpg
     technique: Acrylique sur toile
@@ -103,6 +110,7 @@ works:
     description: 1984 / 4500€
     price: 
     sold: false
+    contextual: true
   - title: Construction hésitante
     image: /forestry/1317.jpg
     technique: Huile et acrylique sur toile
@@ -113,6 +121,7 @@ works:
     description: 1975 / 4000€
     price: 
     sold: false
+    contextual: true
   - title: Entre le Chien et le Loup
     image: /forestry/1319.jpg
     technique: Huile sur toile
@@ -123,6 +132,7 @@ works:
     description: 1956 / 3000€
     price: 
     sold: false
+    contextual: true
   - title: Lucarne
     image: /forestry/1322.jpg
     technique: Acrylique sur toile
@@ -133,6 +143,7 @@ works:
     description: 1989 / 4500€
     price: 
     sold: false
+    contextual: true
   - title: Passage des migrateurs
     image: /forestry/1323.jpg
     technique: Huile et acrylique sur toile
@@ -143,6 +154,7 @@ works:
     description: 1975 / 5000€
     price: 
     sold: false
+    contextual: true
   - title: Peut-être une lucarne
     image: /forestry/1324.jpg
     technique: Huile sur toile
@@ -153,6 +165,7 @@ works:
     description: 1956 / 3500€
     price: 
     sold: false
+    contextual: true
   - title: Une fleur bleue
     image: /forestry/1325.jpg
     technique: Acrylique sur toile
@@ -163,6 +176,7 @@ works:
     description: 1980 / 2600€
     price: 
     sold: false
+    contextual: true
   - title: Vis a vis
     image: /forestry/1326.jpg
     technique: Acrylique sur toile
@@ -173,6 +187,7 @@ works:
     description: 1979 / 2600€
     price: 
     sold: false
+    contextual: true
   - title: Exposition Polymorphie du 16 Janvier 1er Février 2020
     image: /forestry/1390.jpg
     technique: 
@@ -183,6 +198,7 @@ works:
     description: L'exposition POLYMORPHIE c'est le désir de faire découvrir à ceux qui ne connaissent pas l'artiste nantais Jorj Morin, comme il est passionnant de regarder un artiste se confronter à des supports différents qui offrent des contraintes jubilatoires. Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.
     price: 
     sold: false
+    contextual: true
   - title: Ouest France 04/02/20
     image: /forestry/1409.jpg
     technique: 
@@ -193,6 +209,7 @@ works:
     description: 
     price: 
     sold: false
+    contextual: true
 redirect_from:
   - /artistes/20-jorj-morin/
 ---

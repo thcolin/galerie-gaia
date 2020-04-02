@@ -40,6 +40,7 @@ works:
   description: 2019 230€
   price: 
   sold: false
+  contextual: true
 - title: Automorphie Structure tridimensionnelle 2
   image: "/forestry/automorphie-structure-tridimensionnelle-2.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
@@ -52,6 +53,7 @@ works:
     800€
   price: 
   sold: false
+  contextual: true
 - title: Automorphie Structure géométrique I
   image: "/forestry/automorphie-structure-geometrique-i.jpg"
   technique: collage de sable, cendre, acrylique et huile sur toile.
@@ -64,6 +66,7 @@ works:
     950 €
   price: 
   sold: false
+  contextual: true
 - title: Automorphie Grande Structure
   image: "/forestry/automorphie-grande-structure.jpg"
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
@@ -74,6 +77,7 @@ works:
   description: ''
   price: 
   sold: false
+  contextual: true
 - title: Le défi de Thésée (2/11)
   image: "/forestry/le-defi-de-thesee-211.jpg"
   technique: Eau forte sur zinc, tirage 11 ex sur RBK Rives 300g/m²
@@ -84,6 +88,7 @@ works:
   description: "2019 230\t€"
   price: 
   sold: false
+  contextual: true
 - title: Cerf 1 (4/7)
   image: "/forestry/cerf-1-47.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -94,6 +99,7 @@ works:
   description: 2014 230€
   price: 
   sold: false
+  contextual: true
 - title: Double stigmates (1/7)
   image: "/forestry/double-stigmates-17.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -104,6 +110,7 @@ works:
   description: 2019 230€
   price: 
   sold: false
+  contextual: true
 - title: Atlas 3 (3/3)
   image: "/forestry/atlas-3-33.jpg"
   technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m²
@@ -114,6 +121,7 @@ works:
   description: 2019 230€
   price: 
   sold: false
+  contextual: true
 redirect_from:
   - /artistes/75-xavier-jallais/
 ---
