@@ -98,8 +98,8 @@ works:
     height: 75
     width: 56
     depth: 
-  description: 2018 / 600€
-  price: 
+  description: '2018 '
+  price: 600
   sold: false
 - title: 184J210831 (4/11)
   image: "/forestry/184j210831-411.jpg"
@@ -108,8 +108,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 2018 / 600€
-  price: 
+  description: '2018 '
+  price: 600
   sold: false
 - title: 184J210821 (6/11)
   image: "/forestry/184j210821-611.jpg"
@@ -118,8 +118,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 2018 / 600€
-  price: 
+  description: '2018 '
+  price: 600
   sold: false
 - title: 13R8-1 (9/11)
   image: "/forestry/13r8-1-911.jpg"
@@ -128,8 +128,8 @@ works:
     height: 65
     width: 50
     depth: 
-  description: 2013 / 350€
-  price: 
+  description: '2013 '
+  price: 350
   sold: false
 - title: 162R220613 (4/11)
   image: "/forestry/162r220613-411.jpg"
@@ -138,8 +138,8 @@ works:
     height: 66
     width: 50
     depth: 
-  description: 2016 / 400€
-  price: 
+  description: '2016 '
+  price: 400
   sold: false
 - title: 172J230921 (6/11)
   image: "/forestry/172j230921-611.jpg"
@@ -148,8 +148,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 2017 / 600€
-  price: 
+  description: "2017"
+  price: 600
   sold: false
 - title: 172J230922 (6/11)
   image: "/forestry/172j230922-611.jpg"
@@ -168,8 +168,8 @@ works:
     height: 25
     width: 19
     depth: 
-  description: 2018 / 200€
-  price: 
+  description: '2018 '
+  price: 200
   sold: false
 - title: 186s19112 (9/25)
   image: "/forestry/186s19112-925.jpg"
@@ -178,8 +178,8 @@ works:
     height: 25
     width: 19
     depth: 
-  description: 2018  / 200€
-  price: 
+  description: '2018  '
+  price: 200
   sold: false
 - title: 186s19113 (9/25)
   image: "/forestry/186s19113-925.jpg"
@@ -188,8 +188,8 @@ works:
     height: 25
     width: 19
     depth: 
-  description: 2018 / 200€
-  price: 
+  description: '2018 '
+  price: 200
   sold: false
 - title: 199p22051 (A+B)
   image: "/forestry/IMG_20190522_154750.jpg"
