@@ -38,6 +38,15 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
 exhibitions:
 - {}
 works:
+- title: Stan
+  technique: 'Bronze '
+  dimensions:
+    height: 25
+    width: 53
+    depth: 41
+  description: édition 8 exemplaire
+  price: 4900
+  image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
 - title: Hipolyte le morse
   image: "/forestry/hipolyte-le-morse.jpg"
   technique: 'bronze '
@@ -48,15 +57,6 @@ works:
   description: 'Edition en 8 exemplaires '
   price: 5900
   sold: false
-- title: Stan
-  technique: 'Bronze '
-  dimensions:
-    height: 25
-    width: 53
-    depth: 41
-  description: édition 8 exemplaire
-  price: 4900
-  image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
 - title: Omer Le Dog Allemand
   image: "/forestry/omer.jpg"
   technique: bronze
