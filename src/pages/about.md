@@ -125,10 +125,10 @@ tabs:
       les espaces et volumes créés, une fois les couleurs et papiers peints retenus,
       le mobilier adapté, que mettre au mur et sur les étagères ?  \nSélectionnez
       avec vos clients sur le site les œuvres et sculptures qui vous interpellent
-      et je vous les livre (région Pays de Loire) pour faire des essais sur place.\n\n**+**
-      Possibilité de **prêt durant une semaine** contre chèque de caution du montant
-      de l’œuvre.\n\n**++ Apport d'affaire** pour toutes ventes effectuées par vos
-      soins\n\n_Brasserie Le Molière par Christophe Vinet - Photographies JF Mollière_\n\n![Jean
+      et je vous les livre pour faire des essais sur place.\n\n**+** Possibilité de
+      **prêt durant une semaine** contre chèque de caution du montant de l’œuvre.\n\n**++
+      Apport d'affaire** pour toutes ventes effectuées par vos soins\n\n_Brasserie
+      Le Molière Nantes par Christophe Vinet - Photographies JF Mollière_\n\n![Jean
       François Mollière](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
       \"brasserie Le Molière\")"
     contact:
