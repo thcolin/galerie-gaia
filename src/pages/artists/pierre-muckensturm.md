@@ -7,14 +7,9 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
-  L'artiste est né le 20 février 1970 à Strasbourg, vit et travaille à Colmar. En 1994, lors de sa formation à l'Institut Universitaire de Formation des Maîtres à Colmar, il a pour professeur Jean Jérome, enseignant à la faculté d'arts plastiques de Strasbourg avec lequel il se lie d'amitié et qui lui transmet sa passion de la peinture. Il participe entre 1997 et 2001 à des ateliers d'art plastiques et aura de ce fait l'occasion de faire découvrir ses premiers travaux lors d'expositions collectives au Centre Rhénan d'Art Contemporain à Altkirch (France).
-  Depuis lors il mène une carrière artistique parallèlement à sa profession d'enseignant spécialisé.
+  L'artiste est né le 20 février 1970 à Strasbourg, vit et travaille à Colmar. En 1994, lors de sa formation à l'Institut Universitaire de Formation des Maîtres à Colmar, il a pour professeur Jean Jérome, enseignant à la faculté d'arts plastiques de Strasbourg avec lequel il se lie d'amitié et qui lui transmet sa passion de la peinture. Il participe entre 1997 et 2001 à des ateliers d'art plastiques et aura de ce fait l'occasion de faire découvrir ses premiers travaux lors d'expositions collectives au Centre Rhénan d'Art Contemporain à Altkirch (France). Depuis lors il mène une carrière artistique parallèlement à sa profession d'enseignant spécialisé.
 
-  Depuis 1995  Pierre  Muckensturm  mène un travail plastique avec constance, distant de tout effet de mode, dans lequel apparaît la volonté de réfléchir le tableau comme une clé de compréhension du rapport que nous pouvons avoir à notre propre temporalité.
-  Le processus fondateur du travail de Pierre Muckensturm trouve son origine dans une visite de la chapelle de Ronchamp, oeuvre maîtresse de l’architecte Charles Edouard Jeanneret. Là, il comprend qu’une justesse peut être puisée dans un subtil dialogue entre massivité et élévation.
-  Dès lors, l'artiste décide d’adopter un langage formel simple : le tableau se construira à partir de deux pôles : un tracé massif s’allégeant par sa juxtaposition à des vides. Cette simplicité formelle sera associée à une matérialité très dépouillée, qui inscrira l’oeuvre dans un temps indicible.
-  L'artiste a franchi un pas important dans ses recherches par une pratique assidue de la gravure notamment au sein des ateliers Rémy Bucciali. Elle participe à une évolution de sa peinture : son oeuvre gravée s’applique, par des déploiements de lignes contenues qui peuvent se faire formes, à fixer sa perception temporelle ressentie lors d’une résidence sur le continent africain.
-  Pierre Muckensturm veille depuis toujours à ce que ses oeuvres tant gravées que peintes soient, comme ont pu l’être en leur temps les peintures japonaises, des «objets tranquilles», des formes silencieuses. Il appuie ses recherches sur la certitude que, comme a pu l’affirmer Julius Bissier : « le calme est plus grand que la tempête».
+  Depuis 1995  Pierre  Muckensturm  mène un travail plastique avec constance, distant de tout effet de mode, dans lequel apparaît la volonté de réfléchir le tableau comme une clé de compréhension du rapport que nous pouvons avoir à notre propre temporalité. Le processus fondateur du travail de Pierre Muckensturm trouve son origine dans une visite de la chapelle de Ronchamp, œuvre maîtresse de l’architecte Charles Edouard Jeanneret. Là, il comprend qu’une justesse peut être puisée dans un subtil dialogue entre massivité et élévation. Dès lors, l'artiste décide d’adopter un langage formel simple : le tableau se construira à partir de deux pôles : un tracé massif s’allégeant par sa juxtaposition à des vides. Cette simplicité formelle sera associée à une matérialité très dépouillée, qui inscrira l’oeuvre dans un temps indicible. L'artiste a franchi un pas important dans ses recherches par une pratique assidue de la gravure notamment au sein des ateliers Rémy Bucciali. Elle participe à une évolution de sa peinture : son oeuvre gravée s’applique, par des déploiements de lignes contenues qui peuvent se faire formes, à fixer sa perception temporelle ressentie lors d’une résidence sur le continent africain. Pierre Muckensturm veille depuis toujours à ce que ses oeuvres tant gravées que peintes soient, comme ont pu l’être en leur temps les peintures japonaises, des «objets tranquilles», des formes silencieuses. Il appuie ses recherches sur la certitude que, comme a pu l’affirmer Julius Bissier : « le calme est plus grand que la tempête».
 
   Lors d'une résidence artistique en 2010 au musée Boribana de Dakar, un inconnu rapport à la temporalité d'une infinie souplesse s'impose à lui en Afrique. A partir de cette expérience, parallèlement à son œuvre peinte, il développe un important travail de gravure, en collaboration avec le taille-doucier Rémy Bucciali, qui vise la fixation d'une ligne/forme d'une souplesse, courbure et d'un déploiement qui puissent le plus justement exprimer sa nouvelle préhension temporelle.
 
@@ -158,8 +153,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 2017 / 600€
-  price: 
+  description: '2017 '
+  price: 600
   sold: false
 - title: 186s19111 (9/25)
   image: "/forestry/186s19111-925.jpg"
