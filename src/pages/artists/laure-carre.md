@@ -29,7 +29,15 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
-- title: Jean Jeunet
+- title: Jackie
+  image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 35
+    width: 26
+  description: "2020"
+  price: 350
+- title: Jean Genet
   image: "/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
   technique: 'Huile sur toile '
   dimensions:
@@ -53,14 +61,6 @@ works:
     width: 130
   description: '09/2019'
   price: 3000
-- title: Jackie
-  image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 35
-    width: 26
-  description: "2020"
-  price: 350
 - title: Main dans la main
   image: "/forestry/galeriegaia@laurecarre-portrait.jpeg"
   technique: 'Huile sur toile '
