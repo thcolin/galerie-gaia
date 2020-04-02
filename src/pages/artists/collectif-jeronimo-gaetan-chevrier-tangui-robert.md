@@ -101,6 +101,7 @@ works:
     width: 100
   description: en 15 exemplaires
   price: 620
+  contextual: true
 - title: Viçosa VI
   image: "/forestry/vicosa-vi.jpg"
   technique: Sérigraphie

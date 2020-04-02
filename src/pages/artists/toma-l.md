@@ -107,6 +107,7 @@ works:
   description: "Oeuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nmise
     sous verre cadre blanc "
   price: 3500
+  contextual: true
 - title: 'Drawing Trash Color '
   image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
   technique: 'Technique mixte sur papier '
@@ -115,6 +116,7 @@ works:
     width: 90
   description: "cadre blanc sous verre  \n2020031203"
   price: 3500
+  contextual: true
 - title: 'Drawing trash color '
   image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
   technique: Technique mixte sur papier
@@ -123,6 +125,7 @@ works:
     width: 70
   description: "cadre blanc sous verre  \n2020031202"
   price: 3500
+  contextual: true
 - title: 'Drawing Trash Color  '
   image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
   technique: Technique mixte sur papier
@@ -131,6 +134,7 @@ works:
     width: 90
   description: "cadre blanc sous verre  \n2020031201"
   price: 3500
+  contextual: true
 - title: 'Trash and color '
   image: "/forestry/galeriegaia@tomaL-2019111701-TrashAndColor-162x130cm.jpg"
   technique: technique mixte sur toile en lin sur châssis à clef
@@ -139,6 +143,7 @@ works:
     width: 130
   description: "2019111701"
   price: 6500
+  contextual: true
 - title: 'Liitle trash '
   image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -147,6 +152,7 @@ works:
     width: 79
   description: "cadre blanc flottant sous verre  \n2018020601"
   price: 3500
+  contextual: true
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
   technique: Couture et Technique mixte sur papier
@@ -155,6 +161,7 @@ works:
     width: 30
   description: "cadre ne chêne verre musée  \n2020031103"
   price: 1600
+  contextual: true
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
   technique: 'Couture et Technique mixte sur papier '
@@ -163,6 +170,7 @@ works:
     width: 40
   description: "Cadre en chêne et verre musée  \n202031102"
   price: 5200
+  contextual: true
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031101-LITTLECOLOR-40x30cm.jpg"
   technique: Couture et Technique mixte sur papier
@@ -171,6 +179,7 @@ works:
     width: 30
   description: "cadre en chêne et verre musée  \n202031101"
   price: 1600
+  contextual: true
 - title: 'Little trash & color '
   image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm-1.jpg"
   technique: Technique mixte sur toile en lin
@@ -179,6 +188,7 @@ works:
     width: 105
   description: "caisse américaine noire  \n2019022702"
   price: 5200
+  contextual: true
 - title: 'Graphite & Colors '
   image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -187,6 +197,7 @@ works:
     width: 121
   description: "Caisse américaine noire  \n2019022501"
   price: 6700
+  contextual: true
 - title: 'Graphite & Color '
   image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
   technique: Technique mixte sur papier marouflé sur bois
@@ -195,6 +206,7 @@ works:
     width: 125
   description: "caisse américaine chêne  \n2019011401"
   price: 6200
+  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
   description: "Caisse américaine noire  \n2018091815"
@@ -203,11 +215,13 @@ works:
   dimensions:
     height: 109
     width: 79
+  contextual: true
 - title: 'Black ans simple color '
   image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   description: "caisse américaine noire  \n2018091809"
   price: 3500
+  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -226,6 +240,7 @@ works:
     width: 78
   description: "caisse américaine chêne  \n2018091803"
   price: 3500
+  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -254,6 +269,7 @@ works:
     width: 107
   description: 'caisse américaine noire '
   price: 5900
+  contextual: true
 - title: Wood cartel black
   image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm ES.jpg"
   technique: 'Technique mixte sur bois '
@@ -273,6 +289,7 @@ works:
     width: 70
   description: "caisse américaine chêne  \n2012040601"
   price: 0
+  contextual: true
 - title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
   technique: ''

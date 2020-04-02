@@ -48,6 +48,7 @@ works:
     width: 30
   description: 'œuvre encadrée bois '
   price: 400
+  contextual: true
 - title: Ciel 2042
   image: "/forestry/galeriegaia_Francheteau_Ciel2042(2016)_20x30.jpg"
   technique: Acrylique sur toile
@@ -56,6 +57,7 @@ works:
     width: 20
   description: 'œuvre encadrée bois '
   price: 380
+  contextual: true
 - title: Ciel 2026
   image: "/forestry/galeriegaia_Francheteau_Ciel2026(2016)_15x30.jpg"
   technique: Acrylique sur toile
@@ -64,6 +66,7 @@ works:
     width: 15
   description: 'œuvre encadrée bois '
   price: 320
+  contextual: true
 - title: Ciel 2023
   image: "/forestry/galeriegaia_Francheteau_Ciel2023(2016)_20x20.jpg"
   technique: 'Acrylique qur toile '
@@ -72,6 +75,7 @@ works:
     width: 20
   description: 'œuvre encadrée bois '
   price: 280
+  contextual: true
 - title: Ciel 060
   image: "/forestry/galeriegaia_Francheteau_Ciel060(2016)_37x37_(cadre50x50).jpg"
   technique: Dessin
@@ -80,6 +84,7 @@ works:
     width: 37
   description: œuvre encadrée 50X50 cm
   price: 400
+  contextual: true
 - title: CIEL 2032
   image: "/forestry/ciel-2032.jpg"
   technique: acrylique sur toile

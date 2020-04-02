@@ -85,6 +85,7 @@ works:
     depth: 13
   description: "2019"
   price: 1000
+  contextual: true
   image: "/forestry/@proust-PP5-33x13-1.jpg"
 - title: Folie PP 8-2019
   image: "/forestry/949.jpg"

@@ -23,6 +23,7 @@ works:
   dimensions:
     height: 81
     width: 130
+  contextual: true
 - title: Video vague hurlante
   image: "/forestry/galeriegaia@borquezvaguehurlante.mp4"
   technique: 'Huile sur toile '
@@ -31,6 +32,7 @@ works:
     width: 130
   description: "2020"
   price: 3000
+  contextual: true
 - title: L'équilibre
   technique: 'Huile sur toile '
   dimensions:
@@ -38,6 +40,7 @@ works:
     width: 100
   description: "2020"
   price: 2900
+  contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
 - title: l ocean aveugle
   image: "/forestry/l-ocean-aveugle.jpg"

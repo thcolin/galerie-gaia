@@ -50,6 +50,7 @@ works:
     width: 150
   description: "2019"
   price: 3500
+  contextual: true
 - title: En mon jardin N°4
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
@@ -58,6 +59,7 @@ works:
     width: 130
   description: "2020"
   price: 2200
+  contextual: true
 - title: En mon jardin N°3
   image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
     sur toile.JPG"
@@ -75,6 +77,7 @@ works:
     width: 72
   description: "2018  \noeuvre encadrée baguette aluminium "
   price: 700
+  contextual: true
 - title: Sans titre N°8
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°8-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
@@ -84,6 +87,7 @@ works:
     width: 31
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
+  contextual: true
 - title: Sans titre N°4
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique,pastels- surtoile-marouflée-surcarton-2018-550euros-41x41-encadrébaguetteboisnaturel.jpg"
   technique: acrylique et pastels sur toile marouflée sur carton
@@ -92,6 +96,7 @@ works:
     width: 40
   description: oeuvre encadrée baguette bois naturel
   price: 550
+  contextual: true
 - title: En mon jardin N°4
   image: "/forestry/galeriegaia@wadecki-En mon jardin n°4 100x100 2019 papier marouflé
     sur toile.JPG"
@@ -101,6 +106,7 @@ works:
     width: 100
   description: "2019"
   price: 1800
+  contextual: true
 - title: Sans titre N°4
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
@@ -110,6 +116,7 @@ works:
     width: 31
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
+  contextual: true
 - title: Sans titre N°2
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°2-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
@@ -119,6 +126,7 @@ works:
     width: 31
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
+  contextual: true
 - title: Le soleil se lève et tout devient nuit N°4
   image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
   technique: Acrylique, pastel fusain sur toile

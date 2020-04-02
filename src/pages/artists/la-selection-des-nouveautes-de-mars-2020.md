@@ -17,10 +17,12 @@ works:
   dimensions:
     height: 36
     width: 25
+  contextual: true
 - title: Sélection du mois de Mars 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
+  contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
@@ -29,6 +31,7 @@ works:
     width: 130
   description: "2020"
   price: 2200
+  contextual: true
 - title: Une chaise la nuit de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
   technique: 'Encre sur papier '
@@ -37,6 +40,7 @@ works:
     width: 20
   description: Mars 2020
   price: 200
+  contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: bronze
@@ -45,6 +49,7 @@ works:
     width: 130
   description: "2020"
   price: 2200
+  contextual: true
 - title: En mon jardin N°1 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
@@ -53,6 +58,7 @@ works:
     width: 150
   description: "2019"
   price: 3200
+  contextual: true
 - title: Stan par  Virginie Chardon
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2916.jpg"
   technique: bronze
@@ -72,6 +78,7 @@ works:
     width: 150
   description: "Tirage 15 exemplaires en caisse américaine   \nprix sur demande "
   price: 0
+  contextual: true
 - title: SEUIL - Strate I
   image: "/forestry/seuil-strate-i.jpg"
   technique: Sérigraphie 1/1
