@@ -29,6 +29,14 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
+- title: Playing with Laïka on the moon
+  image: "/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg"
+  technique: Huile sur toile
+  dimensions:
+    height: 162
+    width: 130
+  description: '09/2019'
+  price: 3000
 - title: Jackie
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   technique: 'Huile sur toile '
