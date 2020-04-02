@@ -141,16 +141,6 @@ works:
   description: 2016 200€
   price: 
   sold: false
-- title: Jeux de quilles (10/14)
-  image: "/forestry/jeux-de-quilles-1014.jpg"
-  technique: Lithographie
-  dimensions:
-    height: 38
-    width: 56
-    depth: 
-  description: ''
-  price: 
-  sold: false
 - title: Autoportrait (6/16)
   image: "/forestry/autoportrait-616.jpg"
   technique: Lithographie
