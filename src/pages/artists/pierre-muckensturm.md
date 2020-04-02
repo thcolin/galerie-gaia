@@ -37,8 +37,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 2019 / 600€
-  price: 
+  description: '2019 '
+  price: 600
   sold: false
 - title: 14p1r1 - 14p1r2 - 14p1r3
   image: "/forestry/14p1r1-14p1r2-14p1r3.jpg"
@@ -49,7 +49,7 @@ works:
     depth: 
   description: "Installation en triptyque \n\n14p1r1 (8/11)\n14p1r2 (8/11)\n14p1r3
     (8/11)"
-  price: 
+  price: 1000
   sold: false
 - title: 14p1r1 (8/11)
   image: "/forestry/14p1r1-811.jpg"
@@ -58,8 +58,8 @@ works:
     height: 47
     width: 38
     depth: 
-  description: 2014 / 350€
-  price: 
+  description: '2014 '
+  price: 350
   sold: false
 - title: 14p1r2 (8/11)
   image: "/forestry/14p1r2-811.jpg"
@@ -68,8 +68,8 @@ works:
     height: 47
     width: 38
     depth: 
-  description: 2014 / 350€
-  price: 
+  description: '2014 '
+  price: 350
   sold: false
 - title: 14p1r3 (8/11)
   image: "/forestry/14p1r3-811.jpg"
@@ -78,8 +78,8 @@ works:
     height: 47
     width: 38
     depth: 
-  description: 2014 / 350€
-  price: 
+  description: '2014 '
+  price: 350
   sold: false
 - title: 14c3-1 (9/11)
   image: "/forestry/14c3-1-911.jpg"
@@ -88,8 +88,8 @@ works:
     height: 50
     width: 50
     depth: 
-  description: 2014 / 400€
-  price: 
+  description: '2014 '
+  price: 400
   sold: false
 - title: 184J210811 (4/7)
   image: "/forestry/184j210811-47.jpg"
@@ -192,14 +192,14 @@ works:
   price: 
   sold: false
 - title: 199p22051 (A+B)
-  image: "/forestry/199p22051-ab.jpg"
+  image: "/forestry/IMG_20190522_154750.jpg"
   technique: Technique mixte et huile sur toile (2 éléments déformés)
   dimensions:
     height: 41
     width: 41
     depth: ''
-  description: 2019 / 2750€
-  price: 
+  description: "2019   \nprotocole d'accrochage fournit par l'artiste"
+  price: 2750
   sold: false
 redirect_from:
 - "/artistes/58-pierre-muckensturm/"
