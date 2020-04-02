@@ -52,7 +52,7 @@ tabs:
 
       ![](/forestry/galeriegaia@tomaL-2018031801-Greensideohtheman-160x121cm-ES.jpg)
 
-      ![](/forestry/_DSF6849 (2).JPG)
+      ![](/forestry/_DSF4085_2 b.jpg)
 
       ![](/forestry/New york JF Molliere 01.JPG)
     contact:
