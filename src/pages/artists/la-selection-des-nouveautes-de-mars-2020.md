@@ -12,7 +12,11 @@ works:
 - title: Jackie de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   description: ''
-  price: 0
+  price: 300
+  technique: Huile sur toile
+  dimensions:
+    height: 36
+    width: 25
 - title: Sélection du mois de Mars 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
