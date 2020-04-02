@@ -13,11 +13,13 @@ const fonts = {
   default: '"Montserrat", sans-serif',
 }
 
+const breakpoints = [768, 992, 1200]
+
 const medias = {
-  small: '@media only screen and (max-width: 767px)',
-  medium: '@media only screen and (min-width: 768px) and (max-width: 991px)',
-  large: '@media only screen and (min-width: 992px) and (max-width: 1199px)',
-  extralarge: '@media only screen and (min-width: 1200px)',
+  small: `@media only screen and (max-width: ${breakpoints[0] - 1}px)`,
+  medium: `@media only screen and (min-width: ${breakpoints[0]}px) and (max-width: ${breakpoints[1] - 1}px)`,
+  large: `@media only screen and (min-width: ${breakpoints[1]}px) and (max-width: ${breakpoints[2] - 1}px)`,
+  extralarge: `@media only screen and (min-width: ${breakpoints[2]}px)`,
 }
 
 const resets = {
@@ -123,6 +125,7 @@ const resets = {
 export default {
   colors,
   fonts,
+  breakpoints,
   medias,
   resets,
 }

@@ -1,14 +1,24 @@
 import React, { useState } from 'react'
-import { css } from 'emotion'
 import Logo from 'components/Logo'
 import Icon from 'components/Icon'
 import RichText from 'components/RichText'
-import AnimateHeight from 'react-animate-height'
 import { Link } from 'gatsby'
 import theme from 'theme'
 
 const Navigation = ({ pageContext, ...props }) => {
-  const [open, setOpen] = useState(false)
+  const [open, _setOpen] = useState(false)
+
+  const trapScroll = (enable) => {
+    document.body.style['max-height'] = enable ? '100vh' : 'initial'
+    document.body.style['overflow'] = enable ? 'hidden' : 'initial'
+  }
+
+  const setOpen = (value) => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+    _setOpen(value)
+
+    setTimeout(() => trapScroll(value), 500)
+  }
 
   return (
     <div css={Navigation.styles.element}>
@@ -25,7 +35,7 @@ const Navigation = ({ pageContext, ...props }) => {
           </button>
         </div>
       </header>
-      <AnimateHeight duration={500} height={open ? 'auto' : 0} className={css(Navigation.styles.container)}>
+      <div css={Navigation.styles.container} style={open ? { height: 'calc(100vh - 100%)' } : {}}>
         <div css={Navigation.styles.body}>
           <nav css={Navigation.styles.list}>
             <ol>
@@ -54,32 +64,38 @@ const Navigation = ({ pageContext, ...props }) => {
             <a href={`mailto:${pageContext.site.siteMetadata.email}`}>
               {pageContext.site.siteMetadata.email}
             </a>
-            <br />
-            <Link to='/sitemap'>plan du site</Link>
           </footer>
         </div>
-      </AnimateHeight>
+      </div>
     </div>
   )
 }
 
 Navigation.styles = {
   element: {
+    position: 'relative',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
     flex: 1,
-    padding: '1em 2em',
-    overflow: 'hidden',
-    backgroundColor: theme.colors.white,
     textAlign: 'center',
     fontFamily: theme.fonts.primary,
+    [theme.medias.small]: {
+      justifyContent: 'flex-start',
+      maxHeight: '100vh',
+    },
+    [theme.medias.medium]: {
+      justifyContent: 'flex-start',
+      maxHeight: '100vh',
+    },
   },
   header: {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'space-between',
     flexShrink: 0,
+    padding: '1em 2em',
+    backgroundColor: theme.colors.white,
     '>div': {
       marginTop: '1rem',
       marginBottom: '1rem',
@@ -105,39 +121,51 @@ Navigation.styles = {
     },
   },
   container: {
-    height: 'inherit !important',
     [theme.medias.small]: {
-      height: 'unset',
       overflowY: 'auto',
+      height: 0,
+      transition: 'height ease-in-out 400ms',
+      position: 'absolute',
+      top: '100%',
+      right: 0,
+      bottom: 0,
+      left: 0,
+      zIndex: 1,
     },
     [theme.medias.medium]: {
-      height: 'unset',
       overflowY: 'auto',
+      height: 0,
+      transition: 'height ease-in-out 400ms',
+      position: 'absolute',
+      top: '100%',
+      right: 0,
+      bottom: 0,
+      left: 0,
+      zIndex: 1,
     },
     [theme.medias.large]: {
-      overflow: 'inherit !important',
       flex: 1,
-      '>div': {
-        display: 'block !important',
-        height: '100%',
-      },
+      overflowY: 'auto',
     },
     [theme.medias.extralarge]: {
-      overflow: 'inherit !important',
       flex: 1,
-      '>div': {
-        display: 'block !important',
-        height: '100%',
-      },
+      overflowY: 'auto',
     },
   },
   body: {
-    height: '100%',
+    minHeight: '100%',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
     flex: 1,
-    overflowY: 'auto',
+    padding: '0 2em 1em 2em',
+    backgroundColor: theme.colors.white,
+    [theme.medias.small]: {
+      minHeight: 'unset',
+    },
+    [theme.medias.medium]: {
+      minHeight: 'unset',
+    },
     '>div': {
       margin: '0.5rem 1rem',
       [theme.medias.small]: {
