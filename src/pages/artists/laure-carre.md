@@ -29,6 +29,14 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
+- title: Chien d'atelier
+  image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
+  technique: Huile sur toile
+  dimensions:
+    height: 100
+    width: 100
+  description: 02/2020
+  price: 1800
 - title: Jackie
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   technique: 'Huile sur toile '
