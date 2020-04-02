@@ -129,6 +129,11 @@ fields:
     type: boolean
     label: Sold
     description: Vendu
+  - name: contextual
+    type: boolean
+    label: Contextual
+    description: Autoriser l'affichage en mode contextuel
+    default: true
   config:
     min: 
     max: 
