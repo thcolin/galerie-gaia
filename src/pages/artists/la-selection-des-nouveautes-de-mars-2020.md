@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection du mois de Avril 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: Jackie de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   description: ''
@@ -17,11 +22,6 @@ works:
   dimensions:
     height: 36
     width: 25
-  contextual: true
-- title: Sélection du mois de Mars 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
   contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
