@@ -31,48 +31,26 @@ biography: |-
   Provoquer et non soumettre à tout prix."
 exhibitions: []
 works:
-- title: BALLE PERDUE
-  image: "/forestry/balle-perdue.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 120
-    width: 150
-    depth:
-  description: ''
-  price:
-  sold: false
-  contextual: true
 - title: 1=+
   image: "/forestry/1.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 180
     width: 200
-    depth:
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: EXPO KERAN
   image: "/forestry/expo-keran.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
-  sold: false
-  contextual: true
-- title: TIBET
-  image: "/forestry/tibet.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 150
-    width: 150
-    depth:
-  description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: TOTEM
@@ -81,9 +59,9 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth:
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: TARTRUFFE & COCHON QUI RIT
@@ -92,20 +70,20 @@ works:
   dimensions:
     height: 50
     width: 50
-    depth:
+    depth: 
   description: PRIX SUR DEMANDE
-  price:
+  price: 
   sold: false
   contextual: true
 - title: ATELIER
   image: "/forestry/atelier.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: T MAX
@@ -114,12 +92,12 @@ works:
   dimensions:
     height: 200
     width: 200
-    depth:
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/52-jean-claude-breat/
----
+- "/artistes/52-jean-claude-breat/"
 
+---

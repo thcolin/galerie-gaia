@@ -88,7 +88,7 @@ works:
     height: 43
     width: 30
     depth: 38
-  description: Fonderie Paumelle
+  description: "édition 8 exemplaires par pièce numérotées  \nFonderie Paumelle"
   price: 5400
   sold: false
   contextual: true
