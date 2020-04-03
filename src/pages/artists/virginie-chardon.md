@@ -45,7 +45,7 @@ works:
     height: 25
     width: 53
     depth: 41
-  description: pièces numérotées /8
+  description: "pièces numérotées /8  \nFonderie Paumelle"
   price: 4900
   contextual: true
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
@@ -56,7 +56,7 @@ works:
     height: 77
     width: 44
     depth: 32
-  description: pièces numérotées /8
+  description: "pièces numérotée /8  \nFonderie Paumelle"
   price: 5900
   sold: false
   contextual: true
@@ -67,7 +67,7 @@ works:
     height: 50
     width: 46
     depth: 40
-  description: "édition 8 exemplaires par pièce numérotées  \nFonderie Candide"
+  description: "pièce numérotée /8  \nFonderie Candide"
   price: 7000
   sold: false
   contextual: true
@@ -78,7 +78,7 @@ works:
     height: 60
     width: 26
     depth: 61
-  description: édition 8 exemplaires par pièce numérotées
+  description: "pièces numérotées /8  \nFonderie Rosini"
   price: 6700
   sold: false
   contextual: true
@@ -89,7 +89,7 @@ works:
     height: 43
     width: 30
     depth: 38
-  description: "édition 8 exemplaires par pièce numérotées  \nFonderie Paumelle"
+  description: "pièces numérotées /8  \nFonderie Paumelle"
   price: 5400
   sold: false
   contextual: true
