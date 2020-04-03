@@ -65,6 +65,7 @@ Contextual.styles = {
     right: 0,
     bottom: 0,
     left: 0,
+    height: '100%',
     backgroundColor: 'rgba(255, 255, 255, 0.95)',
   },
   container: {
