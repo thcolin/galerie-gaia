@@ -44,7 +44,7 @@ works:
     height: 25
     width: 53
     depth: 41
-  description: édition 8 exemplaire
+  description: édition 8 exemplaires par pièce numérotées
   price: 4900
   contextual: true
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
@@ -55,7 +55,7 @@ works:
     height: 77
     width: 44
     depth: 32
-  description: 'Edition en 8 exemplaires '
+  description: édition 8 exemplaires par pièce numérotées
   price: 5900
   sold: false
   contextual: true
@@ -66,7 +66,7 @@ works:
     height: 50
     width: 46
     depth: 40
-  description: Fonderie Candide
+  description: "édition 8 exemplaires par pièce numérotées  \nFonderie Candide"
   price: 7000
   sold: false
   contextual: true
@@ -77,7 +77,7 @@ works:
     height: 60
     width: 26
     depth: 61
-  description: ''
+  description: édition 8 exemplaires par pièce numérotées
   price: 6700
   sold: false
   contextual: true
