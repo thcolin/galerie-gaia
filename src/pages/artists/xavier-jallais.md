@@ -54,19 +54,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Automorphie Structure géométrique I
-  image: "/forestry/automorphie-structure-geometrique-i.jpg"
-  technique: collage de sable, cendre, acrylique et huile sur toile.
-  dimensions:
-    height: 81
-    width: 65
-    depth: 
-  description: |-
-    2015
-    950 €
-  price: 
-  sold: false
-  contextual: true
 - title: Automorphie Grande Structure
   image: "/forestry/automorphie-grande-structure.jpg"
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
@@ -123,6 +110,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/75-xavier-jallais/
----
+- "/artistes/75-xavier-jallais/"
 
+---
