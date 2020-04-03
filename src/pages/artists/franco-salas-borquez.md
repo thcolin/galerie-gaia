@@ -18,27 +18,20 @@ exhibitions: []
 works:
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
-  description: ''
+  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
+    "video vague hurlante") '
   price: 3000
   dimensions:
     height: 81
     width: 130
-  contextual: true
-- title: Video vague hurlante
-  image: "/forestry/galeriegaia@borquezvaguehurlante.mp4"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 81
-    width: 130
-  description: "2020"
-  price: 3000
   contextual: true
 - title: L'équilibre
   technique: 'Huile sur toile '
   dimensions:
     height: 100
     width: 100
-  description: "2020"
+  description: "2020  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
+    \"vidéo l'équilibre\")"
   price: 2900
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
