@@ -41,23 +41,14 @@ works:
   description: Mars 2020
   price: 200
   contextual: true
-- title: En mon jardin N°4 de Elisabeth Wadecki
-  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
-  technique: bronze
-  dimensions:
-    height: 97
-    width: 130
-  description: "2020"
-  price: 2200
-  contextual: true
-- title: En mon jardin N°1 de Elisabeth Wadecki
+- title: En mon jardin N°3 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
   dimensions:
-    height: 150
-    width: 150
+    height: 100
+    width: 100
   description: "2019"
-  price: 3200
+  price: 1800
   contextual: true
 - title: Stan par  Virginie Chardon
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2916.jpg"

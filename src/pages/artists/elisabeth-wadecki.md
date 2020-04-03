@@ -61,7 +61,7 @@ works:
   description: "2020"
   price: 2200
   contextual: true
-- title: En mon jardin N°3
+- title: En mon jardin N°3 papier marouflé sur toile
   image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
     sur toile.JPG"
   technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
