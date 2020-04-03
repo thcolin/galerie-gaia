@@ -52,6 +52,15 @@ works:
   description: "2019"
   price: 3500
   contextual: true
+- title: 'En mon jardin N°3 huile sur toile '
+  image: "/forestry/wadecki@enmonjardin-n°3- 100x100-acrylique-bâtons-d'huile-sur-toile-2019-1800euros.JPG"
+  technique: 'Acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 100
+    width: 100
+  description: "2019"
+  price: 1800
+  contextual: true
 - title: En mon jardin N°4
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
