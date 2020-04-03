@@ -29,13 +29,13 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
   et avec eux leur histoire !\n\nVous trouverez dans mon travail des sujets inspirés
   d’illustrations issus du monde animalier, de dessins de BD, des visages qui sortent
   tout droit de mes rêves et sans doute aussi de mes rencontres. Une source inépuisable
-  d’inspiration.\"\n\nVirginie Chardon\n\n**EXPOSITIONS**\n\n**2018** :   \nOctobre
+  d’inspiration.\"\n\nVirginie Chardon\n\n**EXPOSITIONS**\n\n**2018** :  \nOctobre
   :_13ème Biennale de sculpture animalière de Rambouillet_ – **PRIX D’HONNEUR**\n\n**2019**
-  :   \nFévrier : _ART CAPITAL_ - Grand Palais - Paris  \nFévrier à Avril : _GALERIE
+  :  \nFévrier : _ART CAPITAL_ - Grand Palais - Paris  \nFévrier à Avril : _GALERIE
   GAÎA_ - Nantes  \nMai : _WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD_ - Mall
   Galleries London  \nNovembre- Décembre : _SNAA_ Salon Nationale des Artistes Animaliers
   - Bry Sur Marne\n\n**2020** :  \n_Février : ART CAPITAL_ - GRAND PALAIS, Paris -
-  **MENTION  \n**Juin : _ART EXPO_ by Maison & Jardin - Atelier Basfroi - Paris 11ème"
+  **MENTION  \nJuin : _ART EXPO_ by Maison & Jardin - Atelier Basfroi - Paris 11ème"
 exhibitions:
 - {}
 works:
