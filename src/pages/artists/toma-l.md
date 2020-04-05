@@ -107,7 +107,7 @@ works:
   description: "Oeuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nmise
     sous verre cadre blanc "
   price: 3500
-  contextual: true
+  contextual: false
 - title: 'Drawing Trash Color '
   image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
   technique: 'Technique mixte sur papier '
@@ -216,12 +216,15 @@ works:
     height: 109
     width: 79
   contextual: true
-- title: 'Black ans simple color '
+- title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   description: "caisse américaine noire  \n2018091809"
   price: 3500
   contextual: true
+  dimensions:
+    height: 109
+    width: 79
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
