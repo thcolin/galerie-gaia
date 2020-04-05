@@ -152,7 +152,7 @@ works:
     width: 79
   description: "cadre blanc flottant sous verre  \n2018020601"
   price: 3500
-  contextual: true
+  contextual: false
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
   technique: Couture et Technique mixte sur papier
@@ -263,7 +263,7 @@ works:
   description: caisse américaine noire
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Red side of the man
   image: "/forestry/galeriegaia@tomaL-2018031701-Redsideohtheman-160x121cm-ES.jpg"
   technique: technique mixte sur toile en lin
@@ -272,7 +272,7 @@ works:
     width: 107
   description: 'caisse américaine noire '
   price: 5900
-  contextual: true
+  contextual: false
 - title: Wood cartel black
   image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm ES.jpg"
   technique: 'Technique mixte sur bois '
@@ -283,7 +283,7 @@ works:
   description: 'caisse américaine '
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: 'Drawing black '
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
   technique: Technique mixte sur papier
