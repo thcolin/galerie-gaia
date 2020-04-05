@@ -34,8 +34,8 @@ works:
     image: /forestry/combo-1325.jpg
     technique: Sérigraphie
     dimensions:
-      height: 98
-      width: 52
+      height: 52
+      width: 98
       depth: 7
     description: >-
       A la base c'est une sérigraphie originale de Robert Combas imprimée sur

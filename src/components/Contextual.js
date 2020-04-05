@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Image from 'components/Image'
-import trapScroll from 'utils/trapScroll'
+import useEvent from 'react-use/lib/useEvent'
 
 const Contextual = ({ work, ...props }) => {
   const sizes = {
@@ -28,11 +28,10 @@ const Contextual = ({ work, ...props }) => {
   }
 
   const size = sizes[key]
-  const [open, _setOpen] = useState(false)
-  const setOpen = (value) => {
-    _setOpen(value)
-    trapScroll(value)
-  }
+  const [open, setOpen] = useState(false)
+  
+  useEvent('keydown', (e) => !(e.shiftKey || e.ctrlKey || e.altKey || e.metaKey) && setOpen(false), document)
+  useEvent('scroll', () => setOpen(false), typeof window !== undefined && window)
 
   return (
     <div {...props}>
@@ -40,15 +39,17 @@ const Contextual = ({ work, ...props }) => {
       <div css={Contextual.styles.modal} hidden={!open} style={{ top: typeof window === 'undefined' ? 0 : window.scrollY }}>
         <div css={Contextual.styles.container}>
           <div css={Contextual.styles.body}>
-            <Image src={`/forestry/assets-wall-${key}.jpg`} rel="preload" css={Contextual.styles.wall} />
-            <div
-              css={Contextual.styles.work}
-              style={{
-                width: `${((work.dimensions.width / size.ratio) * 100)}%`,
-                margin: size.container,
-              }}
-            >
-              <Image src={work.image} />
+            <div css={Contextual.styles.wall}>
+              <Image src={`/forestry/assets-wall-${key}.jpg`} rel="preload" />
+              <div
+                css={Contextual.styles.work}
+                style={{
+                  width: `${((work.dimensions.width / size.ratio) * 100)}%`,
+                  margin: size.container,
+                }}
+              >
+                <Image src={work.image} />
+              </div>
             </div>
           </div>
         </div>
@@ -83,10 +84,23 @@ Contextual.styles = {
     height: '100%',
   },
   wall: {
-
+    position: 'relative',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'flex-end',
+    height: '100%',
+    '>span>img': {
+      objectFit: 'contain',
+    },
   },
   work: {
     position: 'absolute',
+    top: 0,
+    bottom: 0,
+    '>span>img': {
+      objectFit: 'contain',
+      background: 'transparent',
+    },
   },
   close: {
     position: 'absolute',
