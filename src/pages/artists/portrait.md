@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Reéaliser Mon Portrait
+title: Réaliser Mon Portrait
 location: ''
 field: Commande
 birth: "0"
