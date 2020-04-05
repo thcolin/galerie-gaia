@@ -31,7 +31,7 @@ const Contextual = ({ work, ...props }) => {
   const [open, setOpen] = useState(false)
   
   useEvent('keydown', (e) => !(e.shiftKey || e.ctrlKey || e.altKey || e.metaKey) && setOpen(false), typeof document !== 'undefined' && document)
-  useEvent('scroll', () => setOpen(false), typeof window !== undefined && window)
+  useEvent('scroll', () => setOpen(false), typeof window !== 'undefined' && window)
 
   return (
     <div {...props}>
