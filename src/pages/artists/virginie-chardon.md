@@ -59,7 +59,7 @@ works:
   description: "pièces numérotée /8  \nFonderie Paumelle"
   price: 5900
   sold: false
-  contextual: true
+  contextual: false
 - title: Omer Le Dog Allemand
   image: "/forestry/omer.jpg"
   technique: bronze
@@ -70,7 +70,7 @@ works:
   description: "pièce numérotée /8  \nFonderie Candide"
   price: 7000
   sold: false
-  contextual: true
+  contextual: false
 - title: Le pélican
   image: "/forestry/le-pelican.jpg"
   technique: bronze
@@ -81,7 +81,7 @@ works:
   description: "pièces numérotées /8  \nFonderie Rosini"
   price: 6700
   sold: false
-  contextual: true
+  contextual: false
 - title: Balthazar l'Orang Outan
   image: "/forestry/balthazar.jpg"
   technique: bronze
@@ -92,7 +92,7 @@ works:
   description: "pièces numérotées /8  \nFonderie Paumelle"
   price: 5400
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/95-virginie-chardon/"
 
