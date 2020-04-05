@@ -47,7 +47,7 @@ works:
     depth: 41
   description: "pièces numérotées /8  \nFonderie Paumelle"
   price: 4900
-  contextual: true
+  contextual: false
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
 - title: Hipolyte le morse
   image: "/forestry/hipolyte-le-morse.jpg"
