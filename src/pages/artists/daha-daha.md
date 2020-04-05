@@ -1,8 +1,8 @@
 ---
 template: artist
-title: DAHA DAHA
+title: 'DAHA '
 location: ''
-field: Designer Ebeniste
+field: Designer Ebéniste
 birth: "0"
 death: "0"
 expose: true
@@ -27,18 +27,18 @@ works:
   description: "680€\nConçu comme une stèle, un tabouret, un chevet \nsi on l'empile
     il devient brancusien ....à l'infini\nPersonnellement je l'aime pour ce qu'il
     est"
-  price:
+  price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: console
   image: "/forestry/console.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: "projet de meubles sur mesure \ninformation à la galerie"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: cubes pliés
@@ -50,34 +50,34 @@ works:
     depth: 39
   description: "Il se vend seul \nmais additionnés entre eux ils se complètent pour
     créer une table \nbrut 500€TTC\nhuilé 580€TTC\npeint 600€TTC\nOr 690€TTC"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Fauteuil Ellipse
   image: "/forestry/fauteuil-ellipse.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: "prix selon le choix du bois \nsur commande"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Valet
   image: "/forestry/valet.jpg"
   technique: chêne
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: |-
     280€
     sur commande
-  price:
+  price: 
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/66-daha-daha/
----
+- "/artistes/66-daha-daha/"
 
+---

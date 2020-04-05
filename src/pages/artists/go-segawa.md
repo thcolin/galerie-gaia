@@ -27,8 +27,8 @@ works:
   description: 2016 130€
   price: 
   sold: false
-  contextual: true
-- title: main
+  contextual: false
+- title: Main
   image: "/forestry/main.jpg"
   technique: Sérigraphie sur PVC
   dimensions:
@@ -38,7 +38,7 @@ works:
   description: "Création en 1999  Tirage en mars 2007             \n(57/100)                   390EUR"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Dark Ball
   image: "/forestry/dark-ball.jpg"
   technique: impression jet d’encre sur polyester
@@ -49,8 +49,8 @@ works:
   description: Création et tirage en 2012                        (47/50)                                        130EUR
   price: 
   sold: false
-  contextual: true
-- title: VISAGE
+  contextual: false
+- title: Visage
   image: "/forestry/visage.jpg"
   technique: Sérigraphie sur PVC
   dimensions:
@@ -60,7 +60,7 @@ works:
   description: Création en 2006  Tirage en 2008                      1(12/50)                                       380EUR
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Trophée Open de Squash de Nantes
   image: "/forestry/trophee-open-de-squash-de-nantes.jpg"
   technique: ''
@@ -71,7 +71,7 @@ works:
   description: ''
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Blue & Pink
   image: "/forestry/blue-and-pink.jpg"
   technique: impression jet d’encre sur polyester
@@ -82,7 +82,7 @@ works:
   description: ed.50  Création et tirage en 2016           20/50
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Goutte rouge
   image: "/forestry/goutte-rouge.jpg"
   technique: Impression jet d’encre sur polyester
@@ -95,7 +95,7 @@ works:
     160€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Black cube in blue
   image: "/forestry/black-cube-in-blue.jpg"
   technique: dessin volume
@@ -106,7 +106,7 @@ works:
   description: ''
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: 5 volumes empilées
   image: "/forestry/5-volumes-empilees.jpg"
   technique: ''
@@ -129,7 +129,7 @@ works:
     (3/25)\t2019 12,5 X 6 X 6 130€"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Oval II – dark (9/50, 10/50)
   image: "/forestry/oval-ii-dark-950-1050.jpg"
   technique: Impression  jet d’encre sur polyester
@@ -153,7 +153,7 @@ works:
   description: 2019 110€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Violet (13/50) (14/50)
   image: "/forestry/violet-1350-1450.jpg"
   technique: Impression jet d’encre sur polyester
@@ -164,7 +164,7 @@ works:
   description: 2018 80€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Squares in Blue (4/25)
   image: "/forestry/squares-in-blue-425.jpg"
   technique: Impression jet d’encre sur polyester
@@ -175,7 +175,7 @@ works:
   description: 2018 110€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Black Cube in Blue (3/25)
   image: "/forestry/black-cube-in-blue-325.jpg"
   technique: Impression jet d’encre sur polyester
@@ -186,7 +186,7 @@ works:
   description: 2019 110€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Snake II – orange (19/50)
   image: "/forestry/snake-ii-orange-1950.jpg"
   technique: Impression jet d’encre sur polyester
@@ -197,7 +197,7 @@ works:
   description: 2016 60€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Blue & Pink (29/50)
   image: "/forestry/blue-and-pink-2950.jpg"
   technique: Impression jet d’encre sur polyester
@@ -208,8 +208,8 @@ works:
   description: 2016 105€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
-  - /artistes/15-go-segawa/
----
+- "/artistes/15-go-segawa/"
 
+---
