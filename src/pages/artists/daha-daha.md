@@ -52,7 +52,7 @@ works:
     créer une table \nbrut 500€TTC\nhuilé 580€TTC\npeint 600€TTC\nOr 690€TTC"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Fauteuil Ellipse
   image: "/forestry/fauteuil-ellipse.jpg"
   technique: ''
