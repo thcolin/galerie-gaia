@@ -48,12 +48,12 @@ works:
   technique: Grès noir et émail
   dimensions:
     height: 30
-    width:
-    depth:
+    width: 
+    depth: 
   description: |-
     624€
     socle vendu séparément
-  price:
+  price: 
   sold: false
   contextual: true
 - title: 'Les Chimères : Le lièvre'
@@ -61,24 +61,24 @@ works:
   technique: grès blanc et émail
   dimensions:
     height: 30
-    width:
-    depth:
+    width: 
+    depth: 
   description: "640€ \nsocle vendu séparément"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: 'les Chimères : Girafe'
-  image: "/forestry/les-chimeres-girafe.jpg"
+  image: "/forestry/373.jpg"
   technique: Porcelaine et or
   dimensions:
     height: 10
-    width:
-    depth:
+    width: 
+    depth: 
   description: 290€
-  price:
+  price: 
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/59-marianne-abergel/
----
+- "/artistes/59-marianne-abergel/"
 
+---

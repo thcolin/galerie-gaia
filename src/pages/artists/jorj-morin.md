@@ -100,7 +100,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Les 3 veiileurs 1977
+- title: Les 3 veilleurs 1977
   image: "/forestry/les-3-veiileurs-1977.jpg"
   technique: Gravure
   dimensions:
@@ -189,5 +189,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/103-jorj-morin/
+- "/artistes/103-jorj-morin/"
+
 ---
