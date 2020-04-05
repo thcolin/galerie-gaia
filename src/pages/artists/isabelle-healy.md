@@ -51,7 +51,7 @@ works:
     projet"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Les Nanas
   image: "/forestry/les-nanas.jpg"
   technique: Bronze 3/8
@@ -62,7 +62,7 @@ works:
   description: "2500€ \nDisponible sur commande"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Firmaman
   image: "/forestry/firmaman.jpg"
   technique: Bronze 6/8
@@ -75,7 +75,7 @@ works:
     Disponible sur commande
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: La sphère des possibles
   image: "/forestry/la-sphere-des-possibles.jpg"
   technique: Bronze 4/8
@@ -88,7 +88,7 @@ works:
     Disponible sur commande
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: L étoile qui danse
   image: "/forestry/l-etoile-qui-danse.jpg"
   technique: Bronze 2/8
@@ -101,7 +101,7 @@ works:
     Disponible sur commande
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: l'atelier à la Croix Rousse à Lyon
   image: "/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
   technique: ''
@@ -175,6 +175,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/69-isabelle-healy/
----
+- "/artistes/69-isabelle-healy/"
 
+---

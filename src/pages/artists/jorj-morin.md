@@ -154,7 +154,7 @@ works:
   description: 1975 / 3600€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Disque tournant
   image: "/forestry/disque-tournant.jpg"
   technique: Mosaïque
@@ -165,7 +165,7 @@ works:
   description: 1980 / 1800€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Cloture restreinte
   image: "/forestry/cloture-restreinte.jpg"
   technique: 'Mosaïque: Marbre rose, jaune, travertin rouge'
@@ -176,7 +176,7 @@ works:
   description: 1973 / 1500€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Exposition Polymorphie 2020
   image: "/forestry/exposition-polymorphie-2020.jpg"
   technique: ''
