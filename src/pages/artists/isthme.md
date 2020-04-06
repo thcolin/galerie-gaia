@@ -36,6 +36,14 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: 'Allongée dans l''herbe #14'
+  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
+  dimensions:
+    height: 195
+    width: 114
+  description: "2020"
+  price: 3500
+  contextual: true
 - title: 'Allongée dans l''herbe #1'
   image: "/forestry/galeriegaia-isthme-canopé Allongée dans l'herbe 1-146x114.jpg"
   technique: Acrylique sur toile
