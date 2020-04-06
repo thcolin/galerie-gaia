@@ -96,8 +96,8 @@ works:
   image: "/forestry/nuit-en-mer-iii-113.jpg"
   technique: Lithographie
   dimensions:
-    height: 76
-    width: 56
+    height: 56
+    width: 76
     depth: 
   description: 2018 Musée imprimerie de Nantes
   price: 350
