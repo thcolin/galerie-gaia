@@ -117,37 +117,37 @@ works:
   price: 320
   sold: false
   contextual: true
-- title: Les oreilles qui saignent (7/14)
+- title: Les oreilles qui saignent
   image: "/forestry/les-oreilles-qui-saignent-714.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie 3 couleurs papier Olin 300g '
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 100€
-  price: 
+  description: 'Edition 7/14 '
+  price: 200
   sold: false
   contextual: true
-- title: Main (1/1)
+- title: 'Main '
   image: "/forestry/main-11.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie papier Olin 300g '
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 320€
-  price: 
+  description: Exemplaire unique
+  price: 320
   sold: false
   contextual: true
-- title: Trois points (11/15)
+- title: Dans les vapeurs
   image: "/forestry/trois-points-1115.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie 4 couleurs papier Olin 300g '
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 100€
-  price: 
+  description: 'Edition 7/15 '
+  price: 200
   sold: false
   contextual: true
 redirect_from:
