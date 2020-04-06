@@ -1,19 +1,41 @@
 ---
 template: artist
 title: Valota
-location: Paris
-field: Peinture
+location: Paris - Normandie
+field: Peinture et céramique
 birth: "0"
 death: "0"
 expose: true
 biography: |-
-  Valota travaille la cire, un matériau souple et extrêmement malléable qu'il utilise comme un véritable virtuose. La cire offre toute sa délicatesse et sa transparence au toucher de la flamme de son chalumeau. Elle absorbe les couleurs, les transcende, elle est vivante et sensuelle. Avec la cire, la texture et les couleurs interagissent subtilement, invitant le peintre à observer et à choisir. C’est le secret de Valota, son privilège. Il procède comme un biologiste ou un alchimiste qui regarde la substance réagir, dans l’attente d'être surpris, de voir une réaction qui déterminera la forme de son travail.
+  Valota travaille la cire, un matériau souple et extrêmement malléable qu’il utilise comme un véritable virtuose. La cire offre toute sa délicatesse et sa transparence au toucher de la flamme de son chalumeau. Elle absorbe les couleurs, les transcende, elle est vivante et sensuelle. Avec la cire, la texture et les couleurs interagissent subtilement, invitant le peintre à observer et à choisir. C’est le secret de Valota, son privilège. Il procède comme un biologiste ou un alchimiste qui regarde la substance réagir, dans l’attente d’être surpris, de voir une réaction qui déterminera la forme de son travail.
 
-  Le langage pictural de Valota oscille entre figuration et abstraction. Les tonalités sont obtenues avec des harmonies où la lumière joue avec l'obscurité. La matière lisse et épaisse de la couche picturale compose l’ossature du tableau. Cette façon de procéder rappelle le délicat travail des artistes de la Renaissance et de la technique de tempera à l'œuf, en glacis successifs. Les couleurs semblent donc conspirer dans des accords chromatiques remarquables.
+  Le langage pictural de Valota oscille entre figuration et abstraction. Les tonalités sont obtenues avec des harmonies où la lumière joue avec l’obscurité. La matière lisse et épaisse de la couche picturale compose l’ossature du tableau. Cette façon de procéder rappelle le délicat travail des artistes de la Renaissance et de la technique de tempera à l’œuf, en glacis successifs. Les couleurs semblent donc conspirer dans des accords chromatiques remarquables.
 
-  Valota maîtrise parfaitement la cire et la couleur ainsi que la composition, la libérant de toute l'influence optique habituelle de la peinture. C’est probablement ce qui fait l’originalité de son travail.
+  Valota maîtrise parfaitement la cire et la couleur ainsi que la composition, la libérant de toute l’influence optique habituelle de la peinture. C’est probablement ce qui fait l’originalité de son travail.
 
-  Jose Alvarez extrait de la monographie "Wax"Série « Wax Figures ». Dans ses derniers tableaux, Valota revisite le portrait classique à la manière des maîtres tel que Goya, Velasquez, Vermeer, ... avec un « romantisme » contemporain. Ses clairs-obscurs sont un retour en force, ses noirs si profondément sombres sont un champ d’intervention sur lequel Valota laisse éclore la couleur. Ces univers s’illuminent par la figure de la femme qui règne sur ses « sujets de curiosité » : hippocampes, licornes, fleurs de vie, ...
+  Depuis 2019, Valota travaille également un nouveau médium, la céramique, qui lui ouvre de nouveaux horizons tant sur la forme que sur les couleurs.
+
+  Une monographie « Wax » a été édité aux Editions du Regard, Paris (160 pages, 185 illustrations, bilingue Français – Anglais – Préface Henri-François Debailleux)
+
+  **Expositions**
+
+  2020 **Galérie Koralewski** Paris / Vincent’s Got a Gun
+
+  2019 **Galérie Koralewski** Paris / Grandes et Petites Merveilles
+
+  2018, **Galérie Koralewski** / YIA ART FAIR
+
+  2017 **Galérie Koralewski / ART PARIS ART FAIR**
+
+  2016 **Galérie Koralewski** Paris / Aquarius
+
+  2015 **Galérie Koralewski** Paris, « Mes Chères Diaphanes »
+
+  **Galérie Gaïa, Nantes**
+
+  2014 / **Stand Orange** / FIAC
+
+  2013 / **Galerie Lavignes Bastille Paris** / On the Other Side of the Sky
 exhibitions:
 - title: FIAC
   location: Stand Orange
@@ -43,74 +65,8 @@ exhibitions:
   location: PARIS 75003 http://www.valotaworks.com/news.html
   start: "40615"
   end: "270615"
-works:
-- title: Days are Dark and Night are Clears
-  image: "/forestry/days-are-dark-and-night-are-clears.jpg"
-  technique: Cire sur planche
-  dimensions:
-    height: 162
-    width: 162
-    depth: 
-  description: N°33
-  price: 0
-  sold: false
-  contextual: true
-- title: On the other side of the sky
-  image: "/forestry/on-the-other-side-of-the-sky.jpg"
-  technique: Cire sur planche
-  dimensions:
-    height: 60
-    width: 73
-    depth: 
-  description: N°17
-  price: 0
-  sold: false
-  contextual: true
-- title: Arborescence
-  image: "/forestry/arborescence.jpg"
-  technique: Cire sur planche
-  dimensions:
-    height: 65
-    width: 50
-    depth: 
-  description: N°70
-  price: 0
-  sold: false
-  contextual: true
-- title: Meteor Days are Dark and Night are Clears
-  image: "/forestry/meteor-days-are-dark-and-night-are-clears.jpg"
-  technique: Cire sur planche
-  dimensions:
-    height: 18
-    width: 
-    depth: 
-  description: N°82
-  price: 0
-  sold: false
-  contextual: true
-- title: On the other side of the sky N°14
-  image: "/forestry/on-the-other-side-of-the-sky-ndegree14.jpg"
-  technique: Cire et pigment sur bois
-  dimensions:
-    height: 60
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: Détail d'une oeuvre
-  image: "/forestry/detail-dune-oeuvre.jpg"
-  technique: encaustique sur bois
-  dimensions:
-    height: 15
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
+works: []
 redirect_from:
-  - /artistes/4-valota/
----
+- "/artistes/4-valota/"
 
+---
