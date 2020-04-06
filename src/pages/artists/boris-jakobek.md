@@ -49,39 +49,39 @@ works:
   price: 120
   sold: false
   contextual: true
-- title: "822"
+- title: Schlaasss
   image: "/forestry/822.jpg"
-  technique: sérigraphie
+  technique: 'sérigraphie  6 couleurs papier Olin 300g '
   dimensions:
-    height: 50
-    width: 70
+    height: 70
+    width: 50
     depth: 
-  description: ''
-  price: 
+  description: Edition 20 exemplaires
+  price: 120
   sold: false
   contextual: true
 - title: La coupe
   image: "/forestry/la-coupe.jpg"
   technique: sérigraphie /20
   dimensions:
-    height: 50
-    width: 70
+    height: 70
+    width: 50
     depth: 
-  description: |-
-    Commande par la Galerie Gaïa pour les 40 ans du lieu
-    50€
-  price: 
+  description: 'Commande par la Galerie Gaïa pour les 40 ans du lieu
+
+'
+  price: 120
   sold: false
   contextual: true
-- title: Donald (1/1)
+- title: sans titre (Donald)
   image: "/forestry/donald-11.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie papier Olin 300 gr
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 320€
-  price: 
+  description: 'exemplaire unique '
+  price: 320
   sold: false
   contextual: true
 - title: Homme courbé (15/50)
