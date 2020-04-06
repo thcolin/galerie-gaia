@@ -122,8 +122,8 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Traquandi - Sans Titre (orange) (12/19)
-  image: "/forestry/traquandi-sans-titre-orange-1219.jpg"
+- title: Traquandi - Sans Titre (noir) (12/19)
+  image: "/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg"
   technique: Aquatinte
   dimensions:
     height: 80
