@@ -106,15 +106,15 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: Les marcheurs (1/1)
+- title: sans titre (les marcheurs)
   image: "/forestry/les-marcheurs-11.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie papier Olin 300gr '
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 320€
-  price: 
+  description: exemplaire unqiue
+  price: 320
   sold: false
   contextual: true
 - title: Les oreilles qui saignent (7/14)
