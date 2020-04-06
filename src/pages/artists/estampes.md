@@ -76,8 +76,8 @@ works:
   image: "/forestry/messagier-printemps-a-mille-coeur-8300.jpg"
   technique: Pointe sèche
   dimensions:
-    height: 30
-    width: 47
+    height: 49
+    width: 66
     depth: 
   description: |-
     1967 Editions Jacques Putman pour les suite Prisunic
@@ -381,6 +381,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/102-estampes/
----
+- "/artistes/102-estampes/"
 
+---
