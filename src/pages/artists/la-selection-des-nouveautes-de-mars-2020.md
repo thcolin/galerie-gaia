@@ -14,6 +14,24 @@ works:
   description: ''
   price: 0
   contextual: true
+- title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
+  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 195
+    width: 114
+  description: "2020"
+  price: 3500
+  contextual: true
+- title: Territoires colorées 15 par ISTHME
+  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+  dimensions:
+    height: 76
+    width: 57
+  description: ''
+  price: 760
+  contextual: true
+  technique: Collage
 - title: Jackie de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   description: ''
