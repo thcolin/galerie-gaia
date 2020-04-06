@@ -37,7 +37,7 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
 exhibitions: []
 works:
 - title: 'Territoires Colorés #1'
-  image: "/forestry/Isthme_Territoires colorés #7_collage_76cmX56cm.jpg"
+  image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
   technique: " Collage "
   dimensions:
     height: 65
