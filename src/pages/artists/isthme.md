@@ -36,6 +36,15 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: 'Territoires Colorés #15'
+  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+  technique: Collage
+  dimensions:
+    height: 76
+    width: 57
+  description: "2020"
+  price: 760
+  contextual: true
 - title: 'Deep Blue #5'
   image: "/forestry/galeriegaia-isthme-DeepBlue5-130 cmx97cm-2020.jpg"
   technique: 'Acrylique sur toile '
@@ -45,7 +54,7 @@ works:
   description: "2020"
   price: 2200
   contextual: true
-- title: 'Allongée dans l''herbe #14'
+- title: 'Canopée Allongée dans l''herbe #14'
   image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   dimensions:
     height: 195
@@ -53,7 +62,8 @@ works:
   description: "2020"
   price: 3500
   contextual: true
-- title: 'Allongée dans l''herbe #1'
+  technique: 'Acrylique sur toile '
+- title: 'Canopée Allongée dans l''herbe #1'
   image: "/forestry/galeriegaia-isthme-canopé Allongée dans l'herbe 1-146x114.jpg"
   technique: Acrylique sur toile
   dimensions:
