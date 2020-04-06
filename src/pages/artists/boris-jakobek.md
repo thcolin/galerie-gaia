@@ -27,25 +27,25 @@ biography: "L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréq
   Nantes, 2015"
 exhibitions: []
 works:
-- title: Ligne noire (3/20)
+- title: 'Météorologie d''un prisme '
   image: "/forestry/ligne-noire-320.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 4 couleurs papier 0lin 300gr
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 100€
-  price: 
+  description: édition 3/20
+  price: 200
   sold: false
   contextual: true
-- title: Réveil
+- title: Le réveil
   image: "/forestry/reveil.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie  4 couleurs  papier Olin 300g '
   dimensions:
-    height: 50
-    width: 70
+    height: 70
+    width: 50
     depth: 
-  description: 'Affiche '
+  description: Editions en 20 exemplaires
   price: 120
   sold: false
   contextual: true
