@@ -15,29 +15,29 @@ tabs:
       ou extérieur par un artiste graffeur (street-art)\n* Réalisation d'une installation
       visuelle, sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage
       de votre entreprise...\n\n##### Achat en location financière ou en défiscalisation
-      ?  \n  \nDeux solutions qui répondent à des choix stratégiques patrimoniaux
-      et fiscaux différents.\n\n##### **La location financière**\n\nJ'ai retenu le
-      professionnalisme de la société **Bail Art**, pour faciliter l'accès à des œuvres
-      d'art avec la location & option d'achat à la fin du contrat.\n\n* C**apacité
-      d'emprunt** préservée et haut du bilan allégé (hors IFRS)\n* **Étalement du
-      coût d'achat** de **13 à 60 mois.**\n* Déduction du résultat imposable et **réduction
-      de l'IS (entreprises)** ou **IRPP (professions libérales).**\n* Au terme du
-      contrat un transfert de propriété vous est proposé au terme du contrat de location.\n*
-      Cela concerne des **artistes vivants ou non**.\n\n[Gazette Drouot - Juin 2017](https://galeriegaia.fr/forestry/Gazette
-      drouot juin 2017.pdf \"Article Gazette drouot \")\n\n**Calcul pour une œuvre
-      de 3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir *  193€ HT\n* économies
-      d'impôts générées 1296€ HT\n* coût global hors économies de charges sociales,
-      IR = 3332€ HT\n  * _Les loyers sont une charge déductible et génèrent une économie
-      d'IS estimée à 28 %_\n\n[Faire une simulation](http://bail-art.com/le-leasing/
-      \"FAIRE UNE SIMULATION\")\n\n![Isabelle Healy](/forestry/fondation.jpg \"Sculpture
-      \")  \n_\"Fondation\" bronze Isabelle Healy_\n\n##### **La défiscalisation**\n\nCette
-      niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
-      \ pour **soutenir les artistes vivants**. Ainsi entreprises et professions libérales
-      peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**\n\n* L’œuvre
-      doit être **exposée au public et aux salariés** durant 5 ans\n* L’œuvre figure
-      dans les immobilisations de l’entreprise\n* Le montant de la déduction est inscrit
-      à un compte de réserve spécial au passif du bilan de la société.\n\n  [Texte
-      de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
+      ?\n\nDeux solutions qui répondent à des choix stratégiques patrimoniaux et fiscaux
+      différents.\n\n##### **1 . La location financière**\n\nJ'ai retenu le professionnalisme
+      de la société **Bail Art**, pour faciliter l'accès à des œuvres d'art avec la
+      location & option d'achat à la fin du contrat.\n\n* C**apacité d'emprunt** préservée
+      et haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13
+      à 60 mois.**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
+      ou **IRPP (professions libérales).**\n* Au terme du contrat un transfert de
+      propriété vous est proposé au terme du contrat de location.\n* Cela concerne
+      des **artistes vivants ou non**.  \n    \n  [Article \"Du leasing dans l'art\"
+      Gazette Drouot](https://galeriegaia.fr/forestry/Gazette drouot juin 2017.pdf
+      \"Article Gazette Drouot\")\n\n**Calcul pour une œuvre de 3500€ & 24 mois :**\n\n*
+      loyer mensuel terme à échoir *  193€ HT\n* économies d'impôts générées 1296€
+      HT\n* coût global hors économies de charges sociales, IR = 3332€ HT\n  * _Les
+      loyers sont une charge déductible et génèrent une économie d'IS estimée à 28
+      %_\n\n     [Faire une simulation](http://bail-art.com/le-leasing/ \"FAIRE UNE
+      SIMULATION\")\n\n![Isabelle Healy](/forestry/fondation.jpg \"Sculpture \")  \n_\"Fondation\"
+      bronze Isabelle Healy_\n\n##### **2. La défiscalisation**\n\nCette niche fiscale
+      a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture  pour **soutenir
+      les artistes vivants**. Ainsi entreprises et professions libérales peuvent s'engager
+      sur ce **mécénat en se constituant un patrimoine.**\n\n* L’œuvre doit être **exposée
+      au public et aux salariés** durant 5 ans\n* L’œuvre figure dans les immobilisations
+      de l’entreprise\n* Le montant de la déduction est inscrit à un compte de réserve
+      spécial au passif du bilan de la société.\n\n  [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
       \"Texte officiel\")\n\n**Calcul pour une œuvre de 7000€ :**\n\n* Une entreprise
       réalisant 350 000€ de chiffre d’affaire\n* La déduction annuelle est plafonnée
       à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005 = 1750€ de plafond
