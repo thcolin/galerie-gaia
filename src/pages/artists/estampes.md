@@ -135,7 +135,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Gérard Traquandi - Pin a? crochets IV (4/30)
+- title: Gérard Traquandi - Pin à crochets IV (4/30)
   image: "/forestry/gerard-traquandi-pin-a-crochets-iv-430.jpg"
   technique: Eau forte
   dimensions:
@@ -148,7 +148,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Gérard Traquandi - Pin a? crochets I (1/30)
+- title: Gérard Traquandi - Pin à crochets I (1/30)
   image: "/forestry/gerard-traquandi-pin-a-crochets-i-130.jpg"
   technique: Eau forte
   dimensions:
@@ -161,7 +161,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Gérard Traquandi - Pin a? crochets V (9/30)
+- title: Gérard Traquandi - Pin à crochets V (9/30)
   image: "/forestry/gerard-traquandi-pin-a-crochets-v-930.jpg"
   technique: Eau forte
   dimensions:
