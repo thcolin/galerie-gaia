@@ -6,27 +6,25 @@ field: Sérigraphe
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréqente l'Ecole des Beaux Arts de Lorient DNAP en 2000, puis il validera un DNSEP Art à l' Ecole des Beaux Arts de Lorient en 2002
-
-  Quelques projets, résidences, expositions...
-
-  * "Les 400 coups" Exposition collective, Le Jardin Moderne, Rennes, 2019
-  * "L'Enfer" Festival du livre fait main et des arts imprimés, Nancy, 2019
-  * "Les imprimeurs ne connaissent pas les sérigraphes" Exposition, Musée de l'imprimerie, Nantes, 2019
-  * "Myself as a fool" Exposition personnelle , le Jardin de verre, Cholet, 2019
-  * "40 ans d'histoire d'art", Exposition collective, Galerie Gaïa, Nantes, 2018
-  * "Transfert " Scénographie collective, Ville de Nantes et Rezé, 2018
-  * "Affiches" Exposition personnelle , le Pannonica, Nantes, 2018
-  * "Swish swash" Exposition personnelle , Les Hauts-parleurs , Villefranche-de-Rouergue, 2018
-  * "Itinéraires graphiques" Biennale d'arts graphiques, exposition collective, Lorient, 2018
-  * "Fantôme 9" Exposition collective,Festival "Le marché noir", Rennes, 2018
-  * "Le marché noir" Festival de micro-édition, Rennes, 2017
-  * "Fantôme 8" Exposition collective, Librairie Le Monte en l'air, Paris, 2016
-  * "Le marché noir" Festival de micro-édition, Rennes, 2016
-  * "L'Enfer" Festival du livre fait main et des arts imprimés, Nancy, 2016
-  * "Le marché noir" Festival de micro-édition, Rennes, 2015
-  * "72 heures de la sérigraphie" Festival de micro-édition, Pol'n, Nantes, 2015
+biography: "L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréqente
+  l'Ecole des Beaux Arts de Lorient DNAP en 2000, puis il validera un DNSEP Art à
+  l' Ecole des Beaux Arts de Lorient en 2002.\n\nRésidences, festivals & expositions
+  : \n\n* \"Les 400 coups\" Exposition collective, Le Jardin Moderne, Rennes, 2019\n*
+  \"L'Enfer\" Festival du livre fait main et des arts imprimés, Nancy, 2019\n* \"Les
+  imprimeurs ne connaissent pas les sérigraphes\" Exposition, Musée de l'imprimerie,
+  Nantes, 2019\n* \"Myself as a fool\" Exposition personnelle , le Jardin de verre,
+  Cholet, 2019\n* \"40 ans d'histoire d'art\", Exposition collective, Galerie Gaïa,
+  Nantes, 2018\n* \"Transfert \" Scénographie collective, Ville de Nantes et Rezé,
+  2018\n* \"Affiches\" Exposition personnelle , le Pannonica, Nantes, 2018\n* \"Swish
+  swash\" Exposition personnelle , Les Hauts-parleurs , Villefranche-de-Rouergue,
+  2018\n* \"Itinéraires graphiques\" Biennale d'arts graphiques, exposition collective,
+  Lorient, 2018\n* \"Fantôme 9\" Exposition collective,Festival \"Le marché noir\",
+  Rennes, 2018\n* \"Le marché noir\" Festival de micro-édition, Rennes, 2017\n* \"Fantôme
+  8\" Exposition collective, Librairie Le Monte en l'air, Paris, 2016\n* \"Le marché
+  noir\" Festival de micro-édition, Rennes, 2016\n* \"L'Enfer\" Festival du livre
+  fait main et des arts imprimés, Nancy, 2016\n* \"Le marché noir\" Festival de micro-édition,
+  Rennes, 2015\n* \"72 heures de la sérigraphie\" Festival de micro-édition, Pol'n,
+  Nantes, 2015"
 exhibitions: []
 works:
 - title: Ligne noire (3/20)
