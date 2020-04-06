@@ -84,26 +84,26 @@ works:
   price: 320
   sold: false
   contextual: true
-- title: Homme courbé (15/50)
+- title: 'Il avait besoin d''une boussole '
   image: "/forestry/homme-courbe-1550.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 3 couleurs  papier Popset 320g
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 100€
-  price: 
+  description: 'Edition 15/50 '
+  price: 120
   sold: false
   contextual: true
-- title: La réunion (3/20)
+- title: 'La réunion '
   image: "/forestry/la-reunion-320.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 3 couleurs papier Olin 300g
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 100€
-  price: 
+  description: 'Edition 3/14 '
+  price: 200
   sold: false
   contextual: true
 - title: Les marcheurs (1/1)
