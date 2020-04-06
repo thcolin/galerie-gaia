@@ -234,7 +234,7 @@ works:
   description: "1994\n400€ \n550€ encadré"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Shirley Jaffe - Sans Titre (25/70)
   image: "/forestry/shirley-jaffe-sans-titre-2570.jpg"
   technique: Sérigraphie atelier Byse Lille
@@ -313,7 +313,7 @@ works:
   description: Numérotation 28/60 600€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Claude Viallat - Sans Titre (1/3)
   image: "/forestry/claude-viallat-sans-titre-13.jpg"
   technique: Sérigraphie
