@@ -116,9 +116,9 @@ works:
   image: "/forestry/nuits-en-mer-24-installation.jpg"
   technique: Acrylique sur toile
   dimensions:
-    height: 6
+    height: ''
     width: 
-    depth: 25
+    depth: ''
   description: Prix sur demande Installation créée pour l'exposition à la galerie
     elle se compose de 6 panneaux installés selon le protocole de l'artiste
   price: ''
