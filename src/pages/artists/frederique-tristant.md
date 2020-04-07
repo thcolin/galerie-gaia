@@ -24,7 +24,7 @@ works:
     height: 111
     width: 83
     depth: 
-  description: ''
+  description: Oeuvre encadrée caisse US Bois naturel
   price: 1300
   sold: false
   contextual: true
@@ -43,44 +43,44 @@ works:
   image: "/forestry/bouche-bleue.jpg"
   technique: Aquarelle sur papier imprimé
   dimensions:
-    height: 83
-    width: 110
+    height: 110
+    width: 83
     depth: 
-  description: 1300€
-  price: 
+  description: ''
+  price: 1300
   sold: false
   contextual: true
 - title: Couvre lit
   image: "/forestry/couvre-lit.jpg"
   technique: Aquarelle sur papier imprimé
   dimensions:
-    height: 58
-    width: 64
+    height: 64
+    width: 58
     depth: 
   description: 700€
-  price: 
+  price: 700
   sold: false
   contextual: true
 - title: La pianiste
   image: "/forestry/la-pianiste.jpg"
   technique: Aquarelle sur papier imprimé
   dimensions:
-    height: 83
-    width: 112
+    height: 112
+    width: 83
     depth: 
-  description: 1300€
-  price: 
+  description: ''
+  price: 1300
   sold: false
   contextual: true
 - title: Lune Rouge
   image: "/forestry/lune-rouge.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
-    height: 82
-    width: 113
+    height: 113
+    width: 82
     depth: 
-  description: 1300€
-  price: 
+  description: Oeuvre encadrée caisse US Bois naturel
+  price: 1300
   sold: false
   contextual: true
 - title: Se reposer seulement
