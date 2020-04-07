@@ -1,6 +1,7 @@
 import React, { Fragment, useRef } from 'react'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
+import Icon from 'components/Icon'
 import Image from 'components/Image'
 import RichText from 'components/RichText'
 import usePagination from 'hooks/use-pagination'
@@ -47,9 +48,13 @@ const Exhibitions = ({ ...props }) => {
         ))}
         {length > 1 && (
           <nav>
-            <button disabled={page === 0} onClick={() => movePage(page - 1)}>Previous</button>
+            <button disabled={page === 0} onClick={() => movePage(page - 1)}>
+              <Icon children="arrow" direction="left" />
+            </button>
             <span>{page + 1} / {length}</span>
-            <button disabled={(page + 1) === length} onClick={() => movePage(page + 1)}>Next</button>
+            <button disabled={(page + 1) === length} onClick={() => movePage(page + 1)}>
+              <Icon children="arrow" direction="right" />
+            </button>
           </nav>
         )}
       </section>
@@ -108,7 +113,11 @@ Exhibitions.styles = {
       justifyContent: 'center',
       padding: '0 0 2em',
       '>button': {
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
         margin: '0 1rem',
+        paddingRight: '0.33em',
       },
     },
   },
