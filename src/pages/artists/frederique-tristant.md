@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Frédérique Tristant
-location: ""
+location: ''
 field: Peintre plasticienne
 birth: "0"
 death: "0"
@@ -43,11 +43,11 @@ works:
   image: "/forestry/trench.jpg"
   technique: Aquarelle sur papier imprimé
   dimensions:
-    height: 112
-    width: 112
-    depth:
-  description: 1300€
-  price:
+    height: 111
+    width: 83
+    depth: 
+  description: ''
+  price: 1300
   sold: false
   contextual: true
 - title: A quoi penses-tu
@@ -56,9 +56,9 @@ works:
   dimensions:
     height: 83
     width: 110
-    depth:
+    depth: 
   description: 1300€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Bouche bleue
@@ -67,9 +67,9 @@ works:
   dimensions:
     height: 83
     width: 110
-    depth:
+    depth: 
   description: 1300€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Couvre lit
@@ -78,9 +78,9 @@ works:
   dimensions:
     height: 58
     width: 64
-    depth:
+    depth: 
   description: 700€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: La pianiste
@@ -89,9 +89,9 @@ works:
   dimensions:
     height: 83
     width: 112
-    depth:
+    depth: 
   description: 1300€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Lune Rouge
@@ -100,9 +100,9 @@ works:
   dimensions:
     height: 82
     width: 113
-    depth:
+    depth: 
   description: 1300€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Se reposer seulement
@@ -111,9 +111,9 @@ works:
   dimensions:
     height: 84
     width: 110
-    depth:
+    depth: 
   description: 1300€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Stendhal
@@ -122,12 +122,12 @@ works:
   dimensions:
     height: 77
     width: 118
-    depth:
+    depth: 
   description: 1300€
-  price:
+  price: 
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/100-frederique-tristant/
----
+- "/artistes/100-frederique-tristant/"
 
+---
