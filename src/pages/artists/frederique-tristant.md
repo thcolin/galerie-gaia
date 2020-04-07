@@ -96,13 +96,13 @@ works:
   contextual: true
 - title: Stendhal
   image: "/forestry/stendhal.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
-    height: 77
-    width: 118
+    height: 118
+    width: 77
     depth: 
-  description: 1300€
-  price: 
+  description: Œuvre encadrée caisse US Bois naturel
+  price: 1300
   sold: false
   contextual: true
 redirect_from:
