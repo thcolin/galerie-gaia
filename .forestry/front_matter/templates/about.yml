@@ -1,6 +1,7 @@
 ---
 label: About
 hide_body: true
+display_field: title
 fields:
 - name: title
   type: text
@@ -8,58 +9,43 @@ fields:
     required: true
   label: Title
   description: Titre
-- name: tabs
+- name: content
   type: field_group_list
   fields:
-  - name: title
-    type: text
+  - name: column
+    type: textarea
+    default: ''
     config:
       required: true
-    label: Title
-    description: Titre
-  - name: content
-    type: field_group_list
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Column
+    description: Colonne
+  - name: contact
+    type: field_group
+    config: {}
     fields:
-    - name: column
-      type: textarea
-      default: ''
+    - name: display
+      type: boolean
+      label: Display
+      description: Afficher
+      default: false
+    - name: placeholder
+      type: text
       config:
-        required: true
-        wysiwyg: true
-        schema:
-          format: markdown
-      label: Column
-      description: Colonne
-    - name: contact
-      type: field_group
-      config: {}
-      fields:
-      - name: display
-        type: boolean
-        label: Display
-        description: Afficher
-        default: false
-      - name: placeholder
-        type: text
-        config:
-          required: false
-        label: Placeholder
-        description: Incitation
-        default: Un message à nous adresser ?
-      label: Contact
-      description: Contact
-    config:
-      min: 
-      max: 
-      labelField: column
-    label: Content
-    description: Contenu
+        required: false
+      label: Placeholder
+      description: Incitation
+      default: Un message à nous adresser ?
+    label: Contact
+    description: Contact
   config:
     min: 
     max: 
-    labelField: title
-  label: Tabs
-  description: Onglets
+    labelField: column
+  label: Content
+  description: Contenu
 - name: template
   type: text
   config:
@@ -75,4 +61,4 @@ fields:
   label: SEO
   description: SEO
 pages:
-- src/pages/about.md
+- src/pages/about/art-et-fiscalite.md

@@ -13,9 +13,13 @@ sections:
 - type: document
   path: src/pages/expositions.md
   label: Expositions
-- type: document
-  path: src/pages/about.md
+- type: directory
+  path: src/pages/about
   label: À propos
+  create: all
+  match: "**/*"
+  templates:
+  - about
 - type: document
   path: src/pages/contact.md
   label: Contact

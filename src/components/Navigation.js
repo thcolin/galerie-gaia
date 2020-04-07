@@ -8,12 +8,19 @@ import theme from 'theme'
 
 const Navigation = ({ pageContext, ...props }) => {
   const [open, _setOpen] = useState(false)
+  const [submenu, _setSubmenu] = useState(typeof sessionStorage !== 'undefined' ? sessionStorage.getItem('submenu') : false)
 
   const setOpen = (value) => {
     window.scrollTo({ top: 0, behavior: 'smooth' })
     _setOpen(value)
 
     setTimeout(() => trapScroll(value), 500)
+  }
+
+  const setSubmenu = (value) => {
+    event.preventDefault()
+    sessionStorage.setItem('submenu', value)
+    _setSubmenu(value)
   }
 
   return (
@@ -33,13 +40,25 @@ const Navigation = ({ pageContext, ...props }) => {
       </header>
       <div css={Navigation.styles.container} style={open ? { height: 'calc(100vh - 100%)' } : {}}>
         <div css={Navigation.styles.body}>
-          <nav css={Navigation.styles.list}>
-            <ol>
-              <li><Link to='/'>Accueil</Link></li>
-              <li><Link to='/artists'>Artistes</Link></li>
-              <li><Link to='/expositions'>Expositions</Link></li>
-              <li><Link to='/about'>Prestations</Link></li>
-              <li><Link to='/contact'>Contact</Link></li>
+          <nav css={Navigation.styles.nav}>
+            <ol css={Navigation.styles.list}>
+              <li><Link to='/' activeStyle={{ textDecoration: 'underline' }}>Accueil</Link></li>
+              <li><Link to='/artists' activeStyle={{ textDecoration: 'underline' }}>Artistes</Link></li>
+              <li><Link to='/expositions' activeStyle={{ textDecoration: 'underline' }}>Expositions</Link></li>
+              <li>
+                <details css={Navigation.styles.details} open={submenu}>
+                  <summary onClick={() => setSubmenu(!submenu)}>Prestations</summary>
+                  <ol css={Navigation.styles.list}>
+                    {pageContext.pages
+                      .filter(page => page.relativeDir === 'about')
+                      .map((page, index) => (
+                        <li key={index}><Link to={page.url} activeStyle={{ textDecoration: 'underline' }}>{page.frontmatter.title}</Link></li>
+                      ))
+                    }
+                  </ol>
+                </details>
+              </li>
+              <li><Link to='/contact' activeStyle={{ textDecoration: 'underline' }}>Contact</Link></li>
             </ol>
           </nav>
           <RichText css={Navigation.styles.paragraph}>
@@ -172,25 +191,41 @@ Navigation.styles = {
       },
     },
   },
+  nav: {
+    margin: '2rem 3em 0',
+  },
   list: {
-    '>ol': {
-      listStyleType: 'none',
-      textAlign: 'left',
-      padding: 0,
-      margin: '2rem 3em 0',
-      '>li': {
-        margin: '0 0 0.5em',
-        fontSize: '1.25em',
-        textAlign: 'center',
-        lineHeight: '1.5em',
-        textTransform: 'uppercase',
-        [theme.medias.large]: {
-          textAlign: 'left',
-        },
-        [theme.medias.extralarge]: {
-          textAlign: 'left',
-        },
+    listStyleType: 'none',
+    textAlign: 'left',
+    padding: 0,
+    '>li': {
+      margin: '0 0 0.5em',
+      textAlign: 'center',
+     fontSize: '1.25em',
+      lineHeight: '1.5em',
+      textTransform: 'uppercase',
+      [theme.medias.large]: {
+        textAlign: 'left',
       },
+      [theme.medias.extralarge]: {
+        textAlign: 'left',
+      },
+    },
+  },
+  details: {
+    '>summary': {
+      display: 'block',
+      cursor: 'pointer',
+      ':hover': {
+        textDecoration: 'underline',
+      },
+      '::-webkit-details-marker': {
+        display: 'none',
+      },
+    },
+    '>ol': {
+      margin: '1em 0 1em 1em',
+      fontSize: '0.75rem',
     },
   },
   paragraph: {
