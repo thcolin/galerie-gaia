@@ -27,6 +27,24 @@ biography: "L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréq
   Nantes, 2015"
 exhibitions: []
 works:
+- title: La ruine
+  image: "/forestry/galeriegaia_Jakobek_LA RUINE_70X50.jpg"
+  technique: sérigraphie 1 couleurs papier Popset 320g
+  dimensions:
+    height: 70
+    width: 50
+  description: 'Edition en 50 exemplaires '
+  price: 120
+  contextual: true
+- title: Ho visto
+  image: "/forestry/galeriegaia_Jakobek_(Ho visto 4_21_70x50.jpg"
+  technique: sérigraphie 4 couleurs papier Olin 300g
+  dimensions:
+    height: 70
+    width: 50
+  description: Edition en 21 exemplaires
+  price: 200
+  contextual: true
 - title: 'Météorologie d''un prisme '
   image: "/forestry/ligne-noire-320.jpg"
   technique: Sérigraphie 4 couleurs papier 0lin 300gr
