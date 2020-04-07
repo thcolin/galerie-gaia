@@ -12,24 +12,27 @@ const About = ({ ...props }) => {
     <Layout {...props}>
       <SEO {...frontmatter.seo} pageContext={props.pageContext} />
       <section css={About.styles.element}>
-        {frontmatter.content.map(({ column, contact }, index) => (
-          <div key={index}>
-            <RichText children={column} />
-            {contact.display && (
-              <Contact
-                id="uT-oykFnR_MeNQndwoxtc"
-                placeholder={contact.placeholder}
-                toggle={true}
-                inputs={[
-                  {
-                    name: 'subject',
-                    value: frontmatter.title,
-                  }
-                ]}
-              />
-            )}
-          </div>
-        ))}
+        <h1>{frontmatter.title}</h1>
+        <div>
+          {frontmatter.content.map(({ column, contact }, index) => (
+            <article key={index}>
+              <RichText children={column} />
+              {contact.display && (
+                <Contact
+                  id="uT-oykFnR_MeNQndwoxtc"
+                  placeholder={contact.placeholder}
+                  toggle={true}
+                  inputs={[
+                    {
+                      name: 'subject',
+                      value: frontmatter.title,
+                    }
+                  ]}
+                />
+              )}
+            </article>
+          ))}
+        </div>
       </section>
     </Layout>
   )
@@ -37,28 +40,30 @@ const About = ({ ...props }) => {
 
 About.styles = {
   element: {
-    display: 'flex',
     padding: '2rem',
-    [theme.medias.small]: {
-      flexDirection: 'column',
-    },
     '>div': {
       display: 'flex',
-      flexDirection: 'column',
-      flex: 1,
-      padding: '0 1rem',
-      fontSize: '1rem',
-      lineHeight: '1.5',
-      ':first-of-type': {
-        paddingLeft: 0,
-      },
-      ':last-of-type': {
-        paddingRight: 0,
-      },
       [theme.medias.small]: {
-        padding: 0,
+        flexDirection: 'column',
       },
-    },
+      '>article': {
+        display: 'flex',
+        flexDirection: 'column',
+        flex: 1,
+        padding: '0 1rem',
+        fontSize: '1rem',
+        lineHeight: '1.5',
+        ':first-of-type': {
+          paddingLeft: 0,
+        },
+        ':last-of-type': {
+          paddingRight: 0,
+        },
+        [theme.medias.small]: {
+          padding: 0,
+        },
+      },
+    }
   },
 }
 
