@@ -4,7 +4,7 @@ import useEvent from 'react-use/lib/useEvent'
 
 const Contextual = ({ work, ...props }) => {
   const sizes = {
-    'medium': {
+    medium: {
       height: [1, 180],
       width: [1, 140],
       ratio: 220, // (width of the picture in cm)

@@ -55,11 +55,13 @@ Layout.styles = {
     display: 'flex',
     maxWidth: '100%',
     [theme.medias.large]: {
-      maxWidth: '20em',
+      position: 'fixed',
+      width: '20em',
       height: '100vh',
     },
     [theme.medias.extralarge]: {
-      maxWidth: '20em',
+      position: 'fixed',
+      width: '20em',
       height: '100vh',
     },
   },
@@ -69,10 +71,10 @@ Layout.styles = {
     flex: 1,
     maxWidth: '100%',
     [theme.medias.large]: {
-      overflowY: 'auto',
+      marginLeft: '20em',
     },
     [theme.medias.extralarge]: {
-      overflowY: 'auto',
+      marginLeft: '20em',
     },
   },
 }
