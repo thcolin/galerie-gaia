@@ -19,7 +19,7 @@ exhibitions: []
 works:
 - title: Trench
   image: "/forestry/trench.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
     height: 111
     width: 83
@@ -28,47 +28,47 @@ works:
   price: 1300
   sold: false
   contextual: true
-- title: A quoi penses-tu
+- title: A quoi penses-tu ?
   image: "/forestry/a-quoi-penses-tu.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
     height: 110
     width: 83
     depth: 
-  description: ''
+  description: Oeuvre encadrée caisse US Bois naturel
   price: 1300
   sold: false
   contextual: true
 - title: Bouche bleue
   image: "/forestry/bouche-bleue.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
     height: 110
     width: 83
     depth: 
-  description: ''
+  description: Oeuvre encadrée caisse US Bois naturel
   price: 1300
   sold: false
   contextual: true
 - title: Couvre lit
   image: "/forestry/couvre-lit.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
     height: 64
     width: 58
     depth: 
-  description: 700€
+  description: Oeuvre encadrée caisse US Bois naturel
   price: 700
   sold: false
   contextual: true
 - title: La pianiste
   image: "/forestry/la-pianiste.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
     height: 112
     width: 83
     depth: 
-  description: ''
+  description: Oeuvre encadrée caisse US Bois naturel
   price: 1300
   sold: false
   contextual: true
@@ -76,22 +76,22 @@ works:
   image: "/forestry/lune-rouge.jpg"
   technique: Aquarelle sur papier imprimé marouflée
   dimensions:
-    height: 113
+    height: 103
     width: 82
     depth: 
-  description: Oeuvre encadrée caisse US Bois naturel
+  description: Œuvre encadrée caisse US Bois naturel
   price: 1300
   sold: false
   contextual: true
 - title: Se reposer seulement
   image: "/forestry/se-reposer-seulement.jpg"
-  technique: Aquarelle sur papier imprimé
+  technique: Aquarelle sur papier imprimé marouflée
   dimensions:
-    height: 84
-    width: 110
+    height: 98
+    width: 83
     depth: 
-  description: 1300€
-  price: 
+  description: Œuvre encadrée caisse US Bois naturel
+  price: 1300
   sold: false
   contextual: true
 - title: Stendhal
