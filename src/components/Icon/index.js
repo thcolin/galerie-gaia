@@ -4,6 +4,11 @@ import Arrow from './Arrow'
 import Close from './Close'
 import Instagram from './Instagram'
 import Facebook from './Facebook'
+import Couch from './Couch'
+import Informations from './Informations'
+import Send from './Send'
+import Check from './Check'
+import Loading from './Loading'
 
 const icons = {
   menu: Menu,
@@ -11,6 +16,11 @@ const icons = {
   close: Close,
   instagram: Instagram,
   facebook: Facebook,
+  couch: Couch,
+  informations: Informations,
+  send: Send,
+  check: Check,
+  loading: Loading,
 }
 
 const Icon = ({ children, ...props }) => {

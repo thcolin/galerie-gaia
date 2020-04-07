@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Image from 'components/Image'
+import Icon from 'components/Icon'
 import useEvent from 'react-use/lib/useEvent'
 
 const Contextual = ({ work, ...props }) => {
@@ -35,7 +36,10 @@ const Contextual = ({ work, ...props }) => {
 
   return (
     <div {...props}>
-      <button onClick={() => setOpen(true)}>Voir l'oeuvre en contexte</button>
+      <button onClick={() => setOpen(true)}>
+        <Icon children="couch" style={{ margin: '0 0.5rem 0 0' }} />
+        Voir l'oeuvre en contexte
+      </button>
       <div css={Contextual.styles.modal} hidden={!open} style={{ top: typeof window === 'undefined' ? 0 : window.scrollY }}>
         <div css={Contextual.styles.container}>
           <div css={Contextual.styles.body}>

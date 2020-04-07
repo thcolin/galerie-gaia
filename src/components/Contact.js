@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { useForm } from 'react-hook-form'
+import Icon from 'components/Icon'
 import theme from 'theme'
 
 const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [], toggle, ...props }) => {
@@ -19,7 +20,10 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
   watch()
 
   return toggle && !toggled ? (
-    <button onClick={() => setToggled(true)}>Plus d'informations</button>
+    <button onClick={() => setToggled(true)}>
+      <Icon children="informations" style={{ margin: '0 0.5rem 0 0' }} />
+      Plus d'informations
+    </button>
   ) : (
     <form css={Contact.styles.element} onSubmit={handleSubmit(onSubmit)}>
       {inputs.map(({ name, type = 'hidden', ...input }) => (
@@ -33,7 +37,8 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
       </div>
       <textarea ref={register({ required: true })} name='message' maxLength='1000' placeholder={placeholder} />
       <button type='submit' disabled={!(formState.isValid && !formState.isSubmitting)}>
-        {formState.isSubmitted ? 'Envoyé !' : formState.isSubmitting ? 'Chargement...' : 'Envoyer'}
+        <Icon children={formState.isSubmitted ? 'check' : formState.isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
+        {formState.isSubmitted ? 'Envoyé !' : formState.isSubmitting ? 'Envoie...' : 'Envoyer'}
       </button>
     </form>
   )
