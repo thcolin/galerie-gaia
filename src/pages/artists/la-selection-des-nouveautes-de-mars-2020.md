@@ -9,6 +9,15 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Un véritable remodelage de la planète de Boris Jakobek
+  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
+  technique: 'Sérigraphie '
+  dimensions:
+    height: 70
+    width: 50
+  description: 'Edition en 11 exemplaires '
+  price: 200
+  contextual: true
 - title: Sélection des nouveautés Avril 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''

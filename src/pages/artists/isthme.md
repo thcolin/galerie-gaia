@@ -153,7 +153,7 @@ works:
   price: 2200
   sold: false
   contextual: true
-- title: 'Nuit en mer #3 (1/13)'
+- title: Nuit en mer IV (1/13)
   image: "/forestry/nuit-en-mer-iii-113.jpg"
   technique: Lithographie
   dimensions:
@@ -189,7 +189,7 @@ works:
   price: 780
   sold: false
   contextual: true
-- title: Nuit en mer IV (4/25)
+- title: Nuit en mer III (4/25)
   image: "/forestry/nuit-en-mer-iv-425.jpg"
   technique: Lithographie
   dimensions:
