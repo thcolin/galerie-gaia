@@ -27,6 +27,15 @@ biography: "L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréq
   Nantes, 2015"
 exhibitions: []
 works:
+- title: Un véritable remodelage de la planète
+  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
+  technique: 'sérigraphie 2 couleurs  papier Olin 300g '
+  dimensions:
+    height: 70
+    width: 50
+  description: Edition en 13 exemplaires
+  price: 200
+  contextual: true
 - title: La ruine
   image: "/forestry/galeriegaia_Jakobek_LA RUINE_70X50.jpg"
   technique: sérigraphie 1 couleurs papier Popset 320g
