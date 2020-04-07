@@ -9,7 +9,7 @@ const Contextual = ({ work, ...props }) => {
       height: [1, 180],
       width: [1, 140],
       ratio: 220, // (width of the picture in cm)
-      container: '11% 0 42%',
+      container: '24% 0 42%',
     },
   }
 
@@ -99,11 +99,16 @@ Contextual.styles = {
   },
   work: {
     position: 'absolute',
+    display: 'flex',
+    alignItems: 'flex-start',
     top: 0,
     bottom: 0,
-    '>span>img': {
-      objectFit: 'contain',
-      background: 'transparent',
+    '>span': {
+      height: 'auto',
+      '>img': {
+        objectFit: 'contain',
+        background: 'transparent',
+      },
     },
   },
   close: {
