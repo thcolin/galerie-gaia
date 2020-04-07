@@ -1,10 +1,11 @@
 import React from 'react'
+import { LazyLoadComponent, trackWindowScroll } from 'react-lazy-load-image-component'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import Artist from 'components/Artist'
 import theme from 'theme'
 
-const Artists = ({ ...props }) => {
+const Artists = ({ scrollPosition, ...props }) => {
   const { pageContext: { pages, frontmatter } } = props
 
   const artists = frontmatter.artists
@@ -27,7 +28,9 @@ const Artists = ({ ...props }) => {
         <div css={Artists.styles.grid}>
           {artists.map(artist => (
             <article key={artist.relativePath} css={Artists.styles.article}>
-              <Artist {...artist} />
+              <LazyLoadComponent scrollPosition={scrollPosition}>
+                <Artist {...artist} />
+              </LazyLoadComponent>
             </article>
           ))}
         </div>
@@ -59,4 +62,4 @@ Artists.styles = {
   },
 }
 
-export default Artists
+export default trackWindowScroll(Artists)
