@@ -81,7 +81,7 @@ works:
   description: "2020"
   price: 2800
   contextual: true
-- title: 'Territoires Colorés #1'
+- title: 'Territoires Colorés #7'
   image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
   technique: " Collage "
   dimensions:
@@ -89,6 +89,15 @@ works:
     width: 50
   description: ''
   price: 500
+  contextual: true
+- title: 'Purple Rhapsody #4 '
+  image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 146
+    width: 114
+  description: "2016"
+  price: 2800
   contextual: true
 - title: Venise, un matin
   image: "/forestry/venise-un-matin.jpg"
