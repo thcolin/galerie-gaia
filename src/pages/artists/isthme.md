@@ -36,15 +36,6 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
-- title: 'Deep blue #4'
-  image: "/forestry/galeriegaia-isthme-Deep Blue 4- 61cmx50cm_2020.JPG"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 61
-    width: 50
-  description: "2020"
-  price: 1000
-  contextual: true
 - title: 'Canopée Allongée dans l''herbe #14'
   image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   dimensions:
@@ -54,6 +45,15 @@ works:
   price: 3500
   contextual: true
   technique: 'Acrylique sur toile '
+- title: 'Deep blue #4'
+  image: "/forestry/galeriegaia-isthme-Deep Blue 4- 61cmx50cm_2020.JPG"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 61
+    width: 50
+  description: "2020"
+  price: 1000
+  contextual: true
 - title: 'Territoires Colorés #15'
   image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
   technique: Collage
@@ -117,17 +117,6 @@ works:
     depth: 
   description: "2019"
   price: 2800
-  sold: false
-  contextual: true
-- title: Exposition peinture collage estampe
-  image: "/forestry/exposition-peinture-collage-estampe.jpg"
-  technique: peinture collage estampe
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: 6 juin - 29 juin 2019
-  price: 
   sold: false
   contextual: true
 - title: 'Nuits en mer #24 Installation'
