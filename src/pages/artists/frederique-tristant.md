@@ -14,29 +14,7 @@ biography: |-
 
   Expositions:
 
-  2018 - 2019
-  Exposition collective / Galerie Euge?ne / Laval / 15 nov – 26 janv « Inte?rieurs » / Galerie Euge?ne / Laval / 13 sept – 27 oct
-  « Fragments » / Galerie La Ralentie / Paris 11e?
-  2017
-  Anne?e de recherches – voyages : Bruxelles, Amsterdam, Berlin, Copenhague... 2016
-  Installation " Sur-Mesure " / CERA-Se?vres Outdoors Domaine national de Saint- Cloud / 15 avril-15 juillet
-  2015
-  Exposition personnelle « Alice au Pays du Lifestyle » / Galerie Le?lia Mordoch Paris 6 e? / 11-20 Septembre
-  « Catalogue MaIson + Jardin » / Le Kabinet / Bruxelles / 18-24 Avril
-  2014
-  « Minichromes » / Cent Centime?tres
-  Carre?s Saison III / Galerie du Philosophe / Carla-Bayle (09)
-  Installation « PAS a? PAS » / Des artistes en campagne / Festival Land Art & Art Contemporain (77)
-  2013
-  « Structure en e?chiquier » / Parcours d’Artistes / Passerelles / Pontault- Combault (77)
-  e?ditions
-  2015 / 2012
-  Biennale Livres a? voir / Se?lection prix du public / Arras
-  formation
-  2009
-  Capes d’Arts Plastiques / Universite? de Haute-Bretagne Rennes II
-  2002
-  Doctorat Se?miotique Visuelle / Universite? Michel de Montaigne Bordeaux III
+  2018 - 2019 Exposition collective / Galerie Eugène / Laval / 15 nov – 26 janv « Inte?rieurs » / Galerie Eugène / Laval / 13 sept – 27 oct « Fragments » / Galerie La Ralentie / Paris 11e? 2017 Année de recherches – voyages : Bruxelles, Amsterdam, Berlin, Copenhague... 2016 Installation " Sur-Mesure " / CERA-Sèvres Outdoors Domaine national de Saint- Cloud / 15 avril-15 juillet 2015 Exposition personnelle « Alice au Pays du Lifestyle » / Galerie Lélia Mordoch Paris 6ème / 11-20 Septembre « Catalogue MaIson + Jardin » / Le Kabinet / Bruxelles / 18-24 Avril 2014 « Minichromes » / Cent Centimètres Carres Saison III / Galerie du Philosophe / Carla-Bayle (09) Installation « PAS à PAS » / Des artistes en campagne / Festival Land Art & Art Contemporain (77) 2013 « Structure en échiquier » / Parcours d’Artistes / Passerelles / Pontault- Combault (77) éditions 2015 / 2012 Biennale Livres à voir / Sélection prix du public / Arras formation 2009 Capes d’Arts Plastiques / Université de Haute-Bretagne Rennes II 2002 Doctorat Sémiotique Visuelle / Université Michel de Montaigne Bordeaux III
 exhibitions: []
 works:
 - title: Trench
@@ -54,11 +32,11 @@ works:
   image: "/forestry/a-quoi-penses-tu.jpg"
   technique: Aquarelle sur papier imprimé
   dimensions:
-    height: 83
-    width: 110
+    height: 110
+    width: 83
     depth: 
-  description: 1300€
-  price: 
+  description: ''
+  price: 1300
   sold: false
   contextual: true
 - title: Bouche bleue
