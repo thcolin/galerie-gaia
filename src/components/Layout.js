@@ -71,10 +71,10 @@ Layout.styles = {
     flex: 1,
     maxWidth: '100%',
     [theme.medias.large]: {
-      marginLeft: '20em',
+      paddingLeft: '20em',
     },
     [theme.medias.extralarge]: {
-      marginLeft: '20em',
+      paddingLeft: '20em',
     },
   },
 }
