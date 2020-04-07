@@ -30,6 +30,24 @@ biography: "Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vi
   château de Saint Auvent (87)"
 exhibitions: []
 works:
+- title: Prendre son envol
+  image: "/forestry/galeriegaia-Xavier Jallais - Prendre son envol - 30 x 40.jpg"
+  technique: 'Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2 '
+  dimensions:
+    height: 30
+    width: 40
+  description: "Edition en 11 exemplaires  \n2020"
+  price: 140
+  contextual: true
+- title: Le feu pour attribut
+  image: "/forestry/galeriegaia-Xavier Jallais - Le feu pour attribut - 40 x 50.jpg"
+  technique: Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2
+  dimensions:
+    height: 50
+    width: 40
+  description: "Edition en 11 exemplaires  \n2020"
+  price: 180
+  contextual: true
 - title: Atlas 2 (3/3)
   image: "/forestry/atlas-2-33.jpg"
   technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m
