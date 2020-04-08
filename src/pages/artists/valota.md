@@ -66,6 +66,26 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: DAYS ARE DARK AND NIGHTS ARE CLEAR 71
+  image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 71 - 89cm x 116cm
+    - Cire et Pigments Sur Bois - 2012.jpg"
+  technique: Cire et pigments sur bois
+  dimensions:
+    height: 89
+    width: 116
+  description: "Oeuvre encadrée caisse américaine bois  \n2012"
+  price: 4000
+  contextual: true
+- title: DAYS ARE DARK AND NIGHTS ARE CLEAR 70
+  image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 70 - 162cm x 162cm
+    - Cire et Pigments Sur Bois - 2012.jpg"
+  technique: 'Cire et pigments sur bois '
+  dimensions:
+    height: 162
+    width: 162
+  description: "Œuvre encadrée caisse américaine bois   \n2012"
+  price: 8000
+  contextual: true
 - title: QUIET DAYS UNDER THE TREES IV
   image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES IV - 65cm x 50cm - Cire et
     Pigments Sur Bois - 2020 .jpg"
