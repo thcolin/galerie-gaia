@@ -96,8 +96,8 @@ works:
   dimensions:
     height: 76
     width: 56
-  description: ''
-  price: 780
+  description: Œuvre encadrée montage caisson baguette bois noir
+  price: 750
   contextual: true
 - title: 'Purple Rhapsody #4 '
   image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
