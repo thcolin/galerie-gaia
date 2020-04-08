@@ -16,9 +16,49 @@ biography: |-
   Olivier Fremont
 exhibitions: []
 works:
-- title: en famille la dernière série des bronze
+- title: Mural 11
+  image: "/forestry/mural 11 compressions 500x200 15000 € .jpg"
+  technique: Compressions
+  dimensions:
+    height: 200
+    width: 500
+  description: ''
+  price: 15000
+  contextual: false
+- title: Compression oxydée
+  image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
+  technique: Acier
+  dimensions:
+    height: 68
+    width: 115
+    depth: 20
+  description: ''
+  price: 6500
+  contextual: false
+- title: Compression
+  image: "/forestry/Compression 70x70x30. tirage bronze I  sur VIII 9000 €.jpg"
+  technique: Bronze 1/8
+  dimensions:
+    height: 70
+    width: 70
+    depth: 30
+  description: ''
+  price: 9000
+  sold: false
+  contextual: true
+- title: Sans titre 1
+  image: "/forestry/Acier peint patinée (recto) 108 x 40 x 25 2000 €.JPG"
+  technique: Acier peint patiné
+  dimensions:
+    height: 108
+    width: 40
+    depth: 25
+  description: ''
+  price: 2000
+  contextual: false
+- title: Tête et bustes
   image: "/forestry/en-famille-la-derniere-serie-des-bronze.jpg"
-  technique: Bronze édition 8 exemplaires Fonderie Le Floch
+  technique: Bronze édition en 8 exemplaires Fonderie Le Floch
   dimensions:
     height: 
     width: 
