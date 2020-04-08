@@ -52,26 +52,25 @@ works:
   contextual: true
 - title: Nigredo
   image: "/forestry/nigredo.jpg"
-  technique: Découpes et incisions sur papier français Maison de la Roque
+  technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
-    height: 38
-    width: 55
+    height: 68
+    width: 50
     depth: 
-  description: "Oeuvre encadrée (50 X 68). \nEncadrement : \n- baguette aluminium
-    Nielsen noir mat\n- oeuvre posée en rehausse sur fond\n- verre musée.\n\n1300
-    €"
-  price: 
+  description: "Encadrement baguette aluminium Nielsen noir mat  \nœuvre posée en
+    rehausse sur fond et verre musée."
+  price: 1300
   sold: false
   contextual: true
 - title: Nigredo VII
   image: "/forestry/nigredo-vii.jpg"
-  technique: Découpes et incisions sur feuille de cuivre
+  technique: Incisions sur feuille de cuivre
   dimensions:
     height: 55
     width: 55
     depth: 
   description: 2200 €
-  price: 
+  price: 2200
   sold: false
   contextual: true
 - title: Nigredo VIII
@@ -97,6 +96,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/87-anne-gaiss/
----
+- "/artistes/87-anne-gaiss/"
 
+---
