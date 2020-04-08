@@ -38,7 +38,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Strate II
+- title: Strate Q
   image: "/forestry/strate-ii.jpg"
   technique: Sérigraphie 1/1
   dimensions:
