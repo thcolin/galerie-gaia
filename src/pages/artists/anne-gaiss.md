@@ -73,14 +73,14 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Nigredo VIII
-  image: "/forestry/nigredo-viii.jpg"
-  technique: Découpes et incisions sur feuille de cuivre
+- title: 'Nigredo '
+  image: "/forestry/galeriegaia_Gais_titre_format(HxL)- 01.jpg"
+  technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
     height: 55
     width: 55
     depth: 
-  description: 2200 €
+  description: ''
   price: 
   sold: false
   contextual: true
