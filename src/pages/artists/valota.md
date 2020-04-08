@@ -66,25 +66,25 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
-- title: Tour bleue
-  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
-    - 2020.jpg"
-  technique: 'Céramique '
+- title: QUIET DAYS UNDER THE TREES III
+  image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
+    Pigments Sur Bois - 2020 .jpg"
   dimensions:
-    height: 58
-    width: 42
-  description: "2020"
-  price: 3000
-  contextual: false
-- title: Tour blanche et noir mordorée
-  image: "/forestry/VALOTA -TOUR BLANCHE ET Noir Mordoré- HAUTEUR 45cm - DIAMETRE
-    40cm - CERAMIQUE - 2019.jpg"
+    height: 73
+    width: 60
+  description: "œuvre encadrée boite américaine bois   \n2020"
+  contextual: true
+  price: 2800
+  technique: 'Cire et pigments sur bois '
+- title: Tour noir mordorée
+  image: "/forestry/VALOTA -TOUR Noir Mordoré - HAUTEUR 57cm - DIAMETRE 42cm - CERAMIQUE
+    - 2019.jpg"
   technique: Céramique
   dimensions:
-    height: 45
-    width: 40
+    height: 57
+    width: 42
   description: "2019"
-  price: 2500
+  price: 3000
   contextual: false
 - title: ON THE OTHER SIDE OF THE SKY 14
   image: "/forestry/VALOTA - On the Other Side of the Sky 14 - 60cm x 73cm - Cire
@@ -96,16 +96,16 @@ works:
   description: "Oeuvre encadrée caisse américaine bois   \n2012"
   price: 2800
   contextual: true
-- title: ON THE OTHER SIDE OF THE SKY 5
-  image: "/forestry/VALOTA - On the Other Side of the Sky 14 - 60cm x 73cm - Cire
-    et pigments sur bois - 2012.jpg"
-  technique: 'Cire et pigments sur bois '
+- title: Tour bleue
+  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
+    - 2020.jpg"
+  technique: 'Céramique '
   dimensions:
-    height: 116
-    width: 89
-  description: 'Œuvre encadrée caisse américaine bois '
-  price: 4000
-  contextual: true
+    height: 58
+    width: 42
+  description: "2020"
+  price: 3000
+  contextual: false
 - title: DAYS ARE DARK AND NIGHTS ARE CLEAR 71
   image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 71 - 89cm x 116cm
     - Cire et Pigments Sur Bois - 2012.jpg"
@@ -116,15 +116,25 @@ works:
   description: "Oeuvre encadrée caisse américaine bois  \n2012"
   price: 4000
   contextual: true
-- title: DAYS ARE DARK AND NIGHTS ARE CLEAR 70
-  image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 70 - 162cm x 162cm
-    - Cire et Pigments Sur Bois - 2012.jpg"
+- title: Tour blanche et noir mordorée
+  image: "/forestry/VALOTA -TOUR BLANCHE ET Noir Mordoré- HAUTEUR 45cm - DIAMETRE
+    40cm - CERAMIQUE - 2019.jpg"
+  technique: Céramique
+  dimensions:
+    height: 45
+    width: 40
+  description: "2019"
+  price: 2500
+  contextual: false
+- title: ON THE OTHER SIDE OF THE SKY 5
+  image: "/forestry/VALOTA - On the Other Side of the Sky 14 - 60cm x 73cm - Cire
+    et pigments sur bois - 2012.jpg"
   technique: 'Cire et pigments sur bois '
   dimensions:
-    height: 162
-    width: 162
-  description: "Œuvre encadrée caisse américaine bois   \n2012"
-  price: 8000
+    height: 116
+    width: 89
+  description: 'Œuvre encadrée caisse américaine bois '
+  price: 4000
   contextual: true
 - title: QUIET DAYS UNDER THE TREES IV
   image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES IV - 65cm x 50cm - Cire et
@@ -136,16 +146,16 @@ works:
   description: 'Oeuvre encadrée dans caisse américaine bois '
   price: 2200
   contextual: true
-- title: QUIET DAYS UNDER THE TREES III
-  image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
-    Pigments Sur Bois - 2020 .jpg"
-  dimensions:
-    height: 73
-    width: 60
-  description: "œuvre encadrée boite américaine bois   \n2020"
-  contextual: true
-  price: 2800
+- title: DAYS ARE DARK AND NIGHTS ARE CLEAR 70
+  image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 70 - 162cm x 162cm
+    - Cire et Pigments Sur Bois - 2012.jpg"
   technique: 'Cire et pigments sur bois '
+  dimensions:
+    height: 162
+    width: 162
+  description: "Œuvre encadrée caisse américaine bois   \n2012"
+  price: 8000
+  contextual: true
 redirect_from:
 - "/artistes/4-valota/"
 
