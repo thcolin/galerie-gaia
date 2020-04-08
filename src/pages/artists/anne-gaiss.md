@@ -62,15 +62,15 @@ works:
   price: 1300
   sold: false
   contextual: true
-- title: Nigredo VII
+- title: 'Détail de matière '
   image: "/forestry/nigredo-vii.jpg"
   technique: Incisions sur feuille de cuivre
   dimensions:
-    height: 55
-    width: 55
+    height: ''
+    width: ''
     depth: 
-  description: 2200 €
-  price: 2200
+  description: ''
+  price: ''
   sold: false
   contextual: true
 - title: Nigredo VIII
