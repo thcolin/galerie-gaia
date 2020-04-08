@@ -118,7 +118,7 @@ works:
     width: 30
   description: Œuvre encadrée cadre standard chêne
   price: 280
-  contextual: true
+  contextual: false
 - title: Failles 11
   image: "/forestry/galeriegaia@Seuil-05 @Versants-Failles11-40x30cm.jpg"
   technique: Serigraphie Edition en 5 exemplaires
@@ -235,8 +235,8 @@ works:
     height: 
     width: 
     depth: 
-  description: "projet et réalisation de fresque sur mesure \nétude, devis sur devis
-    à la galerie"
+  description: "projet et réalisation de fresque sur mesure   \nEtude et devis sur
+    demande "
   price: 
   sold: false
   contextual: true
