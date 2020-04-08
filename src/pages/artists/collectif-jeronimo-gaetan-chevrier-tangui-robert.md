@@ -34,8 +34,8 @@ works:
     height: 40
     width: 30
     depth: 
-  description: 280€
-  price: 
+  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
+  price: 280
   sold: false
   contextual: true
 - title: Strate Q
@@ -45,8 +45,8 @@ works:
     height: 40
     width: 60
     depth: 
-  description: 350€
-  price: 
+  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
+  price: 350
   sold: false
   contextual: true
 - title: Diptyque Strate 8
@@ -56,12 +56,12 @@ works:
     height: 30
     width: 21
     depth: 
-  description: 230€ encadré
-  price: 
+  description: Œuvre encadrée dans 2 cadres  aluminium chêne
+  price: 230
   sold: false
   contextual: true
 - title: Strate 20
-  image: "/forestry/strate-20.jpg"
+  image: "/forestry/galeriegaia@Seuil-06 @Versants-strates20-70x50cm.jpg"
   technique: Sérigraphie 2/5
   dimensions:
     height: 70
