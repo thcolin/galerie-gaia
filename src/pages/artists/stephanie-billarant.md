@@ -32,6 +32,25 @@ exhibitions:
   start: "2015"
   end: "2015"
 works:
+- title: Villes rêvées N°18
+  image: "/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
+  technique: Création photographie Edition en 30 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: Œuvre encadrée cadre standard aluminium noir
+  price: 150
+  contextual: false
+- title: Villes rêvées N°10
+  image: "/forestry/galeriegaia_Billarant_Nantes3_41x31- 023.jpg"
+  technique: Création photographique Edition en 30 exemplaires
+  dimensions:
+    height: 30
+    width: 40
+  description: 'Œuvre encadrée cadre standard aluminium noir '
+  price: 150
+  contextual: false
 - title: Villes rêvées N°17
   image: "/forestry/galeriegaia_Billarant_Nantes2_41x31- 022.jpg"
   technique: Création photographique Edition 30 exemplaires
@@ -41,15 +60,6 @@ works:
   description: 'Œuvre encadrée cadre standard aluminium noir '
   price: 150
   contextual: false
-- title: Villes rêvées N°18
-  image: "/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
-  technique: Création photographie Edition en 30 exemplaires
-  dimensions:
-    height: 40
-    width: 30
-  description: Œuvre encadrée cadre standard aluminium noir
-  price: 150
-  contextual: false
 - title: Villes rêvées N°3
   image: "/forestry/ville-revee.jpg"
   technique: Création photographique Edition en 30 exemplaires
@@ -57,7 +67,7 @@ works:
     height: 30
     width: 40
     depth: 
-  description: 'Œuvre encadrée cadre standard aluminium noir '
+  description: ''
   price: 150
   sold: false
   contextual: false
@@ -71,10 +81,10 @@ works:
   description: ''
   price: 150
   sold: false
-  contextual: false
-- title: "648"
+  contextual: true
+- title: Villes rêvées N°12
   image: "/forestry/648.jpg"
-  technique: ''
+  technique: Création photographie Edition en 30 exemplaires
   dimensions:
     height: 
     width: 
@@ -83,7 +93,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: "649"
+- title: Villes rêvées N° 14
   image: "/forestry/649.jpg"
   technique: ''
   dimensions:
@@ -94,17 +104,17 @@ works:
   price: 
   sold: false
   contextual: true
-- title: "650"
+- title: Villes rêvées N°15
   image: "/forestry/650.jpg"
-  technique: ''
+  technique: Création photographique Edition en 30 exemplaires
   dimensions:
-    height: 
-    width: 
+    height: 30
+    width: 40
     depth: 
-  description: ''
-  price: 
+  description: 'Œuvre encadrée cadre standard aluminium noir '
+  price: 150
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/11-stephanie-billarant/"
 
