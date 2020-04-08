@@ -16,6 +16,17 @@ biography: |-
   Olivier Fremont
 exhibitions: []
 works:
+- title: Compression
+  image: "/forestry/Compression 70x70x30 tirage bronze I  sur VIII 9000 €.jpg"
+  technique: Bronze 1/8
+  dimensions:
+    height: 70
+    width: 70
+    depth: 30
+  description: ''
+  price: 9000
+  sold: false
+  contextual: true
 - title: Mural 11
   image: "/forestry/mural 11 compressions 500x200 15000 € .jpg"
   technique: Compressions
@@ -35,17 +46,6 @@ works:
   description: ''
   price: 6500
   contextual: false
-- title: Compression
-  image: "/forestry/Compression 70x70x30. tirage bronze I  sur VIII 9000 €.jpg"
-  technique: Bronze 1/8
-  dimensions:
-    height: 70
-    width: 70
-    depth: 30
-  description: ''
-  price: 9000
-  sold: false
-  contextual: true
 - title: Sans titre 1
   image: "/forestry/Acier peint patinée (recto) 108 x 40 x 25 2000 €.JPG"
   technique: Acier peint patiné
