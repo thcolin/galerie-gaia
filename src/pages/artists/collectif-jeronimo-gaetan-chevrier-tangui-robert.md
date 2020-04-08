@@ -6,25 +6,25 @@ field: sérigraphie
 birth: "0"
 death: "0"
 expose: true
-biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\" Tangui
+biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Tangui
   Robert, Jérôme Maillet et Gaëtan Chevrier se sont réunis pour créer ensemble autour
   d’un espace construit et façonné par l’homme : La carrière.Depuis leur rencontre,
   ils explorent différents lieux d’extractions. Autant de manières, de matières, de
   paysages, d’outils que de façon d’apprivoiser ces espaces et ces minéraux. Une carrière
   de cuivre ou une carrière de marbre ne forme pas les mêmes contours, n’additionne
-  pas les mêmes empreintes humaines._  \n_Ces trois artistes ont trouvé une direction
+  pas les mêmes empreintes humaines.  \nCes trois artistes ont trouvé une direction
   commune : extraire un maximum de matière à penser, transformer, superposer, graver,
-  coloriser, échanger, calquer, dessiner, photographier, sculpter._  \n_En acceptant
+  coloriser, échanger, calquer, dessiner, photographier, sculpter.  \nEn acceptant
   de laisser retoucher leur production par un autre des artistes du trio, les œuvres
   sont dénaturées elles aussi, coupées, recadrées, parfois sorties de leurs contextes.
   Certaines œuvres sont signées à trois mains, d’autres en duo ou plus traditionnellement
-  sont des productions personnelles._  \n_L’attraction du vide dans l’accumulation
-  des textures et volumes fait surgir des équations pertinentes, des espaces parallèles._
+  sont des productions personnelles.  \nL’attraction du vide dans l’accumulation des
+  textures et volumes fait surgir des équations pertinentes, des espaces parallèles.
   \ \n_L’extraction de la matière grise sur le papier questionne l’extraction de la
-  matière organique de son sol.\"  \n_Claire Burban**\n\nTangui Robert, architecte
-  plasticien, Gaëtan Chevrier, photographe et Jéronimo, artiste et sérigraphe, sont
-  tous trois Nantais et se sont réunis par affinité artistique pour produire ensemble
-  et croiser leur production respective."
+  matière organique de son sol.\"  \n_Claire Burban\n\nTangui Robert, architecte plasticien,
+  Gaëtan Chevrier, photographe et Jéronimo, artiste et sérigraphe, sont tous trois
+  Nantais et se sont réunis par affinité artistique pour produire ensemble et croiser
+  leur production respective."
 exhibitions: []
 works:
 - title: Strates I
@@ -88,7 +88,6 @@ works:
   dimensions:
     height: 30
     width: 24
-    depth: 
   description: Œuvre encadrée cadre aluminium chêne
   price: 180
   sold: false
@@ -179,7 +178,6 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 
   description: 170€ encadré
   price: 
   sold: false
