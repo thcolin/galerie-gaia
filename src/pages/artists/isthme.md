@@ -94,10 +94,10 @@ works:
   image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
   technique: " Collage "
   dimensions:
-    height: 65
-    width: 50
+    height: 76
+    width: 56
   description: ''
-  price: 500
+  price: 780
   contextual: true
 - title: 'Purple Rhapsody #4 '
   image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
