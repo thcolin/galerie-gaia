@@ -37,7 +37,7 @@ works:
   description: "Œuvre encadrée cadre aluminium chêne  \n2020"
   price: 280
   sold: false
-  contextual: true
+  contextual: false
 - title: Strate Q
   image: "/forestry/strate-ii.jpg"
   technique: Sérigraphie 1/1
@@ -48,7 +48,7 @@ works:
   description: "Œuvre encadrée cadre aluminium chêne  \n2020"
   price: 350
   sold: false
-  contextual: true
+  contextual: false
 - title: Diptyque Strate 8
   image: "/forestry/diptyque-strates-8.jpg"
   technique: Sérigraphie 1/1
@@ -59,7 +59,7 @@ works:
   description: "Œuvre encadrée dans 2 cadres  aluminium chêne  \n2019"
   price: 230
   sold: false
-  contextual: true
+  contextual: false
 - title: Strate 20
   image: "/forestry/galeriegaia@Seuil-06 @Versants-strates20-70x50cm.jpg"
   technique: Sérigraphie Edition 2/5
@@ -84,26 +84,26 @@ works:
   contextual: false
 - title: Strate 28
   image: "/forestry/strate-28.jpg"
-  technique: Sérigraphie /10
+  technique: Sérigraphie  Edition en 10 exemplaires
   dimensions:
     height: 30
     width: 24
     depth: 
-  description: 180€
-  price: 
+  description: Œuvre encadrée cadre aluminium chêne
+  price: 180
   sold: false
-  contextual: true
+  contextual: false
 - title: Viçosa I
   image: "/forestry/vicosa-i.jpg"
-  technique: ''
+  technique: Sérigraphie Edition en 15 exemplaires
   dimensions:
     height: 40
     width: 30
     depth: 
-  description: 170€ encadré
-  price: 
+  description: Œuvre encadrée cadre aluminium chêne
+  price: 170
   sold: false
-  contextual: true
+  contextual: false
 - title: Viçosa II
   image: "/forestry/vicosa-ii.jpg"
   technique: Sérigraphie
