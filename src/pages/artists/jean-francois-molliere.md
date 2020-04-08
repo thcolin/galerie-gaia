@@ -38,12 +38,12 @@ biography: |-
   " Hand Art" Production FFHB Edition De La Martiniére Sortie Oct 2012
 exhibitions: []
 works:
-- title: "1349"
+- title: New York 7
   image: "/forestry/1349.jpg"
-  technique: ''
+  technique: photographie tirage papier sur dibond
   dimensions:
-    height: 
-    width: 
+    height: 80
+    width: 80
     depth: 
   description: ''
   price: 
@@ -193,6 +193,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/104-jean-francois-molliere/
----
+- "/artistes/104-jean-francois-molliere/"
 
+---
