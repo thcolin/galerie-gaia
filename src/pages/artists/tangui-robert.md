@@ -16,17 +16,6 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
-- title: Yangshuo (EA)
-  image: "/forestry/yangshuo-ea.jpg"
-  technique: Gravure sur zinc et photo et piquetage photographique
-  dimensions:
-    height: 40
-    width: 50
-    depth: 
-  description: 2014 430€
-  price: 
-  sold: false
-  contextual: true
 - title: L'oeil de la Duchesse
   image: "/forestry/loeil-de-la-duchesse.jpg"
   technique: Gravure sur zinc et pigment doré, collage
@@ -34,10 +23,10 @@ works:
     height: 25
     width: 31
     depth: 
-  description: 2014 / 270€
-  price: 
+  description: '2014 '
+  price: 270
   sold: false
-  contextual: true
+  contextual: false
 - title: Lames minces
   image: "/forestry/lames-minces.jpg"
   technique: Gravure sur zinc et photo et piquetage photographique
@@ -45,10 +34,10 @@ works:
     height: 43
     width: 33
     depth: 
-  description: 2018 / 375€
-  price: 
+  description: '2018 '
+  price: 375
   sold: false
-  contextual: true
+  contextual: false
 - title: Prospection
   image: "/forestry/prospection.jpg"
   technique: Gravure sur zinc et pigment doré
