@@ -27,6 +27,15 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
+- title: Cimes 1
+  image: "/forestry/galeriegaia@Seuil-09 @Versants-cimes1-40x30cm.jpg"
+  technique: Sérigraphie  Edition en 10 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+  description: Œuvre encadrée cadre standard chêne
+  price: 280
+  contextual: true
 - title: Strates I
   image: "/forestry/strate-i.jpg"
   technique: Sérigraphie 1/1
