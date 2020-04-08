@@ -40,24 +40,24 @@ exhibitions: []
 works:
 - title: New York 7
   image: "/forestry/1349.jpg"
-  technique: photographie tirage papier sur dibond
+  technique: 'photographie Edition en 15 exemplaires '
+  dimensions:
+    height: 100
+    width: 80
+    depth: 
+  description: 'tirage papier fine art sur dibond caisse américaine bois '
+  price: 1800
+  sold: false
+  contextual: true
+- title: New York 2
+  image: "/forestry/1347.jpg"
+  technique: 'photographie edition 15 exemplaires '
   dimensions:
     height: 80
     width: 80
     depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: "1347"
-  image: "/forestry/1347.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
+  description: 'Tirage papier fine art sur dibon caisse américaine bois '
+  price: 1800
   sold: false
   contextual: true
 - title: "1348"
