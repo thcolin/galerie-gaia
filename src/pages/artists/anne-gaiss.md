@@ -41,7 +41,7 @@ exhibitions: []
 works:
 - title: Détail d'une oeuvre sur papier blanc
   image: "/forestry/detail-dune-oeuvre-sur-papier-blanc.jpg"
-  technique: ''
+  technique: Incision scalpel sur papier blanc
   dimensions:
     height: 
     width: 
@@ -60,6 +60,16 @@ works:
   description: ''
   price: 1300
   sold: false
+  contextual: true
+- title: Rubedo
+  image: "/forestry/RUBEDOV2.jpg"
+  technique: IIncisions au scalpel sur feuille de cuivre marouflée sur papier traditionnel
+    indien
+  dimensions:
+    height: 50
+    width: 70
+  description: ''
+  price: 2200
   contextual: true
 - title: 'Détail de matière '
   image: "/forestry/nigredo-vii.jpg"
