@@ -93,6 +93,15 @@ works:
   price: 180
   sold: false
   contextual: false
+- title: Strates 32
+  image: "/forestry/galeriegaia@Seuil-04 @Versants-strates32-50x40cm.jpg"
+  technique: Sérigraphie Edition en 4 exemplaires
+  dimensions:
+    height: 50
+    width: 40
+  description: "Œuvre encadrée cadre standard chêne  \n2020"
+  price: 340
+  contextual: false
 - title: Strates 33
   image: "/forestry/galeriegaia@Seuil-03 @Versants-strates33-50x40cm.jpg"
   technique: Sérigraphie Edition en 8 exemplaires
@@ -101,6 +110,15 @@ works:
     width: 40
   description: Œuvre encadrée cadre standard chêne
   price: 340
+  contextual: false
+- title: Failles 11
+  image: "/forestry/galeriegaia@Seuil-05 @Versants-Failles11-40x30cm.jpg"
+  technique: Serigraphie Edition en 5 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+  description: Œuvre encadrée cadre standard chêne
+  price: 280
   contextual: false
 - title: Viçosa I
   image: "/forestry/vicosa-i.jpg"
