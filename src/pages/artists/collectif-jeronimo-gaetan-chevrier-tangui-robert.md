@@ -27,33 +27,6 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
-- title: Gisement V
-  image: "/forestry/galeriegaia@Seuil-11 @Versants-gisement.04-29.7x21cm.jpg"
-  technique: Sérigraphie Edition en 14 exemplaires
-  dimensions:
-    height: 30
-    width: 21
-  description: Œuvre encadrée cadre standard chêne
-  price: 160
-  contextual: false
-- title: 'Gisement I '
-  image: "/forestry/galeriegaia@Seuil-10 @Versants-Gisement.01-29.7x21cm.jpg"
-  technique: Sérigraphie Edition en 17 exemplaires
-  dimensions:
-    height: 30
-    width: 21
-  description: "Œuvre encadrée cadre standard chêne  \n2019"
-  price: 160
-  contextual: true
-- title: Cimes 1
-  image: "/forestry/galeriegaia@Seuil-09 @Versants-cimes1-40x30cm.jpg"
-  technique: Sérigraphie  Edition en 10 exemplaires
-  dimensions:
-    height: 40
-    width: 30
-  description: Œuvre encadrée cadre standard chêne
-  price: 280
-  contextual: true
 - title: Strates I
   image: "/forestry/strate-i.jpg"
   technique: Sérigraphie 1/1
@@ -138,6 +111,15 @@ works:
   description: Œuvre encadrée cadre standard chêne
   price: 340
   contextual: false
+- title: Cimes 1
+  image: "/forestry/galeriegaia@Seuil-09 @Versants-cimes1-40x30cm.jpg"
+  technique: Sérigraphie  Edition en 10 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+  description: Œuvre encadrée cadre standard chêne
+  price: 280
+  contextual: true
 - title: Failles 11
   image: "/forestry/galeriegaia@Seuil-05 @Versants-Failles11-40x30cm.jpg"
   technique: Serigraphie Edition en 5 exemplaires
@@ -211,7 +193,16 @@ works:
   description: en 15 exemplaires
   price: 620
   contextual: true
-- title: gisements 3
+- title: 'Gisement I '
+  image: "/forestry/galeriegaia@Seuil-10 @Versants-Gisement.01-29.7x21cm.jpg"
+  technique: Sérigraphie Edition en 17 exemplaires
+  dimensions:
+    height: 30
+    width: 21
+  description: "Œuvre encadrée cadre standard chêne  \n2019"
+  price: 160
+  contextual: true
+- title: Gisements III
   image: "/forestry/gisements-3.jpg"
   technique: Sérigraphie
   dimensions:
@@ -222,6 +213,15 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Gisement V
+  image: "/forestry/galeriegaia@Seuil-11 @Versants-gisement.04-29.7x21cm.jpg"
+  technique: Sérigraphie Edition en 14 exemplaires
+  dimensions:
+    height: 30
+    width: 21
+  description: Œuvre encadrée cadre standard chêne
+  price: 160
+  contextual: false
 - title: Versants 1
   image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
   technique: 'Sérigraphie '
