@@ -49,6 +49,17 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Diptyque Strate 8
+  image: "/forestry/diptyque-strates-8.jpg"
+  technique: Sérigraphie 1/1
+  dimensions:
+    height: 30
+    width: 21
+    depth: 
+  description: 230€ encadré
+  price: 
+  sold: false
+  contextual: true
 - title: Strate 20
   image: "/forestry/strate-20.jpg"
   technique: Sérigraphie 2/5
@@ -82,29 +93,9 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Diptyque Strate 8
-  image: "/forestry/diptyque-strates-8.jpg"
-  technique: Sérigraphie 1/1
-  dimensions:
-    height: 30
-    width: 21
-    depth: 
-  description: 230€ encadré
-  price: 
-  sold: false
-  contextual: true
-- title: Viçosa VII
-  image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 70
-    width: 100
-  description: en 15 exemplaires
-  price: 620
-  contextual: true
-- title: Viçosa VI
-  image: "/forestry/vicosa-vi.jpg"
-  technique: Sérigraphie
+- title: Viçosa I
+  image: "/forestry/vicosa-i.jpg"
+  technique: ''
   dimensions:
     height: 40
     width: 30
@@ -113,8 +104,8 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Viçosa V
-  image: "/forestry/vicosa-v.jpg"
+- title: Viçosa II
+  image: "/forestry/vicosa-ii.jpg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -135,8 +126,8 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Viçosa II
-  image: "/forestry/vicosa-ii.jpg"
+- title: Viçosa V
+  image: "/forestry/vicosa-v.jpg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -146,9 +137,9 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Viçosa I
-  image: "/forestry/vicosa-i.jpg"
-  technique: ''
+- title: Viçosa VI
+  image: "/forestry/vicosa-vi.jpg"
+  technique: Sérigraphie
   dimensions:
     height: 40
     width: 30
@@ -156,6 +147,15 @@ works:
   description: 170€ encadré
   price: 
   sold: false
+  contextual: true
+- title: Viçosa VII
+  image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 70
+    width: 100
+  description: en 15 exemplaires
+  price: 620
   contextual: true
 - title: gisements 3
   image: "/forestry/gisements-3.jpg"
@@ -192,8 +192,8 @@ works:
   image: "/forestry/serigraphie-pour-gaia.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 50
-    width: 70
+    height: 70
+    width: 50
     depth: 
   description: "20 EXEMPLAIRES \nCOMMANDE POUR LES 40 ANS DU LIEU"
   price: 
