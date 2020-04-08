@@ -71,15 +71,15 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: "1350"
+- title: New York Lone Street
   image: "/forestry/1350.jpg"
-  technique: ''
+  technique: 'photographie Edition en 15 exemplaires '
   dimensions:
-    height: 
-    width: 
+    height: 72
+    width: 60
     depth: 
-  description: ''
-  price: 
+  description: 'tirage papier fine art sur dibond caisse américaine bois '
+  price: 1200
   sold: false
   contextual: true
 - title: "1351"
