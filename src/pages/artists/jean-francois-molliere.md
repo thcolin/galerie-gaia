@@ -60,15 +60,15 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: "1348"
+- title: New York 22
   image: "/forestry/1348.jpg"
-  technique: ''
+  technique: photographie Edition en 15 exemplaires
   dimensions:
-    height: 
-    width: 
+    height: 80
+    width: 100
     depth: 
-  description: ''
-  price: 
+  description: 'tirage papier fine art sur dibond caisse américaine bois '
+  price: 1800
   sold: false
   contextual: true
 - title: "1350"
