@@ -23,43 +23,43 @@ works:
     height: 25
     width: 31
     depth: 
-  description: '2014 '
+  description: "œuvre encadrée cadre standard aluminium couleur chêne   \n2014"
   price: 270
   sold: false
   contextual: false
 - title: Lames minces
   image: "/forestry/lames-minces.jpg"
-  technique: Gravure sur zinc et photo et piquetage photographique
+  technique: Gravure sur zinc et photo et piquetage photographique Epreuve d'artiste
   dimensions:
     height: 43
     width: 33
     depth: 
-  description: '2018 '
+  description: "œuvre encadrée cadre standard bois naturel montage caisson   \n2018"
   price: 375
   sold: false
   contextual: false
 - title: Prospection
   image: "/forestry/prospection.jpg"
-  technique: Gravure sur zinc et pigment doré
+  technique: Gravure sur zinc et pigment doré Edition en 20 exemplaires
   dimensions:
     height: 31
     width: 25
     depth: 
-  description: 2019 / 180€
-  price: 
+  description: "œuvre encadrée cadre standard aluminium couleur chêne   \n2019 "
+  price: 180
   sold: false
-  contextual: true
+  contextual: false
 - title: Résurgence
   image: "/forestry/resurgence.jpg"
-  technique: Gravure sur zinc,cire,acrilique sur photographique
+  technique: Gravure sur zinc,cire,acrylique sur photographique Edition en 18 exemplaires
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 2018 / 650€
-  price: 
+  description: "œuvre encadrée cadre bois naturel montage caisson     \n2018"
+  price: 650
   sold: false
-  contextual: true
+  contextual: false
 - title: Salento
   image: "/forestry/salento.jpg"
   technique: Gravure sur zinc et photo et piquetage photographique
