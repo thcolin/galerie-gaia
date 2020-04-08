@@ -62,32 +62,32 @@ works:
   contextual: false
 - title: Salento
   image: "/forestry/salento.jpg"
-  technique: Gravure sur zinc et photo et piquetage photographique
+  technique: Gravure sur zinc et photo et piquetage photographique Edition en 20 exemplaires
   dimensions:
     height: 43
     width: 53
     depth: 
-  description: 2013 430€
-  price: 
+  description: "œuvre encadrée cadre bois naturel montage caisson   \n2013 "
+  price: 430
   sold: false
-  contextual: true
+  contextual: false
 - title: Taï-o / Mali
   image: "/forestry/tai-o-mali.jpg"
-  technique: Gravure sur zinc,acrilique sur photographique
+  technique: Gravure sur zinc,acrilique sur photographique Epreuve d'artiste
   dimensions:
     height: 43
     width: 33
     depth: 
-  description: 2017 375€
-  price: 
+  description: "œuvre encadrée cadre bois naturel montage caisson   \n2017 "
+  price: 375
   sold: false
-  contextual: true
+  contextual: false
 - title: Tourbière
   image: "/forestry/tourbiere.jpg"
-  technique: Gravure sur zinc, bronze
+  technique: Gravure sur zinc, bronze Edition en 8 exemplaires
   dimensions:
-    height: 73
-    width: 53
+    height: 53
+    width: 73
     depth: 
   description: 2016 900€
   price: 
