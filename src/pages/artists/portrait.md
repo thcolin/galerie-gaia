@@ -13,6 +13,28 @@ biography: "Exclusif à la galerie Gaia : offrez vous une séance de pose dans u
   de Brumos Dumas et enfin les sculptures de Françoise Boudier."
 exhibitions: []
 works:
+- title: Claude Francheteau
+  image: "/forestry/20170407_204552.jpg"
+  description: ''
+  price: 0
+  contextual: true
+- title: 'Mise en situation '
+  image: "/forestry/galeriegaia-portrait@francheteau.jpg"
+  technique: 'Acrylique sur toile '
+  description: Claude Francheteau
+  price: 0
+  contextual: true
+- title: Buste par Françoise Boudier
+  image: "/forestry/galeriegaia-buste@florenceboudier.JPG"
+  technique: 'Terre '
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: 'La réalisation du buste en terre et/ou en bronze nécessite plusieurs
+    séances de pose '
+  price: 0
+  contextual: false
 - title: Portrait sur commande
   image: "/forestry/portrait-sur-commande.jpg"
   technique: Peinture acrylique sur toile de Claude Francheteau
@@ -21,7 +43,7 @@ works:
     width: 
     depth: 
   description: ''
-  price: ''
+  price: 
   sold: false
   contextual: true
 - title: Portrait par Nadja Holland
@@ -48,7 +70,7 @@ works:
   contextual: true
 - title: Portrait par Claude Francheteau
   image: "/forestry/613.jpg"
-  technique: 'Acrylique sur toile '
+  technique: ''
   dimensions:
     height: 
     width: 
@@ -57,14 +79,14 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Portrait par Claude Francheteau
+- title: 'Portrait par Claude Francheteau '
   image: "/forestry/614.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "Claude Francheteau\nhuile sur toile \nPortrait"
   price: 
   sold: false
   contextual: true
