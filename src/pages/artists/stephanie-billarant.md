@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Stephanie Billarant
-location: ""
+location: ''
 field: Peinture / Photo
 birth: "0"
 death: "0"
@@ -32,6 +32,15 @@ exhibitions:
   start: "2015"
   end: "2015"
 works:
+- title: Villes rêvées N°18
+  image: "/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
+  technique: Création photographie Edition en 30 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+  description: Œuvre encadrée cadre standard aluminium noir
+  price: 150
+  contextual: true
 - title: Ville rêvée
   image: "/forestry/ville-revee.jpg"
   technique: Photographie
@@ -110,6 +119,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/11-stephanie-billarant/
----
+- "/artistes/11-stephanie-billarant/"
 
+---

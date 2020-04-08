@@ -117,7 +117,7 @@ works:
   description: "Tirage 15 exemplaires en caisse américaine   \nprix sur demande "
   price: 0
   contextual: true
-- title: SEUIL - Strate I
+- title: SEUIL - Strates I
   image: "/forestry/seuil-strate-i.jpg"
   technique: Sérigraphie 1/1
   dimensions:
@@ -141,7 +141,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: SEUIL - Strate 28
+- title: SEUIL - Strates 28
   image: "/forestry/seuil-strate-28.jpg"
   technique: Sérigraphie /10
   dimensions:
