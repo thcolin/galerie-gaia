@@ -65,7 +65,27 @@ exhibitions:
   location: PARIS 75003 http://www.valotaworks.com/news.html
   start: "40615"
   end: "270615"
-works: []
+works:
+- title: QUIET DAYS UNDER THE TREES IV
+  image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES IV - 65cm x 50cm - Cire et
+    Pigments Sur Bois - 2020 .jpg"
+  technique: 'Cire et pigments sur bois '
+  dimensions:
+    height: 65
+    width: 50
+  description: 'Oeuvre encadrée dans caisse américaine bois '
+  price: 2200
+  contextual: true
+- title: QUIET DAYS UNDER THE TREES III
+  image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
+    Pigments Sur Bois - 2020 .jpg"
+  dimensions:
+    height: 73
+    width: 60
+  description: "œuvre encadrée boite américaine bois   \n2020"
+  contextual: true
+  price: 2800
+  technique: 'Cire et pigments sur bois '
 redirect_from:
 - "/artistes/4-valota/"
 
