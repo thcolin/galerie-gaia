@@ -14,15 +14,26 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: Un véritable remodelage de la planète de Boris Jakobek
-  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
-  technique: 'Sérigraphie '
+- title: Quiet Days Under The Trees III par Valota
+  image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
+    Pigments Sur Bois - 2020 .jpg"
   dimensions:
-    height: 70
-    width: 50
-  description: 'Edition en 11 exemplaires '
-  price: 200
+    height: 73
+    width: 60
+  description: "2020"
+  price: 2800
   contextual: true
+  technique: 'Cire et pigments sur bois '
+- title: Tour bleue par Valota
+  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
+    - 2020.jpg"
+  technique: Céramique
+  dimensions:
+    height: 58
+    width: 42
+  description: ''
+  price: 3000
+  contextual: false
 - title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
   image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   technique: 'Acrylique sur toile '
@@ -50,6 +61,15 @@ works:
   price: 760
   contextual: true
   technique: Collage
+- title: Un véritable remodelage de la planète de Boris Jakobek
+  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
+  technique: 'Sérigraphie '
+  dimensions:
+    height: 70
+    width: 50
+  description: 'Edition en 11 exemplaires '
+  price: 200
+  contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
