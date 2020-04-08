@@ -89,8 +89,8 @@ works:
     height: 53
     width: 73
     depth: 
-  description: 2016 900€
-  price: 
+  description: "œuvre encadrée cadre chêne réhausse 5cm montage caisson  \n2016 "
+  price: 900
   sold: false
   contextual: true
 - title: Reliquat I (4/20)
