@@ -24,18 +24,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: "610"
-  image: "/forestry/610.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "Nadja Hollande \nhuile sur toile \nPortrait"
-  price: 
-  sold: false
-  contextual: true
-- title: "611"
+- title: Portrait par Nadja Holland
   image: "/forestry/611.jpg"
   technique: ''
   dimensions:
@@ -46,20 +35,20 @@ works:
   price: 
   sold: false
   contextual: true
-- title: "612"
+- title: Portrait par Nadja Holland
   image: "/forestry/612.jpg"
-  technique: ''
+  technique: 'Huile  sur toile '
   dimensions:
     height: 
     width: 
     depth: 
-  description: "Nadja Hollande \nhuile sur toile \nPortrait"
+  description: ''
   price: 
   sold: false
   contextual: true
 - title: Portrait par Claude Francheteau
   image: "/forestry/613.jpg"
-  technique: ''
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 
     width: 
@@ -68,25 +57,25 @@ works:
   price: 
   sold: false
   contextual: true
-- title: "614"
+- title: Portrait par Claude Francheteau
   image: "/forestry/614.jpg"
-  technique: ''
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 
     width: 
     depth: 
-  description: "Claude Francheteau\nhuile sur toile \nPortrait"
+  description: ''
   price: 
   sold: false
   contextual: true
-- title: "615"
+- title: Portrait par Claude Francheteau
   image: "/forestry/615.jpg"
-  technique: ''
+  technique: 'Acrylqiue sur toile '
   dimensions:
     height: 
     width: 
     depth: 
-  description: "Claude Francheteau\nhuile sur toile \nPortrait"
+  description: ''
   price: 
   sold: false
   contextual: true
