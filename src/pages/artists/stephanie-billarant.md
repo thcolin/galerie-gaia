@@ -32,6 +32,15 @@ exhibitions:
   start: "2015"
   end: "2015"
 works:
+- title: Villes rêvées N°17
+  image: "/forestry/galeriegaia_Billarant_Nantes2_41x31- 022.jpg"
+  technique: Création photographique Edition 30 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+  description: 'Œuvre encadrée cadre standard aluminium noir '
+  price: 150
+  contextual: false
 - title: Villes rêvées N°18
   image: "/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
   technique: Création photographie Edition en 30 exemplaires
@@ -40,51 +49,29 @@ works:
     width: 30
   description: Œuvre encadrée cadre standard aluminium noir
   price: 150
-  contextual: true
-- title: Ville rêvée
+  contextual: false
+- title: Villes rêvées N°3
   image: "/forestry/ville-revee.jpg"
-  technique: Photographie
+  technique: Création photographique Edition en 30 exemplaires
+  dimensions:
+    height: 30
+    width: 40
+    depth: 
+  description: 'Œuvre encadrée cadre standard aluminium noir '
+  price: 150
+  sold: false
+  contextual: false
+- title: Villes rêvées N°8
+  image: "/forestry/647.jpg"
+  technique: 'Création photographique Edition en 30 exemplaires '
   dimensions:
     height: 30
     width: 40
     depth: 
   description: ''
-  price: 
+  price: 150
   sold: false
-  contextual: true
-- title: "644"
-  image: "/forestry/644.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: "645"
-  image: "/forestry/645.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: "647"
-  image: "/forestry/647.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
+  contextual: false
 - title: "648"
   image: "/forestry/648.jpg"
   technique: ''
