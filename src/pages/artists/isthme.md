@@ -63,15 +63,6 @@ works:
   description: "2020"
   price: 760
   contextual: true
-- title: 'Deep Blue #5'
-  image: "/forestry/galeriegaia-isthme-DeepBlue5-130 cmx97cm-2020.jpg"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 130
-    width: 97
-  description: "2020"
-  price: 2200
-  contextual: true
 - title: 'Canopée Allongée dans l''herbe #1'
   image: "/forestry/galeriegaia-isthme-canopé Allongée dans l'herbe 1-146x114.jpg"
   technique: Acrylique sur toile
@@ -119,16 +110,17 @@ works:
   price: 2800
   sold: false
   contextual: true
-- title: 'Nuits en mer #24 Installation'
+- title: 'Installation Nuits en mer #24 '
   image: "/forestry/nuits-en-mer-24-installation.jpg"
-  technique: Acrylique sur toile
+  technique: Acrylique sur toile montée sur 6 châssis bois indépendant
   dimensions:
-    height: ''
-    width: 
+    height: 170
+    width: 180
     depth: ''
-  description: Prix sur demande Installation créée pour l'exposition à la galerie
-    elle se compose de 6 panneaux installés selon le protocole de l'artiste
-  price: ''
+  description: "Installation créée pour l'exposition à la galerie en Juin 2019.  \nElle
+    se compose de 6 panneaux de 170cm de hauteur et 25 cm de largeur espacée de 6
+    cm installés selon le protocole de l'artiste."
+  price: 5500
   sold: false
   contextual: true
 - title: 'Nuit en mer #34'
