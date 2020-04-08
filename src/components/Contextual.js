@@ -4,17 +4,17 @@ import Icon from 'components/Icon'
 import useEvent from 'react-use/lib/useEvent'
 
 const Contextual = ({ work, ...props }) => {
-  const sizes = {
-    medium: {
-      height: [1, 180],
-      width: [1, 140],
-      ratio: 220, // (width of the picture in cm)
-      container: '24% 0 42%',
-    },
-  }
-
   if (!work.dimensions || !work.dimensions?.width || !work.dimensions?.height) {
     return null
+  }
+
+  const sizes = {
+    medium: {
+      height: [60, 180],
+      width: [1, 140],
+      ratio: 150, // (width of the picture in cm)
+      margin: `${24 - (13 * ((work.dimensions.height - 60) / (180 - 60)))}% 0 42%`,
+    },
   }
 
   const key = Object.keys(sizes).filter(size => (
@@ -49,7 +49,7 @@ const Contextual = ({ work, ...props }) => {
                 css={Contextual.styles.work}
                 style={{
                   width: `${((work.dimensions.width / size.ratio) * 100)}%`,
-                  margin: size.container,
+                  margin: size.margin,
                 }}
               >
                 <Image src={work.image} />
