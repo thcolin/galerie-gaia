@@ -15,13 +15,13 @@ exhibitions: []
 works:
 - title: Portrait sur commande
   image: "/forestry/portrait-sur-commande.jpg"
-  technique: ''
+  technique: Peinture acrylique sur toile de Claude Francheteau
   dimensions:
     height: 
     width: 
     depth: 
   description: ''
-  price: 
+  price: ''
   sold: false
   contextual: true
 - title: "610"
