@@ -27,13 +27,22 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
-- title: 'Gisement 1 '
+- title: Gisement V
+  image: "/forestry/galeriegaia@Seuil-11 @Versants-gisement.04-29.7x21cm.jpg"
+  technique: Sérigraphie Edition en 14 exemplaires
+  dimensions:
+    height: 30
+    width: 21
+  description: Œuvre encadrée cadre standard chêne
+  price: 160
+  contextual: false
+- title: 'Gisement I '
   image: "/forestry/galeriegaia@Seuil-10 @Versants-Gisement.01-29.7x21cm.jpg"
   technique: Sérigraphie Edition en 17 exemplaires
   dimensions:
     height: 30
     width: 21
-  description: Œuvre encadrée cadre standard chêne
+  description: "Œuvre encadrée cadre standard chêne  \n2019"
   price: 160
   contextual: true
 - title: Cimes 1
