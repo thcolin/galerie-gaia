@@ -93,28 +93,28 @@ works:
   price: 900
   sold: false
   contextual: true
-- title: Reliquat I (4/20)
+- title: 'Reliquat I '
   image: "/forestry/reliquat-i-420.jpg"
-  technique: Sérigraphie
+  technique: 'Gravure eau-forte réhaussée or Edition en 20 exemplaires '
   dimensions:
     height: 30
     width: 20
     depth: 
-  description: 180€ encadré
-  price: 
+  description: "œuvre encadrée cadre standard aluminium couleur chêne  \n2018"
+  price: 180
   sold: false
   contextual: true
-- title: Pêcheur – Grande rivière (1/7)
+- title: 'Pêcheur – Grande rivière '
   image: "/forestry/pecheur-grande-riviere-17.jpg"
-  technique: Gravure sur zinc et piquetage photographique
+  technique: Gravure sur zinc et piquetage photographique Edition en 7 exemplaires
   dimensions:
     height: 26
     width: 39
     depth: 
-  description: 2015 280€
-  price: 
+  description: "œuvre encadrée montage dans une boîte originale d'entomologiste   \n2015 "
+  price: 280
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/25-tangui-robert/"
 
