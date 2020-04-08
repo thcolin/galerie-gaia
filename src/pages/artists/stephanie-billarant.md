@@ -6,14 +6,23 @@ field: Peinture / Photo
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  Stéphanie Billarant, née à Nantes en 1966, obtient un BA communication et art (Wake Forest university – Winston Salem N.C.) ; elle y apprend les arts graphiques – sérigraphie, sculpture, gravure - la réalisation de courts métrages, le montage, mais aussi le théâtre et la danse, le piano et le chant. Ce sont les arts du spectacle qui forgeront ses premières sensibilités artistiques.  
-  A vingt ans la peinture s’impose comme une évidence. Commence un long parcours où elle apprend et maîtrise les techniques de la figuration, mais part assez vite vers des mondes plus étrangers, d’où elle va peu à peu faire émerger sa surréalité.
-   Aujourd’hui son œuvre s’est enrichie de toutes ces travées. Elle garde du spectacle le goût pour le mouvement qui va s’exprimer par la découverte de la photographie en 2007. Le medium lui permet d’aboutir sa réflexion sur la perte des repères. Loin de la détourner de la peinture, il montre de nouvelles directions ; elle découvre l’encre, explore sa matière, projette des mondes ramifiés qui plongent l’œil dans un vertige figuratif. 
-   
-  Stéphanie Billarant expose aujourd’hui régulièrement dans plusieurs galeries nantaises et parisiennes. En mars 2013, Patrick BRILLET (éditeur de mobilier design – Fine Art Londres) présente une série des ses photos au Grand Palais pour ART PARIS ART FAIR.
-
-  Parallèlement à son travail d'artiste, elle est aussi photographe de mer (photographe officiel Energy Team 34thACWS)
+biography: "Stéphanie Billarant, née à Nantes, présente un parcours d’artiste peintre
+  photographe aux orientations fécondes.\n\n  \n Elle obtient un BA communication
+  et art (Wake Forest university – Winston Salem N.C.) ; elle y apprend les arts graphiques
+  – sérigraphie, sculpture, gravure - la réalisation de courts métrages, le montage,
+  mais aussi le théâtre et la danse, le piano et le chant. Ce sont les arts du spectacle
+  qui forgeront ses premières sensibilités artistiques.   \n   \n A vingt-cinq ans
+  la peinture s’impose comme une évidence. Commence un long parcours où elle apprend
+  et maîtrise les techniques de la figuration, mais part assez vite vers des mondes
+  plus étrangers, d’où elle va peu à peu faire émerger sa surréalité.  \n   \n Aujourd’hui
+  son œuvre s’est enrichie de toutes ces travées. Elle garde du spectacle le goût
+  pour le mouvement qui va s’exprimer par la découverte de la photographie en 2007.
+  Le medium lui permet d’aboutir sa réflexion sur la perte des repères.  \n   \n Ses
+  photographies initient un parcours dans ces parts de réel qu’elle refuse de nommer.
+  \ \n   \n Son travail en photo a considérablement influencé ses productions picturales.
+  Elle découvre l’encre, explore sa matière, projette des mondes ramifiés qui plongent
+  l’œil dans un vertige figuratif, avant de revenir à une peinture nouvelle, nourrie
+  de toutes ces passerelles.  \n   \n "
 exhibitions:
 - title: G a l e r i e  G a ï a
   location: Nantes
