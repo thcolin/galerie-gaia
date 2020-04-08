@@ -66,6 +66,26 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: Tour bleue
+  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
+    - 2020.jpg"
+  technique: 'Céramique '
+  dimensions:
+    height: 58
+    width: 42
+  description: "2020"
+  price: 3000
+  contextual: false
+- title: Tour blanche et noir mordorée
+  image: "/forestry/VALOTA -TOUR BLANCHE ET Noir Mordoré- HAUTEUR 45cm - DIAMETRE
+    40cm - CERAMIQUE - 2019.jpg"
+  technique: Céramique
+  dimensions:
+    height: 45
+    width: 40
+  description: "2019"
+  price: 2500
+  contextual: false
 - title: ON THE OTHER SIDE OF THE SKY 14
   image: "/forestry/VALOTA - On the Other Side of the Sky 14 - 60cm x 73cm - Cire
     et pigments sur bois - 2012-1.jpg"
