@@ -27,7 +27,7 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n**_\"
   et croiser leur production respective."
 exhibitions: []
 works:
-- title: Strate I
+- title: Strates I
   image: "/forestry/strate-i.jpg"
   technique: Sérigraphie 1/1
   dimensions:
@@ -38,7 +38,7 @@ works:
   price: 280
   sold: false
   contextual: false
-- title: Strate Q
+- title: Strates Q
   image: "/forestry/strate-ii.jpg"
   technique: Sérigraphie 1/1
   dimensions:
@@ -49,7 +49,7 @@ works:
   price: 350
   sold: false
   contextual: false
-- title: Diptyque Strate 8
+- title: Diptyque Strates 8
   image: "/forestry/diptyque-strates-8.jpg"
   technique: Sérigraphie 1/1
   dimensions:
@@ -60,7 +60,7 @@ works:
   price: 230
   sold: false
   contextual: false
-- title: Strate 20
+- title: Strates 20
   image: "/forestry/galeriegaia@Seuil-06 @Versants-strates20-70x50cm.jpg"
   technique: Sérigraphie Edition 2/5
   dimensions:
@@ -71,7 +71,7 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Strate 27
+- title: Strates 27
   image: "/forestry/galeriegaia@Seuil-07 @Versants-strates27-29.7x21cm10EX.jpg"
   technique: Sérigraphie Edition en 10 exemplaires
   dimensions:
@@ -82,7 +82,7 @@ works:
   price: 160
   sold: false
   contextual: false
-- title: Strate 28
+- title: Strates 28
   image: "/forestry/strate-28.jpg"
   technique: Sérigraphie  Edition en 10 exemplaires
   dimensions:
@@ -92,6 +92,15 @@ works:
   description: Œuvre encadrée cadre aluminium chêne
   price: 180
   sold: false
+  contextual: false
+- title: Strates 33
+  image: "/forestry/galeriegaia@Seuil-03 @Versants-strates33-50x40cm.jpg"
+  technique: Sérigraphie Edition en 8 exemplaires
+  dimensions:
+    height: 50
+    width: 40
+  description: Œuvre encadrée cadre standard chêne
+  price: 340
   contextual: false
 - title: Viçosa I
   image: "/forestry/vicosa-i.jpg"
