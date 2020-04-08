@@ -84,15 +84,16 @@ works:
   price: 1300
   sold: false
   contextual: false
-- title: Animus Anima
-  image: "/forestry/animus-anima.jpg"
-  technique: ''
+- title: Animus Anima 9
+  image: "/forestry/AG_2018_Animusanima9_60X76_papierciselé.argent.jpg"
+  technique: Incisions au scalpel sur feuille d’argent marouflée sur papier traditionnel
+    indien
   dimensions:
-    height: 50
-    width: 70
+    height: 60
+    width: 76
     depth: 
   description: ''
-  price: 
+  price: 2200
   sold: false
   contextual: true
 redirect_from:
