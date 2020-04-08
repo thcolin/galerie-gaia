@@ -114,7 +114,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Viçosa IV
   image: "/forestry/vicosa-iv.jpg"
   technique: Sérigraphie
@@ -125,7 +125,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Viçosa V
   image: "/forestry/vicosa-v.jpg"
   technique: Sérigraphie
@@ -136,7 +136,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Viçosa VI
   image: "/forestry/vicosa-vi.jpg"
   technique: Sérigraphie
@@ -147,7 +147,7 @@ works:
   description: 170€ encadré
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Viçosa VII
   image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
   technique: Sérigraphie
