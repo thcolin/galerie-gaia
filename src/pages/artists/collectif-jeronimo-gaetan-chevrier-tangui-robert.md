@@ -146,8 +146,8 @@ works:
     height: 40
     width: 30
     depth: 
-  description: 170€ encadré
-  price: 
+  description: Œuvre encadrée cadre standard chêne
+  price: 170
   sold: false
   contextual: false
 - title: Viçosa IV
@@ -157,8 +157,8 @@ works:
     height: 40
     width: 30
     depth: 
-  description: 170€ encadré
-  price: 
+  description: Œuvre encadrée cadre standard chêne
+  price: 170
   sold: false
   contextual: false
 - title: Viçosa V
@@ -168,8 +168,8 @@ works:
     height: 40
     width: 30
     depth: 
-  description: 170€ encadré
-  price: 
+  description: Œuvre encadrée cadre standard chêne
+  price: 170
   sold: false
   contextual: false
 - title: Viçosa VI
@@ -178,8 +178,8 @@ works:
   dimensions:
     height: 40
     width: 30
-  description: 170€ encadré
-  price: 
+  description: Œuvre encadrée cadre standard chêne
+  price: 170
   sold: false
   contextual: false
 - title: Viçosa VII
@@ -199,7 +199,7 @@ works:
     width: 21
   description: "Œuvre encadrée cadre standard chêne  \n2019"
   price: 160
-  contextual: true
+  contextual: false
 - title: Gisements III
   image: "/forestry/gisements-3.jpg"
   technique: Sérigraphie
@@ -210,7 +210,7 @@ works:
   description: 160€ encadré
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Gisement V
   image: "/forestry/galeriegaia@Seuil-11 @Versants-gisement.04-29.7x21cm.jpg"
   technique: Sérigraphie Edition en 14 exemplaires
