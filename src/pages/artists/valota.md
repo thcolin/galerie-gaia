@@ -66,6 +66,26 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: ON THE OTHER SIDE OF THE SKY 14
+  image: "/forestry/VALOTA - On the Other Side of the Sky 14 - 60cm x 73cm - Cire
+    et pigments sur bois - 2012-1.jpg"
+  technique: 'Cire et pigments sur bois '
+  dimensions:
+    height: 60
+    width: 73
+  description: "Oeuvre encadrée caisse américaine bois   \n2012"
+  price: 2800
+  contextual: true
+- title: ON THE OTHER SIDE OF THE SKY 5
+  image: "/forestry/VALOTA - On the Other Side of the Sky 14 - 60cm x 73cm - Cire
+    et pigments sur bois - 2012.jpg"
+  technique: 'Cire et pigments sur bois '
+  dimensions:
+    height: 116
+    width: 89
+  description: 'Œuvre encadrée caisse américaine bois '
+  price: 4000
+  contextual: true
 - title: DAYS ARE DARK AND NIGHTS ARE CLEAR 71
   image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 71 - 89cm x 116cm
     - Cire et Pigments Sur Bois - 2012.jpg"
