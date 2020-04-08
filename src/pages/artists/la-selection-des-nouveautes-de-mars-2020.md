@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection des nouveautés Avril 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: Un véritable remodelage de la planète de Boris Jakobek
   image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
   technique: 'Sérigraphie '
@@ -17,11 +22,6 @@ works:
     width: 50
   description: 'Edition en 11 exemplaires '
   price: 200
-  contextual: true
-- title: Sélection des nouveautés Avril 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
   contextual: true
 - title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
   image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
@@ -32,15 +32,6 @@ works:
   description: "2020"
   price: 3500
   contextual: true
-- title: Territoires colorées 15 par ISTHME
-  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
-  dimensions:
-    height: 76
-    width: 57
-  description: ''
-  price: 760
-  contextual: true
-  technique: Collage
 - title: Jackie de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   description: ''
@@ -50,6 +41,15 @@ works:
     height: 36
     width: 25
   contextual: true
+- title: Territoires colorées 15 par ISTHME
+  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+  dimensions:
+    height: 76
+    width: 57
+  description: ''
+  price: 760
+  contextual: true
+  technique: Collage
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
