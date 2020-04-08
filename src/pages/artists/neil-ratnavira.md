@@ -112,19 +112,21 @@ works:
     height: 40
     width: 60
     depth: 
-  description: "tirage limité à 10 exemplaires \n300€"
-  price: 
+  description: 'tirage limité à 10 exemplaires
+
+'
+  price: 300
   sold: false
   contextual: true
 - title: A star is born - Los Angeles
   image: "/forestry/a-star-is-born-los-angeles.jpg"
   technique: digigraphie
   dimensions:
-    height: 40
-    width: 60
+    height: 60
+    width: 40
     depth: 
   description: tirage à 10 exemplaires
-  price: 200
+  price: 300
   sold: false
   contextual: false
 - title: Caption this - Amsterdam
@@ -135,7 +137,7 @@ works:
     width: 60
     depth: 
   description: Tirage sur papier d'art en 10 exemplaires
-  price: 
+  price: 300
   sold: false
   contextual: true
 redirect_from:

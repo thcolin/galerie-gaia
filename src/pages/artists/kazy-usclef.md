@@ -1,7 +1,7 @@
 ---
 template: artist
 title: Kazy Usclef
-location: ""
+location: ''
 field: Graffeur
 birth: "0"
 death: "0"
@@ -17,11 +17,11 @@ exhibitions:
 - title: http://asieriderz.com/?p=940
   location: ASIE RIDERZ Voyage à Nantes 2015
   start: "0"
-  end:
+  end: 
 - title: Direction artistique et exposition collective LA VILLA OCCUPADA
   location: Le Voyage à Nantes 2014
   start: "0"
-  end:
+  end: 
 works:
 - title: Double
   image: "/forestry/double.jpg"
@@ -29,22 +29,21 @@ works:
   dimensions:
     height: 94
     width: 100
-    depth:
+    depth: 
   description: 1900 € avec caisse américaine noire
-  price:
+  price: 
   sold: false
   contextual: true
-- title: MASQUE
+- title: Le Masque
   image: "/forestry/masque.jpg"
   technique: mixte sur bois
   dimensions:
     height: 2
-    width:
-    depth:
-  description: |-
-    oeuvre éphémère sauvée de la destruction voilà son histoire fantastique si vous voulez l'acquérir c'est pour poursuivre cette incroyable histoire. Masque visible sur Nantes.
-    Prix 12 000€ - vendu
-  price:
+    width: 
+    depth: 
+  description: "œuvre éphémère du Voyage à Nantes dans le cadre de l'installation
+    dans une péniche canala St Félix à Nantes \"Asie Rider\" 2015.  \nVendu"
+  price: 
   sold: false
   contextual: true
 - title: Fresque pour la Galerie Gaïa
@@ -53,52 +52,22 @@ works:
   dimensions:
     height: 300
     width: 300
-    depth:
+    depth: 
   description: |-
     Réalisation pour la 1ere  Nuit des Galeries dans le cadre de l'exposition La Chambre 21
     Nous pouvons étudier un projet pour vous sur un mur privé, dans un hall d'entreprise, ou sur toile. Prix selon le projet
-  price:
-  sold: false
-  contextual: true
-- title: Double Trouble
-  image: "/forestry/double-trouble.jpg"
-  technique: Sérigraphie sur papier japonais
-  dimensions:
-    height: 69
-    width: 114
-    depth:
-  description: |-
-    2017
-    580 € encadrée baguette aluminium et verre musée
-    épuisé
-  price:
-  sold: false
-  contextual: true
-- title: Routine 2
-  image: "/forestry/routine-2.jpg"
-  technique: Acrylique
-  dimensions:
-    height: 97
-    width: 192
-    depth:
-  description: |-
-    2017
-    vendu
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Routine 3
   image: "/forestry/routine-3.jpg"
   technique: Acrylique
   dimensions:
-    height: 97
-    width: 162
-    depth:
-  description: |-
-    2017
-
-    3 000 €
-  price:
+    height: 162
+    width: 97
+    depth: 
+  description: "2017"
+  price: 3000
   sold: false
   contextual: true
 - title: Double Trouble
@@ -107,9 +76,9 @@ works:
   dimensions:
     height: 69
     width: 114
-    depth:
+    depth: 
   description: "2017 \n580 € encadrée : baguette aluminium et verre musée"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Le Minotaure
@@ -118,12 +87,12 @@ works:
   dimensions:
     height: 162
     width: 130
-    depth:
-  description: 3000 €
-  price:
+    depth: 
+  description: "2017"
+  price: 3000
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/48-kazy-usclef/
----
+- "/artistes/48-kazy-usclef/"
 
+---
