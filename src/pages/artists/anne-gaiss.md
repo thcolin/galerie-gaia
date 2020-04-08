@@ -57,8 +57,7 @@ works:
     height: 68
     width: 50
     depth: 
-  description: "Encadrement baguette aluminium Nielsen noir mat  \nœuvre posée en
-    rehausse sur fond et verre musée."
+  description: ''
   price: 1300
   sold: false
   contextual: true
@@ -77,13 +76,14 @@ works:
   image: "/forestry/galeriegaia_Gais_titre_format(HxL)- 01.jpg"
   technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
-    height: 55
-    width: 55
+    height: 68
+    width: 50
     depth: 
-  description: ''
-  price: 
+  description: "Encadrement baguette aluminium Nielsen noir mat  \nœuvre posée en
+    rehausse sur fond et verre musée."
+  price: 1300
   sold: false
-  contextual: true
+  contextual: false
 - title: Animus Anima
   image: "/forestry/animus-anima.jpg"
   technique: ''
