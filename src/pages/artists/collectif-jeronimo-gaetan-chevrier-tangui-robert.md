@@ -56,32 +56,32 @@ works:
     height: 30
     width: 21
     depth: 
-  description: Œuvre encadrée dans 2 cadres  aluminium chêne
+  description: "Œuvre encadrée dans 2 cadres  aluminium chêne  \n2019"
   price: 230
   sold: false
   contextual: true
 - title: Strate 20
   image: "/forestry/galeriegaia@Seuil-06 @Versants-strates20-70x50cm.jpg"
-  technique: Sérigraphie 2/5
+  technique: Sérigraphie Edition 2/5
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: 450€ encadré
-  price: 
+  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
+  price: 450
   sold: false
   contextual: true
 - title: Strate 27
-  image: "/forestry/strate-27.jpg"
-  technique: Sérigraphie /10
+  image: "/forestry/galeriegaia@Seuil-07 @Versants-strates27-29.7x21cm10EX.jpg"
+  technique: Sérigraphie Edition en 10 exemplaires
   dimensions:
     height: 30
     width: 20
     depth: 
-  description: 160€
-  price: 
+  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
+  price: 160
   sold: false
-  contextual: true
+  contextual: false
 - title: Strate 28
   image: "/forestry/strate-28.jpg"
   technique: Sérigraphie /10
