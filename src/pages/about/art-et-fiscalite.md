@@ -50,6 +50,8 @@ content:
 
     ![](/forestry/galeriegaia-toma L.png)
 
+    ![](/forestry/mural 11 compressions 500x200 15000 € .jpg)
+
     ![](/forestry/JF MOLLIERE 25.JPG)
 
     ![](/forestry/New york JF Molliere 01.JPG)
