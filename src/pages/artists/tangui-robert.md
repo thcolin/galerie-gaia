@@ -17,7 +17,7 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
 exhibitions: []
 works:
 - title: Alcantara
-  image: "/forestry/galeriegaia_Robert_Alcantara(5:20)(2018)_40x50.jpg"
+  image: "/forestry/@Tangui Robert-Alcantara-40x50_1.jpg"
   technique: 'Gravure sur zinc et photographies Edition en 20 exemplaires '
   dimensions:
     height: 40
@@ -35,7 +35,7 @@ works:
     width: 33
     depth: 
   description: "œuvre encadrée cadre standard bois naturel montage caisson   \n2018"
-  price: 375
+  price: 380
   sold: false
   contextual: false
 - title: Prospection
@@ -46,18 +46,7 @@ works:
     width: 25
     depth: 
   description: "œuvre encadrée cadre standard aluminium couleur chêne   \n2019 "
-  price: 180
-  sold: false
-  contextual: false
-- title: Résurgence
-  image: "/forestry/resurgence.jpg"
-  technique: Gravure sur zinc,cire,acrylique sur photographique Edition en 18 exemplaires
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "œuvre encadrée cadre bois naturel montage caisson     \n2018"
-  price: 650
+  price: 280
   sold: false
   contextual: false
 - title: Salento
@@ -69,17 +58,6 @@ works:
     depth: 
   description: "œuvre encadrée cadre bois naturel montage caisson   \n2013 "
   price: 450
-  sold: false
-  contextual: false
-- title: Taï-o / Mali
-  image: "/forestry/tai-o-mali.jpg"
-  technique: Gravure sur zinc,acrilique sur photographique Epreuve d'artiste
-  dimensions:
-    height: 43
-    width: 33
-    depth: 
-  description: "œuvre encadrée cadre bois naturel montage caisson   \n2017 "
-  price: 375
   sold: false
   contextual: false
 - title: Tourbière
@@ -101,7 +79,7 @@ works:
     width: 20
     depth: 
   description: "œuvre encadrée cadre standard aluminium couleur chêne  \n2018"
-  price: 180
+  price: 280
   sold: false
   contextual: true
 - title: 'Pêcheur – Grande rivière '
@@ -112,7 +90,7 @@ works:
     width: 39
     depth: 
   description: "œuvre encadrée montage dans une boîte originale d'entomologiste   \n2015 "
-  price: 280
+  price: 380
   sold: false
   contextual: false
 redirect_from:
