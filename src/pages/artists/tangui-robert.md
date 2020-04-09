@@ -16,6 +16,24 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: Samaya - Guinée
+  image: "/forestry/@Tangui Robert-Samaya-Guinée-30x40_1.jpg"
+  technique: Gravure sur zinc et photographies Edition en 7 exemplaires
+  dimensions:
+    height: 40
+    width: 30
+  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2017"
+  price: 380
+  contextual: true
+- title: Palermo
+  image: "/forestry/@Tangui Robert-Palermo-40x50_1.jpg"
+  technique: Gravure sur zinc et photographies Edition en 20 exemplaires
+  dimensions:
+    height: 50
+    width: 40
+  description: œuvre encadrée cadre standard bois naturel montage caisson
+  price: 450
+  contextual: true
 - title: Maison Tulou
   image: "/forestry/@Tangui Robert-Maison Toulu-30x40_1.jpg"
   technique: Gravure sur zinc et piquage photos Edition en 20 exemplaires
