@@ -16,6 +16,33 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: Yang Shuo
+  image: "/forestry/@Tangui Robert-Yang Shuo-40x50_1.jpg"
+  technique: Gravure sur zinc et piquetage photos Epreuve d'artiste
+  dimensions:
+    height: 40
+    width: 50
+  description: œuvre encadrée cadre standard bois naturel montage caisson
+  price: 450
+  contextual: true
+- title: 'Xia Men '
+  image: "/forestry/@Tangui Robert-Xia Men-24x30_1.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 24
+    width: 30
+  description: œuvre encadrée cadre standard bois naturel montage caisson
+  price: 450
+  contextual: true
+- title: Tympan - Nantes
+  image: "/forestry/@Tangui Robert-Tympan Nantes-24x30_1.jpg"
+  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
+  dimensions:
+    height: 30
+    width: 24
+  description: ''
+  price: 280
+  contextual: true
 - title: Samaya - Guinée
   image: "/forestry/@Tangui Robert-Samaya-Guinée-30x40_1.jpg"
   technique: Gravure sur zinc et photographies Edition en 7 exemplaires
@@ -58,18 +85,22 @@ works:
   dimensions:
     height: 70
     width: 50
-  description: œuvre encadrée cadre standard bois naturel montage caisson
+    depth: 
+  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
   price: 520
-  contextual: true
+  contextual: false
+  sold: false
 - title: Empreinte
   image: "/forestry/@Tangui Robert-Empreinte-30x40_1.jpg"
   technique: Gravure sur zinc et photographies
   dimensions:
-    height: 40
-    width: 30
+    height: 43
+    width: 33
+    depth: 
   description: œuvre encadrée cadre standard bois naturel montage caisson
   price: 380
-  contextual: true
+  contextual: false
+  sold: false
 - title: 'Digue '
   image: "/forestry/@Tangui Robert-Digue-30x40.jpg_1.jpg"
   technique: Gravure et piquage photos Edition en 20 exemplaires
@@ -88,17 +119,6 @@ works:
     depth: 
   description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
   price: 450
-  sold: false
-  contextual: false
-- title: Lames minces
-  image: "/forestry/lames-minces.jpg"
-  technique: Gravure sur zinc et photo et piquetage photographique Epreuve d'artiste
-  dimensions:
-    height: 43
-    width: 33
-    depth: 
-  description: "œuvre encadrée cadre standard bois naturel montage caisson   \n2018"
-  price: 380
   sold: false
   contextual: false
 - title: Prospection
