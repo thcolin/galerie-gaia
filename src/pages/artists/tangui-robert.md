@@ -2,7 +2,7 @@
 template: artist
 title: Tangui Robert
 location: ''
-field: Photographe et Graveur
+field: Graveur - Photographe
 birth: "0"
 death: "0"
 expose: true
