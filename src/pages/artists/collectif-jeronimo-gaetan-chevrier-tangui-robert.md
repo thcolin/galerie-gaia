@@ -140,7 +140,7 @@ works:
   sold: true
   contextual: false
 - title: Viçosa II
-  image: "/forestry/vicosa-ii.jpg"
+  image: "/forestry/galeriegaia@Seuil-16 @Versants-Vicosa.02-40x30cm.jpg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -149,9 +149,9 @@ works:
   description: Œuvre encadrée cadre standard chêne
   price: 170
   sold: false
-  contextual: false
+  contextual: true
 - title: Viçosa IV
-  image: "/forestry/vicosa-iv.jpg"
+  image: "/forestry/galeriegaia@Seuil-18 @Versants-Vicosa.04-40x30cm.jpg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -162,7 +162,7 @@ works:
   sold: false
   contextual: false
 - title: Viçosa V
-  image: "/forestry/vicosa-v.jpg"
+  image: "/forestry/galeriegaia@Seuil-19 @Versants-Vicosa.05-40x30cm.jpg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -173,7 +173,7 @@ works:
   sold: false
   contextual: false
 - title: Viçosa VI
-  image: "/forestry/vicosa-vi.jpg"
+  image: "/forestry/galeriegaia@Seuil-20 @Versants-Vicosa.06-40x30cm.jpg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -183,7 +183,7 @@ works:
   sold: false
   contextual: false
 - title: Viçosa VII
-  image: "/forestry/@Versants-Vicosa.07-70x100cm.jpg"
+  image: "/forestry/galeriegaia@Seuil-21 @Versants-Vicosa.07-70x100cm.jpg"
   technique: Sérigraphie
   dimensions:
     height: 70
