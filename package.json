@@ -37,7 +37,7 @@
     "react-hook-form": "^5.2.0",
     "react-lazy-load-image-component": "^1.4.3",
     "react-medium-image-zoom": "^4.3.0",
-    "react-use": "^14.0.0",
+    "react-use": "^14.1.0",
     "remove-markdown": "^0.3.0",
     "typeface-montserrat": "0.0.75"
   },
