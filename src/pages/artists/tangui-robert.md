@@ -24,7 +24,7 @@ works:
     width: 50
     depth: 
   description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
-  price: 380
+  price: 450
   sold: false
   contextual: false
 - title: Lames minces
