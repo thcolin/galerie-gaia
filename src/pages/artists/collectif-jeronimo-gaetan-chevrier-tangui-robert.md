@@ -22,9 +22,9 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Ta
   textures et volumes fait surgir des équations pertinentes, des espaces parallèles.
   \ \n_L’extraction de la matière grise sur le papier questionne l’extraction de la
   matière organique de son sol.\"  \n_Claire Burban\n\nTangui Robert, architecte plasticien,
-  Gaëtan Chevrier, photographe et Jéronimo, artiste et sérigraphe, sont tous trois
-  Nantais et se sont réunis par affinité artistique pour produire ensemble et croiser
-  leur production respective."
+  Gaëtan Chevrier, photographe et Jérôme Maillet, artiste et sérigraphe, sont tous
+  trois Nantais et se sont réunis par affinité artistique pour produire ensemble et
+  croiser leur production respective."
 exhibitions: []
 works:
 - title: Strates I
@@ -188,7 +188,7 @@ works:
   dimensions:
     height: 70
     width: 100
-  description: en 15 exemplaires
+  description: Edition en 15 exemplaires
   price: 620
   contextual: true
 - title: 'Gisement I '
