@@ -129,7 +129,7 @@ works:
   price: 280
   contextual: false
 - title: Viçosa I
-  image: "/forestry/vicosa-i.jpg"
+  image: "/forestry/galeriegaia@Seuil-15 @Versants-Vicosa.01-40x30cm.jpg"
   technique: Sérigraphie Edition en 15 exemplaires
   dimensions:
     height: 40
@@ -137,7 +137,7 @@ works:
     depth: 
   description: Œuvre encadrée cadre aluminium chêne
   price: 170
-  sold: false
+  sold: true
   contextual: false
 - title: Viçosa II
   image: "/forestry/vicosa-ii.jpg"
