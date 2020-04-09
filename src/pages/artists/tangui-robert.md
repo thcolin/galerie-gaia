@@ -61,14 +61,14 @@ works:
   sold: false
   contextual: false
 - title: Salento
-  image: "/forestry/salento.jpg"
+  image: "/forestry/@Tangui Robert-Salento-40x50_1.jpg"
   technique: Gravure sur zinc et photo et piquetage photographique Edition en 20 exemplaires
   dimensions:
     height: 43
     width: 53
     depth: 
   description: "œuvre encadrée cadre bois naturel montage caisson   \n2013 "
-  price: 430
+  price: 450
   sold: false
   contextual: false
 - title: Taï-o / Mali
@@ -90,7 +90,7 @@ works:
     width: 73
     depth: 
   description: "œuvre encadrée cadre chêne réhausse 5cm montage caisson  \n2016 "
-  price: 900
+  price: 850
   sold: false
   contextual: true
 - title: 'Reliquat I '
