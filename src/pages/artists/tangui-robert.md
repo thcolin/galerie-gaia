@@ -16,13 +16,22 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: Empreinte
+  image: "/forestry/@Tangui Robert-Empreinte-30x40_1.jpg"
+  technique: Gravure sur zinc et photographies
+  dimensions:
+    height: 40
+    width: 30
+  description: œuvre encadrée cadre standard bois naturel montage caisson
+  price: 380
+  contextual: true
 - title: 'Digue '
   image: "/forestry/@Tangui Robert-Digue-30x40.jpg_1.jpg"
   technique: Gravure et piquage photos Edition en 20 exemplaires
   dimensions:
     height: 40
     width: 30
-  description: ''
+  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2017"
   price: 380
   contextual: true
 - title: Alcantara
