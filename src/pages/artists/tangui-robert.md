@@ -16,15 +16,15 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
-- title: L'oeil de la Duchesse
-  image: "/forestry/loeil-de-la-duchesse.jpg"
-  technique: Gravure sur zinc et pigment doré, collage
+- title: Alcantara
+  image: "/forestry/galeriegaia_Robert_Alcantara(5:20)(2018)_40x50.jpg"
+  technique: 'Gravure sur zinc et photographies Edition en 20 exemplaires '
   dimensions:
-    height: 25
-    width: 31
+    height: 40
+    width: 50
     depth: 
-  description: "œuvre encadrée cadre standard aluminium couleur chêne   \n2014"
-  price: 270
+  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
+  price: 380
   sold: false
   contextual: false
 - title: Lames minces
