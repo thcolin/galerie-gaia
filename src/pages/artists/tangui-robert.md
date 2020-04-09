@@ -16,6 +16,24 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: Louxor
+  image: "/forestry/@Tangui Robert-Louxor-24x30_1.jpg"
+  technique: Gravure sur zinc et photographies Epreuve d'artiste
+  dimensions:
+    height: 24
+    width: 30
+  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2012"
+  price: 0
+  contextual: true
+- title: Etude
+  image: "/forestry/@Tangui Robert-Etude-50x70_1.jpg"
+  technique: Gravure sur zinc photographie cire et plomb
+  dimensions:
+    height: 70
+    width: 50
+  description: œuvre encadrée cadre standard bois naturel montage caisson
+  price: 520
+  contextual: true
 - title: Empreinte
   image: "/forestry/@Tangui Robert-Empreinte-30x40_1.jpg"
   technique: Gravure sur zinc et photographies
