@@ -88,7 +88,7 @@ works:
   dimensions:
     height: 70
     width: 100
-  description: ''
+  description: 'Œuvre encadrée '
   price: 2400
   contextual: true
 - title: Perroquet vigie
