@@ -38,6 +38,16 @@ biography: |-
   " Hand Art" Production FFHB Edition De La Martiniére Sortie Oct 2012
 exhibitions: []
 works:
+- title: New York 3
+  image: "/forestry/JF Molliere  New York 3 061.JPG"
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
+  price: 1800
+  contextual: true
 - title: New York 7
   image: "/forestry/1349.jpg"
   technique: 'photographie Edition en 15 exemplaires '
@@ -148,48 +158,26 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: "1357"
-  image: "/forestry/1357.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: "1358"
+- title: La Havane 2
   image: "/forestry/1358.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 70
+    width: 100
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
-- title: "1359"
+- title: La Havane 1
   image: "/forestry/1359.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 80
+    width: 100
     depth: 
   description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: "1360"
-  image: "/forestry/1360.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 redirect_from:
