@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Logo from 'components/Logo'
 import Icon from 'components/Icon'
 import RichText from 'components/RichText'
@@ -8,12 +8,11 @@ import theme from 'theme'
 
 const Navigation = ({ pageContext, ...props }) => {
   const [open, _setOpen] = useState(false)
-  const [submenu, _setSubmenu] = useState(typeof sessionStorage !== 'undefined' ? sessionStorage.getItem('submenu') : false)
+  const [submenu, _setSubmenu] = useState(typeof sessionStorage !== 'undefined' && sessionStorage.getItem('submenu') === 'true')
 
   const setOpen = (value) => {
     window.scrollTo({ top: 0, behavior: 'smooth' })
     _setOpen(value)
-
     setTimeout(() => trapScroll(value), 500)
   }
 
@@ -22,6 +21,10 @@ const Navigation = ({ pageContext, ...props }) => {
     sessionStorage.setItem('submenu', value)
     _setSubmenu(value)
   }
+
+  useEffect(() => {
+    return () => trapScroll(false)
+  })
 
   return (
     <div css={Navigation.styles.element}>
@@ -134,6 +137,10 @@ Navigation.styles = {
     [theme.medias.extralarge]: {
       display: 'none',
     },
+    '>button': {
+      background: 'none !important',
+      border: 'none !important',
+    }
   },
   container: {
     [theme.medias.small]: {
