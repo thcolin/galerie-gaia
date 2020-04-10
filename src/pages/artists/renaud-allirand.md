@@ -62,6 +62,35 @@ biography: "LES ECRITURES REBELLES  \nde Renaud Allirand\n\n\nBarbelés infranch
   Robinet\n\n\nTranslation: Diana Quinby"
 exhibitions: []
 works:
+- title: "8"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 36.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: "7"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 30.jpg"
+  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: "6"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 27.jpg"
+  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: "5"
   image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 26.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
