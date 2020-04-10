@@ -68,12 +68,12 @@ works:
   dimensions:
     height: 65
     width: 50
-    depth:
+    depth: 
   description: |-
     5/8
     2010
     400 €
-  price:
+  price: 
   sold: false
   contextual: true
 - title: 3 juillet
@@ -82,20 +82,20 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth:
+    depth: 
   description: "3/6 \n2009 \n450 €"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: 12 Mai
-  image: "/forestry/12-mai.jpg"
-  technique: eau forte et pointe sèche sur cuivre
+  image: "/forestry/galeriegaia-12mai-RenaudALLIRAND-2010-eauForte-pointeSecheSurCuivre-40x50cm.jpeg"
+  technique: eau forte et pointe sèche sur cuivre 20/40
   dimensions:
     height: 56
     width: 76
-    depth:
-  description: "20/40\n2010 \n500 €"
-  price:
+    depth: 
+  description: '2010 '
+  price: 500
   sold: false
   contextual: true
 - title: VI
@@ -104,25 +104,23 @@ works:
   dimensions:
     height: 76
     width: 56
-    depth:
+    depth: 
   description: "E.A 2/5 \n2015\n450€"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: XXVII
   image: "/forestry/xxvii.jpg"
-  technique: Eau forte et pointe sèche sur cuivre
+  technique: Eau forte et pointe sèche sur cuivre 4/5
   dimensions:
     height: 65
     width: 50
-    depth:
-  description: |-
-    4/5
-    350 €
-  price:
+    depth: 
+  description: "\n"
+  price: 350
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/35-renaud-allirand/
----
+- "/artistes/35-renaud-allirand/"
 
+---
