@@ -6,26 +6,24 @@ field: Photographe - Peintre
 birth: "0"
 death: "0"
 expose: true
-biography: Neil Ratnavira de Alwis est un artiste photographe et peintre abstrait
-  né le 7 août 1978 à Colombo au Sri Lanka. Il fut élevé par sa mère et grand-mère
-  dans un pays meurtri par la guerre civile. Les premières années de sa vie furent
-  rythmées par une scolarité irrégulière, un quotidien constamment interrompu par
-  les couvre-feux, les explosions de voitures piégées, bus incendiés et immeubles
-  en feu. En 1989, Neil et sa mère déménagèrent à Paris pour commencer une nouvelle
+biography: "Neil Ratnavira de Alwis est un artiste photographe et peintre expressionniste
+  abstrait.   \n  \nNé en 1978 à Colombo au Sri Lanka. Il fut élevé par sa mère et
+  grand-mère dans un pays meurtri par la guerre civile. Les premières années de sa
+  vie furent rythmées par une scolarité irrégulière, un quotidien constamment interrompu
+  par les couvre-feux, les explosions de voitures piégées, bus incendiés et immeubles
+  en feu.   \nEn 1989, Neil et sa mère déménagèrent à Paris pour commencer une nouvelle
   vie. Malgré les difficultés économiques et les problématiques d’intégration sociale
   en France, il appris le français sur le tas et fut accepté dans un lycée d’arts
   graphiques parisien dans lequel il obtenu un diplôme de design graphique et d’Art.
   A  20 ans, Neil déménagea en Californie pour commencer sa vie d’artiste. Il a exposé
-  à Paris, Londres, San Diego et Los Angeles. Neil a peint toute sa vie. Son art est
-  sa force motrice et sa raison d’être. Il a souvent dit « Si je ne peignais pas,
-  je serais sûrement mort ». Pour Neil, son art est sa façon de s’exprimer, son réconfort
-  et quand cela est requis son arme ! Il s’exprime et dépeint ses sentiments via ses
-  toiles et les textures de sa peinture à l’huile. C’est un autodidacte dont le style
-  a évolué au fil des années. Il est passionné par l’abstrait et les humains derrière
-  le travail, il repousse sans arrêt son Art et lui-même jusqu’aux limites ! Plus
-  que jamais, Neil a l’impression, d’être devenu ce peintre qui a toujours souhaité
-  partager son travail avec tout le monde et tous ceux qui souhaitent regarder de
-  plus prêt.
+  à Paris, Londres, San Diego et Los Angeles.  Pour Neil, son art est sa façon de
+  s’exprimer, son réconfort et quand cela est requis son arme ! Il s’exprime et dépeint
+  ses sentiments via ses toiles et les textures de sa peinture à l’huile ou de ses
+  photographies. C’est un autodidacte dont le style a évolué au fil des années. Il
+  est passionné par l'image et l’abstrait , il repousse sans arrêt son Art et lui-même
+  jusqu’aux limites ! Plus que jamais, Neil a l’impression, d’être devenu cet artiste
+  qui a toujours souhaité partager son travail avec tout le monde et tous ceux qui
+  souhaitent regarder de plus prêt."
 exhibitions: []
 works:
 - title: Abstract ink 3
