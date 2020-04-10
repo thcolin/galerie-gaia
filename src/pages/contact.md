@@ -41,7 +41,7 @@ seo:
     Un besoin d’information,
     Connaître les actualités de la galerie,
     Envie d’être invité aux prochains vernissages ?
-  image: "/forestry/seo-contact.jpg"
+  image: "/forestry/photo facade-1.jpg"
 redirect_from:
 - "/galerie-d-art-nantes/"
 

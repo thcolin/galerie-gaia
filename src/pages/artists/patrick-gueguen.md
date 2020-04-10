@@ -165,7 +165,7 @@ works:
     width: 
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 redirect_from:
