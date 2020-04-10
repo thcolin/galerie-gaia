@@ -114,8 +114,8 @@ works:
   dimensions:
     height: 120
     width: 90
-  description: "cadre blanc sous verre  \n2020031203"
-  price: 3500
+  description: "cadre blanc sous verre  \n2020031203  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Drawing trash color '
   image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
@@ -123,8 +123,8 @@ works:
   dimensions:
     height: 100
     width: 70
-  description: "cadre blanc sous verre  \n2020031202"
-  price: 3500
+  description: "cadre blanc sous verre  \n2020031202  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Drawing Trash Color  '
   image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
@@ -132,8 +132,8 @@ works:
   dimensions:
     height: 120
     width: 90
-  description: "cadre blanc sous verre  \n2020031201"
-  price: 3500
+  description: "cadre blanc sous verre  \n2020031201  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Trash and color '
   image: "/forestry/galeriegaia@tomaL-2019111701-TrashAndColor-162x130cm.jpg"
@@ -141,17 +141,17 @@ works:
   dimensions:
     height: 162
     width: 130
-  description: "2019111701"
-  price: 6500
+  description: "2019111701  \nprix sur demande "
+  price: ''
   contextual: true
-- title: 'Liitle trash '
+- title: 'Little trash '
   image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
   dimensions:
     height: 109
     width: 79
-  description: "cadre blanc flottant sous verre  \n2018020601"
-  price: 3500
+  description: "cadre blanc flottant sous verre  \n2018020601  \nprix sur demande "
+  price: ''
   contextual: false
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
