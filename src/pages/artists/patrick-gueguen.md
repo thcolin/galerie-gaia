@@ -89,7 +89,7 @@ works:
     height: 70
     width: 100
   description: 'Œuvre encadrée '
-  price: 2400
+  price: 1800
   contextual: true
 - title: Perroquet vigie
   image: "/forestry/perroquet-vigie.jpg"
@@ -99,7 +99,7 @@ works:
     width: 70
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 - title: Cerf aux 2 personnages
@@ -110,7 +110,7 @@ works:
     width: 70
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 - title: "1220825"
@@ -121,22 +121,11 @@ works:
     width: 50
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 - title: Exposition vernissage samedi 9 juin 11H
   image: "/forestry/exposition-vernissage-samedi-9-juin-11h.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: VERNISSAGE SAMEDI 9 JUIN 11H
-  image: "/forestry/vernissage-samedi-9-juin-11h.jpg"
   technique: ''
   dimensions:
     height: 
@@ -154,7 +143,7 @@ works:
     width: 
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 - title: La déesse au repos-plaisir sur son menhir
@@ -165,7 +154,7 @@ works:
     width: 
     depth: 
   description: ''
-  price: 
+  price: 1800
   sold: false
   contextual: true
 - title: Les étranges messagers du centre et des extrémités
