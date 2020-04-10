@@ -82,15 +82,15 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: "1351"
+- title: Inside the horizon
   image: "/forestry/1351.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 100
+    width: 85
     depth: 
-  description: ''
-  price: 
+  description: Edition en 15 exemplaires
+  price: 1800
   sold: false
   contextual: true
 - title: "1352"
