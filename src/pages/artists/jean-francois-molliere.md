@@ -115,37 +115,37 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: "1354"
+- title: Chicago Emercency Exit
   image: "/forestry/1354.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 60
+    width: 72
     depth: 
   description: ''
   price: 
   sold: false
   contextual: true
-- title: "1355"
+- title: New York 4
   image: "/forestry/1355.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 72
+    width: 60
     depth: 
   description: ''
-  price: 
+  price: 1200
   sold: false
   contextual: true
-- title: "1356"
+- title: La Havane 4
   image: "/forestry/1356.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 72
+    width: 60
     depth: 
   description: ''
-  price: 
+  price: 1200
   sold: false
   contextual: true
 - title: "1357"
