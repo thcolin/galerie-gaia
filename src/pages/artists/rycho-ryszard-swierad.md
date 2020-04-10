@@ -6,14 +6,25 @@ field: Peintre / Photographe
 birth: "0"
 death: "0"
 expose: true
-biography: "L'artiste fut diplômé de l'Académie des Beaux-Arts de Wroclaw (Pologne).\n\nAprès
-  une remise en question de sa vie, Richard Swierad a décidé de se consacrer entièrement
-  à la création artistique.\nIl compose d'abord une « matrice », « image-sensation »,
-  à partir d'une ou plusieurs photographies  qu'il a prises lui-même. A partir de
-  là, avec des outils numériques, se met en mouvement le geste du peintre qu'il a
-  toujours été. \n\n« Je suis imagiste »..."
+biography: |-
+  L'artiste fut diplômé de l'Académie des Beaux-Arts de Wroclaw (Pologne).
+
+  Après une remise en question de sa vie, Richard Swierad a décidé de se consacrer entièrement à la création artistique. Il compose d'abord une « matrice », « image-sensation », à partir d'une ou plusieurs photographies  qu'il a prises lui-même. A partir de là, avec des outils numériques, il met en mouvement le geste du peintre qu'il a toujours été.
+
+  « Je suis imagiste »...
 exhibitions: []
 works:
+- title: Albert
+  image: "/forestry/albert.jpg"
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
+  dimensions:
+    height: 96
+    width: 70
+    depth: 
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
 - title: St Lui
   image: "/forestry/st-lui.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
@@ -71,17 +82,6 @@ works:
   contextual: true
 - title: Titanic
   image: "/forestry/titanic.jpg"
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 96
-    width: 70
-    depth: 
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Albert
-  image: "/forestry/albert.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -170,52 +170,46 @@ works:
   contextual: true
 - title: Sleep Way
   image: "/forestry/sleep-way.jpg"
-  technique: image photographique
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
-    height: 50
-    width: 50
+    height: 96
+    width: 70
     depth: 
   description: ''
-  price: 
+  price: 600
   sold: false
   contextual: true
 - title: CC 0013
   image: "/forestry/cc-0013.jpg"
-  technique: image
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 100
     width: 70
     depth: 
-  description: |-
-    tirage sur papier 2/7
-    600 €
-  price: 
+  description: ''
+  price: 600
   sold: false
   contextual: true
 - title: Lenox Pizza
   image: "/forestry/lenox-pizza.jpg"
-  technique: image
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
-    height: 100
-    width: 70
+    height: 70
+    width: 100
     depth: 
-  description: |-
-    tirage sur papier
-    700 €
-  price: 
+  description: ''
+  price: 700
   sold: false
   contextual: true
 - title: Skyline
   image: "/forestry/skyline.jpg"
-  technique: image
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
-    height: 100
-    width: 70
+    height: 70
+    width: 100
     depth: 
-  description: |-
-    tirage sur papier
-    700 €
-  price: 
+  description: ''
+  price: 700
   sold: false
   contextual: true
 redirect_from:
