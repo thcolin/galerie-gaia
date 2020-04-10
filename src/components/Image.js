@@ -2,53 +2,24 @@ import React, { useState, useCallback } from 'react'
 import { withPrefix } from 'gatsby'
 import theme from 'theme'
 
-const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => {
-  const [ready, setReady] = useState([])
-
-  const original = useCallback(node => {
-    if (!ready.includes('original') && node !== null && node.complete) {
-      setReady([...ready, 'original'])
-    }
-  }, [])
-
-  const fallback = useCallback(node => {
-    if (!ready.includes('fallback') && node !== null && node.complete) {
-      setReady([...ready, 'fallback'])
-    }
-  }, [])
-
-  return (
-    <span css={[props.css, Image.styles.element]}>
-      <img
+const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => (
+  <span css={[props.css, Image.styles.element]}>
+    <FadeInImage
+      {...props}
+      src={withPrefix(`${min ? src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, match => match.toLowerCase()) : src}`)}
+      alt={alt}
+      css={Image.styles.image}
+    />
+    {trace && (
+      <FadeInImage
         {...props}
-        ref={original}
-        src={withPrefix(`${min ? src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, match => match.toLowerCase()) : src}`)}
+        src={withPrefix(`${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, '.svg')}`)}
         alt={alt}
-        onLoad={() => setReady([...ready, 'original'])}
-        onError={() => setReady([...ready, 'original'])}
-        onAbort={() => setReady([...ready, 'original'])}
-        css={Image.styles.image}
-        style={{
-          opacity: ready.includes('original') ? 1 : 0,
-        }}
+        css={Image.styles.trace}
       />
-      {trace && (
-        <img
-          {...props}
-          ref={fallback}
-          src={withPrefix(`${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, '.svg')}`)}
-          onLoad={() => setReady([...ready, 'fallback'])}
-          onError={() => setReady([...ready, 'fallback'])}
-          onAbort={() => setReady([...ready, 'fallback'])}
-          css={Image.styles.trace}
-          style={{
-            opacity: ready.includes('fallback') ? 1 : 0,
-          }}
-        />
-      )}
-    </span>
-  )
-}
+    )}
+  </span>
+)
 
 Image.styles = {
   element: {
@@ -73,6 +44,27 @@ Image.styles = {
     width: '100%',
     transition: 'opacity ease-in-out 400ms 800ms',
   },
+}
+
+const FadeInImage = ({ ...props }) => {
+  const [ready, setReady] = useState(false)
+
+  const ref = useCallback(node => {
+    if (!ready && node !== null && node.complete) {
+      setReady(true)
+    }
+  }, [])
+
+  return (
+    <img
+      {...props}
+      ref={ref}
+      onLoad={() => setReady(true)}
+      onError={() => setReady(true)}
+      onAbort={() => setReady(true)}
+      style={{ opacity: ready ? 1 : 0 }}
+  />
+  )
 }
 
 export default Image
