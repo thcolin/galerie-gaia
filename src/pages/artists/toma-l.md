@@ -159,8 +159,8 @@ works:
   dimensions:
     height: 40
     width: 30
-  description: "cadre ne chêne verre musée  \n2020031103"
-  price: 1600
+  description: "cadre ne chêne verre musée  \n2020031103  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
@@ -177,8 +177,8 @@ works:
   dimensions:
     height: 40
     width: 30
-  description: "cadre en chêne et verre musée  \n202031101"
-  price: 1600
+  description: "cadre en chêne et verre musée  \n202031101  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Little trash & color '
   image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm-1.jpg"
@@ -186,8 +186,8 @@ works:
   dimensions:
     height: 142
     width: 105
-  description: "caisse américaine noire  \n2019022702"
-  price: 5200
+  description: "caisse américaine noire  \n2019022702  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Graphite & Colors '
   image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019-1.jpg"
@@ -195,8 +195,8 @@ works:
   dimensions:
     height: 182
     width: 121
-  description: "Caisse américaine noire  \n2019022501"
-  price: 6700
+  description: "Caisse américaine noire  \n2019022501  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Graphite & Color '
   image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
@@ -209,8 +209,8 @@ works:
   contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
-  description: "Caisse américaine noire  \n2018091815"
-  price: 3500
+  description: "Caisse américaine noire  \n2018091815  \nprix sur demande "
+  price: ''
   technique: Technique mixte sur papier
   dimensions:
     height: 109
@@ -219,8 +219,8 @@ works:
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
-  description: "caisse américaine noire  \n2018091809"
-  price: 3500
+  description: "caisse américaine noire  \n2018091809  \nprix sur demande "
+  price: ''
   contextual: true
   dimensions:
     height: 109
@@ -231,8 +231,8 @@ works:
   dimensions:
     height: 109
     width: 79
-  description: "caisse américaine noire  \n2018091805"
-  price: 3500
+  description: "caisse américaine noire  \n2018091805  \nprix sur demande "
+  price: ''
   sold: false
   contextual: true
 - title: 'Black and simple color '
@@ -241,8 +241,8 @@ works:
   dimensions:
     height: 108
     width: 78
-  description: "caisse américaine chêne  \n2018091803"
-  price: 3500
+  description: "caisse américaine chêne  \n2018091803  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
@@ -250,8 +250,8 @@ works:
   dimensions:
     height: 109
     width: 79
-  description: "caisse américaine noire  \n2018091802"
-  price: 3500
+  description: "caisse américaine noire  \n2018091802  \nprix sur demande "
+  price: ''
   sold: false
   contextual: true
 - title: 'Green side of the man '
@@ -270,8 +270,8 @@ works:
   dimensions:
     height: 146
     width: 107
-  description: 'caisse américaine noire '
-  price: 5900
+  description: "caisse américaine noire  \nprix sur demande "
+  price: ''
   contextual: false
 - title: Wood cartel black
   image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm ES.jpg"
@@ -280,7 +280,7 @@ works:
     height: 106
     depth: 
     width: 70
-  description: 'caisse américaine '
+  description: "caisse américaine  \nprix sur demande "
   price: 
   sold: false
   contextual: false
@@ -290,8 +290,8 @@ works:
   dimensions:
     height: 100
     width: 70
-  description: "caisse américaine chêne  \n2012040601"
-  price: 0
+  description: "caisse américaine chêne  \n2012040601  \nprix sur demande "
+  price: ''
   contextual: true
 - title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
@@ -313,8 +313,8 @@ works:
     height: 70
     width: 72
     depth: 
-  description: "caisse américaine chêne  \n2012111101"
-  price: 2900
+  description: "caisse américaine chêne  \n2012111101  \nprix sur demande "
+  price: ''
   sold: false
   contextual: true
 - title: Bonne pierre bon œil 10
