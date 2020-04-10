@@ -10,10 +10,10 @@ const Contextual = ({ work, ...props }) => {
 
   const sizes = {
     medium: {
-      height: [60, 180],
-      width: [1, 140],
-      ratio: 150, // (width of the picture in cm)
-      margin: `${24 - (13 * ((work.dimensions.height - 60) / (180 - 60)))}% 0 42%`,
+      height: [60, 165],
+      width: [1, 132],
+      ratio: 170, // (width of the picture in cm)
+      margin: `${24 - (12 * ((work.dimensions.height - 60) / (180 - 60)))}% 0 60%`,
     },
   }
 
@@ -85,15 +85,19 @@ Contextual.styles = {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '100%',
+    maxHeight: '100vh',
   },
   wall: {
     position: 'relative',
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'flex-end',
-    height: '100%',
+    maxHeight: '100vh',
     '>span>img': {
+      height: 'auto',
+      maxHeight: '100vh',
+      width: 'auto',
+      maxWidth: '100%',
       objectFit: 'contain',
     },
   },
