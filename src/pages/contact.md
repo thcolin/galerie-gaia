@@ -19,18 +19,18 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   de leur confiance. Ainsi ses gravures, peintures, stèles et tapisseries sont exposées
   et disponibles à la vente en exclusivité à la galerie.\n\nVous avez trouvé une œuvre
   sur le site qui vous plait et vous hésitez ?  \nComment financer votre achat ?  \nLes
-  livraisons sont-elles possibles partout ?  \n  \nUn crédo : faire simple  \n  \n**1.
-  \ Essayer l’œuvre chez vous** pendant une semaine contre un chèque de caution de
-  son montant. Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez
-  choisir en toute confiance.  \n**2.**  **Financez votre choix** avec la défiscalisation,
-  le leasing, le paiement en plusieurs fois ou la carte cadeau avec une cagnotte (détail
-  dans la rubrique Prestation) et par virement.  \n**3**. Tout ce que vous voyez est
-  disponible et les **expéditions** sont possibles en France et dans le monde entier
-  (DHL - UPS- TNT) sur devis.\n\n**Depuis chez vous ou dans la galerie...**  \n**Venez,
-  entrez et découvrez**  \n**l’évidence**  \n**l’évidence devant une œuvre qui s’impose
-  \ \nl’évidence qui ne se discute pas et dont on pourra discuter  \nl’évidence qui
-  se garde pour soi  \nl’évidence qui se partage  \nl’évidence qui euphorise et qui
-  rayonne**"
+  livraisons sont-elles possibles partout ?\n\nUn crédo : faire simple\n\n**1.  Essayer
+  l’œuvre chez vous** pendant une semaine contre un chèque de caution de son montant.
+  Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir
+  en toute confiance.  \n**2.**  **Financez votre choix** avec la défiscalisation,
+  le leasing, le paiement en plusieurs fois, la carte cadeau avec une cagnotte (détail
+  dans la rubrique Prestation),par virement ou carte bancaire.  \n**3**. Tout ce que
+  vous voyez est disponible et les **expéditions** sont possibles en France et dans
+  le monde entier (DHL - UPS- TNT) sur devis.\n\n**Depuis chez vous ou dans la galerie...**
+  \ \n**Venez, entrez et découvrez**  \n**l’évidence**  \n**l’évidence devant une
+  œuvre qui s’impose  \nl’évidence qui ne se discute pas et dont on pourra discuter
+  \ \nl’évidence qui se garde pour soi  \nl’évidence qui se partage  \nl’évidence
+  qui euphorise et qui rayonne**"
 title: La Galerie
 about: "Un besoin d’information,  \nConnaître les actualités de la galerie,  \nEnvie
   d’être invité aux prochains vernissages ?"
