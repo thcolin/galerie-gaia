@@ -93,79 +93,79 @@ works:
   contextual: true
 - title: NY tuesday
   image: "/forestry/ny-tuesday.jpg"
-  technique: mixte sur papier
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 100
     width: 70
     depth: 
-  description: tirage à 22 exemplaires
-  price: 
+  description: ''
+  price: 700
   sold: false
   contextual: true
 - title: "1995"
   image: "/forestry/1995.jpg"
-  technique: TIRAGE PAPIER 1/21
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
     width: 30
     depth: 
   description: ''
-  price: 
+  price: 180
   sold: false
   contextual: true
 - title: COCA IN NY
   image: "/forestry/coca-in-ny.jpg"
-  technique: TIRAGE PAPIER 3/21
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
     width: 40
     depth: 
   description: ''
-  price: 
+  price: 240
   sold: false
   contextual: true
 - title: E125ST
   image: "/forestry/e125st.jpg"
-  technique: TIRAGE PAPIER 3/21
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
     width: 30
     depth: 
   description: ''
-  price: 
+  price: 220
   sold: false
   contextual: true
 - title: OEEVE
   image: "/forestry/oeeve.jpg"
-  technique: TIRAGE PAPIER 3/21
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
     width: 30
     depth: 
   description: ''
-  price: 
+  price: 220
   sold: false
   contextual: true
 - title: 3 FRERES
   image: "/forestry/3-freres.jpg"
-  technique: TIRAGE PAPIER 3/21
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
-    height: 100
-    width: 70
+    height: 70
+    width: 100
     depth: 
   description: ''
-  price: 
+  price: 700
   sold: false
   contextual: true
 - title: NY6084
   image: "/forestry/ny6084.jpg"
-  technique: ''
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
-    height: 90
-    width: 60
+    height: 70
+    width: 100
     depth: 
   description: ''
-  price: 
+  price: 700
   sold: false
   contextual: true
 - title: Sleep Way
