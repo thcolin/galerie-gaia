@@ -39,6 +39,17 @@ biography: |-
 exhibitions: []
 works:
 - title: Tokyo
+  image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 22
+    26.JPG"
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: ''
+  price: 1500
+  contextual: true
+- title: Tokyo
   image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
     22.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
