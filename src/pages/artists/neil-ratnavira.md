@@ -28,6 +28,12 @@ biography: Neil Ratnavira de Alwis est un artiste photographe et peintre abstrai
   plus prêt.
 exhibitions: []
 works:
+- title: Installation dans la galerie Gaïa
+  image: "/forestry/galeriegaia-Acrylic-wall.jpg"
+  technique: 'Acrylique sur toile '
+  description: ''
+  price: 0
+  contextual: true
 - title: Mojito
   image: "/forestry/mojito.jpg"
   technique: digigraphie
