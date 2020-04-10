@@ -93,26 +93,26 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: "1352"
+- title: Chicago 2
   image: "/forestry/1352.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 60
+    width: 72
     depth: 
   description: ''
-  price: 
+  price: 1200
   sold: false
   contextual: true
-- title: "1353"
+- title: Chicago 3
   image: "/forestry/1353.jpg"
-  technique: ''
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 
-    width: 
+    height: 60
+    width: 72
     depth: 
   description: ''
-  price: 
+  price: 1200
   sold: false
   contextual: true
 - title: "1354"
