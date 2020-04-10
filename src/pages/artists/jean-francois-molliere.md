@@ -38,6 +38,17 @@ biography: |-
   " Hand Art" Production FFHB Edition De La Martiniére Sortie Oct 2012
 exhibitions: []
 works:
+- title: Tokyo
+  image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
+    22.JPG"
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  dimensions:
+    height: 80
+    width: 90
+    depth: 0
+  description: ''
+  price: 1600
+  contextual: true
 - title: Chicago 1
   image: "/forestry/JF Molliere Chicago 1 062.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
