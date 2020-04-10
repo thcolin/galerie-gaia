@@ -77,11 +77,11 @@ works:
     height: 100
     width: 70
     depth: 
-  description: 1500€
-  price: 
+  description: ''
+  price: 1500
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/91-edwin-wide/
----
+- "/artistes/91-edwin-wide/"
 
+---
