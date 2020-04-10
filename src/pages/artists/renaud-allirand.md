@@ -64,27 +64,24 @@ exhibitions: []
 works:
 - title: 2 ème jour
   image: "/forestry/2-eme-jour.jpg"
-  technique: eau forte et pointe sèche sur zinc
+  technique: eau forte et pointe sèche sur zinc 5/8
   dimensions:
     height: 65
     width: 50
     depth: 
-  description: |-
-    5/8
-    2010
-    400 €
-  price: 
+  description: "2010"
+  price: 400
   sold: false
   contextual: true
 - title: 3 juillet
   image: "/forestry/3-juillet.jpg"
-  technique: eau fort et pointe sèche sur cuivre
+  technique: eau fort et pointe sèche sur cuivre 3/6
   dimensions:
     height: 76
     width: 56
     depth: 
-  description: "3/6 \n2009 \n450 €"
-  price: 
+  description: "2009"
+  price: 450
   sold: false
   contextual: true
 - title: 12 Mai
@@ -100,13 +97,13 @@ works:
   contextual: true
 - title: VI
   image: "/forestry/vi.jpg"
-  technique: eau forte sur cuivre
+  technique: eau forte sur cuivre E.A 2/5
   dimensions:
     height: 76
     width: 56
     depth: 
-  description: "E.A 2/5 \n2015\n450€"
-  price: 
+  description: "2015"
+  price: 450
   sold: false
   contextual: true
 - title: XXVII
