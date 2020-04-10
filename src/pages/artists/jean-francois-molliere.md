@@ -38,6 +38,26 @@ biography: |-
   " Hand Art" Production FFHB Edition De La Martiniére Sortie Oct 2012
 exhibitions: []
 works:
+- title: Chicago 1
+  image: "/forestry/JF Molliere Chicago 1 062.JPG"
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  dimensions:
+    height: 80
+    width: 70
+    depth: 1500
+  description: ''
+  price: 0
+  contextual: true
+- title: New York 8
+  image: "/forestry/JF Molliere  New York 8 068.JPG"
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
+  price: 1800
+  contextual: true
 - title: New York 3
   image: "/forestry/JF Molliere  New York 3 061.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
