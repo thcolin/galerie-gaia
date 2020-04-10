@@ -28,6 +28,24 @@ biography: Neil Ratnavira de Alwis est un artiste photographe et peintre abstrai
   plus prêt.
 exhibitions: []
 works:
+- title: Abstract ink 2
+  image: "/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
+  technique: 'Encre sur papier '
+  dimensions:
+    height: 65
+    width: 50
+  description: ''
+  price: 450
+  contextual: false
+- title: Abstract ink 1
+  image: "/forestry/galeriegaia-small-ink3-paper-neil-ratnavira-manoirart.jpg"
+  technique: 'Encre sur papier '
+  dimensions:
+    height: 65
+    width: 50
+  description: ''
+  price: 450
+  contextual: false
 - title: 'Large abstract square '
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-square-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
