@@ -62,6 +62,58 @@ biography: "LES ECRITURES REBELLES  \nde Renaud Allirand\n\n\nBarbelés infranch
   Robinet\n\n\nTranslation: Diana Quinby"
 exhibitions: []
 works:
+- title: "5"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 26.jpg"
+  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: "4"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 16.jpg"
+  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: "3"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 10.jpg"
+  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: ''
+  price: 500
+  sold: false
+  contextual: true
+- title: "2"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 7.jpg"
+  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  dimensions:
+    height: 50
+    width: 70
+    depth: 
+  description: "2009"
+  price: 500
+  contextual: true
+  sold: false
+- title: "1"
+  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 4.jpg"
+  technique: 'Eau forte pointe sèche sur zinc '
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
 - title: 2 ème jour
   image: "/forestry/2-eme-jour.jpg"
   technique: eau forte et pointe sèche sur zinc 5/8
