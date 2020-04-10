@@ -42,15 +42,15 @@ biography: "Alain Clément est né à Neuilly-sur-Seine en 1941.\nIl vit et trav
   Musée d'Art Moderne, Céret, France"
 exhibitions: []
 works:
-- title: 06MA6G (4/19)
+- title: '06MA6G '
   image: "/forestry/06ma6g-419.jpg"
-  technique: Aquatinte
+  technique: Aquatinte 4/19
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: 2006 650€
-  price: 
+  description: '2006 '
+  price: 650
   sold: false
   contextual: true
 - title: 'Sans titre #2'
@@ -64,9 +64,9 @@ works:
   price: 650
   sold: false
   contextual: true
-- title: 06MA3G (14/19)
+- title: '06MA3G '
   image: "/forestry/06ma3g-1419.jpg"
-  technique: Aquatinte
+  technique: Aquatinte 14/19
   dimensions:
     height: 66
     width: 50
@@ -75,29 +75,29 @@ works:
   price: 550
   sold: false
   contextual: true
-- title: 04JA1G (16/30)
+- title: '04JA1G '
   image: "/forestry/04ja1g-1630.jpg"
-  technique: Aquatinte
+  technique: Aquatinte 16/30
   dimensions:
     height: 58
     width: 38
     depth: 
-  description: 2004 450€
-  price: 
+  description: '2004 '
+  price: 450
   sold: false
   contextual: true
-- title: 04JA4G(8/30)
+- title: '04JA4G '
   image: "/forestry/04ja4g830.jpg"
-  technique: Aquatinte
+  technique: Aquatinte 8/30
   dimensions:
     height: 58
     width: 38
     depth: 
-  description: 2004 450€
-  price: 
+  description: '2004 '
+  price: 450
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/89-alain-clement/
----
+- "/artistes/89-alain-clement/"
 
+---

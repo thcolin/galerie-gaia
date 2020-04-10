@@ -28,99 +28,95 @@ biography: "L'artiste est né en 1895 à Zoeterwoude, au Pays-Bas. Issu de famil
   van Velde - Geer Van Velde, Museum Belvédère, Heerenveen"
 exhibitions: []
 works:
-- title: MP 350 (12/100)
+- title: 'MP 350 '
   image: "/forestry/mp-350-12100.jpg"
-  technique: Lithographie
+  technique: Lithographie 12/100
   dimensions:
     height: 57
     width: 55
     depth: 
-  description: 1980 / 1700€
-  price: 
+  description: "1980"
+  price: 1700
   sold: false
   contextual: true
-- title: MP 320 (23/100)
+- title: 'MP 320 '
   image: "/forestry/mp-320-23100.jpg"
-  technique: Lithographie
+  technique: Lithographie 23/100
   dimensions:
     height: 89
     width: 63
     depth: 
-  description: |-
-    1978 /
-     2400€
-  price: 
+  description: '1978 '
+  price: 2400
   sold: false
   contextual: true
-- title: MP 315 (64/100)
+- title: 'MP 315 '
   image: "/forestry/mp-315-64100.jpg"
-  technique: Lithographie
+  technique: Lithographie 64/100
   dimensions:
     height: 54
     width: 35
     depth: 
-  description: "1978 / \n 920€"
-  price: 
+  description: '1978 '
+  price: 920
   sold: false
   contextual: true
-- title: MP 314 (33/100)
+- title: 'MP 314 '
   image: "/forestry/mp-314-33100.jpg"
-  technique: Lithographie
+  technique: Lithographie 33/100
   dimensions:
     height: 54
     width: 35
     depth: 
-  description: 1978 / 1210€
-  price: 
+  description: '1978 '
+  price: 1210
   sold: false
   contextual: true
-- title: MP 167 (32/100)
+- title: 'MP 167 '
   image: "/forestry/mp-167-32100.jpg"
-  technique: Lithographie
+  technique: Lithographie 32/100
   dimensions:
     height: 98
     width: 62
     depth: 
-  description: 1975 / 2400€
-  price: 
+  description: '1975 '
+  price: 2400
   sold: false
   contextual: true
-- title: MP 310 (95/100)
+- title: 'MP 310 '
   image: "/forestry/mp-310-95100.jpg"
-  technique: Lithographie
+  technique: Lithographie 95/100
   dimensions:
     height: 45
     width: 36
     depth: 
-  description: 1978 / 1100€
-  price: 
+  description: '1978 '
+  price: 1100
   sold: false
   contextual: true
-- title: MP 361 (63/100)
+- title: 'MP 361 '
   image: "/forestry/mp-361-63100.jpg"
-  technique: Lithographie
+  technique: Lithographie 63/100
   dimensions:
     height: 59
     width: 54
     depth: 
-  description: 1980 / 1700€
-  price: 
+  description: '1980 '
+  price: 1700
   sold: false
   contextual: true
-- title: MP 371 (84/100)
+- title: 'MP 371 '
   image: "/forestry/mp-371-84100.jpg"
-  technique: Lithographie
+  technique: Lithographie 84/100
   dimensions:
     height: 61
     width: 60
     depth: 
-  description: |-
-    1980 /
-    1700€
-  price: 
+  description: '1980 '
+  price: 1700
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/90-bram-van-velde/
----
+- "/artistes/90-bram-van-velde/"
 
+---
