@@ -28,6 +28,24 @@ biography: Neil Ratnavira de Alwis est un artiste photographe et peintre abstrai
   plus prêt.
 exhibitions: []
 works:
+- title: 'Large abstract square '
+  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-square-neil-ratnavira-manoirart.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 100
+    width: 100
+  description: 'œuvre encadrée avec caisse américaine bois noir '
+  price: 1600
+  contextual: true
+- title: Cleary
+  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-red-neil-ratnavira-manoirart.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 90
+    width: 116
+  description: ''
+  price: 1700
+  contextual: true
 - title: Large abstract black @ white 2
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
@@ -37,7 +55,7 @@ works:
   description: ''
   price: 1700
   contextual: true
-- title: 'Large abstract black & white '
+- title: Large abstract black & white 1
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
