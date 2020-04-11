@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection des nouveautés Avril 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: Miki de Dimitri Roubichou
   image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
   dimensions:
@@ -19,11 +24,6 @@ works:
   price: 250
   contextual: true
   technique: Photographie sur tirage papier baryté
-- title: Sélection des nouveautés Avril 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
-  contextual: true
 - title: Quiet Days Under The Trees III par Valota
   image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
     Pigments Sur Bois - 2020 .jpg"
@@ -34,6 +34,16 @@ works:
   price: 2800
   contextual: true
   technique: 'Cire et pigments sur bois '
+- title: 'Kuzma de Dimitri Roubichou '
+  image: "/forestry/galeriegaia@dimitriroubichou-KUZMA-30cmx30cm-30 tirages.jpg"
+  technique: Photographie tirage sur papier baryté
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Edition disponible dans d'autres formats
+  price: 250
+  contextual: true
 - title: Tour bleue par Valota
   image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
     - 2020.jpg"
