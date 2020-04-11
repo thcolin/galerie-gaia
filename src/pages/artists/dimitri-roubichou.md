@@ -64,39 +64,36 @@ works:
   contextual: true
 - title: Sept
   image: "/forestry/sept.jpg"
+  technique: Photographie tirage sur papier baryté
+  dimensions:
+    height: 30
+    width: 30
+    depth: 
+  description: 'Edition en 9 exemplaires '
+  price: 250
+  sold: false
+  contextual: true
+- title: 'Anémone encadrée '
+  image: "/forestry/anemone.jpg"
   technique: Photo sur papier baryté
   dimensions:
     height: 30
     width: 30
     depth: 
-  description: |-
-    /9 exemplaires - certificat fournis
-    450€
-  price: 
+  description: "Edition en 9 exemplaires  \nEncadrement baguette aluminium noir brossé
+    verre musée format 30X30 cm"
+  price: 250
   sold: false
-  contextual: true
-- title: Anémone
-  image: "/forestry/anemone.jpg"
-  technique: Photo sur papier baryté
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: |-
-    /9 exemplaire
-    150€
-  price: 
-  sold: false
-  contextual: true
+  contextual: false
 - title: Quatre
   image: "/forestry/quatre.jpg"
-  technique: Photo sur papier baryté
+  technique: Photographie tirage sur papier baryté
   dimensions:
-    height: 20
-    width: 30
+    height: 60
+    width: 60
     depth: 
-  description: "/9 exemplaire \n190€"
-  price: 
+  description: 'Edition en 9 exemplaire '
+  price: 700
   sold: false
   contextual: true
 - title: ACATE
