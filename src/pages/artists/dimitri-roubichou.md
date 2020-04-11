@@ -41,6 +41,36 @@ biography: "Les tirages sont disponibles dans des formats différents édition e
   Roubichou"
 exhibitions: []
 works:
+- title: Ono
+  image: "/forestry/galeriegaia@dimitriroubichou-ONO-30 cm x 30 cm - 30 tirages.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
+- title: Moha
+  image: "/forestry/galeriegaia@dimitriroubichou-MOHA-30 cm x 30 cm - 30 tirages.jpg"
+  technique: Photographie
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: ''
+  price: 1200
+  contextual: true
+- title: Miki
+  image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
+  technique: Photographie
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: ''
+  price: 900
+  contextual: true
 - title: Mikayo
   image: "/forestry/galeriegaia@dimitriroubichou-MIKAYO-30cmx30cm-30 tirages.jpg"
   technique: Photographie
