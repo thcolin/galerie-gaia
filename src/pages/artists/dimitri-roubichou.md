@@ -41,6 +41,35 @@ biography: "Les tirages sont disponibles dans des formats différents édition e
   Roubichou"
 exhibitions: []
 works:
+- title: "3"
+  image: "/forestry/galeriegaia@dimitriroubichou-BÄLA-30 cm x 30 cm - 30 tirages-1.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: "2"
+  image: "/forestry/galeriegaia@dimitriroubichou-BÄLA-30 cm x 30 cm - 30 tirages.jpg"
+  technique: Photographie tirage papier baryté
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: Edition en 9 exemplaires
+  price: 1200
+  contextual: true
+- title: "1"
+  image: "/forestry/DSC_1857 - Copie - Copie.JPG"
+  technique: Photographie tirage papier barytée
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: Edition en 9 exemplaires
+  price: 1200
+  contextual: true
 - title: Anchorage
   image: "/forestry/anchorage.jpg"
   technique: Photo sur papier baryté
