@@ -13,6 +13,16 @@ biography: |-
   " Moi, je travaille des fois abstrait par jets de peinture, une sorte d'expressionnisme abstrait. Le figuratif c'est le côté amusant, pied sur terre; au départ c'était une réaction dérisoire contre les peintures intellectuelles du milieu de l'art des années 70. Moi je viens du milieu populaire, je vivais dans deux mondes différents. Il y a quand même des messages dans ma peinture : au départ c'est une certaine énergie, j'ai voulu peindre ce que je voulais. Dans la B.D on est coincé par les personnages, tandis que, dans cette peinture, je suis libre complètement libre, même par le format. "
 exhibitions: []
 works:
+- title: Sans Titre
+  image: "/forestry/galeriegaia_Combas_Sans(5:79)_57x76- 01.jpg"
+  dimensions:
+    height: 56
+    width: 76
+    depth: 0
+  description: "Edité par l'atelier du Petit Jaunais  \n1997"
+  price: 1200
+  contextual: true
+  technique: 'Lithographie en 5 couleurs Edition 5/79 '
 - title: Certificat d'authenticité Robert Combas "Le Combo de Combas"
   image: "/forestry/20190523_180652.jpg"
   dimensions:
