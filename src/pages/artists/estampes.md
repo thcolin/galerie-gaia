@@ -336,9 +336,9 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Pierre Alechinsky - "Writing Book" (65/99)
+- title: 'Pierre Alechinsky - "Writing Book" '
   image: "/forestry/pierre-alechinsky-writing-book-6599.jpg"
-  technique: Lithographie
+  technique: Lithographie 65/99
   dimensions:
     height: 48
     width: 64
@@ -354,30 +354,32 @@ works:
     height: 66
     width: 51
     depth: 
-  description: "1995 \n600€"
-  price: 
+  description: '1995
+
+'
+  price: 600
   sold: false
   contextual: true
-- title: Gérard Garouste - "Les engendrements de Pentagruel" (12/99)
+- title: 'Gérard Garouste - "Les engendrements de Pentagruel" '
   image: "/forestry/gerard-garouste-les-engendrements-de-pentagruel-1299.jpg"
-  technique: Lithographie
+  technique: Lithographie 12/99
   dimensions:
     height: 56
     width: 76
     depth: 
-  description: s.d. 900€
-  price: 
+  description: ''
+  price: 900
   sold: false
   contextual: true
-- title: Shirley Jaffe - Sans Titre (7/70)
+- title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-770.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 7/70
   dimensions:
     height: 65
     width: 51
     depth: 
-  description: s.d. 1500€
-  price: 
+  description: ''
+  price: 1500
   sold: false
   contextual: true
 redirect_from:
