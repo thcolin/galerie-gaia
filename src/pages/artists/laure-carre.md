@@ -37,6 +37,7 @@ works:
     width: 26
   description: "2020"
   price: 350
+  contextual: true
 - title: Jean Genet
   image: "/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
   technique: 'Huile sur toile '
@@ -45,6 +46,7 @@ works:
     width: 72
   description: 06/2018
   price: 1600
+  contextual: true
 - title: Lipstick face
   image: "/forestry/galeriegaia@laurecarre-lipstickface-huile-100X73.jpeg"
   dimensions:
@@ -53,6 +55,7 @@ works:
   description: '08/2019'
   price: 1600
   technique: Huile sur toile
+  contextual: true
 - title: Playing with Laïka on the moon
   image: "/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg"
   technique: Huile sur toile
@@ -61,6 +64,7 @@ works:
     width: 130
   description: '09/2019'
   price: 3000
+  contextual: true
 - title: Main dans la main
   image: "/forestry/galeriegaia@laurecarre-portrait.jpeg"
   technique: 'Huile sur toile '
@@ -69,6 +73,7 @@ works:
     width: 30
   description: 06/2019
   price: 450
+  contextual: true
 - title: Chien d'atelier
   image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
   technique: Huile sur toile
@@ -77,6 +82,7 @@ works:
     width: 100
   description: 02/2020
   price: 1800
+  contextual: true
 - title: Une chaise la nuit
   image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
   technique: 'Encre sur papier '
@@ -85,6 +91,7 @@ works:
     width: 20
   description: "2020"
   price: 200
+  contextual: true
 - title: In the west
   image: "/forestry/in-the-west.jpg"
   technique: Huile sur toile

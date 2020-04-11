@@ -235,17 +235,17 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Shirley Jaffe - Sans Titre (25/70)
+- title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-2570.jpg"
-  technique: Sérigraphie atelier Byse Lille
+  technique: Sérigraphie atelier Byse Lille 25/70
   dimensions:
     height: 65
     width: 50
     depth: 
-  description: |-
-    2002
-    1500€
-  price: 
+  description: '2002
+
+'
+  price: 1500
   sold: false
   contextual: true
 - title: 'Frédéric Poincelet - Sans titre #1 (4/20)'
@@ -373,12 +373,12 @@ works:
   contextual: true
 - title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-770.jpg"
-  technique: Sérigraphie 7/70
+  technique: Sérigraphie atelier Byse Lille 7/70
   dimensions:
     height: 65
     width: 51
     depth: 
-  description: ''
+  description: "2002"
   price: 1500
   sold: false
   contextual: true
