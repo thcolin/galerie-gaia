@@ -46,19 +46,20 @@ works:
     height: 20
     width: 20
     depth: 
-  description: 'Edition en 9 exemplaires '
-  price: 150
+  description: "Edition en 9 exemplaires  \nŒuvre encadrée verre musée format final
+    30 X 30 cm "
+  price: 250
   sold: false
   contextual: true
 - title: Cinq
   image: "/forestry/cinq.jpg"
-  technique: Photo sur papier baryté
+  technique: Photographie tirage  sur papier baryté
   dimensions:
     height: 30
     width: 30
     depth: 
-  description: "/9 exemplaire \n450€"
-  price: 
+  description: 'Edition en 9 exemplaires '
+  price: 250
   sold: false
   contextual: true
 - title: Sept
