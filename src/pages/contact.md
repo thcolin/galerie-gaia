@@ -11,7 +11,7 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   Bram Van Velde , Alechinsky… et des artistes dont l’œuvre est en devenir.\n\n**En
   2015 Elisabeth Givre** prolonge l’aventure et ancre avec la **Galerie Gaïa**, l’art
   contemporain comme la véritable empreinte de ce lieu situé dans le cœur historique
-  de la ville de Nantes, le quartier Decré.\n\n6 expositions personnelles en solo-show
+  de la ville de Nantes, le quartier Decré.\n\n6-8 expositions personnelles en solo-show
   alternent dans l'année avec des installations collectives montrant simultanément
   des peintures, sculptures, photographies, dessins, gravures, lithographies, sérigraphies,
   céramiques et objets uniques de designer que je sélectionne avec attention.\n\nLes
@@ -23,10 +23,10 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   l’œuvre chez vous** pendant une semaine contre un chèque de caution de son montant.
   Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir
   en toute confiance.  \n**2.**  **Financez votre choix** avec la défiscalisation,
-  le leasing, le paiement en plusieurs fois, la carte cadeau avec une cagnotte (détail
-  dans la rubrique Prestation),par virement ou carte bancaire.  \n**3**. Tout ce que
-  vous voyez est disponible et les **expéditions** sont possibles en France et dans
-  le monde entier (DHL - UPS- TNT) sur devis.\n\n**Depuis chez vous ou dans la galerie...**
+  la location, le paiement en plusieurs fois, la carte cadeau avec une cagnotte ,par
+  virement ou carte bancaire (rubrique prestation).  \n**3**. Tout ce que vous voyez
+  est disponible et les **expéditions** sont possibles en France et dans le monde
+  entier (DHL - UPS- TNT) sur devis.\n\n**Depuis chez vous ou dans la galerie...**
   \ \n**Venez, entrez et découvrez**  \n**l’évidence**  \n**l’évidence devant une
   œuvre qui s’impose  \nl’évidence qui ne se discute pas et dont on pourra discuter
   \ \nl’évidence qui se garde pour soi  \nl’évidence qui se partage  \nl’évidence
