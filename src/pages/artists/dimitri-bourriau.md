@@ -79,8 +79,8 @@ works:
   image: "/forestry/jumanji-theater.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
-    height: 120
-    width: 80
+    height: 80
+    width: 120
     depth: 
   description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
     \nPrix sur demande"
@@ -124,6 +124,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/98-dimitri-bourriau/
----
+- "/artistes/98-dimitri-bourriau/"
 
+---
