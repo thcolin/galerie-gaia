@@ -9,6 +9,16 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Miki de Dimitri Roubichou
+  image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: 'Edition possible dans d''autres formats '
+  price: 250
+  contextual: true
+  technique: Photographie sur tirage papier baryté
 - title: Sélection des nouveautés Avril 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
