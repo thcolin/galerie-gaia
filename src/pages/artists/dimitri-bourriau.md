@@ -19,8 +19,8 @@ works:
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibond
   dimensions:
-    height: 100
-    width: 150
+    height: 80
+    width: 120
     depth: 
   description: "Tirage à 15 exemplaires   \nprix sur demande "
   price: 
@@ -42,8 +42,8 @@ works:
   image: "/forestry/buzludzha-bulgarie.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
-    height: 120
-    width: 80
+    height: 80
+    width: 120
     depth: 
   description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
     \nPrix sur demande\nReportage sur arte decouverte concernant ce lieu incroyable
@@ -55,8 +55,8 @@ works:
   image: "/forestry/dictator.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
-    height: 120
-    width: 80
+    height: 80
+    width: 120
     depth: 
   description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
     \nPrix sur demande"
@@ -67,8 +67,8 @@ works:
   image: "/forestry/buzludzha-bulgarie-interieur.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
-    height: 120
-    width: 80
+    height: 80
+    width: 120
     depth: 
   description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
     \nPrix sur demande"
