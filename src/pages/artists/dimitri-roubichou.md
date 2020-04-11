@@ -7,7 +7,7 @@ birth: "0"
 death: "0"
 expose: true
 biography: "Les tirages sont disponibles dans des formats différents édition en 9
-  exemplaires :\n\n30X30cm      250€  \n60X40cm      400€  \n60X60cm      700€  \n120X120cm
+  exemplaires \n\n30X30cm      250€  \n60X40cm      400€  \n60X60cm      700€  \n120X120cm
   1200€\n\nL'artiste est né à Nantes. Dimitri Roubichou poursuit dans les années 90
   des études de cinéma à Paris VIII et à l’Ecole Nationale Supérieure de Photographie
   d’Arles.\nRoubichou débute à cette période, à photographier les matières végétales
@@ -41,6 +41,26 @@ biography: "Les tirages sont disponibles dans des formats différents édition e
   Roubichou"
 exhibitions: []
 works:
+- title: Vera
+  image: "/forestry/galeriegaia@dimitriroubichou-VERA-30 cm x 30 cm - 30 tirages.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
+- title: Paa
+  image: "/forestry/galeriegaia@dimitriroubichou-PAA-30cm x 30 cm-30 tirages.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: ''
+  price: 900
+  contextual: true
 - title: Ono
   image: "/forestry/galeriegaia@dimitriroubichou-ONO-30 cm x 30 cm - 30 tirages.jpg"
   technique: 'Photographie '
