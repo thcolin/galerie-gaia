@@ -204,8 +204,8 @@ works:
   dimensions:
     height: 157
     width: 125
-  description: "caisse américaine chêne  \n2019011401"
-  price: 6200
+  description: "caisse américaine chêne  \n2019011401  \nprix sur demande"
+  price: ''
   contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
@@ -434,8 +434,8 @@ works:
     height: 150
     width: 95
     depth: 
-  description: "2017051101"
-  price: 5500
+  description: "2017051101  \nprix sur demande "
+  price: ''
   sold: false
   contextual: true
 - title: 'Red Canaille '
@@ -445,8 +445,8 @@ works:
     height: 162
     width: 114
     depth: 
-  description: "2016050213"
-  price: 5800
+  description: "2016050213  \nprix sur demande "
+  price: ''
   sold: false
   contextual: true
 redirect_from:
