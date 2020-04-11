@@ -6,8 +6,10 @@ field: Photographe
 birth: "0"
 death: "0"
 expose: true
-biography: "L'artiste est né à Nantes. Dimitri Roubichou poursuit dans les années
-  90 des études de cinéma à Paris VIII et à l’Ecole Nationale Supérieure de Photographie
+biography: "Les tirages sont disponibles dans des formats différents édition en 9
+  exemplaires :\n\n30X30cm      250€  \n60X40cm      400€  \n60X60cm      700€  \n120X120cm
+  1200€\n\nL'artiste est né à Nantes. Dimitri Roubichou poursuit dans les années 90
+  des études de cinéma à Paris VIII et à l’Ecole Nationale Supérieure de Photographie
   d’Arles.\nRoubichou débute à cette période, à photographier les matières végétales
   et ce qu’elles peuvent suggérer. Au début des années 2010, l'artiste passe à la
   photographie numérique avec la même approche, avec des outils différents et des
@@ -30,7 +32,7 @@ biography: "L'artiste est né à Nantes. Dimitri Roubichou poursuit dans les ann
   valeur les couleurs, les textures, les nuances, les formes d'une matière et explorer
   les lisières du réel et de l'imaginaire, de la figuration et de l'abstraction, de
   la photo et de la peinture....\nJe travaille plutôt par série en couleur et en noir
-  et blanc.   \nMes influences purement artistiques sont très diverses... J’apprécie
+  et blanc.  \nMes influences purement artistiques sont très diverses... J’apprécie
   entre autres Giuseppe Penone , Le Slow Art, la photographie contemporaine ( Tosani,
   Mapplethorpe...) ou plus classique (Saul Leiter, Diane Arbus...) mais aussi la sculpture
   ( Eva Hesse, Brancusi, Serra...) ou la peinture moderne ( Yves klein, Genevieve
@@ -96,15 +98,15 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: ACATE
+- title: Acate
   image: "/forestry/acate.jpg"
   technique: 'Photographie tirage papier fine art '
   dimensions:
     height: 80
     width: 80
     depth: 
-  description: Tirage possible dans d'autres formats
-  price: 1200
+  description: 'Edition en 9 exemplaires '
+  price: 900
   sold: false
   contextual: true
 redirect_from:
