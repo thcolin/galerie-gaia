@@ -106,7 +106,7 @@ works:
     width: 70
   description: "Oeuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nmise
     sous verre cadre blanc "
-  price: 3500
+  price: ''
   contextual: false
 - title: 'Drawing Trash Color '
   image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
@@ -168,8 +168,8 @@ works:
   dimensions:
     height: 50
     width: 40
-  description: "Cadre en chêne et verre musée  \n202031102"
-  price: 5200
+  description: "Cadre en chêne et verre musée  \n202031102  \nprix sur demande"
+  price: ''
   contextual: true
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031101-LITTLECOLOR-40x30cm.jpg"
