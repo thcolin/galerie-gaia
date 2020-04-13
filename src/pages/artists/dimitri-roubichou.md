@@ -141,7 +141,7 @@ works:
   description: Edition en 9 exemplaires
   price: 250
   contextual: true
-- title: "1"
+- title: Ostie
   image: "/forestry/DSC_1857 - Copie - Copie.JPG"
   technique: Photographie tirage papier barytée
   dimensions:
@@ -163,7 +163,7 @@ works:
   price: 250
   sold: false
   contextual: true
-- title: Cinq
+- title: Sará
   image: "/forestry/cinq.jpg"
   technique: Photographie tirage  sur papier baryté
   dimensions:
@@ -174,7 +174,7 @@ works:
   price: 250
   sold: false
   contextual: true
-- title: Sept
+- title: Sará
   image: "/forestry/sept.jpg"
   technique: Photographie tirage sur papier baryté
   dimensions:
