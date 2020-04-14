@@ -99,6 +99,16 @@ exhibitions:
   location: Galerie Gaia
   end: reporté
 works:
+- title: Brut and Simple Color
+  image: "/forestry/galeriegaia@Toma L-brutandsimplecolor-2019111401-196X130cm-bd.jpg"
+  technique: mixte sur toile en lin châssis à clefs
+  dimensions:
+    height: 196
+    width: 130
+    depth: 0
+  description: "2019111401  \nPrix sur demande"
+  price: 0
+  contextual: true
 - title: 'Atelier Toma L Série Drawing Trash Color '
   image: "/forestry/drawingtrashcolor2-102x70cm_bd.jpg"
   technique: 'Technique mixte sur papier '
