@@ -86,26 +86,24 @@ works:
   contextual: false
 - title: Goutte rouge
   image: "/forestry/goutte-rouge.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: Impression jet d’encre sur polyester Edition 38/50
   dimensions:
     height: 6
     width: 11
     depth: 11
-  description: |-
-    ed.50   Création et tirage en 2011   38/50
-    160€
-  price: 
+  description: "Création et tirage en 2011  \n"
+  price: 160
   sold: false
   contextual: false
 - title: Black cube in blue
   image: "/forestry/black-cube-in-blue.jpg"
-  technique: dessin volume
+  technique: Impression jet d'encre sur polyester Edition 3/25
   dimensions:
-    height: 13
-    width: 13
-    depth: 13
-  description: ''
-  price: 
+    height: 8
+    width: 8
+    depth: 8
+  description: "Création et tirage en 2019  \nDimension précise 8,5 X 8,5 X 8,5cm "
+  price: 120
   sold: false
   contextual: false
 - title: 5 volumes empilées
@@ -115,7 +113,7 @@ works:
     height: 
     width: 
     depth: 
-  description: ''
+  description: 'Installation sous cloche '
   price: 
   sold: false
   contextual: true
