@@ -129,8 +129,8 @@ works:
     height: 92
     width: 118
     depth: 
-  description: Sans date / 1700€
-  price: 
+  description: 'Sans date '
+  price: 1700
   sold: false
   contextual: true
 - title: Signaux indécis
@@ -140,8 +140,8 @@ works:
     height: 118
     width: 184
     depth: 
-  description: 1973 / 3500€
-  price: 
+  description: '1973 '
+  price: 3500
   sold: false
   contextual: true
 - title: Balise verte
@@ -151,8 +151,8 @@ works:
     height: 149
     width: 34
     depth: 
-  description: 1975 / 3600€
-  price: 
+  description: '1975 '
+  price: 3600
   sold: false
   contextual: false
 - title: Disque tournant
@@ -162,8 +162,8 @@ works:
     height: 46
     width: 47
     depth: 
-  description: 1980 / 1800€
-  price: 
+  description: '1980 '
+  price: 1800
   sold: false
   contextual: false
 - title: Cloture restreinte
@@ -173,8 +173,8 @@ works:
     height: 48
     width: 36
     depth: 
-  description: 1973 / 1500€
-  price: 
+  description: '1973 '
+  price: 1500
   sold: false
   contextual: false
 - title: Exposition Polymorphie 2020

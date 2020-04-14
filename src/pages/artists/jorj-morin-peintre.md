@@ -23,193 +23,199 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
-  - title: Conversation dans le ciel
-    image: /forestry/1108.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 81
-      width: 54
-      depth: 
-    description: 1955-56 / 3000€
-    price: 
-    sold: false
-    contextual: true
-  - title: Etoile verte
-    image: /forestry/1109.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 60
-      width: 81
-      depth: 
-    description: 1983 / 3300€
-    price: 
-    sold: false
-    contextual: true
-  - title: Vent tournant
-    image: /forestry/1278.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 73
-      width: 100
-      depth: 
-    description: 1975 / 4300€
-    price: 
-    sold: false
-    contextual: true
-  - title: Neon
-    image: /forestry/1279.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 60
-      width: 81
-      depth: 
-    description: 1983 / 3300€
-    price: 
-    sold: false
-    contextual: true
-  - title: Equilibre fragile
-    image: /forestry/1280.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 100
-      width: 73
-      depth: 
-    description: 1987 / 4300€
-    price: 
-    sold: false
-    contextual: true
-  - title: Equilibre fugace
-    image: /forestry/1281.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 116
-      width: 81
-      depth: 
-    description: 1983 / 4700 € 
-    price: 
-    sold: false
-    contextual: true
-  - title: Barques fragiles 
-    image: /forestry/1315.jpg
-    technique: Huile sur toile
-    dimensions:
-      height: 38
-      width: 55
-      depth: 
-    description: 1955 / 2000€
-    price: 
-    sold: false
-    contextual: true
-  - title: Célébration du soir
-    image: /forestry/1316.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 81
-      width: 116
-      depth: 
-    description: 1984 / 4500€
-    price: 
-    sold: false
-    contextual: true
-  - title: Construction hésitante
-    image: /forestry/1317.jpg
-    technique: Huile et acrylique sur toile
-    dimensions:
-      height: 100
-      width: 73
-      depth: 
-    description: 1975 / 4000€
-    price: 
-    sold: false
-    contextual: true
-  - title: Entre le Chien et le Loup
-    image: /forestry/1319.jpg
-    technique: Huile sur toile
-    dimensions:
-      height: 54
-      width: 65
-      depth: 
-    description: 1956 / 3000€
-    price: 
-    sold: false
-    contextual: true
-  - title: Lucarne
-    image: /forestry/1322.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 116
-      width: 81
-      depth: 
-    description: 1989 / 4500€
-    price: 
-    sold: false
-    contextual: true
-  - title: Passage des migrateurs
-    image: /forestry/1323.jpg
-    technique: Huile et acrylique sur toile
-    dimensions:
-      height: 97
-      width: 162
-      depth: 
-    description: 1975 / 5000€
-    price: 
-    sold: false
-    contextual: true
-  - title: Peut-être une lucarne
-    image: /forestry/1324.jpg
-    technique: Huile sur toile
-    dimensions:
-      height: 81
-      width: 60
-      depth: 
-    description: 1956 / 3500€
-    price: 
-    sold: false
-    contextual: true
-  - title: Une fleur bleue
-    image: /forestry/1325.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 50
-      width: 61
-      depth: 
-    description: 1980 / 2600€
-    price: 
-    sold: false
-    contextual: true
-  - title: Vis a vis
-    image: /forestry/1326.jpg
-    technique: Acrylique sur toile
-    dimensions:
-      height: 61
-      width: 50
-      depth: 
-    description: 1979 / 2600€
-    price: 
-    sold: false
-    contextual: true
-  - title: Exposition Polymorphie du 16 Janvier 1er Février 2020
-    image: /forestry/1390.jpg
-    technique: 
-    dimensions:
-      height: 
-      width: 
-      depth: 
-    description: L'exposition POLYMORPHIE c'est le désir de faire découvrir à ceux qui ne connaissent pas l'artiste nantais Jorj Morin, comme il est passionnant de regarder un artiste se confronter à des supports différents qui offrent des contraintes jubilatoires. Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.
-    price: 
-    sold: false
-    contextual: true
-  - title: Ouest France 04/02/20
-    image: /forestry/1409.jpg
-    technique: 
-    dimensions:
-      height: 
-      width: 
-      depth: 
-    description: 
-    price: 
-    sold: false
-    contextual: true
+- title: Conversation dans le ciel
+  image: "/forestry/1108.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 81
+    width: 54
+    depth: 
+  description: '1956 '
+  price: 3000
+  sold: false
+  contextual: true
+- title: Etoile verte
+  image: "/forestry/1109.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 60
+    width: 81
+    depth: 
+  description: '1983 '
+  price: 3300
+  sold: false
+  contextual: true
+- title: Vent tournant
+  image: "/forestry/1278.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 73
+    width: 100
+    depth: 
+  description: '1975 '
+  price: 4300
+  sold: false
+  contextual: true
+- title: Neon
+  image: "/forestry/1279.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 60
+    width: 81
+    depth: 
+  description: 1983 / 3300€
+  price: 
+  sold: false
+  contextual: true
+- title: Equilibre fragile
+  image: "/forestry/1280.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 100
+    width: 73
+    depth: 
+  description: 1987 / 4300€
+  price: 
+  sold: false
+  contextual: true
+- title: Equilibre fugace
+  image: "/forestry/1281.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 116
+    width: 81
+    depth: 
+  description: 1983 / 4700 €
+  price: 
+  sold: false
+  contextual: true
+- title: Barques fragiles
+  image: "/forestry/1315.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 38
+    width: 55
+    depth: 
+  description: 1955 / 2000€
+  price: 
+  sold: false
+  contextual: true
+- title: Célébration du soir
+  image: "/forestry/1316.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 81
+    width: 116
+    depth: 
+  description: 1984 / 4500€
+  price: 
+  sold: false
+  contextual: true
+- title: Construction hésitante
+  image: "/forestry/1317.jpg"
+  technique: Huile et acrylique sur toile
+  dimensions:
+    height: 100
+    width: 73
+    depth: 
+  description: 1975 / 4000€
+  price: 
+  sold: false
+  contextual: true
+- title: Entre le Chien et le Loup
+  image: "/forestry/1319.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 54
+    width: 65
+    depth: 
+  description: 1956 / 3000€
+  price: 
+  sold: false
+  contextual: true
+- title: Lucarne
+  image: "/forestry/1322.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 116
+    width: 81
+    depth: 
+  description: 1989 / 4500€
+  price: 
+  sold: false
+  contextual: true
+- title: Passage des migrateurs
+  image: "/forestry/1323.jpg"
+  technique: Huile et acrylique sur toile
+  dimensions:
+    height: 97
+    width: 162
+    depth: 
+  description: 1975 / 5000€
+  price: 
+  sold: false
+  contextual: true
+- title: Peut-être une lucarne
+  image: "/forestry/1324.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 81
+    width: 60
+    depth: 
+  description: 1956 / 3500€
+  price: 
+  sold: false
+  contextual: true
+- title: Une fleur bleue
+  image: "/forestry/1325.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 50
+    width: 61
+    depth: 
+  description: 1980 / 2600€
+  price: 
+  sold: false
+  contextual: true
+- title: Vis a vis
+  image: "/forestry/1326.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 61
+    width: 50
+    depth: 
+  description: 1979 / 2600€
+  price: 
+  sold: false
+  contextual: true
+- title: Exposition Polymorphie du 16 Janvier 1er Février 2020
+  image: "/forestry/1390.jpg"
+  technique: 
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: L'exposition POLYMORPHIE c'est le désir de faire découvrir à ceux qui
+    ne connaissent pas l'artiste nantais Jorj Morin, comme il est passionnant de regarder
+    un artiste se confronter à des supports différents qui offrent des contraintes
+    jubilatoires. Découvrir ses peintures, ses gravures mais aussi des gouaches, des
+    stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font
+    intimement vibrer.
+  price: 
+  sold: false
+  contextual: true
+- title: Ouest France 04/02/20
+  image: "/forestry/1409.jpg"
+  technique: 
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: 
+  price: 
+  sold: false
+  contextual: true
 redirect_from:
-  - /artistes/20-jorj-morin/
+- "/artistes/20-jorj-morin/"
+
 ---
