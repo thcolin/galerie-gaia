@@ -104,17 +104,18 @@ works:
   dimensions:
     height: 100
     width: 70
-  description: "Oeuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nmise
-    sous verre cadre blanc "
+  description: "Œuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nSérie
+    vendue"
   price: ''
   contextual: false
+  sold: true
 - title: 'Drawing Trash Color '
   image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
   technique: 'Technique mixte sur papier '
   dimensions:
     height: 120
     width: 90
-  description: "cadre blanc sous verre  \n2020031203  \nprix sur demande "
+  description: "cadre blanc sous verre  \n2020031203  \nvendu"
   price: ''
   contextual: true
 - title: 'Drawing trash color '
@@ -123,7 +124,7 @@ works:
   dimensions:
     height: 100
     width: 70
-  description: "cadre blanc sous verre  \n2020031202  \nprix sur demande "
+  description: "cadre blanc sous verre  \n2020031202  \nvendu"
   price: ''
   contextual: true
 - title: 'Drawing Trash Color  '
@@ -132,7 +133,7 @@ works:
   dimensions:
     height: 120
     width: 90
-  description: "cadre blanc sous verre  \n2020031201  \nprix sur demande "
+  description: "cadre blanc sous verre  \n2020031201  \nvendu"
   price: ''
   contextual: true
 - title: 'Trash and color '
