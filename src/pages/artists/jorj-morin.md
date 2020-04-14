@@ -41,8 +41,8 @@ works:
     height: 
     width: 
     depth: 
-  description: 1981 / 150€
-  price: 
+  description: '1981 '
+  price: 150
   sold: false
   contextual: true
 - title: En forme de feuille
@@ -52,8 +52,8 @@ works:
     height: 
     width: 
     depth: 
-  description: 1972 / 150€
-  price: 
+  description: '1972 '
+  price: 150
   sold: false
   contextual: true
 - title: Bouquet bleu
@@ -63,8 +63,8 @@ works:
     height: 
     width: 
     depth: 
-  description: 1976 / 150€
-  price: 
+  description: '1976 '
+  price: 150
   sold: false
   contextual: true
 - title: Bride abattue
@@ -74,8 +74,8 @@ works:
     height: 
     width: 
     depth: 
-  description: 1984 / 250€
-  price: 
+  description: '1984 '
+  price: 250
   sold: false
   contextual: true
 - title: Capture
@@ -85,8 +85,8 @@ works:
     height: 
     width: 
     depth: 
-  description: 1988 / 250€
-  price: 
+  description: '1988 '
+  price: 250
   sold: false
   contextual: true
 - title: Jeu de pistes
