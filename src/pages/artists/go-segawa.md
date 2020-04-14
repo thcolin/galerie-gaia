@@ -61,18 +61,6 @@ works:
   price: 380
   sold: false
   contextual: false
-- title: Trophée Open de Squash de Nantes
-  image: "/forestry/trophee-open-de-squash-de-nantes.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: 'Création spéciale réalisée par Go Segawa à la demande de Galerie Gaïa
-    pour les organisateurs du tournoi international de l''Open de Squash de Nantes '
-  price: 
-  sold: false
-  contextual: false
 - title: Blue & Pink
   image: "/forestry/blue-and-pink.jpg"
   technique: impression jet d’encre sur polyester Edition 29/50
@@ -117,7 +105,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Oval I – red & yellow (15/50) (16/50)
+- title: 'Oval I – red & yellow '
   image: "/forestry/oval-i-red-and-yellow-1550-1650.jpg"
   technique: Impression jet d’encre sur polyester Edition en 50 exemplaires
   dimensions:
@@ -143,13 +131,13 @@ works:
   contextual: true
 - title: Life I (3/25)
   image: "/forestry/life-i-325.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
   dimensions:
     height: 8
     width: 8
     depth: 8
-  description: 2019 110€
-  price: 
+  description: "Format précis 8,5 X 8,5 X 8,5 cm   \nTirage 2019 "
+  price: 120
   sold: false
   contextual: false
 - title: 'Violet '
@@ -174,17 +162,6 @@ works:
   price: 120
   sold: false
   contextual: false
-- title: 'Black Cube in Blue '
-  image: "/forestry/black-cube-in-blue-325.jpg"
-  technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
-  dimensions:
-    height: 8
-    width: 8
-    depth: 8
-  description: "Format précis 8,5 X 8,5 X 8,5 cm\n\nTirage 2019 "
-  price: 120
-  sold: false
-  contextual: false
 - title: 'Snake II – orange '
   image: "/forestry/snake-ii-orange-1950.jpg"
   technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
@@ -196,14 +173,15 @@ works:
   price: 80
   sold: false
   contextual: false
-- title: Blue & Pink (29/50)
-  image: "/forestry/blue-and-pink-2950.jpg"
-  technique: Impression jet d’encre sur polyester
+- title: Trophée Open de Squash de Nantes
+  image: "/forestry/trophee-open-de-squash-de-nantes.jpg"
+  technique: ''
   dimensions:
-    height: 7
-    width: 7
-    depth: 7
-  description: 2016 105€
+    height: 
+    width: 
+    depth: 
+  description: 'Création spéciale réalisée par Go Segawa à la demande de Galerie Gaïa
+    pour les organisateurs du tournoi international de l''Open de Squash de Nantes '
   price: 
   sold: false
   contextual: false
