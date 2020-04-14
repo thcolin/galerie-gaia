@@ -119,26 +119,25 @@ works:
   contextual: true
 - title: Oval I – red & yellow (15/50) (16/50)
   image: "/forestry/oval-i-red-and-yellow-1550-1650.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: Impression jet d’encre sur polyester Edition en 50 exemplaires
   dimensions:
     height: 9
     width: 4
     depth: 4
-  description: "red & yellow (15/50) (16/50) 2019 9,6 X 4,6 X 4,6 70€\nred & yellow
-    (3/25)\t2019 12,5 X 6 X 6 130€"
+  description: "red & yellow (15/50)  format 9,6 X 4,6 X 4,6 70€ \n\nred & yellow
+    (3/25) format 12,5 X 6 X 6 130€  \nTirage 2019"
   price: 
   sold: false
   contextual: false
-- title: Oval II – dark (9/50, 10/50)
+- title: 'Oval II – dark '
   image: "/forestry/oval-ii-dark-950-1050.jpg"
-  technique: Impression  jet d’encre sur polyester
+  technique: Impression  jet d’encre sur polyester Edition en 50 exemplaires
   dimensions:
     height: 9
     width: 4
     depth: 4
-  description: |-
-    Oval II – dark 9,6 X 4,6 X 4,6 (3/25) 2019 70€
-    Oval II – dark 12,5 X 6 X 6 (9/50, 10/50) 2019 130€
+  description: "Oval II – dark 9,6 X 4,6 X 4,6 (3/25)  70€ \n\nOval II – dark 12,5
+    X 6 X 6 (9/50, 10/50) 130€  \nTirage 2019"
   price: 
   sold: false
   contextual: true
@@ -153,15 +152,15 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Violet (13/50) (14/50)
+- title: 'Violet '
   image: "/forestry/violet-1350-1450.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
   dimensions:
     height: 7
     width: 7
     depth: 7
-  description: 2018 80€
-  price: 
+  description: "Format précis 7,5 X 7,5 X 7,5 cm \n\nTirage 2018 "
+  price: 80
   sold: false
   contextual: false
 - title: Squares in Blue (4/25)
