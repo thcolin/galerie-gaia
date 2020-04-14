@@ -124,17 +124,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Notre Héritage
-  image: "/forestry/notre-heritage.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: Confluence
   image: "/forestry/confluence.jpg"
   technique: Bronze
