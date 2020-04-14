@@ -163,37 +163,37 @@ works:
   price: 80
   sold: false
   contextual: false
-- title: Squares in Blue (4/25)
+- title: 'Squares in Blue '
   image: "/forestry/squares-in-blue-425.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
   dimensions:
     height: 8
     width: 8
     depth: 8
-  description: 2018 110€
-  price: 
+  description: 'Tirage 2018 '
+  price: 120
   sold: false
   contextual: false
-- title: Black Cube in Blue (3/25)
+- title: 'Black Cube in Blue '
   image: "/forestry/black-cube-in-blue-325.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
   dimensions:
     height: 8
     width: 8
     depth: 8
-  description: 2019 110€
-  price: 
+  description: "Format précis 8,5 X 8,5 X 8,5 cm\n\nTirage 2019 "
+  price: 120
   sold: false
   contextual: false
-- title: Snake II – orange (19/50)
+- title: 'Snake II – orange '
   image: "/forestry/snake-ii-orange-1950.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
   dimensions:
     height: 6
     width: 6
     depth: 6
-  description: 2016 60€
-  price: 
+  description: "Dimension précise 6,5 X 6,5 X 6,5 cm \n\nTirage 2016 "
+  price: 80
   sold: false
   contextual: false
 - title: Blue & Pink (29/50)
