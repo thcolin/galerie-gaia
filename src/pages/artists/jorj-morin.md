@@ -96,8 +96,8 @@ works:
     height: 
     width: 
     depth: 
-  description: 1978 / 250€
-  price: 
+  description: '1978 '
+  price: 250
   sold: false
   contextual: true
 - title: Les 3 veilleurs 1977
@@ -107,8 +107,8 @@ works:
     height: 450
     width: 300
     depth: 
-  description: 450€
-  price: 
+  description: ''
+  price: 450
   sold: false
   contextual: true
 - title: Espace nacré
@@ -118,8 +118,8 @@ works:
     height: 111
     width: 187
     depth: 
-  description: 1973 / 3400€
-  price: 
+  description: '1973 '
+  price: 3400
   sold: false
   contextual: true
 - title: Papillon
