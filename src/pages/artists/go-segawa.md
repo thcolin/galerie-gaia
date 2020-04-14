@@ -17,26 +17,26 @@ biography: |-
   Il crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, il essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
-- title: Les gouttes V (6/50)
+- title: 'Les gouttes V '
   image: "/forestry/les-gouttes-v-650.jpg"
-  technique: Impression jet d’encre sur polyester
+  technique: Impression jet d’encre sur polyester Edition 6/50
   dimensions:
     height: 7
     width: 11
     depth: 11
-  description: 2016 130€
-  price: 
+  description: '2016 '
+  price: 130
   sold: false
   contextual: false
 - title: Main
   image: "/forestry/main.jpg"
-  technique: Sérigraphie sur PVC
+  technique: Sérigraphie sur PVC Edition en 100 exemplaires
   dimensions:
     height: 8
     width: 12
     depth: 22
-  description: "Création en 1999  Tirage en mars 2007             \n(57/100)                   390EUR"
-  price: 
+  description: "Création originale en 1999    \nTirage en mars 2007  \n            "
+  price: 390
   sold: false
   contextual: false
 - title: Dark Ball
