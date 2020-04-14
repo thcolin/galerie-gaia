@@ -41,24 +41,24 @@ works:
   contextual: false
 - title: Dark Ball
   image: "/forestry/dark-ball.jpg"
-  technique: impression jet d’encre sur polyester
+  technique: impression jet d’encre sur polyester Edition 47/50
   dimensions:
     height: 7
     width: 7
     depth: 7
-  description: Création et tirage en 2012                        (47/50)                                        130EUR
-  price: 
+  description: 'Création et tirage en 2012                                               '
+  price: 130
   sold: false
   contextual: false
 - title: Visage
   image: "/forestry/visage.jpg"
-  technique: Sérigraphie sur PVC
+  technique: Sérigraphie sur PVC Edition 12/50
   dimensions:
     height: 8
     width: 16
     depth: 22
-  description: Création en 2006  Tirage en 2008                      1(12/50)                                       380EUR
-  price: 
+  description: 'Création en 2006  Tirage en 2008                     '
+  price: 380
   sold: false
   contextual: false
 - title: Trophée Open de Squash de Nantes
@@ -68,19 +68,20 @@ works:
     height: 
     width: 
     depth: 
-  description: ''
+  description: 'Création spéciale réalisée par Go Segawa à la demande de Galerie Gaïa
+    pour les organisateurs du tournoi international de l''Open de Squash de Nantes '
   price: 
   sold: false
   contextual: false
 - title: Blue & Pink
   image: "/forestry/blue-and-pink.jpg"
-  technique: impression jet d’encre sur polyester
+  technique: impression jet d’encre sur polyester Edition 29/50
   dimensions:
     height: 7
     width: 7
     depth: 7
-  description: ed.50  Création et tirage en 2016           20/50
-  price: 
+  description: "Création et tirage en 2016          \nFormat précis 7,5 X 7,5 X7,5cm"
+  price: 120
   sold: false
   contextual: false
 - title: Goutte rouge
