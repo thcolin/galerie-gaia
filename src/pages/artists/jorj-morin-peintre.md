@@ -56,15 +56,15 @@ works:
   price: 4300
   sold: false
   contextual: true
-- title: Neon
+- title: Néon
   image: "/forestry/1279.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 60
     width: 81
     depth: 
-  description: 1983 / 3300€
-  price: 
+  description: '1983 '
+  price: 3300
   sold: false
   contextual: true
 - title: Equilibre fragile
@@ -74,8 +74,8 @@ works:
     height: 100
     width: 73
     depth: 
-  description: 1987 / 4300€
-  price: 
+  description: '1987 '
+  price: 4300
   sold: false
   contextual: true
 - title: Equilibre fugace
@@ -85,8 +85,8 @@ works:
     height: 116
     width: 81
     depth: 
-  description: 1983 / 4700 €
-  price: 
+  description: '1983 '
+  price: 4700
   sold: false
   contextual: true
 - title: Barques fragiles
@@ -96,8 +96,8 @@ works:
     height: 38
     width: 55
     depth: 
-  description: 1955 / 2000€
-  price: 
+  description: '1955 '
+  price: 2000
   sold: false
   contextual: true
 - title: Célébration du soir
@@ -107,8 +107,8 @@ works:
     height: 81
     width: 116
     depth: 
-  description: 1984 / 4500€
-  price: 
+  description: '1984 '
+  price: 4500
   sold: false
   contextual: true
 - title: Construction hésitante
@@ -118,8 +118,8 @@ works:
     height: 100
     width: 73
     depth: 
-  description: 1975 / 4000€
-  price: 
+  description: '1975 '
+  price: 4000
   sold: false
   contextual: true
 - title: Entre le Chien et le Loup
@@ -129,8 +129,8 @@ works:
     height: 54
     width: 65
     depth: 
-  description: 1956 / 3000€
-  price: 
+  description: "1956"
+  price: 3000
   sold: false
   contextual: true
 - title: Lucarne
@@ -140,8 +140,8 @@ works:
     height: 116
     width: 81
     depth: 
-  description: 1989 / 4500€
-  price: 
+  description: "1989"
+  price: 4500
   sold: false
   contextual: true
 - title: Passage des migrateurs
@@ -151,8 +151,8 @@ works:
     height: 97
     width: 162
     depth: 
-  description: 1975 / 5000€
-  price: 
+  description: '1975 '
+  price: 5500
   sold: false
   contextual: true
 - title: Peut-être une lucarne
@@ -162,8 +162,8 @@ works:
     height: 81
     width: 60
     depth: 
-  description: 1956 / 3500€
-  price: 
+  description: '1956 '
+  price: 3500
   sold: false
   contextual: true
 - title: Une fleur bleue
@@ -173,8 +173,8 @@ works:
     height: 50
     width: 61
     depth: 
-  description: 1980 / 2600€
-  price: 
+  description: '1980 '
+  price: 2600
   sold: false
   contextual: true
 - title: Vis a vis
@@ -184,8 +184,8 @@ works:
     height: 61
     width: 50
     depth: 
-  description: 1979 / 2600€
-  price: 
+  description: '1979 '
+  price: 2600
   sold: false
   contextual: true
 - title: Exposition Polymorphie du 16 Janvier 1er Février 2020
