@@ -6,17 +6,18 @@ field: Peintre
 birth: ''
 death: ''
 expose: true
-biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\"](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf
-  \"Catalogue Toma L\")\n\nL’artiste est né en 1975.\n\n« Je compose en associant
-  les pleins et les vides. Les masses sont sombres, moyennes et claires. La lumière
-  vient de la toile ou de la couleur. Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes
-  formes sont des personnages vivants, son geste souple. Reconnaît-on, ici, à l’endroit,
-  à l’envers, de travers, une des entités imaginaires de l’artiste ? Et, là, ne forment-ils
-  pas, à deux, à trois, à quatre comme une famille de cœur, qui échange, discute ?\n\nCrayon
-  gras, acrylique, huile, pastel gras, papier, toile usée, grattée, coupée… Les lettres
-  de son alphabet c’est la couleur, les couleurs. Premières et primaires comme Miró.
-  Couleurs pures qui contrastent les unes avec les autres : il y a du mouvement dans
-  les couleurs chez Toma-L, la couleur chez lui c’est du volume, une troisième dimension.\n\nToma-L
+biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\"](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf
+  \"Catalogue Toma L\")\n\nTélécharger le catalogue Toma L\n\nL’artiste est né en
+  1975.\n\n« Je compose en associant les pleins et les vides. Les masses sont sombres,
+  moyennes et claires. La lumière vient de la toile ou de la couleur. Le sujet alors
+  s’impose à moi. » raconte Toma-L.\n\nSes formes sont des personnages vivants, son
+  geste souple. Reconnaît-on, ici, à l’endroit, à l’envers, de travers, une des entités
+  imaginaires de l’artiste ? Et, là, ne forment-ils pas, à deux, à trois, à quatre
+  comme une famille de cœur, qui échange, discute ?\n\nCrayon gras, acrylique, huile,
+  pastel gras, papier, toile usée, grattée, coupée… Les lettres de son alphabet c’est
+  la couleur, les couleurs. Premières et primaires comme Miró. Couleurs pures qui
+  contrastent les unes avec les autres : il y a du mouvement dans les couleurs chez
+  Toma-L, la couleur chez lui c’est du volume, une troisième dimension.\n\nToma-L
   vous fait vous sentir bien, comme une personne, un ensemble de personnes, que l'on
   fréquente et qui vous donne de la pêche. La couleur et le mouvement que dégagent
   ses œuvres dépassent la dimension picturale pour procurer d'autres effets, d'autres
