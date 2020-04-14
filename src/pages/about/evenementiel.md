@@ -36,9 +36,10 @@ content:
 seo:
   title: Evènementiel
   type: website
-  description: 'La Galerie Gaïa vous propose de travailler sur vos projets professionnels
-    et vous conseille à titre personnel sur vos  acquisitions. '
-  image: "/forestry/seo-about.jpg"
+  description: Galerie Gaia propose des évènementiels en team building , évenement
+    original pour entreprise, travail coopératif, collaboratif, esprit créativité,
+    fresque arty street art entreprise
+  image: "/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg"
 redirect_from:
 - "/location-de-salle-a-nantes/"
 
