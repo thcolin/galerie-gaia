@@ -118,44 +118,6 @@ works:
   description: "2019111401  \nPrix sur demande"
   price: 0
   contextual: true
-- title: 'Atelier Toma L Série Drawing Trash Color '
-  image: "/forestry/drawingtrashcolor2-102x70cm_bd.jpg"
-  technique: 'Technique mixte sur papier '
-  dimensions:
-    height: 100
-    width: 70
-  description: "Œuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nSérie
-    vendue"
-  price: ''
-  contextual: false
-  sold: true
-- title: 'Drawing Trash Color '
-  image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
-  technique: 'Technique mixte sur papier '
-  dimensions:
-    height: 120
-    width: 90
-  description: "cadre blanc sous verre  \n2020031203  \nvendu"
-  price: ''
-  contextual: true
-- title: 'Drawing trash color '
-  image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 100
-    width: 70
-  description: "cadre blanc sous verre  \n2020031202  \nvendu"
-  price: ''
-  contextual: true
-- title: 'Drawing Trash Color  '
-  image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 120
-    width: 90
-  description: "cadre blanc sous verre  \n2020031201  \nvendu"
-  price: ''
-  contextual: true
 - title: 'Trash and color '
   image: "/forestry/galeriegaia@tomaL-2019111701-TrashAndColor-162x130cm.jpg"
   technique: technique mixte sur toile en lin sur châssis à clef
@@ -210,6 +172,15 @@ works:
   description: "caisse américaine noire  \n2019022702  \nprix sur demande "
   price: ''
   contextual: true
+- title: 'Drawing Trash Color  '
+  image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 120
+    width: 90
+  description: "cadre blanc sous verre  \n2020031201  \nvendu"
+  price: ''
+  contextual: true
 - title: 'Graphite & Colors '
   image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019-1.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -237,6 +208,15 @@ works:
   dimensions:
     height: 109
     width: 79
+- title: 'Drawing Trash Color '
+  image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
+  technique: 'Technique mixte sur papier '
+  dimensions:
+    height: 120
+    width: 90
+  description: "cadre blanc sous verre  \n2020031203  \nvendu"
+  price: ''
+  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
   technique: 'Technique mixte sur papier marouflé sur bois '
@@ -254,6 +234,15 @@ works:
     height: 108
     width: 78
   description: "caisse américaine chêne  \n2018091803  \nprix sur demande "
+  price: ''
+  contextual: true
+- title: 'Drawing trash color '
+  image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 100
+    width: 70
+  description: "cadre blanc sous verre  \n2020031202  \nvendu"
   price: ''
   contextual: true
 - title: 'Black and simple color '
@@ -327,6 +316,17 @@ works:
   price: ''
   sold: false
   contextual: true
+- title: 'Atelier Toma L Série Drawing Trash Color '
+  image: "/forestry/drawingtrashcolor2-102x70cm_bd.jpg"
+  technique: 'Technique mixte sur papier '
+  dimensions:
+    height: 100
+    width: 70
+  description: "Œuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nSérie
+    vendue"
+  price: ''
+  contextual: false
+  sold: true
 - title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
   technique: ''
