@@ -99,6 +99,15 @@ exhibitions:
   location: Galerie Gaia
   end: reporté
 works:
+- title: 'Graphite & Color '
+  image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
+  technique: Technique mixte sur papier marouflé sur bois
+  dimensions:
+    height: 157
+    width: 125
+  description: "caisse américaine chêne  \n2019011401  \nprix sur demande"
+  price: ''
+  contextual: true
 - title: Brut and Simple Color
   image: "/forestry/galeriegaia@Toma L-brutandsimplecolor-2019111401-196X130cm-bd.jpg"
   technique: mixte sur toile en lin châssis à clefs
@@ -210,15 +219,6 @@ works:
   description: "Caisse américaine noire  \n2019022501  \nprix sur demande "
   price: ''
   contextual: true
-- title: 'Graphite & Color '
-  image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
-  technique: Technique mixte sur papier marouflé sur bois
-  dimensions:
-    height: 157
-    width: 125
-  description: "caisse américaine chêne  \n2019011401  \nprix sur demande"
-  price: ''
-  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
   description: "Caisse américaine noire  \n2018091815  \nprix sur demande "
@@ -304,6 +304,28 @@ works:
     width: 70
   description: "caisse américaine chêne  \n2012040601  \nprix sur demande "
   price: ''
+  contextual: true
+- title: 'Simple White Trash '
+  image: "/forestry/simple-white-trash.jpg"
+  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
+  dimensions:
+    height: 150
+    width: 95
+    depth: 
+  description: "2017051101  \nprix sur demande "
+  price: ''
+  sold: false
+  contextual: true
+- title: 'Red Canaille '
+  image: "/forestry/red-canaille.jpg"
+  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
+  dimensions:
+    height: 162
+    width: 114
+    depth: 
+  description: "2016050213  \nprix sur demande "
+  price: ''
+  sold: false
   contextual: true
 - title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
@@ -437,28 +459,6 @@ works:
     depth: 
   description: "Tirage à 12 exemplaires   \n3017101206"
   price: 400
-  sold: false
-  contextual: true
-- title: 'Simple White Trash '
-  image: "/forestry/simple-white-trash.jpg"
-  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
-  dimensions:
-    height: 150
-    width: 95
-    depth: 
-  description: "2017051101  \nprix sur demande "
-  price: ''
-  sold: false
-  contextual: true
-- title: 'Red Canaille '
-  image: "/forestry/red-canaille.jpg"
-  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
-  dimensions:
-    height: 162
-    width: 114
-    depth: 
-  description: "2016050213  \nprix sur demande "
-  price: ''
   sold: false
   contextual: true
 redirect_from:
