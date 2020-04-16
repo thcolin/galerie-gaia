@@ -11,12 +11,12 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   Bram Van Velde , Alechinsky… et des artistes dont l’œuvre est en devenir.\n\n**En
   2015 Elisabeth Givre** prolonge l’aventure et ancre avec la **Galerie Gaïa**, l’art
   contemporain comme la véritable empreinte de ce lieu situé dans le cœur historique
-  de la ville de Nantes, le quartier Decré.\n\n6-8 expositions personnelles en solo-show
-  alternent dans l'année avec des installations collectives montrant simultanément
-  des peintures, sculptures, photographies, dessins, gravures, lithographies, sérigraphies,
-  céramiques et objets uniques de designer que je sélectionne avec attention.\n\nLes
-  héritiers de Jorj Morin célèbre publicitaire nantais, peintre et graveur nous honorent
-  de leur confiance. Ainsi ses gravures, peintures, stèles et tapisseries sont exposées
+  de la ville de Nantes, le quartier Decré.\n\n6-8 expositions en solo-show alternent
+  dans l'année avec des expositions collectives montrant simultanément des peintures,
+  sculptures, photographies, dessins, gravures, lithographies, sérigraphies, céramiques
+  et objets uniques de designer que je sélectionne avec attention.\n\nLes héritiers
+  de Jorj Morin célèbre publicitaire nantais, peintre et graveur nous honorent de
+  leur confiance. Ainsi ses gravures, peintures, stèles et tapisseries sont exposées
   et disponibles à la vente en exclusivité à la galerie.\n\nVous avez trouvé une œuvre
   sur le site qui vous plait et vous hésitez ?  \nComment financer votre achat ?  \nLes
   livraisons sont-elles possibles partout ?\n\nUn crédo : faire simple\n\n**1.  Essayer
