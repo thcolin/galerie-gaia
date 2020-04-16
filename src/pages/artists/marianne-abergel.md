@@ -85,15 +85,15 @@ works:
   price: 230
   sold: false
   contextual: false
-- title: 'les Chimères : Girafe'
-  image: "/forestry/373.jpg"
+- title: Chimère cachée La girafe
+  image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-girafe.jpg"
   technique: Porcelaine et or
   dimensions:
     height: 10
-    width: 
+    width: 7
     depth: 
-  description: 290€
-  price: 
+  description: ''
+  price: 290
   sold: false
   contextual: true
 redirect_from:
