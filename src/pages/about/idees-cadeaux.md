@@ -22,9 +22,9 @@ content:
 seo:
   title: Idées cadeaux
   type: website
-  description: La Galerie Gaïa galerie art nantes idées cadeaux originales, encadrement,
-    cartes de voeux pour les entreprises, liste mariage, cadeaux anniversaire, estampes
-    oeuvres originales artistes internationaux
+  description: "# idées cadeaux originales # Galerie Gaïa galerie art nantes, encadrement,
+    cartes de voeux pour entreprises, liste mariage, cadeaux anniversaire, souvenir
+    de nantes , oeuvre sur nantes "
   image: "/forestry/galeriegaia-stpehanie billarant-Ville rêvée nantes1bd.jpg"
 
 ---
