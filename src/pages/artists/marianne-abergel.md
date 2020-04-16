@@ -63,30 +63,28 @@ works:
   description: "2019"
   price: 0
   contextual: false
-- title: 'Les Chimères : Le Cerf'
-  image: "/forestry/les-chimeres-le-cerf.jpg"
-  technique: Grès noir et émail
+- title: Le Cerf
+  image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cerf céladon.jpg"
+  technique: Grès emaillé céladon
   dimensions:
     height: 30
     width: 
     depth: 
-  description: |-
-    624€
-    socle vendu séparément
-  price: 
+  description: "Série Les chimères   \nsocle vendu séparément"
+  price: 625
   sold: false
   contextual: true
-- title: 'Les Chimères : Le lièvre'
-  image: "/forestry/les-chimeres-le-lievre.jpg"
-  technique: grès blanc et émail
+- title: Chimère cachée Le lièvre
+  image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-lièvre.jpg"
+  technique: Grès blanc et émail pointe or
   dimensions:
-    height: 30
-    width: 
+    height: 8
+    width: 6
     depth: 
-  description: "640€ \nsocle vendu séparément"
-  price: 
+  description: ''
+  price: 230
   sold: false
-  contextual: true
+  contextual: false
 - title: 'les Chimères : Girafe'
   image: "/forestry/373.jpg"
   technique: Porcelaine et or
