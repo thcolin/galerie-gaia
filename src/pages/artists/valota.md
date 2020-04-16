@@ -76,17 +76,16 @@ works:
   contextual: true
   price: 2800
   technique: 'Cire et pigments sur bois '
-- title: Tour noir mordorée
+- title: Tour noire mordorée
   image: "/forestry/VALOTA -TOUR Noir Mordoré - HAUTEUR 57cm - DIAMETRE 42cm - CERAMIQUE
     - 2019.jpg"
   technique: Céramique
   dimensions:
     height: 57
     width: 42
-  description: |-
-    [galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR Noir Mordoré 57cm x 42cm - 2019.mov](/forestry/galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR Noir Mordoré 57cm x 42cm - 2019.mov "galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR Noir Mordoré 57cm x 42cm - 2019.mov")
-
-    2019
+  description: "[vidéo Tour Noir](https://galeriegaia.fr/forestry/galerie gaia VALOTA
+    SCULPTURE CERAMIQUE TOUR BLEUE 58cm x 42cm - 2020.mov \"Valota vidéo Tour Noir\")
+    \n\n2019"
   price: 3000
   contextual: false
 - title: ON THE OTHER SIDE OF THE SKY 14
