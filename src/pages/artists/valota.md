@@ -105,7 +105,10 @@ works:
   dimensions:
     height: 58
     width: 42
-  description: "2020"
+  description: |-
+    [vidéo Tour bleue](https://galeriegaia.fr/forestry/galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR BLEUE 58cm x 42cm - 2020.mov "Valota tour bleue")
+
+    2020
   price: 3000
   contextual: false
 - title: DAYS ARE DARK AND NIGHTS ARE CLEAR 71
