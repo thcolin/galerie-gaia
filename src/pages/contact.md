@@ -37,10 +37,9 @@ about: "Un besoin d’information,  \nConnaître les actualités de la galerie, 
 seo:
   title: Contact
   type: website
-  description: |-
-    Un besoin d’information,
-    Connaître les actualités de la galerie,
-    Envie d’être invité aux prochains vernissages ?
+  description: Galerie Gaia est une galerie art à Nantes, art contemporain. La galerie
+    Gaïa expose des peintures, sculptures, photos, dessins et des estampes d'artistes
+    contemporains et artistes internationaux
   image: "/forestry/photo facade-1.jpg"
 redirect_from:
 - "/galerie-d-art-nantes/"
