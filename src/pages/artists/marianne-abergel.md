@@ -43,6 +43,26 @@ biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel 
   à l'EPSA (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Frontalité 1
+  image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
+  technique: Céramique
+  dimensions:
+    height: 46
+    width: 22
+    depth: 0
+  description: "2019"
+  price: 0
+  contextual: false
+- title: Sisters
+  image: "/forestry/galerie gaia -Marianne ABERGEL-Sisters- 39x19 cm.jpg"
+  technique: 'Céramique '
+  dimensions:
+    height: 39
+    width: 19
+    depth: 0
+  description: "2019"
+  price: 0
+  contextual: false
 - title: 'Les Chimères : Le Cerf'
   image: "/forestry/les-chimeres-le-cerf.jpg"
   technique: Grès noir et émail
