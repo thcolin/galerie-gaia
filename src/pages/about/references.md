@@ -1,54 +1,57 @@
 ---
 template: about
-title: 'Références'
+title: Références
 content:
-  - column: "**Voici quelques  lieux à part**, hors mode où le sur-mesure fait partie
-      de l'ADN du travail,  \nCes lieux où vous serez regardés, écoutés sans qu'on
-      vous impose du déjà vu,  \nDes artisans à la frontière de la démarche artistique
-      !  \nSouvent devenus  amis, **allez hop venez de ma part en toute légèreté**\n\n[Gilles
-      et Julie](https://gillesetjulie.com/) : j'veux du cuir !\n\n[Damien Hamon](https://daha.fr/
-      \"Damien Hamon\") : ébéniste qui met le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
-      \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\n[La
-      Souris d'Agneau](http://www.lasourisdagneau.fr/ \"La souris d'Agneau\") : parce
-      que c'est trop bon et que Pascal vous sert en prenant soin de vous\n\n[Le Bouchon](https://www.le-bouchon-nantes.com/
-      \"Le Bouchon\") : il n'y a pas que la terrasse d'incontournable, toute l'équipe
-      décalée le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr
-      \"Barak\") : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
-      \"Ressources\") : mon marchand de couleurs et celui aussi de quelques artistes
-      de la galerie. Conseil de pro!\n\n[Lulu Rouget](https://www.lulurouget.fr/ \"Lulu
-      Rouget\") : dans l'assiette c'est comme une é-toile\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
-      \"Vincent Guerlais \") : parce que sa pâtisserie nommée Gaïa est juste un délice\n\n[Le
-      Reflet](https://www.restaurantlereflet.fr/ \"Le Reflet\") : une délicieuse cuisine
-      où la bonne humeur est de mise\n\nDomaine Bretaudeau : si la cuvée Gaïa est
-      en rupture de stock je n'y suis pour rien !"
-    contact:
-      display: false
-      placeholder: ''
-  - column: |-
-      **Merci pour la confiance** accordée par ces sociétés pour des projets riches en défis et émotions artistiques.
+- column: "**Voici quelques  lieux à part**, hors mode où le sur-mesure fait partie
+    de l'ADN du travail,  \nCes lieux où vous serez regardés, écoutés sans qu'on vous
+    impose du déjà vu,  \nDes artisans à la frontière de la démarche artistique !
+    \ \nSouvent devenus  amis, **allez hop venez de ma part en toute légèreté**\n\n[Gilles
+    et Julie](https://gillesetjulie.com/) : j'veux du cuir !\n\n[Damien Hamon](https://daha.fr/
+    \"Damien Hamon\") : ébéniste qui met le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
+    \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\n[La
+    Souris d'Agneau](http://www.lasourisdagneau.fr/ \"La souris d'Agneau\") : parce
+    que c'est trop bon et que Pascal vous sert en prenant soin de vous\n\n[Le Bouchon](https://www.le-bouchon-nantes.com/
+    \"Le Bouchon\") : il n'y a pas que la terrasse d'incontournable, toute l'équipe
+    décalée le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr \"Barak\")
+    : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
+    \"Ressources\") : mon marchand de couleurs et celui aussi de quelques artistes
+    de la galerie. Conseil de pro!\n\n[Lulu Rouget](https://www.lulurouget.fr/ \"Lulu
+    Rouget\") : dans l'assiette c'est comme une é-toile\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
+    \"Vincent Guerlais \") : parce que sa pâtisserie nommée Gaïa est juste un délice\n\n[Le
+    Reflet](https://www.restaurantlereflet.fr/ \"Le Reflet\") : une délicieuse cuisine
+    où la bonne humeur est de mise\n\nDomaine Bretaudeau : si la cuvée Gaïa est en
+    rupture de stock je n'y suis pour rien !"
+  contact:
+    display: false
+    placeholder: ''
+- column: |-
+    **Merci pour la confiance** accordée par ces sociétés pour des projets riches en défis et émotions artistiques.
 
-      ```marksy
-        h(Gallery, {
-          images: [
-            '/forestry/keran.jpg',
-            '/forestry/galeriegaia@kazy-carnetadelis.jpg',
-            '/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg',
-            '/forestry/cinna_logo_zeeblog_zeeloft.jpg',
-            '/forestry/logo galeries lafayette.jpg',
-            '/forestry/LOGO SQUASH.png',
-            '/forestry/LOGO OMR.png',
-            '/forestry/LOGO AUDI.jpg',
-            '/forestry/logochristophevinet.jpg',
-            '/forestry/index.png',
-          ]
-        })
-      ```
-    contact:
-      display: false
-      placeholder: ''
+    ```marksy
+      h(Gallery, {
+        images: [
+          '/forestry/keran.jpg',
+          '/forestry/galeriegaia@kazy-carnetadelis.jpg',
+          '/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg',
+          '/forestry/cinna_logo_zeeblog_zeeloft.jpg',
+          '/forestry/logo galeries lafayette.jpg',
+          '/forestry/LOGO SQUASH.png',
+          '/forestry/LOGO OMR.png',
+          '/forestry/LOGO AUDI.jpg',
+          '/forestry/logochristophevinet.jpg',
+          '/forestry/index.png',
+        ]
+      })
+    ```
+  contact:
+    display: false
+    placeholder: ''
 seo:
   title: Références
   type: website
-  description: 'La Galerie Gaïa vous propose de travailler sur vos projets professionnels et vous conseille à titre personnel sur vos  acquisitions. '
-  image: "/forestry/seo-about.jpg"
+  description: La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets à titre
+    personnel et professionnel, pour aménager, décorer, défiscaliser, faire un cadeau
+    original artistique
+  image: "/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
+
 ---
