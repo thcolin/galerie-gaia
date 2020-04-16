@@ -24,7 +24,7 @@ seo:
   type: website
   description: La Galerie Gaïa galerie art nantes idées cadeaux originales, encadrement,
     cartes de voeux pour les entreprises, liste mariage, cadeaux anniversaire, estampes
-    ou oeuvres originales à partir de 100€
+    oeuvres originales artistes internationaux
   image: "/forestry/galeriegaia-stpehanie billarant-Ville rêvée nantes1bd.jpg"
 
 ---

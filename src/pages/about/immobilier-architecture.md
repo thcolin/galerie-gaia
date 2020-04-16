@@ -25,9 +25,9 @@ content:
 seo:
   title: Immobilier Architecture
   type: website
-  description: La Galerie Gaïa, art contemporain travaille sur des projets  promotion
-    immobilière, "1 immeuble 1 oeuvre", décoration d'intérieur, architecture , conseil
-    et location d’œuvre d'art, fresque street art
+  description: 'La Galerie Gaïa, galerie art contemporain travaille sur des projets  promotion
+    immobilière, décoration d''intérieur, architecture , conseil et location d’œuvre
+    d''art, fresque street art '
   image: "/forestry/galeriegaia-magazinecoté ouest-labaule pornichet.jpg"
 
 ---

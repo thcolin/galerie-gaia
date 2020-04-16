@@ -36,9 +36,9 @@ content:
 seo:
   title: Evènementiel
   type: website
-  description: Galerie Gaia propose des évènementiels en team building , évenement
-    original pour entreprise, travail coopératif, collaboratif, esprit créativité,
-    fresque arty street art entreprise
+  description: Galerie Gaia propose des évènementiels team building , évent original
+    pour entreprise, travail coopératif, collaboratif, esprit créativité, fresque
+    arty street art entreprise, RSE ,marque employeur
   image: "/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg"
 redirect_from:
 - "/location-de-salle-a-nantes/"
