@@ -21,9 +21,9 @@ content:
 seo:
   title: Courtier en art
   type: website
-  description: 'Galerie Gaya  Elisabeth Givre conseil en art fiscalité, défiscalisation
-    location et leasing art, courtier en art conseil dans vos choix auprès de galeries
-    art internationales '
+  description: "# courtier en art # Galerie Gaya  Elisabeth Givre conseil en art et
+    défiscalisation location et leasing art, le courtier en art réalise les acquisitions
+    auprès de galeries art internationales "
   image: "/forestry/elisabeth givre- galerie gaia- article ouest france.png"
 
 ---
