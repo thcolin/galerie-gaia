@@ -23,7 +23,7 @@ exhibitions:
 
     Votre fidélité sera infiniment précieuse
 - template: exhibition
-  title: POLYMORPHIE JORJ MORIN
+  title: Polymorphie Jorj Morin
   image: "/forestry/polymorphie-jorj-morin.jpg"
   content: |-
     L'exposition POLYMORPHIE  c'est le désir de faire découvrir à ceux qui ne connaissent pas l'artiste nantais Jorj MORIN, comme il est passionnant de regarder un artiste se confronter à des supports différents  qui offrent des contraintes jubilatoires.
@@ -53,7 +53,7 @@ exhibitions:
 
     _Du 11/24/2019 au 11/24/2019_
 - template: exhibition
-  title: De l'art ou du bacon?
+  title: De l'art ou du bacon? Discussion débat
   image: "/forestry/de-lart-ou-du-bacon.jpg"
   content: |-
     DIMANCHE 24 NOVEMBRE
@@ -142,7 +142,7 @@ exhibitions:
 
     _Du 10/16/2018 au 12/14/2018_
 - template: exhibition
-  title: '"Découverte de Talents"'
+  title: '"Découverte de Talents" Neil Ratnavira'
   image: "/forestry/decouverte-de-talents.jpg"
   content: |-
     Partenaire chez Cinna Nantes, la Galerie Gaïa propose de faire découvrir le talent de Neil Ratnavira, artiste peintre et aussi photographe de rue.
@@ -181,7 +181,7 @@ exhibitions:
     dévoilera ses toiles pour l'exposition Keran.\nLaissez-vous embarquer !\n\n_Du
     07/04/2018 au 09/07/2018_"
 - template: exhibition
-  title: 40 ans d'Histoire d'Art
+  title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
   image: "/forestry/40-ans-dhistoire-dart.jpg"
   content: "Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu .
     Mais savez vous que l'histoire a commencé en 1978 ?\nAllez... venez rafraîchir
@@ -193,7 +193,7 @@ exhibitions:
     Tangui Robert, et Boris Jakobek \nL'exposition de leurs oeuvres durera jusqu'au
     28 juillet.\n\n_Du 06/21/2018 au 07/28/2018_"
 - template: exhibition
-  title: L'hallucination simple
+  title: L'hallucination simple Patrick Gueguen
   image: "/forestry/lhallucination-simple.jpg"
   content: "Texte de son ami Roland HALBERT qui sera en signature de son livre \nsamedi
     23 juin à 14H\n__________________________________________\nLa peinture de Patrick
@@ -300,13 +300,6 @@ exhibitions:
   image: "/forestry/tangui-robert.jpg"
   content: _Du 07/12/2017 au 08/31/2017_
 - template: exhibition
-  title: HORAIRES D ETE 11H 13H  & 15H 19H
-  image: "/forestry/horaires-d-ete-11h-13h-and-15h-19h.jpg"
-  content: |-
-    Prenez les chemins de traverse et laissez vous glisser sur l'oeuvre de Tangui Robert au Château des Ducs dans le cadre du VAN puis venez vous plonger dans son oeuvre toute en pic et profondeur !
-
-    _Du 07/06/2017 au 08/26/2017_
-- template: exhibition
   title: START ' UP 2017
   image: "/forestry/start-up-2017.jpg"
   content: "ST'ART UP 2017 2eme Edition \nce rendez vous lancé en 2016  à des étudiants
@@ -380,19 +373,6 @@ exhibitions:
     texte de  Nathalie Tatai-Pogioni
 
     _Du 09/30/2016 au 12/02/2016_
-- template: exhibition
-  title: Les derniers des Mohicans
-  image: "/forestry/les-derniers-des-mohicans.jpg"
-  content: "Bruno DUMAS photographie au sténopé et Dominique EMERY dessine sur ses
-    carnets pour inspirer son travail de gravure.\nTous deux assument pleinement ce
-    paradoxe d'oeuvres contemporaines par le passage d'une démarche plus méthodique
-    que technique. Pas de performance, mais un regard qui sonde au-delà de l'image.
-    \nTous deux se sont accaparé des vieilles méthodes de travail, rien d'immédiat,
-    où lenteur et  patience leur donnent cette impression d'être à contre-courant,
-    comme Les derniers des Mohicans. \nD. EMERY présente sa dernière série \"Bibliothèque\"
-    et,\nB. DUMAS les sténopés que vous retrouverez dans le livre \"Je t'efface dans
-    la pierre\". Ces photos ont inspiré l'écriture de Luc VIGIER et la mise en page
-    de Sylvain DUBOIS.\n\n_Du 09/16/2016 au 10/01/2016_"
 - template: exhibition
   title: APHO  "là-bas"
   image: "/forestry/apho-la-bas.jpg"
@@ -481,13 +461,6 @@ exhibitions:
     vente des sérigraphies numérotées et signées et coffrets rétrospective en édition limitée
 
     _Du 09/03/2015 au 09/05/2015_
-- template: exhibition
-  title: EXPOSITION DECOUVERTE
-  image: "/forestry/exposition-decouverte.jpg"
-  content: "Annick ARGANT sculpture de bronze et totem en grés\nJean Claude BREAT
-    peintre \nCatherine MARCHADOUR coloriste \nJean Pierre MARCHADOUR  inclassable
-    ....dactylographie ....\nEt toujours  les artistes présents à la galerie  \n\nUne
-    solution venir voir !\n\n_Du 02/04/2016 au 02/13/2016_"
 - template: exhibition
   title: Marianne ABOUGIT et Stéphanie BILLARANT
   image: "/forestry/marianne-abougit-et-stephanie-billarant.jpg"
