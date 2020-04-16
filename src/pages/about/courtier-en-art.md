@@ -23,7 +23,7 @@ seo:
   type: website
   description: 'Galerie Gaya  Elisabeth Givre conseil en art fiscalité, défiscalisation
     location et leasing art, courtier en art conseil dans vos choix auprès de galeries
-    art international '
+    art internationales '
   image: "/forestry/elisabeth givre- galerie gaia- article ouest france.png"
 
 ---

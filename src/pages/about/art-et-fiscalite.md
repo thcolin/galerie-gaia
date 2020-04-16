@@ -61,9 +61,9 @@ content:
 seo:
   title: Art et fiscalité
   type: website
-  description: Galerie Gaïa aide les entreprises et professions liberales pour des
-    acquisitions d'oeuvres d'art, defiscalisation art, location, leasing comment choisir
-    une de ces solutions
+  description: Galerie Gaïa conseille les entreprises et professions liberales pour
+    des acquisitions d’œuvres d'art, défiscalisation art, location, leasing comment
+    choisir une de ces solutions optimisation fiscale.
   image: "/forestry/galeriegaia-defiscalisation-location-leasing art.jpg"
 redirect_from:
 - "/prestations/"
