@@ -49,9 +49,9 @@ content:
 seo:
   title: Références
   type: website
-  description: La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets à titre
-    personnel et professionnel, pour aménager, décorer, défiscaliser, faire un cadeau
-    original artistique
+  description: 'La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets personnel
+    et professionnel, pour aménager, décorer, défiscaliser, faire un cadeau original
+    artistique, pour l’émotion de l''art '
   image: "/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
 
 ---

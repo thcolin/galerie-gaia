@@ -4,9 +4,8 @@ exhibitions:
 - template: exhibition
   title: Il peint sur Nantes Toma L
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
-  content: |2-
-
-    [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_27Mars2020-1.pdf "catalogue Toma L")
+  content: |-
+    [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf "catalogue Toma L")
 
     L' Exposition est reportée , on se la garde bien au chaud pour en profiter quand nous pourrons nous revoir tous ensemble.
 
@@ -511,7 +510,7 @@ exhibitions:
 
     _Du 04/09/2015 au 05/17/2015_
 title: Expositions
-description: La Galerie vous accueil chaque jour du Jeudi au Samedi, de 11h à 19h
-  pour découvrir de nouvelles oeuvres
+description: La Galerie vous accueille chaque jour du Jeudi au Samedi, de 11h à 19h
+  et sur rendez-vous à domicile pour étudier un projet in situ.
 
 ---
