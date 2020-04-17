@@ -83,9 +83,10 @@ works:
   dimensions:
     height: 57
     width: 42
-  description: "[vidéo Tour Noir](https://galeriegaia.fr/forestry/galerie gaia VALOTA
-    SCULPTURE CERAMIQUE TOUR BLEUE 58cm x 42cm - 2020.mov \"Valota vidéo Tour Noir\")
-    \n\n2019"
+  description: |-
+    [vidéo Tour Noir](https://galeriegaia.fr/forestry/galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR Noir Mordoré 57cm x 42cm - 2019.mov "Valota vidéo Tour Noir")
+
+    2019
   price: 3000
   contextual: false
 - title: ON THE OTHER SIDE OF THE SKY 14
