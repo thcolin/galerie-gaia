@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection des nouveautés Avril 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: Chimère Cerf turquoise de Marianne Abergel
   image: "/forestry/ABERGEL-chimère cerf turquoise -2.jpg"
   technique: Grés émaillé
@@ -18,11 +23,6 @@ works:
     depth: 0
   description: prix sans le socle chêne
   price: 490
-  contextual: true
-- title: Sélection des nouveautés Avril 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
   contextual: true
 - title: Miki de Dimitri Roubichou
   image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
