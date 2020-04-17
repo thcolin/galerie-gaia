@@ -11,10 +11,10 @@ content:
     qui met le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
     \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\n[La
     Souris d'Agneau](http://www.lasourisdagneau.fr/ \"La souris d'Agneau\") : parce
-    que c'est trop bon et que Pascal vous sert en prenant soin de vous\n\n[Le Bouchon](https://www.le-bouchon-nantes.com/
-    \"Le Bouchon\") : il n'y a pas que la terrasse d'incontournable, toute l'équipe
-    décalée le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr \"Barak\")
-    : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
+    que la souris d'agneau est aussi fondante que Pascal qui vous sert en prenant
+    soin de vous\n\n[Le Bouchon](https://www.le-bouchon-nantes.com/ \"Le Bouchon\")
+    : il n'y a pas que la terrasse d'incontournable, toute l'équipe décalée le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr
+    \"Barak\") : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
     \"Ressources\") : mon marchand de couleurs et celui aussi de quelques artistes
     de la galerie. Conseils de pro!\n\n[Lulu Rouget](https://www.lulurouget.fr/ \"Lulu
     Rouget\") : dans l'assiette c'est comme une é-toile\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
