@@ -9,6 +9,16 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Chimère Cerf turquoise de Marianne Abergel
+  image: "/forestry/ABERGEL-chimère cerf turquoise -2.jpg"
+  technique: Grés émaillé
+  dimensions:
+    height: 20
+    width: 0
+    depth: 0
+  description: prix sans le socle chêne
+  price: 490
+  contextual: true
 - title: Sélection des nouveautés Avril 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
