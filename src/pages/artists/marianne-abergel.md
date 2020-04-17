@@ -43,6 +43,16 @@ biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel 
   à l'EPSA (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Chimère Cerf Turquoise
+  image: "/forestry/ABERGEL-chimère cerf turquoise -1.jpg"
+  technique: Grès emaillé
+  dimensions:
+    height: 20
+    width: 0
+    depth: 0
+  description: prix sans le socle chêne
+  price: 490
+  contextual: true
 - title: Frontalité 1
   image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
   technique: Céramique
