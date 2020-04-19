@@ -43,7 +43,7 @@ works:
     width: 159
     depth: 
   description: "-"
-  price: 
+  price: 8000
   sold: false
   contextual: true
 - title: le chaos et l'ordre
