@@ -29,6 +29,16 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
+- title: Rivage
+  image: "/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
+  technique: 'Papier '
+  dimensions:
+    height: 84
+    width: 64
+    depth: 0
+  description: ''
+  price: 2900
+  contextual: true
 - title: Empreinte
   dimensions:
     height: 0
@@ -37,6 +47,7 @@ works:
   description: ''
   price: 0
   contextual: true
+  image: "/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
 - title: Détail d'une oeuvre sur papier blanc
   image: "/forestry/detail-dune-oeuvre-sur-papier-blanc.jpg"
   technique: Incision scalpel sur papier blanc
