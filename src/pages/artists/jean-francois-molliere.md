@@ -91,7 +91,7 @@ works:
     width: 80
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: 1800
+  price: ''
   sold: false
   contextual: true
 - title: New York 2
@@ -102,7 +102,7 @@ works:
     width: 80
     depth: 
   description: 'Tirage papier fine art sur dibon caisse américaine bois '
-  price: 1800
+  price: ''
   sold: false
   contextual: true
 - title: New York 22
@@ -113,7 +113,7 @@ works:
     width: 100
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: 1800
+  price: ''
   sold: false
   contextual: true
 - title: New York Lone Street
@@ -124,7 +124,7 @@ works:
     width: 60
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: 1200
+  price: ''
   sold: false
   contextual: true
 - title: Inside the horizon
@@ -135,7 +135,7 @@ works:
     width: 85
     depth: 
   description: Edition en 15 exemplaires
-  price: 1800
+  price: ''
   sold: false
   contextual: true
 - title: Chicago 2
@@ -146,7 +146,7 @@ works:
     width: 72
     depth: 
   description: ''
-  price: 1200
+  price: ''
   sold: false
   contextual: true
 - title: Chicago 3
@@ -157,7 +157,7 @@ works:
     width: 72
     depth: 
   description: ''
-  price: 1200
+  price: ''
   sold: false
   contextual: true
 - title: Chicago Emercency Exit
@@ -179,7 +179,7 @@ works:
     width: 60
     depth: 
   description: ''
-  price: 1200
+  price: ''
   sold: false
   contextual: true
 - title: La Havane 4
@@ -190,7 +190,7 @@ works:
     width: 60
     depth: 
   description: ''
-  price: 1200
+  price: ''
   sold: false
   contextual: true
 - title: La Havane 2
@@ -201,7 +201,7 @@ works:
     width: 100
     depth: 
   description: ''
-  price: 1800
+  price: ''
   sold: false
   contextual: true
 - title: La Havane 1
@@ -212,7 +212,7 @@ works:
     width: 100
     depth: 
   description: ''
-  price: 1800
+  price: ''
   sold: false
   contextual: true
 redirect_from:
