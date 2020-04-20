@@ -14,7 +14,11 @@ biography: |-
   À travers le langage universel et poétique de l’artiste, on découvre la peinture comme force créatrice et destructive où seule la beauté peut être sauvée.
 
   texte de  Nathalie Tatai-Pogioni
-exhibitions: []
+exhibitions:
+- title: Le sillage
+  location: Saint Malo Chapelle St Sauveur
+  start: 16 -11- 2019
+  end: 29-12- 2019
 works:
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
