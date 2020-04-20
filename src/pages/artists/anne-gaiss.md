@@ -29,9 +29,19 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
+- title: Cimes
+  image: "/forestry/galerie gaia - anne gaiss - cimes 40X30.jpg"
+  technique: Incision au scalpel sur papier blanc
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 600
+  contextual: true
 - title: Rivage
   image: "/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
-  technique: 'Papier '
+  technique: Incision au scalpel sur papier blanc Moulin de la Roque
   dimensions:
     height: 84
     width: 64
@@ -48,6 +58,7 @@ works:
   price: 0
   contextual: true
   image: "/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
+  technique: 'Incision au scalpel sur papier  '
 - title: Détail d'une oeuvre sur papier blanc
   image: "/forestry/detail-dune-oeuvre-sur-papier-blanc.jpg"
   technique: Incision scalpel sur papier blanc
