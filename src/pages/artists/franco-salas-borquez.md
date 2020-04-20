@@ -21,14 +21,14 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
-- title: Exposition Le Sillage St Malo 2019
-  image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
+- title: Vague hurlante
+  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
+  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
+    "video vague hurlante") '
+  price: 2900
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
+    height: 81
+    width: 130
   contextual: true
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
@@ -38,15 +38,6 @@ works:
     depth: 0
   description: ''
   price: 0
-  contextual: true
-- title: Vague hurlante
-  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
-  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
-    "video vague hurlante") '
-  price: 2900
-  dimensions:
-    height: 81
-    width: 130
   contextual: true
 - title: L'équilibre
   technique: 'Huile sur toile '
@@ -58,6 +49,15 @@ works:
   price: 2900
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
+- title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: 'Dessin '
   image: "/forestry/galeriegaia_SalasBorques_titre_format 50X70.jpeg"
   technique: 'Crayon sur papier '
@@ -67,6 +67,15 @@ works:
     depth: 0
   description: Encadrement baguette bois blanc verre musée anti-reflet 150€
   price: 500
+  contextual: true
+- title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo5.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
   contextual: true
 - title: l ocean aveugle
   image: "/forestry/l-ocean-aveugle.jpg"
