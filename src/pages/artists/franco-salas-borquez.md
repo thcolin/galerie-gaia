@@ -16,6 +16,16 @@ biography: |-
   texte de  Nathalie Tatai-Pogioni
 exhibitions: []
 works:
+- title: 'Dessin '
+  image: "/forestry/galeriegaia_SalasBorques_titre_format 50X70.jpeg"
+  technique: 'Crayon sur papier '
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: œuvre encadrée verre musée anti-reflet
+  price: 650
+  contextual: true
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
