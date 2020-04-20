@@ -66,6 +66,19 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: Tour bleue
+  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
+    - 2020.jpg"
+  technique: 'Céramique '
+  dimensions:
+    height: 58
+    width: 42
+  description: |-
+    [vidéo Tour bleue](https://galeriegaia.fr/forestry/galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR BLEUE 58cm x 42cm - 2020.mov "Valota tour bleue")
+
+    2020
+  price: 3000
+  contextual: false
 - title: QUIET DAYS UNDER THE TREES III
   image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
     Pigments Sur Bois - 2020 .jpg"
@@ -99,19 +112,6 @@ works:
   description: "Oeuvre encadrée caisse américaine bois   \n2012"
   price: 2800
   contextual: true
-- title: Tour bleue
-  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
-    - 2020.jpg"
-  technique: 'Céramique '
-  dimensions:
-    height: 58
-    width: 42
-  description: |-
-    [vidéo Tour bleue](https://galeriegaia.fr/forestry/galerie gaia VALOTA SCULPTURE CERAMIQUE TOUR BLEUE 58cm x 42cm - 2020.mov "Valota tour bleue")
-
-    2020
-  price: 3000
-  contextual: false
 - title: DAYS ARE DARK AND NIGHTS ARE CLEAR 71
   image: "/forestry/VALOTA - DAYS ARE DARK AND NIGHTS ARE CLEAR 71 - 89cm x 116cm
     - Cire et Pigments Sur Bois - 2012.jpg"
