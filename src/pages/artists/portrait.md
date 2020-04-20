@@ -16,7 +16,9 @@ exhibitions: []
 works:
 - title: Claude Francheteau
   image: "/forestry/20170407_204552.jpg"
-  description: ''
+  description: "portrait sur commande, séance de prise de vue photo comprise  \npeinture
+    acrylique, techniques mixtes sur verre organique\n\nA4 ( 29,7x21cm ) 450e\n\nA3
+    ( 42x29,7cm ) 600e\n\nRaisin ( 50x65 cm) 900e"
   price: 0
   contextual: true
 - title: 'Mise en situation '
