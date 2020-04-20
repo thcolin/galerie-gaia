@@ -29,6 +29,14 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
+- title: Empreinte
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Détail d'une oeuvre sur papier blanc
   image: "/forestry/detail-dune-oeuvre-sur-papier-blanc.jpg"
   technique: Incision scalpel sur papier blanc
