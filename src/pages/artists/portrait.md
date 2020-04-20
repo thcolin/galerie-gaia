@@ -44,7 +44,7 @@ works:
     width: 54
     depth: 
   description: ''
-  price: 
+  price: 900
   sold: false
   contextual: true
 - title: Portrait par Nadja Holland
