@@ -63,7 +63,7 @@ works:
     height: 182
     width: 260
     depth: 
-  description: "-"
+  description: prix sur demande
   price: 
   sold: false
   contextual: true
@@ -74,7 +74,7 @@ works:
     height: 200
     width: 190
     depth: 
-  description: "-"
+  description: prix sur demande
   price: 
   sold: false
   contextual: true
@@ -85,7 +85,7 @@ works:
     height: 190
     width: 200
     depth: 
-  description: "-"
+  description: prix sur demande
   price: 
   sold: false
   contextual: true
@@ -96,7 +96,7 @@ works:
     height: 312
     width: 166
     depth: 
-  description: "-"
+  description: prix sur demande
   price: 
   sold: false
   contextual: true
