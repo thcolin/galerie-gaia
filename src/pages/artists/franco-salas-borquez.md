@@ -22,6 +22,15 @@ exhibitions:
   end: 29-12- 2019
 works:
 - title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
   dimensions:
     height: 0
