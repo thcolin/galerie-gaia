@@ -36,12 +36,12 @@ works:
     séances de pose '
   price: 0
   contextual: false
-- title: Portrait sur commande
+- title: Portrait sur commande par Claude Francheteau
   image: "/forestry/portrait-sur-commande.jpg"
   technique: Peinture acrylique sur toile de Claude Francheteau
   dimensions:
-    height: 
-    width: 
+    height: 72
+    width: 54
     depth: 
   description: ''
   price: 
