@@ -15,11 +15,21 @@ biography: |-
 
   texte de  Nathalie Tatai-Pogioni
 exhibitions:
+- location: ''
 - title: Le sillage
   location: Saint Malo Chapelle St Sauveur
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
