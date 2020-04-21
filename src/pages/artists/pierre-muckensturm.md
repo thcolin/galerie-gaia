@@ -25,6 +25,16 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 14P2906
+  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
+  technique: technique  mixte et huile sur toile sur  châssis
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
 - title: 191J24012 (3/30)
   image: "/forestry/191j24012-330.jpg"
   technique: Carborundum sur zinc sur papier BFK Rives
