@@ -6149,10 +6149,10 @@ gatsby-plugin-robots-txt@^1.5.0:
     "@babel/runtime" "^7.5.1"
     generate-robotstxt "^7.1.0"
 
-gatsby-plugin-sitemap@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-2.3.1.tgz#97c746cd1f80007010e45577c8dc9630f167cdce"
-  integrity sha512-v7MeRsqt2NDr+HuTfJ3coEFtFNNdBabZ6s8NBdEE9yOBYMRm0Fi28MYgXe0UtAXX3I8I/eVmv8zJP6HH0rU1jA==
+gatsby-plugin-sitemap@^2.3.5:
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-2.3.5.tgz#77502b9a05f4dfe51a3804a0f5a15e9c75a4a858"
+  integrity sha512-HqGacvcgDDM57IspRgmvWzHp2haShlwk8429Vpi3OiGmVKcoTe6t5FOw+na9Umu4NZx9BQOnVoRErLidV574Yw==
   dependencies:
     "@babel/runtime" "^7.8.7"
     minimatch "^3.0.4"
