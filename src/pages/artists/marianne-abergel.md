@@ -32,11 +32,11 @@ biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel 
   ‘Céramique 14’ Paris  \n_Terra Terra_. Chapelle Bonduel Bruxelles\n\nOeuvres in
   situ  et Publications :\n\nCERAMIQUE, 90 artistes contemporains. ed. PYRAMYD. 2019
   \ \nLaboratoire Pasteur-Cerba  \nThéâtre des cinq diamants. Paris\n\nCommandes privées:
-  \  \n2015 \"les trois singes de la Sagesse\" 2013  \"grandes HerbesFolles\" Porto
-  Vechio   \n2008 \"Juliette et Roméo\" commande du corps de l'Opéra de Paris pour
-  Sasha Waltz\n\nEnseignements:\n2016> 2009 enseigne la céramique aux Ateliers d'Art
-  d'Ivry sur Seine\n2016> 2007 enseigne les Arts plastiques/volume à l'EPSA (école
-  d'architecture de la ville de Paris)"
+  \ \n2015 \"les trois singes de la Sagesse\" 2013  \"grandes HerbesFolles\" Porto
+  Vechio  \n2008 \"Juliette et Roméo\" commande du corps de l'Opéra de Paris pour
+  Sasha Waltz\n\nEnseignements:   \nDepuis 2009 enseigne la céramique aux Ateliers
+  d'Art d'Ivry sur Seine   \nDepuis 2007 enseigne les Arts plastiques/volume à l'EPSA
+  (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
 - title: Chimère Cerf Turquoise
