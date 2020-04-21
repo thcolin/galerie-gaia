@@ -25,6 +25,56 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 14P2906
+  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
+  technique: technique  mixte et huile sur toile sur  châssis
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
+- title: 14P2906 détail
+  image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
+  technique: 'technique mixte et huile sur toile sur châssis '
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
+- title: '203R0944 - composition à 6 angles  à Entas '
+  image: "/forestry/galeriegaia-muckensturm p 203R0944.jpg"
+  technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
+    BFK Rives 250  gr/m2 margé
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: |-
+    Tirage 7 exemplaires ex n°4/7 en vente
+
+    Réalisation 2020
+  price: 500
+  contextual: true
+- title: '196J23091 et 196J23092 - 24  angles à Entas et renversement '
+  image: "/forestry/galeriegaia-muckensturm p 196J23091 2.jpg"
+  technique: Technique  gravure carborundum et pointe  sèche sur zinc imprimée sur
+    Papier  BFK Rives 250 gr/m2 margé
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    Format : (2x) 76 x 56 cm n° 2/6
+
+    Tirage à 6 exemplaires, titrés numérotés signés au crayon
+
+    Réalisation 2019
+  price: 1200
+  contextual: true
 - title: '196J13065E  - 4 carrés à Entas juxtaposés '
   image: "/forestry/galeriegaia-muckensturm p 196J13065E .jpg"
   technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
@@ -35,6 +85,20 @@ works:
     depth: 0
   description: "Épreuve unique, titrée signée au crayon  \nRéalisation 2019"
   price: 1050
+  contextual: true
+- title: '203R0943 - composition à 6 angles  à Entas '
+  image: "/forestry/galeriegaia-muckensturm p 203R0943.jpg"
+  technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
+    BFK Rives 250  gr/m2 margé
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: |-
+    Tirage 9 exemplaires ex n°7/9 en vente
+
+    Réalisation 2020
+  price: 500
   contextual: true
 - title: '196J23091 et 196J23092 - 24  angles à Entas et renversement '
   image: "/forestry/galeriegaia-muckensturm p 196J23091 .jpg"
@@ -69,15 +133,16 @@ works:
   description: ''
   price: 11500
   contextual: true
-- title: 14P2906
-  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
-  technique: technique  mixte et huile sur toile sur  châssis
+- title: 203R0941 -  composition à 6 angles  à Entas -
+  image: "/forestry/galeriegaia-muckensturm p 203R0941.jpg"
+  technique: Technique  gravure carborundum et  eau forte sur zinc  imprimée sur Papier
+    BFK  Rives 250 gr/m2 margé
   dimensions:
-    height: 222
-    width: 183
+    height: 65
+    width: 50
     depth: 0
-  description: "2014"
-  price: 11500
+  description: "Tirage 7 exemplaires ex n°4/7 en vente  \nRéalisation 2020"
+  price: 500
   contextual: true
 - title: 191J24012 (3/30)
   image: "/forestry/191j24012-330.jpg"
