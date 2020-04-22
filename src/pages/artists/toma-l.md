@@ -7,63 +7,63 @@ birth: ''
 death: ''
 expose: true
 biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\"](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf
-  \"Catalogue Toma L\")\n\nTélécharger le catalogue Toma L\n\nL’artiste est né en
-  1975.\n\n« Je compose en associant les pleins et les vides. Les masses sont sombres,
-  moyennes et claires. La lumière vient de la toile ou de la couleur. Le sujet alors
-  s’impose à moi. » raconte Toma-L.\n\nSes formes sont des personnages vivants, son
-  geste souple. Reconnaît-on, ici, à l’endroit, à l’envers, de travers, une des entités
-  imaginaires de l’artiste ? Et, là, ne forment-ils pas, à deux, à trois, à quatre
-  comme une famille de cœur, qui échange, discute ?\n\nCrayon gras, acrylique, huile,
-  pastel gras, papier, toile usée, grattée, coupée… Les lettres de son alphabet c’est
-  la couleur, les couleurs. Premières et primaires comme Miró. Couleurs pures qui
-  contrastent les unes avec les autres : il y a du mouvement dans les couleurs chez
-  Toma-L, la couleur chez lui c’est du volume, une troisième dimension.\n\nToma-L
-  vous fait vous sentir bien, comme une personne, un ensemble de personnes, que l'on
-  fréquente et qui vous donne de la pêche. La couleur et le mouvement que dégagent
-  ses œuvres dépassent la dimension picturale pour procurer d'autres effets, d'autres
-  sensations : le propre des objets magiques, bénéfiques.\n\nL’artiste questionne,
-  doute, travaille, se tourmente, se surprend, trouve, partage, travaille encore.
-  Il peint à l’estomac, au cœur. On est en apesanteur.\n\\[Toma-L - Juin 2014 - ©
-  Galerie W\\]\n\n2020\n\nExposition \"Il peint sur Nantes\" prévue le 21 Mars à la
-  Galerie Gaïa sera reprogrammée dès que possible.\n\n2019\n\nExposition Querelle
-  Carbone | Du 4 avril au 9 mai | Le Cosmonaute | Ateliers des Capucins | Brest  \nArt
-  Elysée | Salon d’art du 17 au 21 Octobre | Galerie Saltiel | Paris.  \nExposition
-  Solo Show | Nov 2019 Galerie Saltiel | Aix-En-Provences  \nExposition, Installation
-  | Juillet, Aoùt 2019 | Domaine Peyre | Robion | Luberon.  \nExposition | Mai 2019-Mai
-  2020 | Galerie FREVO |8th street Greenwich Village | NYC.\n\n2018\n\nArt up Lille
-  | Grand Palais | Salon d’art avec la galerie Saltiel.  \nInstallation | Noir et
-  Bois | Transfert | PICK UP Prod | Nantes.  \nRoute du Rhum | Réalisation du Génois
-  | JAVELOT 88 | Nicolas Magnan | Départ le 4 Nov 2018 | St Malo.  \nArt Elysée |
-  Salon d’art | Galerie Saltiel | Paris.  \nAAF Bruxelles | Salon d’art | Galerie
-  Macadam | Bruxelles.  \nExposition Bonne Pierre Bon Oeil | Lithographies | Musée
-  de L’imprimerie | Ville de Nantes.\n\n2017\n\nInstallation et exposition : HOBO’S
-  | Festival des arts |  Lourmarin.  \nInstallation, exposition : IN SIDE | Galerie
-  Macadam Bruxelles.  \nFormation en Lithographie | Musée de L’imprimerie | Nantes.
-  \ \nExposition de Lithographies | BLACK AND STONE AGE | Galerie Trajectoire | Tours.\n\n2016\n\nGratte
-  Que Gratte - 10 mai au 3 juin | Exposition solo show à la Galerie Saltiel | Aix
-  en Provence.  \nCatalogue d’exposition Gratte que Gratte par les studios Deux Point
-  deux.  \nRésolutions | Projet initié et soutenu par l’Institut Français de Tunis
-  | Fresque et installation numérique exposées du 16-09 au 15-10.  \nProjet d’édition
-  Résolutions par les studios Deux point Deux  \nRésidence au Centre National de Céramique
-  d’Art Sidi Kacem Jelizi à Tunis | Accompagné de Paul Chabot, Théophile Pillault,
-  Sébastien Fristsh, Renaud Paumero, Laure Le Foll et Jérémy Herman.  \nExposition
-  | Galerie des tuiliers | Lyon 3 nov - 10 oct\n\n2015\n\nArt up Lille grand Palais
-  | Salon d’art | Galerie Saltiel.  \nPaper Love | 15 avril au 10 mai 2015 Exposition
-  en solo show à la Galerie W | Paris.  \n8ème Avenue | Salon d’art | Galerie Saltiel.\n\n2014\n\nExposition
-  Galerie W - Paris, Juin et Novembre 2014.  \nExposition \"Pré-Figure\" à la Galerie
-  d'art contemporain de la ville de Chinon \"Indre et loire\", du 19 avril au 1er
-  juin 2014. – Un assemblage, un jeu de bois géant, un volume qui joue sur la perspective
-  et la perception des \"visages\". L'évolution, le parcours dans la galerie créent
-  des points de vue, des regards différents sur le noir, et sur la couleur qui se
-  dévoilent ou se dissimulent.  \nÉdition d'un jeu de carte accompagnant l'exposition
-  Pré-Figure. Mise en page, studio 2point2.  Auto édition soutenue par On Off Galerie.
-  \ \nExposition Galerie Saltiel, Aix en Provence. Avril 2014\n\n**2013**\n\nLe Chorégraphe
-  Jean-Charles GIL invite le peintre à explorer la nouvelle d’Olivier Sacks -La femme
-  désincarnée- tirée du livre « L’homme qui prenait sa femme pour un chapeau ». Cette
-  rencontre donnera lieu à la performance intitulée «Désincarné». Spectacle dans le
-  cadre d’août en danse, Projet Marseille Provence 2013.\n\nÀ l’occasion de la résidence
-  initiée par le chorégraphe, Toma-L invite le photographe Jérémy Herman et le vidéaste
-  Paul Chabot à le rejoindre dans l’univers des corps en mouvement. Cette collaboration
+  \"Catalogue Toma L\")\n\nTélécharger le catalogue Toma L\n\nToma L est né en 1975.\n\n«
+  Je compose en associant les pleins et les vides. Les masses sont sombres, moyennes
+  et claires. La lumière vient de la toile ou de la couleur. Le sujet alors s’impose
+  à moi. » raconte Toma-L.\n\nSes formes sont des personnages vivants, son geste souple.
+  Reconnaît-on, ici, à l’endroit, à l’envers, de travers, une des entités imaginaires
+  de l’artiste ? Et, là, ne forment-ils pas, à deux, à trois, à quatre comme une famille
+  de cœur, qui échange, discute ?\n\nCrayon gras, acrylique, huile, pastel gras, papier,
+  toile usée, grattée, coupée… Les lettres de son alphabet c’est la couleur, les couleurs.
+  Premières et primaires comme Miró. Couleurs pures qui contrastent les unes avec
+  les autres : il y a du mouvement dans les couleurs chez Toma-L , la couleur chez
+  lui c’est du volume, une troisième dimension.\n\nToma-L vous fait vous sentir bien,
+  comme une personne, un ensemble de personnes, que l'on fréquente et qui vous donne
+  de la pêche. La couleur et le mouvement que dégagent ses œuvres dépassent la dimension
+  picturale pour procurer d'autres effets, d'autres sensations : le propre des objets
+  magiques, bénéfiques.\n\nL’artiste questionne, doute, travaille, se tourmente, se
+  surprend, trouve, partage, travaille encore. Il peint à l’estomac, au cœur. On est
+  en apesanteur. \\[Toma l - Juin 2014 - © Galerie W\\]\n\n2020\n\nExposition \"Il
+  peint sur Nantes\" prévue le 21 Mars à la Galerie Gaïa sera reprogrammée dès que
+  possible.\n\n2019\n\nExposition Querelle Carbone | Du 4 avril au 9 mai | Le Cosmonaute
+  | Ateliers des Capucins | Brest  \nArt Elysée | Salon d’art du 17 au 21 Octobre
+  | Galerie Saltiel | Paris.  \nExposition Solo Show | Nov 2019 Galerie Saltiel |
+  Aix-En-Provences  \nExposition, Installation | Juillet, Aoùt 2019 | Domaine Peyre
+  | Robion | Luberon.  \nExposition | Mai 2019-Mai 2020 | Galerie FREVO |8th street
+  Greenwich Village | NYC.\n\n2018\n\nArt up Lille | Grand Palais | Salon d’art avec
+  la galerie Saltiel.  \nInstallation | Noir et Bois | Transfert | PICK UP Prod |
+  Nantes.  \nRoute du Rhum | Réalisation du Génois | JAVELOT 88 | Nicolas Magnan |
+  Départ le 4 Nov 2018 | St Malo.  \nArt Elysée | Salon d’art | Galerie Saltiel |
+  Paris.  \nAAF Bruxelles | Salon d’art | Galerie Macadam | Bruxelles.  \nExposition
+  Bonne Pierre Bon Oeil | Lithographies | Musée de L’imprimerie | Ville de Nantes.\n\n2017\n\nInstallation
+  et exposition : HOBO’S | Festival des arts |  Lourmarin.  \nInstallation, exposition
+  : IN SIDE | Galerie Macadam Bruxelles.  \nFormation en Lithographie | Musée de L’imprimerie
+  | Nantes.  \nExposition de Lithographies | BLACK AND STONE AGE | Galerie Trajectoire
+  | Tours.\n\n2016\n\nGratte Que Gratte - 10 mai au 3 juin | Exposition solo show
+  à la Galerie Saltiel | Aix en Provence.  \nCatalogue d’exposition Gratte que Gratte
+  par les studios Deux Point deux.  \nRésolutions | Projet initié et soutenu par l’Institut
+  Français de Tunis | Fresque et installation numérique exposées du 16-09 au 15-10.
+  \ \nProjet d’édition Résolutions par les studios Deux point Deux  \nRésidence au
+  Centre National de Céramique d’Art Sidi Kacem Jelizi à Tunis | Accompagné de Paul
+  Chabot, Théophile Pillault, Sébastien Fristsh, Renaud Paumero, Laure Le Foll et
+  Jérémy Herman.  \nExposition | Galerie des tuiliers | Lyon 3 nov - 10 oct\n\n2015\n\nArt
+  up Lille grand Palais | Salon d’art | Galerie Saltiel.  \nPaper Love | 15 avril
+  au 10 mai 2015 Exposition en solo show à la Galerie W | Paris.  \n8ème Avenue |
+  Salon d’art | Galerie Saltiel.\n\n2014\n\nExposition Galerie W - Paris, Juin et
+  Novembre 2014.  \nExposition \"Pré-Figure\" à la Galerie d'art contemporain de la
+  ville de Chinon \"Indre et loire\", du 19 avril au 1er juin 2014. – Un assemblage,
+  un jeu de bois géant, un volume qui joue sur la perspective et la perception des
+  \"visages\". L'évolution, le parcours dans la galerie créent des points de vue,
+  des regards différents sur le noir, et sur la couleur qui se dévoilent ou se dissimulent.
+  \ \nÉdition d'un jeu de carte accompagnant l'exposition Pré-Figure. Mise en page,
+  studio 2point2.  Auto édition soutenue par On Off Galerie.  \nExposition Galerie
+  Saltiel, Aix en Provence. Avril 2014\n\n**2013**\n\nLe Chorégraphe Jean-Charles
+  GIL invite le peintre à explorer la nouvelle d’Olivier Sacks -La femme désincarnée-
+  tirée du livre « L’homme qui prenait sa femme pour un chapeau ». Cette rencontre
+  donnera lieu à la performance intitulée «Désincarné». Spectacle dans le cadre d’août
+  en danse, Projet Marseille Provence 2013.\n\nÀ l’occasion de la résidence initiée
+  par le chorégraphe, Toma-L invite le photographe Jérémy Herman et le vidéaste Paul
+  Chabot à le rejoindre dans l’univers des corps en mouvement. Cette collaboration
   donnera lieu à une exposition présentée sur le site des représentations. Jérémy
   et Thomas donnent naissance à la serie des «Yôkailleux», photographies confrontées
   aux peintures et éléménts du spectacle «Désincarné».\n\nLe catalogue «_Sans Titre_»
@@ -100,7 +100,7 @@ exhibitions:
   end: reporté
 works:
 - title: 'Graphite & Color '
-  image: "/forestry/galeriegaia@tomaL-2019011401-graphiteandcolor-150x120cm.jpg"
+  image: "/forestry/galeriegaia@toma l-2019011401-graphiteandcolor-150x120cm_bd.jpg"
   technique: Technique mixte sur papier marouflé sur bois
   dimensions:
     height: 157
