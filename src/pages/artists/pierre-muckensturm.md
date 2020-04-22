@@ -25,6 +25,37 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- image: "/forestry/muckensturm p 201R0023ABC in situ.jpg"
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: |2-
+
+    Composition - ensemble de 3
+
+    éléments
+
+    Technique
+
+    Dimensions
+
+    papier : (3x) 65 x 50 cm
+
+    Tirage
+
+    5 exemplaires , titrés numérotés
+
+    signés au crayon
+
+    Prix public
+
+    1200€
+  price: 0
+  contextual: true
+  title: '201R0022 A+B+C oscillation de 3  angles à Entas '
+  technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
+    margé
 - title: '201R0023 A+B+C oscillation de 3  angles à Entas '
   image: "/forestry/muckensturm p 201R0023 ABC in situ.jpg"
   technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
