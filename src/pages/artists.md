@@ -4,6 +4,7 @@ template: artists
 artists:
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
+- artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/jorj-morin.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/estampes.md
@@ -17,7 +18,6 @@ artists:
 - artist: src/pages/artists/philippe-lecomte.md
 - artist: src/pages/artists/frederique-tristant.md
 - artist: src/pages/artists/georges-rousse.md
-- artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/bram-van-velde.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/boris-jakobek.md
@@ -56,6 +56,6 @@ artists:
 - artist: src/pages/artists/art-galeries-nantes.md
 description: La Galerie vous propose de découvrir de nombreux artistes contemporains
 redirect_from:
-  - /artistes/
+- "/artistes/"
 
 ---

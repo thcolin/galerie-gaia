@@ -25,6 +25,16 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 14P2906
+  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
+  technique: technique  mixte et huile sur toile sur  châssis
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
 - image: "/forestry/muckensturm p 201R0023ABC in situ.jpg"
   dimensions:
     height: 65
@@ -48,16 +58,6 @@ works:
   description: "\nComposition - ensemble de 3 éléments  \nTirage 5 exemplaires  titrés
     numérotés signés au crayon  \nRéalisation 2020"
   price: 1200
-  contextual: true
-- title: 14P2906
-  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
-  technique: technique  mixte et huile sur toile sur  châssis
-  dimensions:
-    height: 222
-    width: 183
-    depth: 0
-  description: "2014"
-  price: 11500
   contextual: true
 - title: 14P2906 détail
   image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
@@ -341,7 +341,7 @@ works:
     height: 41
     width: 41
     depth: ''
-  description: "2019   \nprotocole d'accrochage fournit par l'artiste"
+  description: "2019  \nprotocole d'accrochage fourni par l'artiste"
   price: 2750
   sold: false
   contextual: true
