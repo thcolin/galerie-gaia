@@ -40,7 +40,7 @@ biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel 
 exhibitions: []
 works:
 - title: Chimère Cerf Turquoise
-  image: "/forestry/ABERGEL-chimère cerf turquoise -1.jpg"
+  image: "/forestry/ABERGEL-chimère cerf turquoise -1-1.jpg"
   technique: Grès emaillé
   dimensions:
     height: 20
@@ -57,7 +57,7 @@ works:
     width: 22
     depth: 0
   description: "2019"
-  price: 0
+  price: 1500
   contextual: false
 - title: Sisters
   image: "/forestry/galerie gaia -Marianne ABERGEL-Sisters- 39x19 cm.jpg"
@@ -66,8 +66,8 @@ works:
     height: 39
     width: 19
     depth: 0
-  description: "2019"
-  price: 0
+  description: "1200€/ pièce  \n2019"
+  price: 1200
   contextual: false
 - title: Le Cerf
   image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cerf céladon.jpg"
