@@ -35,6 +35,16 @@ works:
   description: "2014"
   price: 11500
   contextual: true
+- title: 14P2906 détail
+  image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
+  technique: 'technique mixte et huile sur toile sur châssis '
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
 - image: "/forestry/muckensturm p 201R0023ABC in situ.jpg"
   dimensions:
     height: 65
@@ -58,16 +68,6 @@ works:
   description: "\nComposition - ensemble de 3 éléments  \nTirage 5 exemplaires  titrés
     numérotés signés au crayon  \nRéalisation 2020"
   price: 1200
-  contextual: true
-- title: 14P2906 détail
-  image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
-  technique: 'technique mixte et huile sur toile sur châssis '
-  dimensions:
-    height: 222
-    width: 183
-    depth: 0
-  description: "2014"
-  price: 11500
   contextual: true
 - title: '203R0944 - composition à 6 angles  à Entas '
   image: "/forestry/galeriegaia-muckensturm p 203R0944.jpg"
