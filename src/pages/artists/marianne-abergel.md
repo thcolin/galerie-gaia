@@ -49,6 +49,15 @@ works:
   description: prix sans le socle chêne
   price: 490
   contextual: true
+- title: Portrait d'atelier Marianne Abergel
+  image: "/forestry/galeriegaia-portrait Marianne Abergel- 2019.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Frontalité 1
   image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
   technique: Céramique
