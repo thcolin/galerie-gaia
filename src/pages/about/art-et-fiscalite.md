@@ -4,8 +4,8 @@ title: Art et fiscalité
 content:
 - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
     la tendance de fond va bien au-delà d'un mobilier design pour donner une ambiance
-    chaleureuse et renforcer l'**identité de votre entreprise** auprès de **vos clients
-    et collaborateurs.  \n\\**  \nLa RSE, la marque employeur, le bien être au travail
+    chaleureuse et renforcer l'**identité de votre entreprise__ auprès de *_vos clients
+    et collaborateurs.  \n\\*_  \nLa RSE, la marque employeur, le bien être au travail
     pour améliorer la créativité et l'esprit coopératif, toutes ces intentions peuvent
     \ \nêtre **boostées par l'installation d’œuvres d'artistes.**\n\nJe vous propose
     plusieurs solutions :\n\n* **Sélection d’œuvres en réserve** à la galerie (photos
@@ -15,11 +15,11 @@ content:
     d'une installation** visuelle, sonore, lumineuse, mobile sur mesure avec des matériaux
     de recyclage de votre entreprise...\n\n##### Achat en location financière ou en
     défiscalisation ?\n\nDeux solutions qui répondent à des choix stratégiques patrimoniaux
-    et fiscaux différents.\n\n##### **1 . La location financière**\n\nJ'ai retenu
-    le professionnalisme de la société **Bail Art**, pour faciliter l'accès à des
-    œuvres d'art avec la location & option d'achat à la fin du contrat.\n\n* C**apacité
-    d'emprunt** préservée et haut du bilan allégé (hors IFRS)\n* **Étalement du coût
-    d'achat** de **13 à 60 mois.**\n* Déduction du résultat imposable et **réduction
+    et fiscaux différents.\n\n##### **1 . La location financière - leasing**\n\nJ'ai
+    retenu le professionnalisme de la société **Bail Art**, pour faciliter l'accès
+    à des œuvres d'art avec la location & option d'achat à la fin du contrat.\n\n*
+    C**apacité d'emprunt** préservée et haut du bilan allégé (hors IFRS)\n* **Étalement
+    du coût d'achat** de **13 à 60 mois.**\n* Déduction du résultat imposable et **réduction
     de l'IS (entreprises)** ou **IRPP (professions libérales).**\n* Au terme du contrat
     un transfert de propriété vous est proposé;\n* Cela concerne des **artistes vivants
     ou non**.\n\n  [Article \"Du leasing dans l'art\" Gazette Drouot](https://galeriegaia.fr/forestry/Gazette
@@ -61,9 +61,9 @@ content:
 seo:
   title: Art et fiscalité
   type: website
-  description: Galerie Gaïa conseille les entreprises et professions liberales pour
-    des acquisitions d’œuvres d'art, défiscalisation art, location, leasing comment
-    choisir une de ces solutions optimisation fiscale.
+  description: "# défiscalisation art # Galerie Gaïa conseille entreprises et professions
+    libérales pour des acquisitions d’œuvres d'art, location, leasing comment choisir
+    une de ces solutions d'optimisation fiscale."
   image: "/forestry/galeriegaia-defiscalisation-location-leasing art.jpg"
 redirect_from:
 - "/prestations/"
