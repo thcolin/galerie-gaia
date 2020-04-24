@@ -4,12 +4,12 @@ title: Références
 content:
 - column: "**Voici quelques lieux à part**, hors mode où le sur-mesure fait partie
     de l'ADN du travail de ces artisans, le choix des fournisseurs est au coeur du
-    métier.  \nCe sont des lieux où vous serez écoutés si vous avez un projet,   \ndes
-    lieux singuliers où on ne vous impose pas du déjà vu.  \n  \n**Des artisans à
-    la frontière de la démarche artistique !**  \nSouvent devenus amis, **arrivez
-    de ma part en toute légèreté.**\n\n[Gilles et Julie](https://gillesetjulie.com/)
-    : j'veux du cuir !\n\n[Damien Hamon](https://daha.fr/ \"Damien Hamon\") : ébéniste
-    qui met le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
+    métier.  \nCe sont des lieux où vous serez écoutés si vous avez un projet,  \ndes
+    lieux singuliers où on ne vous impose pas du déjà vu.\n\n**Des artisans à la frontière
+    de la démarche artistique !**  \nSouvent devenus amis, **arrivez de ma part en
+    toute légèreté.**\n\n[Gilles et Julie](https://gillesetjulie.com/) : j'veux du
+    cuir !\n\n[Damien Hamon](https://daha.fr/ \"Damien Hamon\") : ébéniste qui met
+    le bois dans tous ses états !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/
     \"L'Aménité\") : je veux manger et me faire du bien, merci les voisins\n\n[Le
     Bouchon](https://www.le-bouchon-nantes.com/ \"Le Bouchon\") : il n'y a pas que
     la terrasse d'incontournable, toute l'équipe décalée le mérite\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr
@@ -19,7 +19,10 @@ content:
     Rouget\") : dans l'assiette c'est comme une é-toile\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
     \"Vincent Guerlais \") : parce que sa pâtisserie nommée Gaïa est juste un délice\n\n[Domaine
     Bretaudeau](https://jeromebretaudeau.wordpress.com/le-domaine-de-bellevue/) :
-    si la cuvée Gaïa est en rupture de stock je n'y suis pour rien !"
+    si la cuvée Gaïa est en rupture de stock je n'y suis pour rien !\n\n[Artension
+    ](https://www.magazine-artension.fr/ \"artension site\"): parce que c’est un magazine
+    d'art avec une ligne éditoriale indépendante. [News letter ](https://www.magazine-artension.fr/project/artension-hors-serie-n25-le-verre/
+    \"artension newsletter\")avril 2020"
   contact:
     display: false
     placeholder: ''
@@ -48,9 +51,9 @@ content:
 seo:
   title: Références
   type: website
-  description: 'La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets personnel
+  description: La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets personnel
     et professionnel, pour aménager, décorer, défiscaliser, faire un cadeau original
-    artistique, pour l’émotion de l''art '
+    artistique, pour l’émotion de l'art ,
   image: "/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
 
 ---
