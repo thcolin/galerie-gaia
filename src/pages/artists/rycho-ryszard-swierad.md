@@ -14,6 +14,16 @@ biography: |-
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: 2 femmes à NY
+  image: "/forestry/galeriegaia-rycho-2femmes à NY.jpg"
+  dimensions:
+    height: 96
+    width: 70
+    depth: 0
+  description: ''
+  price: 600
+  contextual: true
+  technique: 'Image photographique tirage papier Edition en 21 exemplaires '
 - title: Albert
   image: "/forestry/albert.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
