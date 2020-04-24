@@ -6,7 +6,8 @@ field: Peinture à l'huile
 birth: "0"
 death: "0"
 expose: true
-biography: |-
+biography: |2-
+
   L'artiste est né en 1979, sur  l'Île de Chiloé au Sud Austral du Chili.
 
   Le travail de Franco Salas-Borquez est le fruit de sa réflexion consciente et inconsciente envers le monde et le caractère amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque naturellement et instinctivement que le peintre développe son travail à travers la thématique de la mer déchainée.
@@ -15,7 +16,6 @@ biography: |-
 
   texte de  Nathalie Tatai-Pogioni
 exhibitions:
-- location: ''
 - title: Le sillage
   location: Saint Malo Chapelle St Sauveur
   start: 16 -11- 2019
@@ -36,7 +36,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: '[Vidéo de l''exposition Le Sillage à St Malo](https://galeriegaia.fr/forestry/galeriegaia-Franco
+    Salas Borquez Expo Saint-Malo V.m4v "video Franco Salas Borquez")'
   price: 0
   contextual: true
 - title: L'équilibre
