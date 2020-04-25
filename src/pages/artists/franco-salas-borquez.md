@@ -36,10 +36,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: |-
-    [Vidéo de l'exposition Le Sillage à St Malo](https://galeriegaia.fr/forestry/galeriegaia-Franco Salas Borquez Expo Saint-Malo V.m4v "video Franco Salas Borquez")
+  description: |2-
 
-    Vidéo exposition Le Sillage St Malo
+    [Vidéo exposition Le Sillage St Malo](https://galeriegaia.fr/forestry/galeriegaia-Franco Salas Borquez Expo Saint-Malo V.m4v "video Franco Franco Salas Borquez")
   price: 0
   contextual: true
 - title: L'équilibre
