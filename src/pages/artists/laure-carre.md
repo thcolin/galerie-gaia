@@ -133,7 +133,7 @@ works:
     width: 80
     depth: 
   description: ''
-  price: 
+  price: 1400
   sold: false
   contextual: true
 - title: La nuit la piscine
@@ -155,7 +155,7 @@ works:
     width: 50
     depth: 
   description: ''
-  price: 
+  price: 600
   sold: false
   contextual: true
 - title: Walk in the kingdom (14/18)

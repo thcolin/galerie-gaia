@@ -16,13 +16,13 @@ exhibitions: []
 works:
 - title: Palindrome
   image: "/forestry/palindrome.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie en 20 exemplaires
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: "20 exemplaires \n200€"
-  price: 
+  description: "\n"
+  price: 200
   sold: false
   contextual: true
 - title: Jeux d'enfants 1
@@ -32,7 +32,7 @@ works:
     height: 34
     width: 27
     depth: 
-  description: 300€
+  description: ''
   price: 300
   sold: false
   contextual: true
