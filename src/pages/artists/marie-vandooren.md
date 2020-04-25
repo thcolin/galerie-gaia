@@ -43,7 +43,7 @@ works:
     height: 34
     width: 27
     depth: 
-  description: 300€
+  description: ''
   price: 300
   sold: false
   contextual: true
@@ -51,69 +51,58 @@ works:
   image: "/forestry/urbanisme-et-reflexion.jpg"
   technique: Huile sur toile
   dimensions:
-    height: 30
-    width: 40
-    depth: 
-  description: 300€
-  price: 300
-  sold: false
-  contextual: true
-- title: Immeuble cubique
-  image: "/forestry/immeuble-cubique.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 30
-    width: 40
+    height: 40
+    width: 30
     depth: 
   description: ''
-  price: 
+  price: 300
   sold: false
   contextual: true
 - title: 'Contraste #2'
   image: "/forestry/contraste-2.jpg"
-  technique: Sérigraphie /10
+  technique: Sérigraphie  Edition en 10 exemplaires
   dimensions:
-    height: 30
-    width: 40
+    height: 40
+    width: 30
     depth: 
-  description: 120€
-  price: 
+  description: ''
+  price: 120
   sold: false
   contextual: true
-- title: Sans Titre N°16
+- title: Dessin collage N°16
   image: "/forestry/sans-titre-ndegree16.jpg"
   technique: Dessin / Collage
   dimensions:
-    height: 21
-    width: 29
-    depth: 32
-  description: 150€ encadré
-  price: 
+    height: 29
+    width: 21
+    depth: ''
+  description: Œuvre encadrée baguette chêne
+  price: 150
   sold: false
   contextual: true
-- title: Sans Titre N°20
+- title: Dessin collage N°20
   image: "/forestry/sans-titre-ndegree20.jpg"
   technique: Dessin / Collage
   dimensions:
     height: 21
     width: 29
     depth: 32
-  description: 150€ encadré
-  price: 
+  description: 'œuvre  encadré baguette chêne '
+  price: 150
   sold: false
   contextual: true
-- title: Sans Titre N°21
+- title: Dessin collage N°21
   image: "/forestry/sans-titre-ndegree21.jpg"
   technique: Dessin / Collage
   dimensions:
-    height: 21
-    width: 29
-    depth: 32
-  description: 150€ encadré
-  price: 
+    height: 29
+    width: 21
+    depth: ''
+  description: œuvre encadrée baguette chêne
+  price: 150
   sold: false
   contextual: true
-- title: Sans Titre N°22
+- title: Dessin collage N°22
   image: "/forestry/sans-titre-ndegree22.jpg"
   technique: Dessin / Collage
   dimensions:
@@ -124,9 +113,9 @@ works:
   price: 150
   sold: false
   contextual: true
-- title: Escalier (1/5)
+- title: 'Escalier '
   image: "/forestry/sans-titre-15.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 1/5
   dimensions:
     height: 71
     width: 51
@@ -137,26 +126,24 @@ works:
   contextual: true
 - title: Silo
   image: "/forestry/silo.jpg"
-  technique: Collage sur sérigraphie
+  technique: Collage sur sérigraphie Exemplaire unique
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: "Pièce unique \n200€"
-  price: 
+  description: "\n"
+  price: 200
   sold: false
   contextual: true
 - title: Silo 2
   image: "/forestry/silo-2.jpg"
-  technique: Collage sur sérigraphie
+  technique: Collage sur sérigraphie Exemplaire unique
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: |-
-    Exemplaire unique
-    200€
-  price: 
+  description: "\n"
+  price: 200
   sold: false
   contextual: true
 - title: Végétal bleu
