@@ -20,9 +20,9 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth:
+    depth: 
   description: "20 exemplaires \n200€"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Jeux d'enfants 1
@@ -31,7 +31,7 @@ works:
   dimensions:
     height: 34
     width: 27
-    depth:
+    depth: 
   description: 300€
   price: 300
   sold: false
@@ -42,7 +42,7 @@ works:
   dimensions:
     height: 34
     width: 27
-    depth:
+    depth: 
   description: 300€
   price: 300
   sold: false
@@ -53,7 +53,7 @@ works:
   dimensions:
     height: 30
     width: 40
-    depth:
+    depth: 
   description: 300€
   price: 300
   sold: false
@@ -64,9 +64,9 @@ works:
   dimensions:
     height: 30
     width: 40
-    depth:
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: 'Contraste #2'
@@ -75,9 +75,9 @@ works:
   dimensions:
     height: 30
     width: 40
-    depth:
+    depth: 
   description: 120€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Sans Titre N°16
@@ -88,7 +88,7 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Sans Titre N°20
@@ -99,7 +99,7 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Sans Titre N°21
@@ -110,53 +110,29 @@ works:
     width: 29
     depth: 32
   description: 150€ encadré
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Sans Titre N°22
   image: "/forestry/sans-titre-ndegree22.jpg"
   technique: Dessin / Collage
   dimensions:
-    height: 21
-    width: 29
-    depth: 32
-  description: 150€ encadré
-  price:
+    height: 29
+    width: 21
+    depth: ''
+  description: Œuvre encadrée baguette chêne
+  price: 150
   sold: false
   contextual: true
-- title: Sans Titre (7/10)
-  image: "/forestry/sans-titre-710.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 70
-    width: 50
-    depth:
-  description: |-
-    190€
-    2019
-  price:
-  sold: false
-  contextual: true
-- title: Sans Titre (1/5)
+- title: Escalier (1/5)
   image: "/forestry/sans-titre-15.jpg"
   technique: Sérigraphie
   dimensions:
     height: 71
     width: 51
-    depth:
-  description: 2019 190€
-  price:
-  sold: false
-  contextual: true
-- title: Sans Titre (1/5)
-  image: "/forestry/sans-titre-15.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 71
-    width: 51
-    depth:
-  description: 2019 190€
-  price:
+    depth: 
+  description: '2019 '
+  price: 190
   sold: false
   contextual: true
 - title: Silo
@@ -165,9 +141,9 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth:
+    depth: 
   description: "Pièce unique \n200€"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Silo 2
@@ -176,25 +152,25 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth:
+    depth: 
   description: |-
     Exemplaire unique
     200€
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Végétal bleu
   image: "/forestry/vegetal-bleu.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie en 15 exemplaires
   dimensions:
     height: 70
     width: 50
-    depth:
-  description: "15 exemplaires \n160€"
-  price:
+    depth: 
+  description: "\n"
+  price: 160
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/94-marie-vandooren/
----
+- "/artistes/94-marie-vandooren/"
 
+---
