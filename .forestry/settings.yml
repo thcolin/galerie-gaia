@@ -21,8 +21,8 @@ sections:
   templates:
   - about
 - type: document
-  path: src/pages/contact.md
-  label: Contact
+  path: src/pages/le-lieu.md
+  label: Le Lieu
 - type: document
   path: site-metadata.json
   label: Informations

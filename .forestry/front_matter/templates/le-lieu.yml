@@ -1,5 +1,5 @@
 ---
-label: Contact
+label: Le Lieu
 hide_body: true
 fields:
 - name: title
@@ -43,4 +43,4 @@ fields:
   label: SEO
   description: SEO
 pages:
-- src/pages/contact.md
+- src/pages/le-lieu.md

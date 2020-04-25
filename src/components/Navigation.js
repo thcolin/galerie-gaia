@@ -48,6 +48,7 @@ const Navigation = ({ pageContext, ...props }) => {
               <li><Link to='/' activeStyle={{ textDecoration: 'underline' }}>Accueil</Link></li>
               <li><Link to='/artists' activeStyle={{ textDecoration: 'underline' }}>Artistes</Link></li>
               <li><Link to='/expositions' activeStyle={{ textDecoration: 'underline' }}>Expositions</Link></li>
+              <li><Link to='/le-lieu' activeStyle={{ textDecoration: 'underline' }}>Le Lieu</Link></li>
               <li>
                 <details css={Navigation.styles.details} open={submenu}>
                   <summary onClick={() => setSubmenu(!submenu)}>Prestations</summary>
@@ -61,7 +62,6 @@ const Navigation = ({ pageContext, ...props }) => {
                   </ol>
                 </details>
               </li>
-              <li><Link to='/contact' activeStyle={{ textDecoration: 'underline' }}>Contact</Link></li>
             </ol>
           </nav>
           <RichText css={Navigation.styles.paragraph}>
