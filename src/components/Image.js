@@ -1,25 +1,32 @@
 import React, { useState, useCallback } from 'react'
 import { withPrefix } from 'gatsby'
+import slug from 'slug'
 import theme from 'theme'
 
-const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => (
-  <span css={[props.css, Image.styles.element]}>
-    <FadeInImage
-      {...props}
-      src={withPrefix(`${min ? src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, match => match.toLowerCase()) : src}`)}
-      alt={alt}
-      css={Image.styles.image}
-    />
-    {trace && (
+const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => {
+  const dirname = src.split('/').slice(0, -1).join('/')
+  const stem = slug(src.split('/').pop().split('.').slice(0, -1).join('.').replace(/°/, 'degree'), { lower: true })
+  const extname = `.${src.split('.').pop().toLocaleLowerCase()}`
+
+  return (
+    <span css={[props.css, Image.styles.element]}>
       <FadeInImage
         {...props}
-        src={withPrefix(`${src.replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, '.svg')}`)}
+        src={withPrefix(min ? `${dirname.replace(/^\/forestry/, '/cdn')}/${stem}${extname}` : src)}
         alt={alt}
-        css={Image.styles.trace}
+        css={Image.styles.image}
       />
-    )}
-  </span>
-)
+      {trace && (
+        <FadeInImage
+          {...props}
+          src={withPrefix(`${dirname.replace(/^\/forestry/, '/cdn')}/${stem}.svg`)}
+          alt={alt}
+          css={Image.styles.trace}
+        />
+      )}
+    </span>
+  )
+}
 
 Image.styles = {
   element: {

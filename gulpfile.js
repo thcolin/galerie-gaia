@@ -9,6 +9,7 @@ const imgmin = require('gulp-imagemin')
 const through = require('through2')
 const clean = require('gulp-clean')
 const Potrace = require('potrace')
+const slug = require('slug')
 const fs = require('fs')
 
 function trace () {
@@ -35,9 +36,10 @@ function trace () {
 function images () {
   return merge(
     src(`${__dirname}/static/forestry/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
-      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
+      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${slug(file.stem, { lower: true })}${file.extname}`)))
       .pipe(filter(file => sizeOf(file.path).width <= 1920))
       .pipe(rename(path => {
+        path.basename = slug(path.basename, { lower: true })
         path.extname = path.extname.toLowerCase()
       }))
       .pipe(debug({ title: 'image-min:' }))
@@ -46,9 +48,10 @@ function images () {
         imgmin.optipng(),
       ])),
     src(`${__dirname}/static/forestry/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
-      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.basename}`)))
+      .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${slug(file.stem, { lower: true })}${file.extname}`)))
       .pipe(filter(file => sizeOf(file.path).width > 1920))
       .pipe(rename(path => {
+        path.basename = slug(path.basename, { lower: true })
         path.extname = path.extname.toLowerCase()
       }))
       .pipe(debug({ title: 'image-resize:' }))
@@ -64,9 +67,10 @@ function images () {
 
 function traces () {
   return src(`${__dirname}/static/cdn/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
-    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${file.stem}.svg`)))
+    .pipe(filter(file => !fs.existsSync(`${__dirname}/static/cdn/${slug(file.stem, { lower: true })}.svg`)))
     .pipe(rename(path => {
-      path.extname = path.extname.toLowerCase()
+        path.basename = slug(path.basename, { lower: true })
+        path.extname = path.extname.toLowerCase()
     }))
     .pipe(debug({ title: 'trace-resize:' }))
     .pipe(resizer({ width: 500 }))
@@ -85,25 +89,15 @@ function traces () {
 }
 
 function wipe () {
+  const source = fs.readdirSync(`${__dirname}/static/forestry`)
+    .filter(file => ['jpg', 'jpeg', 'png'].includes(file.split('.').pop().toLocaleLowerCase()))
+    .map(file => slug(file.split('.').slice(0, -1).join('.'), { lower: true }))
+
   const svg = src(`${__dirname}/static/cdn/*.svg`)
-    .pipe(filter(file => (
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.png`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.jpg`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.jpeg`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.PNG`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.JPG`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.JPEG`)
-    )))
+    .pipe(filter(file => !source.includes(file.stem)))
 
   const min = src(`${__dirname}/static/cdn/*.{png,jpg,jpeg}`)
-    .pipe(filter(file => (
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.png`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.jpg`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.jpeg`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.PNG`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.JPG`) &&
-      !fs.existsSync(`${__dirname}/static/forestry/${file.stem}.JPEG`)
-    )))
+    .pipe(filter(file => !source.includes(file.stem)))
 
   return merge(svg, min)
     .pipe(debug({ title: 'wipe:' }))
