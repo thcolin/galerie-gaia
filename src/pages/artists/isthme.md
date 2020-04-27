@@ -193,14 +193,15 @@ works:
   price: 480
   sold: false
   contextual: true
-- title: Isthme dans son atelier
+- title: Portrait de Isthme
   image: "/forestry/isabelle-dans-son-atelier.jpg"
   technique: ''
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: '[vidéo séance atelier 2016](https://galeriegaia/forestry/galeriegaia-isthme
+    isabelle thomas video atelier.mov "video Isthme Isabelle Thomas")'
   price: 
   sold: false
   contextual: true
