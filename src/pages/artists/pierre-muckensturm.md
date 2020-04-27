@@ -345,6 +345,15 @@ works:
   price: 2750
   sold: false
   contextual: true
+- title: Portrait de Pierre Muckensturm
+  image: "/forestry/galerie gaia pierre muckensturm portrait.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 redirect_from:
 - "/artistes/58-pierre-muckensturm/"
 
