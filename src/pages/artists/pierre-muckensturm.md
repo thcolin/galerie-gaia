@@ -25,6 +25,26 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 184c06051
+  image: "/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg"
+  technique: 'eau forte et carborundum sur cuivre imprimé sur papier BFK Rives '
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: "Edition en 6 exemplaires  \nInstallation de 3 formats"
+  price: 1200
+  contextual: true
+- title: 183c23041
+  image: "/forestry/galeriegaia_Muckensturm_183c23041-50X50.jpg"
+  technique: 'eau forte et carborendum sur cuivre imprimé sur papier BFK Rives '
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: "Edition en 6 exemplaires  \nInstallation de 3 formats"
+  price: 1200
+  contextual: true
 - title: 182c16041
   image: "/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg"
   technique: eau forte et carborundum sur cuivre imprimé sur papier BFK Rives
