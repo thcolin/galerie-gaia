@@ -29,15 +29,6 @@ biography: |-
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
 exhibitions: []
 works:
-- title: Portrait d'artiste Laure Carré
-  image: "/forestry/galeriegaia-laurecarre-portrait artiste.jpg"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'vidéo Laure création toile Viva La Muerte '
-  price: 0
-  contextual: true
 - title: Jackie
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
   technique: 'Huile sur toile '
@@ -221,6 +212,15 @@ works:
   description: "2019"
   price: 200
   sold: false
+  contextual: true
+- title: Portrait d'artiste Laure Carré
+  image: "/forestry/galeriegaia-laurecarre-portrait artiste.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'vidéo Laure création toile Viva La Muerte '
+  price: 0
   contextual: true
 redirect_from:
 - "/artistes/76-laure-carre/"
