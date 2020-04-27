@@ -129,6 +129,15 @@ works:
   price: 160
   sold: false
   contextual: true
+- title: Portrait de Claude Francheteau
+  image: "/forestry/galeriegaia-claude francheteau- portrait.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 redirect_from:
 - "/artistes/12-claude-francheteau/"
 
