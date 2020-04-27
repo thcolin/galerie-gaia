@@ -123,6 +123,17 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Portrait Dimitri Bourriau
+  image: "/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
+  technique: ''
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 redirect_from:
 - "/artistes/98-dimitri-bourriau/"
 
