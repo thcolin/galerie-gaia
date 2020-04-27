@@ -31,10 +31,12 @@ works:
     height: 130
     width: 89
     depth: 
-  description: "2018 cette toile nécessite d'être vu à la galerie pour un effet d'optique
-    obtenu avec la distance que l'on va prendre avec la toile ; autre visuel sur demande
-    \n1700€"
-  price: 
+  description: '2018 cette toile nécessite d''être vu à la galerie pour un effet d''optique
+    obtenu avec la distance que l''on va prendre avec la toile ; autre visuel sur
+    demande
+
+'
+  price: 1700
   sold: false
   contextual: true
 - title: 03/01/18 14:15
