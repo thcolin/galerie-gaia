@@ -25,6 +25,26 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 14P2906
+  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
+  technique: technique  mixte et huile sur toile sur  châssis
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
+- title: 14P2906 détail
+  image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
+  technique: 'technique mixte et huile sur toile sur châssis '
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: "2014"
+  price: 11500
+  contextual: true
 - title: 184c06051
   image: "/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg"
   technique: 'eau forte et carborundum sur cuivre imprimé sur papier BFK Rives '
@@ -54,26 +74,6 @@ works:
     depth: 0
   description: 'Installation de 3 œuvres '
   price: 1200
-  contextual: true
-- title: 14P2906
-  image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
-  technique: technique  mixte et huile sur toile sur  châssis
-  dimensions:
-    height: 222
-    width: 183
-    depth: 0
-  description: "2014"
-  price: 11500
-  contextual: true
-- title: 14P2906 détail
-  image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
-  technique: 'technique mixte et huile sur toile sur châssis '
-  dimensions:
-    height: 222
-    width: 183
-    depth: 0
-  description: "2014"
-  price: 11500
   contextual: true
 - image: "/forestry/muckensturm p 201R0023ABC in situ.jpg"
   dimensions:

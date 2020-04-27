@@ -27,6 +27,114 @@ biography: |-
   * Ecole supérieure des arts appliqués Olivier de Serres - Paris
     Elle a été l'assistante de Jean-Pierre Seurat (souffleur de verre) de 1992 à 2000.
     Puis en parallèle elle a travaillé à la Forge ( Paris)  de 1992 à 1996.
+
+    Parson School of Design - New York – USA ( lauréate d’une bourse) 1991
+
+    Ecole supérieure des Arts Appliqués Duperré – Paris 1990 ,89
+
+    Ecole supérieure des arts appliqués Olivier de Serres – Paris 1988
+
+    EXPOSITIONS  PERSONNELLES
+
+    2019 Galerie Atelier A Lebras - Nantes
+
+    2018 Galerie Gaïa - Nantes
+
+    2016 Galerie IKI - Paris
+
+    2015,14,12 ,05 - Galerie Antireflets - Nantes
+
+    2014 Galerie Loïc Vallée - Nantes
+
+    2013 Galerie Le Temple du Goût -Nantes
+
+    2013 Galerie Le Rayon vert- Nantes
+
+    2011 Galerie S.Davar - Paris
+
+    2004 Galerie W - Paris
+
+    2002 Galerie St Antoine - Clisson
+
+    2001 Galerie Enviedart - Paris
+
+    1999 Galerie Seiun - Tokyo - Japon
+
+    1999 Galerie Sawada - Tokyo - Japon
+
+    1998 Galerie Biwa - Tokyo -Japon
+
+    1998 Galerie Landon - New York - USA
+
+    1997 Galerie é.of - Paris
+
+    1996 Galerie Espace Destination - Paris
+
+    1996 Galerie R Bergonzo - Auxerre
+
+    1995 Centre culturel - Les Parasols - Rungis
+
+    1994 Galerie P Montigny - Paris
+
+    1994 Galerie Airspace - New York – USA
+
+    EXPOSITIONS  DE GROUPE
+
+    Depuis 2018 Galerie Gaïa- Nantes
+
+    depuis 2015 Galerie Amélie Maison d’Art - Paris
+
+    2016 -2019 Galerie du rire couronné _ Clisson
+
+    2016 Musée de l'imprimerie - Nantes
+
+    2015 Salon Mac2000 - Paris
+
+    2014 Galerie Loïc Vallée - Nantes
+
+    2014,13,12,05Galerie Antireflets-Nantes
+
+    2013 Abbaye de Vertheuil
+
+    2012 ,05,01 Galerie Le Rayon Vert - Nantes
+
+    2012 Arteva expose – Rezé , Nantes
+
+    2011 Galerie Le Douze - Nantes
+
+    2005 Galerie La Galerie - Le Pouliguen
+
+    2004,02,03 Galerie du coq à l’âne - St Aignan
+
+    2002 Galerie St Antoine - Clisson
+
+    1999 La Loge - Paris
+
+    1999 Pelham Fondation - Westchester - USA
+
+    1998 Galerie Yokohama - Tokyo - Japon
+
+    1998 Galerie Sawada - Tokyo – Japon
+
+    1998 Salon de l’Ephémère - Fontenay sous bois
+
+    1998 Les Déchaînés - Centre Culturel - Rungis
+
+    1996 , 97 Salon d’art contemporain -Noisy le grand ,Vitry et Bouffémont
+
+    1995 Galerie Enseigne des Oudins - Paris
+
+    1994 Galerie Avenir Urbain - Paris
+
+    1993 Europ’art sans frontière - Paris
+
+    1993 La Moskova - Maison de la concertation - Paris
+
+    1992 Ménagerie de verre - Paris
+
+    1992 La Villette – Paris
+
+    1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
 - title: Jackie
@@ -213,8 +321,8 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: Portrait d'artiste Laure Carré
-  image: "/forestry/galeriegaia-laurecarre-portrait artiste.jpg"
+- title: Portrait de Laure Carré
+  image: "/forestry/galeriegaia-laure carré portrait.jpeg"
   dimensions:
     height: 0
     width: 0
