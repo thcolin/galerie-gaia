@@ -25,6 +25,16 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 182c16041
+  image: "/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg"
+  technique: eau forte et carborundum sur cuivre imprimé sur papier BFK Rives
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: 'Installation de 3 œuvres '
+  price: 1200
+  contextual: true
 - title: 14P2906
   image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
   technique: technique  mixte et huile sur toile sur  châssis
@@ -344,15 +354,6 @@ works:
   description: "2019  \nprotocole d'accrochage fourni par l'artiste"
   price: 2750
   sold: false
-  contextual: true
-- title: Portrait de Pierre Muckensturm
-  image: "/forestry/galerie gaia pierre muckensturm portrait.jpg"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
   contextual: true
 redirect_from:
 - "/artistes/58-pierre-muckensturm/"
