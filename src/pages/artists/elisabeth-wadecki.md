@@ -42,6 +42,15 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: Portrait d'Elisabeth Wadecki
+  image: "/forestry/galerie gaia elisabeth wadecki portrait.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: En mon jardin N°1
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros
     (2).JPG"

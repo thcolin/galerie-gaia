@@ -108,6 +108,15 @@ works:
   price: 900
   sold: false
   contextual: false
+- title: Portrait de Pascal Proust
+  image: "/forestry/galerie gaia PASCAL PROUST photo artiste 2020.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 redirect_from:
 - "/artistes/96-pascal-proust/"
 

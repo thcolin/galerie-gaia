@@ -200,8 +200,7 @@ works:
     height: 
     width: 
     depth: 
-  description: '[vidéo séance atelier 2016](https://galeriegaia/forestry/galeriegaia-isthme
-    isabelle thomas video atelier.mov "video Isthme Isabelle Thomas")'
+  description: "[video]()"
   price: 
   sold: false
   contextual: true
