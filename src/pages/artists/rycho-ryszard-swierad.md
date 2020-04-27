@@ -15,7 +15,7 @@ biography: |-
 exhibitions: []
 works:
 - title: 2 femmes à NY
-  image: "/forestry/galeriegaia-rycho-2femmes à NY.jpg"
+  image: "/forestry/galeriegaia-rycho-2femmes à NY.jpg"
   dimensions:
     height: 96
     width: 70
