@@ -297,8 +297,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[vidéo Art et La chapelle Le Rai profond St Sigismond](vidéo Art et
-    La chapelle Le Rai profond St Sigismond "galerie gaia elisabeth wedecki")'
+  description: |2-
+
+    [video Art et Chapelle Le Rai profond St Sigismond](https://www.elisabeth-wadecki.com/video "galerie gaia - elisabeth wadecki video art et chapelle")
   price: 0
   contextual: true
 redirect_from:
