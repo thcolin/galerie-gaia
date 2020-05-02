@@ -17,20 +17,19 @@ biography: "Designer ébéniste, talent qui s'exprime sur le fil entre art et ar
   la vie se manifeste \net apporte aussi ses réjouissances."
 exhibitions: []
 works:
-- title: Cube plié
-  image: "/forestry/cube-plie.jpg"
+- title: Cubes pliés
+  image: "/forestry/galerie-gaia-damie-hamon-daha-cube huilé.jpg"
   technique: Cube en chêne massif et feuille d'or
   dimensions:
     height: 39
     width: 29
     depth: 29
-  description: "680€\nConçu comme une stèle, un tabouret, un chevet \nsi on l'empile
-    il devient brancusien ....à l'infini\nPersonnellement je l'aime pour ce qu'il
-    est"
-  price: 
+  description: "Conçu comme une stèle, un tabouret, un chevet si on l'empile il devient
+    brancusien ....à l'infini   \nPersonnellement je l'aime pour ce qu'il est"
+  price: 680
   sold: false
   contextual: false
-- title: console
+- title: Console
   image: "/forestry/console.jpg"
   technique: ''
   dimensions:
@@ -41,7 +40,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: cubes pliés
+- title: Cubes pliés
   image: "/forestry/cubes-plies.jpg"
   technique: bois massif peint
   dimensions:
@@ -66,15 +65,14 @@ works:
   contextual: true
 - title: Valet
   image: "/forestry/valet.jpg"
-  technique: chêne
+  technique: chêne massif
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: |-
-    280€
-    sur commande
-  price: 
+    height: 98
+    width: 40
+    depth: 40
+  description: 'Symbol de l''infini, fonctionnel et esthétique ce valet peut-être
+    peint sur demande '
+  price: 290
   sold: false
   contextual: true
 redirect_from:
