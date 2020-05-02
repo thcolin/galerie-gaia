@@ -14,6 +14,25 @@ biography: |-
   Marie Vandooren
 exhibitions: []
 works:
+- title: 'Contre espace '
+  image: "/forestry/vandoorenmarie.contre espace.100x81cm.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 81
+    width: 100
+    depth: 0
+  description: "2020"
+  price: 700
+  contextual: true
+- title: Portrait de Marie Vandooren
+  image: "/forestry/galerie-gaia-marie-vandooren-portrait.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Palindrome
   image: "/forestry/palindrome.jpg"
   technique: Sérigraphie en 20 exemplaires
@@ -25,39 +44,6 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: Jeux d'enfants 1
-  image: "/forestry/jeux-denfants-1.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 34
-    width: 27
-    depth: 
-  description: ''
-  price: 300
-  sold: false
-  contextual: true
-- title: Jeux d'enfants 2
-  image: "/forestry/jeux-denfants-2.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 34
-    width: 27
-    depth: 
-  description: ''
-  price: 300
-  sold: false
-  contextual: true
-- title: Urbanisme et reflexion
-  image: "/forestry/urbanisme-et-reflexion.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 300
-  sold: false
-  contextual: true
 - title: 'Contraste #2'
   image: "/forestry/contraste-2.jpg"
   technique: Sérigraphie  Edition en 10 exemplaires
@@ -67,50 +53,6 @@ works:
     depth: 
   description: ''
   price: 120
-  sold: false
-  contextual: true
-- title: Dessin collage N°16
-  image: "/forestry/sans-titre-ndegree16.jpg"
-  technique: Dessin / Collage
-  dimensions:
-    height: 29
-    width: 21
-    depth: ''
-  description: Œuvre encadrée baguette chêne
-  price: 150
-  sold: false
-  contextual: true
-- title: Dessin collage N°20
-  image: "/forestry/sans-titre-ndegree20.jpg"
-  technique: Dessin / Collage
-  dimensions:
-    height: 21
-    width: 29
-    depth: 32
-  description: 'œuvre  encadré baguette chêne '
-  price: 150
-  sold: false
-  contextual: true
-- title: Dessin collage N°21
-  image: "/forestry/sans-titre-ndegree21.jpg"
-  technique: Dessin / Collage
-  dimensions:
-    height: 29
-    width: 21
-    depth: ''
-  description: œuvre encadrée baguette chêne
-  price: 150
-  sold: false
-  contextual: true
-- title: Dessin collage N°22
-  image: "/forestry/sans-titre-ndegree22.jpg"
-  technique: Dessin / Collage
-  dimensions:
-    height: 29
-    width: 21
-    depth: ''
-  description: Œuvre encadrée baguette chêne
-  price: 150
   sold: false
   contextual: true
 - title: 'Escalier '
