@@ -25,16 +25,6 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
-- title: 182c16041 Installation
-  image: "/forestry/muckensturm-182c16041-3x50x50.jpg"
-  technique: eau-forte
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: " 3 x 50cmx50cm"
-  price: 1200
-  contextual: true
 - title: 14P2906
   image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
   technique: technique  mixte et huile sur toile sur  châssis
@@ -65,6 +55,16 @@ works:
   description: "Edition en 6 exemplaires  \nInstallation de 3 formats"
   price: 1200
   contextual: true
+- title: 184c06051 Installation
+  image: "/forestry/muckensturm-184c06051-3x50x50.jpg"
+  technique: Eau forte
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 3X 50cmx50cm
+  price: 1200
+  contextual: true
 - title: 183c23041
   image: "/forestry/galeriegaia_Muckensturm_183c23041-50X50.jpg"
   technique: 'eau forte et carborendum sur cuivre imprimé sur papier BFK Rives '
@@ -75,6 +75,16 @@ works:
   description: "Edition en 6 exemplaires  \nInstallation de 3 formats"
   price: 1200
   contextual: true
+- title: 183c23041 Installation
+  image: "/forestry/muckensturm-183c23041-3x50x50.jpg"
+  technique: 'eau-forte '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 3X 50cmx50cm
+  price: 1200
+  contextual: true
 - title: 182c16041
   image: "/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg"
   technique: eau forte et carborundum sur cuivre imprimé sur papier BFK Rives
@@ -83,6 +93,16 @@ works:
     width: 50
     depth: 0
   description: 'Installation de 3 œuvres '
+  price: 1200
+  contextual: true
+- title: 182c16041 Installation
+  image: "/forestry/muckensturm-182c16041-3x50x50.jpg"
+  technique: eau-forte
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: " 3 x 50cmx50cm"
   price: 1200
   contextual: true
 - image: "/forestry/muckensturm p 201R0023ABC in situ.jpg"
