@@ -83,7 +83,7 @@ works:
   contextual: true
 - title: Jackie de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
-  description: ''
+  description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré")'
   price: 300
   technique: Huile sur toile
   dimensions:
@@ -127,7 +127,7 @@ works:
   dimensions:
     height: 20
     width: 20
-  description: Mars 2020
+  description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré")'
   price: 200
   contextual: true
 - title: En mon jardin N°3 de Elisabeth Wadecki
@@ -136,7 +136,8 @@ works:
   dimensions:
     height: 100
     width: 100
-  description: "2019"
+  description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/boris-jakobek/
+    "Elisabeth Wadecki")'
   price: 1800
   contextual: true
 - title: Stan par  Virginie Chardon
@@ -146,17 +147,21 @@ works:
     height: 25
     width: 53
     depth: 41
-  description: ''
+  description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
+    "Virginie Chardon")'
   price: 4900
   sold: false
   contextual: true
 - title: Atlantis Teatro Dimitri Bourriau
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
-  technique: Tirage Argentique, contrecollé sur Dibond
+  technique: Tirage Argentique, contrecollé sur Dibon
   dimensions:
     height: 100
     width: 150
-  description: "Tirage 15 exemplaires en caisse américaine   \nprix sur demande "
+  description: |-
+    Tirage 15 exemplaires en caisse américaine - prix sur demande
+
+    [Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/ "Dimitri Bourriau")
   price: 0
   contextual: true
 - title: SEUIL - Strates I
@@ -166,8 +171,9 @@ works:
     height: 40
     width: 30
     depth: 
-  description: 280€
-  price: 
+  description: '[Collectif Seuil ](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
+    "Jeronimo Tangui Robert Gaetan Chevrier ")'
+  price: 280
   sold: false
   contextual: true
 - title: GO SEGAWA - Mass
