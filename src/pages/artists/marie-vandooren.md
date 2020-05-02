@@ -14,6 +14,46 @@ biography: |-
   Marie Vandooren
 exhibitions: []
 works:
+- title: 'Maquette 3 Solitude '
+  image: "/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
+  technique: Maquette sur socle bois
+  dimensions:
+    height: 10
+    width: 10
+    depth: 6
+  description: "2020"
+  price: 250
+  contextual: true
+- title: Maquette 2 Garage
+  image: "/forestry/vandoorenmarie.maquette2.12x9cm.jpg"
+  dimensions:
+    height: 12
+    width: 9
+    depth: 10
+  description: "2020"
+  price: 250
+  contextual: true
+  technique: 'Maquette socle bois '
+- title: Maquette 1 Vélo
+  image: "/forestry/vandoorenmarie.maquette1.16x9cm.jpg"
+  technique: 'Maquette socle Bois '
+  dimensions:
+    height: 16
+    width: 9
+    depth: 9
+  description: ''
+  price: 250
+  contextual: false
+- title: Contre espace 2
+  image: "/forestry/vandoorenmarie.contre espace2.81x65cm.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 65
+    width: 81
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
 - title: 'Contre espace '
   image: "/forestry/vandoorenmarie.contre espace.100x81cm.jpg"
   technique: 'Huile sur toile '
