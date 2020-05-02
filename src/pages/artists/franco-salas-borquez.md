@@ -48,7 +48,7 @@ works:
     width: 100
   description: "2020  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
     \"vidéo l'équilibre\")"
-  price: 2900
+  price: 2700
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
 - title: Exposition Le Sillage St Malo 2019
@@ -86,7 +86,7 @@ works:
     height: 273
     width: 159
     depth: 
-  description: "-"
+  description: ''
   price: 8000
   sold: false
   contextual: true
