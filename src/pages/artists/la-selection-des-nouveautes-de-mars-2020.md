@@ -21,7 +21,8 @@ works:
     height: 20
     width: 0
     depth: 0
-  description: prix sans le socle chêne
+  description: "prix sans le socle chêne  \n[marianne abergel](https://galeriegaia.fr/artists/marianne-abergel/
+    \"marianne abergel\")"
   price: 490
   contextual: true
 - title: Miki de Dimitri Roubichou
