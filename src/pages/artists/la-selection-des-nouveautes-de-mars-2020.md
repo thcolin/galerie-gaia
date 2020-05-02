@@ -9,7 +9,7 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: Sélection des nouveautés Avril 2020
+- title: Sélection des nouveautés Mai 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
