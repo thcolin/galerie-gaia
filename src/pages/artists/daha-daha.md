@@ -1,6 +1,6 @@
 ---
 template: artist
-title: 'DAHA '
+title: Daha
 location: ''
 field: Designer Ebéniste
 birth: "0"

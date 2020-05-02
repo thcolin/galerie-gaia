@@ -9,6 +9,22 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Maquette Solitude de Marie Vandooren
+  image: "/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
+  technique: 'Maquette sur socle bois '
+  dimensions:
+    height: 10
+    width: 10
+    depth: 9
+  description: '[Marie Vandooren](https://galeriegaia.fr/artists/marie-vandooren/
+    "Marie Vandooren")'
+  price: 250
+  contextual: false
+- title: Sélection des nouveautés Mai 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: 184c06051 de Pierre Muckensturm
   image: "/forestry/muckensturm-184c06051-3x50x50.jpg"
   dimensions:
@@ -20,22 +36,6 @@ works:
   price: 1200
   contextual: true
   technique: " Installation de 3 eau-forte 3 x 50cmx50cm"
-- title: Sélection des nouveautés Mai 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
-  contextual: true
-- title: Chimère Cerf turquoise de Marianne Abergel
-  image: "/forestry/ABERGEL-chimère cerf turquoise -2.jpg"
-  technique: Grés émaillé
-  dimensions:
-    height: 20
-    width: 0
-    depth: 0
-  description: "prix sans le socle chêne  \n[marianne abergel](https://galeriegaia.fr/artists/marianne-abergel/
-    \"marianne abergel\")"
-  price: 490
-  contextual: true
 - title: Miki de Dimitri Roubichou
   image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
   dimensions:
@@ -141,16 +141,6 @@ works:
   description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré")'
   price: 200
   contextual: true
-- title: En mon jardin N°3 de Elisabeth Wadecki
-  image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros.JPG"
-  technique: 'acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/boris-jakobek/
-    "Elisabeth Wadecki")'
-  price: 1800
-  contextual: true
 - title: Stan par  Virginie Chardon
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2916.jpg"
   technique: bronze
@@ -185,7 +175,6 @@ works:
   description: '[Collectif Seuil ](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
     "Jeronimo Tangui Robert Gaetan Chevrier ")'
   price: 280
-  sold: false
   contextual: true
 - title: GO SEGAWA - Mass
   image: "/forestry/go-segawa-mass.jpg"
@@ -197,6 +186,18 @@ works:
   description: "Volume pliable 6X12X12 \n\n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
     \"Go Segawa\")"
   price: 160
+  sold: false
+  contextual: true
+- title: SEUIL - Strates 28
+  image: "/forestry/seuil-strate-28.jpg"
+  technique: Sérigraphie /10
+  dimensions:
+    height: 30
+    width: 24
+    depth: 
+  description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
+    "Jeronimo Tangui robert Gaetan chevrier ")'
+  price: 180
   sold: false
   contextual: true
 - title: SEUIL - Strates 28

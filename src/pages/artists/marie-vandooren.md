@@ -23,6 +23,16 @@ works:
     depth: 6
   description: "2020"
   price: 250
+  contextual: false
+- title: Paysage 2
+  image: "/forestry/vandoorenmarie.paysage2.100x81cm.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 50
+    width: 81
+    depth: 6
+  description: "2020"
+  price: 700
   contextual: true
 - title: Maquette 2 Garage
   image: "/forestry/vandoorenmarie.maquette2.12x9cm.jpg"
@@ -34,6 +44,26 @@ works:
   price: 250
   contextual: true
   technique: 'Maquette socle bois '
+- title: Paysage
+  image: "/forestry/vandoorenmarie.paysage.81x65cm.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 65
+    width: 81
+    depth: 10
+  description: ''
+  price: 700
+  contextual: true
+- title: Parc 2
+  image: "/forestry/vandoorenmarie.parc2.50x70cm.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: "2020"
+  price: 400
+  contextual: true
 - title: Maquette 1 Vélo
   image: "/forestry/vandoorenmarie.maquette1.16x9cm.jpg"
   technique: 'Maquette socle Bois '
@@ -44,9 +74,19 @@ works:
   description: ''
   price: 250
   contextual: false
+- title: Parc 1
+  image: "/forestry/vandoorenmarie.parc1.50x70cm.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: "2020"
+  price: 500
+  contextual: true
 - title: Contre espace 2
   image: "/forestry/vandoorenmarie.contre espace2.81x65cm.jpg"
-  technique: 'Huile sur toile '
+  technique: Sérigraphie  Edition en 10 exemplaires
   dimensions:
     height: 65
     width: 81
@@ -54,6 +94,7 @@ works:
   description: ''
   price: 500
   contextual: true
+  sold: false
 - title: 'Contre espace '
   image: "/forestry/vandoorenmarie.contre espace.100x81cm.jpg"
   technique: 'Huile sur toile '
@@ -63,15 +104,6 @@ works:
     depth: 0
   description: "2020"
   price: 700
-  contextual: true
-- title: Portrait de Marie Vandooren
-  image: "/forestry/galerie-gaia-marie-vandooren-portrait.jpg"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
   contextual: true
 - title: Palindrome
   image: "/forestry/palindrome.jpg"
@@ -138,6 +170,15 @@ works:
   description: "\n"
   price: 160
   sold: false
+  contextual: true
+- title: Portrait de Marie Vandooren
+  image: "/forestry/galerie-gaia-marie-vandooren-portrait.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
   contextual: true
 redirect_from:
 - "/artistes/94-marie-vandooren/"
