@@ -183,10 +183,9 @@ works:
     height: 6
     width: 12
     depth: 12
-  description: |-
-    Volume pliable 6X12X12
-    160€
-  price: 
+  description: "Volume pliable 6X12X12 \n\n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
+    \"Go Segawa\")"
+  price: 160
   sold: false
   contextual: true
 - title: SEUIL - Strates 28
@@ -196,10 +195,9 @@ works:
     height: 30
     width: 24
     depth: 
-  description: |-
-    2020
-    180€
-  price: 
+  description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
+    "Jeronimo Tangui robert Gaetan chevrier ")'
+  price: 180
   sold: false
   contextual: true
 redirect_from:
