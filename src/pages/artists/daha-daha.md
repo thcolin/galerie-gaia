@@ -29,17 +29,6 @@ works:
   price: 680
   sold: false
   contextual: false
-- title: Console
-  image: "/forestry/console.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "projet de meubles sur mesure \ninformation à la galerie"
-  price: 
-  sold: false
-  contextual: true
 - title: Cubes pliés
   image: "/forestry/cubes-plies.jpg"
   technique: bois massif peint
@@ -73,6 +62,17 @@ works:
   description: 'Symbol de l''infini, fonctionnel et esthétique ce valet peut-être
     peint sur demande '
   price: 290
+  sold: false
+  contextual: true
+- title: Console
+  image: "/forestry/console.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: "projet de meubles sur mesure \ninformation à la galerie"
+  price: 
   sold: false
   contextual: true
 redirect_from:
