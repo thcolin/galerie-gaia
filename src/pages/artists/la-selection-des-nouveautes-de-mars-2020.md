@@ -31,7 +31,10 @@ works:
     height: 30
     width: 30
     depth: 0
-  description: 'Edition possible dans d''autres formats '
+  description: |-
+    Edition possible dans d'autres formats
+
+    [Dimitri Roubichou](https://galeriegaia.fr/artists/marianne-abergel/ "Dimitri Roubichou")
   price: 250
   contextual: true
   technique: Photographie sur tirage papier baryté
