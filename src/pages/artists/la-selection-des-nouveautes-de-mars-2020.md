@@ -9,6 +9,17 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: 184c06051 de Pierre Muckensturm
+  image: "/forestry/muckensturm-184c06051-3x50x50.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
+    "Pierre Muckensturm")'
+  price: 1200
+  contextual: true
+  technique: " Installation de 3 eau-forte 3 x 50cmx50cm"
 - title: Sélection des nouveautés Mai 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
