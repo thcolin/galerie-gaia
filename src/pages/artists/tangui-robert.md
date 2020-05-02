@@ -32,7 +32,7 @@ works:
     height: 24
     width: 30
   description: œuvre encadrée cadre standard bois naturel montage caisson
-  price: 450
+  price: 320
   contextual: true
 - title: Tympan - Nantes
   image: "/forestry/@Tangui Robert-Tympan Nantes-24x30_1.jpg"
