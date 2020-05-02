@@ -92,14 +92,14 @@ works:
     ")'
   price: 3500
   contextual: true
-- title: Jackie de Laure Carré
-  image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
+- title: Chien d'atelier de Laure Carré
+  image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
   description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré")'
-  price: 300
+  price: 1800
   technique: Huile sur toile
   dimensions:
-    height: 36
-    width: 25
+    height: 100
+    width: 100
   contextual: true
 - title: Territoires colorées 15 par ISTHME
   image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
