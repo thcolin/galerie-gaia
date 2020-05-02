@@ -44,7 +44,7 @@ works:
   dimensions:
     height: 73
     width: 60
-  description: "2020"
+  description: '[Valota](https://galeriegaia.fr/artists/valota/ "Valota")'
   price: 2800
   contextual: true
   technique: 'Cire et pigments sur bois '
@@ -55,7 +55,10 @@ works:
     height: 30
     width: 30
     depth: 0
-  description: Edition disponible dans d'autres formats
+  description: |-
+    Edition disponible dans d'autres formats
+
+    [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "Dimitri Roubichou")
   price: 250
   contextual: true
 - title: Tour bleue par Valota
@@ -65,7 +68,7 @@ works:
   dimensions:
     height: 58
     width: 42
-  description: ''
+  description: '[Valota](https://galeriegaia.fr/artists/valota/ "Valota")'
   price: 3000
   contextual: false
 - title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
@@ -74,7 +77,8 @@ works:
   dimensions:
     height: 195
     width: 114
-  description: "2020"
+  description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "Isabelle Thomas Isthme
+    ")'
   price: 3500
   contextual: true
 - title: Jackie de Laure Carré
@@ -101,7 +105,10 @@ works:
   dimensions:
     height: 70
     width: 50
-  description: 'Edition en 11 exemplaires '
+  description: |-
+    Edition en 11 exemplaires
+
+    [Boris Jakobek](https://galeriegaia.fr/artists/boris-jakobek/ "Boris Jakobek")
   price: 200
   contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
@@ -110,7 +117,8 @@ works:
   dimensions:
     height: 97
     width: 130
-  description: "2020"
+  description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/boris-jakobek/
+    "Elisabeth Wadecki")'
   price: 2200
   contextual: true
 - title: Une chaise la nuit de Laure Carré
