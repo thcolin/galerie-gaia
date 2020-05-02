@@ -25,6 +25,16 @@ biography: |-
   Galerie Gaïa . Nantes .
 exhibitions: []
 works:
+- title: 182c16041 Installation
+  image: "/forestry/muckensturm-182c16041-3x50x50.jpg"
+  technique: eau-forte
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: " 3 x 50cmx50cm"
+  price: 1200
+  contextual: true
 - title: 14P2906
   image: "/forestry/galeriegaia-muckensturm 14p2906.jpg"
   technique: technique  mixte et huile sur toile sur  châssis
