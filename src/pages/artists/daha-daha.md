@@ -6,15 +6,33 @@ field: Designer Ebéniste
 birth: "0"
 death: "0"
 expose: true
-biography: "Designer ébéniste, talent qui s'exprime sur le fil entre art et artisanat,
-  chaque pièce est unique.\nPrésent en galerie à Paris et New York et à la Galerie
-  Gaïa.\n\n\"créer du nouveau, voici une vieille idée.\"\n\nPar définition, l'infini
-  est interminable.\nMais cet indéfinissable n'a pas d'extrémité, \nni d'un bout ni
-  de l'autre.\n\nOù sommes-nous dans cette immensité?\nJe vague entre ces inconnus.
-  \nEn prétendant défier mon ignorance, \nje rends visible ce que j'aperçois. \nFaire
-  exister pour me féliciter de comprendre \net ainsi de suite…\n\nCycle éternel en
-  recommencement ?\n\nEn progression ?\n\nEn perdition ?\n\nEn tout cas en évolution,
-  la vie se manifeste \net apporte aussi ses réjouissances."
+biography: |-
+  Designer ébéniste, talent qui s'exprime sur le fil entre art et artisanat, chaque pièce est unique.
+  Présent en galerie à Paris et New York et à la Galerie Gaïa.
+
+  "créer du nouveau, voici une vieille idée."
+
+  Par définition, l'infini est interminable.
+  Mais cet indéfinissable n'a pas d'extrémité,
+  ni d'un bout ni de l'autre.
+
+  Où sommes-nous dans cette immensité?
+  Je vague entre ces inconnus.
+  En prétendant défier mon ignorance,
+  je rends visible ce que j'aperçois.
+  Faire exister pour me féliciter de comprendre
+  et ainsi de suite…
+
+  Cycle éternel en recommencement ?
+
+  En progression ?
+
+  En perdition ?
+
+  En tout cas en évolution, la vie se manifeste
+  et apporte aussi ses réjouissances.
+
+  [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
 - title: Cubes pliés
