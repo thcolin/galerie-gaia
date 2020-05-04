@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection des nouveautés Mai 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: Maquette Solitude de Marie Vandooren
   image: "/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
   technique: 'Maquette sur socle bois '
@@ -20,11 +25,6 @@ works:
     "Marie Vandooren")'
   price: 250
   contextual: false
-- title: Sélection des nouveautés Mai 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
-  contextual: true
 - title: 184c06051 de Pierre Muckensturm
   image: "/forestry/muckensturm-184c06051-3x50x50.jpg"
   dimensions:
