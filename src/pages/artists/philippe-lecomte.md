@@ -22,7 +22,11 @@ biography: "Né en 1958 à la Rochelle. Vit et travaille à Nantes.\n\n« Mon tr
   Nantes  \nAtelier Le Bras - (44) Nantes\n\n2019 Galerie Tandille - (33) Vertheuil
   \ \nGalerie Ars Raden - (29) Quimper  \nGalerie Les 2 Zèbres - (12) Monnes  \nGalerie
   Les Bigotes - (56) Vannes   \nGalerie Gaïa - (44) Nantes"
-exhibitions: []
+exhibitions:
+- title: 'Exposition dessins et peintures '
+  location: Galerie Gaïa
+  end: 23/11/2019
+  start: 7/11/2019
 works:
 - title: 2017PLp12
   image: "/forestry/2017plp12.jpg"
@@ -32,19 +36,6 @@ works:
     width: 120
     depth: 
   description: 1300€ encadré
-  price: 
-  sold: false
-  contextual: true
-- title: Exposition dessin et peinture
-  image: "/forestry/exposition-dessin-et-peinture.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: |-
-    Exposition du 7/11 au dimanche 24/11
-    Sélection de dessins et toiles, une abstraction qui n'en est pas une, la seule condition pour le savoir est de prendre son temps devant chacune et de se laisser faire et faire confiance à son instinct. La couleur fera le reste.
   price: 
   sold: false
   contextual: true
@@ -177,6 +168,19 @@ works:
     width: 56
     depth: 
   description: 650€ encadré (cadre flottant)
+  price: 
+  sold: false
+  contextual: true
+- title: Exposition dessin et peinture
+  image: "/forestry/exposition-dessin-et-peinture.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: |-
+    Exposition du 7/11 au dimanche 24/11
+    Sélection de dessins et toiles, une abstraction qui n'en est pas une, la seule condition pour le savoir est de prendre son temps devant chacune et de se laisser faire et faire confiance à son instinct. La couleur fera le reste.
   price: 
   sold: false
   contextual: true
