@@ -100,7 +100,7 @@ exhibitions:
   end: reporté
 works:
 - title: Black colors and stone age
-  image: "/forestry/toma-l-lithographie-19-20.jpg"
+  image: "/forestry/toma-l-lithographie-19-20-1.jpg"
   technique: Lithographie Atelier IDEM
   dimensions:
     height: 125
