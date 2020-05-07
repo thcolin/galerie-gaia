@@ -101,12 +101,13 @@ exhibitions:
 works:
 - title: Black colors and stone age
   image: "/forestry/toma-l-lithographie-19-20-1.jpg"
-  technique: Lithographie Atelier IDEM
+  technique: 'Lithographie Atelier IDEM '
   dimensions:
     height: 125
-    width: 160
+    width: 150
     depth: 0
-  description: Edition 19/20
+  description: "Edition 19/20  \nCette litho est réhaussée au pastel gras ce qui en
+    fait un monotype"
   price: 2000
   contextual: true
 - title: 'Graphite & Color '
