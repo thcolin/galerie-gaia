@@ -99,6 +99,16 @@ exhibitions:
   location: Galerie Gaia
   end: reporté
 works:
+- title: Black colors and stone age
+  image: "/forestry/toma-l-lithographie-19-20.jpg"
+  technique: Lithographie Atelier IDEM
+  dimensions:
+    height: 125
+    width: 160
+    depth: 0
+  description: Edition 19/20
+  price: 2000
+  contextual: true
 - title: 'Graphite & Color '
   image: "/forestry/galeriegaia@toma l-2019011401-graphiteandcolor-150x120cm_bd.jpg"
   technique: Technique mixte sur papier marouflé sur bois
