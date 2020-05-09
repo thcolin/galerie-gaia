@@ -162,6 +162,15 @@ works:
   description: "Œuvre encadrée caisse américaine bois   \n2012"
   price: 8000
   contextual: true
+- title: 'Portrait de Valota '
+  image: "/forestry/galerie-gaia-VALOTA -portrait.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 redirect_from:
 - "/artistes/4-valota/"
 

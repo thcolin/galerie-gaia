@@ -106,8 +106,8 @@ works:
     height: 125
     width: 150
     depth: 0
-  description: "Edition 19/20  \nCette litho est réhaussée au pastel gras ce qui en
-    fait un monotype"
+  description: "Edition 19/20 Vendue  \nCette litho est réhaussée au pastel gras ce
+    qui en fait un monotype"
   price: 2000
   contextual: true
 - title: 'Graphite & Color '
