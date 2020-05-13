@@ -96,7 +96,7 @@ works:
   price: 1200
   contextual: true
 - title: 182c16041 Installation
-  image: "/forestry/muckensturm-182c16041-3x50x50.jpg"
+  image: "/forestry/muckensturm-183c23041-3x50x50.jpg"
   technique: eau-forte
   dimensions:
     height: 0
