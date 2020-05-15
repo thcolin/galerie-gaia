@@ -27,6 +27,16 @@ biography: "L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréq
   Nantes, 2015"
 exhibitions: []
 works:
+- title: The footbridge of sadness
+  image: "/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Un véritable remodelage de la planète
   image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
   technique: 'sérigraphie 2 couleurs  papier Olin 300g '
