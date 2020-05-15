@@ -26,7 +26,7 @@ works:
   contextual: false
 - title: Paysage 2
   image: "/forestry/vandoorenmarie.paysage2.100x81cm.jpg"
-  technique: 'Huile sur toile '
+  technique: acrylique sur papier
   dimensions:
     height: 50
     width: 81
@@ -46,7 +46,7 @@ works:
   technique: 'Maquette socle bois '
 - title: Paysage
   image: "/forestry/vandoorenmarie.paysage.81x65cm.jpg"
-  technique: Huile sur toile
+  technique: acrylique sur papier
   dimensions:
     height: 65
     width: 81
@@ -56,7 +56,7 @@ works:
   contextual: true
 - title: Parc 2
   image: "/forestry/vandoorenmarie.parc2.50x70cm.jpg"
-  technique: 'Huile sur toile '
+  technique: acrylique sur papier
   dimensions:
     height: 50
     width: 70
