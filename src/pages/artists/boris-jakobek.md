@@ -29,13 +29,13 @@ exhibitions: []
 works:
 - title: The footbridge of sadness
   image: "/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie 7 passes - 20 exemplaires sur Olin 300g '
   dimensions:
     height: 70
     width: 50
     depth: 0
-  description: ''
-  price: 0
+  description: "2020"
+  price: 300
   contextual: true
 - title: Un véritable remodelage de la planète
   image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
