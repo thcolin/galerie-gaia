@@ -58,15 +58,6 @@ works:
   description: 'œuvre encadrée bois '
   price: 380
   contextual: true
-- title: Ciel 2026
-  image: "/forestry/galeriegaia_Francheteau_Ciel2026(2016)_15x30.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 30
-    width: 15
-  description: 'œuvre encadrée bois '
-  price: 320
-  contextual: true
 - title: Ciel 2023
   image: "/forestry/galeriegaia_Francheteau_Ciel2023(2016)_20x20.jpg"
   technique: 'Acrylique qur toile '

@@ -110,8 +110,8 @@ works:
   price: 760
   contextual: true
   technique: Collage
-- title: Un véritable remodelage de la planète de Boris Jakobek
-  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
+- title: Foot bridge of sadbness de Boris Jakobek
+  image: "/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
   technique: 'Sérigraphie '
   dimensions:
     height: 70
@@ -120,7 +120,7 @@ works:
     Edition en 11 exemplaires
 
     [Boris Jakobek](https://galeriegaia.fr/artists/boris-jakobek/ "Boris Jakobek")
-  price: 200
+  price: 300
   contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
   image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
