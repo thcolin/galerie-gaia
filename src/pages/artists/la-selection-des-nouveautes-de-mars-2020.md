@@ -112,12 +112,12 @@ works:
   technique: Collage
 - title: Foot bridge of sadbness de Boris Jakobek
   image: "/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
-  technique: 'Sérigraphie '
+  technique: 'Sérigraphie 7 passes sur Olin 300g '
   dimensions:
     height: 70
     width: 50
   description: |-
-    Edition en 11 exemplaires
+    Edition en 20 exemplaires
 
     [Boris Jakobek](https://galeriegaia.fr/artists/boris-jakobek/ "Boris Jakobek")
   price: 300
