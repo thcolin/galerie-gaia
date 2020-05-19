@@ -2,7 +2,7 @@
 template: exhibitions
 exhibitions:
 - template: exhibition
-  title: Il peint sur Nantes Toma L
+  title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
   content: |-
     [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf "catalogue Toma L")

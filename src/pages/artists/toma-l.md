@@ -94,10 +94,10 @@ biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\
   lui un « véritable électrochoc ». 3 mois plus tard, il peint Mala bestia, sa première
   toile. Le temps des expositions suivra : Paris, Carhaix, Nantes ou Tours."
 exhibitions:
-- title: '"Il peint sur Nantes" exposition reportée '
-  start: 'reporté '
+- title: Exposition "Il peint sur Nantes"
   location: Galerie Gaia
-  end: reporté
+  start: 21 Mai
+  end: 20 Juin
 works:
 - title: Black colors and stone age
   image: "/forestry/toma-l-lithographie-19-20-1.jpg"
