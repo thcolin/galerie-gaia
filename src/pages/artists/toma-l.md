@@ -126,7 +126,7 @@ works:
     height: 196
     width: 130
     depth: 0
-  description: "2019111401  \nPrix sur demande"
+  description: "2019111401  \nRéservée"
   price: 0
   contextual: true
 - title: 'Trash and color '
@@ -180,7 +180,7 @@ works:
   dimensions:
     height: 142
     width: 105
-  description: "caisse américaine noire  \n2019022702  \nprix sur demande "
+  description: "caisse américaine noire  \n2019022702  \nRéservée"
   price: ''
   contextual: true
 - title: 'Drawing Trash Color  '
@@ -198,7 +198,7 @@ works:
   dimensions:
     height: 182
     width: 121
-  description: "Caisse américaine noire  \n2019022501  \nprix sur demande "
+  description: "Caisse américaine noire  \n2019022501  \nRéservée"
   price: ''
   contextual: true
 - title: 'Black and simple color '
