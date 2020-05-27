@@ -228,7 +228,7 @@ works:
   description: "Tirage 7 exemplaires ex n°4/7 en vente  \nRéalisation 2020"
   price: 500
   contextual: true
-- title: 191J24012 (3/30)
+- title: 191J24012 (6/30)
   image: "/forestry/191j24012-330.jpg"
   technique: Carborundum sur zinc sur papier BFK Rives
   dimensions:

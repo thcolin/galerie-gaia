@@ -108,7 +108,7 @@ works:
     depth: 0
   description: "Edition 19/20 Vendue  \nCette litho est réhaussée au pastel gras ce
     qui en fait un monotype"
-  price: 2000
+  price: 3000
   contextual: true
 - title: 'Graphite & Color '
   image: "/forestry/galeriegaia@toma l-2019011401-graphiteandcolor-150x120cm_bd.jpg"
@@ -116,7 +116,7 @@ works:
   dimensions:
     height: 157
     width: 125
-  description: "caisse américaine chêne  \n2019011401  \nprix sur demande"
+  description: "caisse américaine chêne  \n2019011401  \nRéservée"
   price: ''
   contextual: true
 - title: Brut and Simple Color
@@ -203,7 +203,7 @@ works:
   contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
-  description: "Caisse américaine noire  \n2018091815  \nprix sur demande "
+  description: "Caisse américaine noire  \n2018091815  \nVendu"
   price: ''
   technique: Technique mixte sur papier
   dimensions:
