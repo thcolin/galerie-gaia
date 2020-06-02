@@ -878,10 +878,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@brainhubeu/react-carousel@^1.13.19":
-  version "1.13.23"
-  resolved "https://registry.yarnpkg.com/@brainhubeu/react-carousel/-/react-carousel-1.13.23.tgz#d1124cf4c3633bbb03302b3ee3fc502b1bc65d4f"
-  integrity sha512-lvA6sA+gDqI+fcFCvx5Pd/uqhHOfp/gMxjK7J5Pppdoto6ZkU7sMriRsNz692dSMZtoMFGSLN1KOsJHadXGzVA==
+"@brainhubeu/react-carousel@^1.16.3":
+  version "1.16.3"
+  resolved "https://registry.yarnpkg.com/@brainhubeu/react-carousel/-/react-carousel-1.16.3.tgz#3741fee20d0d21a333258dc370931073f174240e"
+  integrity sha512-nG3b/W5FWU6jjlFkyA7Fmq/C8D0TbIKtc6VEqe6xhGE38TAClQkRATjkobEDf0uAszordCbmo3G4zZ+mTmtrcA==
 
 "@emotion/babel-plugin-jsx-pragmatic@^0.1.5":
   version "0.1.5"
