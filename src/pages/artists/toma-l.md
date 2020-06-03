@@ -126,7 +126,7 @@ works:
     height: 196
     width: 130
     depth: 0
-  description: "2019111401  \nRéservée"
+  description: "2019111401  \nVendue"
   price: 0
   contextual: true
 - title: 'Trash and color '

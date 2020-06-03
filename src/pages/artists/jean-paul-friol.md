@@ -80,17 +80,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Sans titre
-  image: "/forestry/sans-titre.jpg"
-  technique: Papiers collés
-  dimensions:
-    height: 72
-    width: 50
-    depth: 
-  description: '1996 '
-  price: 450
-  sold: false
-  contextual: true
 - title: Visage yeux cernés noirs
   image: "/forestry/visage-yeux-cernes-noirs.jpg"
   technique: collage papier et dessin
