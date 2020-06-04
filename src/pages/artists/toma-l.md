@@ -153,7 +153,7 @@ works:
   dimensions:
     height: 40
     width: 30
-  description: "cadre ne chêne verre musée  \n2020031103  \nprix sur demande "
+  description: "cadre chêne verre musée  \n2020031103  \nprix sur demande"
   price: ''
   contextual: true
 - title: 'Little simple brut '
@@ -198,7 +198,7 @@ works:
   dimensions:
     height: 182
     width: 121
-  description: "Caisse américaine noire  \n2019022501  \nRéservée"
+  description: "Caisse américaine noire  \n2019022501"
   price: ''
   contextual: true
 - title: 'Black and simple color '
