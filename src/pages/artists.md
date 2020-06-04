@@ -38,6 +38,7 @@ artists:
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/patrick-gueguen.md
+- artist: src/pages/artists/edith-basseville.md
 - artist: src/pages/artists/xavier-jallais.md
 - artist: src/pages/artists/jean-claude-breat.md
 - artist: src/pages/artists/jorj-morin-peintre.md
