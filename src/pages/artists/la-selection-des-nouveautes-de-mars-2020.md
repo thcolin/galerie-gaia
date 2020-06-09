@@ -9,6 +9,17 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Fly Away par Sébastien Bouchard
+  image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
+  technique: Mixte
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: '[Sébastien Bouchard](https://galeriegaia.fr/artists/sebastien-bouchard/
+    "galerie gaia sébastien bouchard")'
+  price: 1400
+  contextual: true
 - title: Sélection des nouveautés Juin 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
@@ -165,17 +176,6 @@ works:
     [Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/ "Dimitri Bourriau")
   price: 0
   contextual: true
-- title: SEUIL - Strates I
-  image: "/forestry/seuil-strate-i.jpg"
-  technique: Sérigraphie 1/1
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: '[Collectif Seuil ](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
-    "Jeronimo Tangui Robert Gaetan Chevrier ")'
-  price: 280
-  contextual: true
 - title: GO SEGAWA - Mass
   image: "/forestry/go-segawa-mass.jpg"
   technique: Sérigraphie 3/25 (2019)
@@ -186,18 +186,6 @@ works:
   description: "Volume pliable 6X12X12 \n\n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
     \"Go Segawa\")"
   price: 160
-  sold: false
-  contextual: true
-- title: SEUIL - Strates 28
-  image: "/forestry/seuil-strate-28.jpg"
-  technique: Sérigraphie /10
-  dimensions:
-    height: 30
-    width: 24
-    depth: 
-  description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
-    "Jeronimo Tangui robert Gaetan chevrier ")'
-  price: 180
   sold: false
   contextual: true
 - title: SEUIL - Strates 28
