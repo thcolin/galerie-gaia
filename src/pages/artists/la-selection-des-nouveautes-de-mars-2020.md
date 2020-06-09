@@ -1,6 +1,6 @@
 ---
 template: artist
-title: La Sélection des nouveautés de Mai  2020
+title: La Sélection des nouveautés de Juin  2020
 location: ''
 field: Evenement
 birth: "0"
@@ -9,7 +9,7 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: Sélection des nouveautés Mai 2020
+- title: Sélection des nouveautés Juin 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0

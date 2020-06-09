@@ -13,17 +13,6 @@ biography: |-
   Sébastien Bouchard à travers les diverses références picturales et la multiplicité des médiums qu’il utilise, essaie à sa manière de dépasser le clivage entre art populaire et art savant. son travail fait référence à la peinture mais aussi aux arts graphiques, à la culture pop, l'art urbain.
 exhibitions: []
 works:
-- title: Icare IV
-  image: "/forestry/1438.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: 
-  price: 2400
-  sold: false
-  contextual: true
 - title: Icare V
   image: "/forestry/1439.jpg"
   technique: Mixte sur toile
@@ -33,6 +22,27 @@ works:
     depth: 
   description: 
   price: 2700
+  sold: false
+  contextual: true
+- title: Fly Away
+  image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
+  technique: 'Mixte sur toile '
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: ''
+  price: 1400
+  contextual: true
+- title: Icare IV
+  image: "/forestry/1438.jpg"
+  technique: Mixte sur toile
+  dimensions:
+    height: 120
+    width: 120
+    depth: 
+  description: 
+  price: 2400
   sold: false
   contextual: true
 - title: Oxygen
@@ -46,7 +56,7 @@ works:
   price: 1500
   sold: false
   contextual: true
-- title: Sans titre
+- title: Inner Vision
   image: "/forestry/1435.jpg"
   technique: Mixte sur toile
   dimensions:
@@ -54,7 +64,7 @@ works:
     width: 60
     depth: 
   description: 
-  price: 
+  price: 1400
   sold: false
   contextual: true
 - title: Icare II
