@@ -135,7 +135,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Chaise pour écouter certains poèmes
-  image: "/forestry/galerie-gaia-laure-carre-chaise-pour-ecouter-certains-poemes-89x116.jpg"
+  image: "/forestry/galerie-gaia-laure-carre-chaise-pour-ecouter-certains-poemes-116x89jpg.jpg"
   technique: 'Mixte sur toile '
   dimensions:
     height: 116
