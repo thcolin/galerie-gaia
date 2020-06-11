@@ -89,18 +89,18 @@ works:
     height: 100
     width: 70
     depth: 0
-  description: ''
-  price: ''
+  description: Encadrée
+  price: 1800
   contextual: true
 - title: 'Les pinces de la vie '
   image: "/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
-  technique: Encre noire et acrylique sur papier 350
+  technique: 'Encre noire et acrylique sur papier '
   dimensions:
     height: 100
     width: 70
     depth: 0
-  description: ''
-  price: ''
+  description: Encadrée
+  price: 1800
   contextual: true
 - title: Les yeux de la mer méditerranée
   image: "/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG"
