@@ -134,6 +134,46 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Petit animal la nuit
+  image: "/forestry/galerie-gaia-laure-carre-petit-animal-la-nuit-18x13.jpg"
+  technique: Huile et technique mixte sur toile
+  dimensions:
+    height: 18
+    width: 13
+    depth: 0
+  description: ''
+  price: 200
+  contextual: true
+- title: Le cheval vert
+  image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
+  technique: Huile et technique mixte sur toile
+  dimensions:
+    height: 24
+    width: 19
+    depth: 0
+  description: "2020"
+  price: 250
+  contextual: true
+- title: Blue cactus
+  image: "/forestry/galerie-gaia-laure-carre-blue-cactus-24x19.jpg"
+  technique: Huile et technique mixte sur toile
+  dimensions:
+    height: 24
+    width: 19
+    depth: 0
+  description: "2020"
+  price: 261
+  contextual: true
+- title: Le pied
+  image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
+  technique: Huil et technique mixte sur toile
+  dimensions:
+    height: 35
+    width: 27
+    depth: 0
+  description: "2020"
+  price: 350
+  contextual: true
 - title: Let’s go for a walk
   image: "/forestry/galerie-gaia-laure-carre-let-s-go-for-a-walk-54x74.jpg"
   technique: 'Huile et technique mixte sur toile '
