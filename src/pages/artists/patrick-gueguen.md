@@ -82,6 +82,26 @@ biography: "L’HALLUCINATION SIMPLE  par Roland Halbert:\n\nLa peinture de Patr
   laqué nos yeux de        tant d’années-lumière ?"
 exhibitions: []
 works:
+- title: Les oiseaux de Trévise
+  image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
+  technique: Encre noire et acrylique sur papier
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
+- title: 'Les pinces de la vie '
+  image: "/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
+  technique: Encre noire et acrylique sur papier 350
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
 - title: Les yeux de la mer méditerranée
   image: "/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG"
   technique: 'Encre noire et acrylique sur papier 350 '
