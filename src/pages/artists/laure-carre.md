@@ -134,6 +134,16 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Let’s go for a walk
+  image: "/forestry/galerie-gaia-laure-carre-let-s-go-for-a-walk-54x74.jpg"
+  technique: 'Huile et technique mixte sur toile '
+  dimensions:
+    height: 54
+    width: 74
+    depth: 0
+  description: "2020"
+  price: 1200
+  contextual: true
 - title: Chaise pour écouter certains poèmes
   image: "/forestry/galerie-gaia-laure-carre-chaise-pour-ecouter-certains-poemes-116x89jpg.jpg"
   technique: 'Mixte sur toile '
