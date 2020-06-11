@@ -21,7 +21,7 @@ works:
   price: 1400
   contextual: true
 - title: Sélection des nouveautés Juin 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
   contextual: true
@@ -56,7 +56,7 @@ works:
   description: |-
     Edition possible dans d'autres formats
 
-    [Dimitri Roubichou](https://galeriegaia.fr/artists/marianne-abergel/ "Dimitri Roubichou")
+    [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "Dimitri Roubichou")
   price: 250
   contextual: true
   technique: Photographie sur tirage papier baryté
@@ -94,7 +94,7 @@ works:
   price: 3000
   contextual: false
 - title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
-  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
+  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 195
@@ -113,7 +113,7 @@ works:
     width: 100
   contextual: true
 - title: Territoires colorées 15 par ISTHME
-  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
   dimensions:
     height: 76
     width: 57
@@ -134,7 +134,7 @@ works:
   price: 300
   contextual: true
 - title: En mon jardin N°4 de Elisabeth Wadecki
-  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
+  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
   dimensions:
     height: 97
