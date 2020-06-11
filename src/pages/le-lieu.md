@@ -21,13 +21,14 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   votre achat ?  \nLes livraisons sont-elles possibles partout ?\n\nUn crédo : **simplicité
   et confiance !**\n\n**1.  Essayer l’œuvre chez vous** pendant une semaine contre
   un chèque de caution de son montant. Ainsi tranquillement dans votre espace, avec
-  votre lumière vous pourrez choisir en toute confiance.  \n  \n**2.**  **Paiement
-  de  votre achat**  par virement ou carte bancaire, paiement en plusieurs fois à
-  votre rythme, avec la cagnotte de la carte cadeau. Pour les professionnels le financement
-  peut se faire via la défiscalisation ou la location (rubrique prestation - défiscalisation)
-  \ \n  \n**3**. **Livraison possible** dans le monde entier (DHL - UPS- TNT) sur
-  devis. Tout ce que vous voyez sur le site est **disponible**.   \nPour ceux qui
-  sont tout prêt **Clic & Collect :** réservez et passez à la galerie.\n\n**Depuis
+  votre lumière vous pourrez choisir en toute confiance. \n\n**2.**  **Paiement de
+  \ votre achat**  par virement ou carte bancaire, paiement en plusieurs fois à votre
+  rythme, avec la cagnotte de la carte cadeau. Pour les professionnels le financement
+  peut se faire via la défiscalisation ou la location (rubrique prestation - défiscalisation:
+  [https://galeriegaia.fr/about/art-et-fiscalite/](https://galeriegaia.fr/about/art-et-fiscalite/
+  \"Art et fiscalité\"))\n\n**3**. **Livraison possible** dans le monde entier (DHL
+  - UPS- TNT) sur devis. Tout ce que vous voyez sur le site est **disponible**.  \nPour
+  ceux qui sont tout prêt **Clic & Collect :** réservez et passez à la galerie.\n\n**Depuis
   chez vous ou dans la galerie...**  \n**Venez, entrez et découvrez**  \n**l’évidence**
   \ \n**l’évidence devant une œuvre qui s’impose  \nl’évidence qui ne se discute pas
   et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence qui
