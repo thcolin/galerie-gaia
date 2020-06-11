@@ -11,8 +11,8 @@ content:
     peut être l'occasion d'un **anniversaire d’entreprise, d'une  inauguration d'un
     showroom, du lancement d'un produit ou d'un service, d'un arbre de Noël ...**\n\n**++**
     J'ai sélectionné le talent et l'expérience d'une artiste qui a eu précédemment
-    un parcours comme cadre commerciale dans dans la grande distribution,  \nAssocié
-    à mon expertise de chef de projet et de formateur en développement personnel pour
+    un parcours comme cadre commerciale dans la grande distribution,  \nAssocié à
+    mon expertise de chef de projet et de formateur en développement personnel pour
     Manpower Group ,  \nnous vous proposons un **projet clé en main  RH - RSE - Communication
     interne & externe.**\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)\n\n#####
     Créer une exposition dans vos locaux\n\nEn tant que commissaire d'exposition je

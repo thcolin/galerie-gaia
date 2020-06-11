@@ -56,9 +56,7 @@ exhibitions:
   title: De l'art ou du bacon? Discussion débat
   image: "/forestry/de-lart-ou-du-bacon.jpg"
   content: |-
-    DIMANCHE 24 NOVEMBRE
-    dernier jour de l'exposition de Philippe LECOMTE
-    Ce sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste
+    DIMANCHE 24 NOVEMBRE dernier jour de l'exposition de Philippe LECOMTE. Ce sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste
 
     _Du 11/24/2019 au 11/24/2019_
 - template: exhibition
@@ -73,8 +71,10 @@ exhibitions:
 - template: exhibition
   title: C'est ouvert tout l'été
   image: "/forestry/cest-ouvert-tout-lete.jpg"
-  content: "la galerie est ouverte du jeudi au samedi 11H 19H \nSAUF LES 1ER - 2 -
-    3 - 15 AOUT 2019\n\n_Du 07/28/2019 au 08/31/2019_"
+  content: |-
+    La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 - 15 AOUT 2019
+
+    _Du 07/28/2019 au 08/31/2019_
 - template: exhibition
   title: Vagabondage avec Elisabeth WADECKI
   image: "/forestry/vagabondage-avec-elisabeth-wadecki.jpg"
