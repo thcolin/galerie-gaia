@@ -9,6 +9,17 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: 'Le pied '
+  image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
+  technique: Huile et technique mixte sur toile
+  dimensions:
+    height: 35
+    width: 27
+    depth: 0
+  description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "galerie
+    gaia laure carré")'
+  price: 350
+  contextual: true
 - title: Fly Away par Sébastien Bouchard
   image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
   technique: Mixte
@@ -117,7 +128,7 @@ works:
   dimensions:
     height: 76
     width: 57
-  description: ''
+  description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "galerie gaia isthme")'
   price: 760
   contextual: true
   technique: Collage
@@ -139,8 +150,8 @@ works:
   dimensions:
     height: 97
     width: 130
-  description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/boris-jakobek/
-    "Elisabeth Wadecki")'
+  description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
+    "galerie gaia elisabeth wadecki")'
   price: 2200
   contextual: true
 - title: Une chaise la nuit de Laure Carré
