@@ -144,16 +144,6 @@ works:
   description: "2020"
   price: 261
   contextual: true
-- title: Petit animal la nuit
-  image: "/forestry/galerie-gaia-laure-carre-petit-animal-la-nuit-18x13.jpg"
-  technique: Huile et technique mixte sur toile
-  dimensions:
-    height: 18
-    width: 13
-    depth: 0
-  description: ''
-  price: 200
-  contextual: true
 - title: Le cheval vert
   image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
   technique: Huile et technique mixte sur toile
