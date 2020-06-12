@@ -144,7 +144,7 @@ works:
   dimensions:
     height: 109
     width: 79
-  description: "cadre blanc flottant sous verre  \n2018020601  \nprix sur demande "
+  description: "cadre blanc flottant sous verre  \n2018020601  \nvendue"
   price: ''
   contextual: false
 - title: 'Little simple brut '
@@ -180,7 +180,7 @@ works:
   dimensions:
     height: 142
     width: 105
-  description: "caisse américaine noire  \n2019022702  \nRéservée"
+  description: "caisse américaine noire  \n2019022702  \nvendue"
   price: ''
   contextual: true
 - title: 'Drawing Trash Color  '
@@ -203,7 +203,7 @@ works:
   contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
-  description: "Caisse américaine noire  \n2018091815  \nVendu"
+  description: "Caisse américaine noire  \n2018091815  \nVendue"
   price: ''
   technique: Technique mixte sur papier
   dimensions:
@@ -292,7 +292,7 @@ works:
     height: 106
     depth: 
     width: 70
-  description: "caisse américaine  \nprix sur demande "
+  description: "caisse américaine  \nvendu"
   price: 
   sold: false
   contextual: false
