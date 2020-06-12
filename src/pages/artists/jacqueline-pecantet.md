@@ -9,7 +9,37 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: 'Grès '
+- title: Grès 5
+  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres6.jpg"
+  technique: Crin de cheval au grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Taille moyenne entre 12 et 15 cm selon les modèles '
+  price: 120
+  contextual: true
+- title: Grès 4
+  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres3.jpg"
+  technique: Crin de cheval sur grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Taille moyenne entre 12 et 15 cm selon les modèles \n\nVendu par lot"
+  price: 140
+  contextual: true
+- title: Grès 3
+  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres2.jpg"
+  technique: Crin de cheval sur grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Taille moyenne entre 12 et 15 cm selon les modèles '
+  price: 64
+  contextual: true
+- title: Grès 2
   image: "/forestry/galerie-gaia-jacqueline-pecantet-gres.jpg"
   technique: 'Crin de cheval sur grès poli au galet '
   dimensions:

@@ -36,26 +36,6 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
-- title: Cou-Rage 3
-  image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
-  technique: 'Collage '
-  dimensions:
-    height: 77
-    width: 58
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
-- title: Cou-Rage 2
-  image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
-  technique: Collage
-  dimensions:
-    height: 77
-    width: 58
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
 - title: Cou-Rage 1
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   technique: Collage
@@ -120,6 +100,16 @@ works:
   description: Œuvre encadrée montage caisson baguette bois noir
   price: 750
   contextual: true
+- title: Cou-Rage 2
+  image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
+  technique: Collage
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
+  price: 750
+  contextual: true
 - title: 'Purple Rhapsody #4 '
   image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
   technique: 'Acrylique sur toile '
@@ -163,6 +153,16 @@ works:
   description: '2019  '
   price: 2800
   sold: false
+  contextual: true
+- title: Cou-Rage 3
+  image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
+  price: 750
   contextual: true
 - title: 'Black Rhapsody #14'
   image: "/forestry/black-rhapsody-14.jpg"

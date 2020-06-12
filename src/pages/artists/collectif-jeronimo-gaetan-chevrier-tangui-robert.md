@@ -28,7 +28,7 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Ta
 exhibitions: []
 works:
 - title: Latence 05
-  image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30.jpg"
+  image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.jpg"
   dimensions:
     height: 40
     width: 30
