@@ -260,7 +260,7 @@ Artist.styles = {
         display: 'block',
         padding: '0.5em 0',
         fontSize: '0.875em',
-        color: theme.colors.grey,
+        color: theme.colors.gray,
       },
       '>small': {
         display: 'block',
