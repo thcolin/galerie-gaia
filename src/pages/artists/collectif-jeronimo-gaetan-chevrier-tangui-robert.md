@@ -27,28 +27,16 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Ta
   croiser leur production respective."
 exhibitions: []
 works:
-- title: Strates I
-  image: "/forestry/strate-i.jpg"
-  technique: Sérigraphie 1/1
+- title: Latence 05
+  image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.tiff"
+  technique: Photographie
   dimensions:
     height: 40
     width: 30
-    depth: 
-  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
-  price: 280
-  sold: false
-  contextual: false
-- title: Strates Q
-  image: "/forestry/strate-ii.jpg"
-  technique: Sérigraphie 1/1
-  dimensions:
-    height: 40
-    width: 60
-    depth: 
-  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
-  price: 350
-  sold: false
-  contextual: false
+    depth: 0
+  description: Tirage limité
+  price: 120
+  contextual: true
 - title: Diptyque Strates 8
   image: "/forestry/diptyque-strates-8.jpg"
   technique: Sérigraphie 1/1
