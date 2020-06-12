@@ -28,13 +28,12 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Ta
 exhibitions: []
 works:
 - title: Latence 05
-  image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.tiff"
-  technique: Photographie
+  image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30.jpg"
   dimensions:
     height: 40
     width: 30
     depth: 0
-  description: Tirage limité
+  description: 'Tirage limité '
   price: 120
   contextual: true
 - title: Diptyque Strates 8

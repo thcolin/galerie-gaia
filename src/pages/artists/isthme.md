@@ -36,8 +36,18 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
-- title: 'Canopée Allongée dans l''herbe #14'
-  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
+- title: Cou-Rage 1
+  image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
+  technique: Collage
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
+  price: 750
+  contextual: true
+- title: 'Canopée Allongée dans l''herbe #14'
+  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   dimensions:
     height: 195
     width: 114
@@ -54,8 +64,8 @@ works:
   description: "2020"
   price: 1000
   contextual: true
-- title: 'Territoires Colorés #15'
-  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+- title: 'Territoires Colorés #15'
+  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
   technique: Collage
   dimensions:
     height: 76
@@ -63,8 +73,8 @@ works:
   description: "2020"
   price: 760
   contextual: true
-- title: 'Canopée Allongée dans l''herbe #1'
-  image: "/forestry/galeriegaia-isthme-canopé Allongée dans l'herbe 1-146x114.jpg"
+- title: 'Canopée Allongée dans l''herbe #1'
+  image: "/forestry/galeriegaia-isthme-canopé Allongée dans l'herbe 1-146x114.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 146
@@ -82,7 +92,7 @@ works:
   price: 2800
   contextual: true
 - title: 'Territoires Colorés #7'
-  image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
+  image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
   technique: " Collage "
   dimensions:
     height: 76
