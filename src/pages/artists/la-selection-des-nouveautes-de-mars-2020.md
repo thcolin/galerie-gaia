@@ -9,7 +9,7 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: 'Les pinces de la vie '
+- title: Les pinces de la vie par Patrick Guéguen
   image: "/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
   technique: Encre noire et acrylique sur papier
   dimensions:
@@ -20,7 +20,7 @@ works:
     "galerie gaia patrick guéguen")'
   price: 1800
   contextual: true
-- title: 'Le pied '
+- title: 'Le pied par Laure Carré '
   image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
   technique: Huile et technique mixte sur toile
   dimensions:

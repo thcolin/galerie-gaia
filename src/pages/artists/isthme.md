@@ -36,6 +36,26 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: Cou-Rage 3
+  image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
+  technique: Collage
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
+  price: 750
+  contextual: true
+- title: Cou-Rage 2
+  image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
+  price: 750
+  contextual: true
 - title: Cou-Rage 1
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   technique: Collage
