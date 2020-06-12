@@ -38,7 +38,7 @@ exhibitions: []
 works:
 - title: Cou-Rage 3
   image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
-  technique: Collage
+  technique: 'Collage '
   dimensions:
     height: 77
     width: 58
@@ -48,7 +48,7 @@ works:
   contextual: true
 - title: Cou-Rage 2
   image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
-  technique: 'Collage '
+  technique: Collage
   dimensions:
     height: 77
     width: 58
