@@ -245,6 +245,7 @@ Artist.styles = {
     },
   },
   work: {
+    padding: '0 1rem 0 0',
     '>div': {
       flex: 1,
       padding: '1rem',
