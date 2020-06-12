@@ -134,6 +134,16 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Blue cactus
+  image: "/forestry/galerie-gaia-laure-carre-blue-cactus-24x19.jpg"
+  technique: Huile et technique mixte sur toile
+  dimensions:
+    height: 24
+    width: 19
+    depth: 0
+  description: "2020"
+  price: 261
+  contextual: true
 - title: Petit animal la nuit
   image: "/forestry/galerie-gaia-laure-carre-petit-animal-la-nuit-18x13.jpg"
   technique: Huile et technique mixte sur toile
@@ -153,16 +163,6 @@ works:
     depth: 0
   description: "2020"
   price: 250
-  contextual: true
-- title: Blue cactus
-  image: "/forestry/galerie-gaia-laure-carre-blue-cactus-24x19.jpg"
-  technique: Huile et technique mixte sur toile
-  dimensions:
-    height: 24
-    width: 19
-    depth: 0
-  description: "2020"
-  price: 261
   contextual: true
 - title: Le pied
   image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
