@@ -12,14 +12,14 @@ const Contextual = ({ work, ...props }) => {
     small: {
       height: [1, 69],
       width: [1, 70],
-      ratio: 160,
-      margin: `${24 - (12 * ((work.dimensions.height - 60) / (180 - 60)))}% 0 60%`,
+      ratio: 100,
+      margin: `15% 0 70%`,
     },
     medium: {
       height: [70, 165],
       width: [1, 132],
       ratio: 170, // (width of the picture in cm)
-      margin: `${24 - (12 * ((work.dimensions.height - 60) / (180 - 60)))}% 0 60%`,
+      margin: `${24 - (12 * ((work.dimensions.height - 70) / (165 - 70)))}% 0 60%`,
     },
   }
 
