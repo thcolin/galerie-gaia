@@ -44,7 +44,7 @@ works:
   price: 280
   contextual: true
 - title: Samaya - Guinée
-  image: "/forestry/@Tangui Robert-Samaya-Guinée-30x40_1.jpg"
+  image: "/forestry/@Tangui Robert-Samaya-Guinée-30x40_1.jpg"
   technique: Gravure sur zinc et photographies Edition en 7 exemplaires
   dimensions:
     height: 40
@@ -88,7 +88,7 @@ works:
     depth: 
   description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
   price: 520
-  contextual: false
+  contextual: true
   sold: false
 - title: Empreinte
   image: "/forestry/@Tangui Robert-Empreinte-30x40_1.jpg"
@@ -99,7 +99,7 @@ works:
     depth: 
   description: œuvre encadrée cadre standard bois naturel montage caisson
   price: 380
-  contextual: false
+  contextual: true
   sold: false
 - title: 'Digue '
   image: "/forestry/@Tangui Robert-Digue-30x40.jpg_1.jpg"
@@ -120,7 +120,7 @@ works:
   description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
   price: 450
   sold: false
-  contextual: false
+  contextual: true
 - title: Prospection
   image: "/forestry/prospection.jpg"
   technique: Gravure sur zinc et pigment doré Edition en 20 exemplaires
@@ -131,7 +131,7 @@ works:
   description: "œuvre encadrée cadre standard aluminium couleur chêne   \n2019 "
   price: 280
   sold: false
-  contextual: false
+  contextual: true
 - title: Salento
   image: "/forestry/@Tangui Robert-Salento-40x50_1.jpg"
   technique: Gravure sur zinc et photo et piquetage photographique Edition en 20 exemplaires
@@ -142,7 +142,7 @@ works:
   description: "œuvre encadrée cadre bois naturel montage caisson   \n2013 "
   price: 450
   sold: false
-  contextual: false
+  contextual: true
 - title: Tourbière
   image: "/forestry/tourbiere.jpg"
   technique: Gravure sur zinc, bronze Edition en 8 exemplaires
@@ -175,7 +175,7 @@ works:
   description: "œuvre encadrée montage dans une boîte originale d'entomologiste   \n2015 "
   price: 380
   sold: false
-  contextual: false
+  contextual: true
 redirect_from:
 - "/artistes/25-tangui-robert/"
 
