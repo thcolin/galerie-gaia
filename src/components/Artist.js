@@ -18,6 +18,7 @@ const Artist = ({ url, frontmatter, ...props }) => {
       >
         {frontmatter.title}
       </span>
+      <label>{frontmatter.title}</label>
     </Link>
   )
 }
@@ -29,11 +30,31 @@ Artist.styles = {
     height: '100%',
     width: '100%',
     overflow: 'hidden',
-    '>span>img': {
-      objectFit: 'cover',
+    '>span': {
+      [theme.medias.small]: {
+        height: 'calc(100% - 3rem)',
+      },
+      '>img': {
+        objectFit: 'cover',
+      },
     },
+    '>label': {
+      display: 'none',
+      textAlign: 'center',
+      fontWeight: 600,
+      padding: '1rem',
+      overflow: 'hidden',
+      textOverflow: 'ellipsis',
+      whiteSpace: 'nowrap',
+      [theme.medias.small]: {
+        display: 'block',
+      }
+    }
   },
   overlay: {
+    [theme.medias.small]: {
+      display: 'none',
+    },
     position: 'absolute',
     top: 0,
     right: 0,
