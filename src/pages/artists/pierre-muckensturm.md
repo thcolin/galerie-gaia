@@ -113,7 +113,7 @@ works:
   description: "Tirage 5 exemplaires titrés numérotés signés au crayon  \nComposition
     ensemble de 3 éléments  \n2020"
   price: 1200
-  contextual: true
+  contextual: false
   title: '201R0022 A+B+C oscillation de 3  angles à Entas '
   technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
     margé
@@ -128,7 +128,7 @@ works:
   description: "\nComposition - ensemble de 3 éléments  \nTirage 5 exemplaires  titrés
     numérotés signés au crayon  \nRéalisation 2020"
   price: 1200
-  contextual: true
+  contextual: false
 - title: '203R0944 - composition à 6 angles  à Entas '
   image: "/forestry/galeriegaia-muckensturm p 203R0944.jpg"
   technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
@@ -250,7 +250,7 @@ works:
     (8/11)"
   price: 1000
   sold: false
-  contextual: true
+  contextual: false
 - title: 14p1r1 (8/11)
   image: "/forestry/14p1r1-811.jpg"
   technique: Aquatinte sur cuivre sur papier BFK Rives
