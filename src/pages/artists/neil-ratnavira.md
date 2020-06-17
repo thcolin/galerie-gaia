@@ -127,7 +127,7 @@ works:
   description: 300€
   price: 300
   sold: false
-  contextual: false
+  contextual: true
 - title: Sens interdit
   image: "/forestry/sens-interdit.jpg"
   technique: Digigraphie /10 exemplaires
@@ -138,7 +138,7 @@ works:
   description: ''
   price: 300
   sold: false
-  contextual: false
+  contextual: true
 - title: Rainbow glass
   image: "/forestry/rainbow-glass.jpg"
   technique: Photographie
@@ -149,7 +149,7 @@ works:
   description: Tirage sur papier fine art
   price: 300
   sold: false
-  contextual: false
+  contextual: true
 - title: La Tour Anne de Bretagne
   image: "/forestry/la-tour-anne-de-bretagne.jpg"
   technique: Photographie sur papier
