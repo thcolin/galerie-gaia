@@ -50,7 +50,7 @@ works:
     depth: 
   description: Œuvre encadrée cadre standard aluminium noir
   price: 150
-  contextual: false
+  contextual: true
 - title: Villes rêvées N°10
   image: "/forestry/galeriegaia_Billarant_Nantes3_41x31- 023.jpg"
   technique: Création photographique Edition en 30 exemplaires
@@ -59,7 +59,7 @@ works:
     width: 40
   description: 'Œuvre encadrée cadre standard aluminium noir '
   price: 150
-  contextual: false
+  contextual: true
 - title: Villes rêvées N°17
   image: "/forestry/galeriegaia_Billarant_Nantes2_41x31- 022.jpg"
   technique: Création photographique Edition 30 exemplaires
@@ -68,7 +68,7 @@ works:
     width: 30
   description: 'Œuvre encadrée cadre standard aluminium noir '
   price: 150
-  contextual: false
+  contextual: true
 - title: Villes rêvées N°3
   image: "/forestry/ville-revee.jpg"
   technique: Création photographique Edition en 30 exemplaires
@@ -79,7 +79,7 @@ works:
   description: ''
   price: 150
   sold: false
-  contextual: false
+  contextual: true
 - title: Villes rêvées N°8
   image: "/forestry/647.jpg"
   technique: 'Création photographique Edition en 30 exemplaires '
