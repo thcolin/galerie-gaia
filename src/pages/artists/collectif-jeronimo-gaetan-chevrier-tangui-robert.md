@@ -68,7 +68,7 @@ works:
   description: "Œuvre encadrée cadre aluminium chêne  \n2020"
   price: 160
   sold: false
-  contextual: false
+  contextual: true
 - title: Strates 28
   image: "/forestry/strate-28.jpg"
   technique: Sérigraphie  Edition en 10 exemplaires
@@ -78,7 +78,7 @@ works:
   description: Œuvre encadrée cadre aluminium chêne
   price: 180
   sold: false
-  contextual: false
+  contextual: true
 - title: Strates 32
   image: "/forestry/galeriegaia@Seuil-04 @Versants-strates32-50x40cm.jpg"
   technique: Sérigraphie Edition en 4 exemplaires
@@ -87,7 +87,7 @@ works:
     width: 40
   description: "Œuvre encadrée cadre standard chêne  \n2020"
   price: 340
-  contextual: false
+  contextual: true
 - title: Strates 33
   image: "/forestry/galeriegaia@Seuil-03 @Versants-strates33-50x40cm.jpg"
   technique: Sérigraphie Edition en 8 exemplaires
@@ -96,7 +96,7 @@ works:
     width: 40
   description: Œuvre encadrée cadre standard chêne
   price: 340
-  contextual: false
+  contextual: true
 - title: Cimes 1
   image: "/forestry/galeriegaia@Seuil-09 @Versants-cimes1-40x30cm.jpg"
   technique: Sérigraphie  Edition en 10 exemplaires
@@ -105,7 +105,7 @@ works:
     width: 30
   description: Œuvre encadrée cadre standard chêne
   price: 280
-  contextual: false
+  contextual: true
 - title: Failles 11
   image: "/forestry/galeriegaia@Seuil-05 @Versants-Failles11-40x30cm.jpg"
   technique: Serigraphie Edition en 5 exemplaires
@@ -114,7 +114,7 @@ works:
     width: 30
   description: Œuvre encadrée cadre standard chêne
   price: 280
-  contextual: false
+  contextual: true
 - title: Viçosa I
   image: "/forestry/galeriegaia@Seuil-15 @Versants-Vicosa.01-40x30cm.jpg"
   technique: Sérigraphie Edition en 15 exemplaires
@@ -147,7 +147,7 @@ works:
   description: Œuvre encadrée cadre standard chêne
   price: 170
   sold: false
-  contextual: false
+  contextual: true
 - title: Viçosa V
   image: "/forestry/galeriegaia@Seuil-19 @Versants-Vicosa.05-40x30cm.jpg"
   technique: Sérigraphie
@@ -158,7 +158,7 @@ works:
   description: Œuvre encadrée cadre standard chêne
   price: 170
   sold: false
-  contextual: false
+  contextual: true
 - title: Viçosa VI
   image: "/forestry/galeriegaia@Seuil-20 @Versants-Vicosa.06-40x30cm.jpg"
   technique: Sérigraphie
@@ -186,7 +186,7 @@ works:
     width: 21
   description: "Œuvre encadrée cadre standard chêne  \n2019"
   price: 160
-  contextual: false
+  contextual: true
 - title: Gisements III
   image: "/forestry/gisements-3.jpg"
   technique: Sérigraphie
@@ -197,7 +197,7 @@ works:
   description: 160€ encadré
   price: 
   sold: false
-  contextual: false
+  contextual: true
 - title: Gisement V
   image: "/forestry/galeriegaia@Seuil-11 @Versants-gisement.04-29.7x21cm.jpg"
   technique: Sérigraphie Edition en 14 exemplaires
@@ -206,7 +206,7 @@ works:
     width: 21
   description: Œuvre encadrée cadre standard chêne
   price: 160
-  contextual: false
+  contextual: true
 - title: Versants 1
   image: "/forestry/@Versants-Versants.01-50x70cm.jpg"
   technique: 'Sérigraphie '
@@ -215,6 +215,7 @@ works:
     width: 70
   description: 16 exemplaires
   price: 420
+  contextual: true
 - title: Installation murale
   image: "/forestry/installation-murale.jpg"
   technique: ''
