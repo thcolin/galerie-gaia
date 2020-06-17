@@ -404,7 +404,7 @@ works:
   description: "2019  \nprotocole d'accrochage fourni par l'artiste"
   price: 2750
   sold: false
-  contextual: true
+  contextual: false
 - title: Portrait Pierre Muckensturm
   image: "/forestry/galerie gaia pierre muckensturm portrait.jpg"
   dimensions:

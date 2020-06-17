@@ -356,7 +356,7 @@ works:
   description: "2019"
   price: 300
   sold: false
-  contextual: true
+  contextual: false
 - title: Native spririt
   image: "/forestry/galeriegaia@laurecarre-nativespirit-collage.jpg"
   technique: mixte
