@@ -25,7 +25,7 @@ works:
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
     "video vague hurlante") '
-  price: 2900
+  price: 3000
   dimensions:
     height: 81
     width: 130
@@ -48,9 +48,10 @@ works:
     width: 100
   description: "2020  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
     \"vidéo l'équilibre\")"
-  price: 2700
+  price: 3200
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
+  sold: true
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
   dimensions:
