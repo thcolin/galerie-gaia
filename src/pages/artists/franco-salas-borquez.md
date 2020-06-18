@@ -57,11 +57,11 @@ works:
     height: 100
     width: 100
   description: "2020  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
-    \"vidéo l'équilibre\")"
+    \"vidéo l'équilibre\")\n\nVendue"
   price: 3200
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
-  sold: true
+  sold: false
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
   dimensions:
@@ -78,8 +78,8 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: Encadrement baguette bois blanc verre musée anti-reflet 150€
-  price: 500
+  description: Œuvre encadrée en baguette bois blanc verre musée anti-reflet
+  price: 700
   contextual: true
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo5.JPG"
