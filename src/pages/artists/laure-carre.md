@@ -163,7 +163,7 @@ works:
     depth: 0
   description: "2020"
   price: 1200
-  contextual: true
+  contextual: false
 - title: Chaise pour écouter certains poèmes
   image: "/forestry/galerie-gaia-laure-carre-chaise-pour-ecouter-certains-poemes-116x89jpg.jpg"
   technique: 'Mixte sur toile '
@@ -269,7 +269,7 @@ works:
   description: ''
   price: 6000
   sold: false
-  contextual: true
+  contextual: false
 - title: La boxeuse amoureuse
   image: "/forestry/la-boxeuse-amoureuse.jpg"
   technique: Huile sur toile technique mixte
@@ -357,7 +357,7 @@ works:
   description: "2019"
   price: 200
   sold: false
-  contextual: true
+  contextual: false
 - title: Portrait de Laure Carré
   image: "/forestry/galeriegaia-laure carré portrait.jpeg"
   dimensions:

@@ -21,6 +21,16 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: La cime
+  image: "/forestry/galerie-gaia-franco-salas-borquez-la-cime-100x100.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2020"
+  price: 3200
+  contextual: true
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
