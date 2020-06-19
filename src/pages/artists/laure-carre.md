@@ -134,6 +134,71 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Saguaro
+  image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
+  technique: 'Huile sur papier et technique mixte '
+  dimensions:
+    height: 34
+    width: 29
+    depth: 0
+  description: |-
+    2020
+
+    Encadrement chêne 30€
+  price: 300
+  contextual: true
+- title: Amazone
+  image: "/forestry/galerie-gaia-laure-carre-amazone_42x35.jpg"
+  technique: 'Huile sur papier et technique mixte '
+  dimensions:
+    height: 38
+    width: 30
+    depth: 0
+  description: |-
+    2020
+
+    Encadrement chêne 40€
+  price: 309
+  contextual: true
+- title: Licorne
+  image: "/forestry/galerie-gaia-laure-carre-licorne-38x30.jpg"
+  technique: 'Huile sur papier et technique mixte '
+  dimensions:
+    height: 38
+    width: 30
+    depth: 0
+  description: |-
+    2020
+
+    Encadrement chêne 40€
+  price: 250
+  contextual: true
+- title: 'La chaise cheval '
+  image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
+  technique: 'Huile sur papier et technique mixte '
+  dimensions:
+    height: 43
+    width: 34
+    depth: 0
+  description: |-
+    2020
+
+    Encadrement chêne 30€
+  price: 300
+  contextual: true
+- title: Dance with a moose
+  image: "/forestry/galerie-gaia-laure-carre-dance-with-a-moose-39x47.jpg"
+  technique: 'Huile sur papier et technique mixte '
+  dimensions:
+    height: 39
+    width: 47
+    depth: 0
+  description: |-
+    2020
+
+    Encadrement chêne 30€
+  price: 300
+  contextual: true
 - title: Dans son panier
   image: "/forestry/galerie-gaia-laure-carre-dans-son-panier-39x31.jpg"
   technique: Huile sur papier et technique mixte
