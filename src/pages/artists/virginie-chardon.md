@@ -39,16 +39,6 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
 exhibitions:
 - {}
 works:
-- title: Portrait de Virginie Chardon
-  image: "/forestry/galerie-gaia-virginie-chardon-portrait.jpg"
-  technique: 'Bronze de Omer le Dug Allemand '
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
 - title: Stan
   technique: 'Bronze '
   dimensions:
@@ -103,6 +93,16 @@ works:
   price: 5400
   sold: false
   contextual: false
+- title: Portrait de Virginie Chardon
+  image: "/forestry/galerie-gaia-virginie-chardon-portrait.jpg"
+  technique: 'Bronze de Omer le Dug Allemand '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 redirect_from:
 - "/artistes/95-virginie-chardon/"
 
