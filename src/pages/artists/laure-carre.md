@@ -134,6 +134,19 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Dans son panier
+  image: "/forestry/galerie-gaia-laure-carre-dans-son-panier-39x31.jpg"
+  technique: Huile sur papier et technique mixte
+  dimensions:
+    height: 39
+    width: 31
+    depth: 0
+  description: |-
+    2019
+
+    Encadrement chêne 30€
+  price: 250
+  contextual: true
 - title: Le cheval vert
   image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
   technique: Huile et technique mixte sur toile
