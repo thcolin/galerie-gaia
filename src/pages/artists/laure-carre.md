@@ -134,6 +134,16 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Scène d'atelier
+  image: "/forestry/galerie-gaia-laure-carre-scene-d-atelier-46x39.jpg"
+  technique: 'Huile sur papier et technique mixte '
+  dimensions:
+    height: 46
+    width: 39
+    depth: 0
+  description: "2020 \n\nEncadrement chêne 40€"
+  price: 300
+  contextual: true
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
   technique: 'Huile sur papier et technique mixte '
