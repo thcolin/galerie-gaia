@@ -46,19 +46,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Pierre Alechinsky - “ABC de correspondance"#E (61/99)
-  image: "/forestry/pierre-alechinsky-abc-de-correspondancee-6199.jpg"
-  technique: Gravure
-  dimensions:
-    height: 76
-    width: 53
-    depth: 
-  description: |-
-    1987
-    1980€
-  price: 
-  sold: false
-  contextual: true
 - title: Buraglio - "A Jean-Jacques Rousseau" (2/12)
   image: "/forestry/buraglio-a-jean-jacques-rousseau-212.jpg"
   technique: Epreuve pigmentaire
