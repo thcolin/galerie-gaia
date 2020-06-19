@@ -39,6 +39,27 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
 exhibitions:
 - {}
 works:
+- title: Omer Le Dog Allemand
+  image: "/forestry/galerie-gaia-virginie-chardon-omer-2.jpg"
+  technique: 'Bronze '
+  dimensions:
+    height: 50
+    width: 46
+    depth: 40
+  description: "pièce numérotée /8  \nFonderie Candide"
+  price: 7000
+  contextual: false
+- title: Omer Le Dog Allemand
+  image: "/forestry/omer.jpg"
+  technique: bronze
+  dimensions:
+    height: 50
+    width: 46
+    depth: 40
+  description: "pièce numérotée /8  \nFonderie Candide"
+  price: 7000
+  sold: false
+  contextual: false
 - title: Stan
   technique: 'Bronze '
   dimensions:
@@ -58,17 +79,6 @@ works:
     depth: 32
   description: "pièces numérotée /8  \nFonderie Paumelle"
   price: 5900
-  sold: false
-  contextual: false
-- title: Omer Le Dog Allemand
-  image: "/forestry/omer.jpg"
-  technique: bronze
-  dimensions:
-    height: 50
-    width: 46
-    depth: 40
-  description: "pièce numérotée /8  \nFonderie Candide"
-  price: 7000
   sold: false
   contextual: false
 - title: Le pélican
