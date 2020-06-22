@@ -170,19 +170,6 @@ works:
     Encadrement chêne 40€
   price: 309
   contextual: true
-- title: Licorne
-  image: "/forestry/galerie-gaia-laure-carre-licorne-38x30.jpg"
-  technique: 'Huile sur papier et technique mixte '
-  dimensions:
-    height: 38
-    width: 30
-    depth: 0
-  description: |-
-    2020
-
-    Encadrement chêne 40€
-  price: 250
-  contextual: true
 - title: 'La chaise cheval '
   image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
   technique: 'Huile sur papier et technique mixte '
