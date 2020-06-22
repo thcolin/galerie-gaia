@@ -38,7 +38,7 @@ works:
   price: 300
   contextual: true
 - title: Un véritable remodelage de la planète
-  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
+  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
   technique: 'sérigraphie 2 couleurs  papier Olin 300g '
   dimensions:
     height: 70
@@ -128,7 +128,7 @@ works:
     height: 70
     width: 50
     depth: 
-  description: 'Edition 15/50 '
+  description: Edition 11/50
   price: 120
   sold: false
   contextual: true
@@ -139,7 +139,7 @@ works:
     height: 70
     width: 50
     depth: 
-  description: 'Edition 3/14 '
+  description: Edition 3/20
   price: 200
   sold: false
   contextual: true
@@ -165,7 +165,7 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: 'Main '
+- title: 'Sans titre '
   image: "/forestry/main-11.jpg"
   technique: 'Sérigraphie papier Olin 300g '
   dimensions:
