@@ -22,7 +22,24 @@ works:
     height: 80
     width: 120
     depth: 
-  description: "Tirage à 15 exemplaires   \nprix sur demande "
+  description: "Tirage à 15 exemplaires  \nprix sur demande\n\nHistoire d'une photographie
+    \n\n\"Début 2020, lors d'une discussion avec un architecte, celui-ci m'évoque
+    le don d'un théâtre appartenant à l'Espagne sur le territoire Marocain. À la vue
+    de quelques photos je fais le lien avec un article lu il y a quelques années qui
+    évoquait ce théâtre centenaire à Tanger. Mais je n'avais vu aucune photo dans
+    ce magazine espagnol et comme à mon habitude j'avais juste noté un point GPS pour
+    me souvenir au cas où.\n\nMon carnet, c'est une succession de point GPS dans le
+    monde! Aucun doute c'était lui!\n\nFermé depuis une soixantaine d'années il était
+    encore dans son état d'origine. Immédiatement je réserve un vol direction Tanger.
+    \n\nL'accès au lieu fut assez compliqué. Quelques heures plus tard j'entre dans
+    une obscurité totale. Aucune source de lumière. J'entrouve discrètement deux portes
+    latérales et là...\n\nLa lumière investie progressivement le lieu. \n\nJe suis
+    subjugué par la scène devant moi: l'architecture, les fresques, les nuances de
+    couleurs.\n\nC'est sans aucun doute l'un des plus beaux théâtres à l'abandon que
+    j'ai pu contempler depuis que je fais ce métier. \n\nJ'installe mon trépied sur
+    la corbeille et déclenche les première prises de vues. Ce sont celles-ci que je
+    garde pour la photo finale que vous découvrez. \n\nAprès une petite d'exploration
+    et de photos, je referme discrètement les portes derrière moi...\""
   price: 
   sold: false
   contextual: true
@@ -127,9 +144,9 @@ works:
   image: "/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
   technique: ''
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
