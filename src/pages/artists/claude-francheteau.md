@@ -76,17 +76,6 @@ works:
   description: œuvre encadrée 50X50 cm
   price: 400
   contextual: true
-- title: CIEL 2032
-  image: "/forestry/ciel-2032.jpg"
-  technique: acrylique sur toile
-  dimensions:
-    height: 40
-    width: 40
-    depth: 
-  description: 'encadrée bois '
-  price: 600
-  sold: false
-  contextual: true
 - title: Ciel 2005
   image: "/forestry/937.jpg"
   technique: Acrylique sur toile
