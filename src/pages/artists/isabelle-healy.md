@@ -123,7 +123,7 @@ works:
   description: "8 500 € \nDisponible sur commande"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Confluence
   image: "/forestry/confluence.jpg"
   technique: Bronze
@@ -137,7 +137,7 @@ works:
     - Définition Larousse nom féminin, {latin confluencia}. Point de convergence de deux cours d'eau.
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Les Albatros
   image: "/forestry/les-albatros.jpg"
   technique: Bronze
@@ -151,7 +151,7 @@ works:
     "Souvent, pour s'amuser, les hommes d'équipage prennent des albatros, vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches, que ces rois de l'azur, maladroits et honteux, laissent piteusement leurs grandes ailes blanches comme des avirons traîner à côté d'eux. Ce voyageur ailé, comme il est gauche et veule ! Lui, naguère si beau, qu'il est comique et laid ! L'un agace son bec avec un brûle-gueule, L'autre mime en boitant, l'infirme qui volait ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l'arche; exilé sur le sol au milieu des huées, ses ailes de géant l'empêchent de marcher." - "L'Albatros" de Charles Beaudelaire
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Anouck
   image: "/forestry/anouck.jpg"
   technique: Bronze
@@ -162,7 +162,7 @@ works:
   description: 2000€
   price: 
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/69-isabelle-healy/"
 
