@@ -87,17 +87,6 @@ works:
   price: 250
   sold: false
   contextual: true
-- title: Ciel 2044
-  image: "/forestry/939.jpg"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 40
-    width: 40
-    depth: 
-  description: 'œuvre encadrée bois '
-  price: 600
-  sold: false
-  contextual: true
 - title: Ciel 045
   image: "/forestry/943.jpg"
   technique: Dessin
