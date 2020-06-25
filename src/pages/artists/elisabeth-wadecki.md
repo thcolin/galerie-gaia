@@ -277,7 +277,7 @@ works:
     height: 100
     width: 100
     depth: 
-  description: '2018 '
+  description: "Visible sur demande à l'atelier   \n2018"
   price: 1800
   sold: false
   contextual: true
