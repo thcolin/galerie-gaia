@@ -49,7 +49,7 @@ works:
   dimensions:
     height: 150
     width: 150
-  description: "2019"
+  description: "Visible sur demande en atelier  \n2019"
   price: 3500
   contextual: true
 - title: 'En mon jardin N°3 huile sur toile '
