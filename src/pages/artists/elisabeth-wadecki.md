@@ -255,7 +255,7 @@ works:
     height: 100
     width: 81
     depth: 
-  description: '2018 '
+  description: Visible sur demande à l'atelier 2018
   price: 1600
   sold: false
   contextual: true
