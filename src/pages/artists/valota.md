@@ -66,6 +66,16 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: Arche de Noé 2
+  image: "/forestry/galerie-gaia-valota-arche-de-noe-2-30-5x39x21.jpg"
+  dimensions:
+    height: 30.5
+    width: 39
+    depth: 21
+  description: "2020"
+  price: ''
+  contextual: false
+  technique: 'Céramique '
 - title: 'Portrait de Valota '
   image: "/forestry/galerie-gaia-VALOTA -portrait.jpg"
   dimensions:
