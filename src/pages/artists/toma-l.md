@@ -198,7 +198,7 @@ works:
   dimensions:
     height: 182
     width: 121
-  description: "Caisse américaine noire  \n2019022501"
+  description: "Caisse américaine noire  \n2019022501  \nprix sur demande"
   price: ''
   contextual: true
 - title: 'Black and simple color '
@@ -272,7 +272,7 @@ works:
   dimensions:
     height: 160
     width: 121
-  description: caisse américaine noire
+  description: "caisse américaine noire  \nprix sur demande"
   price: 
   sold: false
   contextual: false
