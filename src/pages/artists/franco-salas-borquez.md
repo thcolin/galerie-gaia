@@ -28,7 +28,7 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: "2020"
+  description: Vendue
   price: 3200
   contextual: true
 - title: Vague hurlante
@@ -56,8 +56,8 @@ works:
   dimensions:
     height: 100
     width: 100
-  description: "2020  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
-    \"vidéo l'équilibre\")\n\nVendue"
+  description: "Vendue  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
+    \"vidéo l'équilibre\")"
   price: 3200
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"

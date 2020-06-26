@@ -116,7 +116,7 @@ works:
   dimensions:
     height: 157
     width: 125
-  description: "caisse américaine chêne  \n2019011401  \nRéservée"
+  description: "vendue  \n2019011401"
   price: ''
   contextual: true
 - title: Brut and Simple Color
