@@ -42,6 +42,26 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: Terraherba n°4
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-4-120x60.jpg"
+  technique: Acrylique pastels secs sur toile
+  dimensions:
+    height: 120
+    width: 60
+    depth: 0
+  description: Diptyque 2020
+  price: 1000
+  contextual: true
+- title: Terraherba n°3
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-3-60x60.jpg"
+  technique: Acrylique pastels secs sur toile
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: "2020"
+  price: 1000
+  contextual: true
 - title: 'Terraherba triptyque '
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
   technique: Acrylique pastels secs sur toile
