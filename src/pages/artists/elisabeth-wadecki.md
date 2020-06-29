@@ -42,6 +42,26 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: Le rai profond
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-30x57.jpg"
+  technique: Acrylique pastels secs sur toile
+  dimensions:
+    height: 30
+    width: 57
+    depth: 0
+  description: "2019"
+  price: 600
+  contextual: true
+- title: Le soleil se lève et tout devient nuit...
+  dimensions:
+    height: 116
+    width: 81
+    depth: 0
+  description: "2018"
+  price: 1800
+  contextual: true
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-soleil-se-leve-et-tout-devient-nuit-116x81.jpg"
+  technique: 'Acrylique pastels secs sur toile '
 - title: En mon jardin Papier n°4
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-4-100x100.jpg"
   technique: 'Acrylique bâtons d''huile '
