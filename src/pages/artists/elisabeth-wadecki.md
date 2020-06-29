@@ -42,6 +42,36 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: En mon jardin n°1
+  technique: 'Acrylique bâtons d''huile sur toile '
+  dimensions:
+    height: 150
+    width: 150
+    depth: 0
+  description: "2019"
+  price: 3500
+  contextual: true
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
+- title: Terraherba n°15
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
+  technique: 'Acrylique bâtons d''huile sur carton '
+  dimensions:
+    height: 28
+    width: 28
+    depth: 0
+  description: Encadré 43x43cm, 70eur
+  price: 400
+  contextual: true
+- title: Le rai profond 4
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg"
+  technique: Acrylique pastels secs sur toile
+  dimensions:
+    height: 30
+    width: 60
+    depth: 0
+  description: "2019"
+  price: 600
+  contextual: true
 - title: Le rai profond
   image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-30x57.jpg"
   technique: Acrylique pastels secs sur toile
