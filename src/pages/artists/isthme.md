@@ -36,6 +36,44 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: Deep blue 8
+  image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Canopée 3
+  image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
+  dimensions:
+    height: 195
+    width: 114
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Canopée 7
+  image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
+  technique: ''
+  dimensions:
+    height: 50
+    width: 41
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Canopée 5
+  image: "/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
+  technique: ''
+  dimensions:
+    height: 50
+    width: 41
+    depth: 0
+  description: "2020"
+  price: ''
+  contextual: true
 - title: Cou-Rage 1
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   technique: Collage
