@@ -95,22 +95,22 @@ works:
   image: "/forestry/648.jpg"
   technique: Création photographie Edition en 30 exemplaires
   dimensions:
-    height: 
-    width: 
+    height: 30
+    width: 40
     depth: 
   description: ''
-  price: 
+  price: 150
   sold: false
   contextual: true
 - title: Villes rêvées N° 14
   image: "/forestry/649.jpg"
   technique: ''
   dimensions:
-    height: 
-    width: 
+    height: 30
+    width: 40
     depth: 
   description: ''
-  price: 
+  price: 150
   sold: false
   contextual: true
 - title: Villes rêvées N°15
