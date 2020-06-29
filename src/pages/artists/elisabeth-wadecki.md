@@ -42,16 +42,15 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
-- title: En mon jardin n°1
-  technique: 'Acrylique bâtons d''huile sur toile '
+- title: Terraherba n°5
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-5-146x114.jpg"
   dimensions:
-    height: 150
-    width: 150
+    height: 146
+    width: 114
     depth: 0
-  description: "2019"
-  price: 3500
+  description: ''
+  price: 0
   contextual: true
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
 - title: Terraherba n°15
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
   technique: 'Acrylique bâtons d''huile sur carton '
@@ -61,126 +60,6 @@ works:
     depth: 0
   description: Encadré 43x43cm, 70eur
   price: 400
-  contextual: true
-- title: Le rai profond 4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg"
-  technique: Acrylique pastels secs sur toile
-  dimensions:
-    height: 30
-    width: 60
-    depth: 0
-  description: "2019"
-  price: 600
-  contextual: true
-- title: Le rai profond
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-30x57.jpg"
-  technique: Acrylique pastels secs sur toile
-  dimensions:
-    height: 30
-    width: 57
-    depth: 0
-  description: "2019"
-  price: 600
-  contextual: true
-- title: Le soleil se lève et tout devient nuit...
-  dimensions:
-    height: 116
-    width: 81
-    depth: 0
-  description: "2018"
-  price: 1800
-  contextual: true
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-soleil-se-leve-et-tout-devient-nuit-116x81.jpg"
-  technique: 'Acrylique pastels secs sur toile '
-- title: En mon jardin Papier n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-4-100x100.jpg"
-  technique: 'Acrylique bâtons d''huile '
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2019"
-  price: 1800
-  contextual: true
-- dimensions:
-    height: 166
-    width: 89
-    depth: 0
-  description: "2019"
-  price: 1800
-  contextual: true
-  title: En mon jardin Papier n°3
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-3-116x89.jpg"
-  technique: 'Acrylique bâtons d''huile '
-- title: En mon jardin Papier n°8
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-8-54x86.jpg"
-  technique: 'Acrylique pastels secs encadré aluminium '
-  dimensions:
-    height: 54
-    width: 86
-    depth: 0
-  description: "2019"
-  price: 800
-  contextual: true
-- title: En mon jardin Papier n°7
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-7-54x144.jpg"
-  technique: Acrylique pastels secs encadré aluminium
-  dimensions:
-    height: 54
-    width: 144
-    depth: 0
-  description: "2019"
-  price: 1200
-  contextual: true
-- title: Sans titre Papier n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-4-52x72.jpg"
-  technique: Acrylique, pastels, fusain sur papier encadré aluminium sous verre
-  dimensions:
-    height: 52
-    width: 72
-    depth: 0
-  description: "2018"
-  price: 700
-  contextual: true
-- title: Sans titre n°3
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-3-52x72.jpg"
-  technique: Acrylique, pastels, fusain sur papier encadré aluminium sous verre
-  dimensions:
-    height: 52
-    width: 72
-    depth: 0
-  description: "2018"
-  price: 700
-  contextual: true
-- title: Sans titre n°11
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-11.jpg"
-  technique: Acrylique pastels secs sur toile
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Dyptique ou à séparer, 2018
-  price: 1800
-  contextual: true
-- title: Sans titre n°8
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-8.jpg"
-  technique: Acrylique pastels secs sur toile
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Dyptique ou à séparer, 2018
-  price: 1800
-  contextual: true
-- title: En mon jardin n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-4-97x130.jpg"
-  technique: 'Acrylique bâtons d''huile sur toile '
-  dimensions:
-    height: 97
-    width: 130
-    depth: 0
-  description: "2020"
-  price: 2200
   contextual: true
 - title: Terraherba n°4
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-4-120x60.jpg"
@@ -232,16 +111,6 @@ works:
   price: 1000
   contextual: true
   technique: Acrylique pastels secs sur toile
-- title: Sans titre n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-4-100x81.jpg"
-  technique: Acrylique pastels secs sur toile
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2018"
-  price: 1600
-  contextual: true
 - title: En mon jardin N°1
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros
     (2).JPG"
