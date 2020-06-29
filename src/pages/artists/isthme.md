@@ -36,6 +36,16 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: Green rhapsody 9
+  image: "/forestry/galerie-gaia-isthme-green-rhapsody-9-76x57cm-2015.jpg"
+  technique: Collage
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: "2015"
+  price: 750
+  contextual: true
 - title: Deep blue 8
   image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
   dimensions:
