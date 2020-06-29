@@ -42,6 +42,16 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: Sans titre n°4
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-4-100x81.jpg"
+  technique: Acrylique pastels secs sur toile
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: e.Wadecki- sans titre-N°4-100x81-2018-acrylique-pastelssecs-sur-toile-1600euros-VISIBLEatelier.JPG
+  price: 1600
+  contextual: true
 - title: En mon jardin N°1
   image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros
     (2).JPG"
