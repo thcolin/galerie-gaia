@@ -42,6 +42,36 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: En mon jardin Papier n°8
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-8-54x86.jpg"
+  technique: 'Acrylique pastels secs encadré aluminium '
+  dimensions:
+    height: 54
+    width: 86
+    depth: 0
+  description: "2019"
+  price: 800
+  contextual: true
+- title: En mon jardin Papier n°7
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-7-54x144.jpg"
+  technique: Acrylique pastels secs encadré aluminium
+  dimensions:
+    height: 54
+    width: 144
+    depth: 0
+  description: "2019"
+  price: 1200
+  contextual: true
+- title: Sans titre Papier n°4
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-4-52x72.jpg"
+  technique: Acrylique, pastels, fusain sur papier encadré aluminium sous verre
+  dimensions:
+    height: 52
+    width: 72
+    depth: 0
+  description: "2018"
+  price: 700
+  contextual: true
 - title: Sans titre n°3
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-3-52x72.jpg"
   technique: Acrylique, pastels, fusain sur papier encadré aluminium sous verre
