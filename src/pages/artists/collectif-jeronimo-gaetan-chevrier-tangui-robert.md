@@ -27,6 +27,56 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Ta
   croiser leur production respective."
 exhibitions: []
 works:
+- title: Strates 32
+  image: "/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Strates 27
+  image: "/forestry/galerie-gaia-projets-versants-strates-27-30x40.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Strates 16
+  image: "/forestry/galerie-gaia-projets-versants-strates-16-30x40.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Failles 11
+  image: "/forestry/galerie-gaia-projets-versants-failles-11-30x40.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Failles 6
+  image: "/forestry/galerie-gaia-projets-versants-failles-6-30x40.jpg"
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+  technique: Sérigraphie
 - title: Latence 05
   image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.jpg"
   dimensions:
