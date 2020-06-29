@@ -27,6 +27,16 @@ biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Ta
   croiser leur production respective."
 exhibitions: []
 works:
+- title: Strates 33
+  image: "/forestry/galerie-gaia-projets-versants-strates-33-30x40.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Strates 32
   image: "/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg"
   technique: Sérigraphie
