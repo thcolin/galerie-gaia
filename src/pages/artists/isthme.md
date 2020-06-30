@@ -36,6 +36,26 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: Territoires Noir/ Blanc 13
+  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
+- title: Territoires Noir/ Blanc 10
+  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
 - title: Green rhapsody 9
   image: "/forestry/galerie-gaia-isthme-green-rhapsody-9-76x57cm-2015.jpg"
   technique: Collage
