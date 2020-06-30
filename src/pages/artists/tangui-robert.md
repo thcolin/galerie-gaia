@@ -16,6 +16,16 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: En rester là
+  image: "/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Echo II
   image: "/forestry/galerie-gaia-tangui-robert-echo-ii-30x40.jpg"
   technique: Gravure sur zinc et piquetage photos
