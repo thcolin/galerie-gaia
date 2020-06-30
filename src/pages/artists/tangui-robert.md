@@ -16,6 +16,26 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: Echo II
+  image: "/forestry/galerie-gaia-tangui-robert-echo-ii-30x40.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Echo I
+  image: "/forestry/galerie-gaia-tangui-robert-echo-i-30x40.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Yang Shuo
   image: "/forestry/@Tangui Robert-Yang Shuo-40x50_1.jpg"
   technique: Gravure sur zinc et piquetage photos Epreuve d'artiste
