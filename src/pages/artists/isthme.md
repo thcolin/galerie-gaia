@@ -36,22 +36,31 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: Green Rhapsody 7
+  image: "/forestry/galerie-gaia-isthme-green-rhapsody-7-76x56cm-2015.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: "2015"
+  price: 0
+  contextual: true
+- title: Canopée 3
+  image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
+  dimensions:
+    height: 195
+    width: 114
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Territoires Noir/ Blanc 13
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
   technique: 'Collage '
   dimensions:
     height: 76
     width: 56
-    depth: 0
-  description: "2017"
-  price: 0
-  contextual: true
-- title: Territoires Noir/ Blanc 10
-  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
-  technique: 'Collage '
-  dimensions:
-    height: 76
-    width: 57
     depth: 0
   description: "2017"
   price: 0
@@ -66,30 +75,31 @@ works:
   description: "2015"
   price: 750
   contextual: true
-- title: Deep blue 8
-  image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
-- title: Canopée 3
-  image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
-  dimensions:
-    height: 195
-    width: 114
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
 - title: Canopée 7
   image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
   technique: ''
   dimensions:
     height: 50
     width: 41
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Territoires Noir/ Blanc 10
+  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
+- title: Deep blue 8
+  image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
+  dimensions:
+    height: 130
+    width: 97
     depth: 0
   description: ''
   price: 0
