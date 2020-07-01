@@ -99,6 +99,16 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: Quiet days under the trees 4
+  image: "/forestry/galerie-gaia-valota-queit-days-under-the-trees-1-30x24.jpg"
+  technique: Cire et pigments sur bois
+  dimensions:
+    height: 30
+    width: 24
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Arche de Noé 2
   image: "/forestry/galerie-gaia-valota-arche-de-noe-2-30-5x39x21.jpg"
   technique: 'Céramique '

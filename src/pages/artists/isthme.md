@@ -36,6 +36,15 @@ biography: "La démarche d'Isthme est toute d'équilibre entre improvisation sen
   et grâce comme vertige ou torpeur. » \nIsthme"
 exhibitions: []
 works:
+- title: Allongée dans l'herbe 10
+  image: "/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
+  dimensions:
+    height: 55
+    width: 46
+    depth: 0
+  description: "2020"
+  price: 750
+  contextual: true
 - title: Green Rhapsody 7
   image: "/forestry/galerie-gaia-isthme-green-rhapsody-7-76x56cm-2015.jpg"
   technique: 'Collage '
