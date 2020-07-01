@@ -99,6 +99,56 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: 'Tour mordorée '
+  image: "/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg"
+  technique: Céramique
+  dimensions:
+    height: 57
+    width: 42
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: Quiet days under the trees 13
+  image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg"
+  technique: Cire et pigments de bois
+  dimensions:
+    height: 135
+    width: 110
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: Quiet days under the trees 6
+  image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg"
+  technique: Cire et pigments de bois
+  dimensions:
+    height: 73
+    width: 60
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: Quiet days under the trees 5
+  image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-5-65x50.jpg"
+  technique: Cire et pigments de bois
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: Quiet days under the trees 2
+  image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-2-30x24.jpg"
+  technique: Cire et pigments de bois
+  dimensions:
+    height: 30
+    width: 24
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
 - title: Quiet days under the trees 4
   image: "/forestry/galerie-gaia-valota-queit-days-under-the-trees-1-30x24.jpg"
   technique: Cire et pigments sur bois
@@ -106,7 +156,7 @@ works:
     height: 30
     width: 24
     depth: 0
-  description: ''
+  description: "2020"
   price: 0
   contextual: true
 - title: Arche de Noé 2
