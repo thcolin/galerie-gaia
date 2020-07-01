@@ -44,9 +44,9 @@ works:
     width: 56
     depth: 0
   description: "2015"
-  price: 0
+  price: 750
   contextual: true
-- title: Canopée 3
+- title: Allongée dans l'herbe 3
   image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
   dimensions:
     height: 195
@@ -63,7 +63,7 @@ works:
     width: 56
     depth: 0
   description: "2017"
-  price: 0
+  price: 750
   contextual: true
 - title: Green rhapsody 9
   image: "/forestry/galerie-gaia-isthme-green-rhapsody-9-76x57cm-2015.jpg"
@@ -75,7 +75,7 @@ works:
   description: "2015"
   price: 750
   contextual: true
-- title: Canopée 7
+- title: Allongée dans l'herbe 7
   image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
   technique: ''
   dimensions:
@@ -83,7 +83,7 @@ works:
     width: 41
     depth: 0
   description: ''
-  price: 0
+  price: 750
   contextual: true
 - title: Territoires Noir/ Blanc 10
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
@@ -104,7 +104,7 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: Canopée 5
+- title: Allongée dans l'herbe 5
   image: "/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
   technique: ''
   dimensions:
@@ -112,7 +112,7 @@ works:
     width: 41
     depth: 0
   description: "2020"
-  price: ''
+  price: 750
   contextual: true
 - title: Cou-Rage 1
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
@@ -124,7 +124,7 @@ works:
   description: ''
   price: 750
   contextual: true
-- title: 'Canopée Allongée dans l''herbe #14'
+- title: " Allongée dans l'herbe #14"
   image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   dimensions:
     height: 195
