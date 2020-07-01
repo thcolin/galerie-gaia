@@ -99,6 +99,16 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Querelle carbone
+  image: "/forestry/galeriegaia-toma-l-2019040109-querellecarbone-150x166cm_bd.jpg"
+  technique: Mixte sur papier marouflé sur bois caisse américaine chêne
+  dimensions:
+    height: 160
+    width: 176
+    depth: 0
+  description: "2019  \nPrix sur demande"
+  price: 0
+  contextual: true
 - title: Black colors and stone age
   image: "/forestry/2017001320-colorandblackstoneage-13-20ex-125x160cm.jpg"
   technique: 'Lithographie Atelier IDEM '
