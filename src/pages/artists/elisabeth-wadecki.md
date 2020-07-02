@@ -51,10 +51,10 @@ works:
   description: ''
   price: 1000
   contextual: true
-  technique: Acrylique pastels secs sur toile
+  technique: 'Acrylique et bâtons d''huile sur toile '
 - title: Terraherba n°2
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-2-60x60.jpg"
-  technique: Acrylique pastels secs sur toile
+  technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
     height: 60
     width: 60
@@ -192,6 +192,62 @@ works:
   price: 900
   sold: false
   contextual: true
+- title: Sans titre N°4 Toile marouflée
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
+  technique: acrylique et pastels sur toile marouflée sur carton
+  dimensions:
+    height: 40
+    width: 40
+  description: |-
+    oeuvre encadrée baguette bois naturel
+
+    2018
+  price: 550
+  contextual: true
+- title: Sans Titre N°5 Toile marouflée
+  image: "/forestry/sans-titre-ndegree5.jpg"
+  technique: Acrylique et pastel sur toile marouflée sur carton
+  dimensions:
+    height: 41
+    width: 41
+    depth: 
+  description: "2018   \noeuvre encadrée baguette bois naturel "
+  price: 550
+  sold: false
+  contextual: true
+- title: Sans Titre N°8 Toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-diptyque-2018-acrylique-pasteslssecs-sur-toile-1800euros.JPG"
+  technique: Acrylique et pastel sur toile
+  dimensions:
+    height: 100
+    width: 100
+    depth: 
+  description: '2018 '
+  price: 1800
+  sold: false
+  contextual: true
+- title: Sans Titre N°4 Toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-100x81-2018-acrylique-pastelssecs-sur-toile-1600euros-visibleatelier.JPG"
+  technique: Acrylique, pastels, fusain sur toile
+  dimensions:
+    height: 100
+    width: 81
+    depth: 
+  description: Visible sur demande à l'atelier 2018
+  price: 1600
+  sold: false
+  contextual: true
+- title: Sans Titre N°11 Toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
+  technique: Acrylique et pastel sur toile
+  dimensions:
+    height: 100
+    width: 100
+    depth: 
+  description: "Visible sur demande à l'atelier   \n2018"
+  price: 1800
+  sold: false
+  contextual: true
 - title: Sans titre N°3 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg"
   technique: 'pastel et fusain sur papier '
@@ -240,18 +296,6 @@ works:
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
   contextual: true
-- title: Sans titre N°4 Toile marouflée
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
-  technique: acrylique et pastels sur toile marouflée sur carton
-  dimensions:
-    height: 40
-    width: 40
-  description: |-
-    oeuvre encadrée baguette bois naturel
-
-    2018
-  price: 550
-  contextual: true
 - title: Sans Titre N°12 Papier
   image: "/forestry/sans-titre-ndegree12.jpg"
   technique: Acrylique et bâtons d'huile sur papier
@@ -272,17 +316,6 @@ works:
     depth: 
   description: '2019 '
   price: 1800
-  sold: false
-  contextual: true
-- title: Sans Titre N°5 Toile marouflée
-  image: "/forestry/sans-titre-ndegree5.jpg"
-  technique: Acrylique et pastel sur toile marouflée sur carton
-  dimensions:
-    height: 41
-    width: 41
-    depth: 
-  description: "2018   \noeuvre encadrée baguette bois naturel "
-  price: 550
   sold: false
   contextual: true
 - title: Si on allait N°1
@@ -327,39 +360,6 @@ works:
     depth: 
   description: "2019 \n\noeuvre encadré baguette aluminium"
   price: 600
-  sold: false
-  contextual: true
-- title: Sans Titre N°4 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-100x81-2018-acrylique-pastelssecs-sur-toile-1600euros-visibleatelier.JPG"
-  technique: Acrylique, pastels, fusain sur toile
-  dimensions:
-    height: 100
-    width: 81
-    depth: 
-  description: Visible sur demande à l'atelier 2018
-  price: 1600
-  sold: false
-  contextual: true
-- title: Sans Titre N°8 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-diptyque-2018-acrylique-pasteslssecs-sur-toile-1800euros.JPG"
-  technique: Acrylique et pastel sur toile
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: '2018 '
-  price: 1800
-  sold: false
-  contextual: true
-- title: Sans Titre N°11 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
-  technique: Acrylique et pastel sur toile
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: "Visible sur demande à l'atelier   \n2018"
-  price: 1800
   sold: false
   contextual: true
 - title: Sans Titre N° 11 (1/10)
