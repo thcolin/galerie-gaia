@@ -112,8 +112,7 @@ works:
   contextual: true
   technique: Acrylique pastels secs sur toile
 - title: En mon jardin N°1
-  image: "/forestry/wadecki@enmonjardin-N°1-2019-acrylique-bâtons-d'huile-sur-toile-150x150-3500euros
-    (2).JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
   technique: 'Acrylique bâtons d''huile sur toile '
   dimensions:
     height: 150
