@@ -66,14 +66,14 @@ works:
   price: 400
   contextual: true
 - title: Terraherba n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-4-120x60.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-2020-terraherba-n-4-diptyque-60x120-1600eur.JPG"
   technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
-    height: 120
-    width: 60
+    height: 60
+    width: 120
     depth: 0
   description: Diptyque 2020
-  price: 1000
+  price: 1600
   contextual: true
 - title: Terraherba n°3
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-3-60x60.jpg"
@@ -115,7 +115,7 @@ works:
   price: 1000
   contextual: true
   technique: Acrylique pastels secs sur toile
-- title: En mon jardin N°1  huile sur toile
+- title: En mon jardin N°1 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
   technique: 'Acrylique bâtons d''huile sur toile '
   dimensions:
@@ -124,7 +124,7 @@ works:
   description: "Visible sur demande en atelier  \n2019"
   price: 3500
   contextual: true
-- title: 'En mon jardin N°3 huile sur toile '
+- title: 'En mon jardin N°3 Toile '
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n-3-100x100-acrylique-batons-d-huile-sur-toile-2019-1800euros.JPG"
   technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
@@ -133,7 +133,7 @@ works:
   description: "2019"
   price: 1800
   contextual: true
-- title: En mon jardin N°4 huile sur toile
+- title: En mon jardin N°4 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
   dimensions:
@@ -253,7 +253,7 @@ works:
   price: 1350
   sold: false
   contextual: true
-- title: Sans Titre N°4
+- title: Sans Titre N°4 Papier
   image: "/forestry/sans-titre-ndegree3.jpg"
   technique: Acrylique et pastel sur papier
   dimensions:
@@ -264,9 +264,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Sans Titre N°5
+- title: Sans Titre N°5 Toile marouflée
   image: "/forestry/sans-titre-ndegree5.jpg"
-  technique: Toile marouflée sur carton
+  technique: Acrylique et pastel sur toile marouflée sur carton
   dimensions:
     height: 41
     width: 41
@@ -319,7 +319,7 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Sans Titre N°4
+- title: Sans Titre N°4 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-100x81-2018-acrylique-pastelssecs-sur-toile-1600euros-visibleatelier.JPG"
   technique: Acrylique, pastels, fusain sur toile
   dimensions:
@@ -330,7 +330,7 @@ works:
   price: 1600
   sold: false
   contextual: true
-- title: Sans Titre N°8
+- title: Sans Titre N°8 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-diptyque-2018-acrylique-pasteslssecs-sur-toile-1800euros.JPG"
   technique: Acrylique et pastel sur toile
   dimensions:
@@ -341,7 +341,7 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Sans Titre N°11
+- title: Sans Titre N°11 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
   technique: Acrylique et pastel sur toile
   dimensions:
