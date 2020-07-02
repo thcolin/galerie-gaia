@@ -49,7 +49,7 @@ works:
     width: 114
     depth: 0
   description: ''
-  price: 0
+  price: 3000
   contextual: true
 - title: Terraherba n°15
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
@@ -291,18 +291,18 @@ works:
   sold: false
   contextual: true
 - title: Le Rai profond N°3 ouest
-  image: "/forestry/le-roi-profond-ndegree3-ouest.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-n-3ouest-30x57cm-2019-acrylique-pastelssecs-sur-papier-600euros.JPG"
   technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
-    width: 57
+    width: 60
     depth: 
   description: "2019 \n\noeuvre encadrée baguette aluminium "
   price: 600
   sold: false
   contextual: true
 - title: Le Rai profond N°4 ouest
-  image: "/forestry/le-roi-profond-ndegree4-ouest.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg"
   technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
@@ -313,7 +313,7 @@ works:
   sold: false
   contextual: true
 - title: Sans Titre N°4
-  image: "/forestry/sans-titre-ndegree4.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-100x81-2018-acrylique-pastelssecs-sur-toile-1600euros-visibleatelier.JPG"
   technique: Acrylique, pastels, fusain sur toile
   dimensions:
     height: 100
@@ -324,7 +324,7 @@ works:
   sold: false
   contextual: true
 - title: Sans Titre N°8
-  image: "/forestry/sans-titre-ndegree8.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-diptyque-2018-acrylique-pasteslssecs-sur-toile-1800euros.JPG"
   technique: Acrylique et pastel sur toile
   dimensions:
     height: 100
@@ -335,7 +335,7 @@ works:
   sold: false
   contextual: true
 - title: Sans Titre N°11
-  image: "/forestry/sans-titre-ndegree11.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
   technique: Acrylique et pastel sur toile
   dimensions:
     height: 100
