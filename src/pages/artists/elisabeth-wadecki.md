@@ -142,16 +142,16 @@ works:
   description: "2020"
   price: 2200
   contextual: true
-- title: En mon jardin N°3 papier marouflé sur toile
+- title: En mon jardin N°3 Papier marouflé sur toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-3-2019-acrylique-batonsd-huile-116x89-1800eur.JPG"
-  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
+  technique: 'acrylique et bâton d''huile sur papier marouflé sur toile '
   dimensions:
     height: 119
     width: 89
   description: "2019"
   price: 1800
   contextual: true
-- title: Sans titre N°3
+- title: Sans titre N°3 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg"
   technique: 'pastel et fusain sur papier '
   dimensions:
@@ -160,7 +160,7 @@ works:
   description: "2018  \noeuvre encadrée baguette aluminium "
   price: 700
   contextual: true
-- title: Sans titre N°8
+- title: Sans titre N°8 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
@@ -169,16 +169,19 @@ works:
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
   contextual: true
-- title: Sans titre N°4
+- title: Sans titre N°4 Toile marouflée
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
   technique: acrylique et pastels sur toile marouflée sur carton
   dimensions:
     height: 40
     width: 40
-  description: oeuvre encadrée baguette bois naturel
+  description: |-
+    oeuvre encadrée baguette bois naturel
+
+    2018
   price: 550
   contextual: true
-- title: En mon jardin N°4
+- title: En mon jardin N°4 Papier marouflé sur toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
   technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
@@ -187,7 +190,7 @@ works:
   description: "2019"
   price: 1800
   contextual: true
-- title: Sans titre N°4
+- title: Sans titre N°4 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
@@ -196,7 +199,7 @@ works:
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
   contextual: true
-- title: Sans titre N°2
+- title: Sans titre N°2 Papier
   image: "/forestry/galeriegaia@wadecki@sans-titre-n°2-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
     bois naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
@@ -217,7 +220,7 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Sans Titre N°12
+- title: Sans Titre N°12 Papier
   image: "/forestry/sans-titre-ndegree12.jpg"
   technique: Acrylique et bâtons d'huile sur papier
   dimensions:
@@ -228,23 +231,23 @@ works:
   price: 280
   sold: false
   contextual: true
-- title: En mon jardin N°8
+- title: En mon jardin N°8 Papier
   image: "/forestry/en-mon-jardin-ndegree6.jpg"
   technique: Acrylique et bâtons d’huile sur papier
   dimensions:
-    height: 86
-    width: 54
+    height: 54
+    width: 86
     depth: 
   description: "2019   \noeuvre encadrée baguette aluminium "
   price: 900
   sold: false
   contextual: true
-- title: En mon jardin N°7
+- title: En mon jardin N°7 Papier
   image: "/forestry/en-mon-jardin-ndegree7.jpg"
   technique: Acrylique et bâtons d'huile sur papier
   dimensions:
-    height: 114
-    width: 54
+    height: 54
+    width: 114
     depth: 
   description: "2019   \noeuvre encadrée baguette aluminium"
   price: 1350
