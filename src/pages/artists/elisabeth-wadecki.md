@@ -148,7 +148,7 @@ works:
   price: 1800
   contextual: true
 - title: Sans titre N°3
-  image: "/forestry/galeriegaia@wadecki@Sanstitre-2018-72x52-acrylique, pastels,fusain-surpapier-encadréaluminiumsousverre-700euros.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg"
   technique: 'pastel et fusain sur papier '
   dimensions:
     height: 52
@@ -157,8 +157,7 @@ works:
   price: 700
   contextual: true
 - title: Sans titre N°8
-  image: "/forestry/galeriegaia@wadecki@sans-titre-n°8-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
-    bois naturel.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
     height: 31
@@ -167,7 +166,7 @@ works:
   price: 280
   contextual: true
 - title: Sans titre N°4
-  image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique,pastels- surtoile-marouflée-surcarton-2018-550euros-41x41-encadrébaguetteboisnaturel.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
   technique: acrylique et pastels sur toile marouflée sur carton
   dimensions:
     height: 40
@@ -176,8 +175,7 @@ works:
   price: 550
   contextual: true
 - title: En mon jardin N°4
-  image: "/forestry/galeriegaia@wadecki-En mon jardin n°4 100x100 2019 papier marouflé
-    sur toile.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
   technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
     height: 100
@@ -186,8 +184,7 @@ works:
   price: 1800
   contextual: true
 - title: Sans titre N°4
-  image: "/forestry/galeriegaia@wadecki@sans-titre-n°4-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
-    bois naturel.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
     height: 31
