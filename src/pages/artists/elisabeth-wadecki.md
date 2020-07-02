@@ -48,9 +48,10 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: ''
+  description: "2020"
   price: 3000
   contextual: true
+  technique: 'Acrylique et bâtons d''huile sur toile '
 - title: Terraherba n°15
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
   technique: 'Acrylique bâtons d''huile sur carton '
@@ -58,12 +59,15 @@ works:
     height: 28
     width: 28
     depth: 0
-  description: Encadré 43x43cm, 70eur
+  description: |-
+    Encadré 43x43cm, 70eur
+
+    2020
   price: 400
   contextual: true
 - title: Terraherba n°4
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-4-120x60.jpg"
-  technique: Acrylique pastels secs sur toile
+  technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
     height: 120
     width: 60
@@ -73,7 +77,7 @@ works:
   contextual: true
 - title: Terraherba n°3
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-3-60x60.jpg"
-  technique: Acrylique pastels secs sur toile
+  technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
     height: 60
     width: 60
@@ -83,12 +87,12 @@ works:
   contextual: true
 - title: 'Terraherba triptyque '
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
-  technique: Acrylique pastels secs sur toile
+  technique: Acrylique et bâtons d'huile sur toile
   dimensions:
     height: 60
     width: 180
     depth: 0
-  description: ''
+  description: "2020"
   price: 2500
   contextual: true
 - title: Terraherba n°2
@@ -111,7 +115,7 @@ works:
   price: 1000
   contextual: true
   technique: Acrylique pastels secs sur toile
-- title: En mon jardin N°1
+- title: En mon jardin N°1  huile sur toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
   technique: 'Acrylique bâtons d''huile sur toile '
   dimensions:
@@ -129,7 +133,7 @@ works:
   description: "2019"
   price: 1800
   contextual: true
-- title: En mon jardin N°4
+- title: En mon jardin N°4 huile sur toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
   dimensions:
