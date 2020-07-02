@@ -42,6 +42,56 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: Terraherba n°1
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-60x60.jpg"
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: ''
+  price: 1000
+  contextual: true
+  technique: Acrylique pastels secs sur toile
+- title: Terraherba n°2
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-2-60x60.jpg"
+  technique: Acrylique pastels secs sur toile
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: ''
+  price: 1000
+  contextual: true
+- title: Terraherba n°3
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-3-60x60.jpg"
+  technique: 'Acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: "2020"
+  price: 1000
+  contextual: true
+- title: 'Terraherba triptyque '
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
+  technique: Acrylique et bâtons d'huile sur toile
+  dimensions:
+    height: 60
+    width: 180
+    depth: 0
+  description: "2020"
+  price: 2500
+  contextual: true
+- title: Terraherba n°4
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-2020-terraherba-n-4-diptyque-60x120-1600eur.JPG"
+  technique: 'Acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 60
+    width: 120
+    depth: 0
+  description: Diptyque 2020
+  price: 1600
+  contextual: true
 - title: Terraherba n°5
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-5-146x114.jpg"
   dimensions:
@@ -65,56 +115,6 @@ works:
     2020
   price: 400
   contextual: true
-- title: Terraherba n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-2020-terraherba-n-4-diptyque-60x120-1600eur.JPG"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 60
-    width: 120
-    depth: 0
-  description: Diptyque 2020
-  price: 1600
-  contextual: true
-- title: Terraherba n°3
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-3-60x60.jpg"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: "2020"
-  price: 1000
-  contextual: true
-- title: 'Terraherba triptyque '
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
-  technique: Acrylique et bâtons d'huile sur toile
-  dimensions:
-    height: 60
-    width: 180
-    depth: 0
-  description: "2020"
-  price: 2500
-  contextual: true
-- title: Terraherba n°2
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-2-60x60.jpg"
-  technique: Acrylique pastels secs sur toile
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
-- title: Terraherba n°1
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-60x60.jpg"
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
-  technique: Acrylique pastels secs sur toile
 - title: En mon jardin N°1 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
   technique: 'Acrylique bâtons d''huile sur toile '
@@ -124,12 +124,31 @@ works:
   description: "Visible sur demande en atelier  \n2019"
   price: 3500
   contextual: true
+- title: En mon jardin N°2 Toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n2-2019-100x100-acrylique-batonsdhuile-sur-toile-1800euros.JPG"
+  technique: 'Acrylique et bâtons d''huile sur toile '
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2019"
+  price: 1800
+  contextual: true
 - title: 'En mon jardin N°3 Toile '
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n-3-100x100-acrylique-batons-d-huile-sur-toile-2019-1800euros.JPG"
   technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
     height: 100
     width: 100
+  description: "2019"
+  price: 1800
+  contextual: true
+- title: En mon jardin N°3 Papier marouflé sur toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-3-2019-acrylique-batonsd-huile-116x89-1800eur.JPG"
+  technique: 'acrylique et bâton d''huile sur papier marouflé sur toile '
+  dimensions:
+    height: 119
+    width: 89
   description: "2019"
   price: 1800
   contextual: true
@@ -142,14 +161,36 @@ works:
   description: "2020"
   price: 2200
   contextual: true
-- title: En mon jardin N°3 Papier marouflé sur toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-3-2019-acrylique-batonsd-huile-116x89-1800eur.JPG"
-  technique: 'acrylique et bâton d''huile sur papier marouflé sur toile '
+- title: En mon jardin N°4 Papier marouflé sur toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
+  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
-    height: 119
-    width: 89
+    height: 100
+    width: 100
   description: "2019"
   price: 1800
+  contextual: true
+- title: En mon jardin N°7 Papier
+  image: "/forestry/en-mon-jardin-ndegree7.jpg"
+  technique: Acrylique et bâtons d'huile sur papier
+  dimensions:
+    height: 54
+    width: 114
+    depth: 
+  description: "2019   \noeuvre encadrée baguette aluminium"
+  price: 1350
+  sold: false
+  contextual: true
+- title: En mon jardin N°8 Papier
+  image: "/forestry/en-mon-jardin-ndegree6.jpg"
+  technique: Acrylique et bâtons d’huile sur papier
+  dimensions:
+    height: 54
+    width: 86
+    depth: 
+  description: "2019   \noeuvre encadrée baguette aluminium "
+  price: 900
+  sold: false
   contextual: true
 - title: Sans titre N°3 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg"
@@ -160,6 +201,17 @@ works:
   description: "2018  \noeuvre encadrée baguette aluminium "
   price: 700
   contextual: true
+- title: Sans Titre N°4 Papier
+  image: "/forestry/sans-titre-ndegree3.jpg"
+  technique: Acrylique et pastel sur papier
+  dimensions:
+    height: 52
+    width: 72
+    depth: 
+  description: "2018   \nEncadré aluminum sous verre "
+  price: 700
+  sold: false
+  contextual: true
 - title: Sans titre N°8 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
@@ -168,27 +220,6 @@ works:
     width: 31
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
-  contextual: true
-- title: Sans titre N°4 Toile marouflée
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
-  technique: acrylique et pastels sur toile marouflée sur carton
-  dimensions:
-    height: 40
-    width: 40
-  description: |-
-    oeuvre encadrée baguette bois naturel
-
-    2018
-  price: 550
-  contextual: true
-- title: En mon jardin N°4 Papier marouflé sur toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
-  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: "2019"
-  price: 1800
   contextual: true
 - title: Sans titre N°4 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
@@ -209,16 +240,17 @@ works:
   description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
   price: 280
   contextual: true
-- title: Le soleil se lève et tout devient nuit N°4
-  image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
-  technique: Acrylique, pastel fusain sur toile
+- title: Sans titre N°4 Toile marouflée
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
+  technique: acrylique et pastels sur toile marouflée sur carton
   dimensions:
-    height: 116
-    width: 81
-    depth: 
-  description: '2019 '
-  price: 1800
-  sold: false
+    height: 40
+    width: 40
+  description: |-
+    oeuvre encadrée baguette bois naturel
+
+    2018
+  price: 550
   contextual: true
 - title: Sans Titre N°12 Papier
   image: "/forestry/sans-titre-ndegree12.jpg"
@@ -231,37 +263,15 @@ works:
   price: 280
   sold: false
   contextual: true
-- title: En mon jardin N°8 Papier
-  image: "/forestry/en-mon-jardin-ndegree6.jpg"
-  technique: Acrylique et bâtons d’huile sur papier
+- title: Le soleil se lève et tout devient nuit N°4
+  image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
+  technique: Acrylique, pastel fusain sur toile
   dimensions:
-    height: 54
-    width: 86
+    height: 116
+    width: 81
     depth: 
-  description: "2019   \noeuvre encadrée baguette aluminium "
-  price: 900
-  sold: false
-  contextual: true
-- title: En mon jardin N°7 Papier
-  image: "/forestry/en-mon-jardin-ndegree7.jpg"
-  technique: Acrylique et bâtons d'huile sur papier
-  dimensions:
-    height: 54
-    width: 114
-    depth: 
-  description: "2019   \noeuvre encadrée baguette aluminium"
-  price: 1350
-  sold: false
-  contextual: true
-- title: Sans Titre N°4 Papier
-  image: "/forestry/sans-titre-ndegree3.jpg"
-  technique: Acrylique et pastel sur papier
-  dimensions:
-    height: 52
-    width: 72
-    depth: 
-  description: "2018   \nEncadré aluminum sous verre "
-  price: 700
+  description: '2019 '
+  price: 1800
   sold: false
   contextual: true
 - title: Sans Titre N°5 Toile marouflée
