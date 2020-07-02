@@ -121,7 +121,7 @@ works:
   price: 3500
   contextual: true
 - title: 'En mon jardin N°3 huile sur toile '
-  image: "/forestry/wadecki@enmonjardin-n°3- 100x100-acrylique-bâtons-d'huile-sur-toile-2019-1800euros.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n-3-100x100-acrylique-batons-d-huile-sur-toile-2019-1800euros.JPG"
   technique: 'Acrylique et bâtons d''huile sur toile '
   dimensions:
     height: 100
@@ -130,7 +130,7 @@ works:
   price: 1800
   contextual: true
 - title: En mon jardin N°4
-  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
   dimensions:
     height: 97
@@ -139,8 +139,7 @@ works:
   price: 2200
   contextual: true
 - title: En mon jardin N°3 papier marouflé sur toile
-  image: "/forestry/galeriegaia@wadecki-En mon jardin n°3 119x89 2019 papier marouflé
-    sur toile.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-3-2019-acrylique-batonsd-huile-116x89-1800eur.JPG"
   technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
     height: 119
