@@ -106,7 +106,7 @@ biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme un
   toujours présente.\n\nDaniel Lacomme"
 exhibitions: []
 works:
-- title: Allongée dans l'herbe 10
+- title: 'Allongée dans l''herbe #10'
   image: "/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
   dimensions:
     height: 55
@@ -115,17 +115,7 @@ works:
   description: "2020"
   price: 750
   contextual: true
-- title: Green Rhapsody 7
-  image: "/forestry/galerie-gaia-isthme-green-rhapsody-7-76x56cm-2015.jpg"
-  technique: 'Collage '
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "2015"
-  price: 750
-  contextual: true
-- title: Allongée dans l'herbe 3
+- title: 'Allongée dans l''herbe #3'
   image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
   dimensions:
     height: 195
@@ -134,56 +124,7 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: Territoires Noir/ Blanc 13
-  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
-  technique: 'Collage '
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "2017"
-  price: 750
-  contextual: true
-- title: Green rhapsody 9
-  image: "/forestry/galerie-gaia-isthme-green-rhapsody-9-76x57cm-2015.jpg"
-  technique: Collage
-  dimensions:
-    height: 76
-    width: 57
-    depth: 0
-  description: "2015"
-  price: 750
-  contextual: true
-- title: Allongée dans l'herbe 7
-  image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
-  technique: ''
-  dimensions:
-    height: 50
-    width: 41
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
-- title: Territoires Noir/ Blanc 10
-  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
-  technique: 'Collage '
-  dimensions:
-    height: 76
-    width: 57
-    depth: 0
-  description: "2017"
-  price: 0
-  contextual: true
-- title: Deep blue 8
-  image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
-- title: Allongée dans l'herbe 5
+- title: 'Allongée dans l''herbe #5'
   image: "/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
   technique: ''
   dimensions:
@@ -193,12 +134,12 @@ works:
   description: "2020"
   price: 750
   contextual: true
-- title: Cou-Rage 1
-  image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
-  technique: Collage
+- title: 'Allongée dans l''herbe #7'
+  image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
+  technique: ''
   dimensions:
-    height: 77
-    width: 58
+    height: 50
+    width: 41
     depth: 0
   description: ''
   price: 750
@@ -212,25 +153,7 @@ works:
   price: 3500
   contextual: true
   technique: 'Acrylique sur toile '
-- title: 'Deep blue #4'
-  image: "/forestry/galeriegaia-isthme-Deep Blue 4- 61cmx50cm_2020.JPG"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 61
-    width: 50
-  description: "2020"
-  price: 1000
-  contextual: true
-- title: 'Territoires Colorés #15'
-  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
-  technique: Collage
-  dimensions:
-    height: 76
-    width: 57
-  description: "2020"
-  price: 760
-  contextual: true
-- title: 'Canopée Allongée dans l''herbe #1'
+- title: " Allongée dans l'herbe #1"
   image: "/forestry/galeriegaia-isthme-canopé Allongée dans l'herbe 1-146x114.jpg"
   technique: Acrylique sur toile
   dimensions:
@@ -238,6 +161,43 @@ works:
     width: 114
   description: "2020"
   price: 2800
+  contextual: true
+- title: 'Green Rhapsody #7'
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: 'Territoires Noir/ Blanc #13'
+  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: "2017"
+  price: 750
+  contextual: true
+- title: 'Territoires Noir/ Blanc #10'
+  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
+- title: 'Deep blue #8'
+  image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 0
   contextual: true
 - title: 'Deep Blue #3'
   image: "/forestry/galeriegaia-isthme-Blue Deep3- 146 cmx114cm-2020.jpg"
@@ -248,16 +208,26 @@ works:
   description: "2020"
   price: 2800
   contextual: true
-- title: 'Territoires Colorés #7'
-  image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
-  technique: " Collage "
+- title: 'Deep blue #4'
+  image: "/forestry/galeriegaia-isthme-Deep Blue 4- 61cmx50cm_2020.JPG"
+  technique: 'Acrylique sur toile '
   dimensions:
-    height: 76
-    width: 56
-  description: Œuvre encadrée montage caisson baguette bois noir
+    height: 61
+    width: 50
+  description: "2020"
+  price: 1000
+  contextual: true
+- title: 'Cou-Rage #1'
+  image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
+  technique: Collage
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
   price: 750
   contextual: true
-- title: Cou-Rage 2
+- title: 'Cou-Rage #2'
   image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
   technique: Collage
   dimensions:
@@ -265,6 +235,34 @@ works:
     width: 58
     depth: 0
   description: ''
+  price: 750
+  contextual: true
+- title: 'Cou-Rage #3'
+  image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
+  technique: 'Collage '
+  dimensions:
+    height: 77
+    width: 58
+    depth: 0
+  description: ''
+  price: 750
+  contextual: true
+- title: 'Territoires Colorés #15'
+  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+  technique: Collage
+  dimensions:
+    height: 76
+    width: 57
+  description: "2020"
+  price: 760
+  contextual: true
+- title: 'Territoires Colorés #7'
+  image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
+  technique: " Collage "
+  dimensions:
+    height: 76
+    width: 56
+  description: Œuvre encadrée montage caisson baguette bois noir
   price: 750
   contextual: true
 - title: 'Purple Rhapsody #4 '
@@ -310,16 +308,6 @@ works:
   description: '2019  '
   price: 2800
   sold: false
-  contextual: true
-- title: Cou-Rage 3
-  image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
-  technique: 'Collage '
-  dimensions:
-    height: 77
-    width: 58
-    depth: 0
-  description: ''
-  price: 750
   contextual: true
 - title: 'Black Rhapsody #14'
   image: "/forestry/black-rhapsody-14.jpg"
