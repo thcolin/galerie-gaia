@@ -80,11 +80,11 @@ works:
 - title: Failles 6
   image: "/forestry/galerie-gaia-projets-versants-failles-6-30x40.jpg"
   dimensions:
-    height: 30
-    width: 40
+    height: 40
+    width: 30
     depth: 0
   description: ''
-  price: 0
+  price: 280
   contextual: true
   technique: Sérigraphie
 - title: Latence 05
