@@ -52,7 +52,7 @@ works:
   technique: Sérigraphie
   dimensions:
     height: 30
-    width: 40
+    width: 20
     depth: 0
   description: ''
   price: 0
@@ -62,7 +62,7 @@ works:
   technique: Sérigraphie
   dimensions:
     height: 30
-    width: 40
+    width: 20
     depth: 0
   description: ''
   price: 0
