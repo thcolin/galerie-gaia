@@ -196,16 +196,6 @@ works:
     Encadrement chêne 30€
   price: 250
   contextual: true
-- title: Le cheval vert
-  image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
-  technique: Huile et technique mixte sur toile
-  dimensions:
-    height: 24
-    width: 19
-    depth: 0
-  description: "2020"
-  price: 250
-  contextual: true
 - title: Le pied
   image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
   technique: Huil et technique mixte sur toile
