@@ -183,19 +183,6 @@ works:
     Encadrement chêne 30€
   price: 300
   contextual: true
-- title: Dance with a moose
-  image: "/forestry/galerie-gaia-laure-carre-dance-with-a-moose-39x47.jpg"
-  technique: 'Huile sur papier et technique mixte '
-  dimensions:
-    height: 39
-    width: 47
-    depth: 0
-  description: |-
-    2020
-
-    Encadrement chêne 30€
-  price: 300
-  contextual: true
 - title: Dans son panier
   image: "/forestry/galerie-gaia-laure-carre-dans-son-panier-39x31.jpg"
   technique: Huile sur papier et technique mixte
@@ -312,17 +299,6 @@ works:
   description: "2020"
   price: 200
   contextual: true
-- title: In the west
-  image: "/forestry/in-the-west.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: 1400€
-  price: 
-  sold: false
-  contextual: true
 - title: Brume et Basile
   image: "/forestry/637.jpg"
   technique: Lithographie
@@ -365,17 +341,6 @@ works:
     depth: 
   description: Prix 1400€
   price: 
-  sold: false
-  contextual: true
-- title: En quittant Phoenix
-  image: "/forestry/en-quittant-phoenix.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 50
-    width: 50
-    depth: 
-  description: ''
-  price: 600
   sold: false
   contextual: true
 - title: Walk in the kingdom (14/18)
