@@ -134,6 +134,16 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Le cheval vert
+  image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 19
+    width: 24
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
 - title: Scène d'atelier
   image: "/forestry/galerie-gaia-laure-carre-scene-d-atelier-46x39.jpg"
   technique: 'Huile sur papier et technique mixte '
