@@ -31,33 +31,33 @@ works:
     gaia laure carré")'
   price: 350
   contextual: true
-- title: Fly Away par Sébastien Bouchard
-  image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
-  technique: Mixte
+- title: Octopus IV par Sébastien Bouchard
+  image: "/forestry/1437.jpg"
+  technique: Mixte sur toile
   dimensions:
-    height: 60
-    width: 60
+    height: 200
+    width: 100
     depth: 0
   description: '[Sébastien Bouchard](https://galeriegaia.fr/artists/sebastien-bouchard/
     "galerie gaia sébastien bouchard")'
-  price: 1400
+  price: 3000
   contextual: true
 - title: Sélection des nouveautés Juin 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
   contextual: true
-- title: Maquette Solitude de Marie Vandooren
-  image: "/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
-  technique: 'Maquette sur socle bois '
+- title: Parc 2 de Marie Vandooren
+  image: "/forestry/vandoorenmarie.parc2.50x70cm.jpg"
+  technique: Acrylique sur papier
   dimensions:
-    height: 10
-    width: 10
+    height: 50
+    width: 70
     depth: 9
   description: '[Marie Vandooren](https://galeriegaia.fr/artists/marie-vandooren/
     "Marie Vandooren")'
-  price: 250
-  contextual: false
+  price: 400
+  contextual: true
 - title: 184c06051 de Pierre Muckensturm
   image: "/forestry/muckensturm-184c06051-3x50x50.jpg"
   dimensions:
@@ -69,14 +69,16 @@ works:
   price: 1200
   contextual: true
   technique: " Installation de 3 eau-forte 3 x 50cmx50cm"
-- title: Miki de Dimitri Roubichou
-  image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
+- title: Ostie de Dimitri Roubichou
+  image: "/forestry/DSC_1857 - Copie - Copie.JPG"
   dimensions:
     height: 30
     width: 30
     depth: 0
   description: |-
     Edition possible dans d'autres formats
+
+    1/9
 
     [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "Dimitri Roubichou")
   price: 250
@@ -92,19 +94,6 @@ works:
   price: 2800
   contextual: true
   technique: 'Cire et pigments sur bois '
-- title: 'Kuzma de Dimitri Roubichou '
-  image: "/forestry/galeriegaia@dimitriroubichou-KUZMA-30cmx30cm-30 tirages.jpg"
-  technique: Photographie tirage sur papier baryté
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: |-
-    Edition disponible dans d'autres formats
-
-    [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "Dimitri Roubichou")
-  price: 250
-  contextual: true
 - title: Tour bleue par Valota
   image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
     - 2020.jpg"
@@ -155,15 +144,15 @@ works:
     [Boris Jakobek](https://galeriegaia.fr/artists/boris-jakobek/ "Boris Jakobek")
   price: 300
   contextual: true
-- title: En mon jardin N°4 de Elisabeth Wadecki
-  image: "/forestry/wadecki@enmonjardin-N°4-2020-acrylique-bâtons-d'huile-sur-toile-130x97cm-2200euros.JPG"
+- title: Terraherba Tryptique de Elisabeth Wadecki
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
   technique: 'acrylique et bâtons d''huile sur toile '
   dimensions:
-    height: 97
-    width: 130
+    height: 60
+    width: 180
   description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
     "galerie gaia elisabeth wadecki")'
-  price: 2200
+  price: 2500
   contextual: true
 - title: Une chaise la nuit de Laure Carré
   image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
