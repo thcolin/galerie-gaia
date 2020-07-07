@@ -16,6 +16,16 @@ biography: |-
   Olivier Fremont
 exhibitions: []
 works:
+- title: 'Sans titre '
+  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-5.jpg"
+  technique: Bronze
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 1600
+  contextual: true
 - title: Sans titre
   image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-3.jpg"
   technique: Bronze
