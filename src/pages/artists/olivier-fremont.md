@@ -16,6 +16,26 @@ biography: |-
   Olivier Fremont
 exhibitions: []
 works:
+- title: Sans titre
+  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-3.jpg"
+  technique: Bronze
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 1600
+  contextual: true
+- title: 'Sans titre '
+  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 1800
+  contextual: true
+  technique: Bronze
 - title: Compression
   image: "/forestry/Compression 70x70x30 tirage bronze I  sur VIII 9000 €.jpg"
   technique: Bronze 1/8
@@ -37,7 +57,7 @@ works:
   price: 15000
   contextual: false
 - title: Compression oxydée
-  image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
+  image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
   technique: Acier
   dimensions:
     height: 68
@@ -47,7 +67,7 @@ works:
   price: 6500
   contextual: false
 - title: Sans titre 1
-  image: "/forestry/Acier peint patinée (recto) 108 x 40 x 25 2000 €.JPG"
+  image: "/forestry/Acier peint patinée (recto) 108 x 40 x 25 2000 €.JPG"
   technique: Acier peint patiné
   dimensions:
     height: 108
