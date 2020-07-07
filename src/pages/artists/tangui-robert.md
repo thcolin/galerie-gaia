@@ -16,9 +16,29 @@ biography: Le travail artistique de Tangui Robert est à la lisière de l’arch
   de Nantes.
 exhibitions: []
 works:
+- title: Jardin des plantes
+  image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: ''
+  price: 300
+  contextual: true
+- title: Bangkok Noi
+  image: "/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 30
+    width: 24
+    depth: 0
+  description: ''
+  price: 280
+  contextual: true
 - title: Silence I
   image: "/forestry/galerie-gaia-tangui-robert-silence-i-30x40.jpg"
-  technique: ''
+  technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 40
     width: 30
