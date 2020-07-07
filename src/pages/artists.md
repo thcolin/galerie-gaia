@@ -6,6 +6,7 @@ artists:
 - artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/jorj-morin.md
+- artist: src/pages/artists/nadia-barbotin.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/estampes.md
 - artist: src/pages/artists/laure-carre.md

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: La Sélection des nouveautés de Juin  2020
+title: La Sélection des nouveautés de Juillet  2020
 location: ''
 field: Evenement
 birth: "0"

@@ -25,6 +25,28 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: 'Vibrations '
+  image: "/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
+  technique: Huile
+  dimensions:
+    height: 116
+    width: 89
+    depth: 0
+  description: "2020"
+  price: 1600
+  sold: false
+  contextual: true
+- title: Traces
+  image: "/forestry/galerie-gaia-barbotin-nadia-traces-116x89.jpeg"
+  technique: Huile
+  dimensions:
+    height: 116
+    width: 89
+    depth: 0
+  description: "2020"
+  price: 1600
+  sold: false
+  contextual: true
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
   technique: 'Technique mixte '
@@ -50,6 +72,31 @@ works:
   price: 2500
   sold: false
   contextual: false
+- title: 'Transparences blanches '
+  image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
+  technique: Huile
+  dimensions:
+    height: 91
+    width: 91
+    depth: 0
+  description: "2019"
+  price: 1400
+  sold: false
+  contextual: true
+- title: Transparences blanches
+  image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg"
+  technique: Huile
+  dimensions:
+    height: 91
+    width: 91
+    depth: 0
+  description: |-
+    2019
+
+    En contexte
+  price: 1400
+  sold: false
+  contextual: true
 - title: Rock
   image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
   technique: Huile
