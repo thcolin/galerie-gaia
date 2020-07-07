@@ -166,15 +166,6 @@ works:
   description: Œuvre encadrée cadre standard chêne
   price: 280
   contextual: true
-- title: Failles 11
-  image: "/forestry/galeriegaia@Seuil-05 @Versants-Failles11-40x30cm.jpg"
-  technique: Serigraphie Edition en 5 exemplaires
-  dimensions:
-    height: 40
-    width: 30
-  description: Œuvre encadrée cadre standard chêne
-  price: 280
-  contextual: true
 - title: Viçosa I
   image: "/forestry/galeriegaia@Seuil-15 @Versants-Vicosa.01-40x30cm.jpg"
   technique: Sérigraphie Edition en 15 exemplaires
