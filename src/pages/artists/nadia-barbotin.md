@@ -25,14 +25,39 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: Retrouvailles
+  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
+  technique: Technique mixte
+  dimensions:
+    height: 130
+    width: 194
+    depth: 0
+  description: "2020\n\nDiptyque\n\nEn contexte "
+  price: 3500
+  sold: false
+  contextual: true
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
   technique: 'Technique mixte '
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: "2020"
+  price: 2500
+  sold: false
+  contextual: false
+- title: Freedom
+  image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
+  technique: Technique mixte
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: |-
+    2020
+
+    En contexte
   price: 2500
   sold: false
   contextual: false
