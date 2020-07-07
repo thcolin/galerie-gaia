@@ -287,8 +287,7 @@ works:
   price: 280
   contextual: true
 - title: Sans titre N°2 Papier
-  image: "/forestry/galeriegaia@wadecki@sans-titre-n°2-acrylique-et-bâtonsd'huile-surpapier-31x31-2019-280euros-baguette
-    bois naturel.JPG"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-2-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.jpg"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
     height: 31
