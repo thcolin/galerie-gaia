@@ -25,17 +25,6 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
-- title: Retrouvailles
-  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
-  technique: Technique mixte
-  dimensions:
-    height: 130
-    width: 194
-    depth: 0
-  description: "2020\n\nDiptyque\n\nEn contexte "
-  price: 3500
-  sold: false
-  contextual: true
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
   technique: 'Technique mixte '
@@ -61,6 +50,78 @@ works:
   price: 2500
   sold: false
   contextual: false
+- title: Rock
+  image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
+  technique: Huile
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2016"
+  price: 2500
+  sold: false
+  contextual: true
+- title: Rock
+  image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg"
+  technique: Huile
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: |-
+    2016
+
+    En contexte
+  price: 2500
+  sold: false
+  contextual: true
+- title: Retrouvailles
+  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
+  technique: 'Technique mixte '
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2020\n\nDiptyque "
+  price: 3500
+  sold: false
+  contextual: false
+- title: Retrouvailles
+  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
+  technique: Technique mixte
+  dimensions:
+    height: 130
+    width: 194
+    depth: 0
+  description: "2020\n\nDiptyque\n\nEn contexte "
+  price: 3500
+  sold: false
+  contextual: false
+- title: Faille
+  image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg"
+  technique: Huile
+  dimensions:
+    height: 150
+    width: 120
+    depth: 0
+  description: "2017"
+  price: 2700
+  sold: false
+  contextual: true
+- title: Faille
+  image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
+  technique: 'Huile '
+  dimensions:
+    height: 150
+    width: 120
+    depth: 0
+  description: |-
+    2017
+
+    En contexte
+  price: 2700
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
