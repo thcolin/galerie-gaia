@@ -9,6 +9,16 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Transparences blanches par Nadia Barbotin
+  image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
+  technique: Huile
+  dimensions:
+    height: 91
+    width: 91
+    depth: 0
+  description: ''
+  price: 1400
+  contextual: true
 - title: Les oiseaux de Trévise par Patrick Guéguen
   image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
   technique: Encre noire et acrylique sur papier
@@ -58,17 +68,17 @@ works:
     "Marie Vandooren")'
   price: 400
   contextual: true
-- title: 184c06051 de Pierre Muckensturm
-  image: "/forestry/muckensturm-184c06051-3x50x50.jpg"
+- title: 172J230921 (6/11) de Pierre Muckensturm
+  image: "/forestry/172j230921-611.jpg"
   dimensions:
-    height: 0
-    width: 0
+    height: 76
+    width: 56
     depth: 0
   description: '[Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
     "Pierre Muckensturm")'
-  price: 1200
+  price: 600
   contextual: true
-  technique: " Installation de 3 eau-forte 3 x 50cmx50cm"
+  technique: 'Carborundum et pointe sèche sur cuivre sur papier BFK Rives '
 - title: Ostie de Dimitri Roubichou
   image: "/forestry/DSC_1857 - Copie - Copie.JPG"
   dimensions:
@@ -94,16 +104,6 @@ works:
   price: 2800
   contextual: true
   technique: 'Cire et pigments sur bois '
-- title: Tour bleue par Valota
-  image: "/forestry/VALOTA -TOUR BLEUE - HAUTEUR 58cm - DIAMETRE 42cm - CERAMIQUE
-    - 2020.jpg"
-  technique: Céramique
-  dimensions:
-    height: 58
-    width: 42
-  description: '[Valota](https://galeriegaia.fr/artists/valota/ "Valota")'
-  price: 3000
-  contextual: false
 - title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
   image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
   technique: 'Acrylique sur toile '
@@ -113,15 +113,6 @@ works:
   description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "Isabelle Thomas Isthme
     ")'
   price: 3500
-  contextual: true
-- title: Chien d'atelier de Laure Carré
-  image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
-  description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré")'
-  price: 1800
-  technique: Huile sur toile
-  dimensions:
-    height: 100
-    width: 100
   contextual: true
 - title: Territoires colorées 15 par ISTHME
   image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
@@ -153,15 +144,6 @@ works:
   description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
     "galerie gaia elisabeth wadecki")'
   price: 2500
-  contextual: true
-- title: Une chaise la nuit de Laure Carré
-  image: "/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
-  technique: 'Encre sur papier '
-  dimensions:
-    height: 20
-    width: 20
-  description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré")'
-  price: 200
   contextual: true
 - title: Stan par  Virginie Chardon
   image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2916.jpg"
@@ -199,16 +181,16 @@ works:
   price: 160
   sold: false
   contextual: true
-- title: SEUIL - Strates 28
-  image: "/forestry/seuil-strate-28.jpg"
-  technique: Sérigraphie /10
+- title: SEUIL - Strates 27
+  image: "/forestry/galerie-gaia-projets-versants-strates-27-30x40.jpg"
+  technique: Sérigraphie
   dimensions:
     height: 30
-    width: 24
+    width: 20
     depth: 
   description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
     "Jeronimo Tangui robert Gaetan chevrier ")'
-  price: 180
+  price: 183
   sold: false
   contextual: true
 redirect_from:
