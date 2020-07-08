@@ -106,6 +106,15 @@ biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme un
   toujours présente.\n\nDaniel Lacomme"
 exhibitions: []
 works:
+- title: 'Allongée dans l''herbe #3'
+  image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
+  dimensions:
+    height: 195
+    width: 114
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
 - title: 'Allongée dans l''herbe #10'
   image: "/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
   dimensions:
@@ -114,15 +123,6 @@ works:
     depth: 0
   description: "2020"
   price: 750
-  contextual: true
-- title: 'Allongée dans l''herbe #3'
-  image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
-  dimensions:
-    height: 195
-    width: 114
-    depth: 0
-  description: ''
-  price: 0
   contextual: true
 - title: 'Allongée dans l''herbe #5'
   image: "/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
@@ -162,14 +162,16 @@ works:
   description: "2020"
   price: 2800
   contextual: true
-- title: 'Green Rhapsody #7'
+- title: 'Green Rhapsody #9'
   dimensions:
-    height: 0
-    width: 0
+    height: 76
+    width: 57
     depth: 0
-  description: ''
-  price: 0
+  description: "2015"
+  price: 750
   contextual: true
+  image: "/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg"
+  technique: Collage
 - title: 'Territoires Noir/ Blanc #13'
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
   technique: 'Collage '
@@ -188,7 +190,7 @@ works:
     width: 57
     depth: 0
   description: "2017"
-  price: 0
+  price: 750
   contextual: true
 - title: 'Deep blue #8'
   image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"

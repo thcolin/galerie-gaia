@@ -147,13 +147,13 @@ works:
     ")'
   price: 3500
   contextual: true
-- title: Territoires colorées 15 par ISTHME
-  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+- title: Cou-Rage 1 par ISTHME
+  image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   dimensions:
     height: 76
     width: 57
   description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "galerie gaia isthme")'
-  price: 760
+  price: 750
   contextual: true
   technique: Collage
 - title: Foot bridge of sadbness de Boris Jakobek
