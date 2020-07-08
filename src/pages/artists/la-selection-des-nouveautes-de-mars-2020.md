@@ -9,6 +9,39 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Grès 5 par Jacqueline Pécantet
+  image: "/forestry/galeie-gaia-jacqueline-pecantet-gres4.jpg"
+  technique: Crin de cheval sur grès, poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Jacqueline Pécantet](https://galeriegaia.fr/artists/jacqueline-pecantet/
+    "Jacqueline Pécantet")'
+  price: 120
+  contextual: true
+- title: Sans titre par Olivier Fremont
+  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
+  technique: Bronze
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/
+    "Olivier Fremont")'
+  price: 1800
+  contextual: true
+- title: Bangkok Noi par Tangui Robert
+  image: "/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg"
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 30
+    width: 24
+    depth: 0
+  description: '[Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
+    robert")'
+  price: 280
+  contextual: true
 - title: Transparences blanches par Nadia Barbotin
   image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
   technique: Huile
