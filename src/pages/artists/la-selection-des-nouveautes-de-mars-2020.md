@@ -9,8 +9,8 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: Les pinces de la vie par Patrick Guéguen
-  image: "/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
+- title: Les oiseaux de Trévise par Patrick Guéguen
+  image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
   technique: Encre noire et acrylique sur papier
   dimensions:
     height: 100
@@ -20,16 +20,16 @@ works:
     "galerie gaia patrick guéguen")'
   price: 1800
   contextual: true
-- title: 'Le pied par Laure Carré '
-  image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
+- title: 'Scène d''atelier par Laure Carré '
+  image: "/forestry/galerie-gaia-laure-carre-scene-d-atelier-46x39.jpg"
   technique: Huile et technique mixte sur toile
   dimensions:
-    height: 35
-    width: 27
+    height: 46
+    width: 39
     depth: 0
   description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "galerie
     gaia laure carré")'
-  price: 350
+  price: 300
   contextual: true
 - title: Octopus IV par Sébastien Bouchard
   image: "/forestry/1437.jpg"
