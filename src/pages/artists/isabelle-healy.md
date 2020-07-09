@@ -40,6 +40,29 @@ biography: |-
    » (…) car  la Vie  n’est  pas  autre  chose  que  la  capacité  de  maintenir  un  état d’équilibre , au  milieu du changement des  évènements « .    tiré du livre de Baghavad-Gita
 exhibitions: []
 works:
+- title: Les âmes sœurs
+  image: "/forestry/galerie-gaia-isabelle-healy-ame-soeur-42x38x9.JPG"
+  technique: Bronze
+  dimensions:
+    height: 42
+    width: 38
+    depth: 9
+  description: |-
+    2020
+
+    Zoom
+  price: 3200
+  contextual: false
+- title: Les âmes sœurs
+  image: "/forestry/galerie-gaia-isabelle-healy-ame-soeur-42x38x9.JPG"
+  technique: Bronze
+  dimensions:
+    height: 42
+    width: 38
+    depth: 9
+  description: "2020"
+  price: 3200
+  contextual: false
 - title: Fondation
   image: "/forestry/fondation.jpg"
   technique: Bronze
