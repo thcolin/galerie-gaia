@@ -31,9 +31,9 @@ works:
   dimensions:
     height: 116
     width: 89
-    depth: 0
+    depth: 
   description: "2020"
-  price: 1600
+  price: 3200
   sold: false
   contextual: true
 - title: Traces
@@ -42,9 +42,9 @@ works:
   dimensions:
     height: 116
     width: 89
-    depth: 0
+    depth: 
   description: "2020"
-  price: 1600
+  price: 3200
   sold: false
   contextual: true
 - title: Freedom
@@ -55,7 +55,7 @@ works:
     width: 120
     depth: 
   description: "2020"
-  price: 2500
+  price: 5000
   sold: false
   contextual: false
 - title: Freedom
@@ -64,12 +64,12 @@ works:
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: |-
     2020
 
     En contexte
-  price: 2500
+  price: 5000
   sold: false
   contextual: false
 - title: 'Transparences blanches '
@@ -78,9 +78,9 @@ works:
   dimensions:
     height: 91
     width: 91
-    depth: 0
+    depth: 
   description: "2019"
-  price: 1400
+  price: 2800
   sold: false
   contextual: true
 - title: Transparences blanches
@@ -89,12 +89,12 @@ works:
   dimensions:
     height: 91
     width: 91
-    depth: 0
+    depth: 
   description: |-
     2019
 
     En contexte
-  price: 1400
+  price: 2800
   sold: false
   contextual: true
 - title: Rock
@@ -103,9 +103,9 @@ works:
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: "2016"
-  price: 2500
+  price: 5000
   sold: false
   contextual: true
 - title: Rock
@@ -114,12 +114,12 @@ works:
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: |-
     2016
 
     En contexte
-  price: 2500
+  price: 5000
   sold: false
   contextual: true
 - title: Retrouvailles
@@ -128,9 +128,9 @@ works:
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: "2020\n\nDiptyque "
-  price: 3500
+  price: 7000
   sold: false
   contextual: false
 - title: Retrouvailles
@@ -139,9 +139,9 @@ works:
   dimensions:
     height: 130
     width: 194
-    depth: 0
+    depth: 
   description: "2020\n\nDiptyque\n\nEn contexte "
-  price: 3500
+  price: 7000
   sold: false
   contextual: false
 - title: Faille
@@ -150,9 +150,9 @@ works:
   dimensions:
     height: 150
     width: 120
-    depth: 0
+    depth: 
   description: "2017"
-  price: 2700
+  price: 5400
   sold: false
   contextual: true
 - title: Faille
@@ -161,12 +161,12 @@ works:
   dimensions:
     height: 150
     width: 120
-    depth: 0
+    depth: 
   description: |-
     2017
 
     En contexte
-  price: 2700
+  price: 5400
   sold: false
   contextual: true
 exhibitions: []
