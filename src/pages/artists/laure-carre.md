@@ -134,6 +134,16 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Un ami la nuit
+  image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "2020"
+  price: 950
+  contextual: true
 - title: Le cheval vert
   image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
   technique: 'Huile sur toile '
