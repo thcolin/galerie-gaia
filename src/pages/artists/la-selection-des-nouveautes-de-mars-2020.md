@@ -90,28 +90,6 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: Parc 2 de Marie Vandooren
-  image: "/forestry/vandoorenmarie.parc2.50x70cm.jpg"
-  technique: Acrylique sur papier
-  dimensions:
-    height: 50
-    width: 70
-    depth: 9
-  description: '[Marie Vandooren](https://galeriegaia.fr/artists/marie-vandooren/
-    "Marie Vandooren")'
-  price: 400
-  contextual: true
-- title: 172J230921 (6/11) de Pierre Muckensturm
-  image: "/forestry/172j230921-611.jpg"
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: '[Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
-    "Pierre Muckensturm")'
-  price: 600
-  contextual: true
-  technique: 'Carborundum et pointe sèche sur cuivre sur papier BFK Rives '
 - title: Ostie de Dimitri Roubichou
   image: "/forestry/DSC_1857 - Copie - Copie.JPG"
   dimensions:
