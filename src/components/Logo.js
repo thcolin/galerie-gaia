@@ -2,15 +2,16 @@ import React from 'react'
 
 const Logo = ({ title, caption, ...props }) => (
   <div css={Logo.styles.element}>
-    <h1>{title}</h1>
+    <p>{title}</p>
     <small>{caption}</small>
   </div>
 )
 
 Logo.styles = {
   element: {
-    h1: {
+    p: {
       margin: 0,
+      padding: 0,
       fontSize: '3.5em',
       lineHeight: 1,
       textAlign: 'left',
