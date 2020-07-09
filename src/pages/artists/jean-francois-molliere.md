@@ -153,8 +153,8 @@ works:
   image: "/forestry/1353.jpg"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 60
-    width: 72
+    height: 72
+    width: 60
     depth: 
   description: ''
   price: ''

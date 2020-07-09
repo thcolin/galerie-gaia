@@ -123,7 +123,7 @@ works:
   description: 'Œuvre encadrée cadre standard aluminium noir '
   price: 150
   sold: false
-  contextual: false
+  contextual: true
 redirect_from:
 - "/artistes/11-stephanie-billarant/"
 

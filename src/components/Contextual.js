@@ -9,17 +9,17 @@ const Contextual = ({ work, ...props }) => {
   }
 
   const sizes = {
-    small: {
-      height: [1, 70],
-      width: [1, 70],
-      ratio: 100,
-      margin: `${35 - (25 * (work.dimensions.height / 70))}% 0 70%`,
-    },
     medium: {
-      height: [71, 165],
+      height: [1, 165],
       width: [1, 132],
       ratio: 170, // (width of the picture in cm)
       margin: `${24 - (12 * ((work.dimensions.height - 70) / (165 - 70)))}% 0 60%`,
+    },
+    small: {
+      height: [1, 70],
+      width: [1, 100],
+      ratio: 100,
+      margin: `${35 - (30 * (work.dimensions.height / 70))}% 0 70%`,
     },
   }
 

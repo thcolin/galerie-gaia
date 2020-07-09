@@ -106,7 +106,7 @@ works:
   description: "Œuvre encadrée dans 2 cadres  aluminium chêne  \n2019"
   price: 230
   sold: false
-  contextual: false
+  contextual: true
 - title: Strates 20
   image: "/forestry/galeriegaia@Seuil-06 @Versants-strates20-70x50cm.jpg"
   technique: Sérigraphie Edition 2/5

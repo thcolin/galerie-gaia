@@ -74,8 +74,8 @@ works:
   image: "/forestry/double-trouble.jpg"
   technique: Sérigraphie sur papier japonais
   dimensions:
-    height: 69
-    width: 114
+    height: 114
+    width: 69
     depth: 
   description: "2017 \n580 € encadrée : baguette aluminium et verre musée"
   price: 

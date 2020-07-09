@@ -407,7 +407,7 @@ works:
   description: "2019"
   price: 200
   sold: false
-  contextual: false
+  contextual: true
 - title: Portrait de Laure Carré
   image: "/forestry/galeriegaia-laure carré portrait.jpeg"
   dimensions:
