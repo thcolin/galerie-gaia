@@ -24,9 +24,8 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   votre lumière vous pourrez choisir en toute confiance.\n\n**2.**  **Paiement de
   \ votre achat**  par virement ou carte bancaire, paiement en plusieurs fois à votre
   rythme, avec la cagnotte de la carte cadeau. Pour les professionnels le financement
-  peut se faire via la défiscalisation ou la location (rubrique prestation - défiscalisation:
-  [https://galeriegaia.fr/about/art-et-fiscalite/](https://galeriegaia.fr/about/art-et-fiscalite/
-  \"Art et fiscalité\"))\n\n**3**. **Livraison possible** dans le monde entier (DHL
+  peut se faire via la défiscalisation ou la location (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
+  \"defiscalisation\")\n\n**3**. **Livraison possible** dans le monde entier (DHL
   - UPS- TNT) sur devis. Tout ce que vous voyez sur le site est **disponible**.  \nPour
   ceux qui sont tout près **Clic & Collect :** réservez et passez à la galerie.\n\n**Depuis
   chez vous ou dans la galerie...**  \n**Venez, entrez et découvrez**  \n**l’évidence**
