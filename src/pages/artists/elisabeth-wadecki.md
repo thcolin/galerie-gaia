@@ -103,7 +103,7 @@ works:
   contextual: true
   technique: 'Acrylique et bâtons d''huile sur toile '
 - title: Terraherba n°15
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-2020-42x42-400.JPG"
   technique: 'Acrylique bâtons d''huile sur carton '
   dimensions:
     height: 28
