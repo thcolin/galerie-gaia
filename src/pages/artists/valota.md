@@ -15,21 +15,21 @@ biography: |-
 
   Depuis 2019, Valota travaille également un nouveau médium, la céramique, qui lui ouvre de nouveaux horizons tant sur la forme que sur les couleurs.
 
-  VALOTA, MON HISTOIRE AVEC LA CÉRAMIQUE
+  VALOTA, SON HISTOIRE AVEC LA CÉRAMIQUE
 
-  La céramique est une extension naturelle de mon travail de sculpteur : que ce soit avec le bronze, la cire ou le goudron, j’ai toujours choisi de créer la fusion par le feu.
+  La céramique est une extension naturelle de son travail de sculpteur : que ce soit avec le bronze, la cire ou le goudron, j’ai toujours choisi de créer la fusion par le feu.
 
-  De même, je « construis » mes pièces en céramique à la main, sans moule ; je crée les formes dans la verticalité en chauffant la terre au chalumeau. J’évite ainsi certaines étapes du processus de séchage, ce qui me permet de laisser plus de place à l’immédiateté, à l’instinct.
+  De même, Valota « construit » ses pièces en céramique à la main, sans moule ; il crée les formes dans la verticalité en chauffant la terre au chalumeau. L’artiste évite ainsi certaines étapes du processus de séchage, ce qui lui permet de laisser plus de place à l’immédiateté, à l’instinct.
 
-  J’ai choisi la faïence pour explorer des formes sensuelles et robustes, et l’émail noir mordoré, bleu, blanc et jaune pour que la lumière vienne rehausser et jouer avec les détails et les ombres des œuvres, laissant l’œil osciller entre l’éclat d’une armure étincelante et les ténèbres des profondeurs.
+  Valota a choisi la faïence pour explorer des formes sensuelles et robustes, et l’émail noir mordoré, bleu, blanc et jaune pour que la lumière vienne rehausser et jouer avec les détails et les ombres des œuvres, laissant l’œil osciller entre l’éclat d’une armure étincelante et les ténèbres des profondeurs.
 
   VALOTA, LES TOURS
 
-  Cette série de céramiques met en scène ma vision des œuvres architecturales en tant que symboles culturels.
+  Cette série de céramiques met en scène sa vision des œuvres architecturales en tant que symboles culturels.
 
   Depuis que l’homme est l’homme, des tours ont été érigées. Elles ont évolué au fil du temps, s’élevant toujours plus haut jusqu’à battre des records, devenant indicatives de normes, symboles d’un talent suprême. Elles représentent l’ascension, la noblesse, la communication.
 
-  Je n’envisage pas mes tours comme des tours défensives mais comme des sources d’ombre et de lumière, des réservoirs de connaissances ouverts au monde. C’est un travail complexe, délicat, minutieux par lequel j’explore l’esprit des constructeurs, des architectes et des structures elles-mêmes.
+  Valota n’envisage pas ses tours comme des tours défensives mais comme des sources d’ombre et de lumière, des réservoirs de connaissances ouverts au monde. C’est un travail complexe, délicat, minutieux par lequel l’artiste explore l’esprit des constructeurs, des architectes et des structures elles-mêmes.
 
   Des portes « secrètes » et des « ouvertures » invitent le spectateur à découvrir les dimensions cachées et à laisser son regard déambuler à l’intérieur et l’extérieur de ces sculptures.
 
@@ -37,19 +37,19 @@ biography: |-
 
   VALOTA, MY STORY WITH CERAMICS
 
-  Ceramics are a natural extension to my sculpture work because I have always chosen to create fusion through bronze, wax and tar and now with ceramics.
+  Ceramics are a natural extension to his sculpture work because he has always chosen to create fusion through bronze, wax and tar and now with ceramics.
 
-  I « build » the ceramic pieces by hand without using moulds. I create the shapes, moving vertically, heating the clay with a blowtorch which allows me to work more instinctively so I can avoid certain steps of the drying process.
+  Valota « builds » the ceramic pieces by hand without using moulds. The artist creates the shapes, moving vertically, heating the clay with a blowtorch which allows him to work more instinctively so he can avoid certain steps of the drying process.
 
-  I have chosen faience to explore strong and sensuous forms and dark bronze, blue, white and yellow glazes so that light enhances and plays with the details and shadows of the work, oscillating between shining armour and dark depths.
+  Valota has chosen faience to explore strong and sensuous forms and dark bronze, blue, white and yellow glazes so that light enhances and plays with the details and shadows of the work, oscillating between shining armour and dark depths.
 
   VALOTA, THE TOWERS SERIES
 
-  This ceramic series stages my vision of architectural works as cultural symbols.
+  This ceramic series stages his vision of architectural works as cultural symbols.
 
   Towers have existed since the beginning of mankind and have evolved over history, growing higher, breaking records, setting standards, symbolizing ultimate skill. They represent elevation, nobility, communication.
 
-  My towers are not intended to be towers of defense, but a source of light and shadow, a library of knowledge open to the world. I explore the notion of the builder, structures and the architect in this intricate, detailed work. Secret doors and openings play between the interior and the exterior inviting the viewer to discover hidden dimensions and « wander » inside and outside the sculptures.
+  His towers are not intended to be towers of defense, but a source of light and shadow, a library of knowledge open to the world. Valota explores the notion of the builder, structures and the architect in this intricate, detailed work. Secret doors and openings play between the interior and the exterior inviting the viewer to discover hidden dimensions and « wander » inside and outside the sculptures.
 
   **Expositions**
 
