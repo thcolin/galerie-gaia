@@ -103,7 +103,7 @@ biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme un
   espace de la mémoire.\n\nToutes ces incursions dans les différentes techniques et
   les champs de création sensiblement mais méthodiquement, explorées constituent  une
   œuvre nouvelle et originale où la volonté intellectuelle règne mais où la main est
-  toujours présente.\n\nDaniel Lacomme\n\nInterview de l'artiste\n\n[galerie-gaia-isthme-interview-entiere.mp4]()"
+  toujours présente.\n\nDaniel Lacomme\n\nInterview de l'artiste"
 exhibitions: []
 works:
 - title: 'Allongée dans l''herbe #3'
@@ -161,6 +161,16 @@ works:
     width: 114
   description: "2020"
   price: 2800
+  contextual: true
+- title: 'Green Rhapsody #7'
+  image: "/forestry/galerie-gaia-isthme-green-rhapsody-collage-7-76x56-2016.jpg"
+  technique: Collage
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: "2016"
+  price: 750
   contextual: true
 - title: 'Green Rhapsody #9'
   dimensions:
