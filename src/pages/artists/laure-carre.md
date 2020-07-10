@@ -188,7 +188,7 @@ works:
     2020
 
     Encadrement chêne 40€
-  price: 309
+  price: 300
   contextual: true
 - title: 'La chaise cheval '
   image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
