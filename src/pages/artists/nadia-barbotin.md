@@ -5,7 +5,7 @@ location: Nantes
 field: Peinture
 birth: ''
 death: ''
-expose: false
+expose: true
 biography: |-
   Sa démarche artistique
 
