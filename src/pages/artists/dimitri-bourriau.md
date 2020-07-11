@@ -17,7 +17,7 @@ exhibitions: []
 works:
 - title: Atlantis Teatro
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
-  technique: Tirage Argentique, contrecollé sur Dibond
+  technique: Tirage Argentique, contrecollé sur Dibon
   dimensions:
     height: 100
     width: 159

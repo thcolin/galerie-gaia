@@ -246,15 +246,6 @@ works:
   description: "2020"
   price: 1800
   contextual: true
-- title: Jackie
-  image: "/forestry/galeriegaia@laurecarre-jackie-26X35-0320.jpeg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 35
-    width: 26
-  description: "2020"
-  price: 350
-  contextual: true
 - title: Jean Genet
   image: "/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
   technique: 'Huile sur toile '
