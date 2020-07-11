@@ -19,8 +19,8 @@ works:
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibond
   dimensions:
-    height: 80
-    width: 120
+    height: 100
+    width: 159
     depth: 
   description: "Tirage à 15 exemplaires  \nprix sur demande\n\nHistoire d'une photographie
     \n\n\"Début 2020, lors d'une discussion avec un architecte, celui-ci m'évoque
