@@ -57,7 +57,7 @@ works:
   description: "2020"
   price: 5000
   sold: false
-  contextual: false
+  contextual: true
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
   technique: Technique mixte
@@ -132,7 +132,7 @@ works:
   description: "2020\n\nDiptyque "
   price: 7000
   sold: false
-  contextual: false
+  contextual: true
 - title: Retrouvailles
   image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
   technique: Technique mixte
@@ -169,6 +169,17 @@ works:
   price: 5400
   sold: false
   contextual: true
+- title: 'Portrait '
+  image: "/forestry/photo-profil-bnw-2018.jpg"
+  technique: ''
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 exhibitions: []
 
 ---
