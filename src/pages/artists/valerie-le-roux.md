@@ -95,7 +95,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: "866"
+- title: Trio
   image: "/forestry/866.jpg"
   technique: Sérigraphie
   dimensions:
@@ -106,7 +106,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: "865"
+- title: Ban
   image: "/forestry/865.jpg"
   technique: Sérigraphie
   dimensions:
