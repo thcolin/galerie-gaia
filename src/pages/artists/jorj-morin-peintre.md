@@ -178,7 +178,7 @@ works:
   sold: false
   contextual: true
 - title: Vis a vis
-  image: "/forestry/1326.jpg"
+  image: "/forestry/galeriegaia_morin_visavis-1979-_61x50-01.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 61
