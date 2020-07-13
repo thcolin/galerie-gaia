@@ -9,6 +9,16 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Le profond par Franco Salas Borquez
+  image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 100
+    width: 65
+    depth: 0
+  description: "2019"
+  price: 2900
+  contextual: true
 - title: Grès 5 par Jacqueline Pécantet
   image: "/forestry/galeie-gaia-jacqueline-pecantet-gres4.jpg"
   technique: Crin de cheval sur grès, poli au galet
