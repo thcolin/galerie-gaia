@@ -9,6 +9,36 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Grès 13
+  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-13.JPG"
+  technique: Crin de cheval au grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2020"
+  price: 140
+  contextual: false
+- title: Grès 12
+  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-12.JPG"
+  technique: Crin de cheval au grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2020"
+  price: 80
+  contextual: false
+- title: Grès 11
+  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG"
+  technique: Crin de cheval au grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2020"
+  price: 180
+  contextual: false
 - title: Grès 10
   image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-10.JPG"
   technique: Crin de cheval au grès poli au galet

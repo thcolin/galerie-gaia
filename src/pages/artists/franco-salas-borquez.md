@@ -21,6 +21,16 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Le profond
+  image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
+  technique: Huile sur toile
+  dimensions:
+    height: 100
+    width: 65
+    depth: 0
+  description: "2019"
+  price: 2900
+  contextual: true
 - title: La cime
   image: "/forestry/galerie-gaia-franco-salas-borquez-la-cime-100x100.jpg"
   technique: Huile sur toile
