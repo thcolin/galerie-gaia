@@ -104,7 +104,6 @@ biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme un
   les champs de création sensiblement mais méthodiquement, explorées constituent  une
   œuvre nouvelle et originale où la volonté intellectuelle règne mais où la main est
   toujours présente.\n\nDaniel Lacomme\n\n[galerie-gaia-isthme-interview-entiere.mp4](/forestry/galerie-gaia-isthme-interview-entiere.mp4
-  \"galerie-gaia-isthme-interview-entiere.mp4\")\n\n[galerie-gaia-isthme-interview-entiere.mp4](/forestry/galerie-gaia-isthme-interview-entiere.mp4
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:

@@ -52,15 +52,32 @@ const compile = marksy({
     td: ({ children }) => (
       <td>{children}</td>
     ),
-    a: ({ children, href, context, ...props }) => href.charAt(0) === '/' ? (
-      <Link to={href} {...props}>
-        {children}
-      </Link>
-    ) : (
-      <a href={href} target='_blank' rel='noopener noreferrer' {...props}>
-        {children}
-      </a>
-    ),
+    a: ({ children, href, context, ...props }) => {
+      if (['mp4'].includes(href.split('.').pop())) {
+        return (
+          <span style={{ display: 'flex', justifyContent: 'center' }}>
+            <video controls={true}>
+              <source src={href} />
+              Désolé, votre navigateur ne semble pas supporter le format de cette vidéo, essayez d'utiliser un navigauteur récent tel que <a href="https://www.mozilla.org/fr/firefox/new/">Firefx</a>.
+            </video>
+          </span>
+        )
+      }
+
+      if (href.charAt(0) === '/') {
+        return (
+          <Link to={href} {...props}>
+            {children}
+          </Link>
+        )
+      }
+
+      return (
+        <a href={href} target='_blank' rel='noopener noreferrer' {...props}>
+          {children}
+        </a>
+      )
+    },
     strong: ({ children }) => (
       <strong>{children}</strong>
     ),
@@ -99,6 +116,10 @@ RichText.styles = {
     a: {
       textDecoration: 'underline',
     },
+    video: {
+      width: '100%',
+      maxWidth: '20rem',
+    }
   },
 }
 
