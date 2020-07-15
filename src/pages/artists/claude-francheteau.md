@@ -29,6 +29,36 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: Ciel 2059
+  image: "/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: Ciel 2009
+  image: "/forestry/galerie-gaia-claude-francheteau-ciel-2009-38x48.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 38
+    width: 48
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: Ciel 190
+  image: "/forestry/galerie-gaia-claude-francheteau-ciel-190-100x50.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 100
+    width: 50
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
 - title: Ciel 149
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-149-48x68.jpg"
   technique: Acrylique sur toile
