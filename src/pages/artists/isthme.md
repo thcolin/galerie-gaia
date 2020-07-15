@@ -103,7 +103,9 @@ biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme un
   espace de la mémoire.\n\nToutes ces incursions dans les différentes techniques et
   les champs de création sensiblement mais méthodiquement, explorées constituent  une
   œuvre nouvelle et originale où la volonté intellectuelle règne mais où la main est
-  toujours présente.\n\nDaniel Lacomme\n\nInterview de l'artiste"
+  toujours présente.\n\nDaniel Lacomme\n\n[galerie-gaia-isthme-interview-entiere.mp4](/forestry/galerie-gaia-isthme-interview-entiere.mp4
+  \"galerie-gaia-isthme-interview-entiere.mp4\")\n\n[galerie-gaia-isthme-interview-entiere.mp4](/forestry/galerie-gaia-isthme-interview-entiere.mp4
+  \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
 - title: 'Allongée dans l''herbe #3'
