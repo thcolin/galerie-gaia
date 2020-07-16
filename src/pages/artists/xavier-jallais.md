@@ -55,8 +55,8 @@ works:
     height: 46
     width: 
     depth: 
-  description: 2019 230€
-  price: 
+  description: '2019 '
+  price: 230
   sold: false
   contextual: true
 - title: Automorphie Structure tridimensionnelle 2
@@ -80,7 +80,7 @@ works:
     width: 
     depth: 
   description: ''
-  price: 
+  price: 3500
   sold: false
   contextual: true
 - title: Le défi de Thésée (2/11)
@@ -90,8 +90,8 @@ works:
     height: 50
     width: 
     depth: 
-  description: "2019 230\t€"
-  price: 
+  description: '2019 '
+  price: 230
   sold: false
   contextual: true
 - title: Cerf 1 (4/7)
@@ -112,8 +112,8 @@ works:
     height: 46
     width: 
     depth: 
-  description: 2019 230€
-  price: 
+  description: '2019 '
+  price: 230
   sold: false
   contextual: true
 - title: Atlas 3 (3/3)
