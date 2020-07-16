@@ -41,6 +41,26 @@ exhibitions:
   start: "2015"
   end: "2015"
 works:
+- title: Ville rêvée n°21
+  image: "/forestry/galerie-gaia-stephanie-billarant-ville-revee-n21.jpeg"
+  technique: 'Création photographie Edition en 30 exemplaires '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2020"
+  price: 150
+  contextual: true
+- title: Ville rêvée n°20
+  image: "/forestry/galerie-gaia-stephanie-billarant-ville-revee-n20.jpeg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2020"
+  price: 150
+  contextual: true
+  technique: 'Création photographie Edition en 30 exemplaires '
 - title: Villes rêvées N°18
   image: "/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
   technique: Création photographie Edition en 30 exemplaires
