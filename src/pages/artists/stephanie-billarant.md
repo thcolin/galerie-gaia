@@ -6,22 +6,37 @@ field: Peinture / Photo
 birth: "0"
 death: "0"
 expose: true
-biography: "Stéphanie Billarant, née à Nantes, présente un parcours d’artiste peintre
-  photographe aux orientations fécondes.\n\nElle obtient un BA communication et art
-  (Wake Forest university – Winston Salem N.C.) ; elle y apprend les arts graphiques
-  – sérigraphie, sculpture, gravure - la réalisation de courts métrages, le montage,
-  mais aussi le théâtre et la danse, le piano et le chant. Ce sont les arts du spectacle
-  qui forgeront ses premières sensibilités artistiques.\n\nA vingt ans la peinture
-  s’impose comme une évidence. Commence un long parcours où elle apprend et maîtrise
-  les techniques de la figuration, mais part assez vite vers des mondes plus étrangers,
-  d’où elle va peu à peu faire émerger sa surréalité.\n\nAujourd’hui son œuvre s’est
-  enrichie de toutes ces travées. Elle garde du spectacle le goût pour le mouvement
-  qui va s’exprimer par la découverte de la photographie en 2007. Le medium lui permet
-  d’aboutir sa réflexion sur la perte des repères. \n\nSes photographies initient
-  un parcours dans ces parts de réel qu’elle refuse de nommer.\n\nSon travail en photo
-  a considérablement influencé ses productions picturales. Elle découvre l’encre,
-  explore sa matière, projette des mondes ramifiés qui plongent l’œil dans un vertige
-  figuratif, avant de revenir à une peinture nouvelle, nourrie de toutes ces passerelles."
+biography: "**Nantes, ville de rêve ou ville rêvée ?**\n\nStéphanie Billarant est
+  une rêveuse éveillée qui promène son regard sur le monde et transfigure la banalité
+  du quotidien en provoquant des collisions entre des éléments qui dans le réel, sous
+  réserve que le réel existe, ne se rejoignent jamais. Elle renoue ainsi avec la pratique
+  du photomontage surréaliste : de la collision / collusion d’objets nait une poésie
+  étrange, interrogatrice, dérangeante.  \n Cette pratique était déjà présente dans
+  ses travaux photographiques précédents : de grandes photos ou le réel à force d’être
+  manipulé devenait totalement abstrait. Ici point d’abstraction mais une figuration
+  libérée de toute contrainte spatiotemporelle : la ville éclatée se recompose au
+  gré de la fantaisie et du désir de l’artiste.  \n La Nantes de Stéphanie Billarant
+  est « Belle (de)la rencontre fortuite... » d’éléments éclectiques et à jamais étrangers
+  dans la réalité. C’est la Nantes des Surréalistes « la seule ville où j’ai l’impression
+  que peut m’arriver quelque chose qui en vaut la peine » écrivait André Breton.  \n
+  C’est celle qui sera le ferment de l’univers Vernien : Nantes, port de départ des
+  voyages extraordinaires. Nantes, ville qui a nourri l’imagination du petit Jules
+  qui, sur la Butte Saint Anne, regarde encore s’en aller les trois-mâts porteurs
+  de ses rêves.\n\nNorbert Marsal\n\nStéphanie Billarant, née à Nantes, présente un
+  parcours d’artiste peintre photographe aux orientations fécondes.\n\nElle obtient
+  un BA communication et art (Wake Forest university – Winston Salem N.C.); elle y
+  apprend les arts graphiques – sérigraphie, sculpture, gravure - la réalisation de
+  courts métrages, le montage, mais aussi le théâtre et la danse, le piano et le chant.
+  Ce sont les arts du spectacle qui forgeront ses premières sensibilités artistiques.\n\nA
+  vingt ans la peinture s’impose comme une évidence. Commence un long parcours où
+  elle apprend et maîtrise les techniques de la figuration, mais part assez vite vers
+  des mondes plus étrangers, d’où elle va peu à peu faire émerger sa surréalité.\n\nAujourd’hui
+  son œuvre s’est enrichie de toutes ces travées. Elle garde du spectacle le goût
+  pour le mouvement qui va s’exprimer par la découverte de la photographie en 2007.
+  À travers une approche expérimentale, Stéphanie Billarant, photographe, découvreuse
+  de technique, confie son travail comme un voyage au-delà des repères et interroge
+  la vision. Ses photographies initient un parcours dans ces parts de réel qu’elle
+  refuse de nommer."
 exhibitions:
 - title: G a l e r i e  G a ï a
   location: Nantes
