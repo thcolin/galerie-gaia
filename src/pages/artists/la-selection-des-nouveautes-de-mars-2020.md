@@ -60,7 +60,7 @@ works:
     width: 91
     depth: 0
   description: ''
-  price: 1400
+  price: 2800
   contextual: true
 - title: Les oiseaux de Trévise par Patrick Guéguen
   image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
