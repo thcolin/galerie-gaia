@@ -37,7 +37,7 @@ works:
     width: 50
     depth: 0
   description: "2020"
-  price: 0
+  price: 750
   contextual: true
 - title: Ciel 2009
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-2009-38x48.jpg"
@@ -47,7 +47,7 @@ works:
     width: 48
     depth: 0
   description: "2020"
-  price: 0
+  price: 680
   contextual: true
 - title: Ciel 190
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-190-100x50.jpg"
@@ -57,7 +57,7 @@ works:
     width: 50
     depth: 0
   description: "2020"
-  price: 0
+  price: 1500
   contextual: true
 - title: Ciel 149
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-149-48x68.jpg"
@@ -67,7 +67,7 @@ works:
     width: 68
     depth: 0
   description: "2020"
-  price: 0
+  price: 1000
   contextual: true
 - title: Ciel 116
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-116-100x50.jpg"
@@ -77,7 +77,7 @@ works:
     width: 50
     depth: 0
   description: "2020"
-  price: 0
+  price: 1500
   contextual: true
 - title: Ciel 004
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-004-50x50.jpg"
@@ -86,7 +86,7 @@ works:
     width: 50
     depth: 0
   description: "2020"
-  price: 0
+  price: 750
   contextual: true
   technique: Acrylique sur toile
 - title: CIEL 2067

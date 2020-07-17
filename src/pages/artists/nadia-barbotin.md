@@ -124,10 +124,10 @@ works:
   contextual: true
 - title: Retrouvailles
   image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
-  technique: 'Technique mixte '
+  technique: Huile sur toile
   dimensions:
-    height: 120
-    width: 120
+    height: 130
+    width: 194
     depth: 
   description: "2020\n\nDiptyque "
   price: 7000
@@ -173,9 +173,9 @@ works:
   image: "/forestry/photo-profil-bnw-2018.jpg"
   technique: ''
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
