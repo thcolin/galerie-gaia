@@ -1,6 +1,6 @@
 ---
 template: artist
-title: La Sélection des nouveautés de Juillet  2020
+title: La Sélection des nouveautés de l'été 2020
 location: ''
 field: Evenement
 birth: "0"
@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Sélection des nouveautés  2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: Le profond par Franco Salas Borquez
   image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
   technique: Huile sur toile
@@ -94,11 +99,6 @@ works:
   description: '[Sébastien Bouchard](https://galeriegaia.fr/artists/sebastien-bouchard/
     "galerie gaia sébastien bouchard")'
   price: 3000
-  contextual: true
-- title: Sélection des nouveautés Juin 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
   contextual: true
 - title: Ostie de Dimitri Roubichou
   image: "/forestry/DSC_1857 - Copie - Copie.JPG"
