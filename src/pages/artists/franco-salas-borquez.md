@@ -21,6 +21,15 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Vague hurlante
+  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
+  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
+    "video vague hurlante") '
+  price: 3000
+  dimensions:
+    height: 81
+    width: 130
+  contextual: true
 - title: Le profond
   image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
   technique: Huile sur toile
@@ -40,15 +49,6 @@ works:
     depth: 0
   description: Vendue
   price: 3200
-  contextual: true
-- title: Vague hurlante
-  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
-  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
-    "video vague hurlante") '
-  price: 3000
-  dimensions:
-    height: 81
-    width: 130
   contextual: true
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"

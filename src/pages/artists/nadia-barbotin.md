@@ -25,6 +25,17 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: Retrouvailles
+  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
+  technique: Huile sur toile
+  dimensions:
+    height: 130
+    width: 194
+    depth: 
+  description: "2020\n\nDiptyque "
+  price: 7000
+  sold: false
+  contextual: true
 - title: 'Vibrations '
   image: "/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
   technique: Huile
@@ -96,7 +107,7 @@ works:
     En contexte
   price: 2800
   sold: false
-  contextual: true
+  contextual: false
 - title: Rock
   image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
   technique: Huile
@@ -121,18 +132,7 @@ works:
     En contexte
   price: 5000
   sold: false
-  contextual: true
-- title: Retrouvailles
-  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
-  technique: Huile sur toile
-  dimensions:
-    height: 130
-    width: 194
-    depth: 
-  description: "2020\n\nDiptyque "
-  price: 7000
-  sold: false
-  contextual: true
+  contextual: false
 - title: Retrouvailles
   image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
   technique: Technique mixte
@@ -168,7 +168,7 @@ works:
     En contexte
   price: 5400
   sold: false
-  contextual: true
+  contextual: false
 - title: 'Portrait '
   image: "/forestry/photo-profil-bnw-2018.jpg"
   technique: ''
