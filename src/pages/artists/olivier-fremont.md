@@ -24,7 +24,7 @@ exhibitions: []
 works:
 - title: 'Sans titre '
   image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-5.jpg"
-  technique: Métal soudé vernis
+  technique: Métal soudé vernis sur socle wengé
   dimensions:
     height: 35
     width: 30
@@ -34,12 +34,12 @@ works:
   contextual: false
 - title: Sans titre
   image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-3.jpg"
-  technique: Bronze
+  technique: Métal soudé vernis sur socle wengé
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
+    height: 30
+    width: 34
+    depth: 15
+  description: "2020"
   price: 1600
   contextual: true
 - title: 'Sans titre '
