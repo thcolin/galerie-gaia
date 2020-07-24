@@ -45,13 +45,13 @@ works:
 - title: 'Sans titre '
   image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
+    height: 31
+    width: 39
+    depth: 28
+  description: "2020"
   price: 1800
-  contextual: true
-  technique: Bronze
+  contextual: false
+  technique: Métal soudé vernis sur socle wengé
 - title: Compression
   image: "/forestry/Compression 70x70x30 tirage bronze I  sur VIII 9000 €.jpg"
   technique: Bronze 1/8
