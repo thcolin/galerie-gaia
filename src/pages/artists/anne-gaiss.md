@@ -42,21 +42,21 @@ works:
   contextual: true
 - title: Rivage
   image: "/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
-  technique: 'Papier '
+  technique: 'Papier brut couleur blanche naturelle incision au scalpel '
   dimensions:
-    height: 84
-    width: 64
+    height: 70
+    width: 50
     depth: 0
   description: ''
-  price: 2900
+  price: 2200
   contextual: true
 - title: Empreinte
   dimensions:
-    height: 0
-    width: 0
+    height: 70
+    width: 50
     depth: 0
   description: ''
-  price: 0
+  price: 2200
   contextual: true
   image: "/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
 - title: Nigredo
@@ -72,7 +72,7 @@ works:
   contextual: true
 - title: Rubedo
   image: "/forestry/RUBEDOV2.jpg"
-  technique: IIncisions au scalpel sur feuille de cuivre marouflée sur papier traditionnel
+  technique: Incisions au scalpel sur feuille de cuivre marouflée sur papier traditionnel
     indien
   dimensions:
     height: 50
