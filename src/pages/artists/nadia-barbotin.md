@@ -71,16 +71,13 @@ works:
   contextual: true
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
-  technique: Technique mixte
+  technique: Huile sur toile et techniques mixtes
   dimensions:
     height: 120
     width: 120
     depth: 
-  description: |-
-    2020
-
-    En contexte
-  price: 5000
+  description: "En contexte   \n2020"
+  price: 4000
   sold: false
   contextual: false
 - title: 'Transparences blanches '
