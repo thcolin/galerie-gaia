@@ -100,7 +100,26 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
-- title: 'Tour mordorée '
+- title: Tour morodrée noire
+  image: "/forestry/valota-tour-noir-mordore-hauteur-57cm-diametre-42cm-ceramique-2019.jpg"
+  technique: Céramique
+  dimensions:
+    height: 57
+    width: 42
+    depth: 42
+  description: "2020  \nDepuis que l’homme est l’homme, des tours ont été érigées.
+    Elles ont évolué au fil du temps, s’élevant toujours plus haut jusqu’à battre
+    des records, devenant indicatives de normes, symboles d’un talent suprême. Elles
+    représentent l’ascension, la noblesse, la communication.\n\nValota n’envisage
+    pas ses tours comme des tours défensives mais comme des sources d’ombre et de
+    lumière, des réservoirs de connaissances ouverts au monde. C’est un travail complexe,
+    délicat, minutieux par lequel l’artiste explore l’esprit des constructeurs, des
+    architectes et des structures elles-mêmes.\n\nDes portes « secrètes » et des «
+    ouvertures » invitent le spectateur à découvrir les dimensions cachées et à laisser
+    son regard déambuler à l’intérieur et l’extérieur de ces sculptures."
+  price: 3000
+  contextual: false
+- title: Tour mordorée noire
   image: "/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg"
   technique: Céramique
   dimensions:
@@ -160,16 +179,6 @@ works:
   description: "encadrement noir mis sous verre  \n2020"
   price: 580
   contextual: true
-- title: Arche de Noé 2
-  image: "/forestry/galerie-gaia-valota-arche-de-noe-2-30-5x39x21.jpg"
-  technique: 'Céramique '
-  dimensions:
-    height: 30.5
-    width: 39
-    depth: 21
-  description: "2020"
-  price: ''
-  contextual: false
 - title: 'Portrait de Valota '
   image: "/forestry/galerie-gaia-VALOTA -portrait.jpg"
   dimensions:
