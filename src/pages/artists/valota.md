@@ -106,29 +106,29 @@ works:
   dimensions:
     height: 57
     width: 42
-    depth: 0
+    depth: 42
   description: "2020"
-  price: 0
+  price: 3000
   contextual: false
 - title: Quiet days under the trees 13
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg"
-  technique: Cire et pigments de bois
+  technique: Cire et pigments sur bois
   dimensions:
     height: 135
     width: 110
     depth: 0
-  description: "2020"
-  price: 0
+  description: "Oeuvre encadrée caisse americaine bois brut  \n2020"
+  price: 6000
   contextual: true
 - title: Quiet days under the trees 6
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg"
-  technique: Cire et pigments de bois
+  technique: Cire et pigments sur bois
   dimensions:
     height: 73
     width: 60
     depth: 0
-  description: "2020"
-  price: 0
+  description: "encadrement caisse americaine bois brut  \n2020"
+  price: 2800
   contextual: true
 - title: Quiet days under the trees 5
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-5-65x50.jpg"
