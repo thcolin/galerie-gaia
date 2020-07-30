@@ -82,7 +82,7 @@ works:
   contextual: false
 - title: 'Transparences blanches '
   image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
-  technique: Huile
+  technique: Huile sur toile
   dimensions:
     height: 91
     width: 91
