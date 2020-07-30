@@ -98,10 +98,7 @@ works:
     height: 91
     width: 91
     depth: 
-  description: |-
-    2019
-
-    En contexte
+  description: "En contexte  \n2019"
   price: 2800
   sold: false
   contextual: false
@@ -113,7 +110,7 @@ works:
     width: 120
     depth: 
   description: "2016"
-  price: 5000
+  price: 4000
   sold: false
   contextual: true
 - title: Rock
@@ -132,38 +129,35 @@ works:
   contextual: false
 - title: Retrouvailles
   image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
-  technique: Technique mixte
+  technique: Huile sur toile et Techniques mixtes
   dimensions:
     height: 130
     width: 194
     depth: 
-  description: "2020\n\nDiptyque\n\nEn contexte "
-  price: 7000
+  description: "Diptyque en contexte  \n2020"
+  price: 5200
   sold: false
   contextual: false
 - title: Faille
   image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg"
-  technique: Huile
+  technique: Huile sur toile
   dimensions:
     height: 150
     width: 120
     depth: 
   description: "2017"
-  price: 5400
+  price: 4400
   sold: false
   contextual: true
 - title: Faille
   image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
-  technique: 'Huile '
+  technique: Huile sur toile
   dimensions:
     height: 150
     width: 120
     depth: 
-  description: |-
-    2017
-
-    En contexte
-  price: 5400
+  description: "En contexte  \n2017"
+  price: 4400
   sold: false
   contextual: false
 - title: 'Portrait '
