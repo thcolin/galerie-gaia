@@ -94,8 +94,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
-  price: 0
+  description: '[vidéo de l''exposition](https://www.youtube.com/watch?v=8JP9GPVnTao
+    "video expo salas borquez st malo")'
+  price: ''
   contextual: true
 - title: l ocean aveugle
   image: "/forestry/l-ocean-aveugle.jpg"
