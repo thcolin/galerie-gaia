@@ -56,18 +56,15 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: |2-
-
-    [Vidéo exposition Le Sillage St Malo](https://galeriegaia.fr/forestry/galeriegaia-Franco Salas Borquez Expo Saint-Malo V.m4v "video Franco Franco Salas Borquez")
-  price: 0
+  description: ''
+  price: ''
   contextual: true
 - title: L'équilibre
   technique: 'Huile sur toile '
   dimensions:
     height: 100
     width: 100
-  description: "Vendue  \n[vidéo L'équilibre](https://galeriegaia.fr/forestry/galeriegaia@salasborquez-equilibre.mp4
-    \"vidéo l'équilibre\")"
+  description: Vendue
   price: 3200
   contextual: true
   image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
@@ -79,7 +76,7 @@ works:
     width: 0
     depth: 0
   description: ''
-  price: 0
+  price: ''
   contextual: true
 - title: 'Dessin '
   image: "/forestry/galeriegaia_SalasBorques_titre_format 50X70.jpeg"
@@ -129,18 +126,7 @@ works:
     height: 200
     width: 190
     depth: 
-  description: prix sur demande
-  price: 
-  sold: false
-  contextual: true
-- title: le profond
-  image: "/forestry/le-profond.jpg"
-  technique: huile sur toile 2016
-  dimensions:
-    height: 190
-    width: 200
-    depth: 
-  description: prix sur demande
+  description: ''
   price: 
   sold: false
   contextual: true
