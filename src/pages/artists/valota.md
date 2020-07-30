@@ -186,7 +186,7 @@ works:
     width: 0
     depth: 0
   description: ''
-  price: 0
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/4-valota/"

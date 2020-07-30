@@ -32,13 +32,13 @@ works:
     height: 130
     width: 194
     depth: 
-  description: "2020\n\nDiptyque "
-  price: 7000
+  description: "Diptyque   \n2020"
+  price: 5200
   sold: false
   contextual: true
 - title: 'Vibrations '
   image: "/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
-  technique: Huile
+  technique: Huile sur toile
   dimensions:
     height: 116
     width: 89
@@ -49,7 +49,7 @@ works:
   contextual: true
 - title: Traces
   image: "/forestry/galerie-gaia-barbotin-nadia-traces-116x89.jpeg"
-  technique: Huile
+  technique: Huile sur toile
   dimensions:
     height: 116
     width: 89
@@ -60,13 +60,13 @@ works:
   contextual: true
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
-  technique: 'Technique mixte '
+  technique: 'Huile sur toile et techniques mixtes '
   dimensions:
     height: 120
     width: 120
     depth: 
   description: "2020"
-  price: 5000
+  price: 4000
   sold: false
   contextual: true
 - title: Freedom
