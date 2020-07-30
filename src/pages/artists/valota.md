@@ -109,7 +109,7 @@ works:
     depth: 0
   description: "2020"
   price: 0
-  contextual: true
+  contextual: false
 - title: Quiet days under the trees 13
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg"
   technique: Cire et pigments de bois
