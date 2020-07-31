@@ -39,14 +39,14 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
 exhibitions:
 - {}
 works:
-- title: 'James '
+- title: James le cocker anglais
   image: "/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
-  technique: bronze Fonderie Paumelle
+  technique: 'bronze '
   dimensions:
     height: 50
     width: 40
     depth: 46
-  description: "Le cocker anglais   \nSérie limitée "
+  description: "Fonderie Paumelle  \nSérie limitée"
   price: 5900
   contextual: true
 - title: Omer Le Dog Allemand
@@ -70,7 +70,7 @@ works:
   price: 7000
   sold: false
   contextual: false
-- title: Stan
+- title: Stan le bouledog anglais
   technique: 'Bronze '
   dimensions:
     height: 25
