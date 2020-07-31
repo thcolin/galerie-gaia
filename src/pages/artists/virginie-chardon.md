@@ -39,6 +39,16 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
 exhibitions:
 - {}
 works:
+- title: 'James '
+  image: "/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
+  technique: bronze Fonderie Paumelle
+  dimensions:
+    height: 50
+    width: 40
+    depth: 46
+  description: "Le cocker anglais   \nSérie limitée "
+  price: 5900
+  contextual: true
 - title: Omer Le Dog Allemand
   image: "/forestry/galerie-gaia-virginie-chardon-omer-2.jpg"
   technique: 'Bronze '
@@ -111,7 +121,7 @@ works:
     width: 0
     depth: 0
   description: ''
-  price: 0
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/95-virginie-chardon/"
