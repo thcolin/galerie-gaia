@@ -405,8 +405,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: 'vidéo Laure création toile Viva La Muerte '
-  price: 0
+  description: '[Interview Décadrée de Laure Carré par la Galerie Gaia](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=20s
+    "interview laure carré par elisabeth givre ")'
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/76-laure-carre/"
