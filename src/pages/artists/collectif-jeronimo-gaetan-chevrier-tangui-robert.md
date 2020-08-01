@@ -6,7 +6,9 @@ field: sérigraphie
 birth: "0"
 death: "0"
 expose: true
-biography: "VERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Tangui
+biography: "Vidéo de l'[Interview Décadrée de la Galerie Gaïa](https://www.youtube.com/watch?v=DxkvbjnGL4E
+  \"interview galerie gaia tangui robert jerome maillet gaetan chevrier\") : Projets
+  Versants\n\nVERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Tangui
   Robert, Jérôme Maillet et Gaëtan Chevrier se sont réunis pour créer ensemble autour
   d’un espace construit et façonné par l’homme : La carrière.Depuis leur rencontre,
   ils explorent différents lieux d’extractions. Autant de manières, de matières, de

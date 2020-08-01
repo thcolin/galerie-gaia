@@ -7,24 +7,28 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   1985 Norbert Marsal acquiert la galerie et développe la partie encadrement. En 1999
   L’Affiche devient la galerie Arts Pluriels. Suit alors une programmation d’œuvres
   contemporaines abstraites. Ainsi alternent des artistes confirmés et des expositions
-  de Villeglé, Hartung, Corneille, Combas, Bram Van Velde , Alechinsky… et des artistes
-  dont l’œuvre est en devenir.\n\n**En 2015 Elisabeth Givre** prolonge l’aventure
-  et ancre avec la **Galerie Gaïa**, l’art contemporain comme la véritable empreinte
-  de ce lieu situé dans le cœur historique de la ville de Nantes, le quartier Decré.\n\nLes
-  héritiers de Jorj Morin célèbre publicitaire nantais, peintre et graveur nous honorent
-  de leur confiance. Ainsi ses gravures, peintures, stèles et tapisseries sont exposées
+  de [Villeglé](/artists/estampes/ \"Villegle\"), Hartung, Corneille, [Combas](/artists/combas/
+  \"combas\"), [Bram Van Velde](/artists/bram-van-velde/ \"bram van velde\") , [Alechinsky](/artists/estampes/
+  \"Alechinsky\")… et des artistes dont l’œuvre est en devenir.\n\n**En 2015 Elisabeth
+  Givre** prolonge l’aventure et ancre avec la **Galerie Gaïa**, l’art contemporain
+  comme la véritable empreinte de ce lieu situé dans le cœur historique de la ville
+  de Nantes, le quartier Decré.\n\nLes héritiers de [Jorj Morin](/artists/jorj-morin-peintre/
+  \"Jorj Morin\") célèbre publicitaire nantais, peintre et graveur nous honorent de
+  leur confiance. Ainsi ses gravures, peintures, stèles et tapisseries sont exposées
   et disponibles à la vente en exclusivité à la galerie.\n\n6-8 expositions en solo-show
   alternent dans l'année avec des expositions collectives montrant simultanément des
   peintures, sculptures, photographies, dessins, gravures, lithographies, sérigraphies,
-  céramiques et objets uniques de designer sélectionnés avec attention.\n\nVous avez
-  trouvé une œuvre sur le site qui vous plait et vous hésitez ?  \nComment financer
-  votre achat ?  \nLes livraisons sont-elles possibles partout ?\n\nUn crédo : **simplicité
-  et confiance !**\n\n**1.  Essayer l’œuvre chez vous** pendant une semaine contre
-  un chèque de caution de son montant. Ainsi tranquillement dans votre espace, avec
-  votre lumière vous pourrez choisir en toute confiance.\n\n**2.**  **Paiement de
-  \ votre achat**  par virement ou carte bancaire, paiement en plusieurs fois à votre
-  rythme, avec la cagnotte de la carte cadeau. Pour les professionnels le financement
-  peut se faire via la défiscalisation ou la location (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
+  céramiques et objets uniques de designer sélectionnés avec attention.\n\n[Interview
+  par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
+  \"interview elisabeth givre \")\n\nVous avez trouvé une œuvre sur le site qui vous
+  plait et vous hésitez ?  \nComment financer votre achat ?  \nLes livraisons sont-elles
+  possibles partout ?\n\nUn crédo : **simplicité et confiance !**\n\n**1.  Essayer
+  l’œuvre chez vous** pendant une semaine contre un chèque de caution de son montant.
+  Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir
+  en toute confiance.\n\n**2.**  **Paiement de  votre achat**  par virement ou carte
+  bancaire, paiement en plusieurs fois à votre rythme, avec la cagnotte de la carte
+  cadeau. Pour les professionnels le financement peut se faire via la défiscalisation
+  ou la location (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
   \"defiscalisation\")\n\n**3**. **Livraison possible** dans le monde entier (DHL
   - UPS- TNT) sur devis. Tout ce que vous voyez sur le site est **disponible**.  \nPour
   ceux qui sont tout près **Clic & Collect :** réservez et passez à la galerie.\n\n**Depuis
