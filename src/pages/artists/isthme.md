@@ -285,7 +285,7 @@ works:
     height: 146
     width: 114
   description: "2016"
-  price: 2800
+  price: 3200
   contextual: true
 - title: Venise, un matin
   image: "/forestry/venise-un-matin.jpg"
@@ -295,7 +295,7 @@ works:
     width: 114
     depth: 
   description: "2019"
-  price: 2800
+  price: 3200
   sold: false
   contextual: true
 - title: 'Installation Nuits en mer #24 '
@@ -319,7 +319,7 @@ works:
     width: 114
     depth: 
   description: '2019  '
-  price: 2800
+  price: 3200
   sold: false
   contextual: true
 - title: 'Black Rhapsody #14'
