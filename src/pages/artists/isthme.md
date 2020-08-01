@@ -388,7 +388,7 @@ works:
     height: 
     width: 
     depth: 
-  description: "[video]()"
+  description: ''
   price: 
   sold: false
   contextual: true
