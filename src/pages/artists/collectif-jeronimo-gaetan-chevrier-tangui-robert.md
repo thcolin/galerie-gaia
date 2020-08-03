@@ -29,7 +29,17 @@ biography: "Vidéo de l'[Interview Décadrée de la Galerie Gaïa](https://www.y
   croiser leur production respective."
 exhibitions: []
 works:
-- title: Fresque Versants
+- title: Versants fresque II
+  image: "/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png"
+  technique: 'Peinture sur mur brut '
+  dimensions:
+    height: 500
+    width: 400
+    depth: 0
+  description: Commande promotion immobilière - visible sur rendez-vous
+  price: 0
+  contextual: false
+- title: Versants Fresque I
   image: "/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png"
   technique: 'Peinture sur mur brut '
   dimensions:
