@@ -29,6 +29,17 @@ biography: "Vidéo de l'[Interview Décadrée de la Galerie Gaïa](https://www.y
   croiser leur production respective."
 exhibitions: []
 works:
+- title: Fresque Versants
+  image: "/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png"
+  technique: 'Peinture sur mur brut '
+  dimensions:
+    height: 250
+    width: 500
+    depth: 0
+  description: "Fresque réalisée sur commande pour une cour intérieur.  \nVisible
+    sur rendez-vous "
+  price: 0
+  contextual: false
 - title: Strates 33
   image: "/forestry/galerie-gaia-projets-versants-strates-33-30x40.jpg"
   technique: Sérigraphie
