@@ -7,6 +7,8 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  [Interview Décadrée de Laure Carré par la Galerie Gaïa](https://youtu.be/_yZm3PLM4Z4 "interview galerie gaia laure carré")
+
   Exposition Galerie Gaïa mars avril 2018.
 
   "Il n’y a rien d’éponyme dans les formes que Laure Carré nous offre dans son travail sur toile, pas même dans ses collages-dessins. En apparence ! Ainsi l’énergie circule  vite et amplifie les mouvements tout en courbe mais s’arrête net. Si carré il y a ce n’est pas pour la forme mais pour son exigence vis-à-vis de sa toile.
