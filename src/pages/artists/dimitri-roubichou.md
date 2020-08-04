@@ -75,11 +75,11 @@ works:
   image: "/forestry/galeriegaia@dimitriroubichou-MOHA-30 cm x 30 cm - 30 tirages.jpg"
   technique: Photographie
   dimensions:
-    height: 120
-    width: 120
+    height: 60
+    width: 60
     depth: 0
   description: ''
-  price: 1200
+  price: 700
   contextual: true
 - title: Miki
   image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
@@ -226,7 +226,7 @@ works:
     width: 0
     depth: 0
   description: ''
-  price: 0
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/82-dimitri-roubichou/"
