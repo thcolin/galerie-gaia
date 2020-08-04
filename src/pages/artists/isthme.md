@@ -107,6 +107,16 @@ biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme un
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: 'Allongée dans l''herbe #12'
+  image: "/forestry/galerie-gaia-isthme-allongee-12-120-120.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2020"
+  price: 3200
+  contextual: true
 - title: 'Allongée dans l''herbe #2'
   image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
   dimensions:
