@@ -29,16 +29,6 @@ biography: "Vidéo de l'[Interview Décadrée de la Galerie Gaïa](https://www.y
   croiser leur production respective."
 exhibitions: []
 works:
-- title: Versants fresque II
-  image: "/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png"
-  technique: 'Peinture sur mur brut '
-  dimensions:
-    height: 500
-    width: 400
-    depth: 0
-  description: Commande promotion immobilière - visible sur rendez-vous
-  price: 0
-  contextual: false
 - title: Versants Fresque I
   image: "/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png"
   technique: 'Peinture sur mur brut '
@@ -47,8 +37,20 @@ works:
     width: 500
     depth: 0
   description: "Fresque réalisée sur commande pour une cour intérieur.  \nVisible
-    sur rendez-vous "
-  price: 0
+    sur rendez-vous  \n[Interview ](https://www.youtube.com/watch?v=DxkvbjnGL4E \"interview
+    galerie gaia jerome maillet tangui robert gaetan chevrier\")Décadrée de Versants
+    par la Galerie Gaïa"
+  price: ''
+  contextual: false
+- title: Versants fresque II
+  image: "/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png"
+  technique: 'Peinture sur mur brut '
+  dimensions:
+    height: 500
+    width: 400
+    depth: 0
+  description: Commande promotion immobilière - visible sur rendez-vous
+  price: ''
   contextual: false
 - title: Strates 33
   image: "/forestry/galerie-gaia-projets-versants-strates-33-30x40.jpg"
