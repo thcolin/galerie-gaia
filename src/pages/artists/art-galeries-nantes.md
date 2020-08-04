@@ -1,6 +1,6 @@
 ---
 template: artist
-title: ART GALERIES NANTES
+title: Art Galeries Nantes
 location: ''
 field: Evenement
 birth: "0"
@@ -92,6 +92,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/81-art-galeries-nantes/
----
+- "/artistes/81-art-galeries-nantes/"
 
+---
