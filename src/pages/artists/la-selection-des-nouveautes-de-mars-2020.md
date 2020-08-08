@@ -114,16 +114,6 @@ works:
   price: 2800
   contextual: true
   technique: 'Cire et pigments sur bois '
-- title: 'Canopée Allongée dans l''herbe #14 par ISTHME'
-  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 195
-    width: 114
-  description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "Isabelle Thomas Isthme
-    ")'
-  price: 3500
-  contextual: true
 - title: Cou-Rage 1 par ISTHME
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   dimensions:
@@ -166,13 +156,13 @@ works:
     "Virginie Chardon")'
   price: 4900
   sold: false
-  contextual: true
+  contextual: false
 - title: Atlantis Teatro Dimitri Bourriau
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibon
   dimensions:
     height: 100
-    width: 150
+    width: 148
   description: |-
     Tirage 15 exemplaires en caisse américaine - prix sur demande
 
