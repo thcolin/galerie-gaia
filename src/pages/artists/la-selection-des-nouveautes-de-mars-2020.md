@@ -25,7 +25,7 @@ works:
   price: 2900
   contextual: true
 - title: Grès 5 par Jacqueline Pécantet
-  image: "/forestry/galeie-gaia-jacqueline-pecantet-gres4.jpg"
+  image: "/forestry/dscf9191-copie.JPG"
   technique: Crin de cheval sur grès, poli au galet
   dimensions:
     height: 0
