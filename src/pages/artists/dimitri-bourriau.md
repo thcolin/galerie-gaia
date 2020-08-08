@@ -17,13 +17,14 @@ exhibitions: []
 works:
 - title: Bank
   image: "/forestry/dimitribourriau_bank_2017.jpg"
-  technique: 'Tirage papier sur dibon 15 exemplaires '
+  technique: 'Photo argentique tirage papier sur dibon 15 exemplaires '
   dimensions:
     height: 120
     width: 80
     depth: 
-  description: "encadrement caisse US livraison à domicile   \nPrix sur demande"
-  price: 2850
+  description: "2017 Bureau du directeur de la Caisse d'Epargne d'une bourgade normande
+    \n\nencadrement caisse US livraison à domicile  \nPrix sur demande"
+  price: 
   sold: false
   contextual: true
 - title: Atlantis Teatro
