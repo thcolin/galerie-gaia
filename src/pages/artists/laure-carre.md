@@ -136,36 +136,6 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
-- title: Un ami la nuit
-  image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: "2020"
-  price: 950
-  contextual: true
-- title: Le cheval vert
-  image: "/forestry/galerie-gaia-laure-carre-le-cheval-vert-24x19.jpg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 19
-    width: 24
-    depth: 0
-  description: ''
-  price: 250
-  contextual: true
-- title: Scène d'atelier
-  image: "/forestry/galerie-gaia-laure-carre-scene-d-atelier-46x39.jpg"
-  technique: 'Huile sur papier et technique mixte '
-  dimensions:
-    height: 46
-    width: 39
-    depth: 0
-  description: "2020 \n\nEncadrement chêne 40€"
-  price: 300
-  contextual: true
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -178,6 +148,16 @@ works:
 
     Encadrement chêne 30€
   price: 300
+  contextual: true
+- title: Un ami la nuit
+  image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "2020"
+  price: 950
   contextual: true
 - title: Amazone
   image: "/forestry/galerie-gaia-laure-carre-amazone_42x35.jpg"

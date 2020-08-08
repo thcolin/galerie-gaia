@@ -78,17 +78,6 @@ works:
     "galerie gaia patrick guéguen")'
   price: 1800
   contextual: true
-- title: 'Scène d''atelier par Laure Carré '
-  image: "/forestry/galerie-gaia-laure-carre-scene-d-atelier-46x39.jpg"
-  technique: Huile et technique mixte sur toile
-  dimensions:
-    height: 46
-    width: 39
-    depth: 0
-  description: '[Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "galerie
-    gaia laure carré")'
-  price: 300
-  contextual: true
 - title: Octopus IV par Sébastien Bouchard
   image: "/forestry/1437.jpg"
   technique: Mixte sur toile
