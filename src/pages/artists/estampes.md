@@ -29,6 +29,16 @@ works:
   price: 145
   contextual: true
   image: "/forestry/galerie-gaia-chilida70x50.jpg"
+- title: Miró
+  image: "/forestry/galerie-gaia-miro-1973-75x57.jpg"
+  technique: Affiche
+  dimensions:
+    height: 75
+    width: 57
+    depth: 0
+  description: Exposition Barcelone 1973
+  price: 145
+  contextual: true
 - title: Georg Baselitz - Sigmund (15/15)
   image: "/forestry/georg-baselitz-sigmund-1515.jpg"
   technique: Eau forte
