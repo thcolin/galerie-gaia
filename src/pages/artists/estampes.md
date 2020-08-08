@@ -9,6 +9,26 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: 'Tapiès '
+  technique: Affiche
+  dimensions:
+    height: 72
+    width: 56
+    depth: 0
+  description: Exposition Maeght 1975
+  price: 145
+  contextual: true
+  image: "/forestry/galerie-gaia-tapies-maeght72x56.jpg"
+- title: Chilida exposition 1971 Barcelone
+  technique: 'Affiche '
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 'Parfait état '
+  price: 145
+  contextual: true
+  image: "/forestry/galerie-gaia-chilida70x50.jpg"
 - title: Georg Baselitz - Sigmund (15/15)
   image: "/forestry/georg-baselitz-sigmund-1515.jpg"
   technique: Eau forte
