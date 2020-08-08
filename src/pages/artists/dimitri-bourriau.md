@@ -21,9 +21,9 @@ works:
   dimensions:
     height: 120
     width: 80
-    depth: 0
+    depth: 
   description: "encadrement caisse US livraison à domicile   \nPrix sur demande"
-  price: 
+  price: 2850
   sold: false
   contextual: true
 - title: Atlantis Teatro
