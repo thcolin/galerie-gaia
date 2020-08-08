@@ -27,8 +27,8 @@ works:
   image: "/forestry/sine-noblitate.jpg"
   technique: Estampe 1/1
   dimensions:
-    height: 75
-    width: 110
+    height: 76
+    width: 112
     depth: 
   description: "Dessin original effectué au crayon \nEstampe technique du giclée sur
     papier Arches"
@@ -47,6 +47,6 @@ works:
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/42-adolfo-arenas-alonso/
----
+- "/artistes/42-adolfo-arenas-alonso/"
 
+---
