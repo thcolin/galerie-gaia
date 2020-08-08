@@ -14,13 +14,13 @@ exhibitions: []
 works:
 - title: FE
   image: "/forestry/fe.jpg"
-  technique: DESSIN reproduction technique du giclée 16/25
+  technique: Dessin reproduction technique du giclée 16/25
   dimensions:
     height: 70
     width: 50
     depth: 
   description: ''
-  price: 600
+  price: ''
   sold: false
   contextual: true
 - title: SINE NOB'LITATE
@@ -37,12 +37,12 @@ works:
   contextual: true
 - title: JOCONDO IL BELLE
   image: "/forestry/jocondo-il-belle.jpg"
-  technique: stylo
+  technique: Estampe technique du giclée sur papier Arches
   dimensions:
-    height: 180
-    width: 110
+    height: 112
+    width: 76
     depth: 
-  description: ''
+  description: Dessin original effectué au crayon
   price: 
   sold: false
   contextual: true
