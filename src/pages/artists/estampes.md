@@ -126,6 +126,16 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Duo de Tranquandi en situation
+  image: "/forestry/galerie-gaia-tranquandi-duo.jpg"
+  technique: Aquatinte
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: ''
+  price: 0
+  contextual: false
 - title: Traquandi - Sans Titre (orange) (12/19)
   image: "/forestry/traquandi-sans-titre-orange-1219.jpg"
   technique: Aquatinte
