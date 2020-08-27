@@ -20,7 +20,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
   watch()
 
   return toggle && !toggled ? (
-    <button onClick={() => setToggled(true)}>
+    <button onClick={() => setToggled(true)} className="contact-form">
       <Icon children="informations" style={{ margin: '0 0.5rem 0 0' }} />
       Plus d'informations
     </button>
