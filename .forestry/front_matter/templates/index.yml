@@ -8,7 +8,7 @@ fields:
   - name: image
     type: file
     config:
-      maxSize: 250
+      maxSize: 64
     label: Image
     description: Image
   config:
@@ -17,5 +17,10 @@ fields:
     labelField: 
   label: Carousel
   description: Carousel
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 pages:
 - src/pages/index.md

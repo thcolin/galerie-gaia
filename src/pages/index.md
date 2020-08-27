@@ -7,5 +7,12 @@ carousel:
 - image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd.jpg"
 redirect_from:
 - "/plan/"
+seo:
+  title: Galerie Gaïa, Galerie d'art à Nantes
+  type: website
+  description: Galerie Gaïa galerie d'art quartier Decré cœur historique de Nantes,
+    exposition d’art contemporain abstrait figuratif, peinture sculpture estampe photo,
+    courtier en art, défiscalisation et location
+  image: ''
 
 ---
