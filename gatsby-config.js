@@ -46,5 +46,18 @@ module.exports = {
           trackingId: 'google19d6c9c3c8a5f3be'
       }
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Galerie Gaïa',
+        short_name: 'Galerie Gaïa',
+        start_url: '/',
+        background_color: 'white',
+        theme_color: 'white',
+        display: 'standalone',
+        icon: 'src/images/favicon.png',
+        crossOrigin: 'use-credentials',
+      },
+    },
   ],
 }

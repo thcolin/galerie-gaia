@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
@@ -48,6 +48,7 @@
     "babel-eslint": "^10.1.0",
     "babel-preset-gatsby": "^0.3.1",
     "eslint": "^6.8.0",
+    "gatsby-plugin-manifest": "^2.4.25",
     "gray-matter": "^4.0.2",
     "gulp": "^4.0.2",
     "gulp-clean": "^0.4.0",
