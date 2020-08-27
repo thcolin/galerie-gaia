@@ -142,9 +142,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: '[Vidéo](https://www.youtube.com/watch?v=_yZm3PLM4Z4 "laure carré galerie
+    gaia entretien") Entretien Décadré de Laure Carré par Galerie Gaïa'
   price: ''
-  contextual: true
+  contextual: false
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
   technique: 'Huile sur papier et technique mixte '
