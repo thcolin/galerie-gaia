@@ -136,6 +136,15 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Portrait Laure Carré
+  image: "/forestry/galeriegaia-laure carré portrait.jpeg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -236,15 +245,6 @@ works:
     width: 72
   description: 06/2018
   price: 1600
-  contextual: true
-- title: Lipstick face
-  image: "/forestry/galeriegaia@laurecarre-lipstickface-huile-100X73.jpeg"
-  dimensions:
-    height: 100
-    width: 73
-  description: '08/2019'
-  price: 1600
-  technique: Huile sur toile
   contextual: true
 - title: Playing with Laïka on the moon
   image: "/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg"
@@ -380,16 +380,6 @@ works:
   description: "2019"
   price: 200
   sold: false
-  contextual: true
-- title: Portrait de Laure Carré
-  image: "/forestry/galeriegaia-laure carré portrait.jpeg"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Interview Décadrée de Laure Carré par la Galerie Gaia](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=20s
-    "interview laure carré par elisabeth givre ")'
-  price: ''
   contextual: true
 redirect_from:
 - "/artistes/76-laure-carre/"
