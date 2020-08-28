@@ -136,16 +136,6 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
-- title: Portrait Laure Carré
-  image: "/forestry/galeriegaia-laure carré portrait.jpeg"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Vidéo](https://www.youtube.com/watch?v=_yZm3PLM4Z4 "laure carré galerie
-    gaia entretien") Entretien Décadré de Laure Carré par Galerie Gaïa'
-  price: ''
-  contextual: false
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -256,15 +246,6 @@ works:
   description: '09/2019'
   price: 3000
   contextual: false
-- title: Main dans la main
-  image: "/forestry/galeriegaia@laurecarre-portrait.jpeg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 40
-    width: 30
-  description: 06/2019
-  price: 450
-  contextual: true
 - title: Chien d'atelier
   image: "/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
   technique: Huile sur toile
@@ -382,6 +363,16 @@ works:
   price: 200
   sold: false
   contextual: true
+- title: Portrait Laure Carré
+  image: "/forestry/galeriegaia-laure carré portrait.jpeg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Vidéo](https://www.youtube.com/watch?v=_yZm3PLM4Z4 "laure carré galerie
+    gaia entretien") Entretien Décadré de Laure Carré par Galerie Gaïa'
+  price: ''
+  contextual: false
 redirect_from:
 - "/artistes/76-laure-carre/"
 
