@@ -1,0 +1,64 @@
+---
+template: artist
+title: Bathelier Marie
+location: ''
+field: Plasticienne
+birth: ''
+death: ''
+expose: true
+biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Veyron Bathellier,
+  née en juillet 1971, passe son enfance en Bretagne, entre terre et mer.\n\n> Elle
+  débute son parcours d’études supérieures par les Beaux-Arts à Rennes, suivi d’une
+  année à l’Académie d’Arts de Wroclaw en Pologne, pour terminer par la Faculté d’Arts
+  plastiques de la Sorbonne à Paris.\n>\n> Depuis 2003, tous les ateliers de l’artiste
+  se situent en pleine nature : île d’Yeu où elle vit, campagne et montagne où elle
+  séjourne régulièrement. De ce voisinage avec le vivant est né une façon de travailler
+  : instinctive , expérimentale et minimale et poétique. Marie Bathellier travaille
+  par cycles, oscille entre plusieurs disciplines sans distinction de valeur peinture,
+  sculpture, installations.\n>\n> C’est dans la nature sauvage et le jardin que l’artiste
+  puise force, formes et matériaux. Collectionner, photographier et prendre des notes
+  enrichissent sa démarche.\n\n> Cet état de contemplation, d’accueil et de déclics
+  renouvelle en permanence son travail.\n>\n> Sur de grandes toiles et séries de petits
+  formats de cartons qu’elle recycle, l’artiste agence des formes abstraites et minimales.
+  Le principe de ces imbrications entraîne un dialogue entre espaces, couleurs et
+  textures. Elle sublime ses aplats pigmentaires mates, transparents, irisés ou pailletés
+  en y ajoutant argile, sable ou poudre de roche. L’ oeil s’ amuse des formes entrant
+  en relations, des jeux de matières caressés par la lumière et se baigne dans des
+  coloramas doux et puissants.\n\n> Sculptures en bois brut aux formes architecturées,
+  hauts totems, mobiles, lianes végétales chorégraphiées ou suite de pas japonais
+  granitiques témoignent d’une pratique artistique affranchie, spontanée et sensorielle.\n\n>
+  \n>\n> Born in July 1971, Marie Bathellier, spent her childhood in Brittany between
+  the land and the sea.\n\nShe studied Beaux-Arts in Rennes followed by one year in
+  Wroclaw (Poland) at the Academy of Arts and finished at the Sorbonne (Paris) in
+  the Faculté d’Arts plastiques;\n\nSince 2003, nature is her work environment – Ile
+  d’Yeu where she lives, country side and mountains where she spends a lot of time.
+  From this co-habitation she has drawn her way of working : instinctive, experimental,
+  minimal and poetic.\n\nMarie Bathellier works in cycles, travels between several
+  disciplines without favouritism – painting, sculpture, installations.\n\nThe artist
+  finds strength, forms and materials in the wilderness and gardens. Her work is fed
+  by taking notes, by taking photos, collecting materials. Her contemplative approach
+  and embrace of nature, permanently stimulate and renew her work.\n\nThe artist arranges
+  abstract and minimal forms on large canvases or in series of smaller recycled cardboards.
+  These arrangements create a dialogue between space, colour and texture. The surfaces
+  become sparkly, transparent, pearly or deeply mat as she enhances them using clay,
+  sand or rock dust. They become a playful vision of forms interacting, of textures
+  with soft and powerful colour palettes being stroked by light.\n\nArchitectural
+  sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers
+  or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
+  artistic work."
+works: []
+exhibitions:
+- title: Galerie Amélie Maison d'Art
+  location: Paris 8ème
+  start: ''
+  end: ''
+- title: Galerie Insula,
+  location: " Paris 6ème"
+  start: ''
+  end: ''
+- title: Galerie Philia
+  location: Genève New York
+  start: ''
+  end: ''
+
+---
