@@ -46,7 +46,22 @@ biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Veyron Bath
   sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
-works: []
+works:
+- title: Lit de camp peint
+  image: "/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg"
+  technique: 'peinture acrylique sur toile '
+  dimensions:
+    height: 43
+    width: 70
+    depth: 188
+  description: "Formes allongées, imbriquées, peintes sur la toile d’ un lit de camp,
+    \n\nComme Sonia Delaunay, M V Bathellier travaille divers supports , variant les
+    prétextes pour s’ amuser et composer formes et couleurs entrant en relations.
+    Aucune frontière entre la vie, l’ art et les arts décoratifs. La peinture c’ est
+    où on veut, où on vit, où l’ on s’ allonge, où l’ on rêve."
+  price: 900
+  sold: false
+  contextual: false
 exhibitions:
 - title: Galerie Amélie Maison d'Art
   location: Paris 8ème
