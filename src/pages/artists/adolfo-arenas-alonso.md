@@ -12,19 +12,17 @@ biography: |-
   Une histoire incroyable que je vous raconterai en venant le regarder à la galerie...
 exhibitions: []
 works:
-- title: 'Sin''noblitate Extrait Skull and bird '
-  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-detail-skrull-and-bird.jpg"
-  technique: dessin original au crayon
+- title: Loving Venus
+  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-loving-venus-112x76.jpg"
+  technique: Estampe 38/75
   dimensions:
-    height: 0
-    width: 0
+    height: 112
+    width: 76
     depth: 0
-  description: Chaque estampe de l’œuvre Sin'noblitate est rendu unique par la présence
-    d'un élément de décor ajouté au crayon, ce qui rend l'exemplaire unique, en l’occurrence
-    le détail est un crâne avec un colibri
-  price: 1000
+  description: ''
+  price: 600
   contextual: true
-- title: SINE NOB'LITATE Skull and bird
+- title: Sine Nob'litate "Skull and bird"
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-sinenoblitate-skull-and-the-bird-76x112.jpg"
   technique: Dessin original effectué au crayon Estampe 1/1 technique du giclée sur
     papier Arches
@@ -65,6 +63,28 @@ works:
   price: 1000
   sold: false
   contextual: true
+- title: Dolce immaculate
+  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-dolce-immaculate-112x76.jpg"
+  technique: Estampe 29/75
+  dimensions:
+    height: 112
+    width: 76
+    depth: 0
+  description: ''
+  price: 600
+  contextual: true
+- title: 'Sin''noblitate Extrait Skull and bird '
+  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-detail-skrull-and-bird.jpg"
+  technique: dessin original au crayon
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Chaque estampe de l’œuvre Sin'noblitate est rendu unique par la présence
+    d'un élément de décor ajouté au crayon, ce qui rend l'exemplaire unique, en l’occurrence
+    le détail est un crâne avec un colibri
+  price: 1000
+  contextual: true
 - title: FE
   image: "/forestry/fe.jpg"
   technique: Dessin reproduction technique du giclée 16/25
@@ -76,7 +96,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: JOCONDO IL BELLE
+- title: Jocondo il bello
   image: "/forestry/jocondo-il-belle.jpg"
   technique: Esta 20/50 technique du giclée sur papier Arches
   dimensions:
@@ -86,7 +106,7 @@ works:
   description: Dessin original effectué au crayon
   price: 600
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/42-adolfo-arenas-alonso/"
 
