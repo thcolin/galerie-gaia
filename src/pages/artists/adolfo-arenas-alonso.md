@@ -12,8 +12,20 @@ biography: |-
   Une histoire incroyable que je vous raconterai en venant le regarder à la galerie...
 exhibitions: []
 works:
-- title: SINE NOB'LITATE
-  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-sine-noblitate.jpg"
+- title: 'Sin''noblitate Extrait Skull and bird '
+  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-detail-skrull-and-bird.jpg"
+  technique: dessin original au crayon
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Chaque estampe de l’œuvre Sin'noblitate est rendu unique par la présence
+    d'un élément de décor ajouté au crayon, ce qui rend l'exemplaire unique, en l’occurrence
+    le détail est un crâne avec un colibri
+  price: 1000
+  contextual: true
+- title: SINE NOB'LITATE Skull and bird
+  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-sinenoblitate-skull-and-the-bird-76x112.jpg"
   technique: Dessin original effectué au crayon Estampe 1/1 technique du giclée sur
     papier Arches
   dimensions:
