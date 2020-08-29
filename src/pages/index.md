@@ -2,9 +2,10 @@
 title: Accueil
 template: home
 carousel:
-- image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm-1.jpg"
-- image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
-- image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd.jpg"
+- image: "/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png"
+- image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
+- image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
+- image: "/forestry/dimitribourriau_bank_2017.jpg"
 redirect_from:
 - "/plan/"
 seo:
