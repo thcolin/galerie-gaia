@@ -45,6 +45,29 @@ biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Bathelier d
   mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones
   reveal a free, spontaneous and sensual artistic work."
 works:
+- title: En liberté panneau 2
+  image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 0
+  description: ''
+  price: 800
+  sold: false
+  contextual: true
+- title: En liberté panneau 1
+  image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 0
+  description: 'PANNEAU 1 d’ un ensemble de trois panneaux en relations par un jeu
+    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut  '
+  price: 800
+  sold: false
+  contextual: true
 - title: Refuge
   image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
