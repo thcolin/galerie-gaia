@@ -14,15 +14,15 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: Le profond par Franco Salas Borquez
-  image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
-  technique: Huile sur toile
+- title: Terre par Marie Batthelier
+  image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
+  technique: Sculpture bois
   dimensions:
-    height: 100
-    width: 65
-    depth: 0
-  description: "2019"
-  price: 2900
+    height: 60
+    width: 35
+    depth: 9
+  description: ''
+  price: 900
   contextual: true
 - title: Grès 5 par Jacqueline Pécantet
   image: "/forestry/dscf9191-copie.JPG"
@@ -46,16 +46,16 @@ works:
     "Olivier Fremont")'
   price: 1800
   contextual: true
-- title: Bangkok Noi par Tangui Robert
-  image: "/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg"
+- title: Jardin des plantes par Tangui Robert
+  image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
   technique: Gravure sur zinc et piquetage photos
   dimensions:
-    height: 30
-    width: 24
+    height: 40
+    width: 50
     depth: 0
   description: '[Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
     robert")'
-  price: 280
+  price: 450
   contextual: true
 - title: Failles par Nadia Barbotin
   image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
@@ -173,15 +173,15 @@ works:
   sold: false
   contextual: true
 - title: SEUIL - Strates 27
-  image: "/forestry/galerie-gaia-projets-versants-strates-27-30x40.jpg"
+  image: "/forestry/galerie-gaia-seuil-strate-20-50x70.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 30
-    width: 20
+    height: 70
+    width: 50
     depth: 
   description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
     "Jeronimo Tangui robert Gaetan chevrier ")'
-  price: 183
+  price: 450
   sold: false
   contextual: true
 redirect_from:
