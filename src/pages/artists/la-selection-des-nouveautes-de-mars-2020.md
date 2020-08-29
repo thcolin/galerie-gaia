@@ -59,14 +59,15 @@ works:
   contextual: true
 - title: Failles par Nadia Barbotin
   image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
-  technique: Huile
+  technique: Huile sur toile
   dimensions:
-    height: 140
-    width: 90
+    height: 150
+    width: 120
     depth: 0
-  description: ''
-  price: 2800
-  contextual: true
+  description: '[Nadia Barbotin](https://galeriegaia.fr/artists/nadia-barbotin/ "nadia
+    barbotin")'
+  price: 4400
+  contextual: false
 - title: Les oiseaux de Trévise par Patrick Guéguen
   image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
   technique: Encre noire et acrylique sur papier
@@ -78,19 +79,19 @@ works:
     "galerie gaia patrick guéguen")'
   price: 1800
   contextual: true
-- title: Octopus IV par Sébastien Bouchard
-  image: "/forestry/1437.jpg"
+- title: Fly away par Sébastien Bouchard
+  image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
   technique: Mixte sur toile
   dimensions:
-    height: 200
-    width: 100
+    height: 60
+    width: 60
     depth: 0
   description: '[Sébastien Bouchard](https://galeriegaia.fr/artists/sebastien-bouchard/
     "galerie gaia sébastien bouchard")'
-  price: 3000
+  price: 1400
   contextual: true
-- title: Ostie de Dimitri Roubichou
-  image: "/forestry/DSC_1857 - Copie - Copie.JPG"
+- title: Miki de Dimitri Roubichou
+  image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
   dimensions:
     height: 30
     width: 30
@@ -104,16 +105,6 @@ works:
   price: 250
   contextual: true
   technique: Photographie sur tirage papier baryté
-- title: Quiet Days Under The Trees III par Valota
-  image: "/forestry/VALOTA - QUIET DAYS UNDER THE TREES III - 73cm x 60cm - Cire et
-    Pigments Sur Bois - 2020 .jpg"
-  dimensions:
-    height: 73
-    width: 60
-  description: '[Valota](https://galeriegaia.fr/artists/valota/ "Valota")'
-  price: 2800
-  contextual: true
-  technique: 'Cire et pigments sur bois '
 - title: Cou-Rage 1 par ISTHME
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   dimensions:
@@ -123,8 +114,8 @@ works:
   price: 750
   contextual: true
   technique: Collage
-- title: Foot bridge of sadbness de Boris Jakobek
-  image: "/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
+- title: La ruine de Boris Jakobek
+  image: "/forestry/galeriegaia_Jakobek_LA RUINE_70X50.jpg"
   technique: 'Sérigraphie 7 passes sur Olin 300g '
   dimensions:
     height: 70
@@ -135,18 +126,18 @@ works:
     [Boris Jakobek](https://galeriegaia.fr/artists/boris-jakobek/ "Boris Jakobek")
   price: 300
   contextual: true
-- title: Terraherba Tryptique de Elisabeth Wadecki
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
-  technique: 'acrylique et bâtons d''huile sur toile '
+- title: Terraherba N°15 de Elisabeth Wadecki
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
+  technique: acrylique et bâtons d'huile sur papier
   dimensions:
-    height: 60
-    width: 180
+    height: 43
+    width: 43
   description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
     "galerie gaia elisabeth wadecki")'
-  price: 2500
+  price: 470
   contextual: true
-- title: Stan par  Virginie Chardon
-  image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2916.jpg"
+- title: James par  Virginie Chardon
+  image: "/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
   technique: bronze
   dimensions:
     height: 25
@@ -154,20 +145,20 @@ works:
     depth: 41
   description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
     "Virginie Chardon")'
-  price: 4900
+  price: 5900
   sold: false
   contextual: false
-- title: Atlantis Teatro Dimitri Bourriau
-  image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
+- title: Bank Dimitri Bourriau
+  image: "/forestry/dimitribourriau_bank_2017.jpg"
   technique: Tirage Argentique, contrecollé sur Dibon
   dimensions:
-    height: 100
-    width: 148
+    height: 120
+    width: 80
   description: |-
     Tirage 15 exemplaires en caisse américaine - prix sur demande
 
     [Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/ "Dimitri Bourriau")
-  price: 0
+  price: ''
   contextual: true
 - title: GO SEGAWA - Mass
   image: "/forestry/go-segawa-mass.jpg"
