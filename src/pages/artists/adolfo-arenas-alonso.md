@@ -12,17 +12,6 @@ biography: |-
   Une histoire incroyable que je vous raconterai en venant le regarder à la galerie...
 exhibitions: []
 works:
-- title: FE
-  image: "/forestry/fe.jpg"
-  technique: Dessin reproduction technique du giclée 16/25
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: ''
-  price: ''
-  sold: false
-  contextual: true
 - title: SINE NOB'LITATE
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-sine-noblitate.jpg"
   technique: Dessin original effectué au crayon Estampe 1/1 technique du giclée sur
@@ -64,15 +53,26 @@ works:
   price: 1000
   sold: false
   contextual: true
+- title: FE
+  image: "/forestry/fe.jpg"
+  technique: Dessin reproduction technique du giclée 16/25
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: ''
+  price: ''
+  sold: false
+  contextual: true
 - title: JOCONDO IL BELLE
   image: "/forestry/jocondo-il-belle.jpg"
-  technique: Estampe technique du giclée sur papier Arches
+  technique: Esta 20/50 technique du giclée sur papier Arches
   dimensions:
     height: 112
     width: 76
     depth: 
   description: Dessin original effectué au crayon
-  price: 
+  price: 600
   sold: false
   contextual: true
 redirect_from:
