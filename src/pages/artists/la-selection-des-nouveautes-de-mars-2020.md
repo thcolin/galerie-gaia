@@ -1,6 +1,6 @@
 ---
 template: artist
-title: La Sélection des nouveautés de l'été 2020
+title: Les nouveautés de la rentrée 2020
 location: ''
 field: Evenement
 birth: "0"
@@ -33,7 +33,7 @@ works:
     depth: 0
   description: '[Jacqueline Pécantet](https://galeriegaia.fr/artists/jacqueline-pecantet/
     "Jacqueline Pécantet")'
-  price: 120
+  price: 140
   contextual: true
 - title: Sans titre par Olivier Fremont
   image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
@@ -57,12 +57,12 @@ works:
     robert")'
   price: 280
   contextual: true
-- title: Transparences blanches par Nadia Barbotin
-  image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
+- title: Failles par Nadia Barbotin
+  image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
   technique: Huile
   dimensions:
-    height: 91
-    width: 91
+    height: 140
+    width: 90
     depth: 0
   description: ''
   price: 2800

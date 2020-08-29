@@ -1,12 +1,12 @@
 ---
 template: artist
-title: Bathelier Marie
+title: Bathellier Marie
 location: ''
 field: Plasticienne
 birth: ''
 death: ''
 expose: true
-biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Bathelier débute
+biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Bathellier débute
   son parcours d’études supérieures par les Beaux-Arts à Rennes, suivi d’une année
   à l’Académie d’Arts de Wroclaw en Pologne, pour terminer par la Faculté d’Arts plastiques
   de la Sorbonne à Paris.\n>\n> Depuis 2003, chaque atelier se situe en pleine nature
@@ -19,7 +19,7 @@ biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Bathelier d
   d’accueil et de déclics renouvelle en permanence son travail.\n>\n> Sur de grandes
   toiles et séries de petits formats de cartons qu’elle recycle, l’artiste agence
   des formes abstraites et minimales. Le principe de ces imbrications entraîne un
-  dialogue entre espaces, couleurs et textures. Marie Bathelier sublime ses aplats
+  dialogue entre espaces, couleurs et textures. Marie Bathellier sublime ses aplats
   pigmentaires mates, transparents, irisés ou pailletés en y ajoutant argile, sable
   ou poudre de roche. L’ oeil s’ amuse des formes entrant en relations, des jeux de
   matières caressés par la lumière et se baigne dans des coloramas doux et puissants.\n\n>
@@ -45,17 +45,6 @@ biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Bathelier d
   mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones
   reveal a free, spontaneous and sensual artistic work."
 works:
-- title: En liberté panneau 2
-  image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 0
-  description: ''
-  price: 800
-  sold: false
-  contextual: true
 - title: En liberté panneau 1
   image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
@@ -63,8 +52,32 @@ works:
     height: 70
     width: 70
     depth: 0
-  description: 'PANNEAU 1 d’ un ensemble de trois panneaux en relations par un jeu
-    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut  '
+  description: Panneau 1 d’ un ensemble de trois panneaux en relations par un jeu
+    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut
+  price: 800
+  sold: false
+  contextual: true
+- title: En liberté panneau 2
+  image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 0
+  description: Panneau 2 d’ un ensemble de trois panneaux en relations par un jeu
+    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut
+  price: 800
+  sold: false
+  contextual: true
+- title: En liberté panneau 3
+  image: "/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 0
+  description: Panneau 3 d’ un ensemble de trois panneaux en relations par un jeu
+    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut
   price: 800
   sold: false
   contextual: true
@@ -175,6 +188,17 @@ works:
     Aucune frontière entre la vie, l’ art et les arts décoratifs. La peinture c’ est
     où on veut, où on vit, où l’ on s’ allonge, où l’ on rêve."
   price: 900
+  sold: false
+  contextual: false
+- title: Portrait Marie Bathellier
+  image: "/forestry/galerie-gaia-marie-bathelier-portrait.jpg"
+  technique: ''
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
   sold: false
   contextual: false
 exhibitions:
