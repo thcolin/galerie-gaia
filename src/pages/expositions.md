@@ -2,6 +2,10 @@
 template: exhibitions
 exhibitions:
 - template: exhibition
+  image: "/forestry/20200827_001459.jpg"
+  title: Exposition à Pornichet
+  content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
+- template: exhibition
   title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
   content: |-
@@ -397,10 +401,6 @@ exhibitions:
     rencontre avec les artistes samedi 28 Mai 15H
 
     _Du 05/26/2016 au 06/11/2016_
-- template: exhibition
-  image: "/forestry/20200827_001459.jpg"
-  title: Exposition à Pornichet
-  content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
 - template: exhibition
   title: La Chambre 21
   image: "/forestry/la-chambre-21.jpg"
