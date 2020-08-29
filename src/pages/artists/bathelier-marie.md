@@ -45,6 +45,36 @@ biography: "> MARIE VEYRON BATHELLIER artiste française\n>\n> Marie Bathelier d
   mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones
   reveal a free, spontaneous and sensual artistic work."
 works:
+- title: Refuge
+  image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
+  technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
+  dimensions:
+    height: 48
+    width: 24
+    depth: 19
+  description: 'Refuge : série qui aborde des formes architecturées et minimales,
+    mises en beauté par le travail de la couleur et des textures minéralisées ou végétalisées.
+    Jeux d’ équilibres au bord du déséquilibre, de porte - à - faux. Le regard se
+    perche, traverse, se cache, s’assied.'
+  price: 850
+  sold: false
+  contextual: false
+- title: Terre
+  image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
+  technique: pigments acryliques et argile sur bois
+  dimensions:
+    height: 60
+    width: 35
+    depth: 9
+  description: "A partir de poutres anciennes en bois , Marie Bathelier trace et coupe
+    des cubes. C’est en les ponçant un à un que  les pense, apprivoise leur volume,
+    taille et texture. L’artiste construit des cabanes refuges où percher nos rêveries.
+    Nombre réduit de matériaux et couleur. Esthétique épuré, connecté à la nature,
+    essentiel.\n\nPièces en bois enrobées de multiples couches fines d’ argile. Charme
+    primitif. "
+  price: 900
+  sold: false
+  contextual: false
 - title: Mer 1
   image: "/forestry/mariebathellier-mer1-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
