@@ -118,15 +118,6 @@ works:
   description: "2020"
   price: 3200
   contextual: true
-- title: 'Allongée dans l''herbe #2'
-  image: "/forestry/galerie-gaia-isthme-canopee-3-195x114cm-2020.jpg"
-  dimensions:
-    height: 195
-    width: 114
-    depth: 0
-  description: "2020"
-  price: 3800
-  contextual: true
 - title: 'Allongée dans l''herbe #10'
   image: "/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
   dimensions:
@@ -136,9 +127,10 @@ works:
   description: "2020"
   price: 750
   contextual: true
+  technique: 'Acrylique sur toile '
 - title: 'Allongée dans l''herbe #5'
   image: "/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
-  technique: ''
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 50
     width: 41
@@ -148,7 +140,7 @@ works:
   contextual: true
 - title: 'Allongée dans l''herbe #7'
   image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
-  technique: ''
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 50
     width: 41
@@ -212,8 +204,9 @@ works:
     width: 97
     depth: 0
   description: ''
-  price: 0
+  price: 2500
   contextual: true
+  technique: 'Acrylique sur toile '
 - title: 'Deep Blue #3'
   image: "/forestry/galeriegaia-isthme-Blue Deep3- 146 cmx114cm-2020.jpg"
   technique: Acrylique sur toile
@@ -221,7 +214,7 @@ works:
     height: 146
     width: 114
   description: "2020"
-  price: 2800
+  price: 3200
   contextual: true
 - title: 'Deep blue #4'
   image: "/forestry/galeriegaia-isthme-Deep Blue 4- 61cmx50cm_2020.JPG"
