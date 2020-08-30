@@ -35,6 +35,17 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
+- title: Sculpture murale triangles
+  image: "/forestry/sculpture-murale.jpg"
+  technique: pigments acryliques, gravure et pyrogravure sur chêne brut
+  dimensions:
+    height: 45
+    width: 25
+    depth: 4.5
+  description: "."
+  price: 650
+  sold: false
+  contextual: false
 - title: Terre
   image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
   technique: pigments acryliques et argile sur bois
