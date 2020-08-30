@@ -35,17 +35,6 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
-- title: Sculpture murale triangles
-  image: "/forestry/sculpture-murale.jpg"
-  technique: pigments acryliques, gravure et pyrogravure sur chêne brut
-  dimensions:
-    height: 45
-    width: 25
-    depth: 4.5
-  description: "."
-  price: 650
-  sold: false
-  contextual: false
 - title: Terre
   image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
   technique: pigments acryliques et argile sur bois
@@ -62,17 +51,25 @@ works:
   price: 900
   sold: false
   contextual: false
-- title: Sculpture murale au carré rouge
-  image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
-  technique: pigments acryliques sur chêne brut
+- title: Détail sculpture murale triangulaire
+  image: "/forestry/detail-sculpture-murale.jpg"
+  technique: pigments acryliques, gravure et pyrogravure sur chêne brut
   dimensions:
-    height: 30
-    width: 29
-    depth: 3.5
-  description: |-
-    Pièces murales en bois brut. Formes composées et chevillées entre elles. Le travail de la couleur traverse partiellement la composition, relie, rassemble.
-
-    Contraste entre le bois laissé brut et les multiples couches pigmentaires recouvrant et révélant sa texture, peau, années de vie. La lumière accroche ou glisse, entoure, se cache.
+    height: 45
+    width: 25
+    depth: 4.5
+  description: ''
+  price: 650
+  sold: false
+  contextual: true
+- title: Sculpture murale triangles
+  image: "/forestry/sculpture-murale.jpg"
+  technique: pigments acryliques, gravure et pyrogravure sur chêne brut
+  dimensions:
+    height: 45
+    width: 25
+    depth: 4.5
+  description: "."
   price: 650
   sold: false
   contextual: false
@@ -126,6 +123,20 @@ works:
   price: 800
   sold: false
   contextual: true
+- title: Sculpture murale au carré rouge
+  image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
+  technique: pigments acryliques sur chêne brut
+  dimensions:
+    height: 30
+    width: 29
+    depth: 3.5
+  description: |-
+    Pièces murales en bois brut. Formes composées et chevillées entre elles. Le travail de la couleur traverse partiellement la composition, relie, rassemble.
+
+    Contraste entre le bois laissé brut et les multiples couches pigmentaires recouvrant et révélant sa texture, peau, années de vie. La lumière accroche ou glisse, entoure, se cache.
+  price: 650
+  sold: false
+  contextual: false
 - title: Refuge
   image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
