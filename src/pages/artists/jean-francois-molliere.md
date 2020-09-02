@@ -6,30 +6,32 @@ field: Photographe
 birth: "0"
 death: "0"
 expose: true
-biography: "**Tarifs selon les formats  photos éditées en 15 exemplaires :**\n\n**100X100
-  (ou 100X90 selon l'image) tirage papier contrecollé sur dibon 1800€  \n70X60 (ou
-  70X50 selon l'image) tirage sur papier contrecollé sur dibon 1200€  \n60X40 tirage
-  sur papier contrecollé sur dibon 750€  \n40X40 (ou 40X30 selon l'image) tirage papier
-  fine art 490€**\n\n***\n\nAuteur photographe, reporter indépendant et journaliste,
-  le manceau Jean-françois Mollière a collaboré à de nombreux ouvrages et magazines
-  dans le domaine de l’art, du sport, et de l’architecture. Directeur artistique,
-  il scénographie également des aménagements photographiques de lieux publics et privés.
-  Ces travaux de commande portent nécessairement l’empreinte de sa recherche photographique.\n\nUne
-  recherche qui prend la forme d’itinérances, une quête d’images protéiformes.\nQuête
-  d’une mise en abîme, celle de la fiction dans le réel, du reflet sur la surface,
-  de l’image dans le cadre.\nQuête du champ des possibles dans ce besoin en tension
-  qui précède l’acte photographique.\nQuête de l’autre, en qui l’on se reconnaît.\nImage
-  longtemps recherchée, passée au tamis de la séduction anecdotique, image éprouvée.\nEn
-  30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire
-  des accoutumances, d’aller là où l’imaginaire devient plus fort.\nPour battre en
-  brèche l’inéluctabilité de la finitude, pour résister, inexorablement.\nOn reconnaît
-  dans sa photographie, des images, des icônes très inspirées par le cinéma et la
-  peinture.\n\nValérie Fade-Py\n\nRécompenses:\n\nPremier Prix Ilford de la photographie
-  Noir et Blanc de l'année 1998\nPrix Ilford 1996 et 2000\n\nLivres:\n\n\"Des Routes\"
-  Production Edition Macadam Photographies 1994\n\n\"24 Heures Production Edition\"Transit
-  Collectif de Photographes 1996\n\n\"Près de Etoiles\" Production Edition \"Près
-  des Etoiles\" Juin 2012\n\n\" Hand Art\" Production FFHB Edition De La Martiniére
-  Sortie Oct 2012"
+biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier jet
+  d'encre pigmentaire contrecollé sur dibond et encadrée dans caisse américaine bois
+  :  \nFormat supérieur à 100cm   2 200€  \nFormat entre 80 et 90cm     1800€  \nFormat
+  entre 50 et 70cm     1400€**\n\n**Photos petit  format éditées en 10 exemplaires
+  \ tirage sur papier jet d'encre pigmentaire contrecollé sur dibond et encadrée dans
+  un cadre bois avec passe-partout blanc.**\n\n**Format entre 60X40cm  750€  \nFormat
+  entre 40X40 ou 40X30 cm selon l'image 590€**\n\n***\n\nAuteur photographe, reporter
+  indépendant et journaliste, le manceau Jean-françois Mollière a collaboré à de nombreux
+  ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture.
+  Directeur artistique, il scénographie également des aménagements photographiques
+  de lieux publics et privés. Ces travaux de commande portent nécessairement l’empreinte
+  de sa recherche photographique.\n\nUne recherche qui prend la forme d’itinérances,
+  une quête d’images protéiformes.\nQuête d’une mise en abîme, celle de la fiction
+  dans le réel, du reflet sur la surface, de l’image dans le cadre.\nQuête du champ
+  des possibles dans ce besoin en tension qui précède l’acte photographique.\nQuête
+  de l’autre, en qui l’on se reconnaît.\nImage longtemps recherchée, passée au tamis
+  de la séduction anecdotique, image éprouvée.\nEn 30 ans de recherches photographiques,
+  Jean-François Mollière n’a cessé de se défaire des accoutumances, d’aller là où
+  l’imaginaire devient plus fort.\nPour battre en brèche l’inéluctabilité de la finitude,
+  pour résister, inexorablement.\nOn reconnaît dans sa photographie, des images, des
+  icônes très inspirées par le cinéma et la peinture.\n\nValérie Fade-Py\n\nRécompenses:\n\nPremier
+  Prix Ilford de la photographie Noir et Blanc de l'année 1998\nPrix Ilford 1996 et
+  2000\n\nLivres:\n\n\"Des Routes\" Production Edition Macadam Photographies 1994\n\n\"24
+  Heures Production Edition\"Transit Collectif de Photographes 1996\n\n\"Près de Etoiles\"
+  Production Edition \"Près des Etoiles\" Juin 2012\n\n\" Hand Art\" Production FFHB
+  Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
 - title: New York 9
