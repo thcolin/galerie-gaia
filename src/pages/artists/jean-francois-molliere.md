@@ -73,15 +73,16 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: New York 3
+- title: New York 9
   image: "/forestry/JF Molliere  New York 3 061.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 100
-    width: 70
+    height: 80
+    width: 65
     depth: 0
-  description: ''
-  price: ''
+  description: "caisse américaine bois noir   \nFormat 80X65 tirage en 5 exemplaires
+    1700€  \nFormat 60X40 tirage en 10 exemplaires 750€"
+  price: 1700
   contextual: true
 - title: New York 7
   image: "/forestry/1349.jpg"
