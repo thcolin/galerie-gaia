@@ -3,8 +3,9 @@ title: Artistes
 template: artists
 artists:
 - artist: src/pages/artists/bathelier-marie.md
-- artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
+- artist: src/pages/artists/isthme.md
+- artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/jorj-morin.md
 - artist: src/pages/artists/nadia-barbotin.md
@@ -13,7 +14,6 @@ artists:
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/jean-francois-molliere.md
-- artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/dimitri-bourriau.md
 - artist: src/pages/artists/sebastien-bouchard.md
 - artist: src/pages/artists/jean-paul-friol.md
@@ -40,8 +40,8 @@ artists:
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/patrick-gueguen.md
-- artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/xavier-jallais.md
+- artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/jean-claude-breat.md
 - artist: src/pages/artists/jorj-morin-peintre.md
 - artist: src/pages/artists/tony-soulie.md

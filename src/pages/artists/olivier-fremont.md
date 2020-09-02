@@ -29,7 +29,7 @@ works:
     height: 35
     width: 30
     depth: 20
-  description: "2020"
+  description: Vendu
   price: 1600
   contextual: false
 - title: Sans titre
