@@ -156,8 +156,8 @@ works:
     height: 50
     width: 65
     depth: 0
-  description: "2020"
-  price: 950
+  description: 2020 vendu
+  price: ''
   contextual: true
 - title: Amazone
   image: "/forestry/galerie-gaia-laure-carre-amazone_42x35.jpg"
