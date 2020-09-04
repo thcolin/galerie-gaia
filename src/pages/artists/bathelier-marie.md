@@ -42,12 +42,12 @@ works:
     height: 60
     width: 35
     depth: 9
-  description: "A partir de poutres anciennes en bois , Marie Bathelier trace et coupe
-    des cubes. C’est en les ponçant un à un que  les pense, apprivoise leur volume,
+  description: A partir de poutres anciennes en bois , Marie Bathelier trace et coupe
+    des cubes. C’est en les ponçant un à un qu’elle les pense, apprivoise leur volume,
     taille et texture. L’artiste construit des cabanes refuges où percher nos rêveries.
-    Nombre réduit de matériaux et couleur. Esthétique épuré, connecté à la nature,
-    essentiel.\n\nPièces en bois enrobées de multiples couches fines d’ argile. Charme
-    primitif. "
+    Nombre réduit de matériaux et couleur. Esthétique épuré et essentiel, Ode à la
+    nature et sa poésie brute. Ces pièces en bois enrobées d’ argile déploient un
+    charme primitif.
   price: 900
   sold: false
   contextual: false
@@ -87,27 +87,35 @@ works:
   price: 650
   sold: false
   contextual: false
-- title: En liberté panneau 1
+- title: EN LIBERTE panneau 1
   image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
     width: 70
     depth: 
-  description: Panneau 1 d’ un ensemble de trois panneaux en relations par un jeu
-    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut
+  description: |-
+    Panneau 1 d’un ensemble de trois panneaux encadrement baguette chêne brut.
+
+    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
+
+    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
   price: 800
   sold: false
   contextual: true
-- title: En liberté panneau 2
+- title: EN LIBERTE panneau 2
   image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
     width: 70
     depth: 
-  description: Panneau 2 d’ un ensemble de trois panneaux en relations par un jeu
-    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut
+  description: |-
+    Panneau 2 d’un ensemble de trois panneaux encadrement baguette chêne brut.
+
+    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
+
+    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
   price: 800
   sold: false
   contextual: true
