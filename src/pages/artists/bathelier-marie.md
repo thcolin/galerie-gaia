@@ -119,15 +119,19 @@ works:
   price: 800
   sold: false
   contextual: true
-- title: En liberté panneau 3
+- title: EN LIBERTE panneau 3
   image: "/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
     width: 70
     depth: 
-  description: Panneau 3 d’ un ensemble de trois panneaux en relations par un jeu
-    de formes reportées, colorées et imbriquées, encadrement baguette chêne brut
+  description: |-
+    Panneau 3 d’un ensemble de trois panneaux encadrement baguette chêne brut.
+
+    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
+
+    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
   price: 800
   sold: false
   contextual: true
@@ -153,9 +157,9 @@ works:
     width: 24
     depth: 19
   description: 'Refuge : série qui aborde des formes architecturées et minimales,
-    mises en beauté par le travail de la couleur et des textures minéralisées ou végétalisées.
-    Jeux d’ équilibres au bord du déséquilibre, de porte - à - faux. Le regard se
-    perche, traverse, se cache, s’assied.'
+    mises en beauté par le travail de la couleur et des textures minéralisées, gravées
+    et pyrogravées. Jeux d’ équilibres au bord du déséquilibre, de porte à faux et
+    de percées. Le regard englobe, contourne, traverse, se cache, se perche'
   price: 850
   sold: false
   contextual: false
