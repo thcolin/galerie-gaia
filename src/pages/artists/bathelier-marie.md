@@ -35,6 +35,65 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
+- title: 'EN LIBERTE Installation en triptyque '
+  image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
+  technique: ''
+  dimensions:
+    height: 70
+    width: 210
+    depth: 0
+  description: 'Mon avis : ne les séparez pas !'
+  price: 
+  sold: false
+  contextual: false
+- title: EN LIBERTE panneau 1
+  image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 
+  description: |-
+    Panneau 1 d’un ensemble de trois panneaux encadrement baguette chêne brut.
+
+    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
+
+    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
+  price: 800
+  sold: false
+  contextual: true
+- title: EN LIBERTE panneau 2
+  image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 
+  description: |-
+    Panneau 2 d’un ensemble de trois panneaux encadrement baguette chêne brut.
+
+    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
+
+    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
+  price: 800
+  sold: false
+  contextual: true
+- title: EN LIBERTE panneau 3
+  image: "/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
+  technique: pigments acryliques, argile et sable sur toile
+  dimensions:
+    height: 70
+    width: 70
+    depth: 
+  description: |-
+    Panneau 3 d’un ensemble de trois panneaux encadrement baguette chêne brut.
+
+    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
+
+    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
+  price: 800
+  sold: false
+  contextual: true
 - title: Terre
   image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
   technique: pigments acryliques et argile sur bois
@@ -87,54 +146,6 @@ works:
   price: 650
   sold: false
   contextual: false
-- title: EN LIBERTE panneau 1
-  image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 
-  description: |-
-    Panneau 1 d’un ensemble de trois panneaux encadrement baguette chêne brut.
-
-    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
-
-    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
-  price: 800
-  sold: false
-  contextual: true
-- title: EN LIBERTE panneau 2
-  image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 
-  description: |-
-    Panneau 2 d’un ensemble de trois panneaux encadrement baguette chêne brut.
-
-    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
-
-    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
-  price: 800
-  sold: false
-  contextual: true
-- title: EN LIBERTE panneau 3
-  image: "/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 
-  description: |-
-    Panneau 3 d’un ensemble de trois panneaux encadrement baguette chêne brut.
-
-    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
-
-    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
-  price: 800
-  sold: false
-  contextual: true
 - title: Sculpture murale au carré rouge
   image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
   technique: pigments acryliques sur chêne brut

@@ -9,20 +9,19 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: EN LIBERTE triptyque de Marie Bathellier
+  image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "[Marie Bathellier]()"
+  price: 0
+  contextual: true
 - title: Sélection des nouveautés  2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
-  contextual: true
-- title: Terre par Marie Batthelier
-  image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
-  technique: Sculpture bois
-  dimensions:
-    height: 60
-    width: 35
-    depth: 9
-  description: ''
-  price: 900
   contextual: true
 - title: Grès 5 par Jacqueline Pécantet
   image: "/forestry/dscf9191-copie.JPG"
