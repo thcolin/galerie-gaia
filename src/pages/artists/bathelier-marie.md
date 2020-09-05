@@ -218,12 +218,10 @@ works:
     height: 72
     width: 
     depth: 
-  description: "Sculpture RIVIERE est un duo soclé, en bois d’azalée des Hautes Pyrénées
-    et pigments acryliques, piètement acier laqué blanc \n\nM V Bathelier fait sortir
-    le bois du champ de la nature et du jardin pour le travailler et le présenter
-    précieusement sur la scène artistique. L’ artiste puise dans la nature forces,
-    formes et matériaux. Guidée par l’ esthétisme de l’ essentiel, Marie Bathelier
-    développe des pièces radicales, élégantes et poétiques."
+  description: |-
+    Sculpture RIVIERE est un duo soclé, en bois d’azalée des Hautes Pyrénées et pigments acryliques, piètement acier laqué blanc
+
+    M V Bathellier fait sortir le bois du champ de la nature et du jardin pour le travailler et le présenter précieusement sur la scène artistique. L’ artiste puise dans la nature forces, formes et matériaux. Guidée par l’ esthétisme de l’ essentiel, Marie Bathellier développe des pièces radicales, élégantes et poétiques.
   price: 450
   sold: false
   contextual: false
