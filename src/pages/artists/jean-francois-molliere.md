@@ -34,6 +34,17 @@ biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier
   Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
+- title: 21 Chicago
+  image: "/forestry/galerie-gaia-molliere-jf-chicago-21-104-x-111-cm-jpeg.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 112
+    width: 105
+    depth: 0
+  description: 'Tirage jet d''encre pigmentaire papier contrecollé dibond caisse américaine
+    noire 3/5 '
+  price: 2300
+  contextual: true
 - title: New York 9
   image: "/forestry/JF Molliere  New York 3 061.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
@@ -66,16 +77,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: true
-- title: Chicago 1
-  image: "/forestry/JF Molliere Chicago 1 062.JPG"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 80
-    width: 70
-    depth: 1500
-  description: ''
-  price: 0
   contextual: true
 - title: New York 8
   image: "/forestry/JF Molliere  New York 8 068.JPG"
@@ -181,39 +182,6 @@ works:
   dimensions:
     height: 72
     width: 60
-    depth: 
-  description: ''
-  price: ''
-  sold: false
-  contextual: true
-- title: La Havane 4
-  image: "/forestry/1356.jpg"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 72
-    width: 60
-    depth: 
-  description: ''
-  price: ''
-  sold: false
-  contextual: true
-- title: La Havane 2
-  image: "/forestry/1358.jpg"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 70
-    width: 100
-    depth: 
-  description: ''
-  price: ''
-  sold: false
-  contextual: true
-- title: La Havane 1
-  image: "/forestry/1359.jpg"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 80
-    width: 100
     depth: 
   description: ''
   price: ''
