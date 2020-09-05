@@ -34,16 +34,16 @@ biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier
   Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
-- title: 21 Chicago
-  image: "/forestry/galerie-gaia-molliere-jf-chicago-21-104-x-111-cm-jpeg.jpg"
-  technique: 'Photographie '
+- title: Tokyo 4
+  image: "/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg"
+  technique: Photographie
   dimensions:
-    height: 112
-    width: 105
+    height: 40
+    width: 40
     depth: 0
-  description: 'Tirage jet d''encre pigmentaire papier contrecollé dibond caisse américaine
-    noire 3/5 '
-  price: 2300
+  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
+    blanc standard 1/10
+  price: 590
   contextual: true
 - title: New York 9
   image: "/forestry/JF Molliere  New York 3 061.JPG"
@@ -55,6 +55,17 @@ works:
   description: "caisse américaine bois noir   \nFormat 80X65 tirage en 5 exemplaires
     1700€  \nFormat 60X40 tirage en 10 exemplaires 750€"
   price: 1700
+  contextual: true
+- title: 21 Chicago
+  image: "/forestry/_dsf1181_1.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 112
+    width: 105
+    depth: 0
+  description: 'Tirage jet d''encre pigmentaire papier contrecollé dibond caisse américaine
+    noire 3/5 '
+  price: 2300
   contextual: true
 - title: Tokyo
   image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 22
@@ -78,7 +89,7 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: New York 8
+- title: New York 5
   image: "/forestry/JF Molliere  New York 8 068.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
@@ -110,7 +121,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: New York 22
+- title: New York 20
   image: "/forestry/1348.jpg"
   technique: photographie Edition en 15 exemplaires
   dimensions:
@@ -121,7 +132,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: New York Lone Street
+- title: New York 3 Lone Street
   image: "/forestry/1350.jpg"
   technique: 'photographie Edition en 15 exemplaires '
   dimensions:
@@ -143,7 +154,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Chicago 2
+- title: Chicago 23
   image: "/forestry/1352.jpg"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
@@ -154,7 +165,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Chicago 3
+- title: Chicago 22
   image: "/forestry/1353.jpg"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
