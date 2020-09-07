@@ -88,7 +88,7 @@ works:
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
-    width: 30
+    width: 36
     depth: 
   description: '2014 '
   price: 230
@@ -99,7 +99,7 @@ works:
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
-    width: 30
+    width: 36
     depth: 
   description: '2019 '
   price: 230
@@ -110,7 +110,7 @@ works:
   technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
-    width: 30
+    width: 36
     depth: 
   description: '2019 '
   price: 230
