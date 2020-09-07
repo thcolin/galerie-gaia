@@ -48,17 +48,6 @@ works:
   description: "Edition en 11 exemplaires  \n2020"
   price: 180
   contextual: true
-- title: Atlas 2 (3/3)
-  image: "/forestry/atlas-2-33.jpg"
-  technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m
-  dimensions:
-    height: 46
-    width: 
-    depth: 
-  description: '2019 '
-  price: 230
-  sold: false
-  contextual: true
 - title: Automorphie Structure tridimensionnelle 2
   image: "/forestry/automorphie-structure-tridimensionnelle-2.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
@@ -66,10 +55,10 @@ works:
     height: 60
     width: 60
     depth: 
-  description: |-
-    2017
-    800€
-  price: 
+  description: '2017
+
+'
+  price: 800
   sold: false
   contextual: true
 - title: Automorphie Grande Structure
@@ -77,7 +66,7 @@ works:
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
   dimensions:
     height: 150
-    width: 
+    width: 150
     depth: 
   description: ''
   price: 3500
@@ -88,7 +77,7 @@ works:
   technique: Eau forte sur zinc, tirage 11 ex sur RBK Rives 300g/m²
   dimensions:
     height: 50
-    width: 
+    width: 40
     depth: 
   description: '2019 '
   price: 230
@@ -99,10 +88,10 @@ works:
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
-    width: 
+    width: 30
     depth: 
-  description: 2014 230€
-  price: 
+  description: '2014 '
+  price: 230
   sold: false
   contextual: true
 - title: Double stigmates (1/7)
@@ -110,7 +99,7 @@ works:
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
-    width: 
+    width: 30
     depth: 
   description: '2019 '
   price: 230
@@ -121,10 +110,10 @@ works:
   technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
-    width: 
+    width: 30
     depth: 
-  description: 2019 230€
-  price: 
+  description: '2019 '
+  price: 230
   sold: false
   contextual: true
 redirect_from:
