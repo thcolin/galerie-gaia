@@ -19,8 +19,8 @@ const Home = ({ ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        title="Accueil"
-        description={props.pageContext.site.siteMetadata.description}
+        title={frontmatter.seo.title}
+        description={frontmatter.seo.description}
         image={carousel[0]?.image}
         pageContext={props.pageContext}
       />
@@ -30,6 +30,7 @@ const Home = ({ ...props }) => {
           opacity: ready ? 1 : 0,
         }}
       >
+        <h1>{frontmatter.seo.title}</h1>
         <CarouselProvider
           isPlaying
           infinite
@@ -57,6 +58,12 @@ Home.styles = {
     height: '100%',
     width: '100%',
     transition: 'opacity ease-in-out 400ms',
+    '>h1': {
+      position: 'absolute',
+      height: 0,
+      width: 0,
+      opacity: 0,
+    }
   },
   carousel: {
     height: '100%',
