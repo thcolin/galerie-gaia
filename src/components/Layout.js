@@ -1,6 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import Navigation from 'components/Navigation'
+import Consent from 'components/Consent'
 import theme from 'theme'
 import 'normalize.css/normalize.css'
 import 'assets/css'
@@ -26,6 +27,7 @@ const Layout = ({ children, ...props }) => (
           <Navigation {...props} />
         </aside>
         <div css={Layout.styles.wrapper}>
+          <Consent />
           {children}
         </div>
       </div>
@@ -39,10 +41,11 @@ Layout.styles = {
     justifyContent: 'center',
   },
   container: {
+    position: 'relative',
     display: 'flex',
     flexDirection: 'column',
-    height: '100vh',
     width: '100vw',
+    minHeight: '100vh',
     maxWidth: '1920px',
     [theme.medias.large]: {
       flexDirection: 'row',
@@ -54,6 +57,7 @@ Layout.styles = {
   navigation: {
     display: 'flex',
     maxWidth: '100%',
+    zIndex: 2,
     [theme.medias.large]: {
       position: 'fixed',
       width: '20em',
@@ -66,6 +70,7 @@ Layout.styles = {
     },
   },
   wrapper: {
+    position: 'relative',
     display: 'flex',
     flexDirection: 'column',
     flex: 1,

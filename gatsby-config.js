@@ -26,25 +26,19 @@ module.exports = {
     'gatsby-redirect-from',
     'gatsby-plugin-meta-redirect',
     {
-      resolve: "gatsby-plugin-google-tagmanager",
+      resolve: `gatsby-plugin-gdpr-cookies`,
       options: {
-        id: "GTM-MLBX757",
-        includeInDevelopment: false,
-        defaultDataLayer: { platform: "gatsby" },
-        // // Specify optional GTM environment details.
-        // gtmAuth: "YOUR_GOOGLE_TAGMANAGER_ENVIRONMENT_AUTH_STRING",
-        // gtmPreview: "YOUR_GOOGLE_TAGMANAGER_ENVIRONMENT_PREVIEW_NAME",
-        // dataLayerName: "YOUR_DATA_LAYER_NAME",  
-        // Name of the event that is triggered on every Gatsby route change.
-        routeChangeEventName: "gatsby-route-change",
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-          head: true,
+        googleAnalytics: {
+          cookieName: 'gatsby-gdpr-google-analytics',
           trackingId: 'google19d6c9c3c8a5f3be'
-      }
+        },
+        googleTagManager: {
+          cookieName: 'gatsby-gdpr-google-tagmanager',
+          trackingId: 'GTM-MLBX757',
+          defaultDataLayer: { platform: "gatsby" },
+        },
+        environments: ['production']
+      },
     },
     {
       resolve: 'gatsby-plugin-manifest',
