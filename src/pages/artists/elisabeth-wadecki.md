@@ -42,6 +42,15 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: En mon jardin N°1 Toile
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
+  technique: 'Acrylique bâtons d''huile sur toile '
+  dimensions:
+    height: 150
+    width: 150
+  description: "Visible sur demande en atelier  \n2019"
+  price: 3500
+  contextual: true
 - title: Terraherba n°1
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-60x60.jpg"
   dimensions:
@@ -115,25 +124,6 @@ works:
     2020
   price: 400
   contextual: true
-- title: En mon jardin N°1 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
-  technique: 'Acrylique bâtons d''huile sur toile '
-  dimensions:
-    height: 150
-    width: 150
-  description: "Visible sur demande en atelier  \n2019"
-  price: 3500
-  contextual: true
-- title: En mon jardin N°2 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n2-2019-100x100-acrylique-batonsdhuile-sur-toile-1800euros.JPG"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2019"
-  price: 1800
-  contextual: true
 - title: 'En mon jardin N°3 Toile '
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n-3-100x100-acrylique-batons-d-huile-sur-toile-2019-1800euros.JPG"
   technique: 'Acrylique et bâtons d''huile sur toile '
@@ -151,15 +141,6 @@ works:
     width: 130
   description: "2020"
   price: 2200
-  contextual: true
-- title: En mon jardin N°3 Papier marouflé sur toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-3-2019-acrylique-batonsd-huile-116x89-1800eur.JPG"
-  technique: 'acrylique et bâton d''huile sur papier marouflé sur toile '
-  dimensions:
-    height: 119
-    width: 89
-  description: "2019"
-  price: 1800
   contextual: true
 - title: En mon jardin N°4 Papier marouflé sur toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
