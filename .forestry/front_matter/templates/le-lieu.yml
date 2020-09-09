@@ -2,13 +2,7 @@
 label: Le Lieu
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
-  description: Titre
-- name: description
+- name: content
   type: textarea
   default: ''
   config:
@@ -16,8 +10,8 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: Description
-  description: Description
+  label: Content
+  description: Contenu
 - name: about
   type: textarea
   default: ''

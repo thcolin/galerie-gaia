@@ -1,6 +1,6 @@
 ---
 template: contact
-description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l’esprit
+content: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l’esprit
   d’un lieu créé en 1978.\n\nL’histoire commence avec L’Affiche créée pour la première
   en fois en France ce concept store venu d’Angleterre proposait des reproductions
   d’œuvres d’artistes et des cartes postales créatives venues du monde entier.\n\nEn
@@ -36,11 +36,11 @@ description: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l
   \ \n**l’évidence devant une œuvre qui s’impose  \nl’évidence qui ne se discute pas
   et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence qui
   se partage  \nl’évidence qui euphorise et qui rayonne**"
-title: Le Lieu
 about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité
   aux prochains vernissages ?"
 seo:
-  title: Le Lieu
+  title: Le Lieu - Galerie Gaïa
+  heading: Galerie Gaïa, Galerie d'art à Nantes
   type: website
   description: Galerie Gaia est une galerie art à Nantes depuis 1978 galerie d'exposition
     d' art contemporain. La galerie Gaïa expose peintures, sculptures, photos, dessins

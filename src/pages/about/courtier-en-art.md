@@ -1,6 +1,5 @@
 ---
 template: about
-title: Courtier en art
 content:
 - column: "Le métier de **courtier en art consiste à vous conseiller sur une sélection
     d'artistes en vue d'acquisitions à titre patrimonial.**  \nGrâce à des contacts
@@ -19,7 +18,8 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Courtier en art
+  title: Courtier en art - Galerie Gaïa
+  heading: Courtier en art
   type: website
   description: "# courtier en art # Galerie Gaya  Elisabeth Givre conseil en art et
     défiscalisation location et leasing art, le courtier en art réalise les acquisitions

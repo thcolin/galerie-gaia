@@ -4,6 +4,7 @@ import Layout from 'components/Layout'
 import Icon from 'components/Icon'
 import Image from 'components/Image'
 import RichText from 'components/RichText'
+import Heading from 'components/Heading'
 import usePagination from 'hooks/use-pagination'
 import theme from 'theme'
 
@@ -28,11 +29,12 @@ const Exhibitions = ({ ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        title={frontmatter.title}
-        description={frontmatter.description}
+        title={frontmatter.seo.title}
+        description={frontmatter.seo.description}
         image={pieces[0]?.exhibition?.image}
         pageContext={props.pageContext}
       />
+      <Heading>{frontmatter.seo.heading}</Heading>
       <section ref={ref} css={Exhibitions.styles.element}>
         {pieces.map((exhibition, index) => (
           <Fragment key={exhibition.title}>

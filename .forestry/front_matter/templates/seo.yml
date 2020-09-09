@@ -12,6 +12,12 @@ fields:
       required: true
     label: Title
     description: Titre
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+    description: En tête
   - name: type
     type: select
     default: []

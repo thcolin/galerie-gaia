@@ -2,23 +2,6 @@
 label: Exhibitions
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: true
-  label: Title
-  description: Titre
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-    max: '200'
-  label: Description
-  description: Description
 - name: exhibitions
   type: blocks
   label: Exhibitions
@@ -36,5 +19,10 @@ fields:
   description: Template
   hidden: true
   default: exhibitions
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 pages:
 - src/pages/expositions.md

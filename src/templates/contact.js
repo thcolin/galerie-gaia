@@ -10,10 +10,15 @@ const Contact = ({ ...props }) => {
 
   return (
     <Layout {...props}>
-      <SEO {...frontmatter.seo} pageContext={props.pageContext} />
+      <SEO
+        title={frontmatter.seo.title}
+        description={frontmatter.seo.description}
+        image={frontmatter.seo.image}
+        pageContext={props.pageContext}
+      />
       <section css={Contact.styles.description}>
-        <h1>{frontmatter.title}</h1>
-        <RichText>{frontmatter.description}</RichText>
+        <h1>{frontmatter.seo.heading}</h1>
+        <RichText>{frontmatter.content}</RichText>
         <strong><a href='/forestry/Dossier de Presse - Galerie Gaia.pdf' target='_blank'>Dossier de Presse</a></strong>
       </section>
       <hr />

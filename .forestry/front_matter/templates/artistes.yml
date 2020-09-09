@@ -2,24 +2,6 @@
 label: " Artists"
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: true
-  label: Title
-  description: Titre
-  default: Artistes
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-    max: '200'
-  label: Description
-  description: Description
 - name: template
   type: text
   config:
@@ -50,5 +32,10 @@ fields:
     labelField: artist
   label: Artists
   description: Artistes
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
 pages:
 - src/pages/artists.md

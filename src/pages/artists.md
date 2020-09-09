@@ -1,5 +1,4 @@
 ---
-title: Artistes
 template: artists
 artists:
 - artist: src/pages/artists/bathelier-marie.md
@@ -57,7 +56,12 @@ artists:
 - artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/adolfo-arenas-alonso.md
 - artist: src/pages/artists/art-galeries-nantes.md
-description: La Galerie vous propose de découvrir de nombreux artistes contemporains
+seo:
+  title: Artistes - Galerie Gaïa
+  heading: Les artistes de la Galerie Gaïa, Galerie d'art à Nantes
+  type: website
+  description: La Galerie vous propose de découvrir de nombreux artistes contemporains
+  image: ''
 redirect_from:
 - "/artistes/"
 

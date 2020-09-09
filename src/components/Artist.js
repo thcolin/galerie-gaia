@@ -16,7 +16,7 @@ const Artist = ({ url, frontmatter, ...props }) => {
           transform: `translateY(${isHovered ? '0%' : '-100%'})`,
         }}
       >
-        {frontmatter.title}
+        <h2>{frontmatter.title}</h2>
       </span>
       <label>{frontmatter.title}</label>
     </Link>

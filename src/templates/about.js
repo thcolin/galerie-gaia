@@ -10,9 +10,14 @@ const About = ({ ...props }) => {
 
   return (
     <Layout {...props}>
-      <SEO {...frontmatter.seo} pageContext={props.pageContext} />
+      <SEO
+        title={frontmatter.seo.title}
+        description={frontmatter.seo.description}
+        image={frontmatter.seo.image}
+        pageContext={props.pageContext}
+      />
       <section css={About.styles.element}>
-        <h1>{frontmatter.title}</h1>
+        <h1>{frontmatter.seo.heading}</h1>
         <div>
           {frontmatter.content.map(({ column, contact }, index) => (
             <article key={index}>

@@ -3,6 +3,7 @@ import { LazyLoadComponent, trackWindowScroll } from 'react-lazy-load-image-comp
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import Artist from 'components/Artist'
+import Heading from 'components/Heading'
 import theme from 'theme'
 
 const Artists = ({ scrollPosition, ...props }) => {
@@ -19,12 +20,13 @@ const Artists = ({ scrollPosition, ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        title={frontmatter.title}
-        description={frontmatter.description}
+        title={frontmatter.seo.title}
+        description={frontmatter.seo.description}
         image={artists[0]?.frontmatter?.works?.filter(work => !work.sold).shift()?.image}
         pageContext={props.pageContext}
       />
       <section css={Artists.styles.element}>
+        <Heading>{frontmatter.seo.heading}</Heading>
         <div css={Artists.styles.grid}>
           {artists.map(artist => (
             <article key={artist.relativePath} css={Artists.styles.article}>

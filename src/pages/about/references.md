@@ -1,6 +1,5 @@
 ---
 template: about
-title: Références
 content:
 - column: "**Voici quelques lieux à part**, hors mode où le sur-mesure fait partie
     de l'ADN du travail de ces artisans, le choix des fournisseurs est au coeur du
@@ -43,7 +42,8 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Références
+  title: Références - Galerie Gaïa
+  heading: Références
   type: website
   description: La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets personnel
     et professionnel, pour aménager, décorer, défiscaliser, faire un cadeau original

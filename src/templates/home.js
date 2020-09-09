@@ -3,6 +3,7 @@ import SEO from 'components/SEO'
 import { css } from 'emotion'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
+import Heading from 'components/Heading'
 import isMobile from 'is-mobile'
 import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
 import 'pure-react-carousel/dist/react-carousel.es.css'
@@ -30,7 +31,7 @@ const Home = ({ ...props }) => {
           opacity: ready ? 1 : 0,
         }}
       >
-        <h1>{frontmatter.seo.title}</h1>
+        <Heading>{frontmatter.seo.heading}</Heading>
         <CarouselProvider
           isPlaying
           infinite
@@ -58,12 +59,6 @@ Home.styles = {
     height: '100%',
     width: '100%',
     transition: 'opacity ease-in-out 400ms',
-    '>h1': {
-      position: 'absolute',
-      height: 0,
-      width: 0,
-      opacity: 0,
-    }
   },
   carousel: {
     height: '100%',

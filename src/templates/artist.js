@@ -38,12 +38,23 @@ const Artist = ({ ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        title={frontmatter.title}
+        title={`${frontmatter.title} - Galerie Gaïa`}
         description={truncate(rmmd(frontmatter.biography))}
         image={slides[0]?.image}
         pageContext={props.pageContext}
       />
       <section css={Artist.styles.element}>
+        <div css={Artist.styles.about}>
+          <h1>{frontmatter.title}</h1>
+          {!!(parseInt(frontmatter.birth) || parseInt(frontmatter.death)) && (
+            <small>
+              ({[parseInt(frontmatter.birth), parseInt(frontmatter.death)].filter(year => year).join(' - ')})
+            </small>
+          )}
+          {!!(frontmatter.location || frontmatter.field) && (
+            <p>{[frontmatter.location, frontmatter.field].filter(s => s).join(' - ')}</p>
+          )}
+        </div>
         {!!works.length && (
           <div css={Artist.styles.works}>
             <div
@@ -130,23 +141,15 @@ const Artist = ({ ...props }) => {
             </div>
           </div>
         )}
-        <div css={Artist.styles.about}>
-          <h1>{frontmatter.title}</h1>
-          {!!(parseInt(frontmatter.birth) || parseInt(frontmatter.death)) && (
-            <small>
-              ({[parseInt(frontmatter.birth), parseInt(frontmatter.death)].filter(year => year).join(' - ')})
-            </small>
-          )}
-          {!!(frontmatter.location || frontmatter.field) && (
-            <p>{[frontmatter.location, frontmatter.field].filter(s => s).join(' - ')}</p>
-          )}
-          {!!frontmatter.biography && (
+        {!!frontmatter.biography && (
+          <div css={Artist.styles.biography}>
+            <h2>Biographie</h2>
             <RichText children={frontmatter.biography} />
-          )}
-        </div>
-        {!!frontmatter.exhibitions?.length && (
+          </div>
+        )}
+          {!!frontmatter.exhibitions?.length && (
           <div css={Artist.styles.exhibitions}>
-            <h3>Expositions</h3>
+            <h2>Expositions</h2>
             {frontmatter.exhibitions.map((exhibition, index) => (
               <p css={Artist.styles.exhibition} key={index}>
                 {!!(parseInt(exhibition.start) || parseInt(exhibition.end)) && (
@@ -290,7 +293,7 @@ Artist.styles = {
   },
   about: {
     flex: 1,
-    padding: '1rem',
+    padding: '3rem 1rem 1rem',
     '>h1': {
       display: 'inline',
       padding: 0,
@@ -304,7 +307,10 @@ Artist.styles = {
     },
     '>p': {
       fontSize: '0.875em',
+      marginBottom: 0
     },
+  },
+  biography: {
     '>div': {
       padding: '0.5em 0',
       lineHeight: '1.5',

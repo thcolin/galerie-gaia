@@ -1,6 +1,5 @@
 ---
 template: about
-title: Art et fiscalité
 content:
 - column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
     la tendance de fond va bien au-delà d'un mobilier design pour donner une ambiance
@@ -59,7 +58,8 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Art et fiscalité
+  title: Art et fiscalité - Galerie Gaïa
+  heading: Art et fiscalité
   type: website
   description: "# défiscalisation art # Galerie Gaïa conseille entreprises et professions
     libérales pour des acquisitions d’œuvres d'art, location, leasing comment choisir

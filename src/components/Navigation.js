@@ -56,7 +56,7 @@ const Navigation = ({ pageContext, ...props }) => {
                     {pageContext.pages
                       .filter(page => page.relativeDir === 'about')
                       .map((page, index) => (
-                        <li key={index}><Link to={page.url} activeStyle={{ textDecoration: 'underline' }}>{page.frontmatter.title}</Link></li>
+                        <li key={index}><Link to={page.url} activeStyle={{ textDecoration: 'underline' }}>{page.frontmatter.seo.heading}</Link></li>
                       ))
                     }
                   </ol>

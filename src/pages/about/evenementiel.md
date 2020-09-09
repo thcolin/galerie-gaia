@@ -1,6 +1,5 @@
 ---
 template: about
-title: Evènementiel
 content:
 - column: "##### **Team Building artistique**\n\nVous recherchez une idée originale,
     qui sort des sentiers battus pour vos **séminaires, incentives, réunions de comité
@@ -34,7 +33,8 @@ content:
     display: true
     placeholder: Renseignement évènementiel
 seo:
-  title: Evènementiel
+  title: Evènementiel - Galerie Gaïa
+  heading: Evènementiel
   type: website
   description: "# evenementiel # Galerie Gaia propose event arty,  team building ,
     evenementiel original pour entreprise, esprit créativité, fresque arty street

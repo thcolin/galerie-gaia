@@ -1,6 +1,5 @@
 ---
 template: about
-title: Idées cadeaux
 content:
 - column: "##### Carte cadeau\n\n**Liste de mariage, anniversaire, départ à la retraite**
     \ \nLa carte cadeau permet de  choisir parmi +400 œuvres disponibles.  \nA partir
@@ -20,7 +19,8 @@ content:
     display: true
     placeholder: Renseignements cartes de voeux
 seo:
-  title: Idées cadeaux
+  title: Idées cadeaux - Galerie Gaïa
+  heading: Idées cadeaux
   type: website
   description: "# idées cadeaux originales # Galerie Gaïa galerie art nantes, encadrement,
     cartes de voeux pour entreprises, liste mariage, cadeaux anniversaire, souvenir

@@ -1,5 +1,11 @@
 ---
 template: exhibitions
+seo:
+  title: Expositions - Galerie Gaïa
+  heading: Expositions à Nantes
+  type: website
+  description: La Galerie vous accueille chaque jour du Jeudi au Samedi, de 11h à 19h et sur rendez-vous à domicile pour étudier un projet in situ.
+  image: ''
 exhibitions:
 - template: exhibition
   image: "/forestry/20200827_001459.jpg"
@@ -486,8 +492,4 @@ exhibitions:
     VALOTA peintures
 
     _Du 04/09/2015 au 05/17/2015_
-title: Expositions
-description: La Galerie vous accueille chaque jour du Jeudi au Samedi, de 11h à 19h
-  et sur rendez-vous à domicile pour étudier un projet in situ.
-
 ---

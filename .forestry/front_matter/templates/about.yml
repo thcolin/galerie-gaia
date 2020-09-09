@@ -3,12 +3,6 @@ label: About
 hide_body: true
 display_field: title
 fields:
-- name: title
-  type: text
-  config:
-    required: true
-  label: Title
-  description: Titre
 - name: content
   type: field_group_list
   fields:

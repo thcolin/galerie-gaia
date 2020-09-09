@@ -1,6 +1,5 @@
 ---
 template: about
-title: Immobilier Architecture
 content:
 - column: "##### Promoteur Immobilier\n\nVous êtes promoteur référencé auprès du Ministère
     de la Culture dans le cadre du 1% logement ou du programme **\"1 immeuble 1 œuvre
@@ -23,7 +22,8 @@ content:
     display: true
     placeholder: Renseignement projet immobilier - décoration
 seo:
-  title: Immobilier Architecture
+  title: Immobilier Architecture - Galerie Gaïa
+  heading: Immobilier Architecture
   type: website
   description: '" art et decoration " Galerie Gaïa, galerie art contemporain travaille
     sur des projets  promotion immobilière, décoration d''intérieur, architecture
