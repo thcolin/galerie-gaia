@@ -36,7 +36,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
         <input ref={register({ required: true })} name='email' type='email' placeholder='Email' />
       </div>
       <textarea ref={register({ required: true })} name='message' maxLength='1000' placeholder={placeholder} />
-      <button type='submit' disabled={!(formState.isValid && !formState.isSubmitting)}>
+      <button className="contact-form" type='submit' disabled={!(formState.isValid && !formState.isSubmitting)}>
         <Icon children={formState.isSubmitted ? 'check' : formState.isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
         {formState.isSubmitted ? 'Envoyé !' : formState.isSubmitting ? 'Envoie...' : 'Envoyer'}
       </button>
