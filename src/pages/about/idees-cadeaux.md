@@ -10,7 +10,7 @@ content:
     Le verre musée protège à 98% des UV du soleil et de la lune, en plus il est anti-reflet.
     Option sur devis.\n\n![](/forestry/galeriegaia-encadrement.jpg)\n\n##### Carte
     de vœux professionnelle\n\nDes artistes de la galerie créent pour la galerie des
-    modèles de **cartes de vœux disponibles dans un catalogue** [sur demande](galeriegaia@orange.fr
+    modèles de **cartes de vœux disponibles dans un catalogue** [sur demande](mailto:galeriegaia@orange.fr
     \"catalogue carte de voeux \").\n\nNous pouvons aussi **personnaliser votre carte**
     en incarnant les valeurs de votre entreprise, insérer votre **logo et un texte**.\n\n![artiste
     Rycho](/forestry/GAIACARTE03.jpg \"carte de voeux signées numérotées\")\n\n![Artiste
