@@ -46,9 +46,9 @@ const Navigation = ({ pageContext, ...props }) => {
           <nav css={Navigation.styles.nav}>
             <ol css={Navigation.styles.list}>
               <li><Link to='/' activeStyle={{ textDecoration: 'underline' }}>Accueil</Link></li>
-              <li><Link to='/artists' activeStyle={{ textDecoration: 'underline' }}>Artistes</Link></li>
-              <li><Link to='/expositions' activeStyle={{ textDecoration: 'underline' }}>Expositions</Link></li>
-              <li><Link to='/le-lieu' activeStyle={{ textDecoration: 'underline' }}>Le Lieu</Link></li>
+              <li><Link to='/artists/' activeStyle={{ textDecoration: 'underline' }}>Artistes</Link></li>
+              <li><Link to='/expositions/' activeStyle={{ textDecoration: 'underline' }}>Expositions</Link></li>
+              <li><Link to='/le-lieu/' activeStyle={{ textDecoration: 'underline' }}>Le Lieu</Link></li>
               <li>
                 <details css={Navigation.styles.details} open={submenu}>
                   <summary onClick={() => setSubmenu(!submenu)}>Prestations</summary>
