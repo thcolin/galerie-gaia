@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Nouveautés rentrée 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: EN LIBERTE triptyque de Marie Bathellier
   image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
   dimensions:
@@ -16,11 +21,6 @@ works:
     width: 0
     depth: 0
   description: "[Marie Bathellier]()"
-  price: 0
-  contextual: true
-- title: Sélection des nouveautés  2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
   price: 0
   contextual: true
 - title: Grès 5 par Jacqueline Pécantet
