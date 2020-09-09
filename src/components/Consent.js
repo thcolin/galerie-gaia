@@ -5,6 +5,7 @@ const Consent = ({ ...props }) => {
 
   if (
     hidden
+    || typeof document === 'undefined'
     || document?.cookie?.match(/gatsby-gdpr-google-analytics/)
     || document?.cookie?.match(/gatsby-gdpr-google-tagmanager/)
   ) {
