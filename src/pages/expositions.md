@@ -1,10 +1,11 @@
 ---
 template: exhibitions
 seo:
-  title: Expositions - Galerie Gaïa
+  title: Expositions - Galerie Gaïa, galerie d'art contemporain à Nantes
   heading: Expositions à Nantes
   type: website
-  description: La Galerie vous accueille chaque jour du Jeudi au Samedi, de 11h à 19h et sur rendez-vous à domicile pour étudier un projet in situ.
+  description: Peinture, sculpture, estampe, photographie… Découvrez les expositions
+    du moment recommandées par la Galerie Gaïa, galerie d'art contemporain à Nantes.
   image: ''
 exhibitions:
 - template: exhibition
@@ -492,4 +493,5 @@ exhibitions:
     VALOTA peintures
 
     _Du 04/09/2015 au 05/17/2015_
+
 ---

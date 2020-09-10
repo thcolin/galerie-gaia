@@ -39,12 +39,11 @@ content: "![](/forestry/photo facade.jpg)\n\nLa **Galerie Gaïa** prolonge l’e
 about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité
   aux prochains vernissages ?"
 seo:
-  title: Le Lieu - Galerie Gaïa
+  title: Le Lieu - Galerie Gaïa, galerie d'art contemporain à Nantes
   heading: Galerie Gaïa, Galerie d'art à Nantes
   type: website
-  description: Galerie Gaia est une galerie art à Nantes depuis 1978 galerie d'exposition
-    d' art contemporain. La galerie Gaïa expose peintures, sculptures, photos, dessins
-    estampes d'artistes internationaux
+  description: Galerie Gaïa, galerie d'art contemporain à Nantes depuis 1978, expose
+    peintures, sculptures, photos, dessins, estampes d'artistes internationaux
   image: "/forestry/photo facade-1.jpg"
 redirect_from:
 - "/galerie-d-art-nantes/"
