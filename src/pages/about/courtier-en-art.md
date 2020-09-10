@@ -18,12 +18,11 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Courtier en art - Galerie Gaïa
+  title: Courtier en art - Galerie Gaïa, galerie d'art contemporain
   heading: Courtier en art
   type: website
-  description: "# courtier en art # Galerie Gaya  Elisabeth Givre conseil en art et
-    défiscalisation location et leasing art, le courtier en art réalise les acquisitions
-    auprès de galeries art internationales "
+  description: Conseil, sélection, négociation, livraison... Elisabeth Givre, directrice
+    de Galerie Gaïa, courtier en art, accompagne vos acquisitions patrimoniales.
   image: "/forestry/elisabeth givre- galerie gaia- article ouest france.png"
 
 ---

@@ -33,12 +33,12 @@ content:
     display: true
     placeholder: Renseignement évènementiel
 seo:
-  title: Evènementiel - Galerie Gaïa
+  title: Evènementiel - Galerie Gaïa, galerie d'art contemporain
   heading: Evènementiel
   type: website
-  description: "# evenementiel # Galerie Gaia propose event arty,  team building ,
-    evenementiel original pour entreprise, esprit créativité, fresque arty street
-    art, RSE, marque employeur"
+  description: 'Event arty, team building , évènement original d''entreprise, esprit
+    créativité, fresque arty street art, RSE, marque employeur : faites appel à nous
+    ! '
   image: "/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg"
 redirect_from:
 - "/location-de-salle-a-nantes/"

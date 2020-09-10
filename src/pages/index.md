@@ -8,12 +8,12 @@ carousel:
 redirect_from:
 - "/plan/"
 seo:
-  title: Accueil - Galerie Gaïa
+  title: Galerie Gaïa - Galerie d'art contemporain à Nantes
   heading: Galerie Gaïa, Galerie d'art à Nantes
   type: website
-  description: Galerie Gaïa galerie d'art quartier Decré cœur historique de Nantes,
-    exposition d’art contemporain abstrait figuratif, peinture sculpture estampe photo,
-    courtier en art, défiscalisation et location
+  description: 'Galerie Gaïa à Nantes : expo d’art contemporain, peinture, sculpture,
+    estampe, photographie, courtier en art, défiscalisation, location, prêt avant
+    achat.'
   image: ''
 
 ---

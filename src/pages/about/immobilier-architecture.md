@@ -22,12 +22,11 @@ content:
     display: true
     placeholder: Renseignement projet immobilier - décoration
 seo:
-  title: Immobilier Architecture - Galerie Gaïa
+  title: Immobilier et Architecture - Galerie Gaïa, galerie d'art contemporain
   heading: Immobilier Architecture
   type: website
-  description: '" art et decoration " Galerie Gaïa, galerie art contemporain travaille
-    sur des projets  promotion immobilière, décoration d''intérieur, architecture
-    , conseil location œuvre d''art, fresque street art '
+  description: Promotion immobilière, 1% charte un immeuble une œuvre, décoration
+    d'intérieur, architecture, location d'œuvres d'art, fresques murales, street art...
   image: "/forestry/galeriegaia-magazinecoté ouest-labaule pornichet.jpg"
 
 ---

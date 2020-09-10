@@ -42,12 +42,12 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Références - Galerie Gaïa
+  title: Références - Galerie Gaïa, galerie d'art contemporain
   heading: Références
   type: website
-  description: La Galerie Gaïa Elisabeth Givre vous conseille sur vos projets personnel
-    et professionnel, pour aménager, décorer, défiscaliser, faire un cadeau original
-    artistique, pour l’émotion de l'art ,
+  description: Ils nous font confiance - Galerie Gaïa vous conseille pour aménager,
+    décorer, défiscaliser… Prêt d'œuvres avant achat pour essayer en toute sérénité
+    !
   image: "/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
 
 ---
