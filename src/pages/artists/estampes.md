@@ -169,10 +169,8 @@ works:
     height: 66
     width: 50
     depth: 
-  description: |-
-    2003
-    600€
-  price: 
+  description: '2003 '
+  price: 650
   sold: false
   contextual: true
 - title: Gérard Traquandi - Pin à crochets I (1/30)
@@ -182,10 +180,10 @@ works:
     height: 66
     width: 50
     depth: 
-  description: |-
-    2003
-    600€
-  price: 
+  description: '2003
+
+'
+  price: 650
   sold: false
   contextual: true
 - title: Gérard Traquandi - Pin à crochets V (9/30)
@@ -195,10 +193,10 @@ works:
     height: 66
     width: 50
     depth: 
-  description: |-
-    2003
-    600€
-  price: 
+  description: '2003
+
+'
+  price: 650
   sold: false
   contextual: true
 - title: Antonio Saura - Francisco de Goya (WCC 280) (96/125)
