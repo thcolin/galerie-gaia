@@ -16,7 +16,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Installation triptyque   \n2020"
+  description: "Installation 3 cubes en triptyque  \n2020"
   price: 140
   contextual: false
 - title: Grès 12
@@ -33,20 +33,21 @@ works:
   image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG"
   technique: Crin de cheval au grès poli au galet
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 10
+    width: 6.5
+    depth: 8
   description: "2020"
-  price: 180
+  price: 120
   contextual: false
 - title: Grès 10
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-10.JPG"
-  technique: Crin de cheval au grès poli au galet
+  image: "/forestry/dscf6070-j-pecantet.JPG"
+  technique: Enfumage et grès poli au galet
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "2020"
+  description: "3 petits carrés installés en triptyque modulable \n\n1 cube de 7cm
+    \ / 1 cube de 6cm / 1 cube de 5cm  \n2020"
   price: 140
   contextual: false
 - title: Grès 9
@@ -60,14 +61,14 @@ works:
   price: 140
   contextual: false
 - title: Grès 8
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-8.JPG"
-  technique: Crin de cheval au grès poli au galet
+  image: "/forestry/dscf6073-j-pecantet.JPG"
+  technique: Enfumage sur grès poli au galet
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 9
+    width: 9
+    depth: 9
   description: "2020"
-  price: 80
+  price: 120
   contextual: false
 - title: Grès 7
   image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-7.JPG"
