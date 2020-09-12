@@ -51,13 +51,13 @@ works:
   price: 140
   contextual: false
 - title: Grès 9
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-9.JPG"
+  image: "/forestry/dscf2120-j-pecantet.JPG"
   technique: Crin de cheval au grès poli au galet
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "2020"
+    height: 7
+    width: 13
+    depth: 9
+  description: "2 cubes soudés  \n2020"
   price: 140
   contextual: false
 - title: Grès 8
@@ -77,18 +77,18 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "2020"
+  description: "1 cube de 7cm  / 1 cube de 6cm / 1 cube de 5cm  \n2020"
   price: 140
   contextual: false
 - title: Grès 6
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-6.JPG"
-  technique: Crin de cheval au grès poli au galet
+  image: "/forestry/dscf6079-j-pecantet.JPG"
+  technique: Cyanotype sur papier japon sur grès poli au galet
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "2020"
-  price: 80
+  description: "1 cube de 7cm  / 1 cube de 5cm / 1 cube de 4cm  \n2020"
+  price: 120
   contextual: false
 - title: Grès 5
   image: "/forestry/galerie-gaia-jacqueline-pecantet-gres6.jpg"
