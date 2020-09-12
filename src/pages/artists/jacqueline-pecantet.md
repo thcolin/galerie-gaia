@@ -6,7 +6,7 @@ field: Céramique
 birth: "0"
 death: "0"
 expose: true
-biography: "Des boules, des cubes...  \nDes cubes, clins d'oeil à Platon. Selon le
+biography: "Des boules, des cubes...  \nDes cubes, clins d’œil à Platon. Selon le
   philosophe, chacun des quatre éléments fondamentaux – la Terre, l'Eau, l'Air, le
   Feu – est associé à un solide. Le solide le plus stable, le cube, représente la
   Terre.  \nNi moule ni assemblage de plaques, toutes les pièces sont montées en colombins
@@ -97,7 +97,17 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "1 cube de 7cm  / 1 cube de 5cm / 1 cube de 4cm  \n2020"
+  description: "1 cube de 7cm  / 1 cube de 5cm / 1 cube de 4cm  \n[**La cyanotypie**](https://fr.wikipedia.org/wiki/Cyanotype
+    \"cyanotype\") est un procédé photographique dont l'invention remonte aux premiers
+    temps de la photographie (Hershell, 1842).\n\nCe procédé consiste à exposer aux
+    rayons du soleil un négatif par contact avec un papier enduit d'une solution sensible
+    (ferricyanure de potassium + citrate d’ammonium). Après une exposition de quelques
+    minutes, variable selon l'intensité du soleil et la densité du négatif, l'image
+    apparaît en immergeant le papier dans l'eau. La teinte bleu de Prusse (d'où le
+    nom de **cyano**type) est caractéristique du procédé.\n\nPendant longtemps, la
+    cyanotypie a été utilisée pour la reproduction de plans, notamment de plans d’architectes.
+    C'était en quelque sorte l'ancêtre de la photocopie. Elle est utilisée aujourd'hui
+    à des fins artistiques,"
   price: 120
   contextual: false
 - title: Rhizomes

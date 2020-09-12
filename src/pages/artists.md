@@ -43,6 +43,7 @@ artists:
 - artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/jean-claude-breat.md
 - artist: src/pages/artists/jorj-morin-peintre.md
+- artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/tony-soulie.md
 - artist: src/pages/artists/edith-basseville.md
 - artist: src/pages/artists/portrait.md
@@ -53,7 +54,6 @@ artists:
 - artist: src/pages/artists/renaud-allirand.md
 - artist: src/pages/artists/daha-daha.md
 - artist: src/pages/artists/stephanie-billarant.md
-- artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/adolfo-arenas-alonso.md
 - artist: src/pages/artists/art-galeries-nantes.md
 seo:
