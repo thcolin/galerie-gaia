@@ -6,7 +6,17 @@ field: Céramique
 birth: "0"
 death: "0"
 expose: true
-biography: ''
+biography: "Des boules, des cubes...  \nDes cubes, clins d'oeil à Platon. Selon le
+  philosophe, chacun des quatre éléments fondamentaux – la Terre, l'Eau, l'Air, le
+  Feu – est associé à un solide. Le solide le plus stable, le cube, représente la
+  Terre.  \nNi moule ni assemblage de plaques, toutes les pièces sont montées en colombins
+  et longuement polies au galet avant une cuisson en four électrique.\n\nGrès blanc,
+  grès rouge...Certaines pièces subiront une deuxième cuisson en four à gaz, et le
+  crin de cheval, déposé dès la sortie du four, viendra dessiner des calligraphies...
+  \ \nD'autres seront enfumées avec des ajouts d'oxydes, de matières et de végétaux
+  divers. La puissance du feu et des flammes décidera des nuances de bruns, de roux
+  et de noirs, ou laissera apparaître par endroits la couleur d'origine de la terre.\n\nParfois
+  les deux techniques sont associées.  \nDes pièces à toucher, à effleurer, à caresser..."
 exhibitions: []
 works:
 - title: Grès 13
@@ -90,56 +100,6 @@ works:
   description: "1 cube de 7cm  / 1 cube de 5cm / 1 cube de 4cm  \n2020"
   price: 120
   contextual: false
-- title: Grès 5
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres6.jpg"
-  technique: Crin de cheval au grès poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Taille moyenne entre 12 et 15 cm selon les modèles '
-  price: 120
-  contextual: true
-- title: Grès 4
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres3.jpg"
-  technique: Crin de cheval sur grès poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Taille moyenne entre 12 et 15 cm selon les modèles \n\nVendu par lot"
-  price: 140
-  contextual: true
-- title: Grès 3
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres2.jpg"
-  technique: Crin de cheval sur grès poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Taille moyenne entre 12 et 15 cm selon les modèles '
-  price: 64
-  contextual: true
-- title: Grès 2
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres.jpg"
-  technique: 'Crin de cheval sur grès poli au galet '
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Taille moyenne entre 12 et 15 cm selon les modèles '
-  price: 120
-  contextual: true
-- title: Grès
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres5.jpg"
-  technique: Crin de cheval sur grès, poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Taille moyenne entre 12 et 15 cm selon les modèles '
-  price: 120
-  contextual: true
 - title: Rhizomes
   image: "/forestry/rhizomes.jpg"
   technique: Eau forte et gaufrage 3/15
