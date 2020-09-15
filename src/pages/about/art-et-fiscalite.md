@@ -1,7 +1,7 @@
 ---
 template: about
 content:
-- column: "##### L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
+- column: "## L'Art de vivre au travail\n\nDans des **bureaux nouvelles générations,**
     la tendance de fond va bien au-delà d'un mobilier design pour donner une ambiance
     chaleureuse et renforcer l'**identité de votre entreprise auprès de _vos clients
     et collaborateurs._  \nLa RSE, la marque employeur, le bien être au travail pour
@@ -58,12 +58,11 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Art et fiscalité - Galerie Gaïa
+  title: Art et fiscalité - Galerie Gaïa, galerie d'art contemporain
   heading: Art et fiscalité
   type: website
-  description: "# défiscalisation art # Galerie Gaïa conseille entreprises et professions
-    libérales pour des acquisitions d’œuvres d'art, location, leasing comment choisir
-    une de ces solutions d'optimisation fiscale."
+  description: 'Défiscalisation art (acquisition, location, leasing) : Elisabeth Givre,
+    directrice de la Galerie Gaïa, conseille les entreprises et professions libérales.'
   image: "/forestry/galeriegaia-defiscalisation-location-leasing art.jpg"
 redirect_from:
 - "/prestations/"
