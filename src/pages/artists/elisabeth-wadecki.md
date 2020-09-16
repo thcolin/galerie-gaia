@@ -124,15 +124,6 @@ works:
     2020
   price: 400
   contextual: true
-- title: 'En mon jardin N°3 Toile '
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-n-3-100x100-acrylique-batons-d-huile-sur-toile-2019-1800euros.JPG"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: "2019"
-  price: 1800
-  contextual: true
 - title: En mon jardin N°4 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
@@ -362,7 +353,7 @@ works:
   description: |2-
 
     [video Art et Chapelle Le Rai profond St Sigismond](https://www.elisabeth-wadecki.com/video "galerie gaia - elisabeth wadecki video art et chapelle")
-  price: 0
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
