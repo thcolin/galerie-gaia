@@ -92,7 +92,7 @@ biography: "[Télécharger le Catalogue Exposition Toma L \"Il peint sur Nantes\
   ou Basquiat. Thomas, lui, peint à l’estomac, au cœur.\n\n**2001**\n\nThomas Labarthe
   découvre **Jean Dubuffet au Centre Pompidou**. Une rétrospective qui constitue pour
   lui un « véritable électrochoc ». 3 mois plus tard, il peint Mala bestia, sa première
-  toile. Le temps des expositions suivra : Paris, Carhaix, Nantes ou Tours."
+  toile. Le temps des expositions suivra : Paris, Carhaix, Nantes, Tours."
 exhibitions:
 - title: Exposition "Il peint sur Nantes"
   location: Galerie Gaia
@@ -106,7 +106,7 @@ works:
     height: 160
     width: 176
     depth: 0
-  description: "2019  \nPrix sur demande"
+  description: "2019  \nRéservé"
   price: 0
   contextual: true
 - title: Black colors and stone age
@@ -282,7 +282,7 @@ works:
   dimensions:
     height: 160
     width: 121
-  description: "caisse américaine noire  \nprix sur demande"
+  description: "caisse américaine noire  \nvendu"
   price: 
   sold: false
   contextual: false
