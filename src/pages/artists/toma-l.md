@@ -99,6 +99,27 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'Red Canaille '
+  image: "/forestry/red-canaille.jpg"
+  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
+  dimensions:
+    height: 162
+    width: 114
+    depth: 
+  description: "2016050213  \nprix sur demande "
+  price: ''
+  sold: false
+  contextual: true
+- title: Bonne pierre bon oeil 14
+  image: "/forestry/galerie-gaia-toma-labarthe-bonne-pierre-bon-oeil-14.jpg"
+  technique: Lithographie 9/10
+  dimensions:
+    height: 64
+    width: 46
+    depth: 0
+  description: Musée imprimerie de Nantes 2018
+  price: 400
+  contextual: true
 - title: Querelle carbone
   image: "/forestry/galeriegaia-toma-l-2019040109-querellecarbone-150x166cm_bd.jpg"
   technique: Mixte sur papier marouflé sur bois caisse américaine chêne
@@ -323,17 +344,6 @@ works:
     width: 95
     depth: 
   description: "2017051101  \nprix sur demande "
-  price: ''
-  sold: false
-  contextual: true
-- title: 'Red Canaille '
-  image: "/forestry/red-canaille.jpg"
-  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
-  dimensions:
-    height: 162
-    width: 114
-    depth: 
-  description: "2016050213  \nprix sur demande "
   price: ''
   sold: false
   contextual: true
