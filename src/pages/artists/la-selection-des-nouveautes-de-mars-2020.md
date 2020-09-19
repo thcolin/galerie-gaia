@@ -9,6 +9,17 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: 'Théâtre caché de Dimitri Bourriau '
+  image: "/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
+  technique: 'photographie '
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: '[Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/
+    "dimitri bourriau")'
+  price: 0
+  contextual: true
 - title: Nouveautés rentrée 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
