@@ -21,13 +21,101 @@ biography: " Mathilde Guiho sort diplômée en 2014 de ses études de photograph
   dans lequel un paysage est une peau et une peau un paysage.\n\n Aujourd’hui, son
   travail s’articule autour de la notion d’individualité, de recherche autour du souvenirs."
 works:
+- title: Oeil
+  image: "/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg"
+  technique: Photographie et broderie
+  dimensions:
+    height: 9
+    width: 10
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 200
+  sold: false
+  contextual: false
+- title: 'Loire '
+  image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
+  technique: Photographie
+  dimensions:
+    height: 9
+    width: 10
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+- title: 'Les genoux rouges '
+  image: "/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 12
+    width: 12
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+- title: Le regard
+  image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
+  technique: Photographie et broderies
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 320
+  sold: false
+  contextual: false
+- title: Embuée
+  image: "/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg"
+  technique: Photographie
+  dimensions:
+    height: 15
+    width: 10
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+- title: 'Eaux vides '
+  image: "/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg"
+  technique: 'Photographies '
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+- title: Ciel plein
+  image: "/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg"
+  technique: Photographie et broderies
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 320
+  sold: false
+  contextual: false
+- title: Brûlées
+  image: "/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg"
+  technique: Photographie
+  dimensions:
+    height: 15
+    width: 10
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
 - title: Mer
   image: "/forestry/mathilde-guiho-sans-titre-2015.jpg"
   technique: 'Photographie '
   dimensions:
     height: 50
     width: 75
-    depth: 0
+    depth: 
   description: "impression numérique sur papier mat smooth contrecollé sur dibond
     \ \ncaisse américaine noir  \nReste 2 tirages de disponible le 8/9 et 9/9"
   price: 480
