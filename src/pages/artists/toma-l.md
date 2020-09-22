@@ -127,7 +127,7 @@ works:
     height: 160
     width: 176
     depth: 0
-  description: "2019  \nRéservé"
+  description: "2019  \nVendue"
   price: 0
   contextual: true
 - title: Black colors and stone age
@@ -159,15 +159,6 @@ works:
     depth: 0
   description: "2019111401  \nVendue"
   price: 0
-  contextual: true
-- title: 'Trash and color '
-  image: "/forestry/galeriegaia@tomaL-2019111701-TrashAndColor-162x130cm.jpg"
-  technique: technique mixte sur toile en lin sur châssis à clef
-  dimensions:
-    height: 162
-    width: 130
-  description: "2019111701  \nprix sur demande "
-  price: ''
   contextual: true
 - title: 'Little trash '
   image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
@@ -232,24 +223,6 @@ works:
   description: "Caisse américaine noire  \n2019022501  \nprix sur demande"
   price: ''
   contextual: true
-- title: 'Black and simple color '
-  image: "/forestry/galeriegaia@tomaL-2018091815-blackandsimplecolor-110x80cm-1.jpg"
-  description: "Caisse américaine noire  \n2018091815  \nVendue"
-  price: ''
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 109
-    width: 79
-  contextual: true
-- title: 'Black and simple color '
-  image: "/forestry/galeriegaia@tomaL-2018091809-blackandsimplecolor-110x80cm copie-1.jpg"
-  technique: 'Technique mixte sur papier marouflé sur bois '
-  description: "caisse américaine noire  \n2018091809  \nprix sur demande "
-  price: ''
-  contextual: true
-  dimensions:
-    height: 109
-    width: 79
 - title: 'Drawing Trash Color '
   image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
   technique: 'Technique mixte sur papier '
@@ -287,26 +260,6 @@ works:
   description: "cadre blanc sous verre  \n2020031202  \nvendu"
   price: ''
   contextual: true
-- title: 'Black and simple color '
-  image: "/forestry/galeriegaia@tomaL-2018091802-blackandsimplecolor-110x80cm copie-1.jpg"
-  technique: 'Technique mixte sur papier marouflé sur bois '
-  dimensions:
-    height: 109
-    width: 79
-  description: "caisse américaine noire  \n2018091802  \nprix sur demande "
-  price: ''
-  sold: false
-  contextual: true
-- title: 'Green side of the man '
-  image: "/forestry/galeriegaia@tomaL-2018031801-Greensideohtheman-160x121cm-ES.jpg"
-  technique: 'Technique mixte sur toile de lin '
-  dimensions:
-    height: 160
-    width: 121
-  description: "caisse américaine noire  \nvendu"
-  price: 
-  sold: false
-  contextual: false
 - title: Red side of the man
   image: "/forestry/galeriegaia@tomaL-2018031701-Redsideohtheman-160x121cm-ES.jpg"
   technique: technique mixte sur toile en lin
