@@ -6,37 +6,59 @@ field: Photographie
 birth: ''
 death: ''
 expose: true
-biography: " Mathilde Guiho sort diplômée en 2014 de ses études de photographie à
-  Roubaix.  \n Attirée par l’image et sa capacité à suggérer plus qu’à dire, elle
-  s'inspire du quotidien, du banal pour créer des bouquets d’images poétiques s’inscrivant
-  dans un rapport secret entre l’humain et son environnement. \n\nPar une recherche
-  du sensible dans la proximité, Mathilde Guiho déploie le spectre d’une photographie
-  d’apparence vernaculaire où l’accident trouve sa place.  \nTâtonnant dans son quotidien
-  et mes souvenirs, Mathilde Guiho s’applique à y déceler la vulnérabilité des corps,
-  les mystères intérieurs comme une trace, une géographie intime d’une fiction documentaire.
+biography: "Mathilde Guiho sort diplômée en 2014 de ses études de photographie à Roubaix.
+  \ \nAttirée par l’image et sa capacité à suggérer plus qu’à dire, elle s'inspire
+  du quotidien, du banal pour créer des bouquets d’images poétiques s’inscrivant dans
+  un rapport secret entre l’humain et son environnement.\n\nPar une recherche du sensible
+  dans la proximité, Mathilde Guiho déploie le spectre d’une photographie d’apparence
+  vernaculaire où l’accident trouve sa place.  \nTâtonnant dans son quotidien et ses
+  souvenirs, Mathilde Guiho s’applique à y déceler la vulnérabilité des corps, les
+  mystères intérieurs comme une trace, une géographie intime d’une fiction documentaire.
   \ \nUtilisant principalement du matériel argentique, l'artiste mélange les formats
   (carré et 135 mm), la couleur et le noir et blanc. Cela offre une véritable liberté
   et spontanéité dans la prise de vue et accentue ce rapport charnel aux images mentales.\n\nPeu
   à peu se dessine un récit qui prend la forme d’un onirisme banal, un réalisme magique
-  dans lequel un paysage est une peau et une peau un paysage.\n\n Aujourd’hui, son
+  dans lequel un paysage est une peau et une peau un paysage.\n\nAujourd’hui, son
   travail s’articule autour de la notion d’individualité, de recherche autour du souvenirs."
 works:
-- title: Oeil
-  image: "/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg"
-  technique: Photographie et broderie
+- title: Brûlées
+  image: "/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg"
+  technique: Photographie
   dimensions:
-    height: 9
+    height: 15
     width: 10
     depth: 0
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 200
+  price: 160
   sold: false
   contextual: false
-- title: 'Loire '
-  image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
+- title: Ciel plein
+  image: "/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg"
+  technique: Photographie et broderies
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 320
+  sold: false
+  contextual: false
+- title: 'Eaux vides '
+  image: "/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg"
+  technique: 'Photographies '
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+- title: Embuée
+  image: "/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg"
   technique: Photographie
   dimensions:
-    height: 9
+    height: 15
     width: 10
     depth: 0
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
@@ -54,6 +76,50 @@ works:
   price: 160
   sold: false
   contextual: false
+- title: 'Loire '
+  image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
+  technique: Photographie
+  dimensions:
+    height: 9
+    width: 10
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+- title: Oeil
+  image: "/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg"
+  technique: Photographie et broderie
+  dimensions:
+    height: 9
+    width: 10
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 200
+  sold: false
+  contextual: false
+- title: 'Oiseaux '
+  image: "/forestry/galerie-gaia-mathilde-guiho-oiseaux-10x15.jpg"
+  technique: Photographie brodée
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 320
+  sold: false
+  contextual: true
+- title: Portrait de fil
+  image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
+  technique: 'Photographie et broderies '
+  dimensions:
+    height: 19
+    width: 13
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 320
+  sold: false
+  contextual: false
 - title: Le regard
   image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
   technique: Photographie et broderies
@@ -65,41 +131,8 @@ works:
   price: 320
   sold: false
   contextual: false
-- title: Embuée
-  image: "/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg"
-  technique: Photographie
-  dimensions:
-    height: 15
-    width: 10
-    depth: 0
-  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 160
-  sold: false
-  contextual: false
-- title: 'Eaux vides '
-  image: "/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg"
-  technique: 'Photographies '
-  dimensions:
-    height: 10
-    width: 15
-    depth: 0
-  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 160
-  sold: false
-  contextual: false
-- title: Ciel plein
-  image: "/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg"
-  technique: Photographie et broderies
-  dimensions:
-    height: 10
-    width: 15
-    depth: 0
-  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 320
-  sold: false
-  contextual: false
-- title: Brûlées
-  image: "/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg"
+- title: Rouge
+  image: "/forestry/galerie-gaia-mathilde-guiho-rouge-15x10.jpg"
   technique: Photographie
   dimensions:
     height: 15
@@ -117,17 +150,29 @@ works:
     width: 75
     depth: 
   description: "impression numérique sur papier mat smooth contrecollé sur dibond
-    \ \ncaisse américaine noir  \nReste 2 tirages de disponible le 8/9 et 9/9"
-  price: 480
+    \ \ncaisse américaine noir  \nReste 2 tirages disponibles le 8/9 et 9/9"
+  price: 550
   sold: false
   contextual: true
 exhibitions:
-- title: 'Les genoux rouges  '
-  location: Galerie Gaia
+- title: 'Les genoux rouges  Galerie Gaia '
+  location: Nantes
   start: Octobre 2020
   end: ''
+- title: 'L''atelier argentique '
+  location: 'Nantes '
+  start: 10/2019
+  end: 12/2019
+- title: Le rayon vert
+  location: 'Nantes '
+  start: 11/2017
+  end: 01/2018
+- title: 'Le lieu unique '
+  location: 'Nantes '
+  start: 11/2017
+  end: ''
 - title: Start Up Galerie Gaia
-  location: ''
+  location: Nantes
   start: juin 2016
   end: ''
 
