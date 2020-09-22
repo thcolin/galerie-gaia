@@ -1,9 +1,9 @@
 ---
 template: artists
 artists:
-- artist: src/pages/artists/mathilde-guiho.md
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
+- artist: src/pages/artists/mathilde-guiho.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/pierre-muckensturm.md

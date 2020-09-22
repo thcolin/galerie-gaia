@@ -21,6 +21,17 @@ biography: "Mathilde Guiho sort diplômée en 2014 de ses études de photographi
   dans lequel un paysage est une peau et une peau un paysage.\n\nAujourd’hui, son
   travail s’articule autour de la notion d’individualité, de recherche autour du souvenirs."
 works:
+- title: Portrait de fil
+  image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
+  technique: 'Photographie et broderies '
+  dimensions:
+    height: 19
+    width: 13
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 320
+  sold: false
+  contextual: false
 - title: Brûlées
   image: "/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg"
   technique: Photographie
@@ -65,17 +76,6 @@ works:
   price: 160
   sold: false
   contextual: false
-- title: 'Les genoux rouges '
-  image: "/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
-  technique: 'Photographie '
-  dimensions:
-    height: 12
-    width: 12
-    depth: 0
-  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 160
-  sold: false
-  contextual: false
 - title: 'Loire '
   image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
   technique: Photographie
@@ -109,17 +109,6 @@ works:
   price: 320
   sold: false
   contextual: true
-- title: Portrait de fil
-  image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
-  technique: 'Photographie et broderies '
-  dimensions:
-    height: 19
-    width: 13
-    depth: 0
-  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 320
-  sold: false
-  contextual: false
 - title: Le regard
   image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
   technique: Photographie et broderies
@@ -129,6 +118,17 @@ works:
     depth: 0
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 320
+  sold: false
+  contextual: false
+- title: 'Les genoux rouges '
+  image: "/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 12
+    width: 12
+    depth: 0
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
   sold: false
   contextual: false
 - title: Rouge

@@ -317,17 +317,6 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: 'Black Rhapsody #14'
-  image: "/forestry/black-rhapsody-14.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 130
-    width: 97
-    depth: 
-  description: '2016-2019  '
-  price: 2200
-  sold: false
-  contextual: true
 - title: Nuit en mer IV (1/13)
   image: "/forestry/nuit-en-mer-iii-113.jpg"
   technique: Lithographie

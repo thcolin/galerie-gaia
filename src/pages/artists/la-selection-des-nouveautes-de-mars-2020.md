@@ -9,6 +9,11 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Nouveautés rentrée 2020
+  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  description: ''
+  price: 0
+  contextual: true
 - title: 'Théâtre caché de Dimitri Bourriau '
   image: "/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
   technique: 'photographie '
@@ -20,11 +25,17 @@ works:
     "dimitri bourriau")'
   price: 0
   contextual: true
-- title: Nouveautés rentrée 2020
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
-  description: ''
-  price: 0
-  contextual: true
+- title: Le regard de Mathilde Guiho
+  image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
+  technique: Photographie et broderies
+  dimensions:
+    height: 10
+    width: 15
+    depth: 0
+  description: '[Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/ "mathilde
+    guillo")'
+  price: 320
+  contextual: false
 - title: EN LIBERTE triptyque de Marie Bathellier
   image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
   dimensions:

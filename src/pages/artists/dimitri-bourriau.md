@@ -22,15 +22,15 @@ biography: |-
   Ses images sont éditées en seulement 15 exemplaires pour vous garantir une meilleure exclusivité de ses photos.
 exhibitions: []
 works:
-- title: Théâtre caché ?
-  image: "/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
+- title: 'Théâtre caché '
+  image: "/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
   technique: 'Photographie sur papier baryté collé dibon '
   dimensions:
     height: 30
     width: 40
-    depth: 0
+    depth: 
   description: 'Caisse américaine noire - prix sur demande '
-  price: 0
+  price: 
   sold: false
   contextual: true
 - title: Bank
