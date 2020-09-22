@@ -21,13 +21,13 @@ biography: "Mathilde Guiho sort diplômée en 2014 de ses études de photographi
   dans lequel un paysage est une peau et une peau un paysage.\n\nAujourd’hui, son
   travail s’articule autour de la notion d’individualité, de recherche autour du souvenirs."
 works:
-- title: Portrait de fil
-  image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
-  technique: 'Photographie et broderies '
+- title: Le regard
+  image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
+  technique: Photographie et broderies
   dimensions:
-    height: 19
-    width: 13
-    depth: 0
+    height: 10
+    width: 15
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 320
   sold: false
@@ -38,7 +38,7 @@ works:
   dimensions:
     height: 15
     width: 10
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 160
   sold: false
@@ -49,7 +49,7 @@ works:
   dimensions:
     height: 10
     width: 15
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 320
   sold: false
@@ -60,7 +60,7 @@ works:
   dimensions:
     height: 10
     width: 15
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 160
   sold: false
@@ -71,7 +71,7 @@ works:
   dimensions:
     height: 15
     width: 10
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 160
   sold: false
@@ -82,7 +82,7 @@ works:
   dimensions:
     height: 9
     width: 10
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 160
   sold: false
@@ -93,7 +93,7 @@ works:
   dimensions:
     height: 9
     width: 10
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 200
   sold: false
@@ -104,18 +104,18 @@ works:
   dimensions:
     height: 10
     width: 15
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 320
   sold: false
   contextual: true
-- title: Le regard
-  image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
-  technique: Photographie et broderies
+- title: Portrait de fil
+  image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
+  technique: 'Photographie et broderies '
   dimensions:
-    height: 10
-    width: 15
-    depth: 0
+    height: 19
+    width: 13
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 320
   sold: false
@@ -126,7 +126,7 @@ works:
   dimensions:
     height: 12
     width: 12
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 160
   sold: false
@@ -137,7 +137,7 @@ works:
   dimensions:
     height: 15
     width: 10
-    depth: 0
+    depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 160
   sold: false
