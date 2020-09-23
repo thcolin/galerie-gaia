@@ -10,10 +10,12 @@ biography: "Les genoux rouges\n\n\"Comme une exploration souterraine, « Les gen
   rouges » cherche autour du lien matériel des souvenirs. Dans le corps d’abord. La
   peau, celle qui s’effrite par le soleil, qui nous rend si vulnérable, si fragile.
   Par le tirage ensuite. Cette surface sensible que l’on altère malmène, gratte, brode,
-  pare de couleur. Protagoniste de sa propre fiction, Mathile Guiho glane ses images
+  pare de couleur. Protagoniste de sa propre fiction, Mathilde Guiho glane ses images
   années après années dans ses lieux d’enfances et son quotidien. Le confinement en
   a fait émergé une créativité nouvelle et leur a permis de trouver place dans une
-  histoire commune. En petit, en intime, comme des photos de famille.  \n________________________________________________________________________\n\nMathilde
+  histoire commune. En petit, en intime, comme des photos de famille.\n\nLa série
+  est disponible dans sa totalité, avec un rythme d'accrochage proposé par l'artiste,
+  2000€ , édition en 3 exemplaires.  \n________________________________________________________________________\n\nMathilde
   Guiho sort diplômée en 2014 de ses études de photographie à Roubaix.  \nAttirée
   par l’image et sa capacité à suggérer plus qu’à dire, elle s'inspire du quotidien,
   du banal pour créer des bouquets d’images poétiques s’inscrivant dans un rapport
