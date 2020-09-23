@@ -151,6 +151,17 @@ works:
   price: 160
   sold: false
   contextual: false
+- title: Portrait de Mathilde Guiho
+  image: "/forestry/galerie-gaia-mathilde-guiho-portrait1.jpg"
+  technique: ''
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Mer
   image: "/forestry/mathilde-guiho-sans-titre-2015.jpg"
   technique: 'Photographie '
