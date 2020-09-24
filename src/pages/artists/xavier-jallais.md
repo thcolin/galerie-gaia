@@ -105,17 +105,6 @@ works:
   price: 230
   sold: false
   contextual: true
-- title: Atlas 3 (3/3)
-  image: "/forestry/atlas-3-33.jpg"
-  technique: Eau forte sur zinc, tirage 3 ex sur RBK Rives 300g/m²
-  dimensions:
-    height: 46
-    width: 36
-    depth: 
-  description: '2019 '
-  price: 230
-  sold: false
-  contextual: true
 redirect_from:
 - "/artistes/75-xavier-jallais/"
 
