@@ -56,7 +56,7 @@ works:
     1700€  \nFormat 60X40 tirage en 10 exemplaires 750€"
   price: 1700
   contextual: true
-- title: 21 Chicago
+- title: Chicago 21
   image: "/forestry/_dsf1181_1.jpg"
   technique: 'Photographie '
   dimensions:
