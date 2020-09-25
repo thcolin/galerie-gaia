@@ -66,7 +66,7 @@ works:
     height: 68
     width: 50
     depth: 
-  description: ''
+  description: 'Œuvre encadrée sur fond noir et verre musée baguette aluminium noire '
   price: 1300
   sold: false
   contextual: true
