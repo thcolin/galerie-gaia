@@ -34,6 +34,17 @@ biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier
   Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
+- title: Tokyo 6
+  image: "/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg"
+  technique: Photographie
+  dimensions:
+    height: 35
+    width: 45
+    depth: 0
+  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
+    blanc standard 1/10
+  price: 490
+  contextual: true
 - title: Tokyo 4
   image: "/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg"
   technique: Photographie
@@ -117,7 +128,9 @@ works:
     height: 80
     width: 80
     depth: 
-  description: 'Tirage papier fine art sur dibon caisse américaine bois '
+  description: "Tirage papier fine art sur dibon caisse américaine bois  \nPhotographie
+    visible à la brasserie [Le Molière](https://www.lemoliere.fr/ \"barsserie le Molière
+    \") à Nantes "
   price: ''
   sold: false
   contextual: true
@@ -150,7 +163,8 @@ works:
     height: 100
     width: 85
     depth: 
-  description: Edition en 15 exemplaires
+  description: "Edition en 15 exemplaires  \noeuvres visible à la brasserie [Le Molière](https://www.lemoliere.fr/
+    \"brasserie le moliere \") à Nantes"
   price: ''
   sold: false
   contextual: true
