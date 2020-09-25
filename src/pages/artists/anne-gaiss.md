@@ -56,7 +56,7 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: 2200
+  price: 1800
   contextual: true
   image: "/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
 - title: Nigredo
