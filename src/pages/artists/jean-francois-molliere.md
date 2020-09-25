@@ -67,7 +67,7 @@ works:
     noire 3/5 '
   price: 2300
   contextual: true
-- title: Tokyo
+- title: Tokyo 7
   image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 22
     26.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
@@ -78,7 +78,7 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: Tokyo
+- title: Tokyo 1
   image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
     22.JPG"
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
