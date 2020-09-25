@@ -48,7 +48,7 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: 2200
+  price: 1800
   contextual: true
 - title: Empreinte
   dimensions:

@@ -100,6 +100,16 @@ exhibitions:
   start: "40615"
   end: "270615"
 works:
+- title: Quiet days under the trees 13
+  image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg"
+  technique: Cire et pigments sur bois
+  dimensions:
+    height: 135
+    width: 110
+    depth: 0
+  description: "Oeuvre encadrée caisse americaine bois brut  \n2020"
+  price: 6000
+  contextual: true
 - title: Tour morodrée noire
   image: "/forestry/valota-tour-noir-mordore-hauteur-57cm-diametre-42cm-ceramique-2019.jpg"
   technique: Céramique
@@ -129,16 +139,6 @@ works:
   description: "2020"
   price: 3000
   contextual: false
-- title: Quiet days under the trees 13
-  image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg"
-  technique: Cire et pigments sur bois
-  dimensions:
-    height: 135
-    width: 110
-    depth: 0
-  description: "Oeuvre encadrée caisse americaine bois brut  \n2020"
-  price: 6000
-  contextual: true
 - title: Quiet days under the trees 6
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg"
   technique: Cire et pigments sur bois
