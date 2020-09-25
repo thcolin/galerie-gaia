@@ -34,6 +34,27 @@ biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier
   Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
+- title: New York 11
+  image: "/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg"
+  technique: Photographie
+  dimensions:
+    height: 70
+    width: 70
+    depth: 0
+  description: ''
+  price: 1500
+  contextual: true
+- title: Tokyo 8
+  image: "/forestry/galerie-gaia-molliere-jf-tokyo-8-40-x-40-cm-jpeg.jpg"
+  technique: Photographie
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
+    blanc standard 1/10
+  price: 490
+  contextual: true
 - title: Tokyo 6
   image: "/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg"
   technique: Photographie
