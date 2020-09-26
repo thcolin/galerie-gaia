@@ -493,5 +493,18 @@ exhibitions:
     VALOTA peintures
 
     _Du 04/09/2015 au 05/17/2015_
+- template: exhibition
+  image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
+  title: '"Ensemble" exposition photos de Jean-François Mollière'
+  content: |-
+    Auteur photographe, reporter indépendant et journaliste, le manceau Jean-françois Mollière a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture. Directeur artistique, il scénographie également des aménagements photographiques de lieux publics et privés. Ces travaux de commande portent nécessairement l’empreinte de sa recherche photographique.
+
+    Une recherche qui prend la forme d’itinérances, une quête d’images protéiformes. Quête de la fiction dans le réel, du reflet sur la surface, de l’image dans le cadre. Image longtemps recherchée, passée au tamis de la séduction anecdotique, image éprouvée. En 30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire des accoutumances, d’aller là où l’imaginaire devient plus fort. On reconnaît dans sa photographie, des icônes très inspirées par le cinéma et la peinture.
+
+    _Valérie Fade-Py_
+- template: exhibition
+  image: "/forestry/flyerverso-galerie-gaia-fotofever.jpg"
+  title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
+  content: Invitations disponibles sur demande à la galerie ou par mail galeriegaia@orange.fr
 
 ---
