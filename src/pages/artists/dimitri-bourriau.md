@@ -20,6 +20,8 @@ biography: |-
   En 2017 il devient ambassadeur Manfrotto et en 2018 c'est Irix, la marque d'objectif ultra grand-angle d'origine Suisse qui propose à Dimitri Bourriau de devenir leur ambassadeur.
 
   Ses images sont éditées en seulement 15 exemplaires pour vous garantir une meilleure exclusivité de ses photos.
+
+  En 2020 lauréat du concours Siena International Photo Awards (SIPA Contest) Drone Photo Adwards catégorie Urban pour Soviet space shuttles.
 exhibitions: []
 works:
 - title: 'Théâtre caché '
