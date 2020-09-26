@@ -27,7 +27,7 @@ works:
   technique: Photographie sur papier baryté collé dibond
   dimensions:
     height: 30
-    width: 40
+    width: 45
     depth: 
   description: 'Caisse américaine noire - prix sur demande '
   price: 
