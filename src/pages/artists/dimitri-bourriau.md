@@ -29,9 +29,9 @@ works:
   dimensions:
     height: 150
     width: 100
-    depth: 0
-  description: Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
-    Prix sur demande
+    depth: 
+  description: "Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
+    \  \nPrix sur demande"
   price: 
   sold: false
   contextual: true
