@@ -39,6 +39,16 @@ biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre 
 exhibitions:
 - {}
 works:
+- title: Stan le bouledog anglais
+  technique: 'Bronze '
+  dimensions:
+    height: 25
+    width: 53
+    depth: 41
+  description: "pièces numérotées /8  \nFonderie Paumelle"
+  price: 4900
+  contextual: false
+  image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
 - title: James le cocker anglais
   image: "/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
   technique: 'bronze '
@@ -48,7 +58,7 @@ works:
     depth: 46
   description: "Fonderie Paumelle  \nSérie limitée"
   price: 5900
-  contextual: true
+  contextual: false
 - title: Omer Le Dog Allemand
   image: "/forestry/galerie-gaia-virginie-chardon-omer-2.jpg"
   technique: 'Bronze '
@@ -70,16 +80,6 @@ works:
   price: 7000
   sold: false
   contextual: false
-- title: Stan le bouledog anglais
-  technique: 'Bronze '
-  dimensions:
-    height: 25
-    width: 53
-    depth: 41
-  description: "pièces numérotées /8  \nFonderie Paumelle"
-  price: 4900
-  contextual: false
-  image: "/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
 - title: Hipolyte le morse
   image: "/forestry/hipolyte-le-morse.jpg"
   technique: 'bronze '
