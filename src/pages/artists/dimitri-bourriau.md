@@ -31,7 +31,8 @@ works:
     width: 100
     depth: 
   description: "Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
-    \  \nPrix sur demande"
+    \n\n[vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 \"dimitri bourriau\")
+    du 1er lancement du programme Buran  \nPrix sur demande"
   price: 
   sold: false
   contextual: true
