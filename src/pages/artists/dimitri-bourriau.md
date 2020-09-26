@@ -24,7 +24,7 @@ exhibitions: []
 works:
 - title: 'Théâtre caché '
   image: "/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
-  technique: 'Photographie sur papier baryté collé dibon '
+  technique: Photographie sur papier baryté collé dibond
   dimensions:
     height: 30
     width: 40
@@ -35,7 +35,7 @@ works:
   contextual: true
 - title: Bank
   image: "/forestry/dimitribourriau_bank_2017.jpg"
-  technique: 'Photo argentique tirage papier sur dibon 15 exemplaires '
+  technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
   dimensions:
     height: 120
     width: 80
