@@ -12,7 +12,7 @@ exhibitions:
   image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
   title: '"Ensemble" exposition photos de Jean-François Mollière'
   content: |-
-    Ouverture de la QPN Quinzaine Photographique Nantaise
+    Ouverture de la [QPN ](https://www.festival-qpn.com "QPN NANTES ")Quinzaine Photographique Nantaise
 
     "ENSEMBLE"
 
@@ -26,7 +26,10 @@ exhibitions:
 - template: exhibition
   image: "/forestry/flyerverso-galerie-gaia-fotofever.jpg"
   title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
-  content: Invitations disponibles sur demande à la galerie ou par mail galeriegaia@orange.fr
+  content: |-
+    [fotofever](https://www.fotofever.com/exhibitor/gaia/1275 "fotofever") Invitations disponibles sur demande à la galerie ou par mail galeriegaia@orange.fr
+
+    **Embarquez pour un tour du monde la photographie contemporaine!** fotofever accueille au Carrousel du Louvre, au cœur de Paris, **50 galeries et éditeurs dont la Galerie Gaïa** présentant le meilleur de la scène photographique contemporaine avec 150 artistes exposés
 - template: exhibition
   image: "/forestry/20200827_001459.jpg"
   title: Exposition à Pornichet
