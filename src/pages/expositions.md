@@ -9,6 +9,25 @@ seo:
   image: ''
 exhibitions:
 - template: exhibition
+  image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
+  title: '"Ensemble" exposition photos de Jean-François Mollière'
+  content: "Ouverture de la QPN Quinzaine Photographique Nantaise \n\n\"ENSEMBLE\"\n\nJean-François
+    Mollière réunit l’infiniment sensible blottit dans de grands ensemble urbains
+    qui pourraient paraître hostiles.\n\nSa traque de l’instant se fait patiemment,
+    à l’abri, et son travail ambitionne de réunir l’unité de temps à l’unité de lieu
+    pour créer un ensemble qui nous parait familier par sa photogénie cinématographique.
+    Tout est minutieusement attendu pour créer avec les hasards des mouvements et
+    de la lumière, une histoire digne d’un scénario de grands studios.\n\nQue dire
+    aussi de ces individus en composition avec leur milieu, dans un métro, une salle
+    de classe ou un restaurant. Cela nous ramène à cette notion du « je » avec les
+    autres qui forme intuitivement un ensemble et invente un corpus qui nous dépasse.\n\nCette
+    notion de la dualité dans un ensemble est réellement sensible dans les différentes
+    séries de Jean-François Mollière."
+- template: exhibition
+  image: "/forestry/flyerverso-galerie-gaia-fotofever.jpg"
+  title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
+  content: Invitations disponibles sur demande à la galerie ou par mail galeriegaia@orange.fr
+- template: exhibition
   image: "/forestry/20200827_001459.jpg"
   title: Exposition à Pornichet
   content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
@@ -493,18 +512,5 @@ exhibitions:
     VALOTA peintures
 
     _Du 04/09/2015 au 05/17/2015_
-- template: exhibition
-  image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
-  title: '"Ensemble" exposition photos de Jean-François Mollière'
-  content: |-
-    Auteur photographe, reporter indépendant et journaliste, le manceau Jean-françois Mollière a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture. Directeur artistique, il scénographie également des aménagements photographiques de lieux publics et privés. Ces travaux de commande portent nécessairement l’empreinte de sa recherche photographique.
-
-    Une recherche qui prend la forme d’itinérances, une quête d’images protéiformes. Quête de la fiction dans le réel, du reflet sur la surface, de l’image dans le cadre. Image longtemps recherchée, passée au tamis de la séduction anecdotique, image éprouvée. En 30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire des accoutumances, d’aller là où l’imaginaire devient plus fort. On reconnaît dans sa photographie, des icônes très inspirées par le cinéma et la peinture.
-
-    _Valérie Fade-Py_
-- template: exhibition
-  image: "/forestry/flyerverso-galerie-gaia-fotofever.jpg"
-  title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
-  content: Invitations disponibles sur demande à la galerie ou par mail galeriegaia@orange.fr
 
 ---
