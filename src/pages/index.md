@@ -3,7 +3,6 @@ template: home
 carousel:
 - image: "/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg"
 - image: "/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg"
-- image: "/forestry/_dsf1181_1.jpg"
 - image: "/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg"
 redirect_from:
 - "/plan/"
