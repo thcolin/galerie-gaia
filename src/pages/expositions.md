@@ -12,9 +12,7 @@ exhibitions:
   image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
   title: '"Ensemble" exposition photos de Jean-François Mollière'
   content: |-
-    Ouverture de la [QPN ](https://www.festival-qpn.com "QPN NANTES ")Quinzaine Photographique Nantaise
-
-    "ENSEMBLE"
+    Ouverture de la [QPN ](https://www.festival-qpn.com "QPN NANTES ")Quinzaine Photographique Nantaise sur la thématique de "ENSEMBLE".
 
     [Jean-François Mollière](https://galeriegaia.fr/artists/jean-francois-molliere/ "jean francois molliere ") réunit l’infiniment sensible blottit dans de grands ensemble urbains qui pourraient paraître hostiles.
 
