@@ -224,5 +224,8 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/60-rycho-ryszard-swierad/"
+fields:
+- Peintre
+- " Photographe"
 
 ---

@@ -21,6 +21,11 @@ fields:
     required: true
   label: Field
   description: Champ Artistique
+- name: fields
+  type: tag_list
+  default: []
+  label: Fields
+  description: Champs Artistique
 - name: birth
   type: text
   config:
@@ -68,6 +73,11 @@ fields:
       required: false
     label: Technique
     description: Technique
+  - name: fields
+    type: tag_list
+    default: []
+    label: Fields
+    description: Champs Artistique
   - name: dimensions
     type: field_group
     config: {}
