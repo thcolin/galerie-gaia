@@ -38,8 +38,9 @@ const Artist = ({ ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        title={`${frontmatter.title} - Galerie Gaïa`}
-        description={truncate(rmmd(frontmatter.biography))}
+        // TODO: Gérer la possibilité de surcharger avec frontmatter.seo
+        title={`${frontmatter.title} - Galerie Gaïa`} // TODO: Ajouter frontmatter.field
+        description={truncate(rmmd(frontmatter.biography))} // TODO: Gérer manuellement avec le template
         image={slides[0]?.image}
         pageContext={props.pageContext}
       />
@@ -143,13 +144,13 @@ const Artist = ({ ...props }) => {
         )}
         {!!frontmatter.biography && (
           <div css={Artist.styles.biography}>
-            <h2>Biographie</h2>
+            <label>Biographie</label>
             <RichText children={frontmatter.biography} />
           </div>
         )}
           {!!frontmatter.exhibitions?.length && (
           <div css={Artist.styles.exhibitions}>
-            <h2>Expositions</h2>
+            <label>Expositions</label>
             {frontmatter.exhibitions.map((exhibition, index) => (
               <p css={Artist.styles.exhibition} key={index}>
                 {!!(parseInt(exhibition.start) || parseInt(exhibition.end)) && (
@@ -311,13 +312,26 @@ Artist.styles = {
     },
   },
   biography: {
+    padding: '0 1rem 1rem',
     '>div': {
       padding: '0.5em 0',
       lineHeight: '1.5',
     },
+    '>label': {
+      display: 'block',
+      fontSize: '1.25em',
+      fontWeight: 'bold',
+      margin: '1em 0',
+    }
   },
   exhibitions: {
     padding: '0 1rem 1rem',
+    '>label': {
+      display: 'block',
+      fontSize: '1.25em',
+      fontWeight: 'bold',
+      margin: '1em 0',
+    }
   },
   exhibition: {
     fontSize: '0.875em',
