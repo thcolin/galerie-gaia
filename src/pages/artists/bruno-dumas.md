@@ -2,7 +2,10 @@
 template: artist
 title: Bruno Dumas
 location: Nantes
-field: peinture dessin sténopé
+fields:
+- Peinture
+- Dessin
+- Sténopé
 birth: "0"
 death: "0"
 expose: false

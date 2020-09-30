@@ -2,7 +2,8 @@
 template: artist
 title: Javier Roz
 location: Espagne
-field: graveur
+fields:
+- Gravure
 birth: 0
 death: 0
 expose: false

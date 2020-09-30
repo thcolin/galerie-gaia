@@ -2,7 +2,10 @@
 template: artist
 title: Alain Clément
 location: ''
-field: Peintre Sculpteur Graveur
+fields:
+- Peinture
+- Sculpture
+- Gravure
 birth: "0"
 death: "0"
 expose: true

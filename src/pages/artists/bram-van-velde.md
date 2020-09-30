@@ -2,7 +2,9 @@
 template: artist
 title: Bram Van Velde
 location: ''
-field: Peintre Lithographe
+fields:
+- Peinture
+- Lithographie
 birth: "0"
 death: "0"
 expose: true

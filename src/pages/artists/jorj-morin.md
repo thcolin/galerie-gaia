@@ -2,7 +2,10 @@
 template: artist
 title: Jorj Morin
 location: Nantes
-field: Gravures - Stèles - Tapisseries
+fields:
+- Gravure
+- Stèle
+- Tapisserie
 birth: "1909"
 death: "1995"
 expose: true

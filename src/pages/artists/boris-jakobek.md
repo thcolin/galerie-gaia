@@ -2,7 +2,8 @@
 template: artist
 title: Boris Jakobek
 location: ''
-field: Sérigraphe
+fields:
+- Sérigraphie
 birth: "0"
 death: "0"
 expose: true

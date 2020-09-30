@@ -2,7 +2,8 @@
 template: artist
 title: Muriel Chene
 location: Paris
-field: Sculpture
+fields:
+- Sculpture
 birth: 0
 death: 0
 expose: false

@@ -2,7 +2,8 @@
 template: artist
 title: Jean Claude Bréat
 location: France
-field: Peintre
+fields:
+- Peinture
 birth: "0"
 death: "0"
 expose: true

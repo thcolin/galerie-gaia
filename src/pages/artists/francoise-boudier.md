@@ -2,7 +2,8 @@
 template: artist
 title: Françoise Boudier
 location: ''
-field: Sculpteur
+fields:
+- Sculpture
 birth: 0
 death: 0
 expose: false

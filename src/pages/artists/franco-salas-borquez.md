@@ -2,7 +2,8 @@
 template: artist
 title: Franco Salas Borquez
 location: Franco Chilien
-field: Peinture à l'huile
+fields:
+- Peinture à l'huile
 birth: "0"
 death: "0"
 expose: true

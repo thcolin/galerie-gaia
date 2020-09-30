@@ -2,7 +2,8 @@
 template: artist
 title: Jean-François Mollière
 location: ''
-field: Photographe
+fields:
+- Photographie
 birth: "0"
 death: "0"
 expose: true

@@ -2,7 +2,8 @@
 template: artist
 title: Edwin Wide
 location: ''
-field: Graffeur
+fields:
+- Graffiti
 birth: "0"
 death: "0"
 expose: true

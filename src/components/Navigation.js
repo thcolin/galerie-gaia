@@ -98,6 +98,7 @@ Navigation.styles = {
     flex: 1,
     textAlign: 'center',
     fontFamily: theme.fonts.primary,
+    letterSpacing: '0.1em',
     [theme.medias.small]: {
       justifyContent: 'flex-start',
       maxHeight: '100vh',

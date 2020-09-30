@@ -2,7 +2,9 @@
 template: artist
 title: Pierre Muckensturm
 location: ''
-field: Peintre et Graveur
+fields:
+- Peinture
+- Gravure
 birth: "0"
 death: "0"
 expose: true

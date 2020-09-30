@@ -2,7 +2,8 @@
 template: artist
 title: Sébastien Bouchard
 location: 
-field: Graffeur
+fields:
+- Graffiti
 birth: 
 death: 
 expose: true

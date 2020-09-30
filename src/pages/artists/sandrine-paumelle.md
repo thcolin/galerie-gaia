@@ -2,7 +2,8 @@
 template: artist
 title: Sandrine Paumelle
 location: Paris
-field: peinture
+fields:
+- Peinture
 birth: 0
 death: 0
 expose: false

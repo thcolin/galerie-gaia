@@ -2,7 +2,8 @@
 template: artist
 title: Toma L
 location: ''
-field: Peintre
+fields:
+- Peinture
 birth: ''
 death: ''
 expose: true

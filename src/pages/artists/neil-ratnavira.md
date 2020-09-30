@@ -2,7 +2,9 @@
 template: artist
 title: Neil Ratnavira
 location: ''
-field: Photographe - Peintre
+fields:
+- Photographie
+- Peinture
 birth: "0"
 death: "0"
 expose: true

@@ -2,7 +2,8 @@
 template: artist
 title: Annick Argant
 location: France
-field: Sculpture
+fields:
+- Sculpture
 birth: "0"
 death: "0"
 expose: true

@@ -2,7 +2,8 @@
 template: artist
 title: Projet Versants
 location: ''
-field: sérigraphie
+fields:
+- Sérigraphie
 birth: "0"
 death: "0"
 expose: true

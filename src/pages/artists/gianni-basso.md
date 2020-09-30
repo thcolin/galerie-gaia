@@ -2,7 +2,8 @@
 template: artist
 title: Gianni Basso
 location: ITALIE
-field: Photographe
+fields:
+- Photographie
 birth: 0
 death: 0
 expose: false

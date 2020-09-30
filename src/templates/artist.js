@@ -52,8 +52,8 @@ const Artist = ({ ...props }) => {
               ({[parseInt(frontmatter.birth), parseInt(frontmatter.death)].filter(year => year).join(' - ')})
             </small>
           )}
-          {!!(frontmatter.location || frontmatter.field) && (
-            <p>{[frontmatter.location, frontmatter.field].filter(s => s).join(' - ')}</p>
+          {!!(frontmatter.location || (frontmatter.fields || []).length) && (
+            <p>{[frontmatter.location, (frontmatter.fields || []).join(', ')].filter(s => s).join(' - ')}</p>
           )}
         </div>
         {!!works.length && (

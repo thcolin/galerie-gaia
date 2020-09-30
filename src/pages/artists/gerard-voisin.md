@@ -2,7 +2,8 @@
 template: artist
 title: Gérard Voisin
 location: ''
-field: sculpteur
+fields:
+- Sculpture
 birth: 0
 death: 0
 expose: false

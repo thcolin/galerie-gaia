@@ -2,7 +2,9 @@
 template: artist
 title: Rycho Ryszard Swierad
 location: Pologne
-field: Peintre / Photographe
+fields:
+- Peinture
+- Photographie
 birth: "0"
 death: "0"
 expose: true
@@ -224,8 +226,5 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/60-rycho-ryszard-swierad/"
-fields:
-- Peintre
-- " Photographe"
 
 ---

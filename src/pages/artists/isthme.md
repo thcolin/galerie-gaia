@@ -2,7 +2,8 @@
 template: artist
 title: Isthme
 location: ''
-field: Peintre
+fields:
+- Peinture
 birth: "0"
 death: "0"
 expose: true

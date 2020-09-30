@@ -2,7 +2,8 @@
 template: artist
 title: Marie Ange Daudé
 location: ''
-field: Plasticienne
+fields:
+- Plasticien.ne
 birth: 0
 death: 0
 expose: false

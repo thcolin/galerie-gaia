@@ -2,7 +2,8 @@
 template: artist
 title: Valérie Le Roux
 location: ''
-field: Plasticienne
+fields:
+- Plasticien.ne
 birth: "0"
 death: "0"
 expose: true

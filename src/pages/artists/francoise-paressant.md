@@ -2,7 +2,9 @@
 template: artist
 title: 'Françoise Paressant '
 location: ''
-field: 'Tapisserie - Peinture - '
+fields:
+- Tapisserie
+- Peinture
 birth: ''
 death: ''
 expose: false

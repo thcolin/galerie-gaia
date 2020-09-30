@@ -2,7 +2,8 @@
 template: artist
 title: Clothilde Lasserre
 location: ''
-field: peintre
+fields:
+- Peinture
 birth: 0
 death: 0
 expose: false

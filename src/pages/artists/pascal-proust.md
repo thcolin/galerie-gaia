@@ -2,7 +2,9 @@
 template: artist
 title: Pascal Proust
 location: ''
-field: Architecte Plasticien
+fields:
+- Architecture
+- Plasticien.ne
 birth: "0"
 death: "0"
 expose: true

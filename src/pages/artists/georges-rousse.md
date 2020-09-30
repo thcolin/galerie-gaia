@@ -2,7 +2,9 @@
 template: artist
 title: Georges Rousse
 location: ''
-field: Photographe plasticien
+fields:
+- Photographie
+- Plasticien.ne
 birth: "0"
 death: "0"
 expose: true

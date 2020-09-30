@@ -2,7 +2,9 @@
 template: artist
 title: Isabelle Healy
 location: ''
-field: sculpture bronze
+fields:
+- Sculpture
+- Bronze
 birth: "0"
 death: "0"
 expose: true

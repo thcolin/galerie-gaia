@@ -2,7 +2,8 @@
 template: artist
 title: Art Galeries Nantes
 location: ''
-field: Evenement
+fields:
+- Evenement
 birth: "0"
 death: "0"
 expose: true

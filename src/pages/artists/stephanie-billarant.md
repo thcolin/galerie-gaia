@@ -2,7 +2,8 @@
 template: artist
 title: Stephanie Billarant
 location: ''
-field: Photographie
+fields:
+- Photographie
 birth: "0"
 death: "0"
 expose: true

@@ -2,7 +2,9 @@
 template: artist
 title: Tony Soulié
 location: Paris
-field: Peintre Photographe
+fields:
+- Peinture
+- Photographie
 birth: 0
 death: 0
 expose: true

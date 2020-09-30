@@ -2,7 +2,8 @@
 template: artist
 title: Virginie Chardon
 location: ''
-field: Sculpteur
+fields:
+- Sculpture
 birth: "0"
 death: "0"
 expose: true

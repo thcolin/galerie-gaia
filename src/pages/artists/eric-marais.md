@@ -2,7 +2,8 @@
 template: artist
 title: Eric Marais
 location: ''
-field: photographe
+fields:
+- Photographie
 birth: 0
 death: 0
 expose: false

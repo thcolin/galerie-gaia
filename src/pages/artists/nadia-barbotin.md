@@ -2,7 +2,8 @@
 template: artist
 title: Nadia Barbotin
 location: Nantes
-field: Peinture
+fields:
+- Peinture
 birth: ''
 death: ''
 expose: true

@@ -2,7 +2,8 @@
 template: artist
 title: Dimitri Bourriau
 location: ''
-field: Photographe
+fields:
+- Photographie
 birth: ''
 death: ''
 expose: true

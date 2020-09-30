@@ -2,7 +2,8 @@
 template: artist
 title: ESTAMPES
 location: ''
-field: Estampes
+fields:
+- Estampes
 birth: "0"
 death: "0"
 expose: true

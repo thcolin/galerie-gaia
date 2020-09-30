@@ -2,7 +2,8 @@
 template: artist
 title: Adolfo Arenas Alonso
 location: Londres
-field: Dessin
+fields:
+- Dessin
 birth: "0"
 death: "0"
 expose: true

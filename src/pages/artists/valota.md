@@ -2,7 +2,9 @@
 template: artist
 title: Valota
 location: Paris - Normandie
-field: Peinture et céramique
+fields:
+- Peinture
+- Céramique
 birth: "0"
 death: "0"
 expose: true

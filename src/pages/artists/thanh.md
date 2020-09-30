@@ -2,7 +2,8 @@
 template: artist
 title: Thanh
 location: Nantes
-field: Peinture
+fields:
+- Peinture
 birth: 0
 death: 0
 expose: false

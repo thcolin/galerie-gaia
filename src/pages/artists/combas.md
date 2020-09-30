@@ -2,7 +2,8 @@
 template: artist
 title: Combas
 location: ''
-field: Peinture
+fields:
+- Peinture
 birth: "0"
 death: "0"
 expose: true

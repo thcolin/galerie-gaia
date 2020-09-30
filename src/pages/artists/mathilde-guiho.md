@@ -2,7 +2,8 @@
 template: artist
 title: Mathilde Guiho
 location: ''
-field: Photographie
+fields:
+- Photographie
 birth: ''
 death: ''
 expose: true

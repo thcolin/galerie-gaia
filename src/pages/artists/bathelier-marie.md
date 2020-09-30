@@ -2,7 +2,8 @@
 template: artist
 title: Bathellier Marie
 location: ''
-field: Plasticienne
+fields:
+- Plasticien.ne
 birth: ''
 death: ''
 expose: true

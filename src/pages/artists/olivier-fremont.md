@@ -2,7 +2,8 @@
 template: artist
 title: Olivier Fremont
 location: Nantes
-field: Sculpture
+fields:
+- Sculpture
 birth: "0"
 death: "0"
 expose: true

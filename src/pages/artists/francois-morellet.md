@@ -2,7 +2,8 @@
 template: artist
 title: François Morellet
 location: Nantes
-field: plasticien
+fields:
+- Plasticien.ne
 birth: 1926
 death: 2016
 expose: false

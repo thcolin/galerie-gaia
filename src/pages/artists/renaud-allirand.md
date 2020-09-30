@@ -2,7 +2,9 @@
 template: artist
 title: Renaud Allirand
 location: Paris
-field: Graveur / Peintre
+fields:
+- Gravure
+- Peinture
 birth: "0"
 death: "0"
 expose: true

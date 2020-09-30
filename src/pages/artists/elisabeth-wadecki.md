@@ -2,7 +2,9 @@
 template: artist
 title: Elisabeth Wadecki
 location: ''
-field: Peintre plasticienne
+fields:
+- Peinture
+- Plasticien.ne
 birth: "0"
 death: "0"
 expose: true

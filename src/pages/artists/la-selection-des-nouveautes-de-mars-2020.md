@@ -2,7 +2,8 @@
 template: artist
 title: Les nouveautés de la rentrée 2020
 location: ''
-field: Evenement
+fields:
+- Evenement
 birth: "0"
 death: "0"
 expose: true

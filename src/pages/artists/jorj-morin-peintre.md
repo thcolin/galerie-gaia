@@ -2,7 +2,11 @@
 template: artist
 title: Jorj Morin
 location: Nantes
-field: Peinture dessin gravure mosaique
+fields:
+- Peinture
+- Dessin
+- Gravure
+- Mosaique
 birth: "1909"
 death: "1995"
 expose: true

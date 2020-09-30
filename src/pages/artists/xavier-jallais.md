@@ -2,7 +2,8 @@
 template: artist
 title: Xavier Jallais
 location: ''
-field: Peintre
+fields:
+- Peinture
 birth: ''
 death: ''
 expose: true

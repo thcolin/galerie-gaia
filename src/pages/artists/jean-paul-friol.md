@@ -2,7 +2,8 @@
 template: artist
 title: Jean-Paul Friol
 location: ''
-field: Peintre
+fields:
+- Peinture
 birth: "1948"
 death: "2011"
 expose: true

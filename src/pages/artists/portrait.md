@@ -2,7 +2,8 @@
 template: artist
 title: Faire réaliser Mon Portrait
 location: ''
-field: Commande
+fields:
+- Commande
 birth: "0"
 death: "0"
 expose: true

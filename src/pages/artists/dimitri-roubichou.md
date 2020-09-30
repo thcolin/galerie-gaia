@@ -2,7 +2,8 @@
 template: artist
 title: Dimitri Roubichou
 location: ''
-field: Photographe
+fields:
+- Photographie
 birth: "0"
 death: "0"
 expose: true

@@ -2,7 +2,9 @@
 template: artist
 title: Daha
 location: ''
-field: Designer Ebéniste
+fields:
+- Design
+- Ebéniste
 birth: "0"
 death: "0"
 expose: true
