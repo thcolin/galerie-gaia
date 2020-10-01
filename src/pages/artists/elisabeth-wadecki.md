@@ -42,6 +42,17 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
+- title: 'Sans titre N°1 '
+  image: "/forestry/ewadecki-sans-titre-n-1-acrylique-huile-pastels-secs120x150-2017-3000eur-7-1000.jpg"
+  technique: 'Acrylique et pastel sec sur toile '
+  fields: []
+  dimensions:
+    height: 120
+    width: 150
+    depth: 0
+  description: "2017"
+  price: 3000
+  contextual: true
 - title: En mon jardin N°1 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
   technique: 'Acrylique bâtons d''huile sur toile '
@@ -51,66 +62,6 @@ works:
   description: "Visible sur demande en atelier  \n2019"
   price: 3500
   contextual: true
-- title: Terraherba n°1
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-60x60.jpg"
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
-  technique: 'Acrylique et bâtons d''huile sur toile '
-- title: Terraherba n°2
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-2-60x60.jpg"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
-- title: Terraherba n°3
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-3-60x60.jpg"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: "2020"
-  price: 1000
-  contextual: true
-- title: 'Terraherba triptyque '
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-1-2-3-60x180.JPG"
-  technique: Acrylique et bâtons d'huile sur toile
-  dimensions:
-    height: 60
-    width: 180
-    depth: 0
-  description: "2020"
-  price: 2500
-  contextual: true
-- title: Terraherba n°4
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-2020-terraherba-n-4-diptyque-60x120-1600eur.JPG"
-  technique: 'Acrylique et bâtons d''huile sur toile '
-  dimensions:
-    height: 60
-    width: 120
-    depth: 0
-  description: Diptyque 2020
-  price: 1600
-  contextual: true
-- title: Terraherba n°5
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-5-146x114.jpg"
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: "2020"
-  price: 3000
-  contextual: true
-  technique: 'Acrylique et bâtons d''huile sur toile '
 - title: Terraherba n°15
   image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-2020-42x42-400.JPG"
   technique: 'Acrylique bâtons d''huile sur carton '
