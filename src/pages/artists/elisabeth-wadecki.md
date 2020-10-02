@@ -42,16 +42,6 @@ biography: "Elisabeth Wadecki est née en 1963 à Zürich, d'un père polonais e
   monde."
 exhibitions: []
 works:
-- title: 'Diptyque en situation '
-  image: "/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
-  fields: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
 - title: 'Sans titre N°7 '
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-7-150x150-2018-acrylique-huile-fusain-pastels-secs-sur-toile-3500-euros_-visible-a-l-atelier-13-1000.JPG"
   technique: 'Acrylique huile fusain et pastels secs sur toile '
@@ -63,6 +53,18 @@ works:
   description: "2018"
   price: 3500
   contextual: true
+- title: 'Diptyque En mon jardin '
+  image: "/forestry/galerie-gaia-elisabeth-wadecki-diptyque-2018-en-mon-jardin-130x194-techniques-mixtes-4000-eur.JPG"
+  fields: []
+  dimensions:
+    height: 130
+    width: 194
+    depth: 0
+  description: 'Les dimensions sont celles du diptyque sans écartement entre les 2
+    toiles '
+  price: 4000
+  contextual: false
+  technique: 'Acrylique, fusain et pastels secs sur toile '
 - title: En mon jardin diptyque partie N°2
   image: "/forestry/galerie-gaia-elisabeth-wadecki-2018-en-mon-jardin-diptyque-130x194-acrylique-pastel-sec-fusain-sur-toile-4000-eur-les-2.JPG"
   technique: 'Acrylique, fusain et pastels secs sur toile '
@@ -85,6 +87,16 @@ works:
   description: '2018 Partie n°1 du dyptique, le prix indiqué concerne les 2 parties '
   price: 4000
   contextual: true
+- title: 'Diptyque en situation '
+  image: "/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
+  fields: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: false
 - title: 'Sans titre N°1 '
   image: "/forestry/ewadecki-sans-titre-n-1-acrylique-huile-pastels-secs120x150-2017-3000eur-7-1000.jpg"
   technique: 'Acrylique et pastel sec sur toile '

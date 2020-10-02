@@ -56,17 +56,6 @@ works:
     "Jacqueline Pécantet")'
   price: 140
   contextual: true
-- title: Sans titre par Olivier Fremont
-  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
-  technique: Bronze
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/
-    "Olivier Fremont")'
-  price: 1800
-  contextual: true
 - title: Jardin des plantes par Tangui Robert
   image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
   technique: Gravure sur zinc et piquetage photos
@@ -135,28 +124,16 @@ works:
   price: 750
   contextual: true
   technique: Collage
-- title: La ruine de Boris Jakobek
-  image: "/forestry/galeriegaia_Jakobek_LA RUINE_70X50.jpg"
-  technique: 'Sérigraphie 7 passes sur Olin 300g '
-  dimensions:
-    height: 70
-    width: 50
-  description: |-
-    Edition en 20 exemplaires
-
-    [Boris Jakobek](https://galeriegaia.fr/artists/boris-jakobek/ "Boris Jakobek")
-  price: 300
-  contextual: true
-- title: Terraherba N°15 de Elisabeth Wadecki
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-28x28.jpg"
+- title: Diptyque en mon jardin de Elisabeth Wadecki
+  image: "/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
   technique: acrylique et bâtons d'huile sur papier
   dimensions:
     height: 43
     width: 43
   description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
     "galerie gaia elisabeth wadecki")'
-  price: 470
-  contextual: true
+  price: 4000
+  contextual: false
 - title: James par  Virginie Chardon
   image: "/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
   technique: bronze
