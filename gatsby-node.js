@@ -12,6 +12,11 @@ exports.onPreInit = async () => {
   })
 
   await new Promise(resolve => {
+    const stream = gulpfile.thumbnails()
+    stream.on('finish', () => resolve())
+  })
+
+  await new Promise(resolve => {
     const stream = gulpfile.traces()
     stream.on('finish', () => resolve())
   })

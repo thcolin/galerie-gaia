@@ -105,7 +105,7 @@ works:
   sold: false
   contextual: false
 - title: Animus Anima 9
-  image: "/forestry/AG_2018_Animusanima9_60X76_papierciselé.argent.jpg"
+  image: "/forestry/AG_2018_Animusanima9_60X76_papierciselé.argent.jpg"
   technique: Incisions au scalpel sur feuille d’argent marouflée sur papier traditionnel
     indien
   dimensions:

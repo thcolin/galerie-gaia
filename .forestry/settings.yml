@@ -13,6 +13,9 @@ sections:
 - type: document
   path: src/pages/expositions.md
   label: Expositions
+- type: document
+  path: src/pages/inspiration.md
+  label: Inspiration
 - type: directory
   path: src/pages/about
   label: À propos

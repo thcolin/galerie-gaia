@@ -1,9 +1,10 @@
 import React, { useState, useCallback } from 'react'
 import { withPrefix } from 'gatsby'
+import { LazyLoadImage } from 'react-lazy-load-image-component'
 import slug from 'slug'
 import theme from 'theme'
 
-const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => {
+const Image = ({ min = true, trace = true, src = '', alt = '', source = 'cdn', ...props }) => {
   const dirname = src.split('/').slice(0, -1).join('/')
   const stem = slug(src.split('/').pop().split('.').slice(0, -1).join('.').replace(/°/, 'degree'), { lower: true })
   const extname = `.${src.split('.').pop().toLocaleLowerCase()}`
@@ -12,14 +13,15 @@ const Image = ({ min = true, trace = true, src = '', alt = '', ...props }) => {
     <span css={[props.css, Image.styles.element]}>
       <FadeInImage
         {...props}
-        src={withPrefix(min ? `${dirname.replace(/^\/forestry/, '/cdn')}/${stem}${extname}` : src)}
+        src={withPrefix(min ? `${dirname.replace(/^\/forestry/, `/${source}`)}/${stem}${extname}` : src)}
         alt={alt}
         css={Image.styles.image}
+        lazy={true}
       />
       {trace && (
         <FadeInImage
           {...props}
-          src={withPrefix(`${dirname.replace(/^\/forestry/, '/cdn')}/${stem}.svg`)}
+          src={withPrefix(`${dirname.replace(/^\/forestry/, `/traces`)}/${stem}.svg`)}
           alt={alt}
           css={Image.styles.trace}
         />
@@ -53,7 +55,8 @@ Image.styles = {
   },
 }
 
-const FadeInImage = ({ ...props }) => {
+const FadeInImage = ({ lazy, ...props }) => {
+  const Child = lazy ? LazyLoadImage : 'img'
   const [ready, setReady] = useState(false)
 
   const ref = useCallback(node => {
@@ -63,14 +66,14 @@ const FadeInImage = ({ ...props }) => {
   }, [])
 
   return (
-    <img
+    <Child
       {...props}
       ref={ref}
       onLoad={() => setReady(true)}
       onError={() => setReady(true)}
       onAbort={() => setReady(true)}
       style={{ opacity: ready ? 1 : 0 }}
-  />
+    />
   )
 }
 

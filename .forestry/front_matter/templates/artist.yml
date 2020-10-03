@@ -15,17 +15,18 @@ fields:
     required: false
   label: Location
   description: Localisation
-- name: field
-  type: text
-  config:
-    required: true
-  label: Field
-  description: Champ Artistique
 - name: fields
   type: tag_list
+  config:
+    required: true
   default: []
   label: Fields
   description: Champs Artistique
+- name: styles
+  type: tag_list
+  default: []
+  label: Styles
+  description: Styles Artistique
 - name: birth
   type: text
   config:
@@ -78,6 +79,11 @@ fields:
     default: []
     label: Fields
     description: Champs Artistique
+  - name: styles
+    type: tag_list
+    default: []
+    label: Styles
+    description: Styles Artistique
   - name: dimensions
     type: field_group
     config: {}

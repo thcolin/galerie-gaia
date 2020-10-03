@@ -16,7 +16,7 @@ import theme from 'theme'
 import rmmd from 'remove-markdown'
 import { truncate } from 'utils/string'
 
-const Artist = ({ ...props }) => {
+const Artist = ({ location, ...props }) => {
   const { pageContext: { frontmatter } } = props
 
   if (!frontmatter.expose) {
@@ -27,7 +27,7 @@ const Artist = ({ ...props }) => {
 
   const works = frontmatter.works.filter(work => !work.sold)
   const slides = works.map(work => work.image).filter(image => !!image)
-  const [slide, setSlide] = useState(0)
+  const [slide, setSlide] = useState(location.state?.work ? works.filter(work => !!work.image).findIndex(work => work.title === location.state.work) : 0)
   const index = (slide >= 0 ? slide : Math.ceil(Math.abs(slide / slides.length))) % slides.length
 
   const [ready, setReady] = useState(false)
@@ -88,7 +88,7 @@ const Artist = ({ ...props }) => {
                 number={slides.length}
                 thumbnails={slides.map((image, index) => (
                   <div css={Artist.styles.thumbnail} key={index}>
-                    <Image src={image} />
+                    <Image src={image} source="thumbnails" />
                   </div>
                 ))}
               />

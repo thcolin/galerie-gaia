@@ -18,10 +18,10 @@ const Exhibitions = ({ ...props }) => {
   const movePage = (page) => {
     setPage(page)
     setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: 'smooth' })
-
       if (ref.current) {
         ref.current.scrollIntoView()
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' })
       }
     }, 300)
   }
