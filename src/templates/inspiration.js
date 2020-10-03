@@ -17,7 +17,12 @@ const Inspiration = ({ scrollPosition, ...props }) => {
 
   const fields = useMemo(() => Array.from(new Set(pages
     .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.fields : [])
-    .reduce((acc, curr) => [...acc, ...curr], []))
+    .reduce((acc, curr) => [...acc, ...(curr || [])], []))
+  ), [])
+
+  const styles = useMemo(() => Array.from(new Set(pages
+    .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.styles : [])
+    .reduce((acc, curr) => [...acc, ...(curr || [])], []))
   ), [])
 
   const artists = useMemo(() => pages.filter(page => (
@@ -46,6 +51,27 @@ const Inspiration = ({ scrollPosition, ...props }) => {
         options: fields.map(field => ({
           value: field,
           label: field,
+        })),
+      },
+    },
+    styles: {
+      // type: 'select',
+      transform: (page, styles) => !styles.length ? page : ({
+        ...page,
+        frontmatter: {
+          ...page.frontmatter,
+          works: page.frontmatter.works.filter(work => (
+            (styles.some(style => (page.frontmatter.styles || []).includes(style.value)) && (work.styles || []).length === 0)
+            || styles.some(style => (work.styles || []).includes(style.value))
+          )),
+        }
+      }),
+      props: {
+        label: 'Styles Artistique',
+        isMulti: true,
+        options: styles.map(style => ({
+          value: style,
+          label: style,
         })),
       },
     },
@@ -152,44 +178,56 @@ const Inspiration = ({ scrollPosition, ...props }) => {
       <section ref={ref} css={Inspiration.styles.element}>
         <Heading>{frontmatter.seo.heading}</Heading>
         <div css={Inspiration.styles.toolbar}>
-          <Select
-            {...options.fields.props}
-            value={values.fields || []}
-            onChange={(fields) => {
-              setValues(values => ({ ...values, fields: fields || [] }))
-              setPage(0)
-            }}
-          />
-         <Range
-            {...options.price.props}
-            min={options.price.default[0]}
-            max={options.price.default[1]}
-            values={[(values.price || options.price.default)[0], (values.price || options.price.default)[1]]}
-            onChange={(price) => {
-              setValues(values => ({ ...values, price }))
-              setPage(0)
-            }}
-          />
-         <Range
-            {...options.height.props}
-            min={options.height.default[0]}
-            max={options.height.default[1]}
-            values={[(values.height || options.height.default)[0], (values.height || options.height.default)[1]]}
-            onChange={(height) => {
-              setValues(values => ({ ...values, height }))
-              setPage(0)
-            }}
-          />
-         <Range
-            {...options.width.props}
-            min={options.width.default[0]}
-            max={options.width.default[1]}
-            values={[(values.width || options.width.default)[0], (values.width || options.width.default)[1]]}
-            onChange={(width) => {
-              setValues(values => ({ ...values, width }))
-              setPage(0)
-            }}
-          />
+          <div>
+            <Select
+              {...options.fields.props}
+              value={values.fields || []}
+              onChange={(fields) => {
+                setValues(values => ({ ...values, fields: fields || [] }))
+                setPage(0)
+              }}
+            />
+            <Select
+              {...options.styles.props}
+              value={values.styles || []}
+              onChange={(styles) => {
+                setValues(values => ({ ...values, styles: styles || [] }))
+                setPage(0)
+              }}
+            />
+          </div>
+          <div>
+            <Range
+              {...options.price.props}
+              min={options.price.default[0]}
+              max={options.price.default[1]}
+              values={[(values.price || options.price.default)[0], (values.price || options.price.default)[1]]}
+              onChange={(price) => {
+                setValues(values => ({ ...values, price }))
+                setPage(0)
+              }}
+            />
+            <Range
+              {...options.height.props}
+              min={options.height.default[0]}
+              max={options.height.default[1]}
+              values={[(values.height || options.height.default)[0], (values.height || options.height.default)[1]]}
+              onChange={(height) => {
+                setValues(values => ({ ...values, height }))
+                setPage(0)
+              }}
+            />
+            <Range
+              {...options.width.props}
+              min={options.width.default[0]}
+              max={options.width.default[1]}
+              values={[(values.width || options.width.default)[0], (values.width || options.width.default)[1]]}
+              onChange={(width) => {
+                setValues(values => ({ ...values, width }))
+                setPage(0)
+              }}
+            />
+          </div>
         </div>
         <div css={Inspiration.styles.results}>
           {pieces
@@ -250,51 +288,49 @@ Inspiration.styles = {
     position: 'sticky',
     top: '0',
     background: 'white',
-    display: 'flex',
-    flexDirection: 'row',
-    alignItems: 'center',
     padding: '2em 0',
     margin: '0 0 2em',
     zIndex: 2,
+    '>div': {
+      display: 'flex',
+      flexDirection: 'row',
+      alignItems: 'center',
+      ':not(:last-of-type)': {
+        marginBottom: '2em',
+      },
+      '>*': {
+        paddingLeft: '1em',
+        paddingRight: '1em',
+        ':first-of-type': {
+          paddingLeft: '0em',
+        },
+        ':last-of-type': {
+          paddingRight: '0em',
+        },
+      },
+    },
     [theme.medias.small]: {
       position: 'block',
       top: 'unset',
       flexDirection: 'column',
-      '>*': {
-        paddingLeft: '0em !important',
-        paddingRight: '0em !important',
-        paddingTop: '1em',
-        paddingBottom: '1em',
-        ':first-of-type': {
-          paddingTop: '0em',
+      '>div': {
+        flexDirection: 'column',
+        '>*': {
+          paddingLeft: '0em !important',
+          paddingRight: '0em !important',
+          paddingTop: '1em',
+          paddingBottom: '1em',
+          ':first-of-type': {
+            paddingTop: '0em',
+          },
+          ':last-of-type': {
+            paddingBottom: '0em',
+          },
         },
-        ':last-of-type': {
-          paddingBottom: '0em',
-        },
-      },
-    },
-    '>*': {
-      paddingLeft: '1em',
-      paddingRight: '1em',
-      ':first-of-type': {
-        paddingLeft: '0em',
-      },
-      ':last-of-type': {
-        paddingRight: '0em',
       },
     },
   },
   results: {
-    // display: 'grid',
-    // gridTemplateColumns: 'repeat(auto-fill, 16em)',
-    // gridGap: '2rem',
-    // justifyContent: 'space-between',
-    // [theme.medias.small]: {
-    //   justifyContent: 'center',
-    // },
-    // [theme.medias.medium]: {
-    //   justifyContent: 'center',
-    // },
   },
   empty: {
     display: 'flex',
