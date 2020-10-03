@@ -313,6 +313,7 @@ Inspiration.styles = {
       position: 'block',
       top: 'unset',
       flexDirection: 'column',
+      zIndex: 0,
       '>div': {
         flexDirection: 'column',
         '>*': {
