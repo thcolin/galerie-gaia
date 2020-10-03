@@ -13,7 +13,7 @@ import theme from 'theme'
 const Inspiration = ({ scrollPosition, ...props }) => {
   const { pageContext: { pages, frontmatter } } = props
   const ref = useRef(null)
-  const [values, setValues] = useState(history.state?.values || {})
+  const [values, setValues] = useState((typeof history !== 'undefined' && history.state?.values) || {})
 
   const fields = useMemo(() => Array.from(new Set(pages
     .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.fields : [])
@@ -149,7 +149,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
     .filter(artist => artist.frontmatter.works.filter(work => !work.sold).length)
   ), [artists, values])
 
-  const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: history.state?.page || 0 })
+  const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
 
   useEffect(() => {
     history.pushState({ values, page }, document.title)
