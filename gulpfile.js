@@ -123,7 +123,7 @@ function wipe () {
   }
 
   const unused = src(`${__dirname}/static/forestry/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
-    .pipe(filter(file => !used(file.stem)))
+    .pipe(filter(file => file.stem.slice(0, 6) !== 'assets' && !used(file.stem)))
 
   const min = unused
     .pipe(rename(path => {
