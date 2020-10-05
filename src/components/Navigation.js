@@ -157,10 +157,12 @@ Navigation.styles = {
     [theme.medias.large]: {
       flex: 1,
       overflowY: 'auto',
+      margin: '0 0 3.25em',
     },
     [theme.medias.extralarge]: {
       flex: 1,
       overflowY: 'auto',
+      margin: '0 0 3.25em',
     },
   },
   body: {

@@ -293,7 +293,6 @@ Artist.styles = {
     cursor: 'pointer',
   },
   about: {
-    flex: 1,
     padding: '3rem 1rem 1rem',
     '>h1': {
       display: 'inline',

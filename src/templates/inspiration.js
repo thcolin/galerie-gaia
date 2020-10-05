@@ -253,7 +253,7 @@ Inspiration.styles = {
   },
   work: {
     flexShrink: 0,
-    fontSize: '0.5em',
+    fontSize: '0.875em',
     height: '20em',
     width: '20em',
     padding: '2em',

@@ -4,6 +4,7 @@ title: Les nouveautés de la rentrée 2020
 location: ''
 fields:
 - Evenement
+- Séléction
 birth: "0"
 death: "0"
 expose: true

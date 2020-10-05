@@ -8,7 +8,7 @@ const Work = ({ title, image, url, state = {}, ...props }) => {
   const [hoverRef, isHovered] = useHover()
 
   return (
-    <Link to={url} state={state} css={Work.styles.element} ref={hoverRef}>
+    <Link title={title} to={url} state={state} css={Work.styles.element} ref={hoverRef}>
       <Image src={image} source="thumbnails" />
       <span
         css={Work.styles.overlay}
