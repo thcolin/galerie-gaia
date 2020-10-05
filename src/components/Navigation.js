@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Logo from 'components/Logo'
 import Icon from 'components/Icon'
 import RichText from 'components/RichText'
+import Footer from 'components/Footer'
 import { Link } from 'gatsby'
 import trapScroll from 'utils/trapScroll'
 import theme from 'theme'
@@ -64,25 +65,12 @@ const Navigation = ({ pageContext, ...props }) => {
               </li>
             </ol>
           </nav>
-          <RichText css={Navigation.styles.paragraph}>
-            {pageContext.site.siteMetadata.announcement}
-          </RichText>
-          <RichText css={Navigation.styles.paragraph}>
-            {pageContext.site.siteMetadata.opening}
-          </RichText>
-          <div css={Navigation.styles.social}>
-            <a href={pageContext.site.siteMetadata.instagram} target='_blank' rel='noopener noreferrer'><Icon children='instagram' /></a>
-            <a href={pageContext.site.siteMetadata.facebook} target='_blank' rel='noopener noreferrer'><Icon children='facebook' /></a>
+          <div css={Navigation.styles.announcement}>
+            <RichText css={Navigation.styles.paragraph}>
+              {pageContext.site.siteMetadata.announcement}
+            </RichText>
           </div>
-          <footer css={Navigation.styles.contact}>
-            <a href={`tel:${pageContext.site.siteMetadata.phone}`}>
-              {pageContext.site.siteMetadata.phone}
-            </a>
-            <br />
-            <a href={`mailto:${pageContext.site.siteMetadata.email}`}>
-              {pageContext.site.siteMetadata.email}
-            </a>
-          </footer>
+          <Footer pageContext={pageContext} />
         </div>
       </div>
     </div>
@@ -190,13 +178,7 @@ Navigation.styles = {
       minHeight: 'unset',
     },
     '>div': {
-      margin: '0.5rem 1rem',
-      [theme.medias.small]: {
-        margin: '1rem',
-      },
-      [theme.medias.medium]: {
-        margin: '1rem',
-      },
+      margin: '1rem',
     },
   },
   nav: {
@@ -243,14 +225,15 @@ Navigation.styles = {
       margin: 0,
     },
   },
+  announcement: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    flex: 1,
+  },
   contact: {
     fontSize: '1.25em',
     lineHeight: '1.5em',
-  },
-  social: {
-    '>a': {
-      padding: '1em',
-    },
   },
 }
 

@@ -1,6 +1,7 @@
 import React from 'react'
 import Navigation from 'components/Navigation'
 import Consent from 'components/Consent'
+import Footer from 'components/Footer'
 import theme from 'theme'
 import 'normalize.css/normalize.css'
 import 'assets/css'
@@ -14,6 +15,9 @@ const Layout = ({ children, ...props }) => (
       <div css={Layout.styles.wrapper}>
         <Consent />
         {children}
+        <div css={Layout.styles.footer}>
+          <Footer {...props} />
+        </div>
       </div>
     </div>
   </div>
@@ -61,11 +65,21 @@ Layout.styles = {
     maxWidth: '100%',
     [theme.medias.large]: {
       paddingLeft: '20em',
+      paddingBottom: '2em',
     },
     [theme.medias.extralarge]: {
       paddingLeft: '20em',
+      paddingBottom: '2em',
     },
   },
+  footer: {
+    [theme.medias.small]: {
+      display: 'none',
+    },
+    [theme.medias.medium]: {
+      display: 'none',
+    },
+  }
 }
 
 export default Layout
