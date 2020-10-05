@@ -6,9 +6,7 @@ import Layout from 'components/Layout'
 import Icon from 'components/Icon'
 import Work from 'components/Work'
 import Heading from 'components/Heading'
-import Range from 'components/Range'
-import Select from '../components/Select'
-import theme from 'theme'
+import Options from 'components/Options'
 
 const Inspiration = ({ scrollPosition, ...props }) => {
   const { pageContext: { pages, frontmatter } } = props
@@ -34,7 +32,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
 
   const options = useMemo(() => ({
     fields: {
-      // type: 'select',
+      type: 'select',
       transform: (page, fields) => !fields.length ? page : ({
         ...page,
         frontmatter: {
@@ -55,7 +53,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
       },
     },
     styles: {
-      // type: 'select',
+      type: 'select',
       transform: (page, styles) => !styles.length ? page : ({
         ...page,
         frontmatter: {
@@ -75,11 +73,8 @@ const Inspiration = ({ scrollPosition, ...props }) => {
         })),
       },
     },
-    // styles: {
-    //   // type: 'select',
-    // },
     price: {
-      // type: 'range',
+      type: 'range',
       default: [
         0,
         artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(parseInt(acc), work.price), 0)), 0)
@@ -101,7 +96,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
     //   validate: (page, value) => page
     // },
     width: {
-      // type: 'range',
+      type: 'range',
       default: [
         0,
         artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(acc, (parseInt(work.dimensions?.width) || 0)), 0)), 0)
@@ -119,7 +114,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
       }
     },
     height: {
-      // type: 'range',
+      type: 'range',
       default: [
         0,
         artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(acc, (parseInt(work.dimensions?.height) || 0)), 0)), 0)
@@ -152,7 +147,9 @@ const Inspiration = ({ scrollPosition, ...props }) => {
   const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
 
   useEffect(() => {
-    history.pushState({ values, page }, document.title)
+    if (Object.keys(values).length || page > 0) {
+      history.pushState({ values, page }, document.title)
+    }
   }, [values, page])
 
   const movePage = (page) => {
@@ -177,58 +174,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
       />
       <section ref={ref} css={Inspiration.styles.element}>
         <Heading>{frontmatter.seo.heading}</Heading>
-        <div css={Inspiration.styles.toolbar}>
-          <div>
-            <Select
-              {...options.fields.props}
-              value={values.fields || []}
-              onChange={(fields) => {
-                setValues(values => ({ ...values, fields: fields || [] }))
-                setPage(0)
-              }}
-            />
-            <Select
-              {...options.styles.props}
-              value={values.styles || []}
-              onChange={(styles) => {
-                setValues(values => ({ ...values, styles: styles || [] }))
-                setPage(0)
-              }}
-            />
-          </div>
-          <div>
-            <Range
-              {...options.price.props}
-              min={options.price.default[0]}
-              max={options.price.default[1]}
-              values={[(values.price || options.price.default)[0], (values.price || options.price.default)[1]]}
-              onChange={(price) => {
-                setValues(values => ({ ...values, price }))
-                setPage(0)
-              }}
-            />
-            <Range
-              {...options.height.props}
-              min={options.height.default[0]}
-              max={options.height.default[1]}
-              values={[(values.height || options.height.default)[0], (values.height || options.height.default)[1]]}
-              onChange={(height) => {
-                setValues(values => ({ ...values, height }))
-                setPage(0)
-              }}
-            />
-            <Range
-              {...options.width.props}
-              min={options.width.default[0]}
-              max={options.width.default[1]}
-              values={[(values.width || options.width.default)[0], (values.width || options.width.default)[1]]}
-              onChange={(width) => {
-                setValues(values => ({ ...values, width }))
-                setPage(0)
-              }}
-            />
-          </div>
-        </div>
+        <Options options={options} setPage={setPage} values={values} setValues={setValues} />
         <div css={Inspiration.styles.results}>
           {pieces
             .map(artist => (
@@ -281,53 +227,6 @@ Inspiration.styles = {
         justifyContent: 'center',
         margin: '0 1rem',
         paddingRight: '0.33em',
-      },
-    },
-  },
-  toolbar: {
-    position: 'sticky',
-    top: '0',
-    background: 'white',
-    padding: '2em 0',
-    margin: '0 0 2em',
-    zIndex: 2,
-    '>div': {
-      display: 'flex',
-      flexDirection: 'row',
-      alignItems: 'center',
-      ':not(:last-of-type)': {
-        marginBottom: '2em',
-      },
-      '>*': {
-        paddingLeft: '1em',
-        paddingRight: '1em',
-        ':first-of-type': {
-          paddingLeft: '0em',
-        },
-        ':last-of-type': {
-          paddingRight: '0em',
-        },
-      },
-    },
-    [theme.medias.small]: {
-      position: 'block',
-      top: 'unset',
-      flexDirection: 'column',
-      zIndex: 0,
-      '>div': {
-        flexDirection: 'column',
-        '>*': {
-          paddingLeft: '0em !important',
-          paddingRight: '0em !important',
-          paddingTop: '1em',
-          paddingBottom: '1em',
-          ':first-of-type': {
-            paddingTop: '0em',
-          },
-          ':last-of-type': {
-            paddingBottom: '0em',
-          },
-        },
       },
     },
   },

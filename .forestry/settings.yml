@@ -11,8 +11,8 @@ sections:
   path: src/pages/artists.md
   label: Artistes
 - type: document
-  path: src/pages/expositions.md
-  label: Expositions
+  path: src/pages/actualites.md
+  label: Actualités
 - type: document
   path: src/pages/inspiration.md
   label: Inspiration

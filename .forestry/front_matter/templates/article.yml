@@ -1,5 +1,5 @@
 ---
-label: Exhibition
+label: Article
 hide_body: true
 display_field: title
 fields:
@@ -19,6 +19,13 @@ fields:
     time_format: 
     display_utc: false
   default: now
+- name: categories
+  type: tag_list
+  config:
+    required: true
+  default: []
+  label: Categories
+  description: Catégories de l'article
 - name: image
   type: file
   config:

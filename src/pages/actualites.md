@@ -1,14 +1,18 @@
 ---
-template: exhibitions
+template: blog
+redirect_from:
+- "/expositions"
 seo:
-  title: Expositions - Galerie Gaïa, galerie d'art contemporain à Nantes
-  heading: Expositions à Nantes
+  title: Actualités - Galerie Gaïa, galerie d'art contemporain à Nantes
+  heading: Actualités de la Galerie Gaïa à Nantes
   type: website
   description: Peinture, sculpture, estampe, photographie… Découvrez les expositions
     du moment recommandées par la Galerie Gaïa, galerie d'art contemporain à Nantes.
   image: ''
-exhibitions:
-- template: exhibition
+articles:
+- template: article
+  categories:
+  - Éxposition
   image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
   title: '"Ensemble" exposition photos de Jean-François Mollière'
   content: |-
@@ -21,18 +25,24 @@ exhibitions:
     Que dire aussi de ces individus en composition avec leur milieu, dans un métro, une salle de classe ou un restaurant. Cela nous ramène à cette notion du « je » avec les autres qui forme intuitivement un ensemble et invente un corpus qui nous dépasse.
 
     Cette notion de la dualité dans un ensemble est réellement sensible dans les différentes séries de [Jean-François Mollière.](https://galeriegaia.fr/artists/jean-francois-molliere/ "jean farncois moliere")
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   image: "/forestry/flyerverso-galerie-gaia-fotofever.jpg"
   title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
   content: |-
     [fotofever](https://www.fotofever.com/exhibitor/gaia/1275 "fotofever") Invitations disponibles sur demande à la galerie ou par mail galeriegaia@orange.fr
 
     **Embarquez pour un tour du monde la photographie contemporaine!** fotofever accueille au Carrousel du Louvre, au cœur de Paris, **50 galeries et éditeurs dont la Galerie Gaïa** présentant le meilleur de la scène photographique contemporaine avec 150 artistes exposés
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   image: "/forestry/20200827_001459.jpg"
   title: Exposition à Pornichet
   content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
   image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
   content: |-
@@ -53,7 +63,9 @@ exhibitions:
     2015 - 2020  - 5ème saison  pour la Galerie Gaïa.
 
     Votre fidélité sera infiniment précieuse
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Polymorphie Jorj Morin
   image: "/forestry/polymorphie-jorj-morin.jpg"
   content: |-
@@ -61,7 +73,9 @@ exhibitions:
     Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.
 
     _Du 01/16/2020 au 02/01/2020_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Fêtes - Art 2019
   image: "/forestry/fetes-art-2019.jpg"
   content: "Des idées cadeaux à partir de 20€ suivez Instagram et Facebook \nUne idée
@@ -69,7 +83,9 @@ exhibitions:
     dans l'onglet Artiste Fêtes-Art\nDes bons cadeaux \nLivraisons offertes \nOUVERTURES
     SPECIALES EN DECEMBRE 2019\nOuvertures du lundi 2 au lundi 23 de 11H - 19H \nOuverture
     les dimanches 8 - 17 - 22 /12 de 15H à 19H\n\n_Du 12/02/2019 au 12/23/2019_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Les galeries, le dimanche 24 Novembre
   image: "/forestry/les-galeries-le-dimanche-24-novembre.jpg"
   content: |-
@@ -83,14 +99,18 @@ exhibitions:
     bienveillance et la volonté insensée – mais si grisante - de leur promotion et diffusion !
 
     _Du 11/24/2019 au 11/24/2019_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: De l'art ou du bacon? Discussion débat
   image: "/forestry/de-lart-ou-du-bacon.jpg"
   content: |-
     DIMANCHE 24 NOVEMBRE dernier jour de l'exposition de Philippe LECOMTE. Ce sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste
 
     _Du 11/24/2019 au 11/24/2019_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Dessin et Peinture de Philippe LECOMTE
   image: "/forestry/dessin-et-peinture-de-philippe-lecomte.jpg"
   content: "VERNISSAGE VENDREDI 8/11 18H - 20H\nSélection de dessins et toiles, une
@@ -99,14 +119,18 @@ exhibitions:
     La couleur fera le reste. \nL'exposition se clôture le DIMANCHE 24 NOVEMBRE de
     13H à 18H dans le cadre de l'évènement \"Les galeries, le dimanche\" organisé
     par l'association Art Galeries Nantes.\n\n_Du 11/07/2019 au 11/24/2019_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: C'est ouvert tout l'été
   image: "/forestry/cest-ouvert-tout-lete.jpg"
   content: |-
     La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 - 15 AOUT 2019
 
     _Du 07/28/2019 au 08/31/2019_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Vagabondage avec Elisabeth WADECKI
   image: "/forestry/vagabondage-avec-elisabeth-wadecki.jpg"
   content: "A propos de la peinture d’Elisabeth Wadecki\n\nProust disait « écrire
@@ -145,7 +169,9 @@ exhibitions:
     d’eau, un rose ou un terre-de-sienne d’argile, et prend son envol dans l’espace
     subtil d’un blanc mat, ou celui d’un bleu crépusculaire...\nOù il n’est question
     que de notre « être au monde… »\n\n_Du 07/05/2019 au 07/27/2019_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: ISTHME
   image: "/forestry/isthme.jpg"
   content: "peinture et collage - estampe \n\"Quand la peinture  vient des moments
@@ -153,14 +179,18 @@ exhibitions:
     de lumière, quand se révèlent toutes les nuances de bleus, alors le voyage de
     la matière sur la toile sublime la rencontre de l’eau et du ciel.\"\n\n_Du 06/06/2019
     au 06/29/2019_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Georges ROUSSE Photographe plasticien
   image: "/forestry/georges-rousse-photographe-plasticien.jpg"
   content: "Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à
     Nantes \nla galerie Gaïa vous propose une sélection de 7 photographies en édition
     limitée à 10 exemplaires\n\nhttps://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2_314968\n\n_Du
     02/07/2019 au 03/09/2019_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Keran accueille Gianni BASSO
   image: "/forestry/keran-accueille-gianni-basso.jpg"
   content: |-
@@ -172,7 +202,9 @@ exhibitions:
     Glisser, plonger dans ses eaux énigmatiques, c est comme initier un voyage presque familier.
 
     _Du 10/16/2018 au 12/14/2018_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: '"Découverte de Talents" Neil Ratnavira'
   image: "/forestry/decouverte-de-talents.jpg"
   content: |-
@@ -182,7 +214,9 @@ exhibitions:
     Neil Ratnavira réalisera plusieurs toiles sur place avec encres & pinceaux
 
     _Du 10/04/2018 au 10/04/2018_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: 4eme Open International de Squash de Nantes
   image: "/forestry/4eme-open-international-de-squash-de-nantes.jpg"
   content: "A la rentrée c'est promis je fais du sport !\nOui mais où ?\nEt bien au
@@ -196,11 +230,15 @@ exhibitions:
     oblige il n'en reste pas beaucoup...) sont en vente auprès de PSA Open International
     Squash Nantes.\n\nhttps://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg\n\n_Du
     09/05/2018 au 09/09/2018_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: La galerie est ouverte tout l'été
   image: "/forestry/la-galerie-est-ouverte-tout-lete.jpg"
   content: _Du 07/07/2018 au 08/31/2018_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: KAZY installée chez Keran
   image: "/forestry/kazy-installee-chez-keran.jpg"
   content: "Keran 1 Rue Viviani Nantes \nouvert au public de 9H à 12H & 14H à 18H
@@ -211,7 +249,9 @@ exhibitions:
     d'échelle et ne se commande pas, c'est avec un esprit libre que Kazy Usclef nous
     dévoilera ses toiles pour l'exposition Keran.\nLaissez-vous embarquer !\n\n_Du
     07/04/2018 au 09/07/2018_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
   image: "/forestry/40-ans-dhistoire-dart.jpg"
   content: "Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu .
@@ -223,7 +263,9 @@ exhibitions:
     disponibles en exclusivité :\nLe collectif Au Seuil avec Jeronimo Gaëtan Chevrier
     Tangui Robert, et Boris Jakobek \nL'exposition de leurs oeuvres durera jusqu'au
     28 juillet.\n\n_Du 06/21/2018 au 07/28/2018_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: L'hallucination simple Patrick Gueguen
   image: "/forestry/lhallucination-simple.jpg"
   content: "Texte de son ami Roland HALBERT qui sera en signature de son livre \nsamedi
@@ -241,7 +283,9 @@ exhibitions:
     astral ou happé par le fourmillement de la vie terrestre. \n...suite du texte
     disponible à la galerie et sur demande contact@galeriegaia.fr\n\n_Du 06/09/2018
     au 06/30/2018_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Nuit des Galeries#3 No limit
   image: "/forestry/nuit-des-galeries3-no-limit.jpg"
   content: "\" 140 caractères minimum \"\n4 artistes vous proposent 1 oeuvre photo.
@@ -257,14 +301,18 @@ exhibitions:
     version XIXeme siècle , machines à écrire vs XXeme, tablettes vs XXIeme siècle.\n\n\nChaque
     artiste de manière totalement  subjective choisira le texte sur son oeuvre afin
     d'offrir 4 PASS du MUSEE DES ARTS DE NANTES\n\n_Du 04/19/2018 au 04/19/2018_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Pierre Muckensturm & Go Segawa
   image: "/forestry/pierre-muckensturm-and-go-segawa.jpg"
   content: |-
     installation située chez KERAN 4 rue Viviani à Nantes
 
     _Du 03/29/2018 au 05/18/2018_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Laure Carré
   image: "/forestry/laure-carre.jpg"
   content: "Il n’y a rien d’éponyme dans les formes que LAURE nous offre dans son
@@ -292,45 +340,61 @@ exhibitions:
     dans l’expo, on met la galerie à l’envers pour finir au Carré Madame Laure en
     vous souhaitant un très bel anniversaire ! \n\nElisabeth GIVRE\n\n_Du 03/23/2018
     au 04/14/2018_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Images de Ryszard Swierad 25/01 - 17/02 "Ce que je crois voir"
   image: "/forestry/images-de-ryszard-swierad-2501-1702-ce-que-je-crois-voir.jpg"
   content: |-
     "Ce que je crois voir" c'est un trouble devant la matière qui efface le réel de l'image que notre oeil comprend d'instinct, mais très vite on s'échappe du réel pour se raconter une histoire, un film, les oeuvres de Rych'o donne envie d'écrire la suite
 
     _Du 01/25/2018 au 02/17/2018_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: MAXIME LUTUN VENTE PRIVEE
   image: "/forestry/maxime-lutun-vente-privee.jpg"
   content: "SCULPTEUR DE LUMIERE \nvente privée 18H 21H\n\n_Du 12/01/2017 au 12/03/2017_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Claude FRANCHETEAU
   image: "/forestry/claude-francheteau.jpg"
   content: "VERNISSAGE CAFE PHILO\nAVEC CLAUDE BAZELIS \nVENDREDI 24 NOVEMBRE 19H\n\n_Du
     11/24/2017 au 12/16/2017_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Xavier Jallais "Automorphie"
   image: "/forestry/xavier-jallais-automorphie.jpg"
   content: |-
     Vernissage jeudi 5 à partir de 18H
 
     _Du 10/05/2017 au 10/21/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Damien Hamon & Tangui Robert chez KERAN
   image: "/forestry/damien-hamon-and-tangui-robert-chez-keran.jpg"
   content: |-
     artistes permanents et visibles à la galerie
 
     _Du 09/26/2017 au 11/24/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Go Segawa
   image: "/forestry/go-segawa.jpg"
   content: _Du 09/07/2017 au 09/23/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: TANGUI ROBERT
   image: "/forestry/tangui-robert.jpg"
   content: _Du 07/12/2017 au 08/31/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: START ' UP 2017
   image: "/forestry/start-up-2017.jpg"
   content: "ST'ART UP 2017 2eme Edition \nce rendez vous lancé en 2016  à des étudiants
@@ -338,15 +402,21 @@ exhibitions:
     fois en galerie.\nVenez voir \net pourquoi pas \nacquérir une  oeuvre d'un  pour
     les soutenir \n\nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
     \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE\n\n_Du 06/29/2017 au 07/01/2017_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Francky CRIQUET "Comme à l'atelier"
   image: "/forestry/francky-criquet-comme-a-latelier.jpg"
   content: _Du 05/04/2017 au 05/27/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: LE PORTRAIT
   image: "/forestry/le-portrait.jpg"
   content: _Du 04/14/2017 au 04/15/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Nuit des Galeries#2 TETE A TETE
   image: "/forestry/nuit-des-galeries2-tete-a-tete.jpg"
   content: "TETE A TETE \nOu L’Art du Portrait, à condition que ce soit le vôtre!\nLe
@@ -360,21 +430,29 @@ exhibitions:
     par Juliette EOCHE DUVAL avec les 4 artistes sur le Portrait aujourd'hui, pour
     quoi, quel sens, quelle histoire ? Samedi 8 Avril 11H- 12H30\n\n_Du 04/06/2017
     au 04/08/2017_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Exposition Argant et Bréat dans la galerie de l'entreprise Keran
   image: "/forestry/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg"
   content: _Du 03/31/2017 au 06/02/2017_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Rencontre Annick ARGANT & Jean Claude BREAT
   image: "/forestry/rencontre-annick-argant-and-jean-claude-breat.jpg"
   content: "Annick ARGANT sculptures et volumes \nJean Claude BREAT peintures\n\n_Du
     03/16/2017 au 04/15/2017_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: PHILIPPE LECOMTE
   image: "/forestry/philippe-lecomte.jpg"
   content: "Techniques mixtes sur papier et toile \nRencontre avec l'artiste samedi
     28 de 16H à 19H\n\n_Du 01/28/2017 au 02/25/2017_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Mur d'essayage
   image: "/forestry/mur-dessayage.jpg"
   content: "9 expositions en 2016, \npeut-être avez vous vu et pas pris le temps \npeut-être
@@ -383,7 +461,9 @@ exhibitions:
     permettre d'apprécier je vous ai installé un \"mur d'essayage\"...pour essayer
     \nTout simplement!\nDimanche 18 15H 19H\nLundi 19 Mardi 20 Mercredi 21 15H 19H\nJeudi
     22 vendredi 23 11H 21H\nSamedi 24 fermé\n\n_Du 12/02/2016 au 12/31/2016_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Clothilde Lasserre & Edith Basseville
   image: "/forestry/clothilde-lasserre-and-edith-basseville.jpg"
   content: |-
@@ -393,7 +473,9 @@ exhibitions:
     Exposition à vivre sur place !
 
     _Du 10/08/2016 au 10/29/2016_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Franco Salas Borquez installé dans le hall de la société Keran
   image: "/forestry/franco-salas-borquez-installe-dans-le-hall-de-la-societe-keran.jpg"
   content: |-
@@ -404,7 +486,9 @@ exhibitions:
     texte de  Nathalie Tatai-Pogioni
 
     _Du 09/30/2016 au 12/02/2016_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: APHO  "là-bas"
   image: "/forestry/apho-la-bas.jpg"
   content: |-
@@ -412,7 +496,9 @@ exhibitions:
     http://www.grafikama.fr/fr/category/artistes-fr/
 
     _Du 07/01/2016 au 08/27/2016_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: ST'ART UP 1ere Edition
   image: "/forestry/start-up-1ere-edition.jpg"
   content: "ST'ART UP c'est un rendez vous que je lance pour exposer une sélection
@@ -421,14 +507,18 @@ exhibitions:
     \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE \n\nMathilde GUIHO photographie
     - Mikola MUDRYK peinture - Julie MAQUET plasticienne - Mathieu WÜHRMANN peinture
     - Valentin LAMBERT peinture - Eric BERIOT peinture\n\n_Du 06/17/2016 au 06/24/2016_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Nadja HOLLAND peintre Marianne ABERGEL sculptrice & céramiste
   image: "/forestry/nadja-holland-peintre-marianne-abergel-sculptrice-and-ceramiste.jpg"
   content: |-
     rencontre avec les artistes samedi 28 Mai 15H
 
     _Du 05/26/2016 au 06/11/2016_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: La Chambre 21
   image: "/forestry/la-chambre-21.jpg"
   content: "Après le succès de la 1ere nuit des galeries, prolongation de l'exposition
@@ -438,7 +528,9 @@ exhibitions:
     au plafond de KAZY USCLEF\nécritures en lumière de FLORENCE BANDRIER \n\nNOCTURNE
     LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère\n\nwww.chambre21.fr\n\n_Du
     04/22/2016 au 05/14/2016_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: La Chambre 21 pour La Nuit des Galeries
   image: "/forestry/la-chambre-21-pour-la-nuit-des-galeries.jpg"
   content: "On dit que la curiosité est un vilain défaut, de notre point de vue, ce
@@ -447,7 +539,9 @@ exhibitions:
     participatives avec un collectif de 5 artistes jusqu'à 1h du matin. \nVenez pour
     voir en live, pour participer, pour jouer, pour apprendre...\n\n\npour en savoir
     plus sur l'événement  http://www.chambre21.fr\n\n_Du 04/21/2016 au 04/21/2016_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Hasards pour Morgane
   image: "/forestry/hasards-pour-morgane.jpg"
   content: |-
@@ -460,7 +554,9 @@ exhibitions:
     http://assomorgane.fr/Partenariat-avec-GAIA.html
 
     _Du 02/25/2016 au 02/27/2016_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Tony SOULIE
   image: "/forestry/tony-soulie.jpg"
   content: |-
@@ -470,21 +566,27 @@ exhibitions:
     https://www.youtube.com/watch?v=t6Et5ZKeUXY
 
     _Du 11/19/2015 au 12/05/2015_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Exposition Claude Francheteau
   image: "/forestry/exposition-claude-francheteau.jpg"
   content: |-
     Présent le 9 octobre à la galerie Claude sera à nouveau présent le 16 octobre après midi à la galerie avec ses papiers et ses crayons. Vous étiez nombreux vendredi dernier, alors il récidive!
 
     _Du 10/08/2015 au 10/24/2015_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Corinne HERAUD & Sandrine PAUMELLE
   image: "/forestry/corinne-heraud-and-sandrine-paumelle.jpg"
   content: |-
     vernissage jeudi 10 septembre 18H
 
     _Du 09/10/2015 au 09/26/2015_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Michel BOUVET Affichiste et Jorj MORIN Peintre
   image: "/forestry/michel-bouvet-affichiste-et-jorj-morin-peintre.jpg"
   content: |-
@@ -492,7 +594,9 @@ exhibitions:
     vente des sérigraphies numérotées et signées et coffrets rétrospective en édition limitée
 
     _Du 09/03/2015 au 09/05/2015_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Marianne ABOUGIT et Stéphanie BILLARANT
   image: "/forestry/marianne-abougit-et-stephanie-billarant.jpg"
   content: |-
@@ -500,12 +604,16 @@ exhibitions:
     Que voit on? Que veut on voir?
 
     _Du 06/18/2015 au 07/04/2015_
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Florence BANDRIER & Renaud ALLIRAND
   image: "/forestry/florence-bandrier-and-renaud-allirand.jpg"
   content: "Peintures Gravure et Encres \n\"Des écritures qui s'empreintent du visible
     à l'illisible ...\"\n\n_Du 05/21/2015 au 06/13/2015_"
-- template: exhibition
+- template: article
+  categories:
+  - Éxposition
   title: Exposition inaugurale
   image: "/forestry/exposition-inaugurale.jpg"
   content: |-

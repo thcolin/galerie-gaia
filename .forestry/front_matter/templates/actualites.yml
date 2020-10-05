@@ -1,16 +1,16 @@
 ---
-label: Exhibitions
+label: Actualités
 hide_body: true
 fields:
-- name: exhibitions
+- name: articles
   type: blocks
-  label: Exhibitions
+  label: Articles
   template_types:
-  - exhibition
+  - article
   config:
     min: 
     max: 
-  description: Expositions
+  description: Articles
 - name: template
   type: text
   config:
@@ -18,11 +18,11 @@ fields:
   label: Template
   description: Template
   hidden: true
-  default: exhibitions
+  default: blog
 - name: seo
   type: include
   config: {}
   template: seo
   label: SEO
 pages:
-- src/pages/expositions.md
+- src/pages/actualites.md
