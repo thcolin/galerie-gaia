@@ -9,10 +9,20 @@ fields:
     required: true
   label: Title
   description: Titre
+- name: date
+  type: datetime
+  label: Date
+  description: Date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Image
   description: Image
 - name: content

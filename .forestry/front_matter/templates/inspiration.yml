@@ -1,21 +1,20 @@
 ---
-  label: Inspiration
-  hide_body: true
-  fields:
-  - name: template
-    type: text
-    config:
-      required: false
-    label: Template
-    description: Template
-    hidden: true
-    default: inspiration
-  - name: seo
-    type: include
-    config: {}
-    template: seo
-    label: SEO
-    description: SEO
-  pages:
-  - src/pages/inspiration.md
-  
+label: Inspiration
+hide_body: true
+fields:
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: inspiration
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
+pages:
+- src/pages/inspiration.md
