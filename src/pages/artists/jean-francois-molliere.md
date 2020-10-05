@@ -90,8 +90,8 @@ works:
   price: 1700
   contextual: true
 - title: Chicago 21
-  image: "/forestry/_dsf1181_1.jpg"
-  technique: 'Photographie '
+  image: "/forestry/galerie-gaia-jfm-chicago-21.jpg"
+  technique: 'Photographie'
   dimensions:
     height: 112
     width: 105
