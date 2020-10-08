@@ -36,6 +36,19 @@ biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigi
   , par le geste.\n\nBrigitte Marionneau laisse ainsi son empreinte, sa cartographie
   personnelle au volume architecturé.\n\n."
 works:
+- title: Contenir le vent 8
+  image: "/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg"
+  technique: Numéro I
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Numéro 1
+  price: 3000
+  sold: false
+  contextual: true
 - title: Contenir le vent 6
   image: "/forestry/contenir-le-vent-6-v-2019-h-21x18x11cm-credit-photo-pascal-vangysel.jpg"
   technique: Terre enfumée
@@ -45,10 +58,10 @@ works:
     height: 21
     width: 18
     depth: 11
-  description: ''
-  price: 
+  description: Numéro V
+  price: 1500
   sold: false
-  contextual: true
+  contextual: false
 - title: Contenir le vent 9
   image: "/forestry/contenir-le-vent-9-iii-2018-h-23x19x18cm-credit-photo-michael-franken.JPG"
   technique: Terre enfumée
