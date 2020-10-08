@@ -420,7 +420,7 @@ works:
     height: 66
     width: 51
     depth: 
-  description: "3018141009"
+  description: Réservée
   price: 450
   sold: false
   contextual: true
