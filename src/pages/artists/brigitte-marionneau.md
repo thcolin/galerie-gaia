@@ -35,7 +35,33 @@ biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigi
   soit par des surfaces gravées librement. L'artiste redessine la forme par le trait
   , par le geste.\n\nBrigitte Marionneau laisse ainsi son empreinte, sa cartographie
   personnelle au volume architecturé.\n\n."
-works: []
+works:
+- title: Contenir le vent 9
+  image: "/forestry/contenir-le-vent-9-iii-2018-h-23x19x18cm-credit-photo-michael-franken.JPG"
+  technique: Terre enfumée
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 20
+    depth: 20
+  description: Numéro III
+  price: 2200
+  sold: false
+  contextual: false
+- title: Contenir le vent 8
+  image: "/forestry/contenir-le-vent-8-x-2019-h-25x15x7cm-credit-photo-michael-franken.jpg"
+  technique: Terre enfumée
+  fields: []
+  styles: []
+  dimensions:
+    height: 25
+    width: 16
+    depth: 7
+  description: 'Numéro X '
+  price: 1600
+  sold: false
+  contextual: false
 exhibitions:
 - title: Amélie Maison d'art
   location: Paris
