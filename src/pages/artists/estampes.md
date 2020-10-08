@@ -150,17 +150,16 @@ works:
   price: 400
   sold: false
   contextual: true
-- title: Gérard Traquandi - Pin à crochets I (1/30)
-  image: "/forestry/gerard-traquandi-pin-a-crochets-i-130.jpg"
-  technique: Eau forte
+- title: 'Gérard Traquandi - Réjouis-toi #2 (3/5)'
+  image: "/forestry/galerie-gaia-gerard-traquandi_rejouis-toi_2020_xylographie-5.jpg"
+  technique: Xylographie sur papier japon
   dimensions:
-    height: 66
-    width: 50
+    height: 25
+    width: 15
     depth: 
-  description: '2003
-
-'
-  price: 650
+  description: "Série sur les 5 sens réalisée pour son exposition à la galerie Putman
+    2020  \nAdam et Eve"
+  price: 400
   sold: false
   contextual: true
 - title: Gérard Traquandi - Pin à crochets V (9/30)
