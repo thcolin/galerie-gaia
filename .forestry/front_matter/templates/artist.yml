@@ -199,6 +199,7 @@ fields:
   default: artist
 pages:
 - src/pages/artists/bathelier-marie.md
+- src/pages/artists/brigitte-marionneau.md
 - src/pages/artists/dimitri-bourriau.md
 - src/pages/artists/francoise-paressant.md
 - src/pages/artists/jorj-morin.md
