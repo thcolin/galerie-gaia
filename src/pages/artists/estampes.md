@@ -90,30 +90,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Messagier - Printemps à mille cœur (8/300)
-  image: "/forestry/messagier-printemps-a-mille-coeur-8300.jpg"
-  technique: Pointe sèche
-  dimensions:
-    height: 49
-    width: 66
-    depth: 
-  description: |-
-    1967 Editions Jacques Putman pour les suite Prisunic
-    550€
-  price: 
-  sold: false
-  contextual: true
-- title: Messagier - Mon coeur en été (14/20)
-  image: "/forestry/messagier-mon-coeur-en-ete-1420.jpg"
-  technique: Aquatinte et pointe sèche
-  dimensions:
-    height: 56
-    width: 75
-    depth: 
-  description: "1989 \n800€"
-  price: 
-  sold: false
-  contextual: true
 - title: Messagier - Les porteurs de presqu'île
   image: "/forestry/messagier-les-porteurs-de-presquile.jpg"
   technique: Pointe sèche et aquatinte
@@ -163,15 +139,15 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Gérard Traquandi - Pin à crochets IV (4/30)
-  image: "/forestry/gerard-traquandi-pin-a-crochets-iv-430.jpg"
-  technique: Eau forte
+- title: 'Gérard Traquandi - Réjouis-toi #1 (4/5)'
+  image: "/forestry/galerie-gaia-gerard-traquandi_rejouis-toi_2020_xylographie-1.jpg"
+  technique: Xylographie sur papier japon
   dimensions:
-    height: 66
-    width: 50
+    height: 25
+    width: 15
     depth: 
-  description: '2003 '
-  price: 650
+  description: Série sur les 5 sens réalisée pour son exposition à la galerie Putman
+  price: 400
   sold: false
   contextual: true
 - title: Gérard Traquandi - Pin à crochets I (1/30)
