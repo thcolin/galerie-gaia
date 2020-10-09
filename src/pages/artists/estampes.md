@@ -150,29 +150,26 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: 'Gérard Traquandi - Réjouis-toi #2 (3/5)'
-  image: "/forestry/galerie-gaia-gerard-traquandi_rejouis-toi_2020_xylographie-5.jpg"
-  technique: Xylographie sur papier japon
-  dimensions:
-    height: 25
-    width: 15
-    depth: 
-  description: "Série sur les 5 sens réalisée pour son exposition à la galerie Putman
-    2020  \nAdam et Eve"
-  price: 400
-  sold: false
-  contextual: true
-- title: Gérard Traquandi - Pin à crochets V (9/30)
-  image: "/forestry/gerard-traquandi-pin-a-crochets-v-930.jpg"
+- title: Gérard Traquandi - Sans titre  (16/19)
+  image: "/forestry/galerie-gaia-gerard-traquandi-ange-66x50.jpg"
   technique: Eau forte
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: '2003
-
-'
-  price: 650
+  description: "2006"
+  price: 400
+  sold: false
+  contextual: true
+- title: Gérard Traquandi - Sans titre (16/19)
+  image: "/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
+  technique: Eau forte
+  dimensions:
+    height: 66
+    width: 50
+    depth: 
+  description: "2006"
+  price: 550
   sold: false
   contextual: true
 - title: Antonio Saura - Francisco de Goya (WCC 280) (96/125)
