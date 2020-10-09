@@ -10,30 +10,6 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: Gérard Traquandi sans titre (cuivré)
-  image: "/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg"
-  technique: Aquatinte 4/19
-  fields: []
-  styles: []
-  dimensions:
-    height: 66
-    width: 50
-    depth: 0
-  description: "2006"
-  price: 700
-  contextual: true
-- title: Gérard Traquandi sans titre (rose)
-  image: "/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg"
-  technique: 'Aquatinte 3/19 '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "2006"
-  price: 700
-  contextual: true
 - title: 'Tapiès '
   technique: Affiche
   dimensions:
@@ -64,6 +40,18 @@ works:
   description: Exposition Barcelone 1973
   price: 145
   contextual: true
+- title: 'Eloïse Van Der Heyden - Mimosa #15'
+  image: "/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg"
+  technique: monotype variation 2
+  fields: []
+  styles: []
+  dimensions:
+    height: 54
+    width: 42
+    depth: 0
+  description: ''
+  price: 900
+  contextual: true
 - title: Georg Baselitz - Sigmund (15/15)
   image: "/forestry/georg-baselitz-sigmund-1515.jpg"
   technique: Eau forte
@@ -77,17 +65,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Hervé Di Rosa - Le Pêcheur 29/60
-  image: "/forestry/herve-di-rosa-le-pecheur-2960.jpg"
-  technique: Aquatinte, eau forte
-  dimensions:
-    height: 125
-    width: 87
-    depth: 
-  description: 1400€ encadré
-  price: 
-  sold: false
-  contextual: true
 - title: Pierre Alechinsky - "Ziggourat II"
   image: "/forestry/pierre-alechinsky-ziggourat-ii.jpg"
   technique: Lithographie
@@ -98,6 +75,17 @@ works:
   description: |-
     1985
     1200€
+  price: 
+  sold: false
+  contextual: true
+- title: Hervé Di Rosa - Le Pêcheur 29/60
+  image: "/forestry/herve-di-rosa-le-pecheur-2960.jpg"
+  technique: Aquatinte, eau forte
+  dimensions:
+    height: 125
+    width: 87
+    depth: 
+  description: 1400€ encadré
   price: 
   sold: false
   contextual: true
@@ -126,6 +114,30 @@ works:
     850€
   price: 
   sold: false
+  contextual: true
+- title: Gérard Traquandi sans titre (rose)
+  image: "/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg"
+  technique: 'Aquatinte 3/19 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2006"
+  price: 700
+  contextual: true
+- title: Gérard Traquandi sans titre (cuivré)
+  image: "/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg"
+  technique: Aquatinte 4/19
+  fields: []
+  styles: []
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: "2006"
+  price: 700
   contextual: true
 - title: Duo de Tranquandi en situation
   image: "/forestry/galerie-gaia-tranquandi-duo.jpg"

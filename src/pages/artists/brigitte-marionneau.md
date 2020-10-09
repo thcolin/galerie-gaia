@@ -20,7 +20,7 @@ biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigi
   gravures sur terre ou sur engobe sont soulignées par des balayages successifs d’engobe
   pâteux créant une matière proche que l’on pourrait qualifier d’épiderme.\n\nBrigitte
   Marionneau exalte l’éclat de la matière par un lissage et un polissage minutieux.\n\nLa
-  Série « Contenir le vent »   \na commencé à partir d’une maquette d’argile façonnée
+  Série « Contenir le vent »  \na commencé à partir d’une maquette d’argile façonnée
   dans la masse. Sa forme a été très inspiratrice pour la suite des autres pièces,
   qui se sont inscrites dans un dialogue permanent les unes avec les autres.\n\nLorsque
   Brigitte Marionneau scelle le dernier morceau de terre d’une pièce, elle enferme
@@ -34,7 +34,7 @@ biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigi
   terre ajoutée sauvagement puis effacée en partie et réécrit comme un palimpseste,
   soit par des surfaces gravées librement. L'artiste redessine la forme par le trait
   , par le geste.\n\nBrigitte Marionneau laisse ainsi son empreinte, sa cartographie
-  personnelle au volume architecturé.\n\n."
+  personnelle au volume architecturé.\n\nCrédit photo Michael Franken"
 works:
 - title: Contenir le vent 8
   image: "/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg"
@@ -42,9 +42,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Numéro 1
   price: 3000
   sold: false
@@ -88,6 +88,45 @@ works:
   price: 1600
   sold: false
   contextual: false
+- title: Le geste
+  image: "/forestry/geste-credit-photo-anthony-girardi.jpg"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Crédit photo Anthony Girardi
+  price: 
+  sold: false
+  contextual: true
+- title: Atelier
+  image: "/forestry/atelier-brigitte-marionneau-credit-photo-michael-franken.jpg"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
+- title: Portrait Brigitte Marionneau
+  image: "/forestry/portrait-brigitte-marionneau.JPG"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 exhibitions:
 - title: Amélie Maison d'art
   location: Paris
