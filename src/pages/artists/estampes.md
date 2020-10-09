@@ -139,15 +139,15 @@ works:
   price: 
   sold: false
   contextual: true
-- title: 'Gérard Traquandi - Réjouis-toi #1 (4/5)'
-  image: "/forestry/galerie-gaia-gerard-traquandi_rejouis-toi_2020_xylographie-1.jpg"
-  technique: Xylographie sur papier japon
+- title: Gérard Traquandi - sans titre (5/19)
+  image: "/forestry/galerie-gaia-gerard-traquandi-trait3-66x50.jpg"
+  technique: Eau forte
   dimensions:
-    height: 25
-    width: 15
+    height: 66
+    width: 50
     depth: 
-  description: Série sur les 5 sens réalisée pour son exposition à la galerie Putman
-  price: 400
+  description: "2006"
+  price: 700
   sold: false
   contextual: true
 - title: 'Gérard Traquandi - Réjouis-toi #2 (3/5)'
