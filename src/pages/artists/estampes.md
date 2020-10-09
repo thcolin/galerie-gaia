@@ -10,6 +10,18 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Gérard Traquandi sans titre (cuivré)
+  image: "/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg"
+  technique: Aquatinte 4/19
+  fields: []
+  styles: []
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: "2006"
+  price: 700
+  contextual: true
 - title: Gérard Traquandi sans titre (rose)
   image: "/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg"
   technique: 'Aquatinte 3/19 '
