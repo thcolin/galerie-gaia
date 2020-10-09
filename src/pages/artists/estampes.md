@@ -10,6 +10,18 @@ expose: true
 biography: ''
 exhibitions: []
 works:
+- title: Gérard Traquandi sans titre (rose)
+  image: "/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg"
+  technique: 'Aquatinte 3/19 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "2006"
+  price: 700
+  contextual: true
 - title: 'Tapiès '
   technique: Affiche
   dimensions:
@@ -243,7 +255,7 @@ works:
   description: '2002
 
 '
-  price: 1500
+  price: 1800
   sold: false
   contextual: true
 - title: 'Frédéric Poincelet - Sans titre #1 (4/20)'
@@ -279,26 +291,26 @@ works:
   price: 800
   sold: false
   contextual: true
-- title: 'Frédéric Poincelet - Sans titre #2 (10/20)'
-  image: "/forestry/frederic-poincelet-sans-titre-2-1020.jpg"
-  technique: Sérigraphie
+- title: Alain Clément 20J2G
+  image: "/forestry/galerie-gaia-alain-clement_sans-titre-2_2020_aquatinte_50-x-66-5-cm.jpg"
+  technique: Aquatinte 3/19
   dimensions:
-    height: 32
-    width: 25
+    height: 40
+    width: 54
     depth: 
-  description: 2016 100€
-  price: 
+  description: "2020"
+  price: 600
   sold: false
   contextual: true
-- title: 'Frédéric Poincelet - Sans titre #4 (10/20)'
-  image: "/forestry/frederic-poincelet-sans-titre-4-1020.jpg"
-  technique: Sérigraphie
+- title: Alain Clément 20J1G
+  image: "/forestry/galerie-gaia-alain-clement_sans-titre-3_2020_aquatinte_39-8-x-28-5-cm.jpg"
+  technique: Aquatinte 3/19
   dimensions:
-    height: 32
-    width: 25
+    height: 40
+    width: 29
     depth: 
-  description: 2016 100€
-  price: 
+  description: ''
+  price: 400
   sold: false
   contextual: true
 - title: Claude Viallat - Sans Titre
@@ -377,7 +389,7 @@ works:
     width: 51
     depth: 
   description: "2002"
-  price: 1500
+  price: 1800
   sold: false
   contextual: true
 redirect_from:
