@@ -268,15 +268,15 @@ works:
   price: 
   sold: false
   contextual: true
-- title: 'Frédéric Poincelet - Sans titre #1 (10/20)'
-  image: "/forestry/frederic-poincelet-sans-titre-1-1020.jpg"
-  technique: Sérigraphie
+- title: 'Alain Clément 20J3G '
+  image: "/forestry/galerie-gaia-alain-clement_sans-titre-1_2020_aquatinte_90-x-67-cm.jpg"
+  technique: Aquatinte 3/19
   dimensions:
-    height: 32
-    width: 25
+    height: 90
+    width: 67
     depth: 
-  description: 2016 100€
-  price: 
+  description: "2020"
+  price: 800
   sold: false
   contextual: true
 - title: 'Frédéric Poincelet - Sans titre #2 (10/20)'
