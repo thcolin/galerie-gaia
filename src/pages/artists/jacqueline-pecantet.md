@@ -20,23 +20,14 @@ biography: "Des boules, des cubes...  \nDes cubes, clins d’œil à Platon. Sel
   les deux techniques sont associées.  \nDes pièces à toucher, à effleurer, à caresser..."
 exhibitions: []
 works:
-- title: Portrait de Jacqueline Pecantet
-  image: "/forestry/dscf1615-j-pecantet.JPG"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
-  contextual: false
 - title: Grès 13
-  image: "/forestry/dscf5912-copie.JPG"
-  technique: Crin de cheval au grès poli au galet
+  image: "/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG"
+  technique: 'Terre enfumée et polie au galet '
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "Installation 3 cubes en triptyque  \n2020"
+  description: "Installation 2 cubes 6 cm 13 cm  \n2020"
   price: 140
   contextual: false
 - title: Grès 12
@@ -91,13 +82,13 @@ works:
   price: 120
   contextual: false
 - title: Grès 7
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-7.JPG"
-  technique: Crin de cheval au grès poli au galet
+  image: "/forestry/galerie-gaia-ceramique-pecantet-1-1rouge.JPG"
+  technique: 'Terre enfumée et polie au galet '
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "1 cube de 7cm  / 1 cube de 6cm / 1 cube de 5cm  \n2020"
+  description: "1 cube de 7cm  / 1 cube de 9 cm   \n2020"
   price: 140
   contextual: false
 - title: Grès 6
@@ -111,6 +102,15 @@ works:
     \"cyanotype\") est un procédé photographique dont l'invention remonte aux premiers
     temps de la photographie."
   price: 120
+  contextual: false
+- title: Portrait de Jacqueline Pecantet
+  image: "/forestry/dscf1615-j-pecantet.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
   contextual: false
 - title: Rhizomes
   image: "/forestry/rhizomes.jpg"
