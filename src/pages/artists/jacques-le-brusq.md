@@ -61,7 +61,35 @@ biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il c
   celui qui se trouve devant ses yeux que celui qui lui traverse le corps. »_  \n
   **Christophe Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions
   Domaine de Kerguéhennec, octobre 2013"
-works: []
+works:
+- title: Paysage Ker Sal 1Opus2
+  image: "/forestry/_mg_3074.jpg"
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 47.5
+    width: 62
+    depth: 0
+  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
+    type coffret - baguette chêne)
+  price: 3000
+  sold: false
+  contextual: true
+- title: La Brèche Opus 2
+  image: "/forestry/sans-nom-16.jpg"
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 61
+    depth: 0
+  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
+    type coffret - baguette chêne)
+  price: 3000
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
