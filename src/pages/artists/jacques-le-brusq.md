@@ -62,6 +62,34 @@ biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il c
   **Christophe Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions
   Domaine de Kerguéhennec, octobre 2013"
 works:
+- title: Tri Avr Opus1
+  image: "/forestry/17_img_7742_cmjn-copie.jpg"
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
+    type coffret - baguette chêne)
+  price: 3000
+  sold: false
+  contextual: true
+- title: Paysage
+  image: "/forestry/_mg_3091.jpg"
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
+    type coffret - baguette chêne)
+  price: 3000
+  sold: false
+  contextual: true
 - title: Paysage Ker Sal 1Opus2
   image: "/forestry/_mg_3074.jpg"
   technique: 'Huile sur toile '
