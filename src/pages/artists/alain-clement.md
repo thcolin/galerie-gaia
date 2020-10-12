@@ -63,41 +63,30 @@ works:
     height: 40
     width: 29
     depth: 
-  description: '2009 '
+  description: "2020"
   price: 400
   sold: false
   contextual: true
-- title: '06MA3G '
-  image: "/forestry/06ma3g-1419.jpg"
-  technique: Aquatinte 14/19
+- title: 20J3G
+  image: "/forestry/galerie-gaia-alain-clement_sans-titre-1_2020_aquatinte_90-x-67-cm.jpg"
+  technique: Aquatinte 3/19
   dimensions:
-    height: 66
-    width: 50
+    height: 90
+    width: 67
     depth: 
   description: '2006 '
-  price: 550
+  price: 800
   sold: false
   contextual: true
-- title: '04JA1G '
-  image: "/forestry/04ja1g-1630.jpg"
-  technique: Aquatinte 16/30
+- title: 20J2G
+  image: "/forestry/galerie-gaia-alain-clement_sans-titre-2_2020_aquatinte_50-x-66_5-cm.jpg"
+  technique: Aquatinte 3/19
   dimensions:
-    height: 58
-    width: 38
+    height: 50
+    width: 66.5
     depth: 
-  description: '2004 '
-  price: 450
-  sold: false
-  contextual: true
-- title: '04JA4G '
-  image: "/forestry/04ja4g830.jpg"
-  technique: Aquatinte 8/30
-  dimensions:
-    height: 58
-    width: 38
-    depth: 
-  description: '2004 '
-  price: 450
+  description: "2020"
+  price: 600
   sold: false
   contextual: true
 redirect_from:
