@@ -304,39 +304,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: 'Alain Clément 20J3G '
-  image: "/forestry/galerie-gaia-alain-clement_sans-titre-1_2020_aquatinte_90-x-67-cm.jpg"
-  technique: Aquatinte 3/19
-  dimensions:
-    height: 90
-    width: 67
-    depth: 
-  description: "2020"
-  price: 800
-  sold: false
-  contextual: true
-- title: Alain Clément 20J2G
-  image: "/forestry/galerie-gaia-alain-clement_sans-titre-2_2020_aquatinte_50-x-66-5-cm.jpg"
-  technique: Aquatinte 3/19
-  dimensions:
-    height: 40
-    width: 54
-    depth: 
-  description: "2020"
-  price: 600
-  sold: false
-  contextual: true
-- title: Alain Clément 20J1G
-  image: "/forestry/galerie-gaia-alain-clement_sans-titre-3_2020_aquatinte_39-8-x-28-5-cm.jpg"
-  technique: Aquatinte 3/19
-  dimensions:
-    height: 40
-    width: 29
-    depth: 
-  description: ''
-  price: 400
-  sold: false
-  contextual: true
 - title: Claude Viallat - Sans Titre
   image: "/forestry/claude-viallat-sans-titre.jpg"
   technique: Sérigraphie

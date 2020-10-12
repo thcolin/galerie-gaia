@@ -58,9 +58,18 @@ biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il c
   de paysage. il est un homme dans le paysage, un homme dans le monde, un homme dans
   la lumière, dans la couleur, dans le vert, \"sous le temps\". Sa peinture est l’intérieur
   de sa peau, de sa pensée, de son univers. Le paysage qu’il voit, n’est pas tant
-  celui qui se trouve devant ses yeux que celui qui lui traverse le corps. »_  \n
-  **Christophe Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions
-  Domaine de Kerguéhennec, octobre 2013"
+  celui qui se trouve devant ses yeux que celui qui lui traverse le corps. »_  \n**Christophe
+  Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions Domaine
+  de Kerguéhennec, octobre 2013\n\n**Expositions personnelles :**\n\n2015 _Un chemin
+  en peinture_, Atelier Raspail, Paris (commissariat Charles Bimbenet)  \n2013 _Sur
+  le motif_, Domaine de Kerguehennec, Bignan (commissariat Olivier Delavalade)  \n1998
+  Espace Sophie Barrouyer, Paris  \n1997 FIAC - Espace du Quai Branly, Paris (Galerie
+  Plessis)  \n1996 _Du paysage au dépaysement,_ Musée des Beaux-arts, Chartres (commissariat
+  Maïthé Valles-Bled)  \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée de Tessé -
+  Collégiale Saint-Pierre-La-Cour, Le Mans (commissariat Serge Nikitine)  \n1986 Le
+  Grand Huit - Maison de la Culture, Rennes (commissariat Jean-Yves Louédec)  \n1973
+  Musée de Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de Bovrel,
+  Saint Guyomard  \n1965 Foyer des artistes - Montparnasse - Galerie Marc Vaux, Paris"
 works:
 - title: Tri Avr Opus1
   image: "/forestry/17_img_7742_cmjn-copie.jpg"
@@ -118,6 +127,10 @@ works:
   price: 3000
   sold: false
   contextual: true
-exhibitions: []
+exhibitions:
+- title: ''
+  location: ''
+  start: ''
+  end: ''
 
 ---
