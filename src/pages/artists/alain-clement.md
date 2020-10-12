@@ -56,15 +56,15 @@ works:
   price: 650
   sold: false
   contextual: true
-- title: 'Sans titre #2'
-  image: "/forestry/sans-titre-2.jpg"
-  technique: Aquatinte et vernis mou
+- title: 20J1G
+  image: "/forestry/galerie-gaia-alain-clement_sans-titre-3_2020_aquatinte_39-8-x-28-5-cm.jpg"
+  technique: Aquatinte 3/19
   dimensions:
-    height: 81
-    width: 61
+    height: 40
+    width: 29
     depth: 
   description: '2009 '
-  price: 650
+  price: 400
   sold: false
   contextual: true
 - title: '06MA3G '
