@@ -1,13 +1,14 @@
 import React, { useState, useEffect, useMemo } from 'react'
+import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
+import 'pure-react-carousel/dist/react-carousel.es.css'
+import isMobile from 'is-mobile'
 import SEO from 'components/SEO'
 import { css } from 'emotion'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
 import Heading from 'components/Heading'
 import Work from 'components/Work'
-import isMobile from 'is-mobile'
-import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
-import 'pure-react-carousel/dist/react-carousel.es.css'
+import theme from 'theme'
 
 const Home = ({ ...props }) => {
   const { pageContext: { pages, frontmatter } } = props
@@ -119,7 +120,12 @@ Home.styles = {
       margin: '2em 1em',
       height: '256px',
       width: '256px',
-    }
+    },
+    [theme.medias.small]: {
+      flexDirection: 'column',
+      alignItems: 'center',
+      height: 'auto',
+    },
   },
 }
 
