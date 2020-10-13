@@ -68,10 +68,10 @@ works:
   image: "/forestry/mural 11 compressions 500x200 15000 € .jpg"
   technique: Compressions
   dimensions:
-    height: 200
-    width: 500
-  description: ''
-  price: 15000
+    height: 0
+    width: 0
+  description: "Installation 2m hauteur x 5m largeur  \n15000€"
+  price: 0
   contextual: false
 - title: Compression oxydée
   image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
