@@ -7,11 +7,11 @@ const Footer = ({ pageContext, ...props }) => (
     <p>
       {pageContext.site.siteMetadata.opening}
     </p>
-    <a href={`tel:${pageContext.site.siteMetadata.phone}`}>
+    <a href={`tel:${pageContext.site.siteMetadata.phone}`} style={{ whiteSpace: 'nowrap' }}>
       {pageContext.site.siteMetadata.phone}
     </a>
     <br />
-    <a href={`mailto:${pageContext.site.siteMetadata.email}`}>
+    <a href={`mailto:${pageContext.site.siteMetadata.email}`} style={{ whiteSpace: 'nowrap' }}>
       {pageContext.site.siteMetadata.email}
     </a>
     <div>
