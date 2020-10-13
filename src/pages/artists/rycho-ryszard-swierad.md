@@ -3,7 +3,6 @@ template: artist
 title: Rycho Ryszard Swierad
 location: Pologne
 fields:
-- Peinture
 - Photographie
 birth: "0"
 death: "0"
