@@ -31,27 +31,6 @@ const Inspiration = ({ scrollPosition, ...props }) => {
   )), [])
 
   const options = useMemo(() => ({
-    fields: {
-      type: 'select',
-      transform: (page, fields) => !fields.length ? page : ({
-        ...page,
-        frontmatter: {
-          ...page.frontmatter,
-          works: page.frontmatter.works.filter(work => (
-            (fields.some(field => (page.frontmatter.fields || []).includes(field.value)) && (work.fields || []).length === 0)
-            || fields.some(field => (work.fields || []).includes(field.value))
-          )),
-        }
-      }),
-      props: {
-        label: 'Champs Artistique',
-        isMulti: true,
-        options: fields.map(field => ({
-          value: field,
-          label: field,
-        })),
-      },
-    },
     styles: {
       type: 'select',
       transform: (page, styles) => !styles.length ? page : ({
@@ -65,7 +44,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
         }
       }),
       props: {
-        label: 'Styles Artistique',
+        label: 'Styles Artistiques',
         isMulti: true,
         options: styles.map(style => ({
           value: style,
@@ -73,6 +52,28 @@ const Inspiration = ({ scrollPosition, ...props }) => {
         })),
       },
     },
+    fields: {
+      type: 'select',
+      transform: (page, fields) => !fields.length ? page : ({
+        ...page,
+        frontmatter: {
+          ...page.frontmatter,
+          works: page.frontmatter.works.filter(work => (
+            (fields.some(field => (page.frontmatter.fields || []).includes(field.value)) && (work.fields || []).length === 0)
+            || fields.some(field => (work.fields || []).includes(field.value))
+          )),
+        }
+      }),
+      props: {
+        label: 'Techniques Artistiques',
+        isMulti: true,
+        options: fields.map(field => ({
+          value: field,
+          label: field,
+        })),
+      },
+    },
+    // TODO: Add `color`
     price: {
       type: 'range',
       default: [
@@ -174,7 +175,11 @@ const Inspiration = ({ scrollPosition, ...props }) => {
       />
       <section ref={ref} css={Inspiration.styles.element}>
         <Heading>{frontmatter.seo.heading}</Heading>
+        {/* TODO: Add Carrousel */}
+        {/* TODO: <h1>Inspiration</h1> */}
+        {/* TODO: <p>Lorem Ipsum</p> */}
         <Options options={options} setPage={setPage} values={values} setValues={setValues} />
+        {/* TODO: Add Réassurence */}
         <div css={Inspiration.styles.results}>
           {pieces
             .map(artist => (
