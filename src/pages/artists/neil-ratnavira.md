@@ -28,6 +28,18 @@ biography: "Neil Ratnavira de Alwis est un artiste photographe et peintre expres
   souhaitent regarder de plus prêt."
 exhibitions: []
 works:
+- title: Encre sans titre bleue
+  image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
+  technique: 'encre sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: 'Oeuvre encadrée avec verre antireflet '
+  price: 600
+  contextual: true
 - title: Large abstract black @ white 2
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
@@ -37,15 +49,6 @@ works:
   description: ''
   price: 1700
   contextual: true
-- title: Abstract ink 3
-  image: "/forestry/galeriegaia-small-ink6-paper-neil-ratnavira-manoirart.jpg"
-  technique: 'Encre sur papier '
-  dimensions:
-    height: 65
-    width: 50
-  description: ''
-  price: 450
-  contextual: false
 - title: Abstract ink 2
   image: "/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
   technique: 'Encre sur papier '
@@ -55,33 +58,6 @@ works:
   description: ''
   price: 450
   contextual: false
-- title: Abstract ink 1
-  image: "/forestry/galeriegaia-small-ink3-paper-neil-ratnavira-manoirart.jpg"
-  technique: 'Encre sur papier '
-  dimensions:
-    height: 65
-    width: 50
-  description: ''
-  price: 450
-  contextual: false
-- title: 'Large abstract square '
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-square-neil-ratnavira-manoirart.jpg"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: 'œuvre encadrée avec caisse américaine bois noir '
-  price: 1600
-  contextual: true
-- title: Cleary
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-red-neil-ratnavira-manoirart.jpg"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 90
-    width: 116
-  description: ''
-  price: 1700
-  contextual: true
 - title: Large abstract black & white 1
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
