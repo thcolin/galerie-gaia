@@ -16,8 +16,8 @@ biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigi
   de création et ses enchaînements, nées d’une recherche et d’une intention chaque
   fois uniques.\n\nLe recouvrement de la terre par l’engobe (enduit terreux) posé
   en fines couches prépare les surfaces aux phases successives de lissage et de polissage
-  et exaltate la matière.Les traces, les altérations, les accidents de surface, les
-  gravures sur terre ou sur engobe sont soulignées par des balayages successifs d’engobe
+  et exalte la matière.Les traces, les altérations, les accidents de surface, les
+  gravures sur terre ou sur engobe sont soulignés par des balayages successifs d’engobe
   pâteux créant une matière proche que l’on pourrait qualifier d’épiderme.\n\nBrigitte
   Marionneau exalte l’éclat de la matière par un lissage et un polissage minutieux.\n\nLa
   Série « Contenir le vent »  \na commencé à partir d’une maquette d’argile façonnée
@@ -36,7 +36,7 @@ biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigi
   , par le geste.\n\nBrigitte Marionneau laisse ainsi son empreinte, sa cartographie
   personnelle au volume architecturé.\n\nCrédit photo Michael Franken"
 works:
-- title: Contenir le vent 8
+- title: Contenir le vent 8-I
   image: "/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg"
   technique: Numéro I
   fields: []
@@ -49,7 +49,7 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Contenir le vent 6
+- title: Contenir le vent 6-V
   image: "/forestry/contenir-le-vent-6-v-2019-h-21x18x11cm-credit-photo-pascal-vangysel.jpg"
   technique: Terre enfumée
   fields: []
@@ -62,7 +62,7 @@ works:
   price: 1500
   sold: false
   contextual: false
-- title: Contenir le vent 9
+- title: Contenir le vent 9-III
   image: "/forestry/contenir-le-vent-9-iii-2018-h-23x19x18cm-credit-photo-michael-franken.JPG"
   technique: Terre enfumée
   fields: []
@@ -75,7 +75,7 @@ works:
   price: 2200
   sold: false
   contextual: false
-- title: Contenir le vent 8
+- title: Contenir le vent 8-X
   image: "/forestry/contenir-le-vent-8-x-2019-h-25x15x7cm-credit-photo-michael-franken.jpg"
   technique: Terre enfumée
   fields: []
@@ -94,9 +94,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Crédit photo Anthony Girardi
   price: 
   sold: false
@@ -107,9 +107,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
@@ -120,14 +120,18 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
   contextual: true
 exhibitions:
+- title: 'Galerie Capazza '
+  location: 'Nançay '
+  start: ''
+  end: ''
 - title: Amélie Maison d'art
   location: Paris
   start: Artiste permanent

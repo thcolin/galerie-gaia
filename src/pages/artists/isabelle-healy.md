@@ -48,11 +48,10 @@ works:
     height: 73
     width: 58
     depth: 
-  description: |-
-    Confluence (grand format de l'envolée) 8400€. Disponible sur commande
-
-    - Définition Larousse nom féminin, {latin confluencia}. Point de convergence de deux cours d'eau.
-  price: 
+  description: "Confluence est la version grand format de L'envolée.   \nDisponible
+    sur commande\n\n* Définition Larousse nom féminin, {latin confluencia}. Point
+    de convergence de deux cours d'eau."
+  price: 8400
   sold: false
   contextual: false
 - title: Les âmes sœurs
@@ -82,9 +81,10 @@ works:
     height: 28
     width: 37
     depth: 
-  description: Fondation 5700€. "L'Humain est la première force dans n'importe quel
-    projet"
-  price: 
+  description: "\"L'Humain est la première force dans n'importe quel projet\"  \nPour
+    les entreprises acquisition possible en [leasing ou défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
+    \"lesaing defiscalisation\")"
+  price: 5700
   sold: false
   contextual: false
 - title: Les Nanas
@@ -94,8 +94,8 @@ works:
     height: 35
     width: 35
     depth: 11
-  description: "2500€ \nDisponible sur commande"
-  price: 
+  description: Disponible sur commande
+  price: 2500
   sold: false
   contextual: false
 - title: Firmaman
@@ -105,10 +105,8 @@ works:
     height: 51
     width: 8
     depth: 7
-  description: |-
-    1900€
-    Disponible sur commande
-  price: 
+  description: Disponible sur commande
+  price: 1900
   sold: false
   contextual: false
 - title: La sphère des possibles
@@ -118,10 +116,8 @@ works:
     height: 65
     width: 13
     depth: 13
-  description: |-
-    4200€
-    Disponible sur commande
-  price: 
+  description: Disponible sur commande
+  price: 4200
   sold: false
   contextual: false
 - title: L étoile qui danse
@@ -131,10 +127,10 @@ works:
     height: 21
     width: 12
     depth: 6
-  description: |-
-    1200€
-    Disponible sur commande
-  price: 
+  description: 'Disponible sur commande
+
+'
+  price: 1200
   sold: false
   contextual: false
 - title: Notre Héritage
