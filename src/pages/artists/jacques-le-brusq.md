@@ -4,7 +4,7 @@ styles: []
 template: artist
 title: Jacques Le Brusq
 location: ''
-birth: ''
+birth: "1938"
 death: ''
 expose: true
 biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il crée
@@ -60,16 +60,37 @@ biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il c
   de sa peau, de sa pensée, de son univers. Le paysage qu’il voit, n’est pas tant
   celui qui se trouve devant ses yeux que celui qui lui traverse le corps. »_  \n**Christophe
   Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions Domaine
-  de Kerguéhennec, octobre 2013\n\n**Expositions personnelles :**\n\n2015 _Un chemin
-  en peinture_, Atelier Raspail, Paris (commissariat Charles Bimbenet)  \n2013 _Sur
-  le motif_, Domaine de Kerguehennec, Bignan (commissariat Olivier Delavalade)  \n1998
-  Espace Sophie Barrouyer, Paris  \n1997 FIAC - Espace du Quai Branly, Paris (Galerie
-  Plessis)  \n1996 _Du paysage au dépaysement,_ Musée des Beaux-arts, Chartres (commissariat
-  Maïthé Valles-Bled)  \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée de Tessé -
-  Collégiale Saint-Pierre-La-Cour, Le Mans (commissariat Serge Nikitine)  \n1986 Le
-  Grand Huit - Maison de la Culture, Rennes (commissariat Jean-Yves Louédec)  \n1973
-  Musée de Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de Bovrel,
-  Saint Guyomard  \n1965 Foyer des artistes - Montparnasse - Galerie Marc Vaux, Paris"
+  de Kerguéhennec, octobre 2013\n\n\\####\n\n  \n  \n  \n2018 -- Vannes -Musée des
+  Beaux-Arts, La Cohue - \" En présence des arbres \"- Béatrice Bescond  \n2019 Jacques
+  Le Brusq - Commissariat Françoise Berretrot - édition d'une plaquette -  \n  \n2019
+  -- Le Mans - Musée de Tessé - \" Paysages \" ( Des primitifs italiens aux peintres
+  contemporains ) - commissariat Carole Hirardot -  \n  \n2019 -- Cossé le Vivien
+  - Musée Robert Tatin - \" Ô temps de Tatin \"- commissariat Bruno Godivier -  \n
+  \ \n  \n\\- Expositions en cours ( 2020 ) -  \n  \n  \n3 Juillet/ 15 Novembre -
+  Vannes - Musée des Beaux-Arts , La Cohue - \" Terres et Landes , Paysages de Bretagne
+  \" - ( peintres des 19e, 2Oe , 21e siècles ) - commissariat Françoise Berretrot,
+  Marie Annie Avril -  \n  \n20 Juin/ 31 Décembre - Cossé le Vivien - Musée Robert
+  Tatin - \" Du Morbihan à la Frénouse, aux abords du pays où la lumière ne fait point
+  d'ombre \" - commissariat Bruno Godivier - édition d'un catalogue -  \n  \n\\- Expositions
+  à venir -  \n  \n  \n\\- 2021 ( mai/ septembre) - Fougères - Musée de la Villéon
+  - \" Paysages, Paysages \" - Commissariat Samuel Linard - édition d'une plaquette
+  -  \n  \n\\- 2021 - ( Automne ) - Galerie Gaïa - commissariat Elisabeth Givre -
+  \ \n  \n  \n\\- Publications récentes -  \n  \nJuillet 2020 - \" Marianne \" ---
+  Nos onze coups de coeur de l'été --- ( exposition au Musée Robert Tatin )- Mikaël
+  Faujour -  \n  \nPrintemps 2020 - \" Place Publique 74 \" --- Jacques Le Brusq,
+  les verts et la présence sensible du paysage --- Louis Raymond -\n\n**Expositions
+  personnelles :**\n\n2018 Nantes- Galerie RDV- \" Ce presque rien \"- Noémie Chauvet
+  Jacques Le Brusq-  \n2016 Paris- Galerie Jean Fournier \" 25 ans de l'art dans les
+  chapelles \"  \n2015 _Un chemin en peinture_, Atelier Raspail, Paris (commissariat
+  Charles Bimbenet)  \n2013 _Sur le motif_, Domaine de Kerguehennec, Bignan (commissariat
+  Olivier Delavalade)  \n1998 Espace Sophie Barrouyer, Paris  \n1997 FIAC - Espace
+  du Quai Branly, Paris (Galerie Plessis)  \n1996 _Du paysage au dépaysement,_ Musée
+  des Beaux-arts, Chartres (commissariat Maïthé Valles-Bled)  \n1992 Galerie Akié
+  Arrichi, Paris  \n1991 Musée de Tessé - Collégiale Saint-Pierre-La-Cour, Le Mans
+  (commissariat Serge Nikitine)  \n1986 Le Grand Huit - Maison de la Culture, Rennes
+  (commissariat Jean-Yves Louédec)  \n1973 Musée de Tessé, Le Mans (commissariat Raymond
+  Blanc)  \n1971 La Cour de Bovrel, Saint Guyomard  \n1965 Foyer des artistes - Montparnasse
+  - Galerie Marc Vaux, Paris"
 works:
 - title: Tri Avr Opus1
   image: "/forestry/17_img_7742_cmjn-copie.jpg"
@@ -79,7 +100,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
   price: 3000
@@ -93,7 +114,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
   price: 3000
@@ -107,7 +128,7 @@ works:
   dimensions:
     height: 47.5
     width: 62
-    depth: 0
+    depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
   price: 3000
@@ -121,7 +142,7 @@ works:
   dimensions:
     height: 42
     width: 61
-    depth: 0
+    depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
   price: 3000
