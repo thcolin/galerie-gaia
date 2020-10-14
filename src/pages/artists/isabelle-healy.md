@@ -4,7 +4,6 @@ title: Isabelle Healy
 location: ''
 fields:
 - Sculpture
-- Bronze
 birth: "0"
 death: "0"
 expose: true
@@ -43,16 +42,13 @@ biography: |-
 exhibitions: []
 works:
 - title: Les âmes sœurs
-  image: "/forestry/galerie-gaia-isabelle-healy-ame-soeur-42x38x9.JPG"
-  technique: Bronze
+  image: "/forestry/_dsc9628.JPG"
+  technique: Bronze en 8 exemplaires + 4EA
   dimensions:
     height: 42
     width: 38
     depth: 9
-  description: |-
-    2020
-
-    Zoom
+  description: '2020 fonderie d''art Barthélémy '
   price: 3200
   contextual: false
 - title: Les âmes sœurs
