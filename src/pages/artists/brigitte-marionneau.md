@@ -128,15 +128,15 @@ works:
   sold: false
   contextual: true
 exhibitions:
-- title: Modern Shapes Gallery
-  location: Anvers
-  start: 'Artiste permanent '
-  end: ''
 - title: Amélie Maison d'art
   location: Paris
   start: Artiste permanent
   end: ''
-- title: Galerie Arcanes
+- title: Modern Shapes Gallery
+  location: Anvers
+  start: 'Artiste permanent '
+  end: ''
+- title: 'Galerie Arcanes '
   location: Paris
   start: ''
   end: ''
