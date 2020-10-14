@@ -128,17 +128,21 @@ works:
   sold: false
   contextual: true
 exhibitions:
-- title: 'Galerie Capazza '
-  location: 'Nançay '
-  start: ''
+- title: Modern Shapes Gallery
+  location: Anvers
+  start: 'Artiste permanent '
   end: ''
 - title: Amélie Maison d'art
   location: Paris
   start: Artiste permanent
   end: ''
-- title: Modern Shapes Gallery
-  location: Anvers
-  start: 'Artiste permanent '
+- title: Galerie Arcanes
+  location: Paris
+  start: ''
+  end: ''
+- title: 'Galerie Capazza '
+  location: 'Nançay '
+  start: ''
   end: ''
 
 ---
