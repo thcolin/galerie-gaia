@@ -41,6 +41,20 @@ biography: |-
    » (…) car  la Vie  n’est  pas  autre  chose  que  la  capacité  de  maintenir  un  état d’équilibre , au  milieu du changement des  évènements « .    tiré du livre de Baghavad-Gita
 exhibitions: []
 works:
+- title: Confluence
+  image: "/forestry/confluence.jpg"
+  technique: Bronze
+  dimensions:
+    height: 73
+    width: 58
+    depth: 
+  description: |-
+    Confluence (grand format de l'envolée) 8400€. Disponible sur commande
+
+    - Définition Larousse nom féminin, {latin confluencia}. Point de convergence de deux cours d'eau.
+  price: 
+  sold: false
+  contextual: false
 - title: Les âmes sœurs
   image: "/forestry/_dsc9628.JPG"
   technique: Bronze en 8 exemplaires + 4EA
@@ -52,7 +66,7 @@ works:
   price: 3200
   contextual: false
 - title: Les âmes sœurs
-  image: "/forestry/galerie-gaia-isabelle-healy-ame-soeur-42x38x9.JPG"
+  image: "/forestry/_dsc9637.JPG"
   technique: Bronze
   dimensions:
     height: 42
@@ -123,17 +137,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: l'atelier à la Croix Rousse à Lyon
-  image: "/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: Notre Héritage
   image: "/forestry/notre-heritage.jpg"
   technique: Bronze et feuille d'or
@@ -141,22 +144,10 @@ works:
     height: 97
     width: 60
     depth: 20
-  description: "8 500 € \nDisponible sur commande"
-  price: 
-  sold: false
-  contextual: false
-- title: Confluence
-  image: "/forestry/confluence.jpg"
-  technique: Bronze
-  dimensions:
-    height: 73
-    width: 58
-    depth: 
-  description: |-
-    Confluence (grand format de l'envolée) 8400€. Disponible sur commande
+  description: 'Disponible sur commande
 
-    - Définition Larousse nom féminin, {latin confluencia}. Point de convergence de deux cours d'eau.
-  price: 
+'
+  price: 8500
   sold: false
   contextual: false
 - title: Les Albatros
@@ -166,11 +157,17 @@ works:
     height: 50
     width: 43
     depth: 14
-  description: |-
-    Les Albatros 5500€
-
-    "Souvent, pour s'amuser, les hommes d'équipage prennent des albatros, vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches, que ces rois de l'azur, maladroits et honteux, laissent piteusement leurs grandes ailes blanches comme des avirons traîner à côté d'eux. Ce voyageur ailé, comme il est gauche et veule ! Lui, naguère si beau, qu'il est comique et laid ! L'un agace son bec avec un brûle-gueule, L'autre mime en boitant, l'infirme qui volait ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l'arche; exilé sur le sol au milieu des huées, ses ailes de géant l'empêchent de marcher." - "L'Albatros" de Charles Beaudelaire
-  price: 
+  description: '"Souvent, pour s''amuser, les hommes d''équipage prennent des albatros,
+    vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire
+    glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches,
+    que ces rois de l''azur, maladroits et honteux, laissent piteusement leurs grandes
+    ailes blanches comme des avirons traîner à côté d''eux. Ce voyageur ailé, comme
+    il est gauche et veule ! Lui, naguère si beau, qu''il est comique et laid ! L''un
+    agace son bec avec un brûle-gueule, L''autre mime en boitant, l''infirme qui volait
+    ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l''arche;
+    exilé sur le sol au milieu des huées, ses ailes de géant l''empêchent de marcher."
+    - "L''Albatros" de Charles Beaudelaire'
+  price: 5500
   sold: false
   contextual: false
 - title: Anouck
@@ -180,7 +177,18 @@ works:
     height: 11
     width: 12
     depth: 5
-  description: 2000€
+  description: ''
+  price: 2000
+  sold: false
+  contextual: false
+- title: Portrait d'Isabelle Healy
+  image: "/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: ''
   price: 
   sold: false
   contextual: false
