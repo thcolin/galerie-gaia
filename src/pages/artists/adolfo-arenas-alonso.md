@@ -2,8 +2,7 @@
 template: artist
 title: Adolfo Arenas Alonso
 location: Londres
-fields:
-- Dessin
+fields: []
 birth: "0"
 death: "0"
 expose: true
@@ -15,7 +14,7 @@ exhibitions: []
 works:
 - title: Loving Venus
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-loving-venus-112x76.jpg"
-  technique: Estampe 38/75
+  technique: Dessin original rélaisé au stylo Estampe 38/75
   dimensions:
     height: 112
     width: 76
@@ -66,7 +65,7 @@ works:
   contextual: true
 - title: Dolce immaculate
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-dolce-immaculate-112x76.jpg"
-  technique: Estampe 29/75
+  technique: Dessin original réalisé au stylo Estampe 29/75
   dimensions:
     height: 112
     width: 76
@@ -99,7 +98,7 @@ works:
   contextual: true
 - title: Jocondo il bello
   image: "/forestry/jocondo-il-belle.jpg"
-  technique: Esta 20/50 technique du giclée sur papier Arches
+  technique: Estampe 20/50 technique du giclée sur papier Arches
   dimensions:
     height: 112
     width: 76

@@ -2,8 +2,7 @@
 template: artist
 title: Alain Clément
 location: ''
-fields:
-- Gravure
+fields: []
 birth: "0"
 death: "0"
 expose: true
@@ -43,6 +42,18 @@ biography: "Alain Clément est né à Neuilly-sur-Seine en 1941.\nIl vit et trav
   Musée d'Art Moderne, Céret, France"
 exhibitions: []
 works:
+- title: 06MA3G
+  image: "/forestry/galeriegaia_clement_06ma3g_66x50-5-01.jpg"
+  technique: Aquatinte 14/19
+  fields: []
+  styles: []
+  dimensions:
+    height: 66
+    width: 50.5
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: '06MA6G '
   image: "/forestry/06ma6g-419.jpg"
   technique: Aquatinte 4/19
