@@ -42,7 +42,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Confluence
-  image: "/forestry/confluence.jpg"
+  image: "/forestry/galeriegaia_healy_confluence_73x58.jpg"
   technique: Bronze
   dimensions:
     height: 73
