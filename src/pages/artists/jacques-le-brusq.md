@@ -84,6 +84,20 @@ biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il c
   Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de Bovrel, Saint Guyomard
   \ \n1965 Foyer des artistes - Montparnasse - Galerie Marc Vaux, Paris"
 works:
+- title: La Brèche Opus 2
+  image: "/forestry/sans-nom-16.jpg"
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 61
+    depth: 
+  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
+    type coffret - baguette chêne)
+  price: 3000
+  sold: false
+  contextual: true
 - title: Tri Avr Opus1
   image: "/forestry/17_img_7742_cmjn-copie.jpg"
   technique: 'Huile sur toile '
@@ -120,20 +134,6 @@ works:
   dimensions:
     height: 47.5
     width: 62
-    depth: 
-  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
-    type coffret - baguette chêne)
-  price: 3000
-  sold: false
-  contextual: true
-- title: La Brèche Opus 2
-  image: "/forestry/sans-nom-16.jpg"
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 61
     depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
