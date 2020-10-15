@@ -2,8 +2,7 @@
 template: artist
 title: Anne Gaiss
 location: ''
-fields:
-- Plasticien.ne
+fields: []
 birth: "0"
 death: "0"
 expose: true

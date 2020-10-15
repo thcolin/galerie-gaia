@@ -52,7 +52,7 @@ works:
     width: 50.5
     depth: 0
   description: ''
-  price: 0
+  price: 550
   contextual: true
 - title: '06MA6G '
   image: "/forestry/06ma6g-419.jpg"
