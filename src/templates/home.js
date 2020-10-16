@@ -61,12 +61,14 @@ const Home = ({ ...props }) => {
           image={article.image}
           url="/actualites"
         />
-        <Work
-          title={selection.frontmatter.title}
-          image={selection.frontmatter.works[1].image}
-          url={selection.url}
-          state={{ work: selection.frontmatter.works[1].title }}
-        />
+        {!!selection && (
+          <Work
+            title={selection.frontmatter.title}
+            image={selection.frontmatter.works[1].image}
+            url={selection.url}
+            state={{ work: selection.frontmatter.works[1].title }}
+          />
+        )}
         <Work
           title="Inspiration"
           image="/forestry/assets-inspiration.jpg"
