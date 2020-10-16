@@ -2,9 +2,6 @@
 template: artist
 title: Les nouveautés de la rentrée 2020
 location: ''
-fields:
-- Evenement
-- Séléction
 birth: "0"
 death: "0"
 expose: true
@@ -186,5 +183,6 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
+fields: []
 
 ---

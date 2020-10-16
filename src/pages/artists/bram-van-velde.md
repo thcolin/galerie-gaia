@@ -3,8 +3,8 @@ template: artist
 title: Bram Van Velde
 location: ''
 fields: []
-birth: "0"
-death: "0"
+birth: "1895"
+death: "1981"
 expose: true
 biography: "L'artiste est né en 1895 à Zoeterwoude, au Pays-Bas. Issu de famille pauvre
   et autodidacte, il fut attiré très jeune par la peinture. A douze ans, Bram Van
