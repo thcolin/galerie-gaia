@@ -37,17 +37,21 @@ works:
   price: 
   sold: false
   contextual: true
-- title: 'Théâtre caché '
+  fields: []
+  styles: []
+- title: Théâtre de Bel Air
   image: "/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
   technique: Photographie sur papier baryté collé dibond
   dimensions:
     height: 30
     width: 45
     depth: 
-  description: 'Caisse américaine noire - prix sur demande '
-  price: 
+  description: 'Caisse américaine noire '
+  price: 450
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Bank
   image: "/forestry/dimitribourriau_bank_2017.jpg"
   technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
@@ -60,6 +64,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Atlantis Teatro
   image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibon
@@ -88,6 +94,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Greenhouse 3
   image: "/forestry/greenhouse-3.jpg"
   technique: Tirage papier contrecollé dibon
@@ -100,6 +108,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Buzludzha - Bulgarie
   image: "/forestry/buzludzha-bulgarie.jpg"
   technique: Tirage papier contrecollé dibon
@@ -113,6 +123,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Dictator
   image: "/forestry/dictator.jpg"
   technique: Tirage papier contrecollé dibon
@@ -125,6 +137,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Buzludzha - Bulgarie interieur
   image: "/forestry/buzludzha-bulgarie-interieur.jpg"
   technique: Tirage papier contrecollé dibon
@@ -137,6 +151,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Jumanji Theater
   image: "/forestry/jumanji-theater.jpg"
   technique: Tirage papier contrecollé dibon
@@ -149,6 +165,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Soviet Spa
   image: "/forestry/soviet-spa.jpg"
   technique: Tirage papier contrecollé dibon
@@ -161,6 +179,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Blue Sanatorium
   image: "/forestry/blue-sanatorium.jpg"
   technique: Tirage papier contrecollé dibon
@@ -173,6 +193,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Soviet Sanotorium
   image: "/forestry/soviet-sanotorium.jpg"
   technique: Tirage papier contrecollé dibon
@@ -185,6 +207,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Portrait Dimitri Bourriau
   image: "/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
   technique: ''
@@ -196,7 +220,10 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 redirect_from:
 - "/artistes/98-dimitri-bourriau/"
+styles: []
 
 ---
