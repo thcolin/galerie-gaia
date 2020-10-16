@@ -6,7 +6,7 @@ title: Françoise Paressant
 location: ''
 birth: "1944"
 death: ''
-expose: false
+expose: true
 biography: |-
   Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa première période de création textile plus classique s’arrête au milieu des années 1980.
 
@@ -17,6 +17,19 @@ biography: |-
   Dans la lignée de Supports Surfaces, le travail de Françoise Paressant est à la frontière du tissage et de la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi avec juste ce qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur théorique.
 works:
 - title: Dessin ruban
+  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
+  technique: papier japon teintés
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: œuvre encadrée bois blanc
+  price: 900
+  sold: false
+  contextual: true
+- title: Dessin ruban
   image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40-cm-2016.jpg"
   technique: papier japon teinté
   fields: []
@@ -25,8 +38,8 @@ works:
     height: 50
     width: 40
     depth: 0
-  description: ''
-  price: 
+  description: 'œuvre encadrée bois blanc '
+  price: 900
   sold: false
   contextual: true
 - image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-40-cm-x-30-cm-2016.jpg"
@@ -37,7 +50,7 @@ works:
     height: 40
     width: 30
     depth: 0
-  description: ''
+  description: œuvre encadrée bois blanc
   price: 900
   sold: false
   contextual: true
