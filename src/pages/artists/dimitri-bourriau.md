@@ -24,6 +24,24 @@ biography: "Artiste français, installé sur la région nantaise, Dimitri Bourri
   \"dimitri bourriau\") de Dimitri Bourriau avec Paul et Clément dans leurs aventures "
 exhibitions: []
 works:
+- title: Théâtre de Bel Air
+  image: "/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
+  technique: Photographie sur papier baryté collé dibond
+  dimensions:
+    height: 30
+    width: 45
+    depth: 
+  description: "Septembre 2020 -Oeuvre vendue avec caisse américaine noire \n\nCe
+    théâtre est situé à Nantes et il est utilisé pour des répétitions par des compagnies
+    de théâtre. Répertorié et classé, son devenir est encore inconnu, mais l'atmosphère
+    qui s'en dégage est étonnant quand on imagine les applaudissements, les rires,
+    les bruits de stupeurs qui ont du faire vibrer plusieurs générations de spectateurs.
+    Hâte de retrouver nos spectacles vivants. "
+  price: 450
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
 - title: Snow storm
   image: "/forestry/dimitribourriau_snowstorm_2019.jpg"
   technique: Photographie Tirage papier contrecollé dibond
@@ -35,19 +53,6 @@ works:
     \n\n[vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 \"dimitri bourriau\")
     du 1er lancement du programme Buran  \nPrix sur demande"
   price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Théâtre de Bel Air
-  image: "/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
-  technique: Photographie sur papier baryté collé dibond
-  dimensions:
-    height: 30
-    width: 45
-    depth: 
-  description: 'Caisse américaine noire '
-  price: 450
   sold: false
   contextual: true
   fields: []

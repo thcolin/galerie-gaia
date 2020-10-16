@@ -2,8 +2,7 @@
 template: artist
 title: Association Morgane
 location: ''
-fields:
-- Evenement
+fields: []
 birth: "0"
 death: "0"
 expose: false

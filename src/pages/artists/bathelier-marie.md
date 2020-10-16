@@ -38,15 +38,17 @@ biography: |-
 works:
 - title: 'EN LIBERTE Installation en triptyque '
   image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
-  technique: ''
+  technique: peinture
   dimensions:
     height: 70
     width: 210
-    depth: 0
+    depth: 
   description: 'Mon avis : ne les séparez pas !'
   price: 
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: EN LIBERTE panneau 1
   image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
@@ -63,6 +65,8 @@ works:
   price: 800
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: EN LIBERTE panneau 2
   image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
@@ -79,6 +83,8 @@ works:
   price: 800
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: EN LIBERTE panneau 3
   image: "/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
@@ -95,6 +101,8 @@ works:
   price: 800
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Terre
   image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
   technique: pigments acryliques et argile sur bois
@@ -111,6 +119,8 @@ works:
   price: 900
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Détail sculpture murale triangulaire
   image: "/forestry/detail-sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
@@ -122,6 +132,8 @@ works:
   price: 650
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Sculpture murale triangles
   image: "/forestry/sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
@@ -133,6 +145,8 @@ works:
   price: 650
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Sculpture murale à rayures '
   image: "/forestry/profil-sbleue.jpeg"
   technique: 'pigments acryliques et paillettes sur bois '
@@ -147,6 +161,8 @@ works:
   price: 650
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Sculpture murale au carré rouge
   image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
   technique: pigments acryliques sur chêne brut
@@ -161,6 +177,8 @@ works:
   price: 650
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Refuge
   image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
@@ -175,6 +193,8 @@ works:
   price: 850
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Mer 1
   image: "/forestry/mariebathellier-mer1-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -191,6 +211,8 @@ works:
   price: 160
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Mer 2
   image: "/forestry/mariebathellier-mer2-22-x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -207,6 +229,8 @@ works:
   price: 160
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Mer 3
   image: "/forestry/mariebathellier-mer3-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -223,6 +247,8 @@ works:
   price: 160
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Rivière
   image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
   technique: Rivière
@@ -237,6 +263,8 @@ works:
   price: 450
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Lit de camp peint
   image: "/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg"
   technique: 'peinture acrylique sur toile '
@@ -252,6 +280,8 @@ works:
   price: 900
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Portrait Marie Bathellier
   image: "/forestry/galerie-gaia-marie-bathelier-portrait.jpg"
   technique: ''
@@ -263,6 +293,8 @@ works:
   price: 
   sold: false
   contextual: false
+  fields: []
+  styles: []
 exhibitions:
 - title: Galerie Amélie Maison d'Art
   location: Paris 8ème
@@ -276,5 +308,6 @@ exhibitions:
   location: Genève New York
   start: ''
   end: ''
+styles: []
 
 ---
