@@ -56,7 +56,7 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: 300
+  price: 450
   contextual: true
 - title: Bangkok Noi
   image: "/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg"
