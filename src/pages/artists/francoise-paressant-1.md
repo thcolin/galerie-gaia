@@ -1,5 +1,7 @@
 ---
-fields: []
+fields:
+- tapisserie
+- oeuvre sur papier
 styles: []
 template: artist
 title: Françoise Paressant
@@ -17,14 +19,16 @@ biography: |-
   Dans la lignée de Supports Surfaces, le travail de Françoise Paressant est à la frontière du tissage et de la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi avec juste ce qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur théorique.
 works:
 - title: Dessin ruban
-  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
+  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-40-cm-x-30-cm-2016.jpg"
   technique: papier japon teintés
-  fields: []
-  styles: []
+  fields:
+  - oeuvre sur papier
+  styles:
+  - abstrait
   dimensions:
-    height: 50
-    width: 40
-    depth: 0
+    height: 40
+    width: 30
+    depth: 
   description: œuvre encadrée bois blanc
   price: 900
   sold: false
@@ -37,7 +41,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: 'œuvre encadrée bois blanc '
   price: 900
   sold: false
@@ -49,7 +53,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: œuvre encadrée bois blanc
   price: 900
   sold: false

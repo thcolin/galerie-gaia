@@ -16,11 +16,17 @@ works:
   dimensions:
     height: 135
     width: 128
-    depth: 0
+    depth: 
   price: 
   sold: false
   contextual: true
   description: 'Prix sur demande '
+  fields:
+  - tapisserie
+  styles:
+  - abstrait
 exhibitions: []
+styles:
+- abstrait
 
 ---
