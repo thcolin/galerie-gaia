@@ -4,7 +4,7 @@ fields:
 - oeuvre sur papier
 styles: []
 template: artist
-title: Françoise Paressant
+title: Françoise ParessanT
 location: ''
 birth: "1944"
 death: ''
@@ -19,15 +19,15 @@ biography: |-
   Dans la lignée de Supports Surfaces, le travail de Françoise Paressant est à la frontière du tissage et de la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi avec juste ce qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur théorique.
 works:
 - title: Dessin ruban
-  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-40-cm-x-30-cm-2016.jpg"
+  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
   technique: papier japon teintés
   fields:
   - oeuvre sur papier
   styles:
   - abstrait
   dimensions:
-    height: 40
-    width: 30
+    height: 50
+    width: 40
     depth: 
   description: œuvre encadrée bois blanc
   price: 900
@@ -36,8 +36,10 @@ works:
 - title: Dessin ruban
   image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40-cm-2016.jpg"
   technique: papier japon teinté
-  fields: []
-  styles: []
+  fields:
+  - oeuvre sur papier
+  styles:
+  - abstrait
   dimensions:
     height: 50
     width: 40
@@ -59,6 +61,21 @@ works:
   sold: false
   contextual: true
   title: Dessin ruban
+- title: 'Eclaircies en fin de journée '
+  image: "/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
+  technique: laine banche et toile teintée  tissées
+  fields:
+  - textile
+  styles:
+  - abstrait
+  dimensions:
+    height: 135
+    width: 128
+    depth: 0
+  description: ''
+  price: 10000
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
