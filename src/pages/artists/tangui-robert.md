@@ -3,8 +3,8 @@ template: artist
 title: Tangui Robert
 location: ''
 fields:
-- Gravure
 - Photographie
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -246,6 +246,10 @@ works:
   price: 850
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
+  styles:
+  - figuratif
 - title: 'Reliquat I '
   image: "/forestry/reliquat-i-420.jpg"
   technique: 'Gravure eau-forte réhaussée or Edition en 20 exemplaires '
