@@ -137,6 +137,30 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: 'Jamais sans mon arbre '
+  image: "/forestry/galerie-gaia-laure-carre-jamais-sans-mon-arbre-80x80.JPG"
+  technique: Huile sur toile et technique mixte
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: "2020"
+  price: 1600
+  contextual: true
+- title: Rodéo
+  image: "/forestry/galerie-gaia-laure-carre-rodeo-80x80.jpg"
+  technique: Huile sur toile et technique mixte
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: "2020"
+  price: 1660
+  contextual: true
 - title: Rêve de cheval
   image: "/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg"
   technique: 'Huile sur toile et technique mixte '
@@ -163,16 +187,8 @@ works:
     Encadrement chêne 30€
   price: 300
   contextual: true
-- title: Un ami la nuit
-  image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: 2020 vendu
-  price: ''
-  contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Amazone
   image: "/forestry/galerie-gaia-laure-carre-amazone_42x35.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -199,22 +215,11 @@ works:
     Encadrement chêne 30€
   price: 300
   contextual: true
-- title: Dans son panier
-  image: "/forestry/galerie-gaia-laure-carre-dans-son-panier-39x31.jpg"
-  technique: Huile sur papier et technique mixte
-  dimensions:
-    height: 39
-    width: 31
-    depth: 0
-  description: |-
-    2019
-
-    Encadrement chêne 30€
-  price: 250
-  contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Le pied
   image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
-  technique: Huil et technique mixte sur toile
+  technique: Huile et technique mixte sur toile
   dimensions:
     height: 35
     width: 27
@@ -278,6 +283,8 @@ works:
   description: "2020"
   price: 200
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Brume et Basile
   image: "/forestry/637.jpg"
   technique: Lithographie
@@ -322,9 +329,9 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Walk in the kingdom (14/18)
+- title: 'Walk in the kingdom '
   image: "/forestry/walk-in-the-kingdom-1418.jpg"
-  technique: Lithographie
+  technique: Lithographie 14/18
   dimensions:
     height: 50
     width: 33
@@ -333,9 +340,11 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Rencontre royale (9/10)
+  fields:
+  - oeuvre sur papier
+- title: 'Rencontre royale '
   image: "/forestry/rencontre-royale-910.jpg"
-  technique: Lithographie
+  technique: Lithographie 9/10
   dimensions:
     height: 50
     width: 33
@@ -344,9 +353,11 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Autoportrait (6/16)
+  fields:
+  - oeuvre sur papier
+- title: 'Autoportrait '
   image: "/forestry/autoportrait-616.jpg"
-  technique: Lithographie
+  technique: Lithographie 6/16
   dimensions:
     height: 50
     width: 33
@@ -355,6 +366,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: In the wood for love
   image: "/forestry/galeriegaia@laurecarre-inthewoodforlove-collage.jpg"
   technique: mixte
@@ -376,6 +389,16 @@ works:
   description: "2019"
   price: 200
   sold: false
+  contextual: true
+- title: Un ami la nuit
+  image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: 2020 vendu
+  price: ''
   contextual: true
 - title: Portrait Laure Carré
   image: "/forestry/galeriegaia-laure carré portrait.jpeg"
