@@ -137,6 +137,19 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Rêve de cheval
+  image: "/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg"
+  technique: 'Huile sur toile et technique mixte '
+  fields:
+  - peinture
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "2020"
+  price: 1200
+  contextual: true
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -167,8 +180,11 @@ works:
     height: 38
     width: 30
     depth: 0
-  description: 'Réservé '
-  price: 340
+  description: |-
+    2020
+
+    Encadrement chêne 40€
+  price: 300
   contextual: true
 - title: 'La chaise cheval '
   image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
@@ -373,5 +389,7 @@ works:
   contextual: false
 redirect_from:
 - "/artistes/76-laure-carre/"
+styles:
+- figuratif
 
 ---
