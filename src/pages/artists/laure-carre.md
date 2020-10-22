@@ -4,6 +4,7 @@ title: Laure Carré
 location: ''
 fields:
 - Peinture
+- 'oeuvre sur papier '
 birth: "0"
 death: "0"
 expose: true
@@ -379,6 +380,8 @@ works:
   price: 300
   sold: false
   contextual: false
+  fields:
+  - oeuvre sur papier
 - title: Native spririt
   image: "/forestry/galeriegaia@laurecarre-nativespirit-collage.jpg"
   technique: mixte
@@ -390,6 +393,8 @@ works:
   price: 200
   sold: false
   contextual: true
+  fields:
+  - 'oeuvre sur papier '
 - title: Un ami la nuit
   image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
   technique: 'Huile sur toile '
