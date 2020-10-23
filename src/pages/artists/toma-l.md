@@ -4,6 +4,7 @@ title: Toma L
 location: ''
 fields:
 - Peinture
+- oeuvre sur papier
 birth: ''
 death: ''
 expose: true
@@ -481,5 +482,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/99-toma-l/"
+styles:
+- figuratif
 
 ---

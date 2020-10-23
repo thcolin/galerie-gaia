@@ -3,7 +3,7 @@ template: artist
 title: Sébastien Bouchard
 location: 
 fields:
-- Graffiti
+- street art
 birth: 
 death: 
 expose: true
@@ -110,5 +110,7 @@ works:
   price: 3000
   sold: false
   contextual: true
+styles:
+- figuratif
 
 ---

@@ -161,5 +161,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/11-stephanie-billarant/"
+styles:
+- figuratif
 
 ---

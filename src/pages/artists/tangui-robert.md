@@ -3,7 +3,6 @@ template: artist
 title: Tangui Robert
 location: ''
 fields:
-- Photographie
 - oeuvre sur papier
 birth: "0"
 death: "0"

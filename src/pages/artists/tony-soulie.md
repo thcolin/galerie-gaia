@@ -42,8 +42,8 @@ works:
     height: 90
     width: 76
     depth: 
-  description: 900€
-  price: 
+  description: ''
+  price: 890
   sold: false
   contextual: true
 redirect_from:

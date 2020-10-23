@@ -3,7 +3,7 @@ template: artist
 title: Philippe Lecomte
 location: ''
 fields:
-- Peinture
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -37,8 +37,8 @@ works:
     height: 80
     width: 120
     depth: 
-  description: 1300€ encadré
-  price: 
+  description: prix encadré
+  price: 1300
   sold: false
   contextual: true
 - title: 2018PLp65
@@ -48,8 +48,8 @@ works:
     height: 50
     width: 65
     depth: 
-  description: 490€ encadré
-  price: 
+  description: prix encadré
+  price: 490
   sold: false
   contextual: true
 - title: 2018PLp55
@@ -59,8 +59,8 @@ works:
     height: 120
     width: 80
     depth: 
-  description: 1300€ encadré
-  price: 
+  description: prix encadré
+  price: 1300
   sold: false
   contextual: true
 - title: 2018PLp24
@@ -70,8 +70,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 490€ encadré
-  price: 
+  description: encadré
+  price: 490
   sold: false
   contextual: true
 - title: 2018PLp54
@@ -81,8 +81,8 @@ works:
     height: 54
     width: 76
     depth: 
-  description: 650€ encadré
-  price: 
+  description: encadré
+  price: 650
   sold: false
   contextual: true
 - title: 2017PLp83
@@ -103,8 +103,8 @@ works:
     height: 38
     width: 28
     depth: 
-  description: 280€ encadré
-  price: 
+  description: encadré
+  price: 280
   sold: false
   contextual: true
 - title: 2018PLp7a
@@ -114,32 +114,36 @@ works:
     height: 50
     width: 33
     depth: 
-  description: 380€ encadré
-  price: 
+  description: encadré
+  price: 380
   sold: false
   contextual: true
 - title: 2018PLp101
   image: "/forestry/2018plp101.jpg"
-  technique: ''
+  technique: technique mixte sur toile
   dimensions:
     height: 30
     width: 30
     depth: 
-  description: 350€
-  price: 
+  description: ''
+  price: 350
   sold: false
   contextual: true
+  fields:
+  - peinture
 - title: 2017PLp82
   image: "/forestry/2017plp82.jpg"
-  technique: ''
+  technique: technique mixte sur papier
   dimensions:
     height: 36
     width: 28
     depth: 
-  description: 280€ encadré
-  price: 
+  description: encadré
+  price: 280
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 2018PLp73
   image: "/forestry/2018plp73.jpg"
   technique: ''
@@ -189,5 +193,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/71-philippe-lecomte/"
+styles:
+- abstrait
 
 ---

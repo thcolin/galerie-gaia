@@ -3,8 +3,7 @@ template: artist
 title: Renaud Allirand
 location: Paris
 fields:
-- Gravure
-- Peinture
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -202,5 +201,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/35-renaud-allirand/"
+styles:
+- abstrait
 
 ---
