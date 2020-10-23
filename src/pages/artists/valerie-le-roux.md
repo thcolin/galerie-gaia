@@ -3,7 +3,8 @@ template: artist
 title: Valérie Le Roux
 location: ''
 fields:
-- Plasticien.ne
+- céramique
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -30,6 +31,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields:
+  - céramique
 - title: Poisson russe
   image: "/forestry/ia.jpg"
   technique: Sérigraphie
@@ -41,17 +44,21 @@ works:
   price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Homard cuit
   image: "/forestry/679.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 65
-    width: 
+    height: 93
+    width: 65
     depth: 
   description: ''
-  price: 
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Bouteille
   image: "/forestry/bouteille.jpg"
   technique: Céramique
@@ -63,6 +70,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields:
+  - céramique
 - title: Grande coupe
   image: "/forestry/grande-coupe.jpg"
   technique: Céramique
@@ -74,84 +83,102 @@ works:
   price: 
   sold: false
   contextual: true
+  fields:
+  - ceramique
 - title: '3 poissons rouges '
   image: "/forestry/862.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 65
-    width: 
+    height: 93
+    width: 65
     depth: 
   description: ''
-  price: 
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Tête à queue
   image: "/forestry/864.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 65
-    width: 
+    height: 93
+    width: 65
     depth: 
-  description: 80€
-  price: 
+  description: ''
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Trio
   image: "/forestry/866.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 65
-    width: 
+    height: 93
+    width: 65
     depth: 
-  description: 80€
-  price: 
+  description: ''
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Ban
   image: "/forestry/865.jpg"
   technique: Sérigraphie
   dimensions:
-    height: 65
-    width: 
+    height: 93
+    width: 65
     depth: 
-  description: 80€
-  price: 
+  description: ''
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Feuille bleue
   image: "/forestry/feuille-bleue.jpg"
   technique: Sérigraphie /50
   dimensions:
-    height: 65
-    width: 
+    height: 93
+    width: 65
     depth: 
-  description: 80€
-  price: 
+  description: ''
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Corail bleu
   image: "/forestry/corail-bleu.jpg"
-  technique: Sérigraphie  12/50
+  technique: Sérigraphie  /50
   dimensions:
-    height: 92
-    width: 
+    height: 93
+    width: 65
     depth: 
-  description: 80€
-  price: 
+  description: ''
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Végétal jaune
   image: "/forestry/vegetal-jaune.jpg"
-  technique: Sérigraphie 14/50
+  technique: Sérigraphie /50
   dimensions:
-    height: 92
-    width: 
+    height: 93
+    width: 65
     depth: 
   description: "2019"
-  price: 
+  price: 80
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
+styles:
+- figuratif
 
 ---

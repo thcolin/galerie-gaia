@@ -4,7 +4,7 @@ title: Valota
 location: Paris - Normandie
 fields:
 - Peinture
-- Céramique
+- ceramique
 birth: "0"
 death: "0"
 expose: true
@@ -112,6 +112,8 @@ works:
   description: "Oeuvre encadrée caisse americaine bois brut  \n2020"
   price: 6000
   contextual: true
+  fields:
+  - peinture
 - title: Tour morodrée noire
   image: "/forestry/valota-tour-noir-mordore-hauteur-57cm-diametre-42cm-ceramique-2019.jpg"
   technique: Céramique
@@ -131,6 +133,8 @@ works:
     son regard déambuler à l’intérieur et l’extérieur de ces sculptures."
   price: 3000
   contextual: false
+  fields:
+  - ceramique
 - title: Tour mordorée noire
   image: "/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg"
   technique: Céramique
@@ -141,6 +145,8 @@ works:
   description: "2020"
   price: 3000
   contextual: false
+  fields:
+  - ceramique
 - title: Quiet days under the trees 6
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg"
   technique: Cire et pigments sur bois
@@ -192,5 +198,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/4-valota/"
+styles:
+- figuratif
 
 ---

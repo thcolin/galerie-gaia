@@ -106,6 +106,8 @@ works:
   price: 230
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Double stigmates (1/7)
   image: "/forestry/double-stigmates-17.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -117,6 +119,8 @@ works:
   price: 230
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 redirect_from:
 - "/artistes/75-xavier-jallais/"
 styles:
