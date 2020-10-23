@@ -3,7 +3,7 @@ template: artist
 title: Marianne Abergel
 location: Paris
 fields:
-- Sculpture
+- ceramique
 birth: "0"
 death: "0"
 expose: true
