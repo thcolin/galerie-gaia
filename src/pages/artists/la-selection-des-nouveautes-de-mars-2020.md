@@ -66,11 +66,11 @@ works:
     robert")'
   price: 450
   contextual: true
-- title: Failles par Nadia Barbotin
-  image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
+- title: Freedom par Nadia Barbotin
+  image: "/forestry/barbotin-nadia-freedom-120x120-in-situ.JPG"
   technique: Huile sur toile
   dimensions:
-    height: 150
+    height: 120
     width: 120
     depth: 0
   description: '[Nadia Barbotin](https://galeriegaia.fr/artists/nadia-barbotin/ "nadia
