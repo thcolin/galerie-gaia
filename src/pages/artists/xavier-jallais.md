@@ -4,6 +4,7 @@ title: Xavier Jallais
 location: ''
 fields:
 - Peinture
+- Oeuvre sur papier
 birth: ''
 death: ''
 expose: true
@@ -40,6 +41,8 @@ works:
   description: "Edition en 11 exemplaires  \n2020"
   price: 140
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Le feu pour attribut
   image: "/forestry/galeriegaia-Xavier Jallais - Le feu pour attribut - 40 x 50.jpg"
   technique: Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2
@@ -49,6 +52,8 @@ works:
   description: "Edition en 11 exemplaires  \n2020"
   price: 180
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Automorphie Structure tridimensionnelle 2
   image: "/forestry/automorphie-structure-tridimensionnelle-2.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
@@ -62,6 +67,8 @@ works:
   price: 800
   sold: false
   contextual: true
+  fields:
+  - peinture
 - title: Automorphie Grande Structure
   image: "/forestry/automorphie-grande-structure.jpg"
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
@@ -73,6 +80,8 @@ works:
   price: 3500
   sold: false
   contextual: true
+  fields:
+  - peinture
 - title: Le défi de Thésée (2/11)
   image: "/forestry/le-defi-de-thesee-211.jpg"
   technique: Eau forte sur zinc, tirage 11 ex sur RBK Rives 300g/m²
@@ -84,6 +93,8 @@ works:
   price: 230
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Cerf 1 (4/7)
   image: "/forestry/cerf-1-47.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -108,5 +119,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/75-xavier-jallais/"
+styles:
+- figuratif
 
 ---

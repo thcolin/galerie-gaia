@@ -126,5 +126,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/95-virginie-chardon/"
+styles:
+- figuratif
 
 ---
