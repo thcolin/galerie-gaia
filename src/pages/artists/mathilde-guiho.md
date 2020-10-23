@@ -44,6 +44,8 @@ works:
   price: 320
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Brûlées
   image: "/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg"
   technique: Photographie
@@ -55,6 +57,8 @@ works:
   price: 160
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Ciel plein
   image: "/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg"
   technique: Photographie et broderies
@@ -66,6 +70,8 @@ works:
   price: 320
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Eaux vides '
   image: "/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg"
   technique: 'Photographies '
@@ -77,6 +83,8 @@ works:
   price: 160
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Embuée
   image: "/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg"
   technique: Photographie
@@ -88,6 +96,8 @@ works:
   price: 160
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Loire '
   image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
   technique: Photographie
@@ -99,6 +109,8 @@ works:
   price: 160
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Oeil
   image: "/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg"
   technique: Photographie et broderie
@@ -110,6 +122,8 @@ works:
   price: 200
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Oiseaux '
   image: "/forestry/galerie-gaia-mathilde-guiho-oiseaux-10x15.jpg"
   technique: Photographie brodée
@@ -121,6 +135,8 @@ works:
   price: 320
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Portrait de fil
   image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
   technique: 'Photographie et broderies '
@@ -132,6 +148,8 @@ works:
   price: 320
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Les genoux rouges '
   image: "/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
   technique: 'Photographie '
@@ -143,6 +161,8 @@ works:
   price: 160
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Rouge
   image: "/forestry/galerie-gaia-mathilde-guiho-rouge-15x10.jpg"
   technique: Photographie
@@ -154,17 +174,21 @@ works:
   price: 160
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Portrait de Mathilde Guiho
   image: "/forestry/galerie-gaia-mathilde-guiho-portrait1.jpg"
   technique: ''
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Mer
   image: "/forestry/mathilde-guiho-sans-titre-2015.jpg"
   technique: 'Photographie '
@@ -177,6 +201,8 @@ works:
   price: 550
   sold: false
   contextual: true
+  fields: []
+  styles: []
 exhibitions:
 - title: 'Les genoux rouges  Galerie Gaia '
   location: Nantes
@@ -198,5 +224,7 @@ exhibitions:
   location: Nantes
   start: juin 2016
   end: ''
+styles:
+- figuratif
 
 ---

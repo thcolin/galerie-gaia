@@ -3,7 +3,7 @@ template: artist
 title: Marie Vandooren
 location: ''
 fields:
-- Peinture
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -183,5 +183,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/94-marie-vandooren/"
+styles:
+- figuratif
 
 ---
