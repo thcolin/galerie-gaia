@@ -146,24 +146,24 @@ works:
   - oeuvre sur papier
 - title: 2018PLp73
   image: "/forestry/2018plp73.jpg"
-  technique: ''
+  technique: technique mixte sur papier
   dimensions:
     height: 56
     width: 38
     depth: 
-  description: 380€ encadré
-  price: 
+  description: encadré
+  price: 380
   sold: false
   contextual: true
 - title: 2018PLp45
   image: "/forestry/2018plp45.jpg"
-  technique: ''
+  technique: mixte sur papier
   dimensions:
     height: 76
     width: 56
     depth: 
-  description: 490€ encadré
-  price: 
+  description: encadré
+  price: 490
   sold: false
   contextual: true
 - title: 2016PLp11
@@ -173,8 +173,8 @@ works:
     height: 76
     width: 56
     depth: 
-  description: 650€ encadré (cadre flottant)
-  price: 
+  description: encadré (papier flottant)
+  price: 650
   sold: false
   contextual: true
 - title: Exposition dessin et peinture

@@ -3,7 +3,7 @@ template: artist
 title: Patrick Guéguen
 location: ''
 fields:
-- Peinture
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -138,8 +138,8 @@ works:
   image: "/forestry/1220825.jpg"
   technique: encre et acrylique sur papier
   dimensions:
-    height: 40
-    width: 50
+    height: 100
+    width: 70
     depth: 
   description: ''
   price: 1800
@@ -191,5 +191,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/84-patrick-gueguen/"
+styles:
+- figuratif
 
 ---

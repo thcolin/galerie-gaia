@@ -4,7 +4,6 @@ title: Neil Ratnavira
 location: ''
 fields:
 - Photographie
-- Peinture
 birth: "0"
 death: "0"
 expose: true
@@ -37,7 +36,7 @@ works:
     height: 80
     width: 60
     depth: 0
-  description: 'Oeuvre encadrée avec verre antireflet '
+  description: 'Œuvre encadrée avec verre antireflet '
   price: 600
   contextual: true
 - title: Large abstract black @ white 2
@@ -187,5 +186,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/80-neil-ratnavira/"
+styles:
+- figuratif
 
 ---

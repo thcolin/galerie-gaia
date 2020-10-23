@@ -37,6 +37,8 @@ works:
   price: 5200
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: 'Vibrations '
   image: "/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
   technique: Huile sur toile
@@ -48,6 +50,8 @@ works:
   price: 3200
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Traces
   image: "/forestry/galerie-gaia-barbotin-nadia-traces-116x89.jpeg"
   technique: Huile sur toile
@@ -59,6 +63,8 @@ works:
   price: 3200
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
   technique: 'Huile sur toile et techniques mixtes '
@@ -70,6 +76,8 @@ works:
   price: 4000
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
   technique: Huile sur toile et techniques mixtes
@@ -81,6 +89,8 @@ works:
   price: 4000
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Transparences blanches '
   image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
   technique: Huile sur toile
@@ -92,6 +102,8 @@ works:
   price: 2800
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Transparences blanches
   image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg"
   technique: Huile
@@ -103,6 +115,8 @@ works:
   price: 2800
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Rock
   image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
   technique: Huile
@@ -114,6 +128,8 @@ works:
   price: 4000
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Rock
   image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg"
   technique: Huile
@@ -128,6 +144,8 @@ works:
   price: 5000
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Retrouvailles
   image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
   technique: Huile sur toile et Techniques mixtes
@@ -139,6 +157,8 @@ works:
   price: 5200
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Faille
   image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg"
   technique: Huile sur toile
@@ -150,6 +170,8 @@ works:
   price: 4400
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Faille
   image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
   technique: Huile sur toile
@@ -161,6 +183,8 @@ works:
   price: 4400
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: 'Portrait '
   image: "/forestry/photo-profil-bnw-2018.jpg"
   technique: ''
@@ -172,6 +196,10 @@ works:
   price: 
   sold: false
   contextual: false
+  fields: []
+  styles: []
 exhibitions: []
+styles:
+- abstrait
 
 ---

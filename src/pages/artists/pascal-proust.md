@@ -3,8 +3,7 @@ template: artist
 title: Pascal Proust
 location: ''
 fields:
-- Architecture
-- Plasticien.ne
+- sculpture
 birth: "0"
 death: "0"
 expose: true
@@ -121,5 +120,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/96-pascal-proust/"
+styles:
+- abstrait
 
 ---
