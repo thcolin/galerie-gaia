@@ -11,6 +11,45 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: Winter is coming
+  image: "/forestry/galerie-gaia-muriel-kerba_winter-is-coming_70x50.jpg"
+  technique: monotype en sérigraphie sur papier Fabriano 285g
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 'pièce unique '
+  price: 700
+  sold: false
+  contextual: true
+- title: 'Ondulation cellulaire '
+  image: "/forestry/galerie-gaia-muriel-kerba_ondulation-cellulaire_70x50.jpg"
+  technique: monotype en sérigraphie sur papier Fabriano 285g
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: 'pièce unique '
+  price: 700
+  sold: false
+  contextual: true
+- title: Noyau jaune sur fond jean
+  image: "/forestry/galerie-gaia-muriel-kerba_noyau-jaune-fond-jean_70x50.jpg"
+  technique: monotype en sérigraphie sur papier Fabriano 285g
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: pièce unique
+  price: 700
+  sold: false
+  contextual: true
 - title: Noyau anthracite coeur bleu
   image: "/forestry/galerie-gaia-muriel-kerba_noyau-antracite-coeur-bleu_70x50.jpg"
   technique: monotype en sérigraphie sur papier Fabriano 285g
