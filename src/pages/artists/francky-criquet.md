@@ -23,11 +23,11 @@ works:
   image: "/forestry/618.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: La tendresse
@@ -36,9 +36,9 @@ works:
   dimensions:
     height: 67
     width: 81
-    depth:
+    depth: 
   description: 2000 euros
-  price:
+  price: 
   sold: false
   contextual: true
 - title: L'écoute de la seconde éternelle
@@ -47,9 +47,9 @@ works:
   dimensions:
     height: 106
     width: 156
-    depth:
+    depth: 
   description: 3000 euros
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Les chevaux de passage
@@ -58,64 +58,53 @@ works:
   dimensions:
     height: 75
     width: 174
-    depth:
+    depth: 
   description: "Diptyque \n\n2500 euros"
-  price:
+  price: 
   sold: false
   contextual: true
 - title: "547"
   image: "/forestry/547.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: "616"
   image: "/forestry/616.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: 3000 €
-  price:
+  price: 
   sold: false
   contextual: true
 - title: "617"
   image: "/forestry/617.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: "620"
   image: "/forestry/620.jpg"
   technique: ''
   dimensions:
-    height:
-    width:
-    depth:
+    height: 
+    width: 
+    depth: 
   description: ''
-  price:
-  sold: false
-  contextual: true
-- title: ""
-  image: "/forestry/lg.jpg"
-  technique: ''
-  dimensions:
-    height:
-    width:
-    depth:
-  description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 - title: Diptyque performance du vernissage
@@ -124,12 +113,14 @@ works:
   dimensions:
     height: 250
     width: 160
-    depth:
+    depth: 
   description: ''
-  price:
+  price: 
   sold: false
   contextual: true
 redirect_from:
-  - /artistes/72-francky-criquet/
----
+- "/artistes/72-francky-criquet/"
+styles:
+- figuratif
 
+---

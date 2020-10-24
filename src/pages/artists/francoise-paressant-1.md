@@ -1,10 +1,10 @@
 ---
 fields:
-- tapisserie
 - oeuvre sur papier
-styles: []
+styles:
+- abstrait
 template: artist
-title: Françoise ParessanT
+title: Françoise Paressant
 location: ''
 birth: "1944"
 death: ''
@@ -61,17 +61,32 @@ works:
   sold: false
   contextual: true
   title: Dessin ruban
+- title: Suite pour piano jouet
+  image: "/forestry/galerie-gaia-francoise-paressant-suite-pour-piano-jouet-aine-blanche-tissee-acrylique-150x135-2020.jpg"
+  technique: 'laine blanche tissée et acrylique '
+  fields:
+  - Tapisserie
+  styles:
+  - abstrait
+  dimensions:
+    height: 150
+    width: 135
+    depth: 0
+  description: "2020"
+  price: 12000
+  sold: false
+  contextual: true
 - title: 'Eclaircies en fin de journée '
   image: "/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
   technique: laine banche et toile teintée  tissées
   fields:
-  - textile
+  - tapisserie
   styles:
   - abstrait
   dimensions:
     height: 135
     width: 128
-    depth: 0
+    depth: 
   description: ''
   price: 10000
   sold: false

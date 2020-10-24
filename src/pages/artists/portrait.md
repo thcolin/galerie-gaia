@@ -3,7 +3,7 @@ template: artist
 title: Faire réaliser Mon Portrait
 location: ''
 fields:
-- Commande
+- Portrait sur commande
 birth: "0"
 death: "0"
 expose: true
@@ -107,5 +107,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/74-portrait/"
+styles:
+- figuratif
 
 ---

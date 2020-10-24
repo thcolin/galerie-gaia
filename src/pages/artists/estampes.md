@@ -2,8 +2,7 @@
 template: artist
 title: ESTAMPES
 location: ''
-fields:
-- Estampes
+fields: []
 birth: "0"
 death: "0"
 expose: true
@@ -59,10 +58,10 @@ works:
     height: 85
     width: 63
     depth: 
-  description: |-
-    1999-2000
-    2900€
-  price: 
+  description: '1999-2000
+
+'
+  price: 2900
   sold: false
   contextual: true
 - title: Pierre Alechinsky - "Ziggourat II"
@@ -85,10 +84,12 @@ works:
     height: 125
     width: 87
     depth: 
-  description: 1400€ encadré
-  price: 
+  description: œuvre encadrée
+  price: 1400
   sold: false
   contextual: true
+  styles:
+  - figuratif
 - title: Buraglio - "A Jean-Jacques Rousseau" (2/12)
   image: "/forestry/buraglio-a-jean-jacques-rousseau-212.jpg"
   technique: Epreuve pigmentaire
@@ -385,5 +386,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/102-estampes/"
+styles:
+- abstrait
 
 ---
