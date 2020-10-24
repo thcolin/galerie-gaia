@@ -37,6 +37,8 @@ works:
   description: "2014"
   price: 11500
   contextual: true
+  fields:
+  - peinture
 - title: 14P2906 détail
   image: "/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
   technique: 'technique mixte et huile sur toile sur châssis '
@@ -47,6 +49,8 @@ works:
   description: "2014"
   price: 11500
   contextual: true
+  fields:
+  - peinture
 - title: 184c06051
   image: "/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg"
   technique: 'eau forte et carborundum sur cuivre imprimé sur papier BFK Rives '
@@ -219,6 +223,8 @@ works:
   description: ''
   price: 11500
   contextual: true
+  fields:
+  - peinture
 - title: 203R0941 -  composition à 6 angles  à Entas -
   image: "/forestry/galeriegaia-muckensturm p 203R0941.jpg"
   technique: Technique  gravure carborundum et  eau forte sur zinc  imprimée sur Papier

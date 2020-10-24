@@ -372,7 +372,7 @@ works:
   contextual: true
 - title: Bonne pierre bon œil 10
   image: "/forestry/bonne-pierre-bon-oeil-10.jpg"
-  technique: Lithographie
+  technique: Lithographie 4/9
   dimensions:
     height: 57
     width: 38
@@ -381,9 +381,11 @@ works:
   price: 300
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Bonne pierre bon œil 13 (vert)
   image: "/forestry/bonne-pierre-bon-oeil-13.jpg"
-  technique: Lithographie
+  technique: Lithographie 8/9
   dimensions:
     height: 40
     width: 30
@@ -392,9 +394,11 @@ works:
   price: 350
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Bonne pierre bon œil 13 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
-  technique: Lithographie
+  technique: Lithographie 6/9
   dimensions:
     height: 40
     width: 30
@@ -403,17 +407,8 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: Bonne pierre bon œil 13 (rouge)
-  image: "/forestry/bonne-pierre-bon-oeil-13rouge.jpg"
-  technique: Lithographie
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: "3018130903"
-  price: 350
-  sold: false
-  contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Bonne pierre bon œil 14 (bleu)
   image: "/forestry/bonne-pierre-bon-oeil-14-bleu.jpg"
   technique: Lithographie
@@ -425,39 +420,47 @@ works:
   price: 450
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Bonne pierre bon œil 14 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-14-noir.jpg"
-  technique: Lithographie
+  technique: Lithographie 8/10
   dimensions:
     height: 76
     width: 56
     depth: 
-  description: "301841008"
+  description: "Musée imprimerie de Nantes   \n301841008"
   price: 450
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Stone Age 02
   image: "/forestry/stone-age-02.jpg"
-  technique: lithographie
+  technique: lithographie 9/10
   dimensions:
     height: 66
     width: 51
     depth: 
-  description: "Tirage à 10 exemplaires   \n3017021009"
+  description: "Atelier Toma L  \n3017021009"
   price: 400
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Stone Age 12
   image: "/forestry/stone-age-12.jpg"
-  technique: Lithographie
+  technique: Lithographie 2/10
   dimensions:
     height: 72
     width: 51
     depth: 
-  description: "Musée de l'imprimerie   \n301712002"
+  description: "Musée de l'imprimerie de Nantes  \n301712002"
   price: 400
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
   technique: Lithographie
@@ -469,6 +472,8 @@ works:
   price: 400
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Stone Age 09
   image: "/forestry/stone-age-09.jpg"
   technique: Lithographie
@@ -480,6 +485,8 @@ works:
   price: 400
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 redirect_from:
 - "/artistes/99-toma-l/"
 styles:

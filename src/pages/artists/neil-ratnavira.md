@@ -30,7 +30,8 @@ works:
 - title: Encre sans titre bleue
   image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
   technique: 'encre sur papier '
-  fields: []
+  fields:
+  - oeuvre sur papier
   styles: []
   dimensions:
     height: 80
@@ -57,6 +58,8 @@ works:
   description: ''
   price: 450
   contextual: false
+  fields:
+  - oeuvre sur papier
 - title: Large abstract black & white 1
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
@@ -66,12 +69,16 @@ works:
   description: ''
   price: 1700
   contextual: true
+  fields:
+  - peinture
 - title: Installation dans la galerie Gaïa
   image: "/forestry/galeriegaia-Acrylic-wall.jpg"
   technique: 'Acrylique sur toile '
   description: ''
   price: 0
   contextual: true
+  fields:
+  - peinture
 - title: Mojito
   image: "/forestry/mojito.jpg"
   technique: digigraphie
