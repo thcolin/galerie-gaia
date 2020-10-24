@@ -165,8 +165,7 @@ works:
 - title: Rêve de cheval
   image: "/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg"
   technique: 'Huile sur toile et technique mixte '
-  fields:
-  - peinture
+  fields: []
   styles: []
   dimensions:
     height: 50

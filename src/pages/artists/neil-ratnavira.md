@@ -27,18 +27,6 @@ biography: "Neil Ratnavira de Alwis est un artiste photographe et peintre expres
   souhaitent regarder de plus prêt."
 exhibitions: []
 works:
-- title: Calzedonia
-  image: "/forestry/galerie-gaia-neil-ratnavira-calzedonia.jpg"
-  technique: Photographie tirage papier 2/10
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: ''
-  price: 300
-  contextual: true
 - title: Wake up
   image: "/forestry/galerie-gaia-neil-ratnavira-wake-up.jpg"
   technique: Photographie tirage papier 4/10
@@ -51,17 +39,26 @@ works:
   description: ''
   price: 300
   contextual: true
-- title: Abstract ink 2
-  image: "/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
-  technique: 'Encre sur papier '
+- title: Calzedonia
+  image: "/forestry/galerie-gaia-neil-ratnavira-calzedonia.jpg"
+  technique: Photographie tirage papier 2/10
+  fields: []
+  styles: []
   dimensions:
-    height: 65
-    width: 50
+    height: 60
+    width: 40
+    depth: 0
   description: ''
-  price: 450
-  contextual: false
+  price: 300
+  contextual: true
+- title: Installation dans la galerie Gaïa
+  image: "/forestry/galeriegaia-Acrylic-wall.jpg"
+  technique: 'Acrylique sur toile '
+  description: ''
+  price: 0
+  contextual: true
   fields:
-  - oeuvre sur papier
+  - peinture
 - title: Mojito
   image: "/forestry/mojito.jpg"
   technique: photographie tirage papier 1/10
@@ -139,19 +136,6 @@ works:
   price: 300
   sold: false
   contextual: false
-- title: Amoeba Music - Los Angeles
-  image: "/forestry/amoeba-music-los-angeles.jpg"
-  technique: digigraphie
-  dimensions:
-    height: 40
-    width: 60
-    depth: 
-  description: 'tirage limité à 10 exemplaires
-
-'
-  price: 300
-  sold: false
-  contextual: true
 - title: Caption this - Amsterdam
   image: "/forestry/caption-this-amsterdam.jpg"
   technique: digigraphie
@@ -163,27 +147,32 @@ works:
   price: 300
   sold: false
   contextual: true
-- title: Encre sans titre bleue
-  image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
-  technique: 'encre sur papier '
+- title: Abstract ink 2
+  image: "/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
+  technique: 'Encre sur papier '
+  dimensions:
+    height: 65
+    width: 50
+  description: ''
+  price: 450
+  contextual: false
   fields:
   - oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: 'Œuvre encadrée avec verre antireflet '
-  price: 600
-  contextual: true
-- title: Installation dans la galerie Gaïa
-  image: "/forestry/galeriegaia-Acrylic-wall.jpg"
+  styles:
+  - abstrait
+- title: Large abstract black @ white 2
+  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
+  dimensions:
+    height: 116
+    width: 90
   description: ''
-  price: 0
+  price: 1700
   contextual: true
   fields:
-  - peinture
+  - Peinture
+  styles:
+  - abstrait
 - title: Large abstract black & white 1
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
@@ -194,15 +183,22 @@ works:
   price: 1700
   contextual: true
   fields:
-  - peinture
-- title: Large abstract black @ white 2
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
-  technique: 'Acrylique sur toile '
+  - Peinture
+  styles:
+  - abstrait
+- title: Encre sans titre bleue
+  image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
+  technique: 'encre sur papier '
+  fields:
+  - oeuvre sur papier
+  styles:
+  - abstrait
   dimensions:
-    height: 116
-    width: 90
-  description: ''
-  price: 1700
+    height: 80
+    width: 60
+    depth: 0
+  description: 'Œuvre encadrée avec verre antireflet '
+  price: 600
   contextual: true
 - title: Neil Ratnavira
   image: "/forestry/neil-ratnavira.jpg"

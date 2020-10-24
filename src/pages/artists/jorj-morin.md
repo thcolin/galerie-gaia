@@ -4,8 +4,6 @@ title: Jorj Morin
 location: Nantes
 fields:
 - oeuvre sur papier
-- textile
-- Sculpture
 birth: "1909"
 death: "1995"
 expose: true
@@ -26,6 +24,20 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: Signaux indécis
+  image: "/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg"
+  technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
+  dimensions:
+    height: 118
+    width: 184
+    depth: 
+  description: '1973 '
+  price: 3500
+  sold: false
+  contextual: true
+  fields:
+  - Tapisserie
+  styles: []
 - title: Zoom sur Signaux indécis
   image: "/forestry/signaux-indecis.jpg"
   technique: Tapisserie
@@ -37,8 +49,10 @@ works:
   price: 
   sold: false
   contextual: true
-  fields: []
-  styles: []
+  fields:
+  - Tapisserie
+  styles:
+  - abstrait
 - title: Vers l'Ouest
   image: "/forestry/vers-louest.jpg"
   technique: Gravure
@@ -141,33 +155,22 @@ works:
   price: 3400
   sold: false
   contextual: true
-  fields: []
+  fields:
+  - Tapisserie
   styles: []
 - title: Papillon
   image: "/forestry/papillon.jpg"
-  technique: 'Tappiserie: Lissier : Pierre Carton ERBA'
+  technique: 'Tapisserie: Lissier Pierre Carton ERBA'
   dimensions:
     height: 92
     width: 118
     depth: 
-  description: 'Sans date '
+  description: ''
   price: 1700
   sold: false
   contextual: true
-  fields: []
-  styles: []
-- title: Signaux indécis
-  image: "/forestry/signaux-indecis.jpg"
-  technique: 'Tapisserie: Lissier Pierre Daquin Atelier St Cyr'
-  dimensions:
-    height: 118
-    width: 184
-    depth: 
-  description: '1973 '
-  price: 3500
-  sold: false
-  contextual: true
-  fields: []
+  fields:
+  - Tapisserie
   styles: []
 - title: Balise verte
   image: "/forestry/balise-verte.jpg"
@@ -180,24 +183,12 @@ works:
   price: 3600
   sold: false
   contextual: false
-  fields: []
-  styles: []
-- title: Disque tournant
-  image: "/forestry/disque-tournant.jpg"
-  technique: Mosaïque
-  dimensions:
-    height: 46
-    width: 47
-    depth: 
-  description: '1980 '
-  price: 1800
-  sold: false
-  contextual: false
-  fields: []
+  fields:
+  - Sculpture
   styles: []
 - title: Cloture restreinte
   image: "/forestry/cloture-restreinte.jpg"
-  technique: 'Mosaïque: Marbre rose, jaune, travertin rouge'
+  technique: Mosaïque Marbre rose, jaune, travertin rouge
   dimensions:
     height: 48
     width: 36
@@ -206,7 +197,8 @@ works:
   price: 1500
   sold: false
   contextual: false
-  fields: []
+  fields:
+  - Sculpture
   styles: []
 - title: Exposition Polymorphie 2020
   image: "/forestry/exposition-polymorphie-2020.jpg"
@@ -223,7 +215,6 @@ works:
   styles: []
 redirect_from:
 - "/artistes/103-jorj-morin/"
-styles:
-- abstrait
+styles: []
 
 ---

@@ -188,6 +188,8 @@ works:
   description: "2017"
   price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Territoires Noir/ Blanc #10'
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
   technique: 'Collage '
@@ -198,6 +200,8 @@ works:
   description: "2017"
   price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Deep blue #8'
   image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
   dimensions:
@@ -236,6 +240,8 @@ works:
   description: ''
   price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Cou-Rage #2'
   image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
   technique: Collage
@@ -246,6 +252,8 @@ works:
   description: ''
   price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Cou-Rage #3'
   image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
   technique: 'Collage '
@@ -256,6 +264,8 @@ works:
   description: ''
   price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Territoires Colorés #15'
   image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
   technique: Collage
@@ -263,8 +273,10 @@ works:
     height: 76
     width: 57
   description: "2020"
-  price: 760
+  price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Territoires Colorés #7'
   image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
   technique: " Collage "
@@ -274,6 +286,8 @@ works:
   description: Œuvre encadrée montage caisson baguette bois noir
   price: 750
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Purple Rhapsody #4 '
   image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
   technique: 'Acrylique sur toile '
@@ -329,6 +343,8 @@ works:
   price: 350
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Nuits en Mer #4'
   image: "/forestry/sans-titre-410.jpg"
   technique: Lithographie
@@ -340,6 +356,8 @@ works:
   price: 350
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: 'Soul Ground  #4'
   image: "/forestry/sans.jpg"
   technique: Collage sur papier Arches
@@ -354,9 +372,11 @@ works:
   price: 780
   sold: false
   contextual: true
-- title: Nuit en mer III (4/25)
+  fields:
+  - oeuvre sur papier
+- title: 'Nuit en mer III '
   image: "/forestry/nuit-en-mer-iv-425.jpg"
-  technique: Lithographie
+  technique: Lithographie 4/25
   dimensions:
     height: 69
     width: 53
@@ -366,6 +386,8 @@ works:
   price: 480
   sold: false
   contextual: true
+  fields:
+  - oeuvre sur papier
 - title: Portrait de Isthme
   image: "/forestry/isabelle-dans-son-atelier.jpg"
   technique: ''
@@ -379,5 +401,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/85tistes/85-isthme/"
+styles:
+- abstrait
 
 ---

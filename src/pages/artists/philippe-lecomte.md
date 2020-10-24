@@ -32,12 +32,12 @@ exhibitions:
 works:
 - title: 2017PLp12
   image: "/forestry/2017plp12.jpg"
-  technique: ''
+  technique: Technique mixte sur papier
   dimensions:
     height: 80
     width: 120
     depth: 
-  description: prix encadré
+  description: œuvre encadrée
   price: 1300
   sold: false
   contextual: true
@@ -76,26 +76,28 @@ works:
   contextual: true
 - title: 2018PLp54
   image: "/forestry/2018plp54.jpg"
-  technique: ''
+  technique: 'Technqiue mixte sur papier '
   dimensions:
     height: 54
     width: 76
     depth: 
-  description: encadré
+  description: œuvre encadrée
   price: 650
   sold: false
   contextual: true
 - title: 2017PLp83
   image: "/forestry/2017plp83.jpg"
-  technique: ''
+  technique: Acrylique et Technique mixte sur bois
   dimensions:
     height: 150
     width: 150
     depth: 
-  description: 3500€
-  price: 
+  description: ''
+  price: 3500
   sold: false
   contextual: true
+  fields:
+  - Peinture
 - title: 2018PLp28a
   image: "/forestry/2018plp28a.jpg"
   technique: ''
