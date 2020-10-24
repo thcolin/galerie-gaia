@@ -3,7 +3,7 @@ template: artist
 title: Kazy Usclef
 location: ''
 fields:
-- Graffiti
+- street art
 birth: "0"
 death: "0"
 expose: true
@@ -31,8 +31,8 @@ works:
     height: 94
     width: 100
     depth: 
-  description: 1900 € avec caisse américaine noire
-  price: 
+  description: œuvre encadrée dans caisse américaine noire
+  price: 1900
   sold: false
   contextual: true
 - title: Le Masque
@@ -43,13 +43,13 @@ works:
     width: 
     depth: 
   description: "œuvre éphémère du Voyage à Nantes dans le cadre de l'installation
-    dans une péniche canala St Félix à Nantes \"Asie Rider\" 2015.  \nVendu"
+    dans une péniche canale St Félix à Nantes \"Asie Rider\" 2015.  \nVendu"
   price: 
   sold: false
   contextual: true
 - title: Fresque pour la Galerie Gaïa
   image: "/forestry/fresque-pour-la-galerie-gaia.jpg"
-  technique: peinture
+  technique: peinture murale
   dimensions:
     height: 300
     width: 300
@@ -62,7 +62,7 @@ works:
   contextual: true
 - title: Routine 3
   image: "/forestry/routine-3.jpg"
-  technique: Acrylique
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 162
     width: 97
@@ -78,8 +78,10 @@ works:
     height: 114
     width: 69
     depth: 
-  description: "2017 \n580 € encadrée : baguette aluminium et verre musée"
-  price: 
+  description: '2017
+
+'
+  price: 300
   sold: false
   contextual: true
 - title: Le Minotaure
@@ -95,5 +97,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/48-kazy-usclef/"
+styles:
+- figuratif
 
 ---

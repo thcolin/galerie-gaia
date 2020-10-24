@@ -68,7 +68,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - peinture
+  - Peinture
 - title: Automorphie Grande Structure
   image: "/forestry/automorphie-grande-structure.jpg"
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
@@ -81,7 +81,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - peinture
+  - Peinture
 - title: Le défi de Thésée (2/11)
   image: "/forestry/le-defi-de-thesee-211.jpg"
   technique: Eau forte sur zinc, tirage 11 ex sur RBK Rives 300g/m²

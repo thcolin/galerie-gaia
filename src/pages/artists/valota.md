@@ -112,8 +112,7 @@ works:
   description: "Oeuvre encadrée caisse americaine bois brut  \n2020"
   price: 6000
   contextual: true
-  fields:
-  - peinture
+  fields: []
 - title: Tour morodrée noire
   image: "/forestry/valota-tour-noir-mordore-hauteur-57cm-diametre-42cm-ceramique-2019.jpg"
   technique: Céramique

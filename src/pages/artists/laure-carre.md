@@ -273,17 +273,6 @@ works:
   contextual: true
   fields:
   - oeuvre sur papier
-- title: Brume et Basile
-  image: "/forestry/637.jpg"
-  technique: Lithographie
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 160
-  sold: false
-  contextual: true
 - title: Salle d'attente
   image: "/forestry/salle-dattente.jpg"
   technique: Huile sur toile
@@ -313,8 +302,8 @@ works:
     height: 80
     width: 80
     depth: 
-  description: Prix 1400€
-  price: 
+  description: ''
+  price: 1400
   sold: false
   contextual: true
 - title: 'Walk in the kingdom '
@@ -324,8 +313,8 @@ works:
     height: 50
     width: 33
     depth: 
-  description: 200€ Imprimé au musée de l'imprimerie de Nantes en 2017.
-  price: 
+  description: " Imprimé au musée de l'imprimerie de Nantes en 2017."
+  price: 200
   sold: false
   contextual: true
   fields:
@@ -337,8 +326,8 @@ works:
     height: 50
     width: 33
     depth: 
-  description: 2016 200€
-  price: 
+  description: '2016 '
+  price: 200
   sold: false
   contextual: true
   fields:
@@ -350,8 +339,8 @@ works:
     height: 50
     width: 33
     depth: 
-  description: 2017 200€
-  price: 
+  description: '2017 '
+  price: 200
   sold: false
   contextual: true
   fields:

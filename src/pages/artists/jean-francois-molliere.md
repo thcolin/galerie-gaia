@@ -2,8 +2,7 @@
 template: artist
 title: Jean-François Mollière
 location: ''
-fields:
-- Photographie
+field: Photographe
 birth: "0"
 death: "0"
 expose: true
@@ -90,8 +89,8 @@ works:
   price: 1700
   contextual: true
 - title: Chicago 21
-  image: "/forestry/galerie-gaia-jfm-chicago-21.jpg"
-  technique: 'Photographie'
+  image: ''
+  technique: 'Photographie '
   dimensions:
     height: 112
     width: 105
@@ -236,5 +235,9 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/104-jean-francois-molliere/"
+fields:
+- Photographie
+styles:
+- figuratif
 
 ---

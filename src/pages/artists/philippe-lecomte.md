@@ -130,7 +130,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - peinture
+  - Peinture
 - title: 2017PLp82
   image: "/forestry/2017plp82.jpg"
   technique: technique mixte sur papier
