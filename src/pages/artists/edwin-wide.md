@@ -62,17 +62,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Edwin Wide
-  image: "/forestry/edwin-wide.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: Inconnue#1
   image: "/forestry/inconnue1.jpg"
   technique: Spray et acrylique sur bois
@@ -82,6 +71,17 @@ works:
     depth: 
   description: ''
   price: 1500
+  sold: false
+  contextual: true
+- title: Edwin Wide
+  image: "/forestry/edwin-wide.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: ''
+  price: 
   sold: false
   contextual: true
 redirect_from:
