@@ -27,6 +27,30 @@ biography: "Neil Ratnavira de Alwis est un artiste photographe et peintre expres
   souhaitent regarder de plus prêt."
 exhibitions: []
 works:
+- title: Calzedonia
+  image: "/forestry/galerie-gaia-neil-ratnavira-calzedonia.jpg"
+  technique: Photographie tirage papier 2/10
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 300
+  contextual: true
+- title: Wake up
+  image: "/forestry/galerie-gaia-neil-ratnavira-wake-up.jpg"
+  technique: Photographie tirage papier 4/10
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 300
+  contextual: true
 - title: Encre sans titre bleue
   image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
   technique: 'encre sur papier '
@@ -81,12 +105,12 @@ works:
   - peinture
 - title: Mojito
   image: "/forestry/mojito.jpg"
-  technique: digigraphie
+  technique: photographie tirage papier 1/10
   dimensions:
     height: 60
     width: 40
     depth: 
-  description: tirage en 10 exemplaires
+  description: ''
   price: 300
   sold: false
   contextual: true
