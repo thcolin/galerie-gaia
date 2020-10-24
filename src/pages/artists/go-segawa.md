@@ -188,5 +188,7 @@ works:
   contextual: false
 redirect_from:
 - "/artistes/15-go-segawa/"
+styles:
+- abstrait
 
 ---

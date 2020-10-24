@@ -3,7 +3,7 @@ template: artist
 title: Franco Salas Borquez
 location: Franco Chilien
 fields:
-- Peinture à l'huile
+- Peinture
 birth: "0"
 death: "0"
 expose: true
@@ -31,6 +31,7 @@ works:
     height: 81
     width: 130
   contextual: true
+  technique: 'Huile sur toile '
 - title: Le profond
   image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
   technique: Huile sur toile
@@ -89,17 +90,9 @@ works:
   description: Œuvre encadrée en baguette bois blanc verre musée anti-reflet
   price: 700
   contextual: true
-- title: Exposition Le Sillage St Malo 2019
-  image: "/forestry/galeriegaia-franco salas borquez -expo st malo5.JPG"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[vidéo de l''exposition](https://www.youtube.com/watch?v=8JP9GPVnTao
-    "video expo salas borquez st malo")'
-  price: ''
-  contextual: true
-- title: l ocean aveugle
+  fields:
+  - oeuvre sur papier
+- title: L'océan aveugle
   image: "/forestry/l-ocean-aveugle.jpg"
   technique: huile sur toile 2016
   dimensions:
@@ -143,7 +136,19 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo5.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[vidéo de l''exposition](https://www.youtube.com/watch?v=8JP9GPVnTao
+    "video expo salas borquez st malo")'
+  price: ''
+  contextual: true
 redirect_from:
 - "/artistes/64-franco-salas-borquez/"
+styles:
+- figuratif
 
 ---

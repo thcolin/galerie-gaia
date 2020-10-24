@@ -4,7 +4,6 @@ title: Georges Rousse
 location: ''
 fields:
 - Photographie
-- Plasticien.ne
 birth: "0"
 death: "0"
 expose: true
@@ -37,7 +36,7 @@ biography: "Georges Rousse est né le 28 juillet 1947 à Paris. C'est un photogr
   de Belgique"
 exhibitions: []
 works:
-- title: HEIDELBERG
+- title: Heidelberg
   image: "/forestry/heidelberg.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
@@ -124,5 +123,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/93-georges-rousse/"
+styles:
+- figuratif
 
 ---

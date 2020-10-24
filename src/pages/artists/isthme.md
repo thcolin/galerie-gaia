@@ -332,9 +332,9 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: Nuit en mer IV (1/13)
+- title: 'Nuit en mer IV '
   image: "/forestry/nuit-en-mer-iii-113.jpg"
-  technique: Lithographie
+  technique: Lithographie 1/13
   dimensions:
     height: 56
     width: 76
