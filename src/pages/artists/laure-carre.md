@@ -190,19 +190,6 @@ works:
   contextual: true
   fields:
   - oeuvre sur papier
-- title: Amazone
-  image: "/forestry/galerie-gaia-laure-carre-amazone_42x35.jpg"
-  technique: 'Huile sur papier et technique mixte '
-  dimensions:
-    height: 38
-    width: 30
-    depth: 0
-  description: |-
-    2020
-
-    Encadrement chêne 40€
-  price: 300
-  contextual: true
 - title: 'La chaise cheval '
   image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -382,19 +369,6 @@ works:
   contextual: false
   fields:
   - oeuvre sur papier
-- title: Native spririt
-  image: "/forestry/galeriegaia@laurecarre-nativespirit-collage.jpg"
-  technique: mixte
-  dimensions:
-    height: 34
-    width: 23
-    depth: 
-  description: "2019"
-  price: 200
-  sold: false
-  contextual: true
-  fields:
-  - 'oeuvre sur papier '
 - title: Un ami la nuit
   image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
   technique: 'Huile sur toile '
