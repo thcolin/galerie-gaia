@@ -3,7 +3,7 @@ template: artist
 title: Pascal Proust
 location: ''
 fields:
-- sculpture
+- Sculpture
 birth: "0"
 death: "0"
 expose: true

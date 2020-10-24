@@ -3,9 +3,9 @@ template: artist
 title: Jorj Morin
 location: Nantes
 fields:
-- Gravure
-- Stèle
-- Tapisserie
+- oeuvre sur papier
+- textile
+- Sculpture
 birth: "1909"
 death: "1995"
 expose: true
@@ -37,6 +37,8 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Vers l'Ouest
   image: "/forestry/vers-louest.jpg"
   technique: Gravure
@@ -48,6 +50,8 @@ works:
   price: 150
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: En forme de feuille
   image: "/forestry/en-forme-de-feuille.jpg"
   technique: Gravure
@@ -59,6 +63,8 @@ works:
   price: 150
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Bouquet bleu
   image: "/forestry/bouquet-bleu.jpg"
   technique: Gravure
@@ -70,6 +76,8 @@ works:
   price: 150
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Bride abattue
   image: "/forestry/bride-abattue.jpg"
   technique: Gravure
@@ -81,6 +89,8 @@ works:
   price: 250
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Capture
   image: "/forestry/capture.jpg"
   technique: Gravure
@@ -92,6 +102,8 @@ works:
   price: 250
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Jeu de pistes
   image: "/forestry/jeu-de-pistes.jpg"
   technique: Gravure
@@ -103,6 +115,8 @@ works:
   price: 250
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Les 3 veilleurs 1977
   image: "/forestry/les-3-veiileurs-1977.jpg"
   technique: Gravure
@@ -114,6 +128,8 @@ works:
   price: 450
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Espace nacré
   image: "/forestry/espace-nacre.jpg"
   technique: 'Tapisserie: Lissière Edith Morin'
@@ -125,6 +141,8 @@ works:
   price: 3400
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Papillon
   image: "/forestry/papillon.jpg"
   technique: 'Tappiserie: Lissier : Pierre Carton ERBA'
@@ -136,6 +154,8 @@ works:
   price: 1700
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Signaux indécis
   image: "/forestry/signaux-indecis.jpg"
   technique: 'Tapisserie: Lissier Pierre Daquin Atelier St Cyr'
@@ -147,6 +167,8 @@ works:
   price: 3500
   sold: false
   contextual: true
+  fields: []
+  styles: []
 - title: Balise verte
   image: "/forestry/balise-verte.jpg"
   technique: Mosaïque
@@ -158,6 +180,8 @@ works:
   price: 3600
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Disque tournant
   image: "/forestry/disque-tournant.jpg"
   technique: Mosaïque
@@ -169,6 +193,8 @@ works:
   price: 1800
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Cloture restreinte
   image: "/forestry/cloture-restreinte.jpg"
   technique: 'Mosaïque: Marbre rose, jaune, travertin rouge'
@@ -180,6 +206,8 @@ works:
   price: 1500
   sold: false
   contextual: false
+  fields: []
+  styles: []
 - title: Exposition Polymorphie 2020
   image: "/forestry/exposition-polymorphie-2020.jpg"
   technique: ''
@@ -191,7 +219,11 @@ works:
   price: 
   sold: false
   contextual: true
+  fields: []
+  styles: []
 redirect_from:
 - "/artistes/103-jorj-morin/"
+styles:
+- abstrait
 
 ---

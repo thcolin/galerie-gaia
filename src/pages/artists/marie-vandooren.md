@@ -25,6 +25,8 @@ works:
   description: "2020"
   price: 250
   contextual: false
+  fields:
+  - Sculpture
 - title: Paysage 2
   image: "/forestry/vandoorenmarie.paysage2.100x81cm.jpg"
   technique: acrylique sur papier
@@ -35,16 +37,6 @@ works:
   description: "2020"
   price: 700
   contextual: true
-- title: Maquette 2 Garage
-  image: "/forestry/vandoorenmarie.maquette2.12x9cm.jpg"
-  dimensions:
-    height: 12
-    width: 9
-    depth: 10
-  description: "2020"
-  price: 250
-  contextual: true
-  technique: 'Maquette socle bois '
 - title: Paysage
   image: "/forestry/vandoorenmarie.paysage.81x65cm.jpg"
   technique: acrylique sur papier
@@ -75,6 +67,8 @@ works:
   description: ''
   price: 250
   contextual: false
+  fields:
+  - Sculpture
 - title: Parc 1
   image: "/forestry/vandoorenmarie.parc1.50x70cm.jpg"
   technique: 'Huile sur toile '

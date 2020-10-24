@@ -21,6 +21,7 @@ artists:
 - artist: src/pages/artists/dimitri-bourriau.md
 - artist: src/pages/artists/sebastien-bouchard.md
 - artist: src/pages/artists/jean-paul-friol.md
+- artist: src/pages/artists/muriel-kerba.md
 - artist: src/pages/artists/philippe-lecomte.md
 - artist: src/pages/artists/frederique-tristant.md
 - artist: src/pages/artists/georges-rousse.md

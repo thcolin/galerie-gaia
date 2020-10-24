@@ -1,6 +1,6 @@
 ---
 fields:
-- sculpture
+- Sculpture
 styles:
 - abstrait
 template: artist

@@ -273,5 +273,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/25-tangui-robert/"
+styles:
+- figuratif
 
 ---

@@ -3,7 +3,7 @@ template: artist
 title: Jacqueline Pécantet
 location: ''
 fields:
-- Céramique
+- ceramique
 birth: "0"
 death: "0"
 expose: true
@@ -125,5 +125,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/36tistes/36-jacqueline-pecantet/"
+styles:
+- abstrait
 
 ---

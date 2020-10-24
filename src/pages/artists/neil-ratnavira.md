@@ -51,28 +51,6 @@ works:
   description: ''
   price: 300
   contextual: true
-- title: Encre sans titre bleue
-  image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
-  technique: 'encre sur papier '
-  fields:
-  - oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: 'Œuvre encadrée avec verre antireflet '
-  price: 600
-  contextual: true
-- title: Large abstract black @ white 2
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 116
-    width: 90
-  description: ''
-  price: 1700
-  contextual: true
 - title: Abstract ink 2
   image: "/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
   technique: 'Encre sur papier '
@@ -84,25 +62,6 @@ works:
   contextual: false
   fields:
   - oeuvre sur papier
-- title: Large abstract black & white 1
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 90
-    width: 116
-  description: ''
-  price: 1700
-  contextual: true
-  fields:
-  - peinture
-- title: Installation dans la galerie Gaïa
-  image: "/forestry/galeriegaia-Acrylic-wall.jpg"
-  technique: 'Acrylique sur toile '
-  description: ''
-  price: 0
-  contextual: true
-  fields:
-  - peinture
 - title: Mojito
   image: "/forestry/mojito.jpg"
   technique: photographie tirage papier 1/10
@@ -169,17 +128,17 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Neil Ratnavira
-  image: "/forestry/neil-ratnavira.jpg"
-  technique: ''
+- title: A star is born - Los Angeles
+  image: "/forestry/a-star-is-born-los-angeles.jpg"
+  technique: digigraphie
   dimensions:
-    height: 
-    width: 
+    height: 60
+    width: 40
     depth: 
-  description: ''
-  price: 
+  description: tirage à 10 exemplaires
+  price: 300
   sold: false
-  contextual: true
+  contextual: false
 - title: Amoeba Music - Los Angeles
   image: "/forestry/amoeba-music-los-angeles.jpg"
   technique: digigraphie
@@ -193,17 +152,6 @@ works:
   price: 300
   sold: false
   contextual: true
-- title: A star is born - Los Angeles
-  image: "/forestry/a-star-is-born-los-angeles.jpg"
-  technique: digigraphie
-  dimensions:
-    height: 60
-    width: 40
-    depth: 
-  description: tirage à 10 exemplaires
-  price: 300
-  sold: false
-  contextual: false
 - title: Caption this - Amsterdam
   image: "/forestry/caption-this-amsterdam.jpg"
   technique: digigraphie
@@ -213,6 +161,58 @@ works:
     depth: 
   description: Tirage sur papier d'art en 10 exemplaires
   price: 300
+  sold: false
+  contextual: true
+- title: Encre sans titre bleue
+  image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
+  technique: 'encre sur papier '
+  fields:
+  - oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: 'Œuvre encadrée avec verre antireflet '
+  price: 600
+  contextual: true
+- title: Installation dans la galerie Gaïa
+  image: "/forestry/galeriegaia-Acrylic-wall.jpg"
+  technique: 'Acrylique sur toile '
+  description: ''
+  price: 0
+  contextual: true
+  fields:
+  - peinture
+- title: Large abstract black & white 1
+  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 90
+    width: 116
+  description: ''
+  price: 1700
+  contextual: true
+  fields:
+  - peinture
+- title: Large abstract black @ white 2
+  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 116
+    width: 90
+  description: ''
+  price: 1700
+  contextual: true
+- title: Neil Ratnavira
+  image: "/forestry/neil-ratnavira.jpg"
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: ''
+  price: 
   sold: false
   contextual: true
 redirect_from:
