@@ -373,6 +373,8 @@ works:
   price: 900
   sold: false
   contextual: true
+  styles:
+  - figuratif
 - title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-770.jpg"
   technique: Sérigraphie atelier Byse Lille 7/70

@@ -3,7 +3,7 @@ template: artist
 title: Edwin Wide
 location: ''
 fields:
-- Graffiti
+- street art
 birth: "0"
 death: "0"
 expose: true
@@ -86,5 +86,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/91-edwin-wide/"
+styles:
+- figuratif
 
 ---

@@ -62,29 +62,29 @@ biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il c
   de sa peau, de sa pensée, de son univers. Le paysage qu’il voit, n’est pas tant
   celui qui se trouve devant ses yeux que celui qui lui traverse le corps. »_  \n**Christophe
   Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions Domaine
-  de Kerguéhennec, octobre 2013\n\n**Expositions à venir :**  \n  \n2021 (mai-septembre)
+  de Kerguéhennec, octobre 2013\n\n**Expositions à venir :**\n\n2021 (mai-septembre)
   Fougères Musée de la Villéon \" Paysages, Paysages \" Commissariat Samuel Linard
-  \  \n2021 Automne Galerie Gaïa commissariat Elisabeth Givre \n\n**Expositions personnelles
+  \ \n2021 Automne Galerie Gaïa commissariat Elisabeth Givre\n\n**Expositions personnelles
   :**\n\n2020 Juin-Décembre  Musée Robert Tatin - \" Du Morbihan à la Frénouse, aux
   abords du pays où la lumière ne fait point d'ombre \" - commissariat Bruno Godivier
-  - édition d'un catalogue   \n2019 Juillet- Novembre Vannes Musée des Beaux-Arts
-  \ La Cohue \" Terres et Landes , Paysages de Bretagne \" - ( peintres des 19e, 2Oe
-  , 21e siècles ) - commissariat Françoise Berretrot, Marie Annie Avril  \n2019 Le
-  Mans  Musée de Tessé  \" Paysages \" ( Des primitifs italiens aux peintres contemporains
-  ) commissariat Carole Hirardot   \n2019 Cossé le Vivien Musée Robert Tatin \" Ô
-  temps de Tatin \"commissariat Bruno Godivier  \n2018 Vannes Musée des Beaux-Arts
-  La Cohue \" En présence des arbres \"Béatrice Bescond  \n2018 Nantes- Galerie RDV-
-  \" Ce presque rien \"- Noémie Chauvet Jacques Le Brusq-  \n2016 Paris- Galerie Jean
-  Fournier \" 25 ans de l'art dans les chapelles \"  \n2015 _Un chemin en peinture_,
-  Atelier Raspail, Paris (commissariat Charles Bimbenet)  \n2013 _Sur le motif_, Domaine
-  de Kerguehennec, Bignan (commissariat Olivier Delavalade)  \n1998 Espace Sophie
-  Barrouyer, Paris  \n1997 FIAC - Espace du Quai Branly, Paris (Galerie Plessis)  \n1996
-  _Du paysage au dépaysement,_ Musée des Beaux-arts, Chartres (commissariat Maïthé
-  Valles-Bled)  \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée de Tessé - Collégiale
-  Saint-Pierre-La-Cour, Le Mans (commissariat Serge Nikitine)  \n1986 Le Grand Huit
-  - Maison de la Culture, Rennes (commissariat Jean-Yves Louédec)  \n1973 Musée de
-  Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de Bovrel, Saint Guyomard
-  \ \n1965 Foyer des artistes - Montparnasse - Galerie Marc Vaux, Paris"
+  - édition d'un catalogue  \n2020 Juillet- Novembre Vannes Musée des Beaux-Arts  La
+  Cohue \" Terres et Landes , Paysages de Bretagne \" - ( peintres des 19e, 2Oe ,
+  21e siècles ) - commissariat Françoise Berretrot, Marie Annie Avril  \n2019 Le Mans
+  \ Musée de Tessé  \" Paysages \" ( Des primitifs italiens aux peintres contemporains
+  ) commissariat Carole Hirardot  \n2019 Cossé le Vivien Musée Robert Tatin \" Ô temps
+  de Tatin \"commissariat Bruno Godivier  \n2018 Vannes Musée des Beaux-Arts La Cohue
+  \" En présence des arbres \"Béatrice Bescond  \n2018 Nantes- Galerie RDV- \" Ce
+  presque rien \"- Noémie Chauvet Jacques Le Brusq-  \n2016 Paris- Galerie Jean Fournier
+  \" 25 ans de l'art dans les chapelles \"  \n2015 _Un chemin en peinture_, Atelier
+  Raspail, Paris (commissariat Charles Bimbenet)  \n2013 _Sur le motif_, Domaine de
+  Kerguehennec, Bignan (commissariat Olivier Delavalade)  \n1998 Espace Sophie Barrouyer,
+  Paris  \n1997 FIAC - Espace du Quai Branly, Paris (Galerie Plessis)  \n1996 _Du
+  paysage au dépaysement,_ Musée des Beaux-arts, Chartres (commissariat Maïthé Valles-Bled)
+  \ \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée de Tessé - Collégiale Saint-Pierre-La-Cour,
+  Le Mans (commissariat Serge Nikitine)  \n1986 Le Grand Huit - Maison de la Culture,
+  Rennes (commissariat Jean-Yves Louédec)  \n1973 Musée de Tessé, Le Mans (commissariat
+  Raymond Blanc)  \n1971 La Cour de Bovrel, Saint Guyomard  \n1965 Foyer des artistes
+  - Montparnasse - Galerie Marc Vaux, Paris"
 works:
 - title: La Brèche Opus 2
   image: "/forestry/sans-nom-16.jpg"
@@ -99,10 +99,10 @@ works:
     type coffret - baguette chêne)
   price: 3000
   sold: false
-  contextual: true
+  contextual: false
 - title: Tri Avr Opus1
   image: "/forestry/17_img_7742_cmjn-copie.jpg"
-  technique: 'Huile sur toile '
+  technique: 'Huile sur papier '
   fields: []
   styles: []
   dimensions:
@@ -113,10 +113,10 @@ works:
     type coffret - baguette chêne)
   price: 3000
   sold: false
-  contextual: true
+  contextual: false
 - title: Paysage
   image: "/forestry/_mg_3091.jpg"
-  technique: 'Huile sur toile '
+  technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
@@ -127,10 +127,10 @@ works:
     type coffret - baguette chêne)
   price: 3000
   sold: false
-  contextual: true
+  contextual: false
 - title: Paysage Ker Sal 1Opus2
   image: "/forestry/_mg_3074.jpg"
-  technique: 'Huile sur toile '
+  technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
@@ -141,7 +141,7 @@ works:
     type coffret - baguette chêne)
   price: 3000
   sold: false
-  contextual: true
+  contextual: false
 exhibitions:
 - title: ''
   location: ''
