@@ -231,5 +231,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/82-dimitri-roubichou/"
+styles:
+- figuratif
 
 ---
