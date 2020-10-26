@@ -2,7 +2,8 @@
 template: artist
 title: Alain Clément
 location: ''
-fields: []
+fields:
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -100,5 +101,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/89-alain-clement/"
+styles:
+- abstrait
 
 ---

@@ -2,7 +2,8 @@
 template: artist
 title: Anne Gaiss
 location: ''
-fields: []
+fields:
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -117,5 +118,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/87-anne-gaiss/"
+styles:
+- abstrait
 
 ---
