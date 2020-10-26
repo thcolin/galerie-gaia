@@ -3,7 +3,7 @@ template: artist
 title: Edwin Wide
 location: ''
 fields:
-- street art
+- Street art
 birth: "0"
 death: "0"
 expose: true

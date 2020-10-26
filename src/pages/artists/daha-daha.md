@@ -4,7 +4,6 @@ title: Daha
 location: ''
 fields:
 - Design
-- Ebéniste
 birth: "0"
 death: "0"
 expose: true

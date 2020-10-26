@@ -30,6 +30,17 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: CIEL 2067
+  image: "/forestry/ciel-2067.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 80
+    width: 80
+    depth: 
+  description: caisse américaine bois brut
+  price: 1800
+  sold: false
+  contextual: true
 - title: Ciel 2059
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg"
   technique: Acrylique sur toile
@@ -90,17 +101,6 @@ works:
   price: 750
   contextual: true
   technique: Acrylique sur toile
-- title: CIEL 2067
-  image: "/forestry/ciel-2067.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: caisse américaine bois brut
-  price: 1800
-  sold: false
-  contextual: true
 - title: Ciel 2070
   image: "/forestry/galeriegaia_Francheteau_Ciel2070(2018)_30x30.jpg"
   technique: 'Acrylique sur toile '
@@ -128,15 +128,6 @@ works:
   description: 'œuvre encadrée bois '
   price: 280
   contextual: true
-- title: Ciel 060
-  image: "/forestry/galeriegaia_Francheteau_Ciel060(2016)_37x37_(cadre50x50).jpg"
-  technique: Dessin
-  dimensions:
-    height: 37
-    width: 37
-  description: œuvre encadrée 50X50 cm
-  price: 400
-  contextual: true
 - title: Ciel 2005
   image: "/forestry/937.jpg"
   technique: Acrylique sur toile
@@ -146,17 +137,6 @@ works:
     depth: 
   description: ''
   price: 250
-  sold: false
-  contextual: true
-- title: Ciel 045
-  image: "/forestry/943.jpg"
-  technique: Dessin
-  dimensions:
-    height: 22
-    width: 17
-    depth: 
-  description: œuvre encadrée 40X30cm
-  price: 160
   sold: false
   contextual: true
 - title: Portrait de Claude Francheteau
@@ -170,5 +150,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/12-claude-francheteau/"
+styles:
+- figuratif
 
 ---

@@ -4,7 +4,6 @@ title: Valota
 location: Paris - Normandie
 fields:
 - Peinture
-- ceramique
 birth: "0"
 death: "0"
 expose: true
@@ -133,7 +132,7 @@ works:
   price: 3000
   contextual: false
   fields:
-  - ceramique
+  - Céramique
 - title: Tour mordorée noire
   image: "/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg"
   technique: Céramique
@@ -145,7 +144,7 @@ works:
   price: 3000
   contextual: false
   fields:
-  - ceramique
+  - Céramique
 - title: Quiet days under the trees 6
   image: "/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg"
   technique: Cire et pigments sur bois

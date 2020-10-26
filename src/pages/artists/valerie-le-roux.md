@@ -3,21 +3,24 @@ template: artist
 title: Valérie Le Roux
 location: ''
 fields:
-- céramique
 - oeuvre sur papier
+- Céramique
 birth: "0"
 death: "0"
 expose: true
-biography: "ETE 2018 EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
-  \nRETROUVEZ DES CERAMIQUES ET DES SERIGRAPHIES EN EXCUSIVITE \n\nXavier de Jarcy
-  - TELERAMA Novembre 2016\n\n\"Concilier inspiration régionale et esprit contemporain,
-  ce n'est pas si fréquent. Valérie Leroux y parvient.\n\nCéramiste mais pas que.
-  Le support ne serait peut être que prétexte pour installer un trait qui se lit aussi
-  bien à plat que sur des volumes.\nAlors en sérigraphie ou sur une céramique ce regard
-  efficace et si poétique sur notre bord de mer, vous permettra d'installer un bol
-  d'air frais au-delà de notre belle Bretagne.\nLa modération du trait n'est pas synonyme
-  de minimalisme dans ce travail qui met la flore en mouvement.\n\nEt les sérigrapies
-  sont réalisées par un CAT régionales, ce qui est aussi important pour Valérie LEROUX"
+biography: |-
+  ETE 2018 EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
+  RETROUVEZ DES CERAMIQUES ET DES SERIGRAPHIES EN EXCUSIVITE
+
+  Xavier de Jarcy - TELERAMA Novembre 2016
+
+  "Concilier inspiration régionale et esprit contemporain, ce n'est pas si fréquent. Valérie Leroux y parvient.
+
+  Céramiste mais pas que. Le support ne serait peut être que prétexte pour installer un trait qui se lit aussi bien à plat que sur des volumes.
+  Alors en sérigraphie ou sur une céramique ce regard efficace et si poétique sur notre bord de mer, vous permettra d'installer un bol d'air frais au-delà de notre belle Bretagne.
+  La modération du trait n'est pas synonyme de minimalisme dans ce travail qui met la flore en mouvement.
+
+  Et les sérigraphies sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie LEROUX
 exhibitions: []
 works:
 - title: Flacon
@@ -32,7 +35,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - céramique
+  - Céramique
 - title: Poisson russe
   image: "/forestry/ia.jpg"
   technique: Sérigraphie
@@ -66,12 +69,12 @@ works:
     height: 
     width: 
     depth: 
-  description: 88€
-  price: 
+  description: ''
+  price: 88
   sold: false
   contextual: true
   fields:
-  - céramique
+  - Céramique
 - title: Grande coupe
   image: "/forestry/grande-coupe.jpg"
   technique: Céramique
@@ -79,12 +82,12 @@ works:
     height: 
     width: 
     depth: 
-  description: 130€
-  price: 
+  description: ''
+  price: 130
   sold: false
   contextual: true
   fields:
-  - ceramique
+  - Céramique
 - title: '3 poissons rouges '
   image: "/forestry/862.jpg"
   technique: Sérigraphie

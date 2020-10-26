@@ -3,7 +3,7 @@ template: artist
 title: Jacqueline Pécantet
 location: ''
 fields:
-- ceramique
+- Céramique
 birth: "0"
 death: "0"
 expose: true

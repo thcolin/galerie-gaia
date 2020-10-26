@@ -3,7 +3,7 @@ template: artist
 title: Combas
 location: ''
 fields:
-- Peinture
+- oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -50,5 +50,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/38-combas/"
+styles:
+- figuratif
 
 ---

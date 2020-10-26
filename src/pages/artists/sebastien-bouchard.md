@@ -3,7 +3,7 @@ template: artist
 title: Sébastien Bouchard
 location: 
 fields:
-- street art
+- Street art
 birth: 
 death: 
 expose: true
