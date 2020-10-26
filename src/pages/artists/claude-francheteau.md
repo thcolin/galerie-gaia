@@ -75,8 +75,8 @@ works:
   image: "/forestry/galerie-gaia-claude-francheteau-ciel-149-48x68.jpg"
   technique: Acrylique sur toile
   dimensions:
-    height: 48
-    width: 68
+    height: 68
+    width: 48
     depth: 0
   description: "2020"
   price: 1000
@@ -114,8 +114,8 @@ works:
   image: "/forestry/galeriegaia_Francheteau_Ciel2042(2016)_20x30.jpg"
   technique: Acrylique sur toile
   dimensions:
-    height: 30
-    width: 20
+    height: 20
+    width: 30
   description: 'œuvre encadrée bois '
   price: 380
   contextual: true
