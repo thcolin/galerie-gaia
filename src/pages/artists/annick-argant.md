@@ -108,5 +108,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/51-annick-argant/"
+styles:
+- figuratif
 
 ---

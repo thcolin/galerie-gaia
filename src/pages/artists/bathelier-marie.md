@@ -243,8 +243,10 @@ works:
   price: 160
   sold: false
   contextual: true
-  fields: []
-  styles: []
+  fields:
+  - Photographie
+  styles:
+  - figuratif
 - title: Mer 3
   image: "/forestry/mariebathellier-mer3-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -261,8 +263,10 @@ works:
   price: 160
   sold: false
   contextual: true
-  fields: []
-  styles: []
+  fields:
+  - Photographie
+  styles:
+  - figuratif
 - title: Rivière
   image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
   technique: Rivière
@@ -294,7 +298,8 @@ works:
   price: 900
   sold: false
   contextual: false
-  fields: []
+  fields:
+  - Design
   styles: []
 - title: Portrait Marie Bathellier
   image: "/forestry/galerie-gaia-marie-bathelier-portrait.jpg"

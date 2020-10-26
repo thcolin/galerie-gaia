@@ -68,7 +68,7 @@ works:
   description: PRIX SUR DEMANDE
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: ATELIER
   image: "/forestry/atelier.jpg"
   technique: ''
@@ -90,7 +90,7 @@ works:
   description: ''
   price: 
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/52-jean-claude-breat/"
 styles:
