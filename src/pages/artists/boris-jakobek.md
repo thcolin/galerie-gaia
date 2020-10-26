@@ -189,5 +189,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/86-boris-jakobek/"
+styles:
+- figuratif
 
 ---

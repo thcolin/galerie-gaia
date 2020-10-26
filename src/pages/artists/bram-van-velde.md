@@ -2,7 +2,8 @@
 template: artist
 title: Bram Van Velde
 location: ''
-fields: []
+fields:
+- oeuvre sur papier
 birth: "1895"
 death: "1981"
 expose: true
@@ -118,5 +119,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/90-bram-van-velde/"
+styles:
+- abstrait
 
 ---

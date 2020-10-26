@@ -3,7 +3,7 @@ template: artist
 title: Bathellier Marie
 location: ''
 fields:
-- Plasticien.ne
+- Peinture
 birth: ''
 death: ''
 expose: true
@@ -119,8 +119,10 @@ works:
   price: 900
   sold: false
   contextual: false
-  fields: []
-  styles: []
+  fields:
+  - Sculpture
+  styles:
+  - abstrait
 - title: Détail sculpture murale triangulaire
   image: "/forestry/detail-sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
@@ -132,8 +134,10 @@ works:
   price: 650
   sold: false
   contextual: true
-  fields: []
-  styles: []
+  fields:
+  - Sculpture
+  styles:
+  - abstrait
 - title: Sculpture murale triangles
   image: "/forestry/sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
@@ -145,8 +149,10 @@ works:
   price: 650
   sold: false
   contextual: false
-  fields: []
-  styles: []
+  fields:
+  - Sculpture
+  styles:
+  - anstrait
 - title: 'Sculpture murale à rayures '
   image: "/forestry/profil-sbleue.jpeg"
   technique: 'pigments acryliques et paillettes sur bois '
@@ -161,8 +167,10 @@ works:
   price: 650
   sold: false
   contextual: false
-  fields: []
-  styles: []
+  fields:
+  - Sculpture
+  styles:
+  - abstrait
 - title: Sculpture murale au carré rouge
   image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
   technique: pigments acryliques sur chêne brut
@@ -177,8 +185,10 @@ works:
   price: 650
   sold: false
   contextual: false
-  fields: []
-  styles: []
+  fields:
+  - Sculpture
+  styles:
+  - abstrait
 - title: Refuge
   image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
@@ -193,8 +203,10 @@ works:
   price: 850
   sold: false
   contextual: false
-  fields: []
-  styles: []
+  fields:
+  - Sculpture
+  styles:
+  - abstrait
 - title: Mer 1
   image: "/forestry/mariebathellier-mer1-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -211,8 +223,10 @@ works:
   price: 160
   sold: false
   contextual: true
-  fields: []
-  styles: []
+  fields:
+  - Photographie
+  styles:
+  - figuratif
 - title: Mer 2
   image: "/forestry/mariebathellier-mer2-22-x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -308,6 +322,7 @@ exhibitions:
   location: Genève New York
   start: ''
   end: ''
-styles: []
+styles:
+- abstrait
 
 ---
