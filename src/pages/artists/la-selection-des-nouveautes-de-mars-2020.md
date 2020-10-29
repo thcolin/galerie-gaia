@@ -8,7 +8,7 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: Nouveautés rentrée 2020
+- title: Nouveautés octobre 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
@@ -77,17 +77,6 @@ works:
     barbotin")'
   price: 4400
   contextual: false
-- title: Les oiseaux de Trévise par Patrick Guéguen
-  image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
-  technique: Encre noire et acrylique sur papier
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: '[Patrick Guéguen](https://galeriegaia.fr/artists/patrick-gueguen/
-    "galerie gaia patrick guéguen")'
-  price: 1800
-  contextual: true
 - title: Fly away par Sébastien Bouchard
   image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
   technique: Mixte sur toile
