@@ -2,7 +2,7 @@
 fields:
 - Céramique
 styles:
-- abstrait
+- Abstrait
 template: artist
 title: Brigitte Marionneau
 location: ''

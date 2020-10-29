@@ -115,6 +115,6 @@ works:
 redirect_from:
 - "/artistes/59-marianne-abergel/"
 styles:
-- figuratif
+- Figuratif
 
 ---

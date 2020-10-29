@@ -3,7 +3,7 @@ template: artist
 title: Pierre Muckensturm
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 - Peinture
 birth: "0"
 death: "0"
@@ -425,6 +425,6 @@ works:
 redirect_from:
 - "/artistes/58-pierre-muckensturm/"
 styles:
-- abstrait
+- Abstrait
 
 ---

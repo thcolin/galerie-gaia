@@ -121,6 +121,6 @@ works:
 redirect_from:
 - "/artistes/96-pascal-proust/"
 styles:
-- abstrait
+- Abstrait
 
 ---

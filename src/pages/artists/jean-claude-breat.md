@@ -94,6 +94,6 @@ works:
 redirect_from:
 - "/artistes/52-jean-claude-breat/"
 styles:
-- figuratif
+- Figuratif
 
 ---

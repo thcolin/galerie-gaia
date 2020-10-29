@@ -109,6 +109,6 @@ works:
 redirect_from:
 - "/artistes/51-annick-argant/"
 styles:
-- figuratif
+- Figuratif
 
 ---

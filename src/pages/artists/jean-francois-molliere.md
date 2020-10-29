@@ -238,6 +238,6 @@ redirect_from:
 fields:
 - Photographie
 styles:
-- figuratif
+- Figuratif
 
 ---

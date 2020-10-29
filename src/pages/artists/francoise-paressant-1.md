@@ -1,8 +1,8 @@
 ---
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 styles:
-- abstrait
+- Abstrait
 template: artist
 title: Françoise Paressant
 location: ''
@@ -22,9 +22,9 @@ works:
   image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
   technique: papier japon teintés
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
   styles:
-  - abstrait
+  - Abstrait
   dimensions:
     height: 50
     width: 40
@@ -37,9 +37,9 @@ works:
   image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40-cm-2016.jpg"
   technique: papier japon teinté
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
   styles:
-  - abstrait
+  - Abstrait
   dimensions:
     height: 50
     width: 40
@@ -67,7 +67,7 @@ works:
   fields:
   - Tapisserie
   styles:
-  - abstrait
+  - Abstrait
   dimensions:
     height: 150
     width: 135
@@ -82,7 +82,7 @@ works:
   fields:
   - tapisserie
   styles:
-  - abstrait
+  - Abstrait
   dimensions:
     height: 135
     width: 128

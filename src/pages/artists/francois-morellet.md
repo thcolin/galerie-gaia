@@ -3,7 +3,7 @@ template: artist
 title: François Morellet
 location: Nantes
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "1926"
 death: "2016"
 expose: false
@@ -30,6 +30,6 @@ works:
   sold: false
   contextual: true
 styles:
-- abstrait
+- Abstrait
 
 ---

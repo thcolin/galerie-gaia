@@ -111,6 +111,6 @@ works:
   sold: false
   contextual: true
 styles:
-- figuratif
+- Figuratif
 
 ---

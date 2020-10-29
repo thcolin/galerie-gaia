@@ -226,6 +226,6 @@ works:
 redirect_from:
 - "/artistes/60-rycho-ryszard-swierad/"
 styles:
-- figuratif
+- Figuratif
 
 ---

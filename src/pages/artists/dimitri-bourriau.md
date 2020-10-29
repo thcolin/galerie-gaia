@@ -230,6 +230,6 @@ works:
 redirect_from:
 - "/artistes/98-dimitri-bourriau/"
 styles:
-- figuratif
+- Figuratif
 
 ---

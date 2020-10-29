@@ -98,6 +98,6 @@ works:
 redirect_from:
 - "/artistes/48-kazy-usclef/"
 styles:
-- figuratif
+- Figuratif
 
 ---

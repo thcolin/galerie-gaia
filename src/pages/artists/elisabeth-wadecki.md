@@ -162,7 +162,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: En mon jardin N°8 Papier
   image: "/forestry/en-mon-jardin-ndegree6.jpg"
   technique: Acrylique et bâtons d’huile sur papier
@@ -175,7 +175,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Sans titre N°4 Toile marouflée
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
   technique: acrylique et pastels sur toile marouflée sur carton
@@ -242,7 +242,7 @@ works:
   price: 700
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Sans Titre N°4 Papier
   image: "/forestry/sans-titre-ndegree3.jpg"
   technique: Acrylique et pastel sur papier
@@ -273,7 +273,7 @@ works:
   price: 280
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Sans titre N°2 Papier
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-2-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.jpg"
   technique: 'Acrylique et bâtons d''huile sur papier '
@@ -284,7 +284,7 @@ works:
   price: 280
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Sans Titre N°12 Papier
   image: "/forestry/sans-titre-ndegree12.jpg"
   technique: Acrylique et bâtons d'huile sur papier
@@ -341,7 +341,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Le Rai profond N°4 ouest
   image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg"
   technique: 'Acrylique et pastel sur papier '
@@ -354,7 +354,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Sans Titre N° 11 (1/10)
   image: "/forestry/sans-titre-110.jpg"
   technique: 'Tirage en quadrichromie '
@@ -367,7 +367,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Portrait d'Elisabeth Wadecki
   image: "/forestry/galerie gaia elisabeth wadecki portrait.JPG"
   dimensions:
@@ -382,6 +382,6 @@ works:
 redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
 styles:
-- abstrait
+- Abstrait
 
 ---

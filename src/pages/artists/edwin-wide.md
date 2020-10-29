@@ -87,6 +87,6 @@ works:
 redirect_from:
 - "/artistes/91-edwin-wide/"
 styles:
-- figuratif
+- Figuratif
 
 ---

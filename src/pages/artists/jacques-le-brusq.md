@@ -1,8 +1,8 @@
 ---
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 styles:
-- abstrait
+- Abstrait
 template: artist
 title: Jacques Le Brusq
 location: ''

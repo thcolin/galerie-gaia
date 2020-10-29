@@ -126,6 +126,6 @@ works:
 redirect_from:
 - "/artistes/36tistes/36-jacqueline-pecantet/"
 styles:
-- abstrait
+- Abstrait
 
 ---

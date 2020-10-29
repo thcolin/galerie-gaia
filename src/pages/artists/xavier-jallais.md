@@ -42,7 +42,7 @@ works:
   price: 140
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Le feu pour attribut
   image: "/forestry/galeriegaia-Xavier Jallais - Le feu pour attribut - 40 x 50.jpg"
   technique: Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2
@@ -53,7 +53,7 @@ works:
   price: 180
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Automorphie Structure tridimensionnelle 2
   image: "/forestry/automorphie-structure-tridimensionnelle-2.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
@@ -94,7 +94,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Cerf 1 (4/7)
   image: "/forestry/cerf-1-47.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -107,7 +107,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Double stigmates (1/7)
   image: "/forestry/double-stigmates-17.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -120,10 +120,10 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 redirect_from:
 - "/artistes/75-xavier-jallais/"
 styles:
-- figuratif
+- Figuratif
 
 ---

@@ -189,7 +189,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Territoires Noir/ Blanc #10'
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
   technique: 'Collage '
@@ -201,7 +201,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Deep blue #8'
   image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
   dimensions:
@@ -241,7 +241,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Cou-Rage #2'
   image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
   technique: Collage
@@ -253,7 +253,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Cou-Rage #3'
   image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
   technique: 'Collage '
@@ -265,7 +265,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Territoires Colorés #15'
   image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
   technique: Collage
@@ -276,7 +276,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Territoires Colorés #7'
   image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
   technique: " Collage "
@@ -287,7 +287,7 @@ works:
   price: 750
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Purple Rhapsody #4 '
   image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
   technique: 'Acrylique sur toile '
@@ -344,7 +344,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Nuits en Mer #4'
   image: "/forestry/sans-titre-410.jpg"
   technique: Lithographie
@@ -357,7 +357,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Soul Ground  #4'
   image: "/forestry/sans.jpg"
   technique: Collage sur papier Arches
@@ -373,7 +373,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Nuit en mer III '
   image: "/forestry/nuit-en-mer-iv-425.jpg"
   technique: Lithographie 4/25
@@ -387,7 +387,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Portrait de Isthme
   image: "/forestry/isabelle-dans-son-atelier.jpg"
   technique: ''
@@ -402,6 +402,6 @@ works:
 redirect_from:
 - "/artistes/85tistes/85-isthme/"
 styles:
-- abstrait
+- Abstrait
 
 ---

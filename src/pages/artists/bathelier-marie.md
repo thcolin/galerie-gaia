@@ -122,7 +122,7 @@ works:
   fields:
   - Sculpture
   styles:
-  - abstrait
+  - Abstrait
 - title: Détail sculpture murale triangulaire
   image: "/forestry/detail-sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
@@ -137,7 +137,7 @@ works:
   fields:
   - Sculpture
   styles:
-  - abstrait
+  - Abstrait
 - title: Sculpture murale triangles
   image: "/forestry/sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
@@ -170,7 +170,7 @@ works:
   fields:
   - Sculpture
   styles:
-  - abstrait
+  - Abstrait
 - title: Sculpture murale au carré rouge
   image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
   technique: pigments acryliques sur chêne brut
@@ -188,7 +188,7 @@ works:
   fields:
   - Sculpture
   styles:
-  - abstrait
+  - Abstrait
 - title: Refuge
   image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
@@ -206,7 +206,7 @@ works:
   fields:
   - Sculpture
   styles:
-  - abstrait
+  - Abstrait
 - title: Mer 1
   image: "/forestry/mariebathellier-mer1-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -226,7 +226,7 @@ works:
   fields:
   - Photographie
   styles:
-  - figuratif
+  - Figuratif
 - title: Mer 2
   image: "/forestry/mariebathellier-mer2-22-x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -246,7 +246,7 @@ works:
   fields:
   - Photographie
   styles:
-  - figuratif
+  - Figuratif
 - title: Mer 3
   image: "/forestry/mariebathellier-mer3-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
@@ -266,7 +266,7 @@ works:
   fields:
   - Photographie
   styles:
-  - figuratif
+  - Figuratif
 - title: Rivière
   image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
   technique: Rivière
@@ -328,6 +328,6 @@ exhibitions:
   start: ''
   end: ''
 styles:
-- abstrait
+- Abstrait
 
 ---

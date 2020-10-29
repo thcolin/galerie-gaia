@@ -162,6 +162,6 @@ works:
 redirect_from:
 - "/artistes/11-stephanie-billarant/"
 styles:
-- figuratif
+- Figuratif
 
 ---

@@ -4,7 +4,7 @@ title: Laure Carré
 location: ''
 fields:
 - Peinture
-- 'oeuvre sur papier '
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -188,7 +188,7 @@ works:
   price: 300
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'La chaise cheval '
   image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
   technique: 'Huile sur papier et technique mixte '
@@ -203,7 +203,7 @@ works:
   price: 300
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Le pied
   image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
   technique: Huile et technique mixte sur toile
@@ -271,7 +271,7 @@ works:
   price: 200
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Salle d'attente
   image: "/forestry/salle-dattente.jpg"
   technique: Huile sur toile
@@ -317,7 +317,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Rencontre royale '
   image: "/forestry/rencontre-royale-910.jpg"
   technique: Lithographie 9/10
@@ -330,7 +330,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 'Autoportrait '
   image: "/forestry/autoportrait-616.jpg"
   technique: Lithographie 6/16
@@ -343,7 +343,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: In the wood for love
   image: "/forestry/galeriegaia@laurecarre-inthewoodforlove-collage.jpg"
   technique: mixte
@@ -356,7 +356,7 @@ works:
   sold: false
   contextual: false
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Un ami la nuit
   image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
   technique: 'Huile sur toile '
@@ -380,6 +380,6 @@ works:
 redirect_from:
 - "/artistes/76-laure-carre/"
 styles:
-- figuratif
+- Figuratif
 
 ---

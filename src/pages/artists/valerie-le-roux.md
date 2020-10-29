@@ -3,7 +3,7 @@ template: artist
 title: Valérie Le Roux
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 - Céramique
 birth: "0"
 death: "0"
@@ -48,7 +48,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Homard cuit
   image: "/forestry/679.jpg"
   technique: Sérigraphie
@@ -61,7 +61,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Bouteille
   image: "/forestry/bouteille.jpg"
   technique: Céramique
@@ -100,7 +100,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Tête à queue
   image: "/forestry/864.jpg"
   technique: Sérigraphie
@@ -113,7 +113,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Trio
   image: "/forestry/866.jpg"
   technique: Sérigraphie
@@ -126,7 +126,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Ban
   image: "/forestry/865.jpg"
   technique: Sérigraphie
@@ -139,7 +139,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Feuille bleue
   image: "/forestry/feuille-bleue.jpg"
   technique: Sérigraphie /50
@@ -152,7 +152,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Corail bleu
   image: "/forestry/corail-bleu.jpg"
   technique: Sérigraphie  /50
@@ -165,7 +165,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Végétal jaune
   image: "/forestry/vegetal-jaune.jpg"
   technique: Sérigraphie /50
@@ -178,10 +178,10 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
 styles:
-- figuratif
+- Figuratif
 
 ---

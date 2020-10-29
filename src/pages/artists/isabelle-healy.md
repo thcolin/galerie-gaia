@@ -191,6 +191,6 @@ works:
 redirect_from:
 - "/artistes/69-isabelle-healy/"
 styles:
-- figuratif
+- Figuratif
 
 ---

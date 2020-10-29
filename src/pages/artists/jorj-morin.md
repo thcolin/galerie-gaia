@@ -3,7 +3,7 @@ template: artist
 title: Jorj Morin
 location: Nantes
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "1909"
 death: "1995"
 expose: true
@@ -52,7 +52,7 @@ works:
   fields:
   - Tapisserie
   styles:
-  - abstrait
+  - Abstrait
 - title: Vers l'Ouest
   image: "/forestry/vers-louest.jpg"
   technique: Gravure

@@ -151,6 +151,6 @@ works:
 redirect_from:
 - "/artistes/12-claude-francheteau/"
 styles:
-- figuratif
+- Figuratif
 
 ---

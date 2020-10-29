@@ -124,6 +124,6 @@ works:
 redirect_from:
 - "/artistes/93-georges-rousse/"
 styles:
-- figuratif
+- Figuratif
 
 ---

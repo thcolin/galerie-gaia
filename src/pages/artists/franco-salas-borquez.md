@@ -91,7 +91,7 @@ works:
   price: 700
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: L'océan aveugle
   image: "/forestry/l-ocean-aveugle.jpg"
   technique: huile sur toile 2016
@@ -149,6 +149,6 @@ works:
 redirect_from:
 - "/artistes/64-franco-salas-borquez/"
 styles:
-- figuratif
+- Figuratif
 
 ---

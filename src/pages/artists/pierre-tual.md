@@ -2,7 +2,7 @@
 fields:
 - Sculpture
 styles:
-- abstrait
+- Abstrait
 template: artist
 title: Pierre Tual
 location: ''

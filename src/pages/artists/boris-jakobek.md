@@ -190,6 +190,6 @@ works:
 redirect_from:
 - "/artistes/86-boris-jakobek/"
 styles:
-- figuratif
+- Figuratif
 
 ---

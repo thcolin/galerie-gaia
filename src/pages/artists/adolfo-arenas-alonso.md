@@ -3,7 +3,7 @@ template: artist
 title: Adolfo Arenas Alonso
 location: Londres
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -111,6 +111,6 @@ works:
 redirect_from:
 - "/artistes/42-adolfo-arenas-alonso/"
 styles:
-- figuratif
+- Figuratif
 
 ---

@@ -129,6 +129,6 @@ works:
 redirect_from:
 - "/artistes/13-olivier-fremont/"
 styles:
-- abstrait
+- Abstrait
 
 ---

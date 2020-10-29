@@ -89,7 +89,7 @@ works:
   sold: false
   contextual: true
   styles:
-  - figuratif
+  - Figuratif
 - title: Buraglio - "A Jean-Jacques Rousseau" (2/12)
   image: "/forestry/buraglio-a-jean-jacques-rousseau-212.jpg"
   technique: Epreuve pigmentaire
@@ -374,7 +374,7 @@ works:
   sold: false
   contextual: true
   styles:
-  - figuratif
+  - Figuratif
 - title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-770.jpg"
   technique: Sérigraphie atelier Byse Lille 7/70
@@ -389,6 +389,6 @@ works:
 redirect_from:
 - "/artistes/102-estampes/"
 styles:
-- abstrait
+- Abstrait
 
 ---

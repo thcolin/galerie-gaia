@@ -4,7 +4,7 @@ title: Toma L
 location: ''
 fields:
 - Peinture
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: ''
 death: ''
 expose: true
@@ -382,7 +382,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Bonne pierre bon œil 13 (vert)
   image: "/forestry/bonne-pierre-bon-oeil-13.jpg"
   technique: Lithographie 8/9
@@ -395,7 +395,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Bonne pierre bon œil 13 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
   technique: Lithographie 6/9
@@ -408,7 +408,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Bonne pierre bon œil 14 (bleu)
   image: "/forestry/bonne-pierre-bon-oeil-14-bleu.jpg"
   technique: Lithographie
@@ -421,7 +421,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Bonne pierre bon œil 14 (noir)
   image: "/forestry/bonne-pierre-bon-oeil-14-noir.jpg"
   technique: Lithographie 8/10
@@ -434,7 +434,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Stone Age 02
   image: "/forestry/stone-age-02.jpg"
   technique: lithographie 9/10
@@ -447,7 +447,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Stone Age 12
   image: "/forestry/stone-age-12.jpg"
   technique: Lithographie 2/10
@@ -460,7 +460,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
   technique: Lithographie
@@ -473,7 +473,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: Stone Age 09
   image: "/forestry/stone-age-09.jpg"
   technique: Lithographie
@@ -486,10 +486,10 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 redirect_from:
 - "/artistes/99-toma-l/"
 styles:
-- figuratif
+- Figuratif
 
 ---

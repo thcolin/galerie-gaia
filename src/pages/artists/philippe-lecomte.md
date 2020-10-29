@@ -3,7 +3,7 @@ template: artist
 title: Philippe Lecomte
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -145,7 +145,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
 - title: 2018PLp73
   image: "/forestry/2018plp73.jpg"
   technique: technique mixte sur papier
@@ -196,6 +196,6 @@ works:
 redirect_from:
 - "/artistes/71-philippe-lecomte/"
 styles:
-- abstrait
+- Abstrait
 
 ---

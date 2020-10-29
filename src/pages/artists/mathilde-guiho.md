@@ -225,6 +225,6 @@ exhibitions:
   start: juin 2016
   end: ''
 styles:
-- figuratif
+- Figuratif
 
 ---

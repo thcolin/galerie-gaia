@@ -157,9 +157,9 @@ works:
   price: 450
   contextual: false
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
   styles:
-  - abstrait
+  - Abstrait
 - title: Large abstract black @ white 2
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
@@ -172,7 +172,7 @@ works:
   fields:
   - Peinture
   styles:
-  - abstrait
+  - Abstrait
 - title: Large abstract black & white 1
   image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
@@ -185,14 +185,14 @@ works:
   fields:
   - Peinture
   styles:
-  - abstrait
+  - Abstrait
 - title: Encre sans titre bleue
   image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
   technique: 'encre sur papier '
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
   styles:
-  - abstrait
+  - Abstrait
   dimensions:
     height: 80
     width: 60
@@ -214,6 +214,6 @@ works:
 redirect_from:
 - "/artistes/80-neil-ratnavira/"
 styles:
-- figuratif
+- Figuratif
 
 ---

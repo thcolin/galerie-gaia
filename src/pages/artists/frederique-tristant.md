@@ -109,6 +109,6 @@ works:
 redirect_from:
 - "/artistes/100-frederique-tristant/"
 styles:
-- figuratif
+- Figuratif
 
 ---

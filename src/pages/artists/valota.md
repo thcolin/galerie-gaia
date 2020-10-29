@@ -197,6 +197,6 @@ works:
 redirect_from:
 - "/artistes/4-valota/"
 styles:
-- figuratif
+- Figuratif
 
 ---

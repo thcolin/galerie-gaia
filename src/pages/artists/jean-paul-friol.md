@@ -3,7 +3,7 @@ template: artist
 title: Jean-Paul Friol
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "1948"
 death: "2011"
 expose: true
@@ -95,6 +95,6 @@ works:
 redirect_from:
 - "/artistes/101-jean-paul-friol/"
 styles:
-- abstrait
+- Abstrait
 
 ---

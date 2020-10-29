@@ -3,7 +3,7 @@ template: artist
 title: Tony Soulié
 location: Paris
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -49,6 +49,6 @@ works:
 redirect_from:
 - "/artistes/26-tony-soulie/"
 styles:
-- figuratif
+- Figuratif
 
 ---

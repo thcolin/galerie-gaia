@@ -121,6 +121,6 @@ works:
 redirect_from:
 - "/artistes/72-francky-criquet/"
 styles:
-- figuratif
+- Figuratif
 
 ---

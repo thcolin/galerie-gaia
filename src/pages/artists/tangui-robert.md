@@ -3,7 +3,7 @@ template: artist
 title: Tangui Robert
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -246,9 +246,9 @@ works:
   sold: false
   contextual: true
   fields:
-  - oeuvre sur papier
+  - Oeuvre sur papier
   styles:
-  - figuratif
+  - Figuratif
 - title: 'Reliquat I '
   image: "/forestry/reliquat-i-420.jpg"
   technique: 'Gravure eau-forte réhaussée or Edition en 20 exemplaires '
@@ -274,6 +274,6 @@ works:
 redirect_from:
 - "/artistes/25-tangui-robert/"
 styles:
-- figuratif
+- Figuratif
 
 ---

@@ -3,7 +3,7 @@ template: artist
 title: Patrick Guéguen
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -192,6 +192,6 @@ works:
 redirect_from:
 - "/artistes/84-patrick-gueguen/"
 styles:
-- figuratif
+- Figuratif
 
 ---

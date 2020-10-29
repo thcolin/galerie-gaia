@@ -200,6 +200,6 @@ works:
   styles: []
 exhibitions: []
 styles:
-- abstrait
+- Abstrait
 
 ---

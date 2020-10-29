@@ -108,6 +108,6 @@ works:
 redirect_from:
 - "/artistes/74-portrait/"
 styles:
-- figuratif
+- Figuratif
 
 ---

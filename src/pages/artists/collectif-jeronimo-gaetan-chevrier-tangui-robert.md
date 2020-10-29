@@ -3,7 +3,7 @@ template: artist
 title: Projet Versants
 location: ''
 fields:
-- oeuvre sur papier
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
