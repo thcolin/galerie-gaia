@@ -14,11 +14,13 @@ const Inspiration = ({ scrollPosition, ...props }) => {
   const [values, setValues] = useState((typeof history !== 'undefined' && history.state?.values) || {})
 
   const fields = useMemo(() => Array.from(new Set(pages
+    .filter(page => page.frontmatter.expose)
     .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.fields : [])
     .reduce((acc, curr) => [...acc, ...(curr || [])], []))
   ), [])
 
   const styles = useMemo(() => Array.from(new Set(pages
+    .filter(page => page.frontmatter.expose)
     .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.styles : [])
     .reduce((acc, curr) => [...acc, ...(curr || [])], []))
   ), [])
