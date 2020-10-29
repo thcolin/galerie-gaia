@@ -1,7 +1,9 @@
 import React, { createElement } from 'react'
 import { Link } from 'gatsby'
+import Youtube from 'react-youtube'
 import Image from 'components/Image'
 import Gallery from 'components/Gallery'
+import { getYoutubeId } from 'utils/youtube'
 import marksy from 'marksy'
 
 const compile = marksy({
@@ -60,6 +62,14 @@ const compile = marksy({
               <source src={href} />
               Désolé, votre navigateur ne semble pas supporter le format de cette vidéo, essayez d'utiliser un navigauteur récent tel que <a href="https://www.mozilla.org/fr/firefox/new/">Firefx</a>.
             </video>
+          </span>
+        )
+      }
+
+      if (/youtube/.test(href)) {
+        return (
+          <span style={{ display: 'flex', justifyContent: 'center' }}>
+            <Youtube videoId={getYoutubeId(href)} containerClassName="youtubeContainer" />
           </span>
         )
       }
