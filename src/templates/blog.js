@@ -37,6 +37,7 @@ const Blog = ({ scrollPosition, ...props }) => {
 
   const entities = useMemo(() => (articles
     .filter(article => Object.keys(values).every(key => options[key].filter(article, values[key])))
+    .reverse()
   ), [articles, values])
 
   const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
