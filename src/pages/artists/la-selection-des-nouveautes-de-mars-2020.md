@@ -7,8 +7,6 @@ death: "0"
 expose: true
 biography: ''
 exhibitions: []
-fields:
-- Séléction
 works:
 - title: Nouveautés octobre 2020
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
@@ -174,6 +172,7 @@ works:
   contextual: true
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
-fields: []
+fields:
+- Séléction
 
 ---

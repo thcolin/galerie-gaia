@@ -16,20 +16,22 @@ const Inspiration = ({ scrollPosition, ...props }) => {
   const fields = useMemo(() => Array.from(new Set(pages
     .filter(page => page.frontmatter.expose)
     .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.fields : [])
-    .reduce((acc, curr) => [...acc, ...(curr || [])], []))
-  ), [])
+    .reduce((acc, curr) => [...acc, ...(curr || [])], [])
+    .filter(field => !['Séléction'].includes(field))
+  )), [])
 
   const styles = useMemo(() => Array.from(new Set(pages
     .filter(page => page.frontmatter.expose)
     .map(page => page.frontmatter.template === 'artist' ? page.frontmatter.styles : [])
-    .reduce((acc, curr) => [...acc, ...(curr || [])], []))
-  ), [])
+    .reduce((acc, curr) => [...acc, ...(curr || [])], [])
+  )), [])
 
   const artists = useMemo(() => pages.filter(page => (
     page
     && page.frontmatter.template === 'artist'
     && !!page.frontmatter.expose
     && page.frontmatter.works.filter(work => !work.sold).length
+    && !page.frontmatter.fields.includes('Séléction')
   )), [])
 
   const options = useMemo(() => ({
