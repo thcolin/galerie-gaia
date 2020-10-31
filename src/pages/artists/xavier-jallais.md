@@ -32,6 +32,58 @@ biography: "Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vi
   château de Saint Auvent (87)"
 exhibitions: []
 works:
+- title: Automorphie structure géométrique II
+  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-structure-geometrique-ii-81x65.jpg"
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 81
+    width: 65
+    depth: 0
+  description: ''
+  price: 1000
+  contextual: true
+- title: Automorphie ligne blanche I
+  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-ligneblanche-130x97.jpg"
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 2300
+  contextual: true
+- title: Automorphie structure gémoétrique III
+  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-espace-geometrique-iii-81x65.jpg"
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 81
+    width: 65
+    depth: 0
+  description: ''
+  price: 1000
+  contextual: true
+- title: Automorphie architecture I
+  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-architecture-i-130x97.jpg"
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 2300
+  contextual: true
 - title: Prendre son envol
   image: "/forestry/galeriegaia-Xavier Jallais - Prendre son envol - 30 x 40.jpg"
   technique: 'Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2 '
@@ -54,8 +106,8 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Automorphie Structure tridimensionnelle 2
-  image: "/forestry/automorphie-structure-tridimensionnelle-2.jpg"
+- title: Automorphie Structure tridimensionnelle 1
+  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-structure-tridimentionnelle-1-60x60.JPG"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
   dimensions:
     height: 60
@@ -77,7 +129,7 @@ works:
     width: 150
     depth: 
   description: ''
-  price: 3500
+  price: 4000
   sold: false
   contextual: true
   fields:
