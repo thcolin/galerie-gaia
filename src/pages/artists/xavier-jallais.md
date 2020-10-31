@@ -49,7 +49,7 @@ works:
   - Peinture
 - title: Espace géométrique VII
   image: "/forestry/galerie-gaia-xavier-jallais-espace-geometrique-vii-120x100.jpg"
-  technique: Collage, aquarelle, pastel, acrylique sur papier
+  technique: Dessin, collage, aquarelle, pastel, acrylique sur papier
   fields:
   - Oeuvre sur papier
   styles: []
@@ -62,7 +62,7 @@ works:
   contextual: true
 - title: Espace géométrique II
   image: "/forestry/galerie-gaia-xavier-jallais-espace-geometrique-ii-76x56.jpg"
-  technique: Collage, pastel, aquarelle, acrylique sur papier
+  technique: Dessin, collage, pastel, aquarelle, acrylique sur papier
   fields:
   - Oeuvre sur papier
   styles: []
