@@ -5,6 +5,7 @@ carousel:
 - image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
     22.JPG"
 - image: "/forestry/galerie-gaia-molliere-jf-chicago-23-40-x-40-cm-jpeg.jpg"
+- image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
 redirect_from:
 - "/plan/"
 seo:

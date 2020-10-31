@@ -32,6 +32,19 @@ biography: "Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vi
   château de Saint Auvent (87)"
 exhibitions: []
 works:
+- title: Automorphie structure géométrique III
+  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-double-structure-blanche-130x97.jpg"
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 2300
+  contextual: true
 - title: Automorphie structure géométrique II
   image: "/forestry/galerie-gaia-xavier-jallais-automorphie-structure-geometrique-ii-81x65.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
