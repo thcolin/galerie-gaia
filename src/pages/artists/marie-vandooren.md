@@ -15,6 +15,18 @@ biography: |-
   Marie Vandooren
 exhibitions: []
 works:
+- title: 'Contraste #4'
+  image: "/forestry/marievandooren-contraste-4-30x40cm-16ex-2019.jpg"
+  technique: Sérigraphie 16 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 120
+  contextual: true
 - title: 'Maquette 3 Solitude '
   image: "/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
   technique: Maquette sur socle bois
@@ -37,6 +49,8 @@ works:
   description: "2020"
   price: 700
   contextual: true
+  fields:
+  - Peinture
 - title: Paysage
   image: "/forestry/vandoorenmarie.paysage.81x65cm.jpg"
   technique: acrylique sur papier
@@ -46,16 +60,6 @@ works:
     depth: 10
   description: ''
   price: 700
-  contextual: true
-- title: Parc 2
-  image: "/forestry/vandoorenmarie.parc2.50x70cm.jpg"
-  technique: acrylique sur papier
-  dimensions:
-    height: 50
-    width: 70
-    depth: 0
-  description: "2020"
-  price: 400
   contextual: true
 - title: Maquette 1 Vélo
   image: "/forestry/vandoorenmarie.maquette1.16x9cm.jpg"
@@ -79,17 +83,6 @@ works:
   description: "2020"
   price: 500
   contextual: true
-- title: Contre espace 2
-  image: "/forestry/vandoorenmarie.contre espace2.81x65cm.jpg"
-  technique: Sérigraphie  Edition en 10 exemplaires
-  dimensions:
-    height: 65
-    width: 81
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
-  sold: false
 - title: 'Contre espace '
   image: "/forestry/vandoorenmarie.contre espace.100x81cm.jpg"
   technique: 'Huile sur toile '
@@ -100,6 +93,8 @@ works:
   description: "2020"
   price: 700
   contextual: true
+  fields:
+  - Peinture
 - title: Palindrome
   image: "/forestry/palindrome.jpg"
   technique: Sérigraphie en 20 exemplaires
