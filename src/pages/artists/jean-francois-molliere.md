@@ -46,6 +46,18 @@ works:
   description: ''
   price: 1500
   contextual: true
+- title: New York 32
+  image: "/forestry/_dsc1695-30-x-36cm.jpg"
+  technique: 'Photographie tirage pigmentaire '
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 40
+    depth: 0
+  description: 'Tirage en 10 exemplaires œuvre encadrée '
+  price: 590
+  contextual: true
 - title: Chicago 25
   image: "/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg"
   technique: 'Photographie jet d''encre pigmentaire '

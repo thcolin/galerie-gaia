@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Bathellier Marie
+title: 'Marie Bathellier '
 location: ''
 fields:
 - Peinture
