@@ -34,6 +34,30 @@ biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier
   Sortie Oct 2012"
 exhibitions: []
 works:
+- title: Chicago 25
+  image: "/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg"
+  technique: 'Photographie jet d''encre pigmentaire '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: 'œuvre encadrée '
+  price: 590
+  contextual: true
+- title: New York 19
+  image: "/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-5-9.JPG"
+  technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 57
+    depth: 0
+  description: ''
+  price: 1500
+  contextual: true
 - title: New York 17
   image: "/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-27-31.JPG"
   technique: 'Photographie tirage jet d''encre pigmentaire '
@@ -43,7 +67,7 @@ works:
     height: 40
     width: 40
     depth: 0
-  description: ''
+  description: Tirage 10 exemplaires
   price: 590
   contextual: true
 - title: New York 13
