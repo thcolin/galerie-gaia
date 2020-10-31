@@ -34,6 +34,18 @@ biography: "**Photos grand  format éditées en 5 exemplaires  tirage sur papier
   Sortie Oct 2012"
 exhibitions: []
 works:
+- title: Tokyo 9
+  image: "/forestry/galerie-gaia-jean-francois-molliere-tokyo9-70-x-58.jpg"
+  technique: Photographie jet d'encre pigmentaire sur dibond caisse américaine
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 70
+    depth: 0
+  description: ''
+  price: 1500
+  contextual: true
 - title: Chicago 25
   image: "/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg"
   technique: 'Photographie jet d''encre pigmentaire '
