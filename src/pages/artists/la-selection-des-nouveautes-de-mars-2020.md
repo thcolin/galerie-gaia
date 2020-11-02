@@ -38,14 +38,17 @@ works:
   fields:
   - photographie
 - title: EN LIBERTE triptyque de Marie Bathellier
-  image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
+  image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
   dimensions:
     height: 0
     width: 0
     depth: 0
   description: "[Marie Bathellier]()"
-  price: 0
+  price: 450
   contextual: true
+  technique: Sculpture bois 72cm
+  fields:
+  - sculpture
 - title: Grès 5 par Jacqueline Pécantet
   image: "/forestry/dscf9191-copie.JPG"
   technique: Crin de cheval sur grès, poli au galet
@@ -68,17 +71,6 @@ works:
     robert")'
   price: 450
   contextual: true
-- title: Freedom par Nadia Barbotin
-  image: "/forestry/barbotin-nadia-freedom-120x120-in-situ.JPG"
-  technique: Huile sur toile
-  dimensions:
-    height: 120
-    width: 120
-    depth: 0
-  description: '[Nadia Barbotin](https://galeriegaia.fr/artists/nadia-barbotin/ "nadia
-    barbotin")'
-  price: 4400
-  contextual: false
 - title: Fly away par Sébastien Bouchard
   image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
   technique: Mixte sur toile
@@ -123,18 +115,6 @@ works:
   description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
     "galerie gaia elisabeth wadecki")'
   price: 4000
-  contextual: false
-- title: James par  Virginie Chardon
-  image: "/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
-  technique: bronze
-  dimensions:
-    height: 25
-    width: 53
-    depth: 41
-  description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
-    "Virginie Chardon")'
-  price: 5900
-  sold: false
   contextual: false
 - title: Bank Dimitri Bourriau
   image: "/forestry/dimitribourriau_bank_2017.jpg"
