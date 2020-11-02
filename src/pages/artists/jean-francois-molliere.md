@@ -136,7 +136,7 @@ works:
     depth: 0
   description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
     blanc standard 1/10
-  price: 490
+  price: 590
   contextual: true
 - title: Tokyo 4
   image: "/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg"
@@ -180,7 +180,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: ''
+  price: 590
   contextual: true
 - title: Tokyo 1
   image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
@@ -191,7 +191,7 @@ works:
     width: 90
     depth: 0
   description: ''
-  price: ''
+  price: 1500
   contextual: true
 - title: New York 5
   image: "/forestry/JF Molliere  New York 8 068.JPG"
@@ -201,7 +201,7 @@ works:
     width: 70
     depth: 0
   description: ''
-  price: ''
+  price: 2200
   contextual: true
 - title: New York 15
   image: "/forestry/1349.jpg"
@@ -211,7 +211,7 @@ works:
     width: 70
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: ''
+  price: 1500
   sold: false
   contextual: true
 - title: New York 2
@@ -235,7 +235,7 @@ works:
     width: 100
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: ''
+  price: 590
   sold: false
   contextual: true
 - title: 'New York 3 '
