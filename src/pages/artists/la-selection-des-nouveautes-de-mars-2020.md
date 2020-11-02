@@ -120,18 +120,20 @@ works:
     "galerie gaia elisabeth wadecki")'
   price: 4000
   contextual: false
-- title: Bank Dimitri Bourriau
-  image: "/forestry/dimitribourriau_bank_2017.jpg"
-  technique: Tirage Argentique, contrecollé sur Dibon
+- title: Dessin Ruban de Françoise Paressant
+  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
+  technique: 'Papier japon '
   dimensions:
-    height: 120
-    width: 80
-  description: |-
-    Tirage 15 exemplaires en caisse américaine - prix sur demande
-
-    [Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/ "Dimitri Bourriau")
-  price: ''
+    height: 50
+    width: 40
+  description: '[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
+    "Francoise Paressant")'
+  price: 900
   contextual: true
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - abstrait
 - title: GO SEGAWA - Mass
   image: "/forestry/go-segawa-mass.jpg"
   technique: Sérigraphie 3/25 (2019)
