@@ -164,8 +164,8 @@ works:
   image: "/forestry/galerie-gaia-jean-francois-molliere-chicago-21-86x80-light.jpg"
   technique: 'Photographie '
   dimensions:
-    height: 76
-    width: 70
+    height: 86
+    width: 80
     depth: 0
   description: "Tirage jet d'encre pigmentaire papier contrecollé dibond caisse américaine
     noire 1/10  \nLe grand format 112X105 de l'exposition est épuisé."
