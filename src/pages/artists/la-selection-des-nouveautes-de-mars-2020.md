@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Les nouveautés de la rentrée 2020
+title: Les nouveautés de Novembre 2020
 location: ''
 birth: "0"
 death: "0"
@@ -25,16 +25,18 @@ works:
   price: 0
   contextual: true
 - title: Le regard de Mathilde Guiho
-  image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
-  technique: Photographie et broderies
+  image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
+  technique: 'Photographie '
   dimensions:
-    height: 10
-    width: 15
+    height: 9
+    width: 10
     depth: 0
   description: '[Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/ "mathilde
     guillo")'
-  price: 320
+  price: 160
   contextual: false
+  fields:
+  - photographie
 - title: EN LIBERTE triptyque de Marie Bathellier
   image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
   dimensions:

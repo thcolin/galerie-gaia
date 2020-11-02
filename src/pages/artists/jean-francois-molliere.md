@@ -46,18 +46,6 @@ works:
   description: 'œuvre encadrée '
   price: 590
   contextual: true
-- title: Tokyo 9
-  image: "/forestry/galerie-gaia-jean-francois-molliere-tokyo9-70-x-58.jpg"
-  technique: Photographie jet d'encre pigmentaire sur dibond caisse américaine
-  fields: []
-  styles: []
-  dimensions:
-    height: 58
-    width: 70
-    depth: 0
-  description: ''
-  price: 1500
-  contextual: true
 - title: New York 32
   image: "/forestry/_dsc1695-30-x-36cm.jpg"
   technique: 'Photographie tirage pigmentaire '
@@ -116,6 +104,18 @@ works:
   description: ''
   price: 1500
   contextual: true
+- title: Tokyo 9
+  image: "/forestry/galerie-gaia-jean-francois-molliere-tokyo9-70-x-58.jpg"
+  technique: Photographie jet d'encre pigmentaire sur dibond caisse américaine
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 70
+    depth: 0
+  description: ''
+  price: 1500
+  contextual: true
 - title: Tokyo 8
   image: "/forestry/galerie-gaia-molliere-jf-tokyo-8-40-x-40-cm-jpeg.jpg"
   technique: Photographie
@@ -161,23 +161,23 @@ works:
   price: 1700
   contextual: true
 - title: Chicago 21
-  image: ''
+  image: "/forestry/galerie-gaia-jean-francois-molliere-chicago-21-86x80-light.jpg"
   technique: 'Photographie '
   dimensions:
-    height: 112
-    width: 105
+    height: 76
+    width: 70
     depth: 0
-  description: 'Tirage jet d''encre pigmentaire papier contrecollé dibond caisse américaine
-    noire 3/5 '
-  price: 2300
+  description: "Tirage jet d'encre pigmentaire papier contrecollé dibond caisse américaine
+    noire 1/10  \nLe grand format 112X105 de l'exposition est épuisé."
+  price: 1800
   contextual: true
 - title: Tokyo 7
   image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 22
     26.JPG"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  technique: photographie tirage papier fine art contrecollé sur dibond caisse américaine
   dimensions:
-    height: 80
-    width: 60
+    height: 40
+    width: 30
     depth: 0
   description: ''
   price: ''
@@ -195,7 +195,7 @@ works:
   contextual: true
 - title: New York 5
   image: "/forestry/JF Molliere  New York 8 068.JPG"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  technique: 'photographie tirage papier fine art contrecollé sur dibond '
   dimensions:
     height: 100
     width: 70
@@ -207,8 +207,8 @@ works:
   image: "/forestry/1349.jpg"
   technique: 'photographie Edition en 15 exemplaires '
   dimensions:
-    height: 100
-    width: 80
+    height: 70
+    width: 70
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
   price: ''
@@ -238,7 +238,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: New York 3 Lone Street
+- title: 'New York 3 '
   image: "/forestry/1350.jpg"
   technique: 'photographie Edition en 15 exemplaires '
   dimensions:
