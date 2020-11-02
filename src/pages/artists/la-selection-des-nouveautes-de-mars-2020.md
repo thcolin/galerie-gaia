@@ -24,7 +24,7 @@ works:
     "dimitri bourriau")'
   price: 0
   contextual: true
-- title: Le regard de Mathilde Guiho
+- title: Loire de Mathilde Guiho
   image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
   technique: 'Photographie '
   dimensions:
@@ -71,32 +71,36 @@ works:
     robert")'
   price: 450
   contextual: true
-- title: Fly away par Sébastien Bouchard
-  image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
-  technique: Mixte sur toile
+- title: Contenir le vent 9-III de Brigitte Marionneau
+  image: "/forestry/contenir-le-vent-9-iii-2018-h-23x19x18cm-credit-photo-michael-franken.JPG"
+  technique: 'Terre enfumée '
   dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: '[Sébastien Bouchard](https://galeriegaia.fr/artists/sebastien-bouchard/
-    "galerie gaia sébastien bouchard")'
-  price: 1400
-  contextual: true
-- title: Miki de Dimitri Roubichou
-  image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
+    height: 24
+    width: 20
+    depth: 20
+  description: '[Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
+    "Brigitte Marionneau")'
+  price: 2200
+  contextual: false
+  fields:
+  - Céramique
+  styles:
+  - abstrait
+- title: Cellule chardon de Muriel Kerba
+  image: "/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg"
   dimensions:
-    height: 30
-    width: 30
+    height: 70
+    width: 50
     depth: 0
-  description: |-
-    Edition possible dans d'autres formats
-
-    1/9
-
-    [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "Dimitri Roubichou")
-  price: 250
+  description: "Pièce unique  \n[Muriel Kerba](https://galeriegaia.fr/artists/muriel-kerba/
+    \"Muriel Kerba\")"
+  price: 700
   contextual: true
-  technique: Photographie sur tirage papier baryté
+  technique: monotype en sérigraphie sur papier Fabriano 285g (70 x 50)
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - abstrait
 - title: Cou-Rage 1 par ISTHME
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   dimensions:
