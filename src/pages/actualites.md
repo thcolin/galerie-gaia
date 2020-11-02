@@ -675,5 +675,21 @@ articles:
 
     _Du 04/09/2015 au 05/17/2015_
   date: ''
+- template: article
+  date: '2020-11-02T16:05:35Z'
+  categories:
+  - Interview
+  title: Interview de Laure Carré
+  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
+    "Interview Laure Carré")'
+  image: ''
+- template: article
+  date: '2020-11-02T16:10:55Z'
+  categories:
+  - Interview
+  title: Interview de Isthme
+  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
+    "Interview de Isabelle Thoams ")'
+  image: ''
 
 ---
