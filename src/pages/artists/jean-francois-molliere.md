@@ -46,17 +46,17 @@ works:
   description: 'œuvre encadrée '
   price: 590
   contextual: true
-- title: New York 32
-  image: "/forestry/_dsc1695-30-x-36cm.jpg"
+- title: New York 7
+  image: "/forestry/jf-molliere-new-york-7-l-0-73m-x-h-1-02-m.jpg"
   technique: 'Photographie tirage pigmentaire '
   fields: []
   styles: []
   dimensions:
-    height: 45
-    width: 40
+    height: 102
+    width: 73
     depth: 0
-  description: 'Tirage en 10 exemplaires œuvre encadrée '
-  price: 590
+  description: 'Tirage en 5 exemplaires œuvre encadrée caisse américaine '
+  price: 1800
   contextual: true
 - title: New York 19
   image: "/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-5-9.JPG"
@@ -71,7 +71,7 @@ works:
   price: 1500
   contextual: true
 - title: New York 17
-  image: "/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-27-31.JPG"
+  image: "/forestry/jf-molliere-new-york-17-l-0-30m-x-h-0-30-m.jpg"
   technique: 'Photographie tirage jet d''encre pigmentaire '
   fields: []
   styles: []
@@ -105,7 +105,7 @@ works:
   price: 1500
   contextual: true
 - title: Tokyo 9
-  image: "/forestry/galerie-gaia-jean-francois-molliere-tokyo9-70-x-58.jpg"
+  image: "/forestry/jf-molliere-tokyo-9-58x70.jpg"
   technique: Photographie jet d'encre pigmentaire sur dibond caisse américaine
   fields: []
   styles: []
