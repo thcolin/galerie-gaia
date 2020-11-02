@@ -246,7 +246,7 @@ works:
     width: 60
     depth: 
   description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: ''
+  price: 1800
   sold: false
   contextual: true
 - title: Inside the horizon
@@ -269,7 +269,7 @@ works:
     width: 72
     depth: 
   description: ''
-  price: ''
+  price: 590
   sold: false
   contextual: true
 - title: Chicago 22
@@ -280,18 +280,7 @@ works:
     width: 60
     depth: 
   description: ''
-  price: ''
-  sold: false
-  contextual: true
-- title: Chicago Emercency Exit
-  image: "/forestry/1354.jpg"
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 60
-    width: 72
-    depth: 
-  description: ''
-  price: 
+  price: 590
   sold: false
   contextual: true
 - title: New York 4
@@ -302,7 +291,7 @@ works:
     width: 60
     depth: 
   description: ''
-  price: ''
+  price: 1800
   sold: false
   contextual: true
 redirect_from:

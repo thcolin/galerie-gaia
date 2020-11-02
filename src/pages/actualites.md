@@ -682,7 +682,7 @@ articles:
   title: Interview de Laure Carré
   content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
     "Interview Laure Carré")'
-  image: ''
+  image: "/forestry/galeriegaia-laurecarre-portrait-artiste.jpg"
 - template: article
   date: '2020-11-02T16:10:55Z'
   categories:
@@ -690,6 +690,6 @@ articles:
   title: Interview de Isthme
   content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
     "Interview de Isabelle Thoams ")'
-  image: ''
+  image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
 
 ---
