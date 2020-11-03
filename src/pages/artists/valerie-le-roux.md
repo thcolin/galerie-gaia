@@ -23,6 +23,45 @@ biography: |-
   Et les sérigraphies sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie LEROUX
 exhibitions: []
 works:
+- title: Flacon noir
+  image: "/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg"
+  technique: Céramique pièce unique signée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 850
+  contextual: false
+- title: Flacons mis en situation
+  image: "/forestry/galerie-gaia-valerie-leroux-flacon-noir.jpg"
+  technique: Céramique pièce unique
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 850
+  contextual: false
+- title: Flacon bleu
+  image: "/forestry/galerie-gaia-valerie-leroux-flacon-bleu.jpg"
+  technique: 'Céramique pièce unique signée '
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 850
+  contextual: false
 - title: Flacon
   image: "/forestry/flacon.jpg"
   technique: céramique pièce unique
