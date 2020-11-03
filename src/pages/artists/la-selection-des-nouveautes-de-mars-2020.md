@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Les nouveautés de Novembre 2020
+title: Oh Oh Oh les idées cadeaux
 location: ''
 birth: "0"
 death: "0"
@@ -13,6 +13,20 @@ works:
   description: ''
   price: 0
   contextual: true
+- title: La brêche Opus 2 de Jacques Le Brusq
+  image: "/forestry/galerie-gaia-lebrusq-la-breche-opus-2.jpg"
+  technique: Huile sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: '[Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
+    "Jacques Lebrusq")'
+  price: 3000
+  contextual: false
 - title: 'Théâtre caché de Dimitri Bourriau '
   image: "/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
   technique: 'photographie '
