@@ -8,7 +8,7 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: Nouveautés octobre 2020
+- title: 'Oh Oh Oh idées cadeaux '
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
@@ -22,8 +22,10 @@ works:
     depth: 0
   description: '[Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/
     "dimitri bourriau")'
-  price: 0
+  price: 450
   contextual: true
+  fields:
+  - Photographie
 - title: Loire de Mathilde Guiho
   image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
   technique: 'Photographie '
@@ -122,7 +124,7 @@ works:
   contextual: false
 - title: Dessin Ruban de Françoise Paressant
   image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
-  technique: 'Papier japon '
+  technique: Papier japon teinté
   dimensions:
     height: 50
     width: 40
