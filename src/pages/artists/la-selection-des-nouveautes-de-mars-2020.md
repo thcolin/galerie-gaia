@@ -13,6 +13,35 @@ works:
   description: ''
   price: 0
   contextual: true
+- title: Gérard Traquandi sans titre 16/19
+  image: "/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
+  technique: Eau forte 16/19
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: '[Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
+  price: 550
+  contextual: true
+- title: Primitive N°1 de Pierre Tual
+  image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
+  technique: Fer recuit
+  fields:
+  - Sculpture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 20
+    width: 36
+    depth: 24
+  description: '[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "Pierre
+    Tual")'
+  price: 2500
+  contextual: false
 - title: La brêche Opus 2 de Jacques Le Brusq
   image: "/forestry/galerie-gaia-lebrusq-la-breche-opus-2.jpg"
   technique: Huile sur papier
