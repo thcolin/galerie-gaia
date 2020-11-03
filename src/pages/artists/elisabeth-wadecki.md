@@ -74,10 +74,10 @@ works:
     height: 130
     width: 97
     depth: 0
-  description: ''
-  price: 0
+  description: 2018 Partie n°2 du dyptique, le prix indiqué concerne les 2 parties
+  price: 4000
   contextual: true
-- title: En mon jardin diptyque partie 1
+- title: En mon jardin diptyque partie N°1
   image: "/forestry/galerie-gaia-elisabeth-wadecki-2018-en-mon-jardin-diptyque-130x194-acrylique-fusain-et-pastels-secs-sur-toile-4000eur-les-2.JPG"
   technique: 'Acrylique fusain et pastels secs sur toile '
   fields: []
