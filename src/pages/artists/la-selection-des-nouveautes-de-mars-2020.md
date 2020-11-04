@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Oh Oh Oh les idées cadeaux
+title: idées cadeaux Noël Anniversaire
 location: ''
 birth: "0"
 death: "0"
