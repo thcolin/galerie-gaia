@@ -2,7 +2,8 @@
 template: artist
 title: ESTAMPES
 location: ''
-fields: []
+fields:
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
@@ -19,6 +20,8 @@ works:
   price: 145
   contextual: true
   image: "/forestry/galerie-gaia-tapies-maeght72x56.jpg"
+  styles:
+  - abstrait
 - title: Chilida exposition 1971 Barcelone
   technique: 'Affiche '
   dimensions:
@@ -29,6 +32,8 @@ works:
   price: 145
   contextual: true
   image: "/forestry/galerie-gaia-chilida70x50.jpg"
+  styles:
+  - abstrait
 - title: Miró
   image: "/forestry/galerie-gaia-miro-1973-75x57.jpg"
   technique: Affiche
@@ -43,7 +48,8 @@ works:
   image: "/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg"
   technique: monotype variation 2
   fields: []
-  styles: []
+  styles:
+  - Figuratif
   dimensions:
     height: 54
     width: 42
@@ -64,6 +70,8 @@ works:
   price: 2900
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Pierre Alechinsky - "Ziggourat II"
   image: "/forestry/pierre-alechinsky-ziggourat-ii.jpg"
   technique: Lithographie
@@ -77,6 +85,21 @@ works:
   price: 
   sold: false
   contextual: true
+  styles:
+  - Figuartif
+- title: 'Le pêcheur Hervé Di Rosa '
+  technique: 'Eau forte 48/60 '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 56
+    width: 76
+    depth: 0
+  description: '1987 '
+  price: 1600
+  contextual: true
+  image: "/forestry/galerie-gaia-di-rosa-eau-forte-__le-promeneur__.jpg"
 - title: Hervé Di Rosa - Le Pêcheur 29/60
   image: "/forestry/herve-di-rosa-le-pecheur-2960.jpg"
   technique: Aquatinte, eau forte
@@ -85,7 +108,7 @@ works:
     width: 87
     depth: 
   description: œuvre encadrée
-  price: 1400
+  price: 1600
   sold: false
   contextual: true
   styles:
@@ -103,6 +126,8 @@ works:
   price: 
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Messagier - Les porteurs de presqu'île
   image: "/forestry/messagier-les-porteurs-de-presquile.jpg"
   technique: Pointe sèche et aquatinte
@@ -110,10 +135,10 @@ works:
     height: 55
     width: 75
     depth: 
-  description: |-
-    1966
-    850€
-  price: 
+  description: '1966
+
+'
+  price: 850
   sold: false
   contextual: true
 - title: Gérard Traquandi sans titre (rose)
@@ -216,12 +241,14 @@ works:
     height: 59
     width: 78
     depth: 
-  description: |-
-    1977
-    1980€
-  price: 
+  description: '1977
+
+'
+  price: 1980
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Claude Viallat - Sans Titre (E/E)
   image: "/forestry/claude-viallat-sans-titre-ee.jpg"
   technique: Sérigraphie
@@ -229,10 +256,10 @@ works:
     height: 64
     width: 49
     depth: 
-  description: |-
-    1997
-    600€
-  price: 
+  description: '1997
+
+'
+  price: 600
   sold: false
   contextual: true
 - title: Villeglé - Sans Titre (47/50)
@@ -242,10 +269,10 @@ works:
     height: 65
     width: 50
     depth: 
-  description: |-
-    1989
-    800€
-  price: 
+  description: '1989
+
+'
+  price: 800
   sold: false
   contextual: true
 - title: Villeglé - Sans Titre (1/9)
@@ -255,8 +282,8 @@ works:
     height: 65
     width: 50
     depth: 
-  description: 800€
-  price: 
+  description: ''
+  price: 800
   sold: false
   contextual: true
 - title: Jacques Villeglé - Tréméac
@@ -266,8 +293,8 @@ works:
     height: 35
     width: 26
     depth: 
-  description: "1994\n400€ \n550€ encadré"
-  price: 
+  description: "1994  \n 550€ encadré"
+  price: 400
   sold: false
   contextual: true
 - title: 'Shirley Jaffe - Sans Titre '
@@ -290,10 +317,12 @@ works:
     height: 42
     width: 57
     depth: 
-  description: 2017 460€
-  price: 
+  description: '2017 '
+  price: 460
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: 'Frédéric Poincelet - Sans titre #3 (4/20)'
   image: "/forestry/frederic-poincelet-sans-titre-3-420.jpg"
   technique: Lithographie
@@ -301,41 +330,43 @@ works:
     height: 42
     width: 57
     depth: 
-  description: 2017 460€
-  price: 
+  description: '2017 '
+  price: 460
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Claude Viallat - Sans Titre
   image: "/forestry/claude-viallat-sans-titre.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 28/60
   dimensions:
     height: 69
     width: 69
     depth: 
-  description: Numérotation 28/60 600€
-  price: 
+  description: ''
+  price: 600
   sold: false
   contextual: true
-- title: Claude Viallat - Sans Titre (1/3)
+- title: 'Claude Viallat - Sans Titre '
   image: "/forestry/claude-viallat-sans-titre-13.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 1/3
   dimensions:
     height: 96
     width: 68
     depth: 
-  description: 2007 1500€
-  price: 
+  description: '2007 '
+  price: 1500
   sold: false
   contextual: true
-- title: Claude Viallat - Sans Titre (3/3)
+- title: 'Claude Viallat - Sans Titre '
   image: "/forestry/claude-viallat-sans-titre-33.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 3/3
   dimensions:
     height: 96
     width: 68
     depth: 
-  description: 2007 1500€
-  price: 
+  description: "2007"
+  price: 1500
   sold: false
   contextual: true
 - title: 'Pierre Alechinsky - "Writing Book" '
@@ -345,13 +376,15 @@ works:
     height: 48
     width: 64
     depth: 
-  description: 1982 1400€ encadré
-  price: 
+  description: "1982   \nOeuvre encadré  baguette chêne et  verre musée anti-reflet"
+  price: 1400
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Georges Autard - "Perte de sens"
   image: "/forestry/georges-autard-perte-de-sens.jpg"
-  technique: Sérigraphie (36/60)
+  technique: Sérigraphie 36/60
   dimensions:
     height: 66
     width: 51
@@ -362,6 +395,8 @@ works:
   price: 600
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: 'Gérard Garouste - "Les engendrements de Pentagruel" '
   image: "/forestry/gerard-garouste-les-engendrements-de-pentagruel-1299.jpg"
   technique: Lithographie 12/99
