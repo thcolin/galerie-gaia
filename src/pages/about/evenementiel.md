@@ -1,8 +1,8 @@
 ---
 template: about
 content:
-- column: "# Événementiel insolite Nantes\n\n## **Séminaires, incentives, lancement
-    de produits, animation clients originales** \n\n### **1. Team Building artistique**\n\n**Créer
+- column: "# Événementiel insolite Nantes\n\n## **Séminaire, incentive, lancement
+    de produits, animation client originale** \n\n### **1. Team Building artistique**\n\n**Créer
     une fresque collective !  \nDe 10 à 1000 collaborateurs ou clients,**  fédérez
     des équipes qui seront **coachées par une artiste autour de la culture de votre
     entreprise, de son histoire, de ses  valeurs.**  \nCette réalisation deviendra
@@ -23,12 +23,12 @@ content:
     \ _Exposition dans le hall du groupe Keran_\n\n  ![](/forestry/galeriegaia@keran@basso.jpg
     \"Keran exposition Giani Basso\")\n\n  _Fresque  70 ans groupe Adélis - Artiste
     Kazy Usclef_\n\n  ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG
-    \"Adelis 70 ans \")\n\n### **3. Trophée artistique**\n\nLa remise d'un trophée
-    lors d'un **challenge sportif ou une incentive interne** est  un moment singulier
-    car très photographié et **diffusé sur les réseaux sociaux.**   \nJe vous propose
-    de **vous démarquer** avec à la réalisation par un artiste d'un trophée qui sera
-    à la hauteur de votre évènement.\n\n_Trophée de l'Open International de Squash
-    Nantes par Go Segawa_\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg
+    \"Adelis 70 ans \")\n\n### **3. Trophée original et artistique**\n\nLa remise
+    d'un trophée lors d'un **challenge sportif ou une incentive interne** est  un
+    moment singulier car très photographié et **diffusé sur les réseaux sociaux.**
+    \  \nJe vous propose de **vous démarquer** avec à la réalisation par un artiste
+    d'un trophée qui sera à la hauteur de votre évènement.\n\n_Trophée de l'Open International
+    de Squash Nantes par Go Segawa_\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg
     \"Open International Squash\")"
   contact:
     display: true
