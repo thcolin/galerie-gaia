@@ -2,7 +2,7 @@
 template: about
 content:
 - column: "# Défiscaliser avec la location leasing d'oeuvres d'art ?\n\n## Marque
-    employeur RSE bien être au travail grâce à l'art\n\nDans des **bureaux nouvelles
+    employeur RSE bien-être au travail grâce à l'art\n\nDans des **bureaux nouvelles
     générations,** la tendance de fond va bien au-delà d'un mobilier design pour donner
     une ambiance chaleureuse et renforcer l'**identité de votre entreprise auprès
     de _vos clients et collaborateurs._  \nLa **RSE**, **la marque employeur**, le
