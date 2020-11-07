@@ -1,27 +1,32 @@
 ---
 template: about
 content:
-- column: "# Promoteur Immobilier 1% artistique\n\n## 1 immeuble 1 oeuvre\n\nVous
-    êtes promoteur référencé auprès du Ministère de la Culture dans le cadre du programme
-    **\"1 immeuble 1 œuvre \"**.\n\n## 1% artistique\n\nVous souhaitez intégrer un
-    projet d'artiste dans les jardins, les halls d'entrée ou toutes autres parties
-    communes pour valoriser le lieu, le rendre singulier et attractif dans votre **stratégie
-    de commercialisation**.\n\n## Artistes réferencé-e-s pour des projets de promotion
-    immobilière \n\n**Contactez-moi pour vous soumettre des noms d'artistes** qui
-    seront en capacité de travailler en mode projet et en amont avec les architectes.\n\n_Installation
-    \"Le masque\" de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020._\n\n![Kazy
-    Usclef ](/forestry/masque.jpg \"Masque\")\n\n## Architecte d'intérieur\n\nUne
-    fois les espaces et volumes créés, une fois les couleurs et papiers peints retenus,
-    le mobilier adapté, comment sublimer ce décor et le rendre unique?\n\nSélectionnez
-    pour et avec vos clients grâce les œuvres, sculptures qui vous interpellent et
-    je vous les livre pour faire des essais sur place.\n\n**+** Possibilité de **prêt
-    durant une semaine** contre chèque de caution du montant de l’œuvre.\n\n**++ Apport
-    d'affaire** pour toutes ventes effectuées par vos soins\n\n_Brasserie Le Molière
-    Nantes par Christophe Vinet - Photographies JF Mollière_\n\n![Jean François Mollière](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
+- column: "# Architecte décorateur Promoteur Immobilier  \n\n## 1. Architecte d'intérieur\n\nUne
+    fois les espaces et volumes créés, une fois les couleurs ou papiers peints retenus,
+    le mobilier choisit, comment sublimer ce décor et le rendre unique?\n\n* Parlez-moi
+    du projet, montrez-moi des photos du lieu et je vous prépare une selection\n*
+    Consultez le catalogue des oeuvres en ligne selon leur style abstrait ou figuratif\n*
+    Possibilité de **prêt des oeuvres durant une semaine** contre un chèque de caution
+    du montant des œuvre.\n* **Apport d'affaire** pour toutes ventes effectuées par
+    vos soins\n\n## 2. Programme 1 immeuble 1 oeuvre ou 1% artistique\n\n* Vous êtes
+    un promoteur référencé auprès du Ministère de la Culture dans le cadre du programme
+    **\"1 immeuble 1 œuvre \"**.\n\n\n* Vous souhaitez intégrer un projet d'artiste
+    dans les jardins, les halls d'entrée ou toutes autres parties communes pour valoriser
+    le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.\n\n###
+    Artistes réferencé-e-s pour des projets de promotion immobilière\n\n**Contactez-moi
+    pour vous soumettre des noms d'artistes** qui seront en capacité de travailler
+    en mode projet et en amont avec les architectes.\n\n_Installation \"Le masque\"
+    de Kazy Usclef qui intègre le hall d'un immeuble nantais en 2020._\n\n![Kazy Usclef
+    ](/forestry/masque.jpg \"Masque\")\n\n_Brasserie Le Molière Nantes par Christophe
+    Vinet - Photographies JF Mollière_\n\n![Jean François Mollière](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
     \"brasserie Le Molière\")"
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
+- contact:
+    placeholder: Un message à nous adresser ?
+  column: "![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\nBrasserie
+    Café Le Molière à Nantes - Réalisation Architecte décorateur  Christophe Vinet "
 seo:
   title: Immobilier et Architecture - Galerie Gaïa, galerie d'art contemporain
   heading: Immobilier Architecture
