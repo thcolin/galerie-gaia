@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Jacqueline Pécantet
+title: 'Pécantet Jacqueline '
 location: ''
 fields:
 - Céramique
@@ -80,16 +80,6 @@ works:
     depth: 9
   description: "2020"
   price: 120
-  contextual: false
-- title: Grès 7
-  image: "/forestry/galerie-gaia-ceramique-pecantet-1-1rouge.JPG"
-  technique: 'Terre enfumée et polie au galet '
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "1 cube de 7cm  / 1 cube de 9 cm   \n2020"
-  price: 140
   contextual: false
 - title: Grès 6
   image: "/forestry/dscf6079-j-pecantet.JPG"

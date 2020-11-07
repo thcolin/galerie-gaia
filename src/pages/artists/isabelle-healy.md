@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Isabelle Healy
+title: 'Healy Isabelle '
 location: ''
 fields:
 - Sculpture

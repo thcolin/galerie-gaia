@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Claude Francheteau
+title: 'Francheteau Claude '
 location: ''
 fields:
 - Peinture

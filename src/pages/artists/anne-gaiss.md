@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Anne Gaiss
+title: 'Gaiss Anne '
 location: ''
 fields:
 - Oeuvre sur papier

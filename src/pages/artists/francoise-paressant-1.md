@@ -4,7 +4,7 @@ fields:
 styles:
 - Abstrait
 template: artist
-title: Françoise Paressant
+title: 'Paressant Françoise '
 location: ''
 birth: "1944"
 death: ''
@@ -71,7 +71,7 @@ works:
   dimensions:
     height: 150
     width: 135
-    depth: 0
+    depth: 
   description: "2020"
   price: 12000
   sold: false

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Jean-François Mollière
+title: 'Mollière Jean-François '
 location: ''
 field: Photographe
 birth: "0"

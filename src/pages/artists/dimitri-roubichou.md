@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Dimitri Roubichou
+title: 'Roubichou Dimitri '
 location: ''
 fields:
 - Photographie

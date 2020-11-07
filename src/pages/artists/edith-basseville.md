@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Edith Basseville
+title: 'Basseville Edith '
 location: Dijon
 fields:
 - Sculpture

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Francky Criquet
+title: Criquet Francky
 location: ''
 fields:
 - Peinture

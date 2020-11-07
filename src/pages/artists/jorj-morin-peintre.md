@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Jorj Morin
+title: 'Morin Jorj '
 location: Nantes
 fields:
 - Peinture

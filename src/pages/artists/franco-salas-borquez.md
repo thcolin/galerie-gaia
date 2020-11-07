@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Franco Salas Borquez
+title: Borquez Franco Salas
 location: Franco Chilien
 fields:
 - Peinture

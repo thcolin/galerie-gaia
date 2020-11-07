@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Alain Clément
+title: 'Clément Alain '
 location: ''
 fields:
 - Oeuvre sur papier

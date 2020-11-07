@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Jean-Paul Friol
+title: 'Friol Jean-Paul '
 location: ''
 fields:
 - Oeuvre sur papier

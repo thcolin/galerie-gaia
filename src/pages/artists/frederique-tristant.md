@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Frédérique Tristant
+title: 'Tristant Frédérique '
 location: ''
 fields:
 - Peinture

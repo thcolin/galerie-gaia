@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Elisabeth Wadecki
+title: 'Wadecki Elisabeth '
 location: ''
 fields:
 - Peinture

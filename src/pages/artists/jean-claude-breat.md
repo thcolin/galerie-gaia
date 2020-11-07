@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Jean Claude Bréat
+title: 'Bréat Jean Claude '
 location: France
 fields:
 - Peinture

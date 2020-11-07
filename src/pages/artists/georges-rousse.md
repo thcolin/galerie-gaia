@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Georges Rousse
+title: 'Rousse Georges '
 location: ''
 fields:
 - Photographie
@@ -43,10 +43,8 @@ works:
     height: 112
     width: 92
     depth: 
-  description: |-
-    3200€
-    tirage à 30 exemplaires
-  price: 
+  description: " tirage à 30 exemplaires"
+  price: 3200
   sold: false
   contextual: true
 - title: Luxembourg
@@ -56,10 +54,8 @@ works:
     height: 112
     width: 92
     depth: 
-  description: |-
-    3200€
-    tirage à 30 exemplaires
-  price: 
+  description: tirage à 30 exemplaires
+  price: 3200
   sold: false
   contextual: true
 - title: Vevey
@@ -70,7 +66,7 @@ works:
     width: 92
     depth: 
   description: 30 exemplaires
-  price: 
+  price: 3200
   sold: false
   contextual: true
 - title: Bordeaux
@@ -80,10 +76,8 @@ works:
     height: 112
     width: 92
     depth: 
-  description: |-
-    3200€
-    tirage à 30 exemplaires
-  price: 
+  description: tirage à 30 exemplaires
+  price: 3200
   sold: false
   contextual: true
 - title: Mumbai
@@ -93,10 +87,8 @@ works:
     height: 112
     width: 92
     depth: 
-  description: |-
-    3200€
-    tirage à 30 exemplaires
-  price: 
+  description: " tirage à 30 exemplaires"
+  price: 3200
   sold: false
   contextual: true
 - title: Séoul

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Boris Jakobek
+title: 'Jakobek Boris '
 location: ''
 fields: []
 birth: "0"

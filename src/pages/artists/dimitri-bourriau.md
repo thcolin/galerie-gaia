@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Dimitri Bourriau
+title: 'Bourriau Dimitri '
 location: ''
 fields:
 - Photographie

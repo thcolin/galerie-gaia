@@ -4,7 +4,7 @@ fields:
 styles:
 - Abstrait
 template: artist
-title: Jacques Le Brusq
+title: 'Le Brusq Jacques '
 location: ''
 birth: "1938"
 death: ''

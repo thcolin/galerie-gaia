@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Annick Argant
+title: 'Argant Annick '
 location: France
 fields:
 - Sculpture
@@ -65,17 +65,6 @@ works:
 - title: CARR'AIMANT
   image: "/forestry/carraimant.jpg"
   technique: grés sur socle bois
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: CARR'AIMANT
-  image: "/forestry/carraimant.jpg"
-  technique: Grés sur socle bois
   dimensions:
     height: 
     width: 
