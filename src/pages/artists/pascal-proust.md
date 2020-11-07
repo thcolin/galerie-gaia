@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Pascal Proust
+title: 'Proust Pascal '
 location: ''
 fields:
 - Sculpture

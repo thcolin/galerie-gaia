@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Mathilde Guiho
+title: 'Guiho Mathilde '
 location: ''
 fields:
 - Photographie

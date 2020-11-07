@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Marie Vandooren
+title: 'Vandooren Marie '
 location: ''
 fields:
 - Oeuvre sur papier

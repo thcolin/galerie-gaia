@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Patrick Guéguen
+title: 'Guéguen Patrick '
 location: ''
 fields:
 - Oeuvre sur papier

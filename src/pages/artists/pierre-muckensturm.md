@@ -1,10 +1,9 @@
 ---
 template: artist
-title: Pierre Muckensturm
+title: 'Muckensturm Pierre '
 location: ''
 fields:
 - Oeuvre sur papier
-- Peinture
 birth: "0"
 death: "0"
 expose: true

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Neil Ratnavira
+title: 'Ratnavira Neil '
 location: ''
 fields:
 - Photographie

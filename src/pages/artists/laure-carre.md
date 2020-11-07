@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Laure Carré
+title: 'Carré Laure '
 location: ''
 fields:
 - Peinture

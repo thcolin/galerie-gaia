@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Olivier Fremont
+title: 'Fremont Olivier '
 location: Nantes
 fields:
 - Sculpture

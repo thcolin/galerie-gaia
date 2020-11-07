@@ -4,7 +4,7 @@ fields:
 styles:
 - Abstrait
 template: artist
-title: Muriel Kerba
+title: 'Kerba Muriel '
 location: ''
 birth: ''
 death: ''

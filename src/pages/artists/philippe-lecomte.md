@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Philippe Lecomte
+title: 'Lecomte Philippe '
 location: ''
 fields:
 - Oeuvre sur papier

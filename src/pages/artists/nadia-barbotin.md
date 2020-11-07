@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Nadia Barbotin
+title: 'Barbotin Nadia '
 location: Nantes
 fields:
 - Peinture

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Marianne Abergel
+title: 'Abergel Marianne '
 location: Paris
 fields:
 - Céramique
