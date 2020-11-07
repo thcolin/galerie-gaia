@@ -25,8 +25,9 @@ content:
     placeholder: Renseignement projet immobilier - décoration
 - contact:
     placeholder: Un message à nous adresser ?
-  column: "![](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg)\n\nBrasserie
-    Café Le Molière à Nantes - Réalisation Architecte décorateur  Christophe Vinet "
+  column: "![café le Molière Christophe Vinet architecte décoratuer d'intérieur nantes](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
+    \"Brasserie le Moliere Nantes \")\n\nBrasserie Café Le Molière à Nantes - Réalisation
+    Architecte décorateur  Christophe Vinet "
 seo:
   title: Immobilier et Architecture - Galerie Gaïa, galerie d'art contemporain
   heading: Immobilier Architecture
