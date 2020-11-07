@@ -4,7 +4,7 @@ fields:
 styles:
 - Abstrait
 template: artist
-title: Pierre Tual
+title: 'Tual Pierre '
 location: ''
 birth: "1941"
 death: ''

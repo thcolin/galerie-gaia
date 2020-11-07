@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Stephanie Billarant
+title: 'Billarant Stephanie '
 location: ''
 fields:
 - Photographie

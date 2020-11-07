@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Virginie Chardon
+title: 'Chardon Virginie '
 location: ''
 fields:
 - Sculpture

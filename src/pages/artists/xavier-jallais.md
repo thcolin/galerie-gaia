@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Xavier Jallais
+title: 'Jallais Xavier '
 location: ''
 fields:
 - Peinture

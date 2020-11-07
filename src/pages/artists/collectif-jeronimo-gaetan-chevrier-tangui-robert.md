@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Projet Versants
+title: Versants
 location: ''
 fields:
 - Oeuvre sur papier

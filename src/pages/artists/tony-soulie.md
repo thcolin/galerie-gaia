@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Tony Soulié
+title: 'Soulié Tony '
 location: Paris
 fields:
 - Oeuvre sur papier

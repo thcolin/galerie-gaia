@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Tangui Robert
+title: 'Robert Tangui '
 location: ''
 fields:
 - Oeuvre sur papier

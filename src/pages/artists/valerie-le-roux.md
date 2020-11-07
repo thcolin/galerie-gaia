@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Valérie Le Roux
+title: 'Le Roux Valérie '
 location: ''
 fields:
 - Oeuvre sur papier

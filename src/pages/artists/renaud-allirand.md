@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Renaud Allirand
+title: 'Allirand Renaud '
 location: Paris
 fields:
 - Oeuvre sur papier

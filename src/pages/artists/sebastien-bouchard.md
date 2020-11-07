@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Sébastien Bouchard
+title: 'Bouchard Sébastien '
 location: 
 fields:
 - Street art
