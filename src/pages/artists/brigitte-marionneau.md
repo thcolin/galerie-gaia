@@ -4,7 +4,7 @@ fields:
 styles:
 - Abstrait
 template: artist
-title: Brigitte Marionneau
+title: 'Marionneau Brigitte '
 location: ''
 birth: ''
 death: ''
@@ -44,13 +44,13 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
-    depth: 
+    height: 30
+    width: 30
+    depth: 12
   description: Numéro 1
   price: 3000
   sold: false
-  contextual: true
+  contextual: false
 - title: Contenir le vent 6-V
   image: "/forestry/contenir-le-vent-6-v-2019-h-21x18x11cm-credit-photo-pascal-vangysel.jpg"
   technique: Terre enfumée

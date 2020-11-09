@@ -45,7 +45,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 383
+  price: 380
   contextual: true
 - title: Jardin des plantes
   image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
@@ -75,17 +75,17 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 400
+  price: 380
   contextual: true
 - title: En rester là
   image: "/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg"
-  technique: Gravure sur zinc et piquetage photos
+  technique: 'Gravure sur zinc et piquetage photos '
   dimensions:
     height: 30
     width: 40
     depth: 0
-  description: ''
-  price: 0
+  description: 'Réhausse à la peinture or '
+  price: 380
   contextual: true
 - title: Echo II
   image: "/forestry/galerie-gaia-tangui-robert-echo-ii-30x40.jpg"
@@ -95,7 +95,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 0
+  price: 380
   contextual: true
 - title: Echo I
   image: "/forestry/galerie-gaia-tangui-robert-echo-i-30x40.jpg"
@@ -105,7 +105,7 @@ works:
     width: 40
     depth: 0
   description: ''
-  price: 0
+  price: 380
   contextual: true
 - title: Yang Shuo
   image: "/forestry/@Tangui Robert-Yang Shuo-40x50_1.jpg"
@@ -123,7 +123,7 @@ works:
     height: 24
     width: 30
   description: œuvre encadrée cadre standard bois naturel montage caisson
-  price: 320
+  price: 280
   contextual: true
 - title: Tympan - Nantes
   image: "/forestry/@Tangui Robert-Tympan Nantes-24x30_1.jpg"
@@ -242,7 +242,7 @@ works:
     width: 73
     depth: 
   description: "œuvre encadrée cadre chêne réhausse 5cm montage caisson  \n2016 "
-  price: 850
+  price: 1200
   sold: false
   contextual: true
   fields:

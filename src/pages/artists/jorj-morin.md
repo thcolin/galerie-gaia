@@ -215,6 +215,7 @@ works:
   styles: []
 redirect_from:
 - "/artistes/103-jorj-morin/"
-styles: []
+styles:
+- Abstrait
 
 ---

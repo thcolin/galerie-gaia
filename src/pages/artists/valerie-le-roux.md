@@ -30,10 +30,10 @@ works:
   - Céramique
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 30
+    width: 15
     depth: 0
-  description: ''
+  description: Cabochon amovible
   price: 850
   contextual: false
 - title: Flacons mis en situation
@@ -43,8 +43,8 @@ works:
   - Céramique
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 30
+    width: 15
     depth: 0
   description: ''
   price: 850
@@ -56,10 +56,10 @@ works:
   - Céramique
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 30
+    width: 15
     depth: 0
-  description: ''
+  description: Cabochon amovible
   price: 850
   contextual: false
 - title: Flacon
