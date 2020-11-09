@@ -58,7 +58,7 @@ works:
   image: "/forestry/galerie-gaia-lebrusq-la-breche-opus-2.jpg"
   technique: Huile sur papier
   fields:
-  - Oeuvre sur papier
+  - Peinture
   styles: []
   dimensions:
     height: 100
