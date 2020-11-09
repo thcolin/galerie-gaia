@@ -36,11 +36,12 @@ works:
   sold: false
   contextual: true
   fields:
-  - Tapisserie
-  styles: []
+  - Textile
+  styles:
+  - Abstrait
 - title: Zoom sur Signaux indécis
   image: "/forestry/signaux-indecis.jpg"
-  technique: Tapisserie
+  technique: Tapisserie en laine
   dimensions:
     height: 
     width: 
@@ -50,7 +51,7 @@ works:
   sold: false
   contextual: true
   fields:
-  - Tapisserie
+  - Textile
   styles:
   - Abstrait
 - title: Vers l'Ouest
@@ -146,7 +147,7 @@ works:
   styles: []
 - title: Espace nacré
   image: "/forestry/espace-nacre.jpg"
-  technique: 'Tapisserie: Lissière Edith Morin'
+  technique: Tapisserie en laine  Lissière Edith Morin
   dimensions:
     height: 111
     width: 187
@@ -156,11 +157,12 @@ works:
   sold: false
   contextual: true
   fields:
-  - Tapisserie
-  styles: []
+  - Textile
+  styles:
+  - Abstrait
 - title: Papillon
   image: "/forestry/papillon.jpg"
-  technique: 'Tapisserie: Lissier Pierre Carton ERBA'
+  technique: Tapisserie en laine Lissier Pierre Carton ERBA
   dimensions:
     height: 92
     width: 118
@@ -170,22 +172,9 @@ works:
   sold: false
   contextual: true
   fields:
-  - Tapisserie
-  styles: []
-- title: Balise verte
-  image: "/forestry/balise-verte.jpg"
-  technique: Mosaïque
-  dimensions:
-    height: 149
-    width: 34
-    depth: 
-  description: '1975 '
-  price: 3600
-  sold: false
-  contextual: false
-  fields:
-  - Sculpture
-  styles: []
+  - Textile
+  styles:
+  - Abstrait
 - title: Cloture restreinte
   image: "/forestry/cloture-restreinte.jpg"
   technique: Mosaïque Marbre rose, jaune, travertin rouge

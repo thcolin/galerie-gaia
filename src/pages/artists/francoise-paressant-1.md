@@ -1,6 +1,7 @@
 ---
 fields:
 - Oeuvre sur papier
+- Textile
 styles:
 - Abstrait
 template: artist
@@ -30,11 +31,26 @@ biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa 
   des arts de nantes \")  \n2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Plage de la mine d'Or
+  image: "/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg"
+  technique: Feutre blanc teinté acrylique
+  fields:
+  - Textile
+  styles:
+  - Abstrait
+  dimensions:
+    height: 118
+    width: 112
+    depth: 0
+  description: Accrochage libre par le haut pour un effet de souplesse comme une tapisserie
+  price: 4800
+  sold: false
+  contextual: true
 - title: 'Eclaircies en fin de journée '
   image: "/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
-  technique: laine banche et toile teintée  tissées
+  technique: Tapisserie en laine banche et toile teintée  tissées
   fields:
-  - tapisserie
+  - Textile
   styles:
   - Abstrait
   dimensions:
@@ -298,9 +314,9 @@ works:
   title: Dessin ruban
 - title: Suite pour piano jouet
   image: "/forestry/galerie-gaia-francoise-paressant-suite-pour-piano-jouet-aine-blanche-tissee-acrylique-150x135-2020.jpg"
-  technique: 'laine blanche tissée et acrylique '
+  technique: 'Tapisserie en laine blanche tissée et acrylique '
   fields:
-  - Tapisserie
+  - Textile
   styles:
   - Abstrait
   dimensions:
