@@ -25,9 +25,10 @@ biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa 
   qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur
   théorique.\n\n1983 3 Peintures ont été acquises par le [musée des Arts de Nantes
   ](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=PARESSANT
-  \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les amis
-  du Musée des Beaux Arts de Nantes  \n2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
-  \"galerie Chevalier tapisserie paris \") Paris "
+  \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les [Amis
+  du Musée d'Arts de Nantes](http://www.amis-musee-arts-nantes.fr/ \"amis du musée
+  des arts de nantes \")  \n2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
+  \"galerie Chevalier tapisserie paris \") Paris"
 works:
 - title: 'Eclaircies en fin de journée '
   image: "/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
@@ -52,7 +53,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: Œuvre encadrée dans caisse américaine bois naturel
   price: 560
   sold: false
@@ -65,7 +66,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: 'Œuvre encadrée dans caisse américaine bois naturel '
   price: 360
   sold: false
@@ -78,7 +79,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: Œuvre encadrée
   price: 320
   sold: false
@@ -91,7 +92,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: 'Œuvre encadrée '
   price: 360
   sold: false
@@ -143,7 +144,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: Œuvre encadrée caisse américaine bois naturel
   price: 600
   sold: false
@@ -156,7 +157,7 @@ works:
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: Triptyque de 3 bandes de 3 x 120 cm de hauteur X 40 cm de large
   price: 4200
   sold: false
@@ -169,7 +170,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: 'Œuvre encadrée dans caisse américaine noir mat '
   price: 360
   sold: false
@@ -182,7 +183,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: 'Œuvre encadrée dans caisse américaine bois noir mat '
   price: 360
   sold: false
@@ -195,7 +196,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: œuvre encadrée dans caisse américaine bois naturel
   price: 560
   sold: false
@@ -208,7 +209,7 @@ works:
   dimensions:
     height: 50
     width: 50
-    depth: 0
+    depth: 
   description: Œuvre encadrée dans caisson bois blanc
   price: 800
   sold: false
@@ -221,7 +222,7 @@ works:
   dimensions:
     height: 30
     width: 30
-    depth: 0
+    depth: 
   description: Œuvre encadrée caisson bois blanc
   price: 560
   sold: false
@@ -234,7 +235,7 @@ works:
   dimensions:
     height: 30
     width: 30
-    depth: 0
+    depth: 
   description: Œuvre encadrée caisson bois blanc
   price: 560
   sold: false
@@ -247,7 +248,7 @@ works:
   dimensions:
     height: 30
     width: 30
-    depth: 0
+    depth: 
   description: Oeuvre encadrée montage caisson bois blanc
   price: 560
   sold: false
