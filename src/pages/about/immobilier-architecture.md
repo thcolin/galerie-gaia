@@ -20,9 +20,11 @@ content:
     * Vous êtes un promoteur référencé auprès du Ministère de la Culture dans le cadre du programme **"1 immeuble 1 œuvre "**.
     * Vous souhaitez intégrer un projet d'artiste dans les jardins, les halls d'entrée ou toutes autres parties communes pour valoriser le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.
 
-    ### Artistes réferencé-e-s pour des projets de promotion immobilière
+    ### 3. Artistes réferencé-e-s pour des projets de promotion immobilière
 
     **Contactez-moi pour vous soumettre des noms d'artistes** qui seront en capacité de travailler en mode projet et en amont avec les architectes.
+
+    4. Fresque Murale street-art
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration

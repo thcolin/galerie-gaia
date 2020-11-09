@@ -8,11 +8,11 @@ content:
     de vos clients et collaborateurs.**  \nLe métier des Happy Manager consiste à
     concrétiser les intentions de la **RSE**, à renforcer **la marque employeur**,
     à rendre concret cette idée du **bien être au travail**.  \nToutes ces intentions
-    peuvent être **boostées par l'installation d’œuvres d'artistes**  qui améliore
-    la créativité, stimule l'esprit coopératif. \n\nAprès la définition de votre projet,
-    je vous accompagne dans toutes les étapes  \n\n* **Sélection d’œuvres disponibles
+    peuvent être **boostées par l'installation d’œuvres d'artistes** qui améliorent
+    la créativité et stimulent l'esprit coopératif.\n\nAprès la définition de votre
+    projet, je vous accompagne dans chaque étape :\n\n* **Sélection d’œuvres disponibles
     dans le catalogue sur le site** de la galerie (photos - sérigraphies - sculptures-
-    peintures de 50€ à...)\n* **Sourcing d'oeuvres spécifiques** selon vos critères
+    peintures de 50€ à...)\n* **Sourcing d’œuvres spécifiques** selon vos critères
     de style et de budget\n* **Gestion d'un projet de création d'une fresque murale**
     pour vos locaux en intérieur ou extérieur par un artiste graffeur (street-art),
     en faisant participer vos équipes  ([rubrique Événementiel](https://galeriegaia.fr/about/evenementiel/
@@ -56,11 +56,11 @@ content:
 
     ![](/forestry/galeriegaia-toma L.png)
 
-    ![](/forestry/mural 11 compressions 500x200 15000 € .jpg)
+    ![](/forestry/galerie-gaia-nantes-amenagement-bureau.jpg)
 
-    ![](/forestry/JF MOLLIERE 25.JPG)
+    ![](/forestry/galeriegaia@boisrond-omr.jpg)
 
-    ![](/forestry/New york JF Molliere 01.JPG)
+    ![](/forestry/20190202_142300.jpg)![](/forestry/20190202_142105.jpg)
   contact:
     display: false
     placeholder: ''
