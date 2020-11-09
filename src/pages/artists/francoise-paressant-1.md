@@ -57,7 +57,7 @@ works:
     width: 30
     depth: 
   description: œuvre encadrée bois blanc
-  price: 900
+  price: 700
   sold: false
   contextual: true
   title: Dessin ruban
