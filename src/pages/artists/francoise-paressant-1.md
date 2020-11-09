@@ -28,6 +28,71 @@ biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa 
   \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les amis
   du Musée des Beaux Arts de Nantes "
 works:
+- title: CPJ 003
+  image: "/forestry/galerie-gaia-francoise-paressant-cpj-60x50-001.jpg"
+  technique: Collage papier japon teinté acrylique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: Œuvre encadrée caisse américaine bois naturel
+  price: 900
+  sold: false
+  contextual: true
+- title: CPJ 002
+  image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg"
+  technique: Collage papier japon collé acrylique
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Collage papier japon teinté acrylique
+  price: 600
+  sold: false
+  contextual: true
+- title: CPJ 001
+  image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-001.jpg"
+  technique: Collage papier japon teinté acrylique
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Œuvre encadrée caisse américaine bois naturel
+  price: 600
+  sold: false
+  contextual: true
+- title: 'CDC triptyque '
+  image: "/forestry/galerie-gaia-francoise-paressant-collage-papier-decoupe-cousu-triptyque-3x120x40.JPG"
+  technique: Collage papier découpé cousu
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: Triptyque de 3 bandes de 3 x 120 cm de hauteur X 40 cm de large
+  price: 4200
+  sold: false
+  contextual: true
+- title: CDC 002
+  image: "/forestry/galerie-gaia-francoise-paressant-cdc-20x20-002.jpeg"
+  technique: Collage découpé cousu
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: 'Œuvre encadrée dans caisse américaine noir mat '
+  price: 360
+  sold: false
+  contextual: true
 - title: CDC 001
   image: "/forestry/galerie-gaia-francoise-paressant-cdc-20x20-001.jpeg"
   technique: Collage découpé cousu
@@ -179,6 +244,10 @@ works:
   price: 10000
   sold: false
   contextual: true
-exhibitions: []
+exhibitions:
+- title: 'Galerie Chevalier '
+  location: 'Paris 25 rue de Bourgogne '
+  start: ''
+  end: ''
 
 ---
