@@ -144,17 +144,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Strates 27
-  image: "/forestry/galeriegaia@Seuil-07 @Versants-strates27-29.7x21cm10EX.jpg"
-  technique: Sérigraphie Edition en 10 exemplaires
-  dimensions:
-    height: 30
-    width: 20
-    depth: 
-  description: "Œuvre encadrée cadre aluminium chêne  \n2020"
-  price: 160
-  sold: false
-  contextual: true
 - title: Strates 28
   image: "/forestry/strate-28.jpg"
   technique: Sérigraphie  Edition en 10 exemplaires
@@ -164,24 +153,6 @@ works:
   description: Œuvre encadrée cadre aluminium chêne
   price: 180
   sold: false
-  contextual: true
-- title: Strates 32
-  image: "/forestry/galeriegaia@Seuil-04 @Versants-strates32-50x40cm.jpg"
-  technique: Sérigraphie Edition en 4 exemplaires
-  dimensions:
-    height: 50
-    width: 40
-  description: "Œuvre encadrée cadre standard chêne  \n2020"
-  price: 340
-  contextual: true
-- title: Strates 33
-  image: "/forestry/galeriegaia@Seuil-03 @Versants-strates33-50x40cm.jpg"
-  technique: Sérigraphie Edition en 8 exemplaires
-  dimensions:
-    height: 50
-    width: 40
-  description: Œuvre encadrée cadre standard chêne
-  price: 340
   contextual: true
 - title: Cimes 1
   image: "/forestry/galeriegaia@Seuil-09 @Versants-cimes1-40x30cm.jpg"
@@ -293,7 +264,7 @@ works:
   description: 16 exemplaires
   price: 420
   contextual: true
-- title: Installation murale
+- title: 'Fresque murale à l''Atelier Nantes '
   image: "/forestry/installation-murale.jpg"
   technique: ''
   dimensions:
@@ -305,15 +276,17 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Sérigraphie pour Gaïa
+- title: Gaïa
   image: "/forestry/serigraphie-pour-gaia.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie en 20 exemplaires '
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: "20 EXEMPLAIRES \nCOMMANDE POUR LES 40 ANS DU LIEU"
-  price: 
+  description: Commande faite par la galerie auprès de Versants pour fêter les [40
+    ans du lieu ](https://galeriegaia.fr/le-lieu/ "galerie arts pluriels  l'art s'affiche
+    ") en 2018
+  price: 80
   sold: false
   contextual: true
 redirect_from:

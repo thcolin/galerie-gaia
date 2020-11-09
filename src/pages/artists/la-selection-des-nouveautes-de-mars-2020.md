@@ -1,6 +1,6 @@
 ---
 template: artist
-title: idées cadeaux Noël Anniversaire
+title: Idées cadeaux Noël Anniversaire
 location: ''
 birth: "0"
 death: "0"
@@ -8,7 +8,7 @@ expose: true
 biography: ''
 exhibitions: []
 works:
-- title: 'Oh Oh Oh idées cadeaux '
+- title: 'Idées cadeaux '
   image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
   description: ''
   price: 0
@@ -42,6 +42,18 @@ works:
     Tual")'
   price: 2500
   contextual: false
+- title: Pierre Tual en situation
+  image: "/forestry/galerie-gaia-pierre-tual-es-1.jpg"
+  technique: Sculpture fer recuit au fou et céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: La brêche Opus 2 de Jacques Le Brusq
   image: "/forestry/galerie-gaia-lebrusq-la-breche-opus-2.jpg"
   technique: Huile sur papier
@@ -146,15 +158,15 @@ works:
   - Oeuvre sur papier
   styles:
   - abstrait
-- title: Cou-Rage 1 par ISTHME
-  image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
+- title: Deep Blue par ISTHME
+  image: "/forestry/20191008_151145.jpg"
   dimensions:
-    height: 76
-    width: 57
+    height: 146
+    width: 114
   description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "galerie gaia isthme")'
-  price: 750
-  contextual: true
-  technique: Collage
+  price: 3200
+  contextual: false
+  technique: 'Acrylique sur toile '
 - title: Diptyque en mon jardin de Elisabeth Wadecki
   image: "/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
   technique: acrylique et bâtons d'huile sur papier
@@ -165,15 +177,15 @@ works:
     "galerie gaia elisabeth wadecki")'
   price: 4000
   contextual: false
-- title: Dessin Ruban de Françoise Paressant
-  image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
+- title: Papier japon teinté sur feutre de Françoise Paressant
+  image: "/forestry/galerie-gaia-francoise-paressant-es-1.jpg"
   technique: Papier japon teinté
   dimensions:
     height: 50
     width: 40
   description: '[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
     "Francoise Paressant")'
-  price: 900
+  price: 560
   contextual: true
   fields:
   - Oeuvre sur papier
@@ -191,8 +203,8 @@ works:
   price: 160
   sold: false
   contextual: true
-- title: SEUIL - Strates 27
-  image: "/forestry/galerie-gaia-seuil-strate-20-50x70.jpg"
+- title: Versants
+  image: "/forestry/20200202_170746.jpg"
   technique: Sérigraphie
   dimensions:
     height: 70
@@ -202,7 +214,7 @@ works:
     "Jeronimo Tangui robert Gaetan chevrier ")'
   price: 450
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 fields:

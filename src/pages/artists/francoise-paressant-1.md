@@ -26,8 +26,50 @@ biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa 
   théorique.\n\n1983 3 Peintures ont été acquises par le [musée des Arts de Nantes
   ](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=PARESSANT
   \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les amis
-  du Musée des Beaux Arts de Nantes "
+  du Musée des Beaux Arts de Nantes  \n2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
+  \"galerie Chevalier tapisserie paris \") Paris "
 works:
+- title: 'Eclaircies en fin de journée '
+  image: "/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
+  technique: laine banche et toile teintée  tissées
+  fields:
+  - tapisserie
+  styles:
+  - Abstrait
+  dimensions:
+    height: 135
+    width: 128
+    depth: 
+  description: ''
+  price: 10000
+  sold: false
+  contextual: true
+- title: PJT/F 001
+  image: "/forestry/galerie-gaia-francoise-paressant-pjt-f-40x30-001.JPG"
+  technique: Papier japon teinté sur feutre
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Œuvre encadrée dans caisse américaine bois naturel
+  price: 560
+  sold: false
+  contextual: true
+- title: PJT/F 002
+  image: "/forestry/galerie-gaia-francoise-paressant-pjt-2-20x20-002.jpeg"
+  technique: 'Papier japon teinté sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: 'Œuvre encadrée dans caisse américaine bois naturel '
+  price: 360
+  sold: false
+  contextual: true
 - title: Blason 003
   image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
   technique: Acrylique sur feutre
@@ -266,21 +308,6 @@ works:
     depth: 
   description: "2020"
   price: 12000
-  sold: false
-  contextual: true
-- title: 'Eclaircies en fin de journée '
-  image: "/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
-  technique: laine banche et toile teintée  tissées
-  fields:
-  - tapisserie
-  styles:
-  - Abstrait
-  dimensions:
-    height: 135
-    width: 128
-    depth: 
-  description: ''
-  price: 10000
   sold: false
   contextual: true
 exhibitions:
