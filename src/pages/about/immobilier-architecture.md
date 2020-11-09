@@ -14,14 +14,14 @@ content:
     un promoteur référencé auprès du Ministère de la Culture dans le cadre du programme
     **\"1 immeuble 1 œuvre \"**.\n* Vous souhaitez intégrer un projet d'artiste dans
     les jardins, les halls d'entrée ou toutes autres parties communes pour valoriser
-    le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.\n\n##
-    3. Fresque Murale street-art \n\nOsez la fresque comme une déclaration d'identité
+    le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.\n\n![](/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n##
+    3. Fresque Murale street-art \n\n**Osez la fresque** comme une déclaration d'identité
     d'un lieu intérieur et extérieur. Le groupe Versant avec lequel je travaille sait
     intégrer identité et architecture d'un lieu. Fresques réalisées sur Nantes et
-    Pornichet  visibles sur rendez-vous.\n\n## 4. Artistes réferencé-e-s pour des
-    projets de promotion immobilière\n\n**Contactez-moi pour vous soumettre des noms
-    d'artistes** qui seront en capacité de travailler en mode projet et en amont avec
-    vous et les architectes.\n\n## "
+    Pornichet  **visibles sur rendez-vous.**\n\n## 4. Artistes réferencé-e-s pour
+    des projets de promotion immobilière\n\n**Contactez-moi pour vous soumettre des
+    noms d'artistes** qui seront en capacité de travailler en mode projet et en amont
+    avec vous et les architectes.\n\n## "
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
@@ -30,9 +30,12 @@ content:
   column: "![café le Molière Christophe Vinet architecte décorateur d'intérieur nantes
     loire atlantique](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
     \"Brasserie le Moliere Nantes \")\n\nBrasserie Café Le Molière à Nantes - Réalisation
-    Architecte décorateur  Christophe Vinet \n\n![](/forestry/masque.jpg)\n\nInstallation
-    “Le masque” de Kazy Usclef hall d’un immeuble de La Nantaise d'Habitation en 2021
-    (Hauteur 3m x Largeur 2,5m)"
+    Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()\n\n![](/forestry/masque.jpg)\n\nInstallation
+    “Le masque” de [Kazy Usclef](https://galeriegaia.fr/artists/kazy-usclef/ \"1%
+    artistique\") hall d’un immeuble de La Nantaise d'Habitation en 2021 (Hauteur
+    3m x Largeur 2,5m)\n\n![](/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nInstallation
+    Murale par [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/ \"1
+    immeuble 1 oeuvre\") "
 seo:
   title: Immobilier et Architecture - Galerie Gaïa, galerie d'art contemporain
   heading: Immobilier Architecture
