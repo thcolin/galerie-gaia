@@ -28,6 +28,45 @@ biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa 
   \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les amis
   du Musée des Beaux Arts de Nantes "
 works:
+- title: CDC 001
+  image: "/forestry/galerie-gaia-francoise-paressant-cdc-20x20-001.jpeg"
+  technique: Collage découpé cousu
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: 'Œuvre encadrée dans caisse américaine bois noir mat '
+  price: 360
+  sold: false
+  contextual: true
+- title: CDC 003
+  image: "/forestry/galerie-gaia-francoise-paressant-cd-60x40-003.jpg"
+  technique: Collage découpé cousu
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: œuvre encadrée dans caisse américaine bois naturel
+  price: 560
+  sold: false
+  contextual: true
+- title: A/F 005
+  image: "/forestry/galerie-gaia-francoise-paressant-a-f-50x50-005.jpg"
+  technique: Acrylique sur feutre
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: Œuvre encadrée dans caisson bois blanc
+  price: 800
+  sold: false
+  contextual: true
 - title: A/F 004
   image: "/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg"
   technique: 'Acrylique sur feutre '
