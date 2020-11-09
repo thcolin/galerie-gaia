@@ -18,6 +18,45 @@ biography: |-
 
   Dans la lignée de Supports Surfaces, le travail de Françoise Paressant est à la frontière du tissage et de la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi avec juste ce qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur théorique.
 works:
+- title: A/F 004
+  image: "/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Œuvre encadrée caisson bois blanc
+  price: 560
+  sold: false
+  contextual: true
+- title: A/F 002
+  image: "/forestry/galerie-gaia-francoise-paressant-a-f-30x30-002.jpg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Œuvre encadrée caisson bois blanc
+  price: 560
+  sold: false
+  contextual: true
+- title: A/F 001
+  image: "/forestry/galerie-gaia-francoise-paressant-a-f-30x30-001.jpg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Oeuvre encadrée montage caisson bois blanc
+  price: 560
+  sold: false
+  contextual: true
 - title: Dessin ruban
   image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
   technique: papier japon teintés
