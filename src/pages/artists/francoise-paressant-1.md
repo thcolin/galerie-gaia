@@ -9,14 +9,24 @@ location: ''
 birth: "1944"
 death: ''
 expose: true
-biography: |-
-  Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa première période de création textile plus classique s’arrête au milieu des années 1980.
-
-  Françoise Paressant  met alors entre parenthèses son œuvre tissée pendant une dizaine d’années, pour expérimenter (dessins, collages, pâte à papier), en toute liberté, c’est-à-dire sans les contraintes techniques que la tapisserie impose.
-
-  C’est véritablement dans ce laps de temps que son écriture va se mettre en place : un travail sur la matière et sur la couleur. Son travail, de plus en plus épuré, se concentre sur les lignes et les couleurs, une douzaine de teintes. Ce graphisme purifié est le résultat de recherches approfondies menées sur des «maquettes», mais aussi le fruit d’un heureux hasard. Forte de ces expérimentations, Françoise Paressant mène depuis, en parallèle, ses activités de peintre et de licière.
-
-  Dans la lignée de Supports Surfaces, le travail de Françoise Paressant est à la frontière du tissage et de la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi avec juste ce qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur théorique.
+biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa première
+  période de création textile plus classique s’arrête au milieu des années 1980.\n\nFrançoise
+  Paressant  met alors entre parenthèses son œuvre tissée pendant une dizaine d’années,
+  pour expérimenter (dessins, collages, pâte à papier), en toute liberté, c’est-à-dire
+  sans les contraintes techniques que la tapisserie impose.\n\nC’est véritablement
+  dans ce laps de temps que son écriture va se mettre en place : un travail sur la
+  matière et sur la couleur. Son travail, de plus en plus épuré, se concentre sur
+  les lignes et les couleurs, une douzaine de teintes. Ce graphisme purifié est le
+  résultat de recherches approfondies menées sur des «maquettes», mais aussi le fruit
+  d’un heureux hasard. Forte de ces expérimentations, Françoise Paressant mène depuis,
+  en parallèle, ses activités de peintre et de licière.\n\nDans la lignée de Supports
+  Surfaces, le travail de Françoise Paressant est à la frontière du tissage et de
+  la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi avec juste ce
+  qu’il faut d’élégance et de douceur picturales pour en faire oublier la rigueur
+  théorique.\n\n1983 3 Peintures ont été acquises par le [musée des Arts de Nantes
+  ](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=PARESSANT
+  \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les amis
+  du Musée des Beaux Arts de Nantes "
 works:
 - title: A/F 004
   image: "/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg"
