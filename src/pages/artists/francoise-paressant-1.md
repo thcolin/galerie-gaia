@@ -28,6 +28,45 @@ biography: "Née à Nantes en 1944 Françoise Paressant est une autodidacte, sa 
   \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les amis
   du Musée des Beaux Arts de Nantes "
 works:
+- title: Blason 003
+  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
+  technique: Acrylique sur feutre
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Œuvre encadrée
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 002
+  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: 'Œuvre encadrée '
+  price: 360
+  sold: false
+  contextual: true
+- title: Blason 001
+  image: "/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Œuvre encadrée
+  price: 320
+  sold: false
+  contextual: true
 - title: CPJ 003
   image: "/forestry/galerie-gaia-francoise-paressant-cpj-60x50-001.jpg"
   technique: Collage papier japon teinté acrylique
@@ -36,7 +75,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: Œuvre encadrée caisse américaine bois naturel
   price: 900
   sold: false
@@ -49,7 +88,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: Collage papier japon teinté acrylique
   price: 600
   sold: false
