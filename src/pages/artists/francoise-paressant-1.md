@@ -41,7 +41,7 @@ works:
   dimensions:
     height: 118
     width: 112
-    depth: 0
+    depth: 
   description: Accrochage libre par le haut pour un effet de souplesse comme une tapisserie
   price: 4800
   sold: false
@@ -327,6 +327,19 @@ works:
   price: 12000
   sold: false
   contextual: true
+- title: Portrait de Françoise Paressant
+  image: "/forestry/galerie-gaia-paressant-portrait.jpg"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 exhibitions:
 - title: 'Galerie Chevalier '
   location: 'Paris 25 rue de Bourgogne '
