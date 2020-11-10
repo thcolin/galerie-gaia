@@ -10,8 +10,8 @@ sections:
   path: src/pages/index.md
   label: Accueil
 - type: document
-  path: src/pages/inspiration.md
-  label: Inspiration
+  path: src/pages/catalogue.md
+  label: Catalogue
 - type: document
   path: src/pages/artists.md
   label: Artistes

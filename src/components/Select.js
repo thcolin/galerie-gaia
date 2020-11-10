@@ -132,7 +132,7 @@ const styles = {
   }
 }
 
-const Select = ({ label, value, onChange, options = [], disabled, isMulti, ...props }) => (
+const Select = ({ label, value, onChange, options = [], disabled, isMulti, isSearchable, ...props }) => (
   <div css={styles.element}>
     <label>{label}</label>
     <ReactSelect
@@ -142,7 +142,7 @@ const Select = ({ label, value, onChange, options = [], disabled, isMulti, ...pr
       onChange={onChange}
       options={options}
       isMulti={isMulti}
-      isSearchable={false}
+      isSearchable={isSearchable}
       disabled={disabled}
       styles={styles.select}
     />

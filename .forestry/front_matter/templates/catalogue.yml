@@ -1,0 +1,36 @@
+---
+label: Catalogue
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Titre
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
+  description: Description
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  description: Template
+  hidden: true
+  default: catalogue
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  description: SEO
+pages:
+- src/pages/catalogue.md

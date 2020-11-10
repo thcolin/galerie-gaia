@@ -44,7 +44,7 @@ const Contextual = ({ work, ...props }) => {
     <div {...props}>
       <button onClick={() => setOpen(true)}>
         <Icon children="couch" style={{ margin: '0 0.5rem 0 0' }} />
-        Voir l'oeuvre en contexte
+        Voir le rapport d’échelle
       </button>
       <div css={Contextual.styles.modal} hidden={!open} style={{ top: typeof window === 'undefined' ? 0 : window.scrollY }}>
         <div css={Contextual.styles.container}>

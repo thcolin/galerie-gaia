@@ -65,8 +65,8 @@ content:
     display: false
     placeholder: ''
 seo:
-  title: Art et fiscalité - Galerie Gaïa, galerie d'art contemporain
-  heading: Art et fiscalité
+  title: Défiscaliser - Galerie Gaïa, galerie d'art contemporain
+  heading: Défiscaliser
   type: website
   description: 'Défiscalisation art (acquisition, location, leasing) : Elisabeth Givre,
     directrice de la Galerie Gaïa, conseille les entreprises et professions libérales.'

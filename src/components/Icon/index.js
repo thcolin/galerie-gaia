@@ -9,6 +9,14 @@ import Informations from './Informations'
 import Send from './Send'
 import Check from './Check'
 import Loading from './Loading'
+import Certificate from './Certificate'
+import Advise from './Advise'
+import Camera from './Camera'
+import Happy from './Happy'
+import Delivery from './Delivery'
+import Lock from './Lock'
+import Phone from './Phone'
+import Palette from './Palette'
 
 const icons = {
   menu: Menu,
@@ -21,6 +29,14 @@ const icons = {
   send: Send,
   check: Check,
   loading: Loading,
+  certificate: Certificate,
+  advise: Advise,
+  camera: Camera,
+  happy: Happy,
+  delivery: Delivery,
+  lock: Lock,
+  phone: Phone,
+  palette: Palette,
 }
 
 const Icon = ({ children, ...props }) => {

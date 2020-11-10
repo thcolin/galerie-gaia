@@ -4,6 +4,7 @@ import { Redirect } from '@reach/router'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
+import Reinsurance from 'components/Reinsurance'
 import Contact from 'components/Contact'
 import Contextual from 'components/Contextual'
 import Image from 'components/Image'
@@ -115,12 +116,57 @@ const Artist = ({ location, ...props }) => {
                   {!!work.description && (
                     <RichText children={work.description} />
                   )}
+                  <br/>
+                  {!work.sold && (
+                    <>
+                      <Contact
+                        id="UCmdKCfm"
+                        method="buy"
+                        placeholder="Nous allons vous recontacter pour établir les détails de votre acquisition, n'hésitez pas à demander des renseignements supplémentaires !"
+                        toggle={true}
+                        inputs={[
+                          ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
+                            name,
+                            value: (
+                              typeof work[name] === 'object' ? JSON.stringify(work[name]) :
+                              name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${withPrefix(work.image)}` :
+                              work[name]
+                            ),
+                          })),
+                          {
+                            name: 'artist',
+                            value: frontmatter.title,
+                          },
+                        ]}
+                      />
+                     <hr />
+                    </>
+                  )}
                   {!!work.contextual && (
                     <Contextual work={work} />
                   )}
                   <Contact
                     id="PHr_SEkN0Pj2VLhcXtR5H"
-                    placeholder="Une demande de renseignement sur cette oeuvre ?"
+                    placeholder="Une hésitation, une question, une demande de renseignement sur cette oeuvre, vous souhaitez plus de photos ? Envoyez nous un message !"
+                    toggle={true}
+                    inputs={[
+                      ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
+                        name,
+                        value: (
+                          typeof work[name] === 'object' ? JSON.stringify(work[name]) :
+                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${withPrefix(work.image)}` :
+                          work[name]
+                        ),
+                      })),
+                      {
+                        name: 'artist',
+                        value: frontmatter.title,
+                      },
+                    ]}
+                  />
+                  <Contact
+                    id="66QKKrtv"
+                    method="phone"
                     toggle={true}
                     inputs={[
                       ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
@@ -142,6 +188,9 @@ const Artist = ({ location, ...props }) => {
             </div>
           </div>
         )}
+        <div css={Artist.styles.reinsurance}>
+          <Reinsurance />
+        </div>
         {!!frontmatter.biography && (
           <div css={Artist.styles.biography}>
             <label>Biographie</label>
@@ -249,6 +298,7 @@ Artist.styles = {
     },
   },
   work: {
+    flex: 1,
     padding: '0 1rem 0 0',
     '>div': {
       flex: 1,
@@ -278,7 +328,7 @@ Artist.styles = {
       '>form': {
         margin: '1rem 0 0 0',
         '>textarea': {
-          height: '4rem',
+          height: '6rem',
         },
       },
       '>button': {
@@ -309,6 +359,9 @@ Artist.styles = {
       fontSize: '0.875em',
       marginBottom: 0
     },
+  },
+  reinsurance: {
+    margin: '2rem 1rem 0',
   },
   biography: {
     padding: '0 1rem 1rem',

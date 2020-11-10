@@ -47,6 +47,7 @@ const Navigation = ({ pageContext, ...props }) => {
           <nav css={Navigation.styles.nav}>
             <ol css={Navigation.styles.list}>
               <li><Link to='/' activeStyle={{ textDecoration: 'underline' }}>Accueil</Link></li>
+              <li><Link to='/catalogue/' activeStyle={{ textDecoration: 'underline' }}>Catalogue</Link></li>
               <li><Link to='/artists/' activeStyle={{ textDecoration: 'underline' }}>Artistes</Link></li>
               <li><Link to='/actualites/' activeStyle={{ textDecoration: 'underline' }}>Actualités</Link></li>
               <li><Link to='/le-lieu/' activeStyle={{ textDecoration: 'underline' }}>Le Lieu</Link></li>

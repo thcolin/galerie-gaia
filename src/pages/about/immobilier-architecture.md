@@ -37,8 +37,8 @@ content:
     Murale par [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/ \"1
     immeuble 1 oeuvre\") "
 seo:
-  title: Immobilier et Architecture - Galerie Gaïa, galerie d'art contemporain
-  heading: Immobilier Architecture
+  title: Architecture - Galerie Gaïa, galerie d'art contemporain
+  heading: Architecture
   type: website
   description: Promotion immobilière, 1% charte un immeuble une œuvre, décoration
     d'intérieur, architecture, location d'œuvres d'art, fresques murales, street art...

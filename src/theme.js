@@ -1,7 +1,8 @@
 const colors = {
-  white: '#ffffff',
+  white: '#FFFFFF',
   black: '#1A1A1A',
-  silver: '#fefefe',
+  silver: '#FEFEFE',
+  smoke: '#F5F5F5',
   grey: '#CCCCCC',
   gray: '#3A3A3A',
   shadow: 'rgba(0, 0, 0, 0.5)',

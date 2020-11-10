@@ -44,8 +44,6 @@ const Options = ({ options, values, setValues, setPage, ...props }) => (
 
 Options.styles = {
   element: {
-    position: 'sticky',
-    top: '0',
     background: 'white',
     padding: '2em 0',
     margin: '0 0 2em',

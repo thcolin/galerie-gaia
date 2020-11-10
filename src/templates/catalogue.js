@@ -1,14 +1,22 @@
 import React, { useEffect, useMemo, useState, useRef } from 'react'
 import { Link } from 'gatsby'
+import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
+import 'pure-react-carousel/dist/react-carousel.es.css'
+import isMobile from 'is-mobile'
+import { css } from 'emotion'
 import usePagination from 'hooks/use-pagination'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
+import RichText from 'components/RichText'
+import Reinsurance from 'components/Reinsurance'
 import Icon from 'components/Icon'
 import Work from 'components/Work'
+import Image from 'components/Image'
 import Heading from 'components/Heading'
 import Options from 'components/Options'
+import shuffle from 'utils/shuffle'
 
-const Inspiration = ({ scrollPosition, ...props }) => {
+const Catalogue = ({ scrollPosition, ...props }) => {
   const { pageContext: { pages, frontmatter } } = props
   const ref = useRef(null)
   const [values, setValues] = useState((typeof history !== 'undefined' && history.state?.values) || {})
@@ -26,15 +34,40 @@ const Inspiration = ({ scrollPosition, ...props }) => {
     .reduce((acc, curr) => [...acc, ...(curr || [])], [])
   )), [])
 
-  const artists = useMemo(() => pages.filter(page => (
+  const artists = useMemo(() => shuffle(pages.filter(page => (
     page
     && page.frontmatter.template === 'artist'
     && !!page.frontmatter.expose
     && page.frontmatter.works.filter(work => !work.sold).length
     && !page.frontmatter.fields.includes('Séléction')
-  )), [])
+  )), new Date(new Date().setHours(0,0,0,0)).getTime()), [])
+
+  const carousel = useMemo(() => (artists
+    .map(page => page.frontmatter.works.filter(work => !work.sold)[0])
+    .filter(work => !!work)
+    .slice(0, 5)
+  ), [])
 
   const options = useMemo(() => ({
+    artists: {
+      type: 'select',
+      transform: (page, artists) => !artists.length ? page : ({
+        ...page,
+        frontmatter: {
+          ...page.frontmatter,
+          works: artists.map(artist => artist.value).includes(page.frontmatter.title) ? page.frontmatter.works : [],
+        },
+      }),
+      props: {
+        label: 'Artistes',
+        isMulti: true,
+        isSearchable: true,
+        options: artists.map(artist => ({
+          value: artist.frontmatter.title,
+          label: artist.frontmatter.title,
+        }))
+      }
+    },
     styles: {
       type: 'select',
       transform: (page, styles) => !styles.length ? page : ({
@@ -177,21 +210,46 @@ const Inspiration = ({ scrollPosition, ...props }) => {
         image={pieces[0]?.frontmatter?.works?.filter(work => !work.sold).shift()?.image}
         pageContext={props.pageContext}
       />
-      <section ref={ref} css={Inspiration.styles.element}>
+      <section ref={ref} css={Catalogue.styles.element}>
         <Heading>{frontmatter.seo.heading}</Heading>
-        {/* TODO: Add Carrousel */}
-        {/* TODO: <h1>Inspiration</h1> */}
-        {/* TODO: <p>Lorem Ipsum</p> */}
+        <CarouselProvider
+          isPlaying
+          infinite
+          interval={isMobile() ? 3000 : 5000}
+          touchEnabled={false}
+          dragEnabled={false}
+          totalSlides={carousel.length}
+          className={css(Catalogue.styles.carousel)}
+        >
+          <Slider>
+            {carousel.map((slide, index) => (
+              <Slide key={index} className={css(Catalogue.styles.slide)}>
+                <Image src={slide.image} />
+              </Slide>
+            ))}
+          </Slider>
+        </CarouselProvider>
+        <h1>{frontmatter.title}</h1>
+        <RichText children={frontmatter.description} />
+        <div css={Catalogue.styles.reinsurance}>
+          <Reinsurance />
+        </div>
+        {pieces.length && (
+          <small css={Catalogue.styles.resume}>
+            <code>
+              <strong>{entities.length}</strong> Artistes // <strong>{entities.reduce((acc, curr) => acc + curr.frontmatter.works.length, 0)}</strong> Oeuvres
+            </code>
+          </small>
+        )}
         <Options options={options} setPage={setPage} values={values} setValues={setValues} />
-        {/* TODO: Add Réassurence */}
-        <div css={Inspiration.styles.results}>
+        <div css={Catalogue.styles.results}>
           {pieces
             .map(artist => (
-              <article key={artist.relativePath} css={Inspiration.styles.artist}>
+              <article key={artist.relativePath} css={Catalogue.styles.artist}>
                 <label><Link to={artist.url}>{artist.frontmatter.title}</Link></label>
-                <div css={Inspiration.styles.row}>
-                  {artist.frontmatter.works.filter(work => !work.sold).map(work => (
-                    <div css={Inspiration.styles.work}>
+                <div css={Catalogue.styles.row}>
+                  {artist.frontmatter.works.filter(work => !work.sold).map((work, index) => (
+                    <div css={Catalogue.styles.work} key={index}>
                       <Work title={work.title} image={work.image} url={artist.url} state={{ work: work.title }} />
                     </div>
                   ))}
@@ -200,7 +258,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
             ))
           }
           {!pieces.length && (
-            <div css={Inspiration.styles.empty}>
+            <div css={Catalogue.styles.empty}>
               Désolé, aucune oeuvres ne correspond à vos critères pour le moment
             </div>
           )}
@@ -221,7 +279,7 @@ const Inspiration = ({ scrollPosition, ...props }) => {
   )
 }
 
-Inspiration.styles = {
+Catalogue.styles = {
   element: {
     flex: 1,
     padding: '2em',
@@ -239,7 +297,42 @@ Inspiration.styles = {
       },
     },
   },
+  carousel: {
+    height: '15rem',
+    width: '100%',
+    margin: '0 0 2rem',
+    '>div': {
+      height: '100%',
+      width: '100%',
+      '>div': {
+        height: '100%',
+        width: '100%',
+        '>ul': {
+          height: '100%',
+          width: '100%',
+          '>li': {
+            height: '100%',
+            width: '100%',
+          },
+        },
+      },
+    },
+  },
+  slide: {
+    img: {
+      height: '100%',
+      width: '100%',
+      objectFit: 'cover',
+    },
+  },
   results: {
+  },
+  resume: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: '1em 0',
+    textAlign: 'center',
   },
   empty: {
     display: 'flex',
@@ -267,6 +360,9 @@ Inspiration.styles = {
     width: '20em',
     padding: '2em',
   },
+  reinsurance: {
+    margin: '2rem 0 1rem 0',
+  }
 }
 
-export default Inspiration
+export default Catalogue

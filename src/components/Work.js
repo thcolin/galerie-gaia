@@ -31,24 +31,19 @@ Work.styles = {
     width: '100%',
     overflow: 'hidden',
     '>span': {
-      [theme.medias.small]: {
-        height: 'calc(100% - 3rem)',
-      },
+      height: 'calc(100% - 3rem)',
       '>img': {
         objectFit: 'cover',
       },
     },
     '>label': {
-      display: 'none',
+      display: 'block',
       textAlign: 'center',
       fontWeight: 600,
       padding: '1rem',
       overflow: 'hidden',
       textOverflow: 'ellipsis',
       whiteSpace: 'nowrap',
-      [theme.medias.small]: {
-        display: 'block',
-      }
     }
   },
   overlay: {

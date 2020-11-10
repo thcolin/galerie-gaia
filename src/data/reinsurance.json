@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visio",
+      "icon": "camera",
+      "content": "Rendez-vous par vidéo et montrez-moi votre projet"
+    },
+    {
+      "title": "Conseil",
+      "icon": "advise",
+      "content": "Recevez ma sélection adaptée à votre projet"
+    },
+    {
+      "title": "Simplicité",
+      "icon": "lock",
+      "content": "Procédez au paiement sécurisé ou dossier de leasing"
+    },
+    {
+      "title": "Livraison",
+      "icon": "delivery",
+      "content": "À domicile ou en Click & Collect"
+    },
+    {
+      "title": "Certifié",
+      "icon": "certificate",
+      "content": "Oeuvre originale avec certificat d'authenticité"
+    },
+    {
+      "title": "Sérénité",
+      "icon": "happy",
+      "content": "7 jours pour regarder si votre oeuvre est bien celle que vous recherchiez"
+    }
+  ]
+}

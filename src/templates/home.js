@@ -2,8 +2,8 @@ import React, { useState, useEffect, useMemo } from 'react'
 import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
 import 'pure-react-carousel/dist/react-carousel.es.css'
 import isMobile from 'is-mobile'
-import SEO from 'components/SEO'
 import { css } from 'emotion'
+import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import Image from 'components/Image'
 import Heading from 'components/Heading'
@@ -55,11 +55,16 @@ const Home = ({ ...props }) => {
           </Slider>
         </CarouselProvider>
       </section>
-      <div css={Home.styles.works}>
+      <section css={Home.styles.works}>
         <Work
           title={article.title}
           image={article.image}
           url="/actualites"
+        />
+        <Work
+          title="Catalogue"
+          image="/forestry/assets-catalogue.jpg"
+          url="/catalogue"
         />
         {!!selection && (
           <Work
@@ -69,19 +74,14 @@ const Home = ({ ...props }) => {
             state={{ work: selection.frontmatter.works[1].title }}
           />
         )}
-        <Work
-          title="Inspiration"
-          image="/forestry/assets-inspiration.jpg"
-          url="/inspiration"
-        />
-      </div>
+      </section>
     </Layout>
   )
 }
 
 Home.styles = {
   element: {
-    height: '80vh',
+    height: '70vh',
     width: '100%',
     transition: 'opacity ease-in-out 400ms',
   },
@@ -117,7 +117,7 @@ Home.styles = {
     justifyContent: 'space-between',
     height: '30%',
     fontSize: '0.875em',
-    margin: '0 1em',
+    margin: '2em',
     '>a': {
       margin: '2em 1em',
       height: '256px',
