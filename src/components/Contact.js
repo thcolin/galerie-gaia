@@ -26,7 +26,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
         {{
           buy: `Acquérir cette oeuvre`,
           message: `Poser une question`,
-          phone: `Être rappelé`,
+          phone: `Être appelé`,
         }[method]}
       </button>
       {toggle && toggled && (
