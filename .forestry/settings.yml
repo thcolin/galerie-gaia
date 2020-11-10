@@ -4,9 +4,14 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e3f397fe32af10019202ebc/webhook/forestry
 sections:
+- type: heading
+  label: Pages
 - type: document
   path: src/pages/index.md
   label: Accueil
+- type: document
+  path: src/pages/inspiration.md
+  label: Inspiration
 - type: document
   path: src/pages/artists.md
   label: Artistes
@@ -14,30 +19,37 @@ sections:
   path: src/pages/actualites.md
   label: Actualités
 - type: document
-  path: src/pages/inspiration.md
-  label: Inspiration
+  path: src/pages/le-lieu.md
+  label: Le Lieu
 - type: directory
   path: src/pages/about
-  label: À propos
+  label: Prestations
   create: all
   match: "**/*"
   templates:
   - about
+- type: heading
+  label: Bibliothèques
+- type: directory
+  path: src/pages/artists
+  label: Artistes
+  create: all
+  match: "**/*"
+  templates:
+  - artist
+- type: heading
+  label: Composants
 - type: document
-  path: src/pages/le-lieu.md
-  label: Le Lieu
+  path: src/data/reinsurance.json
+  label: Réassurance
+  match: "**/*"
+- type: heading
+  label: Configuration
 - type: document
   path: site-metadata.json
   label: Informations
   templates:
   - config
-- type: directory
-  path: src/pages/artists
-  label: Les artistes
-  create: all
-  match: "**/*"
-  templates:
-  - artist
 upload_dir: static/forestry
 public_path: "/forestry"
 front_matter_path: ''
