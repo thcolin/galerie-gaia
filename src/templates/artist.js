@@ -243,6 +243,7 @@ Artist.styles = {
   carousel: {
     display: 'flex',
     flexDirection: 'column',
+    alignSelf: 'flex-start',
     minHeight: 'calc(50vh + 7rem)',
     padding: '1rem 0',
     transition: 'opacity ease-in-out 400ms',
