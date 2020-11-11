@@ -42,7 +42,6 @@ sections:
 - type: document
   path: src/data/reinsurance.json
   label: Réassurance
-  match: "**/*"
 - type: heading
   label: Configuration
 - type: document

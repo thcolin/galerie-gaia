@@ -1,8 +1,15 @@
 ---
 template: catalogue
-title: Catalogue
-description:
-  "Qui deserunt non laborum et dolor ipsum excepteur eiusmod consectetur ipsum aliqua. Velit dolor labore dolor consectetur ea occaecat ea id. Dolor fugiat ea sunt cillum sint ex adipisicing exercitation in adipisicing aliqua dolor. Duis fugiat consectetur labore do anim laborum cillum velit deserunt aute culpa fugiat amet consectetur. Ipsum est incididunt nulla ipsum laborum esse velit fugiat Lorem enim adipisicing consectetur anim sit.\n\nAdipisicing reprehenderit amet ipsum labore et nostrud tempor non eu reprehenderit. Reprehenderit quis non ad cupidatat ipsum voluptate. Minim sint deserunt ad veniam fugiat ipsum dolor cillum. Non deserunt officia anim duis reprehenderit. Sint dolore quis in in tempor laboris qui velit. Amet laboris occaecat nisi tempor amet anim laboris mollit deserunt amet."
+title: Le Catalogue
+description: "# Essayez une œuvre chez soi !\n\n**Oui mais laquelle ?   \n**Ma sélection
+  s'est faite sur la **force de l'émotion** qui rend l’œuvre d'un artiste évidente.
+  **Impossible de l'oublier et de s'en défaire !**  \nC'est donc très personnel un
+  choix, ça se partage sans pour autant faire consensus, et alors ! **Une œuvre comme
+  un manifeste de ce nous sommes.**\n\n  \nPensez à **ce que vous aimez** comme un
+  univers plutôt abstrait ou figuratif et laissez-vous guider par des choix techniques,
+  de format et de budget.  \n**70 artistes +700 œuvres** sont dans ce catalogue qui
+  va stimuler votre curiosité. Les œuvres vendues n'apparaissent plus sur ce site
+  qui est le miroir de ma galerie.  \nEt pour ceux qui croient **au hasard, bon vagabondage...**"
 seo:
   title: Catalogue - Galerie Gaïa
   heading: Trouvez de l'inspiration parmis nos artistes
