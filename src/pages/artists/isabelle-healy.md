@@ -4,8 +4,8 @@ title: 'Healy Isabelle '
 location: ''
 fields:
 - Sculpture
-birth: "0"
-death: "0"
+birth: ''
+death: ''
 expose: true
 biography: |-
   Isabelle Healy est née en 1967  à Paris.
@@ -55,7 +55,7 @@ works:
   sold: false
   contextual: false
 - title: Les âmes sœurs
-  image: "/forestry/_dsc9628.JPG"
+  image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg"
   technique: Bronze en 8 exemplaires + 4EA
   dimensions:
     height: 42
@@ -65,7 +65,7 @@ works:
   price: 3200
   contextual: false
 - title: Les âmes sœurs
-  image: "/forestry/_dsc9637.JPG"
+  image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-f.jpg"
   technique: Bronze
   dimensions:
     height: 42
