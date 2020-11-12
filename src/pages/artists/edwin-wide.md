@@ -4,6 +4,7 @@ title: Edwin Wide
 location: ''
 fields:
 - Street art
+- Photographie
 birth: "0"
 death: "0"
 expose: true
@@ -25,9 +26,9 @@ biography: "Depuis son enfance, Wide est fasciné par les espaces abandonnés, c
   de notre existence. »\nFrançois-René de Chateaubriand"
 exhibitions: []
 works:
-- title: 'Abandoned place #1'
-  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg"
-  technique: Photographie
+- title: 'Abandoned place #4'
+  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg"
+  technique: 'Photographie tirage en 10 exemplaires '
   fields:
   - Photographie
   styles:
@@ -36,8 +37,50 @@ works:
     height: 50
     width: 70
     depth: 0
-  description: ''
-  price: 0
+  description: 'Tirage sur dibond encadrement en caisse américaine '
+  price: 500
+  contextual: true
+- title: 'Abandoned place #3'
+  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg"
+  technique: 'Photographie tirage en 10 exemplaires '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 'Tirage sur dibond encadrement en caisse américaine '
+  price: 500
+  contextual: true
+- title: 'Abandoned place #2'
+  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg"
+  technique: 'Photographie tirage en 10 exemplaires '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 'Tirage sur dibond encadrement en caisse américaine '
+  price: 500
+  contextual: true
+- title: 'Abandoned place #1'
+  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg"
+  technique: 'Photographie en 10 exemplaires '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 'Tirage sur dibond encadrement en caisse américaine '
+  price: 500
   contextual: true
 - title: 2/04/68
   image: "/forestry/20468.jpg"
