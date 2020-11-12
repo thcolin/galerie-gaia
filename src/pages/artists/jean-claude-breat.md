@@ -32,7 +32,7 @@ works:
     height: 180
     width: 200
     depth: 
-  description: ''
+  description: vendue
   price: 
   sold: false
   contextual: true
@@ -87,7 +87,7 @@ works:
     height: 200
     width: 200
     depth: 
-  description: ''
+  description: disponible mais non visible à la galerie
   price: 
   sold: false
   contextual: false
