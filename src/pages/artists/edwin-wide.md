@@ -40,20 +40,6 @@ works:
   description: 'Tirage sur dibond encadrement en caisse américaine '
   price: 500
   contextual: true
-- title: 'Abandoned place #3'
-  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg"
-  technique: 'Photographie tirage en 10 exemplaires '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 50
-    width: 70
-    depth: 0
-  description: 'Tirage sur dibond encadrement en caisse américaine '
-  price: 500
-  contextual: true
 - title: 'Abandoned place #2'
   image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg"
   technique: 'Photographie tirage en 10 exemplaires '
@@ -130,6 +116,32 @@ works:
   price: 1500
   sold: false
   contextual: true
+- title: 'Abandoned place #3'
+  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg"
+  technique: 'Photographie tirage en 10 exemplaires '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 'Tirage sur dibond encadrement en caisse américaine '
+  price: 500
+  contextual: true
+- title: Fresque Nantes Rue Arche Sèche
+  image: "/forestry/galerie-gaia-edwin-wide-fresque-arche-seche-nantes.jpg"
+  technique: Fresque
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: false
 - title: Edwin Wide
   image: "/forestry/edwin-wide.jpg"
   technique: ''
