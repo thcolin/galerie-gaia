@@ -247,26 +247,6 @@ works:
   - Photographie
   styles:
   - Figuratif
-- title: Mer 3
-  image: "/forestry/mariebathellier-mer3-22x22-160.jpeg"
-  technique: pigments acryliques sur papier photographique mat 310g
-  dimensions:
-    height: 22
-    width: 22
-    depth: 
-  description: |-
-    Tirage photographique plongé dans des bains pigmentaires.Superposition de deux paysages, l’un photographié, l’autre peint par infusions successives. Confusion entre les deux disciplines, écho aux daguerréotypes, aux bains révélateurs. Jeux de voilages partiels poudrés, transparents, irisés ou pailletés.
-
-    Ode aux bains, aux immersions de nos rêveries.
-
-    Œuvre 10x13cm encadrée baguette chêne massif 22 x 22 cm
-  price: 160
-  sold: false
-  contextual: true
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
 - title: Rivière
   image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
   technique: Rivière

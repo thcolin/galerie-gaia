@@ -11,11 +11,12 @@ content:
     peuvent être **boostées par l'installation d’œuvres d'artistes** qui améliorent
     la créativité et stimulent l'esprit coopératif.\n\nAprès la définition de votre
     projet, je vous accompagne dans chaque étape :\n\n* **Sélection d’œuvres disponibles
-    dans le catalogue sur le site** de la galerie (photos - sérigraphies - sculptures-
-    peintures de 50€ à...)\n* **Sourcing d’œuvres spécifiques** selon vos critères
-    de style et de budget\n* **Gestion d'un projet de création d'une fresque murale**
-    pour vos locaux en intérieur ou extérieur par un artiste graffeur (street-art),
-    en faisant participer vos équipes  ([rubrique Événementiel](https://galeriegaia.fr/about/evenementiel/
+    dans le** [**catalogue**](https://galeriegaia.fr/catalogue/ \"catalogue galerie
+    gaia\") **sur le site** de la galerie (photos - sérigraphies - sculptures- peintures
+    de 50€ à...)\n* **Sourcing d’œuvres spécifiques** selon vos critères de style
+    et de budget\n* **Gestion d'un projet de création d'une fresque murale** pour
+    vos locaux en intérieur ou extérieur par un artiste graffeur (street-art), en
+    faisant participer vos équipes  ([rubrique Événementiel](https://galeriegaia.fr/about/evenementiel/
     \"fresque mural street art\"))\n* **Réalisation d'une installation** visuelle,
     sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage de votre
     entreprise...([rubrique architecture)](https://galeriegaia.fr/about/immobilier-architecture/
