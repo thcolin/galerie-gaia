@@ -25,6 +25,20 @@ biography: "Depuis son enfance, Wide est fasciné par les espaces abandonnés, c
   de notre existence. »\nFrançois-René de Chateaubriand"
 exhibitions: []
 works:
+- title: 'Abandoned place #1'
+  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg"
+  technique: Photographie
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: 2/04/68
   image: "/forestry/20468.jpg"
   technique: Mixte sur toile
