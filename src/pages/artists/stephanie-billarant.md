@@ -56,6 +56,19 @@ exhibitions:
   start: "2015"
   end: "2015"
 works:
+- title: Ville rêvée N°22
+  image: "/forestry/galerie-gaia-stephanie-billarant-ville-reveen-22.jpeg"
+  technique: Création photographique édition en 30 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 120
+    depth: 0
+  description: '2020 création pour l''exposition Nantes Regards d''artistes organisée
+    par les Amis du musée de Nantes '
+  price: 1350
+  contextual: true
 - title: Ville rêvée n°20
   image: "/forestry/galerie-gaia-stephanie-billarant-ville-revee-n20.jpeg"
   dimensions:

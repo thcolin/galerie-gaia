@@ -66,12 +66,13 @@ works:
   contextual: true
 - title: Mural 11
   image: "/forestry/mural 11 compressions 500x200 15000 € .jpg"
-  technique: Compressions
+  technique: 'Compressions '
   dimensions:
     height: 0
     width: 0
-  description: "Installation 2m hauteur x 5m largeur  \n15000€"
-  price: 0
+  description: Installation de 11 pièces  selon le plan d'accrochage le gabarit total
+    est de 2m hauteur x 5m largeur
+  price: 15000
   contextual: false
 - title: Compression oxydée
   image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
