@@ -36,7 +36,7 @@ biography: |-
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
-- title: Cubes pliés
+- title: Cube plié Or
   image: "/forestry/galerie-gaia-damie-hamon-daha-cube huilé.jpg"
   technique: Cube en chêne massif et feuille d'or
   dimensions:
@@ -45,19 +45,19 @@ works:
     depth: 29
   description: "Conçu comme une stèle, un tabouret, un chevet si on l'empile il devient
     brancusien ....à l'infini   \nPersonnellement je l'aime pour ce qu'il est"
-  price: 680
+  price: 850
   sold: false
   contextual: false
-- title: Cubes pliés
+- title: Cube plié Or
   image: "/forestry/cubes-plies.jpg"
   technique: bois massif peint
   dimensions:
     height: 28
     width: 28
     depth: 39
-  description: "Il se vend seul \nmais additionnés entre eux ils se complètent pour
-    créer une table \nbrut 500€TTC\nhuilé 580€TTC\npeint 600€TTC\nOr 690€TTC"
-  price: 
+  description: Il se vend seul mais additionnés entre eux ils se complètent pour créer
+    une table brut 500€TTC huilé 580€TTC peint 600€TTC Or 850€TTC
+  price: 850
   sold: false
   contextual: false
 - title: Fauteuil Ellipse
