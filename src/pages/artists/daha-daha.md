@@ -36,6 +36,18 @@ biography: |-
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
+- title: Cube plié chêne brut
+  image: "/forestry/galeriegaia-daha-cube-chene-brut.jpg"
+  technique: 'cube en chêne massif brut '
+  fields: []
+  styles: []
+  dimensions:
+    height: 39
+    width: 29
+    depth: 29
+  description: ''
+  price: 500
+  contextual: true
 - title: Cube plié Or
   image: "/forestry/galerie-gaia-damie-hamon-daha-cube huilé.jpg"
   technique: Cube en chêne massif et feuille d'or
