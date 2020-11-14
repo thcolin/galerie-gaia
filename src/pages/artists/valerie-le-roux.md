@@ -9,10 +9,7 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
-  ETE 2018 EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
-  RETROUVEZ DES CERAMIQUES ET DES SERIGRAPHIES EN EXCUSIVITE
-
-  Xavier de Jarcy - TELERAMA Novembre 2016
+  **Xavier de Jarcy - TELERAMA** Novembre 2016
 
   "Concilier inspiration régionale et esprit contemporain, ce n'est pas si fréquent. Valérie Leroux y parvient.
 
@@ -20,8 +17,10 @@ biography: |-
   Alors en sérigraphie ou sur une céramique ce regard efficace et si poétique sur notre bord de mer, vous permettra d'installer un bol d'air frais au-delà de notre belle Bretagne.
   La modération du trait n'est pas synonyme de minimalisme dans ce travail qui met la flore en mouvement.
 
-  Et les sérigraphies sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie LEROUX
-exhibitions: []
+  Et les sérigraphies sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie LE ROUX
+exhibitions:
+- title: EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
+  start: Eté 2018
 works:
 - title: Flacon noir
   image: "/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg"
