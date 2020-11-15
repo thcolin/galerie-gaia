@@ -1,9 +1,9 @@
 ---
 template: catalogue
 title: Le Catalogue
-description: "# Essayez une œuvre chez soi!\n\n\\** Oui mais laquelle?  \n\\** Ma
+description: "# Essayez une œuvre chez soi !\n\n\\** Oui mais laquelle ?  \n\\** Ma
   sélection s'est faite sur la **force de l'émotion** qui rend l'œuvre d'un artiste
-  évidente. **Impossible de l'oublier et de s'en défaire!**  \nC'est donc très personnel
+  évidente. **Impossible de l'oublier et de s'en défaire !**  \nC'est donc très personnel
   un choix, ça se partage sans **pour autant faire consensus, et alors! Une œuvre
   comme un manifeste de ce que nous sommes.**\n\nPensez à **ce que vous aimez**, une
   sculpture, une peinture...dans un univers plutôt abstrait ou figuratif et laissez-vous

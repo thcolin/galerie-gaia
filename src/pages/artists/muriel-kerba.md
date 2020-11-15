@@ -9,13 +9,13 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "Aborder le travail de Muriel Kerba relève de la spéléologie.  \nDe l’étude
-  d’un terrain, sa consistance, sa couleur, sa texture,  \nsa composition, on pourrait
-  dire de même de ses œuvres.  \nDe l’étude des couches d’un sol, leur datation,
-  leur épaisseur, leur étendue, on pourrait faire de même avec son processus de
-  travail.\n\nL’accumulation de couches successives qu’elles soient d’encre, de papier
-  ou de peinture est une constante dans ses recherches. Ce qui implique une notion
-  de temps. Il faut laisser à chaque étape de la création sa propre fermentation.\n\nAu
+biography: "# Muriel Kerba\n\nAborder le travail de Muriel Kerba relève de la spéléologie.
+  \ \nDe l’étude d’un terrain, sa consistance, sa couleur, sa texture,  \nsa composition,
+  on pourrait dire de même de ses œuvres.  \nDe l’étude des couches d’un sol, leur
+  datation, leur épaisseur, leur étendue, on pourrait faire de même avec son processus
+  de travail.\n\nL’accumulation de couches successives qu’elles soient d’encre, de
+  papier ou de peinture est une constante dans ses recherches. Ce qui implique une
+  notion de temps. Il faut laisser à chaque étape de la création sa propre fermentation.\n\nAu
   travers de cette idée de fermentation, on retrouve un lien direct avec  \nune autre
   composante du travail de Muriel Kerba: le végétal. Feuille ou racine mais  \navec
   une nette prédilection pour cette dernière. Le caché plutôt que le visible,
