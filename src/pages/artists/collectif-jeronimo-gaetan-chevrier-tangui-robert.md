@@ -93,8 +93,8 @@ works:
   description: ''
   price: 170
   contextual: true
-- title: Failles 11
-  image: "/forestry/galerie-gaia-projets-versants-failles-11-30x40.jpg"
+- title: Strates 35
+  image: "/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg"
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -104,7 +104,7 @@ works:
   price: 280
   contextual: true
 - title: Failles 6
-  image: "/forestry/galerie-gaia-projets-versants-failles-6-30x40.jpg"
+  image: "/forestry/galerie-gaia-versants-strates-36-30x40cm.jpg"
   dimensions:
     height: 40
     width: 30
