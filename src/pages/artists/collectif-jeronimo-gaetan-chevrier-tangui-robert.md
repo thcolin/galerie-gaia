@@ -7,27 +7,28 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "Vidéo de l'[Interview Décadrée de la Galerie Gaïa](https://www.youtube.com/watch?v=DxkvbjnGL4E
-  \"interview galerie gaia tangui robert jerome maillet gaetan chevrier\") : Projets
-  Versants\n\nVERSANTS\nDessin, gravure, sérigraphie, mural & sculpture.\n\n\" Tangui
-  Robert, Jérôme Maillet et Gaëtan Chevrier se sont réunis pour créer ensemble autour
-  d’un espace construit et façonné par l’homme : La carrière.Depuis leur rencontre,
-  ils explorent différents lieux d’extractions. Autant de manières, de matières, de
-  paysages, d’outils que de façon d’apprivoiser ces espaces et ces minéraux. Une carrière
-  de cuivre ou une carrière de marbre ne forme pas les mêmes contours, n’additionne
-  pas les mêmes empreintes humaines.  \nCes trois artistes ont trouvé une direction
-  commune : extraire un maximum de matière à penser, transformer, superposer, graver,
-  coloriser, échanger, calquer, dessiner, photographier, sculpter.  \nEn acceptant
-  de laisser retoucher leur production par un autre des artistes du trio, les œuvres
-  sont dénaturées elles aussi, coupées, recadrées, parfois sorties de leurs contextes.
-  Certaines œuvres sont signées à trois mains, d’autres en duo ou plus traditionnellement
-  sont des productions personnelles.  \nL’attraction du vide dans l’accumulation des
-  textures et volumes fait surgir des équations pertinentes, des espaces parallèles.
-  \ \n_L’extraction de la matière grise sur le papier questionne l’extraction de la
-  matière organique de son sol.\"  \n_Claire Burban\n\nTangui Robert, architecte plasticien,
-  Gaëtan Chevrier, photographe et Jérôme Maillet, artiste et sérigraphe, sont tous
-  trois Nantais et se sont réunis par affinité artistique pour produire ensemble et
-  croiser leur production respective."
+biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de l'[Interview
+  Décadrée de la Galerie Gaïa](https://www.youtube.com/watch?v=DxkvbjnGL4E \"interview
+  galerie gaia tangui robert jerome maillet gaetan chevrier\") : Projets Versants\n\nVersants
+  est le collectif de ces 3 artistes qui travaillent ensemble pour proposer  Dessin,
+  gravure, sérigraphie, mural & sculpture.\n\n**\"Tangui Robert, Jérôme Maillet et
+  Gaëtan Chevrier**   \nse sont réunis pour créer ensemble autour d’un espace construit
+  et façonné par l’homme : la carrière.  \nDepuis leur rencontre, ils explorent différents
+  lieux d’extractions. Autant de manières, de matières, de paysages, d’outils que
+  de façon d’apprivoiser ces espaces et ces minéraux. Une carrière de cuivre ou une
+  carrière de marbre ne forme pas les mêmes contours, n’additionne pas les mêmes empreintes
+  humaines.  \nCes trois artistes ont trouvé une direction commune : extraire un maximum
+  de matière à penser, transformer, superposer, graver, coloriser, échanger, calquer,
+  dessiner, photographier, sculpter.  \nEn acceptant de laisser retoucher leur production
+  par un autre des artistes du trio, les œuvres sont dénaturées elles aussi, coupées,
+  recadrées, parfois sorties de leurs contextes. Certaines œuvres sont signées à trois
+  mains, d’autres en duo ou plus traditionnellement sont des productions personnelles.
+  \ \nL’attraction du vide dans l’accumulation des textures et volumes fait surgir
+  des équations pertinentes, des espaces parallèles.  \n_L’extraction de la matière
+  grise sur le papier questionne l’extraction de la matière organique de son sol.\"
+  \ \n_Claire Burban\n\nTangui Robert, architecte plasticien, Gaëtan Chevrier, photographe
+  et Jérôme Maillet, artiste et sérigraphe, sont tous trois Nantais et se sont réunis
+  par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
 - title: Versants Fresque I
@@ -55,13 +56,13 @@ works:
   contextual: false
 - title: Strates 17
   image: "/forestry/galerie-gaia-jeronimo-tangui-robert-failles17-40x30cm-jpeg.jpg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie en 2 exemplaires '
   dimensions:
     height: 40
     width: 30
     depth: 0
   description: ''
-  price: 270
+  price: 320
   contextual: true
 - title: Strates 32
   image: "/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg"
@@ -95,7 +96,7 @@ works:
   contextual: true
 - title: Strates 35
   image: "/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg"
-  technique: Sérigraphie
+  technique: 'Sérigraphie en 19 exemplaires '
   dimensions:
     height: 40
     width: 30
@@ -103,7 +104,7 @@ works:
   description: ''
   price: 280
   contextual: true
-- title: Failles 6
+- title: Strates 36
   image: "/forestry/galerie-gaia-versants-strates-36-30x40cm.jpg"
   dimensions:
     height: 40
@@ -112,7 +113,7 @@ works:
   description: ''
   price: 280
   contextual: true
-  technique: Sérigraphie
+  technique: 'Sérigraphie édition en 15 exemplaires '
 - title: Latence 05
   image: "/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.jpg"
   dimensions:
