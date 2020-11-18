@@ -7,12 +7,23 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  L'artiste est née en 1976 à Chateaurenard, dans les Bouches du Rhône. A la suite d'un BAC Arts Plastiques à Saint-Nazaire en 1997, elle valide un Deug d'Histoire de l'Art à Nantes de 1997 à 1999. Marie Vandooren accumulera les expériences collectives dans les ateliers, tels qu'aux Ateliers de l'Usure et de Bitche.
-
-  "En peinture, j’interroge notre rapport intime à la ville. A la manière d’un collage je joue sur les échelles et les proportions. Les espaces urbains reproduits sont des décors, abritant des humains en errance, des personnages inexpressifs occupés à leurs pensées, dans une posture intime. Mis à nu et surexposés dans l’espace, les personnages deviennent vulnérables, enfermés dans des univers qui paraissent clos. Ils errent sans but, s’ennuient, vaquent à des occupations vaines.  Il s’agit de mettre en avant l’absurdité de nos sociétés modernes dans le décor de la ville, là où tout se montre mais où tout y est faux. Le dedans et le dehors se confrontent laissant apparaître la solitude des figures humaines. Mon traitement, proche de celui de la bande dessinée, tend à montrer combien les villes sont devenues toutes semblables, des lieux vides où l’homme a de plus en plus de mal à trouver son identité. Enfin, il est aussi question de la rêverie propre à l’enfance. Ces moments où rien ne se produit, où le corps est en attente, comme en suspens."
-
-  Marie Vandooren
+biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge notre
+  rapport intime à la ville. A la manière d’un collage elle joue sur les échelles
+  et les proportions. Les espaces urbains reproduits sont des décors, abritant des
+  humains en errance, des personnages inexpressifs occupés à leurs pensées, dans une
+  posture intime. Mis à nu et surexposés dans l’espace, les personnages deviennent
+  vulnérables, enfermés dans des univers qui paraissent clos. Ils errent sans but,
+  s’ennuient, vaquent à des occupations vaines.  Il s’agit de mettre en avant l’absurdité
+  de nos sociétés modernes dans le décor de la ville, là où tout se montre mais où
+  tout y est faux. Le dedans et le dehors se confrontent laissant apparaître la solitude
+  des figures humaines.   \nSon traitement, proche de celui de la bande dessinée,
+  tend à montrer combien les villes sont devenues toutes semblables, des lieux vides
+  où l’homme a de plus en plus de mal à trouver son identité. Enfin, il est aussi
+  question de la rêverie propre à l’enfance. Ces moments où rien ne se produit, où
+  le corps est en attente, comme en suspens.\"\n\n**Texte de Marie Vandooren**\n\nBAC
+  Arts Plastiques à Saint-Nazaire en 1997  \nDeug d'Histoire de l'Art à Nantes de
+  1997 à 1999   \nExpériences collectives dans les ateliers, tels qu'aux Ateliers
+  de l'Usure et de Bitche."
 exhibitions: []
 works:
 - title: 'Contraste #4'
