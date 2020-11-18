@@ -36,6 +36,41 @@ biography: "# Georges Rousse \n\nL'artiste né en 1947 à Paris est reconnu inte
   comme Membre associé de l'Académie Royale de Belgique"
 exhibitions: []
 works:
+- title: Esch sur Alzette
+  image: "/forestry/galerie-gaia-georges-rousse_esch-sur-alzette_2009-2019_galerie-catherine-putman.jpeg"
+  technique: Photographie épreuve pigmentaire
+  fields: []
+  styles: []
+  dimensions:
+    height: 92
+    width: 112
+    depth: 0
+  description: 'Tirage en 30 exemplaires '
+  price: 3200
+  contextual: true
+- title: Château des Alpilles St Rémy de Provence
+  image: "/forestry/galerie-gaia-georges-rousse_chateau-des-alpilles-saint-remy-_2010-2019_galerie-catherine-putman-1.jpeg"
+  technique: Photographie tirage pigmentaire
+  dimensions:
+    height: 92
+    width: 112
+    depth: 
+  description: 'Tirage en 30 exemplaires '
+  price: 3200
+  sold: false
+  contextual: true
+- title: Bourgoin Jallieu
+  image: "/forestry/galerie-gaia-georges-rousse_bourgoin-jallieu_2011-2019_galerie-catherine-putman-_1a.jpeg"
+  technique: 'Photographie épreuve pigmentaire '
+  fields: []
+  styles: []
+  dimensions:
+    height: 112
+    width: 92
+    depth: 0
+  description: Tirage en 30 exemplaires
+  price: 3200
+  contextual: true
 - title: Heidelberg
   image: "/forestry/heidelberg.jpg"
   technique: Photographie épreuve pigmentaire
@@ -65,34 +100,12 @@ works:
     height: 112
     width: 92
     depth: 
-  description: 30 exemplaires
+  description: Tirage en 30 exemplaires
   price: 3200
   sold: false
   contextual: true
 - title: Bordeaux
   image: "/forestry/bordeaux.jpg"
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 112
-    width: 92
-    depth: 
-  description: tirage à 30 exemplaires
-  price: 3200
-  sold: false
-  contextual: true
-- title: Mumbai
-  image: "/forestry/mumbai.jpg"
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 112
-    width: 92
-    depth: 
-  description: " tirage à 30 exemplaires"
-  price: 3200
-  sold: false
-  contextual: true
-- title: Séoul
-  image: "/forestry/seoul.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 92
@@ -102,6 +115,22 @@ works:
   price: 3200
   sold: false
   contextual: true
+- title: Mumbai
+  image: "/forestry/mumbai.jpg"
+  technique: Photographie épreuve pigmentaire
+  dimensions:
+    height: 92
+    width: 112
+    depth: 
+  description: " tirage à 30 exemplaires"
+  price: 3200
+  sold: false
+  contextual: true
+- title: Séoul
+  image: "/forestry/seoul.jpg"
+  dimensions:
+    height: 112
+    width: 92
 - title: Genève
   image: "/forestry/geneve.jpg"
   technique: Photographie épreuve pigmentaire
