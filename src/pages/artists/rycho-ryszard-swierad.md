@@ -8,13 +8,38 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Ryszard Swierad - Rycho
+
   L'artiste fut diplômé de l'Académie des Beaux-Arts de Wroclaw (Pologne).
 
-  Après une remise en question de sa vie, Richard Swierad a décidé de se consacrer entièrement à la création artistique. Il compose d'abord une « matrice », « image-sensation », à partir d'une ou plusieurs photographies  qu'il a prises lui-même. A partir de là, avec des outils numériques, il met en mouvement le geste du peintre qu'il a toujours été.
+  Après une remise en question de sa vie, Rycho a décidé de se consacrer entièrement à la création artistique. Il compose d'abord une « matrice », « image-sensation », à partir d'une ou plusieurs photographies  qu'il a prise lui-même. A partir de ses images avec des outils numériques, il met en mouvement le geste du peintre qu'il a toujours été.
 
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: 2 femmes à New York
+  image: "/forestry/galeriegaia-rycho-2femmes NY-70X50.jpg"
+  technique: 'photographie en 21 exemplaires '
+  fields: []
+  styles: []
+  dimensions:
+    height: 96
+    width: 70
+    depth: 0
+  description: ''
+  price: 600
+  contextual: true
+- title: CC 0013
+  image: "/forestry/cc-0013.jpg"
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
+  dimensions:
+    height: 100
+    width: 70
+    depth: 
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
 - title: Albert
   image: "/forestry/albert.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
@@ -26,16 +51,6 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: 2 femmes à NY
-  image: "/forestry/galeriegaia-rycho-2femmes NY-70X50.jpg"
-  dimensions:
-    height: 96
-    width: 70
-    depth: 0
-  description: ''
-  price: 600
-  contextual: true
-  technique: 'Image photographique tirage papier Edition en 21 exemplaires '
 - title: St Lui
   image: "/forestry/st-lui.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
@@ -184,17 +199,6 @@ works:
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
-    width: 70
-    depth: 
-  description: ''
-  price: 600
-  sold: false
-  contextual: true
-- title: CC 0013
-  image: "/forestry/cc-0013.jpg"
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 100
     width: 70
     depth: 
   description: ''
