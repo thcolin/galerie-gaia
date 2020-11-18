@@ -8,7 +8,9 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
-  Tony Soulié, artiste de renommée internationale, est né à Paris en 1955, il vit et travaille à Paris.
+  # Tony Soulié
+
+  Artiste de renommée internationale, Tony Soulié est né  en 1955 à Paris où il vit et travaille.
 
   Grand voyageur, artiste nomade, Tony Soulié est un véritable touche-à-tout (peinture, photographie, gravure, installation, land art...). Ses oeuvres mixtes ayant la plupart du temps la photographie comme support en font un artiste au rayonnement international. C'est tout naturellement qu'il a trouvé sa place au sein de la collection de la Galerie l'Estampe, enrichie désormais par l'exotisme, la couleur et l'élégance d'un travail plastique étonnant.
 

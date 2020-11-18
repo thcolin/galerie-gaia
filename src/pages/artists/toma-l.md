@@ -113,26 +113,6 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Bonne pierre bon oeil 14
-  image: "/forestry/galerie-gaia-toma-labarthe-bonne-pierre-bon-oeil-14.jpg"
-  technique: Lithographie 9/10
-  dimensions:
-    height: 64
-    width: 46
-    depth: 0
-  description: Musée imprimerie de Nantes 2018
-  price: 400
-  contextual: true
-- title: Querelle carbone
-  image: "/forestry/galeriegaia-toma-l-2019040109-querellecarbone-150x166cm_bd.jpg"
-  technique: Mixte sur papier marouflé sur bois caisse américaine chêne
-  dimensions:
-    height: 160
-    width: 176
-    depth: 0
-  description: "2019  \nVendue"
-  price: 0
-  contextual: true
 - title: Black colors and stone age
   image: "/forestry/2017001320-colorandblackstoneage-13-20ex-125x160cm.jpg"
   technique: 'Lithographie Atelier IDEM '
