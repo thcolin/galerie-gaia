@@ -9,10 +9,10 @@ location: ''
 birth: "1938"
 death: ''
 expose: true
-biography: "Jacques Le Brusq est né en 1938 à Rennes. Entre 1970 et 1977, il crée
-  et anime un centre d'art dans le Morbihan, La Cour de Bovrel, à Saint Guyomard.
-  Il enseigne également à l'école des Beaux-arts de Rennes de 1973 à 2000. Il vit
-  et travaille à Nantes depuis 1990.\n\nSa démarche est nourrie par la philosophie
+biography: "# Jacques Le Brusq \n\nL'artiste est né en 1938 à Rennes. Entre 1970 et
+  1977, il crée et anime un centre d'art dans le Morbihan, La Cour de Bovrel, à Saint
+  Guyomard. Il enseigne également à l'école des Beaux-arts de Rennes de 1973 à 2000.
+  Il vit et travaille à Nantes depuis 1990.\n\nSa démarche est nourrie par la philosophie
   et la pensée poétique, et par une longue immersion au sein du règne végétal et du
   règne minéral.\n\n**Citation :** _\"Il est éminament figuratif et totalement abstrait.\"_
   **Jean-Pierre Delarge** in _Dictionnaire des arts plastiques modernes et contemporains_,

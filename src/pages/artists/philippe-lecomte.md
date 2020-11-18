@@ -15,14 +15,14 @@ biography: "# Philippe Lecomte\n\n[Vidéo interview dans l'atelier de Philippe L
   n’est qu’une part de la réalité. La peinture ne peut être illustrative, elle ne
   montre pas : elle découvre. \n\nNé en 1958 à la Rochelle. Philippe Lecomte vit et
   travaille à Nantes.\n\nExpositions personnelles :\n\n1996 - 1997 Galerie Fradin
-  - (44) - Nantes\n\n2003 Galerie du Rayon Vert (44) - Nantes\n\n2005 Le terrain vague
-  - (44) - Nantes\n\n2007 Galerie Arts Pluriels (44) - Nantes\n\n2008 Festival Poeisis
-  - (44) Chateaubriant  \nAtelier Le Bras - (44) - Nantes\n\n2009 Atelier Legault
-  - (49) Pouancé\n\n2010 Atelier Le Bras - (44) Nantes  \nGalerie Art Concept - (33)
-  Bordeaux\n\n2011Galerie Tandille - (33) Vertheuil\n\n2013 Galerie du Rayon Vert
-  - (44) - Nantes  \nGalerie Anti Reflets - (44) Nantes\n\n2016 Galerie L’appart -
-  (24) Périgueux\n\n2017 Galerie Gaïa - (44) Nantes  \nAtelier Le Bras - (44) Nantes\n\n2019
-  Galerie Tandille - (33) Vertheuil  \nGalerie Ars Raden - (29) Quimper  \nGalerie
+  - (44) - Nantes  \n2003 Galerie du Rayon Vert (44) - Nantes  \n2005 Le terrain vague
+  - (44) - Nantes  \n2007 Galerie Arts Pluriels (44) - Nantes  \n2008 Festival Poeisis
+  - (44) Chateaubriant  \nAtelier Le Bras - (44) - Nantes  \n2009 Atelier Legault
+  - (49) Pouancé  \n2010 Atelier Le Bras - (44) Nantes  \nGalerie Art Concept - (33)
+  Bordeaux  \n2011Galerie Tandille - (33) Vertheuil  \n2013 Galerie du Rayon Vert
+  - (44) - Nantes  \nGalerie Anti Reflets - (44) Nantes  \n2016 Galerie L’appart -
+  (24) Périgueux  \n2017 Galerie Gaïa - (44) Nantes  \nAtelier Le Bras - (44) Nantes
+  \ \n2019 Galerie Tandille - (33) Vertheuil  \nGalerie Ars Raden - (29) Quimper  \nGalerie
   Les 2 Zèbres - (12) Monnes  \nGalerie Les Bigotes - (56) Vannes  \nGalerie Gaïa
   - (44) Nantes"
 exhibitions:
