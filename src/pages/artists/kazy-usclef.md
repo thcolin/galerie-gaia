@@ -8,6 +8,8 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Kazy Usclef
+
   L'artiste est né en 1984, et travaille à Nantes.
 
   Nourri du graffiti sous ses formes les plus diverses pendant plus de 10 ans, il utilise aujourd'hui un large éventail de technique de représentation (gravure, sérigraphie, encre ,pochoir...).

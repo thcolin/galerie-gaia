@@ -8,28 +8,24 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vienne.
-  \ Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire de l’Art
-  et d’un Master Pro en Conservation-Restauration des Biens Culturel (spécialité peinture).\n\nAyant
-  fait l'objet de nombreuses parutions dans la revue spécialisée Miroir de l'art,
-  Xavier Jallais est un artiste que l'on a pu retrouvé dans des foires d'art contemporain
-  comme le Plus'art du Mans et dans de nombreuses galeries du grand ouest. \n\nDernières
-  expositions : \n\n2017 : Galerie Gaia \n\n2016 : Art et Connivences, le Rex, Le
-  Pouliguen (44)\nFamilles, Galerie Emmanuelle Rousse, Saint-Savin (86)\nPuls’art,
-  Le Mans (72)\n\n2015 :Géométries, Galerie Emmanuelle Rousse, Saint-Savin (86)\nArt
-  Atlantic, La Rochelle (17)\n\n2014 :Chasseur-cueilleur, Festival L'Auberge de la
-  Grand'Route, La Villedieu du Clain (86)\n\n2013 :Galerie Eva Doublet, Saint-Georges
+biography: "# Xavier Jallais\n\nNé en 1971, Xavier Jallais vit et travaille à Chauvigny
+  dans la Vienne.  Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire
+  de l’Art et d’un Master Pro en Conservation-Restauration des Biens Culturel (spécialité
+  peinture).\n\nAyant fait l'objet de nombreuses parutions dans la revue spécialisée
+  Miroir de l'art, Xavier Jallais est un artiste que l'on a pu retrouvé dans des foires
+  d'art contemporain comme le Plus'art du Mans et dans de nombreuses galeries du grand
+  ouest.\n\nDernières expositions :\n\n2017 : Galerie Gaia  \n2016 : Art et Connivences,
+  le Rex, Le Pouliguen (44) Familles, Galerie Emmanuelle Rousse, Saint-Savin (86)
+  Puls’art, Le Mans (72)  \n2015 :Géométries, Galerie Emmanuelle Rousse, Saint-Savin
+  (86)\nArt Atlantic, La Rochelle (17)  \n2014 :Chasseur-cueilleur, Festival L'Auberge
+  Grand'Route, La Villedieu du Clain (86)  \n2013 :Galerie Eva Doublet, Saint-Georges
   du Bois (17)\nConvention France-Magreb, cité de la mode et du design avec la Galerie
   Emmanuelle Rousse, Paris\nArt Atlantic, La Rochelle (17)\nL’artiste à la cour des
   contes, rencontre d’art contemporain, château de Saint-Auvent (87)\nL’abbaye et
-  moi, Galerie Emmanuelle Rousse à l’abbaye de Saint-Savin (86)\n\n2012 : Automorphies,
+  moi, Galerie Emmanuelle Rousse à l’abbaye de Saint-Savin (86)  \n2012 : Automorphies,
   Galerie Emmanuelle Rousse, Saint-Savin (86)\nDessine-moi demain, château de Saint-Auvent
   (87)\nL’arrivage, Troyes (10)\nPuls’art, Le Mans (72)\nLe cri, biennale d’art sacré,
-  Poitiers (86)\n\n2011 : Galerie Grand Rue, Poitiers (86)\nManoir de la Thibaudière,
-  Tercé (86)\nLes nouvelles métamorphoses, la Mothe Saint-Heray (79)\nBestiaire de
-  mes nuits, rencontre d’art contemporain, château de Saint-Auvent (87)\n\n2010 :Le
-  chemin des ateliers, Chauvigny (86)\nQui suis-je ?, rencontre d’art contemporain,
-  château de Saint Auvent (87)"
+  Poitiers (86)"
 exhibitions: []
 works:
 - title: Automorphie Structure tridimensionnelle 1
