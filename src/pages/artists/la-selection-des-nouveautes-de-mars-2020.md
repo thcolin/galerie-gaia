@@ -1,11 +1,13 @@
 ---
 template: artist
-title: Idées cadeaux Noël Anniversaire
+title: 'Idées cadeaux Noël '
 location: ''
 birth: "0"
 death: "0"
 expose: true
-biography: ''
+biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **nouveautés**
+  proposées par les artistes de la galerie et **mise en situation**. Chaque œuvre
+  est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
 - title: 'Idées cadeaux '

@@ -6,10 +6,10 @@ fields: []
 birth: "0"
 death: "0"
 expose: true
-biography: "L'artiste est né en 1977, vit et travaille à Nantes. Jakobek fréqente
-  l'Ecole des Beaux Arts de Lorient DNAP en 2000, puis il validera un DNSEP Art à
-  l' Ecole des Beaux Arts de Lorient en 2002.\n\nRésidences, festivals & expositions
-  : \n\n* \"Les 400 coups\" Exposition collective, Le Jardin Moderne, Rennes, 2019\n*
+biography: "# Boris Jakobek\n\nBoris Jakobek fréqente l'Ecole des Beaux Arts de Lorient
+  DNAP en 2000, puis il validera un DNSEP Art à l' Ecole des Beaux Arts de Lorient
+  en 2002. Né en 1977, il vit et travaille à Nantes. \n\nRésidences, festivals & expositions
+  :\n\n* \"Les 400 coups\" Exposition collective, Le Jardin Moderne, Rennes, 2019\n*
   \"L'Enfer\" Festival du livre fait main et des arts imprimés, Nancy, 2019\n* \"Les
   imprimeurs ne connaissent pas les sérigraphes\" Exposition, Musée de l'imprimerie,
   Nantes, 2019\n* \"Myself as a fool\" Exposition personnelle , le Jardin de verre,

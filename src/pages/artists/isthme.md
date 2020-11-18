@@ -7,13 +7,13 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "« Peindre est ma respiration. Elle m'est vitale. Elle agit comme une force
-  ... Ma peinture est alors ivresse, réjouissance et grâce comme vertige ou torpeur.
-  »\nIsthme\n\n[Interview Décadrée de Isthme par la Galerie Gaïa](https://youtu.be/lwznot2FJRs
-  \"interview isthme par galerie gaia\") \n\n**Biographie**\n\nIsthme, de son nom
-  d’artiste, travaille sur les bords de Loire, à Nantes, où elle est née en décembre
-  1963.  \nElle suit d’abord des études de Sciences Politiques à Bordeaux puis en
-  Aménagement et Gestion de Projets Urbains à Paris. Durant une dizaine d’années,
+biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m'est
+  vitale. Elle agit comme une force ... Ma peinture est alors ivresse, réjouissance
+  et grâce comme vertige ou torpeur. »\nIsthme\n\n[Interview Décadrée de Isthme par
+  la Galerie Gaïa](https://youtu.be/lwznot2FJRs \"interview isthme par galerie gaia\")\n\n**Biographie**\n\nIsthme,
+  de son nom d’artiste, travaille sur les bords de Loire, à Nantes, où elle est née
+  en décembre 1963.  \nElle suit d’abord des études de Sciences Politiques à Bordeaux
+  puis en Aménagement et Gestion de Projets Urbains à Paris. Durant une dizaine d’années,
   elle exerce dans plusieurs cabinets et collabore à Paris avec des architectes et
   paysagistes.\n\nAu cours de ses études à Bordeaux, elle fréquente les expositions
   du CAPC, anciens entrepôts à vin réhabilités pour accueillir d’importantes expositions
