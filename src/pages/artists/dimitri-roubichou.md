@@ -86,21 +86,21 @@ works:
   image: "/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
   technique: Photographie
   dimensions:
-    height: 80
-    width: 80
+    height: 40
+    width: 40
     depth: 0
   description: ''
-  price: 900
+  price: 400
   contextual: true
 - title: Mikayo
   image: "/forestry/galeriegaia@dimitriroubichou-MIKAYO-30cmx30cm-30 tirages.jpg"
   technique: Photographie
   dimensions:
-    height: 120
-    width: 120
+    height: 40
+    width: 40
     depth: 0
   description: ''
-  price: 1200
+  price: 400
   contextual: true
 - title: Lueta
   image: "/forestry/galeriegaia@dimitriroubichou-LUETA-30 cm x 30 cm - 30 tirages.jpg"
@@ -110,7 +110,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 0
+  price: 250
   contextual: true
 - title: Kuzma
   image: "/forestry/galeriegaia@dimitriroubichou-KUZMA-30cmx30cm-30 tirages.jpg"
@@ -125,11 +125,11 @@ works:
 - title: Coari
   image: "/forestry/galeriegaia@dimitriroubichou-COARI-30 cm x 30 cm - 30 tirages.jpg"
   dimensions:
-    height: 80
-    width: 80
+    height: 60
+    width: 60
     depth: 0
   description: Edition en 9 exemplaires
-  price: 900
+  price: 700
   contextual: true
   technique: 'Photographie '
 - title: Bäla
@@ -186,7 +186,7 @@ works:
   price: 250
   sold: false
   contextual: true
-- title: 'Anémone encadrée '
+- title: 'Anémone '
   image: "/forestry/anemone.jpg"
   technique: Photo sur papier baryté
   dimensions:
@@ -213,11 +213,11 @@ works:
   image: "/forestry/acate.jpg"
   technique: 'Photographie tirage papier fine art '
   dimensions:
-    height: 80
-    width: 80
+    height: 40
+    width: 40
     depth: 
   description: 'Edition en 9 exemplaires '
-  price: 900
+  price: 400
   sold: false
   contextual: true
 - title: Portrait de Dimitri Roubichou

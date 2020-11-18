@@ -7,12 +7,12 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "Neil Ratnavira de Alwis est un artiste photographe et peintre expressionniste
-  abstrait.   \n  \nNé en 1978 à Colombo au Sri Lanka. Il fut élevé par sa mère et
-  grand-mère dans un pays meurtri par la guerre civile. Les premières années de sa
-  vie furent rythmées par une scolarité irrégulière, un quotidien constamment interrompu
-  par les couvre-feux, les explosions de voitures piégées, bus incendiés et immeubles
-  en feu.   \nEn 1989, Neil et sa mère déménagèrent à Paris pour commencer une nouvelle
+biography: "# Neil Ratnavira de Alwis \n\nArtiste photographe et peintre expressionniste
+  abstrait.\n\nNé en 1978 à Colombo au Sri Lanka. Il fut élevé par sa mère et grand-mère
+  dans un pays meurtri par la guerre civile. Les premières années de sa vie furent
+  rythmées par une scolarité irrégulière, un quotidien constamment interrompu par
+  les couvre-feux, les explosions de voitures piégées, bus incendiés et immeubles
+  en feu.  \nEn 1989, Neil et sa mère déménagèrent à Paris pour commencer une nouvelle
   vie. Malgré les difficultés économiques et les problématiques d’intégration sociale
   en France, il appris le français sur le tas et fut accepté dans un lycée d’arts
   graphiques parisien dans lequel il obtenu un diplôme de design graphique et d’Art.
