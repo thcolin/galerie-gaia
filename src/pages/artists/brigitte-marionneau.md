@@ -9,18 +9,18 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "Après la mise en forme de la pièce dans ses lignes de force, Brigitte
-  Marionneau poursuit sa réflexion dans une composition d’ordre pictural, poétique
-  et esthétique.\n\nEnsuite l'artiste prend des décisions dans les différences de
-  matière, de texture captant plus ou moins la lumière. S’opposent des surfaces lisses,
-  des enduits de terre ajoutée mis en relief, des inégalités dans la matière, des
-  vagues, des gravures…\n\nIl n’est pas aisé de décrire minutieusement les étapes
-  de création et ses enchaînements, nées d’une recherche et d’une intention chaque
-  fois uniques.\n\nLe recouvrement de la terre par l’engobe (enduit terreux) posé
-  en fines couches prépare les surfaces aux phases successives de lissage et de polissage
-  et exalte la matière.Les traces, les altérations, les accidents de surface, les
-  gravures sur terre ou sur engobe sont soulignés par des balayages successifs d’engobe
-  pâteux créant une matière proche que l’on pourrait qualifier d’épiderme.\n\nBrigitte
+biography: "# Brigitte Marionneau \n\nAprès la mise en forme de la pièce dans ses
+  lignes de force, Brigitte Marionneau poursuit sa réflexion dans une composition
+  d’ordre pictural, poétique et esthétique.\n\nEnsuite l'artiste prend des décisions
+  dans les différences de matière, de texture captant plus ou moins la lumière. S’opposent
+  des surfaces lisses, des enduits de terre ajoutée mis en relief, des inégalités
+  dans la matière, des vagues, des gravures…\n\nIl n’est pas aisé de décrire minutieusement
+  les étapes de création et ses enchaînements, nées d’une recherche et d’une intention
+  chaque fois uniques.\n\nLe recouvrement de la terre par l’engobe (enduit terreux)
+  posé en fines couches prépare les surfaces aux phases successives de lissage et
+  de polissage et exalte la matière.Les traces, les altérations, les accidents de
+  surface, les gravures sur terre ou sur engobe sont soulignés par des balayages successifs
+  d’engobe pâteux créant une matière proche que l’on pourrait qualifier d’épiderme.\n\nBrigitte
   Marionneau exalte l’éclat de la matière par un lissage et un polissage minutieux.\n\nLa
   Série « Contenir le vent »  \na commencé à partir d’une maquette d’argile façonnée
   dans la masse. Sa forme a été très inspiratrice pour la suite des autres pièces,

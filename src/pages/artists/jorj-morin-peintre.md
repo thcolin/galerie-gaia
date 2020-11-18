@@ -8,7 +8,9 @@ birth: "1909"
 death: "1995"
 expose: true
 biography: |-
-  Georges Morin est né à Cholet en 1909. Il s’établit en 1931 à Nantes en tant que graphiste indépendant puis exercera comme dessinateur publicitaire jusqu’au milieu des années 60 doté d'un style clair, épuré et teinté humour, pour la Biscuiterie Nantaise, Cassegrain, Cinzano, Petit Navire, Decré…
+  # Jorj Morin (Georges)
+
+  est né à Cholet en 1909. Il s’établit en 1931 à Nantes en tant que graphiste indépendant puis exercera comme dessinateur publicitaire jusqu’au milieu des années 60 doté d'un style clair, épuré et teinté humour, pour la Biscuiterie Nantaise, Cassegrain, Cinzano, Petit Navire, Decré…
 
   Dès les années 30, il poursuit une quête personnelle à travers le dessin, la peinture et en 1947 la gravure. Morin devient un membre actif du groupe d’artistes nantais Archipel.
 
@@ -19,9 +21,9 @@ biography: |-
   Sa proximité avec Louis Ferrand, ami et peintre nantais du groupe Archipel sera concrétisée par une exposition commune au château des ducs de Bretagne en 1991.
 
   En 1980, l'artiste s’installe à la Poissonnière (Angers) où il poursuit son œuvre de peintre et de graveur, jusqu’à son décès le 13 Mai 1995.
-  C'est en 2018 que la famille Morin effectue une donation de gravures, au Musée des Arts de Nantes.
+  C'est en 2018 que la famille Morin effectue une donation de gravures, au [Musée des Arts de Nantes.](https://museedartsdenantes.nantesmetropole.fr/home/au-cur-du-musee/les-collections/toutes-les-collections.html "catalogue musée des arts de nantes")
 
-  L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
+  [L’exposition Polymorphie ](https://galeriegaia.fr/actualites/ "exposition galerie gaia nantes")organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
 - title: Vis a vis
