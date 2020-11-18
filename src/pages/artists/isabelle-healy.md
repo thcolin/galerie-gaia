@@ -8,20 +8,16 @@ birth: ''
 death: ''
 expose: true
 biography: |-
-  Isabelle Healy est née en 1967  à Paris.
+  # Isabelle Healy
 
-  Après son bac,  des études de Communication à l’ESCOM Lyon , puis attachée de presse dans des maisons de luxe , pigiste pour la presse et décoratrice d’intérieur agence Sublim’Home.
-  En parallèle,dès 1990 elle suit des cours de dessin et de peinture à St Étienne dans l’atelier de Madame Véran, diplômée des Beaux-arts de Paris et major d’anatomie, une forte personnalité qui durant sept années lui apprendra toutes les techniques de dessin et de peinture.
-  Copier les maîtres classiques , peindre à vue en extérieur, faire ses propres compositions…
-  Puis l’envie de changer d’enseignement s’impose, découvrir une nouvelle approche,
-  d’autres perceptions , un nouveau maitre…Serge Tziganov (EDAC St Étienne) sera celui ci durant 7 années, études des perspectives,  dessin académique ,  modèles vivants…
+  Isabelle Healy est née en 1967 à Paris. Après son bac,  des études de Communication à l’ESCOM Lyon , puis attachée de presse dans des maisons de luxe , pigiste pour la presse et décoratrice d’intérieur agence Sublim’Home. En parallèle,dès 1990 elle suit des cours de dessin et de peinture à St Étienne dans l’atelier de Madame Véran, diplômée des Beaux-arts de Paris et major d’anatomie, une forte personnalité qui durant sept années lui apprendra toutes les techniques de dessin et de peinture. Copier les maîtres classiques , peindre à vue en extérieur, faire ses propres compositions… Puis l’envie de changer d’enseignement s’impose, découvrir une nouvelle approche, d’autres perceptions , un nouveau maitre…Serge Tziganov (EDAC St Étienne) sera celui ci durant 7 années, études des perspectives,  dessin académique ,  modèles vivants…
 
   Un drame personnel survient alors…
   « L’aboutissement d’un deuil normal n’est en aucune façon l’oubli du disparu,
   mais l’aptitude à le situer à sa juste place dans une histoire achevée, l’aptitude à réinvestir pleinement les activités vivantes, les projets et les désirs qui donnent de la valeur à l’existence. »
   Monique Bydlowski , « Je rêve un enfant ».
 
-   Arrivée alors à Lyon en 2005, elle s’oriente vers le modelage de la terre , puis de la cire, la technique du bronze, et  la sculpture .
+  Arrivée alors à Lyon en 2005, elle s’oriente vers le modelage de la terre , puis de la cire, la technique du bronze, et  la sculpture .
   Huit années de cours en atelier chez un sculpteur lyonnais . Au gré de l’art et de son parcours, Isabelle vide sa besace de tout ce qui fait battre son cœur.
 
   « La personne résiliente transforme le métal de la souffrance en or de la sublimation et de la réflexion »   Boris Cyrulnik
@@ -38,9 +34,21 @@ biography: |-
 
   Elle pratique une représentation des sentiments humains et de moments partagés au fil du temps qui passe. Arrivant du dessin, elle va vers une forme de stylisation, vers les vertus du dépouillement afin de garder l’essentiel d’un geste, d’un mouvement, d’une attitude ou d’une intention, elle va vers l’absolu.
 
-   » (…) car  la Vie  n’est  pas  autre  chose  que  la  capacité  de  maintenir  un  état d’équilibre , au  milieu du changement des  évènements « .    tiré du livre de Baghavad-Gita
+  » (…) car  la Vie  n’est  pas  autre  chose  que  la  capacité  de  maintenir  un  état d’équilibre , au  milieu du changement des  évènements « .    tiré du livre de Baghavad-Gita
 exhibitions: []
 works:
+- title: Confluence détail
+  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
+  technique: Bronze en 8 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 73
+    depth: 0
+  description: ''
+  price: 8400
+  contextual: false
 - title: Confluence
   image: "/forestry/galeriegaia_healy_confluence_73x58.jpg"
   technique: Bronze
