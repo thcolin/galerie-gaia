@@ -17,6 +17,17 @@ biography: |-
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: CC 0013
+  image: "/forestry/cc-0013.jpg"
+  technique: 'Photographie tirage papier Edition en 21 exemplaires '
+  dimensions:
+    height: 100
+    width: 70
+    depth: 
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
 - title: 2 femmes à New York
   image: "/forestry/galeriegaia-rycho-2femmes NY-70X50.jpg"
   technique: 'photographie en 21 exemplaires '
@@ -28,17 +39,6 @@ works:
     depth: 0
   description: ''
   price: 600
-  contextual: true
-- title: CC 0013
-  image: "/forestry/cc-0013.jpg"
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 600
-  sold: false
   contextual: true
 - title: Albert
   image: "/forestry/albert.jpg"
