@@ -8,16 +8,15 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  **Xavier de Jarcy - TELERAMA** Novembre 2016
-
-  "Concilier inspiration régionale et esprit contemporain, ce n'est pas si fréquent. Valérie Leroux y parvient.
-
-  Céramiste mais pas que. Le support ne serait peut être que prétexte pour installer un trait qui se lit aussi bien à plat que sur des volumes.
-  Alors en sérigraphie ou sur une céramique ce regard efficace et si poétique sur notre bord de mer, vous permettra d'installer un bol d'air frais au-delà de notre belle Bretagne.
-  La modération du trait n'est pas synonyme de minimalisme dans ce travail qui met la flore en mouvement.
-
-  Et les sérigraphies sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie LE ROUX
+biography: "# Valérie Le Roux \n\n\"Concilier inspiration régionale et esprit contemporain,
+  ce n'est pas si fréquent. Valérie Le Roux y parvient.\n\nCéramiste mais pas que.
+  Le support ne serait peut être que prétexte pour installer un trait qui se lit aussi
+  bien à plat que sur des volumes.\nAlors en sérigraphie ou sur une céramique ce regard
+  efficace et si poétique sur notre bord de mer, vous permettra d'installer un bol
+  d'air frais au-delà de notre belle Bretagne.\nLa modération du trait n'est pas synonyme
+  de minimalisme dans ce travail qui met la flore en mouvement.\n\nEt les sérigraphies
+  sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie Leroux\n\n**Xavier
+  de Jarcy - TELERAMA** Novembre 2016"
 exhibitions:
 - title: EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
   start: Eté 2018
