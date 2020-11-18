@@ -7,17 +7,18 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "Des boules, des cubes...  \nDes cubes, clins d’œil à Platon. Selon le
-  philosophe, chacun des quatre éléments fondamentaux – la Terre, l'Eau, l'Air, le
-  Feu – est associé à un solide. Le solide le plus stable, le cube, représente la
-  Terre.  \nNi moule ni assemblage de plaques, toutes les pièces sont montées en colombins
-  et longuement polies au galet avant une cuisson en four électrique.\n\nGrès blanc,
-  grès rouge...Certaines pièces subiront une deuxième cuisson en four à gaz, et le
-  crin de cheval, déposé dès la sortie du four, viendra dessiner des calligraphies...
-  \ \nD'autres seront enfumées avec des ajouts d'oxydes, de matières et de végétaux
-  divers. La puissance du feu et des flammes décidera des nuances de bruns, de roux
-  et de noirs, ou laissera apparaître par endroits la couleur d'origine de la terre.\n\nParfois
-  les deux techniques sont associées.  \nDes pièces à toucher, à effleurer, à caresser..."
+biography: "# Jacqueline Pecantet\n\nDes boules, des cubes...  \nDes cubes, clins
+  d’œil à Platon. Selon le philosophe, chacun des quatre éléments fondamentaux – la
+  Terre, l'Eau, l'Air, le Feu – est associé à un solide. Le solide le plus stable,
+  le cube, représente la Terre.  \nNi moule ni assemblage de plaques, toutes les pièces
+  sont montées en colombins et longuement polies au galet avant une cuisson en four
+  électrique.\n\nGrès blanc, grès rouge...Certaines pièces subiront une deuxième cuisson
+  en four à gaz, et le crin de cheval, déposé dès la sortie du four, viendra dessiner
+  des calligraphies...  \nD'autres seront enfumées avec des ajouts d'oxydes, de matières
+  et de végétaux divers. La puissance du feu et des flammes décidera des nuances de
+  bruns, de roux et de noirs, ou laissera apparaître par endroits la couleur d'origine
+  de la terre.\n\nParfois les deux techniques sont associées.  \nDes pièces à toucher,
+  à effleurer, à caresser..."
 exhibitions: []
 works:
 - title: Grès 13
