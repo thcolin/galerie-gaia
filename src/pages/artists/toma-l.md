@@ -122,17 +122,17 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Black colors and stone age
-  image: "/forestry/2017001320-colorandblackstoneage-13-20ex-125x160cm.jpg"
-  technique: 'Lithographie Atelier IDEM '
+- title: Wood cartel blue en situation
+  image: "/forestry/galerie-gaia-toma-l-wood-cartel-blue-es.jpg"
+  technique: Technique mixte sur bois
   dimensions:
     height: 125
     width: 150
     depth: 0
-  description: "Edition en 2O exemplaires  \nCette litho est réhaussée au pastel gras
-    ce qui en fait un monotype"
-  price: 3000
-  contextual: true
+  description: "caisse américaine noire   \nprix dans le catalogue et sur demande
+    \ \n2014031011"
+  price: ''
+  contextual: false
 - title: 'Little wood trash '
   image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
@@ -153,15 +153,16 @@ works:
     sur le catalogue ou sur demande   \n2019040101"
   price: ''
   contextual: true
-- title: 'Little trash '
-  image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
-  technique: 'Technique mixte sur papier marouflé sur bois '
+- title: 'Wood cartel blue '
+  image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
+  technique: 'Technique mixte sur bois '
   dimensions:
-    height: 109
-    width: 79
-  description: "cadre blanc flottant sous verre  \n2018020601  \nvendue"
+    height: 106
+    width: 70
+  description: "caisse américaine noire   \nprix dans le catalogue et sur demande
+    \ \n2014031010"
   price: ''
-  contextual: false
+  contextual: true
 - title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
   technique: Couture et Technique mixte sur papier
@@ -189,13 +190,13 @@ works:
   description: "cadre en chêne et verre musée  \n202031101  \nprix sur demande "
   price: ''
   contextual: true
-- title: 'Little trash & color '
-  image: "/forestry/galeriegaia@tomaL-2019022702-LittleTrash&Color1-2-136x116cm-1.jpg"
-  technique: Technique mixte sur toile en lin
+- title: Wood cartel red
+  image: "/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg"
+  technique: Technique mixte sur bois
   dimensions:
-    height: 142
-    width: 105
-  description: "caisse américaine noire  \n2019022702  \nvendue"
+    height: 106
+    width: 70
+  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande  \n2014053113"
   price: ''
   contextual: true
 - title: 'Drawing Trash Color  '
