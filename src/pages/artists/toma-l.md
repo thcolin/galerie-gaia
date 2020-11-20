@@ -122,15 +122,15 @@ works:
     ce qui en fait un monotype"
   price: 3000
   contextual: true
-- title: 'Graphite & Color '
-  image: "/forestry/galeriegaia@toma l-2019011401-graphiteandcolor-150x120cm_bd.jpg"
-  technique: Technique mixte sur papier marouflé sur bois
+- title: 'Little wood trash '
+  image: "/forestry/galerie-gaia-toma-l-little-wood-trash-2019110901.JPG"
+  technique: Technique mixte sur bois
   dimensions:
-    height: 157
-    width: 125
-  description: "vendue  \n2019011401"
+    height: 115
+    width: 80
+  description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
   price: ''
-  contextual: true
+  contextual: false
 - title: Brut and Simple Color
   image: "/forestry/galeriegaia@Toma L-brutandsimplecolor-2019111401-196X130cm-bd.jpg"
   technique: mixte sur toile en lin châssis à clefs
