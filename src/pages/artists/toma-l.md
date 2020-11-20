@@ -100,17 +100,6 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Le catalogue de Toma L pour Galerie Gaia
-  image: "/forestry/galerie-gaia-toma-l-catalogue-couverture.png"
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "[Télécharger le catalogue]()"
-  price: 0
-  contextual: false
 - title: 'Red Canaille '
   image: "/forestry/red-canaille.jpg"
   technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
@@ -122,12 +111,23 @@ works:
   price: ''
   sold: false
   contextual: true
+- title: Le catalogue de Toma L pour Galerie Gaia
+  image: "/forestry/galerie-gaia-toma-l-catalogue-couverture.png"
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "[Télécharger le catalogue]()"
+  price: 0
+  contextual: false
 - title: Wood cartel blue en situation
   image: "/forestry/galerie-gaia-toma-l-wood-cartel-blue-es.jpg"
   technique: Technique mixte sur bois
   dimensions:
-    height: 125
-    width: 150
+    height: 106
+    width: 70
     depth: 0
   description: "caisse américaine noire   \nprix dans le catalogue et sur demande
     \ \n2014031011"
@@ -199,13 +199,13 @@ works:
   description: "caisse américaine noire  \nPrix dans le catalogue et sur demande  \n2014053113"
   price: ''
   contextual: true
-- title: 'Drawing Trash Color  '
-  image: "/forestry/galeriegaia@tomal2020031201-drawingtrashcolor-102x70cm_bd-1.jpg"
+- title: 'Querelle carbone 4 '
+  image: "/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg"
   technique: Technique mixte sur papier
   dimensions:
-    height: 120
-    width: 90
-  description: "cadre blanc sous verre  \n2020031201  \nvendu"
+    height: 150
+    width: 178
+  description: "oeuvre à encadrer selon votre projet  \n2019040107"
   price: ''
   contextual: true
 - title: 'Graphite & Colors '
