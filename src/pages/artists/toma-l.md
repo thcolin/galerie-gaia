@@ -242,7 +242,7 @@ works:
   dimensions:
     height: 108
     width: 78
-  description: "caisse américaine chêne  \n2018091803  \nprix sur demande "
+  description: "caisse américaine noire  \nprix dans le catalogue et sur demande   \n2018091803"
   price: ''
   contextual: true
 - title: 'Drawing trash color '
@@ -262,17 +262,6 @@ works:
     width: 107
   description: "caisse américaine noire  \nprix sur demande "
   price: ''
-  contextual: false
-- title: Wood cartel black
-  image: "/forestry/galeriegaia@tomaL-2014031006_Woodcartel-black-105x70cm ES.jpg"
-  technique: 'Technique mixte sur bois '
-  dimensions:
-    height: 106
-    depth: 
-    width: 70
-  description: "caisse américaine  \nvendu"
-  price: 
-  sold: false
   contextual: false
 - title: 'Drawing black '
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
@@ -294,17 +283,16 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: 'Atelier Toma L Série Drawing Trash Color '
-  image: "/forestry/drawingtrashcolor2-102x70cm_bd.jpg"
-  technique: 'Technique mixte sur papier '
+- title: Installation Wood cartel Toma L Nantes 2014
+  image: "/forestry/galerie-gaia-toma-l-installation-nantes2.jpg"
+  technique: 'Technique mixte sur bois '
   dimensions:
     height: 100
     width: 70
-  description: "Œuvres réalisées pour l'exposition \"Il peint sur Nantes\"  \nSérie
-    vendue"
+  description: 'Œuvres réalisées pour l''exposition '
   price: ''
   contextual: false
-  sold: true
+  sold: false
 - title: Projet Vas-y
   image: "/forestry/Toma-L_13deplus-projetvasy_documentaire_02.jpg"
   dimensions:
@@ -349,17 +337,6 @@ works:
     Exposition du 21 mars au 30 avril 2020
     VERNISSAGE 21 MARS 18H
   price: 
-  sold: false
-  contextual: true
-- title: 'Simple black '
-  image: "/forestry/galeriegaia@tomaL-2012130102-drawingblack-72x70cm.jpg"
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 70
-    width: 72
-    depth: 
-  description: "caisse américaine chêne  \n2012111101  \nprix sur demande "
-  price: ''
   sold: false
   contextual: true
 - title: Bonne pierre bon œil 10
