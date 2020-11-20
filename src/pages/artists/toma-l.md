@@ -123,14 +123,14 @@ works:
   price: 3000
   contextual: true
 - title: 'Little wood trash '
-  image: "/forestry/galerie-gaia-toma-l-little-wood-trash-2019110901.JPG"
+  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
   dimensions:
     height: 115
     width: 80
   description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
   price: ''
-  contextual: false
+  contextual: true
 - title: Brut and Simple Color
   image: "/forestry/galeriegaia@Toma L-brutandsimplecolor-2019111401-196X130cm-bd.jpg"
   technique: mixte sur toile en lin châssis à clefs
