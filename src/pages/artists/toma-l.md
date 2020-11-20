@@ -100,6 +100,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Wood cartel black
+  image: "/forestry/galerie-gaia-toma-l-t2014031010_woodcartel-black-105x70cm.jpg"
+  technique: Technique mixte sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 106
+    width: 70
+    depth: 0
+  description: "caisse américaine noire   \nprix sur demande  \n2014031010"
+  price: ''
+  contextual: true
 - title: 'Red Canaille '
   image: "/forestry/red-canaille.jpg"
   technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
@@ -141,7 +153,19 @@ works:
   price: ''
   contextual: false
   sold: false
-- title: Wood cartel blue en situation
+- title: Wood cartel yellow
+  image: "/forestry/galerie-gaia-toma-l-2014120003_woodcartel-yellow-105x70cm.jpg"
+  technique: 'Technique mixte sur bois '
+  fields: []
+  styles: []
+  dimensions:
+    height: 106
+    width: 70
+    depth: 0
+  description: "caisse américaine noire   \nprix sur demande  \n2014120003"
+  price: ''
+  contextual: true
+- title: Wood cartel grey en situation
   image: "/forestry/galerie-gaia-toma-l-wood-cartel-blue-es.jpg"
   technique: Technique mixte sur bois
   dimensions:
@@ -152,6 +176,18 @@ works:
     \ \n2014031011"
   price: ''
   contextual: false
+- title: Wood cartel grey
+  image: "/forestry/galerie-gaia-toma-l-2014031011_woodcartel-grey-105x70cm.jpg"
+  technique: 'Technique mixte sur bois '
+  fields: []
+  styles: []
+  dimensions:
+    height: 106
+    width: 70
+    depth: 0
+  description: "caisse américaine noire   \n2014031011"
+  price: ''
+  contextual: true
 - title: 'Wood cartel blue '
   image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
