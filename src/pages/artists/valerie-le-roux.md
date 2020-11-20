@@ -21,6 +21,18 @@ exhibitions:
 - title: EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
   start: Eté 2018
 works:
+- title: Fleure jaune
+  image: "/forestry/galeriegaia_leroux_sans_92x65-5.jpg"
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 93
+    width: 65
+    depth: 0
+  description: Edition en 50 exemplaires signée
+  price: 80
+  contextual: true
 - title: Flacon noir
   image: "/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg"
   technique: Céramique pièce unique signée
@@ -138,7 +150,7 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Tête à queue
+- title: Tête à queue orange
   image: "/forestry/864.jpg"
   technique: Sérigraphie
   dimensions:
@@ -151,8 +163,8 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Trio
-  image: "/forestry/866.jpg"
+- title: Tête à queue rouge
+  image: "/forestry/863.jpg"
   technique: Sérigraphie
   dimensions:
     height: 93
