@@ -100,16 +100,25 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Wood cartel black
-  image: "/forestry/galerie-gaia-toma-l-t2014031010_woodcartel-black-105x70cm.jpg"
+- title: 'Little wood trash '
+  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
+  dimensions:
+    height: 115
+    width: 80
+  description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
+  price: ''
+  contextual: true
+- title: Black and simple color
+  image: "/forestry/galeriegaia-toma-l-2018091802-blackandsimplecolor-110x80cm-copie_bd.jpg"
+  technique: 'Technique mixte sur papier '
   fields: []
   styles: []
   dimensions:
-    height: 106
-    width: 70
+    height: 102
+    width: 72
     depth: 0
-  description: "caisse américaine noire   \nprix sur demande  \n2014031010"
+  description: "Caisse américaine noire   \nprix sur demande  \n2018091802"
   price: ''
   contextual: true
 - title: 'Red Canaille '
@@ -134,13 +143,17 @@ works:
   description: "[Télécharger le catalogue]()"
   price: 0
   contextual: false
-- title: 'Little wood trash '
-  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
-  technique: Technique mixte sur bois
+- title: White wood and trash
+  image: "/forestry/galerie-gaia-toma-l-2016042101-whitewoodandtrashcolor-196x194cm-jl.jpg"
+  technique: Technqiue mixte sur bois
+  fields: []
+  styles: []
   dimensions:
-    height: 115
-    width: 80
-  description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
+    height: 194
+    width: 196
+    depth: 0
+  description: "Cadre et châssis à valider selon votre projet  \nprix sur demande
+    \ \n2016050218"
   price: ''
   contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014
@@ -153,6 +166,18 @@ works:
   price: ''
   contextual: false
   sold: false
+- title: Wood cartel black
+  image: "/forestry/galerie-gaia-toma-l-t2014031010_woodcartel-black-105x70cm.jpg"
+  technique: Technique mixte sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 106
+    width: 70
+    depth: 0
+  description: "caisse américaine noire   \nprix sur demande  \n2014031010"
+  price: ''
+  contextual: true
 - title: Wood cartel yellow
   image: "/forestry/galerie-gaia-toma-l-2014120003_woodcartel-yellow-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
