@@ -122,6 +122,25 @@ works:
   description: "[Télécharger le catalogue]()"
   price: 0
   contextual: false
+- title: 'Little wood trash '
+  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
+  technique: Technique mixte sur bois
+  dimensions:
+    height: 115
+    width: 80
+  description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
+  price: ''
+  contextual: true
+- title: Installation Wood cartel Toma L Nantes 2014
+  image: "/forestry/galerie-gaia-toma-l-installation-nantes2.jpg"
+  technique: 'Technique mixte sur bois '
+  dimensions:
+    height: 100
+    width: 70
+  description: 'Œuvres réalisées pour l''exposition '
+  price: ''
+  contextual: false
+  sold: false
 - title: Wood cartel blue en situation
   image: "/forestry/galerie-gaia-toma-l-wood-cartel-blue-es.jpg"
   technique: Technique mixte sur bois
@@ -133,13 +152,23 @@ works:
     \ \n2014031011"
   price: ''
   contextual: false
-- title: 'Little wood trash '
-  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
+- title: 'Wood cartel blue '
+  image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
+  technique: 'Technique mixte sur bois '
+  dimensions:
+    height: 106
+    width: 70
+  description: "caisse américaine noire   \nprix dans le catalogue et sur demande
+    \ \n2014031010"
+  price: ''
+  contextual: true
+- title: Wood cartel red
+  image: "/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg"
   technique: Technique mixte sur bois
   dimensions:
-    height: 115
-    width: 80
-  description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
+    height: 106
+    width: 70
+  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande  \n2014053113"
   price: ''
   contextual: true
 - title: Querelle carbone 10
@@ -151,16 +180,6 @@ works:
     depth: 0
   description: "châssis et cadre à choisir selon votre projet d'installation  \nprix
     sur le catalogue ou sur demande   \n2019040101"
-  price: ''
-  contextual: true
-- title: 'Wood cartel blue '
-  image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
-  technique: 'Technique mixte sur bois '
-  dimensions:
-    height: 106
-    width: 70
-  description: "caisse américaine noire   \nprix dans le catalogue et sur demande
-    \ \n2014031010"
   price: ''
   contextual: true
 - title: 'Little simple brut '
@@ -190,15 +209,6 @@ works:
   description: "cadre en chêne et verre musée  \n202031101  \nprix sur demande "
   price: ''
   contextual: true
-- title: Wood cartel red
-  image: "/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg"
-  technique: Technique mixte sur bois
-  dimensions:
-    height: 106
-    width: 70
-  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande  \n2014053113"
-  price: ''
-  contextual: true
 - title: 'Querelle carbone 4 '
   image: "/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg"
   technique: Technique mixte sur papier
@@ -217,25 +227,6 @@ works:
   description: "Caisse américaine noire  \n2019022501  \nprix sur demande"
   price: ''
   contextual: true
-- title: 'Drawing Trash Color '
-  image: "/forestry/2020031301-drawingtrashcolor-102x70cm 2_bd.jpg"
-  technique: 'Technique mixte sur papier '
-  dimensions:
-    height: 120
-    width: 90
-  description: "cadre blanc sous verre  \n2020031203  \nvendu"
-  price: ''
-  contextual: true
-- title: 'Black and simple color '
-  image: "/forestry/galeriegaia@tomaL-2018091805-blackandsimplecolor-110x80cm copie.jpg"
-  technique: 'Technique mixte sur papier marouflé sur bois '
-  dimensions:
-    height: 109
-    width: 79
-  description: "caisse américaine noire  \n2018091805  \nprix sur demande "
-  price: ''
-  sold: false
-  contextual: true
 - title: 'Black and simple color '
   image: "/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
@@ -245,24 +236,6 @@ works:
   description: "caisse américaine noire  \nprix dans le catalogue et sur demande   \n2018091803"
   price: ''
   contextual: true
-- title: 'Drawing trash color '
-  image: "/forestry/galeriegaia@tomal2020031202-drawingtrashcolor-102x70cm_bd.jpg"
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 100
-    width: 70
-  description: "cadre blanc sous verre  \n2020031202  \nvendu"
-  price: ''
-  contextual: true
-- title: Red side of the man
-  image: "/forestry/galeriegaia@tomaL-2018031701-Redsideohtheman-160x121cm-ES.jpg"
-  technique: technique mixte sur toile en lin
-  dimensions:
-    height: 146
-    width: 107
-  description: "caisse américaine noire  \nprix sur demande "
-  price: ''
-  contextual: false
 - title: 'Drawing black '
   image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
   technique: Technique mixte sur papier
@@ -272,27 +245,6 @@ works:
   description: "caisse américaine chêne  \n2012040601  \nprix sur demande "
   price: ''
   contextual: true
-- title: 'Simple White Trash '
-  image: "/forestry/simple-white-trash.jpg"
-  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
-  dimensions:
-    height: 150
-    width: 95
-    depth: 
-  description: "2017051101  \nprix sur demande "
-  price: ''
-  sold: false
-  contextual: true
-- title: Installation Wood cartel Toma L Nantes 2014
-  image: "/forestry/galerie-gaia-toma-l-installation-nantes2.jpg"
-  technique: 'Technique mixte sur bois '
-  dimensions:
-    height: 100
-    width: 70
-  description: 'Œuvres réalisées pour l''exposition '
-  price: ''
-  contextual: false
-  sold: false
 - title: Projet Vas-y
   image: "/forestry/Toma-L_13deplus-projetvasy_documentaire_02.jpg"
   dimensions:
@@ -326,19 +278,6 @@ works:
   price: 0
   contextual: true
   technique: 'Fresque '
-- title: Il peint sur Nantes Toma L
-  image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: |-
-    Exposition du 21 mars au 30 avril 2020
-    VERNISSAGE 21 MARS 18H
-  price: 
-  sold: false
-  contextual: true
 - title: Bonne pierre bon œil 10
   image: "/forestry/bonne-pierre-bon-oeil-10.jpg"
   technique: Lithographie 4/9
