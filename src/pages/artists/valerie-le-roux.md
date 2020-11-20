@@ -21,6 +21,19 @@ exhibitions:
 - title: EXPOSITION EN COLLABORATION AVEC LES GALERIES LAFAYETTE NANTES
   start: Eté 2018
 works:
+- title: Corail bleu
+  image: "/forestry/corail-bleu.jpg"
+  technique: Sérigraphie  /50
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Fleure jaune
   image: "/forestry/galeriegaia_leroux_sans_92x65-5.jpg"
   technique: Sérigraphie
@@ -33,6 +46,110 @@ works:
   description: Edition en 50 exemplaires signée
   price: 80
   contextual: true
+- title: Poisson russe
+  image: "/forestry/ia.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 92
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Homard cuit
+  image: "/forestry/679.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: '3 poissons rouges '
+  image: "/forestry/862.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Tête à queue orange
+  image: "/forestry/864.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Tête à queue rouge
+  image: "/forestry/863.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Feuille bleue
+  image: "/forestry/feuille-bleue.jpg"
+  technique: Sérigraphie /50
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Végétal jaune
+  image: "/forestry/vegetal-jaune.jpg"
+  technique: Sérigraphie /50
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: "2019"
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Ban
+  image: "/forestry/865.jpg"
+  technique: Sérigraphie
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: ''
+  price: 80
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Flacon noir
   image: "/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg"
   technique: Céramique pièce unique signée
@@ -85,32 +202,6 @@ works:
   contextual: true
   fields:
   - Céramique
-- title: Poisson russe
-  image: "/forestry/ia.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 92
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Homard cuit
-  image: "/forestry/679.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Bouteille
   image: "/forestry/bouteille.jpg"
   technique: Céramique
@@ -137,97 +228,6 @@ works:
   contextual: true
   fields:
   - Céramique
-- title: '3 poissons rouges '
-  image: "/forestry/862.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Tête à queue orange
-  image: "/forestry/864.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Tête à queue rouge
-  image: "/forestry/863.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Ban
-  image: "/forestry/865.jpg"
-  technique: Sérigraphie
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Feuille bleue
-  image: "/forestry/feuille-bleue.jpg"
-  technique: Sérigraphie /50
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Corail bleu
-  image: "/forestry/corail-bleu.jpg"
-  technique: Sérigraphie  /50
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Végétal jaune
-  image: "/forestry/vegetal-jaune.jpg"
-  technique: Sérigraphie /50
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: "2019"
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
 styles:
