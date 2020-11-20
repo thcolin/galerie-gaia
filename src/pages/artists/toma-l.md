@@ -142,15 +142,16 @@ works:
   description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
   price: ''
   contextual: true
-- title: Brut and Simple Color
-  image: "/forestry/galeriegaia@Toma L-brutandsimplecolor-2019111401-196X130cm-bd.jpg"
-  technique: mixte sur toile en lin châssis à clefs
+- title: Querelle carbone 10
+  image: "/forestry/galerie-gaia-toma-l-2019040101-querellecarbone10-150x140cm.jpg"
+  technique: 'Technique mixte sur papier cadre '
   dimensions:
-    height: 196
-    width: 130
+    height: 150
+    width: 140
     depth: 0
-  description: "2019111401  \nVendue"
-  price: 0
+  description: "châssis et cadre à choisir selon votre projet d'installation  \nprix
+    sur le catalogue ou sur demande   \n2019040101"
+  price: ''
   contextual: true
 - title: 'Little trash '
   image: "/forestry/galeriegaia@tomaL-2018020601-Littletrash-115x85cm-ES.jpg"
