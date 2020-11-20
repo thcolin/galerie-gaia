@@ -35,7 +35,7 @@ works:
   price: 850
   contextual: false
 - title: Flacons mis en situation
-  image: "/forestry/galerie-gaia-valerie-leroux-flacon-noir.jpg"
+  image: "/forestry/galerie-gaia-valerie-leroux-flacon-situation.jpg"
   technique: Céramique pièce unique
   fields:
   - Céramique
