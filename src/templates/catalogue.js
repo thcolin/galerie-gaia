@@ -115,7 +115,7 @@ const Catalogue = ({ scrollPosition, ...props }) => {
       type: 'range',
       default: [
         0,
-        artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(parseInt(acc), work.price), 0)), 0)
+        artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(parseInt(acc), parseInt(work.price || 0)), 0)), 0)
       ],
       transform: (page, range) => ({
         ...page,
