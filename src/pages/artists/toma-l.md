@@ -109,6 +109,18 @@ works:
   description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
   price: ''
   contextual: true
+- title: Le catalogue de Toma L pour Galerie Gaia
+  image: "/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Télécharger le catalogue Décembre 2020](/forestry/toma-l_gaiagalerie_19novembre2020.pdf
+    "Thomas labarthe toma l tomas labarte catalogue ")'
+  price: 0
+  contextual: false
 - title: Black and simple color
   image: "/forestry/galeriegaia-toma-l-2018091802-blackandsimplecolor-110x80cm-copie_bd.jpg"
   technique: 'Technique mixte sur papier '
@@ -132,17 +144,6 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Le catalogue de Toma L pour Galerie Gaia
-  image: "/forestry/galerie-gaia-toma-l-catalogue-couverture.png"
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "[Télécharger le catalogue]()"
-  price: 0
-  contextual: false
 - title: White wood and trash
   image: "/forestry/galerie-gaia-toma-l-2016042101-whitewoodandtrashcolor-196x194cm-jl.jpg"
   technique: Technqiue mixte sur bois
