@@ -62,7 +62,7 @@ content:
 
     ![](/forestry/galeriegaia@boisrond-omr.jpg)
 
-    ![](/forestry/20190202_142300.jpg)![](/forestry/20190202_142105.jpg)
+    ![](/forestry/galerie-gaia-defiscalisation-art-2.jpg)![](/forestry/galerie-gaia-defiscalisation-art-omr1.jpg)
   contact:
     display: false
     placeholder: ''
