@@ -15,3 +15,9 @@ The content of this site is managed by Forestry. Visit [https://forestry.io](htt
   `npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5e3f397fe32af10019202ebc`
 1. Starts a development server: `npm run develop`
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+# Restore a deleted file with git history
+
+1. `git log --all --full-history -- static/forestry/[file-name]`
+1. `git checkout [DELETE_COMMIT_SHA]^ -- static/forestry/[file-name]`
+1. `npx gulp`
