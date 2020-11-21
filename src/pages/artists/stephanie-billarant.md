@@ -58,7 +58,7 @@ exhibitions:
 works:
 - title: Ville rêvée N°22
   image: "/forestry/galerie-gaia-stephanie-billarant-ville-reveen-22.jpeg"
-  technique: Création photographique édition en 30 exemplaires
+  technique: Création photographique édition en 7 exemplaires
   fields: []
   styles: []
   dimensions:
