@@ -23,13 +23,14 @@ content:
     \"conception oeuvre\")\n\n## Louer ou acheter une œuvre ?\n\nDeux solutions adaptées
     à des choix stratégiques patrimoniaux et fiscaux différents pour valoriser vos
     espaces de travail.\n\n## **1 . La location financière - leasing**\n\nJ'ai retenu
-    le professionnalisme de la société [**Bail Art**](), pour faciliter l'accès à
-    des œuvres d'art avec la location & option d'achat à la fin du contrat.\n\n* **Capacité
-    d'emprunt** préservée et haut du bilan allégé (hors IFRS)\n* **Étalement du coût
-    d'achat** de **13 à 60 mois**\n* Déduction du résultat imposable et **réduction
-    de l'IS (entreprises)** ou **IRPP (professions libérales)**\n* Au terme du contrat
-    un transfert de propriété vous est proposé;\n* Cela concerne des **artistes vivants
-    ou non**\n\n  [Article \"Du leasing dans l'art\" Gazette Drouot](https://galeriegaia.fr/forestry/Gazette
+    le professionnalisme de la société [**Bail Art**](https://bail-art.com/ \"location
+    leasing oeuvre d'art\"), pour faciliter l'accès à des œuvres d'art avec la location
+    & option d'achat à la fin du contrat.\n\n* **Capacité d'emprunt** préservée et
+    haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13 à 60
+    mois**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
+    ou **IRPP (professions libérales)**\n* Au terme du contrat un transfert de propriété
+    vous est proposé;\n* Cela concerne des **artistes vivants ou non**\n\n  [Article
+    \"Du leasing dans l'art\" Gazette Drouot](https://galeriegaia.fr/forestry/Gazette
     drouot juin 2017.pdf \"Article Gazette Drouot\")\n\n**Calcul pour une œuvre de
     3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir 193€ HT\n* économies d'impôts
     générées 1296€ HT\n* coût global hors économies de charges sociales, IR = 3332€
