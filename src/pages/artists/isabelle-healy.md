@@ -118,7 +118,7 @@ works:
   sold: false
   contextual: false
 - title: La sphère des possibles
-  image: "/forestry/la-sphere-des-possibles.jpg"
+  image: "/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg"
   technique: Bronze 4/8
   dimensions:
     height: 65
