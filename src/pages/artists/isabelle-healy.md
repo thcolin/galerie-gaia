@@ -73,7 +73,7 @@ works:
   price: 3200
   contextual: false
 - title: Les âmes sœurs
-  image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-f.jpg"
+  image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg"
   technique: Bronze
   dimensions:
     height: 42

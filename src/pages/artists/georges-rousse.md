@@ -142,6 +142,18 @@ works:
   price: 3200
   sold: false
   contextual: true
+- title: Exposition Georges Rousse Galerie Gaïa
+  image: "/forestry/gaia_03.jpg"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Exposition avec le Musée Dobré Mars 2019
+  price: ''
+  contextual: false
 redirect_from:
 - "/artistes/93-georges-rousse/"
 styles:
