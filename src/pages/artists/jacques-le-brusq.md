@@ -95,9 +95,8 @@ works:
     height: 42
     width: 61
     depth: 
-  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
-    type coffret - baguette chêne)
-  price: 3000
+  description: Vendu pour la collection de l'artothèque de Nantes
+  price: 
   sold: false
   contextual: false
 - title: Tri Avr Opus1

@@ -171,8 +171,8 @@ works:
     height: 50
     width: 65
     depth: 0
-  description: "2020"
-  price: 1200
+  description: "Vendu pour la collection de l'Artothèque Nantes  \n2020"
+  price: ''
   contextual: true
 - title: Saguaro
   image: "/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
