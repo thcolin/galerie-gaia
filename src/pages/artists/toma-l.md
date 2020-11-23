@@ -120,8 +120,9 @@ works:
     depth: 0
   description: '[Télécharger le catalogue Décembre 2020](/forestry/toma-l_gaiagalerie_19novembre2020.pdf
     "Thomas labarthe toma l tomas labarte catalogue ")'
-  price: 0
+  price: ''
   contextual: false
+  technique: Le catalogue comporte des images en situation et les prix
 - title: Black and simple color
   image: "/forestry/galeriegaia-toma-l-2018091802-blackandsimplecolor-110x80cm-copie_bd.jpg"
   technique: 'Technique mixte sur papier '
