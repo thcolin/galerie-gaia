@@ -37,18 +37,6 @@ biography: |-
   » (…) car  la Vie  n’est  pas  autre  chose  que  la  capacité  de  maintenir  un  état d’équilibre , au  milieu du changement des  évènements « .    tiré du livre de Baghavad-Gita
 exhibitions: []
 works:
-- title: Confluence détail
-  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
-  technique: Bronze en 8 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 58
-    width: 73
-    depth: 0
-  description: ''
-  price: 8400
-  contextual: false
 - title: Confluence
   image: "/forestry/galeriegaia_healy_confluence_73x58.jpg"
   technique: Bronze
@@ -61,6 +49,18 @@ works:
     de convergence de deux cours d'eau."
   price: 8400
   sold: false
+  contextual: false
+- title: Confluence détail
+  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
+  technique: Bronze en 8 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 73
+    depth: 0
+  description: ''
+  price: 8400
   contextual: false
 - title: Les âmes sœurs
   image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg"
@@ -106,15 +106,15 @@ works:
   price: 2500
   sold: false
   contextual: false
-- title: Firmaman
-  image: "/forestry/firmaman.jpg"
-  technique: Bronze 6/8
+- title: Les vacances
+  image: "/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg"
+  technique: Bronze 8 exemplaires
   dimensions:
-    height: 51
-    width: 8
-    depth: 7
+    height: 16
+    width: 43
+    depth: 5
   description: Disponible sur commande
-  price: 1900
+  price: 3800
   sold: false
   contextual: false
 - title: La sphère des possibles
@@ -126,19 +126,6 @@ works:
     depth: 13
   description: Disponible sur commande
   price: 4200
-  sold: false
-  contextual: false
-- title: L étoile qui danse
-  image: "/forestry/l-etoile-qui-danse.jpg"
-  technique: Bronze 2/8
-  dimensions:
-    height: 21
-    width: 12
-    depth: 6
-  description: 'Disponible sur commande
-
-'
-  price: 1200
   sold: false
   contextual: false
 - title: Notre Héritage
