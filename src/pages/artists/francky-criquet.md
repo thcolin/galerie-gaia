@@ -8,6 +8,8 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Francky Criquet
+
   Francky Criquet, né le 19 septembre 1968 à La Flèche (Sarthe), est issu d’une longue lignée de ferrailleurs-brocanteurs. Son père est natif de Fort de France, et sa mère, née à Orbec (Calvados), est normande.
 
   Tout jeune, Francky se passionne pour les objets d’art de toutes sortes qu’il voit passer autour de lui et notamment pour les dessins et les peintures. Cette expérience le marque pour toujours et fait naître en lui le désir de dessiner, de peindre et de modeler pour son pur plaisir avec un grand talent précoce.

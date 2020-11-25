@@ -7,7 +7,8 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: ''
+biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEGLE
+  JAFFE GAROUSTE "
 exhibitions: []
 works:
 - title: 'Tapiès '

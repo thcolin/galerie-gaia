@@ -7,31 +7,29 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "\"Voilà plus d’une dizaine d’années que je travaille la terre glaise,
-  au sein de l’atelier de Rrose Sélavy à Paris, réalisant ainsi des sculptures aux
-  formes et visages multiples, issus d’univers qui leur sont propres, qui ont évolué
-  au gré de mes inspirations et de mes moments de vie. C’est la passion qui leur a
-  donné corps !\nMa vie professionnelle m’emporte vers des sphères toutes autres,
-  où l’on négocie, l’on vend,  l’on distribue … où la loi de l’offre et la demande
-  occupe tout l’espace, où le cartésien domine…\nDepuis l’enfance, c’est la passion
-  du dessin, de la photo et de la bande dessinée qui n’a de cesse de grandir en moi
-  jusqu’à se transformer en une véritable évidence. C’est ainsi que naturellement
-  est née cette aventure.  Enfin, mon attirance pour l’image a pu s’exprimer : le
-  travail de l’argile m’a permis de créer en 3D. Mais pas seulement … ! A travers
-  la sculpture, je me suis  retrouvée en capacité d’exprimer ce que je ressens de
-  plus profond : c’est toute ma vivacité, mon énergie que je mobilise alors. Ainsi
-  travaillant à mains nues, amenant de la matière sur mes pièces, je raconte une histoire,
-  empreinte de réalisme, de poésie ou de pure fiction.  Mon imagination, ma technique
-  se libèrent !\n\nLa sculpture, par la technique, permet de mettre mes émotions en
-  formes. Je passe de la pensée, à la concentration silencieuse et solitaire, au bouillonnement
+biography: "# Virginie Chardon \n\n\"Voilà plus d’une dizaine d’années que Virginie
+  Chardon travaille la terre glaise, au sein de l’atelier de Rrose Sélavy à Paris,
+  réalisant ainsi des sculptures aux formes et visages multiples, issus d’univers
+  qui leur sont propres, qui ont évolué au gré de ses inspirations et des moments
+  de vie. C’est la passion qui leur a donné corps !   \nDepuis l’enfance, c’est la
+  passion du dessin, de la photo et de la bande dessinée qui n’a de cesse de grandir
+  en elle jusqu’à se transformer en une véritable évidence. C’est ainsi que naturellement
+  est née cette aventure.  Enfin, son attirance pour l’image a pu s’exprimer : le
+  travail de l’argile  permet à Virginie Chardon de créer en 3D.  \nMais pas seulement
+  … ! A travers la sculpture, la sculptrice  retrouve sa capacité d’exprimer ce qu'elle
+  ressent de plus profond :  vivacité et énergie. Ainsi travaillant à mains nues,
+  amenant de la matière sur mes pièces, Virginie Chardon raconte une histoire, empreinte
+  de réalisme, de poésie ou de pure fiction.  Son imagination, et la technique se
+  libèrent !\n\nLa sculpture, par la technique, permet de mettre mes émotions en formes.
+  L'artiste passe de la pensée, à la concentration silencieuse et solitaire, au bouillonnement
   créatif, au travail physique, à la contemplation, au questionnement, aux certitudes
-  … Je sculpte,  Je modèle, je me régale !  Des mois de travail pour chacune de mes
-  pièces, mais, quel bonheur de voir se dessiner ces animaux, ces visages, ces personnages,
-  et avec eux leur histoire !\n\nVous trouverez dans mon travail des sujets inspirés
-  d’illustrations issus du monde animalier, de dessins de BD, des visages qui sortent
-  tout droit de mes rêves et sans doute aussi de mes rencontres. Une source inépuisable
-  d’inspiration.\"\n\nVirginie Chardon\n\n**EXPOSITIONS**\n\n**2018** :  \nOctobre
-  :_13ème Biennale de sculpture animalière de Rambouillet_ – **PRIX D’HONNEUR**\n\n**2019**
+  … Virginie Chardon sculpte, modèle, elle se régale !  Des mois de travail pour chacune
+  de ses pièces, mais, quel bonheur de voir se dessiner ces animaux, ces visages,
+  ces personnages, et avec eux leur histoire !\n\nVous trouverez dans son travail
+  des sujets inspirés d’illustrations issus du monde animalier, de dessins de BD,
+  des visages qui sortent tout droit de ses rêves et sans doute aussi de ses rencontres.
+  Une source inépuisable d’inspiration.\"\n\n**Virginie Chardon**\n\n**EXPOSITIONS**\n\n**2018**
+  :  \nOctobre :_13ème Biennale de sculpture animalière de Rambouillet_ – **PRIX D’HONNEUR**\n\n**2019**
   :  \nFévrier : _ART CAPITAL_ - Grand Palais - Paris  \nFévrier à Avril : _GALERIE
   GAÎA_ - Nantes  \nMai : _WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD_ - Mall
   Galleries London  \nNovembre- Décembre : _SNAA_ Salon Nationale des Artistes Animaliers
