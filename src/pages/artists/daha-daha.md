@@ -8,6 +8,8 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Damien Hamon Daha
+
   Designer ébéniste, talent qui s'exprime sur le fil entre art et artisanat, chaque pièce est unique.
   Présent en galerie à Paris et New York et à la Galerie Gaïa.
 
