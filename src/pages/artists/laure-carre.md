@@ -138,6 +138,30 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: En toi
+  image: "/forestry/galerie-gaia-laure-carre-en-toi-54x81.jpeg"
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 54
+    width: 81
+    depth: 0
+  description: "2020"
+  price: 1300
+  contextual: true
+- title: Au pas
+  image: "/forestry/galerie-gaia-laure-carre-au-pas-25x34.jpeg"
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 25
+    width: 34
+    depth: 0
+  description: "2020"
+  price: 300
+  contextual: true
 - title: 'Jamais sans mon arbre '
   image: "/forestry/galerie-gaia-laure-carre-jamais-sans-mon-arbre-80x80.JPG"
   technique: Huile sur toile et technique mixte
@@ -272,17 +296,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Salle d'attente
-  image: "/forestry/salle-dattente.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 200
-    width: 200
-    depth: 
-  description: ''
-  price: 6000
-  sold: false
-  contextual: false
 - title: La boxeuse amoureuse
   image: "/forestry/la-boxeuse-amoureuse.jpg"
   technique: Huile sur toile technique mixte
@@ -331,32 +344,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'Autoportrait '
-  image: "/forestry/autoportrait-616.jpg"
-  technique: Lithographie 6/16
-  dimensions:
-    height: 50
-    width: 33
-    depth: 
-  description: '2017 '
-  price: 200
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: In the wood for love
-  image: "/forestry/galeriegaia@laurecarre-inthewoodforlove-collage.jpg"
-  technique: mixte
-  dimensions:
-    height: 37
-    width: 44
-    depth: 
-  description: "2019"
-  price: 300
-  sold: false
-  contextual: false
-  fields:
-  - Oeuvre sur papier
 - title: Un ami la nuit
   image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
   technique: 'Huile sur toile '
@@ -367,15 +354,16 @@ works:
   description: 2020 vendu
   price: ''
   contextual: true
-- title: Portrait Laure Carré
-  image: "/forestry/galeriegaia-laure carré portrait.jpeg"
+- title: Portrait de Laure Carré
+  image: "/forestry/salle-dattente.jpg"
+  technique: '"Salle d''attente" Huile sur toile'
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Vidéo](https://www.youtube.com/watch?v=_yZm3PLM4Z4 "laure carré galerie
-    gaia entretien") Entretien Décadré de Laure Carré par Galerie Gaïa'
-  price: ''
+    height: 200
+    width: 200
+    depth: 
+  description: ''
+  price: 6000
+  sold: false
   contextual: false
 redirect_from:
 - "/artistes/76-laure-carre/"
