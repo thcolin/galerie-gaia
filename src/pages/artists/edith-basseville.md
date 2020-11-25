@@ -8,9 +8,9 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
-  **Édith Basseville, « squelettrice»**
+  # Édith Basseville
 
-  Née en Bourgogne en 1977 Édith Basseville est issue d’une famille de naturalistes et d’amateurs d’art, influencée par les collections d’objets de ses grands-parents, elle sillonne la campagne, observe l’insolite dans son environnement et collectionne dès sa jeunesse des fragments de nature. Aussi, elle photographie et dessine ce qui pourrait devenir source d’inspiration.
+  **Squelettrice :** née en Bourgogne en 1977 Édith Basseville est issue d’une famille de naturalistes et d’amateurs d’art, influencée par les collections d’objets de ses grands-parents, elle sillonne la campagne, observe l’insolite dans son environnement et collectionne dès sa jeunesse des fragments de nature. Aussi, elle photographie et dessine ce qui pourrait devenir source d’inspiration.
 
   1996 des études de stylisme au cours desquelles elle dessine les corps et leur parure, modèle le tissu et expérimente autour de la matière textile avec intérêt. Mais concevoir des collections de vêtements destinés à une production industrielle ne lui convient pas et elle décide alors de pousser les limites de cette discipline. En 2000, elle obtient un diplôme de sculpture à l’École Nationale Supérieure des Arts appliqués et des Métiers d’Art où elle élabore des recherches autour de la trame textile en aplanissant, tressant et tissant les fils métalliques pour les déployer ensuite dans l’espace. En 2001, Edith Basseville intégre un atelier de conservation-restauration d’objets ethnographiques et d’œuvres sculptées pour les monuments historiques et à se spécialiser dans le « soclage » de collections pour des musées nationaux et collectionneurs privés.
 
