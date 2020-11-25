@@ -8,6 +8,8 @@ birth: "1948"
 death: "2011"
 expose: true
 biography: |-
+  # Jean-Paul Friol
+
   Un monde de passion: peinture, vin, musique, tous les sens de manière exacerbée ...
 
   Jean-Paul Friol est né le 12 septembre 1948 à Paris dans une famille modeste. Ses parents, férus de culture et d’art, le familiarise à la peinture, la sculpture la littérature. A l’âge de neuf ans il réalise sa première œuvre en marqueterie, l’ile de Ré, revisitée par des masses colorées. L’art étant toutefois considéré comme un loisir et non comme un métier, sa mère l’oriente et le conditionne à faire des études de médecine. Il se spécialisera en chirurgie de la main, et partagera sa vie entre ces deux amours, la science et l’art.

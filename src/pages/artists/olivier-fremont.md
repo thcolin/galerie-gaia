@@ -8,6 +8,8 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Olivier Fremont
+
   _L'artiste et la matière : esthétique d'un songe partagé_
 
   _Sur l'pont de Nantes_, parmi les _enfants obstinés_, se détache une figure singulière, celle d'Olivier Frémont. C'est en 2014, lorsque ce dernier proposa sa sculpture pour l'exposition du Salon d'Automne International à Saint-Petersbourg que nous découvrions cet artiste inimitable.

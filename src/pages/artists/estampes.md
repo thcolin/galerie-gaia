@@ -45,6 +45,22 @@ works:
   description: Exposition Barcelone 1973
   price: 145
   contextual: true
+- title: Georg Baselitz - Sigmund (15/15)
+  image: "/forestry/georg-baselitz-sigmund-1515.jpg"
+  technique: Eau forte
+  dimensions:
+    height: 85
+    width: 63
+    depth: 
+  description: |-
+    # Georg Baselitz
+
+    1999-2000
+  price: 2900
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: 'Eloïse Van Der Heyden - Mimosa #15'
   image: "/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg"
   technique: monotype variation 2
@@ -58,21 +74,6 @@ works:
   description: ''
   price: 900
   contextual: true
-- title: Georg Baselitz - Sigmund (15/15)
-  image: "/forestry/georg-baselitz-sigmund-1515.jpg"
-  technique: Eau forte
-  dimensions:
-    height: 85
-    width: 63
-    depth: 
-  description: '1999-2000
-
-'
-  price: 2900
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Pierre Alechinsky - "Ziggourat II"
   image: "/forestry/pierre-alechinsky-ziggourat-ii.jpg"
   technique: Lithographie

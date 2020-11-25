@@ -6,8 +6,10 @@ fields:
 - Oeuvre sur papier
 birth: "1926"
 death: "2016"
-expose: false
+expose: true
 biography: |-
+  # François Morellet
+
   1952 – Premiers systèmes
   Les œuvres de François Morellet sont exécutés d’après un système : chaque choix est défini par un principe établi par avance. Il veut par là donner l’impression de contrôler la création artistique tout en laissant une part de hasard, ce qui donne un tableau imprévisible. Il utilise des formes simples, un petit nombre de couleurs en aplats, et des compositions élémentaires (juxtaposition, superposition, hasard, interférence, fragmentation). Il crée ainsi ses premières  » trames », des réseaux de lignes parallèles noires superposées selon un ordre déterminé qui recouvrent toute la surface des tableaux.
 
