@@ -11,51 +11,48 @@ biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEG
   JAFFE GAROUSTE "
 exhibitions: []
 works:
-- title: 'Tapiès '
-  technique: Affiche
+- title: Tapiès Exposition Galerie Maeght 1975
+  technique: Affiche de collection en parfait état
   dimensions:
     height: 72
     width: 56
     depth: 0
-  description: "# Tapiès Exposition Maeght   \n1975"
-  price: 145
+  description: "# Tapiès Exposition Maeght"
+  price: 140
   contextual: true
   image: "/forestry/galerie-gaia-tapies-maeght72x56.jpg"
   styles:
   - abstrait
-- title: Chilida exposition 1971 Barcelone
-  technique: 'Affiche '
+- title: Chillida Exposition 1971 Barcelone
+  technique: Affiche de collection en parfait état
   dimensions:
     height: 70
     width: 50
     depth: 0
-  description: 'Parfait état '
-  price: 145
+  description: "# Chillida"
+  price: 140
   contextual: true
   image: "/forestry/galerie-gaia-chilida70x50.jpg"
   styles:
   - abstrait
-- title: Miró
+- title: Miró Exposition Barcelone 1973
   image: "/forestry/galerie-gaia-miro-1973-75x57.jpg"
-  technique: Affiche
+  technique: Affiche de collection en parfait état
   dimensions:
     height: 75
     width: 57
     depth: 0
-  description: Exposition Barcelone 1973
-  price: 145
+  description: "# Miro "
+  price: 140
   contextual: true
-- title: Georg Baselitz - Sigmund (15/15)
+- title: 'Georg Baselitz - Sigmund '
   image: "/forestry/georg-baselitz-sigmund-1515.jpg"
-  technique: Eau forte
+  technique: Eau forte (15/15)
   dimensions:
     height: 85
     width: 63
     depth: 
-  description: |-
-    # Georg Baselitz
-
-    1999-2000
+  description: "# Georg Baselitz"
   price: 2900
   sold: false
   contextual: true
@@ -71,7 +68,7 @@ works:
     height: 54
     width: 42
     depth: 0
-  description: ''
+  description: "# Eloïse Van Der Heyden"
   price: 900
   contextual: true
 - title: Pierre Alechinsky - "Ziggourat II"
