@@ -128,7 +128,7 @@ works:
   - Figuratif
 - title: Jean Messagier - Les porteurs de presqu'île
   image: "/forestry/messagier-les-porteurs-de-presquile.jpg"
-  technique: 'Pointe sèche et aquatinte 1966 '
+  technique: 'Pointe sèche et aquatinte Epreuve d''artiste 1966 '
   dimensions:
     height: 55
     width: 75
@@ -139,94 +139,90 @@ works:
   contextual: true
 - title: Gérard Traquandi sans titre (rose)
   image: "/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg"
-  technique: 'Aquatinte 3/19 '
+  technique: Aquatinte 3/19 2006
   fields: []
   styles: []
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "2006"
+  description: "# Gérard Traquandi"
   price: 700
   contextual: true
 - title: Gérard Traquandi sans titre (cuivré)
   image: "/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg"
-  technique: Aquatinte 4/19
+  technique: Aquatinte 4/19 2006
   fields: []
   styles: []
   dimensions:
     height: 66
     width: 50
     depth: 0
-  description: "2006"
+  description: "# Gérard Traquandi"
   price: 700
   contextual: true
-- title: Duo de Tranquandi en situation
+- title: Gérard Tranquandi duo en situation
   image: "/forestry/galerie-gaia-tranquandi-duo.jpg"
   technique: Aquatinte
   dimensions:
     height: 80
     width: 60
     depth: 0
-  description: ''
-  price: 0
+  description: "# Gérard Traquandi"
+  price: 1500
   contextual: false
-- title: Traquandi - Sans Titre (orange) (12/19)
+- title: 'Gérard Traquandi - Sans Titre (orange) '
   image: "/forestry/traquandi-sans-titre-orange-1219.jpg"
-  technique: Aquatinte
+  technique: Aquatinte 12/19
   dimensions:
     height: 80
     width: 61
     depth: 
-  description: |-
-    2013
-    800€
-  price: 
+  description: "# Gérard Traquandi"
+  price: 800
   sold: false
   contextual: true
-- title: Traquandi - Sans Titre (noir) (12/19)
+- title: 'Traquandi - Sans Titre (noir) '
   image: "/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg"
-  technique: Aquatinte
+  technique: Aquatinte 12/19 2013
   dimensions:
     height: 80
     width: 61
     depth: 
-  description: |-
-    2013
-    800€
-  price: 
+  description: "# Gérard Traquandi"
+  price: 800
   sold: false
   contextual: true
-- title: Gérard Traquandi - sans titre (5/19)
+- title: 'Gérard Traquandi - sans titre '
   image: "/forestry/galerie-gaia-gerard-traquandi-trait3-66x50.jpg"
-  technique: Eau forte
+  technique: Eau forte 5/19 2006
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: "2006"
+  description: "# Gérard Traquandi"
   price: 700
   sold: false
   contextual: true
-- title: Gérard Traquandi - Sans titre  (16/19)
+- title: 'Gérard Traquandi - Sans titre  '
   image: "/forestry/galerie-gaia-gerard-traquandi-ange-66x50.jpg"
-  technique: Eau forte
+  technique: Eau forte 16/19 2006
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: "2006"
+  description: "# Gerard Traquandi "
   price: 400
   sold: false
   contextual: true
-- title: Gérard Traquandi - Sans titre (16/19)
+- title: 'Gérard Traquandi - Sans titre '
   image: "/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
-  technique: Eau forte
+  technique: Eau forte 16/19 2006
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: "2006"
+  description: "# Gerard Traquandi"
   price: 550
   sold: false
   contextual: true
