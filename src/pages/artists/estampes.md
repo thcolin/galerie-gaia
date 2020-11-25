@@ -73,21 +73,22 @@ works:
   contextual: true
 - title: Pierre Alechinsky - "Ziggourat II"
   image: "/forestry/pierre-alechinsky-ziggourat-ii.jpg"
-  technique: Lithographie
+  technique: Lithographie 19/66 1985
   dimensions:
     height: 72
     width: 50
     depth: 
   description: |-
-    1985
-    1200€
-  price: 
+    Pierre Alechinsky
+
+    =
+  price: 1200
   sold: false
   contextual: true
   styles:
   - Figuartif
-- title: 'Le pêcheur Hervé Di Rosa '
-  technique: 'Eau forte 48/60 '
+- title: 'Hervé Di Rosa - Le promeneur '
+  technique: Eau forte 48/60 1987
   fields: []
   styles:
   - Figuratif
@@ -95,48 +96,44 @@ works:
     height: 56
     width: 76
     depth: 0
-  description: '1987 '
+  description: "# Hervé Di Rosa"
   price: 1600
   contextual: true
   image: "/forestry/galerie-gaia-di-rosa-eau-forte-__le-promeneur__.jpg"
-- title: Hervé Di Rosa - Le Pêcheur 29/60
+- title: " Hervé Di Rosa - Le Pêcheur "
   image: "/forestry/herve-di-rosa-le-pecheur-2960.jpg"
-  technique: Aquatinte, eau forte
+  technique: Aquatinte, eau forte 29/60 encadrée baguette chêne
   dimensions:
     height: 125
     width: 87
     depth: 
-  description: œuvre encadrée
+  description: "# Hervé Di Rosa"
   price: 1600
   sold: false
   contextual: true
   styles:
   - Figuratif
-- title: Buraglio - "A Jean-Jacques Rousseau" (2/12)
+- title: 'Buraglio - "A Jean-Jacques Rousseau" '
   image: "/forestry/buraglio-a-jean-jacques-rousseau-212.jpg"
-  technique: Epreuve pigmentaire
+  technique: Epreuve pigmentaire 2/12 2019
   dimensions:
     height: 66
     width: 48
     depth: 
-  description: |-
-    2019
-    700€
-  price: 
+  description: "# Buraglio "
+  price: 700
   sold: false
   contextual: true
   styles:
   - Figuratif
-- title: Messagier - Les porteurs de presqu'île
+- title: Jean Messagier - Les porteurs de presqu'île
   image: "/forestry/messagier-les-porteurs-de-presquile.jpg"
-  technique: Pointe sèche et aquatinte
+  technique: 'Pointe sèche et aquatinte 1966 '
   dimensions:
     height: 55
     width: 75
     depth: 
-  description: '1966
-
-'
+  description: "# Jean Messagier"
   price: 850
   sold: false
   contextual: true
@@ -370,12 +367,12 @@ works:
   contextual: true
 - title: 'Pierre Alechinsky - "Writing Book" '
   image: "/forestry/pierre-alechinsky-writing-book-6599.jpg"
-  technique: Lithographie 65/99
+  technique: Lithographie 65/99 encadrée baguette chêne verre musée anti-reflet
   dimensions:
     height: 48
     width: 64
     depth: 
-  description: "1982   \nOeuvre encadré  baguette chêne et  verre musée anti-reflet"
+  description: "# Pierre Alechinsky"
   price: 1400
   sold: false
   contextual: true
