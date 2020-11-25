@@ -8,17 +8,20 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Annick Argant
+
   Annick Argant sculpte depuis 1983. Elle obtient le prix Bréauté en 2007 par l'Académie Française des Beaux Arts pour son oeuvre l'Oiseau-enclume.
   Les oeuvres de Annick ARGANT sont exposées à la Galerie Gaïa depuis 2016 et par les galeries Lindengruen à Wien (Autriche) et Ze Art à Dinard.
-
-  www.lindengruen.at
-  www.zeartgalerie.com
 
   "Décrire avec justesse mes intentions artistiques n’est pas simple.
   Elles naissent de mon monde intérieur, d’une quête et d’un combat nés d’un monde qui m’entoure, une nostalgie de l’idéal et des nobles inspirations de l’esprit.
   La sincérité, l’authenticité, l’exigence et la discipline s’imposent dans toutes mes recherches artistiques. Elles me conduisent à cet éclairage, à cette révélation de l’essentiel là ou la simplicité tutoie la complexité, là ou la beauté tutoie la laideur, là ou la douceur tutoie la cruauté pour ensuite offrir à ce monde extérieur un jardin silencieux, sensible et subtil où pousse un équilibre fragile, un besoin vital de l’existence telle que l’espérance, la beauté et l’amour."
 
   Annick Argant
+
+  [www.lindengruen.at ](www.lindengruen.at www.zeartgalerie.com "galerie lindengruen autriche")
+
+  [www.zeartgalerie.com](www.lindengruen.at www.zeartgalerie.com "galerie art dinard")
 exhibitions:
 - title: En permanence à la galerie Lindengruen    www.lindengruen.at
   location: Vienne Autriche
