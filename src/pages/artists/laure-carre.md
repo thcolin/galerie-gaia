@@ -138,6 +138,57 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Nostalgie
+  image: "/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg"
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: "2020"
+  price: 500
+  contextual: true
+- title: Walking shadow
+  image: "/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg"
+  technique: Dessin huile sur papier encadrement baguette chêne
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 29
+    width: 31
+    depth: 0
+  description: "2020"
+  price: 330
+  contextual: true
+- title: 'Ombre rebelle '
+  image: "/forestry/galerie-gaia-laure-carre-ombre-rebelle-20x30.jpeg"
+  technique: Dessin huile sur papier encadrement baguette chêne
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 20
+    width: 30
+    depth: 0
+  description: "2020"
+  price: 330
+  contextual: true
+- title: Jeune femme assise
+  image: "/forestry/galerie-gaia-laure-carre-jeune-fe-assise-30x22.jpeg"
+  technique: Dessin huile sur papier encadrée baguette chêne
+  fields:
+  - oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 30
+    width: 22
+    depth: 0
+  description: "2020"
+  price: 330
+  contextual: true
 - title: En toi
   image: "/forestry/galerie-gaia-laure-carre-en-toi-54x81.jpeg"
   technique: Huile sur toile
