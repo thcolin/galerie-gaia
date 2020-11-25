@@ -226,66 +226,63 @@ works:
   price: 550
   sold: false
   contextual: true
-- title: Antonio Saura - Francisco de Goya (WCC 280) (96/125)
+- title: 'Antonio Saura - Francisco de Goya (WCC 280) '
   image: "/forestry/antonio-saura-francisco-de-goya-wcc-280-96125.jpg"
-  technique: Zincographie en couleur et 4 timbres humides
+  technique: Zincographie en couleur et 4 timbres humides 96/125 1977
   dimensions:
     height: 59
     width: 78
     depth: 
-  description: '1977
-
-'
+  description: "# Antonio Saura"
   price: 1980
   sold: false
   contextual: true
   styles:
   - Figuratif
-- title: Claude Viallat - Sans Titre (E/E)
+- title: 'Claude Viallat - Sans Titre '
   image: "/forestry/claude-viallat-sans-titre-ee.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie E/E 1997
   dimensions:
     height: 64
     width: 49
     depth: 
-  description: '1997
-
-'
+  description: "# Claude Viallat"
   price: 600
   sold: false
   contextual: true
-- title: Villeglé - Sans Titre (47/50)
+- title: 'Villeglé - Sans Titre '
   image: "/forestry/villegle-sans-titre-4750.jpg"
-  technique: Sérigraphie
+  technique: Sérigraphie 47/50 1989
   dimensions:
     height: 65
     width: 50
     depth: 
-  description: '1989
-
-'
+  description: "# Villéglé Jacques "
   price: 800
   sold: false
   contextual: true
-- title: Villeglé - Sans Titre (1/9)
+- title: 'Villeglé - Sans Titre '
   image: "/forestry/villegle-sans-titre-19.jpg"
-  technique: ''
+  technique: Sérigraphie 1/9
   dimensions:
     height: 65
     width: 50
     depth: 
-  description: ''
+  description: "# Villéglé Jacques de"
   price: 800
   sold: false
   contextual: true
-- title: Jacques Villeglé - Tréméac
+- title: Villeglé - Tréméac
   image: "/forestry/jacques-villegle-tremeac.jpg"
-  technique: Lithographie
+  technique: Lithographie 1994 /100
   dimensions:
     height: 35
     width: 26
     depth: 
-  description: "1994  \n 550€ encadré"
+  description: |-
+    # Jacques de la Villéglé
+
+    550€ encadrée
   price: 400
   sold: false
   contextual: true
