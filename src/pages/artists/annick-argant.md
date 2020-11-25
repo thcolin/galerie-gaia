@@ -19,9 +19,7 @@ biography: |-
 
   Annick Argant
 
-  [www.lindengruen.at ](www.lindengruen.at www.zeartgalerie.com "galerie lindengruen autriche")
-
-  [www.zeartgalerie.com](www.lindengruen.at www.zeartgalerie.com "galerie art dinard")
+  [www.lindengruen.at ](https://www.lindengruen.at/ "galerie lindengruen autriche")
 exhibitions:
 - title: En permanence à la galerie Lindengruen    www.lindengruen.at
   location: Vienne Autriche
