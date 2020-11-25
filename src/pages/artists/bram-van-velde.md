@@ -7,26 +7,42 @@ fields:
 birth: "1895"
 death: "1981"
 expose: true
-biography: "L'artiste est né en 1895 à Zoeterwoude, au Pays-Bas. Issu de famille pauvre
-  et autodidacte, il fut attiré très jeune par la peinture. A douze ans, Bram Van
-  Velde travaille comme apprenti au sein d'un atelier de peinture et de décoration.
-  L'artiste fut grandement influencé par les expressionnistes allemands, et recevra,
-  à Paris, l'influence des fauves et surtout de Matisse. \nDès l'après guerre, l'artiste
-  maîtrisera entièrement le langage plastique, qui caractérisera l'ensemble de son
-  oeuvre. Les tensions intérieures qui animent le peintre, matérialiseront sa conception
-  de l'espace au sein de ces œuvres, teintée de sa personnalité. Ses compositions
-  traduisent une transparence lumineuse.\n\nIl meurt en 1981 à Grimaud.\n\n962-1964\nExposition
-  rétrospective à la Knoedler Gallery (New York), à la Galerie Krugier (Genève) et
-  au Walker Art Center (Minneapolis).\n\n1970-1971\nExposition rétrospective au Musée
-  national d'art moderne de Paris.\n\n1973-1974\nExposition à la Fondation Maeght.\n\n1984\n\"Oeuvre
-  lithographié 1979-1981\", Cabinet des estampes, Musée d'art et d'histoire, Genève,
-  Suisse.\n\n1989-1990 \nBram van Velde : Bonnefanstenmusuem, Maastricht - Musée national
-  d'art moderne, Paris - IVAM, Valencia - Reina Sofia, Madrid\n\n1995 \n'Bram van
-  Velde/ Peintures Noires 1895 - 1981', Cabinet des estampes, Musée d'art et d'histoire,
-  Genève, Suisse\n\n1996 \nBram van Velde 1951-1981 - Rétrospective du centenaire,
-  Musée Rath, Genève, Suisse\n\n2006 \nBram van Velde, Dordrechts Museum, Dordrecht\n\n2010\nBram
-  et Geer Van Velde - Deux peintres, un nom, Musée des Beaux-Arts de Lyon, Lyon\n\n2011\nBram
-  van Velde - Geer Van Velde, Museum Belvédère, Heerenveen"
+biography: |-
+  # Bram Van Velde
+
+  Bram Van Velde artiste  né en 1895 à Zoeterwoude, au Pays-Bas, issu de famille pauvre et autodidacte, fut attiré très jeune par la peinture. A douze ans, Bram Van Velde travaille comme apprenti au sein d'un atelier de peinture et de décoration. Bram Vanvelde fut grandement influencé par les expressionnistes allemands, et recevra, à Paris, l'influence des fauves et surtout de Matisse. Dès l'après guerre, l'artiste maîtrisera entièrement le langage plastique, qui caractérisera l'ensemble de son œuvre. Les tensions intérieures qui animent le peintre, matérialiseront sa conception de l'espace au sein de ces œuvres, teintée de sa personnalité. Ses compositions traduisent une transparence lumineuse.
+
+  Il meurt en 1981 à Grimaud.
+
+  962-1964
+  Exposition rétrospective à la Knoedler Gallery (New York), à la Galerie Krugier (Genève) et au Walker Art Center (Minneapolis).
+
+  1970-1971
+  Exposition rétrospective au Musée national d'art moderne de Paris.
+
+  1973-1974
+  Exposition à la Fondation Maeght.
+
+  1984
+  "Oeuvre lithographié 1979-1981", Cabinet des estampes, Musée d'art et d'histoire, Genève, Suisse.
+
+  1989-1990
+  Bram van Velde : Bonnefanstenmusuem, Maastricht - Musée national d'art moderne, Paris - IVAM, Valencia - Reina Sofia, Madrid
+
+  1995
+  'Bram van Velde/ Peintures Noires 1895 - 1981', Cabinet des estampes, Musée d'art et d'histoire, Genève, Suisse
+
+  1996
+  Bram van Velde 1951-1981 - Rétrospective du centenaire, Musée Rath, Genève, Suisse
+
+  2006
+  Bram van Velde, Dordrechts Museum, Dordrecht
+
+  2010
+  Bram et Geer Van Velde - Deux peintres, un nom, Musée des Beaux-Arts de Lyon, Lyon
+
+  2011
+  Bram van Velde - Geer Van Velde, Museum Belvédère, Heerenveen
 exhibitions: []
 works:
 - title: 'MP 350 '

@@ -7,21 +7,26 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "Artiste français, installé sur la région nantaise, Dimitri Bourriau est
-  graphiste de formation. Il s'intéresse depuis toujours à l'histoire et aux vestiges
-  architecturaux.\n\nC’est en 2013 qu’il développe son intérêt pour la photographie
-  de patrimoine en désuétude.\n\nSa première exploration fut un ancien cimetière de
-  navires militaire.\n\nPour ces missions méticuleusement préparée Dimitri Bourriau
-  sillonne le globe à la recherche de lieux en déclin. Il attire notre attention sur
-  notre civilisation en constante mutation et notre mémoire éphémère.\n\nSes dernières
-  découvertes l'ont conduit sur les traces du programme de vaisseau spatial soviétique
-  Buran à Baïkonour (Kazakhstan).\n\nEn 2017 il devient ambassadeur Manfrotto et en
-  2018 c'est Irix, la marque d'objectif ultra grand-angle d'origine Suisse qui propose
-  à Dimitri Bourriau de devenir leur ambassadeur.\n\nSes images sont éditées en seulement
-  15 exemplaires pour vous garantir une meilleure exclusivité de ses photos.\n\nEn
-  2020 lauréat du concours Siena International Photo Awards (SIPA Contest) Drone Photo
-  Adwards catégorie Urban pour Soviet space shuttles.\n\n[Vidéo](https://youtu.be/unMbFirj_Jo
-  \"dimitri bourriau\") de Dimitri Bourriau avec Paul et Clément dans leurs aventures "
+biography: |-
+  # Dimitri Bourriau
+
+  Artiste français, installé sur la région nantaise, Dimitri Bourriau est graphiste de formation. Il s'intéresse depuis toujours à l'histoire et aux vestiges architecturaux.
+
+  C’est en 2013 qu’il développe son intérêt pour la photographie de patrimoine en désuétude.
+
+  Sa première exploration fut un ancien cimetière de navires militaire.
+
+  Pour ces missions méticuleusement préparée Dimitri Bourriau sillonne le globe à la recherche de lieux en déclin. Il attire notre attention sur notre civilisation en constante mutation et notre mémoire éphémère.
+
+  Ses dernières découvertes l'ont conduit sur les traces du programme de vaisseau spatial soviétique Buran à Baïkonour (Kazakhstan).
+
+  En 2017 il devient ambassadeur Manfrotto et en 2018 c'est Irix, la marque d'objectif ultra grand-angle d'origine Suisse qui propose à Dimitri Bourriau de devenir leur ambassadeur.
+
+  Ses images sont éditées en seulement 15 exemplaires pour vous garantir une meilleure exclusivité de ses photos.
+
+  En 2020 lauréat du concours Siena International Photo Awards (SIPA Contest) Drone Photo Adwards catégorie Urban pour Soviet space shuttles.
+
+  [Vidéo](https://youtu.be/unMbFirj_Jo "dimitri bourriau") de Dimitri Bourriau avec Paul et Clément dans leurs aventures
 exhibitions: []
 works:
 - title: Théâtre de Bel Air

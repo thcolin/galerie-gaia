@@ -7,24 +7,24 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "**Nantes, ville de rêve ou ville rêvée ?**\n\nStéphanie Billarant est
-  une rêveuse éveillée qui promène son regard sur le monde et transfigure la banalité
-  du quotidien en provoquant des collisions entre des éléments qui dans le réel, sous
-  réserve que le réel existe, ne se rejoignent jamais. Elle renoue ainsi avec la pratique
-  du photomontage surréaliste : de la collision / collusion d’objets nait une poésie
-  étrange, interrogatrice, dérangeante.  \n Cette pratique était déjà présente dans
-  ses travaux photographiques précédents : de grandes photos ou le réel à force d’être
-  manipulé devenait totalement abstrait. Ici point d’abstraction mais une figuration
-  libérée de toute contrainte spatiotemporelle : la ville éclatée se recompose au
-  gré de la fantaisie et du désir de l’artiste.  \n La Nantes de Stéphanie Billarant
-  est « Belle (de)la rencontre fortuite... » d’éléments éclectiques et à jamais étrangers
-  dans la réalité. C’est la Nantes des Surréalistes « la seule ville où j’ai l’impression
-  que peut m’arriver quelque chose qui en vaut la peine » écrivait André Breton.  \n
-  C’est celle qui sera le ferment de l’univers Vernien : Nantes, port de départ des
-  voyages extraordinaires. Nantes, ville qui a nourri l’imagination du petit Jules
-  qui, sur la Butte Saint Anne, regarde encore s’en aller les trois-mâts porteurs
-  de ses rêves.\n\nNorbert Marsal\n\nStéphanie Billarant, née à Nantes, présente un
-  parcours d’artiste peintre photographe aux orientations fécondes.\n\nElle obtient
+biography: "# Stéphanie Billarant\n\n**Nantes, ville de rêve ou ville rêvée ?**\n\nStéphanie
+  Billarant est une rêveuse éveillée qui promène son regard sur le monde et transfigure
+  la banalité du quotidien en provoquant des collisions entre des éléments qui dans
+  le réel, sous réserve que le réel existe, ne se rejoignent jamais. Elle renoue ainsi
+  avec la pratique du photomontage surréaliste : de la collision / collusion d’objets
+  nait une poésie étrange, interrogatrice, dérangeante.  \nCette pratique était déjà
+  présente dans ses travaux photographiques précédents : de grandes photos ou le réel
+  à force d’être manipulé devenait totalement abstrait. Ici point d’abstraction mais
+  une figuration libérée de toute contrainte spatiotemporelle : la ville éclatée se
+  recompose au gré de la fantaisie et du désir de l’artiste.  \nLa Nantes de Stéphanie
+  Bilarant est « Belle (de)la rencontre fortuite... » d’éléments éclectiques et à
+  jamais étrangers dans la réalité. C’est la Nantes des Surréalistes « la seule ville
+  où j’ai l’impression que peut m’arriver quelque chose qui en vaut la peine » écrivait
+  André Breton.  \nC’est celle qui sera le ferment de l’univers Vernien : Nantes,
+  port de départ des voyages extraordinaires. Nantes, ville qui a nourri l’imagination
+  du petit Jules qui, sur la Butte Saint Anne, regarde encore s’en aller les trois-mâts
+  porteurs de ses rêves.\n\nNorbert Marsal\n\nStéphanie Billarant, née à Nantes, présente
+  un parcours d’artiste peintre photographe aux orientations fécondes.\n\nElle obtient
   un BA communication et art (Wake Forest university – Winston Salem N.C.); elle y
   apprend les arts graphiques – sérigraphie, sculpture, gravure - la réalisation de
   courts métrages, le montage, mais aussi le théâtre et la danse, le piano et le chant.
