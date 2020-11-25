@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Faire réaliser Mon Portrait
+title: Faire réaliser un portrait
 location: ''
 fields:
 - Portrait sur commande
@@ -8,11 +8,13 @@ birth: "0"
 death: "0"
 expose: true
 biography: |-
-  Idées cadeaux originales !
+  # Idée cadeau originale !
+
+  ## Faire réaliser son portrait par un artiste
 
   Offrez une séance de pose dans un atelier d'artiste qui réalisera votre portait ou celui d'une personne qui vous est cher.
 
-  Vous avez le choix entre le travail de peinture réaliste de Claude Francheteau, la peinture plus onirique de Nadja Hollande et enfin les bustes en terre ou bronze de Françoise Boudier.
+  Vous avez le choix entre le travail de peinture réaliste de C[laude Francheteau](https://galeriegaia.fr/artists/claude-francheteau/ "claude francheteau"), la peinture plus onirique de Nadja Hollande et enfin les bustes en terre ou bronze de Françoise Boudier.
 exhibitions: []
 works:
 - title: Claude Francheteau
