@@ -37,13 +37,13 @@ exhibitions:
   start: "2014"
   end: 
 works:
-- title: Ecriture Spatiale ES#1
-  image: "/forestry/ecriture-spatiale-es1.jpg"
+- title: ES#2 2016
+  image: "/forestry/es2-2016.jpg"
   technique: fer forgé assemblé et soudé
   dimensions:
     height: 17
-    width: 26
-    depth: 8
+    width: 45
+    depth: 10
   description: ''
   price: 
   sold: false
@@ -56,17 +56,6 @@ works:
     width: 36
     depth: 36
   description: hommage à Karl Blosssfeldt
-  price: 
-  sold: false
-  contextual: true
-- title: ES#2 2016
-  image: "/forestry/es2-2016.jpg"
-  technique: fer forgé assemblé et soudé
-  dimensions:
-    height: 17
-    width: 45
-    depth: 10
-  description: ''
   price: 
   sold: false
   contextual: true
