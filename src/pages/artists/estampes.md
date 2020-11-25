@@ -288,38 +288,36 @@ works:
   contextual: true
 - title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-2570.jpg"
-  technique: Sérigraphie atelier Byse Lille 25/70
+  technique: Sérigraphie atelier Byse Lille 25/70 2002
   dimensions:
     height: 65
     width: 50
     depth: 
-  description: '2002
-
-'
+  description: "# Shirley Jaffe"
   price: 1800
   sold: false
   contextual: true
-- title: 'Frédéric Poincelet - Sans titre #1 (4/20)'
+- title: 'Frédéric Poincelet - Sans titre #1 '
   image: "/forestry/frederic-poincelet-sans-titre-1-420.jpg"
-  technique: Lithographie
+  technique: Lithographie 4/20 2017
   dimensions:
     height: 42
     width: 57
     depth: 
-  description: '2017 '
+  description: "# Frédéric Poincelet"
   price: 460
   sold: false
   contextual: true
   styles:
   - Figuratif
-- title: 'Frédéric Poincelet - Sans titre #3 (4/20)'
+- title: 'Frédéric Poincelet - Sans titre #3 '
   image: "/forestry/frederic-poincelet-sans-titre-3-420.jpg"
-  technique: Lithographie
+  technique: Lithographie 4/20 2017
   dimensions:
     height: 42
     width: 57
     depth: 
-  description: '2017 '
+  description: "# Frédéric Poincelet"
   price: 460
   sold: false
   contextual: true
@@ -332,29 +330,29 @@ works:
     height: 69
     width: 69
     depth: 
-  description: ''
+  description: "# Claude Viallat"
   price: 600
   sold: false
   contextual: true
 - title: 'Claude Viallat - Sans Titre '
   image: "/forestry/claude-viallat-sans-titre-13.jpg"
-  technique: Sérigraphie 1/3
+  technique: Sérigraphie 1/3 2007
   dimensions:
     height: 96
     width: 68
     depth: 
-  description: '2007 '
+  description: "# Claude Viallat"
   price: 1500
   sold: false
   contextual: true
 - title: 'Claude Viallat - Sans Titre '
   image: "/forestry/claude-viallat-sans-titre-33.jpg"
-  technique: Sérigraphie 3/3
+  technique: Sérigraphie 3/3 2007
   dimensions:
     height: 96
     width: 68
     depth: 
-  description: "2007"
+  description: "# Claude Viallat"
   price: 1500
   sold: false
   contextual: true
@@ -373,14 +371,12 @@ works:
   - Figuratif
 - title: Georges Autard - "Perte de sens"
   image: "/forestry/georges-autard-perte-de-sens.jpg"
-  technique: Sérigraphie 36/60
+  technique: Sérigraphie 36/60 1995
   dimensions:
     height: 66
     width: 51
     depth: 
-  description: '1995
-
-'
+  description: "# Georges Autard"
   price: 600
   sold: false
   contextual: true
@@ -393,7 +389,7 @@ works:
     height: 56
     width: 76
     depth: 
-  description: ''
+  description: "# Gérard Garouste"
   price: 900
   sold: false
   contextual: true
@@ -401,12 +397,12 @@ works:
   - Figuratif
 - title: 'Shirley Jaffe - Sans Titre '
   image: "/forestry/shirley-jaffe-sans-titre-770.jpg"
-  technique: Sérigraphie atelier Byse Lille 7/70
+  technique: Sérigraphie atelier Byse Lille 7/70 2002
   dimensions:
     height: 65
     width: 51
     depth: 
-  description: "2002"
+  description: "# Shirley Jaffe"
   price: 1800
   sold: false
   contextual: true
