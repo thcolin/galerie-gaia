@@ -7,10 +7,11 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  L'artiste est né en 1972. Formé à l'Ecole des Arts et Métiers de Séville, il devient illustrateur spécialisé dans le graphisme. Son art de la décadence, à la structure sauvage, est teinté d'une sombre luxure.
-
-  Une histoire incroyable que je vous raconterai en venant le regarder à la galerie...
+biography: "# Adolfo Arenas Alonso\n\nAdolfo Arenas Alonso est né en 1972.   \nFormé
+  à l'Ecole des Arts et Métiers de Séville, il devient illustrateur spécialisé dans
+  le graphisme. Son art de la décadence, à la structure sauvage, est teinté d'une
+  sombre luxure.\n\nUne histoire incroyable que je vous raconterai en venant le regarder
+  à la galerie..."
 exhibitions: []
 works:
 - title: Loving Venus

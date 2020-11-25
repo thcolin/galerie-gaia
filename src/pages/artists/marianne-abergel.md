@@ -7,8 +7,8 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous
-  parle de son travail, elle parle de la terre, elle va «  faire de la terre  ». Finalement,
+biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle de
+  son travail, elle parle de la terre, elle va «  faire de la terre  ». Finalement,
   elle part sur ses terres. Des terres nourries d’architecture et de danse qui lorsque
   les pièces prennent forme sous ses doigts dessinent l’essence de ce qu’elles veulent
   être : un 'cercle-roue', un 'buste-vase', un 'animal-humain', un 'chromosone-danseur',
@@ -35,8 +35,8 @@ biography: "Les terres de Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel 
   \ \nLaboratoire Pasteur-Cerba  \nThéâtre des cinq diamants. Paris\n\nCommandes privées:
   \ \n2015 \"les trois singes de la Sagesse\" 2013  \"grandes HerbesFolles\" Porto
   Vechio  \n2008 \"Juliette et Roméo\" commande du corps de l'Opéra de Paris pour
-  Sasha Waltz\n\nEnseignements:   \nDepuis 2009 enseigne la céramique aux Ateliers
-  d'Art d'Ivry sur Seine   \nDepuis 2007 enseigne les Arts plastiques/volume à l'EPSA
+  Sasha Waltz\n\nEnseignements:  \nDepuis 2009 enseigne la céramique aux Ateliers
+  d'Art d'Ivry sur Seine  \nDepuis 2007 enseigne les Arts plastiques/volume à l'EPSA
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
