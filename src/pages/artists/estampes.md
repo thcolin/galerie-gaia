@@ -1,6 +1,6 @@
 ---
 template: artist
-title: ESTAMPES
+title: Estampes
 location: ''
 fields:
 - Oeuvre sur papier
@@ -17,7 +17,7 @@ works:
     height: 72
     width: 56
     depth: 0
-  description: Exposition Maeght 1975
+  description: "# Tapiès Exposition Maeght   \n1975"
   price: 145
   contextual: true
   image: "/forestry/galerie-gaia-tapies-maeght72x56.jpg"
