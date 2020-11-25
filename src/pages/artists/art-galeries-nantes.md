@@ -1,12 +1,16 @@
 ---
 template: artist
 title: Art Galeries Nantes
-location: ''
+location: 'Nantes '
 fields: []
 birth: "0"
 death: "0"
 expose: true
 biography: |-
+  # Art Galeries Nantes
+
+  ## Galerie Albane l'Artichaut-galerie Le 56 La Folie des Arts Le Rez de Chaussée Agence Artemis Le Triphasé Atelier Prisme
+
   En 2015, rue Fénelon, l’idée d’association germe ! En 2016, l’association loi 1901 Art Galeries Nantes est créée. Elle fédère alors 14 galeries et lieux de diffusion nantais. A l’actif, de l’association, trois « Nuits des Galeries » - qui se révèleront des succès – lors desquelles chacun a pu se déplacer d’un lieu à l’autre, d’une découverte à l’autre, d’une surprise à l’autre : parce que l’idée avait vu le jour, les galeries ont ouvert la nuit ! En 2020, 9 galeries restent présentes au sein de l’association. Certaines galeries ont disparu du paysage nantais. En effet, une page de cette histoire privée et artistique s’est tournée, par choix personnel et/ou par impératifs économiques. Cependant, la relève est assurée et se profile ainsi une dynamique qui permettra aux artistes d’être toujours représentés et cela dans toutes leurs formes d’expression. Les objectifs d’Art Galeries Nantes sont :
 
   * Fédérer les galeries d’art et lieux de diffusion et d’assurer une représentativité auprès des
@@ -32,18 +36,22 @@ works:
     16H Débat avec Louis Raymond sur l'état de la critique de l'art "De l'art ou du cochon"
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Nuit des Galeries#2
   image: "/forestry/nuit-des-galeries2.jpg"
-  technique: ''
+  technique: Sérigraphie /100 exemplaires atelier Leap
   dimensions:
-    height: 
-    width: 
+    height: 40
+    width: 30
     depth: 
   description: ''
-  price: 
+  price: 10
   sold: false
   contextual: true
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Figuratif
 - title: Nuit des Galeries#3
   image: "/forestry/nuit-des-galeries3.jpg"
   technique: ''
