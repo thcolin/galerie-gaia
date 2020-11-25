@@ -150,6 +150,31 @@ works:
   description: "2020"
   price: 500
   contextual: true
+- title: Voyage intérieur
+  image: "/forestry/galerie-gaia-laure-voyage-interieur-75x75.jpeg"
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 75
+    width: 75
+    depth: 0
+  description: "2020"
+  price: 1400
+  contextual: true
+- title: 'Mannequin atelier Manrique '
+  image: "/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg"
+  technique: Dessin huile sur papier encadrement baguette chêne
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 21
+    width: 29
+    depth: 0
+  description: "2020"
+  price: 330
+  contextual: true
 - title: Walking shadow
   image: "/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg"
   technique: Dessin huile sur papier encadrement baguette chêne

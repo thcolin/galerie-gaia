@@ -9,7 +9,7 @@ location: ''
 birth: "1938"
 death: ''
 expose: true
-biography: "# Jacques Le Brusq \n\nL'artiste est né en 1938 à Rennes. Entre 1970 et
+biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 1970 et
   1977, il crée et anime un centre d'art dans le Morbihan, La Cour de Bovrel, à Saint
   Guyomard. Il enseigne également à l'école des Beaux-arts de Rennes de 1973 à 2000.
   Il vit et travaille à Nantes depuis 1990.\n\nSa démarche est nourrie par la philosophie
@@ -55,36 +55,43 @@ biography: "# Jacques Le Brusq \n\nL'artiste est né en 1938 à Rennes. Entre 19
   l'idée de sa présence même qui fait sujet : _\"J'essayais de faire naître la peinture,
   l'inattendu qui se produit et qui ne peut être pensé\"_, nous dit-il._\"--_\n\nTexte
   extrait du guide d'accompagnement de l'exposition _Sur le motif_, réalisée en 2013
-  au Domaine de Kerguéhennec, avec l'aimable autorisation d'Olivier Delavalade et
-  du Domaine de Kerguéhennec.\n\n**Citation :** _« Le Brusq est plus qu’un peintre
-  de paysage. il est un homme dans le paysage, un homme dans le monde, un homme dans
-  la lumière, dans la couleur, dans le vert, \"sous le temps\". Sa peinture est l’intérieur
-  de sa peau, de sa pensée, de son univers. Le paysage qu’il voit, n’est pas tant
-  celui qui se trouve devant ses yeux que celui qui lui traverse le corps. »_  \n**Christophe
-  Cesbron**, extrait de _Peindre sous le temps_, Jacques Le Brusq, éditions Domaine
-  de Kerguéhennec, octobre 2013\n\n**Expositions à venir :**\n\n2021 (mai-septembre)
-  Fougères Musée de la Villéon \" Paysages, Paysages \" Commissariat Samuel Linard
-  \ \n2021 Automne Galerie Gaïa commissariat Elisabeth Givre\n\n**Expositions personnelles
-  :**\n\n2020 Juin-Décembre  Musée Robert Tatin - \" Du Morbihan à la Frénouse, aux
-  abords du pays où la lumière ne fait point d'ombre \" - commissariat Bruno Godivier
-  - édition d'un catalogue  \n2020 Juillet- Novembre Vannes Musée des Beaux-Arts  La
-  Cohue \" Terres et Landes , Paysages de Bretagne \" - ( peintres des 19e, 2Oe ,
-  21e siècles ) - commissariat Françoise Berretrot, Marie Annie Avril  \n2019 Le Mans
-  \ Musée de Tessé  \" Paysages \" ( Des primitifs italiens aux peintres contemporains
-  ) commissariat Carole Hirardot  \n2019 Cossé le Vivien Musée Robert Tatin \" Ô temps
-  de Tatin \"commissariat Bruno Godivier  \n2018 Vannes Musée des Beaux-Arts La Cohue
-  \" En présence des arbres \"Béatrice Bescond  \n2018 Nantes- Galerie RDV- \" Ce
-  presque rien \"- Noémie Chauvet Jacques Le Brusq-  \n2016 Paris- Galerie Jean Fournier
-  \" 25 ans de l'art dans les chapelles \"  \n2015 _Un chemin en peinture_, Atelier
-  Raspail, Paris (commissariat Charles Bimbenet)  \n2013 _Sur le motif_, Domaine de
-  Kerguehennec, Bignan (commissariat Olivier Delavalade)  \n1998 Espace Sophie Barrouyer,
-  Paris  \n1997 FIAC - Espace du Quai Branly, Paris (Galerie Plessis)  \n1996 _Du
-  paysage au dépaysement,_ Musée des Beaux-arts, Chartres (commissariat Maïthé Valles-Bled)
-  \ \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée de Tessé - Collégiale Saint-Pierre-La-Cour,
-  Le Mans (commissariat Serge Nikitine)  \n1986 Le Grand Huit - Maison de la Culture,
-  Rennes (commissariat Jean-Yves Louédec)  \n1973 Musée de Tessé, Le Mans (commissariat
-  Raymond Blanc)  \n1971 La Cour de Bovrel, Saint Guyomard  \n1965 Foyer des artistes
-  - Montparnasse - Galerie Marc Vaux, Paris"
+  au [Domaine de Kerguéhennec](https://www.kerguehennec.fr/ \"olivier delavalde\"),
+  avec l'aimable autorisation d'Olivier Delavalade et du Domaine de Kerguéhennec.\n\n**Citation
+  :** _« Le Brusq est plus qu’un peintre de paysage. il est un homme dans le paysage,
+  un homme dans le monde, un homme dans la lumière, dans la couleur, dans le vert,
+  \"sous le temps\". Sa peinture est l’intérieur de sa peau, de sa pensée, de son
+  univers. Le paysage qu’il voit, n’est pas tant celui qui se trouve devant ses yeux
+  que celui qui lui traverse le corps. »_  \n**Christophe Cesbron**, extrait de _Peindre
+  sous le temps_, Jacques Le Brusq, éditions Domaine de Kerguéhennec, octobre 2013\n\n**Expositions
+  à venir :**\n\n2021 (mai-septembre) Fougères Musée de la Villéon \" Paysages, Paysages
+  \" Commissariat Samuel Linard  \n2021 Automne Galerie Gaïa commissariat Elisabeth
+  Givre\n\n**Expositions personnelles :**\n\n2020 Juin-Décembre  Musée Robert Tatin
+  - \" Du Morbihan à la Frénouse, aux abords du pays où la lumière ne fait point d'ombre
+  \" - commissariat Bruno Godivier - édition d'un catalogue  \n2020 Juillet- Novembre
+  Vannes Musée des Beaux-Arts  La Cohue \" Terres et Landes , Paysages de Bretagne
+  \" - ( peintres des 19e, 2Oe , 21e siècles ) - commissariat Françoise Berretrot,
+  Marie Annie Avril  \n2019 Le Mans  Musée de Tessé  \" Paysages \" ( Des primitifs
+  italiens aux peintres contemporains ) commissariat Carole Hirardot  \n2019 Cossé
+  le Vivien Musée Robert Tatin \" Ô temps de Tatin \"commissariat Bruno Godivier  \n2018
+  Vannes Musée des Beaux-Arts La Cohue \" En présence des arbres \"Béatrice Bescond
+  \ \n2018 Nantes- Galerie RDV- \" Ce presque rien \"- Noémie Chauvet Jacques Le Brusq-
+  \ \n2016 Paris- Galerie Jean Fournier \" 25 ans de l'art dans les chapelles \"  \n2015
+  _Un chemin en peinture_, Atelier Raspail, Paris (commissariat Charles Bimbenet)
+  \ \n2013 _Sur le motif_, Domaine de Kerguehennec, Bignan (commissariat Olivier Delavalade)
+  \ \n1998 Espace Sophie Barrouyer, Paris  \n1997 FIAC - Espace du Quai Branly, Paris
+  (Galerie Plessis)  \n1996 _Du paysage au dépaysement,_ Musée des Beaux-arts, Chartres
+  (commissariat Maïthé Valles-Bled)  \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée
+  de Tessé - Collégiale Saint-Pierre-La-Cour, Le Mans (commissariat Serge Nikitine)
+  \ \n1986 Le Grand Huit - Maison de la Culture, Rennes (commissariat Jean-Yves Louédec)
+  \ \n1973 Musée de Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de
+  Bovrel, Saint Guyomard  \n1965 Foyer des artistes - Montparnasse - Galerie Marc
+  Vaux, Paris\n\n**Collections publiques :**\n\nArtothèque Nantes  \nMusée de Tessé
+  Le Mans  \nMusée des Baux Arts La Cohue Vannes  \nMusée Robert Tatin Cossé Le Vivien
+  \ \nMusée La Perrine Laval  \nFonds d'Art Contemporain Ville de Rennes  \nFonds
+  d'Art Contemporain Ecole des Beaux Arts de Nantes  \nFonds d'Art Contemporain Ville
+  de Paris  \nFonds d'Art Contemporain Domaine de Kerguehennec Bignan  \nFonds d'Art
+  Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque Nationale de
+  France Paris  \nArtothèque Angers"
 works:
 - title: La Brèche Opus 2
   image: "/forestry/sans-nom-16.jpg"
