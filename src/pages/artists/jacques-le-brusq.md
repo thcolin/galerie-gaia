@@ -93,6 +93,19 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque Nationale de
   France Paris  \nArtothèque Angers"
 works:
+- title: Rhuys vers kerne Opus 3
+  image: "/forestry/_mg_5399.jpg"
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: encadrement baguette chêne verre antireflet qualité musée
+  price: 2000
+  sold: false
+  contextual: true
 - title: Rhuys vers kernes Opus 2
   image: "/forestry/_mg_5400.jpg"
   technique: Huile sur papier
@@ -102,23 +115,10 @@ works:
     height: 50
     width: 40
     depth: 
-  description: ''
+  description: encadrement baguette chêne verre antireflet qualité musée
   price: 2000
   sold: false
   contextual: true
-- title: La Brèche Opus 2
-  image: "/forestry/sans-nom-16.jpg"
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 61
-    depth: 
-  description: Vendu pour la collection de l'artothèque de Nantes
-  price: 
-  sold: false
-  contextual: false
 - title: Tri Avr Opus1
   image: "/forestry/17_img_7742_cmjn-copie.jpg"
   technique: 'Huile sur papier '
@@ -159,6 +159,19 @@ works:
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
   price: 3000
+  sold: false
+  contextual: false
+- title: La Brèche Opus 2
+  image: "/forestry/sans-nom-16.jpg"
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 61
+    depth: 
+  description: Vendu pour la collection de l'artothèque de Nantes
+  price: 
   sold: false
   contextual: false
 exhibitions:
