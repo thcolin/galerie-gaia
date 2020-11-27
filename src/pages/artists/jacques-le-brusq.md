@@ -101,9 +101,9 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: ''
-  price: 
+  price: 2000
   sold: false
   contextual: true
 - title: La Brèche Opus 2
