@@ -1,11 +1,10 @@
 ---
 template: home
 carousel:
+- image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
+- image: "/forestry/galeriegaia-toma-l-2018091802-blackandsimplecolor-110x80cm-copie_bd.jpg"
+- image: "/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg"
 - image: "/forestry/JF MOLLIERE 25.JPG"
-- image: "/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
-    22.JPG"
-- image: "/forestry/galerie-gaia-molliere-jf-chicago-23-40-x-40-cm-jpeg.jpg"
-- image: "/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
 redirect_from:
 - "/plan/"
 seo:
