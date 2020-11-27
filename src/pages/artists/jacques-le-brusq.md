@@ -93,6 +93,19 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque Nationale de
   France Paris  \nArtothèque Angers"
 works:
+- title: Rhuys vers kernes Opus 2
+  image: "/forestry/_mg_5400.jpg"
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: La Brèche Opus 2
   image: "/forestry/sans-nom-16.jpg"
   technique: Huile sur papier
