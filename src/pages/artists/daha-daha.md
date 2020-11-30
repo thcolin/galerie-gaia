@@ -10,30 +10,21 @@ expose: true
 biography: |-
   # Damien Hamon Daha
 
-  Designer ébéniste, talent qui s'exprime sur le fil entre art et artisanat, chaque pièce est unique.
-  Présent en galerie à Paris et New York et à la Galerie Gaïa.
+  Designer ébéniste, talent qui s'exprime sur le fil entre art et artisanat, chaque pièce est unique. Présent en galerie à Paris et New York et à la Galerie Gaïa.
 
   "créer du nouveau, voici une vieille idée."
 
-  Par définition, l'infini est interminable.
-  Mais cet indéfinissable n'a pas d'extrémité,
-  ni d'un bout ni de l'autre.
+  Par définition, l'infini est interminable. Mais cet indéfinissable n'a pas d'extrémité, ni d'un bout ni de l'autre.
 
-  Où sommes-nous dans cette immensité?
-  Je vague entre ces inconnus.
-  En prétendant défier mon ignorance,
-  je rends visible ce que j'aperçois.
-  Faire exister pour me féliciter de comprendre
-  et ainsi de suite…
+  Où sommes-nous dans cette immensité? Je vague entre ces inconnus. En prétendant défier mon ignorance, je rends visible ce que j'aperçois. Faire exister pour moi féliciter de comprendre et ainsi de suite…
 
-  Cycle éternel en recommencement ?
+  Cycle éternel en recommencement?
 
-  En progression ?
+  En progression?
 
-  En perdition ?
+  En perdition?
 
-  En tout cas en évolution, la vie se manifeste
-  et apporte aussi ses réjouissances.
+  En tout cas en évolution, la vie se manifeste et apporte aussi ses réjouissances.
 
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
@@ -94,7 +85,7 @@ works:
     depth: 40
   description: 'Symbol de l''infini, fonctionnel et esthétique ce valet peut-être
     peint sur demande '
-  price: 290
+  price: 490
   sold: false
   contextual: true
 - title: Console

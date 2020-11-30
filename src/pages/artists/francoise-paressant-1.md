@@ -10,25 +10,25 @@ location: ''
 birth: "1944"
 death: ''
 expose: true
-biography: "# Françoise Paressant \n\nNée à Nantes en 1944, l'artiste est autodidacte
-  et sa première période de création textile plus classique s’arrête au milieu des
-  années 1980.\n\nFrançoise Paressant  met alors entre parenthèses son œuvre tissée
-  pendant une dizaine d’années, pour expérimenter (dessins, collages, pâte à papier),
-  en toute liberté, c’est-à-dire sans les contraintes techniques que la tapisserie
-  impose.\n\nC’est véritablement dans ce laps de temps que son écriture va se mettre
-  en place : un travail sur la matière et sur la couleur. Son travail, de plus en
-  plus épuré, se concentre sur les lignes et les couleurs, une douzaine de teintes.
-  Ce graphisme purifié est le résultat de recherches approfondies menées sur des «maquettes»,
-  mais aussi le fruit d’un heureux hasard. Forte de ces expérimentations, Françoise
+biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est autodidacte
+  et sa première période de création textile plus classique s'arrête au milieu des
+  années 1980.\n\nFrançoise Paressant met alors entre parenthèses son œuvre tissée
+  pendant une dizaine d'années, pour expérimenter (dessins, collages, pâte à papier),
+  en toute liberté, c'est-à-dire sans les contraintes techniques que la tapisserie
+  impose.\n\nC'est véritablement dans ce tours de temps que son écriture va se mettre
+  en place: un travail sur la matière et sur la couleur. Son travail, de plus en plus
+  épuré, se concentre sur les lignes et les couleurs, une douzaine de teintes. Ce
+  graphisme purifié est le résultat de recherches approfondies sur les «maquettes»,
+  mais aussi le fruit d'un heureux hasard. Forte de ces expérimentations, Françoise
   Paressant mène depuis, en parallèle, ses activités de peintre et de licière.\n\nDans
   la lignée de Supports Surfaces, le travail de Françoise Paressant est à la frontière
-  du tissage et de la tapisserie ce qui rappelle le talent d’un Rouan ou d’un Bonnefoi
-  avec juste ce qu’il faut d’élégance et de douceur picturales pour en faire oublier
-  la rigueur théorique.\n\n1983 3 Peintures ont été acquises par le [musée des Arts
-  de Nantes ](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=PARESSANT
-  \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les [Amis
+  du tissage et de la tapisserie ce qui rappelle le talent d'un Rouan ou d'un Bonnefoi
+  avec juste ce faut d'élégance et de douceur picturales pour en faire oublier la
+  rigueur théorique.\n\n1983 3 Peintures ont été acquises par le [musée des Arts de
+  Nantes](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=PARESSANT
+  \"collection musée des arts nantes \")  \n 2003 1 Dessin a été offert par les [Amis
   du Musée d'Arts de Nantes](http://www.amis-musee-arts-nantes.fr/ \"amis du musée
-  des arts de nantes \")  \n2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
+  des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
 - title: Plage de la mine d'Or
@@ -59,97 +59,6 @@ works:
     depth: 
   description: ''
   price: 10000
-  sold: false
-  contextual: true
-- title: PJT/F 001
-  image: "/forestry/galerie-gaia-francoise-paressant-pjt-f-40x30-001.JPG"
-  technique: Papier japon teinté sur feutre
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: Œuvre encadrée dans caisse américaine bois naturel
-  price: 560
-  sold: false
-  contextual: true
-- title: PJT/F 002
-  image: "/forestry/galerie-gaia-francoise-paressant-pjt-2-20x20-002.jpeg"
-  technique: 'Papier japon teinté sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: 'Œuvre encadrée dans caisse américaine bois naturel '
-  price: 360
-  sold: false
-  contextual: true
-- title: Blason 003
-  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
-  technique: Acrylique sur feutre
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Œuvre encadrée
-  price: 320
-  sold: false
-  contextual: true
-- title: Blason 002
-  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg"
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: 'Œuvre encadrée '
-  price: 360
-  sold: false
-  contextual: true
-- title: Blason 001
-  image: "/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg"
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Œuvre encadrée
-  price: 320
-  sold: false
-  contextual: true
-- title: CPJ 003
-  image: "/forestry/galerie-gaia-francoise-paressant-cpj-60x50-001.jpg"
-  technique: Collage papier japon teinté acrylique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 50
-    depth: 
-  description: Œuvre encadrée caisse américaine bois naturel
-  price: 900
-  sold: false
-  contextual: true
-- title: CPJ 002
-  image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg"
-  technique: Collage papier japon collé acrylique
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: Collage papier japon teinté acrylique
-  price: 600
   sold: false
   contextual: true
 - title: CPJ 001
