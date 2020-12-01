@@ -257,22 +257,6 @@ works:
   - Photographie
   styles:
   - Figuratif
-- title: Rivière
-  image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
-  technique: Rivière
-  dimensions:
-    height: 72
-    width: 
-    depth: 
-  description: |-
-    Sculpture RIVIERE est un duo soclé, en bois d’azalée des Hautes Pyrénées et pigments acryliques, piètement acier laqué blanc
-
-    M V Bathellier fait sortir le bois du champ de la nature et du jardin pour le travailler et le présenter précieusement sur la scène artistique. L’ artiste puise dans la nature forces, formes et matériaux. Guidée par l’ esthétisme de l’ essentiel, Marie Bathellier développe des pièces radicales, élégantes et poétiques.
-  price: 450
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
 - title: Lit de camp peint
   image: "/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg"
   technique: 'peinture acrylique sur toile '
