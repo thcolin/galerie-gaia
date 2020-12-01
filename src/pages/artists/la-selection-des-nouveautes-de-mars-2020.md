@@ -156,16 +156,15 @@ works:
   contextual: false
 - title: Blason acrylique sur feutre de Françoise Paressant
   image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
-  technique: Papier japon teinté
+  technique: 'Acrylique sur feutre '
   dimensions:
     height: 50
     width: 40
   description: '[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
     "Francoise Paressant")'
-  price: 560
+  price: 320
   contextual: true
-  fields:
-  - Oeuvre sur papier
+  fields: []
   styles:
   - abstrait
 - title: GO SEGAWA - Mass
@@ -180,8 +179,8 @@ works:
   price: 160
   sold: false
   contextual: true
-- title: Versants
-  image: "/forestry/20200202_170746.jpg"
+- title: 'Failles #35 Versants'
+  image: "/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg"
   technique: Sérigraphie
   dimensions:
     height: 70
@@ -189,7 +188,7 @@ works:
     depth: 
   description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
     "Jeronimo Tangui robert Gaetan chevrier ")'
-  price: 450
+  price: 170
   sold: false
   contextual: false
 redirect_from:
