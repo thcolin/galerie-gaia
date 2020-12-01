@@ -31,6 +31,21 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Plage de la mine d'Or
+  image: "/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg"
+  technique: Feutre blanc teinté acrylique
+  fields:
+  - Textile
+  styles:
+  - Abstrait
+  dimensions:
+    height: 118
+    width: 112
+    depth: 
+  description: Accrochage libre par le haut pour un effet de souplesse comme une tapisserie
+  price: 4800
+  sold: false
+  contextual: true
 - title: Blason 002
   image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg"
   technique: 'Acrylique sur feutre '
@@ -94,21 +109,6 @@ works:
     depth: 0
   description: 2012 encadrement bois naturel
   price: 600
-  sold: false
-  contextual: true
-- title: Plage de la mine d'Or
-  image: "/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg"
-  technique: Feutre blanc teinté acrylique
-  fields:
-  - Textile
-  styles:
-  - Abstrait
-  dimensions:
-    height: 118
-    width: 112
-    depth: 
-  description: Accrochage libre par le haut pour un effet de souplesse comme une tapisserie
-  price: 4800
   sold: false
   contextual: true
 - title: 'Eclaircies en fin de journée '
