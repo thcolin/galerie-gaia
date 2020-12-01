@@ -11,10 +11,11 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
 exhibitions: []
 works:
 - title: 'Idées cadeaux '
-  image: "/forestry/Capture d’écran 2020-03-18 à 18.20.17.png"
+  image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
   description: ''
-  price: 0
+  price: ''
   contextual: true
+  technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
 - title: Gérard Traquandi sans titre 16/19
   image: "/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
   technique: Eau forte 16/19
@@ -43,32 +44,6 @@ works:
   description: '[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "Pierre
     Tual")'
   price: 2500
-  contextual: false
-- title: Pierre Tual en situation
-  image: "/forestry/galerie-gaia-pierre-tual-es-1.jpg"
-  technique: Sculpture fer recuit au fou et céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
-- title: La brêche Opus 2 de Jacques Le Brusq
-  image: "/forestry/galerie-gaia-lebrusq-la-breche-opus-2.jpg"
-  technique: Huile sur papier
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: '[Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
-    "Jacques Lebrusq")'
-  price: 3000
   contextual: false
 - title: 'Théâtre caché de Dimitri Bourriau '
   image: "/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
@@ -179,8 +154,8 @@ works:
     "galerie gaia elisabeth wadecki")'
   price: 4000
   contextual: false
-- title: Papier japon teinté sur feutre de Françoise Paressant
-  image: "/forestry/galerie-gaia-francoise-paressant-es-1.jpg"
+- title: Blason acrylique sur feutre de Françoise Paressant
+  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
   technique: Papier japon teinté
   dimensions:
     height: 50
