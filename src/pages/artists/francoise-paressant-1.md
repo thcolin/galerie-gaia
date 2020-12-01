@@ -31,6 +31,71 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Blason 002
+  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 001
+  image: "/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg"
+  technique: Acrylique sur feutre
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 003
+  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: CPJ 003
+  image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-001.jpg"
+  technique: Collage sur toile de papier japon teinté acrylique
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: 2012 encadrement bois naturel
+  price: 600
+  sold: false
+  contextual: true
+- title: CPJ 002
+  image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg"
+  technique: 'Collages sur toile de papier japon teinté acrylique '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: 2012 encadrement bois naturel
+  price: 600
+  sold: false
+  contextual: true
 - title: Plage de la mine d'Or
   image: "/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg"
   technique: Feutre blanc teinté acrylique
