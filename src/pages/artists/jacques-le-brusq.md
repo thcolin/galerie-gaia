@@ -99,21 +99,21 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 40
-    depth: 0
+    height: 53
+    width: 43
+    depth: 
   description: encadrement baguette chêne verre antireflet qualité musée
   price: 2000
   sold: false
   contextual: true
 - title: Rhuys vers kernes Opus 2
-  image: "/forestry/_mg_5400.jpg"
+  image: "/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 40
+    height: 53
+    width: 43
     depth: 
   description: encadrement baguette chêne verre antireflet qualité musée
   price: 2000
