@@ -46,6 +46,20 @@ biography: "> # Marie Bathellier \n>\n> Marie Veyron Bathellier débute son parc
   choreographed vegetal creepers or lines of Japanese granit stepping stones reveal
   a free, spontaneous and sensual artistic work."
 works:
+- title: Sans titre &1
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg"
+  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
+    17 x 18 cm
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Œuvre encadrée caisse bois blanc
+  price: 290
+  sold: false
+  contextual: true
 - title: 'EN LIBERTE Installation en triptyque '
   image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
   technique: peinture
