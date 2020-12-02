@@ -46,62 +46,6 @@ biography: "> # Marie Bathellier \n>\n> Marie Veyron Bathellier débute son parc
   choreographed vegetal creepers or lines of Japanese granit stepping stones reveal
   a free, spontaneous and sensual artistic work."
 works:
-- title: Sans titre &5
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-4.jpg"
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
-    17 x 18 cm
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: ''
-  price: 290
-  sold: false
-  contextual: true
-- title: Sans titre &3
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-3.jpg"
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
-    17 x 18 cm
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: ''
-  price: 290
-  sold: false
-  contextual: true
-- title: Sans titre &2
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-2.jpg"
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
-    17 x 18 cm
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: ''
-  price: 290
-  sold: false
-  contextual: true
-- title: Sans titre &1
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg"
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
-    17 x 18 cm
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: Œuvre encadrée caisse bois blanc
-  price: 290
-  sold: false
-  contextual: true
 - title: 'EN LIBERTE Installation en triptyque '
   image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
   technique: peinture
@@ -169,6 +113,74 @@ works:
   contextual: true
   fields: []
   styles: []
+- title: Sans titre &5
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg"
+  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
+  fields: []
+  styles: []
+  dimensions:
+    height: 21
+    width: 18
+    depth: 0
+  description: Œuvre encadrée caisse bois blanc
+  price: 290
+  sold: false
+  contextual: true
+- title: Sans titre &4
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
+  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
+    17 x 18 cm
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: ''
+  price: 290
+  sold: false
+  contextual: true
+- title: Sans titre &3
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-3_15x17.jpg"
+  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
+    17 x 18 cm
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: ''
+  price: 290
+  sold: false
+  contextual: true
+- title: Sans titre &2
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-2-17x18.jpg"
+  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
+    17 x 18 cm
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: ''
+  price: 290
+  sold: false
+  contextual: true
+- title: Sans titre &1
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg"
+  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Œuvre encadrée caisse bois blanc
+  price: 290
+  sold: false
+  contextual: true
 - title: Terre
   image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
   technique: pigments acryliques et argile sur bois
