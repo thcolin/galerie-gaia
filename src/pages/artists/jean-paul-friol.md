@@ -27,6 +27,31 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Gravure 12
+  image: "/forestry/friol-gravure-12-1988-epreuve7_20-h43x43l.jpg"
+  technique: Gravure sur plâtre 7/20
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 43
+    width: 43
+    depth: 0
+  description: ''
+  price: 150
+  contextual: true
+- title: Papier collé 042
+  image: "/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg"
+  technique: Collage papier acrylique email à froid
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 75
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
 - title: Papier 082
   image: "/forestry/papier-082.jpg"
   technique: Collage, papier soie, encre
@@ -38,6 +63,8 @@ works:
   price: 450
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Papier collé 005
   image: "/forestry/papier-colle-005.jpg"
   technique: Collage, papier soie, encre
@@ -60,18 +87,19 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Papier collé 178
-  image: "/forestry/papier-colle-178.jpg"
-  technique: Collage, papier , tissu, acier, silicone, crayon de bois, acrylique,
-    papier soie, scotch, kraft
+- title: Papier collé 081
+  image: "/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg"
+  technique: Collage, papier soie, encre
   dimensions:
-    height: 113
-    width: 78
+    height: 66
+    width: 49
     depth: 
-  description: 2008  œuvre encadrée
-  price: 680
+  description: "1991"
+  price: 450
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 - title: Papier collé 071
   image: "/forestry/papier-colle-071.jpg"
   technique: Collage, papier soie, kraft, émail à froid, acrylique
@@ -94,6 +122,8 @@ works:
   price: 450
   sold: false
   contextual: true
+  styles:
+  - Figuratif
 redirect_from:
 - "/artistes/101-jean-paul-friol/"
 styles:
