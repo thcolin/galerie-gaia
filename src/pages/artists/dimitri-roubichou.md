@@ -8,15 +8,15 @@ birth: "0"
 death: "0"
 expose: true
 biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats différents
-  édition en 9 exemplaires\n\n30X30cm      250€  \n40X40cm      400€  \n60X60cm      700€
-  \ \n120X120cm 1200€\n\nL'artiste est né à Nantes. Dimitri Roubichou poursuit dans
-  les années 90 des études de cinéma à Paris VIII et à l’Ecole Nationale Supérieure
-  de Photographie d’Arles.\nRoubichou débute à cette période, à photographier les
-  matières végétales et ce qu’elles peuvent suggérer. Au début des années 2010, l'artiste
-  passe à la photographie numérique avec la même approche, avec des outils différents
-  et des thèmes plus diversifiés. Il poursuit son travail sur le végétal, le minéral
-  et les portraits. Ses influences sont diverses : des peintures feu d’Yves Klein
-  au Paris d’Eugène Atget mais la nature reste sa principale source d'inspiration.\n\n\"Les
+  édition en 9 exemplaires  \nPapier baryté\n\n30X30cm      250€  \n40X40cm      400€
+  \ \n60X60cm      700€  \n120X120cm 1200€\n\nL'artiste est né à Nantes. Dimitri Roubichou
+  poursuit dans les années 90 des études de cinéma à Paris VIII et à l’Ecole Nationale
+  Supérieure de Photographie d’Arles.\nRoubichou débute à cette période, à photographier
+  les matières végétales et ce qu’elles peuvent suggérer. Au début des années 2010,
+  l'artiste passe à la photographie numérique avec la même approche, avec des outils
+  différents et des thèmes plus diversifiés. Il poursuit son travail sur le végétal,
+  le minéral et les portraits. Ses influences sont diverses : des peintures feu d’Yves
+  Klein au Paris d’Eugène Atget mais la nature reste sa principale source d'inspiration.\n\n\"Les
   thèmes privilégiés de mon travail de photographe tournent essentiellement autour
   de l’enveloppe intime du  végétal, du minéral et celui du corps. J’essaie dans mes
   images de mettre en valeur ces « matériaux » naturels, parfois de façon plus abstraite
@@ -42,6 +42,54 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   Roubichou"
 exhibitions: []
 works:
+- title: Jade
+  image: "/forestry/dimitri-roubichou-jade-jpeg.JPG"
+  technique: Photographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
+- title: Paige
+  image: "/forestry/dimitri-roubichou-paige-jpeg.JPG"
+  technique: 'Photographie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Œuvre encadrée verre musée 30X30 cm
+  price: 250
+  contextual: true
+- title: Naoned
+  image: "/forestry/dimitri-roubichou-naoned-jpeg.JPG"
+  technique: Photographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Œuvre encadrée verre musée 30X30 cm
+  price: 250
+  contextual: true
+- title: Inda
+  image: "/forestry/dimitri-roubichou-inda-jpeg.JPG"
+  technique: Photographie 20X20
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: Œuvre encadrée verre musée 30X30cm
+  price: 250
+  contextual: true
 - title: Vera
   image: "/forestry/galeriegaia@dimitriroubichou-VERA-30 cm x 30 cm - 30 tirages.jpg"
   technique: 'Photographie '
@@ -112,26 +160,6 @@ works:
   description: ''
   price: 250
   contextual: true
-- title: Kuzma
-  image: "/forestry/galeriegaia@dimitriroubichou-KUZMA-30cmx30cm-30 tirages.jpg"
-  technique: 'Photographie '
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: ''
-  price: 250
-  contextual: true
-- title: Coari
-  image: "/forestry/galeriegaia@dimitriroubichou-COARI-30 cm x 30 cm - 30 tirages.jpg"
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Edition en 9 exemplaires
-  price: 700
-  contextual: true
-  technique: 'Photographie '
 - title: Bäla
   image: "/forestry/galeriegaia@dimitriroubichou-BÄLA-30 cm x 30 cm - 30 tirages.jpg"
   technique: Photographie tirage papier baryté
