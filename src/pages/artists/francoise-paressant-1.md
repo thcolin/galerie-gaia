@@ -54,7 +54,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: Encadrement boite en bois blanc
   price: 320
   sold: false
@@ -67,7 +67,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: Encadrement boite en bois blanc
   price: 320
   sold: false
@@ -80,7 +80,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: Encadrement boite en bois blanc
   price: 320
   sold: false
@@ -93,7 +93,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: 2012 encadrement bois naturel
   price: 600
   sold: false
@@ -106,7 +106,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: 2012 encadrement bois naturel
   price: 600
   sold: false
@@ -153,7 +153,7 @@ works:
   sold: false
   contextual: true
 - title: CDC 002
-  image: "/forestry/galerie-gaia-francoise-paressant-cdc-20x20-002.jpeg"
+  image: "/forestry/galerie-gaia-francoise-paressant-cdc002.jpg"
   technique: Collage découpé cousu
   fields: []
   styles: []
@@ -161,12 +161,12 @@ works:
     height: 20
     width: 20
     depth: 
-  description: 'Œuvre encadrée dans caisse américaine noir mat '
+  description: Œuvre encadrée dans caisse américaine noir mat Offert
   price: 360
   sold: false
   contextual: true
 - title: CDC 001
-  image: "/forestry/galerie-gaia-francoise-paressant-cdc-20x20-001.jpeg"
+  image: "/forestry/galerie-gaia-francoise-paressant-cdc001.jpg"
   technique: Collage découpé cousu
   fields: []
   styles: []
@@ -174,7 +174,7 @@ works:
     height: 20
     width: 20
     depth: 
-  description: 'Œuvre encadrée dans caisse américaine bois noir mat '
+  description: Œuvre encadrée dans caisse américaine bois noir mat Offert
   price: 360
   sold: false
   contextual: true
