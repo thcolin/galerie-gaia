@@ -34,12 +34,13 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   les lisières du réel et de l'imaginaire, de la figuration et de l'abstraction, de
   la photo et de la peinture....\nJe travaille plutôt par série en couleur et en noir
   et blanc.  \nMes influences purement artistiques sont très diverses... J’apprécie
-  entre autres Giuseppe Penone , Le Slow Art, la photographie contemporaine ( Tosani,
-  Mapplethorpe...) ou plus classique (Saul Leiter, Diane Arbus...) mais aussi la sculpture
-  ( Eva Hesse, Brancusi, Serra...) ou la peinture moderne ( Yves klein, Genevieve
-  Asse, et surtout Mark Rothko...). En général j’aime les artistes qui interrogent
-  la réalité en gardant un  aspect secret, contemplatif et matiériste.\"\n\nDimitri
-  Roubichou"
+  entre autres [Giuseppe Penone](https://www.centrepompidou-metz.fr/indistinti-confini-noce-giuseppe-penone
+  \"giuseppe penone\") , Le Slow Art, la photographie contemporaine ( Tosani, [Mapplethorpe]()...)
+  ou plus classique (Saul Leiter, [Diane Arbus](https://www.lense.fr/news/revisons-nos-classiques-diane-arbus/
+  \"Diane Arbus\")...) mais aussi la sculpture ( Eva Hesse, Brancusi, Serra...) ou
+  la peinture moderne ( Yves klein, Genevieve Asse, et surtout Mark Rothko...). En
+  général j’aime les artistes qui interrogent la réalité en gardant un  aspect secret,
+  contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
 - title: Jade
