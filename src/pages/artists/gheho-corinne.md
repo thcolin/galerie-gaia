@@ -49,6 +49,58 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
+- title: Cylindre
+  image: "/forestry/galerie-gaia-gueho-corinne-cycindres.JPG"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 12.5
+    width: 17.5
+    depth: 3.5
+  description: ''
+  price: 
+  sold: false
+  contextual: true
+- title: 'Bols '
+  image: "/forestry/galerie-gaia-gueho-corinne-bols.JPG"
+  technique: Grés ou faience
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "petits formats 10€ jusqu'à 40€  \nplateaux noyer ou fresnes 20€"
+  price: 10
+  sold: false
+  contextual: false
+- title: Ancrage pont
+  image: "/forestry/galerie-gaia-gueho-corinne-ancrages.JPG"
+  technique: 'Raku nu '
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 15
+    depth: 4.5
+  description: ''
+  price: 
+  sold: false
+  contextual: true
+- title: Ancrage 3
+  image: "/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG"
+  technique: 'Terre cuisson haute température '
+  fields: []
+  styles: []
+  dimensions:
+    height: 13
+    width: 17.5
+    depth: 3.5
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: 'Ancrage 2 '
   image: "/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG"
   technique: Cuisson haute température
