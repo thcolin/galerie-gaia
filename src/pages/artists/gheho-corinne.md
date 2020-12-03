@@ -49,6 +49,19 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
+- title: 'Portrait '
+  image: "/forestry/portrait-corinne.JPG"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Corinne Guého"
+  price: 
+  sold: false
+  contextual: true
 - title: 'Vigie '
   image: "/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
   technique: 'Cuisson haute température '
