@@ -51,15 +51,15 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
 works:
 - title: Cylindre
   image: "/forestry/galerie-gaia-gueho-corinne-cycindres.JPG"
-  technique: ''
+  technique: 'Raku nu ou cuisson haute température '
   fields: []
   styles: []
   dimensions:
-    height: 12.5
-    width: 17.5
-    depth: 3.5
-  description: ''
-  price: 
+    height: 18
+    width: 7
+    depth: 4
+  description: Prix selon modèle de 300€ 400€
+  price: 300
   sold: false
   contextual: true
 - title: 'Bols '
