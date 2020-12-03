@@ -109,21 +109,26 @@ function wipe () {
     .map(file => fs.readFileSync(file, 'utf-8'))
     .reduce((acc, curr) => `${acc}\n${curr}`, '')
 
-  const used = (stem) => {
-    if (Object.keys(cache).includes(stem)) {
-      return cache[stem]
+  const used = (path) => {
+    if (fs.statSync(path).ctime > new Date((new Date()).getTime() - 7 * 24 * 60 * 60 * 1000)) {
+      return true
     }
 
-    cache[stem] = (new RegExp(`${stem
+    if (Object.keys(cache).includes(path)) {
+      return cache[path]
+    }
+
+    cache[path] = (new RegExp(`${path
       .replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
       .replace(/[^\x00-\x7F]/g, '.+')
       .replace(/\s+/g, '\\s+')
     }`, 'ig')).test(content)
-    return cache[stem]
+
+    return cache[path]
   }
 
   const unused = src(`${__dirname}/static/forestry/*.{png,jpg,jpeg,PNG,JPG,JPEG}`)
-    .pipe(filter(file => file.stem.slice(0, 6) !== 'assets' && !used(file.stem)))
+    .pipe(filter(file => file.stem.slice(0, 6) !== 'assets' && !used(file.path)))
 
   const min = unused
     .pipe(rename(path => {
