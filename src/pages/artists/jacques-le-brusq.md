@@ -94,7 +94,7 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   France Paris  \nArtothèque Angers"
 works:
 - title: Rhuys vers kerne Opus 3
-  image: "/forestry/_mg_5399.jpg"
+  image: "/forestry/mg_5399.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
@@ -134,7 +134,7 @@ works:
   sold: false
   contextual: false
 - title: Paysage
-  image: "/forestry/_mg_3091.jpg"
+  image: "/forestry/mg_3091.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
@@ -148,7 +148,7 @@ works:
   sold: false
   contextual: false
 - title: Paysage Ker Sal 1Opus2
-  image: "/forestry/_mg_3074.jpg"
+  image: "/forestry/mg_3074.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
