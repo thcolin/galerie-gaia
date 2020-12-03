@@ -23,9 +23,18 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
   modelage, les cuissons, l’émaillage, les enfumages au bois… une chorégraphie qui
   existe pour elle-même, réaliser pour sentir, comprendre, trouver.\n\nSe saisir des
   gestes tient lieu d’ancrage et de ressource pour l’éclosion d’un langage personnel.\n\nEn
-  filigrane, l’atmosphère des ports, des bords de mer.\n\nExpositions\n\n2020  \nGalerie
-  Capazza, 18330 Nançay –  \nGalerie Antoine Barina - exposition personnelle– 68440
-  Dietwiller (reportée 2021)  \nSaint-Sulpice Céramique- Paris\n\n2019  \nSaint-Sulpice
+  filigrane, l’atmosphère des ports, des bords de mer.\n\n### Techniques de cuisson
+  \n\n**Pour la haute température**  \nTerre utilisée : grès blanc, roux, ou noir
+  \ \nPremière cuisson, le biscuit : 980° en four électrique  \nÉmaillage : émail
+  noir, émail noir rehaussé de lave volcanique, ou émail blanc  \nSeconde cuisson
+  : 1280° en four électrique\n\n**Pour la basse température  \n**Raku nu  \nTerre
+  utilisée : grès blanc et de l’engobe de grès blanc  \nFinition : polissage  \nPremière
+  cuisson, le biscuit : 980° en four électrique  \nEnfumage des pièces en cuve à gaz
+  \ \nEngobe de protection + émail, cuisson à 900°, défournement et choc thermique
+  \ \nEnfumage dans la sciure, 15 à 20 mn, arrosage de la pièce= l’émail saute  \nNettoyage
+  séchage puis la pièce est cirée à la cire d’abeille naturelle\n\n**Expositions**\n\n2020
+  \ \nGalerie Capazza, 18330 Nançay –  \nGalerie Antoine Barina - exposition personnelle–
+  68440 Dietwiller (reportée 2021)  \nSaint-Sulpice Céramique- Paris\n\n2019  \nSaint-Sulpice
   Céramique - Paris  \n« Bleu comme la terre » Galerie Capazza, 18330 Nançay\n\n2018
   \ \nParis-Potier, Saint-Sulpice, Paris  \nGalerie/librairie Terre d ‘Aligre, Paris
   \ \n13ème salon de la céramique contemporaine en Normandie, Pont de l’Arche (17)\n\n2016
@@ -39,7 +48,20 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
   Borne\n\nProfesseur d’ateliers artistiques\n\nLes objectifs principaux de ces ateliers
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
-works: []
+works:
+- title: 'Ancrage 2 '
+  image: "/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG"
+  technique: Cuisson haute température
+  fields: []
+  styles: []
+  dimensions:
+    height: 12.5
+    width: 17.5
+    depth: 3.5
+  price: 
+  sold: false
+  contextual: false
+  description: ''
 exhibitions:
 - title: galerie Capazza
   location: 18330 Nançay
