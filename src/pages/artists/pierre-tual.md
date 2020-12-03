@@ -34,6 +34,20 @@ biography: "# Pierre Tual \n\n**\"Quand je plie une feuille de métal, l'espace 
   Atelier la Commanderie des Templiers et  Elancourt 78  \n1991 - Atelier la Forge
   des Aulnays 61  \n1991 - 2001 Enseignant au Quai, Ecole d’Art de Mulhouse"
 works:
+- title: Céramique 3
+  image: "/forestry/galerie-gaia-pierre-tual-ceramique3-27x25x17.jpg"
+  technique: Terre émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 27
+    width: 25
+    depth: 17
+  description: ''
+  price: 1000
+  sold: false
+  contextual: true
 - title: 'Primitives 1 '
   image: "/forestry/galerie-gaia-pierre-tual-primitives1.jpg"
   technique: Fer recuit au four
