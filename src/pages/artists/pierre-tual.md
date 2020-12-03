@@ -34,6 +34,72 @@ biography: "# Pierre Tual \n\n**\"Quand je plie une feuille de métal, l'espace 
   Atelier la Commanderie des Templiers et  Elancourt 78  \n1991 - Atelier la Forge
   des Aulnays 61  \n1991 - 2001 Enseignant au Quai, Ecole d’Art de Mulhouse"
 works:
+- title: Primitive N°1
+  image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 36
+    depth: 24
+  price: 2500
+  sold: false
+  contextual: false
+  technique: 'fer recuit au four '
+  description: Série architecture 1999
+- title: Céramique 2
+  image: "/forestry/galerie-gaia-pierre-tual-ceramique2-13x24x20.jpg"
+  technique: Terre émaillée
+  fields: []
+  styles: []
+  dimensions:
+    height: 13
+    width: 24
+    depth: 20
+  description: ''
+  price: 800
+  sold: false
+  contextual: true
+- title: Primitive N°2
+  image: "/forestry/galerie-gaia-pierre-tual-primitives-n-2.jpg"
+  technique: 'Fer recuit au four '
+  fields: []
+  styles: []
+  dimensions:
+    height: 26
+    width: 38
+    depth: 22
+  description: Série architecture 1999
+  price: 2500
+  sold: false
+  contextual: false
+- title: Céramique 1
+  image: "/forestry/galerie-gaia-pierre-tual-ceramique1-25x22x17.jpg"
+  technique: Terre émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 25
+    width: 22
+    depth: 17
+  description: ''
+  price: 800
+  sold: false
+  contextual: true
+- title: Primitive N°3
+  image: "/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg"
+  technique: Fer recuit au four
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 44
+    depth: 22
+  description: Série architecture 1999
+  price: 2500
+  sold: false
+  contextual: false
 - title: Céramique 3
   image: "/forestry/galerie-gaia-pierre-tual-ceramique3-27x25x17.jpg"
   technique: Terre émaillée
@@ -60,45 +126,6 @@ works:
     width: 36
     depth: 24
   description: ''
-  price: 2500
-  sold: false
-  contextual: false
-- title: Primitive N°1
-  image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 36
-    depth: 24
-  price: 2500
-  sold: false
-  contextual: false
-  technique: 'fer recuit au four '
-  description: Série architecture 1999
-- title: Primitive N°2
-  image: "/forestry/galerie-gaia-pierre-tual-primitives-n-2.jpg"
-  technique: 'Fer recuit au four '
-  fields: []
-  styles: []
-  dimensions:
-    height: 26
-    width: 38
-    depth: 22
-  description: Série architecture 1999
-  price: 2500
-  sold: false
-  contextual: false
-- title: Primitive N°3
-  image: "/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg"
-  technique: Fer recuit au four
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 44
-    depth: 22
-  description: Série architecture 1999
   price: 2500
   sold: false
   contextual: false
