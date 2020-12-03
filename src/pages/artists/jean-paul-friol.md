@@ -224,8 +224,8 @@ works:
   image: "/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg"
   technique: Collage, papier soie, encre
   dimensions:
-    height: 66
-    width: 49
+    height: 72
+    width: 52
     depth: 
   description: "1991"
   price: 450
