@@ -106,7 +106,7 @@ works:
   price: 450
   contextual: true
 - title: Contenir le vent 9-III de Brigitte Marionneau
-  image: "/forestry/contenir-le-vent-9-iii-2018-h-23x19x18cm-credit-photo-michael-franken.JPG"
+  image: ''
   technique: 'Terre enfumée '
   dimensions:
     height: 24

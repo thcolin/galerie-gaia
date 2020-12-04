@@ -1,6 +1,7 @@
 ---
 template: artists
 artists:
+- artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
 - artist: src/pages/artists/mathilde-guiho.md
@@ -26,7 +27,6 @@ artists:
 - artist: src/pages/artists/frederique-tristant.md
 - artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/bram-van-velde.md
-- artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/boris-jakobek.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
 - artist: src/pages/artists/kazy-usclef.md
