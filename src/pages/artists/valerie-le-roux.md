@@ -26,6 +26,18 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Poisson russe orange
+  image: "/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg"
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 92
+    width: 65
+    depth: 0
+  description: ''
+  price: 80
+  contextual: true
 - title: Corail bleu
   image: "/forestry/corail-bleu.jpg"
   technique: Sérigraphie  /50
@@ -216,19 +228,6 @@ works:
     depth: 
   description: Rupture de stock
   price: 88
-  sold: false
-  contextual: true
-  fields:
-  - Céramique
-- title: Grande coupe
-  image: "/forestry/grande-coupe.jpg"
-  technique: Céramique
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 130
   sold: false
   contextual: true
   fields:
