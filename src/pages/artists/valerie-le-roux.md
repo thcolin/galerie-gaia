@@ -214,7 +214,7 @@ works:
     height: 
     width: 
     depth: 
-  description: ''
+  description: Rupture de stock
   price: 88
   sold: false
   contextual: true
