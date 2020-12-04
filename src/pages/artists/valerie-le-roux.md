@@ -201,8 +201,8 @@ works:
     height: 26
     width: 
     depth: 
-  description: 980€ pièce unique cabochon amovible
-  price: 
+  description: pièce unique cabochon amovible
+  price: 850
   sold: false
   contextual: true
   fields:
