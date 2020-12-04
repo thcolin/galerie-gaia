@@ -71,18 +71,18 @@ works:
   contextual: false
   fields:
   - photographie
-- title: EN LIBERTE triptyque de Marie Bathellier
-  image: "/forestry/mariebathellier-sculpturebois-haut72-450.jpeg"
+- title: Petit carton de Marie Bathellier
+  image: "/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
   dimensions:
     height: 0
     width: 0
     depth: 0
   description: "[Marie Bathellier]()"
-  price: 450
+  price: 290
   contextual: true
-  technique: Sculpture bois 72cm
+  technique: Technique mixte sur carton partiellement  pyrogravé
   fields:
-  - sculpture
+  - Oeuvre sur papier
 - title: Grès 5 par Jacqueline Pécantet
   image: "/forestry/dscf9191-copie.JPG"
   technique: Crin de cheval sur grès, poli au galet
