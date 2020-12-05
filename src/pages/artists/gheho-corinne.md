@@ -50,6 +50,19 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
 - title: Vigie
+  image: "/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
+  technique: Cuisson haute température
+  fields: []
+  styles: []
+  dimensions:
+    height: 15
+    width: 10
+    depth: 10
+  description: Blanc 400€ Noir 450€
+  price: 400
+  sold: false
+  contextual: false
+- title: Vigie
   image: "/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG"
   technique: 'Raku nu '
   fields: []
@@ -124,9 +137,9 @@ works:
     width: 17.5
     depth: 3.5
   description: ''
-  price: 
+  price: 350
   sold: false
-  contextual: true
+  contextual: false
 - title: 'Ancrage 2 '
   image: "/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG"
   technique: Cuisson haute température
