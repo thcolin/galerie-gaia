@@ -9,7 +9,7 @@ title: Ghého Corinne
 location: ''
 birth: ''
 death: ''
-expose: false
+expose: true
 biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de formes
   simples, les personnifie, les incarne, les poétise…  \nAu delà d’essayer encore
   et encore de saisir l’indicible des formes, le travail du multiple induit un autre
