@@ -49,32 +49,6 @@ biography: "# Corinne Guého\n\nDepuis 1988 Corinne Gueho travaille autour de fo
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
-- title: 'Portrait '
-  image: "/forestry/portrait-corinne.JPG"
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# Corinne Guého"
-  price: 
-  sold: false
-  contextual: true
-- title: 'Vigie '
-  image: "/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
-  technique: 'Cuisson haute température '
-  fields: []
-  styles: []
-  dimensions:
-    height: 15
-    width: 11
-    depth: 11
-  description: Modèle blanc 400€
-  price: 450
-  sold: false
-  contextual: false
 - title: Vigie
   image: "/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG"
   technique: 'Raku nu '
@@ -84,10 +58,10 @@ works:
     height: 16
     width: 11
     depth: 11
-  description: ''
+  description: Prix à l'unité
   price: 500
   sold: false
-  contextual: true
+  contextual: false
 - title: Cylindre
   image: "/forestry/galerie-gaia-gueho-corinne-cycindres.JPG"
   technique: 'Raku nu ou cuisson haute température '
@@ -97,20 +71,20 @@ works:
     height: 18
     width: 7
     depth: 4
-  description: Prix selon modèle de 300€ 400€
-  price: 300
+  description: Prix selon modèle de gauche à droite 200€ 350€ 400€
+  price: 200
   sold: false
-  contextual: true
+  contextual: false
 - title: 'Bols '
   image: "/forestry/galerie-gaia-gueho-corinne-bols.JPG"
   technique: Grés ou faience
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "petits formats 10€ jusqu'à 40€  \nplateaux noyer ou fresnes 20€"
+    height: 
+    width: 
+    depth: 
+  description: "petits formats 10€ jusqu'à 45€  \nplateaux noyer ou fresnes 20€"
   price: 10
   sold: false
   contextual: false
@@ -124,9 +98,22 @@ works:
     width: 15
     depth: 4.5
   description: ''
-  price: 
+  price: 250
   sold: false
-  contextual: true
+  contextual: false
+- title: 'Vigie '
+  image: "/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
+  technique: 'Cuisson haute température '
+  fields: []
+  styles: []
+  dimensions:
+    height: 15
+    width: 11
+    depth: 11
+  description: Modèle blanc 400€
+  price: 450
+  sold: false
+  contextual: false
 - title: Ancrage 3
   image: "/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG"
   technique: 'Terre cuisson haute température '
@@ -153,6 +140,19 @@ works:
   sold: false
   contextual: false
   description: ''
+- title: 'Portrait '
+  image: "/forestry/portrait-corinne.JPG"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: "# Corinne Guého"
+  price: 
+  sold: false
+  contextual: true
 exhibitions:
 - title: galerie Capazza
   location: 18330 Nançay
