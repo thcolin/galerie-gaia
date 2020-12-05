@@ -136,7 +136,7 @@ works:
     height: 12.5
     width: 17.5
     depth: 3.5
-  price: 
+  price: 350
   sold: false
   contextual: false
   description: ''
