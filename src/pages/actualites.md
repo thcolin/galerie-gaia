@@ -11,6 +11,23 @@ seo:
   image: ''
 articles:
 - template: article
+  date: '2020-12-06T11:38:00Z'
+  categories:
+  - Exposition
+  content: "# Tangui Robert\n\nIl y a tout juste 1 an, j'exprimais mon envie auprès
+    de [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/) de lui laisser
+    le champ libre pour installer son travail avec une seule contrainte : **NANTES.**
+    \ \n  \nLe terrain de jeu est immense, il restera comme **une réserve pour d'autres
+    chapitres.**  \n  \nC'est donc donc dans ce périmètre de 1km ...ou presque (chut!),
+    que Tangui a arpenté ses bords de Loire, au point de s'imaginer dans une exploration
+    du bout du monde.  \n  \nCes méandres s'emmêlent avec des émotions de drapés croqués
+    lors d'escapades au Musée d'Arts de Nantes, le jeu de miroir semble si évident
+    !  \nCroquis, dessins, gravures, formes et échantillons de nature...  \n  \nNous
+    sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
+    I de Chroniques** Nantaises."
+  image: "/forestry/visuelexpo_fragments-paysages_2.jpg"
+  title: F R A G M E N T S    P A Y S A G E S   Chronique nantaise Chapitre I
+- template: article
   categories:
   - Éxposition
   image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
@@ -691,22 +708,5 @@ articles:
   content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
     "Interview de Isabelle Thoams ")'
   image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
-- template: article
-  date: '2020-12-06T11:38:00Z'
-  categories:
-  - Exposition
-  content: "# Tangui Robert\n\nIl y a tout juste 1 an, j'exprimais mon envie auprès
-    de [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/) de lui laisser
-    le champ libre pour installer son travail avec une seule contrainte : **NANTES.**
-    \ \n  \nLe terrain de jeu est immense, il restera comme **une réserve pour d'autres
-    chapitres.**  \n  \nC'est donc donc dans ce périmètre de 1km ...ou presque (chut!),
-    que Tangui a arpenté ses bords de Loire, au point de s'imaginer dans une exploration
-    du bout du monde.  \n  \nCes méandres s'emmêlent avec des émotions de drapés croqués
-    lors d'escapades au Musée d'Arts de Nantes, le jeu de miroir semble si évident
-    !  \nCroquis, dessins, gravures, formes et échantillons de nature...  \n  \nNous
-    sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
-    I de Chroniques** Nantaises."
-  image: "/forestry/visuelexpo_fragments-paysages_2.jpg"
-  title: F R A G M E N T S    P A Y S A G E S   Chronique nantaise Chapitre I
 
 ---
