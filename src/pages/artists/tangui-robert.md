@@ -13,6 +13,32 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: 'Grandes serres et bord de Loire - Nantes '
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-grandes-serres-et-bord-de-loire-30x40.jpg"
+  technique: 'Photo et gravure sur zinc Edition en 20 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  - photographie
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
+- title: 'Château des Ducs et Musée d''Arts de Nantes '
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-chateau-des-ducs-et-musee-des-arts-50x70.jpg"
+  technique: Dessin fusain et aquarelle
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: Pièce unique
+  price: 480
+  contextual: true
 - title: Cale de l'Esclain et Rue de Verdun
   image: "/forestry/galerie-gaia-tangui-robert-nantes-cale-de-l-esclain-et-rue-de-verdun-30x40.jpg"
   technique: Dessin aquarelle rotring
@@ -27,8 +53,10 @@ works:
   contextual: true
 - title: 'Bras de la Madeleine et Jardin des Plantes '
   image: "/forestry/galerie-gaia-tangui-robert-nantes-bras-de-la-madeleine-et-jardin-des-plantes-30x40.jpg"
-  technique: 'Gravure, photo édition 20 exemplaires '
-  fields: []
+  technique: 'Gravure sur zinc et photo édition 20 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  - photographie
   styles: []
   dimensions:
     height: 30
@@ -39,7 +67,7 @@ works:
   contextual: true
 - title: Jardin des plantes
   image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
-  technique: Gravure sur zinc et piquetage photos
+  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
   dimensions:
     height: 40
     width: 50
@@ -47,6 +75,9 @@ works:
   description: ''
   price: 450
   contextual: true
+  fields:
+  - Oeuvre sur papier
+  - " Photographie"
 - title: Sans titre
   image: "/forestry/galerie-gaia-tangui-robert-sans-titre-30x24.jpg"
   technique: Gravure sur zinc et piquetage photos
