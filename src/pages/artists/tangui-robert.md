@@ -13,6 +13,18 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: Cale de l'Esclain et Rue de Verdun
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-cale-de-l-esclain-et-rue-de-verdun-30x40.jpg"
+  technique: Dessin aquarelle rotring
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: Pièce unique
+  price: 350
+  contextual: true
 - title: 'Bras de la Madeleine et Jardin des Plantes '
   image: "/forestry/galerie-gaia-tangui-robert-nantes-bras-de-la-madeleine-et-jardin-des-plantes-30x40.jpg"
   technique: 'Gravure, photo édition 20 exemplaires '
@@ -23,7 +35,7 @@ works:
     width: 40
     depth: 0
   description: ''
-  price: 0
+  price: 380
   contextual: true
 - title: Jardin des plantes
   image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
