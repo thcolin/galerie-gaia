@@ -226,73 +226,6 @@ works:
   description: œuvre encadrée cadre standard bois naturel montage caisson
   price: 280
   contextual: true
-- title: Tympan - Nantes
-  image: "/forestry/@Tangui Robert-Tympan Nantes-24x30_1.jpg"
-  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
-  dimensions:
-    height: 30
-    width: 24
-  description: ''
-  price: 280
-  contextual: true
-- title: Samaya - Guinée
-  image: "/forestry/@Tangui Robert-Samaya-Guinée-30x40_1.jpg"
-  technique: Gravure sur zinc et photographies Edition en 7 exemplaires
-  dimensions:
-    height: 40
-    width: 30
-  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2017"
-  price: 380
-  contextual: true
-- title: Palermo
-  image: "/forestry/@Tangui Robert-Palermo-40x50_1.jpg"
-  technique: Gravure sur zinc et photographies Edition en 20 exemplaires
-  dimensions:
-    height: 50
-    width: 40
-  description: œuvre encadrée cadre standard bois naturel montage caisson
-  price: 450
-  contextual: true
-- title: Maison Tulou
-  image: "/forestry/@Tangui Robert-Maison Toulu-30x40_1.jpg"
-  technique: Gravure sur zinc et piquage photos Edition en 20 exemplaires
-  dimensions:
-    height: 40
-    width: 30
-  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2016"
-  price: 380
-  contextual: true
-- title: Louxor
-  image: "/forestry/@Tangui Robert-Louxor-24x30_1.jpg"
-  technique: Gravure sur zinc et photographies Epreuve d'artiste
-  dimensions:
-    height: 24
-    width: 30
-  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2012"
-  price: 280
-  contextual: true
-- title: Etude
-  image: "/forestry/@Tangui Robert-Etude-50x70_1.jpg"
-  technique: Gravure sur zinc photographie cire et plomb
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
-  price: 520
-  contextual: true
-  sold: false
-- title: Empreinte
-  image: "/forestry/@Tangui Robert-Empreinte-30x40_1.jpg"
-  technique: Gravure sur zinc et photographies
-  dimensions:
-    height: 43
-    width: 33
-    depth: 
-  description: œuvre encadrée cadre standard bois naturel montage caisson
-  price: 380
-  contextual: true
-  sold: false
 - title: 'Digue '
   image: "/forestry/@Tangui Robert-Digue-30x40.jpg_1.jpg"
   technique: Gravure et piquage photos Edition en 20 exemplaires
@@ -311,17 +244,6 @@ works:
     depth: 
   description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
   price: 450
-  sold: false
-  contextual: true
-- title: Prospection
-  image: "/forestry/prospection.jpg"
-  technique: Gravure sur zinc et pigment doré Edition en 20 exemplaires
-  dimensions:
-    height: 31
-    width: 25
-    depth: 
-  description: "œuvre encadrée cadre standard aluminium couleur chêne   \n2019 "
-  price: 280
   sold: false
   contextual: true
 - title: Salento
