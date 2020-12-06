@@ -26,7 +26,7 @@ articles:
     sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
     I de Chroniques** Nantaises."
   image: "/forestry/visuelexpo_fragments-paysages_2.jpg"
-  title: F R A G M E N T S    P A Y S A G E S   Chronique nantaise Chapitre I
+  title: F R A G M E N TS    P A Y S A G ES     Tangui Robert
 - template: article
   categories:
   - Éxposition
