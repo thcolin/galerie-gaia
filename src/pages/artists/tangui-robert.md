@@ -13,6 +13,56 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: 'Musée d''Arts et Théâtre Graslin Nantes '
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-et-graslin-40x50.jpg"
+  technique: 'Dessin, fusain et aquarelle '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: ''
+  price: 420
+  contextual: true
+- title: Musée d'Arts de Nantes et Beguin Say
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say-40x50.jpg"
+  technique: Dessin, fusain et aquarelle
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: Pièce unique
+  price: 420
+  contextual: true
+- title: Musée d'Arts et Beguin Say
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say_2-30x40.jpg"
+  technique: Dessin, fusain aquarelle
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: Pièce unique
+  price: 420
+  contextual: true
+- title: 'Cale de l''Esclain et Jardin des Plantes '
+  image: "/forestry/galerie-gaia-tangui-robert-nantes-l-esclun-et-jardin-des-plantes-30x40.jpg"
+  technique: 'Gravure sur zinc et photos Edition en 20 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  - " Photographie"
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: 'Grandes serres et bord de Loire - Nantes '
   image: "/forestry/galerie-gaia-tangui-robert-nantes-grandes-serres-et-bord-de-loire-30x40.jpg"
   technique: 'Photo et gravure sur zinc Edition en 20 exemplaires '
