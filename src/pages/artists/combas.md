@@ -7,9 +7,9 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Robert Combas\n\n## Combas\n\n## Combas Robert artiste \n\na apporté
-  à l'aube des années 1980 une nouvelle peinture figurative. Présent sur la scène
-  artistique dès 1979, il est le créateur d'un mouvement que Ben appela   \n[\"LA
+biography: "# Robert Combas\n\n## Combas\n\n## Combas Robert artiste\n\nRobert Combas
+  a apporté à l'aube des années 1980 une nouvelle peinture figurative. Présent sur
+  la scène artistique dès 1979, il est le créateur d'un mouvement que Ben appela  \n[\"LA
   FIGURATION LIBRE\"](https://www.combas.com/blog/55-figuration-libre-france-usa/
   \"combas musee art moderne paris\"), regroupant Rémi Blanchard, [François Boisrond](https://galeriegaia.fr/about/art-et-fiscalite/
   \"serigraphie boisrond\") et [Hervé Di Rosa](https://galeriegaia.fr/artists/estampes/
@@ -28,25 +28,19 @@ biography: "# Robert Combas\n\n## Combas\n\n## Combas Robert artiste \n\na appor
   \""
 exhibitions: []
 works:
-- title: Sans Titre
+- title: Dragon Combas
   image: "/forestry/galeriegaia_Combas_Sans(5:79)_57x76- 01.jpg"
   dimensions:
     height: 56
     width: 76
     depth: 0
-  description: "Edité par l'atelier du Petit Jaunais  \n1997"
+  description: |-
+    # Litho Combas
+
+    Edité par l'atelier du Petit Jaunais 1997
   price: 1200
   contextual: true
   technique: 'Lithographie en 5 couleurs Edition 5/79 '
-- title: Certificat d'authenticité Robert Combas "Le Combo de Combas"
-  image: "/forestry/20190523_180652.jpg"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
 - title: 'Le Combo de Combas '
   image: "/forestry/combo-1325.jpg"
   technique: Installation lumineuse Sérigraphie
@@ -54,13 +48,22 @@ works:
     height: 52
     width: 98
     depth: ''
-  description: A la base c'est une sérigraphie originale de Robert Combas imprimée
-    sur Plexiglas et montée sur un caisson lumineux de 7cm d'épaisseur. Pour chaque
-    exemplaire, l'artiste est intervenu manuellement avec une pointe métallique, en
-    gravant de nouveaux motifs sur la sérigraphie. Edition numérotée 3/25 . Certificat
-    d'authenticité . Prix sur demande
-  price: 
+  description: 'A la base c''est une sérigraphie originale de **Robert Combas** imprimée
+    sur Plexiglas et montée sur un caisson lumineux de 7cm d''épaisseur. Pour chaque
+    exemplaire, l''artiste est intervenu manuellement avec une pointe métallique,
+    en gravant de nouveaux motifs sur la sérigraphie. Edition numérotée 3/25 . Certificat
+    d''authenticité . '
+  price: 4500
   sold: false
+  contextual: true
+- title: Certificat d'authenticité Robert Combas "Le Combo de Combas"
+  image: "/forestry/20190523_180652.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Combas "
+  price: 0
   contextual: true
 redirect_from:
 - "/artistes/38-combas/"

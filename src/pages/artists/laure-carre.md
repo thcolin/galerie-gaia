@@ -430,14 +430,14 @@ works:
   description: 2020 vendu
   price: ''
   contextual: true
-- title: Portrait de Laure Carré
+- title: 'Portrait '
   image: "/forestry/salle-dattente.jpg"
   technique: '"Salle d''attente" Huile sur toile'
   dimensions:
     height: 200
     width: 200
     depth: 
-  description: ''
+  description: "# Laure Carré"
   price: 6000
   sold: false
   contextual: false

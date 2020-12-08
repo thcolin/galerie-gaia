@@ -20,7 +20,7 @@ biography: |-
 
   Ses dernières découvertes l'ont conduit sur les traces du programme de vaisseau spatial soviétique Buran à Baïkonour (Kazakhstan).
 
-  En 2017 il devient ambassadeur Manfrotto et en 2018 c'est Irix, la marque d'objectif ultra grand-angle d'origine Suisse qui propose à Dimitri Bourriau de devenir leur ambassadeur.
+  En 2017 Dimitri Bourriau devient ambassadeur Manfrotto et en 2018 c'est Irix, la marque d'objectif ultra grand-angle d'origine Suisse qui propose à Dimitri Bourriau de devenir leur ambassadeur.
 
   Ses images sont éditées en seulement 15 exemplaires pour vous garantir une meilleure exclusivité de ses photos.
 
@@ -219,14 +219,14 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: Portrait Dimitri Bourriau
+- title: 'Portrait '
   image: "/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
   technique: ''
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "# Dimitri Bourriau"
   price: 
   sold: false
   contextual: true
