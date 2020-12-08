@@ -60,6 +60,18 @@ biography: "# Renaud Allirand\n\n**Les écritures rebelles**   \nBarbelés infra
   Robinet\n\nTranslation: Diana Quinby"
 exhibitions: []
 works:
+- title: Gravure mise en situation
+  image: "/forestry/galerie-gaia-allirand-en-situation.jpg"
+  technique: 'Eau forte sur zinc '
+  fields: []
+  styles: []
+  dimensions:
+    height: 12
+    width: 8
+    depth: 0
+  description: ''
+  price: 80
+  contextual: false
 - title: "8"
   image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 36.jpg"
   dimensions:
