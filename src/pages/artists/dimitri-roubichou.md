@@ -80,7 +80,7 @@ works:
   price: 250
   contextual: true
 - title: Inda
-  image: "/forestry/dimitri-roubichou-inda-jpeg.JPG"
+  image: "/forestry/dimitri-roubichou-inda-jpeg-1.JPG"
   technique: Photographie 20X20
   fields: []
   styles: []
