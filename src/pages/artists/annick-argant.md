@@ -30,15 +30,26 @@ exhibitions:
   start: "0"
   end: 
 works:
-- title: Les grands CARR'AIMANTS
+- title: Les grands Carr'aimant
   image: "/forestry/les-grands-carraimants.jpg"
   technique: grés sur socle bois
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: vendus
   price: 
+  sold: false
+  contextual: true
+- title: Carr'aimant
+  image: "/forestry/carraiment.jpg"
+  technique: Grès sur socle bois
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: De 150€ à 1200€
+  price: 400
   sold: false
   contextual: true
 - title: Petit Ange
@@ -60,39 +71,6 @@ works:
     width: 
     depth: 
   description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: CARR'AIMANT
-  image: "/forestry/carraimant.jpg"
-  technique: grés sur socle bois
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: Carr'aimants
-  image: "/forestry/carraimants.jpg"
-  technique: grés et bois
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: Carr'aiment
-  image: "/forestry/carraiment.jpg"
-  technique: Grès sur socle bois
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: De 150€ à 1800€
   price: 
   sold: false
   contextual: true
