@@ -7,41 +7,24 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Nadia Barbotin \n\nPassionnée par la créativité sous toutes ses formes,
-  Nadia a rencontré des artistes de tous milieux qui ont impulsé son orientation actuelle
-  vers la peinture.\n\nAutodidacte jusqu’en 2014, elle a toujours peint à l'huile
-  et au couteau mais Nadia s'ouvre de plus en plus à de nouvelles techniques et médiums
-  avec les spalters, les shapers, les encres acryliques et alcooliques, l'acrylique,
-  quitte à les mélanger pour donner plus de force, de transparence à ses œuvres.\n\nA
-  partir de 2014, elle prend son destin en main pour réaliser son désir le plus profond,
-  peindre à plein-temps.\n\nElle prend des cours de Peinture Contemporaine, de sculpture
-  et de modèle vivant aux Beaux-Arts de Nantes et aux Ateliers de la Gobinière à Orvault,
-  afin d’expérimenter différentes voies artistiques. Nadia fait le choix de réaliser
-  majoritairement ses propres toiles et couleurs (pigments) dans un esprit d'artisanat
-  de qualité. Inspirée par les impressionnistes pour leur lumière, leur mouvement
-  et leurs couleurs vives, émerveillée par les expressionnistes abstraits pour leur
-  langage émotionnel véhément et spontané, et par l’Action painting pour le geste
-  physique et l’énergie, Nadia essaie de traduire dans ses œuvres, un mélange de tous
-  ces mouvements. Le chant qu’elle pratique depuis plus de 20 ans, l’aide également
-  à trouver ses inspirations dans le rythme de ses peintures. Depuis, Nadia utilise
-  toutes ses compétences et connaissances en synergie pour peindre des œuvres sur
-  toiles et papiers qui sont sources d’émotions, de sentiments, de réflexion, de ressenti.\n\nLa
-  transparence et la profondeur sont des obsessions, comme une recherche de vérité
-  absolue. Nadia tend constamment à travailler avec la lumière pour que la peinture
-  se révèle également dans son intimité. La couleur est toujours à l’honneur, de préférence
-  éclatante, vibrant ainsi sous la lumière.Parfois, la matière s’invite, telle une
-  sculpture picturale verticale, donnant ainsi du relief aux supports. La toile est
-  presque blanche et la composition se dessine au fur et à mesure selon l’humeur du
-  moment.\n\nTravaillée par touches, grands aplats, mouvements, la peinture vit, se
-  transforme et dialogue enfin avec son spectateur. Car le plus important est la stimulation
-  de cet écho, cette résonance dans l’histoire de chacun, l’exploration de son propre
-  rythme, de sa propre intimité lors de la rencontre avec l’oeuvre.\n\nDepuis plus
-  de 2 ans, Nadia travaille en techniques mixtes sur le plexiglas, qui lui ouvre de
-  nouvelles perspectives dans l’approche de la peinture, un mélange entre une œuvre
-  picturale et un volume, que l’on peut toucher, manipuler, regarder sous tous les
-  angles. De cette quête omniprésente de la lumière est née la série des Vitraux Contemporains.\n\nPeintres
-  « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto
-  Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…"
+biography: |-
+  # Nadia Barbotin
+
+  Passionnée par la créativité sous toutes ses formes, Nadia Barbotin a rencontré des artistes de tous milieux qui ont impulsé son orientation actuelle vers la peinture.
+
+  Autodidacte jusqu’en 2014, Nadia Barbotin a toujours peint à l'huile et au couteau mais Nadia s'ouvre de plus en plus à de nouvelles techniques et médiums avec les spalters, les shapers, les encres acryliques et alcooliques, l'acrylique, quitte à les mélanger pour donner plus de force, de transparence à ses œuvres.
+
+  A partir de 2014, Nadia Barbotin prend son destin en main pour réaliser son désir le plus profond, peindre à plein-temps.
+
+  Nadia barbotin prend des cours de Peinture Contemporaine, de sculpture et de modèle vivant aux Beaux-Arts de Nantes et aux Ateliers de la Gobinière à Orvault, afin d’expérimenter différentes voies artistiques. Nadia Barbotin fait le choix de réaliser majoritairement ses propres toiles et couleurs (pigments) dans un esprit d'artisanat de qualité. Inspirée par les impressionnistes pour leur lumière, leur mouvement et leurs couleurs vives, émerveillée par les expressionnistes abstraits pour leur langage émotionnel véhément et spontané, et par l’Action painting pour le geste physique et l’énergie, Nadia Barbotin essaie de traduire dans ses œuvres, un mélange de tous ces mouvements. Le chant qu’elle pratique depuis plus de 20 ans, l’aide également à trouver ses inspirations dans le rythme de ses peintures. Depuis, Nadia  Barbotin utilise toutes ses compétences et connaissances en synergie pour peindre des œuvres sur toiles et papiers qui sont sources d’émotions, de sentiments, de réflexion, de ressenti.
+
+  La transparence et la profondeur sont des obsessions, comme une recherche de vérité absolue. Nadia Barbotin tend constamment à travailler avec la lumière pour que la peinture se révèle également dans son intimité. La couleur est toujours à l’honneur, de préférence éclatante, vibrant ainsi sous la lumière.Parfois, la matière s’invite, telle une sculpture picturale verticale, donnant ainsi du relief aux supports. La toile est presque blanche et la composition se dessine au fur et à mesure selon l’humeur du moment.
+
+  Travaillée par touches, grands aplats, mouvements, la peinture vit, se transforme et dialogue enfin avec son spectateur. Car le plus important est la stimulation de cet écho, cette résonance dans l’histoire de chacun, l’exploration de son propre rythme, de sa propre intimité lors de la rencontre avec l’œuvre.
+
+  Depuis plus de 2 ans, Nadia Barbotin travaille en techniques mixtes sur le plexiglas, qui lui ouvre de nouvelles perspectives dans l’approche de la peinture, un mélange entre une œuvre picturale et un volume, que l’on peut toucher, manipuler, regarder sous tous les angles. De cette quête omniprésente de la lumière est née la série des Vitraux Contemporains.
+
+  Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
 - title: Retrouvailles
   image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
