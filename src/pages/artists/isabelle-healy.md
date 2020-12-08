@@ -184,14 +184,14 @@ works:
   price: 2000
   sold: false
   contextual: false
-- title: Portrait d'Isabelle Healy
+- title: 'Portrait '
   image: "/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
   technique: ''
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "# Isabelle Healy"
   price: 
   sold: false
   contextual: false
