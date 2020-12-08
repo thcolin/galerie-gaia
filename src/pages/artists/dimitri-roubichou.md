@@ -249,13 +249,13 @@ works:
   price: 400
   sold: false
   contextual: true
-- title: Portrait de Dimitri Roubichou
+- title: Portrait
   image: "/forestry/galeriegaia-dimitri roubichou portrait.jpg"
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: "# Dimitri Roubichou"
   price: ''
   contextual: true
 redirect_from:
