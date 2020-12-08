@@ -209,7 +209,7 @@ works:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "# Nadia Barbotin"
   price: 
   sold: false
   contextual: false

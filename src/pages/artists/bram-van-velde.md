@@ -8,7 +8,7 @@ birth: "1895"
 death: "1981"
 expose: true
 biography: |-
-  # Bram Van Velde
+  # Litho Bram Van Velde
 
   Bram Van Velde artiste  né en 1895 à Zoeterwoude, au Pays-Bas, issu de famille pauvre et autodidacte, fut attiré très jeune par la peinture. A douze ans, [Bram Van Velde ](https://www.mba-lyon.fr/fr/fiche-programmation/exposition-bram-et-geer-van-velde "bram van velde")travaille comme apprenti au sein d'un atelier de peinture et de décoration. Bram Vanvelde fut grandement influencé par les expressionnistes allemands, et recevra, à Paris, l'influence des fauves et surtout de Matisse. Dès l'après guerre, l'artiste maîtrisera entièrement le langage plastique, qui caractérisera l'ensemble de son œuvre. Les tensions intérieures qui animent le peintre, matérialiseront sa conception de l'espace au sein de ces œuvres, teintée de sa personnalité. Ses compositions traduisent une transparence lumineuse.
 

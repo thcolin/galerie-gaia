@@ -121,7 +121,7 @@ works:
   dimensions:
     height: 21
     width: 18
-    depth: 0
+    depth: 
   description: Œuvre encadrée caisse bois blanc
   price: 290
   sold: false
@@ -343,14 +343,14 @@ works:
   fields:
   - Design
   styles: []
-- title: Portrait Marie Bathellier
+- title: 'Portrait '
   image: "/forestry/galerie-gaia-marie-bathelier-portrait.jpg"
   technique: ''
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "# Marie Bathellier"
   price: 
   sold: false
   contextual: false
