@@ -64,17 +64,17 @@ works:
   price: 1500
   sold: false
   contextual: false
-- title: Contenir le vent 9-III
-  image: "/forestry/contenir-le-vent-9-iii-2018-h-23x19x18cm-credit-photo-michael-franken.JPG"
+- title: Contenir le vent 9-XI
+  image: "/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg"
   technique: Terre enfumée
   fields: []
   styles: []
   dimensions:
-    height: 24
-    width: 20
-    depth: 20
-  description: Numéro III
-  price: 2200
+    height: 17
+    width: 14
+    depth: 14
+  description: ''
+  price: 2000
   sold: false
   contextual: false
 - title: Contenir le vent 8-X
@@ -125,7 +125,7 @@ works:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "# Brigitte Marionneau"
   price: 
   sold: false
   contextual: true
