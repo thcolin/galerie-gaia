@@ -26,14 +26,24 @@ biography: |-
 exhibitions: []
 works:
 - title: 'Sans titre '
-  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-5.jpg"
+  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
+  dimensions:
+    height: 31
+    width: 39
+    depth: 28
+  description: "2020"
+  price: 1800
+  contextual: false
+  technique: Métal soudé vernis sur socle wengé
+- title: 'Sans titre '
+  image: "/forestry/galerie-gaia-olivier-fremont-44x17x10.jpg"
   technique: Métal soudé vernis sur socle wengé
   dimensions:
-    height: 35
-    width: 30
-    depth: 20
-  description: Vendu
-  price: 1600
+    height: 44
+    width: 17
+    depth: 10
+  description: ''
+  price: 1000
   contextual: false
 - title: Sans titre
   image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-3.jpg"
@@ -45,16 +55,6 @@ works:
   description: "2020"
   price: 1600
   contextual: true
-- title: 'Sans titre '
-  image: "/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
-  dimensions:
-    height: 31
-    width: 39
-    depth: 28
-  description: "2020"
-  price: 1800
-  contextual: false
-  technique: Métal soudé vernis sur socle wengé
 - title: Compression
   image: "/forestry/Compression 70x70x30 tirage bronze I  sur VIII 9000 €.jpg"
   technique: Bronze 1/8
@@ -105,17 +105,6 @@ works:
     depth: 
   description: Prix selon format 1000€ - 1200€ - 1400€
   price: 
-  sold: false
-  contextual: true
-- title: Famille Hérons
-  image: "/forestry/famille-herons.jpg"
-  technique: Acier pièce unique
-  dimensions:
-    height: 49
-    width: 16
-    depth: 16
-  description: ''
-  price: 650
   sold: false
   contextual: true
 - title: Don Cristo

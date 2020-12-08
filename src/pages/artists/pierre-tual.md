@@ -1,6 +1,7 @@
 ---
 fields:
 - Sculpture
+- Céramique
 styles:
 - Abstrait
 template: artist
