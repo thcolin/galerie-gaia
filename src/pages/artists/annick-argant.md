@@ -52,6 +52,18 @@ works:
   price: 400
   sold: false
   contextual: true
+- title: Carr'aimant
+  image: "/forestry/galerie-gaia-caraimant-argant.jpg"
+  technique: 'Grès et bois '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vert 1200€ Rouge 900€
+  price: 900
+  contextual: false
 - title: Petit Ange
   image: "/forestry/petit-ange.jpg"
   technique: bronze doré
