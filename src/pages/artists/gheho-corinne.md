@@ -5,7 +5,7 @@ styles:
 - Figuratif
 - Abstrait
 template: artist
-title: Ghého Corinne
+title: Guého Corinne
 location: ''
 birth: ''
 death: ''
@@ -81,7 +81,7 @@ works:
   contextual: false
 - title: 'Bols '
   image: "/forestry/galerie-gaia-gueho-corinne-bols.JPG"
-  technique: Grés ou faience
+  technique: Grés ou porcelaine
   fields: []
   styles: []
   dimensions:
