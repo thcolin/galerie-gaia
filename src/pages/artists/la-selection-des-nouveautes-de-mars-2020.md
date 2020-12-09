@@ -10,6 +10,12 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: 'Idées cadeaux '
+  image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
+  description: ''
+  price: ''
+  contextual: true
+  technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
 - title: Paige de Dimitri Roubichou
   image: "/forestry/dimitri-roubichou-paige-jpeg.JPG"
   technique: 'Photographie tirage papier baryté 9 exemplaires '
@@ -21,15 +27,10 @@ works:
     height: 30
     width: 30
     depth: 0
-  description: Oeuvre encadrée verre musée antireflet
+  description: "Oeuvre encadrée verre musée antireflet  \n[Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/
+    \"dimitri roubichou \")"
   price: 250
   contextual: true
-- title: 'Idées cadeaux '
-  image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
-  description: ''
-  price: ''
-  contextual: true
-  technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
 - title: Gravure de Jean Paul Friol
   image: "/forestry/friol-gravure-34-1988-epreuve-7_15-h22x16l.jpg"
   technique: gravure sur platre édition 15 exemplaires
@@ -40,7 +41,8 @@ works:
     height: 22
     width: 13
     depth: 0
-  description: ''
+  description: '[Jean Paul Friol](https://galeriegaia.fr/artists/jean-paul-friol/
+    "Jean Paul Friol")'
   price: 120
   contextual: true
 - title: Gravure  Renaud Allirand
@@ -54,7 +56,8 @@ works:
     height: 15
     width: 8
     depth: 0
-  description: 'Cadre de présentation Habitat non compris '
+  description: "Cadre de présentation Habitat non compris  \n[Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/
+    \"renaud allirand\")"
   price: 80
   contextual: true
 - title: Gérard Traquandi sans titre 16/19
