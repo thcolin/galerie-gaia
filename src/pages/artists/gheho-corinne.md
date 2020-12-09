@@ -53,6 +53,19 @@ works:
   price: 400
   sold: false
   contextual: false
+- title: 'Bols '
+  image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
+  technique: Grès ou porcelaine
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "petits formats 10€ jusqu’à 45€  \nplateaux noyer ou fresnes 20€"
+  price: 10
+  sold: false
+  contextual: true
 - title: Vigie
   image: "/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG"
   technique: 'Raku nu '

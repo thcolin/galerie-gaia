@@ -26,17 +26,6 @@ biography: |-
   [L’exposition Polymorphie ](https://galeriegaia.fr/actualites/ "exposition galerie gaia nantes")organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
-- title: Vis a vis
-  image: "/forestry/galeriegaia_morin_visavis-1979-_61x50-01.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 61
-    width: 50
-    depth: 
-  description: '1979 '
-  price: 2600
-  sold: false
-  contextual: true
 - title: Néon
   image: "/forestry/1279.jpg"
   technique: Acrylique sur toile
@@ -46,6 +35,17 @@ works:
     depth: 
   description: '1983 '
   price: 3300
+  sold: false
+  contextual: true
+- title: Vis a vis
+  image: "/forestry/galeriegaia_morin_visavis-1979-_61x50-01.jpg"
+  technique: Acrylique sur toile
+  dimensions:
+    height: 61
+    width: 50
+    depth: 
+  description: '1979 '
+  price: 2600
   sold: false
   contextual: true
 - title: Conversation dans le ciel

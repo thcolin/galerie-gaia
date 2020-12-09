@@ -4,6 +4,7 @@ title: Jorj Morin
 location: Nantes
 fields:
 - Oeuvre sur papier
+- Textile
 birth: "1909"
 death: "1995"
 expose: true
