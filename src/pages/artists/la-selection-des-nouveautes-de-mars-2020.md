@@ -10,12 +10,39 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: Gravure de Jean Paul Friol
+  image: "/forestry/friol-gravure-34-1988-epreuve-7_15-h22x16l.jpg"
+  technique: gravure sur platre édition 15 exemplaires
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 22
+    width: 13
+    depth: 0
+  description: ''
+  price: 120
+  contextual: true
 - title: 'Idées cadeaux '
   image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
   description: ''
   price: ''
   contextual: true
   technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
+- title: Gravure  Renaud Allirand
+  image: "/forestry/galerie-gaia-allirand-en-situation.jpg"
+  technique: eau-forte édition limitée
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
+  dimensions:
+    height: 15
+    width: 8
+    depth: 0
+  description: 'Cadre de présentation Habitat non compris '
+  price: 80
+  contextual: true
 - title: Gérard Traquandi sans titre 16/19
   image: "/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
   technique: Eau forte 16/19
@@ -135,25 +162,6 @@ works:
   - Oeuvre sur papier
   styles:
   - abstrait
-- title: Deep Blue par ISTHME
-  image: "/forestry/20191008_151145.jpg"
-  dimensions:
-    height: 146
-    width: 114
-  description: '[Isthme](https://galeriegaia.fr/artists/isthme/ "galerie gaia isthme")'
-  price: 3200
-  contextual: false
-  technique: 'Acrylique sur toile '
-- title: Diptyque en mon jardin de Elisabeth Wadecki
-  image: "/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
-  technique: acrylique et bâtons d'huile sur papier
-  dimensions:
-    height: 43
-    width: 43
-  description: '[Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
-    "galerie gaia elisabeth wadecki")'
-  price: 4000
-  contextual: false
 - title: Blason acrylique sur feutre de Françoise Paressant
   image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
   technique: 'Acrylique sur feutre '
