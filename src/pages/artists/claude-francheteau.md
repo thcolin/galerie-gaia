@@ -52,7 +52,7 @@ works:
     width: 18
     depth: 0
   description: ''
-  price: 150
+  price: 160
   contextual: true
 - title: FSV 037
   image: "/forestry/galerie-gaia-claude-francheteau-fsv-037-10-5x13.jpeg"
@@ -75,7 +75,7 @@ works:
     width: 17
     depth: 0
   description: ''
-  price: 250
+  price: 240
   contextual: true
   technique: 'Acrylique sur toile '
 - title: CIEL 2067
