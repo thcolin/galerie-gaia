@@ -31,6 +31,29 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: FSV 162
+  image: "/forestry/galerie-gaia-claude-francheteau-fsv-162-18x07.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: '07'
+    width: 18
+    depth: 0
+  description: ''
+  price: 150
+  contextual: true
+- title: FSV 037
+  image: "/forestry/galerie-gaia-claude-francheteau-fsv-037-10-5x13.jpeg"
+  technique: 'Acrylique sur verre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 10.5
+    width: 13
+    depth: 0
+  description: ''
+  price: 120
+  contextual: false
 - title: Ciel 157
   image: "/forestry/galerie-gaia-claude-francheteau-ciels-157-17x23.jpg"
   fields: []
@@ -40,8 +63,9 @@ works:
     width: 17
     depth: 0
   description: ''
-  price: 0
+  price: 250
   contextual: true
+  technique: 'Acrylique sur toile '
 - title: Ciel 087
   image: "/forestry/galerie-gaia-claude-francheteau-ciels-087-20x20.jpg"
   technique: 'Acrylique sur toile '
