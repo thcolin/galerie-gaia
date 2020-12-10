@@ -31,6 +31,29 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: Ciel 157
+  image: "/forestry/galerie-gaia-claude-francheteau-ciels-157-17x23.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 23
+    width: 17
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Ciel 087
+  image: "/forestry/galerie-gaia-claude-francheteau-ciels-087-20x20.jpg"
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 150
+  contextual: true
 - title: CIEL 2067
   image: "/forestry/ciel-2067.jpg"
   technique: Acrylique sur toile
