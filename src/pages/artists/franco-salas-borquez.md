@@ -21,6 +21,27 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Ensemble
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 100
+    width: 100
+  description: "2020"
+  price: 3200
+  contextual: true
+  image: "/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG"
+  sold: false
+- title: Element (détail)
+  image: "/forestry/galerie-gaia-franco-salas-borques-detail-element.JPG"
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
 - title: Vague hurlante
   image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
   description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
@@ -40,16 +61,6 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: Ensemble
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: "2020"
-  price: 3200
-  contextual: true
-  image: "/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG"
-  sold: false
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
   dimensions:
