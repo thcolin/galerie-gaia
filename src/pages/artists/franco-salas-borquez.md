@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Borquez Franco Salas
+title: 'Salas Borquez Franco '
 location: Franco Chilien
 fields:
 - Peinture
@@ -31,26 +31,6 @@ works:
     width: 130
   contextual: true
   technique: 'Huile sur toile '
-- title: Le profond
-  image: "/forestry/galerie-gaia-franco-salas-borquez-le-profond-100x65.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 100
-    width: 65
-    depth: 0
-  description: "2019"
-  price: 2900
-  contextual: true
-- title: La cime
-  image: "/forestry/galerie-gaia-franco-salas-borquez-la-cime-100x100.jpg"
-  technique: Huile sur toile
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: Vendue
-  price: 3200
-  contextual: true
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
   dimensions:
@@ -60,15 +40,15 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: L'équilibre
+- title: Ensemble
   technique: 'Huile sur toile '
   dimensions:
     height: 100
     width: 100
-  description: Vendue
+  description: "2020"
   price: 3200
   contextual: true
-  image: "/forestry/galeriegaia@salasborquez-l'equilibre-100X100-huilesurtoile.JPG"
+  image: "/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG"
   sold: false
 - title: Exposition Le Sillage St Malo 2019
   image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
@@ -76,7 +56,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: "# Franco Salas borques"
   price: ''
   contextual: true
 - title: 'Dessin '
