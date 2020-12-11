@@ -52,24 +52,6 @@ works:
     width: 130
   contextual: true
   technique: 'Huile sur toile '
-- title: Exposition Le Sillage St Malo 2019
-  image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
-- title: Exposition Le Sillage St Malo 2019
-  image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# Franco Salas borques"
-  price: ''
-  contextual: true
 - title: 'Dessin '
   image: "/forestry/galeriegaia_SalasBorques_titre_format 50X70.jpeg"
   technique: 'Crayon sur papier '
@@ -82,6 +64,15 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
+- title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
 - title: L'océan aveugle
   image: "/forestry/l-ocean-aveugle.jpg"
   technique: huile sur toile 2016
@@ -104,17 +95,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: la flame et l'horizon
-  image: "/forestry/la-flame-et-lhorizon.jpg"
-  technique: crayon fusain sur toile
-  dimensions:
-    height: 200
-    width: 190
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: la furie
   image: "/forestry/la-furie.jpg"
   technique: huile sur toile 2016
@@ -134,6 +114,15 @@ works:
     depth: 0
   description: '[vidéo de l''exposition](https://www.youtube.com/watch?v=8JP9GPVnTao
     "video expo salas borquez st malo")'
+  price: ''
+  contextual: true
+- title: Exposition Le Sillage St Malo 2019
+  image: "/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Franco Salas borques"
   price: ''
   contextual: true
 redirect_from:
