@@ -74,6 +74,26 @@ works:
   description: ''
   price: 8400
   contextual: false
+- title: Les Albatros
+  image: "/forestry/les-albatros.jpg"
+  technique: Bronze
+  dimensions:
+    height: 50
+    width: 43
+    depth: 14
+  description: '"Souvent, pour s''amuser, les hommes d''équipage prennent des albatros,
+    vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire
+    glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches,
+    que ces rois de l''azur, maladroits et honteux, laissent piteusement leurs grandes
+    ailes blanches comme des avirons traîner à côté d''eux. Ce voyageur ailé, comme
+    il est gauche et veule ! Lui, naguère si beau, qu''il est comique et laid ! L''un
+    agace son bec avec un brûle-gueule, L''autre mime en boitant, l''infirme qui volait
+    ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l''arche;
+    exilé sur le sol au milieu des huées, ses ailes de géant l''empêchent de marcher."
+    - "L''Albatros" de Charles Beaudelaire'
+  price: 5500
+  sold: false
+  contextual: false
 - title: Les âmes sœurs
   image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-1.JPG"
   technique: Bronze en 8 exemplaires + 4EA
@@ -105,6 +125,17 @@ works:
     les entreprises acquisition possible en [leasing ou défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
     \"lesaing defiscalisation\")"
   price: 5700
+  sold: false
+  contextual: false
+- title: Anouck
+  image: "/forestry/anouck.jpg"
+  technique: Bronze
+  dimensions:
+    height: 11
+    width: 12
+    depth: 5
+  description: 2/8
+  price: 2200
   sold: false
   contextual: false
 - title: Les Nanas
@@ -151,37 +182,6 @@ works:
 
 '
   price: 8500
-  sold: false
-  contextual: false
-- title: Les Albatros
-  image: "/forestry/les-albatros.jpg"
-  technique: Bronze
-  dimensions:
-    height: 50
-    width: 43
-    depth: 14
-  description: '"Souvent, pour s''amuser, les hommes d''équipage prennent des albatros,
-    vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire
-    glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches,
-    que ces rois de l''azur, maladroits et honteux, laissent piteusement leurs grandes
-    ailes blanches comme des avirons traîner à côté d''eux. Ce voyageur ailé, comme
-    il est gauche et veule ! Lui, naguère si beau, qu''il est comique et laid ! L''un
-    agace son bec avec un brûle-gueule, L''autre mime en boitant, l''infirme qui volait
-    ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l''arche;
-    exilé sur le sol au milieu des huées, ses ailes de géant l''empêchent de marcher."
-    - "L''Albatros" de Charles Beaudelaire'
-  price: 5500
-  sold: false
-  contextual: false
-- title: Anouck
-  image: "/forestry/anouck.jpg"
-  technique: Bronze
-  dimensions:
-    height: 11
-    width: 12
-    depth: 5
-  description: ''
-  price: 2000
   sold: false
   contextual: false
 - title: 'Portrait '
