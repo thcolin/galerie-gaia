@@ -43,18 +43,6 @@ works:
   description: ''
   price: 250
   contextual: true
-- title: FSV 037
-  image: "/forestry/galerie-gaia-claude-francheteau-fsv-037-10-5x13.jpeg"
-  technique: 'Acrylique sur verre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 10.5
-    width: 13
-    depth: 0
-  description: ''
-  price: 120
-  contextual: false
 - title: Ciel 157
   image: "/forestry/galerie-gaia-claude-francheteau-ciels-157-17x23.jpg"
   fields: []
