@@ -27,17 +27,6 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
-- title: Papier collé 052
-  image: "/forestry/friol-papier-colle-052-1991-pastel-encre-h90-5x73-5l.jpg"
-  technique: Papier collé, pastel et encre
-  dimensions:
-    height: 91
-    width: 74
-    depth: 0
-  description: '1995 '
-  price: 450
-  contextual: true
-  sold: false
 - title: Papier encre 002
   image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
   technique: 'Encre sur papier '
@@ -83,18 +72,6 @@ works:
     width: 61
     depth: 
   description: "1996"
-  price: 450
-  contextual: true
-  sold: false
-- title: Papier collé 090
-  image: "/forestry/friol-papier-colle-090-1995-collage-papier-acrylique-email-a-froid-h50x65l.jpg"
-  technique: Collage papier, acrylique, email à froid
-  styles: []
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: "1995"
   price: 450
   contextual: true
   sold: false
