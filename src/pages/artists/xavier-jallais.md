@@ -121,19 +121,6 @@ works:
   description: ''
   price: 2300
   contextual: true
-- title: Automorphie structure gémoétrique III
-  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-espace-geometrique-iii-81x65.jpg"
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 81
-    width: 65
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
 - title: Automorphie architecture I
   image: "/forestry/galerie-gaia-xavier-jallais-automorphie-architecture-i-130x97.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
