@@ -321,19 +321,9 @@ works:
     height: 54
     width: 74
     depth: 0
-  description: "2020"
-  price: 1200
+  description: réservé
+  price: ''
   contextual: false
-- title: Chaise pour écouter certains poèmes
-  image: "/forestry/galerie-gaia-laure-carre-chaise-pour-ecouter-certains-poemes-116x89jpg.jpg"
-  technique: 'Mixte sur toile '
-  dimensions:
-    height: 116
-    width: 89
-    depth: 0
-  description: "2020"
-  price: 1800
-  contextual: true
 - title: Jean Genet
   image: "/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
   technique: 'Huile sur toile '
