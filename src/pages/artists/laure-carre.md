@@ -314,16 +314,6 @@ works:
   description: "2020"
   price: 350
   contextual: true
-- title: Let’s go for a walk
-  image: "/forestry/galerie-gaia-laure-carre-let-s-go-for-a-walk-54x74.jpg"
-  technique: 'Huile et technique mixte sur toile '
-  dimensions:
-    height: 54
-    width: 74
-    depth: 0
-  description: réservé
-  price: ''
-  contextual: false
 - title: Jean Genet
   image: "/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
   technique: 'Huile sur toile '
