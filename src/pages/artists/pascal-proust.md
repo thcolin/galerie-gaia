@@ -6,7 +6,7 @@ fields:
 - Sculpture
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: "# Pascal Proust \n\n\"À travers sa démarche, Pascal Proust interroge notre
   relation à l’architecture, à la ville et à son urbanisme. Il bouscule l’ordre établi
   des formes, et engage le questionnement sur la perception de la réalité, de l’authenticité

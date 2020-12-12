@@ -33,6 +33,19 @@ biography: "# Mathilde Guiho\n\nLes genoux rouges\n\n\"Comme une exploration sou
   d’individualité, de recherche autour du souvenirs.\n\n[mathilde guiho](https://mathildeguiho.fr/
   \"mathilde guiho\")"
 works:
+- title: 'Les genoux rouges '
+  image: "/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
+  technique: 'Photographie '
+  dimensions:
+    height: 12
+    width: 12
+    depth: 
+  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
+  price: 160
+  sold: false
+  contextual: false
+  fields: []
+  styles: []
 - title: Le regard
   image: "/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
   technique: Photographie et broderies
@@ -146,19 +159,6 @@ works:
     depth: 
   description: 'Série en 3 exemplaires : Les genoux rouges 2020'
   price: 320
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: 'Les genoux rouges '
-  image: "/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
-  technique: 'Photographie '
-  dimensions:
-    height: 12
-    width: 12
-    depth: 
-  description: 'Série en 3 exemplaires : Les genoux rouges 2020'
-  price: 160
   sold: false
   contextual: false
   fields: []

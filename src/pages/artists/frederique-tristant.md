@@ -6,7 +6,7 @@ fields:
 - Peinture
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: "# Frédérique Tristant\n\nDans son travail, systématiquement pensée en
   série, Frederique Tristant  s’attache à créer une tension visuelle entre matérialité
   et immatérialité des espaces. Sous la forme d’aquarelles, et après toute une procédure
