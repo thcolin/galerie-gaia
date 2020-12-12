@@ -62,18 +62,6 @@ works:
   price: 8400
   sold: false
   contextual: false
-- title: Confluence détail
-  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
-  technique: Bronze en 8 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 58
-    width: 73
-    depth: 0
-  description: ''
-  price: 8400
-  contextual: false
 - title: Les Albatros
   image: "/forestry/les-albatros.jpg"
   technique: Bronze
@@ -94,16 +82,52 @@ works:
   price: 5500
   sold: false
   contextual: false
-- title: Les âmes sœurs
+- title: Confluence détail
+  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
+  technique: Bronze en 8 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 73
+    depth: 0
+  description: ''
+  price: 8400
+  contextual: false
+- title: Le mythe de Sisyphe - détail
+  image: "/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png"
+  technique: 'Bronze 8 exemplaires '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 4500
+  sold: false
+  contextual: false
+- title: Le mythe de Sisyphe
+  image: "/forestry/galerie-gaia-isabelle-healy-myhte-sisyphe.png"
+  technique: Bronze
+  fields: []
+  styles: []
+  dimensions:
+    height: 87
+    width: 24
+    depth: 8
+  description: ''
+  price: 4500
+  contextual: false
+- title: Fondation
   image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-1.JPG"
   technique: Bronze en 8 exemplaires + 4EA
   dimensions:
-    height: 42
-    width: 38
-    depth: 9
+    height: 28
+    width: 37
+    depth: 
   description: '2020 fonderie d''art Barthélémy '
-  price: 3200
+  price: 5700
   contextual: false
+  sold: false
 - title: Les âmes sœurs
   image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg"
   technique: Bronze
