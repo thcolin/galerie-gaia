@@ -15,10 +15,10 @@ artists:
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/jorj-morin.md
-- artist: src/pages/artists/nadia-barbotin.md
+- artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/estampes.md
-- artist: src/pages/artists/laure-carre.md
+- artist: src/pages/artists/nadia-barbotin.md
 - artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/dimitri-bourriau.md
 - artist: src/pages/artists/sebastien-bouchard.md
