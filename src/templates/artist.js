@@ -340,7 +340,7 @@ Artist.styles = {
   icon: {
     padding: '1em',
     height: '100%',
-    width: '3em',
+    width: '4em',
     cursor: 'pointer',
   },
   about: {
