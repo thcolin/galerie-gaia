@@ -56,7 +56,7 @@ works:
   dimensions:
     height: 50
     width: 81
-    depth: 6
+    depth: ''
   description: "2020"
   price: 700
   contextual: true
@@ -68,7 +68,7 @@ works:
   dimensions:
     height: 65
     width: 81
-    depth: 10
+    depth: ''
   description: ''
   price: 700
   contextual: true
