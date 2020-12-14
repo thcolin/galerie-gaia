@@ -27,6 +27,18 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+  image: ''
+  title: Gravure 34
+  technique: ''
 - title: Papier encre 002
   image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
   technique: 'Encre sur papier '
