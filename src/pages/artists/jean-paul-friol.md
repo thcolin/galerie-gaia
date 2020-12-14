@@ -27,6 +27,17 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Papier collé 044
+  image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
+  technique: Collage, papier, kraft, scotch, acrylique, email à froid
+  dimensions:
+    height: 77
+    width: 61
+    depth: 
+  description: "1996"
+  price: 450
+  contextual: true
+  sold: false
 - title: Papier collé 125
   image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle-125-109x75.jpg"
   technique: Collage papier, kraft, scotch, acrylique, émail à froid
@@ -143,17 +154,6 @@ works:
   description: "1997"
   price: 450
   contextual: true
-- title: Papier collé 044
-  image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
-  technique: Collage, papier, kraft, scotch, acrylique, email à froid
-  dimensions:
-    height: 77
-    width: 61
-    depth: 
-  description: "1996"
-  price: 450
-  contextual: true
-  sold: false
 - title: Gravure 9
   image: "/forestry/friol-gravure-09-1989-11-15-36x24.jpg"
   technique: Gravure sur plâtre 11/15
