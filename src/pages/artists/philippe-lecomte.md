@@ -71,7 +71,7 @@ works:
     height: 76
     width: 56
     depth: 
-  description: encadré
+  description: Prix avec encadrement
   price: 490
   sold: false
   contextual: true
@@ -106,7 +106,7 @@ works:
     height: 38
     width: 28
     depth: 
-  description: encadré
+  description: prix avec encadrement
   price: 280
   sold: false
   contextual: true
@@ -117,7 +117,7 @@ works:
     height: 50
     width: 33
     depth: 
-  description: encadré
+  description: prix avec encadrement
   price: 380
   sold: false
   contextual: true
