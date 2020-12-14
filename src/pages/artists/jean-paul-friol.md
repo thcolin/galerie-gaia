@@ -36,7 +36,7 @@ works:
   description: ''
   price: 0
   contextual: true
-  image: ''
+  image: "/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg"
   title: Gravure 34
   technique: ''
 - title: Papier encre 002
