@@ -134,19 +134,6 @@ works:
   contextual: true
   fields:
   - Peinture
-- title: 2017PLp82
-  image: "/forestry/2017plp82.jpg"
-  technique: technique mixte sur papier
-  dimensions:
-    height: 36
-    width: 28
-    depth: 
-  description: encadré
-  price: 280
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: 2018PLp73
   image: "/forestry/2018plp73.jpg"
   technique: technique mixte sur papier
