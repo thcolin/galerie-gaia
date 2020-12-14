@@ -27,18 +27,33 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
-- fields: []
-  styles: []
+- title: 'Gravure Nu Homme '
+  image: "/forestry/galeriegaia_friol_hommededos_41-5x31-5.jpg"
+  technique: 'Gravure sur plâtre 6/15 '
+  fields: []
+  styles:
+  - Figuratif
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: ''
-  price: 0
+  description: 1987 oeuvre encadrée 145€
+  price: 120
+  contextual: true
+- fields:
+  - Oeuvre sur papier
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: 1987 prix avec encadrement 170€
+  price: 130
   contextual: true
   image: "/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg"
-  title: Gravure 34
-  technique: ''
+  title: 'Gravure Nue Femme '
+  technique: Gravure sur plâtre 7/20
 - title: Papier encre 002
   image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
   technique: 'Encre sur papier '
