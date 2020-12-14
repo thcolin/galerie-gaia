@@ -186,17 +186,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Papier collé 135
-  image: "/forestry/papier-colle-135.jpg"
-  technique: Collage, kraft, email à froid, acrylique
-  dimensions:
-    height: 72
-    width: 50
-    depth: 
-  description: '1995 '
-  price: 450
-  sold: false
-  contextual: true
 - title: Papier collé 081
   image: "/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg"
   technique: Collage, papier soie, encre
