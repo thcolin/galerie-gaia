@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Mise en situation Jean-Paul Friol et Marie Bathellier
+  image: "/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg"
+  technique: Friol encre sur papier, Bathellier pigment et acrylique sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Marie Bathellier](https://galeriegaia.fr/artists/bathelier-marie/
+    "friol et bathellier") Sculpture Terre'
+  price: ''
+  contextual: false
 - title: Papier collé 044
   image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
   technique: Collage, papier, kraft, scotch, acrylique, email à froid
@@ -117,7 +130,7 @@ works:
   image: "/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg"
   title: 'Gravure Nue Femme '
   technique: Gravure sur plâtre 7/20
-- title: Papier encre 002
+- title: Papier encre 022
   image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
   technique: 'Encre sur papier '
   fields: []
