@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Vie intra utérine
+  image: "/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg"
+  technique: Gravure sur plâtre 13/20
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: 1988 oeuvre avec encadrement 145€
+  price: 120
+  contextual: true
 - title: 'Gravure Nu Homme '
   image: "/forestry/galeriegaia_friol_hommededos_41-5x31-5.jpg"
   technique: 'Gravure sur plâtre 6/15 '
@@ -34,8 +47,8 @@ works:
   styles:
   - Figuratif
   dimensions:
-    height: 0
-    width: 0
+    height: 40
+    width: 30
     depth: 0
   description: 1987 oeuvre encadrée 145€
   price: 120
