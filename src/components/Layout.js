@@ -43,6 +43,7 @@ Layout.styles = {
     },
   },
   navigation: {
+    height: '10em',
     display: 'flex',
     maxWidth: '100%',
     zIndex: 2,

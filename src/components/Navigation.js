@@ -89,11 +89,11 @@ Navigation.styles = {
     fontFamily: theme.fonts.primary,
     letterSpacing: '0.1em',
     [theme.medias.small]: {
-      justifyContent: 'flex-start',
+      justifyContent: 'center',
       maxHeight: '100vh',
     },
     [theme.medias.medium]: {
-      justifyContent: 'flex-start',
+      justifyContent: 'center',
       maxHeight: '100vh',
     },
   },

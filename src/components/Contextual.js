@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import Image from 'components/Image'
 import Icon from 'components/Icon'
 import useEvent from 'react-use/lib/useEvent'
+import theme from 'theme'
 
 const Contextual = ({ work, ...props }) => {
   if (!work.dimensions || !work.dimensions?.width || !work.dimensions?.height) {
@@ -46,7 +47,18 @@ const Contextual = ({ work, ...props }) => {
         <Icon children="couch" style={{ margin: '0 0.5rem 0 0' }} />
         Voir le rapport d’échelle
       </button>
-      <div css={Contextual.styles.modal} hidden={!open} style={{ top: typeof window === 'undefined' ? 0 : window.scrollY }}>
+      <div
+        css={{
+          ...Contextual.styles.modal,
+          top: typeof window === 'undefined' ? 0 : window.scrollY,
+          [theme.medias.small]: {
+            top: typeof window === 'undefined' ? 0 : `calc(${window.scrollY}px - 10em)`,
+          },
+          [theme.medias.medium]: {
+            top: typeof window === 'undefined' ? 0 : `calc(${window.scrollY}px - 10em)`,
+          },
+        }}
+        hidden={!open}>
         <div css={Contextual.styles.container}>
           <div css={Contextual.styles.body}>
             <div css={Contextual.styles.wall}>
@@ -76,8 +88,9 @@ Contextual.styles = {
     right: 0,
     bottom: 0,
     left: 0,
-    height: '100%',
+    height: '100vh',
     backgroundColor: 'rgba(255, 255, 255, 0.95)',
+    zIndex: 9,
   },
   container: {
     display: 'flex',
@@ -110,7 +123,8 @@ Contextual.styles = {
   work: {
     position: 'absolute',
     display: 'flex',
-    alignItems: 'flex-start',
+    alignItems: 'center',
+    justifyContent: 'center',
     top: 0,
     bottom: 0,
     '>span': {
