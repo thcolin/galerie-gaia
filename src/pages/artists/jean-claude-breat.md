@@ -57,17 +57,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: TOTEM
-  image: "/forestry/totem.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: TARTRUFFE & COCHON QUI RIT
   image: "/forestry/tartruffe-and-cochon-qui-rit.jpg"
   technique: Mixte sur toile
@@ -90,17 +79,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: T MAX
-  image: "/forestry/t-max.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 200
-    width: 200
-    depth: 
-  description: disponible mais non visible à la galerie
-  price: 
-  sold: false
-  contextual: false
 redirect_from:
 - "/artistes/52-jean-claude-breat/"
 styles:
