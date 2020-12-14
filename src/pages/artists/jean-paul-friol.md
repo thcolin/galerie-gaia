@@ -51,21 +51,8 @@ works:
   price: 450
   contextual: true
   sold: false
-- title: Papier collé 125
-  image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle-125-109x75.jpg"
-  technique: Collage papier, kraft, scotch, acrylique, émail à froid
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 109
-    width: 75
-    depth: 0
-  description: "1996"
-  price: 450
-  contextual: true
 - title: Papier collé 107
-  image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle-109-x-75.jpg"
+  image: ''
   technique: Collage papier, carton, acrylique, émail à froid
   fields: []
   styles:
