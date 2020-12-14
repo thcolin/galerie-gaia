@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Portrait femme
+  image: "/forestry/galeriegaia_friol_portraitfemme_41-5x31-5.jpg"
+  technique: Gravure sur plâtre 5/15
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: 1987 prix avec encadrement 145€
+  price: 120
+  contextual: true
 - title: Vie intra utérine
   image: "/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg"
   technique: Gravure sur plâtre 13/20
