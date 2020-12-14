@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Papier collé 107
+  image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle-109-x-75.jpg"
+  technique: Collage papier, carton, acrylique, émail à froid
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 109
+    width: 75
+    depth: 0
+  description: "1996"
+  price: 450
+  contextual: true
 - title: Portrait femme
   image: "/forestry/galeriegaia_friol_portraitfemme_41-5x31-5.jpg"
   technique: Gravure sur plâtre 5/15
