@@ -40,6 +40,19 @@ works:
   description: "1996"
   price: 450
   contextual: true
+- title: Papier encre 022
+  image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
+  technique: 'Encre sur papier '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 33
+    width: 33
+    depth: 0
+  description: "1982"
+  price: 350
+  contextual: true
 - title: Mise en situation Jean-Paul Friol et Marie Bathellier
   image: "/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg"
   technique: Friol encre sur papier, Bathellier pigment et acrylique sur bois
@@ -117,19 +130,6 @@ works:
   image: "/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg"
   title: 'Gravure Nue Femme '
   technique: Gravure sur plâtre 7/20
-- title: Papier encre 022
-  image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
-  technique: 'Encre sur papier '
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 33
-    width: 33
-    depth: 0
-  description: "1982"
-  price: 350
-  contextual: true
 - title: Papier collé 125
   image: "/forestry/friol-papier-colles-125-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h79x64l.jpg"
   technique: Collage, papier kraft, scotch, acrylique, email à froid
