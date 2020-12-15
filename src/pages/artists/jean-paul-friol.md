@@ -41,19 +41,19 @@ works:
   price: 450
   contextual: true
 - title: Papier encre 022
-  image: "/forestry/friol-papier-encre-002-1982-h-33-5x33l.jpg"
+  image: "/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg"
   technique: 'Encre sur papier '
   fields: []
   styles:
   - Figuratif
   dimensions:
-    height: 33
-    width: 33
+    height: 77
+    width: 76
     depth: 0
-  description: "1982 j'ai fait encadrer cette oeuvre avec une baguette alu noire verre
-    antireflet qualité musée et j'ai conservé une large marge blanche.   \nle prix
-    encadré est à 550€"
-  price: 350
+  description: "1982 j'ai fait encadrer cette œuvre avec une baguette alu noire et
+    verre antireflet qualité musée et j'ai conservé une large marge blanche.  \nle
+    prix est donc avec l'encadrement "
+  price: 550
   contextual: false
 - title: Mise en situation Jean-Paul Friol et Marie Bathellier
   image: "/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg"
