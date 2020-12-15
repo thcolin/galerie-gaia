@@ -24,7 +24,20 @@ biography: "François Morellet prône dans la création artistique la réalisati
   respectivement à 0 °, + 15 ° et – 15 °.\n\n[![3 grillages superposés 0 °, + 15 °,-15
   °](https://francoismorellet.files.wordpress.com/2011/01/3-grillages-superposc3a9s-0-c2b0-15-c2b0-15-c2b0-1959.jpg?w=640
   \"3 grillages superposés 0 °, + 15 °,-15 °\")](https://francoismorellet.files.wordpress.com/2011/01/3-grillages-superposc3a9s-0-c2b0-15-c2b0-15-c2b0-1959.jpg)"
-works: []
+works:
+- title: Hasards système et téléphone 1
+  image: "/forestry/galerie-gaia-francois-morellet-1.jpg"
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30.5
+    width: 25
+    depth: 0
+  description: 'Signé main en bas à droite '
+  price: 450
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
