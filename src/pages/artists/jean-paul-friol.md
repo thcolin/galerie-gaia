@@ -50,9 +50,11 @@ works:
     height: 33
     width: 33
     depth: 0
-  description: "1982"
+  description: "1982 j'ai fait encadrer cette oeuvre avec une baguette alu noire verre
+    antireflet qualité musée et j'ai conservé une large marge blanche.   \nle prix
+    encadré est à 550€"
   price: 350
-  contextual: true
+  contextual: false
 - title: Mise en situation Jean-Paul Friol et Marie Bathellier
   image: "/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg"
   technique: Friol encre sur papier, Bathellier pigment et acrylique sur bois
