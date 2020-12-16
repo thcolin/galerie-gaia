@@ -55,6 +55,45 @@ biography: "François Morellet a été un soutien constant pour les activités d
   °, + 15 ° et – 15 °.\n\n[![3 grillages superposés 0 °, + 15 °,-15 °](https://francoismorellet.files.wordpress.com/2011/01/3-grillages-superposc3a9s-0-c2b0-15-c2b0-15-c2b0-1959.jpg?w=640
   \"3 grillages superposés 0 °, + 15 °,-15 °\")](https://francoismorellet.files.wordpress.com/2011/01/3-grillages-superposc3a9s-0-c2b0-15-c2b0-15-c2b0-1959.jpg)"
 works:
+- title: Hasards système et téléphone 9
+  image: "/forestry/galerie-gaia-francois-morellet-9.jpg"
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30.5
+    width: 25
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
+- title: Hasards système et téléphone 8
+  image: "/forestry/galerie-gaia-francois-morellet-8.jpg"
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30.5
+    width: 25
+    depth: 0
+  description: ''
+  price: 450
+  sold: false
+  contextual: true
+- title: Hasards système et téléphone 7
+  image: "/forestry/galerie-gaia-francois-morellet-7.jpg"
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30.5
+    width: 25
+    depth: 0
+  description: ''
+  price: 450
+  sold: false
+  contextual: true
 - fields: []
   styles: []
   dimensions:
