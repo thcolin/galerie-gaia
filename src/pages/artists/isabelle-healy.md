@@ -159,18 +159,7 @@ works:
     width: 12
     depth: 5
   description: 2/8
-  price: 2200
-  sold: false
-  contextual: false
-- title: Les Nanas
-  image: "/forestry/les-nanas.jpg"
-  technique: Bronze 3/8
-  dimensions:
-    height: 35
-    width: 35
-    depth: 11
-  description: Disponible sur commande
-  price: 2500
+  price: 2300
   sold: false
   contextual: false
 - title: Les vacances
@@ -181,7 +170,7 @@ works:
     width: 43
     depth: 5
   description: Disponible sur commande
-  price: 3800
+  price: 3500
   sold: false
   contextual: false
 - title: La sphère des possibles
@@ -205,7 +194,7 @@ works:
   description: 'Disponible sur commande
 
 '
-  price: 8500
+  price: 7600
   sold: false
   contextual: false
 - title: 'Portrait '
@@ -215,7 +204,7 @@ works:
     height: 
     width: 
     depth: 
-  description: "# Isabelle Healy"
+  description: "# Isabelle Healy sculpture"
   price: 
   sold: false
   contextual: false
