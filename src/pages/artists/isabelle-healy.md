@@ -62,6 +62,18 @@ works:
   price: 8400
   sold: false
   contextual: false
+- title: Confluence détail
+  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
+  technique: Bronze en 8 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 73
+    depth: 0
+  description: ''
+  price: 8400
+  contextual: false
 - title: Les Albatros
   image: "/forestry/les-albatros.jpg"
   technique: Bronze
@@ -81,18 +93,6 @@ works:
     - "L''Albatros" de Charles Beaudelaire'
   price: 5500
   sold: false
-  contextual: false
-- title: Confluence détail
-  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
-  technique: Bronze en 8 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 58
-    width: 73
-    depth: 0
-  description: ''
-  price: 8400
   contextual: false
 - title: Le mythe de Sisyphe - détail
   image: "/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png"
