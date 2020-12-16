@@ -49,18 +49,6 @@ biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après
   « .     \n tiré du livre de Baghavad-Gita"
 exhibitions: []
 works:
-- title: Notre héritage
-  image: "/forestry/galerie-gaia-isabelle-healy-notre-heritage-seul.png"
-  technique: Bronze et patine or
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 65
-    depth: 0
-  description: ''
-  price: 7600
-  contextual: true
 - title: Confluence
   image: "/forestry/galeriegaia_healy_confluence_73x58.jpg"
   technique: Bronze
@@ -86,6 +74,18 @@ works:
   description: ''
   price: 8400
   contextual: false
+- title: Mon héros
+  image: "/forestry/galerie-gaia-isabelle-healy-mon-heros.png"
+  technique: Bronze
+  fields: []
+  styles: []
+  dimensions:
+    height: 47
+    width: 12
+    depth: 11
+  description: ''
+  price: 1950
+  contextual: true
 - title: Les Albatros
   image: "/forestry/les-albatros.jpg"
   technique: Bronze
@@ -196,7 +196,19 @@ works:
   price: 4200
   sold: false
   contextual: false
-- title: Notre Héritage
+- title: Notre héritage
+  image: "/forestry/galerie-gaia-isabelle-healy-notre-heritage-seul.png"
+  technique: Bronze et patine or
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 65
+    depth: 0
+  description: ''
+  price: 7600
+  contextual: true
+- title: Notre Héritage en situation
   image: "/forestry/notre-heritage.jpg"
   technique: Bronze et feuille d'or
   dimensions:

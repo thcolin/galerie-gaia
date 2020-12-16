@@ -72,9 +72,9 @@ works:
   dimensions:
     height: 0
     width: 0
-  description: Installation de 11 pièces  selon le plan d'accrochage le gabarit total
-    est de 2m hauteur x 5m largeur
-  price: 15000
+  description: 'Installation de 11 pièces  selon le plan d''accrochage le gabarit
+    total est de 2m hauteur x 5m largeur 15 000€ '
+  price: ''
   contextual: false
 - title: Compression oxydée
   image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
