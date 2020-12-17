@@ -101,6 +101,32 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Bonne pierre bon oeil 13 Noir
+  image: "/forestry/galeriegaia_tomal_bonnepierrebonoeil-13-noir-_40x30-5-01.jpg"
+  technique: Lithographie 6/9
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 40
+    width: 30.5
+    depth: 0
+  description: "2018  \n3018130906 "
+  price: 350
+  contextual: true
+- title: Bonne pierre bon oeil
+  image: "/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg"
+  technique: Lithographie 8/8
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 25
+    width: 35.5
+    depth: 0
+  description: "2018  \n3018020808"
+  price: 250
+  contextual: true
 - title: Stone Age 02
   image: "/forestry/galeriegaia_tomal_stoneage-02-_66x51-01.jpg"
   technique: Lithographie 9/10
