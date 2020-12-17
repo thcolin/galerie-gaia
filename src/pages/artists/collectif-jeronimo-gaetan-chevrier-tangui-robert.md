@@ -54,16 +54,6 @@ works:
   description: Commande promotion immobilière - visible sur rendez-vous
   price: ''
   contextual: false
-- title: Strates 17
-  image: "/forestry/galerie-gaia-jeronimo-tangui-robert-failles17-40x30cm-jpeg.jpg"
-  technique: 'Sérigraphie en 2 exemplaires '
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 320
-  contextual: true
 - title: Strates 32
   image: "/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg"
   technique: Sérigraphie
