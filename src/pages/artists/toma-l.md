@@ -385,8 +385,8 @@ works:
   image: "/forestry/galerie-gaia-toma-l-bpbo14.jpg"
   technique: Lithographie 10/10
   dimensions:
-    height: 63.5
-    width: 46
+    height: 76
+    width: 56.5
     depth: 
   description: ''
   price: 600
@@ -424,8 +424,8 @@ works:
   image: "/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg"
   technique: Lithographie 7/10
   dimensions:
-    height: 65
-    width: 43
+    height: 76
+    width: 57
     depth: 
   description: "Musée de l'imprimerie de Nantes  \n301712002"
   price: 800
@@ -447,14 +447,14 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Stone Age 09
-  image: "/forestry/stone-age-09.jpg"
-  technique: Lithographie
+  image: "/forestry/galerie-gaia-toma-l-stoneage-09_ex4-12.jpg"
+  technique: Lithographie 04/12
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: "Tirage à 12 exemplaires   \n3017101206"
-  price: 400
+  description: "3017101206"
+  price: 500
   sold: false
   contextual: true
   fields:
