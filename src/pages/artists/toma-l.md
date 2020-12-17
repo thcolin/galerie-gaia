@@ -101,6 +101,19 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Stone Age 02
+  image: "/forestry/galeriegaia_tomal_stoneage-02-_66x51-01.jpg"
+  technique: Lithographie 9/10
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 66
+    width: 51
+    depth: 0
+  description: "2017  \n3017021009"
+  price: 400
+  contextual: true
 - title: 'Little wood trash '
   image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
