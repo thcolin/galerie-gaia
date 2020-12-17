@@ -381,15 +381,15 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Bonne pierre bon œil 14 (bleu)
-  image: "/forestry/bonne-pierre-bon-oeil-14-bleu.jpg"
-  technique: Lithographie
+- title: Bonne pierre bon œil 14 (bleu & noir)
+  image: "/forestry/galerie-gaia-toma-l-bpbo14.jpg"
+  technique: Lithographie 10/10
   dimensions:
-    height: 66
-    width: 51
+    height: 63.5
+    width: 46
     depth: 
-  description: Réservée
-  price: 450
+  description: ''
+  price: 600
   sold: false
   contextual: true
   fields:
