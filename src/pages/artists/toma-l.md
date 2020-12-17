@@ -101,7 +101,20 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Bonne pierre bon oeil
+- title: Bonne pierre bon oeil 02 noir
+  image: "/forestry/galerie-gaia-toma-l-bpbo02-noir.jpg"
+  technique: Lithographie 5/8
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 25
+    width: 35.5
+    depth: 0
+  description: "2018  \n301820808"
+  price: 250
+  contextual: true
+- title: Bonne pierre bon oeil 01
   image: "/forestry/galerie-gaia-toma-l-bpbo01.jpg"
   technique: Lithographie 8/8
   fields:
@@ -140,7 +153,7 @@ works:
   description: "2018  \n3018130906 "
   price: 350
   contextual: true
-- title: Bonne pierre bon oeil
+- title: Bonne pierre bon oeil 02
   image: "/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg"
   technique: Lithographie 8/8
   fields:
