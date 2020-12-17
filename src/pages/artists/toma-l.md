@@ -421,14 +421,14 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Stone Age 12
-  image: "/forestry/stone-age-12.jpg"
-  technique: Lithographie 2/10
+  image: "/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg"
+  technique: Lithographie 7/10
   dimensions:
-    height: 72
-    width: 51
+    height: 65
+    width: 43
     depth: 
   description: "Musée de l'imprimerie de Nantes  \n301712002"
-  price: 400
+  price: 800
   sold: false
   contextual: true
   fields:
