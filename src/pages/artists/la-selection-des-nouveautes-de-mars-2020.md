@@ -10,6 +10,20 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: Livre d'artiste de Toma L
+  image: "/forestry/projetvasy_72dpi_vuedessus.jpg"
+  technique: Livre édité en 2000 exemplaires comportant un morceau d'une oeuvre numéroté
+    x/2000
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '# [Toma L](https://galeriegaia.fr/artists/gheho-corinne/ "TOMA LABARTE")'
+  price: 120
+  contextual: false
 - title: 'Idées cadeaux '
   image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
   description: ''
