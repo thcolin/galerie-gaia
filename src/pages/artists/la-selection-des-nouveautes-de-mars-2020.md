@@ -16,6 +16,22 @@ works:
   price: ''
   contextual: true
   technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
+- title: Céramique de Corinne Guého
+  image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
+  technique: Grès ou porcelaine
+  fields:
+  - Céramique
+  styles:
+  - Figuratif
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# [Corinne Guého](https://galeriegaia.fr/artists/gheho-corinne/ \"corinne
+    guého\")\n\nPièces unique mais pour un usage quotidien !  \nCérémonie du thé,
+    café, sushi...  \nPrix de 10€ à 45€ selon le format"
+  price: 10
+  contextual: true
 - title: Paige de Dimitri Roubichou
   image: "/forestry/dimitri-roubichou-paige-jpeg.JPG"
   technique: 'Photographie tirage papier baryté 9 exemplaires '
@@ -27,8 +43,10 @@ works:
     height: 30
     width: 30
     depth: 0
-  description: "Oeuvre encadrée verre musée antireflet  \n[Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/
-    \"dimitri roubichou \")"
+  description: |-
+    # [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri roubichou ")
+
+    Oeuvre encadrée verre musée antireflet
   price: 250
   contextual: true
 - title: Gravure de Jean Paul Friol
@@ -42,7 +60,7 @@ works:
     height: 30
     width: 40
     depth: 0
-  description: '[Jean Paul Friol](https://galeriegaia.fr/artists/jean-paul-friol/
+  description: '# [Jean Paul Friol](https://galeriegaia.fr/artists/jean-paul-friol/
     "Jean Paul Friol")'
   price: 120
   contextual: true
@@ -57,8 +75,10 @@ works:
     height: 15
     width: 8
     depth: 0
-  description: "Cadre de présentation Habitat non compris  \n[Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/
-    \"renaud allirand\")"
+  description: |-
+    # [Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/ "renaud allirand")
+
+    Cadre de présentation Habitat non compris
   price: 80
   contextual: true
 - title: Gérard Traquandi sans titre 16/19
