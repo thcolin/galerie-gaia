@@ -40,6 +40,32 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Lièvre céladon
+  image: "/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg"
+  technique: grès émaillé
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 19
+    width: 0
+    depth: 0
+  description: ''
+  price: 280
+  contextual: false
+- title: Lièvre turquoise
+  image: "/forestry/galerie-gaia-marianne-abergel-lievres-turquoise-2020.jpg"
+  technique: Grès émaillé
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 12
+    width: 0
+    depth: 0
+  description: 'Modèle de droite '
+  price: 200
+  contextual: false
 - title: Lièvres blancs
   image: "/forestry/galerie-gaia-marianne-abergel-lievres-blanc-2020.jpg"
   technique: Grès émaillé
@@ -65,19 +91,6 @@ works:
     depth: 0
   description: ''
   price: 180
-  contextual: false
-- title: Lièvre céladon
-  image: "/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg"
-  technique: grès émaillé
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 19
-    width: 0
-    depth: 0
-  description: ''
-  price: 280
   contextual: false
 - title: Frontalité 1
   image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
