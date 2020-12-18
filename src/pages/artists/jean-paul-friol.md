@@ -302,7 +302,7 @@ works:
     width: 78
     depth: 0
   description: ''
-  price: 590
+  price: 690
   contextual: false
 - title: Papier collé 071
   image: "/forestry/papier-colle-071.jpg"

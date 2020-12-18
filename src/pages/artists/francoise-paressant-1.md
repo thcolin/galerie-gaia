@@ -273,7 +273,7 @@ works:
   price: 900
   sold: false
   contextual: true
-- image: "/forestry/galerie-gaia-francoise-paressant-dessin-ruban-40-cm-x-30-cm-2016.jpg"
+- image: "/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg"
   technique: papier japon teintés
   fields: []
   styles: []
