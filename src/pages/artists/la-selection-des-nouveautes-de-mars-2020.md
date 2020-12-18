@@ -229,7 +229,7 @@ works:
   styles:
   - abstrait
 - title: Blason acrylique sur feutre de Françoise Paressant
-  image: "/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
+  image: ''
   technique: 'Acrylique sur feutre '
   dimensions:
     height: 50
