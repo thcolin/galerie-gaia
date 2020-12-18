@@ -10,6 +10,26 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: 'Idées cadeaux '
+  image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
+  description: ''
+  price: ''
+  contextual: true
+  technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
+- title: Mala bestia 2
+  image: "/forestry/galerie-gaia-rycho-robak02.jpg"
+  technique: Impression photo et peinture sous verre
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 18
+    width: 18
+    depth: 0
+  description: "# Rycho"
+  price: 0
+  contextual: true
 - title: Livre d'artiste de Toma L
   image: "/forestry/projetvasy_72dpi_vuedessus.jpg"
   technique: Livre édité en 2000 exemplaires comportant un morceau d'une oeuvre numéroté
@@ -24,12 +44,6 @@ works:
   description: '# [Toma L](https://galeriegaia.fr/artists/gheho-corinne/ "TOMA LABARTE")'
   price: 120
   contextual: false
-- title: 'Idées cadeaux '
-  image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
-  description: ''
-  price: ''
-  contextual: true
-  technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
 - title: Céramique de Corinne Guého
   image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
   technique: Grès ou porcelaine

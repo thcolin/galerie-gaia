@@ -17,6 +17,32 @@ biography: |-
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: Mala bestia 2
+  image: "/forestry/galerie-gaia-rycho-robak02.jpg"
+  technique: Photo et peinture or sous verre
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 18
+    width: 18
+    depth: 0
+  description: Pièce unique encadrée
+  price: 200
+  contextual: true
+- title: Mala bestia
+  image: "/forestry/galerie-gaia-rycho-robak04.jpg"
+  technique: Photographie et peinture or sous verre
+  fields: []
+  styles: []
+  dimensions:
+    height: 18
+    width: 18
+    depth: 0
+  description: oeuvre encadrée
+  price: 200
+  contextual: true
 - title: Mala bestia 3
   image: "/forestry/galerie-gaia-rycho-robak03.jpg"
   technique: Photographie et peinture or sous verre
@@ -34,20 +60,6 @@ works:
   technique: Photo et peinture or sous verre
   fields: []
   styles: []
-  dimensions:
-    height: 18
-    width: 18
-    depth: 0
-  description: Pièce unique encadrée
-  price: 200
-  contextual: true
-- title: Mala bestia 2
-  image: "/forestry/galerie-gaia-rycho-robak02.jpg"
-  technique: Photo et peinture or sous verre
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
   dimensions:
     height: 18
     width: 18
