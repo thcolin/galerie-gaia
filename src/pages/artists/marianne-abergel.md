@@ -40,25 +40,32 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
-- title: Chimère Cerf Turquoise
-  image: "/forestry/ABERGEL-chimère cerf turquoise -1-1.jpg"
-  technique: Grès emaillé
+- title: Lièvre vert
+  image: "/forestry/galerie-gaia-marianne-abergel-lievre-vert-2020.jpg"
+  technique: Grès émaillé
+  fields: []
+  styles:
+  - Figuratif
   dimensions:
-    height: 20
-    width: 0
-    depth: 0
-  description: prix sans le socle chêne
-  price: 490
-  contextual: true
-- title: Portrait d'atelier Marianne Abergel
-  image: "/forestry/galeriegaia-portrait Marianne Abergel- 2019.jpg"
-  dimensions:
-    height: 0
+    height: 15
     width: 0
     depth: 0
   description: ''
-  price: 0
-  contextual: true
+  price: 180
+  contextual: false
+- title: Lièvre céladon
+  image: "/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg"
+  technique: grès émaillé
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 19
+    width: 0
+    depth: 0
+  description: ''
+  price: 280
+  contextual: false
 - title: Frontalité 1
   image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
   technique: Céramique
@@ -79,17 +86,6 @@ works:
   description: "1200€/ pièce  \n2019"
   price: 1200
   contextual: false
-- title: Le Cerf
-  image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cerf céladon.jpg"
-  technique: Grès emaillé céladon
-  dimensions:
-    height: 30
-    width: 
-    depth: 
-  description: "Série Les chimères   \nsocle vendu séparément"
-  price: 625
-  sold: false
-  contextual: true
 - title: Chimère cachée Le lièvre
   image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-lièvre.jpg"
   technique: Grès blanc et émail pointe or
@@ -111,6 +107,15 @@ works:
   description: ''
   price: 290
   sold: false
+  contextual: true
+- title: 'Portrait d''atelier '
+  image: "/forestry/galeriegaia-portrait Marianne Abergel- 2019.jpg"
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Marianne Abergel"
+  price: 0
   contextual: true
 redirect_from:
 - "/artistes/59-marianne-abergel/"
