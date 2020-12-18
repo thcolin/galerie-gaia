@@ -292,6 +292,18 @@ works:
   contextual: true
   styles:
   - Figuratif
+- title: Papier collé 081 encadré
+  image: "/forestry/galerie-gaia-friol-visgae-es.jpg"
+  technique: Papier collé technique mixte
+  fields: []
+  styles: []
+  dimensions:
+    height: 109
+    width: 78
+    depth: 0
+  description: ''
+  price: 590
+  contextual: false
 - title: Papier collé 071
   image: "/forestry/papier-colle-071.jpg"
   technique: Collage, papier soie, kraft, émail à froid, acrylique
