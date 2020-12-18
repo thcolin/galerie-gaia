@@ -32,14 +32,15 @@ works:
   price: 250
   contextual: true
 - title: Gravure de Jean Paul Friol
-  image: "/forestry/friol-gravure-34-1988-epreuve-7_15-h22x16l.jpg"
-  technique: gravure sur platre édition 15 exemplaires
-  fields: []
+  image: "/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg"
+  technique: 'gravure sur platre édition 13/20 '
+  fields:
+  - Oeuvre sur papier
   styles:
   - Figuratif
   dimensions:
-    height: 22
-    width: 13
+    height: 30
+    width: 40
     depth: 0
   description: '[Jean Paul Friol](https://galeriegaia.fr/artists/jean-paul-friol/
     "Jean Paul Friol")'
