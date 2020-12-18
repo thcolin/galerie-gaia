@@ -228,12 +228,12 @@ works:
   - Oeuvre sur papier
   styles:
   - abstrait
-- title: Blason acrylique sur feutre de Françoise Paressant
-  image: ''
+- title: Dessin ruban  de Françoise Paressant
+  image: "/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg"
   technique: 'Acrylique sur feutre '
   dimensions:
-    height: 50
-    width: 40
+    height: 40
+    width: 30
   description: '[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
     "Francoise Paressant")'
   price: 320
