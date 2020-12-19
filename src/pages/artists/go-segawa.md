@@ -17,7 +17,7 @@ exhibitions: []
 works:
 - title: 'Les gouttes V '
   image: "/forestry/les-gouttes-v-650.jpg"
-  technique: Impression jet d’encre sur polyester Edition 6/50
+  technique: Impression jet d’encre sur polyester Edition 10/50
   dimensions:
     height: 7
     width: 11
