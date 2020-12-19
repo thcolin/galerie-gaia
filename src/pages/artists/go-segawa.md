@@ -15,6 +15,29 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Gosegawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: 'Les gouttes V '
+  image: "/forestry/les-gouttes-v-650.jpg"
+  technique: Impression jet d’encre sur polyester Edition 10/50
+  dimensions:
+    height: 7
+    width: 11
+    depth: 11
+  description: '2016 '
+  price: 130
+  sold: false
+  contextual: false
+- title: Collision II
+  image: "/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png"
+  technique: Impression jet d'encre sur polyester 10/25
+  fields: []
+  styles: []
+  dimensions:
+    height: 8.5
+    width: 8.5
+    depth: 8.5
+  description: "2018"
+  price: 110
+  contextual: true
 - title: La balle dans une balle III
   image: "/forestry/galerie-gaia-go-segawa-balle-dans-la-balle.png"
   technique: Impression jet d'encre sur polyester 27/50
@@ -27,17 +50,6 @@ works:
   description: ''
   price: 110
   contextual: true
-- title: 'Les gouttes V '
-  image: "/forestry/les-gouttes-v-650.jpg"
-  technique: Impression jet d’encre sur polyester Edition 10/50
-  dimensions:
-    height: 7
-    width: 11
-    depth: 11
-  description: '2016 '
-  price: 130
-  sold: false
-  contextual: false
 - title: Dark Ball
   image: "/forestry/dark-ball.jpg"
   technique: impression jet d’encre sur polyester Edition 47/50
