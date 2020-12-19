@@ -1,19 +1,19 @@
 ---
 template: contact
 content: "![](/forestry/photo facade.jpg)\n\n# Galerie Gaïa une galerie d'art contemporain
-  à Nantes \n\nLa **Galerie Gaïa** prolonge l’esprit d’un lieu créé en **1978**.\n\nL’histoire
-  commence avec **L’Affiche** créée pour la première en fois en France ce concept
-  store venu d’Angleterre proposait des reproductions d’œuvres d’artistes et des cartes
-  postales créatives venues du monde entier.\n\nEn 1985 Norbert Marsal acquiert la
-  galerie et développe la partie encadrement. En 1999 L’Affiche devient la galerie
-  **Arts Pluriels**. Suit alors une programmation d’œuvres contemporaines abstraites.
-  Ainsi alternent des artistes confirmés et des expositions de [Villeglé](/artists/estampes/
-  \"Villegle\"), Hartung, Corneille, [Combas](/artists/combas/ \"combas\"), [Bram
-  Van Velde](/artists/bram-van-velde/ \"bram van velde\") , [Alechinsky](/artists/estampes/
-  \"Alechinsky\")… et des artistes dont l’œuvre est en devenir.\n\n**En 2015 Elisabeth
-  Givre** prolonge l’aventure et ancre avec la **Galerie Gaïa**, l’art contemporain
-  comme la véritable empreinte de ce lieu situé dans le cœur historique de la ville
-  de Nantes, le quartier Decré.\n\nLes héritiers de [Jorj Morin](/artists/jorj-morin-peintre/
+  à Nantes\n\nLa **Galerie Gaïa** - galerie d'art Nantes - prolonge l’esprit d’un
+  lieu créé en **1978**.\n\nL’histoire commence avec **L’Affiche** créée pour la première
+  en fois en France ce concept store venu d’Angleterre proposait des reproductions
+  d’œuvres d’artistes et des cartes postales créatives venues du monde entier.\n\nEn
+  1985 Norbert Marsal acquiert la galerie et développe la partie encadrement.   \nEn
+  1999 L’Affiche devient la galerie **Arts Pluriels**. Suit alors une programmation
+  d’œuvres contemporaines abstraites. Ainsi alternent des artistes confirmés et des
+  expositions de [Villeglé](/artists/estampes/ \"Villegle\"), Hartung, Corneille,
+  [Combas](/artists/combas/ \"combas\"), [Bram Van Velde](/artists/bram-van-velde/
+  \"bram van velde\") , [Alechinsky](/artists/estampes/ \"Alechinsky\")   \n  \n**En
+  2015 Elisabeth Givre** prolonge l’aventure et ancre avec la **Galerie Gaïa**, l’art
+  contemporain à Nantes comme la véritable empreinte de ce lieu situé dans le cœur
+  historique de la ville de Nantes, le quartier Decré.\n\nLes héritiers de [Jorj Morin](/artists/jorj-morin-peintre/
   \"Jorj Morin\") célèbre publicitaire nantais, peintre et graveur nous honorent de
   leur confiance. Ainsi ses gravures, peintures, stèles et tapisseries sont exposées
   et disponibles à la vente en exclusivité à la galerie.\n\n6-8 expositions en solo-show
