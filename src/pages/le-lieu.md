@@ -38,7 +38,7 @@ content: "![](/forestry/photo facade.jpg)\n\n# Galerie Gaïa une galerie d'art c
   \ \n**l’évidence devant une œuvre qui s’impose  \nl’évidence qui ne se discute pas
   et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence qui
   se partage  \nl’évidence qui euphorise et qui rayonne**"
-about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité
+about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité-e
   aux prochains vernissages ?"
 seo:
   title: Le Lieu - Galerie Gaïa, galerie d'art contemporain à Nantes
