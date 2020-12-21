@@ -178,7 +178,7 @@ works:
   contextual: true
   image: "/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg"
   technique: Collage
-- title: 'Territoires Noir/ Blanc #13'
+- title: 'Territoires Noir/ Blanc #4'
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
   technique: 'Collage '
   dimensions:
