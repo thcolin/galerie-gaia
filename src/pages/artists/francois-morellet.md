@@ -6,7 +6,7 @@ fields:
 - Oeuvre sur papier
 birth: "1926"
 death: "2016"
-expose: true
+expose: false
 biography: |-
   # François Morellet
 
