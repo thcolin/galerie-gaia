@@ -69,18 +69,6 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: Gravure mise en situation
-  image: "/forestry/galerie-gaia-allirand-en-situation.jpg"
-  technique: 'Eau forte sur zinc '
-  fields: []
-  styles: []
-  dimensions:
-    height: 12
-    width: 8
-    depth: 0
-  description: ''
-  price: 80
-  contextual: false
 - title: "7"
   image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 30.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '

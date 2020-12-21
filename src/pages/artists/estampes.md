@@ -241,7 +241,7 @@ works:
   - Figuratif
 - title: 'Claude Viallat - Sans Titre '
   image: "/forestry/claude-viallat-sans-titre-ee.jpg"
-  technique: Sérigraphie E/E 1997
+  technique: Sérigraphie 88/991997
   dimensions:
     height: 64
     width: 49
