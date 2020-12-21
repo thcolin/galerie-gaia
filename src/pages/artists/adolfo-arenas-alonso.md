@@ -14,6 +14,16 @@ biography: "# Adolfo Arenas Alonso\n\nAdolfo Arenas Alonso est né en 1972.   \n
   à la galerie..."
 exhibitions: []
 works:
+- title: Dolce immaculate
+  image: "/forestry/galerie-gaia-arenasdolce-imaculate.jpg"
+  technique: Estampe 29/75
+  dimensions:
+    height: 112
+    width: 76
+    depth: 0
+  description: Dessin original réalisé au stylo
+  price: 600
+  contextual: true
 - title: Sine Nob'litate "Skull and bird"
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-sinenoblitate-skull-and-the-bird-76x112.jpg"
   technique: Dessin original effectué au crayon Estampe 1/1 technique du giclée sur
@@ -55,16 +65,6 @@ works:
   price: 1000
   sold: false
   contextual: true
-- title: Dolce immaculate
-  image: "/forestry/galerie-gaia-arenasdolce-imaculate.jpg"
-  technique: Estampe 29/75
-  dimensions:
-    height: 112
-    width: 76
-    depth: 0
-  description: Dessin original réalisé au stylo
-  price: 600
-  contextual: true
 - title: 'Sin''noblitate Extrait Skull and bird '
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-detail-skrull-and-bird.jpg"
   technique: dessin original au crayon
@@ -77,19 +77,8 @@ works:
     le détail est un crâne avec un colibri
   price: 1000
   contextual: true
-- title: FE
-  image: "/forestry/fe.jpg"
-  technique: Dessin reproduction technique du giclée 16/25
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: ''
-  price: ''
-  sold: false
-  contextual: true
 - title: Jocondo il bello
-  image: "/forestry/jocondo-il-belle.jpg"
+  image: "/forestry/galerie-gaia-adolfo-il-jiacondo.jpg"
   technique: Estampe 20/50 technique du giclée sur papier Arches
   dimensions:
     height: 112
