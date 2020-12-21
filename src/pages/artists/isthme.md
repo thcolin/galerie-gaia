@@ -158,6 +158,19 @@ works:
   price: 3500
   contextual: true
   technique: 'Acrylique sur toile '
+- title: Britany
+  image: "/forestry/galeriegaia_isthme_britany_76x59.jpg"
+  technique: Collage sur papier Arche
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 76
+    width: 59
+    depth: 0
+  description: ''
+  price: 750
+  contextual: true
 - title: 'Green Rhapsody #7'
   image: "/forestry/galerie-gaia-isthme-green-rhapsody-collage-7-76x56-2016.jpg"
   technique: Collage
@@ -180,6 +193,8 @@ works:
   contextual: true
   image: "/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg"
   technique: Collage
+  fields:
+  - Oeuvre sur papier
 - title: 'Territoires Noir/ Blanc #4'
   image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
   technique: 'Collage '
