@@ -14,16 +14,6 @@ biography: "# Adolfo Arenas Alonso\n\nAdolfo Arenas Alonso est né en 1972.   \n
   à la galerie..."
 exhibitions: []
 works:
-- title: Loving Venus
-  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-loving-venus-112x76.jpg"
-  technique: Dessin original rélaisé au stylo Estampe 38/75
-  dimensions:
-    height: 112
-    width: 76
-    depth: 0
-  description: ''
-  price: 600
-  contextual: true
 - title: Sine Nob'litate "Skull and bird"
   image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-sinenoblitate-skull-and-the-bird-76x112.jpg"
   technique: Dessin original effectué au crayon Estampe 1/1 technique du giclée sur
@@ -66,13 +56,13 @@ works:
   sold: false
   contextual: true
 - title: Dolce immaculate
-  image: "/forestry/galerie-gaia-adolfo-arenas-alonzo-dolce-immaculate-112x76.jpg"
-  technique: Dessin original réalisé au stylo Estampe 29/75
+  image: "/forestry/galerie-gaia-arenasdolce-imaculate.jpg"
+  technique: Estampe 29/75
   dimensions:
     height: 112
     width: 76
     depth: 0
-  description: ''
+  description: Dessin original réalisé au stylo
   price: 600
   contextual: true
 - title: 'Sin''noblitate Extrait Skull and bird '
