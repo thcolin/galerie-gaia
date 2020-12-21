@@ -165,10 +165,12 @@ works:
     height: 76
     width: 56
     depth: 0
-  description: "2016"
+  description: "2015"
   price: 750
   contextual: true
-- title: 'Green Rhapsody #9'
+  fields:
+  - Oeuvre sur papier
+- title: 'Rhapsody in red '
   dimensions:
     height: 76
     width: 57
@@ -273,17 +275,6 @@ works:
     height: 76
     width: 57
   description: "2020"
-  price: 750
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Territoires Colorés #7'
-  image: "/forestry/galeriegaia-Isthme_Territoires colorés 7_collage_76cmX56cm.jpg"
-  technique: " Collage "
-  dimensions:
-    height: 76
-    width: 56
-  description: Œuvre encadrée montage caisson baguette bois noir
   price: 750
   contextual: true
   fields:
