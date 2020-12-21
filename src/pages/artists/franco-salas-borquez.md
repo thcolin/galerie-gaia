@@ -21,6 +21,28 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: La fraction
+  image: "/forestry/galerie-gaia-salas-borques-friction-100x100.JPG"
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2020"
+  price: 3200
+  contextual: true
+- title: Vague hurlante
+  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
+  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
+    "video vague hurlante") '
+  price: 3200
+  dimensions:
+    height: 81
+    width: 130
+  contextual: true
+  technique: 'Huile sur toile '
 - title: Ensemble
   technique: 'Huile sur toile '
   dimensions:
@@ -31,27 +53,6 @@ works:
   contextual: true
   image: "/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG"
   sold: false
-- title: Element (détail)
-  image: "/forestry/galerie-gaia-franco-salas-borques-detail-element.JPG"
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
-- title: Vague hurlante
-  image: "/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
-  description: '[vidéo vague hurlante](https://galeriegaia.fr/forestry/galeriegaia@borquezvaguehurlante.mp4
-    "video vague hurlante") '
-  price: 3000
-  dimensions:
-    height: 81
-    width: 130
-  contextual: true
-  technique: 'Huile sur toile '
 - title: 'Dessin '
   image: "/forestry/galeriegaia_SalasBorques_titre_format 50X70.jpeg"
   technique: 'Crayon sur papier '
