@@ -551,12 +551,12 @@ works:
   - Oeuvre sur papier
 - title: Stone Age 16
   image: "/forestry/stone-age-16.jpg"
-  technique: Lithographie
+  technique: Lithographie 1/2
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: Tirage à 2 exemplaires
+  description: ''
   price: 400
   sold: false
   contextual: true
