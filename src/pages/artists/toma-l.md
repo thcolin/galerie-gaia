@@ -101,6 +101,15 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'Little wood trash '
+  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
+  technique: Technique mixte sur bois
+  dimensions:
+    height: 115
+    width: 80
+  description: Prix sur demande œuvre encadrée caisse américaine chêne
+  price: ''
+  contextual: true
 - title: Bonne pierre bon oeil 08
   image: "/forestry/galerie-gaia-toma-l-bpbo08.jpg"
   technique: Lithographie 6/2
@@ -124,7 +133,7 @@ works:
     height: 56.5
     width: 38
     depth: 0
-  description: "2018  \n3018070602"
+  description: "2018"
   price: 350
   contextual: true
 - title: Bonne pierre bon oeil 02
@@ -137,7 +146,7 @@ works:
     height: 25
     width: 35.5
     depth: 0
-  description: "2018  \n3018020807"
+  description: "2018"
   price: 250
   contextual: true
 - title: Bonne pierre bon oeil 02 noir
@@ -150,7 +159,7 @@ works:
     height: 25
     width: 35.5
     depth: 0
-  description: "2018  \n301820808"
+  description: "2018"
   price: 250
   contextual: true
 - title: Bonne pierre bon oeil 01
@@ -163,7 +172,7 @@ works:
     height: 25
     width: 35.5
     depth: 0
-  description: "2018  \n3018020808"
+  description: "2018"
   price: 250
   contextual: true
 - title: Stone Age 03
@@ -176,7 +185,7 @@ works:
     height: 34
     width: 50
     depth: 0
-  description: "2017  \n3017040807"
+  description: "2017"
   price: 300
   contextual: true
 - title: Bonne pierre bon oeil 13 Noir
@@ -189,7 +198,7 @@ works:
     height: 40
     width: 30.5
     depth: 0
-  description: "2018  \n3018130906 "
+  description: "2018"
   price: 350
   contextual: true
 - title: Bonne pierre bon oeil 02
@@ -202,7 +211,7 @@ works:
     height: 25
     width: 35.5
     depth: 0
-  description: "2018  \n3018020808"
+  description: "2018"
   price: 250
   contextual: true
 - title: Stone Age 02
@@ -215,17 +224,8 @@ works:
     height: 66
     width: 51
     depth: 0
-  description: "2017  \n3017021009"
+  description: "2017"
   price: 400
-  contextual: true
-- title: 'Little wood trash '
-  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
-  technique: Technique mixte sur bois
-  dimensions:
-    height: 115
-    width: 80
-  description: "Prix sur demande œuvre encadrée caisse américaine chêne  \n2019110901"
-  price: ''
   contextual: true
 - title: Le catalogue de Toma L pour Galerie Gaia
   image: "/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg"
