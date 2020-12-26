@@ -393,7 +393,8 @@ works:
   dimensions:
     height: 150
     width: 178
-  description: "oeuvre à encadrer selon votre projet  \n2019040107"
+  description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
+    sur demande"
   price: ''
   contextual: true
 - title: 'Graphite & Colors '
@@ -402,7 +403,7 @@ works:
   dimensions:
     height: 182
     width: 121
-  description: "Caisse américaine noire  \n2019022501  \nprix sur demande"
+  description: "Caisse américaine noire  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Black and simple color '
@@ -411,7 +412,7 @@ works:
   dimensions:
     height: 108
     width: 78
-  description: "caisse américaine noire  \nprix dans le catalogue et sur demande   \n2018091803"
+  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Drawing black '
@@ -420,7 +421,7 @@ works:
   dimensions:
     height: 100
     width: 70
-  description: "caisse américaine chêne  \n2012040601  \nprix sur demande "
+  description: "caisse américaine chêne  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: Projet Vas-y
@@ -453,7 +454,7 @@ works:
     And whilst the final steps in the project, those of of distribution and diffusion of the book are still taking shape, the team is calling on people from the field – journalists to book shop owners – so that Vas-y can reach the public it deserves. The coming year will be packed full of exhibitions, installations and performances all of which you can follow on our website in the section Faits d’Hiver\[s\].
 
     Texte : _Théophile Pillault_
-  price: 0
+  price: ''
   contextual: true
   technique: 'Fresque '
 - title: Bonne pierre bon œil 10
@@ -463,7 +464,7 @@ works:
     height: 57
     width: 38
     depth: 
-  description: "3018100904"
+  description: ''
   price: 300
   sold: false
   contextual: true
@@ -476,7 +477,7 @@ works:
     height: 40
     width: 30
     depth: 
-  description: "3018130908"
+  description: ''
   price: 350
   sold: false
   contextual: true
@@ -489,7 +490,7 @@ works:
     height: 40
     width: 30
     depth: 
-  description: "3018130906"
+  description: ''
   price: 350
   sold: false
   contextual: true
@@ -528,7 +529,7 @@ works:
     height: 66
     width: 51
     depth: 
-  description: "Atelier Toma L  \n3017021009"
+  description: Atelier Toma L
   price: 400
   sold: false
   contextual: true
@@ -541,7 +542,8 @@ works:
     height: 76
     width: 57
     depth: 
-  description: "Musée de l'imprimerie de Nantes  \n301712002"
+  description: "Musée de l'imprimerie de Nantes  \nOeuvre réhaussée aquarelle, pièce
+    unique dans la série"
   price: 800
   sold: false
   contextual: true
@@ -554,7 +556,7 @@ works:
     height: 66
     width: 50
     depth: 
-  description: "Tirage à 2 exemplaires  \n3017160202"
+  description: Tirage à 2 exemplaires
   price: 400
   sold: false
   contextual: true
@@ -562,12 +564,12 @@ works:
   - Oeuvre sur papier
 - title: Stone Age 09
   image: "/forestry/galerie-gaia-toma-l-stoneage-09_ex4-12.jpg"
-  technique: Lithographie 04/12
+  technique: Lithographie 04/12 et collage papier réhaussé
   dimensions:
     height: 66
     width: 50
     depth: 
-  description: "3017101206"
+  description: ''
   price: 500
   sold: false
   contextual: true
