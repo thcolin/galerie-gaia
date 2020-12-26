@@ -249,7 +249,7 @@ works:
     height: 102
     width: 72
     depth: 0
-  description: "Caisse américaine noire   \nprix sur demande  \n2018091802"
+  description: "Caisse américaine noire  \nprix sur demande"
   price: ''
   contextual: true
 - title: 'Red Canaille '
@@ -259,7 +259,7 @@ works:
     height: 162
     width: 114
     depth: 
-  description: "2016050213  \nprix sur demande "
+  description: prix sur demande
   price: ''
   sold: false
   contextual: true
@@ -272,8 +272,7 @@ works:
     height: 194
     width: 196
     depth: 0
-  description: "Cadre et châssis à valider selon votre projet  \nprix sur demande
-    \ \n2016050218"
+  description: "Cadre et châssis à valider selon votre projet  \nprix sur demande"
   price: ''
   contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014
@@ -295,7 +294,7 @@ works:
     height: 106
     width: 70
     depth: 0
-  description: "caisse américaine noire   \nprix sur demande  \n2014031010"
+  description: "caisse américaine noire  \nprix sur demande"
   price: ''
   contextual: true
 - title: Wood cartel yellow
@@ -307,7 +306,7 @@ works:
     height: 106
     width: 70
     depth: 0
-  description: "caisse américaine noire   \nprix sur demande  \n2014120003"
+  description: "caisse américaine noire  \nprix sur demande"
   price: ''
   contextual: true
 - title: Wood cartel grey en situation
@@ -317,8 +316,7 @@ works:
     height: 106
     width: 70
     depth: 0
-  description: "caisse américaine noire   \nprix dans le catalogue et sur demande
-    \ \n2014031011"
+  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: false
 - title: Wood cartel grey
@@ -339,8 +337,7 @@ works:
   dimensions:
     height: 106
     width: 70
-  description: "caisse américaine noire   \nprix dans le catalogue et sur demande
-    \ \n2014031010"
+  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: Wood cartel red
@@ -349,7 +346,7 @@ works:
   dimensions:
     height: 106
     width: 70
-  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande  \n2014053113"
+  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: Querelle carbone 10
@@ -360,7 +357,7 @@ works:
     width: 140
     depth: 0
   description: "châssis et cadre à choisir selon votre projet d'installation  \nprix
-    sur le catalogue ou sur demande   \n2019040101"
+    sur le catalogue ou sur demande"
   price: ''
   contextual: true
 - title: 'Little simple brut '
@@ -369,7 +366,7 @@ works:
   dimensions:
     height: 40
     width: 30
-  description: "cadre chêne verre musée  \n2020031103  \nprix sur demande"
+  description: "cadre chêne verre musée  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Little simple brut '
@@ -378,7 +375,7 @@ works:
   dimensions:
     height: 50
     width: 40
-  description: "Cadre en chêne et verre musée  \n202031102  \nprix sur demande"
+  description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Little simple brut '
@@ -387,7 +384,7 @@ works:
   dimensions:
     height: 40
     width: 30
-  description: "cadre en chêne et verre musée  \n202031101  \nprix sur demande "
+  description: "cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Querelle carbone 4 '
