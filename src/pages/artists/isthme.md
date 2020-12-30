@@ -338,9 +338,9 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: 'Nuit en mer IV '
+- title: Nuit en mer III
   image: "/forestry/nuit-en-mer-iii-113.jpg"
-  technique: Lithographie 1/13
+  technique: Lithographie 13 exemplaires
   dimensions:
     height: 56
     width: 76
@@ -351,9 +351,9 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'Nuits en Mer #4'
+- title: 'Nuits en Mer '
   image: "/forestry/sans-titre-410.jpg"
-  technique: Lithographie
+  technique: Lithographie en 10 exemplaires
   dimensions:
     height: 76
     width: 56
@@ -380,9 +380,9 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'Nuit en mer III '
+- title: Nuit en mer IV
   image: "/forestry/nuit-en-mer-iv-425.jpg"
-  technique: Lithographie 4/25
+  technique: Lithographie en 25 exemplaires
   dimensions:
     height: 69
     width: 53
