@@ -15,6 +15,18 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Gosegawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: Cube in red
+  image: "/forestry/galerie-gaia-go-segawa-cube-in-red.png"
+  technique: Impression jet d'encre sur polyester
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 7.5
+    depth: 7.5
+  description: Edition 39/50
+  price: 105
+  contextual: true
 - title: Oeuf posé I (échelle 2/3eme)
   image: "/forestry/galerie-gaia-go-segawa-oeuf-pose.png"
   technique: Impression jet d'encre sur polyester
