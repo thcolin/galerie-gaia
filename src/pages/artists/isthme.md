@@ -109,15 +109,16 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
-- title: 'Allongée dans l''herbe #12'
-  image: "/forestry/galerie-gaia-isthme-allongee-12-120-120.jpg"
+- title: Venise, un matin
+  image: "/forestry/venise-un-matin.jpg"
   technique: Acrylique sur toile
   dimensions:
-    height: 120
-    width: 120
-    depth: 0
-  description: "2020"
+    height: 146
+    width: 114
+    depth: 
+  description: "2019"
   price: 3200
+  sold: false
   contextual: true
 - title: 'Allongée dans l''herbe #10'
   image: "/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
@@ -302,17 +303,6 @@ works:
     width: 114
   description: "2016"
   price: 3200
-  contextual: true
-- title: Venise, un matin
-  image: "/forestry/venise-un-matin.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 146
-    width: 114
-    depth: 
-  description: "2019"
-  price: 3200
-  sold: false
   contextual: true
 - title: 'Installation Nuits en mer #24 '
   image: "/forestry/nuits-en-mer-24-installation.jpg"

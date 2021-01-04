@@ -43,12 +43,12 @@ works:
     width: 130
   contextual: true
   technique: 'Huile sur toile '
-- title: Ensemble
+- title: Elément
   technique: 'Huile sur toile '
   dimensions:
     height: 100
     width: 100
-  description: "2020"
+  description: Réservée
   price: 3200
   contextual: true
   image: "/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG"
