@@ -197,7 +197,7 @@ works:
     width: 75
     depth: 
   description: "impression numérique sur papier mat smooth contrecollé sur dibond
-    \ \ncaisse américaine noir  \nReste 2 tirages disponibles le 8/9 et 9/9"
+    \ \ncaisse américaine noir  \nReste1 tirage disponible le 9/9"
   price: 550
   sold: false
   contextual: true
