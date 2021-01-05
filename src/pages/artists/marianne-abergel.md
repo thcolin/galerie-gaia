@@ -40,6 +40,19 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Lièvres blancs
+  image: "/forestry/galerie-gaia-marianne-abergel-lievres-blanc-2020.jpg"
+  technique: Grès émaillé
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Grand modèle 21 cm hauteur 300€  \nPetit modèle 18 cm hauteur 240€"
+  price: 240
+  contextual: false
 - title: Lièvre céladon
   image: "/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg"
   technique: grès émaillé
@@ -65,19 +78,6 @@ works:
     depth: 0
   description: 'Modèle de droite '
   price: 200
-  contextual: false
-- title: Lièvres blancs
-  image: "/forestry/galerie-gaia-marianne-abergel-lievres-blanc-2020.jpg"
-  technique: Grès émaillé
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Grand modèle 21 cm hauteur 300€  \nPetit modèle 18 cm hauteur 240€"
-  price: 240
   contextual: false
 - title: Lièvre vert
   image: "/forestry/galerie-gaia-marianne-abergel-lievre-vert-2020.jpg"
