@@ -1,6 +1,6 @@
 ---
 template: artist
-title: 'Idées cadeaux Noël '
+title: Nouveautés 2021
 location: ''
 birth: "0"
 death: "0"
@@ -10,12 +10,22 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
-- title: 'Idées cadeaux '
-  image: "/forestry/galerie-gaia-idees-cadeaux-noel-nantes.jpg"
-  description: ''
-  price: ''
+- title: Céramique de Corinne Guého
+  image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
+  technique: Grès ou porcelaine
+  fields:
+  - Céramique
+  styles:
+  - Figuratif
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# [Corinne Guého](https://galeriegaia.fr/artists/gheho-corinne/ \"corinne
+    guého\")\n\nPièces unique mais pour un usage quotidien !  \nCérémonie du thé,
+    café, sushi...  \nPrix de 10€ à 45€ selon le format"
+  price: 10
   contextual: true
-  technique: 'Une sélection de cadeaux pour les fêtes à partir de 10€ '
 - title: Mala bestia 2
   image: "/forestry/galerie-gaia-rycho-robak02.jpg"
   technique: Impression photo et peinture sous verre
@@ -44,22 +54,6 @@ works:
   description: '# [Toma L](https://galeriegaia.fr/artists/gheho-corinne/ "TOMA LABARTE")'
   price: 120
   contextual: false
-- title: Céramique de Corinne Guého
-  image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
-  technique: Grès ou porcelaine
-  fields:
-  - Céramique
-  styles:
-  - Figuratif
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Corinne Guého](https://galeriegaia.fr/artists/gheho-corinne/ \"corinne
-    guého\")\n\nPièces unique mais pour un usage quotidien !  \nCérémonie du thé,
-    café, sushi...  \nPrix de 10€ à 45€ selon le format"
-  price: 10
-  contextual: true
 - title: Paige de Dimitri Roubichou
   image: "/forestry/dimitri-roubichou-paige-jpeg.JPG"
   technique: 'Photographie tirage papier baryté 9 exemplaires '
