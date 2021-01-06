@@ -10,6 +10,17 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: New Ex
+  image: "/forestry/galerie-gaia-exclu-new.png"
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
 - title: Céramique de Corinne Guého
   image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
   technique: Grès ou porcelaine
