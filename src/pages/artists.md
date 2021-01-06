@@ -1,9 +1,9 @@
 ---
 template: artists
 artists:
+- artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/jean-francois-molliere.md
-- artist: src/pages/artists/la-selection-des-nouveautes-de-mars-2020.md
 - artist: src/pages/artists/gheho-corinne.md
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/toma-l.md
