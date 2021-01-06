@@ -26,6 +26,18 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Palindrome 6
+  image: "/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg"
+  technique: Sérigraphie en 7 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: ''
+  price: 130
+  contextual: true
 - title: 'Contraste #4'
   image: "/forestry/marievandooren-contraste-4-30x40cm-16ex-2019.jpg"
   technique: Sérigraphie 16 exemplaires
