@@ -309,28 +309,6 @@ works:
   description: "caisse américaine noire  \nprix sur demande"
   price: ''
   contextual: true
-- title: Wood cartel grey en situation
-  image: "/forestry/galerie-gaia-toma-l-wood-cartel-blue-es.jpg"
-  technique: Technique mixte sur bois
-  dimensions:
-    height: 106
-    width: 70
-    depth: 0
-  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: false
-- title: Wood cartel grey
-  image: "/forestry/galerie-gaia-toma-l-2014031011_woodcartel-grey-105x70cm.jpg"
-  technique: 'Technique mixte sur bois '
-  fields: []
-  styles: []
-  dimensions:
-    height: 106
-    width: 70
-    depth: 0
-  description: "caisse américaine noire   \n2014031011"
-  price: ''
-  contextual: true
 - title: 'Wood cartel blue '
   image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
