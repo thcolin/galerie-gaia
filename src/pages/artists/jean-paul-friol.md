@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Gravure 4-11-87
+  image: "/forestry/galeriegaia_friol-gravure-4-11-1987-49x38cm.JPG"
+  technique: 'Gravure sur plâtre '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 38
+    width: 49
+    depth: 0
+  description: ''
+  price: 150
+  contextual: true
 - title: Papier 107
   image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg"
   technique: Collage papier, carton, acrylique, émail à froid
