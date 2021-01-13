@@ -27,9 +27,9 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
-- title: Gravure 9-15-1988
-  image: "/forestry/galeriegaia_friol-gravure-9-15-1988-26x20cm.jpg"
-  technique: Gravure sur plâtre édition en 15 exemplaires
+- title: Gravure 1987
+  image: "/forestry/galeriegaia_friol-gravure-ea-1987-31x22cm.JPG"
+  technique: Gravure sur plâtre EA
   fields: []
   styles:
   - Figuratif
@@ -38,7 +38,46 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 150
+  price: 140
+  contextual: true
+- title: Gravure XI-XIII 1988
+  image: "/forestry/galeriegaia_friol-gravure-ea-xi-xiii-1988-15x17cm.JPG"
+  technique: Gravure sur plâtre EA
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 30
+    width: 20
+    depth: 0
+  description: ''
+  price: 130
+  contextual: true
+- title: Papier 047
+  image: "/forestry/galeriegaia_friol-papier-047-collage-papier-papier-desoie-acryliqueh75x50-5.jpg"
+  technique: Papier collé et papier de soie, acrylique
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 75
+    width: 50
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Gravure 10-11-1987
+  image: "/forestry/galeriegaia_friol-gravure-10-11-1987-1er-etat-25x21cm.JPG"
+  technique: Gravure sur plâtre édition en 11 exemplaires
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: ''
+  price: 120
   contextual: true
 - title: Gravure 9-11-1985
   image: "/forestry/galeriegaia_friol-gravure-9-15-1987-16x15cm.JPG"
