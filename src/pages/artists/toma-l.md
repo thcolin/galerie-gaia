@@ -312,18 +312,6 @@ works:
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
-- title: Black and simple color
-  image: "/forestry/galeriegaia-toma-l-2018091802-blackandsimplecolor-110x80cm-copie_bd.jpg"
-  technique: 'Technique mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 102
-    width: 72
-    depth: 0
-  description: "Caisse américaine noire  \nprix sur demande"
-  price: ''
-  contextual: true
 - title: 'Red Canaille '
   image: "/forestry/red-canaille.jpg"
   technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
@@ -369,18 +357,6 @@ works:
   description: "caisse américaine noire  \nprix sur demande"
   price: ''
   contextual: true
-- title: Wood cartel yellow
-  image: "/forestry/galerie-gaia-toma-l-2014120003_woodcartel-yellow-105x70cm.jpg"
-  technique: 'Technique mixte sur bois '
-  fields: []
-  styles: []
-  dimensions:
-    height: 106
-    width: 70
-    depth: 0
-  description: "caisse américaine noire  \nprix sur demande"
-  price: ''
-  contextual: true
 - title: 'Wood cartel blue '
   image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
@@ -411,15 +387,6 @@ works:
   price: ''
   contextual: true
 - title: 'Little simple brut '
-  image: "/forestry/galeriegaia@tomaL-2020031103-LITTLESIMPLEBRUT-40x30cm-1.jpg"
-  technique: Couture et Technique mixte sur papier
-  dimensions:
-    height: 40
-    width: 30
-  description: "cadre chêne verre musée  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: 'Little simple brut '
   image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
   technique: 'Couture et Technique mixte sur papier '
   dimensions:
@@ -429,12 +396,21 @@ works:
   price: ''
   contextual: true
 - title: 'Little simple brut '
-  image: "/forestry/galeriegaia@tomaL-2020031101-LITTLECOLOR-40x30cm.jpg"
+  image: "/forestry/galeriegaia-tomal-2020031104-littlecolor-40x30cm_bd.jpg"
   technique: Couture et Technique mixte sur papier
   dimensions:
     height: 40
     width: 30
   description: "cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
+  price: ''
+  contextual: true
+- title: Little Simple Brut
+  image: "/forestry/galeriegaia-tomal-2020031105-littlecolor-40x30cm_bd.jpg"
+  technique: Couture et Technique mixte sur papier cadre en chêne verre musée
+  dimensions:
+    height: 50
+    width: 40
+  description: prix dans le catalogue et sur demande
   price: ''
   contextual: true
 - title: 'Querelle carbone 4 '
@@ -445,15 +421,6 @@ works:
     width: 178
   description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
     sur demande"
-  price: ''
-  contextual: true
-- title: 'Graphite & Colors '
-  image: "/forestry/galeriegaia@tomaL-2019022501-Graphite&colors-182x121cm-2019-1.jpg"
-  technique: 'Technique mixte sur papier marouflé sur bois '
-  dimensions:
-    height: 182
-    width: 121
-  description: "Caisse américaine noire  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Black and simple color '
