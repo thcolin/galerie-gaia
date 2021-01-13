@@ -101,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Simple color
+  image: "/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
+  technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
+  fields: []
+  styles: []
+  dimensions:
+    height: 78
+    width: 108
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
 - title: Simple White trash
   image: "/forestry/2017051105-simplewhitetrash-150x111cm.jpg"
   technique: Technique mixte sur papier marouflé sur toile en lin châssis à clé
