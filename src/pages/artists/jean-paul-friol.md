@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Gravure 9-15-1988
+  image: "/forestry/galeriegaia_friol-gravure-9-15-1988-26x20cm.jpg"
+  technique: Gravure sur plâtre édition en 15 exemplaires
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 150
+  contextual: true
 - title: Gravure 9-11-1985
   image: "/forestry/galeriegaia_friol-gravure-9-15-1987-16x15cm.JPG"
   technique: Gravure sur plâtre édition en 15 exemplaires
