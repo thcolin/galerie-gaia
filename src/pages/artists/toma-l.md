@@ -101,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Simple White trash
+  image: "/forestry/2017051105-simplewhitetrash-150x111cm.jpg"
+  technique: Technique mixte sur papier marouflé sur toile en lin châssis à clé
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 111
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
 - title: 'Little wood trash '
   image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
