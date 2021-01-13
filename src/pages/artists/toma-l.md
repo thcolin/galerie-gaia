@@ -101,6 +101,30 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'Petit crade '
+  image: "/forestry/2020120704-petitcrade-90x70cm.jpg"
+  technique: Technique mixte sur papier marouflé sur bois caisse américaine chêne
+  fields: []
+  styles: []
+  dimensions:
+    height: 89
+    width: 69
+    depth: 0
+  description: "2020"
+  price: 0
+  contextual: true
+- title: 'Dab color and drawing '
+  image: "/forestry/2017092501-dabcolorsanddrawing-150x95cm.jpg"
+  technique: Technique mixte sur papier marouflé sur toile en lin châssis à clefs
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 95
+    depth: 0
+  description: "2017"
+  price: 0
+  contextual: true
 - title: Simple color
   image: "/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
   technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
