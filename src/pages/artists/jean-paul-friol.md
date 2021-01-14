@@ -27,6 +27,94 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Papier 107
+  image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg"
+  technique: Collage papier, carton, acrylique, émail à froid
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 73
+    width: 58
+    depth: 0
+  description: "1996"
+  price: 450
+  contextual: true
+- title: Papier 047
+  image: "/forestry/friol-papiers-colles-h108x75l.jpg"
+  technique: Papier collé et papier de soie, acrylique
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 108
+    width: 75
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Papier collé 044
+  image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
+  technique: Collage, papier, kraft, scotch, acrylique, email à froid
+  dimensions:
+    height: 77
+    width: 61
+    depth: 
+  description: "1996"
+  price: 450
+  contextual: true
+  sold: false
+- title: Papier encre 022
+  image: "/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg"
+  technique: 'Encre sur papier '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 77
+    width: 76
+    depth: 0
+  description: "1982 j'ai fait encadrer cette œuvre avec une baguette alu noire et
+    verre antireflet qualité musée et j'ai conservé une large marge blanche.  \nle
+    prix est donc avec l'encadrement "
+  price: 550
+  contextual: false
+- title: Papier collé 120
+  image: "/forestry/friol-papier-colles-120-1997-collage-papier-kraft-acrylique-email-a-froid-h61x76l.jpg"
+  technique: Collage, papier kraft, acrylique, email à froid
+  fields: []
+  styles: []
+  dimensions:
+    height: 61
+    width: 76
+    depth: 0
+  description: "1997"
+  price: 450
+  contextual: true
+- title: Papier collé 042
+  image: "/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg"
+  technique: Collage papier acrylique email à froid
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 75
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Papier collé 125
+  image: "/forestry/friol-papier-colles-125-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h79x64l.jpg"
+  technique: Collage, papier kraft, scotch, acrylique, email à froid
+  fields: []
+  styles: []
+  dimensions:
+    height: 79
+    width: 64
+    depth: 0
+  description: "1996"
+  price: 450
+  contextual: true
 - title: Gravure 1987
   image: "/forestry/galeriegaia_friol-gravure-ea-1987-31x22cm.JPG"
   technique: Gravure sur plâtre EA
@@ -52,19 +140,6 @@ works:
     depth: 0
   description: ''
   price: 130
-  contextual: true
-- title: Papier 047
-  image: "/forestry/galeriegaia_friol-papier-047-collage-papier-papier-desoie-acryliqueh75x50-5.jpg"
-  technique: Papier collé et papier de soie, acrylique
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 75
-    width: 50
-    depth: 0
-  description: ''
-  price: 450
   contextual: true
 - title: Gravure 10-11-1987
   image: "/forestry/galeriegaia_friol-gravure-10-11-1987-1er-etat-25x21cm.JPG"
@@ -92,6 +167,81 @@ works:
   description: ''
   price: 120
   contextual: true
+- title: Papier collé 081 encadré
+  image: "/forestry/galerie-gaia-friol-visgae-es.jpg"
+  technique: Papier collé technique mixte
+  fields: []
+  styles: []
+  dimensions:
+    height: 109
+    width: 78
+    depth: 0
+  description: ''
+  price: 690
+  contextual: false
+- title: Papier collé 065
+  image: "/forestry/friol-papier-colles-065-1996-collage-papier-kraft-acrylique-email-a-froid-crayon-de-couleur-h62x77l.jpg"
+  technique: Collage, papier kraft, acrylique, émail à froid, caryon de couleur
+  styles: []
+  dimensions:
+    height: 62
+    width: 77
+    depth: 
+  description: "1996"
+  price: 450
+  contextual: true
+  sold: false
+- title: Papier collé 004
+  image: "/forestry/friol-papierscolles004-1992-collage-papier-de-soie-pastel-h56x74-l.jpg"
+  technique: Collage papier de soie, pastel
+  fields: []
+  styles: []
+  dimensions:
+    height: 56
+    width: 74
+    depth: 0
+  description: "1992"
+  price: 450
+  contextual: true
+- title: Papier collé 081
+  image: "/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg"
+  technique: Collage, papier soie, encre
+  dimensions:
+    height: 72
+    width: 52
+    depth: 
+  description: "1991"
+  price: 450
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
+- title: Papier 082
+  image: "/forestry/papier-082.jpg"
+  technique: Collage, papier soie, encre
+  dimensions:
+    height: 73
+    width: 61
+    depth: 
+  description: '1991 '
+  price: 450
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
+- title: Visage yeux cernés noirs
+  image: "/forestry/visage-yeux-cernes-noirs.jpg"
+  technique: collage papier et dessin
+  dimensions:
+    height: 91
+    width: 64
+    depth: 
+  description: '1991 '
+  price: 450
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: Gravure 6-20-1988
   image: "/forestry/galeriegaia_friol-gravure-6-20-1988-21x15cm.JPG"
   technique: 'Gravure sur plâtre édition en 20 exemplaires '
@@ -117,34 +267,6 @@ works:
   description: ''
   price: 150
   contextual: true
-- title: Papier 107
-  image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg"
-  technique: Collage papier, carton, acrylique, émail à froid
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 73
-    width: 58
-    depth: 0
-  description: "1996"
-  price: 450
-  contextual: true
-- title: Papier encre 022
-  image: "/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg"
-  technique: 'Encre sur papier '
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 77
-    width: 76
-    depth: 0
-  description: "1982 j'ai fait encadrer cette œuvre avec une baguette alu noire et
-    verre antireflet qualité musée et j'ai conservé une large marge blanche.  \nle
-    prix est donc avec l'encadrement "
-  price: 550
-  contextual: false
 - title: Mise en situation Jean-Paul Friol et Marie Bathellier
   image: "/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg"
   technique: Friol encre sur papier, Bathellier pigment et acrylique sur bois
@@ -158,17 +280,6 @@ works:
     "friol et bathellier") Sculpture Terre'
   price: ''
   contextual: false
-- title: Papier collé 044
-  image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
-  technique: Collage, papier, kraft, scotch, acrylique, email à froid
-  dimensions:
-    height: 77
-    width: 61
-    depth: 
-  description: "1996"
-  price: 450
-  contextual: true
-  sold: false
 - title: Femme fleur
   image: "/forestry/galerie-gaia-friol-gravure-femme-fleur.jpg"
   technique: 'Gravure sur platre 4/25 '
@@ -207,6 +318,40 @@ works:
   description: 1988 oeuvre avec encadrement 145€
   price: 120
   contextual: true
+- title: Papier collé 005
+  image: "/forestry/papier-colle-005.jpg"
+  technique: Collage, papier soie, encre
+  dimensions:
+    height: 50
+    width: 75
+    depth: 
+  description: '1991 '
+  price: 450
+  sold: false
+  contextual: true
+- title: Papier collé 164
+  image: "/forestry/friol-papier-colles-164-1994-collage-papier-de-soie-email-a-froid-papier-h97x62l.jpg"
+  technique: 'Collage, papier de soie, émail à froid '
+  fields: []
+  styles: []
+  dimensions:
+    height: 97
+    width: 62
+    depth: 0
+  description: "1994"
+  price: 450
+  contextual: true
+- title: Papier collé 071
+  image: "/forestry/papier-colle-071.jpg"
+  technique: Collage, papier soie, kraft, émail à froid, acrylique
+  dimensions:
+    height: 75
+    width: 110
+    depth: 
+  description: '1994 '
+  price: 450
+  sold: false
+  contextual: true
 - title: 'Gravure Nu Homme '
   image: "/forestry/galeriegaia_friol_hommededos_41-5x31-5.jpg"
   technique: 'Gravure sur plâtre 6/15 '
@@ -234,30 +379,6 @@ works:
   image: "/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg"
   title: 'Gravure Nue Femme '
   technique: Gravure sur plâtre 7/20
-- title: Papier collé 125
-  image: "/forestry/friol-papier-colles-125-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h79x64l.jpg"
-  technique: Collage, papier kraft, scotch, acrylique, email à froid
-  fields: []
-  styles: []
-  dimensions:
-    height: 79
-    width: 64
-    depth: 0
-  description: "1996"
-  price: 450
-  contextual: true
-- title: Papier collé 120
-  image: "/forestry/friol-papier-colles-120-1997-collage-papier-kraft-acrylique-email-a-froid-h61x76l.jpg"
-  technique: Collage, papier kraft, acrylique, email à froid
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 76
-    depth: 0
-  description: "1997"
-  price: 450
-  contextual: true
 - title: Gravure 9
   image: "/forestry/friol-gravure-09-1989-11-15-36x24.jpg"
   technique: Gravure sur plâtre 11/15
@@ -284,42 +405,6 @@ works:
   price: 120
   contextual: true
   sold: false
-- title: Papier collé 004
-  image: "/forestry/friol-papierscolles004-1992-collage-papier-de-soie-pastel-h56x74-l.jpg"
-  technique: Collage papier de soie, pastel
-  fields: []
-  styles: []
-  dimensions:
-    height: 56
-    width: 74
-    depth: 0
-  description: "1992"
-  price: 450
-  contextual: true
-- title: Papier collé 164
-  image: "/forestry/friol-papier-colles-164-1994-collage-papier-de-soie-email-a-froid-papier-h97x62l.jpg"
-  technique: 'Collage, papier de soie, émail à froid '
-  fields: []
-  styles: []
-  dimensions:
-    height: 97
-    width: 62
-    depth: 0
-  description: "1994"
-  price: 450
-  contextual: true
-- title: Papier collé 065
-  image: "/forestry/friol-papier-colles-065-1996-collage-papier-kraft-acrylique-email-a-froid-crayon-de-couleur-h62x77l.jpg"
-  technique: Collage, papier kraft, acrylique, émail à froid, caryon de couleur
-  styles: []
-  dimensions:
-    height: 62
-    width: 77
-    depth: 
-  description: "1996"
-  price: 450
-  contextual: true
-  sold: false
 - title: Gravure 12
   image: "/forestry/friol-gravure-12-1988-epreuve7_20-h43x43l.jpg"
   technique: Gravure sur plâtre 7/20
@@ -333,91 +418,6 @@ works:
   description: ''
   price: 150
   contextual: true
-- title: Papier collé 042
-  image: "/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg"
-  technique: Collage papier acrylique email à froid
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 75
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
-- title: Papier 082
-  image: "/forestry/papier-082.jpg"
-  technique: Collage, papier soie, encre
-  dimensions:
-    height: 73
-    width: 61
-    depth: 
-  description: '1991 '
-  price: 450
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
-- title: Papier collé 005
-  image: "/forestry/papier-colle-005.jpg"
-  technique: Collage, papier soie, encre
-  dimensions:
-    height: 50
-    width: 75
-    depth: 
-  description: '1991 '
-  price: 450
-  sold: false
-  contextual: true
-- title: Papier collé 081
-  image: "/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg"
-  technique: Collage, papier soie, encre
-  dimensions:
-    height: 72
-    width: 52
-    depth: 
-  description: "1991"
-  price: 450
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
-- title: Papier collé 081 encadré
-  image: "/forestry/galerie-gaia-friol-visgae-es.jpg"
-  technique: Papier collé technique mixte
-  fields: []
-  styles: []
-  dimensions:
-    height: 109
-    width: 78
-    depth: 0
-  description: ''
-  price: 690
-  contextual: false
-- title: Papier collé 071
-  image: "/forestry/papier-colle-071.jpg"
-  technique: Collage, papier soie, kraft, émail à froid, acrylique
-  dimensions:
-    height: 75
-    width: 110
-    depth: 
-  description: '1994 '
-  price: 450
-  sold: false
-  contextual: true
-- title: Visage yeux cernés noirs
-  image: "/forestry/visage-yeux-cernes-noirs.jpg"
-  technique: collage papier et dessin
-  dimensions:
-    height: 91
-    width: 63
-    depth: 
-  description: '1991 '
-  price: 450
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 redirect_from:
 - "/artistes/101-jean-paul-friol/"
 styles:
