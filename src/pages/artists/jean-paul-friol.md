@@ -27,6 +27,51 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Ppaiers collés 1996
+  image: "/forestry/friol-papiers-colles-1996-h75x108l.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 75
+    width: 108
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Papiers 1991
+  image: "/forestry/friol-papiers-colles-1991-h108x75l.jpg"
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 108
+    width: 75
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Papiers collés l'origine du monde 1997
+  image: "/forestry/friol-papiers-colles-1997-h75x108l.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 75
+    width: 108
+    depth: 0
+  description: 'Je vous invite à zoomer '
+  price: 450
+  contextual: true
+- title: Papiers collés 2008
+  image: "/forestry/friol-papiers-colles-croix-2008-75x105cm.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 108
+    width: 75
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
 - title: Papiers collés 1994
   image: "/forestry/friol-papiers-colles-1994-70x104cm.jpg"
   technique: ''
