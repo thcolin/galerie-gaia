@@ -38,6 +38,18 @@ works:
   price: 450
   contextual: true
   sold: false
+- title: Ciment 05 1988
+  image: "/forestry/friol-ciment-05-1988-95x75cm.JPG"
+  technique: 'Ciment et pigment sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 75
+    width: 95
+    depth: 0
+  description: ''
+  price: 4000
+  contextual: true
 - title: 'Verre et pigments ecrits '
   image: "/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg"
   technique: 'pigments sous verre oeuvre encadrée '
