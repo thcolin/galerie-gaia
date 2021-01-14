@@ -27,16 +27,29 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
-- title: Ppaiers collés 1996
-  image: "/forestry/friol-papiers-colles-1996-h75x108l.jpg"
-  fields: []
-  styles: []
+- title: Papier collé 044
+  image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
+  technique: Collage, papier, kraft, scotch, acrylique, email à froid
   dimensions:
-    height: 75
-    width: 108
+    height: 77
+    width: 61
+    depth: 
+  description: "1996"
+  price: 450
+  contextual: true
+  sold: false
+- title: 'Verre et pigments ecrits '
+  image: "/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg"
+  technique: 'pigments sous verre oeuvre encadrée '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 73
+    width: 53
     depth: 0
   description: ''
-  price: 450
+  price: 700
   contextual: true
 - title: Papiers 1991
   image: "/forestry/friol-papiers-colles-1991-h108x75l.jpg"
@@ -84,6 +97,17 @@ works:
   description: ''
   price: 450
   contextual: true
+- title: Papiers collés 1996
+  image: "/forestry/friol-papiers-colles-1996-h75x108l.jpg"
+  fields: []
+  styles: []
+  dimensions:
+    height: 75
+    width: 108
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
 - title: 'Papiers collés '
   image: "/forestry/friol-papier-colles-43x53cm.jpg"
   technique: 'Papiers collés et techniques mixtes '
@@ -110,17 +134,6 @@ works:
   description: ''
   price: 140
   contextual: true
-- title: Papier collé 044
-  image: "/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
-  technique: Collage, papier, kraft, scotch, acrylique, email à froid
-  dimensions:
-    height: 77
-    width: 61
-    depth: 
-  description: "1996"
-  price: 450
-  contextual: true
-  sold: false
 - title: Papier 107
   image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg"
   technique: Collage papier, carton, acrylique, émail à froid
