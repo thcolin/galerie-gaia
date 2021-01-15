@@ -48,7 +48,7 @@ works:
     width: 95
     depth: 0
   description: ''
-  price: 4800
+  price: 4600
   contextual: true
 - title: 'Verre et pigments ecrits '
   image: "/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg"
@@ -212,7 +212,7 @@ works:
   price: 450
   contextual: true
 - title: Papier collé 164
-  image: "/forestry/friol-papier-colles-164-1994-collage-papier-de-soie-email-a-froid-papier-h97x62l.jpg"
+  image: "/forestry/galerie-gaia-friol-pap-colle-164-105x75.jpg"
   technique: 'Collage, papier de soie, émail à froid '
   fields: []
   styles: []
