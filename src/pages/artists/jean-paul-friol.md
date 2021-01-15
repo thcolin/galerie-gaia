@@ -106,7 +106,7 @@ works:
     height: 104
     width: 70
     depth: 0
-  description: ''
+  description: Réservé
   price: 450
   contextual: true
 - title: Papiers collés 1996
