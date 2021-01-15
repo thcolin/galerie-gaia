@@ -48,7 +48,7 @@ works:
     width: 95
     depth: 0
   description: ''
-  price: 4000
+  price: 4800
   contextual: true
 - title: 'Verre et pigments ecrits '
   image: "/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg"
@@ -144,7 +144,7 @@ works:
     width: 23
     depth: 0
   description: ''
-  price: 140
+  price: 150
   contextual: true
 - title: Papier 107
   image: "/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg"
