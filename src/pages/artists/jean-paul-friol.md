@@ -159,19 +159,6 @@ works:
   description: "1996"
   price: 450
   contextual: true
-- title: Papier 047
-  image: "/forestry/friol-papiers-colles-h108x75l.jpg"
-  technique: Papier collé et papier de soie, acrylique
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 108
-    width: 75
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
 - title: Papier encre 022
   image: "/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg"
   technique: 'Encre sur papier '
@@ -209,18 +196,6 @@ works:
     width: 75
     depth: 0
   description: ''
-  price: 450
-  contextual: true
-- title: Papier collé 164
-  image: "/forestry/galerie-gaia-friol-pap-colle-164-105x75.jpg"
-  technique: 'Collage, papier de soie, émail à froid '
-  fields: []
-  styles: []
-  dimensions:
-    height: 97
-    width: 62
-    depth: 0
-  description: "1994"
   price: 450
   contextual: true
 - title: Papier collé 125
