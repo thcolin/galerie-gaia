@@ -96,28 +96,6 @@ works:
   contextual: false
   fields:
   - Sculpture
-- title: Parc 1
-  image: "/forestry/vandoorenmarie.parc1.50x70cm.jpg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 50
-    width: 70
-    depth: 0
-  description: "2020"
-  price: 500
-  contextual: true
-- title: 'Contre espace '
-  image: "/forestry/vandoorenmarie.contre espace.100x81cm.jpg"
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 81
-    width: 100
-    depth: 0
-  description: "2020"
-  price: 700
-  contextual: true
-  fields:
-  - Peinture
 - title: Palindrome
   image: "/forestry/palindrome.jpg"
   technique: Sérigraphie en 20 exemplaires
@@ -140,25 +118,25 @@ works:
   price: 120
   sold: false
   contextual: true
-- title: 'Escalier '
-  image: "/forestry/sans-titre-15.jpg"
-  technique: Sérigraphie 1/5
+- title: Montagne
+  image: "/forestry/marievandooren-montagne-50x70-2020-200euros-pg.jpg"
+  technique: Sérigraphie en 10 exemplaires
   dimensions:
-    height: 71
-    width: 51
+    height: 50
+    width: 70
     depth: 
-  description: '2019 '
-  price: 190
+  description: "2020"
+  price: 200
   sold: false
   contextual: true
-- title: Silo
-  image: "/forestry/silo.jpg"
+- title: Béton volant
+  image: "/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg"
   technique: Collage sur sérigraphie Exemplaire unique
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: "\n"
+  description: "2020"
   price: 200
   sold: false
   contextual: true
