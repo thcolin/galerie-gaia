@@ -26,17 +26,16 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
-- title: Palindrome 6
-  image: "/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg"
-  technique: Sérigraphie en 7 exemplaires
-  fields: []
-  styles: []
+- title: Béton volant
+  image: "/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg"
+  technique: Collage sur sérigraphie Exemplaire unique
   dimensions:
-    height: 50
-    width: 40
-    depth: 0
-  description: ''
-  price: 130
+    height: 70
+    width: 50
+    depth: 
+  description: "2020"
+  price: 200
+  sold: false
   contextual: true
 - title: 'Contraste #4'
   image: "/forestry/marievandooren-contraste-4-30x40cm-16ex-2019.jpg"
@@ -50,6 +49,63 @@ works:
   description: ''
   price: 120
   contextual: true
+- title: Palindrome 6
+  image: "/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg"
+  technique: Sérigraphie en 7 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: ''
+  price: 130
+  contextual: true
+- title: Palindrome 3
+  image: "/forestry/galerie-gaia-marievandooren-palindrome3-50x70cm-5ex-2019-1.jpg"
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 200
+  contextual: true
+- title: Palindrome 3 couleurs
+  image: "/forestry/palindrome.jpg"
+  technique: Sérigraphie en 20 exemplaires
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: "\n"
+  price: 200
+  sold: false
+  contextual: true
+- title: Montagne
+  image: "/forestry/marievandooren-montagne-50x70-2020-200euros-pg.jpg"
+  technique: Sérigraphie en 10 exemplaires
+  dimensions:
+    height: 50
+    width: 70
+    depth: 
+  description: "2020"
+  price: 200
+  sold: false
+  contextual: true
+- title: Piscine végétale
+  image: "/forestry/galerie-gaia-marievandooren-serigraphie-piscine-vegetale-50x70-2020.jpg"
+  technique: Sérigraphie 10 exemplaires
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: "2020"
+  price: 200
+  sold: false
+  contextual: true
 - title: 'Maquette 3 Solitude '
   image: "/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
   technique: Maquette sur socle bois
@@ -62,6 +118,29 @@ works:
   contextual: false
   fields:
   - Sculpture
+- title: Maquette 1 Vélo
+  image: "/forestry/vandoorenmarie.maquette1.16x9cm.jpg"
+  technique: 'Maquette socle Bois '
+  dimensions:
+    height: 16
+    width: 9
+    depth: 9
+  description: ''
+  price: 250
+  contextual: false
+  fields:
+  - Sculpture
+- title: Végétal bleu
+  image: "/forestry/vegetal-bleu.jpg"
+  technique: Sérigraphie en 15 exemplaires
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: "\n"
+  price: 160
+  sold: false
+  contextual: true
 - title: Paysage 2
   image: "/forestry/vandoorenmarie.paysage2.100x81cm.jpg"
   technique: acrylique sur papier
@@ -83,84 +162,6 @@ works:
     depth: ''
   description: ''
   price: 700
-  contextual: true
-- title: Maquette 1 Vélo
-  image: "/forestry/vandoorenmarie.maquette1.16x9cm.jpg"
-  technique: 'Maquette socle Bois '
-  dimensions:
-    height: 16
-    width: 9
-    depth: 9
-  description: ''
-  price: 250
-  contextual: false
-  fields:
-  - Sculpture
-- title: Palindrome
-  image: "/forestry/palindrome.jpg"
-  technique: Sérigraphie en 20 exemplaires
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "\n"
-  price: 200
-  sold: false
-  contextual: true
-- title: 'Contraste #2'
-  image: "/forestry/contraste-2.jpg"
-  technique: Sérigraphie  Edition en 10 exemplaires
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 120
-  sold: false
-  contextual: true
-- title: Montagne
-  image: "/forestry/marievandooren-montagne-50x70-2020-200euros-pg.jpg"
-  technique: Sérigraphie en 10 exemplaires
-  dimensions:
-    height: 50
-    width: 70
-    depth: 
-  description: "2020"
-  price: 200
-  sold: false
-  contextual: true
-- title: Béton volant
-  image: "/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg"
-  technique: Collage sur sérigraphie Exemplaire unique
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "2020"
-  price: 200
-  sold: false
-  contextual: true
-- title: Silo 2
-  image: "/forestry/silo-2.jpg"
-  technique: Collage sur sérigraphie Exemplaire unique
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "\n"
-  price: 200
-  sold: false
-  contextual: true
-- title: Végétal bleu
-  image: "/forestry/vegetal-bleu.jpg"
-  technique: Sérigraphie en 15 exemplaires
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "\n"
-  price: 160
-  sold: false
   contextual: true
 - title: Portrait de Marie Vandooren
   image: "/forestry/galerie-gaia-marie-vandooren-portrait.jpg"
