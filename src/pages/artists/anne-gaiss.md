@@ -32,17 +32,6 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
-- title: Détail d'une oeuvre sur papier blanc
-  image: "/forestry/detail-dune-oeuvre-sur-papier-blanc.jpg"
-  technique: Incision scalpel sur papier blanc
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: Rivage
   image: "/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
   technique: 'Papier brut couleur blanche naturelle incision au scalpel '
@@ -51,7 +40,7 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: 1800
+  price: ''
   contextual: true
 - title: Empreinte
   dimensions:
@@ -59,7 +48,7 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: 1800
+  price: ''
   contextual: true
   image: "/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
 - title: Nigredo
@@ -70,7 +59,7 @@ works:
     width: 50
     depth: 
   description: 'Œuvre encadrée sur fond noir et verre musée baguette aluminium noire '
-  price: 1300
+  price: ''
   sold: false
   contextual: true
 - title: Rubedo
@@ -81,7 +70,7 @@ works:
     height: 50
     width: 70
   description: ''
-  price: 2200
+  price: ''
   contextual: true
 - title: 'Détail de matière '
   image: "/forestry/nigredo-vii.jpg"
@@ -103,7 +92,7 @@ works:
     depth: 
   description: "Encadrement baguette aluminium Nielsen noir mat  \nœuvre posée en
     rehausse sur fond et verre musée."
-  price: 1300
+  price: ''
   sold: false
   contextual: false
 - title: Animus Anima 9
@@ -115,7 +104,7 @@ works:
     width: 76
     depth: 
   description: ''
-  price: 2200
+  price: ''
   sold: false
   contextual: true
 redirect_from:
