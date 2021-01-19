@@ -43,18 +43,6 @@ works:
   description: ''
   price: 250
   contextual: true
-- title: Ciel 157
-  image: "/forestry/galerie-gaia-claude-francheteau-ciels-157-17x23.jpg"
-  fields: []
-  styles: []
-  dimensions:
-    height: 23
-    width: 17
-    depth: 0
-  description: ''
-  price: 240
-  contextual: true
-  technique: 'Acrylique sur toile '
 - title: CIEL 2067
   image: "/forestry/ciel-2067.jpg"
   technique: Acrylique sur toile

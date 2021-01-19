@@ -170,8 +170,8 @@ works:
     height: 150
     width: 111
     depth: 0
-  description: "2017"
-  price: 0
+  description: "**Réservé**"
+  price: ''
   contextual: true
 - title: 'Little wood trash '
   image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
@@ -179,7 +179,7 @@ works:
   dimensions:
     height: 115
     width: 80
-  description: Prix sur demande œuvre encadrée caisse américaine chêne
+  description: "**Réservé**"
   price: ''
   contextual: true
 - title: Bonne pierre bon oeil 08
