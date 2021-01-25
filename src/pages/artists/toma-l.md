@@ -134,8 +134,8 @@ works:
     height: 150
     width: 95
     depth: 0
-  description: "2017"
-  price: 0
+  description: Réservé
+  price: ''
   contextual: true
 - title: Simple color
   image: "/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
