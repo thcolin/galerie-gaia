@@ -179,7 +179,7 @@ works:
   dimensions:
     height: 115
     width: 80
-  description: "**Réservé**"
+  description: ''
   price: ''
   contextual: true
 - title: Bonne pierre bon oeil 08
@@ -332,7 +332,7 @@ works:
     height: 194
     width: 196
     depth: 0
-  description: "Cadre et châssis à valider selon votre projet  \nprix sur demande"
+  description: Réservé
   price: ''
   contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014

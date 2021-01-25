@@ -174,18 +174,6 @@ works:
     prix est donc avec l'encadrement "
   price: 550
   contextual: false
-- title: Papier collé 120
-  image: "/forestry/friol-papier-colles-120-1997-collage-papier-kraft-acrylique-email-a-froid-h61x76l.jpg"
-  technique: Collage, papier kraft, acrylique, email à froid
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 76
-    depth: 0
-  description: "1997"
-  price: 450
-  contextual: true
 - title: Papier collé 042
   image: "/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg"
   technique: Collage papier acrylique email à froid
