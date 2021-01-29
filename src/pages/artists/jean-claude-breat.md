@@ -35,6 +35,41 @@ biography: |-
   [www.lindengruen.at](https://www.lindengruen.at/ "galerie lindengruen autriche")
 exhibitions: []
 works:
+- title: Côté coeur
+  image: "/forestry/galerie-gaia-jean-claude-breat-40x40x3-5.jpg"
+  technique: Mixte sur papier marouflé sur bois châssis de 3cm de haut
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: ''
+  price: 1200
+  contextual: true
+- title: La femme au violon
+  image: "/forestry/galerie-gaia-jean-claude-breat-la-femme-au-violon-40x30x4.jpg"
+  technique: Mixte sur papier marouflé sur toile sur châssis de 4cm de haut
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 1200
+  contextual: true
+- title: TARTRUFFE & COCHON QUI RIT
+  image: "/forestry/tartruffe-and-cochon-qui-rit.jpg"
+  technique: Mixte sur toile
+  dimensions:
+    height: 50
+    width: 50
+    depth: 
+  description: ''
+  price: 1800
+  sold: false
+  contextual: false
 - title: 1=+
   image: "/forestry/1.jpg"
   technique: Mixte sur toile
@@ -57,17 +92,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: TARTRUFFE & COCHON QUI RIT
-  image: "/forestry/tartruffe-and-cochon-qui-rit.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 50
-    width: 50
-    depth: 
-  description: PRIX SUR DEMANDE
-  price: 
-  sold: false
-  contextual: false
 - title: ATELIER
   image: "/forestry/atelier.jpg"
   technique: ''
