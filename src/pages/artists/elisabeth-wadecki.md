@@ -118,19 +118,6 @@ works:
   description: "Visible sur demande en atelier  \n2019"
   price: 3500
   contextual: true
-- title: Terraherba n°15
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-terraherba-15-2020-42x42-400.JPG"
-  technique: 'Acrylique bâtons d''huile sur carton '
-  dimensions:
-    height: 28
-    width: 28
-    depth: 0
-  description: |-
-    Encadré 43x43cm, 70eur
-
-    2020
-  price: 400
-  contextual: true
 - title: En mon jardin N°4 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
@@ -199,28 +186,6 @@ works:
   price: 550
   sold: false
   contextual: true
-- title: Sans Titre N°8 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-diptyque-2018-acrylique-pasteslssecs-sur-toile-1800euros.JPG"
-  technique: Acrylique et pastel sur toile
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: '2018 '
-  price: 1800
-  sold: false
-  contextual: true
-- title: Sans Titre N°4 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-100x81-2018-acrylique-pastelssecs-sur-toile-1600euros-visibleatelier.JPG"
-  technique: Acrylique, pastels, fusain sur toile
-  dimensions:
-    height: 100
-    width: 81
-    depth: 
-  description: Visible sur demande à l'atelier 2018
-  price: 1600
-  sold: false
-  contextual: true
 - title: Sans Titre N°11 Toile
   image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
   technique: Acrylique et pastel sur toile
@@ -274,28 +239,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Sans titre N°2 Papier
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-2-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.jpg"
-  technique: 'Acrylique et bâtons d''huile sur papier '
-  dimensions:
-    height: 31
-    width: 31
-  description: "2019  \noeuvre encadrée baguette aluminium plaquée chêne"
-  price: 280
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Sans Titre N°12 Papier
-  image: "/forestry/sans-titre-ndegree12.jpg"
-  technique: Acrylique et bâtons d'huile sur papier
-  dimensions:
-    height: 31
-    width: 31
-    depth: 
-  description: "2019   \noeuvre  encadrée baguette aluminium plaquée chêne naturel"
-  price: 280
-  sold: false
-  contextual: true
 - title: Le soleil se lève et tout devient nuit N°4
   image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
   technique: Acrylique, pastel fusain sur toile

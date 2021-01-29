@@ -1,7 +1,7 @@
 ---
 template: home
 carousel:
-- image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
+- image: "/forestry/friol-ciment-05-1988-95x75cm.JPG"
 - image: "/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
 - image: "/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg"
 - image: "/forestry/2020120704-petitcrade-90x70cm.jpg"
