@@ -289,21 +289,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'La chaise cheval '
-  image: "/forestry/galerie-gaia-laure-carre-la-chaise-cheval-43x34.jpg"
-  technique: 'Huile sur papier et technique mixte '
-  dimensions:
-    height: 43
-    width: 34
-    depth: 0
-  description: |-
-    2020
-
-    Encadrement chêne 30€
-  price: 300
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Le pied
   image: "/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
   technique: Huile et technique mixte sur toile
