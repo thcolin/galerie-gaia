@@ -2,9 +2,9 @@
 template: home
 carousel:
 - image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
-- image: "/forestry/visuelexpo_fragments-paysages_2.jpg"
-- image: "/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg"
-- image: "/forestry/galerie-gaia-tangui-robert-insta.jpg"
+- image: "/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
+- image: "/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg"
+- image: "/forestry/2020120704-petitcrade-90x70cm.jpg"
 redirect_from:
 - "/plan/"
 seo:
