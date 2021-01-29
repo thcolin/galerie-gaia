@@ -125,18 +125,6 @@ works:
   description: "2020"
   price: 0
   contextual: true
-- title: 'Dab color and drawing '
-  image: "/forestry/2017092501-dabcolorsanddrawing-150x95cm.jpg"
-  technique: Technique mixte sur papier marouflé sur toile en lin châssis à clefs
-  fields: []
-  styles: []
-  dimensions:
-    height: 150
-    width: 95
-    depth: 0
-  description: Réservé
-  price: ''
-  contextual: true
 - title: Simple color
   image: "/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
   technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
@@ -161,18 +149,6 @@ works:
   description: "2017"
   price: 0
   contextual: false
-- title: Simple White trash
-  image: "/forestry/2017051105-simplewhitetrash-150x111cm.jpg"
-  technique: Technique mixte sur papier marouflé sur toile en lin châssis à clé
-  fields: []
-  styles: []
-  dimensions:
-    height: 150
-    width: 111
-    depth: 0
-  description: "**Réservé**"
-  price: ''
-  contextual: true
 - title: 'Little wood trash '
   image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
@@ -322,18 +298,6 @@ works:
   description: prix sur demande
   price: ''
   sold: false
-  contextual: true
-- title: White wood and trash
-  image: "/forestry/galerie-gaia-toma-l-2016042101-whitewoodandtrashcolor-196x194cm-jl.jpg"
-  technique: Technqiue mixte sur bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 194
-    width: 196
-    depth: 0
-  description: Réservé
-  price: ''
   contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014
   image: "/forestry/galerie-gaia-toma-l-installation-nantes2.jpg"

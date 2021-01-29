@@ -76,21 +76,8 @@ works:
     height: 12
     width: 0
     depth: 0
-  description: 'Modèle de droite '
+  description: Modèle de droite disponible
   price: 200
-  contextual: false
-- title: Lièvre vert
-  image: "/forestry/galerie-gaia-marianne-abergel-lievre-vert-2020.jpg"
-  technique: Grès émaillé
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 15
-    width: 0
-    depth: 0
-  description: ''
-  price: 180
   contextual: false
 - title: Frontalité 1
   image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
