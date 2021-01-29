@@ -1,9 +1,11 @@
 ---
 template: home
 carousel:
+- image: "/forestry/friol-papiers-colles-1997-h75x108l.jpg"
+- image: "/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg"
 - image: "/forestry/galerie-gaia-jean-claude-breat-40x40x3-5.jpg"
 - image: "/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
-- image: "/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg"
+- image: "/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg"
 - image: "/forestry/2020120704-petitcrade-90x70cm.jpg"
 redirect_from:
 - "/plan/"
