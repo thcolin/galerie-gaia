@@ -730,5 +730,16 @@ articles:
     textures et anecdotes afin de générer superposition, couches, rythme, poésie et
     de permettre une unité dans la multiplicité.  \n**«Quand je fais du collage c’est
     un peu comme si j’écrivais de la poésie ».**"
+- template: article
+  date: '2021-01-29T10:28:33Z'
+  categories:
+  - Exposition
+  title: Peinture fraîche...Chantier en cours !
+  image: "/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
+  content: "Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !  \nCela
+    mérite bien quelques travaux pour être encore plus beau pour sa réouverture en
+    Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
+    le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
+    vite et suivez nos actualités sur Instagram galeriegaianantes"
 
 ---
