@@ -85,19 +85,6 @@ works:
   price: 320
   sold: false
   contextual: true
-- title: CPJ 003
-  image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-001.jpg"
-  technique: Collage sur toile de papier japon teinté acrylique
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 2012 encadrement bois naturel
-  price: 600
-  sold: false
-  contextual: true
 - title: CPJ 002
   image: "/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg"
   technique: 'Collages sur toile de papier japon teinté acrylique '
