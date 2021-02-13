@@ -489,6 +489,18 @@ works:
   description: ''
   price: 150
   contextual: true
+- title: Autoportrait Jean Paul Friol
+  image: "/forestry/portrait-friol-galerie-gaia-friol-pap-colle-164-105x75.jpg"
+  technique: collection privée
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Jean-Paul Friol autoportrait"
+  price: ''
+  contextual: true
 redirect_from:
 - "/artistes/101-jean-paul-friol/"
 styles:
