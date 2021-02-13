@@ -11,6 +11,24 @@ seo:
   image: ''
 articles:
 - template: article
+  date: '2021-03-05T23:00:00Z'
+  categories: []
+  title: En Février visitez des ateliers d'artistes
+  image: "/forestry/galerie-gaia-fevrier2020.jpg"
+  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
+    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
+    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...
+    \ \n  \n**Feuilletez le Catalogue** des artistes de la Galerie et contactez moi
+    \ \npour que **je vous organise une visite privée** pour vous et/ou des proches
+    dans la limite de 6 personnes. Les **enfants et adolescents** sont fortement bienvenus,
+    il y a des rendez-vous à ne pas manquer avec la jeunesse.  \n  \nCette escapade
+    artistique sera **un moment personnel et privilégié** pour échanger tranquillement
+    avec l'artiste dont l’œuvre vous intrigue et ainsi vivre des émotions singulières
+    qui resteront indélébiles.  \n  \nAteliers et artistes prêts à vous accueillir
+    :  \n  \nIsthme - Toma L - Olivier Frémont - Laure Carré - Elisabeth Wadecki -
+    Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
+    Paressant - Pierre Tual..."
+- template: article
   date: '2020-12-06T11:38:00Z'
   categories:
   - Exposition
@@ -741,23 +759,5 @@ articles:
     Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
     le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
     vite et suivez nos actualités sur Instagram galeriegaianantes"
-- template: article
-  date: '2021-03-05T23:00:00Z'
-  categories: []
-  title: En Février visitez des ateliers d'artistes
-  image: "/forestry/galerie-gaia-fevrier2020.jpg"
-  content: "Nous vous proposons durant ce mois de **Février et les vacances scolaires**
-    \ \nune **visite dans les ateliers des artistes de la Galerie Gaïa,**  \npour
-    vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...
-    \ \n  \n**Feuilletez le Catalogue** des artistes de la Galerie et contactez moi
-    \ \npour que **je vous organise une visite privée** pour vous et/ou des proches
-    dans la limite de 6 personnes. Les **enfants et adolescents** sont fortement bienvenus,
-    il y a des rendez-vous à ne pas manquer avec la jeunesse.  \n  \nCette escapade
-    artistique sera **un moment personnel et privilégié** pour échanger tranquillement
-    avec l'artiste dont l’œuvre vous intrigue et ainsi vivre des émotions singulières
-    qui resteront indélébiles.  \n  \nAteliers et artistes prêts à vous accueillir
-    :  \n  \nIsthme - Toma L - Olivier Frémont - Laure Carré - Elisabeth Wadecki -
-    Kazy Usclef - Franco Salas Borques - Sébastien Bouchard - Françoise Paressant
-    - Pierre Tual"
 
 ---
