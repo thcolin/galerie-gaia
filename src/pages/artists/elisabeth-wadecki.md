@@ -317,9 +317,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: |2-
-
-    [video Art et Chapelle Le Rai profond St Sigismond](https://www.elisabeth-wadecki.com/video "galerie gaia - elisabeth wadecki video art et chapelle")
+  description: "[video Art et Chapelle Le Rai profond St Sigismond](https://www.elisabeth-wadecki.com/video
+    \"galerie gaia - elisabeth wadecki video art et chapelle\")  \nPour comprendre
+    et voir le travail in situ, l'artiste accepte d'ouvrir son atelier sur rendez-vous.
+    Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
   price: ''
   contextual: true
 redirect_from:
