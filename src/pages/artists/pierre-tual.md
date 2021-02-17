@@ -49,7 +49,7 @@ works:
   description: 'Prix sur demande '
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Primitive N°1
   image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
   fields: []
@@ -151,9 +151,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "# Pierre Tual sculpteur \n\nPour comprendre et voir le travail in
     situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi pour
     organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
