@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gatsby develop",
     "start": "npm run develop",
-    "build": "gatsby build --prefix-paths",
+    "build": "gatsby build --prefix-paths && cp .gitattributes public/.gitattributes",
     "serve": "gatsby serve",
     "lint": "npx standardx --fix --verbose | npx snazzy",
     "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0"
