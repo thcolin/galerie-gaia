@@ -35,6 +35,21 @@ biography: "# Pierre Tual \n\n**\"Quand je plie une feuille de métal, l'espace 
   Atelier la Commanderie des Templiers et  Elancourt 78  \n1991 - Atelier la Forge
   des Aulnays 61  \n1991 - 2001 Enseignant au Quai, Ecole d’Art de Mulhouse"
 works:
+- title: Louxor
+  image: "/forestry/galerie-gaia-pierre-tual-louxor-128x134x88.jpg"
+  technique: Acier corten
+  fields:
+  - Sculpture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 128
+    width: 134
+    depth: 88
+  description: 'Prix sur demande '
+  price: 
+  sold: false
+  contextual: true
 - title: Primitive N°1
   image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
   fields: []
