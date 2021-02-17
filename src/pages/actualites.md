@@ -11,41 +11,6 @@ seo:
   image: ''
 articles:
 - template: article
-  date: '2021-03-05T23:00:00Z'
-  categories: []
-  title: En Février visitez des ateliers d'artistes
-  image: "/forestry/galerie-gaia-fevrier2020.jpg"
-  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
-    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
-    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...
-    \ \n  \n**Feuilletez le Catalogue** des artistes de la Galerie et contactez moi
-    \ \npour que **je vous organise une visite privée** pour vous et/ou des proches
-    dans la limite de 6 personnes. Les **enfants et adolescents** sont fortement bienvenus,
-    il y a des rendez-vous à ne pas manquer avec la jeunesse.  \n  \nCette escapade
-    artistique sera **un moment personnel et privilégié** pour échanger tranquillement
-    avec l'artiste dont l’œuvre vous intrigue et ainsi vivre des émotions singulières
-    qui resteront indélébiles.  \n  \nAteliers et artistes prêts à vous accueillir
-    :  \n  \nIsthme - Toma L - Olivier Frémont - Laure Carré - Elisabeth Wadecki -
-    Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
-    Paressant - Pierre Tual..."
-- template: article
-  date: '2020-12-06T11:38:00Z'
-  categories:
-  - Exposition
-  content: "# Tangui Robert\n\nIl y a tout juste 1 an, j'exprimais mon envie auprès
-    de [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/) de lui laisser
-    le champ libre pour installer son travail avec une seule contrainte : **NANTES.**
-    \ \n  \nLe terrain de jeu est immense, il restera comme **une réserve pour d'autres
-    chapitres.**  \n  \nC'est donc donc dans ce périmètre de 1km ...ou presque (chut!),
-    que Tangui a arpenté ses bords de Loire, au point de s'imaginer dans une exploration
-    du bout du monde.  \n  \nCes méandres s'emmêlent avec des émotions de drapés croqués
-    lors d'escapades au Musée d'Arts de Nantes, le jeu de miroir semble si évident
-    !  \nCroquis, dessins, gravures, formes et échantillons de nature...  \n  \nNous
-    sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
-    I de Chroniques** Nantaises."
-  image: "/forestry/visuelexpo_fragments-paysages_2.jpg"
-  title: FRAGMENTS   PAYSAGES    Tangui Robert
-- template: article
   categories:
   - Éxposition
   image: "/forestry/flyerrecto-galerie-gaia-molliere.jpg"
@@ -82,30 +47,6 @@ articles:
   image: "/forestry/20200827_001459.jpg"
   title: Exposition à Pornichet
   content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
-  date: ''
-- template: article
-  categories:
-  - Éxposition
-  title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
-  image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
-  content: |-
-    [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf "catalogue Toma L")
-
-    L' Exposition est reportée , on se la garde bien au chaud pour en profiter quand nous pourrons nous revoir tous ensemble.
-
-    Tomber par hasard sur le travail de Toma L est la plus belle des chutes!
-
-    Chuter c'est être arrêté de force, reprendre sa respiration par nécessité avant de se remettre sur pied et comprendre là où l'on s'est fait mal.
-    Après coup, nous découvrons que la peinture de Toma L est un croche pied facétieux du bonhomme qui malicieusement s'amuse de notre gamelle dans un tintamarre incroyable de couleurs.
-    Nous pourrions aussi perdre pied dans les fonds blancs de ses lithos maculées par ses contours de velours noirs ou ses flaques d'encre.
-    Mais dans chaque face à face avec une oeuvre de Toma L, il y a de toute façon une histoire à tiroir à dé-nicher.
-
-    Ça tombe bien...
-    "Il peint sur Nantes", première exposition à la Galerie Gaïa  pour Toma L, comme une pause à la maison, dans son pied à terre.
-
-    2015 - 2020  - 5ème saison  pour la Galerie Gaïa.
-
-    Votre fidélité sera infiniment précieuse
   date: ''
 - template: article
   categories:
@@ -715,22 +656,6 @@ articles:
     _Du 04/09/2015 au 05/17/2015_
   date: ''
 - template: article
-  date: '2020-11-02T16:05:35Z'
-  categories:
-  - Interview
-  title: Interview de Laure Carré
-  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
-    "Interview Laure Carré")'
-  image: "/forestry/galeriegaia-laurecarre-portrait-artiste.jpg"
-- template: article
-  date: '2020-11-02T16:10:55Z'
-  categories:
-  - Interview
-  title: Interview de Isthme
-  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
-    "Interview de Isabelle Thoams ")'
-  image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
-- template: article
   date: '2021-01-16T10:21:06Z'
   categories:
   - Exposition
@@ -753,6 +678,47 @@ articles:
     de permettre une unité dans la multiplicité.  \n**«Quand je fais du collage c’est
     un peu comme si j’écrivais de la poésie ».**"
 - template: article
+  categories:
+  - Éxposition
+  title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
+  image: "/forestry/il-peint-sur-nantes-toma-l.jpg"
+  content: |-
+    [Télécharger le Catalogue de l'exposition](https://galeriegaia.fr/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf "catalogue Toma L")
+
+    L' Exposition est reportée , on se la garde bien au chaud pour en profiter quand nous pourrons nous revoir tous ensemble.
+
+    Tomber par hasard sur le travail de Toma L est la plus belle des chutes!
+
+    Chuter c'est être arrêté de force, reprendre sa respiration par nécessité avant de se remettre sur pied et comprendre là où l'on s'est fait mal.
+    Après coup, nous découvrons que la peinture de Toma L est un croche pied facétieux du bonhomme qui malicieusement s'amuse de notre gamelle dans un tintamarre incroyable de couleurs.
+    Nous pourrions aussi perdre pied dans les fonds blancs de ses lithos maculées par ses contours de velours noirs ou ses flaques d'encre.
+    Mais dans chaque face à face avec une oeuvre de Toma L, il y a de toute façon une histoire à tiroir à dé-nicher.
+
+    Ça tombe bien...
+    "Il peint sur Nantes", première exposition à la Galerie Gaïa  pour Toma L, comme une pause à la maison, dans son pied à terre.
+
+    2015 - 2020  - 5ème saison  pour la Galerie Gaïa.
+
+    Votre fidélité sera infiniment précieuse
+  date: ''
+- template: article
+  date: '2020-12-06T11:38:00Z'
+  categories:
+  - Exposition
+  content: "# Tangui Robert\n\nIl y a tout juste 1 an, j'exprimais mon envie auprès
+    de [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/) de lui laisser
+    le champ libre pour installer son travail avec une seule contrainte : **NANTES.**
+    \ \n  \nLe terrain de jeu est immense, il restera comme **une réserve pour d'autres
+    chapitres.**  \n  \nC'est donc donc dans ce périmètre de 1km ...ou presque (chut!),
+    que Tangui a arpenté ses bords de Loire, au point de s'imaginer dans une exploration
+    du bout du monde.  \n  \nCes méandres s'emmêlent avec des émotions de drapés croqués
+    lors d'escapades au Musée d'Arts de Nantes, le jeu de miroir semble si évident
+    !  \nCroquis, dessins, gravures, formes et échantillons de nature...  \n  \nNous
+    sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
+    I de Chroniques** Nantaises."
+  image: "/forestry/visuelexpo_fragments-paysages_2.jpg"
+  title: FRAGMENTS   PAYSAGES    Tangui Robert
+- template: article
   date: '2021-01-29T10:28:33Z'
   categories:
   - Exposition
@@ -763,5 +729,40 @@ articles:
     Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
     le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
     vite et suivez nos actualités sur Instagram galeriegaianantes"
+- template: article
+  date: '2020-11-02T16:05:35Z'
+  categories:
+  - Interview
+  title: Interview de Laure Carré
+  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
+    "Interview Laure Carré")'
+  image: "/forestry/galeriegaia-laurecarre-portrait-artiste.jpg"
+- template: article
+  date: '2020-11-02T16:10:55Z'
+  categories:
+  - Interview
+  title: Interview de Isthme
+  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
+    "Interview de Isabelle Thoams ")'
+  image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
+- template: article
+  date: '2021-03-05T23:00:00Z'
+  categories: []
+  title: En Février visitez des ateliers d'artistes
+  image: "/forestry/galerie-gaia-fevrier2020.jpg"
+  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
+    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
+    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...\n\n**Feuilletez
+    le Catalogue** des artistes de la Galerie et contactez moi  \npour que **je vous
+    organise une visite privée** pour vous et/ou des proches dans la limite de 6 personnes.
+    Les **enfants et adolescents** sont fortement bienvenus, il y a des rendez-vous
+    à ne pas manquer avec la jeunesse.\n\nCette escapade artistique sera **un moment
+    personnel et privilégié** pour échanger tranquillement avec l'artiste dont l’œuvre
+    vous intrigue et ainsi vivre des émotions singulières qui resteront indélébiles.\n\nAteliers
+    et artistes prêts à vous accueillir :\n\n[Isthme ](https://galeriegaia.fr/artists/isthme/
+    \"isthme isabelle thomas\")- [Toma L](https://galeriegaia.fr/artists/toma-l/ \"thomas
+    l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
+    - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
+    Paressant - Pierre Tual..."
 
 ---
