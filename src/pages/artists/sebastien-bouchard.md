@@ -103,17 +103,6 @@ works:
   price: 2500
   sold: false
   contextual: true
-- title: Octopus IV
-  image: "/forestry/1437.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 200
-    width: 100
-    depth: 
-  description: 
-  price: 3000
-  sold: false
-  contextual: true
 styles:
 - Figuratif
 
