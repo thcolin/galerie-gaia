@@ -385,16 +385,20 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Un ami la nuit
-  image: "/forestry/galerie-gaia-laure-carre-un-ami-la-nuit-50x65.jpg"
-  technique: 'Huile sur toile '
+- title: 'Atelier '
+  image: "/forestry/galerie-gaia-laure-carre-atelier.jpg"
+  fields: []
+  styles: []
   dimensions:
-    height: 50
-    width: 65
+    height: 0
+    width: 0
     depth: 0
-  description: 2020 vendu
-  price: ''
-  contextual: true
+  description: |-
+    # Laure Carré atelier
+
+    Pour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
+  price: 0
+  contextual: false
 - title: 'Portrait '
   image: "/forestry/salle-dattente.jpg"
   technique: '"Salle d''attente" Huile sur toile'
