@@ -21,6 +21,19 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Atelier Franco Salas Borques
+  image: "/forestry/capture-d-ecran-2021-02-17-a-19-46-41.png"
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Pour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir
+    son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au
+    02-40-48-14-91 (max 6 personnes)
+  price: 0
+  contextual: true
 - title: La fraction
   image: "/forestry/galerie-gaia-salas-borques-friction-100x100.JPG"
   technique: 'Huile sur toile '
