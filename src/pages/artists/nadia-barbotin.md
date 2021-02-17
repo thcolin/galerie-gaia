@@ -52,19 +52,6 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: Traces
-  image: "/forestry/galerie-gaia-barbotin-nadia-traces-116x89.jpeg"
-  technique: Huile sur toile
-  dimensions:
-    height: 116
-    width: 89
-    depth: 
-  description: "2020"
-  price: 3200
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: Freedom
   image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
   technique: 'Huile sur toile et techniques mixtes '
