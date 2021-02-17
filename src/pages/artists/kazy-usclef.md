@@ -16,6 +16,8 @@ biography: |-
   Influencé par les classiques de la peinture, l'imagerie underground des années 80 à aujourd'hui ou plus largement par l'art populaire, il n'hésite pas à détourner de manière incisive certaines iconographies sacrées.
 
   Le travail de Kazy Usclef pourrait se définir par une recherche constante de rencontre, technique, humaine, culturelle où le frottement alimente de manière constante sa recherche artistique. C'est par cette recherche qu'il alimente une variété de langage dans un souci d' accessibilité par le plus grand nombre. Ses productions sont les plus fréquemment nourries de voyages et référencées à la rue, source d'inspiration infinie considérée comme une galerie à ciel ouvert et un parfait terrain d'expérimentation.
+
+  Pour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
 exhibitions:
 - title: http://asieriderz.com/?p=940
   location: ASIE RIDERZ Voyage à Nantes 2015

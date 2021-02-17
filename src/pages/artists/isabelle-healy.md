@@ -137,7 +137,7 @@ works:
     width: 37
     depth: 
   description: '2020 fonderie d''art Barthélémy '
-  price: 5700
+  price: 6600
   contextual: false
   sold: false
 - title: Les âmes sœurs

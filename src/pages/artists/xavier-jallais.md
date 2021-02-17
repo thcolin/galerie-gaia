@@ -25,7 +25,9 @@ biography: "# Xavier Jallais\n\nNé en 1971, Xavier Jallais vit et travaille à 
   moi, Galerie Emmanuelle Rousse à l’abbaye de Saint-Savin (86)  \n2012 : Automorphies,
   Galerie Emmanuelle Rousse, Saint-Savin (86)\nDessine-moi demain, château de Saint-Auvent
   (87)\nL’arrivage, Troyes (10)\nPuls’art, Le Mans (72)\nLe cri, biennale d’art sacré,
-  Poitiers (86)"
+  Poitiers (86)\n\nPour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir
+  son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91
+  (max 6 personnes)"
 exhibitions: []
 works:
 - title: Automorphie Structure tridimensionnelle 1
