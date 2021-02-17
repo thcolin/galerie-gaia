@@ -31,6 +31,21 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Atelier Françoise Paressant
+  image: "/forestry/galerie-gaia-francoise-paressant-pierre-tual.jpg"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Françoise Paressant atelier \n\nPour comprendre et voir le travail
+    in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi
+    pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
+  price: 
+  sold: false
+  contextual: false
 - title: Plage de la mine d'Or
   image: "/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg"
   technique: Feutre blanc teinté acrylique

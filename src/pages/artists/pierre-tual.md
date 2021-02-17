@@ -146,7 +146,7 @@ works:
   sold: false
   contextual: false
 - title: Atelier Pierre Tual
-  image: "/forestry/galerie-gaia-pierre-tual-atelier-dessin.jpg"
+  image: "/forestry/galerie-gaia-pierre-tual-atelier.jpg"
   technique: ''
   fields: []
   styles: []
