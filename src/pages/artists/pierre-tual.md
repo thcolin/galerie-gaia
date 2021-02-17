@@ -145,6 +145,21 @@ works:
   price: 2500
   sold: false
   contextual: false
+- title: Atelier Pierre Tual
+  image: "/forestry/galerie-gaia-pierre-tual-atelier-dessin.jpg"
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Pierre Tual sculpteur \n\nPour comprendre et voir le travail in
+    situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi pour
+    organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
+  price: 
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
