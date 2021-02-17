@@ -110,7 +110,7 @@ works:
     height: 95
     width: 75
     depth: 0
-  description: "2020"
+  description: 2020 Réservé
   price: 0
   contextual: true
 - title: Petit crade
@@ -122,8 +122,8 @@ works:
     height: 62
     width: 82
     depth: 0
-  description: "2020"
-  price: 0
+  description: 2020 Réservé
+  price: ''
   contextual: true
 - title: Simple color
   image: "/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
