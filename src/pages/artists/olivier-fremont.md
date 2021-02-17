@@ -23,6 +23,8 @@ biography: |-
   Noël Coret
 
   Ecrivain d’Art. Président d’honneur du Salon d’Automne.
+
+  Pour comprendre et voir le travail in situ, l’artiste accepte d’**ouvrir** **son** **atelier** sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
 exhibitions: []
 works:
 - title: 'Sans titre '
@@ -66,16 +68,6 @@ works:
   price: 9000
   sold: false
   contextual: true
-- title: Mural 11
-  image: "/forestry/mural 11 compressions 500x200 15000 € .jpg"
-  technique: 'Compressions '
-  dimensions:
-    height: 0
-    width: 0
-  description: 'Installation de 11 pièces  selon le plan d''accrochage le gabarit
-    total est de 2m hauteur x 5m largeur 15 000€ '
-  price: ''
-  contextual: false
 - title: Compression oxydée
   image: "/forestry/compression oxydée 68x115x20 6500 €.jpg"
   technique: Acier
@@ -107,17 +99,16 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Don Cristo
-  image: "/forestry/don-cristo.jpg"
-  technique: Acier pièce unique
+- title: Mural 11
+  image: "/forestry/mural 11 compressions 500x200 15000 € .jpg"
+  technique: 'Compressions '
   dimensions:
-    height: 52
-    width: 13
-    depth: 6
-  description: ''
-  price: 650
-  sold: false
-  contextual: true
+    height: 0
+    width: 0
+  description: 'Installation de 11 pièces  selon le plan d''accrochage le gabarit
+    total est de 2m hauteur x 5m largeur 15 000€ '
+  price: ''
+  contextual: false
 redirect_from:
 - "/artistes/13-olivier-fremont/"
 styles:
