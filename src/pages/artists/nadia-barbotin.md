@@ -192,7 +192,8 @@ works:
     height: 
     width: 
     depth: 
-  description: "# Nadia Barbotin"
+  description: "# Nadia Barbotin\n\nL'atelier de cette artiste peut-être ouvert sur
+    rendez-vous,  \n contactez-moi pour l'organiser 02-40-48-14-91"
   price: 
   sold: false
   contextual: false
