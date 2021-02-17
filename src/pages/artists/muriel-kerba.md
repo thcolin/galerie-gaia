@@ -39,6 +39,19 @@ biography: "# Muriel Kerba\n\nAborder le travail de Muriel Kerba relève de la s
   - Lyon\n\n_2018_ Galerie Isabelle Laverny - Paris\n\n_2017_ Carré des créateurs
   - Colombes\n\n_2017_-2016 Journée de l’estampe contemporaine Saint Sulpice - Paris"
 works:
+- title: Noyau jaune sur fond jean
+  image: "/forestry/galerie-gaia-muriel-kerba_noyau-jaune-fond-jean_70x50.jpg"
+  technique: monotype en sérigraphie sur papier Fabriano 285g
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: pièce unique
+  price: 700
+  sold: false
+  contextual: true
 - title: Winter is coming
   image: "/forestry/galerie-gaia-muriel-kerba_winter-is-coming_70x50.jpg"
   technique: monotype en sérigraphie sur papier Fabriano 285g
@@ -48,7 +61,7 @@ works:
     height: 70
     width: 50
     depth: 
-  description: 'pièce unique '
+  description: Réservé
   price: 700
   sold: false
   contextual: true
@@ -62,19 +75,6 @@ works:
     width: 50
     depth: 
   description: 'pièce unique '
-  price: 700
-  sold: false
-  contextual: true
-- title: Noyau jaune sur fond jean
-  image: "/forestry/galerie-gaia-muriel-kerba_noyau-jaune-fond-jean_70x50.jpg"
-  technique: monotype en sérigraphie sur papier Fabriano 285g
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: pièce unique
   price: 700
   sold: false
   contextual: true
