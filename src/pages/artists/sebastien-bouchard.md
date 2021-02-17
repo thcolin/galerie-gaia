@@ -10,7 +10,7 @@ expose: true
 biography: "# Sébastien Bouchard\n\nMusicien, amateur de culture Surf, Skate et rock
   alternatif, Sébastien Bouchard commence ses études aux Beaux Arts de Nantes, où
   il délaisse très tôt le formalisme du discours conceptuel pour la pratique du graphisme
-  et la découverte des nouveaux outils numériques.   \nDès 94, aux balbutiements d'internet
+  et la découverte des nouveaux outils numériques.  \nDès 94, aux balbutiements d'internet
   en France, dans l'atelier numérique de l'école, de manière autonome, Sébastien Bouchard
   se forme et crée ses premiers flyers, stickers, affiches, tee-shirts pour des groupes
   et festivals de musique de la région. Ponctuant son cursus par des séjours au Sénégal,
@@ -29,11 +29,13 @@ biography: "# Sébastien Bouchard\n\nMusicien, amateur de culture Surf, Skate et
   natale en 2010,Sébastien Bouchard poursuit ses expositions et collaborations avec
   artistes et galeries de l'ouest africain, participe de 2014 à 2016 à la fondation
   de Prisme, un atelier-galerie collectif nantais et transpose depuis ces dernières
-  années ses travaux dans la rue (collageset peinture sur murs).   \nSébastien Bouchard
+  années ses travaux dans la rue (collageset peinture sur murs).  \nSébastien Bouchard
   à travers les diverses références picturales et la multiplicité des médiums qu’il
   utilise, essaie à sa manière de dépasser le clivage entre art populaire et art savant.
   son travail fait référence à la peinture mais aussi aux arts graphiques, à la culture
-  pop, l'art urbain."
+  pop, l'art urbain.\n\nPour comprendre et voir le travail in situ, l’artiste accepte
+  d’ouvrir son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée
+  au 02-40-48-14-91 (max 6 personnes)"
 exhibitions: []
 works:
 - title: Icare V
