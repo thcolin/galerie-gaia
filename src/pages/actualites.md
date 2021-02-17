@@ -747,7 +747,8 @@ articles:
   image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
 - template: article
   date: '2021-03-05T23:00:00Z'
-  categories: []
+  categories:
+  - Exposition
   title: En Février visitez des ateliers d'artistes
   image: "/forestry/galerie-gaia-fevrier2020.jpg"
   content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
