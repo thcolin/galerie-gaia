@@ -730,22 +730,6 @@ articles:
     le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
     vite et suivez nos actualités sur Instagram galeriegaianantes"
 - template: article
-  date: '2020-11-02T16:05:35Z'
-  categories:
-  - Interview
-  title: Interview de Laure Carré
-  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
-    "Interview Laure Carré")'
-  image: "/forestry/galeriegaia-laurecarre-portrait-artiste.jpg"
-- template: article
-  date: '2020-11-02T16:10:55Z'
-  categories:
-  - Interview
-  title: Interview de Isthme
-  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
-    "Interview de Isabelle Thoams ")'
-  image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
-- template: article
   date: '2021-03-05T23:00:00Z'
   categories:
   - Exposition
@@ -765,5 +749,21 @@ articles:
     l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
     - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
     Paressant - Pierre Tual..."
+- template: article
+  date: '2020-11-02T16:05:35Z'
+  categories:
+  - Interview
+  title: Interview de Laure Carré
+  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
+    "Interview Laure Carré")'
+  image: "/forestry/galeriegaia-laurecarre-portrait-artiste.jpg"
+- template: article
+  date: '2020-11-02T16:10:55Z'
+  categories:
+  - Interview
+  title: Interview de Isthme
+  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
+    "Interview de Isabelle Thoams ")'
+  image: "/forestry/atelier_isthme_19_12_hd_05.jpg"
 
 ---
