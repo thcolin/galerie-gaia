@@ -1,10 +1,9 @@
 ---
 template: home
 carousel:
+- image: "/forestry/galerie-gaia-fevrier2020-1.jpg"
 - image: "/forestry/galerie-gaia-laure-carre-atelier-1.jpg"
 - image: "/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
-- image: "/forestry/galerie-gaia-fevrier2020-1.jpg"
-- image: "/forestry/2020120704-petitcrade-90x70cm.jpg"
 redirect_from:
 - "/plan/"
 seo:
