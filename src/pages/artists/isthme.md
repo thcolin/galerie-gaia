@@ -150,15 +150,6 @@ works:
   description: ''
   price: 750
   contextual: true
-- title: " Allongée dans l'herbe #14"
-  image: "/forestry/galeriegaia-Isthme-Canopée Allongée dans l'herbe 14-195cmx114cm.JPG"
-  dimensions:
-    height: 195
-    width: 114
-  description: "2020"
-  price: 3500
-  contextual: true
-  technique: 'Acrylique sur toile '
 - title: Britany
   image: "/forestry/galeriegaia_isthme_britany_76x59.jpg"
   technique: Collage sur papier Arche
@@ -239,15 +230,6 @@ works:
   description: "2020"
   price: 3200
   contextual: true
-- title: 'Deep blue #4'
-  image: "/forestry/galeriegaia-isthme-Deep Blue 4- 61cmx50cm_2020.JPG"
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 61
-    width: 50
-  description: "2020"
-  price: 1000
-  contextual: true
 - title: 'Cou-Rage #1'
   image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   technique: Collage
@@ -315,17 +297,6 @@ works:
     se compose de 6 panneaux de 170cm de hauteur et 25 cm de largeur espacée de 6
     cm installés selon le protocole de l'artiste."
   price: 5500
-  sold: false
-  contextual: true
-- title: 'Nuit en mer #34'
-  image: "/forestry/nuit-en-mer-34.jpg"
-  technique: Acrylique sur toile
-  dimensions:
-    height: 146
-    width: 114
-    depth: 
-  description: '2019  '
-  price: 3200
   sold: false
   contextual: true
 - title: Nuit en mer III
