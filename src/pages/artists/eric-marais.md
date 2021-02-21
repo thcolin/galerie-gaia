@@ -44,7 +44,7 @@ biography: >-
 exhibitions: []
 works:
   - title: Le concert dans l'oeuf de Jérôme Bosch
-    image: /forestry/le-concert-dans-loeuf-de-jerome-bosch.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-concert-dans-loeuf-de-jerome-bosch.jpg
     technique: ''
     dimensions:
       height: null
@@ -55,7 +55,7 @@ works:
     sold: false
     contextual: true
   - title: L'oeuf
-    image: /forestry/loeuf.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/loeuf.jpg
     technique: sténopé
     dimensions:
       height: null
@@ -66,7 +66,7 @@ works:
     sold: false
     contextual: true
   - title: extrait de l 'oeuf
-    image: /forestry/extrait-de-l-oeuf.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/extrait-de-l-oeuf.jpg
     technique: ''
     dimensions:
       height: null

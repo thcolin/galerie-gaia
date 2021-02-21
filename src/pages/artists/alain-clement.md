@@ -44,7 +44,7 @@ biography: "# Alain Clément \n\nAlain Clément est né à Neuilly-sur-Seine en 
 exhibitions: []
 works:
 - title: 06MA3G
-  image: "/forestry/galeriegaia_clement_06ma3g_66x50-5-01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_clement_06ma3g_66x50-5-01.jpg"
   technique: Aquatinte 14/19
   fields: []
   styles: []
@@ -56,7 +56,7 @@ works:
   price: 550
   contextual: true
 - title: '06MA6G '
-  image: "/forestry/06ma6g-419.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/06ma6g-419.jpg"
   technique: Aquatinte 4/19
   dimensions:
     height: 66
@@ -67,7 +67,7 @@ works:
   sold: false
   contextual: true
 - title: 20J1G
-  image: "/forestry/galerie-gaia-alain-clement_sans-titre-3_2020_aquatinte_39-8-x-28-5-cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-alain-clement_sans-titre-3_2020_aquatinte_39-8-x-28-5-cm.jpg"
   technique: Aquatinte 3/19
   dimensions:
     height: 40
@@ -78,7 +78,7 @@ works:
   sold: false
   contextual: true
 - title: 20J3G
-  image: "/forestry/galerie-gaia-alain-clement_sans-titre-1_2020_aquatinte_90-x-67-cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-alain-clement_sans-titre-1_2020_aquatinte_90-x-67-cm.jpg"
   technique: Aquatinte 3/19
   dimensions:
     height: 90
@@ -89,7 +89,7 @@ works:
   sold: false
   contextual: true
 - title: 20J2G
-  image: "/forestry/galerie-gaia-alain-clement_sans-titre-2_2020_aquatinte_50-x-66_5-cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-alain-clement_sans-titre-2_2020_aquatinte_50-x-66_5-cm.jpg"
   technique: Aquatinte 3/19
   dimensions:
     height: 50

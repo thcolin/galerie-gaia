@@ -30,7 +30,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Théâtre de Bel Air
-  image: "/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
   technique: Photographie sur papier baryté collé dibond
   dimensions:
     height: 30
@@ -48,7 +48,7 @@ works:
   fields: []
   styles: []
 - title: Snow storm
-  image: "/forestry/dimitribourriau_snowstorm_2019.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg"
   technique: Photographie Tirage papier contrecollé dibond
   dimensions:
     height: 150
@@ -63,7 +63,7 @@ works:
   fields: []
   styles: []
 - title: Bank
-  image: "/forestry/dimitribourriau_bank_2017.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg"
   technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
   dimensions:
     height: 120
@@ -77,7 +77,7 @@ works:
   fields: []
   styles: []
 - title: Atlantis Teatro
-  image: "/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
   technique: Tirage Argentique, contrecollé sur Dibon
   dimensions:
     height: 100
@@ -107,7 +107,7 @@ works:
   fields: []
   styles: []
 - title: Greenhouse 3
-  image: "/forestry/greenhouse-3.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -121,7 +121,7 @@ works:
   fields: []
   styles: []
 - title: Buzludzha - Bulgarie
-  image: "/forestry/buzludzha-bulgarie.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -136,7 +136,7 @@ works:
   fields: []
   styles: []
 - title: Dictator
-  image: "/forestry/dictator.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dictator.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -150,7 +150,7 @@ works:
   fields: []
   styles: []
 - title: Buzludzha - Bulgarie interieur
-  image: "/forestry/buzludzha-bulgarie-interieur.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie-interieur.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -164,7 +164,7 @@ works:
   fields: []
   styles: []
 - title: Jumanji Theater
-  image: "/forestry/jumanji-theater.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -178,7 +178,7 @@ works:
   fields: []
   styles: []
 - title: Soviet Spa
-  image: "/forestry/soviet-spa.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-spa.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 120
@@ -192,7 +192,7 @@ works:
   fields: []
   styles: []
 - title: Blue Sanatorium
-  image: "/forestry/blue-sanatorium.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-sanatorium.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -206,7 +206,7 @@ works:
   fields: []
   styles: []
 - title: Soviet Sanotorium
-  image: "/forestry/soviet-sanotorium.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-sanotorium.jpg"
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 120
@@ -220,7 +220,7 @@ works:
   fields: []
   styles: []
 - title: 'Portrait '
-  image: "/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
   technique: ''
   dimensions:
     height: 

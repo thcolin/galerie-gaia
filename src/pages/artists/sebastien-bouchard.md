@@ -39,7 +39,7 @@ biography: "# Sébastien Bouchard\n\nMusicien, amateur de culture Surf, Skate et
 exhibitions: []
 works:
 - title: Icare V
-  image: "/forestry/1439.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1439.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 120
@@ -50,7 +50,7 @@ works:
   sold: false
   contextual: true
 - title: Fly Away
-  image: "/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg"
   technique: 'Mixte sur toile '
   dimensions:
     height: 60
@@ -60,7 +60,7 @@ works:
   price: 1400
   contextual: true
 - title: Icare IV
-  image: "/forestry/1438.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1438.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 120
@@ -71,7 +71,7 @@ works:
   sold: false
   contextual: true
 - title: Oxygen
-  image: "/forestry/1440.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1440.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 146
@@ -82,7 +82,7 @@ works:
   sold: false
   contextual: true
 - title: Inner Vision
-  image: "/forestry/1435.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1435.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 60
@@ -93,7 +93,7 @@ works:
   sold: false
   contextual: true
 - title: Icare II
-  image: "/forestry/1436.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1436.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 150

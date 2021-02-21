@@ -76,7 +76,7 @@ exhibitions:
     end: 0
 works:
   - title: Entre ciel et fonds II
-    image: /forestry/entre-ciel-et-fonds-ii.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/entre-ciel-et-fonds-ii.jpg
     technique: Sculpture pâte de verre
     dimensions:
       height: null
@@ -87,7 +87,7 @@ works:
     sold: false
     contextual: true
   - title: Le Reflet n'est jamais Solitaire  VI   3/8
-    image: /forestry/le-reflet-nest-jamais-solitaire-vi-38.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-reflet-nest-jamais-solitaire-vi-38.jpg
     technique: pâte de verre  et fusain
     dimensions:
       height: null

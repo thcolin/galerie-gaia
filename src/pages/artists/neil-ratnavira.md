@@ -28,7 +28,7 @@ biography: "# Neil Ratnavira de Alwis \n\nArtiste photographe et peintre express
 exhibitions: []
 works:
 - title: Wake up
-  image: "/forestry/galerie-gaia-neil-ratnavira-wake-up.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-neil-ratnavira-wake-up.jpg"
   technique: Photographie tirage papier 4/10
   fields: []
   styles: []
@@ -40,7 +40,7 @@ works:
   price: 300
   contextual: true
 - title: Calzedonia
-  image: "/forestry/galerie-gaia-neil-ratnavira-calzedonia.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-neil-ratnavira-calzedonia.jpg"
   technique: Photographie tirage papier 2/10
   fields: []
   styles: []
@@ -52,7 +52,7 @@ works:
   price: 300
   contextual: true
 - title: Installation dans la galerie Gaïa
-  image: "/forestry/galeriegaia-Acrylic-wall.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Acrylic-wall.jpg"
   technique: 'Acrylique sur toile '
   description: ''
   price: 0
@@ -60,7 +60,7 @@ works:
   fields:
   - peinture
 - title: Mojito
-  image: "/forestry/mojito.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mojito.jpg"
   technique: photographie tirage papier 1/10
   dimensions:
     height: 60
@@ -71,7 +71,7 @@ works:
   sold: false
   contextual: true
 - title: Mad Men - Le Crillon
-  image: "/forestry/mad-men-le-crillon.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mad-men-le-crillon.jpg"
   technique: digigraphie /10 exemplaires
   dimensions:
     height: 40
@@ -82,7 +82,7 @@ works:
   sold: false
   contextual: true
 - title: Tate
-  image: "/forestry/tate.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tate.jpg"
   technique: Digigraphie /10 exemplaires
   dimensions:
     height: 40
@@ -93,7 +93,7 @@ works:
   sold: false
   contextual: true
 - title: Sens interdit
-  image: "/forestry/sens-interdit.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sens-interdit.jpg"
   technique: Digigraphie /10 exemplaires
   dimensions:
     height: 40
@@ -104,7 +104,7 @@ works:
   sold: false
   contextual: true
 - title: Rainbow glass
-  image: "/forestry/rainbow-glass.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rainbow-glass.jpg"
   technique: Photographie
   dimensions:
     height: 40
@@ -115,7 +115,7 @@ works:
   sold: false
   contextual: true
 - title: La Tour Anne de Bretagne
-  image: "/forestry/la-tour-anne-de-bretagne.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-tour-anne-de-bretagne.jpg"
   technique: Photographie sur papier
   dimensions:
     height: 80
@@ -126,7 +126,7 @@ works:
   sold: false
   contextual: true
 - title: A star is born - Los Angeles
-  image: "/forestry/a-star-is-born-los-angeles.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/a-star-is-born-los-angeles.jpg"
   technique: digigraphie
   dimensions:
     height: 60
@@ -137,7 +137,7 @@ works:
   sold: false
   contextual: false
 - title: Caption this - Amsterdam
-  image: "/forestry/caption-this-amsterdam.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/caption-this-amsterdam.jpg"
   technique: digigraphie
   dimensions:
     height: 40
@@ -148,7 +148,7 @@ works:
   sold: false
   contextual: true
 - title: Abstract ink 2
-  image: "/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-small-ink4-paper-neil-ratnavira-manoirart.jpg"
   technique: 'Encre sur papier '
   dimensions:
     height: 65
@@ -161,7 +161,7 @@ works:
   styles:
   - Abstrait
 - title: Large abstract black @ white 2
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-large-abstract-acrylic-painting-blue-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 116
@@ -174,7 +174,7 @@ works:
   styles:
   - Abstrait
 - title: Large abstract black & white 1
-  image: "/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-large-abstract-acrylic-painting-blackwhite-neil-ratnavira-manoirart.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 90
@@ -187,7 +187,7 @@ works:
   styles:
   - Abstrait
 - title: Encre sans titre bleue
-  image: "/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_ratnavira_titre_format-hxl-06.jpg"
   technique: 'encre sur papier '
   fields:
   - Oeuvre sur papier
@@ -201,7 +201,7 @@ works:
   price: 600
   contextual: true
 - title: Neil Ratnavira
-  image: "/forestry/neil-ratnavira.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/neil-ratnavira.jpg"
   technique: ''
   dimensions:
     height: 

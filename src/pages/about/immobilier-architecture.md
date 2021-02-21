@@ -15,7 +15,7 @@ content:
     êtes un promoteur référencé auprès du Ministère de la Culture dans le cadre du
     programme **\"1 immeuble 1 œuvre \"**.\n* Vous souhaitez intégrer un projet d'artiste
     dans les jardins, les halls d'entrée ou toutes autres parties communes pour valoriser
-    le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.\n\n![](/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n##
+    le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n##
     3. Fresque Murale street-art\n\n**Osez la fresque** comme une déclaration d'identité
     d'un lieu intérieur et extérieur. Le groupe Versant avec lequel je travaille sait
     intégrer identité et architecture d'un lieu. Fresques réalisées sur Nantes et
@@ -29,12 +29,12 @@ content:
 - contact:
     placeholder: Un message à nous adresser ?
   column: "![café le Molière Christophe Vinet architecte décorateur d'intérieur nantes
-    loire atlantique](/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
+    loire atlantique](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
     \"Brasserie le Moliere Nantes \")\n\nBrasserie Café Le Molière à Nantes - Réalisation
-    Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()\n\n![](/forestry/masque.jpg)\n\nInstallation
+    Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg)\n\nInstallation
     “Le masque” de [Kazy Usclef](https://galeriegaia.fr/artists/kazy-usclef/ \"1%
     artistique\") hall d’un immeuble de La Nantaise d'Habitation en 2021 (Hauteur
-    3m x Largeur 2,5m)\n\n![](/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nInstallation
+    3m x Largeur 2,5m)\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nInstallation
     Murale par [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/ \"1
     immeuble 1 oeuvre\") "
 seo:
@@ -43,6 +43,6 @@ seo:
   type: website
   description: Promotion immobilière, 1% charte un immeuble une œuvre, décoration
     d'intérieur, architecture, location d'œuvres d'art, fresques murales, street art...
-  image: "/forestry/galeriegaia-magazinecoté ouest-labaule pornichet.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-magazinecoté ouest-labaule pornichet.jpg"
 
 ---

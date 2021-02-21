@@ -37,7 +37,7 @@ biography: "# Georges Rousse \n\nL'artiste né en 1947 à Paris est reconnu inte
 exhibitions: []
 works:
 - title: Esch sur Alzette
-  image: "/forestry/galerie-gaia-georges-rousse_esch-sur-alzette_2009-2019_galerie-catherine-putman.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_esch-sur-alzette_2009-2019_galerie-catherine-putman.jpeg"
   technique: Photographie épreuve pigmentaire
   fields: []
   styles: []
@@ -49,7 +49,7 @@ works:
   price: 3200
   contextual: true
 - title: Château des Alpilles St Rémy de Provence
-  image: "/forestry/galerie-gaia-georges-rousse_chateau-des-alpilles-saint-remy-_2010-2019_galerie-catherine-putman-1.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_chateau-des-alpilles-saint-remy-_2010-2019_galerie-catherine-putman-1.jpeg"
   technique: Photographie tirage pigmentaire
   dimensions:
     height: 92
@@ -60,7 +60,7 @@ works:
   sold: false
   contextual: true
 - title: Bourgoin Jallieu
-  image: "/forestry/galerie-gaia-georges-rousse_bourgoin-jallieu_2011-2019_galerie-catherine-putman-_1a.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_bourgoin-jallieu_2011-2019_galerie-catherine-putman-_1a.jpeg"
   technique: 'Photographie épreuve pigmentaire '
   fields: []
   styles: []
@@ -72,7 +72,7 @@ works:
   price: 3200
   contextual: true
 - title: Heidelberg
-  image: "/forestry/heidelberg.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/heidelberg.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 112
@@ -83,7 +83,7 @@ works:
   sold: false
   contextual: true
 - title: Luxembourg
-  image: "/forestry/luxembourg.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/luxembourg.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 112
@@ -94,7 +94,7 @@ works:
   sold: false
   contextual: true
 - title: Vevey
-  image: "/forestry/vevey.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vevey.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 112
@@ -105,7 +105,7 @@ works:
   sold: false
   contextual: true
 - title: Bordeaux
-  image: "/forestry/bordeaux.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bordeaux.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 92
@@ -116,7 +116,7 @@ works:
   sold: false
   contextual: true
 - title: Mumbai
-  image: "/forestry/mumbai.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mumbai.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 92
@@ -127,12 +127,12 @@ works:
   sold: false
   contextual: true
 - title: Séoul
-  image: "/forestry/seoul.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/seoul.jpg"
   dimensions:
     height: 112
     width: 92
 - title: Genève
-  image: "/forestry/geneve.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/geneve.jpg"
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 92
@@ -143,7 +143,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition Georges Rousse Galerie Gaïa
-  image: "/forestry/gaia_03.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_03.jpg"
   technique: ''
   fields: []
   styles: []

@@ -47,7 +47,7 @@ biography: "> # Marie Bathellier \n>\n> Marie Veyron Bathellier débute son parc
   a free, spontaneous and sensual artistic work."
 works:
 - title: 'EN LIBERTE Installation en triptyque '
-  image: "/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
   technique: peinture
   dimensions:
     height: 70
@@ -60,7 +60,7 @@ works:
   fields: []
   styles: []
 - title: EN LIBERTE panneau 1
-  image: "/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
@@ -78,7 +78,7 @@ works:
   fields: []
   styles: []
 - title: EN LIBERTE panneau 2
-  image: "/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
@@ -96,7 +96,7 @@ works:
   fields: []
   styles: []
 - title: EN LIBERTE panneau 3
-  image: "/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
@@ -114,7 +114,7 @@ works:
   fields: []
   styles: []
 - title: Sans titre &5
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg"
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
   fields: []
   styles: []
@@ -127,7 +127,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &4
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
@@ -141,7 +141,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &3
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-3_15x17.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-3_15x17.jpg"
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
@@ -155,7 +155,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &2
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-2-17x18.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-2-17x18.jpg"
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
@@ -169,7 +169,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &1
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg"
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
   fields: []
   styles: []
@@ -182,7 +182,7 @@ works:
   sold: false
   contextual: true
 - title: Terre
-  image: "/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
   technique: pigments acryliques et argile sur bois
   dimensions:
     height: 60
@@ -202,7 +202,7 @@ works:
   styles:
   - Abstrait
 - title: Détail sculpture murale triangulaire
-  image: "/forestry/detail-sculpture-murale.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/detail-sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
   dimensions:
     height: 45
@@ -217,7 +217,7 @@ works:
   styles:
   - Abstrait
 - title: Sculpture murale triangles
-  image: "/forestry/sculpture-murale.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sculpture-murale.jpg"
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
   dimensions:
     height: 45
@@ -232,7 +232,7 @@ works:
   styles:
   - anstrait
 - title: 'Sculpture murale à rayures '
-  image: "/forestry/profil-sbleue.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/profil-sbleue.jpeg"
   technique: 'pigments acryliques et paillettes sur bois '
   dimensions:
     height: 35
@@ -250,7 +250,7 @@ works:
   styles:
   - Abstrait
 - title: Sculpture murale au carré rouge
-  image: "/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
   technique: pigments acryliques sur chêne brut
   dimensions:
     height: 30
@@ -268,7 +268,7 @@ works:
   styles:
   - Abstrait
 - title: Refuge
-  image: "/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
   dimensions:
     height: 48
@@ -286,7 +286,7 @@ works:
   styles:
   - Abstrait
 - title: Mer 1
-  image: "/forestry/mariebathellier-mer1-22x22-160.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer1-22x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
   dimensions:
     height: 22
@@ -306,7 +306,7 @@ works:
   styles:
   - Figuratif
 - title: Mer 2
-  image: "/forestry/mariebathellier-mer2-22-x22-160.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer2-22-x22-160.jpeg"
   technique: pigments acryliques sur papier photographique mat 310g
   dimensions:
     height: 22
@@ -326,7 +326,7 @@ works:
   styles:
   - Figuratif
 - title: Lit de camp peint
-  image: "/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg"
   technique: 'peinture acrylique sur toile '
   dimensions:
     height: 43
@@ -344,7 +344,7 @@ works:
   - Design
   styles: []
 - title: 'Portrait '
-  image: "/forestry/galerie-gaia-marie-bathelier-portrait.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-portrait.jpg"
   technique: ''
   dimensions:
     height: 

@@ -18,20 +18,20 @@ biography: |-
 exhibitions: []
 works:
 - title: Claude Francheteau
-  image: "/forestry/20170407_204552.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20170407_204552.jpg"
   description: "portrait sur commande, séance de prise de vue photo comprise  \npeinture
     acrylique, techniques mixtes sur verre organique\n\nA4 ( 29,7x21cm ) 450e\n\nA3
     ( 42x29,7cm ) 600e\n\nRaisin ( 50x65 cm) 900e"
   price: 0
   contextual: true
 - title: 'Mise en situation '
-  image: "/forestry/galeriegaia-portrait@francheteau.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-portrait@francheteau.jpg"
   technique: 'Acrylique sur toile '
   description: Claude Francheteau
   price: 0
   contextual: true
 - title: Buste par Françoise Boudier
-  image: "/forestry/galeriegaia-buste@florenceboudier.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-buste@florenceboudier.JPG"
   technique: 'Terre '
   dimensions:
     height: 
@@ -42,7 +42,7 @@ works:
   price: 0
   contextual: false
 - title: Portrait sur commande par Claude Francheteau
-  image: "/forestry/portrait-sur-commande.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-sur-commande.jpg"
   technique: Peinture acrylique sur toile de Claude Francheteau
   dimensions:
     height: 72
@@ -53,7 +53,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait par Nadja Holland
-  image: "/forestry/611.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/611.jpg"
   technique: ''
   dimensions:
     height: 
@@ -64,7 +64,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait par Nadja Holland
-  image: "/forestry/612.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/612.jpg"
   technique: 'Huile  sur toile '
   dimensions:
     height: 
@@ -75,7 +75,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait par Claude Francheteau
-  image: "/forestry/613.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/613.jpg"
   technique: ''
   dimensions:
     height: 
@@ -86,7 +86,7 @@ works:
   sold: false
   contextual: true
 - title: 'Portrait par Claude Francheteau '
-  image: "/forestry/614.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/614.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 
@@ -97,7 +97,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait par Claude Francheteau
-  image: "/forestry/615.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/615.jpg"
   technique: 'Acrylqiue sur toile '
   dimensions:
     height: 

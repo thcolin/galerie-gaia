@@ -50,7 +50,7 @@ biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après
 exhibitions: []
 works:
 - title: Confluence
-  image: "/forestry/galeriegaia_healy_confluence_73x58.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_healy_confluence_73x58.jpg"
   technique: Bronze
   dimensions:
     height: 73
@@ -63,7 +63,7 @@ works:
   sold: false
   contextual: false
 - title: Confluence détail
-  image: "/forestry/galerie-gaia-isabelle-healy-confluence.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-confluence.png"
   technique: Bronze en 8 exemplaires
   fields: []
   styles: []
@@ -75,7 +75,7 @@ works:
   price: 8400
   contextual: false
 - title: Mon héros
-  image: "/forestry/galerie-gaia-isabelle-healy-mon-heros.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png"
   technique: Bronze
   fields: []
   styles: []
@@ -87,7 +87,7 @@ works:
   price: 1950
   contextual: true
 - title: Les Albatros
-  image: "/forestry/les-albatros.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-albatros.jpg"
   technique: Bronze
   dimensions:
     height: 50
@@ -107,7 +107,7 @@ works:
   sold: false
   contextual: false
 - title: Le mythe de Sisyphe - détail
-  image: "/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png"
   technique: 'Bronze 8 exemplaires '
   dimensions:
     height: 0
@@ -118,7 +118,7 @@ works:
   sold: false
   contextual: false
 - title: Le mythe de Sisyphe
-  image: "/forestry/galerie-gaia-isabelle-healy-myhte-sisyphe.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-myhte-sisyphe.png"
   technique: Bronze
   fields: []
   styles: []
@@ -130,7 +130,7 @@ works:
   price: 4500
   contextual: false
 - title: Fondation
-  image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-1.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-1.JPG"
   technique: Bronze en 8 exemplaires + 4EA
   dimensions:
     height: 28
@@ -141,7 +141,7 @@ works:
   contextual: false
   sold: false
 - title: Les âmes sœurs
-  image: "/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg"
   technique: Bronze
   dimensions:
     height: 42
@@ -151,7 +151,7 @@ works:
   price: 3200
   contextual: false
 - title: Fondation
-  image: "/forestry/fondation.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg"
   technique: Bronze
   dimensions:
     height: 28
@@ -164,7 +164,7 @@ works:
   sold: false
   contextual: false
 - title: Anouck
-  image: "/forestry/anouck.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anouck.jpg"
   technique: Bronze
   dimensions:
     height: 11
@@ -175,7 +175,7 @@ works:
   sold: false
   contextual: false
 - title: Les vacances
-  image: "/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg"
   technique: Bronze 8 exemplaires
   dimensions:
     height: 16
@@ -186,7 +186,7 @@ works:
   sold: false
   contextual: false
 - title: La sphère des possibles
-  image: "/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg"
   technique: Bronze 4/8
   dimensions:
     height: 65
@@ -197,7 +197,7 @@ works:
   sold: false
   contextual: false
 - title: Notre héritage
-  image: "/forestry/galerie-gaia-isabelle-healy-notre-heritage-seul.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-notre-heritage-seul.png"
   technique: Bronze et patine or
   fields: []
   styles: []
@@ -209,7 +209,7 @@ works:
   price: 7600
   contextual: true
 - title: Notre Héritage en situation
-  image: "/forestry/notre-heritage.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/notre-heritage.jpg"
   technique: Bronze et feuille d'or
   dimensions:
     height: 97
@@ -222,7 +222,7 @@ works:
   sold: false
   contextual: false
 - title: 'Portrait '
-  image: "/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/latelier-a-la-croix-rousse-a-lyon.jpg"
   technique: ''
   dimensions:
     height: 

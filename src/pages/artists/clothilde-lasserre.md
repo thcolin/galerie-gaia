@@ -58,7 +58,7 @@ biography: >-
 exhibitions: []
 works:
   - title: Il court
-    image: /forestry/il-court.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/il-court.jpg
     technique: huile sur toile 2016
     dimensions:
       height: null
@@ -69,7 +69,7 @@ works:
     sold: false
     contextual: true
   - title: L 'éclair
-    image: /forestry/l-eclair.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/l-eclair.jpg
     technique: huile sur toile 2016
     dimensions:
       height: null
@@ -80,7 +80,7 @@ works:
     sold: false
     contextual: true
   - title: Le Secret
-    image: /forestry/le-secret.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-secret.jpg
     technique: Huile sur toile 2016
     dimensions:
       height: 100

@@ -27,7 +27,7 @@ exhibitions:
   start: Eté 2018
 works:
 - title: Poisson russe orange
-  image: "/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg"
   technique: 'Sérigraphie '
   fields: []
   styles: []
@@ -39,7 +39,7 @@ works:
   price: 80
   contextual: true
 - title: Corail bleu
-  image: "/forestry/corail-bleu.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/corail-bleu.jpg"
   technique: Sérigraphie  /50
   dimensions:
     height: 93
@@ -52,7 +52,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Fleure jaune
-  image: "/forestry/galeriegaia_leroux_sans_92x65-5.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_leroux_sans_92x65-5.jpg"
   technique: Sérigraphie
   fields: []
   styles: []
@@ -64,7 +64,7 @@ works:
   price: 80
   contextual: true
 - title: Poisson russe
-  image: "/forestry/ia.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ia.jpg"
   technique: Sérigraphie
   dimensions:
     height: 92
@@ -77,7 +77,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Homard cuit
-  image: "/forestry/679.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/679.jpg"
   technique: Sérigraphie
   dimensions:
     height: 93
@@ -90,7 +90,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: '3 poissons rouges '
-  image: "/forestry/862.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/862.jpg"
   technique: Sérigraphie
   dimensions:
     height: 93
@@ -103,7 +103,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Tête à queue orange
-  image: "/forestry/864.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/864.jpg"
   technique: Sérigraphie
   dimensions:
     height: 93
@@ -116,7 +116,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Tête à queue rouge
-  image: "/forestry/863.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/863.jpg"
   technique: Sérigraphie
   dimensions:
     height: 93
@@ -129,7 +129,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Feuille bleue
-  image: "/forestry/feuille-bleue.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/feuille-bleue.jpg"
   technique: Sérigraphie /50
   dimensions:
     height: 93
@@ -142,7 +142,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Végétal jaune
-  image: "/forestry/vegetal-jaune.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vegetal-jaune.jpg"
   technique: Sérigraphie /50
   dimensions:
     height: 93
@@ -155,7 +155,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Ban
-  image: "/forestry/865.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/865.jpg"
   technique: Sérigraphie
   dimensions:
     height: 93
@@ -168,7 +168,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Flacon noir
-  image: "/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg"
   technique: Céramique pièce unique signée
   fields:
   - Céramique
@@ -181,7 +181,7 @@ works:
   price: 850
   contextual: false
 - title: Flacons mis en situation
-  image: "/forestry/galerie-gaia-valerie-leroux-flacon-situation.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-flacon-situation.jpg"
   technique: Céramique pièce unique
   fields:
   - Céramique
@@ -194,7 +194,7 @@ works:
   price: 850
   contextual: false
 - title: Flacon bleu
-  image: "/forestry/galerie-gaia-valerie-leroux-flacon-bleu.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-flacon-bleu.jpg"
   technique: 'Céramique pièce unique signée '
   fields:
   - Céramique
@@ -207,7 +207,7 @@ works:
   price: 850
   contextual: false
 - title: Flacon
-  image: "/forestry/flacon.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flacon.jpg"
   technique: céramique pièce unique
   dimensions:
     height: 26
@@ -220,7 +220,7 @@ works:
   fields:
   - Céramique
 - title: Bouteille
-  image: "/forestry/bouteille.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouteille.jpg"
   technique: Céramique
   dimensions:
     height: 

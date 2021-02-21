@@ -29,7 +29,7 @@ exhibitions:
   end: 
 works:
 - title: Double
-  image: "/forestry/double.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double.jpg"
   technique: Huile sur toile et technique mixte
   dimensions:
     height: 94
@@ -40,7 +40,7 @@ works:
   sold: false
   contextual: true
 - title: Le Masque
-  image: "/forestry/masque.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg"
   technique: mixte sur bois
   dimensions:
     height: 2
@@ -52,7 +52,7 @@ works:
   sold: false
   contextual: true
 - title: Fresque pour la Galerie Gaïa
-  image: "/forestry/fresque-pour-la-galerie-gaia.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fresque-pour-la-galerie-gaia.jpg"
   technique: peinture murale
   dimensions:
     height: 300
@@ -65,7 +65,7 @@ works:
   sold: false
   contextual: true
 - title: Routine 3
-  image: "/forestry/routine-3.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/routine-3.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 162
@@ -76,7 +76,7 @@ works:
   sold: false
   contextual: true
 - title: Double Trouble
-  image: "/forestry/double-trouble.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double-trouble.jpg"
   technique: Sérigraphie sur papier japonais
   dimensions:
     height: 114
@@ -89,7 +89,7 @@ works:
   sold: false
   contextual: true
 - title: Le Minotaure
-  image: "/forestry/le-minotaure.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-minotaure.jpg"
   technique: Acrylique et technique mixte sur toile
   dimensions:
     height: 162

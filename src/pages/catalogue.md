@@ -17,6 +17,6 @@ seo:
   type: website
   description: Une panne d'inspiration pour trouver une oeuvre ? Venez découvrir l'oeuvre
     qui vous conviendra sur notre catalogue
-  image: "/forestry/galerie-gaia-reserve.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-reserve.jpg"
 
 ---

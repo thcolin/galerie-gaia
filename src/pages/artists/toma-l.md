@@ -8,7 +8,7 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Toma L\n\n## [catalogue toma l](/forestry/toma-l_gaiagalerie_19novembre2020.pdf
+biography: "# Toma L\n\n## [catalogue toma l](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_gaiagalerie_19novembre2020.pdf
   \"toma l thomas l thomas labarte labarthe\") \n\n« Je compose en associant les pleins
   et les vides. Les masses sont sombres, moyennes et claires. La lumière vient de
   la toile ou de la couleur. Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes
@@ -102,7 +102,7 @@ exhibitions:
   end: 20 Juin
 works:
 - title: 'Petit crade '
-  image: "/forestry/2020120704-petitcrade-90x70cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2020120704-petitcrade-90x70cm.jpg"
   technique: Technique mixte sur papier marouflé sur bois caisse américaine chêne
   fields: []
   styles: []
@@ -114,7 +114,7 @@ works:
   price: 0
   contextual: true
 - title: Petit crade
-  image: "/forestry/2020120711-petitcrade-58x78cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2020120711-petitcrade-58x78cm.jpg"
   technique: Technique mixte sur papier marouflé sur bois caisse américaine chêne
   fields: []
   styles: []
@@ -126,7 +126,7 @@ works:
   price: ''
   contextual: true
 - title: Simple color
-  image: "/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017090401-simplecolor-102x70cm-copie.jpg"
   technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
   fields: []
   styles: []
@@ -138,7 +138,7 @@ works:
   price: 0
   contextual: true
 - title: Simple color en situation
-  image: "/forestry/toma-l_2017_situation_0010.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_2017_situation_0010.jpg"
   technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
   fields: []
   styles: []
@@ -150,7 +150,7 @@ works:
   price: 0
   contextual: false
 - title: 'Little wood trash '
-  image: "/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg"
   technique: Technique mixte sur bois
   dimensions:
     height: 115
@@ -159,7 +159,7 @@ works:
   price: ''
   contextual: true
 - title: Bonne pierre bon oeil 08
-  image: "/forestry/galerie-gaia-toma-l-bpbo08.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo08.jpg"
   technique: Lithographie 6/2
   fields:
   - Oeuvre sur papier
@@ -172,7 +172,7 @@ works:
   price: 350
   contextual: true
 - title: Bonne pierre bon oeil 07
-  image: "/forestry/galerie-gaia-toma-l-bpbo07.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo07.jpg"
   technique: Lithographie 2/6
   fields:
   - Oeuvre sur papier
@@ -185,7 +185,7 @@ works:
   price: 350
   contextual: true
 - title: Bonne pierre bon oeil 02
-  image: "/forestry/galerie-gaia-toma-l-bpbo02-ocre.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-ocre.jpg"
   technique: Lithographie 7/8
   fields:
   - Oeuvre sur papier
@@ -198,7 +198,7 @@ works:
   price: 250
   contextual: true
 - title: Bonne pierre bon oeil 02 noir
-  image: "/forestry/galerie-gaia-toma-l-bpbo02-noir.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-noir.jpg"
   technique: Lithographie 5/8
   fields:
   - Oeuvre sur papier
@@ -211,7 +211,7 @@ works:
   price: 250
   contextual: true
 - title: Bonne pierre bon oeil 01
-  image: "/forestry/galerie-gaia-toma-l-bpbo01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo01.jpg"
   technique: Lithographie 8/8
   fields:
   - Oeuvre sur papier
@@ -224,7 +224,7 @@ works:
   price: 250
   contextual: true
 - title: Stone Age 03
-  image: "/forestry/galerie-gaia-toma-l-stoneage-03_ex7-8.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage-03_ex7-8.jpg"
   technique: Lithographie 7/8
   fields:
   - Oeuvre sur papier
@@ -237,7 +237,7 @@ works:
   price: 300
   contextual: true
 - title: Bonne pierre bon oeil 13 Noir
-  image: "/forestry/galeriegaia_tomal_bonnepierrebonoeil-13-noir-_40x30-5-01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_tomal_bonnepierrebonoeil-13-noir-_40x30-5-01.jpg"
   technique: Lithographie 6/9
   fields:
   - Oeuvre sur papier
@@ -250,7 +250,7 @@ works:
   price: 350
   contextual: true
 - title: Bonne pierre bon oeil 02
-  image: "/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg"
   technique: Lithographie 8/8
   fields:
   - Oeuvre sur papier
@@ -263,7 +263,7 @@ works:
   price: 250
   contextual: true
 - title: Stone Age 02
-  image: "/forestry/galeriegaia_tomal_stoneage-02-_66x51-01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_tomal_stoneage-02-_66x51-01.jpg"
   technique: Lithographie 9/10
   fields:
   - Oeuvre sur papier
@@ -276,20 +276,20 @@ works:
   price: 400
   contextual: true
 - title: Le catalogue de Toma L pour Galerie Gaia
-  image: "/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg"
   fields: []
   styles: []
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: '[Télécharger le catalogue Décembre 2020](/forestry/toma-l_gaiagalerie_19novembre2020.pdf
+  description: '[Télécharger le catalogue Décembre 2020](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_gaiagalerie_19novembre2020.pdf
     "Thomas labarthe toma l tomas labarte catalogue ")'
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
 - title: 'Red Canaille '
-  image: "/forestry/red-canaille.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/red-canaille.jpg"
   technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
   dimensions:
     height: 162
@@ -300,7 +300,7 @@ works:
   sold: false
   contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014
-  image: "/forestry/galerie-gaia-toma-l-installation-nantes2.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg"
   technique: 'Technique mixte sur bois '
   dimensions:
     height: 100
@@ -310,7 +310,7 @@ works:
   contextual: false
   sold: false
 - title: Wood cartel black
-  image: "/forestry/galerie-gaia-toma-l-t2014031010_woodcartel-black-105x70cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-t2014031010_woodcartel-black-105x70cm.jpg"
   technique: Technique mixte sur bois
   fields: []
   styles: []
@@ -322,7 +322,7 @@ works:
   price: ''
   contextual: true
 - title: 'Wood cartel blue '
-  image: "/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2014031012_woodcartel-blue-105x70cm.jpg"
   technique: 'Technique mixte sur bois '
   dimensions:
     height: 106
@@ -331,7 +331,7 @@ works:
   price: ''
   contextual: true
 - title: Wood cartel red
-  image: "/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg"
   technique: Technique mixte sur bois
   dimensions:
     height: 106
@@ -340,7 +340,7 @@ works:
   price: ''
   contextual: true
 - title: Querelle carbone 10
-  image: "/forestry/galerie-gaia-toma-l-2019040101-querellecarbone10-150x140cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040101-querellecarbone10-150x140cm.jpg"
   technique: 'Technique mixte sur papier cadre '
   dimensions:
     height: 150
@@ -351,7 +351,7 @@ works:
   price: ''
   contextual: true
 - title: 'Little simple brut '
-  image: "/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg"
   technique: 'Couture et Technique mixte sur papier '
   dimensions:
     height: 50
@@ -360,7 +360,7 @@ works:
   price: ''
   contextual: true
 - title: 'Little simple brut '
-  image: "/forestry/galeriegaia-tomal-2020031104-littlecolor-40x30cm_bd.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-tomal-2020031104-littlecolor-40x30cm_bd.jpg"
   technique: Couture et Technique mixte sur papier
   dimensions:
     height: 40
@@ -369,7 +369,7 @@ works:
   price: ''
   contextual: true
 - title: Little Simple Brut
-  image: "/forestry/galeriegaia-tomal-2020031105-littlecolor-40x30cm_bd.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-tomal-2020031105-littlecolor-40x30cm_bd.jpg"
   technique: Couture et Technique mixte sur papier cadre en chêne verre musée
   dimensions:
     height: 50
@@ -378,7 +378,7 @@ works:
   price: ''
   contextual: true
 - title: 'Querelle carbone 4 '
-  image: "/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 150
@@ -388,7 +388,7 @@ works:
   price: ''
   contextual: true
 - title: 'Black and simple color '
-  image: "/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm copie.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm copie.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 108
@@ -397,7 +397,7 @@ works:
   price: ''
   contextual: true
 - title: 'Drawing black '
-  image: "/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 100
@@ -406,7 +406,7 @@ works:
   price: ''
   contextual: true
 - title: Projet Vas-y
-  image: "/forestry/Toma-L_13deplus-projetvasy_documentaire_02.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Toma-L_13deplus-projetvasy_documentaire_02.jpg"
   dimensions:
     height: 0
     width: 0
@@ -439,7 +439,7 @@ works:
   contextual: true
   technique: 'Fresque '
 - title: Bonne pierre bon œil 10
-  image: "/forestry/bonne-pierre-bon-oeil-10.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-10.jpg"
   technique: Lithographie 4/9
   dimensions:
     height: 57
@@ -452,7 +452,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Bonne pierre bon œil 13 (vert)
-  image: "/forestry/bonne-pierre-bon-oeil-13.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-13.jpg"
   technique: Lithographie 8/9
   dimensions:
     height: 40
@@ -465,7 +465,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Bonne pierre bon œil 13 (noir)
-  image: "/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-13-noir.jpg"
   technique: Lithographie 6/9
   dimensions:
     height: 40
@@ -478,7 +478,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Bonne pierre bon œil 14 (bleu & noir)
-  image: "/forestry/galerie-gaia-toma-l-bpbo14.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo14.jpg"
   technique: Lithographie 10/10
   dimensions:
     height: 76
@@ -491,7 +491,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Bonne pierre bon œil 14 (noir)
-  image: "/forestry/bonne-pierre-bon-oeil-14-noir.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-14-noir.jpg"
   technique: Lithographie 8/10
   dimensions:
     height: 76
@@ -504,7 +504,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Stone Age 02
-  image: "/forestry/stone-age-02.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/stone-age-02.jpg"
   technique: lithographie 9/10
   dimensions:
     height: 66
@@ -517,7 +517,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Stone Age 12
-  image: "/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg"
   technique: Lithographie 7/10
   dimensions:
     height: 76
@@ -531,7 +531,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Stone Age 16
-  image: "/forestry/stone-age-16.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/stone-age-16.jpg"
   technique: Lithographie 1/2
   dimensions:
     height: 66
@@ -544,7 +544,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Stone Age 09
-  image: "/forestry/galerie-gaia-toma-l-stoneage-09_ex4-12.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage-09_ex4-12.jpg"
   technique: Lithographie 04/12 et collage papier réhaussé
   dimensions:
     height: 66

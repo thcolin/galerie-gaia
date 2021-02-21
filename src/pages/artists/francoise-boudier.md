@@ -44,7 +44,7 @@ biography: >-
 exhibitions: []
 works:
   - title: Femme lunaire
-    image: /forestry/femme-lunaire.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/femme-lunaire.jpg
     technique: bronze
     dimensions:
       height: 40
@@ -55,7 +55,7 @@ works:
     sold: false
     contextual: true
   - title: buste homme
-    image: /forestry/buste-homme.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buste-homme.jpg
     technique: bronze
     dimensions:
       height: null
@@ -69,7 +69,7 @@ works:
     sold: false
     contextual: true
   - title: Petite fille
-    image: /forestry/petite-fille.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/petite-fille.jpg
     technique: Bronze
     dimensions:
       height: 25

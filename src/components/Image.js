@@ -1,36 +1,27 @@
 import React, { useState, useCallback } from 'react'
-// import { withPrefix } from 'gatsby'
 import { LazyLoadImage } from 'react-lazy-load-image-component'
-import slug from 'slug'
+import { fromFilesystem2S3 } from 'utils/resolve'
 import theme from 'theme'
 
-const withPrefix = (uri) => `https://galerie-gaia.s3.eu-west-3.amazonaws.com${uri}`
-
-const Image = ({ min = true, trace = true, src = '', alt = '', source = 'originals', ...props }) => {
-  const dirname = src.split('/').slice(0, -1).join('/')
-  const stem = slug(src.split('/').pop().split('.').slice(0, -1).join('.').replace(/°/, 'degree'), { lower: true })
-  const extname = `.${src.split('.').pop().toLocaleLowerCase()}`
-
-  return (
-    <span css={[props.css, Image.styles.element]}>
+const Image = ({ min = true, trace = true, src = '', alt = '', source = 'originals', ...props }) => (
+  <span css={[props.css, Image.styles.element]}>
+    <FadeInImage
+      {...props}
+      src={min ? fromFilesystem2S3(src, source) : src}
+      alt={alt}
+      css={Image.styles.image}
+      lazy={true}
+    />
+    {trace && (
       <FadeInImage
         {...props}
-        src={withPrefix(min ? `${dirname.replace(/^\/forestry/, `/${source}`)}/${stem}${extname}` : src)}
+        src={fromFilesystem2S3(src, 'traces')}
         alt={alt}
-        css={Image.styles.image}
-        lazy={true}
+        css={Image.styles.trace}
       />
-      {trace && (
-        <FadeInImage
-          {...props}
-          src={withPrefix(`${dirname.replace(/^\/forestry/, `/traces`)}/${stem}.svg`)}
-          alt={alt}
-          css={Image.styles.trace}
-        />
-      )}
-    </span>
-  )
-}
+    )}
+  </span>
+)
 
 Image.styles = {
   element: {

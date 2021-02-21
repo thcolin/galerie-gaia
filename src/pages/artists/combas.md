@@ -29,7 +29,7 @@ biography: "# Robert Combas\n\n## Combas\n\n## Combas Robert artiste\n\nRobert C
 exhibitions: []
 works:
 - title: Dragon Combas
-  image: "/forestry/galeriegaia_Combas_Sans(5:79)_57x76- 01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Combas_Sans(5:79)_57x76- 01.jpg"
   dimensions:
     height: 56
     width: 76
@@ -42,7 +42,7 @@ works:
   contextual: true
   technique: 'Lithographie en 5 couleurs Edition 5/79 '
 - title: 'Le Combo de Combas '
-  image: "/forestry/combo-1325.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg"
   technique: Installation lumineuse Sérigraphie
   dimensions:
     height: 52
@@ -57,7 +57,7 @@ works:
   sold: false
   contextual: true
 - title: Certificat d'authenticité Robert Combas "Le Combo de Combas"
-  image: "/forestry/20190523_180652.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20190523_180652.jpg"
   dimensions:
     height: 0
     width: 0

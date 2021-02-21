@@ -27,7 +27,7 @@ biography: |-
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
 - title: Retrouvailles
-  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
   technique: Huile sur toile
   dimensions:
     height: 130
@@ -40,7 +40,7 @@ works:
   fields: []
   styles: []
 - title: 'Vibrations '
-  image: "/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
   technique: Huile sur toile
   dimensions:
     height: 116
@@ -53,7 +53,7 @@ works:
   fields: []
   styles: []
 - title: Freedom
-  image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
   technique: 'Huile sur toile et techniques mixtes '
   dimensions:
     height: 120
@@ -66,7 +66,7 @@ works:
   fields: []
   styles: []
 - title: Freedom
-  image: "/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
   technique: Huile sur toile et techniques mixtes
   dimensions:
     height: 120
@@ -79,7 +79,7 @@ works:
   fields: []
   styles: []
 - title: 'Transparences blanches '
-  image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
   technique: Huile sur toile
   dimensions:
     height: 91
@@ -92,7 +92,7 @@ works:
   fields: []
   styles: []
 - title: Transparences blanches
-  image: "/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg"
   technique: Huile
   dimensions:
     height: 91
@@ -105,7 +105,7 @@ works:
   fields: []
   styles: []
 - title: Rock
-  image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
   technique: Huile
   dimensions:
     height: 120
@@ -118,7 +118,7 @@ works:
   fields: []
   styles: []
 - title: Rock
-  image: "/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg"
   technique: Huile
   dimensions:
     height: 120
@@ -134,7 +134,7 @@ works:
   fields: []
   styles: []
 - title: Retrouvailles
-  image: "/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
   technique: Huile sur toile et Techniques mixtes
   dimensions:
     height: 130
@@ -147,7 +147,7 @@ works:
   fields: []
   styles: []
 - title: Faille
-  image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg"
   technique: Huile sur toile
   dimensions:
     height: 150
@@ -160,7 +160,7 @@ works:
   fields: []
   styles: []
 - title: Faille
-  image: "/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
   technique: Huile sur toile
   dimensions:
     height: 150
@@ -173,7 +173,7 @@ works:
   fields: []
   styles: []
 - title: 'Portrait '
-  image: "/forestry/photo-profil-bnw-2018.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo-profil-bnw-2018.jpg"
   technique: ''
   dimensions:
     height: 

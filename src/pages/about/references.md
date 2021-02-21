@@ -25,16 +25,16 @@ content:
     ```marksy
       h(Gallery, {
         images: [
-          '/forestry/keran.jpg',
-          '/forestry/galeriegaia@kazy-carnetadelis.jpg',
-          '/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg',
-          '/forestry/cinna_logo_zeeblog_zeeloft.jpg',
-          '/forestry/logo galeries lafayette.jpg',
-          '/forestry/LOGO SQUASH.png',
-          '/forestry/LOGO OMR.png',
-          '/forestry/LOGO AUDI.jpg',
-          '/forestry/logochristophevinet.jpg',
-          '/forestry/index.png',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/keran.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-carnetadelis.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@lnh-coffretanniversaire-1.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cinna_logo_zeeblog_zeeloft.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo galeries lafayette.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/LOGO SQUASH.png',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/LOGO OMR.png',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/LOGO AUDI.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logochristophevinet.jpg',
+          'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/index.png',
         ]
       })
     ```
@@ -48,6 +48,6 @@ seo:
   description: Ils nous font confiance - Galerie Gaïa vous conseille pour aménager,
     décorer, défiscaliser… Prêt d'œuvres avant achat pour essayer en toute sérénité
     !
-  image: "/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
 
 ---

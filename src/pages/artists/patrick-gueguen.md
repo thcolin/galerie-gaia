@@ -24,7 +24,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Les oiseaux de Trévise
-  image: "/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
   technique: Encre noire et acrylique sur papier
   dimensions:
     height: 100
@@ -34,7 +34,7 @@ works:
   price: 1800
   contextual: true
 - title: 'Les pinces de la vie '
-  image: "/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
   technique: 'Encre noire et acrylique sur papier '
   dimensions:
     height: 100
@@ -44,7 +44,7 @@ works:
   price: 1800
   contextual: true
 - title: Les yeux de la mer méditerranée
-  image: "/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG"
   technique: 'Encre noire et acrylique sur papier 350 '
   dimensions:
     height: 70
@@ -53,7 +53,7 @@ works:
   price: 1800
   contextual: true
 - title: Perroquet vigie
-  image: "/forestry/perroquet-vigie.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/perroquet-vigie.jpg"
   technique: Encre et acrylique sur papier
   dimensions:
     height: 100
@@ -64,7 +64,7 @@ works:
   sold: false
   contextual: true
 - title: Cerf aux 2 personnages
-  image: "/forestry/cerf-aux-2-personnages.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-aux-2-personnages.jpg"
   technique: Encre et acrylique sur papier
   dimensions:
     height: 100
@@ -75,7 +75,7 @@ works:
   sold: false
   contextual: true
 - title: "1220825"
-  image: "/forestry/1220825.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1220825.jpg"
   technique: encre et acrylique sur papier
   dimensions:
     height: 100
@@ -86,7 +86,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition vernissage samedi 9 juin 11H
-  image: "/forestry/exposition-vernissage-samedi-9-juin-11h.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-vernissage-samedi-9-juin-11h.jpg"
   technique: ''
   dimensions:
     height: 
@@ -97,7 +97,7 @@ works:
   sold: false
   contextual: true
 - title: Ganesh pour saluer Raza
-  image: "/forestry/ganesh-pour-saluer-raza.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ganesh-pour-saluer-raza.jpg"
   technique: Encre et acrylique sur papier
   dimensions:
     height: 
@@ -108,7 +108,7 @@ works:
   sold: false
   contextual: true
 - title: La déesse au repos-plaisir sur son menhir
-  image: "/forestry/la-deesse-au-repos-plaisir-sur-son-menhir.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-deesse-au-repos-plaisir-sur-son-menhir.jpg"
   technique: Encre et acrylique sur papier
   dimensions:
     height: 
@@ -119,7 +119,7 @@ works:
   sold: false
   contextual: true
 - title: Les étranges messagers du centre et des extrémités
-  image: "/forestry/les-etranges-messagers-du-centre-et-des-extremites.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-etranges-messagers-du-centre-et-des-extremites.jpg"
   technique: Encre et acrylique sur papier
   dimensions:
     height: 

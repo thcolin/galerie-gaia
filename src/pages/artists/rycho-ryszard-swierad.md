@@ -18,7 +18,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Mala bestia 2
-  image: "/forestry/galerie-gaia-rycho-robak02.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak02.jpg"
   technique: Photo et peinture or sous verre
   fields:
   - Photographie
@@ -32,7 +32,7 @@ works:
   price: 200
   contextual: true
 - title: Mala bestia
-  image: "/forestry/galerie-gaia-rycho-robak04.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak04.jpg"
   technique: Photographie et peinture or sous verre
   fields: []
   styles: []
@@ -44,7 +44,7 @@ works:
   price: 200
   contextual: true
 - title: Mala bestia 3
-  image: "/forestry/galerie-gaia-rycho-robak03.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak03.jpg"
   technique: Photographie et peinture or sous verre
   fields: []
   styles: []
@@ -56,7 +56,7 @@ works:
   price: 200
   contextual: true
 - title: Mala bestia 1
-  image: "/forestry/galerie-gaia-rycho-scarabe1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-scarabe1.jpg"
   technique: Photo et peinture or sous verre
   fields: []
   styles: []
@@ -68,7 +68,7 @@ works:
   price: 200
   contextual: true
 - title: CC 0013
-  image: "/forestry/cc-0013.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cc-0013.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 100
@@ -79,7 +79,7 @@ works:
   sold: false
   contextual: true
 - title: 2 femmes à New York
-  image: "/forestry/galeriegaia-rycho-2femmes NY-70X50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-rycho-2femmes NY-70X50.jpg"
   technique: 'photographie en 21 exemplaires '
   fields: []
   styles: []
@@ -91,7 +91,7 @@ works:
   price: 600
   contextual: true
 - title: Albert
-  image: "/forestry/albert.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/albert.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -102,7 +102,7 @@ works:
   sold: false
   contextual: true
 - title: St Lui
-  image: "/forestry/st-lui.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/st-lui.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -113,7 +113,7 @@ works:
   sold: false
   contextual: true
 - title: Elle
-  image: "/forestry/elle.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elle.jpg"
   technique: 'Photographie tirage papier marouflée sur bois 1 exemplaire '
   dimensions:
     height: 100
@@ -124,7 +124,7 @@ works:
   sold: false
   contextual: true
 - title: CC5937
-  image: "/forestry/cc5937.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cc5937.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -135,7 +135,7 @@ works:
   sold: false
   contextual: true
 - title: NY22
-  image: "/forestry/ny22.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny22.jpg"
   technique: Mixte
   dimensions:
     height: 96
@@ -146,7 +146,7 @@ works:
   sold: false
   contextual: true
 - title: NY744A
-  image: "/forestry/ny744a.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny744a.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -157,7 +157,7 @@ works:
   sold: false
   contextual: true
 - title: Titanic
-  image: "/forestry/titanic.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/titanic.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -168,7 +168,7 @@ works:
   sold: false
   contextual: true
 - title: NY tuesday
-  image: "/forestry/ny-tuesday.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny-tuesday.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 100
@@ -179,7 +179,7 @@ works:
   sold: false
   contextual: true
 - title: "1995"
-  image: "/forestry/1995.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1995.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
@@ -190,7 +190,7 @@ works:
   sold: false
   contextual: true
 - title: COCA IN NY
-  image: "/forestry/coca-in-ny.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/coca-in-ny.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
@@ -201,7 +201,7 @@ works:
   sold: false
   contextual: true
 - title: E125ST
-  image: "/forestry/e125st.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/e125st.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
@@ -212,7 +212,7 @@ works:
   sold: false
   contextual: true
 - title: OEEVE
-  image: "/forestry/oeeve.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oeeve.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 30
@@ -223,7 +223,7 @@ works:
   sold: false
   contextual: true
 - title: 3 FRERES
-  image: "/forestry/3-freres.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/3-freres.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 70
@@ -234,7 +234,7 @@ works:
   sold: false
   contextual: true
 - title: NY6084
-  image: "/forestry/ny6084.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny6084.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 70
@@ -245,7 +245,7 @@ works:
   sold: false
   contextual: true
 - title: Sleep Way
-  image: "/forestry/sleep-way.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sleep-way.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 96
@@ -256,7 +256,7 @@ works:
   sold: false
   contextual: true
 - title: Lenox Pizza
-  image: "/forestry/lenox-pizza.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/lenox-pizza.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 70
@@ -267,7 +267,7 @@ works:
   sold: false
   contextual: true
 - title: Skyline
-  image: "/forestry/skyline.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/skyline.jpg"
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
   dimensions:
     height: 70

@@ -123,7 +123,7 @@ biography: "Déroulé de l'évènement  Samedi 27 février 2016  - 17H\n\n° Du 
 exhibitions: []
 works:
 - title: VALOTA Hasards pour Morgane
-  image: "/forestry/valota-hasards-pour-morgane.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valota-hasards-pour-morgane.jpg"
   technique: cire sur papier
   dimensions:
     height: 42
@@ -134,7 +134,7 @@ works:
   sold: false
   contextual: true
 - title: THANH Hasards pour Morgane
-  image: "/forestry/thanh-hasards-pour-morgane.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/thanh-hasards-pour-morgane.jpg"
   technique: mixte sur papier
   dimensions:
     height: 42
@@ -145,7 +145,7 @@ works:
   sold: false
   contextual: true
 - title: Tangui ROBERT Hasards pour Morgane
-  image: "/forestry/tangui-robert-hasards-pour-morgane.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tangui-robert-hasards-pour-morgane.jpg"
   technique: mixte sur papier
   dimensions:
     height: 42
@@ -156,7 +156,7 @@ works:
   sold: false
   contextual: true
 - title: Livre coffret Hasards pour Morgane
-  image: "/forestry/livre-coffret-hasards-pour-morgane.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/livre-coffret-hasards-pour-morgane.jpg"
   technique: ''
   dimensions:
     height: 15
@@ -168,7 +168,7 @@ works:
   sold: false
   contextual: true
 - title: JEAN NOEL HALLET
-  image: "/forestry/jean-noel-hallet.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jean-noel-hallet.jpg"
   technique: technique mixte sur papier
   dimensions:
     height: 30
@@ -179,7 +179,7 @@ works:
   sold: false
   contextual: true
 - title: NADJA HOLLAND
-  image: "/forestry/nadja-holland.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nadja-holland.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 21
@@ -190,7 +190,7 @@ works:
   sold: false
   contextual: true
 - title: CORINNE HERAUD
-  image: "/forestry/corinne-heraud.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/corinne-heraud.jpg"
   technique: Technique mixte sur papier
   dimensions:
     height: 21
@@ -201,7 +201,7 @@ works:
   sold: false
   contextual: true
 - title: LIVRE COFFRET HASARDS POUR MORGANE
-  image: "/forestry/livre-coffret-hasards-pour-morgane.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/livre-coffret-hasards-pour-morgane.jpg"
   technique: ''
   dimensions:
     height: 
@@ -213,7 +213,7 @@ works:
   sold: false
   contextual: true
 - title: Livre coffret Hasards pour Morgane
-  image: "/forestry/livre-coffret-hasards-pour-morgane.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/livre-coffret-hasards-pour-morgane.jpg"
   technique: ''
   dimensions:
     height: 21
@@ -225,7 +225,7 @@ works:
   sold: false
   contextual: true
 - title: Quelques feuillets exposés
-  image: "/forestry/quelques-feuillets-exposes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/quelques-feuillets-exposes.jpg"
   technique: ''
   dimensions:
     height: 
@@ -236,7 +236,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition des 25 feuillets
-  image: "/forestry/exposition-des-25-feuillets.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-des-25-feuillets.jpg"
   technique: ''
   dimensions:
     height: 
@@ -247,7 +247,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition des 25 oeuvres
-  image: "/forestry/exposition-des-25-oeuvres.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-des-25-oeuvres.jpg"
   technique: ''
   dimensions:
     height: 
@@ -258,7 +258,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition des 25 oeuvres
-  image: "/forestry/exposition-des-25-oeuvres.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-des-25-oeuvres.jpg"
   technique: ''
   dimensions:
     height: 
@@ -269,7 +269,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition des 25 oeuvres
-  image: "/forestry/exposition-des-25-oeuvres.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-des-25-oeuvres.jpg"
   technique: ''
   dimensions:
     height: 
@@ -280,7 +280,7 @@ works:
   sold: false
   contextual: true
 - title: Tirage au sort des 25 oeuvres
-  image: "/forestry/tirage-au-sort-des-25-oeuvres.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tirage-au-sort-des-25-oeuvres.jpg"
   technique: ''
   dimensions:
     height: 
@@ -291,7 +291,7 @@ works:
   sold: false
   contextual: true
 - title: Tirage au sort des 25 oeuvres
-  image: "/forestry/tirage-au-sort-des-25-oeuvres.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tirage-au-sort-des-25-oeuvres.jpg"
   technique: ''
   dimensions:
     height: 

@@ -33,7 +33,7 @@ biography: |-
   Dans les années 2000, de nombreuses rétrospectives et expositions sont organisées en Europe (Galerie nationale du Jeu de Paume à Paris, musée Matisse du Cateau-Cambrésis, espace du Stiftung für Konkrete Kunst de Reutlingen en Allemagne…), au Brésil (Fondation Hélio Oiticica de Rio de Janeiro) . En 2010, il est le deuxième artiste vivant à réaliser une œuvre pérenne  au [Musée du Louvre](https://www.louvre.fr/hommage-francois-morellet "Morellet louvre"). En 2011, son exposition « Réinstallations » au Centre Pompidou est sa 455ème exposition personnelle.
 works:
 - title: Hasards système et téléphone 10
-  image: "/forestry/galerie-gaia-francois-morellet-10.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-10.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -46,7 +46,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 9
-  image: "/forestry/galerie-gaia-francois-morellet-9.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-9.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -59,7 +59,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 8
-  image: "/forestry/galerie-gaia-francois-morellet-8.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-8.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -72,7 +72,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 7
-  image: "/forestry/galerie-gaia-francois-morellet-7.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-7.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -94,11 +94,11 @@ works:
   price: 450
   contextual: true
   title: Hasards système et téléphone 6
-  image: "/forestry/galerie-gaia-francois-morellet-6.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-6.jpg"
   technique: 'Lithographie '
   sold: false
 - title: Hasards système et téléphone 5
-  image: "/forestry/galerie-gaia-francois-morellet-5.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-5.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -111,7 +111,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 4
-  image: "/forestry/galerie-gaia-francois-morellet-4.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-4.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -124,7 +124,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 3
-  image: "/forestry/galerie-gaia-francois-morellet-3.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-3.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -137,7 +137,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 2
-  image: "/forestry/galerie-gaia-francois-morellet-2.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-2.jpg"
   technique: 'Lithographie '
   fields: []
   styles: []
@@ -150,7 +150,7 @@ works:
   sold: false
   contextual: true
 - title: Hasards système et téléphone 1
-  image: "/forestry/galerie-gaia-francois-morellet-1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-1.jpg"
   technique: Lithographie
   fields: []
   styles: []
@@ -163,7 +163,7 @@ works:
   sold: false
   contextual: true
 - title: Documentation source 1
-  image: "/forestry/galerie-gaia-francois-morellet-hasard-texte1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-hasard-texte1.jpg"
   technique: ''
   fields: []
   styles: []
@@ -177,7 +177,7 @@ works:
   sold: false
   contextual: true
 - title: Documentation source 2
-  image: "/forestry/galerie-gaia-francois-morellet-texte-4.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-texte-4.jpg"
   technique: ''
   fields: []
   styles: []

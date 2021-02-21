@@ -30,13 +30,13 @@ content:
     mois**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
     ou **IRPP (professions libérales)**\n* Au terme du contrat un transfert de propriété
     vous est proposé;\n* Cela concerne des **artistes vivants ou non**\n\n  [Article
-    \"Du leasing dans l'art\" Gazette Drouot](https://galeriegaia.fr/forestry/Gazette
+    \"Du leasing dans l'art\" Gazette Drouot](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Gazette
     drouot juin 2017.pdf \"Article Gazette Drouot\")\n\n**Calcul pour une œuvre de
     3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir 193€ HT\n* économies d'impôts
     générées 1296€ HT\n* coût global hors économies de charges sociales, IR = 3332€
     HT\n  * _Les loyers sont une charge déductible et génèrent une économie d'IS estimée
     à 28 %_\n\n    [Faire une simulation](http://bail-art.com/le-leasing/ \"FAIRE
-    UNE SIMULATION\")\n\n![](/forestry/galeriegaia_Healy_Fondation_28x37 cadré.jpg)
+    UNE SIMULATION\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_Fondation_28x37 cadré.jpg)
     \ \n_\"Fondation\" bronze Isabelle Healy_\n\n## **2. L'achat en défiscalisation**\n\nCette
     niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
     \ pour **soutenir les artistes vivants**. Ainsi **entreprises et professions libérales**
@@ -49,20 +49,20 @@ content:
     :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire\n* La déduction
     annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005
     = 1750€ de plafond annuel déductible\n* Déduction annuelle de l' IS   7000€ /
-    5 ans = 1400€\n\n_données chiffrées novembre 2020_\n\n![](/forestry/galeriegaia@boisrond-omr.jpg)"
+    5 ans = 1400€\n\n_données chiffrées novembre 2020_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@boisrond-omr.jpg)"
   contact:
     display: true
     placeholder: Renseignement location & défiscalisation
 - column: |-
-    ![](/forestry/galeriegaia@edwinwide-omr.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@edwinwide-omr.jpg)
 
-    ![](/forestry/galeriegaia-toma L.png)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-toma L.png)
 
-    ![](/forestry/galerie-gaia-nantes-amenagement-bureau.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nantes-amenagement-bureau.jpg)
 
-    ![](/forestry/galeriegaia@boisrond-omr.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@boisrond-omr.jpg)
 
-    ![](/forestry/galerie-gaia-defiscalisation-art-2.jpg)![](/forestry/galerie-gaia-defiscalisation-art-omr1.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-defiscalisation-art-2.jpg)![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-defiscalisation-art-omr1.jpg)
   contact:
     display: false
     placeholder: ''
@@ -72,7 +72,7 @@ seo:
   type: website
   description: 'Défiscalisation art (acquisition, location, leasing) : Elisabeth Givre,
     directrice de la Galerie Gaïa, conseille les entreprises et professions libérales.'
-  image: "/forestry/galeriegaia-defiscalisation-location-leasing art.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-defiscalisation-location-leasing art.jpg"
 redirect_from:
 - "/prestations/"
 - "/defiscalisation-oeuvre-d-art/"

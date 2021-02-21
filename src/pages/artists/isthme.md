@@ -105,12 +105,12 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   espace de la mémoire.\n\nToutes ces incursions dans les différentes techniques et
   les champs de création sensiblement mais méthodiquement, explorées constituent  une
   œuvre nouvelle et originale où la volonté intellectuelle règne mais où la main est
-  toujours présente.\n\nDaniel Lacomme\n\n[galerie-gaia-isthme-interview-entiere.mp4](/forestry/galerie-gaia-isthme-interview-entiere.mp4
+  toujours présente.\n\nDaniel Lacomme\n\n[galerie-gaia-isthme-interview-entiere.mp4](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-interview-entiere.mp4
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
 - title: Venise, un matin
-  image: "/forestry/venise-un-matin.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/venise-un-matin.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 146
@@ -121,7 +121,7 @@ works:
   sold: false
   contextual: true
 - title: 'Allongée dans l''herbe #10'
-  image: "/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg"
   dimensions:
     height: 55
     width: 46
@@ -131,7 +131,7 @@ works:
   contextual: true
   technique: 'Acrylique sur toile '
 - title: 'Allongée dans l''herbe #5'
-  image: "/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 50
@@ -141,7 +141,7 @@ works:
   price: 750
   contextual: true
 - title: 'Allongée dans l''herbe #7'
-  image: "/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 50
@@ -151,7 +151,7 @@ works:
   price: 750
   contextual: true
 - title: Britany
-  image: "/forestry/galeriegaia_isthme_britany_76x59.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_isthme_britany_76x59.jpg"
   technique: Collage sur papier Arche
   fields:
   - Oeuvre sur papier
@@ -164,7 +164,7 @@ works:
   price: 750
   contextual: true
 - title: 'Green Rhapsody #7'
-  image: "/forestry/galerie-gaia-isthme-green-rhapsody-collage-7-76x56-2016.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-green-rhapsody-collage-7-76x56-2016.jpg"
   technique: Collage
   dimensions:
     height: 76
@@ -183,12 +183,12 @@ works:
   description: "2015"
   price: 750
   contextual: true
-  image: "/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg"
   technique: Collage
   fields:
   - Oeuvre sur papier
 - title: 'Territoires Noir/ Blanc #4'
-  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg"
   technique: 'Collage '
   dimensions:
     height: 76
@@ -200,7 +200,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Territoires Noir/ Blanc #10'
-  image: "/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg"
   technique: 'Collage '
   dimensions:
     height: 76
@@ -212,7 +212,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Deep blue #8'
-  image: "/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-deep-blue-8-130cmx97cm-2020.jpg"
   dimensions:
     height: 130
     width: 97
@@ -222,7 +222,7 @@ works:
   contextual: true
   technique: 'Acrylique sur toile '
 - title: 'Deep Blue #3'
-  image: "/forestry/galeriegaia-isthme-Blue Deep3- 146 cmx114cm-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-isthme-Blue Deep3- 146 cmx114cm-2020.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 146
@@ -231,7 +231,7 @@ works:
   price: 3200
   contextual: true
 - title: 'Cou-Rage #1'
-  image: "/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg"
   technique: Collage
   dimensions:
     height: 77
@@ -243,7 +243,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Cou-Rage #2'
-  image: "/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg"
   technique: Collage
   dimensions:
     height: 77
@@ -255,7 +255,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Cou-Rage #3'
-  image: "/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg"
   technique: 'Collage '
   dimensions:
     height: 77
@@ -267,7 +267,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Territoires Colorés #15'
-  image: "/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Isthme-Territoires Colorés15-76cmx57cm-2020.jpg"
   technique: Collage
   dimensions:
     height: 76
@@ -278,7 +278,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Purple Rhapsody #4 '
-  image: "/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Isthme-Purple Rhapsody 4-146x114-2016.jpg"
   technique: 'Acrylique sur toile '
   dimensions:
     height: 146
@@ -287,7 +287,7 @@ works:
   price: 3200
   contextual: true
 - title: 'Installation Nuits en mer #24 '
-  image: "/forestry/nuits-en-mer-24-installation.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuits-en-mer-24-installation.jpg"
   technique: Acrylique sur toile montée sur 6 châssis bois indépendant
   dimensions:
     height: 170
@@ -300,7 +300,7 @@ works:
   sold: false
   contextual: true
 - title: Nuit en mer III
-  image: "/forestry/nuit-en-mer-iii-113.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iii-113.jpg"
   technique: Lithographie 13 exemplaires
   dimensions:
     height: 56
@@ -313,7 +313,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Nuits en Mer '
-  image: "/forestry/sans-titre-410.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-410.jpg"
   technique: Lithographie en 10 exemplaires
   dimensions:
     height: 76
@@ -326,7 +326,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Soul Ground  #4'
-  image: "/forestry/sans.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans.jpg"
   technique: Collage sur papier Arches
   dimensions:
     height: 76
@@ -342,7 +342,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Nuit en mer IV
-  image: "/forestry/nuit-en-mer-iv-425.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iv-425.jpg"
   technique: Lithographie en 25 exemplaires
   dimensions:
     height: 69
@@ -356,7 +356,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Portrait de Isthme
-  image: "/forestry/isabelle-dans-son-atelier.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isabelle-dans-son-atelier.jpg"
   technique: ''
   dimensions:
     height: 

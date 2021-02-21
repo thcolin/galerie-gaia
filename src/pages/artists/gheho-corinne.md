@@ -41,7 +41,7 @@ biography: "# Corinne Guého\n\nDepuis 1998 Corinne Gueho travaille autour de fo
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
 - title: Vigie
-  image: "/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
   technique: Cuisson haute température
   fields: []
   styles: []
@@ -54,7 +54,7 @@ works:
   sold: false
   contextual: false
 - title: 'Bols '
-  image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
   technique: Grès ou porcelaine
   fields: []
   styles: []
@@ -67,7 +67,7 @@ works:
   sold: false
   contextual: true
 - title: Vigie
-  image: "/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG"
   technique: 'Raku nu '
   fields: []
   styles: []
@@ -80,7 +80,7 @@ works:
   sold: false
   contextual: false
 - title: Cylindre
-  image: "/forestry/galerie-gaia-gueho-corinne-cycindres.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-cycindres.JPG"
   technique: 'Raku nu ou cuisson haute température '
   fields: []
   styles: []
@@ -93,7 +93,7 @@ works:
   sold: false
   contextual: false
 - title: 'Bols '
-  image: "/forestry/galerie-gaia-gueho-corinne-bols.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-bols.JPG"
   technique: Grés ou porcelaine
   fields: []
   styles: []
@@ -106,7 +106,7 @@ works:
   sold: false
   contextual: false
 - title: Ancrage pont
-  image: "/forestry/galerie-gaia-gueho-corinne-ancrages.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrages.JPG"
   technique: 'Raku nu '
   fields: []
   styles: []
@@ -119,7 +119,7 @@ works:
   sold: false
   contextual: false
 - title: 'Vigie '
-  image: "/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
   technique: 'Cuisson haute température '
   fields: []
   styles: []
@@ -132,7 +132,7 @@ works:
   sold: false
   contextual: false
 - title: Ancrage 3
-  image: "/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG"
   technique: 'Terre cuisson haute température '
   fields: []
   styles: []
@@ -145,7 +145,7 @@ works:
   sold: false
   contextual: false
 - title: 'Ancrage 2 '
-  image: "/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG"
   technique: Cuisson haute température
   fields: []
   styles: []
@@ -158,7 +158,7 @@ works:
   contextual: false
   description: ''
 - title: 'Portrait '
-  image: "/forestry/portrait-corinne.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-corinne.JPG"
   technique: ''
   fields: []
   styles: []

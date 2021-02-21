@@ -27,7 +27,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Vent tournant
-  image: "/forestry/1278.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1278.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 73
@@ -38,7 +38,7 @@ works:
   sold: false
   contextual: true
 - title: Etoile verte
-  image: "/forestry/1109.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1109.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 60
@@ -49,7 +49,7 @@ works:
   sold: false
   contextual: true
 - title: Vis a vis
-  image: "/forestry/galeriegaia_morin_visavis-1979-_61x50-01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_morin_visavis-1979-_61x50-01.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 61
@@ -60,7 +60,7 @@ works:
   sold: false
   contextual: true
 - title: Conversation dans le ciel
-  image: "/forestry/1108.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1108.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 81
@@ -71,7 +71,7 @@ works:
   sold: false
   contextual: true
 - title: Barques fragiles
-  image: "/forestry/1315.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1315.jpg"
   technique: Huile sur toile
   dimensions:
     height: 38
@@ -82,7 +82,7 @@ works:
   sold: false
   contextual: true
 - title: Célébration du soir
-  image: "/forestry/1316.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1316.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 81
@@ -93,7 +93,7 @@ works:
   sold: false
   contextual: true
 - title: Construction hésitante
-  image: "/forestry/1317.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1317.jpg"
   technique: Huile et acrylique sur toile
   dimensions:
     height: 100
@@ -104,7 +104,7 @@ works:
   sold: false
   contextual: true
 - title: Entre le Chien et le Loup
-  image: "/forestry/1319.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1319.jpg"
   technique: Huile sur toile
   dimensions:
     height: 54
@@ -115,7 +115,7 @@ works:
   sold: false
   contextual: true
 - title: Lucarne
-  image: "/forestry/1322.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1322.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 116
@@ -126,7 +126,7 @@ works:
   sold: false
   contextual: true
 - title: Passage des migrateurs
-  image: "/forestry/1323.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1323.jpg"
   technique: Huile et acrylique sur toile
   dimensions:
     height: 97
@@ -137,7 +137,7 @@ works:
   sold: false
   contextual: true
 - title: Peut-être une lucarne
-  image: "/forestry/1324.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1324.jpg"
   technique: Huile sur toile
   dimensions:
     height: 81
@@ -148,7 +148,7 @@ works:
   sold: false
   contextual: true
 - title: Une fleur bleue
-  image: "/forestry/1325.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1325.jpg"
   technique: Acrylique sur toile
   dimensions:
     height: 50
@@ -159,7 +159,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition Polymorphie du 16 Janvier 1er Février 2020
-  image: "/forestry/1390.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1390.jpg"
   technique: 
   dimensions:
     height: 
@@ -175,7 +175,7 @@ works:
   sold: false
   contextual: true
 - title: Ouest France 04/02/20
-  image: "/forestry/1409.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1409.jpg"
   technique: 
   dimensions:
     height: 

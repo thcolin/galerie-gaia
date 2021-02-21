@@ -28,7 +28,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Signaux indécis
-  image: "/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg"
   technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
   dimensions:
     height: 118
@@ -43,7 +43,7 @@ works:
   styles:
   - Abstrait
 - title: Zoom sur Signaux indécis
-  image: "/forestry/signaux-indecis.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/signaux-indecis.jpg"
   technique: Tapisserie en laine
   dimensions:
     height: 
@@ -58,7 +58,7 @@ works:
   styles:
   - Abstrait
 - title: Vers l'Ouest
-  image: "/forestry/vers-louest.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vers-louest.jpg"
   technique: Gravure
   dimensions:
     height: 
@@ -71,7 +71,7 @@ works:
   fields: []
   styles: []
 - title: En forme de feuille
-  image: "/forestry/en-forme-de-feuille.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg"
   technique: Gravure
   dimensions:
     height: 
@@ -84,7 +84,7 @@ works:
   fields: []
   styles: []
 - title: Bouquet bleu
-  image: "/forestry/bouquet-bleu.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouquet-bleu.jpg"
   technique: Gravure
   dimensions:
     height: 
@@ -97,7 +97,7 @@ works:
   fields: []
   styles: []
 - title: Bride abattue
-  image: "/forestry/bride-abattue.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bride-abattue.jpg"
   technique: Gravure
   dimensions:
     height: 
@@ -110,7 +110,7 @@ works:
   fields: []
   styles: []
 - title: Capture
-  image: "/forestry/capture.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture.jpg"
   technique: Gravure
   dimensions:
     height: 
@@ -123,7 +123,7 @@ works:
   fields: []
   styles: []
 - title: Jeu de pistes
-  image: "/forestry/jeu-de-pistes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg"
   technique: Gravure
   dimensions:
     height: 
@@ -136,7 +136,7 @@ works:
   fields: []
   styles: []
 - title: Les 3 veilleurs 1977
-  image: "/forestry/les-3-veiileurs-1977.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-3-veiileurs-1977.jpg"
   technique: Gravure
   dimensions:
     height: 450
@@ -149,7 +149,7 @@ works:
   fields: []
   styles: []
 - title: Espace nacré
-  image: "/forestry/espace-nacre.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/espace-nacre.jpg"
   technique: Tapisserie en laine  Lissière Edith Morin
   dimensions:
     height: 111
@@ -164,7 +164,7 @@ works:
   styles:
   - Abstrait
 - title: Papillon
-  image: "/forestry/papillon.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papillon.jpg"
   technique: Tapisserie en laine Lissier Pierre Carton ERBA
   dimensions:
     height: 92
@@ -179,7 +179,7 @@ works:
   styles:
   - Abstrait
 - title: Cloture restreinte
-  image: "/forestry/cloture-restreinte.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cloture-restreinte.jpg"
   technique: Mosaïque Marbre rose, jaune, travertin rouge
   dimensions:
     height: 48
@@ -193,7 +193,7 @@ works:
   - Sculpture
   styles: []
 - title: Exposition Polymorphie 2020
-  image: "/forestry/exposition-polymorphie-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-polymorphie-2020.jpg"
   technique: ''
   dimensions:
     height: 

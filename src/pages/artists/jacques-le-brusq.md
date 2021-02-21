@@ -94,7 +94,7 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   France Paris  \nArtothèque Angers"
 works:
 - title: Rhuys vers kerne Opus 3
-  image: "/forestry/mg_5399.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
@@ -107,7 +107,7 @@ works:
   sold: false
   contextual: true
 - title: Rhuys vers kernes Opus 2
-  image: "/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
@@ -120,7 +120,7 @@ works:
   sold: false
   contextual: true
 - title: Tri Avr Opus1
-  image: "/forestry/17_img_7742_cmjn-copie.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/17_img_7742_cmjn-copie.jpg"
   technique: 'Huile sur papier '
   fields: []
   styles: []
@@ -134,7 +134,7 @@ works:
   sold: false
   contextual: false
 - title: Paysage
-  image: "/forestry/mg_3091.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3091.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
@@ -148,7 +148,7 @@ works:
   sold: false
   contextual: false
 - title: Paysage Ker Sal 1Opus2
-  image: "/forestry/mg_3074.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3074.jpg"
   technique: Huile sur papier
   fields: []
   styles: []
@@ -162,7 +162,7 @@ works:
   sold: false
   contextual: false
 - title: La Brèche Opus 2
-  image: "/forestry/sans-nom-16.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-nom-16.jpg"
   technique: Huile sur papier
   fields: []
   styles: []

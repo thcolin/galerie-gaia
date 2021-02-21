@@ -22,7 +22,7 @@ biography: "# Jacqueline Pecantet\n\nDes boules, des cubes...  \nDes cubes, clin
 exhibitions: []
 works:
 - title: Grès 13
-  image: "/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG"
   technique: 'Terre enfumée et polie au galet '
   dimensions:
     height: 0
@@ -32,7 +32,7 @@ works:
   price: 140
   contextual: false
 - title: Grès 12
-  image: "/forestry/dscf2127-j-pecantet.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2127-j-pecantet.JPG"
   technique: Crin de cheval au grès poli au galet
   dimensions:
     height: 7
@@ -42,7 +42,7 @@ works:
   price: 120
   contextual: false
 - title: Grès 11
-  image: "/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG"
   technique: Crin de cheval au grès poli au galet
   dimensions:
     height: 10
@@ -52,7 +52,7 @@ works:
   price: 120
   contextual: false
 - title: Grès 10
-  image: "/forestry/dscf6070-j-pecantet.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6070-j-pecantet.JPG"
   technique: Enfumage et grès poli au galet
   dimensions:
     height: 0
@@ -63,7 +63,7 @@ works:
   price: 140
   contextual: false
 - title: Grès 9
-  image: "/forestry/dscf2120-j-pecantet.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2120-j-pecantet.JPG"
   technique: Crin de cheval au grès poli au galet
   dimensions:
     height: 7
@@ -73,7 +73,7 @@ works:
   price: 140
   contextual: false
 - title: Grès 8
-  image: "/forestry/dscf6073-j-pecantet.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6073-j-pecantet.JPG"
   technique: Enfumage sur grès poli au galet
   dimensions:
     height: 9
@@ -83,7 +83,7 @@ works:
   price: 120
   contextual: false
 - title: Grès 6
-  image: "/forestry/dscf6079-j-pecantet.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6079-j-pecantet.JPG"
   technique: Cyanotype sur papier japon sur grès poli au galet
   dimensions:
     height: 0
@@ -95,7 +95,7 @@ works:
   price: 120
   contextual: false
 - title: Portrait de Jacqueline Pecantet
-  image: "/forestry/dscf1615-j-pecantet.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf1615-j-pecantet.JPG"
   dimensions:
     height: 0
     width: 0
@@ -104,7 +104,7 @@ works:
   price: 0
   contextual: false
 - title: Rhizomes
-  image: "/forestry/rhizomes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rhizomes.jpg"
   technique: Eau forte et gaufrage 3/15
   dimensions:
     height: 52

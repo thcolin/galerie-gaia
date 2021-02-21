@@ -61,7 +61,7 @@ biography: "# Renaud Allirand\n\n**Les écritures rebelles**   \nBarbelés infra
 exhibitions: []
 works:
 - title: "8"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 36.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 36.jpg"
   dimensions:
     height: 0
     width: 0
@@ -70,7 +70,7 @@ works:
   price: 0
   contextual: true
 - title: "7"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 30.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 30.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
   dimensions:
     height: 0
@@ -80,7 +80,7 @@ works:
   price: 0
   contextual: true
 - title: "6"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 27.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 27.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
   dimensions:
     height: 0
@@ -90,7 +90,7 @@ works:
   price: 0
   contextual: true
 - title: "5"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 26.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 26.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
   dimensions:
     height: 0
@@ -100,7 +100,7 @@ works:
   price: 0
   contextual: true
 - title: "4"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 16.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 16.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
   dimensions:
     height: 0
@@ -110,7 +110,7 @@ works:
   price: 0
   contextual: true
 - title: "3"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 10.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 10.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
   dimensions:
     height: 70
@@ -121,7 +121,7 @@ works:
   sold: false
   contextual: true
 - title: "2"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 7.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 7.jpg"
   technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
   dimensions:
     height: 50
@@ -132,7 +132,7 @@ works:
   contextual: true
   sold: false
 - title: "1"
-  image: "/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 4.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)- 4.jpg"
   technique: 'Eau forte pointe sèche sur zinc '
   dimensions:
     height: 70
@@ -142,7 +142,7 @@ works:
   price: 450
   contextual: true
 - title: 2 ème jour
-  image: "/forestry/2-eme-jour.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2-eme-jour.jpg"
   technique: eau forte et pointe sèche sur zinc 5/8
   dimensions:
     height: 65
@@ -153,7 +153,7 @@ works:
   sold: false
   contextual: true
 - title: 3 juillet
-  image: "/forestry/3-juillet.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/3-juillet.jpg"
   technique: eau fort et pointe sèche sur cuivre 3/6
   dimensions:
     height: 76
@@ -164,7 +164,7 @@ works:
   sold: false
   contextual: true
 - title: 12 Mai
-  image: "/forestry/galeriegaia-12mai-RenaudALLIRAND-2010-eauForte-pointeSecheSurCuivre-40x50cm.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-12mai-RenaudALLIRAND-2010-eauForte-pointeSecheSurCuivre-40x50cm.jpeg"
   technique: eau forte et pointe sèche sur cuivre 20/40
   dimensions:
     height: 56
@@ -175,7 +175,7 @@ works:
   sold: false
   contextual: true
 - title: VI
-  image: "/forestry/vi.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vi.jpg"
   technique: eau forte sur cuivre E.A 2/5
   dimensions:
     height: 76
@@ -186,7 +186,7 @@ works:
   sold: false
   contextual: true
 - title: XXVII
-  image: "/forestry/xxvii.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/xxvii.jpg"
   technique: Eau forte et pointe sèche sur cuivre 4/5
   dimensions:
     height: 65

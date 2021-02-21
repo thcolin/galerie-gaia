@@ -30,7 +30,7 @@ biography: "# Art Galeries Nantes\n\n## Galerie Albane l'Artichaut-galerie Le 56
 exhibitions: []
 works:
 - title: Les galeries, le dimanche 24 Novembre 2019
-  image: "/forestry/les-galeries-le-dimanche-24-novembre-2019.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-galeries-le-dimanche-24-novembre-2019.jpg"
   technique: Portes grandes ouvertes
   dimensions:
     height: 13
@@ -44,7 +44,7 @@ works:
   sold: false
   contextual: false
 - title: Nuit des Galeries#2
-  image: "/forestry/nuit-des-galeries2.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries2.jpg"
   technique: Sérigraphie /100 exemplaires atelier Leap
   dimensions:
     height: 40
@@ -59,7 +59,7 @@ works:
   styles:
   - Figuratif
 - title: Nuit des Galeries#3
-  image: "/forestry/nuit-des-galeries3.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries3.jpg"
   technique: Sérigraphie /100 exemplaires atelier Leap
   dimensions:
     height: 40
@@ -78,7 +78,7 @@ works:
   styles:
   - Figuratif
 - title: Nuit des Galeries#1
-  image: "/forestry/nuit-des-galeries1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries1.jpg"
   technique: Sérigraphie /100 atelier LEAP
   dimensions:
     height: 40

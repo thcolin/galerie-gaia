@@ -11,7 +11,7 @@ biography: ''
 exhibitions: []
 works:
   - title: Paysage américain
-    image: /forestry/paysage-americain.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/paysage-americain.jpg
     technique: ''
     dimensions:
       height: 70
@@ -22,7 +22,7 @@ works:
     sold: false
     contextual: true
   - title: sans titre
-    image: /forestry/sans-titre.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre.jpg
     technique: acrylique sur toile
     dimensions:
       height: 60
@@ -33,7 +33,7 @@ works:
     sold: false
     contextual: true
   - title: sans titre
-    image: /forestry/sans-titre.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre.jpg
     technique: huile sur bois
     dimensions:
       height: 50
@@ -44,7 +44,7 @@ works:
     sold: false
     contextual: true
   - title: '381'
-    image: /forestry/381.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/381.jpg
     technique: huile sur bois
     dimensions:
       height: 90
@@ -55,7 +55,7 @@ works:
     sold: false
     contextual: true
   - title: Elles
-    image: /forestry/elles.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elles.jpg
     technique: mixte sur bois
     dimensions:
       height: 130

@@ -84,9 +84,9 @@ works:
   description: "2019"
   price: 1000
   contextual: false
-  image: "/forestry/@proust-PP5-33x13-1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@proust-PP5-33x13-1.jpg"
 - title: Folie PP 8-2019
-  image: "/forestry/949.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/949.jpg"
   technique: tôle acier laqué, pliée, couleur rouge
   dimensions:
     height: 34
@@ -97,7 +97,7 @@ works:
   sold: false
   contextual: false
 - title: Folie PP 6-2019
-  image: "/forestry/@proust-PP6-35x15-1.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@proust-PP6-35x15-1.JPG"
   technique: tôle acier laqué, pliée, couleur rouge
   dimensions:
     height: 35
@@ -110,7 +110,7 @@ works:
   sold: false
   contextual: false
 - title: Portrait de Pascal Proust
-  image: "/forestry/galerie gaia PASCAL PROUST photo artiste 2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia PASCAL PROUST photo artiste 2020.jpg"
   dimensions:
     height: 0
     width: 0

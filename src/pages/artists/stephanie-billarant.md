@@ -57,7 +57,7 @@ exhibitions:
   end: "2015"
 works:
 - title: Ville rêvée N°22
-  image: "/forestry/galerie-gaia-stephanie-billarant-ville-reveen-22.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-stephanie-billarant-ville-reveen-22.jpeg"
   technique: Création photographique édition en 7 exemplaires
   fields: []
   styles: []
@@ -70,7 +70,7 @@ works:
   price: 1350
   contextual: true
 - title: Ville rêvée n°20
-  image: "/forestry/galerie-gaia-stephanie-billarant-ville-revee-n20.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-stephanie-billarant-ville-revee-n20.jpeg"
   dimensions:
     height: 40
     width: 30
@@ -80,7 +80,7 @@ works:
   contextual: true
   technique: 'Création photographie Edition en 30 exemplaires '
 - title: Ville rêvée n°21
-  image: "/forestry/galerie-gaia-stephanie-billarant-ville-revee-n21.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-stephanie-billarant-ville-revee-n21.jpeg"
   technique: 'Création photographie Edition en 30 exemplaires '
   dimensions:
     height: 40
@@ -90,7 +90,7 @@ works:
   price: 150
   contextual: true
 - title: Villes rêvées N°18
-  image: "/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Billarant_Nantes1_41x31- 021.jpg"
   technique: Création photographie Edition en 30 exemplaires
   dimensions:
     height: 40
@@ -100,7 +100,7 @@ works:
   price: 150
   contextual: true
 - title: Villes rêvées N°10
-  image: "/forestry/galeriegaia_Billarant_Nantes3_41x31- 023.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Billarant_Nantes3_41x31- 023.jpg"
   technique: Création photographique Edition en 30 exemplaires
   dimensions:
     height: 30
@@ -109,7 +109,7 @@ works:
   price: 150
   contextual: true
 - title: Villes rêvées N°17
-  image: "/forestry/galeriegaia_Billarant_Nantes2_41x31- 022.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Billarant_Nantes2_41x31- 022.jpg"
   technique: Création photographique Edition 30 exemplaires
   dimensions:
     height: 40
@@ -118,7 +118,7 @@ works:
   price: 150
   contextual: true
 - title: Villes rêvées N°3
-  image: "/forestry/ville-revee.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ville-revee.jpg"
   technique: Création photographique Edition en 30 exemplaires
   dimensions:
     height: 30
@@ -129,7 +129,7 @@ works:
   sold: false
   contextual: true
 - title: Villes rêvées N°8
-  image: "/forestry/647.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/647.jpg"
   technique: 'Création photographique Edition en 30 exemplaires '
   dimensions:
     height: 30
@@ -140,7 +140,7 @@ works:
   sold: false
   contextual: true
 - title: Villes rêvées N°12
-  image: "/forestry/648.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/648.jpg"
   technique: Création photographie Edition en 30 exemplaires
   dimensions:
     height: 30
@@ -151,7 +151,7 @@ works:
   sold: false
   contextual: true
 - title: Villes rêvées N° 14
-  image: "/forestry/649.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/649.jpg"
   technique: ''
   dimensions:
     height: 30
@@ -162,7 +162,7 @@ works:
   sold: false
   contextual: true
 - title: Villes rêvées N°15
-  image: "/forestry/650.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/650.jpg"
   technique: Création photographique Edition en 30 exemplaires
   dimensions:
     height: 30

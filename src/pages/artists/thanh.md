@@ -64,7 +64,7 @@ biography: >-
 exhibitions: []
 works:
   - title: SANS TITRE
-    image: /forestry/sans-titre.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre.jpg
     technique: MIXTE
     dimensions:
       height: 100
@@ -75,7 +75,7 @@ works:
     sold: false
     contextual: true
   - title: SANS TITRE
-    image: /forestry/sans-titre.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre.jpg
     technique: Mixte
     dimensions:
       height: 100
@@ -86,7 +86,7 @@ works:
     sold: false
     contextual: true
   - title: SANS TITRE
-    image: /forestry/sans-titre.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre.jpg
     technique: Mixte
     dimensions:
       height: 100
@@ -97,7 +97,7 @@ works:
     sold: false
     contextual: true
   - title: '235'
-    image: /forestry/235.jpg
+    image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/235.jpg
     technique: acrylique sur toile
     dimensions:
       height: 100

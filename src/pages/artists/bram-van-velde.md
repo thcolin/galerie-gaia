@@ -46,7 +46,7 @@ biography: |-
 exhibitions: []
 works:
 - title: 'MP 350 '
-  image: "/forestry/mp-350-12100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-350-12100.jpg"
   technique: Lithographie 12/100
   dimensions:
     height: 57
@@ -57,7 +57,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 320 '
-  image: "/forestry/mp-320-23100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-320-23100.jpg"
   technique: Lithographie 23/100
   dimensions:
     height: 89
@@ -68,7 +68,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 315 '
-  image: "/forestry/mp-315-64100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-315-64100.jpg"
   technique: Lithographie 64/100
   dimensions:
     height: 54
@@ -79,7 +79,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 314 '
-  image: "/forestry/mp-314-33100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-314-33100.jpg"
   technique: Lithographie 33/100
   dimensions:
     height: 54
@@ -90,7 +90,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 167 '
-  image: "/forestry/mp-167-32100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-167-32100.jpg"
   technique: Lithographie 32/100
   dimensions:
     height: 98
@@ -101,7 +101,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 310 '
-  image: "/forestry/mp-310-95100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-310-95100.jpg"
   technique: Lithographie 95/100
   dimensions:
     height: 45
@@ -112,7 +112,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 361 '
-  image: "/forestry/mp-361-63100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-361-63100.jpg"
   technique: Lithographie 63/100
   dimensions:
     height: 59
@@ -123,7 +123,7 @@ works:
   sold: false
   contextual: true
 - title: 'MP 371 '
-  image: "/forestry/mp-371-84100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-371-84100.jpg"
   technique: Lithographie 84/100
   dimensions:
     height: 61

@@ -1,6 +1,6 @@
 ---
 template: contact
-content: "![](/forestry/photo facade.jpg)\n\n# Galerie Gaïa une galerie d'art contemporain
+content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo facade.jpg)\n\n# Galerie Gaïa une galerie d'art contemporain
   à Nantes\n\nLa **Galerie Gaïa** - galerie d'art Nantes - prolonge l’esprit d’un
   lieu créé en **1978**.\n\nL’histoire commence avec **L’Affiche** créée pour la première
   en fois en France ce concept store venu d’Angleterre proposait des reproductions
@@ -47,7 +47,7 @@ seo:
   type: website
   description: Galerie Gaïa, galerie d'art contemporain à Nantes depuis 1978, expose
     peintures, sculptures, photos, dessins, estampes d'artistes internationaux
-  image: "/forestry/photo facade-1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo facade-1.jpg"
 redirect_from:
 - "/galerie-d-art-nantes/"
 - "/contact/"

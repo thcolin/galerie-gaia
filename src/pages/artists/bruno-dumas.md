@@ -23,7 +23,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Musée des Arts Nantes
-  image: "/forestry/musee-des-arts-nantes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/musee-des-arts-nantes.jpg"
   technique: photographie
   dimensions:
     height: 30
@@ -34,7 +34,7 @@ works:
   sold: false
   contextual: true
 - title: Marie Sophie dans la bergère
-  image: "/forestry/marie-sophie-dans-la-bergere.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marie-sophie-dans-la-bergere.jpg"
   technique: Sténopé
   dimensions:
     height: 60
@@ -45,7 +45,7 @@ works:
   sold: false
   contextual: true
 - title: Livre artistique
-  image: "/forestry/livre-artistique.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/livre-artistique.jpg"
   technique: ''
   dimensions:
     height: 
@@ -61,7 +61,7 @@ works:
   sold: false
   contextual: true
 - title: Bol
-  image: "/forestry/bol.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bol.jpg"
   technique: photographie sur papier
   dimensions:
     height: 30
@@ -72,7 +72,7 @@ works:
   sold: false
   contextual: true
 - title: Bouteilles
-  image: "/forestry/bouteilles.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouteilles.jpg"
   technique: photographie
   dimensions:
     height: 30

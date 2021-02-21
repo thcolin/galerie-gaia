@@ -38,7 +38,7 @@ exhibitions:
   end: 
 works:
 - title: ES#2 2016
-  image: "/forestry/es2-2016.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/es2-2016.jpg"
   technique: fer forgé assemblé et soudé
   dimensions:
     height: 17
@@ -49,7 +49,7 @@ works:
   sold: false
   contextual: true
 - title: 'CAGE D AMOUR #2'
-  image: "/forestry/cage-d-amour-2.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cage-d-amour-2.jpg"
   technique: Fil de fer et tiges d'acier
   dimensions:
     height: 43

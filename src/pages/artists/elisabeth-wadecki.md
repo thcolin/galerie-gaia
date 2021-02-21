@@ -44,7 +44,7 @@ biography: "# Elisabeth Wadecki \n\nest née en 1963 à Zürich, d'un père polo
 exhibitions: []
 works:
 - title: 'Sans titre N°7 '
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-7-150x150-2018-acrylique-huile-fusain-pastels-secs-sur-toile-3500-euros_-visible-a-l-atelier-13-1000.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-7-150x150-2018-acrylique-huile-fusain-pastels-secs-sur-toile-3500-euros_-visible-a-l-atelier-13-1000.JPG"
   technique: 'Acrylique huile fusain et pastels secs sur toile '
   fields: []
   dimensions:
@@ -55,7 +55,7 @@ works:
   price: 3500
   contextual: true
 - title: 'Diptyque En mon jardin '
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-diptyque-2018-en-mon-jardin-130x194-techniques-mixtes-4000-eur.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-diptyque-2018-en-mon-jardin-130x194-techniques-mixtes-4000-eur.JPG"
   fields: []
   dimensions:
     height: 130
@@ -67,7 +67,7 @@ works:
   contextual: false
   technique: 'Acrylique, fusain et pastels secs sur toile '
 - title: En mon jardin diptyque partie N°1
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-2018-en-mon-jardin-diptyque-130x194-acrylique-fusain-et-pastels-secs-sur-toile-4000eur-les-2.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-2018-en-mon-jardin-diptyque-130x194-acrylique-fusain-et-pastels-secs-sur-toile-4000eur-les-2.JPG"
   technique: 'Acrylique fusain et pastels secs sur toile '
   fields: []
   dimensions:
@@ -78,7 +78,7 @@ works:
   price: 4000
   contextual: true
 - title: En mon jardin diptyque partie N°2
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-2018-en-mon-jardin-diptyque-130x194-acrylique-pastel-sec-fusain-sur-toile-4000-eur-les-2.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-2018-en-mon-jardin-diptyque-130x194-acrylique-pastel-sec-fusain-sur-toile-4000-eur-les-2.JPG"
   technique: 'Acrylique, fusain et pastels secs sur toile '
   fields: []
   dimensions:
@@ -89,7 +89,7 @@ works:
   price: 4000
   contextual: true
 - title: 'Diptyque en situation '
-  image: "/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-wadecki-diptyque-es.jpg"
   fields: []
   dimensions:
     height: 0
@@ -99,7 +99,7 @@ works:
   price: 4000
   contextual: false
 - title: 'Sans titre N°1 '
-  image: "/forestry/ewadecki-sans-titre-n-1-acrylique-huile-pastels-secs120x150-2017-3000eur-7-1000.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ewadecki-sans-titre-n-1-acrylique-huile-pastels-secs120x150-2017-3000eur-7-1000.jpg"
   technique: 'Acrylique et pastel sec sur toile '
   fields: []
   dimensions:
@@ -110,7 +110,7 @@ works:
   price: 3000
   contextual: true
 - title: En mon jardin N°1 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg"
   technique: 'Acrylique bâtons d''huile sur toile '
   dimensions:
     height: 150
@@ -119,7 +119,7 @@ works:
   price: 3500
   contextual: true
 - title: En mon jardin N°4 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG"
   technique: Acrylique et bâtons d'huile sur toile
   dimensions:
     height: 97
@@ -128,7 +128,7 @@ works:
   price: 2200
   contextual: true
 - title: En mon jardin N°4 Papier marouflé sur toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG"
   technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
   dimensions:
     height: 100
@@ -138,7 +138,7 @@ works:
   price: 1800
   contextual: true
 - title: En mon jardin N°7 Papier
-  image: "/forestry/en-mon-jardin-ndegree7.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-mon-jardin-ndegree7.jpg"
   technique: Acrylique et bâtons d'huile sur papier
   dimensions:
     height: 54
@@ -151,7 +151,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: En mon jardin N°8 Papier
-  image: "/forestry/en-mon-jardin-ndegree6.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-mon-jardin-ndegree6.jpg"
   technique: Acrylique et bâtons d’huile sur papier
   dimensions:
     height: 54
@@ -164,7 +164,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Sans titre N°4 Toile marouflée
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg"
   technique: acrylique et pastels sur toile marouflée sur carton
   dimensions:
     height: 40
@@ -176,7 +176,7 @@ works:
   price: 550
   contextual: true
 - title: Sans Titre N°5 Toile marouflée
-  image: "/forestry/sans-titre-ndegree5.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-ndegree5.jpg"
   technique: Acrylique et pastel sur toile marouflée sur carton
   dimensions:
     height: 41
@@ -187,7 +187,7 @@ works:
   sold: false
   contextual: true
 - title: Sans Titre N°11 Toile
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG"
   technique: Acrylique et pastel sur toile
   dimensions:
     height: 100
@@ -198,7 +198,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre N°3 Papier
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg"
   technique: 'pastel et fusain sur papier '
   dimensions:
     height: 52
@@ -209,7 +209,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Sans Titre N°4 Papier
-  image: "/forestry/sans-titre-ndegree3.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-ndegree3.jpg"
   technique: Acrylique et pastel sur papier
   dimensions:
     height: 52
@@ -220,7 +220,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre N°8 Papier
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-8-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
     height: 31
@@ -229,7 +229,7 @@ works:
   price: 280
   contextual: true
 - title: Sans titre N°4 Papier
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-4-acrylique-et-batonsd-huile-surpapier-31x31-2019-280euros-baguette-bois-naturel.JPG"
   technique: 'Acrylique et bâtons d''huile sur papier '
   dimensions:
     height: 31
@@ -240,7 +240,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Le soleil se lève et tout devient nuit N°4
-  image: "/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg"
   technique: Acrylique, pastel fusain sur toile
   dimensions:
     height: 116
@@ -251,7 +251,7 @@ works:
   sold: false
   contextual: true
 - title: Si on allait N°1
-  image: "/forestry/si-on-allait-ndegree1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/si-on-allait-ndegree1.jpg"
   technique: Acrylique, pastels sur carton
   dimensions:
     height: 22
@@ -262,7 +262,7 @@ works:
   sold: false
   contextual: true
 - title: Si on allait N°5
-  image: "/forestry/si-on-allait-ndegree5.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/si-on-allait-ndegree5.jpg"
   technique: Acrylique, pastels sur carton
   dimensions:
     height: 22
@@ -273,7 +273,7 @@ works:
   sold: false
   contextual: true
 - title: Le Rai profond N°3 ouest
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-n-3ouest-30x57cm-2019-acrylique-pastelssecs-sur-papier-600euros.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-n-3ouest-30x57cm-2019-acrylique-pastelssecs-sur-papier-600euros.JPG"
   technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
@@ -286,7 +286,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Le Rai profond N°4 ouest
-  image: "/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg"
   technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
@@ -299,7 +299,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Sans Titre N° 11 (1/10)
-  image: "/forestry/sans-titre-110.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-110.jpg"
   technique: 'Tirage en quadrichromie '
   dimensions:
     height: 
@@ -312,7 +312,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Portrait d'Elisabeth Wadecki
-  image: "/forestry/galerie gaia elisabeth wadecki portrait.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia elisabeth wadecki portrait.JPG"
   dimensions:
     height: 0
     width: 0

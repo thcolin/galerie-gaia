@@ -22,7 +22,7 @@ content:
   contact:
     display: true
     placeholder: Renseignement courtage en art
-- column: "![](/forestry/galeriegaia@villegle-courtage-1.png)"
+- column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@villegle-courtage-1.png)"
   contact:
     display: false
     placeholder: ''
@@ -32,6 +32,6 @@ seo:
   type: website
   description: Conseil, sélection, négociation, livraison... Elisabeth Givre, directrice
     de Galerie Gaïa, courtier en art, accompagne vos acquisitions patrimoniales.
-  image: "/forestry/elisabeth givre- galerie gaia- article ouest france.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre- galerie gaia- article ouest france.png"
 
 ---

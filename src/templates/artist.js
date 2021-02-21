@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-// import { withPrefix } from 'gatsby'
 import { Redirect } from '@reach/router'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
@@ -13,11 +12,10 @@ import Carousel, { Dots } from '@brainhubeu/react-carousel'
 import '@brainhubeu/react-carousel/lib/style.css'
 import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
-import theme from 'theme'
 import rmmd from 'remove-markdown'
 import { truncate } from 'utils/string'
-
-const withPrefix = (uri) => `https://galerie-gaia.s3.eu-west-3.amazonaws.com${uri}`
+import { fromFilesystem2S3 } from 'utils/resolve'
+import theme from 'theme'
 
 const Artist = ({ location, ...props }) => {
   const { pageContext: { frontmatter } } = props
@@ -131,7 +129,7 @@ const Artist = ({ location, ...props }) => {
                             name,
                             value: (
                               typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                              name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${withPrefix(work.image)}` :
+                              name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${fromFilesystem2S3(work.image)}` :
                               work[name]
                             ),
                           })),
@@ -156,7 +154,7 @@ const Artist = ({ location, ...props }) => {
                         name,
                         value: (
                           typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${withPrefix(work.image)}` :
+                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${fromFilesystem2S3(work.image)}` :
                           work[name]
                         ),
                       })),
@@ -175,7 +173,7 @@ const Artist = ({ location, ...props }) => {
                         name,
                         value: (
                           typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${withPrefix(work.image)}` :
+                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${fromFilesystem2S3(work.image)}` :
                           work[name]
                         ),
                       })),

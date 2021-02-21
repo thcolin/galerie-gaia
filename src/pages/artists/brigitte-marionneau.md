@@ -39,7 +39,7 @@ biography: "# Brigitte Marionneau \n\nAprès la mise en forme de la pièce dans 
   personnelle au volume architecturé.\n\nCrédit photo Michael Franken"
 works:
 - title: Contenir le vent 8-I
-  image: "/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg"
   technique: Numéro I
   fields: []
   styles: []
@@ -52,7 +52,7 @@ works:
   sold: false
   contextual: false
 - title: Contenir le vent 6-V
-  image: "/forestry/contenir-le-vent-6-v-2019-h-21x18x11cm-credit-photo-pascal-vangysel.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-6-v-2019-h-21x18x11cm-credit-photo-pascal-vangysel.jpg"
   technique: Terre enfumée
   fields: []
   styles: []
@@ -65,7 +65,7 @@ works:
   sold: false
   contextual: false
 - title: Contenir le vent 9-XI
-  image: "/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg"
   technique: Terre enfumée
   fields: []
   styles: []
@@ -78,7 +78,7 @@ works:
   sold: false
   contextual: false
 - title: Contenir le vent 8-X
-  image: "/forestry/contenir-le-vent-8-x-2019-h-25x15x7cm-credit-photo-michael-franken.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-8-x-2019-h-25x15x7cm-credit-photo-michael-franken.jpg"
   technique: Terre enfumée
   fields: []
   styles: []
@@ -91,7 +91,7 @@ works:
   sold: false
   contextual: false
 - title: Le geste
-  image: "/forestry/geste-credit-photo-anthony-girardi.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/geste-credit-photo-anthony-girardi.jpg"
   technique: ''
   fields: []
   styles: []
@@ -104,7 +104,7 @@ works:
   sold: false
   contextual: true
 - title: Atelier
-  image: "/forestry/atelier-brigitte-marionneau-credit-photo-michael-franken.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier-brigitte-marionneau-credit-photo-michael-franken.jpg"
   technique: ''
   fields: []
   styles: []
@@ -117,7 +117,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait Brigitte Marionneau
-  image: "/forestry/portrait-brigitte-marionneau.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-brigitte-marionneau.JPG"
   technique: ''
   fields: []
   styles: []

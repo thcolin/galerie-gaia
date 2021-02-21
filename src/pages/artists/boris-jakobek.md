@@ -28,7 +28,7 @@ biography: "# Boris Jakobek\n\nBoris Jakobek fréqente l'Ecole des Beaux Arts de
 exhibitions: []
 works:
 - title: The footbridge of sadness
-  image: "/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg"
   technique: 'Sérigraphie 7 passes - 20 exemplaires sur Olin 300g '
   dimensions:
     height: 70
@@ -38,7 +38,7 @@ works:
   price: 300
   contextual: true
 - title: Un véritable remodelage de la planète
-  image: "/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Jakobek_un véritable remodelage de la planète_70X50.jpg"
   technique: 'sérigraphie 2 couleurs  papier Olin 300g '
   dimensions:
     height: 70
@@ -47,7 +47,7 @@ works:
   price: 200
   contextual: true
 - title: La ruine
-  image: "/forestry/galeriegaia_Jakobek_LA RUINE_70X50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Jakobek_LA RUINE_70X50.jpg"
   technique: sérigraphie 1 couleurs papier Popset 320g
   dimensions:
     height: 70
@@ -56,7 +56,7 @@ works:
   price: 120
   contextual: true
 - title: Ho visto
-  image: "/forestry/galeriegaia_Jakobek_(Ho visto 4_21_70x50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Jakobek_(Ho visto 4_21_70x50.jpg"
   technique: sérigraphie 4 couleurs papier Olin 300g
   dimensions:
     height: 70
@@ -65,7 +65,7 @@ works:
   price: 200
   contextual: true
 - title: 'Météorologie d''un prisme '
-  image: "/forestry/ligne-noire-320.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ligne-noire-320.jpg"
   technique: Sérigraphie 4 couleurs papier 0lin 300gr
   dimensions:
     height: 70
@@ -76,7 +76,7 @@ works:
   sold: false
   contextual: true
 - title: Le réveil
-  image: "/forestry/reveil.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reveil.jpg"
   technique: 'Sérigraphie  4 couleurs  papier Olin 300g '
   dimensions:
     height: 70
@@ -87,7 +87,7 @@ works:
   sold: false
   contextual: true
 - title: Schlaasss
-  image: "/forestry/822.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/822.jpg"
   technique: 'sérigraphie  6 couleurs papier Olin 300g '
   dimensions:
     height: 70
@@ -98,7 +98,7 @@ works:
   sold: false
   contextual: true
 - title: La coupe
-  image: "/forestry/la-coupe.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-coupe.jpg"
   technique: sérigraphie /20
   dimensions:
     height: 70
@@ -111,7 +111,7 @@ works:
   sold: false
   contextual: true
 - title: sans titre (Donald)
-  image: "/forestry/donald-11.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/donald-11.jpg"
   technique: Sérigraphie papier Olin 300 gr
   dimensions:
     height: 70
@@ -122,7 +122,7 @@ works:
   sold: false
   contextual: true
 - title: 'Il avait besoin d''une boussole '
-  image: "/forestry/homme-courbe-1550.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/homme-courbe-1550.jpg"
   technique: Sérigraphie 3 couleurs  papier Popset 320g
   dimensions:
     height: 70
@@ -133,7 +133,7 @@ works:
   sold: false
   contextual: true
 - title: 'La réunion '
-  image: "/forestry/la-reunion-320.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-reunion-320.jpg"
   technique: Sérigraphie 3 couleurs papier Olin 300g
   dimensions:
     height: 70
@@ -144,7 +144,7 @@ works:
   sold: false
   contextual: true
 - title: sans titre (les marcheurs)
-  image: "/forestry/les-marcheurs-11.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-marcheurs-11.jpg"
   technique: 'Sérigraphie papier Olin 300gr '
   dimensions:
     height: 70
@@ -155,7 +155,7 @@ works:
   sold: false
   contextual: true
 - title: Les oreilles qui saignent
-  image: "/forestry/les-oreilles-qui-saignent-714.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-oreilles-qui-saignent-714.jpg"
   technique: 'Sérigraphie 3 couleurs papier Olin 300g '
   dimensions:
     height: 70
@@ -166,7 +166,7 @@ works:
   sold: false
   contextual: true
 - title: 'Sans titre '
-  image: "/forestry/main-11.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/main-11.jpg"
   technique: 'Sérigraphie papier Olin 300g '
   dimensions:
     height: 70
@@ -177,7 +177,7 @@ works:
   sold: false
   contextual: true
 - title: Dans les vapeurs
-  image: "/forestry/trois-points-1115.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trois-points-1115.jpg"
   technique: 'Sérigraphie 4 couleurs papier Olin 300g '
   dimensions:
     height: 70

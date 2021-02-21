@@ -13,7 +13,7 @@ content:
     cadre commerciale dans la grande distribution.\n* Ainsi je vous propose **mon
     expertise de chef de projet** et de **formateur en développement personnel pour
     Manpower Group** ,  \n  pour vous livrer un **projet clé en main  associant les
-    enjeux RH et RSE et**  couvrant vos ambitions de **communication interne et externe.**\n\n![](/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)\n\n###
+    enjeux RH et RSE et**  couvrant vos ambitions de **communication interne et externe.**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-fresqueRSE.jpg)\n\n###
     2. Une exposition dans votre entreprise\n\nEn tant que commissaire d'exposition
     je vous propose :\n\n* Une sélection d'[**artistes régionaux**](https://galeriegaia.fr/catalogue/
     \"artistes nantais galerie gaia\") **ou nationaux**  pour créer une **expérience
@@ -21,15 +21,15 @@ content:
     choix d'artistes pour vivre une **performance en live** lors d'une soirée privée,
     d'un congrès, d'un anniversaire mémoriel.\n* La prise en charge de toute **la
     logistique** (transport - installation - scénographie).\n\n  _Exposition dans
-    le hall du groupe Keran_\n\n  ![](/forestry/galeriegaia@keran@basso.jpg \"Keran
+    le hall du groupe Keran_\n\n  ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@keran@basso.jpg \"Keran
     exposition Giani Basso\")\n\n  _Fresque  70 ans groupe Adélis - Artiste Kazy Usclef_\n\n
-    \ ![Artiste Kazy Usclef](/forestry/galeriegaia@kazy-adelis.JPG \"Adelis 70 ans
+    \ ![Artiste Kazy Usclef](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG \"Adelis 70 ans
     \")\n\n### **3. Trophée original et artistique**\n\nLa remise d'un trophée lors
     d'un **challenge sportif ou une incentive interne** est  un moment singulier car
     très photographié et **diffusé sur les réseaux sociaux.**  \nJe vous propose de
     **vous démarquer** avec à la réalisation par un artiste d'un trophée qui sera
     à la hauteur de votre évènement.\n\n_Trophée de l'Open International de Squash
-    Nantes par Go Segawa_\n\n![Artiste Go Segawa](/forestry/galeriegaia@opensquash2018.jpg
+    Nantes par Go Segawa_\n\n![Artiste Go Segawa](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@opensquash2018.jpg
     \"Open International Squash\")"
   contact:
     display: true
@@ -41,7 +41,7 @@ seo:
   description: 'Event arty, team building , évènement original d''entreprise, esprit
     créativité, fresque arty street art, RSE, marque employeur : faites appel à nous
     ! '
-  image: "/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg"
 redirect_from:
 - "/location-de-salle-a-nantes/"
 

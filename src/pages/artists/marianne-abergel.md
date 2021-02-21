@@ -41,7 +41,7 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
 exhibitions: []
 works:
 - title: Lièvres blancs
-  image: "/forestry/galerie-gaia-marianne-abergel-lievres-blanc-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievres-blanc-2020.jpg"
   technique: Grès émaillé
   fields: []
   styles:
@@ -54,7 +54,7 @@ works:
   price: 240
   contextual: false
 - title: Lièvre céladon
-  image: "/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg"
   technique: grès émaillé
   fields: []
   styles:
@@ -67,7 +67,7 @@ works:
   price: 280
   contextual: false
 - title: Lièvre turquoise
-  image: "/forestry/galerie-gaia-marianne-abergel-lievres-turquoise-2020.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievres-turquoise-2020.jpg"
   technique: Grès émaillé
   fields: []
   styles:
@@ -80,7 +80,7 @@ works:
   price: 200
   contextual: false
 - title: Frontalité 1
-  image: "/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne ABERGEL- Frontalité1- 46x22 cm.jpg"
   technique: Céramique
   dimensions:
     height: 46
@@ -90,7 +90,7 @@ works:
   price: 1500
   contextual: false
 - title: Sisters
-  image: "/forestry/galerie gaia -Marianne ABERGEL-Sisters- 39x19 cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne ABERGEL-Sisters- 39x19 cm.jpg"
   technique: 'Céramique '
   dimensions:
     height: 39
@@ -100,7 +100,7 @@ works:
   price: 1200
   contextual: false
 - title: Chimère cachée Le lièvre
-  image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-lièvre.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-lièvre.jpg"
   technique: Grès blanc et émail pointe or
   dimensions:
     height: 8
@@ -111,7 +111,7 @@ works:
   sold: false
   contextual: false
 - title: Chimère cachée La girafe
-  image: "/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-girafe.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne ABERGEL-chimère cachée-girafe.jpg"
   technique: Porcelaine et or
   dimensions:
     height: 10
@@ -122,7 +122,7 @@ works:
   sold: false
   contextual: true
 - title: 'Portrait d''atelier '
-  image: "/forestry/galeriegaia-portrait Marianne Abergel- 2019.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-portrait Marianne Abergel- 2019.jpg"
   dimensions:
     height: 0
     width: 0

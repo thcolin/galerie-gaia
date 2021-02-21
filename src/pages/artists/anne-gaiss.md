@@ -33,7 +33,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Rivage
-  image: "/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
   technique: 'Papier brut couleur blanche naturelle incision au scalpel '
   dimensions:
     height: 70
@@ -50,9 +50,9 @@ works:
   description: ''
   price: ''
   contextual: true
-  image: "/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
 - title: Nigredo
-  image: "/forestry/nigredo.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo.jpg"
   technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
     height: 68
@@ -63,7 +63,7 @@ works:
   sold: false
   contextual: true
 - title: Rubedo
-  image: "/forestry/RUBEDOV2.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/RUBEDOV2.jpg"
   technique: Incisions au scalpel sur feuille de cuivre marouflée sur papier traditionnel
     indien
   dimensions:
@@ -73,7 +73,7 @@ works:
   price: ''
   contextual: true
 - title: 'Détail de matière '
-  image: "/forestry/nigredo-vii.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo-vii.jpg"
   technique: Incisions sur feuille de cuivre
   dimensions:
     height: ''
@@ -84,7 +84,7 @@ works:
   sold: false
   contextual: true
 - title: 'Nigredo '
-  image: "/forestry/galeriegaia_Gais_titre_format(HxL)- 01.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Gais_titre_format(HxL)- 01.jpg"
   technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
     height: 68
@@ -96,7 +96,7 @@ works:
   sold: false
   contextual: false
 - title: Animus Anima 9
-  image: "/forestry/AG_2018_Animusanima9_60X76_papierciselé.argent.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AG_2018_Animusanima9_60X76_papierciselé.argent.jpg"
   technique: Incisions au scalpel sur feuille d’argent marouflée sur papier traditionnel
     indien
   dimensions:

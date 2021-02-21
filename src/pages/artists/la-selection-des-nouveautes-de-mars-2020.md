@@ -11,7 +11,7 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
 exhibitions: []
 works:
 - title: New Ex
-  image: "/forestry/galerie-gaia-exclu-new21.png"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png"
   fields: []
   styles: []
   dimensions:
@@ -22,7 +22,7 @@ works:
   price: ''
   contextual: false
 - title: Céramique de Corinne Guého
-  image: "/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
   technique: Grès ou porcelaine
   fields:
   - Céramique
@@ -38,7 +38,7 @@ works:
   price: 10
   contextual: true
 - title: Mala bestia 2
-  image: "/forestry/galerie-gaia-rycho-robak02.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak02.jpg"
   technique: Impression photo et peinture sous verre
   fields:
   - Photographie
@@ -52,7 +52,7 @@ works:
   price: 0
   contextual: true
 - title: Livre d'artiste de Toma L
-  image: "/forestry/projetvasy_72dpi_vuedessus.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/projetvasy_72dpi_vuedessus.jpg"
   technique: Livre édité en 2000 exemplaires comportant un morceau d'une oeuvre numéroté
     x/2000
   fields: []
@@ -66,7 +66,7 @@ works:
   price: 120
   contextual: false
 - title: Paige de Dimitri Roubichou
-  image: "/forestry/dimitri-roubichou-paige-jpeg.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-paige-jpeg.JPG"
   technique: 'Photographie tirage papier baryté 9 exemplaires '
   fields:
   - Photographie
@@ -83,7 +83,7 @@ works:
   price: 250
   contextual: true
 - title: Gravure de Jean Paul Friol
-  image: "/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg"
   technique: 'gravure sur platre édition 13/20 '
   fields:
   - Oeuvre sur papier
@@ -98,7 +98,7 @@ works:
   price: 120
   contextual: true
 - title: Gravure  Renaud Allirand
-  image: "/forestry/galerie-gaia-allirand-en-situation.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-allirand-en-situation.jpg"
   technique: eau-forte édition limitée
   fields:
   - Oeuvre sur papier
@@ -115,7 +115,7 @@ works:
   price: 80
   contextual: true
 - title: Gérard Traquandi sans titre 16/19
-  image: "/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
   technique: Eau forte 16/19
   fields:
   - Oeuvre sur papier
@@ -129,7 +129,7 @@ works:
   price: 550
   contextual: true
 - title: Primitive N°1 de Pierre Tual
-  image: "/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
   technique: Fer recuit
   fields:
   - Sculpture
@@ -144,7 +144,7 @@ works:
   price: 2500
   contextual: false
 - title: 'Théâtre caché de Dimitri Bourriau '
-  image: "/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg"
   technique: 'photographie '
   dimensions:
     height: 30
@@ -157,7 +157,7 @@ works:
   fields:
   - Photographie
 - title: Loire de Mathilde Guiho
-  image: "/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
   technique: 'Photographie '
   dimensions:
     height: 9
@@ -170,7 +170,7 @@ works:
   fields:
   - photographie
 - title: Petit carton de Marie Bathellier
-  image: "/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
   dimensions:
     height: 0
     width: 0
@@ -182,7 +182,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Grès 5 par Jacqueline Pécantet
-  image: "/forestry/dscf9191-copie.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf9191-copie.JPG"
   technique: Crin de cheval sur grès, poli au galet
   dimensions:
     height: 0
@@ -193,7 +193,7 @@ works:
   price: 140
   contextual: true
 - title: Jardin des plantes par Tangui Robert
-  image: "/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 40
@@ -204,7 +204,7 @@ works:
   price: 450
   contextual: true
 - title: Contenir le vent 9-XI de Brigitte Marionneau
-  image: "/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg"
   technique: 'Terre enfumée '
   dimensions:
     height: 17
@@ -219,7 +219,7 @@ works:
   styles:
   - abstrait
 - title: Cellule chardon de Muriel Kerba
-  image: "/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg"
   dimensions:
     height: 70
     width: 50
@@ -234,7 +234,7 @@ works:
   styles:
   - abstrait
 - title: Dessin ruban  de Françoise Paressant
-  image: "/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg"
   technique: 'Acrylique sur feutre '
   dimensions:
     height: 40
@@ -247,7 +247,7 @@ works:
   styles:
   - abstrait
 - title: GO SEGAWA - Mass
-  image: "/forestry/go-segawa-mass.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/go-segawa-mass.jpg"
   technique: Sérigraphie 3/25 (2019)
   dimensions:
     height: 6
@@ -259,7 +259,7 @@ works:
   sold: false
   contextual: true
 - title: 'Failles #35 Versants'
-  image: "/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg"
   technique: Sérigraphie
   dimensions:
     height: 70

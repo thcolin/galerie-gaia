@@ -31,7 +31,7 @@ biography: "# Xavier Jallais\n\nNé en 1971, Xavier Jallais vit et travaille à 
 exhibitions: []
 works:
 - title: Automorphie Structure tridimensionnelle 1
-  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-structure-tridimentionnelle-1-60x60.JPG"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-structure-tridimentionnelle-1-60x60.JPG"
   technique: Collage de sable, cendre, acrylique et huile sur toile.
   dimensions:
     height: 60
@@ -46,7 +46,7 @@ works:
   fields:
   - Peinture
 - title: Espace géométrique VII
-  image: "/forestry/galerie-gaia-xavier-jallais-espace-geometrique-vii-120x100.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-espace-geometrique-vii-120x100.jpg"
   technique: Dessin, collage, aquarelle, pastel, acrylique sur papier
   fields:
   - Oeuvre sur papier
@@ -59,7 +59,7 @@ works:
   price: 1200
   contextual: true
 - title: Espace géométrique II
-  image: "/forestry/galerie-gaia-xavier-jallais-espace-geometrique-ii-76x56.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-espace-geometrique-ii-76x56.jpg"
   technique: Dessin, collage, pastel, aquarelle, acrylique sur papier
   fields:
   - Oeuvre sur papier
@@ -72,7 +72,7 @@ works:
   price: 550
   contextual: true
 - title: Polyèdre VI
-  image: "/forestry/galerie-gaia-xavier-jallais-polyedre-vi-25x20-25x35.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-polyedre-vi-25x20-25x35.jpg"
   technique: Eau forte sur zinc sur papier RBK Rives 300g/m2
   fields:
   - Oeuvre sur papier
@@ -85,7 +85,7 @@ works:
   price: 150
   contextual: true
 - title: Automorphie double structure blanche
-  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-double-structure-blanche-130x97.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-double-structure-blanche-130x97.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   fields:
   - Peinture
@@ -98,7 +98,7 @@ works:
   price: 2300
   contextual: true
 - title: Automorphie structure géométrique II
-  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-structure-geometrique-ii-81x65.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-structure-geometrique-ii-81x65.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   fields:
   - Peinture
@@ -111,7 +111,7 @@ works:
   price: 1000
   contextual: true
 - title: Automorphie ligne blanche I
-  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-ligneblanche-130x97.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-ligneblanche-130x97.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   fields:
   - Peinture
@@ -124,7 +124,7 @@ works:
   price: 2300
   contextual: true
 - title: Automorphie architecture I
-  image: "/forestry/galerie-gaia-xavier-jallais-automorphie-architecture-i-130x97.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-architecture-i-130x97.jpg"
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   fields:
   - Peinture
@@ -137,7 +137,7 @@ works:
   price: 2300
   contextual: true
 - title: Prendre son envol
-  image: "/forestry/galeriegaia-Xavier Jallais - Prendre son envol - 30 x 40.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier Jallais - Prendre son envol - 30 x 40.jpg"
   technique: 'Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2 '
   dimensions:
     height: 30
@@ -148,7 +148,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Le feu pour attribut
-  image: "/forestry/galeriegaia-Xavier Jallais - Le feu pour attribut - 40 x 50.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier Jallais - Le feu pour attribut - 40 x 50.jpg"
   technique: Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2
   dimensions:
     height: 50
@@ -159,7 +159,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Automorphie Grande Structure
-  image: "/forestry/automorphie-grande-structure.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/automorphie-grande-structure.jpg"
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
   dimensions:
     height: 150
@@ -172,7 +172,7 @@ works:
   fields:
   - Peinture
 - title: Le défi de Thésée (2/11)
-  image: "/forestry/le-defi-de-thesee-211.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-defi-de-thesee-211.jpg"
   technique: Eau forte sur zinc, tirage 11 ex sur RBK Rives 300g/m²
   dimensions:
     height: 50
@@ -185,7 +185,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Cerf 1 (4/7)
-  image: "/forestry/cerf-1-47.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
@@ -198,7 +198,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Double stigmates (1/7)
-  image: "/forestry/double-stigmates-17.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double-stigmates-17.jpg"
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46

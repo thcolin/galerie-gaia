@@ -20,7 +20,7 @@ biography: |-
 exhibitions: []
 works:
 - title: 'Abandoned place #4'
-  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg"
   technique: 'Photographie tirage en 10 exemplaires '
   fields:
   - Photographie
@@ -34,7 +34,7 @@ works:
   price: 500
   contextual: true
 - title: 'Abandoned place #2'
-  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg"
   technique: 'Photographie tirage en 10 exemplaires '
   fields:
   - Photographie
@@ -48,7 +48,7 @@ works:
   price: 500
   contextual: true
 - title: 'Abandoned place #1'
-  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg"
   technique: 'Photographie en 10 exemplaires '
   fields:
   - Photographie
@@ -62,7 +62,7 @@ works:
   price: 500
   contextual: true
 - title: 2/04/68
-  image: "/forestry/20468.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20468.jpg"
   technique: Mixte sur toile
   dimensions:
     height: 130
@@ -75,7 +75,7 @@ works:
   sold: false
   contextual: true
 - title: 03/01/18 14:15
-  image: "/forestry/030118-1415.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg"
   technique: 'Mixte : spray & acrylique sur bois'
   dimensions:
     height: 100
@@ -86,7 +86,7 @@ works:
   sold: false
   contextual: true
 - title: Thomas 1980
-  image: "/forestry/thomas-1980.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/thomas-1980.jpg"
   technique: ''
   dimensions:
     height: 
@@ -97,7 +97,7 @@ works:
   sold: false
   contextual: true
 - title: Inconnue#1
-  image: "/forestry/inconnue1.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/inconnue1.jpg"
   technique: Spray et acrylique sur bois
   dimensions:
     height: 100
@@ -108,7 +108,7 @@ works:
   sold: false
   contextual: true
 - title: 'Abandoned place #3'
-  image: "/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg"
   technique: 'Photographie tirage en 10 exemplaires '
   fields:
   - Photographie
@@ -122,7 +122,7 @@ works:
   price: 500
   contextual: true
 - title: Fresque Nantes Rue Arche Sèche
-  image: "/forestry/galerie-gaia-edwin-wide-fresque-arche-seche-nantes.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-fresque-arche-seche-nantes.jpg"
   technique: Fresque
   fields: []
   styles: []
@@ -134,7 +134,7 @@ works:
   price: 0
   contextual: false
 - title: Edwin Wide
-  image: "/forestry/edwin-wide.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/edwin-wide.jpg"
   technique: ''
   dimensions:
     height: 

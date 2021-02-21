@@ -30,7 +30,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Cube plié chêne brut
-  image: "/forestry/galeriegaia-daha-cube-chene-brut.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-daha-cube-chene-brut.jpg"
   technique: 'cube en chêne massif brut '
   fields: []
   styles: []
@@ -42,7 +42,7 @@ works:
   price: 500
   contextual: true
 - title: Cube plié Or
-  image: "/forestry/galerie-gaia-damie-hamon-daha-cube huilé.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damie-hamon-daha-cube huilé.jpg"
   technique: Cube en chêne massif et feuille d'or
   dimensions:
     height: 39
@@ -54,7 +54,7 @@ works:
   sold: false
   contextual: false
 - title: Cube plié Or
-  image: "/forestry/cubes-plies.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cubes-plies.jpg"
   technique: bois massif peint
   dimensions:
     height: 28
@@ -66,7 +66,7 @@ works:
   sold: false
   contextual: false
 - title: Fauteuil Ellipse
-  image: "/forestry/fauteuil-ellipse.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fauteuil-ellipse.jpg"
   technique: ''
   dimensions:
     height: 
@@ -77,7 +77,7 @@ works:
   sold: false
   contextual: true
 - title: Valet
-  image: "/forestry/valet.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valet.jpg"
   technique: chêne massif
   dimensions:
     height: 98
@@ -89,7 +89,7 @@ works:
   sold: false
   contextual: true
 - title: Console
-  image: "/forestry/console.jpg"
+  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/console.jpg"
   technique: ''
   dimensions:
     height: 
