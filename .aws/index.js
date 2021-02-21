@@ -36,7 +36,7 @@ exports.handler = async (event, context, callback) => {
   try {
     const original = await sharp(forestry.Body).resize(1920).toBuffer()
     console.log('S3 putObject', { Bucket, Key: `originals/${slugified}` })
-    await s3.putObject({ Bucket, Key: `originals/${slugified}`, Body: original, ContentType: 'image', ACL:'public-read' }).promise()
+    await s3.putObject({ Bucket, Key: `originals/${slugified}`, Body: original, ContentType: 'image', ACL: 'public-read' }).promise()
     console.log(`Successfully resized ${Bucket}/${folder}/${file} and uploaded to ${Bucket}/originals/${slugified}`)
   } catch (error) {
     console.log(error)
@@ -46,7 +46,7 @@ exports.handler = async (event, context, callback) => {
   try {
     const original = await sharp(forestry.Body).resize(512).toBuffer()
     console.log('S3 putObject', { Bucket, Key: `thumbnails/${slugified}` })
-    await s3.putObject({ Bucket, Key: `thumbnails/${slugified}`, Body: original, ContentType: 'image', ACL:'public-read' }).promise()
+    await s3.putObject({ Bucket, Key: `thumbnails/${slugified}`, Body: original, ContentType: 'image', ACL: 'public-read' }).promise()
     console.log(`Successfully thumbnailed ${Bucket}/${folder}/${file} and uploaded to ${Bucket}/thumbnails/${slugified}`)
   } catch (error) {
     console.log(error)
@@ -61,7 +61,7 @@ exports.handler = async (event, context, callback) => {
       turnPolicy: potrace.Potrace.TURNPOLICY_MAJORITY,
     }, (err, svg) => err ? reject(err) : resolve(Buffer.from(svg))))
     console.log('S3 putObject', { Bucket, Key: `${slugified.slice(0, -ext.length)}.svg` })
-    await s3.putObject({ Bucket, Key: `traces/${slugified.slice(0, -ext.length)}.svg`, Body: trace, ContentType: 'image', ACL:'public-read' }).promise()
+    await s3.putObject({ Bucket, Key: `traces/${slugified.slice(0, -ext.length)}.svg`, Body: trace, ContentType: 'image', ACL: 'public-read' }).promise()
     console.log(`Successfully traced ${Bucket}/${folder}/${file} and uploaded to ${Bucket}/traces/${slugified.slice(0, -ext.length)}.svg`)
   } catch (error) {
     console.log(error)
