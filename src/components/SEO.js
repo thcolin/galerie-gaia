@@ -1,11 +1,13 @@
 import React from 'react'
-import { withPrefix } from 'gatsby'
+// import { withPrefix } from 'gatsby'
 import { Helmet } from 'react-helmet'
+
+const withPrefix = (uri) => `https://galerie-gaia.s3.eu-west-3.amazonaws.com${uri}`
 
 const SEO = ({ title, description, type, image, pageContext }) => {
   const img = [
     pageContext.site.siteMetadata.siteUrl,
-    withPrefix((image || '').replace(/^\/forestry/, '/cdn').replace(/\.(png|jpe?g)$/i, match => match.toLowerCase())),
+    withPrefix((image || '').replace(/^\/forestry/, '/originals').replace(/\.(png|jpe?g)$/i, match => match.toLowerCase())),
   ].join('')
 
   return (

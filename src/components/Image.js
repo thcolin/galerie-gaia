@@ -1,10 +1,12 @@
 import React, { useState, useCallback } from 'react'
-import { withPrefix } from 'gatsby'
+// import { withPrefix } from 'gatsby'
 import { LazyLoadImage } from 'react-lazy-load-image-component'
 import slug from 'slug'
 import theme from 'theme'
 
-const Image = ({ min = true, trace = true, src = '', alt = '', source = 'cdn', ...props }) => {
+const withPrefix = (uri) => `https://galerie-gaia.s3.eu-west-3.amazonaws.com${uri}`
+
+const Image = ({ min = true, trace = true, src = '', alt = '', source = 'originals', ...props }) => {
   const dirname = src.split('/').slice(0, -1).join('/')
   const stem = slug(src.split('/').pop().split('.').slice(0, -1).join('.').replace(/°/, 'degree'), { lower: true })
   const extname = `.${src.split('.').pop().toLocaleLowerCase()}`

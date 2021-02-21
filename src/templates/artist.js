@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { withPrefix } from 'gatsby'
+// import { withPrefix } from 'gatsby'
 import { Redirect } from '@reach/router'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
@@ -16,6 +16,8 @@ import 'react-medium-image-zoom/dist/styles.css'
 import theme from 'theme'
 import rmmd from 'remove-markdown'
 import { truncate } from 'utils/string'
+
+const withPrefix = (uri) => `https://galerie-gaia.s3.eu-west-3.amazonaws.com${uri}`
 
 const Artist = ({ location, ...props }) => {
   const { pageContext: { frontmatter } } = props
