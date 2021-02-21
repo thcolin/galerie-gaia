@@ -49,8 +49,8 @@ sections:
   label: Informations
   templates:
   - config
-upload_dir: static/forestry
-public_path: "/forestry"
+upload_dir: forestry
+public_path: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
