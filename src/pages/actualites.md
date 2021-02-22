@@ -11,6 +11,53 @@ seo:
   image: ''
 articles:
 - template: article
+  date: '2021-03-05T23:00:00Z'
+  categories:
+  - Exposition
+  title: En Février visitez des ateliers d'artistes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fevrier2020.jpg
+  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
+    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
+    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...\n\n**Feuilletez
+    le Catalogue** des artistes de la Galerie et contactez moi  \npour que **je vous
+    organise une visite privée** pour vous et/ou des proches dans la limite de 6 personnes.
+    Les **enfants et adolescents** sont fortement bienvenus, il y a des rendez-vous
+    à ne pas manquer avec la jeunesse.\n\nCette escapade artistique sera **un moment
+    personnel et privilégié** pour échanger tranquillement avec l'artiste dont l’œuvre
+    vous intrigue et ainsi vivre des émotions singulières qui resteront indélébiles.\n\nAteliers
+    et artistes prêts à vous accueillir :\n\n[Isthme ](https://galeriegaia.fr/artists/isthme/
+    \"isthme isabelle thomas\")- [Toma L](https://galeriegaia.fr/artists/toma-l/ \"thomas
+    l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
+    - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
+    Paressant - Pierre Tual..."
+- template: article
+  date: '2020-11-02T16:05:35Z'
+  categories:
+  - Interview
+  title: Interview de Laure Carré
+  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
+    "Interview Laure Carré")'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-laurecarre-portrait-artiste.jpg
+- template: article
+  date: '2020-11-02T16:10:55Z'
+  categories:
+  - Interview
+  title: Interview de Isthme
+  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
+    "Interview de Isabelle Thoams ")'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier_isthme_19_12_hd_05.jpg
+- template: article
+  date: '2021-01-29T10:28:33Z'
+  categories:
+  - Exposition
+  title: Peinture fraîche...Chantier en cours !
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg
+  content: "Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !  \nCela
+    mérite bien quelques travaux pour être encore plus beau pour sa réouverture en
+    Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
+    le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
+    vite et suivez nos actualités sur Instagram galeriegaianantes"
+- template: article
   categories:
   - Éxposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerrecto-galerie-gaia-molliere.jpg
@@ -553,53 +600,6 @@ articles:
     LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère\n\nwww.chambre21.fr\n\n_Du
     04/22/2016 au 05/14/2016_"
   date: ''
-- template: article
-  date: '2021-03-05T23:00:00Z'
-  categories:
-  - Exposition
-  title: En Février visitez des ateliers d'artistes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fevrier2020.jpg
-  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
-    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
-    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...\n\n**Feuilletez
-    le Catalogue** des artistes de la Galerie et contactez moi  \npour que **je vous
-    organise une visite privée** pour vous et/ou des proches dans la limite de 6 personnes.
-    Les **enfants et adolescents** sont fortement bienvenus, il y a des rendez-vous
-    à ne pas manquer avec la jeunesse.\n\nCette escapade artistique sera **un moment
-    personnel et privilégié** pour échanger tranquillement avec l'artiste dont l’œuvre
-    vous intrigue et ainsi vivre des émotions singulières qui resteront indélébiles.\n\nAteliers
-    et artistes prêts à vous accueillir :\n\n[Isthme ](https://galeriegaia.fr/artists/isthme/
-    \"isthme isabelle thomas\")- [Toma L](https://galeriegaia.fr/artists/toma-l/ \"thomas
-    l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
-    - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
-    Paressant - Pierre Tual..."
-- template: article
-  date: '2021-01-29T10:28:33Z'
-  categories:
-  - Exposition
-  title: Peinture fraîche...Chantier en cours !
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg
-  content: "Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !  \nCela
-    mérite bien quelques travaux pour être encore plus beau pour sa réouverture en
-    Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
-    le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
-    vite et suivez nos actualités sur Instagram galeriegaianantes"
-- template: article
-  date: '2020-11-02T16:10:55Z'
-  categories:
-  - Interview
-  title: Interview de Isthme
-  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
-    "Interview de Isabelle Thoams ")'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier_isthme_19_12_hd_05.jpg
-- template: article
-  date: '2020-11-02T16:05:35Z'
-  categories:
-  - Interview
-  title: Interview de Laure Carré
-  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
-    "Interview Laure Carré")'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-laurecarre-portrait-artiste.jpg
 - template: article
   categories:
   - Éxposition
