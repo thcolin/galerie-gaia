@@ -4,10 +4,11 @@ redirect_from:
 - "/expositions"
 seo:
   title: Actualités - Galerie Gaïa, galerie d'art contemporain à Nantes
-  heading: Actualités de la Galerie Gaïa à Nantes
+  heading: Actualités de la Galerie Gaia à Nantes
   type: website
-  description: Peinture, sculpture, estampe, photographie… Découvrez les expositions
-    du moment recommandées par la Galerie Gaïa, galerie d'art contemporain à Nantes.
+  description: Peinture, sculpture, estampe, dessin, photographie… Découvrez les expositions
+    du moment recommandées par la Galerie Gaïa, galerie d'art contemporain à Nantes,
+    galerie art contemporain nantes
   image: ''
 articles:
 - template: article
