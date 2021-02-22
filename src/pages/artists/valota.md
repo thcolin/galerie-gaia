@@ -101,7 +101,7 @@ exhibitions:
   end: "270615"
 works:
 - title: Quiet days under the trees 13
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-73x60.jpg
   technique: Cire et pigments sur bois
   dimensions:
     height: 135
@@ -111,8 +111,8 @@ works:
   price: 6000
   contextual: true
   fields: []
-- title: Tour morodrée noire
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valota-tour-noir-mordore-hauteur-57cm-diametre-42cm-ceramique-2019.jpg"
+- title: Tour mordorée noire
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valota-tour-noir-mordore-hauteur-57cm-diametre-42cm-ceramique-2019.jpg
   technique: Céramique
   dimensions:
     height: 57
@@ -133,7 +133,7 @@ works:
   fields:
   - Céramique
 - title: Tour mordorée noire
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg
   technique: Céramique
   dimensions:
     height: 57
@@ -145,7 +145,7 @@ works:
   fields:
   - Céramique
 - title: Quiet days under the trees 6
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg
   technique: Cire et pigments sur bois
   dimensions:
     height: 73
@@ -155,7 +155,7 @@ works:
   price: 2800
   contextual: true
 - title: Quiet days under the trees 5
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-5-65x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-5-65x50.jpg
   technique: Cire et pigments sur bois
   dimensions:
     height: 73
@@ -165,7 +165,7 @@ works:
   price: 2800
   contextual: true
 - title: Quiet days under the trees 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-2-30x24.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-2-30x24.jpg
   technique: Cire et pigments sur bois
   dimensions:
     height: 30
@@ -175,7 +175,7 @@ works:
   price: 580
   contextual: true
 - title: Quiet days under the trees 4
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-queit-days-under-the-trees-1-30x24.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-queit-days-under-the-trees-1-30x24.jpg
   technique: Cire et pigments sur bois
   dimensions:
     height: 30
@@ -185,7 +185,8 @@ works:
   price: 580
   contextual: true
 - title: 'Portrait de Valota '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-VALOTA -portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-VALOTA
+    -portrait.jpg
   dimensions:
     height: 0
     width: 0
