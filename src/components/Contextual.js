@@ -62,7 +62,7 @@ const Contextual = ({ work, ...props }) => {
         <div css={Contextual.styles.container}>
           <div css={Contextual.styles.body}>
             <div css={Contextual.styles.wall}>
-              <Image src={`/forestry/assets-wall-${key}.jpg`} rel="preload" />
+              <Image src={`https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/assets-wall-${key}.jpg`} rel="preload" />
               <div
                 css={Contextual.styles.work}
                 style={{

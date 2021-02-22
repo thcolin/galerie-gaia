@@ -63,7 +63,7 @@ const Home = ({ ...props }) => {
         />
         <Work
           title="Catalogue"
-          image="/forestry/assets-catalogue.jpg"
+          image="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/assets-catalogue.jpg"
           url="/catalogue"
         />
         {!!selection && (
