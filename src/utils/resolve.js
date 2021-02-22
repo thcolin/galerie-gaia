@@ -8,10 +8,10 @@ export function fromFilesystem2Gatsby (input, options = { extension: true }) {
   return input.replace(/src\/pages\//, '').replace(options.extension ? '' : /\.md$/, '')
 }
 
-export function fromFilesystem2S3 (input, source = 'originals') {
-  const base = input.split('/').slice(0, -2).join('/')
-  const stem = slug(input.split('/').pop().split('.').slice(0, -1).join('.').replace(/°/, 'degree'), { lower: true })
-  const extname = `.${input.split('.').pop().toLocaleLowerCase()}`
+export function fromFilesystem2S3 (input = '', source = 'originals') {
+  const base = (input || '').split('/').slice(0, -2).join('/')
+  const stem = slug((input || '').split('/').pop().split('.').slice(0, -1).join('.').replace(/°/, 'degree'), { lower: true })
+  const extname = `.${(input || '').split('.').pop().toLocaleLowerCase()}`
   return `${base}/${source}/${stem}${source === 'traces' ? '.svg' : extname}`
 }
 
