@@ -48,19 +48,21 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
 exhibitions: []
 works:
 - title: 14P2906
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm 14p2906.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    14p2906.jpg
   technique: technique  mixte et huile sur toile sur  châssis
   dimensions:
     height: 222
     width: 183
     depth: 0
-  description: "2014"
+  description: "Visible à la galerie, en réserve   \n2014"
   price: 11500
   contextual: true
   fields:
   - Peinture
 - title: 14P2906 détail
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm 14p2906 detail.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    14p2906 detail.JPG
   technique: 'technique mixte et huile sur toile sur châssis '
   dimensions:
     height: 222
@@ -72,7 +74,7 @@ works:
   fields:
   - Peinture
 - title: 184c06051
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg
   technique: 'eau forte et carborundum sur cuivre imprimé sur papier BFK Rives '
   dimensions:
     height: 50
@@ -82,7 +84,7 @@ works:
   price: 1200
   contextual: true
 - title: 184c06051 Installation
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-184c06051-3x50x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-184c06051-3x50x50.jpg
   technique: Eau forte
   dimensions:
     height: 0
@@ -92,7 +94,7 @@ works:
   price: 1200
   contextual: true
 - title: 183c23041
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_183c23041-50X50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_183c23041-50X50.jpg
   technique: 'eau forte et carborendum sur cuivre imprimé sur papier BFK Rives '
   dimensions:
     height: 50
@@ -102,7 +104,7 @@ works:
   price: 1200
   contextual: true
 - title: 183c23041 Installation
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-183c23041-3x50x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-183c23041-3x50x50.jpg
   technique: 'eau-forte '
   dimensions:
     height: 0
@@ -112,7 +114,7 @@ works:
   price: 1200
   contextual: true
 - title: 182c16041
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg
   technique: eau forte et carborundum sur cuivre imprimé sur papier BFK Rives
   dimensions:
     height: 50
@@ -122,7 +124,7 @@ works:
   price: 1200
   contextual: true
 - title: 182c16041 Installation
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-183c23041-3x50x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-183c23041-3x50x50.jpg
   technique: eau-forte
   dimensions:
     height: 0
@@ -131,7 +133,8 @@ works:
   description: " 3 x 50cmx50cm"
   price: 1200
   contextual: true
-- image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 201R0023ABC in situ.jpg"
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 201R0023ABC
+    in situ.jpg
   dimensions:
     height: 65
     width: 50
@@ -144,7 +147,8 @@ works:
   technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
     margé
 - title: '201R0023 A+B+C oscillation de 3  angles à Entas '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 201R0023 ABC in situ.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 201R0023
+    ABC in situ.jpg
   technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
     margé
   dimensions:
@@ -156,7 +160,8 @@ works:
   price: 1200
   contextual: false
 - title: '203R0944 - composition à 6 angles  à Entas '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 203R0944.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 203R0944.jpg
   technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
     BFK Rives 250  gr/m2 margé
   dimensions:
@@ -170,7 +175,8 @@ works:
   price: 500
   contextual: true
 - title: '196J23091 et 196J23092 - 24  angles à Entas et renversement '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 196J23091 2.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 196J23091 2.jpg
   technique: Technique  gravure carborundum et pointe  sèche sur zinc imprimée sur
     Papier  BFK Rives 250 gr/m2 margé
   dimensions:
@@ -186,7 +192,8 @@ works:
   price: 1200
   contextual: true
 - title: '196J13065E  - 4 carrés à Entas juxtaposés '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 196J13065E .jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 196J13065E .jpg
   technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
     margé
   dimensions:
@@ -197,7 +204,8 @@ works:
   price: 1050
   contextual: true
 - title: '203R0943 - composition à 6 angles  à Entas '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 203R0943.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 203R0943.jpg
   technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
     BFK Rives 250  gr/m2 margé
   dimensions:
@@ -211,7 +219,8 @@ works:
   price: 500
   contextual: true
 - title: '196J23091 et 196J23092 - 24  angles à Entas et renversement '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 196J23091 .jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 196J23091 .jpg
   technique: Technique  gravure carborundum et pointe  sèche sur zinc imprimée sur
     Papier  BFK Rives 250 gr/m2 margé
   dimensions:
@@ -223,7 +232,8 @@ works:
   price: 1200
   contextual: true
 - title: 196J17101 H - 4 carrés à Entas  juxtaposés
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 196J17101H .jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 196J17101H .jpg
   technique: Technique  gravure carborundum  sur zinc imprimée sur  Papier BFK Rives
     250  gr/m2 margé
   dimensions:
@@ -234,19 +244,21 @@ works:
   price: 1050
   contextual: true
 - title: '14P1832263 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm 14p1832263 .jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    14p1832263 .jpg
   technique: Technique mixte et huile sur toile sur châssis
   dimensions:
     height: 226
     width: 183
     depth: 0
-  description: ''
+  description: 'Visible à la galerie, en réserve '
   price: 11500
   contextual: true
   fields:
   - Peinture
 - title: 203R0941 -  composition à 6 angles  à Entas -
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm p 203R0941.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
+    p 203R0941.jpg
   technique: Technique  gravure carborundum et  eau forte sur zinc  imprimée sur Papier
     BFK  Rives 250 gr/m2 margé
   dimensions:
@@ -257,7 +269,7 @@ works:
   price: 500
   contextual: true
 - title: 191J24012 (6/30)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/191j24012-330.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/191j24012-330.jpg
   technique: Carborundum sur zinc sur papier BFK Rives
   dimensions:
     height: 76
@@ -268,7 +280,7 @@ works:
   sold: false
   contextual: true
 - title: 14p1r1 - 14p1r2 - 14p1r3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r1-14p1r2-14p1r3.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r1-14p1r2-14p1r3.jpg
   technique: Gravure - Aquatinte sur cuivre sur papier BFK Rives
   dimensions:
     height: 47
@@ -280,7 +292,7 @@ works:
   sold: false
   contextual: false
 - title: 14p1r1 (8/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r1-811.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r1-811.jpg
   technique: Aquatinte sur cuivre sur papier BFK Rives
   dimensions:
     height: 47
@@ -291,7 +303,7 @@ works:
   sold: false
   contextual: true
 - title: 14p1r2 (8/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r2-811.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r2-811.jpg
   technique: Aquatinte sur cuivre sur papier BFK Rives
   dimensions:
     height: 47
@@ -302,7 +314,7 @@ works:
   sold: false
   contextual: true
 - title: 14p1r3 (8/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r3-811.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r3-811.jpg
   technique: Aquatinte sur cuivre sur papier BFK Rives
   dimensions:
     height: 47
@@ -313,7 +325,7 @@ works:
   sold: false
   contextual: true
 - title: 14c3-1 (9/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
   technique: Aquatinte
   dimensions:
     height: 50
@@ -324,7 +336,7 @@ works:
   sold: false
   contextual: true
 - title: 184J210811 (4/7)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210811-47.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210811-47.jpg
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
   dimensions:
     height: 75
@@ -335,7 +347,7 @@ works:
   sold: false
   contextual: true
 - title: 184J210831 (4/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210831-411.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210831-411.jpg
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
   dimensions:
     height: 76
@@ -346,7 +358,7 @@ works:
   sold: false
   contextual: true
 - title: 184J210821 (6/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210821-611.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210821-611.jpg
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
   dimensions:
     height: 76
@@ -357,7 +369,7 @@ works:
   sold: false
   contextual: true
 - title: 13R8-1 (9/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13r8-1-911.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13r8-1-911.jpg
   technique: Aquatinte
   dimensions:
     height: 65
@@ -368,7 +380,7 @@ works:
   sold: false
   contextual: true
 - title: 162R220613 (4/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/162r220613-411.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/162r220613-411.jpg
   technique: Aquatinte et pointe sèche sur cuivre sur papier BFK Rives
   dimensions:
     height: 66
@@ -379,7 +391,7 @@ works:
   sold: false
   contextual: true
 - title: 172J230921 (6/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/172j230921-611.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/172j230921-611.jpg
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
   dimensions:
     height: 76
@@ -390,7 +402,7 @@ works:
   sold: false
   contextual: true
 - title: 186s19111 (9/25)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19111-925.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19111-925.jpg
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
   dimensions:
     height: 25
@@ -401,7 +413,7 @@ works:
   sold: false
   contextual: true
 - title: 186s19112 (9/25)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19112-925.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19112-925.jpg
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
   dimensions:
     height: 25
@@ -412,7 +424,7 @@ works:
   sold: false
   contextual: true
 - title: 186s19113 (9/25)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19113-925.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19113-925.jpg
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
   dimensions:
     height: 25
@@ -423,7 +435,7 @@ works:
   sold: false
   contextual: true
 - title: 199p22051 (A+B)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_20190522_154750.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_20190522_154750.jpg
   technique: Technique mixte et huile sur toile (2 éléments déformés)
   dimensions:
     height: 41
@@ -434,7 +446,8 @@ works:
   sold: false
   contextual: false
 - title: Portrait Pierre Muckensturm
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre muckensturm portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
+    muckensturm portrait.jpg
   dimensions:
     height: 0
     width: 0

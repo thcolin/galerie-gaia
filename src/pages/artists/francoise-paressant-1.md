@@ -32,7 +32,7 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
 - title: Plage de la mine d'Or
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg
   technique: Feutre blanc teinté acrylique
   fields:
   - Textile
@@ -46,47 +46,8 @@ works:
   price: 4800
   sold: false
   contextual: true
-- title: Blason 002
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg"
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-- title: Blason 001
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg"
-  technique: Acrylique sur feutre
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-- title: Blason 003
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg"
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
 - title: CPJ 002
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg
   technique: 'Collages sur toile de papier japon teinté acrylique '
   fields: []
   styles: []
@@ -99,7 +60,7 @@ works:
   sold: false
   contextual: true
 - title: 'Eclaircies en fin de journée '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg
   technique: Tapisserie en laine banche et toile teintée  tissées
   fields:
   - Textile
@@ -114,7 +75,7 @@ works:
   sold: false
   contextual: true
 - title: 'CDC triptyque '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage-papier-decoupe-cousu-triptyque-3x120x40.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage-papier-decoupe-cousu-triptyque-3x120x40.JPG
   technique: Collage papier découpé cousu
   fields: []
   styles: []
@@ -127,7 +88,7 @@ works:
   sold: false
   contextual: true
 - title: CDC 002
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc002.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc002.jpg
   technique: Collage découpé cousu
   fields: []
   styles: []
@@ -140,7 +101,7 @@ works:
   sold: false
   contextual: true
 - title: CDC 001
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc001.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc001.jpg
   technique: Collage découpé cousu
   fields: []
   styles: []
@@ -153,7 +114,7 @@ works:
   sold: false
   contextual: true
 - title: CDC 003
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cd-60x40-003.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cd-60x40-003.jpg
   technique: Collage découpé cousu
   fields: []
   styles: []
@@ -165,8 +126,47 @@ works:
   price: 560
   sold: false
   contextual: true
+- title: Blason 001
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg
+  technique: Acrylique sur feutre
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 002
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 003
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
 - title: A/F 005
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-50x50-005.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-50x50-005.jpg
   technique: Acrylique sur feutre
   fields: []
   styles: []
@@ -179,7 +179,7 @@ works:
   sold: false
   contextual: true
 - title: A/F 004
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg
   technique: 'Acrylique sur feutre '
   fields: []
   styles: []
@@ -192,7 +192,7 @@ works:
   sold: false
   contextual: true
 - title: A/F 002
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-002.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-002.jpg
   technique: 'Acrylique sur feutre '
   fields: []
   styles: []
@@ -205,7 +205,7 @@ works:
   sold: false
   contextual: true
 - title: A/F 001
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-001.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-001.jpg
   technique: 'Acrylique sur feutre '
   fields: []
   styles: []
@@ -218,7 +218,7 @@ works:
   sold: false
   contextual: true
 - title: Dessin ruban
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg
   technique: papier japon teintés
   fields:
   - Oeuvre sur papier
@@ -233,7 +233,7 @@ works:
   sold: false
   contextual: true
 - title: Dessin ruban
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40-cm-2016.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40-cm-2016.jpg
   technique: papier japon teinté
   fields:
   - Oeuvre sur papier
@@ -247,7 +247,7 @@ works:
   price: 900
   sold: false
   contextual: true
-- image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg"
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg
   technique: papier japon teintés
   fields: []
   styles: []
@@ -261,7 +261,7 @@ works:
   contextual: true
   title: Dessin ruban
 - title: Suite pour piano jouet
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-suite-pour-piano-jouet-aine-blanche-tissee-acrylique-150x135-2020.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-suite-pour-piano-jouet-aine-blanche-tissee-acrylique-150x135-2020.jpg
   technique: 'Tapisserie en laine blanche tissée et acrylique '
   fields:
   - Textile
@@ -276,7 +276,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait de Françoise Paressant
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-portrait.jpg
   technique: ''
   fields: []
   styles: []
@@ -289,14 +289,14 @@ works:
   sold: false
   contextual: false
 - title: Atelier Françoise Paressant
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-pierre-tual.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-pierre-tual.jpg
   technique: ''
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "# Françoise Paressant atelier \n\nPour comprendre et voir le travail
     in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi
     pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
