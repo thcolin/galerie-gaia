@@ -13,7 +13,7 @@ articles:
 - template: article
   categories:
   - Éxposition
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerrecto-galerie-gaia-molliere.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerrecto-galerie-gaia-molliere.jpg
   title: '"Ensemble" exposition photos de Jean-François Mollière'
   content: "# Jean François Mollière \n\nOuverture de la [QPN ](https://www.festival-qpn.com
     \"QPN NANTES \")Quinzaine Photographique Nantaise sur la thématique de \"ENSEMBLE\".\n\n[Jean-François
@@ -34,7 +34,7 @@ articles:
 - template: article
   categories:
   - Éxposition
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerverso-galerie-gaia-fotofever.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerverso-galerie-gaia-fotofever.jpg
   title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
   content: |-
     # Galerie Gaia Fotofever
@@ -44,7 +44,7 @@ articles:
 - template: article
   categories:
   - Éxposition
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20200827_001459.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20200827_001459.jpg
   title: Exposition à Pornichet
   content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
   date: ''
@@ -52,7 +52,7 @@ articles:
   categories:
   - Éxposition
   title: Polymorphie Jorj Morin
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/polymorphie-jorj-morin.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/polymorphie-jorj-morin.jpg
   content: |-
     L'exposition POLYMORPHIE  c'est le désir de faire découvrir à ceux qui ne connaissent pas l'artiste nantais Jorj MORIN, comme il est passionnant de regarder un artiste se confronter à des supports différents  qui offrent des contraintes jubilatoires.
     Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.
@@ -63,7 +63,7 @@ articles:
   categories:
   - Éxposition
   title: Fêtes - Art 2019
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fetes-art-2019.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fetes-art-2019.jpg
   content: "Des idées cadeaux à partir de 20€ suivez Instagram et Facebook \nUne idée
     par jour dans le calendr-idées suivez Instagram et Facebook \nRetrouvez ces idées
     dans l'onglet Artiste Fêtes-Art\nDes bons cadeaux \nLivraisons offertes \nOUVERTURES
@@ -74,7 +74,7 @@ articles:
   categories:
   - Éxposition
   title: Les galeries, le dimanche 24 Novembre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-galeries-le-dimanche-24-novembre.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-galeries-le-dimanche-24-novembre.jpg
   content: |-
     Dans cette invitation, la virgule est importante !
     En effet, elle initie le temps d’une pause, le temps d’une déambulation, le temps du regard
@@ -91,7 +91,7 @@ articles:
   categories:
   - Éxposition
   title: De l'art ou du bacon? Discussion débat
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/de-lart-ou-du-bacon.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/de-lart-ou-du-bacon.jpg
   content: |-
     DIMANCHE 24 NOVEMBRE dernier jour de l'exposition de Philippe LECOMTE. Ce sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste
 
@@ -101,7 +101,7 @@ articles:
   categories:
   - Éxposition
   title: Dessin et Peinture de Philippe LECOMTE
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dessin-et-peinture-de-philippe-lecomte.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dessin-et-peinture-de-philippe-lecomte.jpg
   content: "VERNISSAGE VENDREDI 8/11 18H - 20H\nSélection de dessins et toiles, une
     abstraction qui n'en est pas une, la seule condition pour le savoir est de prendre
     son temps devant chacune et de se laisser faire et faire confiance à son instinct.
@@ -113,7 +113,7 @@ articles:
   categories:
   - Éxposition
   title: C'est ouvert tout l'été
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cest-ouvert-tout-lete.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cest-ouvert-tout-lete.jpg
   content: |-
     La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 - 15 AOUT 2019
 
@@ -123,7 +123,7 @@ articles:
   categories:
   - Éxposition
   title: Vagabondage avec Elisabeth WADECKI
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vagabondage-avec-elisabeth-wadecki.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vagabondage-avec-elisabeth-wadecki.jpg
   content: "A propos de la peinture d’Elisabeth Wadecki\n\nProust disait « écrire
     pour éclaircir la vie ».\nOn pourrait dire de même de la peinture d’E.W. Sa peinture
     est lumineuse. L’artiste dit avancer sur son chemin, sereinement, partant de rien
@@ -165,7 +165,7 @@ articles:
   categories:
   - Éxposition
   title: ISTHME
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme.jpg
   content: "peinture et collage - estampe \n\"Quand la peinture  vient des moments
     passés en mer, la nuit, quand le monde est ombre géante, voie lactée et frémissement
     de lumière, quand se révèlent toutes les nuances de bleus, alors le voyage de
@@ -176,7 +176,7 @@ articles:
   categories:
   - Éxposition
   title: Georges ROUSSE Photographe plasticien
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-rousse-photographe-plasticien.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-rousse-photographe-plasticien.jpg
   content: "Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à
     Nantes \nla galerie Gaïa vous propose une sélection de 7 photographies en édition
     limitée à 10 exemplaires\n\nhttps://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2_314968\n\n_Du
@@ -186,7 +186,7 @@ articles:
   categories:
   - Éxposition
   title: Keran accueille Gianni BASSO
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/keran-accueille-gianni-basso.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/keran-accueille-gianni-basso.jpg
   content: |-
     REALITE OU ABSTRACTION?
 
@@ -201,7 +201,7 @@ articles:
   categories:
   - Éxposition
   title: '"Découverte de Talents" Neil Ratnavira'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/decouverte-de-talents.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/decouverte-de-talents.jpg
   content: |-
     Partenaire chez Cinna Nantes, la Galerie Gaïa propose de faire découvrir le talent de Neil Ratnavira, artiste peintre et aussi photographe de rue.
     Son énergie très contrôlée se retrouve libérée dans ce travail sur toile & papier où les couleurs s'étalent avec force spontanéité, mais le geste est très maitrisée.
@@ -214,7 +214,7 @@ articles:
   categories:
   - Éxposition
   title: 4eme Open International de Squash de Nantes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/4eme-open-international-de-squash-de-nantes.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/4eme-open-international-de-squash-de-nantes.jpg
   content: "A la rentrée c'est promis je fais du sport !\nOui mais où ?\nEt bien au
     théâtre Graslin ...\nIls sont vraiment  fous ces nantais ! \nLà ce n'est plus
     un pas de côté c'est du grand éc-art !\nDu 5 au 9 septembre \nSuivez nous avec
@@ -231,14 +231,14 @@ articles:
   categories:
   - Éxposition
   title: La galerie est ouverte tout l'été
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-galerie-est-ouverte-tout-lete.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-galerie-est-ouverte-tout-lete.jpg
   content: _Du 07/07/2018 au 08/31/2018_
   date: ''
 - template: article
   categories:
   - Éxposition
   title: KAZY installée chez Keran
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/kazy-installee-chez-keran.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/kazy-installee-chez-keran.jpg
   content: "Keran 1 Rue Viviani Nantes \nouvert au public de 9H à 12H & 14H à 18H
     du lundi au vendredi\nDu mur à la toile...\n\nLe chat au pied de Trempolino à
     Nantes, la Villa Occupada pour le Voyage à Nantes, des murs à Casablanca, Istambul,
@@ -252,7 +252,7 @@ articles:
   categories:
   - Éxposition
   title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40-ans-dhistoire-dart.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40-ans-dhistoire-dart.jpg
   content: "Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu .
     Mais savez vous que l'histoire a commencé en 1978 ?\nAllez... venez rafraîchir
     la mémoire de vos émotions le 21 juin à 18h... visiteurs d un jour, clients de
@@ -267,7 +267,7 @@ articles:
   categories:
   - Éxposition
   title: L'hallucination simple Patrick Gueguen
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/lhallucination-simple.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/lhallucination-simple.jpg
   content: "Texte de son ami Roland HALBERT qui sera en signature de son livre \nsamedi
     23 juin à 14H\n__________________________________________\nLa peinture de Patrick
     Guéguen : « art brut » ? « art ethnique » ? « art singulier » ? Quand on a prononcé
@@ -288,7 +288,7 @@ articles:
   categories:
   - Éxposition
   title: Nuit des Galeries#3 No limit
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries3-no-limit.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries3-no-limit.jpg
   content: "\" 140 caractères minimum \"\n4 artistes vous proposent 1 oeuvre photo.
     No limit, selon votre inspiration vous écrivez la suite & vous partagez sur Facebok
     et Instagram \nArtistes : Neil RATNAVIRA  Eric MARAIS RYCHO Dimitri ROUBICHOU\nLors
@@ -307,7 +307,7 @@ articles:
   categories:
   - Éxposition
   title: Pierre Muckensturm & Go Segawa
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-muckensturm-and-go-segawa.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-muckensturm-and-go-segawa.jpg
   content: |-
     installation située chez KERAN 4 rue Viviani à Nantes
 
@@ -317,7 +317,7 @@ articles:
   categories:
   - Éxposition
   title: Laure Carré
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure-carre.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure-carre.jpg
   content: "Il n’y a rien d’éponyme dans les formes que LAURE nous offre dans son
     travail sur toile, pas même dans ses collages-dessins. En apparence ! Ainsi l’énergie
     circule  vite et amplifie les mouvements tout en courbe mais s’arrête net. Si
@@ -348,7 +348,7 @@ articles:
   categories:
   - Éxposition
   title: Images de Ryszard Swierad 25/01 - 17/02 "Ce que je crois voir"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/images-de-ryszard-swierad-2501-1702-ce-que-je-crois-voir.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/images-de-ryszard-swierad-2501-1702-ce-que-je-crois-voir.jpg
   content: |-
     "Ce que je crois voir" c'est un trouble devant la matière qui efface le réel de l'image que notre oeil comprend d'instinct, mais très vite on s'échappe du réel pour se raconter une histoire, un film, les oeuvres de Rych'o donne envie d'écrire la suite
 
@@ -358,14 +358,14 @@ articles:
   categories:
   - Éxposition
   title: MAXIME LUTUN VENTE PRIVEE
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/maxime-lutun-vente-privee.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/maxime-lutun-vente-privee.jpg
   content: "SCULPTEUR DE LUMIERE \nvente privée 18H 21H\n\n_Du 12/01/2017 au 12/03/2017_"
   date: ''
 - template: article
   categories:
   - Éxposition
   title: Claude FRANCHETEAU
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-francheteau.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-francheteau.jpg
   content: "VERNISSAGE CAFE PHILO\nAVEC CLAUDE BAZELIS \nVENDREDI 24 NOVEMBRE 19H\n\n_Du
     11/24/2017 au 12/16/2017_"
   date: ''
@@ -373,7 +373,7 @@ articles:
   categories:
   - Éxposition
   title: Xavier Jallais "Automorphie"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/xavier-jallais-automorphie.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/xavier-jallais-automorphie.jpg
   content: |-
     Vernissage jeudi 5 à partir de 18H
 
@@ -383,7 +383,7 @@ articles:
   categories:
   - Éxposition
   title: Damien Hamon & Tangui Robert chez KERAN
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/damien-hamon-and-tangui-robert-chez-keran.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/damien-hamon-and-tangui-robert-chez-keran.jpg
   content: |-
     artistes permanents et visibles à la galerie
 
@@ -393,21 +393,21 @@ articles:
   categories:
   - Éxposition
   title: Go Segawa
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/go-segawa.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/go-segawa.jpg
   content: _Du 09/07/2017 au 09/23/2017_
   date: ''
 - template: article
   categories:
   - Éxposition
   title: TANGUI ROBERT
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tangui-robert.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tangui-robert.jpg
   content: _Du 07/12/2017 au 08/31/2017_
   date: ''
 - template: article
   categories:
   - Éxposition
   title: START ' UP 2017
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/start-up-2017.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/start-up-2017.jpg
   content: "ST'ART UP 2017 2eme Edition \nce rendez vous lancé en 2016  à des étudiants
     en arts plastiques et des autodidactes que je sélectionne d'exposer pour une 1ere
     fois en galerie.\nVenez voir \net pourquoi pas \nacquérir une  oeuvre d'un  pour
@@ -418,21 +418,21 @@ articles:
   categories:
   - Éxposition
   title: Francky CRIQUET "Comme à l'atelier"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/francky-criquet-comme-a-latelier.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/francky-criquet-comme-a-latelier.jpg
   content: _Du 05/04/2017 au 05/27/2017_
   date: ''
 - template: article
   categories:
   - Éxposition
   title: LE PORTRAIT
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-portrait.jpg
   content: _Du 04/14/2017 au 04/15/2017_
   date: ''
 - template: article
   categories:
   - Éxposition
   title: Nuit des Galeries#2 TETE A TETE
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries2-tete-a-tete.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries2-tete-a-tete.jpg
   content: "TETE A TETE \nOu L’Art du Portrait, à condition que ce soit le vôtre!\nLe
     portrait suppose, raconte, transmet une histoire personnelle qui peut se voir,
     se deviner et se ressentir avec autant de variations qu’il y a d’artistes pour
@@ -449,14 +449,14 @@ articles:
   categories:
   - Éxposition
   title: Exposition Argant et Bréat dans la galerie de l'entreprise Keran
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg
   content: _Du 03/31/2017 au 06/02/2017_
   date: ''
 - template: article
   categories:
   - Éxposition
   title: Rencontre Annick ARGANT & Jean Claude BREAT
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-annick-argant-and-jean-claude-breat.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-annick-argant-and-jean-claude-breat.jpg
   content: "Annick ARGANT sculptures et volumes \nJean Claude BREAT peintures\n\n_Du
     03/16/2017 au 04/15/2017_"
   date: ''
@@ -464,7 +464,7 @@ articles:
   categories:
   - Éxposition
   title: PHILIPPE LECOMTE
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/philippe-lecomte.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/philippe-lecomte.jpg
   content: "Techniques mixtes sur papier et toile \nRencontre avec l'artiste samedi
     28 de 16H à 19H\n\n_Du 01/28/2017 au 02/25/2017_"
   date: ''
@@ -472,7 +472,7 @@ articles:
   categories:
   - Éxposition
   title: Mur d'essayage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mur-dessayage.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mur-dessayage.jpg
   content: "9 expositions en 2016, \npeut-être avez vous vu et pas pris le temps \npeut-être
     n'avez vous pas vu une exposition \nalors j'ai sélectionné pour vous dans la réserve
     de la galerie un choix d'oeuvres des artistes présentés cette année\nEt pour vous
@@ -484,7 +484,7 @@ articles:
   categories:
   - Éxposition
   title: Clothilde Lasserre & Edith Basseville
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/clothilde-lasserre-and-edith-basseville.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/clothilde-lasserre-and-edith-basseville.jpg
   content: |-
     Parfois le geste du pinceau de Clothilde Lasserre semble se tordre de plaisir.
     Alors en installant les sculptures de fil d'acier d'Edith Basseville à côté des toiles de Clothilde , on assiste à une échappée belle de ce mouvement qui prend forme et vie dans les sculptures et mobiles d'Edith.
@@ -497,7 +497,7 @@ articles:
   categories:
   - Éxposition
   title: Franco Salas Borquez installé dans le hall de la société Keran
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-installe-dans-le-hall-de-la-societe-keran.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-installe-dans-le-hall-de-la-societe-keran.jpg
   content: |-
     Le travail de Franco Salas-Borquez est le fruit de sa réflexion consciente et inconsciente envers le monde et le caractère amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque naturellement et instinctivement que le peintre développe son travail à travers la thématique de la mer déchainée.
     Lorsqu’il peint, Franco fait appel à son intuition pour exercer des gestes chargés de force et de tension. Sa liberté d’artiste s’exprime alors dans toute cette révolte et peu à peu la mer prend vie, les vagues hurlent telles des âmes. Ensuite, l’agitation créatrice laisse place à la patience, telle une méditation qui permet de ressentir l’intensité de l’instant. L’étape finale du tableau est une sorte de recommencement, l’artiste se détache de ses peurs et de sa rigueur technique. Avec ces derniers gestes, il dessine la force du vent qui libère la mer de sa propre colère.
@@ -511,7 +511,7 @@ articles:
   categories:
   - Éxposition
   title: APHO  "là-bas"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/apho-la-bas.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/apho-la-bas.jpg
   content: |-
     Photographe et vidéaste nantaise, Adeline Moreau a suivi Kazy Usclef à travers 4 pays d’Afrique, pendant l’étape de repérage des artistes qui composent aujourd’hui l’exposition Grafikama (Service Peinture). En parallèle d’APHA «Ici», le documentaire vidéo qui traite de l’intégralité du projet, elle expose une série de photos prises pendant cette première phase de travail dans les grandes métropoles africaines.
     http://www.grafikama.fr/fr/category/artistes-fr/
@@ -522,7 +522,7 @@ articles:
   categories:
   - Éxposition
   title: ST'ART UP 1ere Edition
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/start-up-1ere-edition.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/start-up-1ere-edition.jpg
   content: "ST'ART UP c'est un rendez vous que je lance pour exposer une sélection
     d'étudiants en arts plastiques et des autodidactes.\nDonc venir voir leur exposition
     signifie : \nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
@@ -534,7 +534,7 @@ articles:
   categories:
   - Éxposition
   title: Nadja HOLLAND peintre Marianne ABERGEL sculptrice & céramiste
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nadja-holland-peintre-marianne-abergel-sculptrice-and-ceramiste.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nadja-holland-peintre-marianne-abergel-sculptrice-and-ceramiste.jpg
   content: |-
     rencontre avec les artistes samedi 28 Mai 15H
 
@@ -544,7 +544,7 @@ articles:
   categories:
   - Éxposition
   title: La Chambre 21
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-chambre-21.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-chambre-21.jpg
   content: "Après le succès de la 1ere nuit des galeries, prolongation de l'exposition
     La Chambre 21 jusqu'au 14 mai.\nDécouvrez le travail collectif et personnel :\npeintures
     et photos de Stéphanie BILLARANT, \ndessins et sténopés de Bruno DUMAS, \ndessin
@@ -554,10 +554,57 @@ articles:
     04/22/2016 au 05/14/2016_"
   date: ''
 - template: article
+  date: '2021-03-05T23:00:00Z'
+  categories:
+  - Exposition
+  title: En Février visitez des ateliers d'artistes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fevrier2020.jpg
+  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
+    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
+    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...\n\n**Feuilletez
+    le Catalogue** des artistes de la Galerie et contactez moi  \npour que **je vous
+    organise une visite privée** pour vous et/ou des proches dans la limite de 6 personnes.
+    Les **enfants et adolescents** sont fortement bienvenus, il y a des rendez-vous
+    à ne pas manquer avec la jeunesse.\n\nCette escapade artistique sera **un moment
+    personnel et privilégié** pour échanger tranquillement avec l'artiste dont l’œuvre
+    vous intrigue et ainsi vivre des émotions singulières qui resteront indélébiles.\n\nAteliers
+    et artistes prêts à vous accueillir :\n\n[Isthme ](https://galeriegaia.fr/artists/isthme/
+    \"isthme isabelle thomas\")- [Toma L](https://galeriegaia.fr/artists/toma-l/ \"thomas
+    l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
+    - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
+    Paressant - Pierre Tual..."
+- template: article
+  date: '2021-01-29T10:28:33Z'
+  categories:
+  - Exposition
+  title: Peinture fraîche...Chantier en cours !
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg
+  content: "Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !  \nCela
+    mérite bien quelques travaux pour être encore plus beau pour sa réouverture en
+    Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
+    le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
+    vite et suivez nos actualités sur Instagram galeriegaianantes"
+- template: article
+  date: '2020-11-02T16:10:55Z'
+  categories:
+  - Interview
+  title: Interview de Isthme
+  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
+    "Interview de Isabelle Thoams ")'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier_isthme_19_12_hd_05.jpg
+- template: article
+  date: '2020-11-02T16:05:35Z'
+  categories:
+  - Interview
+  title: Interview de Laure Carré
+  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
+    "Interview Laure Carré")'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-laurecarre-portrait-artiste.jpg
+- template: article
   categories:
   - Éxposition
   title: La Chambre 21 pour La Nuit des Galeries
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-chambre-21-pour-la-nuit-des-galeries.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-chambre-21-pour-la-nuit-des-galeries.jpg
   content: "On dit que la curiosité est un vilain défaut, de notre point de vue, ce
     serait tout le contraire ! Venez regarder par le trou de la serrure de la Chambre
     21 ! De l’extérieur et sous vos yeux, apparaitra une œuvre. Installations, performances
@@ -569,7 +616,7 @@ articles:
   categories:
   - Éxposition
   title: Hasards pour Morgane
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hasards-pour-morgane.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hasards-pour-morgane.jpg
   content: |-
     En effectuant un don pour l'association Morgane, le hasard du tirage a attribué aux 25 premiers acquéreurs une des 25 oeuvres originales sur papier, réalisées spécialement par un des 25 artistes de la galerie.
 
@@ -585,7 +632,7 @@ articles:
   categories:
   - Éxposition
   title: Tony SOULIE
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tony-soulie.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tony-soulie.jpg
   content: |-
     vernissage jeudi 19 Novembre à 18H
     des lithos, des aquatintes, et des peintures originales
@@ -598,7 +645,7 @@ articles:
   categories:
   - Éxposition
   title: Exposition Claude Francheteau
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-claude-francheteau.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-claude-francheteau.jpg
   content: |-
     Présent le 9 octobre à la galerie Claude sera à nouveau présent le 16 octobre après midi à la galerie avec ses papiers et ses crayons. Vous étiez nombreux vendredi dernier, alors il récidive!
 
@@ -608,7 +655,7 @@ articles:
   categories:
   - Éxposition
   title: Corinne HERAUD & Sandrine PAUMELLE
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/corinne-heraud-and-sandrine-paumelle.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/corinne-heraud-and-sandrine-paumelle.jpg
   content: |-
     vernissage jeudi 10 septembre 18H
 
@@ -618,7 +665,7 @@ articles:
   categories:
   - Éxposition
   title: Michel BOUVET Affichiste et Jorj MORIN Peintre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/michel-bouvet-affichiste-et-jorj-morin-peintre.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/michel-bouvet-affichiste-et-jorj-morin-peintre.jpg
   content: |-
     Rencontre avec Michel BOUVET vendredi 4 septembre à partir de 18H
     vente des sérigraphies numérotées et signées et coffrets rétrospective en édition limitée
@@ -629,7 +676,7 @@ articles:
   categories:
   - Éxposition
   title: Marianne ABOUGIT et Stéphanie BILLARANT
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marianne-abougit-et-stephanie-billarant.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marianne-abougit-et-stephanie-billarant.jpg
   content: |-
     Souvenirs de ces paysages ou paysages inventés, mondes oubliés ou rêvés...
     Que voit on? Que veut on voir?
@@ -640,7 +687,7 @@ articles:
   categories:
   - Éxposition
   title: Florence BANDRIER & Renaud ALLIRAND
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/florence-bandrier-and-renaud-allirand.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/florence-bandrier-and-renaud-allirand.jpg
   content: "Peintures Gravure et Encres \n\"Des écritures qui s'empreintent du visible
     à l'illisible ...\"\n\n_Du 05/21/2015 au 06/13/2015_"
   date: ''
@@ -648,7 +695,7 @@ articles:
   categories:
   - Éxposition
   title: Exposition inaugurale
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-inaugurale.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-inaugurale.jpg
   content: |-
     Muriel CHENE sculptures
     VALOTA peintures
@@ -659,7 +706,7 @@ articles:
   date: '2021-01-16T10:21:06Z'
   categories:
   - Exposition
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
   title: Naïf et Trash Exposition Jean Paul FRIOL
   content: "**Un monde de passion:** peinture, vin, musique, tous les sens de manière
     exacerbée …\n\nJean-Paul Friol est né en 1948 à Paris dans une famille dont les
@@ -681,7 +728,7 @@ articles:
   categories:
   - Éxposition
   title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/il-peint-sur-nantes-toma-l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/il-peint-sur-nantes-toma-l.jpg
   content: |-
     [Télécharger le Catalogue de l'exposition](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TomaL_CatalogueDesOeuvres_GaiaGalerie_14Avril2020.pdf "catalogue Toma L")
 
@@ -716,54 +763,7 @@ articles:
     !  \nCroquis, dessins, gravures, formes et échantillons de nature...  \n  \nNous
     sommes heureux de vous proposer  \nces **Fragments Paysages** avec ce **Chapitre
     I de Chroniques** Nantaises."
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visuelexpo_fragments-paysages_2.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visuelexpo_fragments-paysages_2.jpg
   title: FRAGMENTS   PAYSAGES    Tangui Robert
-- template: article
-  date: '2021-01-29T10:28:33Z'
-  categories:
-  - Exposition
-  title: Peinture fraîche...Chantier en cours !
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
-  content: "Depuis 2015 les expositions et vos visites ont fait vibrer ce lieu !  \nCela
-    mérite bien quelques travaux pour être encore plus beau pour sa réouverture en
-    Mars 2021.\n\nDurant le mois de Février vous pouvez sélectionner des œuvres dans
-    le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
-    vite et suivez nos actualités sur Instagram galeriegaianantes"
-- template: article
-  date: '2021-03-05T23:00:00Z'
-  categories:
-  - Exposition
-  title: En Février visitez des ateliers d'artistes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fevrier2020.jpg"
-  content: "# Visite d'ateliers d'artistes de le Galerie Gaia Nantes\n\nNous vous
-    proposons durant ce mois de **Février et les vacances scolaires**  \nune **,**
-    \ \npour vous permettre de découvrir leur travail dans leurs lieux chargés d'histoires...\n\n**Feuilletez
-    le Catalogue** des artistes de la Galerie et contactez moi  \npour que **je vous
-    organise une visite privée** pour vous et/ou des proches dans la limite de 6 personnes.
-    Les **enfants et adolescents** sont fortement bienvenus, il y a des rendez-vous
-    à ne pas manquer avec la jeunesse.\n\nCette escapade artistique sera **un moment
-    personnel et privilégié** pour échanger tranquillement avec l'artiste dont l’œuvre
-    vous intrigue et ainsi vivre des émotions singulières qui resteront indélébiles.\n\nAteliers
-    et artistes prêts à vous accueillir :\n\n[Isthme ](https://galeriegaia.fr/artists/isthme/
-    \"isthme isabelle thomas\")- [Toma L](https://galeriegaia.fr/artists/toma-l/ \"thomas
-    l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
-    - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
-    Paressant - Pierre Tual..."
-- template: article
-  date: '2020-11-02T16:05:35Z'
-  categories:
-  - Interview
-  title: Interview de Laure Carré
-  content: '[Interview par Elisabeth Givre dans l''atelier de Laure Carré](https://www.youtube.com/watch?v=_yZm3PLM4Z4&t=4s
-    "Interview Laure Carré")'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-laurecarre-portrait-artiste.jpg"
-- template: article
-  date: '2020-11-02T16:10:55Z'
-  categories:
-  - Interview
-  title: Interview de Isthme
-  content: '[Interview par Elisabeth Givre dans l''atelier de Isthme](https://www.youtube.com/watch?v=lwznot2FJRs
-    "Interview de Isabelle Thoams ")'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier_isthme_19_12_hd_05.jpg"
 
 ---
