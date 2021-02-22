@@ -60,7 +60,7 @@ articles:
     vite et suivez nos actualités sur Instagram galeriegaianantes"
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerrecto-galerie-gaia-molliere.jpg
   title: '"Ensemble" exposition photos de Jean-François Mollière'
   content: "# Jean François Mollière \n\nOuverture de la [QPN ](https://www.festival-qpn.com
@@ -81,7 +81,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flyerverso-galerie-gaia-fotofever.jpg
   title: 'Paris - Salon fotofever - Carrousel du Louvre 12 au 15 Novembre '
   content: |-
@@ -91,14 +91,14 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20200827_001459.jpg
   title: Exposition à Pornichet
   content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Polymorphie Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/polymorphie-jorj-morin.jpg
   content: |-
@@ -109,7 +109,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Fêtes - Art 2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fetes-art-2019.jpg
   content: "Des idées cadeaux à partir de 20€ suivez Instagram et Facebook \nUne idée
@@ -120,7 +120,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Les galeries, le dimanche 24 Novembre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-galeries-le-dimanche-24-novembre.jpg
   content: |-
@@ -137,7 +137,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: De l'art ou du bacon? Discussion débat
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/de-lart-ou-du-bacon.jpg
   content: |-
@@ -147,7 +147,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Dessin et Peinture de Philippe LECOMTE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dessin-et-peinture-de-philippe-lecomte.jpg
   content: "VERNISSAGE VENDREDI 8/11 18H - 20H\nSélection de dessins et toiles, une
@@ -159,7 +159,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: C'est ouvert tout l'été
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cest-ouvert-tout-lete.jpg
   content: |-
@@ -169,7 +169,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Vagabondage avec Elisabeth WADECKI
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vagabondage-avec-elisabeth-wadecki.jpg
   content: "A propos de la peinture d’Elisabeth Wadecki\n\nProust disait « écrire
@@ -211,7 +211,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: ISTHME
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme.jpg
   content: "peinture et collage - estampe \n\"Quand la peinture  vient des moments
@@ -222,7 +222,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Georges ROUSSE Photographe plasticien
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-rousse-photographe-plasticien.jpg
   content: "Pour faire écho à l'exposition Polygones qui a lieu au musée DOBREE à
@@ -232,7 +232,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Keran accueille Gianni BASSO
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/keran-accueille-gianni-basso.jpg
   content: |-
@@ -247,7 +247,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: '"Découverte de Talents" Neil Ratnavira'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/decouverte-de-talents.jpg
   content: |-
@@ -260,7 +260,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: 4eme Open International de Squash de Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/4eme-open-international-de-squash-de-nantes.jpg
   content: "A la rentrée c'est promis je fais du sport !\nOui mais où ?\nEt bien au
@@ -277,14 +277,14 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: La galerie est ouverte tout l'été
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-galerie-est-ouverte-tout-lete.jpg
   content: _Du 07/07/2018 au 08/31/2018_
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: KAZY installée chez Keran
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/kazy-installee-chez-keran.jpg
   content: "Keran 1 Rue Viviani Nantes \nouvert au public de 9H à 12H & 14H à 18H
@@ -298,7 +298,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: 40 ans d'Histoire d'Art Anniversaire Galerie Gaïa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40-ans-dhistoire-dart.jpg
   content: "Il y 3 ans Norbert Marsal me confiait les précieuses clés de ce lieu .
@@ -313,7 +313,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: L'hallucination simple Patrick Gueguen
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/lhallucination-simple.jpg
   content: "Texte de son ami Roland HALBERT qui sera en signature de son livre \nsamedi
@@ -334,7 +334,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Nuit des Galeries#3 No limit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries3-no-limit.jpg
   content: "\" 140 caractères minimum \"\n4 artistes vous proposent 1 oeuvre photo.
@@ -353,7 +353,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Pierre Muckensturm & Go Segawa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-muckensturm-and-go-segawa.jpg
   content: |-
@@ -363,7 +363,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Laure Carré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure-carre.jpg
   content: "Il n’y a rien d’éponyme dans les formes que LAURE nous offre dans son
@@ -394,7 +394,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Images de Ryszard Swierad 25/01 - 17/02 "Ce que je crois voir"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/images-de-ryszard-swierad-2501-1702-ce-que-je-crois-voir.jpg
   content: |-
@@ -404,14 +404,14 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: MAXIME LUTUN VENTE PRIVEE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/maxime-lutun-vente-privee.jpg
   content: "SCULPTEUR DE LUMIERE \nvente privée 18H 21H\n\n_Du 12/01/2017 au 12/03/2017_"
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Claude FRANCHETEAU
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-francheteau.jpg
   content: "VERNISSAGE CAFE PHILO\nAVEC CLAUDE BAZELIS \nVENDREDI 24 NOVEMBRE 19H\n\n_Du
@@ -419,7 +419,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Xavier Jallais "Automorphie"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/xavier-jallais-automorphie.jpg
   content: |-
@@ -429,7 +429,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Damien Hamon & Tangui Robert chez KERAN
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/damien-hamon-and-tangui-robert-chez-keran.jpg
   content: |-
@@ -439,21 +439,21 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Go Segawa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/go-segawa.jpg
   content: _Du 09/07/2017 au 09/23/2017_
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: TANGUI ROBERT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tangui-robert.jpg
   content: _Du 07/12/2017 au 08/31/2017_
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: START ' UP 2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/start-up-2017.jpg
   content: "ST'ART UP 2017 2eme Edition \nce rendez vous lancé en 2016  à des étudiants
@@ -464,21 +464,21 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Francky CRIQUET "Comme à l'atelier"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/francky-criquet-comme-a-latelier.jpg
   content: _Du 05/04/2017 au 05/27/2017_
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: LE PORTRAIT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-portrait.jpg
   content: _Du 04/14/2017 au 04/15/2017_
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Nuit des Galeries#2 TETE A TETE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-des-galeries2-tete-a-tete.jpg
   content: "TETE A TETE \nOu L’Art du Portrait, à condition que ce soit le vôtre!\nLe
@@ -495,14 +495,14 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Exposition Argant et Bréat dans la galerie de l'entreprise Keran
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg
   content: _Du 03/31/2017 au 06/02/2017_
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Rencontre Annick ARGANT & Jean Claude BREAT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-annick-argant-and-jean-claude-breat.jpg
   content: "Annick ARGANT sculptures et volumes \nJean Claude BREAT peintures\n\n_Du
@@ -510,7 +510,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: PHILIPPE LECOMTE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/philippe-lecomte.jpg
   content: "Techniques mixtes sur papier et toile \nRencontre avec l'artiste samedi
@@ -518,7 +518,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Mur d'essayage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mur-dessayage.jpg
   content: "9 expositions en 2016, \npeut-être avez vous vu et pas pris le temps \npeut-être
@@ -530,7 +530,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Clothilde Lasserre & Edith Basseville
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/clothilde-lasserre-and-edith-basseville.jpg
   content: |-
@@ -543,7 +543,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Franco Salas Borquez installé dans le hall de la société Keran
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-installe-dans-le-hall-de-la-societe-keran.jpg
   content: |-
@@ -557,7 +557,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: APHO  "là-bas"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/apho-la-bas.jpg
   content: |-
@@ -568,7 +568,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: ST'ART UP 1ere Edition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/start-up-1ere-edition.jpg
   content: "ST'ART UP c'est un rendez vous que je lance pour exposer une sélection
@@ -580,7 +580,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Nadja HOLLAND peintre Marianne ABERGEL sculptrice & céramiste
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nadja-holland-peintre-marianne-abergel-sculptrice-and-ceramiste.jpg
   content: |-
@@ -590,7 +590,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: La Chambre 21
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-chambre-21.jpg
   content: "Après le succès de la 1ere nuit des galeries, prolongation de l'exposition
@@ -603,7 +603,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: La Chambre 21 pour La Nuit des Galeries
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-chambre-21-pour-la-nuit-des-galeries.jpg
   content: "On dit que la curiosité est un vilain défaut, de notre point de vue, ce
@@ -615,7 +615,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Hasards pour Morgane
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hasards-pour-morgane.jpg
   content: |-
@@ -631,7 +631,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Tony SOULIE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tony-soulie.jpg
   content: |-
@@ -644,7 +644,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Exposition Claude Francheteau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-claude-francheteau.jpg
   content: |-
@@ -654,7 +654,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Corinne HERAUD & Sandrine PAUMELLE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/corinne-heraud-and-sandrine-paumelle.jpg
   content: |-
@@ -664,7 +664,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Michel BOUVET Affichiste et Jorj MORIN Peintre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/michel-bouvet-affichiste-et-jorj-morin-peintre.jpg
   content: |-
@@ -675,7 +675,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Marianne ABOUGIT et Stéphanie BILLARANT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marianne-abougit-et-stephanie-billarant.jpg
   content: |-
@@ -686,7 +686,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Florence BANDRIER & Renaud ALLIRAND
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/florence-bandrier-and-renaud-allirand.jpg
   content: "Peintures Gravure et Encres \n\"Des écritures qui s'empreintent du visible
@@ -694,7 +694,7 @@ articles:
   date: ''
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: Exposition inaugurale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-inaugurale.jpg
   content: |-
@@ -727,7 +727,7 @@ articles:
     un peu comme si j’écrivais de la poésie ».**"
 - template: article
   categories:
-  - Éxposition
+  - Exposition
   title: '"Il peint sur Nantes" Toma L 21 Mai 20 Juin 2020'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/il-peint-sur-nantes-toma-l.jpg
   content: |-
