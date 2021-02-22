@@ -22,7 +22,7 @@ exhibitions:
   end: 29-12- 2019
 works:
 - title: La fraction
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-salas-borques-friction-100x100.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-salas-borques-friction-100x100.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -34,9 +34,9 @@ works:
   price: 3200
   contextual: true
 - title: Vague hurlante
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague hurlante-130 x 81 2019.jpg"
-  description: '[vidéo vague hurlante](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@borquezvaguehurlante.mp4
-    "video vague hurlante") '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague
+    hurlante-130 x 81 2019.jpg
+  description: ''
   price: 3200
   dimensions:
     height: 81
@@ -51,10 +51,11 @@ works:
   description: Réservée
   price: 3200
   contextual: true
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG
   sold: false
 - title: 'Dessin '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_SalasBorques_titre_format 50X70.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_SalasBorques_titre_format
+    50X70.jpeg
   technique: 'Crayon sur papier '
   dimensions:
     height: 70
@@ -66,7 +67,8 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Exposition Le Sillage St Malo 2019
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco salas borquez -expo st malo1.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
+    salas borquez -expo st malo1.JPG
   dimensions:
     height: 0
     width: 0
@@ -75,7 +77,7 @@ works:
   price: ''
   contextual: true
 - title: L'océan aveugle
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/l-ocean-aveugle.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/l-ocean-aveugle.jpg
   technique: huile sur toile 2016
   dimensions:
     height: 273
@@ -86,7 +88,7 @@ works:
   sold: false
   contextual: true
 - title: le chaos et l'ordre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-chaos-et-lordre.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-chaos-et-lordre.jpg
   technique: huile sur toile 2016
   dimensions:
     height: 182
@@ -97,7 +99,7 @@ works:
   sold: false
   contextual: true
 - title: la furie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-furie.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-furie.jpg
   technique: huile sur toile 2016
   dimensions:
     height: 312
@@ -108,7 +110,8 @@ works:
   sold: false
   contextual: true
 - title: Exposition Le Sillage St Malo 2019
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco salas borquez -expo st malo5.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
+    salas borquez -expo st malo5.JPG
   dimensions:
     height: 0
     width: 0
@@ -118,7 +121,8 @@ works:
   price: ''
   contextual: true
 - title: Exposition Le Sillage St Malo 2019
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco salas borquez -expo st malo4.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
+    salas borquez -expo st malo4.JPG
   dimensions:
     height: 0
     width: 0
@@ -127,7 +131,7 @@ works:
   price: ''
   contextual: true
 - title: Atelier Franco Salas Borques
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2021-02-17-a-19-46-41.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2021-02-17-a-19-46-41.png
   fields: []
   styles: []
   dimensions:

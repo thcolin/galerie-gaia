@@ -28,7 +28,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Papier collé 044
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg
   technique: Collage, papier, kraft, scotch, acrylique, email à froid
   dimensions:
     height: 77
@@ -38,20 +38,8 @@ works:
   price: 450
   contextual: true
   sold: false
-- title: Ciment 05 1988
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-ciment-05-1988-95x75cm.JPG"
-  technique: 'Ciment et pigment sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 75
-    width: 95
-    depth: 0
-  description: ''
-  price: 4600
-  contextual: true
 - title: 'Verre et pigments ecrits '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-verre-et-pigments-ecrits-73x53cm.jpg
   technique: 'pigments sous verre oeuvre encadrée '
   fields: []
   styles:
@@ -64,7 +52,7 @@ works:
   price: 700
   contextual: true
 - title: Papiers 1991
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1991-h108x75l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1991-h108x75l.jpg
   fields: []
   styles:
   - Figuratif
@@ -76,7 +64,7 @@ works:
   price: 450
   contextual: true
 - title: Papiers collés l'origine du monde 1997
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1997-h75x108l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1997-h75x108l.jpg
   fields: []
   styles: []
   dimensions:
@@ -87,7 +75,7 @@ works:
   price: 450
   contextual: true
 - title: Papiers collés 2008
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-croix-2008-75x105cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-croix-2008-75x105cm.jpg
   fields: []
   styles: []
   dimensions:
@@ -98,7 +86,7 @@ works:
   price: 450
   contextual: true
 - title: Papiers collés 1994
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1994-70x104cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1994-70x104cm.jpg
   technique: ''
   fields: []
   styles: []
@@ -110,7 +98,7 @@ works:
   price: 450
   contextual: true
 - title: Papiers collés 1996
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1996-h75x108l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1996-h75x108l.jpg
   fields: []
   styles: []
   dimensions:
@@ -121,7 +109,7 @@ works:
   price: 450
   contextual: true
 - title: 'Papiers collés '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-43x53cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-43x53cm.jpg
   technique: 'Papiers collés et techniques mixtes '
   fields: []
   styles:
@@ -134,7 +122,7 @@ works:
   price: 350
   contextual: true
 - title: 'Gravure 1988 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
   technique: Epreuve d'artiste
   fields: []
   styles:
@@ -147,7 +135,7 @@ works:
   price: 150
   contextual: true
 - title: Papier 107
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-paul-friol-papier-colle107-109-x-75.jpg
   technique: Collage papier, carton, acrylique, émail à froid
   fields: []
   styles:
@@ -160,7 +148,7 @@ works:
   price: 450
   contextual: true
 - title: Papier encre 022
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg
   technique: 'Encre sur papier '
   fields: []
   styles:
@@ -175,7 +163,7 @@ works:
   price: 550
   contextual: false
 - title: Papier collé 042
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg
   technique: Collage papier acrylique email à froid
   fields: []
   styles: []
@@ -187,7 +175,7 @@ works:
   price: 450
   contextual: true
 - title: Papier collé 125
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-125-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h79x64l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-125-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h79x64l.jpg
   technique: Collage, papier kraft, scotch, acrylique, email à froid
   fields: []
   styles: []
@@ -199,7 +187,7 @@ works:
   price: 450
   contextual: true
 - title: Papier collé 071
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-colle-071.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-colle-071.jpg
   technique: Collage, papier soie, kraft, émail à froid, acrylique
   dimensions:
     height: 75
@@ -210,7 +198,7 @@ works:
   sold: false
   contextual: true
 - title: Papier collé 081 encadré
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-visgae-es.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-visgae-es.jpg
   technique: Papier collé technique mixte
   fields: []
   styles: []
@@ -222,7 +210,7 @@ works:
   price: 690
   contextual: false
 - title: Papier collé 065
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-065-1996-collage-papier-kraft-acrylique-email-a-froid-crayon-de-couleur-h62x77l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-065-1996-collage-papier-kraft-acrylique-email-a-froid-crayon-de-couleur-h62x77l.jpg
   technique: Collage, papier kraft, acrylique, émail à froid, caryon de couleur
   styles: []
   dimensions:
@@ -234,7 +222,7 @@ works:
   contextual: true
   sold: false
 - title: Papier collé 004
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papierscolles004-1992-collage-papier-de-soie-pastel-h56x74-l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papierscolles004-1992-collage-papier-de-soie-pastel-h56x74-l.jpg
   technique: Collage papier de soie, pastel
   fields: []
   styles: []
@@ -246,7 +234,7 @@ works:
   price: 450
   contextual: true
 - title: Papier collé 081
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg
   technique: Collage, papier soie, encre
   dimensions:
     height: 72
@@ -259,7 +247,7 @@ works:
   styles:
   - Figuratif
 - title: Papier collé 005
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-colle-005.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-colle-005.jpg
   technique: Collage, papier soie, encre
   dimensions:
     height: 50
@@ -270,7 +258,7 @@ works:
   sold: false
   contextual: true
 - title: Papier 082
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-082.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-082.jpg
   technique: Collage, papier soie, encre
   dimensions:
     height: 73
@@ -283,7 +271,7 @@ works:
   styles:
   - Figuratif
 - title: Visage yeux cernés noirs
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage-yeux-cernes-noirs.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage-yeux-cernes-noirs.jpg
   technique: collage papier et dessin
   dimensions:
     height: 91
@@ -296,7 +284,7 @@ works:
   styles:
   - Figuratif
 - title: Gravure 1987
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-1987-31x22cm.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-1987-31x22cm.JPG
   technique: Gravure sur plâtre EA
   fields: []
   styles:
@@ -309,7 +297,7 @@ works:
   price: 140
   contextual: true
 - title: Gravure XI-XIII 1988
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-xi-xiii-1988-15x17cm.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-xi-xiii-1988-15x17cm.JPG
   technique: Gravure sur plâtre EA
   fields: []
   styles:
@@ -322,7 +310,7 @@ works:
   price: 130
   contextual: true
 - title: Gravure 10-11-1987
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-10-11-1987-1er-etat-25x21cm.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-10-11-1987-1er-etat-25x21cm.JPG
   technique: Gravure sur plâtre édition en 11 exemplaires
   fields: []
   styles:
@@ -335,7 +323,7 @@ works:
   price: 120
   contextual: true
 - title: Gravure 9-11-1985
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-9-15-1987-16x15cm.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-9-15-1987-16x15cm.JPG
   technique: Gravure sur plâtre édition en 15 exemplaires
   fields: []
   styles:
@@ -348,7 +336,7 @@ works:
   price: 120
   contextual: true
 - title: Gravure 6-20-1988
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-6-20-1988-21x15cm.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-6-20-1988-21x15cm.JPG
   technique: 'Gravure sur plâtre édition en 20 exemplaires '
   fields: []
   styles: []
@@ -360,7 +348,7 @@ works:
   price: 120
   contextual: true
 - title: Gravure 4-11-87
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-4-11-1987-49x38cm.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-4-11-1987-49x38cm.JPG
   technique: Gravure sur plâtre édition en 11 exemplaires
   fields: []
   styles:
@@ -373,7 +361,7 @@ works:
   price: 150
   contextual: true
 - title: Mise en situation Jean-Paul Friol et Marie Bathellier
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg
   technique: Friol encre sur papier, Bathellier pigment et acrylique sur bois
   fields: []
   styles: []
@@ -386,7 +374,7 @@ works:
   price: ''
   contextual: false
 - title: Femme fleur
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-gravure-femme-fleur.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-gravure-femme-fleur.jpg
   technique: 'Gravure sur platre 4/25 '
   fields: []
   styles: []
@@ -398,7 +386,7 @@ works:
   price: 150
   contextual: true
 - title: Portrait femme
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_portraitfemme_41-5x31-5.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_portraitfemme_41-5x31-5.jpg
   technique: Gravure sur plâtre 5/15
   fields: []
   styles:
@@ -411,7 +399,7 @@ works:
   price: 120
   contextual: true
 - title: Vie intra utérine
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg
   technique: Gravure sur plâtre édition en 20 exemplaires
   fields: []
   styles:
@@ -424,7 +412,7 @@ works:
   price: 120
   contextual: true
 - title: 'Gravure Nu Homme '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_hommededos_41-5x31-5.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_hommededos_41-5x31-5.jpg
   technique: 'Gravure sur plâtre 6/15 '
   fields: []
   styles:
@@ -447,11 +435,11 @@ works:
   description: 1987 prix avec encadrement 170€
   price: 130
   contextual: true
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg
   title: 'Gravure Nue Femme '
   technique: Gravure sur plâtre 7/20
 - title: Gravure 9
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-09-1989-11-15-36x24.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-09-1989-11-15-36x24.jpg
   technique: Gravure sur plâtre 11/15
   fields: []
   styles:
@@ -464,7 +452,7 @@ works:
   price: 120
   contextual: true
 - title: Gravure 34
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-34-1988-epreuve-7_15-h22x16l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-34-1988-epreuve-7_15-h22x16l.jpg
   technique: Gravure sur plâtre 7/15
   styles:
   - Figuratif
@@ -477,7 +465,7 @@ works:
   contextual: true
   sold: false
 - title: Gravure 12
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-12-1988-epreuve7_20-h43x43l.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-12-1988-epreuve7_20-h43x43l.jpg
   technique: Gravure sur plâtre 7/20
   fields: []
   styles:
@@ -490,7 +478,7 @@ works:
   price: 150
   contextual: true
 - title: Autoportrait Jean Paul Friol
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-friol-galerie-gaia-friol-pap-colle-164-105x75.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-friol-galerie-gaia-friol-pap-colle-164-105x75.jpg
   technique: collection privée
   fields: []
   styles: []

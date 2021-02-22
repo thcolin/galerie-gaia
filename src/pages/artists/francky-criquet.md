@@ -22,7 +22,7 @@ biography: |-
 exhibitions: []
 works:
 - title: "618"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/618.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/618.jpg
   technique: ''
   dimensions:
     height: 
@@ -32,19 +32,8 @@ works:
   price: 
   sold: false
   contextual: true
-- title: La tendresse
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-tendresse.jpg"
-  technique: ''
-  dimensions:
-    height: 67
-    width: 81
-    depth: 
-  description: 2000 euros
-  price: 
-  sold: false
-  contextual: true
 - title: L'écoute de la seconde éternelle
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/lecoute-de-la-seconde-eternelle.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/lecoute-de-la-seconde-eternelle.jpg
   technique: ''
   dimensions:
     height: 106
@@ -55,7 +44,7 @@ works:
   sold: false
   contextual: true
 - title: Les chevaux de passage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-chevaux-de-passage.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-chevaux-de-passage.jpg
   technique: ''
   dimensions:
     height: 75
@@ -66,7 +55,7 @@ works:
   sold: false
   contextual: true
 - title: "547"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/547.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/547.jpg
   technique: ''
   dimensions:
     height: 
@@ -77,7 +66,7 @@ works:
   sold: false
   contextual: true
 - title: "616"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/616.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/616.jpg
   technique: ''
   dimensions:
     height: 
@@ -88,7 +77,7 @@ works:
   sold: false
   contextual: true
 - title: "617"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/617.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/617.jpg
   technique: ''
   dimensions:
     height: 
@@ -99,7 +88,7 @@ works:
   sold: false
   contextual: true
 - title: "620"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/620.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/620.jpg
   technique: ''
   dimensions:
     height: 
@@ -110,7 +99,7 @@ works:
   sold: false
   contextual: true
 - title: Diptyque performance du vernissage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/diptyque-performance-du-vernissage.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/diptyque-performance-du-vernissage.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 250
