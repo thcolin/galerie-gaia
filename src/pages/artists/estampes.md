@@ -20,7 +20,7 @@ works:
   description: "# Tapiès Exposition Maeght"
   price: 140
   contextual: true
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tapies-maeght72x56.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tapies-maeght72x56.jpg
   styles:
   - abstrait
 - title: Chillida Exposition 1971 Barcelone
@@ -32,11 +32,11 @@ works:
   description: "# Chillida"
   price: 140
   contextual: true
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-chilida70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-chilida70x50.jpg
   styles:
   - abstrait
 - title: Miró Exposition Barcelone 1973
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
   technique: Affiche de collection en parfait état
   dimensions:
     height: 75
@@ -46,7 +46,7 @@ works:
   price: 140
   contextual: true
 - title: 'Georg Baselitz - Sigmund '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
   technique: Eau forte (15/15)
   dimensions:
     height: 85
@@ -59,7 +59,7 @@ works:
   styles:
   - Figuratif
 - title: 'Eloïse Van Der Heyden - Mimosa #15'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg
   technique: monotype variation 2
   fields: []
   styles:
@@ -72,7 +72,7 @@ works:
   price: 900
   contextual: true
 - title: Pierre Alechinsky - "Ziggourat II"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-ziggourat-ii.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-ziggourat-ii.jpg
   technique: Lithographie 19/66 1985
   dimensions:
     height: 72
@@ -99,9 +99,9 @@ works:
   description: "# Hervé Di Rosa"
   price: 1600
   contextual: true
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-di-rosa-eau-forte-__le-promeneur__.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-di-rosa-eau-forte-__le-promeneur__.jpg
 - title: " Hervé Di Rosa - Le Pêcheur "
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/herve-di-rosa-le-pecheur-2960.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/herve-di-rosa-le-pecheur-2960.jpg
   technique: Aquatinte, eau forte 29/60 encadrée baguette chêne
   dimensions:
     height: 125
@@ -114,7 +114,7 @@ works:
   styles:
   - Figuratif
 - title: 'Buraglio - "A Jean-Jacques Rousseau" '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buraglio-a-jean-jacques-rousseau-212.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buraglio-a-jean-jacques-rousseau-212.jpg
   technique: Epreuve pigmentaire 2/12 2019
   dimensions:
     height: 66
@@ -127,7 +127,7 @@ works:
   styles:
   - Figuratif
 - title: Jean Messagier - Les porteurs de presqu'île
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/messagier-les-porteurs-de-presquile.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/messagier-les-porteurs-de-presquile.jpg
   technique: 'Pointe sèche et aquatinte Epreuve d''artiste 1966 '
   dimensions:
     height: 55
@@ -138,7 +138,7 @@ works:
   sold: false
   contextual: true
 - title: Gérard Traquandi sans titre (rose)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg
   technique: Aquatinte 3/19 2006
   fields: []
   styles: []
@@ -150,7 +150,7 @@ works:
   price: 700
   contextual: true
 - title: Gérard Traquandi sans titre (cuivré)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg
   technique: Aquatinte 4/19 2006
   fields: []
   styles: []
@@ -162,7 +162,7 @@ works:
   price: 700
   contextual: true
 - title: Gérard Tranquandi duo en situation
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
   technique: Aquatinte
   dimensions:
     height: 80
@@ -172,7 +172,7 @@ works:
   price: 1500
   contextual: false
 - title: 'Gérard Traquandi - Sans Titre (orange) '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
   technique: Aquatinte 12/19
   dimensions:
     height: 80
@@ -183,7 +183,7 @@ works:
   sold: false
   contextual: true
 - title: 'Traquandi - Sans Titre (noir) '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
   technique: Aquatinte 12/19 2013
   dimensions:
     height: 80
@@ -194,7 +194,7 @@ works:
   sold: false
   contextual: true
 - title: 'Gérard Traquandi - sans titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait3-66x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait3-66x50.jpg
   technique: Eau forte 5/19 2006
   dimensions:
     height: 66
@@ -205,7 +205,7 @@ works:
   sold: false
   contextual: true
 - title: 'Gérard Traquandi - Sans titre  '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-ange-66x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-ange-66x50.jpg
   technique: Eau forte 16/19 2006
   dimensions:
     height: 66
@@ -216,7 +216,7 @@ works:
   sold: false
   contextual: true
 - title: 'Gérard Traquandi - Sans titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg
   technique: Eau forte 16/19 2006
   dimensions:
     height: 66
@@ -227,7 +227,7 @@ works:
   sold: false
   contextual: true
 - title: 'Antonio Saura - Francisco de Goya (WCC 280) '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/antonio-saura-francisco-de-goya-wcc-280-96125.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/antonio-saura-francisco-de-goya-wcc-280-96125.jpg
   technique: Zincographie en couleur et 4 timbres humides 96/125 1977
   dimensions:
     height: 59
@@ -240,7 +240,7 @@ works:
   styles:
   - Figuratif
 - title: 'Claude Viallat - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-ee.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-ee.jpg
   technique: Sérigraphie 88/991997
   dimensions:
     height: 64
@@ -251,7 +251,7 @@ works:
   sold: false
   contextual: true
 - title: 'Villeglé - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/villegle-sans-titre-4750.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/villegle-sans-titre-4750.jpg
   technique: Sérigraphie 47/50 1989
   dimensions:
     height: 65
@@ -262,7 +262,7 @@ works:
   sold: false
   contextual: true
 - title: 'Villeglé - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/villegle-sans-titre-19.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/villegle-sans-titre-19.jpg
   technique: Sérigraphie 1/9
   dimensions:
     height: 65
@@ -273,7 +273,7 @@ works:
   sold: false
   contextual: true
 - title: Villeglé - Tréméac
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jacques-villegle-tremeac.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jacques-villegle-tremeac.jpg
   technique: Lithographie 1994 /100
   dimensions:
     height: 35
@@ -287,7 +287,7 @@ works:
   sold: false
   contextual: true
 - title: 'Shirley Jaffe - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg
   technique: Sérigraphie atelier Byse Lille 25/70 2002
   dimensions:
     height: 65
@@ -298,7 +298,7 @@ works:
   sold: false
   contextual: true
 - title: 'Frédéric Poincelet - Sans titre #1 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-1-420.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-1-420.jpg
   technique: Lithographie 4/20 2017
   dimensions:
     height: 42
@@ -311,7 +311,7 @@ works:
   styles:
   - Figuratif
 - title: 'Frédéric Poincelet - Sans titre #3 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
   technique: Lithographie 4/20 2017
   dimensions:
     height: 42
@@ -324,8 +324,8 @@ works:
   styles:
   - Figuratif
 - title: Claude Viallat - Sans Titre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre.jpg"
-  technique: Sérigraphie 28/60
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre.jpg
+  technique: Sérigraphie 28/60 Réservée
   dimensions:
     height: 69
     width: 69
@@ -335,7 +335,7 @@ works:
   sold: false
   contextual: true
 - title: 'Claude Viallat - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-13.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-13.jpg
   technique: Sérigraphie 1/3 2007
   dimensions:
     height: 96
@@ -346,7 +346,7 @@ works:
   sold: false
   contextual: true
 - title: 'Claude Viallat - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-33.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-33.jpg
   technique: Sérigraphie 3/3 2007
   dimensions:
     height: 96
@@ -357,7 +357,7 @@ works:
   sold: false
   contextual: true
 - title: 'Pierre Alechinsky - "Writing Book" '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg
   technique: Lithographie 65/99 encadrée baguette chêne verre musée anti-reflet
   dimensions:
     height: 48
@@ -370,7 +370,7 @@ works:
   styles:
   - Figuratif
 - title: Georges Autard - "Perte de sens"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-autard-perte-de-sens.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-autard-perte-de-sens.jpg
   technique: Sérigraphie 36/60 1995
   dimensions:
     height: 66
@@ -383,7 +383,7 @@ works:
   styles:
   - Figuratif
 - title: 'Gérard Garouste - "Les engendrements de Pentagruel" '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gerard-garouste-les-engendrements-de-pentagruel-1299.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gerard-garouste-les-engendrements-de-pentagruel-1299.jpg
   technique: Lithographie 12/99
   dimensions:
     height: 56
@@ -396,7 +396,7 @@ works:
   styles:
   - Figuratif
 - title: 'Shirley Jaffe - Sans Titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-770.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-770.jpg
   technique: Sérigraphie atelier Byse Lille 7/70 2002
   dimensions:
     height: 65
