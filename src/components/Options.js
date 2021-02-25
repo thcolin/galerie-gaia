@@ -1,4 +1,3 @@
-import React from 'react'
 import Select from 'components/Select'
 import Range from 'components/Range'
 import theme from 'theme'

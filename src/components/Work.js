@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link } from 'gatsby'
 import Image from 'components/Image'
 import useHover from 'hooks/use-hover'

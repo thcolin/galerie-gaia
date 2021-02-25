@@ -1,4 +1,3 @@
-import React from 'react'
 import Navigation from 'components/Navigation'
 import Consent from 'components/Consent'
 import Footer from 'components/Footer'

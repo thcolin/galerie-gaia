@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Image from 'components/Image'
 import Icon from 'components/Icon'
 import useEvent from 'react-use/lib/useEvent'

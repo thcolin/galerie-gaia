@@ -1,5 +1,4 @@
-import React from 'react'
-import { keyframes } from 'emotion'
+import { keyframes } from '@emotion/react'
 
 const Loading = ({ ...props }) => (
   <svg css={[props.css, Loading.styles.element]} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" {...props}>

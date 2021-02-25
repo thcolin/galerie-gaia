@@ -1,4 +1,4 @@
-import React, { useEffect, Fragment, useMemo, useState, useRef } from 'react'
+import { useEffect, Fragment, useMemo, useState, useRef } from 'react'
 import usePagination from 'hooks/use-pagination'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'

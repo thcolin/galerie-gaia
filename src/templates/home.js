@@ -1,11 +1,7 @@
-import React, { useState, useEffect, useMemo } from 'react'
-import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
-import 'pure-react-carousel/dist/react-carousel.es.css'
-import isMobile from 'is-mobile'
-import { css } from 'emotion'
+import { useState, useEffect, useMemo } from 'react'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
-import Image from 'components/Image'
+import Carousel from 'components/Carousel'
 import Heading from 'components/Heading'
 import Work from 'components/Work'
 import theme from 'theme'
@@ -37,23 +33,7 @@ const Home = ({ ...props }) => {
         }}
       >
         <Heading>{frontmatter.seo.heading}</Heading>
-        <CarouselProvider
-          isPlaying
-          infinite
-          interval={isMobile() ? 3000 : 5000}
-          touchEnabled={false}
-          dragEnabled={false}
-          totalSlides={carousel.length}
-          className={css(Home.styles.carousel)}
-        >
-          <Slider>
-            {carousel.map((slide, index) => (
-              <Slide key={index} className={css(Home.styles.slide)}>
-                <Image src={slide.image} />
-              </Slide>
-            ))}
-          </Slider>
-        </CarouselProvider>
+        <Carousel slides={carousel} />
       </section>
       <section css={Home.styles.works}>
         <Work

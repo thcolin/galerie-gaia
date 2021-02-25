@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 const Consent = ({ ...props }) => {
   const [hidden, setHidden] = useState(false)

@@ -1,4 +1,4 @@
-import React, { createElement } from 'react'
+import { createElement } from 'react'
 import { Link } from 'gatsby'
 import Youtube from 'react-youtube'
 import Image from 'components/Image'

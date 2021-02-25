@@ -1,4 +1,3 @@
-import React from 'react'
 import { Helmet } from 'react-helmet'
 import { fromFilesystem2S3 } from 'utils/resolve'
 

@@ -1,17 +1,13 @@
-import React, { useEffect, useMemo, useState, useRef } from 'react'
+import { useEffect, useMemo, useState, useRef } from 'react'
 import { Link } from 'gatsby'
-import { CarouselProvider, Slider, Slide } from 'pure-react-carousel'
-import 'pure-react-carousel/dist/react-carousel.es.css'
-import isMobile from 'is-mobile'
-import { css } from 'emotion'
 import usePagination from 'hooks/use-pagination'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
+import Carousel from 'components/Carousel'
 import Reinsurance from 'components/Reinsurance'
 import Icon from 'components/Icon'
 import Work from 'components/Work'
-import Image from 'components/Image'
 import Heading from 'components/Heading'
 import Options from 'components/Options'
 import shuffle from 'utils/shuffle'
@@ -212,23 +208,9 @@ const Catalogue = ({ scrollPosition, ...props }) => {
       />
       <section ref={ref} css={Catalogue.styles.element}>
         <Heading>{frontmatter.seo.heading}</Heading>
-        <CarouselProvider
-          isPlaying
-          infinite
-          interval={isMobile() ? 3000 : 5000}
-          touchEnabled={false}
-          dragEnabled={false}
-          totalSlides={carousel.length}
-          className={css(Catalogue.styles.carousel)}
-        >
-          <Slider>
-            {carousel.map((slide, index) => (
-              <Slide key={index} className={css(Catalogue.styles.slide)}>
-                <Image src={slide.image} />
-              </Slide>
-            ))}
-          </Slider>
-        </CarouselProvider>
+        <div css={Catalogue.styles.carousel}>
+          <Carousel slides={carousel} />
+        </div>
         <h1>{frontmatter.title}</h1>
         <RichText children={frontmatter.description} />
         <div css={Catalogue.styles.reinsurance}>
@@ -299,31 +281,7 @@ Catalogue.styles = {
   },
   carousel: {
     height: '15rem',
-    width: '100%',
     margin: '0 0 2rem',
-    '>div': {
-      height: '100%',
-      width: '100%',
-      '>div': {
-        height: '100%',
-        width: '100%',
-        '>ul': {
-          height: '100%',
-          width: '100%',
-          '>li': {
-            height: '100%',
-            width: '100%',
-          },
-        },
-      },
-    },
-  },
-  slide: {
-    img: {
-      height: '100%',
-      width: '100%',
-      objectFit: 'cover',
-    },
   },
   results: {
   },

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { Fragment, useState, useEffect } from 'react'
 import { Redirect } from '@reach/router'
 import SEO from 'components/SEO'
 import Layout from 'components/Layout'
@@ -118,7 +118,7 @@ const Artist = ({ location, ...props }) => {
                   )}
                   <br/>
                   {!work.sold && (
-                    <>
+                    <Fragment>
                       <Contact
                         id="UCmdKCfm"
                         method="buy"
@@ -139,7 +139,7 @@ const Artist = ({ location, ...props }) => {
                         ]}
                       />
                      <hr />
-                    </>
+                    </Fragment>
                   )}
                   {!!work.contextual && (
                     <Contextual work={work} />
@@ -200,7 +200,7 @@ const Artist = ({ location, ...props }) => {
             {frontmatter.exhibitions.map((exhibition, index) => (
               <p css={Artist.styles.exhibition} key={index}>
                 {!!(parseInt(exhibition.start) || parseInt(exhibition.end)) && (
-                  <>
+                  <Fragment>
                     <span>
                       {[
                         parseInt(exhibition.start),
@@ -208,7 +208,7 @@ const Artist = ({ location, ...props }) => {
                       ].filter(date => date).join(' - ')}
                     </span>
                     <span> / </span>
-                  </>
+                  </Fragment>
                 )}
                 <strong>{exhibition.location}</strong>
                 <span> / </span>

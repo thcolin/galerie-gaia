@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import Logo from 'components/Logo'
 import Icon from 'components/Icon'
 import RichText from 'components/RichText'

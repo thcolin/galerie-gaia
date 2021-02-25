@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react'
+import { memo, useState, useCallback } from 'react'
 import { LazyLoadImage } from 'react-lazy-load-image-component'
 import { fromFilesystem2S3 } from 'utils/resolve'
 import theme from 'theme'
@@ -48,7 +48,7 @@ Image.styles = {
   },
 }
 
-const FadeInImage = ({ lazy, ...props }) => {
+const FadeInImage = memo(({ lazy, ...props }) => {
   const Child = lazy ? LazyLoadImage : 'img'
   const [ready, setReady] = useState(false)
 
@@ -68,6 +68,6 @@ const FadeInImage = ({ lazy, ...props }) => {
       style={{ opacity: ready ? 1 : 0 }}
     />
   )
-}
+})
 
-export default Image
+export default memo(Image)

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { Fragment, useState } from 'react'
 import { useForm } from 'react-hook-form'
 import Icon from 'components/Icon'
 import theme from 'theme'
@@ -20,7 +20,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
   watch()
 
   return (
-    <>
+    <Fragment>
       <button onClick={() => setToggled(!toggled)} className="contact-form">
         <Icon children={{ buy: 'palette', message: 'informations', phone: 'phone' }[method]} style={{ margin: '0 0.5rem 0 0' }} />
         {{
@@ -54,7 +54,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
           </button>
         </form>
       )}
-    </>
+    </Fragment>
   )
 }
 

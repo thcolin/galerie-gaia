@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Heading = ({ children, level: Level = 'h1', ...props }) => (
   <Level css={Heading.styles.element}>
     {children}

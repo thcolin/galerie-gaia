@@ -1,4 +1,3 @@
-import React from 'react'
 import Icon from 'components/Icon'
 import data from 'data/reinsurance.json'
 import theme from 'theme'
