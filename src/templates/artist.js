@@ -129,8 +129,7 @@ const Artist = ({ location, ...props }) => {
                             name,
                             value: (
                               typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                              name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${fromFilesystem2S3(work.image)}` :
-                              work[name]
+                              name === 'image' ? fromFilesystem2S3(work.image) : work[name]
                             ),
                           })),
                           {
@@ -154,8 +153,7 @@ const Artist = ({ location, ...props }) => {
                         name,
                         value: (
                           typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${fromFilesystem2S3(work.image)}` :
-                          work[name]
+                          name === 'image' ? fromFilesystem2S3(work.image) : work[name]
                         ),
                       })),
                       {
@@ -173,8 +171,7 @@ const Artist = ({ location, ...props }) => {
                         name,
                         value: (
                           typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? `${typeof window !== 'undefined' && `${window.location?.protocol}//${window.location?.hostname}`}${fromFilesystem2S3(work.image)}` :
-                          work[name]
+                          name === 'image' ? fromFilesystem2S3(work.image) : work[name]
                         ),
                       })),
                       {
