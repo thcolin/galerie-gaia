@@ -21,8 +21,8 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Paige de Dimitri Roubichou
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-paige-jpeg.JPG
+- title: Iris de Dimitri Roubichou
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '
   fields:
   - Photographie
@@ -54,21 +54,22 @@ works:
   price: ''
   contextual: true
 - title: Gravure  Renaud Allirand
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-allirand-en-situation.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
+    16.jpg
   technique: eau-forte édition limitée
   fields:
   - Oeuvre sur papier
   styles:
   - Abstrait
   dimensions:
-    height: 15
-    width: 8
+    height: 60
+    width: 40
     depth: 0
   description: |-
     # [Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/ "renaud allirand")
 
     Cadre de présentation Habitat non compris
-  price: 80
+  price: ''
   contextual: true
 - title: Gérard Traquandi sans titre 16/19
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
@@ -112,28 +113,15 @@ works:
   contextual: true
   fields:
   - Photographie
-- title: Loire de Mathilde Guiho
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg
-  technique: 'Photographie '
-  dimensions:
-    height: 9
-    width: 10
-    depth: 0
-  description: '[Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/ "mathilde
-    guillo")'
-  price: 160
-  contextual: false
-  fields:
-  - photographie
-- title: Petit carton de Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg
+- title: Lit de camp de Marie Bathellier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900€.jpeg
   dimensions:
     height: 0
     width: 0
     depth: 0
   description: "[Marie Bathellier]()"
-  price: 290
-  contextual: true
+  price: ''
+  contextual: false
   technique: Technique mixte sur carton partiellement  pyrogravé
   fields:
   - Oeuvre sur papier
