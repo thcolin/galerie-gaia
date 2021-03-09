@@ -23,6 +23,19 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: 6/11/19 22H01
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart_06.12.2019 22h01_100x70cm.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
+  price: 1900
+  contextual: true
 - title: 'Abandoned place #4'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
   technique: 'Photographie tirage en 10 exemplaires '
@@ -65,19 +78,6 @@ works:
   description: 'Tirage sur dibond encadrement en caisse américaine '
   price: 500
   contextual: true
-- title: 2/04/68
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20468.jpg
-  technique: Mixte sur toile
-  dimensions:
-    height: 130
-    width: 89
-    depth: 
-  description: "Vendu   \n2018 cette toile nécessite d'être vu à la galerie pour un
-    effet d'optique obtenu avec la distance que l'on va prendre avec la toile ; autre
-    visuel sur demande"
-  price: ''
-  sold: false
-  contextual: true
 - title: 03/01/18 14:15
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg
   technique: 'Mixte : spray & acrylique sur bois'
@@ -87,28 +87,6 @@ works:
     depth: 
   description: Toile sur châssis Prix 1500€
   price: 
-  sold: false
-  contextual: true
-- title: Thomas 1980
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/thomas-1980.jpg
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: VENDUE
-  price: 
-  sold: false
-  contextual: true
-- title: Inconnue#1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/inconnue1.jpg
-  technique: Spray et acrylique sur bois
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 1500
   sold: false
   contextual: true
 - title: 'Abandoned place #3'
