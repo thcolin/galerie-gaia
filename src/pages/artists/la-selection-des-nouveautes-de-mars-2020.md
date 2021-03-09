@@ -39,7 +39,7 @@ works:
   price: 250
   contextual: true
 - title: Gravure de Jean Paul Friol
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_vie-intra-uterine_32-5x42-5.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-09-1989-11-15-36x24.jpg
   technique: 'gravure sur platre édition 13/20 '
   fields:
   - Oeuvre sur papier
@@ -51,7 +51,7 @@ works:
     depth: 0
   description: '# [Jean Paul Friol](https://galeriegaia.fr/artists/jean-paul-friol/
     "Jean Paul Friol")'
-  price: 120
+  price: ''
   contextual: true
 - title: Gravure  Renaud Allirand
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-allirand-en-situation.jpg
@@ -99,8 +99,8 @@ works:
     Tual")'
   price: 2500
   contextual: false
-- title: 'Théâtre caché de Dimitri Bourriau '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau-theatre-bel-air-nantes.jpg
+- title: 'Buran de Dimitri Bourriau '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg
   technique: 'photographie '
   dimensions:
     height: 30
@@ -108,7 +108,7 @@ works:
     depth: 0
   description: '[Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/
     "dimitri bourriau")'
-  price: 450
+  price: ''
   contextual: true
   fields:
   - Photographie
