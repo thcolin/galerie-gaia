@@ -2,8 +2,6 @@
 template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactRecto.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/WIDExSOEMONE_avril2019.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/888.jpg
 redirect_from:
 - "/plan/"
 seo:
