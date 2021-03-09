@@ -766,5 +766,24 @@ articles:
     l toma l thomas labarthe\") - [Olivier Frémont]() - Laure Carré - Elisabeth Wadecki
     - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
     Paressant - Pierre Tual..."
+- template: article
+  date: '2021-03-11T20:22:49Z'
+  categories:
+  - Exposition
+  title: 'Artefacts Edwin Wide Exposition Peinture '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactRecto.jpg
+  content: "Edwin Wide \"Artefacts\"\n\n[Artefact en Sciences naturelles](https://www.larousse.fr/dictionnaires/francais/artefact/5512
+    \"edwin wide artefact\") : phénomène d'origine artificielle ou accidentelle qui
+    altère une expérience portant sur un phénomène naturel.\n\nArtefact en anthropologie
+    : produit ayant subi une transformation, même minime, par l'homme et qui se distingue
+    ainsi d'un autre provoqué par un phénomène naturel.\n\nArtefact en **photographie**,
+    électronique et informatique : élément indésirable ou défectueux.\n\nEt pour Edwin
+    Wide il y a ce merveilleux entêtement pour les fragments d'histoire d'hommes,
+    de femmes, d'enfants qui s'incarnent dans une seule image d'identité, trouvée
+    par hasard au sol dans nos villes-ruines modernes. Et le processus recommence,
+    chacune de ses images naturelles, redevient création par altération picturale.
+    Une autre Histoire commence, une autre Image se construit subtilement sous nos
+    yeux, un Visage apparaît. Altération, transformation, le défaut comme une provocation
+    ingénieuse pour nous émouvoir. "
 
 ---
