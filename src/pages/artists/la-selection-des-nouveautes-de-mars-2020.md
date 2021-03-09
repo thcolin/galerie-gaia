@@ -179,16 +179,17 @@ works:
   fields: []
   styles:
   - abstrait
-- title: GO SEGAWA - Mass
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/go-segawa-mass.jpg
-  technique: Sérigraphie 3/25 (2019)
+- title: Oeuf Posé - GO SEGAWA
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf
+    posé.png
+  technique: 'Sérigraphie /50 '
   dimensions:
-    height: 6
-    width: 12
-    depth: 12
-  description: "Volume pliable 6X12X12 \n\n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
+    height: 5.6
+    width: 5.6
+    depth: 9
+  description: "Volume pliable \n\n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
     \"Go Segawa\")"
-  price: 160
+  price: ''
   sold: false
   contextual: true
 - title: 'Failles #35 Versants'
