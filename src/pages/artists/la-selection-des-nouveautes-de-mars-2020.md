@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Nouveautés 2021
+title: Nouveautés Mars 2021
 location: ''
 birth: "0"
 death: "0"
@@ -20,36 +20,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: false
-- title: Céramique de Corinne Guého
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG
-  technique: Grès ou porcelaine
-  fields:
-  - Céramique
-  styles:
-  - Figuratif
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Corinne Guého](https://galeriegaia.fr/artists/gheho-corinne/ \"corinne
-    guého\")\n\nPièces unique mais pour un usage quotidien !  \nCérémonie du thé,
-    café, sushi...  \nPrix de 10€ à 45€ selon le format"
-  price: 10
-  contextual: true
-- title: Livre d'artiste de Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/projetvasy_72dpi_vuedessus.jpg
-  technique: Livre édité en 2000 exemplaires comportant un morceau d'une oeuvre numéroté
-    x/2000
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '# [Toma L](https://galeriegaia.fr/artists/gheho-corinne/ "TOMA LABARTE")'
-  price: 120
   contextual: false
 - title: Paige de Dimitri Roubichou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-paige-jpeg.JPG
@@ -101,7 +71,7 @@ works:
   price: 80
   contextual: true
 - title: Gérard Traquandi sans titre 16/19
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
   technique: Eau forte 16/19
   fields:
   - Oeuvre sur papier
