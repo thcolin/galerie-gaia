@@ -1,9 +1,9 @@
 ---
 template: home
 carousel:
-- image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fevrier2020-1.jpg"
-- image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-atelier-1.jpg"
-- image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg"
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactRecto.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/WIDExSOEMONE_avril2019.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-galerie-art-nantes-chantier.jpg
 redirect_from:
 - "/plan/"
 seo:
