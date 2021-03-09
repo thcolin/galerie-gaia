@@ -125,17 +125,6 @@ works:
   technique: Technique mixte sur carton partiellement  pyrogravé
   fields:
   - Oeuvre sur papier
-- title: Grès 5 par Jacqueline Pécantet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf9191-copie.JPG
-  technique: Crin de cheval sur grès, poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Jacqueline Pécantet](https://galeriegaia.fr/artists/jacqueline-pecantet/
-    "Jacqueline Pécantet")'
-  price: 140
-  contextual: true
 - title: Jardin des plantes par Tangui Robert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg
   technique: Gravure sur zinc et piquetage photos
@@ -162,8 +151,8 @@ works:
   - Céramique
   styles:
   - abstrait
-- title: Cellule chardon de Muriel Kerba
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg
+- title: Algue  de Muriel Kerba
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MURIEL-KERBA_algue.petrole_70x50.jpg
   dimensions:
     height: 70
     width: 50
@@ -177,15 +166,15 @@ works:
   - Oeuvre sur papier
   styles:
   - abstrait
-- title: Dessin ruban  de Françoise Paressant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg
+- title: Feutre et acrylique  de Françoise Paressant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-A:F-50X50-005.jpg
   technique: 'Acrylique sur feutre '
   dimensions:
     height: 40
-    width: 30
+    width: 40
   description: '[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
     "Francoise Paressant")'
-  price: 320
+  price: ''
   contextual: true
   fields: []
   styles:
