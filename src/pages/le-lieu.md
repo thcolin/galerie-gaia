@@ -19,14 +19,13 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   peintures, stèles et tapisseries sont exposées et disponibles à la vente en exclusivité
   à la galerie.\n\n**En 2021 la Galerie Gaia continue sa transformation** en aménageant
   les 2 salles de la galerie art contemporain pour accueillir 6 à 8 expositions  alternant
-  en solo-show et des expositions collectives. **L'abstraction qui est au cœur de
-  la sélection fait aussi la place à des œuvres plus figuratives où l'architecture
-  et la ligne sont fréquemment présentes ou sous-jacentes.** \n\nCette sélection de
-  plus de **70 artistes représente un fond de +800 œuvres** disponibles dans l'onglet
-  \ [CATALOGUE](https://galeriegaia.fr/catalogue/ \"galerie gaillard\") avec un choix
-  de peintures, sculptures, photographies, dessins, gravures, lithographies, sérigraphies,
-  céramiques, tapisseries et objets uniques de designer tous sélectionnés par mes
-  soins.\n\n[Interview par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
+  solo-show et des expositions collectives. **L'abstraction qui est au cœur de la
+  sélection fait aussi la place à des œuvres plus figuratives où l'architecture et
+  la ligne sont fréquemment présentes ou sous-jacentes.**\n\nCette sélection de plus
+  de **70 artistes représente un fond de +800 œuvres** disponibles dans l'onglet  [CATALOGUE](https://galeriegaia.fr/catalogue/
+  \"galerie gaillard\") avec un choix de peintures, sculptures, photographies, dessins,
+  gravures, lithographies, sérigraphies, céramiques, tapisseries et objets uniques
+  de designer tous sélectionnés par mes soins.\n\n[Interview par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
   \"interview elisabeth givre \")\n\nVous avez trouvé une œuvre dans le [catalogue](https://galeriegaia.fr/catalogue/
   \"catalogue de la collection de  galerie gaia\") qui vous plait et vous hésitez
   ?  \nComment financer votre achat ?  \nLes livraisons sont-elles possibles partout
