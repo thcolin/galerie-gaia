@@ -23,6 +23,32 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: JULIETTE
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart-Juliette-195x130cm.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 195
+    width: 130
+    depth: 0
+  description: ''
+  price: 2900
+  contextual: true
+  technique: Acrylique sur toile
+- title: IDFRA EA
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart-IDFRA EA-130x97cm.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 2500
+  contextual: true
 - title: '25-10-17 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-25.10.2017-100x70cm.jpg
@@ -46,7 +72,7 @@ works:
     width: 97
     depth: 0
   description: ''
-  price: 2400
+  price: 2500
   contextual: true
 - title: CHRISTIAN
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
