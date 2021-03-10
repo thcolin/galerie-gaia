@@ -23,6 +23,18 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: 05-01-17
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin-Wide-05-01-17-195X130.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 195
+    width: 130
+    depth: 0
+  description: ''
+  price: 2900
+  contextual: true
 - title: '25-10-17 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-25.10.2017-100x70cm.jpg
