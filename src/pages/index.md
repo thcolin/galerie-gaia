@@ -2,7 +2,7 @@
 template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart_IDFRA BL_130x97cm.jpg
+    WIDE Donnart-25.10.2017-100x70cm.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-sechage.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-WIDE-SOEMONE-avril2019.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactRecto.jpg
