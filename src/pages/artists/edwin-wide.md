@@ -23,6 +23,18 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: Teaser Expo ARTEFACTS
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactVersoA6.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Teaser](https://www.youtube.com/watch?v=ZuIUr3zEFgU "Teaser expo
+    Wide ")'
+  price: 0
+  contextual: true
 - title: '25-10-17 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-25.10.2017-100x70cm.jpg
