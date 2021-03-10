@@ -24,8 +24,8 @@ exhibitions:
   start: 11 Mars 2021
 works:
 - title: 6/11/19 22H01
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-Edwin
-    WIDE Donnart_06.12.2019 22h01_100x70cm.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Edwin WIDE Donnart_06.12.2019
+    22h01_100x70cm.jpg
   technique: Acrylique sur toile
   fields: []
   styles: []
