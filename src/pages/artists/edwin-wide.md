@@ -23,32 +23,6 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
-- title: JULIETTE
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-Juliette-195x130cm.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 195
-    width: 130
-    depth: 0
-  description: ''
-  price: 2900
-  contextual: true
-  technique: Acrylique sur toile
-- title: IDFRA EA
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-IDFRA EA-130x97cm.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: ''
-  price: 2500
-  contextual: true
 - title: '25-10-17 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-25.10.2017-100x70cm.jpg
@@ -62,9 +36,36 @@ works:
   price: 1900
   contextual: true
   technique: Acrylique sur bois
-- title: 'IDFRA BL '
+- title: JULIETTE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-IDFRA BL-130x97cm.jpg
+    WIDE Donnart-Juliette-195x130cm.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 195
+    width: 130
+    depth: 0
+  description: ''
+  price: 2900
+  contextual: true
+  technique: Acrylique sur toile
+- title: SOLDAT 1915
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart-SOLDAT 1915-195x130cm.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 195
+    width: 130
+    depth: 0
+  description: ''
+  price: 2900
+  contextual: true
+- title: IDFRA EA
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart-IDFRA EA-130x97cm.jpg
+  technique: Acrylique sur toile
   fields: []
   styles: []
   dimensions:
@@ -83,6 +84,18 @@ works:
   dimensions:
     height: 114
     width: 146
+    depth: 0
+  description: ''
+  price: 2500
+  contextual: true
+- title: 'IDFRA BL '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart-IDFRA BL-130x97cm.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
     depth: 0
   description: ''
   price: 2500
@@ -112,6 +125,17 @@ works:
     depth: 0
   description: ''
   price: 1900
+  contextual: true
+- title: 03/01/18 14:15
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg
+  technique: 'Mixte : spray & acrylique sur bois'
+  dimensions:
+    height: 100
+    width: 70
+    depth: 
+  description: Toile sur châssis Prix 1500€
+  price: 
+  sold: false
   contextual: true
 - title: 'Abandoned place #4'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
@@ -154,17 +178,6 @@ works:
     depth: 0
   description: 'Tirage sur dibond encadrement en caisse américaine '
   price: 500
-  contextual: true
-- title: 03/01/18 14:15
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg
-  technique: 'Mixte : spray & acrylique sur bois'
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: Toile sur châssis Prix 1500€
-  price: 
-  sold: false
   contextual: true
 - title: 'Abandoned place #3'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg
