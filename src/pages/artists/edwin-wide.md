@@ -35,9 +35,10 @@ works:
   description: ''
   price: 1900
   contextual: true
+  technique: Acrylique sur bois
 - title: 'IDFRA BL '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart_IDFRA BL_130x97cm.jpg
+    WIDE Donnart-IDFRA BL-130x97cm.jpg
   fields: []
   styles: []
   dimensions:
@@ -47,9 +48,9 @@ works:
   description: ''
   price: 2400
   contextual: true
-- title: Christian
+- title: CHRISTIAN
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart_CHRISTIAN_146x114cm.jpg
+    WIDE Donnart-CHRISTIAN-146x114cm.jpg
   technique: Acrylique sur toile
   fields: []
   styles: []
