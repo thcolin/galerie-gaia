@@ -23,6 +23,30 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: '25-10-17 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart-25.10.2017-100x70cm.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
+  price: 1900
+  contextual: true
+- title: 'IDFRA BL '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart_IDFRA BL_130x97cm.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 2400
+  contextual: true
 - title: Christian
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart_CHRISTIAN_146x114cm.jpg
