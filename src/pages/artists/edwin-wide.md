@@ -23,6 +23,19 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: Christian
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
+    WIDE Donnart_CHRISTIAN_146x114cm.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 114
+    width: 146
+    depth: 0
+  description: ''
+  price: 2500
+  contextual: true
 - title: 7.12.19 14H39
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-07.12.2019 14h39-100x70cm.jpg
