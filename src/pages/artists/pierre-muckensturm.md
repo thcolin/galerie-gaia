@@ -47,19 +47,6 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
   ."
 exhibitions: []
 works:
-- title: 14P2906 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm
-    GF1.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 222
-    width: 183
-    depth: 0
-  description: ''
-  price: 11500
-  contextual: false
-  technique: technique mixte et huile sur toile sur châssis
 - title: 14P2906
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     14p2906.jpg
@@ -73,6 +60,19 @@ works:
   contextual: true
   fields:
   - Peinture
+- title: 14P2906 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm
+    GF1.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 222
+    width: 183
+    depth: 0
+  description: ''
+  price: 11500
+  contextual: false
+  technique: technique mixte et huile sur toile sur châssis
 - title: 14P2906 détail
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     14p2906 detail.JPG
@@ -269,6 +269,18 @@ works:
   contextual: true
   fields:
   - Peinture
+- title: 14P1832263 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-GF2.jpg
+  technique: 'Technique mixte et huile sur toile sur châssis '
+  fields: []
+  styles: []
+  dimensions:
+    height: 226
+    width: 183
+    depth: 0
+  description: ''
+  price: 11500
+  contextual: false
 - title: 203R0941 -  composition à 6 angles  à Entas -
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     p 203R0941.jpg
