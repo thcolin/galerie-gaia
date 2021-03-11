@@ -5,8 +5,8 @@ styles:
 - Figuratif
 - Abstrait
 template: artist
-title: 'Aline '
-location: Isoard
+title: Aline Isoard
+location: ''
 birth: ''
 death: ''
 expose: false
