@@ -198,6 +198,7 @@ fields:
   hidden: true
   default: artist
 pages:
+- src/pages/artists/aline.md
 - src/pages/artists/bathelier-marie.md
 - src/pages/artists/brigitte-marionneau.md
 - src/pages/artists/dimitri-bourriau.md
