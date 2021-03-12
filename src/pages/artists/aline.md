@@ -5,7 +5,7 @@ styles:
 - Figuratif
 - Abstrait
 template: artist
-title: Aline Isoard
+title: Isoard Aline
 location: ''
 birth: ''
 death: ''
@@ -15,7 +15,7 @@ works:
 - title: Station 8 2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
     8-2019,60x60cm.jpg
-  technique: Photo tirage unique
+  technique: Photo dépigmentée tirage unique
   fields: []
   styles: []
   dimensions:
@@ -23,13 +23,13 @@ works:
     width: 60
     depth: 0
   description: ''
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: Station 6 2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
     6-2017,60x60cm.jpg
-  technique: Photo tirage unique
+  technique: Photo dépigmentée tirage unique
   fields: []
   styles: []
   dimensions:
@@ -37,7 +37,7 @@ works:
     width: 60
     depth: 0
   description: "2017"
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: Station 6 2016
@@ -51,7 +51,7 @@ works:
     width: 60
     depth: 0
   description: "2016"
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: Station 5
@@ -65,13 +65,13 @@ works:
     width: 60
     depth: 0
   description: "2017"
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: Les objets 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-les
     objets 10-2019,60x60cm.jpg
-  technique: Photo tirage unique
+  technique: Photo dépigmentée tirage unique
   fields: []
   styles: []
   dimensions:
@@ -79,7 +79,7 @@ works:
     width: 60
     depth: 0
   description: "2017"
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: 'Habitants sur route 8 '
