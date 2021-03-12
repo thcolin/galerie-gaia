@@ -101,6 +101,19 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Querelle carbone 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019040101-querellecarbone10-150x140cm.jpg
+  technique: 'Mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 140
+    depth: 0
+  description: "2019  \nPrix sur demande "
+  price: ''
+  contextual: true
 - title: 'Little wood trash '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg
   technique: Technique mixte sur bois
