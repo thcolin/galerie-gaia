@@ -35,6 +35,18 @@ works:
     "Aline ISOARD ")'
   price: 800
   contextual: true
+- title: La mer Dernier exemplaire Mathidle Guiho
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Mathilde-Guiho-Sans-Titre-2015.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/ "mathidle
+    Guiho")'
+  price: 750
+  contextual: true
 - title: Iris de Dimitri Roubichou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '
