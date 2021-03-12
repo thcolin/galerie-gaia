@@ -33,6 +33,21 @@ biography: "# Mathilde Guiho\n\nLes genoux rouges\n\n\"Comme une exploration sou
   d’individualité, de recherche autour du souvenirs.\n\n[mathilde guiho](https://mathildeguiho.fr/
   \"mathilde guiho\")"
 works:
+- title: Mer
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mathilde-guiho-sans-titre-2015.jpg
+  technique: 'Photographie '
+  dimensions:
+    height: 50
+    width: 75
+    depth: 
+  description: "**Il ne reste plus que 1 tirage disponible soit le 9/9 et cette photo
+    sera épuisée**.\n\nimpression numérique sur papier mat smooth contrecollé sur
+    dibond  \ncaisse américaine noire"
+  price: 750
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
 - title: 'Les genoux rouges '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg
   technique: 'Photographie '
@@ -185,21 +200,6 @@ works:
     depth: 
   description: ''
   price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Mer
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mathilde-guiho-sans-titre-2015.jpg
-  technique: 'Photographie '
-  dimensions:
-    height: 50
-    width: 75
-    depth: 
-  description: "**Il ne reste plus que 1 tirage disponible soit le 9/9 et cette photo
-    sera épuisée**.\n\nimpression numérique sur papier mat smooth contrecollé sur
-    dibond  \ncaisse américaine noire"
-  price: 750
   sold: false
   contextual: true
   fields: []

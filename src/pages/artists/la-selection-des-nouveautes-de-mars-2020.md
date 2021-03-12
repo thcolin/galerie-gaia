@@ -47,6 +47,7 @@ works:
     Guiho")'
   price: 750
   contextual: true
+  technique: Photographie 9/9
 - title: Iris de Dimitri Roubichou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '
