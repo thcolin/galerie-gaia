@@ -101,6 +101,19 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Simple black
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2012111201-simpleblack-70x100cm.jpg
+  technique: mixte sur papier caisse américaine chêne
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: "2012  \nPrix sur demande "
+  price: ''
+  contextual: true
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg

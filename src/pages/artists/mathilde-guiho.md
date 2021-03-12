@@ -34,7 +34,7 @@ biography: "# Mathilde Guiho\n\nLes genoux rouges\n\n\"Comme une exploration sou
   \"mathilde guiho\")"
 works:
 - title: 'Les genoux rouges '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg
   technique: 'Photographie '
   dimensions:
     height: 12
@@ -47,7 +47,7 @@ works:
   fields: []
   styles: []
 - title: Le regard
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg
   technique: Photographie et broderies
   dimensions:
     height: 10
@@ -60,7 +60,7 @@ works:
   fields: []
   styles: []
 - title: Brûlées
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg
   technique: Photographie
   dimensions:
     height: 15
@@ -73,7 +73,7 @@ works:
   fields: []
   styles: []
 - title: Ciel plein
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg
   technique: Photographie et broderies
   dimensions:
     height: 10
@@ -86,7 +86,7 @@ works:
   fields: []
   styles: []
 - title: 'Eaux vides '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg
   technique: 'Photographies '
   dimensions:
     height: 10
@@ -99,7 +99,7 @@ works:
   fields: []
   styles: []
 - title: Embuée
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg
   technique: Photographie
   dimensions:
     height: 15
@@ -112,7 +112,7 @@ works:
   fields: []
   styles: []
 - title: 'Loire '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg
   technique: Photographie
   dimensions:
     height: 9
@@ -125,7 +125,7 @@ works:
   fields: []
   styles: []
 - title: Oeil
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg
   technique: Photographie et broderie
   dimensions:
     height: 9
@@ -138,7 +138,7 @@ works:
   fields: []
   styles: []
 - title: 'Oiseaux '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-oiseaux-10x15.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-oiseaux-10x15.jpg
   technique: Photographie brodée
   dimensions:
     height: 10
@@ -151,7 +151,7 @@ works:
   fields: []
   styles: []
 - title: Portrait de fil
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg
   technique: 'Photographie et broderies '
   dimensions:
     height: 19
@@ -164,7 +164,7 @@ works:
   fields: []
   styles: []
 - title: Rouge
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-rouge-15x10.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-rouge-15x10.jpg
   technique: Photographie
   dimensions:
     height: 15
@@ -177,7 +177,7 @@ works:
   fields: []
   styles: []
 - title: Portrait de Mathilde Guiho
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-portrait1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-portrait1.jpg
   technique: ''
   dimensions:
     height: 
@@ -190,15 +190,15 @@ works:
   fields: []
   styles: []
 - title: Mer
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mathilde-guiho-sans-titre-2015.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mathilde-guiho-sans-titre-2015.jpg
   technique: 'Photographie '
   dimensions:
     height: 50
     width: 75
     depth: 
-  description: "impression numérique sur papier mat smooth contrecollé sur dibond
-    \ \ncaisse américaine noire  \nIl ne reste plus que 1 tirage disponible soit le
-    9/9 et cette photo sera épuisée."
+  description: "**Il ne reste plus que 1 tirage disponible soit le 9/9 et cette photo
+    sera épuisée**.\n\nimpression numérique sur papier mat smooth contrecollé sur
+    dibond  \ncaisse américaine noire"
   price: 750
   sold: false
   contextual: true
