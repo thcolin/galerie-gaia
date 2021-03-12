@@ -21,6 +21,20 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Fenêtre sur route 6 par Aline ISOARD
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
+    sur route 6-2020, 60x60cm.jpg
+  technique: Photographie pigmentée tirage unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
+    "Aline ISOARD ")'
+  price: 800
+  contextual: true
 - title: Iris de Dimitri Roubichou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '

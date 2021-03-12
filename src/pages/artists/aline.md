@@ -12,6 +12,20 @@ death: ''
 expose: false
 biography: ''
 works:
+- title: Fenêtre sur route 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
+    sur route 6-2020, 60x60cm.jpg
+  technique: Photo dépigmentée tirage unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  price: 800
+  sold: false
+  contextual: true
+  description: '2020 '
 - title: Station 8 2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
     8-2019,60x60cm.jpg
@@ -96,20 +110,6 @@ works:
   price: 800
   sold: false
   contextual: true
-- title: Fenêtre sur route 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
-    sur route 6-2020, 60x60cm.jpg
-  technique: Photo dépigmentée tirage unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  price: 800
-  sold: false
-  contextual: true
-  description: '2020 '
 - title: Habitants sur route 8
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-habitants
     sur route 8-2018, 60x60cm.jpg
