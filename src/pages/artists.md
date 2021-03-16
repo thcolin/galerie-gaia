@@ -18,8 +18,8 @@ artists:
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/jacques-le-brusq.md
-- artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/jorj-morin.md
+- artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/estampes.md
