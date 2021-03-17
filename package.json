@@ -52,7 +52,7 @@
     "@babel/helper-builder-react-jsx": "^7.12.13",
     "@emotion/babel-preset-css-prop": "^11.2.0",
     "babel-eslint": "^10.1.0",
-    "babel-preset-gatsby": "^0.12.2",
+    "babel-preset-gatsby": "^1.1.0",
     "eslint": "^7.20.0",
     "gatsby-plugin-manifest": "^2.12.1",
     "gray-matter": "^4.0.2",
