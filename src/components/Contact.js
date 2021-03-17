@@ -21,7 +21,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
 
   return (
     <Fragment>
-      <button onClick={() => setToggled(!toggled)} className="contact-form">
+      <button onClick={() => setToggled(!toggled)} className={`contact-form ${toggled ? 'active' : ''}`}>
         <Icon children={{ buy: 'palette', message: 'informations', phone: 'phone' }[method]} style={{ margin: '0 0.5rem 0 0' }} />
         {{
           buy: `Acquérir cette oeuvre`,
@@ -52,6 +52,10 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
             <Icon children={formState.isSubmitted ? 'check' : formState.isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
             {formState.isSubmitted ? 'Envoyé !' : formState.isSubmitting ? 'Envoie...' : 'Envoyer'}
           </button>
+          <details>
+            <summary>RGPD - Protection de vos données</summary>
+            Les informations recueillies via le site www.galeriegaia.fr (ci-après désigné « le Site ») ont vocation à être traitées par la Galerie Gaïa, responsable de traitement, aux fins de traitement de votre demande de renseignement. Les informations ci dessus sont obligatoires pour la gestion de vos demandes. Conformément à la réglementation applicable en matière de protection des données à caractère personnel, vous disposez d’un droit d’accès de rectification et de portabilité des informations vous concernant; d'un droit de limitation, d’effacement et d’opposition pour des motifs légitimes au traitement de vos données; de la possibilité de nous transmettre des directives afin d’organiser le sort des données vous concernant (conservation, effacement, communication à un tiers, etc.) en cas de décès; Vous pouvez exercer ces droits en écrivant à l'adresse électronique suivante : galeriegaia@orange.fr. Toutefois, votre opposition peut, en pratique et selon le cas, avoir une incidence sur votre demande d’information. Pour plus d’informations concernant ce traitement contactez-nous à l'adresse galeriegaia@orange.fr.
+          </details>
         </form>
       )}
     </Fragment>

@@ -87,14 +87,32 @@ button {
   background: none;
   padding: 0.5em 1em;
   font-size: 0.875rem;
-  border: 1px solid #eee;
-  transition: border 400ms ease-in-out, background 400ms ease-in-out;
+  color: #272727;
+  background: #fff;
+  border: 1px solid #272727;
+  transition: all 200ms ease-in-out;
 }
 
-button:hover:not(:disabled) {
+button:hover:not(:disabled), button.active {
   cursor: pointer;
-  background: #fcfcfc;
-  border: 1px solid #d4d4d4;
+  color: #fff;
+  background: #272727;
+  border: 1px solid #272727;
+}
+
+button:disabled {
+  color: #cccccc;
+  border: 1px solid #cccccc;
+}
+
+details {
+  font-size: 0.75rem;
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+details summary {
+  margin-bottom: 1em;
 }
 
 hr {
