@@ -189,6 +189,12 @@ fields:
     labelField: title
   label: Exhibitions
   description: Expositions
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+  hidden: false
 - name: template
   type: text
   config:
