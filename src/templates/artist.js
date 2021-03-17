@@ -1,6 +1,7 @@
 import { Fragment, useState, useEffect } from 'react'
 import { Redirect } from '@reach/router'
 import SEO from 'components/SEO'
+import Breadcrumb from 'components/Breadcrumb'
 import Layout from 'components/Layout'
 import RichText from 'components/RichText'
 import Reinsurance from 'components/Reinsurance'
@@ -16,7 +17,7 @@ import { fromFilesystem2S3 } from 'utils/resolve'
 import theme from 'theme'
 
 const Artist = ({ location, ...props }) => {
-  const { pageContext: { frontmatter } } = props
+  const { pageContext: { frontmatter, breadcrumb } } = props
 
   if (!frontmatter.expose) {
     return (
@@ -44,6 +45,7 @@ const Artist = ({ location, ...props }) => {
       />
       <section css={Artist.styles.element}>
         <div css={Artist.styles.about}>
+          <Breadcrumb {...breadcrumb} current={frontmatter.title} />
           <h1>{frontmatter.title}</h1>
           {!!(parseInt(frontmatter.birth) || parseInt(frontmatter.death)) && (
             <small>

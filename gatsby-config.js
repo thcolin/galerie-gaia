@@ -53,5 +53,18 @@ module.exports = {
         crossOrigin: 'use-credentials',
       },
     },
+    {
+      resolve: `gatsby-plugin-breadcrumb`,
+      options: {
+        useAutoGen: true,
+        autoGenHomeLabel: 'Accueil',
+        crumbLabelUpdates: [
+          {
+            pathname: '/artists',
+            crumbLabel: 'Artistes'
+          }
+        ],
+     },
+    },
   ],
 }
