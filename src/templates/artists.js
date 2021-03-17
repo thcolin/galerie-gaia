@@ -20,7 +20,7 @@ const Artists = ({ scrollPosition, ...props }) => {
       <SEO
         title={frontmatter.seo.title}
         description={frontmatter.seo.description}
-        image={artists[0]?.frontmatter?.works?.filter(work => !work.sold).shift()?.image}
+        image={frontmatter.seo.image || artists[0]?.frontmatter?.works?.filter(work => !work.sold).shift()?.image}
         pageContext={props.pageContext}
       />
       <section css={Artists.styles.element}>

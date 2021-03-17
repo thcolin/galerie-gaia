@@ -233,6 +233,7 @@ works:
   contextual: false
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
+- "/artistes/la-selection-des-nouveautes-de-mars-2020/"
 fields:
 - Séléction
 seo:

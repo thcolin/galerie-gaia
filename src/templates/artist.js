@@ -12,8 +12,6 @@ import Carousel, { Dots } from '@brainhubeu/react-carousel'
 import '@brainhubeu/react-carousel/lib/style.css'
 import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
-import rmmd from 'remove-markdown'
-import { truncate } from 'utils/string'
 import { fromFilesystem2S3 } from 'utils/resolve'
 import theme from 'theme'
 
@@ -39,10 +37,9 @@ const Artist = ({ location, ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        // TODO: Gérer la possibilité de surcharger avec frontmatter.seo
-        title={`${frontmatter.title} - Galerie Gaïa`} // TODO: Ajouter frontmatter.field
-        description={truncate(rmmd(frontmatter.biography))} // TODO: Gérer manuellement avec le template
-        image={slides[0]?.image}
+        title={frontmatter.seo?.title || `${frontmatter.title}${frontmatter.fields.length ? `, ${(frontmatter.fields || []).join(', ')}` : ''} - Galerie Gaïa`}
+        description={frontmatter.seo?.description || `Découvrez, réservez et commandez les œuvres de ${frontmatter.title}${frontmatter.fields.length ? `, ${(frontmatter.fields || []).join(', ')}` : ''}, à la Galerie Gaïa, galerie d'art en ligne et à Nantes.`}
+        image={slides[0]}
         pageContext={props.pageContext}
       />
       <section css={Artist.styles.element}>

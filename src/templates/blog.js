@@ -65,7 +65,7 @@ const Blog = ({ scrollPosition, ...props }) => {
       <SEO
         title={frontmatter.seo.title}
         description={frontmatter.seo.description}
-        image={pieces[0]?.exhibition?.image}
+        image={pieces[0]?.image}
         pageContext={props.pageContext}
       />
       <Heading>{frontmatter.seo.heading}</Heading>
