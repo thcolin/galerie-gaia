@@ -66,10 +66,11 @@ artists:
 - artist: src/pages/artists/adolfo-arenas-alonso.md
 - artist: src/pages/artists/art-galeries-nantes.md
 seo:
-  title: Artistes - Galerie Gaïa
+  title: Artistes - Galerie Gaïa, galerie d'art contemporain
   heading: Les artistes de la Galerie Gaïa, Galerie d'art à Nantes
   type: website
-  description: La Galerie vous propose de découvrir de nombreux artistes contemporains
+  description: Galerie Gaïa, galerie d'art en ligne et galerie d'art à Nantes vous
+    propose de découvrir de nombreux artistes contemporains internationaux.
   image: ''
 redirect_from:
 - "/artistes/"

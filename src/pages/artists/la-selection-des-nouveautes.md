@@ -235,5 +235,9 @@ redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 fields:
 - Séléction
+seo:
+  title: Les nouveautés - Galerie Gaïa, galerie d'art contemporain
+  description: Exposition, peinture, sculpture, estampe, photographie… Découvrez les
+    nouveautés de la Galerie Gaïa, galerie d'art contemporain à Nantes.
 
 ---
