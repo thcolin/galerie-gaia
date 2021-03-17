@@ -15,7 +15,7 @@ const Home = ({ ...props }) => {
     setReady(true)
   }, [])
 
-  const article = useMemo(() => pages.find(page => page.frontmatter.template === 'blog').frontmatter.articles[0], [])
+  const article = useMemo(() => pages.find(page => page.frontmatter.template === 'blog').frontmatter.articles.slice(-1).pop(), [])
   const selection = useMemo(() => pages.find(page => page.frontmatter.template === 'artist' && page.frontmatter.fields.includes('Séléction')), [])
 
   return (
@@ -26,12 +26,7 @@ const Home = ({ ...props }) => {
         image={carousel[0]?.image}
         pageContext={props.pageContext}
       />
-      <section
-        css={Home.styles.element}
-        style={{
-          opacity: ready ? 1 : 0,
-        }}
-      >
+      <section css={Home.styles.element} style={{ opacity: ready ? 1 : 0 }}>
         <Heading>{frontmatter.seo.heading}</Heading>
         <Carousel slides={carousel} />
       </section>
