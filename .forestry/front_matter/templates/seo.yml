@@ -9,7 +9,7 @@ fields:
   - name: title
     type: text
     config:
-      required: true
+      required: false
     label: Title
     description: Titre
   - name: heading
@@ -20,9 +20,9 @@ fields:
     description: En tête
   - name: type
     type: select
-    default: []
+    default: article
     config:
-      required: true
+      required: false
       options:
       - website
       - article
@@ -37,7 +37,7 @@ fields:
     type: textarea
     default: ''
     config:
-      required: true
+      required: false
       wysiwyg: false
       schema:
         format: markdown
@@ -47,7 +47,7 @@ fields:
   - name: image
     type: file
     config:
-      maxSize: 250
+      maxSize: 64
     label: Image
     description: Image
   label: SEO
