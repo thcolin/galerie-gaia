@@ -151,59 +151,45 @@ works:
   contextual: true
 - title: 'Abandoned place #4'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie tirage en 10 exemplaires '
+  technique: 'Photographie '
   fields:
   - Photographie
   styles:
   - Figuratif
   dimensions:
-    height: 50
-    width: 70
+    height: 40
+    width: 60
     depth: 0
-  description: 'Tirage sur dibond encadrement en caisse américaine '
-  price: 500
+  description: 'Tirage sur dibond '
+  price: 350
   contextual: true
 - title: 'Abandoned place #2'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie tirage en 10 exemplaires '
+  technique: 'Photographie  '
   fields:
   - Photographie
   styles:
   - Figuratif
   dimensions:
-    height: 50
-    width: 70
+    height: 40
+    width: 60
     depth: 0
-  description: 'Tirage sur dibond encadrement en caisse américaine '
-  price: 500
+  description: 'Tirage sur dibond '
+  price: 350
   contextual: true
 - title: 'Abandoned place #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie en 10 exemplaires '
+  technique: 'Photographie '
   fields:
   - Photographie
   styles:
   - Figuratif
   dimensions:
-    height: 50
-    width: 70
+    height: 40
+    width: 60
     depth: 0
-  description: 'Tirage sur dibond encadrement en caisse américaine '
-  price: 500
-  contextual: true
-- title: 'Abandoned place #3'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-3-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie tirage en 10 exemplaires '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 50
-    width: 70
-    depth: 0
-  description: 'Tirage sur dibond encadrement en caisse américaine '
-  price: 500
+  description: 'Tirage sur dibond '
+  price: 350
   contextual: true
 - title: Teaser Expo ARTEFACTS
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactVersoA6.jpg
