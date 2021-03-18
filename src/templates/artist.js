@@ -67,10 +67,10 @@ const Artist = ({ location, ...props }) => {
               <Carousel
                 arrows
                 stopAutoPlayOnHover
-                arrowLeft={<Icon children='arrow' direction='left' css={Artist.styles.icon} />}
-                arrowLeftDisabled={<Icon children='arrow' direction='left' css={Artist.styles.icon} style={{ opacity: 0.25 }} />}
-                arrowRight={<Icon children='arrow' direction='right' css={Artist.styles.icon} />}
-                arrowRightDisabled={<Icon children='arrow' direction='right' css={Artist.styles.icon} style={{ opacity: 0.25 }} />}
+                arrowLeft={<span css={Artist.styles.arrow}><Icon children='arrow' direction='left' /></span>}
+                arrowLeftDisabled={<span css={Artist.styles.arrow}><Icon children='arrow' direction='left' style={{ opacity: 0.25 }} /></span>}
+                arrowRight={<span css={Artist.styles.arrow}><Icon children='arrow' direction='right' /></span>}
+                arrowRightDisabled={<span css={Artist.styles.arrow}><Icon children='arrow' direction='right' style={{ opacity: 0.25 }} /></span>}
                 addArrowClickHandler
                 value={slide}
                 onChange={(slide) => setSlide(slide)}
@@ -333,11 +333,17 @@ Artist.styles = {
       },
     },
   },
-  icon: {
-    padding: '1em',
+  arrow: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
     height: '100%',
-    width: '4em',
     cursor: 'pointer',
+    padding: '0 1em',
+    '>svg': {
+      height: '2.5em',
+      width: '2.5em',
+    },
   },
   about: {
     padding: '3rem 1rem 1rem',
