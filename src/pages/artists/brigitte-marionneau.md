@@ -38,47 +38,49 @@ biography: "# Brigitte Marionneau \n\nAprès la mise en forme de la pièce dans 
   , par le geste.\n\nBrigitte Marionneau laisse ainsi son empreinte, sa cartographie
   personnelle au volume architecturé.\n\nCrédit photo Michael Franken"
 works:
+- title: Contenir le vent 9-X
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-Contenir
+    le vent 9-X, 2021, h.20x19x19cm.jpg
+  technique: Terre enfumée
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 19
+    depth: 19
+  description: "2021"
+  price: 2400
+  sold: false
+  contextual: false
+- title: Contenir le vent 9-XI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir
+    le vent 9-XI, 2021,.h.18x15x16cm.jpg
+  technique: Terre enfumée
+  fields: []
+  styles: []
+  dimensions:
+    height: 18
+    width: 15
+    depth: 16
+  description: "2021"
+  price: 2200
+  sold: false
+  contextual: false
 - title: Contenir le vent 8-I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg"
-  technique: Numéro I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-8-i-2018-h-30x30x12cm-credit-photo-pascal-vangysel.jpg
+  technique: Terre enfumée
   fields: []
   styles: []
   dimensions:
     height: 30
     width: 30
     depth: 12
-  description: Numéro 1
+  description: "2018"
   price: 3000
   sold: false
   contextual: false
-- title: Contenir le vent 6-V
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-6-v-2019-h-21x18x11cm-credit-photo-pascal-vangysel.jpg"
-  technique: Terre enfumée
-  fields: []
-  styles: []
-  dimensions:
-    height: 21
-    width: 18
-    depth: 11
-  description: Numéro V
-  price: 1500
-  sold: false
-  contextual: false
-- title: Contenir le vent 9-XI
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg"
-  technique: Terre enfumée
-  fields: []
-  styles: []
-  dimensions:
-    height: 17
-    width: 14
-    depth: 14
-  description: ''
-  price: 2000
-  sold: false
-  contextual: false
 - title: Contenir le vent 8-X
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-8-x-2019-h-25x15x7cm-credit-photo-michael-franken.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/contenir-le-vent-8-x-2019-h-25x15x7cm-credit-photo-michael-franken.jpg
   technique: Terre enfumée
   fields: []
   styles: []
@@ -86,12 +88,12 @@ works:
     height: 25
     width: 16
     depth: 7
-  description: 'Numéro X '
+  description: "2019"
   price: 1600
   sold: false
   contextual: false
 - title: Le geste
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/geste-credit-photo-anthony-girardi.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/geste-credit-photo-anthony-girardi.jpg
   technique: ''
   fields: []
   styles: []
@@ -104,7 +106,7 @@ works:
   sold: false
   contextual: true
 - title: Atelier
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier-brigitte-marionneau-credit-photo-michael-franken.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier-brigitte-marionneau-credit-photo-michael-franken.jpg
   technique: ''
   fields: []
   styles: []
@@ -117,7 +119,7 @@ works:
   sold: false
   contextual: true
 - title: Portrait Brigitte Marionneau
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-brigitte-marionneau.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-brigitte-marionneau.JPG
   technique: ''
   fields: []
   styles: []
@@ -146,5 +148,11 @@ exhibitions:
   location: 'Nançay '
   start: ''
   end: ''
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
