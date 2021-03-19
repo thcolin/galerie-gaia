@@ -40,8 +40,22 @@ biography: "# Corinne Guého\n\nDepuis 1998 Corinne Gueho travaille autour de fo
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
+- title: Caresser les songes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-Caresser
+    les songes,H16,L20,l15.jpg
+  technique: Enfumage pit fire
+  fields: []
+  styles: []
+  dimensions:
+    height: 16
+    width: 20
+    depth: 15
+  description: ''
+  price: 1300
+  sold: false
+  contextual: false
 - title: Vigie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG
   technique: Cuisson haute température
   fields: []
   styles: []
@@ -54,20 +68,20 @@ works:
   sold: false
   contextual: false
 - title: 'Bols '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG
   technique: Grès ou porcelaine
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "petits formats 10€ jusqu’à 45€  \nplateaux noyer ou fresnes 20€"
   price: 10
   sold: false
   contextual: true
 - title: Vigie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG
   technique: 'Raku nu '
   fields: []
   styles: []
@@ -80,7 +94,7 @@ works:
   sold: false
   contextual: false
 - title: Cylindre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-cycindres.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-cycindres.JPG
   technique: 'Raku nu ou cuisson haute température '
   fields: []
   styles: []
@@ -93,7 +107,7 @@ works:
   sold: false
   contextual: false
 - title: 'Bols '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-bols.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-bols.JPG
   technique: Grés ou porcelaine
   fields: []
   styles: []
@@ -106,7 +120,7 @@ works:
   sold: false
   contextual: false
 - title: Ancrage pont
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrages.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrages.JPG
   technique: 'Raku nu '
   fields: []
   styles: []
@@ -119,7 +133,7 @@ works:
   sold: false
   contextual: false
 - title: 'Vigie '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG
   technique: 'Cuisson haute température '
   fields: []
   styles: []
@@ -132,7 +146,7 @@ works:
   sold: false
   contextual: false
 - title: Ancrage 3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG
   technique: 'Terre cuisson haute température '
   fields: []
   styles: []
@@ -145,7 +159,7 @@ works:
   sold: false
   contextual: false
 - title: 'Ancrage 2 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG
   technique: Cuisson haute température
   fields: []
   styles: []
@@ -158,7 +172,7 @@ works:
   contextual: false
   description: ''
 - title: 'Portrait '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-corinne.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-corinne.JPG
   technique: ''
   fields: []
   styles: []
@@ -175,5 +189,11 @@ exhibitions:
   location: 18330 Nançay
   end: ''
   start: artiste permanent
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
