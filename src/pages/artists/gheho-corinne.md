@@ -40,6 +40,34 @@ biography: "# Corinne Guého\n\nDepuis 1998 Corinne Gueho travaille autour de fo
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
+- title: Cylindre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
+    2,H30,Diam12,5.jpg
+  technique: Enfumage pit fire
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 12.5
+    depth: 12.5
+  description: ''
+  price: 1200
+  sold: false
+  contextual: false
+- title: Cylindre 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
+    1 ,H29,Diam11.jpg
+  technique: Enfumage pit fire
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 11
+    depth: 11
+  description: ''
+  price: 1100
+  sold: false
+  contextual: false
 - title: Caresser les songes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-Caresser
     les songes,H16,L20,l15.jpg
