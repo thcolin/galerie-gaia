@@ -177,15 +177,16 @@ works:
   price: 450
   contextual: true
 - title: Contenir le vent 9-XI de Brigitte Marionneau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir-le-vent-9-xi-2020-h-17x14x14cm.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir
+    le vent 9-XI, 2021,.h.18x15x16cm.jpg
   technique: 'Terre enfumée '
   dimensions:
-    height: 17
-    width: 14
-    depth: 14
+    height: 18
+    width: 15
+    depth: 16
   description: '[Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
     "Brigitte Marionneau")'
-  price: 2000
+  price: 2200
   contextual: false
   fields:
   - Céramique
