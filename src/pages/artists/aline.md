@@ -53,7 +53,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   price: 800
   sold: false
   contextual: true
@@ -67,7 +67,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: ''
   price: 800
   sold: false
@@ -81,7 +81,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2017"
   price: 800
   sold: false
@@ -95,7 +95,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2016"
   price: 800
   sold: false
@@ -109,7 +109,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2017"
   price: 800
   sold: false
@@ -123,7 +123,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2017"
   price: 800
   sold: false
@@ -135,9 +135,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "2018"
   price: 800
   sold: false
@@ -151,11 +151,17 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2018"
   price: 800
   sold: false
   contextual: true
 exhibitions: []
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
