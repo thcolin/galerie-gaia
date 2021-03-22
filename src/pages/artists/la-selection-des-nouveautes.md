@@ -35,6 +35,22 @@ works:
     "Aline ISOARD ")'
   price: 800
   contextual: true
+- title: Little wood trash par Toma L
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019110903-LittleWoodTrash-105x70cm-atelier.jpg
+  technique: 'Mixte sur papier '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 105
+    width: 70
+    depth: 0
+  description: "# [Toma L](https://galeriegaia.fr/artists/toma-l/ \"toma labarthe
+    \")\n\n2019 prix sur demande "
+  price: ''
+  contextual: true
 - title: Cylindre 3 Corinne Guého
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
     3,H25,Diam11.jpg
