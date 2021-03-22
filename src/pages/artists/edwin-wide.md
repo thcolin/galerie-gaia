@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Edwin Wide
+title: Edwin Wide Donnart
 location: ''
 fields:
 - Street art
