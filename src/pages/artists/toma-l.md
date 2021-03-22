@@ -101,7 +101,20 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Petit crade mis en situation
+- title: Petit crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2020031706_PETITCRADE_100X72CM.jpg
+  technique: Mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 72
+    depth: 0
+  description: 2020 Prix sur demande
+  price: ''
+  contextual: true
+- title: Petit crade en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2020031706_PETITCRADE_100X72CM-atelier.jpg
   technique: Mixte sur papier
@@ -114,19 +127,6 @@ works:
   description: 2020 Prix sur demande
   price: ''
   contextual: false
-- title: Petit crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2020031706_PETITCRADE_100X72CM-atelier.jpg
-  technique: Mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 72
-    depth: 0
-  description: 2019 Prix sur demande
-  price: ''
-  contextual: true
 - title: Little Wood Trash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019110903-LittleWoodTrash-105x70cm.jpg
@@ -152,7 +152,7 @@ works:
     depth: 0
   description: '2019 prix sur demande '
   price: ''
-  contextual: true
+  contextual: false
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg
