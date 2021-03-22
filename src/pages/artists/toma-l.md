@@ -101,6 +101,32 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Little Wood trash en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019110903-LittleWoodTrash-105x70cm-atelier.jpg
+  technique: 'Mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 105
+    width: 70
+    depth: 0
+  description: '2019 prix sur demande '
+  price: ''
+  contextual: true
+- title: Little Wood Trash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019110903-LittleWoodTrash-105x70cm.jpg
+  technique: 'Mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 105
+    width: 70
+    depth: 0
+  description: 2019 Prix sur demande
+  price: ''
+  contextual: true
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg
