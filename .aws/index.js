@@ -8,7 +8,7 @@ const slug = require('slug')
 const s3 = new AWS.S3()
 
 exports.handler = async (event, context, callback) => {
-  let forestry
+  let forestry, original, thumbnail, trace
   console.log('Reading options from event:\n', util.inspect(event, { depth: 5 }))
   const Bucket = event.Records[0].s3.bucket.name
   const [folder, file] = decodeURIComponent(event.Records[0].s3.object.key.replace(/\+/g, ' ')).split('/')
@@ -26,15 +26,16 @@ exports.handler = async (event, context, callback) => {
 
   try {
     console.log('S3 getObject', { Bucket, Key: `forestry/${file}` })
-    forestry = await s3.getObject({ Bucket, Key: `forestry/${file}` }).promise()
+    forestry = (await s3.getObject({ Bucket, Key: `forestry/${file}` }).promise()).Body
   } catch (error) {
     console.log(error)
     return
   }
 
   const slugified = `${slug(path.basename(file, ext), { lower: true })}${ext.toLowerCase()}`
+
   try {
-    const original = await sharp(forestry.Body).resize(1920).toBuffer()
+    original = await sharp(forestry).resize(1920).toBuffer()
     console.log('S3 putObject', { Bucket, Key: `originals/${slugified}` })
     await s3.putObject({ Bucket, Key: `originals/${slugified}`, Body: original, ContentType: 'image', ACL: 'public-read' }).promise()
     console.log(`Successfully resized ${Bucket}/${folder}/${file} and uploaded to ${Bucket}/originals/${slugified}`)
@@ -44,9 +45,9 @@ exports.handler = async (event, context, callback) => {
   }
 
   try {
-    const original = await sharp(forestry.Body).resize(512).toBuffer()
+    thumbnail = await sharp(original).resize(512).toBuffer()
     console.log('S3 putObject', { Bucket, Key: `thumbnails/${slugified}` })
-    await s3.putObject({ Bucket, Key: `thumbnails/${slugified}`, Body: original, ContentType: 'image', ACL: 'public-read' }).promise()
+    await s3.putObject({ Bucket, Key: `thumbnails/${slugified}`, Body: thumbnail, ContentType: 'image', ACL: 'public-read' }).promise()
     console.log(`Successfully thumbnailed ${Bucket}/${folder}/${file} and uploaded to ${Bucket}/thumbnails/${slugified}`)
   } catch (error) {
     console.log(error)
@@ -54,7 +55,7 @@ exports.handler = async (event, context, callback) => {
   }
 
   try {
-    const trace = await new Promise((resolve, reject) => potrace.trace(forestry.Body, {
+    trace = await new Promise((resolve, reject) => potrace.trace(thumbnail, {
       color: 'lightgray',
       optTolerance: 0.4,
       turdSize: 100,
