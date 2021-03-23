@@ -12,7 +12,7 @@ const Artists = ({ scrollPosition, ...props }) => {
     .filter(page =>
       page
       && page.frontmatter.expose
-      && page.frontmatter.works.filter(work => !work.sold).length
+      && page.frontmatter.works.some(work => !work.sold)
     )
 
   return (
