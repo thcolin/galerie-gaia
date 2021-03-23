@@ -59,7 +59,7 @@ Artists.styles = {
     },
   },
   article: {
-    height: '16em',
+    height: '19em',
     width: '16em',
   },
 }
