@@ -23,7 +23,63 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
-- title: X
+- title: VIII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - VIII - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: VII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - VII - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: VI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - VI - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: V
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - V - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: IX
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
     Patrick Guéguen - IX - 44 x 29 cm.JPG
   technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
