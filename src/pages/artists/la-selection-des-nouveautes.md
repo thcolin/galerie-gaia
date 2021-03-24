@@ -61,7 +61,7 @@ works:
     height: 25.5
     width: 11.5
     depth: 11.5
-  description: '[Corinne Guého](https://galeriegaia.fr/catalogue/ "guého gueho ")'
+  description: '# [Corinne Guého](https://galeriegaia.fr/catalogue/ "guého gueho ")'
   price: 1100
   contextual: false
 - title: La mer Dernier exemplaire Mathidle Guiho
@@ -72,8 +72,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/ "mathidle
-    Guiho")'
+  description: '# [Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/
+    "mathidle Guiho")'
   price: 750
   contextual: true
   technique: Photographie 9/9
@@ -138,7 +138,7 @@ works:
     height: 66
     width: 50
     depth: 0
-  description: '[Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
+  description: '# [Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
   price: 550
   contextual: true
 - title: Primitive N°1 de Pierre Tual
@@ -152,7 +152,7 @@ works:
     height: 20
     width: 36
     depth: 24
-  description: '[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "Pierre
+  description: '# [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "Pierre
     Tual")'
   price: 2500
   contextual: false
@@ -163,7 +163,7 @@ works:
     height: 30
     width: 40
     depth: 0
-  description: '[Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/
+  description: '# [Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/
     "dimitri bourriau")'
   price: ''
   contextual: true
@@ -175,7 +175,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "[Marie Bathellier]()"
+  description: "# [Marie Bathellier]()"
   price: ''
   contextual: false
   technique: Technique mixte sur carton partiellement  pyrogravé
@@ -188,7 +188,7 @@ works:
     height: 40
     width: 50
     depth: 0
-  description: '[Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
+  description: '# [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
     robert")'
   price: 450
   contextual: true
@@ -200,7 +200,7 @@ works:
     height: 18
     width: 15
     depth: 16
-  description: '[Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
+  description: '# [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
     "Brigitte Marionneau")'
   price: 2200
   contextual: false
