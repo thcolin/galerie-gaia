@@ -181,17 +181,6 @@ works:
   technique: Technique mixte sur carton partiellement  pyrogravé
   fields:
   - Oeuvre sur papier
-- title: Jardin des plantes par Tangui Robert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: '# [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
-    robert")'
-  price: 450
-  contextual: true
 - title: Contenir le vent 9-XI de Brigitte Marionneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir
     le vent 9-XI, 2021,.h.18x15x16cm.jpg
@@ -214,8 +203,8 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Pièce unique  \n[Muriel Kerba](https://galeriegaia.fr/artists/muriel-kerba/
-    \"Muriel Kerba\")"
+  description: '# [Muriel Kerba](https://galeriegaia.fr/artists/muriel-kerba/ "Muriel
+    Kerba")'
   price: 700
   contextual: true
   technique: monotype en sérigraphie sur papier Fabriano 285g (70 x 50)
@@ -229,7 +218,7 @@ works:
   dimensions:
     height: 40
     width: 40
-  description: '[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
+  description: '# [Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
     "Francoise Paressant")'
   price: ''
   contextual: true
@@ -244,10 +233,20 @@ works:
     height: 5.6
     width: 5.6
     depth: 9
-  description: "Volume pliable \n\n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
-    \"Go Segawa\")"
-  price: ''
+  description: '# [Go Segawa](https://galeriegaia.fr/artists/go-segawa/ "Go Segawa")'
+  price: 120
   sold: false
+  contextual: true
+- title: Jardin des plantes par Tangui Robert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: '# [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
+    robert")'
+  price: 450
   contextual: true
 - title: 'Failles #35 Versants'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg
@@ -256,8 +255,8 @@ works:
     height: 70
     width: 50
     depth: 
-  description: '[Collectif Seuil](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
-    "Jeronimo Tangui robert Gaetan chevrier ")'
+  description: '# [Jeronimo Tangui Robert Gaetan Chevrier](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
+    "collectif seuil")'
   price: 170
   sold: false
   contextual: false
