@@ -23,8 +23,22 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
+- title: X
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - IX - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
 - title: Les oiseaux de Trévise
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg
   technique: Encre noire et acrylique sur papier
   dimensions:
     height: 100
@@ -34,7 +48,7 @@ works:
   price: 1800
   contextual: true
 - title: 'Les pinces de la vie '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg
   technique: 'Encre noire et acrylique sur papier '
   dimensions:
     height: 100
@@ -44,7 +58,7 @@ works:
   price: 1800
   contextual: true
 - title: Les yeux de la mer méditerranée
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG
   technique: 'Encre noire et acrylique sur papier 350 '
   dimensions:
     height: 70
@@ -52,31 +66,9 @@ works:
   description: 'Œuvre encadrée '
   price: 1800
   contextual: true
-- title: Perroquet vigie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/perroquet-vigie.jpg"
-  technique: Encre et acrylique sur papier
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 1800
-  sold: false
-  contextual: true
 - title: Cerf aux 2 personnages
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-aux-2-personnages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-aux-2-personnages.jpg
   technique: Encre et acrylique sur papier
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 1800
-  sold: false
-  contextual: true
-- title: "1220825"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1220825.jpg"
-  technique: encre et acrylique sur papier
   dimensions:
     height: 100
     width: 70
@@ -86,7 +78,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition vernissage samedi 9 juin 11H
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-vernissage-samedi-9-juin-11h.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-vernissage-samedi-9-juin-11h.jpg
   technique: ''
   dimensions:
     height: 
@@ -94,39 +86,6 @@ works:
     depth: 
   description: ''
   price: 
-  sold: false
-  contextual: true
-- title: Ganesh pour saluer Raza
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ganesh-pour-saluer-raza.jpg"
-  technique: Encre et acrylique sur papier
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 1800
-  sold: false
-  contextual: true
-- title: La déesse au repos-plaisir sur son menhir
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-deesse-au-repos-plaisir-sur-son-menhir.jpg"
-  technique: Encre et acrylique sur papier
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 1800
-  sold: false
-  contextual: true
-- title: Les étranges messagers du centre et des extrémités
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-etranges-messagers-du-centre-et-des-extremites.jpg"
-  technique: Encre et acrylique sur papier
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 1800
   sold: false
   contextual: true
 redirect_from:
