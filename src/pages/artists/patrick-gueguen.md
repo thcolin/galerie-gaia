@@ -23,116 +23,6 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
-- title: III
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaïa-Patrick
-    Guéguen - III - 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-- title: XVII
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie GaÏa-Patrick
-    Guéguen-XVII- 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-- title: XVI
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-XVI- 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-- title: XV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-XV- 44 x 29 cm.JPG
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-- title: Portrait motif 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-Portrait-Motif II - 32,5 x 25 cm.JPG
-  technique: 'Peinture originale sur papier Montval 300 gsm '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: encadrée format 40X50
-  price: 320
-  contextual: true
-- title: Portrait motif 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-Portrait-Motif I - 32,5 x 25 cm.JPG
-  technique: 'Peinture originale sur papier Montval 300 gsm '
-  fields: []
-  styles: []
-  dimensions:
-    height: 32.5
-    width: 25
-    depth: 0
-  description: encadré cadre 40 x 50 cm
-  price: 320
-  contextual: true
-- title: II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-II- 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-- title: XIV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- Patrick
-    Guéguen-XIV- 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
 - title: X
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
     Patrick Guéguen - X - 44 x 29 cm.JPG
@@ -161,9 +51,23 @@ works:
   description: ''
   price: 140
   contextual: true
-- title: XIII
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Patrick Guéguen- XIII - 44 x 29 cm.JPG
+- title: II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-II- 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: III
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaïa-Patrick
+    Guéguen - III - 44 x 29 cm.JPG
   technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
     White
   fields: []
@@ -189,37 +93,9 @@ works:
   description: ''
   price: 140
   contextual: true
-- title: XI
+- title: V
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Patrick Guéguen - XI - 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-- title: VIII
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Patrick Guéguen - VIII - 44 x 29 cm.JPG
-  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
-    White
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
-- title: VII
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Patrick Guéguen - VII - 44 x 29 cm.JPG
+    Patrick Guéguen - V - 44 x 29 cm.JPG
   technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
     White
   fields: []
@@ -245,9 +121,23 @@ works:
   description: ''
   price: 140
   contextual: true
-- title: V
+- title: VII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Patrick Guéguen - V - 44 x 29 cm.JPG
+    Patrick Guéguen - VII - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: VIII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - VIII - 44 x 29 cm.JPG
   technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
     White
   fields: []
@@ -272,6 +162,116 @@ works:
     depth: 0
   description: ''
   price: 140
+  contextual: true
+- title: XI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen - XI - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: XIII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Patrick Guéguen- XIII - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: XIV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- Patrick
+    Guéguen-XIV- 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: XV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-XV- 44 x 29 cm.JPG
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+- title: XVI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-XVI- 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: XVII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie GaÏa-Patrick
+    Guéguen-XVII- 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: Portrait motif 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-Portrait-Motif II - 32,5 x 25 cm.JPG
+  technique: 'Peinture originale sur papier Montval 300 gsm '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: encadrée format 40X50
+  price: 320
+  contextual: true
+- title: Portrait motif 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-Portrait-Motif I - 32,5 x 25 cm.JPG
+  technique: 'Peinture originale sur papier Montval 300 gsm '
+  fields: []
+  styles: []
+  dimensions:
+    height: 32.5
+    width: 25
+    depth: 0
+  description: encadré cadre 40 x 50 cm
+  price: 320
   contextual: true
 - title: Les oiseaux de Trévise
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg
