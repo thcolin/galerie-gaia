@@ -23,6 +23,48 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
+- title: III
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaïa-Patrick
+    Guéguen - III - 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: XVII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie GaÏa-Patrick
+    Guéguen-XVII- 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: XVI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-XVI- 44 x 29 cm.JPG
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
 - title: XV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
     Guéguen-XV- 44 x 29 cm.JPG
@@ -35,6 +77,8 @@ works:
   description: ''
   price: 140
   contextual: true
+  technique: Edition en 21 exemplaires papier Museum Etching 350 gm 100% coton, Natural
+    White
 - title: Portrait motif 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
     Guéguen-Portrait-Motif II - 32,5 x 25 cm.JPG
