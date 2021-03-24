@@ -23,6 +23,31 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
+- title: XV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-XV- 44 x 29 cm.JPG
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: ''
+  price: 140
+  contextual: true
+- title: Portrait motif 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
+    Guéguen-Portrait-Motif II - 32,5 x 25 cm.JPG
+  technique: 'Peinture originale sur papier Montval 300 gsm '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: encadrée format 40X50
+  price: 320
+  contextual: true
 - title: Portrait motif 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
     Guéguen-Portrait-Motif I - 32,5 x 25 cm.JPG
@@ -33,7 +58,7 @@ works:
     height: 32.5
     width: 25
     depth: 0
-  description: encadré sous passe-partout format du cadre 40 x 50 cm
+  description: encadré cadre 40 x 50 cm
   price: 320
   contextual: true
 - title: II
