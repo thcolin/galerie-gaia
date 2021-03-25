@@ -13,11 +13,11 @@ artists:
 - artist: src/pages/artists/jean-paul-friol.md
 - artist: src/pages/artists/gheho-corinne.md
 - artist: src/pages/artists/isthme.md
-- artist: src/pages/artists/mathilde-guiho.md
+- artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/morellet-francois.md
 - artist: src/pages/artists/aline.md
 - artist: src/pages/artists/pierre-muckensturm.md
-- artist: src/pages/artists/francoise-paressant-1.md
+- artist: src/pages/artists/mathilde-guiho.md
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/jorj-morin.md
 - artist: src/pages/artists/pierre-tual.md
