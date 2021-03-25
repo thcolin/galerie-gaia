@@ -60,16 +60,15 @@ biography: "# Renaud Allirand\n\n**Les écritures rebelles**   \nBarbelés infra
   Robinet\n\nTranslation: Diana Quinby"
 exhibitions: []
 works:
-- title: Intérieur III
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-renaud-allirand-interieur3-76X56.jpg
-  technique: 'eau forte et pointe sèche sur cuivre '
+- title: "8"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
+    36.jpg
   dimensions:
-    height: 76
-    width: 56
-    depth: 
-  description: 2012 Epreuve d'artiste
-  price: 500
-  sold: false
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
   contextual: true
 - title: 12 Mai
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-12mai-RenaudALLIRAND-2010-eauForte-pointeSecheSurCuivre-40x50cm.jpeg
@@ -81,16 +80,6 @@ works:
   description: '2010 '
   price: 500
   sold: false
-  contextual: true
-- title: "8"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
-    36.jpg
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 0
   contextual: true
 - title: "7"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-

@@ -139,7 +139,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Nostalgie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -151,7 +151,7 @@ works:
   price: 500
   contextual: true
 - title: Voyage intérieur
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-voyage-interieur-75x75.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-voyage-interieur-75x75.jpeg
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -163,7 +163,7 @@ works:
   price: 1400
   contextual: true
 - title: 'Mannequin atelier Manrique '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg
   technique: Dessin huile sur papier encadrement baguette chêne
   fields:
   - Oeuvre sur papier
@@ -176,7 +176,7 @@ works:
   price: 330
   contextual: true
 - title: Walking shadow
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg
   technique: Dessin huile sur papier encadrement baguette chêne
   fields:
   - Oeuvre sur papier
@@ -189,7 +189,7 @@ works:
   price: 330
   contextual: true
 - title: 'Ombre rebelle '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-ombre-rebelle-20x30.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-ombre-rebelle-20x30.jpeg
   technique: Dessin huile sur papier encadrement baguette chêne
   fields:
   - Oeuvre sur papier
@@ -201,21 +201,8 @@ works:
   description: "2020"
   price: 330
   contextual: true
-- title: Jeune femme assise
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-jeune-fe-assise-30x22.jpeg"
-  technique: Dessin huile sur papier encadrée baguette chêne
-  fields:
-  - oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 30
-    width: 22
-    depth: 0
-  description: "2020"
-  price: 330
-  contextual: true
 - title: En toi
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-en-toi-54x81.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-en-toi-54x81.jpeg
   technique: Huile sur toile
   fields: []
   styles: []
@@ -227,7 +214,7 @@ works:
   price: 1300
   contextual: true
 - title: Au pas
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-au-pas-25x34.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-au-pas-25x34.jpeg
   technique: Huile sur toile
   fields: []
   styles: []
@@ -239,7 +226,7 @@ works:
   price: 300
   contextual: true
 - title: 'Jamais sans mon arbre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-jamais-sans-mon-arbre-80x80.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-jamais-sans-mon-arbre-80x80.JPG
   technique: Huile sur toile et technique mixte
   fields: []
   styles: []
@@ -251,7 +238,7 @@ works:
   price: 1600
   contextual: true
 - title: Rodéo
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-rodeo-80x80.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-rodeo-80x80.jpg
   technique: Huile sur toile et technique mixte
   fields: []
   styles: []
@@ -263,7 +250,7 @@ works:
   price: 1660
   contextual: true
 - title: Rêve de cheval
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg
   technique: 'Huile sur toile et technique mixte '
   fields: []
   styles: []
@@ -275,7 +262,7 @@ works:
   price: ''
   contextual: true
 - title: Saguaro
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg
   technique: 'Huile sur papier et technique mixte '
   dimensions:
     height: 34
@@ -290,7 +277,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Le pied
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg
   technique: Huile et technique mixte sur toile
   dimensions:
     height: 35
@@ -300,7 +287,7 @@ works:
   price: 350
   contextual: true
 - title: Jean Genet
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg
   technique: 'Huile sur toile '
   dimensions:
     height: 86
@@ -309,7 +296,7 @@ works:
   price: 1600
   contextual: true
 - title: Playing with Laïka on the moon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg
   technique: Huile sur toile
   dimensions:
     height: 162
@@ -318,7 +305,7 @@ works:
   price: 3000
   contextual: false
 - title: Chien d'atelier
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg
   technique: Huile sur toile
   dimensions:
     height: 100
@@ -327,7 +314,7 @@ works:
   price: 1800
   contextual: true
 - title: Une chaise la nuit
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg
   technique: 'Encre sur papier '
   dimensions:
     height: 20
@@ -338,7 +325,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: La boxeuse amoureuse
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
   technique: Huile sur toile technique mixte
   dimensions:
     height: 80
@@ -349,7 +336,7 @@ works:
   sold: false
   contextual: true
 - title: La nuit la piscine
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-nuit-la-piscine.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-nuit-la-piscine.jpg
   technique: Mixte sur toile
   dimensions:
     height: 80
@@ -360,7 +347,7 @@ works:
   sold: false
   contextual: true
 - title: 'Walk in the kingdom '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/walk-in-the-kingdom-1418.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/walk-in-the-kingdom-1418.jpg
   technique: Lithographie 14/18
   dimensions:
     height: 50
@@ -373,7 +360,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Rencontre royale '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-royale-910.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-royale-910.jpg
   technique: Lithographie 9/10
   dimensions:
     height: 50
@@ -386,7 +373,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Atelier '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-atelier.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-atelier.jpg
   fields: []
   styles: []
   dimensions:
@@ -400,7 +387,7 @@ works:
   price: 0
   contextual: false
 - title: 'Portrait '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/salle-dattente.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/salle-dattente.jpg
   technique: '"Salle d''attente" Huile sur toile'
   dimensions:
     height: 200
