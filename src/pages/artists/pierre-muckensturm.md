@@ -103,9 +103,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: 3X 50cmx50cm
+  description: Triptyque 50cmx50cm
   price: 1200
-  contextual: true
+  contextual: false
 - title: 183c23041
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_183c23041-50X50.jpg
   technique: 'eau forte et carborendum sur cuivre imprimé sur papier BFK Rives '
@@ -123,9 +123,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: 3X 50cmx50cm
+  description: Triptyque 50cmx50cm
   price: 1200
-  contextual: true
+  contextual: false
 - title: 182c16041
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg
   technique: eau forte et carborundum sur cuivre imprimé sur papier BFK Rives
@@ -143,9 +143,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: " 3 x 50cmx50cm"
+  description: Triptyque 50cmx50cm
   price: 1200
-  contextual: true
+  contextual: false
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 201R0023ABC
     in situ.jpg
   dimensions:
