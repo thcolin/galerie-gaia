@@ -47,6 +47,18 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
   ."
 exhibitions: []
 works:
+- title: 185R091011
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-185R091021.jpg
+  technique: Carborendum sur cuivre imprimée sur papier BFK Rives 250 gr margé
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: Edition en 22 exemplaires
+  price: 400
+  contextual: true
 - title: XXI 23023 juxtaposition de 16 quasi carrés constitués de 64 angles à entas
     0°
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
