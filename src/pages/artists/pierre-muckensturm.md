@@ -47,6 +47,19 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
   ."
 exhibitions: []
 works:
+- title: 204c 1742 9X4 angles avec entas opposés
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muckensturm
+    204c1742.jpg
+  technique: Carborendum sur  zinc imprimés sur papier BFK Rives 250gr margé
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
 - title: 14P2906
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     14p2906.jpg
