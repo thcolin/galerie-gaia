@@ -459,17 +459,6 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: 199p22051 (A+B)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_20190522_154750.jpg
-  technique: Technique mixte et huile sur toile (2 éléments déformés)
-  dimensions:
-    height: 41
-    width: 41
-    depth: ''
-  description: "2019  \nprotocole d'accrochage fourni par l'artiste"
-  price: 2750
-  sold: false
-  contextual: false
 - title: Portrait Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
     muckensturm portrait.jpg
