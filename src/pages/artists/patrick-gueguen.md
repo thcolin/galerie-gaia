@@ -23,6 +23,19 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
+- title: XX
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-60X90.jpg
+  technique: Edition en 7 exemplaires sur papier Museum Etching 350 gsm, 100% coton,
+    Narural White
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 60
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
 - title: X
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
     Patrick Guéguen - X - 44 x 29 cm.JPG
