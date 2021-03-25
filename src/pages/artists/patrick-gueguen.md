@@ -23,19 +23,6 @@ biography: |-
   Pour quelle saison,         a-t-on laqué nos yeux de        tant d’années-lumière ?
 exhibitions: []
 works:
-- title: XX
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-60X90.jpg
-  technique: Edition en 7 exemplaires sur papier Museum Etching 350 gsm, 100% coton,
-    Narural White
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 60
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
 - title: X
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
     Patrick Guéguen - X - 44 x 29 cm.JPG
@@ -49,6 +36,19 @@ works:
     depth: 0
   description: ''
   price: 350
+  contextual: true
+- title: XX
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-60X90-XX.jpg
+  technique: Edition en 7 exemplaires sur papier Museum Etching 350 gsm, 100% coton,
+    Narural White
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 60
+    depth: 0
+  description: ''
+  price: 450
   contextual: true
 - title: I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- Patrick
@@ -286,47 +286,7 @@ works:
   description: encadré cadre 40 x 50 cm
   price: 320
   contextual: true
-- title: Les oiseaux de Trévise
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-oiseaux-de-trevise-100-x-70-cm.jpg
-  technique: Encre noire et acrylique sur papier
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: Encadrée
-  price: 1800
-  contextual: true
-- title: 'Les pinces de la vie '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-patrick-gueguen-les-pinces-de-la-vie-100-x-70-cm.jpg
-  technique: 'Encre noire et acrylique sur papier '
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: Encadrée
-  price: 1800
-  contextual: true
-- title: Les yeux de la mer méditerranée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-patrickgueguen-lesyeuxdelamermediterranee-100X70.JPG
-  technique: 'Encre noire et acrylique sur papier 350 '
-  dimensions:
-    height: 70
-    width: 100
-  description: 'Œuvre encadrée '
-  price: 1800
-  contextual: true
-- title: Cerf aux 2 personnages
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-aux-2-personnages.jpg
-  technique: Encre et acrylique sur papier
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 1800
-  sold: false
-  contextual: true
-- title: Exposition vernissage samedi 9 juin 11H
+- title: Exposition  samedi 9 juin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-vernissage-samedi-9-juin-11h.jpg
   technique: ''
   dimensions:
