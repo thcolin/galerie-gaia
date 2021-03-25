@@ -47,6 +47,20 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
   ."
 exhibitions: []
 works:
+- title: XXI 23023 juxtaposition de 16 quasi carrés constitués de 64 angles à entas
+    0°
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    muckensturm XXI 23 023.jpg
+  technique: Crayon encre de chine sur papier BFK Rives
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: ''
+  price: 1400
+  contextual: true
 - title: XXI 19 021 36 angles avec entas pour former croix ou carrés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     muckensturm XXI 19 021.jpg
