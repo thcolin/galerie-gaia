@@ -47,6 +47,19 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
   ."
 exhibitions: []
 works:
+- title: 205J1771 un tas d'angle avec entas
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    muckensturm 205J1771.jpg
+  technique: Carborendum sur  zinc imprimés sur papier BFK Rives 250gr margé
+  fields: []
+  styles: []
+  dimensions:
+    height: 56
+    width: 76
+    depth: 0
+  description: ''
+  price: 700
+  contextual: true
 - title: 204c 1742 9X4 angles avec entas opposés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muckensturm
     204c1742.jpg
