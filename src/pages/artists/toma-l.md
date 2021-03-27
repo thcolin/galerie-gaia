@@ -153,6 +153,16 @@ works:
   description: '2019 prix sur demande '
   price: ''
   contextual: false
+- title: Petit crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tomal-petit
+    crade encadree.jpg
+  technique: Technique mixte sur papier caisse américaine noire
+  dimensions:
+    height: 108
+    width: 78
+  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
+  price: ''
+  contextual: true
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg
@@ -451,16 +461,6 @@ works:
     width: 178
   description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
     sur demande"
-  price: ''
-  contextual: true
-- title: Petit crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tomal-petit
-    crade encadree.jpg
-  technique: Technique mixte sur papier caisse américaine noire
-  dimensions:
-    height: 108
-    width: 78
-  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Drawing black '
