@@ -212,6 +212,17 @@ works:
   description: "2017"
   price: 0
   contextual: true
+- title: Querelle carbone 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040101-querellecarbone10-150x140cm.jpg
+  technique: 'Technique mixte sur papier cadre '
+  dimensions:
+    height: 150
+    width: 140
+    depth: 0
+  description: "châssis et cadre à choisir selon votre projet d'installation  \nprix
+    sur le catalogue ou sur demande"
+  price: ''
+  contextual: true
 - title: Simple color en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_2017_situation_0010.jpg
   technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
@@ -403,17 +414,6 @@ works:
     height: 106
     width: 70
   description: "caisse américaine noire  \nPrix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: Querelle carbone 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040101-querellecarbone10-150x140cm.jpg
-  technique: 'Technique mixte sur papier cadre '
-  dimensions:
-    height: 150
-    width: 140
-    depth: 0
-  description: "châssis et cadre à choisir selon votre projet d'installation  \nprix
-    sur le catalogue ou sur demande"
   price: ''
   contextual: true
 - title: 'Little simple brut '
