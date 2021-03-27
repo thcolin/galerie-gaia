@@ -453,10 +453,10 @@ works:
     sur demande"
   price: ''
   contextual: true
-- title: 'Black and simple color '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2018091803-blackandsimplecolor-110x80cm
-    copie.jpg
-  technique: Technique mixte sur papier
+- title: Petit crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tomal-petit
+    crade encadree.jpg
+  technique: Technique mixte sur papier caisse américaine noire
   dimensions:
     height: 108
     width: 78
