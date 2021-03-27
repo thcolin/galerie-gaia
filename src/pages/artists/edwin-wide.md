@@ -45,7 +45,7 @@ works:
     height: 195
     width: 130
     depth: 0
-  description: ''
+  description: Vendu
   price: 2900
   contextual: true
   technique: Acrylique sur toile
