@@ -19,7 +19,7 @@
     "gatsby": "3.1.2",
     "gatsby-plugin-breadcrumb": "^12.1.0",
     "gatsby-plugin-gdpr-cookies": "^1.0.14",
-    "gatsby-plugin-google-analytics": "^3.1.0",
+    "gatsby-plugin-google-analytics": "^3.2.0",
     "gatsby-plugin-google-tagmanager": "^3.1.0",
     "gatsby-plugin-meta-redirect": "^1.1.1",
     "gatsby-plugin-react-helmet": "^4.1.0",
