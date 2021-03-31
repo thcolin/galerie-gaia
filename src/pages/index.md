@@ -3,9 +3,9 @@ template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-CHRISTIAN-146x114cm.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-sechage.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-WIDE-SOEMONE-avril2019.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactRecto.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210329_WIDE_Artefacts_Gaia_EPonsaud_53.jpg
 redirect_from:
 - "/plan/"
 seo:
