@@ -28,7 +28,8 @@ exhibitions:
 works:
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3.jpg
-  fields: []
+  fields:
+  - Céramique
   styles: []
   dimensions:
     height: 34
@@ -109,6 +110,19 @@ works:
   description: ''
   price: 90
   contextual: false
+- title: Trio Bouteilles
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-3bouteille.jpg
+  technique: Céramique
+  dimensions:
+    height: 31
+    width: 8
+    depth: 
+  description: Rupture de stock
+  price: 90
+  sold: false
+  contextual: false
+  fields:
+  - Céramique
 - title: Poisson russe orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg
   technique: 'Sérigraphie '
@@ -211,7 +225,7 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Ban
+- title: Banc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/865.jpg
   technique: Sérigraphie
   dimensions:
@@ -224,19 +238,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Trio Bouteilles
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-3bouteille.jpg
-  technique: Céramique
-  dimensions:
-    height: 31
-    width: 8
-    depth: 
-  description: Rupture de stock
-  price: 90
-  sold: false
-  contextual: false
-  fields:
-  - Céramique
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
 styles:
