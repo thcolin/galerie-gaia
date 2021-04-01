@@ -26,6 +26,40 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Bouteille verte géométrie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille4.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 31
+    width: 8
+    depth: 0
+  description: ''
+  price: 90
+  contextual: false
+- title: Bouteille poissons rayures vertes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille3.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 8
+    depth: 0
+  description: ''
+  price: 90
+  contextual: false
+- title: Bouteille poissons rayures bleues
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille1.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 8
+    depth: 0
+  description: ''
+  price: 90
+  contextual: false
 - title: Poisson russe orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg
   technique: 'Sérigraphie '
