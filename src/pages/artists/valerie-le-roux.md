@@ -26,6 +26,29 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Grand Vase vert noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 34
+    width: 13
+    depth: 0
+  description: ''
+  price: 230
+  contextual: false
+- title: Vase Moyen vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase2.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 145
+  contextual: false
 - title: 'Vase Moyen jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase1.jpg
   fields:
