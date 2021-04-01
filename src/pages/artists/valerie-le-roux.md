@@ -141,69 +141,17 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Flacon noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-flacon-es.jpg
-  technique: Céramique pièce unique signée
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 30
-    width: 15
-    depth: 0
-  description: Cabochon amovible
-  price: 850
-  contextual: false
-- title: Flacons mis en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-flacon-situation.jpg
-  technique: Céramique pièce unique
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 30
-    width: 15
-    depth: 0
-  description: ''
-  price: 850
-  contextual: false
-- title: Flacon bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-flacon-bleu.jpg
-  technique: 'Céramique pièce unique signée '
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 30
-    width: 15
-    depth: 0
-  description: Cabochon amovible
-  price: 850
-  contextual: false
-- title: Flacon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/flacon.jpg
-  technique: céramique pièce unique
-  dimensions:
-    height: 26
-    width: 
-    depth: 
-  description: pièce unique cabochon amovible
-  price: 850
-  sold: false
-  contextual: true
-  fields:
-  - Céramique
-- title: Bouteille
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouteille.jpg
+- title: Trio Bouteilles
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-3bouteille.jpg
   technique: Céramique
   dimensions:
-    height: 
-    width: 
+    height: 31
+    width: 8
     depth: 
   description: Rupture de stock
-  price: 88
+  price: 90
   sold: false
-  contextual: true
+  contextual: false
   fields:
   - Céramique
 redirect_from:
