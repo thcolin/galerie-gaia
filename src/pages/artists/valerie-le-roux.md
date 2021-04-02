@@ -53,7 +53,7 @@ works:
   price: 230
   contextual: false
 - title: Vase Moyen vert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase2.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase2V1.jpg
   fields:
   - Céramique
   styles: []
