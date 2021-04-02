@@ -76,8 +76,8 @@ works:
   description: ''
   price: 145
   contextual: false
-- title: Bouteille poissons rayures rouge
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille5.jpg
+- title: Bouteille poissons rayures rouges
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille5V1.jpg
   fields:
   - Céramique
   styles: []
@@ -89,7 +89,7 @@ works:
   price: 90
   contextual: false
 - title: Bouteille verte géométrie
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille4.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille4V1.jpg
   fields:
   - Céramique
   styles: []
