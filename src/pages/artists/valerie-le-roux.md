@@ -26,6 +26,18 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Grand Vase vert noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 34
+    width: 13
+    depth: 0
+  description: ''
+  price: 230
+  contextual: false
 - fields:
   - Oeuvre sur papier
   styles: []
@@ -40,18 +52,6 @@ works:
     papier.jpg
   technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
   title: 'Originale sans titre '
-- title: Grand Vase vert noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 34
-    width: 13
-    depth: 0
-  description: ''
-  price: 230
-  contextual: false
 - title: Vase Moyen vert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase2V1.jpg
   fields:
@@ -101,7 +101,7 @@ works:
   price: 90
   contextual: false
 - title: Bouteille poissons rayures vertes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille3.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille3V3.jpg
   fields:
   - Céramique
   styles: []
@@ -113,7 +113,7 @@ works:
   price: 90
   contextual: false
 - title: Bouteille poissons rayures bleues
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille1.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille1V1.jpg
   fields:
   - Céramique
   styles: []
