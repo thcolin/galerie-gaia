@@ -133,7 +133,9 @@ works:
     height: 100
     width: 70
     depth: 0
-  description: Vendu
+  description: "Vendu  \nVidéo source pour cette œuvre traitant du risque des écrans
+    sur les enfants\n\n[https://www.ina.fr/video/S667143_001](https://www.ina.fr/video/S667143_001
+    \"https://www.ina.fr/video/S667143_001\")"
   price: ''
   contextual: true
   technique: Acrylique sur bois
