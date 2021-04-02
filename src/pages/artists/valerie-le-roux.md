@@ -41,7 +41,7 @@ works:
   technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
   title: 'Originale sans titre '
 - title: Grand Vase vert noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
   fields:
   - Céramique
   styles: []
