@@ -21,9 +21,9 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Fenêtre sur route 6 par Aline ISOARD
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
-    sur route 6-2020, 60x60cm.jpg
+- title: Station 6 par Aline ISOARD
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
+    6-2016 60x60cm.jpg
   technique: Photographie pigmentée tirage unique
   fields: []
   styles: []
@@ -34,6 +34,23 @@ works:
   description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
     "Aline ISOARD ")'
   price: 800
+  contextual: true
+- title: Iris de Dimitri Roubichou
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
+  technique: 'Photographie tirage papier baryté 9 exemplaires '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: |-
+    # [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri roubichou ")
+
+    Oeuvre encadrée verre musée antireflet
+  price: 250
   contextual: true
 - title: Little wood trash par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
@@ -64,51 +81,6 @@ works:
   description: '# [Corinne Guého](https://galeriegaia.fr/catalogue/ "guého gueho ")'
   price: 1100
   contextual: false
-- title: La mer Dernier exemplaire Mathidle Guiho
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Mathilde-Guiho-Sans-Titre-2015.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '# [Mathilde Guiho](https://galeriegaia.fr/artists/mathilde-guiho/
-    "mathidle Guiho")'
-  price: 750
-  contextual: true
-  technique: Photographie 9/9
-- title: Iris de Dimitri Roubichou
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
-  technique: 'Photographie tirage papier baryté 9 exemplaires '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: |-
-    # [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri roubichou ")
-
-    Oeuvre encadrée verre musée antireflet
-  price: 250
-  contextual: true
-- title: Gravure de Jean Paul Friol
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-09-1989-11-15-36x24.jpg
-  technique: 'gravure sur platre édition 13/20 '
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Figuratif
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: '# [Jean Paul Friol](https://galeriegaia.fr/artists/jean-paul-friol/
-    "Jean Paul Friol")'
-  price: ''
-  contextual: true
 - title: Gravure  Renaud Allirand
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
     16.jpg
