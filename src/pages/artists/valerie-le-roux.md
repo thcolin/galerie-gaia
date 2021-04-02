@@ -26,6 +26,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 51
+    width: 42
+    depth: 0
+  description: Œuvre encadrée
+  price: 450
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-original
+    papier.jpg
+  technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
+  title: 'Originale sans titre '
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3.jpg
   fields:
