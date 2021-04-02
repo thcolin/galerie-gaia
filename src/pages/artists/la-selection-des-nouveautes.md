@@ -21,6 +21,17 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: 'Bouteilles Valérie Le Roux '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-3bouteille.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 90
+  contextual: false
 - title: Station 6 par Aline ISOARD
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
     6-2016 60x60cm.jpg
