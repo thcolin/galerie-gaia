@@ -31,6 +31,22 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Suite pour piano jouet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-piano
+    jouet.jpg
+  technique: 'Tapisserie en laine blanche tissée et acrylique '
+  fields:
+  - Textile
+  styles:
+  - Abstrait
+  dimensions:
+    height: 150
+    width: 135
+    depth: 
+  description: "2020"
+  price: 12000
+  sold: false
+  contextual: true
 - title: Plage de la mine d'Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg
   technique: Feutre blanc teinté acrylique
@@ -245,21 +261,6 @@ works:
     depth: 
   description: 'œuvre encadrée bois blanc '
   price: 700
-  sold: false
-  contextual: true
-- title: Suite pour piano jouet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-suite-pour-piano-jouet-aine-blanche-tissee-acrylique-150x135-2020.jpg
-  technique: 'Tapisserie en laine blanche tissée et acrylique '
-  fields:
-  - Textile
-  styles:
-  - Abstrait
-  dimensions:
-    height: 150
-    width: 135
-    depth: 
-  description: "2020"
-  price: 12000
   sold: false
   contextual: true
 - title: Portrait de Françoise Paressant
