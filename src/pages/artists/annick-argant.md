@@ -31,18 +31,19 @@ exhibitions:
   end: 
 works:
 - title: Les grands Carr'aimant
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-grands-carraimants.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-grands-carraimants.jpg
   technique: grés sur socle bois
   dimensions:
     height: 
     width: 
     depth: 
-  description: vendus
+  description: Toute la production est vendue...soyez patient ils reviennent pour
+    l'été 2021!
   price: 
   sold: false
   contextual: true
 - title: Carr'aimant
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/carraiment.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/carraiment.jpg
   technique: Grès sur socle bois
   dimensions:
     height: 
@@ -53,7 +54,7 @@ works:
   sold: false
   contextual: true
 - title: Carr'aimant
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-caraimant-argant.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-caraimant-argant.jpg
   technique: 'Grès et bois '
   fields: []
   styles: []
@@ -65,7 +66,7 @@ works:
   price: 900
   contextual: false
 - title: Petit Ange
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/petit-ange.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/petit-ange.jpg
   technique: bronze doré
   dimensions:
     height: 
@@ -76,7 +77,7 @@ works:
   sold: false
   contextual: true
 - title: Opus
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/opus.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/opus.jpg
   technique: bronze blanc
   dimensions:
     height: 
