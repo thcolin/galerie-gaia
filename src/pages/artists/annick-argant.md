@@ -30,6 +30,18 @@ exhibitions:
   start: "0"
   end: 
 works:
+- title: Petit dernier Carr'aimant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-argant-carraiamntvert.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 17
+    width: 11
+    depth: 13
+  description: ''
+  price: 400
+  contextual: false
+  technique: Grès sur bois
 - title: Les grands Carr'aimant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-grands-carraimants.jpg
   technique: grés sur socle bois
@@ -42,29 +54,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/carraiment.jpg
-  technique: Grès sur socle bois
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: De 150€ à 1200€
-  price: 400
-  sold: false
-  contextual: true
-- title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-caraimant-argant.jpg
-  technique: 'Grès et bois '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Vert 1200€ Rouge 900€
-  price: 900
-  contextual: false
 - title: Petit Ange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/petit-ange.jpg
   technique: bronze doré
