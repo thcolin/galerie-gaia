@@ -229,7 +229,7 @@ works:
     width: 40
     depth: 
   description: œuvre encadrée bois blanc
-  price: 900
+  price: 700
   sold: false
   contextual: true
 - title: Dessin ruban
@@ -244,22 +244,9 @@ works:
     width: 40
     depth: 
   description: 'œuvre encadrée bois blanc '
-  price: 900
-  sold: false
-  contextual: true
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-ruban40x30.jpg
-  technique: papier japon teintés
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: œuvre encadrée bois blanc
   price: 700
   sold: false
   contextual: true
-  title: Dessin ruban
 - title: Suite pour piano jouet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-suite-pour-piano-jouet-aine-blanche-tissee-acrylique-150x135-2020.jpg
   technique: 'Tapisserie en laine blanche tissée et acrylique '
@@ -308,5 +295,11 @@ exhibitions:
   location: 'Paris 25 rue de Bourgogne '
   start: ''
   end: ''
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
