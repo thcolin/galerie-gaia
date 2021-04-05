@@ -31,6 +31,21 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: 'Eclaircies en fin de journée '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-tapisserie.jpg
+  technique: Tapisserie en laine banche et toile teintée  tissées
+  fields:
+  - Textile
+  styles:
+  - Abstrait
+  dimensions:
+    height: 135
+    width: 128
+    depth: 
+  description: ''
+  price: 10000
+  sold: false
+  contextual: true
 - title: Suite pour piano jouet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-piano
     jouet.jpg
@@ -73,21 +88,6 @@ works:
     depth: 
   description: 2012 encadrement bois naturel
   price: 600
-  sold: false
-  contextual: true
-- title: 'Eclaircies en fin de journée '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-eclaircies-en-fin-de-journee-laine-blanche-toile-teintee-acrylique-crayon-135x128-2020.jpg
-  technique: Tapisserie en laine banche et toile teintée  tissées
-  fields:
-  - Textile
-  styles:
-  - Abstrait
-  dimensions:
-    height: 135
-    width: 128
-    depth: 
-  description: ''
-  price: 10000
   sold: false
   contextual: true
 - title: 'CDC triptyque '
