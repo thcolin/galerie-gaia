@@ -26,19 +26,6 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Grand plat bleu curry
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat 2.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 5
-    width: 43
-    depth: 43
-  description: ''
-  price: 0
-  contextual: false
 - title: Plateau corail curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette
     2.jpg
@@ -87,7 +74,20 @@ works:
     width: 14
     depth: 24
   description: ''
-  price: 68
+  price: 54
+  contextual: false
+- title: Grand plat bleu curry
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    plat 2.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 5
+    width: 43
+    depth: 43
+  description: ''
+  price: 0
   contextual: false
 - title: Saladier XXL
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
