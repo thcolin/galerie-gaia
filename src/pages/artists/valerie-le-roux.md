@@ -64,17 +64,18 @@ works:
   description: ''
   price: 145
   contextual: false
-- title: 'Vase Moyen jaune '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase1.jpg
+- title: 'Grand plat '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    plat.heic
   fields:
   - Céramique
   styles: []
   dimensions:
-    height: 20
-    width: 11
-    depth: 0
+    height: 5
+    width: 43
+    depth: 43
   description: ''
-  price: 145
+  price: ''
   contextual: false
 - title: Bouteille poissons rayures rouges
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille5V1.jpg
