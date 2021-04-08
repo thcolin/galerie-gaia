@@ -39,7 +39,7 @@ works:
   description: ''
   price: 0
   contextual: false
-- title: Assiette corail curry
+- title: Plateau corail curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette
     2.jpg
   fields:
@@ -50,9 +50,9 @@ works:
     width: 19.5
     depth: 28.5
   description: ''
-  price: 0
+  price: 68
   contextual: false
-- title: Assiette bleue
+- title: Plateau bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette
     1.jpg
   fields:
@@ -63,20 +63,21 @@ works:
     width: 19.5
     depth: 28.5
   description: ''
-  price: 0
+  price: 68
   contextual: false
-- title: Assiette orange
+- title: Plateau orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette-3.jpg
-  fields: []
+  fields:
+  - Céramique
   styles: []
   dimensions:
     height: 2
     width: 19.5
     depth: 28.5
   description: ''
-  price: 0
+  price: 68
   contextual: false
-- title: Petite assiette curry
+- title: Plateau petit modèle curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette.jpg
   fields:
   - Céramique
@@ -86,9 +87,9 @@ works:
     width: 14
     depth: 24
   description: ''
-  price: 0
-  contextual: true
-- title: 'Grand bol '
+  price: 68
+  contextual: false
+- title: Saladier XXL
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
     bol.jpg
   fields:
@@ -99,7 +100,7 @@ works:
     width: 27
     depth: 27
   description: ''
-  price: 0
+  price: 195
   contextual: false
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
