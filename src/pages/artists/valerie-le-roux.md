@@ -51,7 +51,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-original
     papier.jpg
   technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
-  title: 'Originale sans titre '
+  title: 'Oeuvre sur papier Originale sans titre '
 - title: Vase Moyen vert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase2V1.jpg
   fields:
