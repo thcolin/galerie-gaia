@@ -26,6 +26,31 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Petite assiette curry
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 2
+    width: 14
+    depth: 24
+  description: ''
+  price: 0
+  contextual: true
+- title: 'Grand bol '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    bol.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 14
+    width: 27
+    depth: 27
+  description: ''
+  price: 0
+  contextual: false
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
   fields:
