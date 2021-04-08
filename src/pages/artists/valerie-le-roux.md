@@ -26,7 +26,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Grande assiette orange
+- title: Assiette bleue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette
+    1.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 2
+    width: 19.5
+    depth: 28.5
+  description: ''
+  price: 0
+  contextual: false
+- title: Assiette orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette-3.jpg
   fields: []
   styles: []
