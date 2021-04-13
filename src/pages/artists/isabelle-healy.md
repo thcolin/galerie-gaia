@@ -55,7 +55,7 @@ works:
   dimensions:
     height: 73
     width: 58
-    depth: 
+    depth: 12
   description: "**IMPORTANT : La série Confluence est bientôt épuisée restent disponibles
     les numéros de réserve I II III et IV/IV**   \nConfluence est la version grand
     format de L'envolée.  \nDisponible sur commande\n\n* Confluence : nom féminin
