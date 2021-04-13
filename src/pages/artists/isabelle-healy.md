@@ -51,7 +51,7 @@ exhibitions: []
 works:
 - title: Confluence
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_healy_confluence_73x58.jpg
-  technique: Bronze
+  technique: Bronze Epreuve d'Artiste EA I/IV
   dimensions:
     height: 73
     width: 58
@@ -65,36 +65,47 @@ works:
   contextual: false
 - title: Confluence détail
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-confluence.png
-  technique: Bronze en 8 exemplaires
+  technique: 'Bronze '
   fields: []
   styles: []
   dimensions:
     height: 58
     width: 73
     depth: 0
-  description: ''
+  description: Fonderie Barthélémy Crest (26)
   price: 9400
   contextual: false
 - title: Les âmes sœurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
-  technique: Bronze
+  technique: Bronze N° 8/8
   dimensions:
     height: 42
     width: 38
     depth: 9
-  description: "N° 8/8   \n2020"
+  description: "Fonderie Barthélémy Crest (26)  \n2020"
   price: 3200
+  contextual: false
+- title: Le Papillon
+  technique: Bronze 5/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 38
+    width: 20
+    depth: 6
+  description: "2020   \nFonderie Barthélémy Crest (26)"
+  price: 1600
   contextual: false
 - title: Mon héros
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
-  technique: Bronze
+  technique: Bronze EA I/IV
   fields: []
   styles: []
   dimensions:
     height: 47
     width: 12
     depth: 11
-  description: EA I/IV
+  description: Fonderie Barthélémy Crest (26)
   price: 1950
   contextual: true
 - title: Les Albatros
