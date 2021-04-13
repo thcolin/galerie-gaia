@@ -84,7 +84,7 @@ works:
     height: 47
     width: 12
     depth: 11
-  description: ''
+  description: EA I/IV
   price: 1950
   contextual: true
 - title: Les Albatros
