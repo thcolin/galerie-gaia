@@ -75,6 +75,16 @@ works:
   description: ''
   price: 8900
   contextual: false
+- title: Les âmes sœurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
+  technique: Bronze
+  dimensions:
+    height: 42
+    width: 38
+    depth: 9
+  description: "N° 8/8   \n2020"
+  price: 3200
+  contextual: false
 - title: Mon héros
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
   technique: Bronze
@@ -141,16 +151,6 @@ works:
   price: 6600
   contextual: false
   sold: false
-- title: Les âmes sœurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
-  technique: Bronze
-  dimensions:
-    height: 42
-    width: 38
-    depth: 9
-  description: "2020"
-  price: 3200
-  contextual: false
 - title: Fondation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
   technique: Bronze
@@ -171,8 +171,8 @@ works:
     height: 11
     width: 12
     depth: 5
-  description: 3/8
-  price: 2300
+  description: EA II/IV
+  price: 2600
   sold: false
   contextual: false
 - title: Les vacances
@@ -182,7 +182,7 @@ works:
     height: 16
     width: 43
     depth: 5
-  description: Disponible sur commande
+  description: 7/8
   price: 3500
   sold: false
   contextual: false
