@@ -56,9 +56,10 @@ works:
     height: 73
     width: 58
     depth: 
-  description: "Confluence est la version grand format de L'envolée.   \nDisponible
-    sur commande\n\n* Définition Larousse nom féminin, {latin confluencia}. Point
-    de convergence de deux cours d'eau."
+  description: "**IMPORTANT : La série Confluence est bientôt épuisée restent disponibles
+    les numéros de réserve I II III et IV/IV**   \nConfluence est la version grand
+    format de L'envolée.  \nDisponible sur commande\n\n* Confluence : nom féminin
+    du latin confluencia. Point de convergence de deux cours d'eau."
   price: 8900
   sold: false
   contextual: false
@@ -170,7 +171,7 @@ works:
     height: 11
     width: 12
     depth: 5
-  description: 2/8
+  description: 3/8
   price: 2300
   sold: false
   contextual: false
