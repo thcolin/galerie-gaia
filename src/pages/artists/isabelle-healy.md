@@ -152,19 +152,8 @@ works:
   price: 4500
   contextual: false
 - title: Fondation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-1.JPG
-  technique: Bronze en 8 exemplaires + 4EA
-  dimensions:
-    height: 28
-    width: 37
-    depth: 
-  description: "2/8   \n2020 fonderie d'art Barthélémy"
-  price: 6600
-  contextual: false
-  sold: false
-- title: Fondation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
-  technique: Bronze
+  technique: Bronze N°2/8
   dimensions:
     height: 28
     width: 37
@@ -188,12 +177,12 @@ works:
   contextual: false
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: Bronze 8 exemplaires
+  technique: 'Bronze N° 7/8 '
   dimensions:
     height: 16
     width: 43
     depth: 5
-  description: 7/8
+  description: " Fonderie Barthélémy Crest (26)"
   price: 3500
   sold: false
   contextual: false
