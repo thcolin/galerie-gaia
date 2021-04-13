@@ -114,7 +114,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: Sur commande
   price: 4500
   sold: false
   contextual: false
@@ -127,7 +127,7 @@ works:
     height: 87
     width: 24
     depth: 8
-  description: ''
+  description: Sur commande
   price: 4500
   contextual: false
 - title: Fondation
@@ -137,7 +137,7 @@ works:
     height: 28
     width: 37
     depth: 
-  description: '2020 fonderie d''art Barthélémy '
+  description: "2/8   \n2020 fonderie d'art Barthélémy"
   price: 6600
   contextual: false
   sold: false
