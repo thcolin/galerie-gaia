@@ -60,7 +60,7 @@ works:
     les numéros de réserve I II III et IV/IV**   \nConfluence est la version grand
     format de L'envolée.  \nDisponible sur commande\n\n* Confluence : nom féminin
     du latin confluencia. Point de convergence de deux cours d'eau."
-  price: 8900
+  price: 9400
   sold: false
   contextual: false
 - title: Confluence détail
@@ -73,7 +73,7 @@ works:
     width: 73
     depth: 0
   description: ''
-  price: 8900
+  price: 9400
   contextual: false
 - title: Les âmes sœurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
