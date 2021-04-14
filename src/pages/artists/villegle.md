@@ -9,7 +9,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: VILLEGLE
+title: Villeglé Jacques
 location: ''
 birth: "1926"
 death: ''
