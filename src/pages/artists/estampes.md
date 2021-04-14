@@ -58,6 +58,19 @@ works:
   contextual: true
   styles:
   - Figuratif
+- title: 'Valérie Bonduelle '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-valérie-bonduelle.jpg
+  technique: Lithographie pièce unique 1987
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 76.5
+    width: 56.5
+    depth: 0
+  description: ''
+  price: 480
+  contextual: true
 - title: 'Eloïse Van Der Heyden - Mimosa #15'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg
   technique: monotype variation 2
@@ -239,53 +252,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: 'Claude Viallat - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-ee.jpg
-  technique: Sérigraphie 88/991997
-  dimensions:
-    height: 64
-    width: 49
-    depth: 
-  description: "# Claude Viallat"
-  price: 600
-  sold: false
-  contextual: true
-- title: 'Villeglé - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/villegle-sans-titre-4750.jpg
-  technique: Sérigraphie 47/50 1989
-  dimensions:
-    height: 65
-    width: 50
-    depth: 
-  description: "# Villéglé Jacques "
-  price: 800
-  sold: false
-  contextual: true
-- title: 'Villeglé - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/villegle-sans-titre-19.jpg
-  technique: Sérigraphie 1/9
-  dimensions:
-    height: 65
-    width: 50
-    depth: 
-  description: "# Villéglé Jacques de"
-  price: 800
-  sold: false
-  contextual: true
-- title: Villeglé - Tréméac
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jacques-villegle-tremeac.jpg
-  technique: Lithographie 1994 /100
-  dimensions:
-    height: 35
-    width: 26
-    depth: 
-  description: |-
-    # Jacques de la Villéglé
-
-    550€ encadrée
-  price: 400
-  sold: false
-  contextual: true
 - title: 'Shirley Jaffe - Sans Titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg
   technique: Sérigraphie atelier Byse Lille 25/70 2002
@@ -332,28 +298,6 @@ works:
     depth: 
   description: "# Claude Viallat"
   price: 600
-  sold: false
-  contextual: true
-- title: 'Claude Viallat - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-13.jpg
-  technique: Sérigraphie 1/3 2007
-  dimensions:
-    height: 96
-    width: 68
-    depth: 
-  description: "# Claude Viallat"
-  price: 1500
-  sold: false
-  contextual: true
-- title: 'Claude Viallat - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-33.jpg
-  technique: Sérigraphie 3/3 2007
-  dimensions:
-    height: 96
-    width: 68
-    depth: 
-  description: "# Claude Viallat"
-  price: 1500
   sold: false
   contextual: true
 - title: 'Pierre Alechinsky - "Writing Book" '
