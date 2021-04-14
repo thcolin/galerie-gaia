@@ -19,6 +19,21 @@ expose: true
 biography: "Des éditions limitées à petit prix,   \nchinées au grès de mes recherches
   pour des accrochages qui créent un style unique, comme vous !"
 works:
+- title: 'Arcade Fire '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
+    Fire-63,5x48,2.jpg
+  technique: Sérigraphie 28/120
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 64
+    width: 48
+    depth: 0
+  description: ''
+  price: 50
+  sold: false
+  contextual: true
 - title: War is peace
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-war
     is peace-48x48.jpg
@@ -141,21 +156,6 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 0
-  description: ''
-  price: 50
-  sold: false
-  contextual: true
-- title: 'Arcade Fire '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
-    Fire-63,5x48,2.jpg
-  technique: Sérigraphie 28/120
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 64
-    width: 48
     depth: 0
   description: ''
   price: 50

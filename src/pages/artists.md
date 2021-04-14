@@ -66,6 +66,7 @@ artists:
 - artist: src/pages/artists/daha-daha.md
 - artist: src/pages/artists/stephanie-billarant.md
 - artist: src/pages/artists/adolfo-arenas-alonso.md
+- artist: src/pages/artists/50-max.md
 - artist: src/pages/artists/art-galeries-nantes.md
 seo:
   title: Artistes - Galerie Gaïa, galerie d'art contemporain
