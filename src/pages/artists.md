@@ -3,6 +3,7 @@ template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/edwin-wide.md
+- artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/toma-l.md
