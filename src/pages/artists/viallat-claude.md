@@ -18,6 +18,19 @@ expose: true
 biography: "# Claude Viallat "
 works:
 - title: 'Sans '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-jaune.jpg
+  technique: Sérigraphie 1/3 Impression sur feuille Canson fond jaune
+  fields: []
+  styles: []
+  dimensions:
+    height: 94.5
+    width: 65
+    depth: 0
+  description: "# Claude Viallat Edition Putman"
+  price: 1500
+  sold: false
+  contextual: true
+- title: 'Sans '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-64,2X49,2.jpg
   technique: Sérigraphie 88/99
   fields: []
