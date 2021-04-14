@@ -11,7 +11,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: 50€ max
+title: Déco Arty Petit prix
 location: ''
 birth: ''
 death: ''
@@ -19,6 +19,20 @@ expose: true
 biography: "Des éditions limitées à petit prix,   \nchinées au grès de mes recherches
   pour des accrochages qui créent un style unique, comme vous !"
 works:
+- title: Tonkart
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Ozaer-61,5x45,2.jpg
+  technique: Sérigraphie
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 62
+    width: 45
+    depth: 0
+  description: Ambiance chambre ado sympa!
+  price: 40
+  sold: false
+  contextual: true
 - title: Milk
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Milk-64x45.jpg
   technique: 'Sérigraphie '
@@ -30,7 +44,7 @@ works:
     width: 45
     depth: 0
   description: Sympa pour la déco de la cuisine !
-  price: 
+  price: 50
   sold: false
   contextual: true
 - title: KRAFT
@@ -58,7 +72,8 @@ works:
     height: 69
     width: 59
     depth: 0
-  description: ''
+  description: Univers poétique et onirique avec ce papillon, le début d'un conte
+    pour une déco de chambre ou de couleur très sympa!
   price: 50
   sold: false
   contextual: true
@@ -72,7 +87,7 @@ works:
     height: 64
     width: 48
     depth: 0
-  description: ''
+  description: Effet garantie pour une chambre d'ado ou un bureau en home office !
   price: 50
   sold: false
   contextual: true
