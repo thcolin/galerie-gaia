@@ -17,6 +17,32 @@ death: ''
 expose: true
 biography: "# Claude Viallat "
 works:
+- title: Sans _ fond rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-64,2X49,2.jpg
+  technique: Sérigraphie 88/99
+  fields: []
+  styles: []
+  dimensions:
+    height: 64.2
+    width: 49.2
+    depth: 0
+  price: 500
+  sold: false
+  contextual: true
+  description: '1997 Atelier Buyse Lille '
+- title: Sans - fond vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-vert.jpg
+  technique: Sérigraphie 3/3 sur papier Canson vert
+  fields: []
+  styles: []
+  dimensions:
+    height: 94.5
+    width: 65
+    depth: 0
+  description: "# Claude Viallat Edition Putman"
+  price: 1500
+  sold: false
+  contextual: true
 - title: 'Sans '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-jaune.jpg
   technique: Sérigraphie 1/3 Impression sur feuille Canson fond jaune
@@ -30,19 +56,6 @@ works:
   price: 1500
   sold: false
   contextual: true
-- title: 'Sans '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-64,2X49,2.jpg
-  technique: Sérigraphie 88/99
-  fields: []
-  styles: []
-  dimensions:
-    height: 64.2
-    width: 49.2
-    depth: 0
-  price: 500
-  sold: false
-  contextual: true
-  description: '1997 Atelier Buyse Lille '
 exhibitions: []
 
 ---
