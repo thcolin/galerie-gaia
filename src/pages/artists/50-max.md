@@ -19,6 +19,47 @@ expose: true
 biography: "Des éditions limitées à petit prix,   \nchinées au grès de mes recherches
   pour des accrochages qui créent un style unique, comme vous !"
 works:
+- title: War is peace
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-war
+    is peace-48x48.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 48
+    depth: 0
+  description: ''
+  price: 40
+  sold: false
+  contextual: true
+- title: Scotus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-scotus-50x70.jpg
+  technique: Sérigraphie
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: Chambre ado ou bureau pour un home office atypique
+  price: 50
+  sold: false
+  contextual: true
+- title: Pelican The Troubadour
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Pelican-61x45,5.jpg
+  technique: Sérigraphie numéroté
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Affiche concert Metal ambiance home office graphique '
+  price: 50
+  sold: false
+  contextual: true
 - title: Tonkart
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Ozaer-61,5x45,2.jpg
   technique: Sérigraphie
