@@ -3,9 +3,9 @@ import { useForm } from 'react-hook-form'
 import Icon from 'components/Icon'
 import theme from 'theme'
 
-const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [], method = 'message', toggle, ...props }) => {
+const Contact = ({ id, placeholder = 'Un message à nous adresser ?', success = '', inputs = [], method = 'message', toggle, ...props }) => {
   const [toggled, setToggled] = useState(false)
-  const { register, watch, handleSubmit, formState } = useForm({ mode: 'onChange' })
+  const { register, watch, handleSubmit, formState: { isSubmitting, isSubmitSuccessful } } = useForm({ mode: 'onChange' })
   const onSubmit = async data => fetch(`https://submit-form.com/${id}`, {
     method: 'POST',
     headers: {
@@ -37,21 +37,24 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', inputs = [
           {/* honeypot / spam filtering */}
           <input ref={register} type='text' name='address' style={{ display: 'none' }} tabIndex='-1' autoComplete='off' />
           <div>
-            <input ref={register({ required: true })} name='name' type='text' placeholder='Prénom, Nom' />
+            <input ref={register({ required: true })} name='name' type='text' placeholder='Prénom, Nom' required={true} />
             {['buy', 'message'].includes(method) && (
-              <input ref={register({ required: true })} name='email' type='email' placeholder='Email' />
+              <input ref={register({ required: true })} name='email' type='email' placeholder='Email' required={true} />
             )}
             {['buy', 'phone'].includes(method) && (
-              <input ref={register({ required: method == 'phone' })} name='phone' type='tel' placeholder='Numéro de téléphone' />
+              <input ref={register({ required: method == 'phone' })} name='phone' type='tel' placeholder='Téléphone' required={method == 'phone'} />
             )}
           </div>
           {['buy', 'message'].includes(method) && (
-            <textarea ref={register({ required: true })} name='message' maxLength='1000' placeholder={placeholder} />
+            <textarea ref={register()} name='message' maxLength='1000' placeholder={placeholder} />
           )}
-          <button className="contact-form" type='submit' disabled={!(formState.isValid && !formState.isSubmitting)}>
-            <Icon children={formState.isSubmitted ? 'check' : formState.isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
-            {formState.isSubmitted ? 'Envoyé !' : formState.isSubmitting ? 'Envoie...' : 'Envoyer'}
+          <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitting}>
+            <Icon children={isSubmitSuccessful ? 'check' : isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
+            {isSubmitSuccessful ? 'Envoyé !' : isSubmitting ? 'Envoie...' : 'Envoyer'}
           </button>
+          {isSubmitSuccessful && success && (
+            <em><small>{success}</small></em>
+          )}
           <details className="rgpd">
             <summary>RGPD - Protection de vos données</summary>
             Les informations recueillies via le site www.galeriegaia.fr (ci-après désigné « le Site ») ont vocation à être traitées par la Galerie Gaïa, responsable de traitement, aux fins de traitement de votre demande de renseignement. Les informations ci dessus sont obligatoires pour la gestion de vos demandes. Conformément à la réglementation applicable en matière de protection des données à caractère personnel, vous disposez d’un droit d’accès de rectification et de portabilité des informations vous concernant; d'un droit de limitation, d’effacement et d’opposition pour des motifs légitimes au traitement de vos données; de la possibilité de nous transmettre des directives afin d’organiser le sort des données vous concernant (conservation, effacement, communication à un tiers, etc.) en cas de décès; Vous pouvez exercer ces droits en écrivant à l'adresse électronique suivante : galeriegaia@orange.fr. Toutefois, votre opposition peut, en pratique et selon le cas, avoir une incidence sur votre demande d’information. Pour plus d’informations concernant ce traitement contactez-nous à l'adresse galeriegaia@orange.fr.

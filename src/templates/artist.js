@@ -121,7 +121,8 @@ const Artist = ({ location, ...props }) => {
                       <Contact
                         id="UCmdKCfm"
                         method="buy"
-                        placeholder="Nous allons vous recontacter pour établir les détails de votre acquisition, n'hésitez pas à demander des renseignements supplémentaires !"
+                        placeholder="Une demande de renseignements supplémentaires ? Écrivez nous votre message :"
+                        success="Merci ! Nous allons vous recontacter rapidement pour établir les détails de votre acquisition"
                         toggle={true}
                         inputs={[
                           ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
@@ -145,7 +146,8 @@ const Artist = ({ location, ...props }) => {
                   )}
                   <Contact
                     id="PHr_SEkN0Pj2VLhcXtR5H"
-                    placeholder="Une hésitation, une question, une demande de renseignement sur cette oeuvre, vous souhaitez plus de photos ? Envoyez nous un message !"
+                    placeholder="Une hésitation, une question, une demande de renseignement sur cette oeuvre, vous souhaitez plus de photos ? Écrivez nous votre message :"
+                    success="Merci ! Nous allons vous recontacter rapidement afin de répondrce à vos questions"
                     toggle={true}
                     inputs={[
                       ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
@@ -164,6 +166,7 @@ const Artist = ({ location, ...props }) => {
                   <Contact
                     id="66QKKrtv"
                     method="phone"
+                    success="Merci ! Nous allons vous recontacter rapidement"
                     toggle={true}
                     inputs={[
                       ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
