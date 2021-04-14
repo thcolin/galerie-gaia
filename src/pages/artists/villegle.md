@@ -17,6 +17,19 @@ expose: false
 biography: '# [Jacques Villeglé](https://www.moma.org/artists/6163 "jacques villéglé
   villglé")'
 works:
+- title: 'Sans _ noir '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-villegle-50X66-noir-47:50.jpg
+  technique: Sérigraphie 47/50
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: Planche signée mail en bas droite 1989
+  price: 800
+  sold: false
+  contextual: true
 - title: Tréméac
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-villegle-tremeac.jpg
   fields: []
@@ -31,6 +44,20 @@ works:
   sold: false
   contextual: true
   technique: Lithographie 8/100
+- title: Sans- Rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-villegle-50X66-rose-EA
+    1:9.jpg
+  technique: Sérigraphie EA 1/9
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Planche signée mail en bas droite 1989
+  price: 800
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
