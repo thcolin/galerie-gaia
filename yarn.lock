@@ -5695,10 +5695,10 @@ gatsby-plugin-gdpr-cookies@^1.0.14:
     minimist "^1.2.5"
     universal-cookie "^4.0.4"
 
-gatsby-plugin-google-analytics@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.1.0.tgz#210c1ee3a7705f82490e89b21cb0b384ca1d4138"
-  integrity sha512-52+R1ahvLJf7po4yGJtNSme6fFruIpj8Uvhy53Fu2/eTjbu4kSyC1sfmO+vC8xD57M8FYGJy8mB1n4Up6vyyZA==
+gatsby-plugin-google-analytics@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.3.0.tgz#dffec74c7371f3312144e8616da0ba471e57e871"
+  integrity sha512-p6++DY9fJ8Exh2YpPdaL17mtvcd1uPGfIJPf6683CJtlzfqGRbN97ue2BKl/RfsBpXuK01hIXOiY/sOgDaE9vg==
   dependencies:
     "@babel/runtime" "^7.12.5"
     minimatch "3.0.4"
