@@ -26,6 +26,32 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: 'Grand plat noir et vert '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    plat.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 5
+    width: 43
+    depth: 43
+  description: ''
+  price: ''
+  contextual: false
+- title: Grand plat bleu curry
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    plat 2.jpg
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 5
+    width: 43
+    depth: 43
+  description: ''
+  price: 0
+  contextual: false
 - title: Plateau corail curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette
     2.jpg
@@ -75,19 +101,6 @@ works:
     depth: 24
   description: ''
   price: 54
-  contextual: false
-- title: Grand plat bleu curry
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat 2.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 5
-    width: 43
-    depth: 43
-  description: ''
-  price: 0
   contextual: false
 - title: Saladier XXL
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
@@ -139,19 +152,6 @@ works:
     depth: 0
   description: ''
   price: 145
-  contextual: false
-- title: 'Grand plat noir et vert '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 5
-    width: 43
-    depth: 43
-  description: ''
-  price: ''
   contextual: false
 - title: Bouteille poissons rayures rouges
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille5V1.jpg
@@ -208,7 +208,7 @@ works:
     height: 31
     width: 8
     depth: 
-  description: Rupture de stock
+  description: Prix par bouteille
   price: 90
   sold: false
   contextual: false
