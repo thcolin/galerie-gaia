@@ -19,6 +19,21 @@ expose: true
 biography: "Des éditions limitées à petit prix,   \nchinées au grès de mes recherches
   pour des accrochages qui créent un style unique, comme vous !"
 works:
+- title: Garbage
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doe
+    eyed-61x45,6 .jpg
+  technique: Sérigraphie  signée
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 61
+    width: 45.6
+    depth: 0
+  description: Chambre ado ou espace de co-working ambiance musicale et graphique
+  price: 50
+  sold: false
+  contextual: true
 - title: 'Arcade Fire '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
     Fire-63,5x48,2.jpg
@@ -29,7 +44,7 @@ works:
   dimensions:
     height: 64
     width: 48
-    depth: 0
+    depth: 
   description: ''
   price: 50
   sold: false
@@ -43,7 +58,7 @@ works:
   dimensions:
     height: 48
     width: 48
-    depth: 0
+    depth: 
   description: ''
   price: 40
   sold: false
@@ -57,7 +72,7 @@ works:
   dimensions:
     height: 50
     width: 70
-    depth: 0
+    depth: 
   description: Chambre ado ou bureau pour un home office atypique
   price: 50
   sold: false
@@ -68,9 +83,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: 'Affiche concert Metal ambiance home office graphique '
   price: 50
   sold: false
@@ -84,7 +99,7 @@ works:
   dimensions:
     height: 62
     width: 45
-    depth: 0
+    depth: 
   description: Ambiance chambre ado sympa!
   price: 40
   sold: false
@@ -98,7 +113,7 @@ works:
   dimensions:
     height: 64
     width: 45
-    depth: 0
+    depth: 
   description: Sympa pour la déco de la cuisine !
   price: 50
   sold: false
@@ -111,7 +126,7 @@ works:
   dimensions:
     height: 61
     width: 46
-    depth: 0
+    depth: 
   description: "Affiche festival musique reprenant le graphisme des lignes de code
     des autocollants antivols colés sur les vinyls et CD  \nEffet graphique génial
     et couleurs bien plus belle en vrai ! "
@@ -127,7 +142,7 @@ works:
   dimensions:
     height: 69
     width: 59
-    depth: 0
+    depth: 
   description: Univers poétique et onirique avec ce papillon, le début d'un conte
     pour une déco de chambre ou de couleur très sympa!
   price: 50
@@ -142,7 +157,7 @@ works:
   dimensions:
     height: 64
     width: 48
-    depth: 0
+    depth: 
   description: Effet garantie pour une chambre d'ado ou un bureau en home office !
   price: 50
   sold: false
@@ -156,7 +171,7 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 0
+    depth: 
   description: ''
   price: 50
   sold: false
