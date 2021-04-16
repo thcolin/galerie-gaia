@@ -16,7 +16,7 @@ content:
 
     ### 3. Confiance
 
-    Avec la **solution CtoC ou "clou à clou"** je m'occupe du dossier de financement, les démarches administratives ou de douanes, la logistique de livraison, l'accrochage et l'installation par un artisan professionnel.
+    Avec la **solution C to C ou "clou à clou"** je m'occupe du dossier de financement, les démarches administratives ou de douanes, la logistique de livraison, l'accrochage et l'installation par un artisan professionnel.
 
     [site info.gouv liste des biens exonérés ISF](https://www.impots.gouv.fr/portail/particulier/patrimoine-taxable-lisf "ISF")
   contact:
@@ -32,6 +32,7 @@ seo:
   type: website
   description: Conseil, sélection, négociation, livraison... Elisabeth Givre, directrice
     de Galerie Gaïa, courtier en art, accompagne vos acquisitions patrimoniales.
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre- galerie gaia- article ouest france.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
+    galerie gaia- article ouest france.png
 
 ---
