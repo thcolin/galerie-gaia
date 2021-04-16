@@ -40,6 +40,30 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Lièvre vert moyen
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-moyen-2021.jpg
+  technique: Grès émaillé
+  fields: []
+  styles: []
+  dimensions:
+    height: 14
+    width: 5
+    depth: 4
+  description: ''
+  price: 300
+  contextual: false
+- title: Lièvre vert clair
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.gif
+  technique: Grès émaillé
+  fields: []
+  styles: []
+  dimensions:
+    height: 16
+    width: 4
+    depth: 5
+  description: ''
+  price: 300
+  contextual: false
 - title: Lièvre céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg
   technique: grès émaillé
