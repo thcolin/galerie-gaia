@@ -11,18 +11,32 @@ biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEG
   JAFFE GAROUSTE "
 exhibitions: []
 works:
-- title: Tapiès Exposition Galerie Maeght 1975
-  technique: Affiche de collection en parfait état
+- title: Pierre Alechinsky - "Ziggourat II"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-ziggourat-ii.jpg
+  technique: Lithographie 19/66 1985
   dimensions:
     height: 72
-    width: 56
-    depth: 0
-  description: "# Tapiès Exposition Maeght"
-  price: 140
+    width: 50
+    depth: 
+  description: "# Pierre Alechinsky"
+  price: 1300
+  sold: false
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tapies-maeght72x56.jpg
   styles:
-  - abstrait
+  - Figuartif
+- title: 'Pierre Alechinsky - "Writing Book" '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg
+  technique: Lithographie 65/99 encadrée baguette chêne verre musée anti-reflet
+  dimensions:
+    height: 48
+    width: 64
+    depth: 
+  description: "# Pierre Alechinsky"
+  price: 1400
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: Chillida Exposition 1971 Barcelone
   technique: Affiche de collection en parfait état
   dimensions:
@@ -45,6 +59,18 @@ works:
   description: "# Miro "
   price: 140
   contextual: true
+- title: Tapiès Exposition Galerie Maeght 1975
+  technique: Affiche de collection en parfait état
+  dimensions:
+    height: 72
+    width: 56
+    depth: 0
+  description: "# Tapiès Exposition Maeght"
+  price: 140
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tapies-maeght72x56.jpg
+  styles:
+  - abstrait
 - title: 'Georg Baselitz - Sigmund '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
   technique: Eau forte (15/15)
@@ -84,22 +110,6 @@ works:
   description: "# Eloïse Van Der Heyden"
   price: 900
   contextual: true
-- title: Pierre Alechinsky - "Ziggourat II"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-ziggourat-ii.jpg
-  technique: Lithographie 19/66 1985
-  dimensions:
-    height: 72
-    width: 50
-    depth: 
-  description: |-
-    Pierre Alechinsky
-
-    =
-  price: 1200
-  sold: false
-  contextual: true
-  styles:
-  - Figuartif
 - title: 'Hervé Di Rosa - Le promeneur '
   technique: Eau forte 48/60 1987
   fields: []
@@ -300,19 +310,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: 'Pierre Alechinsky - "Writing Book" '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg
-  technique: Lithographie 65/99 encadrée baguette chêne verre musée anti-reflet
-  dimensions:
-    height: 48
-    width: 64
-    depth: 
-  description: "# Pierre Alechinsky"
-  price: 1400
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Georges Autard - "Perte de sens"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-autard-perte-de-sens.jpg
   technique: Sérigraphie 36/60 1995
