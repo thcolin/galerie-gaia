@@ -63,6 +63,21 @@ works:
     Oeuvre encadrée verre musée antireflet
   price: 250
   contextual: true
+- title: Lièvres émaillés Marianne Abergel
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-3-lièvres-céladon-2021.jpg
+  technique: Grés émaillé
+  fields:
+  - Céramique
+  styles:
+  - Figuratif
+  dimensions:
+    height: ''
+    width: ''
+    depth: ''
+  description: '# [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/
+    "https://galeriegaia.fr/artists/marianne-abergel/")'
+  price: 300
+  contextual: false
 - title: Little wood trash par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019110903-LittleWoodTrash-105x70cm-atelier.jpg
@@ -92,24 +107,6 @@ works:
   description: '# [Corinne Guého](https://galeriegaia.fr/catalogue/ "guého gueho ")'
   price: 1100
   contextual: false
-- title: Gravure  Renaud Allirand
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
-    16.jpg
-  technique: eau-forte édition limitée
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: |-
-    # [Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/ "renaud allirand")
-
-    Cadre de présentation Habitat non compris
-  price: ''
-  contextual: true
 - title: Gérard Traquandi sans titre 16/19
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
   technique: Eau forte 16/19
