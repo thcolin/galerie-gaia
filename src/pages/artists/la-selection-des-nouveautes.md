@@ -29,7 +29,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: Prix par bouteille
   price: 90
   contextual: false
 - title: Station 6 par Aline ISOARD
