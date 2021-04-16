@@ -19,21 +19,6 @@ expose: true
 biography: "Des éditions limitées à petit prix,   \nchinées au grès de mes recherches
   pour des accrochages qui créent un style unique, comme vous !"
 works:
-- title: Garbage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doe
-    eyed-61x45,6 .jpg
-  technique: Sérigraphie  signée
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 61
-    width: 45.6
-    depth: 0
-  description: Chambre ado ou espace de co-working ambiance musicale et graphique
-  price: 50
-  sold: false
-  contextual: true
 - title: 'Arcade Fire '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
     Fire-63,5x48,2.jpg
@@ -46,6 +31,51 @@ works:
     width: 48
     depth: 
   description: ''
+  price: 50
+  sold: false
+  contextual: true
+- title: The show and tell
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-the
+    show&tell show-45,6x61.jpg
+  technique: Sérigraphie signée
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 45.6
+    width: 61
+    depth: 0
+  description: 'Mélange graphique ambiance cinématographique et musicale '
+  price: 50
+  sold: false
+  contextual: true
+- title: Ephemera
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Ephemera-61,3x46
+    .jpg
+  technique: Sérigraphie signée
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 61.3
+    width: 46
+    depth: 0
+  description: ambiance graphique pour bureau à la maison ou espace de co-working
+  price: 50
+  sold: false
+  contextual: true
+- title: Garbage
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doe
+    eyed-61x45,6 .jpg
+  technique: Sérigraphie  signée
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 61
+    width: 45.6
+    depth: 0
+  description: Chambre ado ou espace de co-working ambiance musicale et graphique
   price: 50
   sold: false
   contextual: true
