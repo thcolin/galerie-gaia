@@ -60,7 +60,7 @@ Work.styles = {
     height: '100%',
     width: '100%',
     margin: 0,
-    padding: '2em',
+    padding: '0 2em',
     backgroundColor: theme.colors.shadow,
     color: theme.colors.white,
     fontSize: '1.25em',
@@ -68,6 +68,14 @@ Work.styles = {
     textAlign: 'center',
     lineHeight: 1.5,
     transition: 'transform 300ms ease-in-out',
+    '>h2': {
+      display: '-webkit-box',
+      overflow: 'hidden',
+      '-webkit-line-clamp': '3',
+      '-webkit-box-orient': 'vertical',
+      maxHeight: 'calc(100% - 2em)',
+      margin: '1em 0',
+    },
   },
   image: {
     objectFit: 'cover',
