@@ -71,8 +71,8 @@ works:
   styles: []
   dimensions:
     height: 30
-    width: 5
-    depth: 6
+    width: 9
+    depth: 10
   description: ''
   price: 650
   contextual: false
@@ -83,8 +83,8 @@ works:
   styles: []
   dimensions:
     height: 30
-    width: 5
-    depth: 6
+    width: 9
+    depth: 10
   description: ''
   price: 650
   contextual: false
@@ -95,8 +95,8 @@ works:
   styles: []
   dimensions:
     height: 14
-    width: 5
-    depth: 4
+    width: 9
+    depth: 6
   description: ''
   price: 250
   contextual: false
@@ -107,8 +107,8 @@ works:
   styles: []
   dimensions:
     height: 16
-    width: 4
-    depth: 5
+    width: 12
+    depth: 6
   description: ''
   price: 300
   contextual: false

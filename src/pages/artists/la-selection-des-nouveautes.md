@@ -71,9 +71,9 @@ works:
   styles:
   - Figuratif
   dimensions:
-    height: ''
-    width: ''
-    depth: ''
+    height: 15
+    width: 9
+    depth: 6
   description: '# [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/
     "https://galeriegaia.fr/artists/marianne-abergel/")'
   price: 300
