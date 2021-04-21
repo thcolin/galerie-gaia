@@ -35,7 +35,7 @@ Image.styles = {
     zIndex: -1,
     position: 'absolute',
     height: '100%',
-    width: '100%',
+    width: '100% !important',
     top: 0,
     left: 0,
     backgroundColor: theme.colors.silver,

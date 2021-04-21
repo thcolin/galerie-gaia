@@ -99,7 +99,7 @@ const Artist = ({ location, ...props }) => {
                   <h2><cite>{work.title}</cite></h2>
                   <span>
                     {work.technique}
-                    {(
+                    {!!(
                       work.dimensions?.height ||
                       work.dimensions?.width ||
                       work.dimensions?.depth
