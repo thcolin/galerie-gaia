@@ -26,6 +26,32 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Les Sables d'Olonne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
+    sables.50x70.jpg
+  technique: Sérigraphie trichromie
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
+- title: Un baigneur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
+    trichromie.1baigneur.70x50.jpg
+  technique: Sérigraphie en trichromie
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
 - title: Forme d'architecture 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture4.70x50.jpg
   technique: Acrylique sur papier
