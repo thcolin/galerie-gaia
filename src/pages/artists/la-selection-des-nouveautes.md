@@ -119,7 +119,7 @@ works:
   - Abstrait
   dimensions:
     height: 66
-    width: 50
+    width: 48
     depth: 0
   description: '# [Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
   price: 700
