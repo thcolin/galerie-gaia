@@ -94,6 +94,20 @@ works:
   description: ''
   price: 95
   contextual: true
+- title: Balanes jaunes 44
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-BALANES
+    jaune 44 32X65.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 60
+  contextual: true
 - title: 'Grand plat noir et vert '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
     plat.jpg
