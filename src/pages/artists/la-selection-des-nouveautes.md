@@ -21,17 +21,20 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Bouteilles Valérie Le Roux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-3bouteille.jpg
-  fields: []
+- title: 'Sérigraphie Valérie Le Roux '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
+    algues 92x45  58.jpg
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 45
+    width: 92
     depth: 0
   description: Prix par bouteille
   price: 90
   contextual: false
+  technique: Sérigraphie 50 exemplaires
 - title: Station 6 par Aline ISOARD
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
     6-2016 60x60cm.jpg
@@ -107,9 +110,9 @@ works:
   description: '# [Corinne Guého](https://galeriegaia.fr/catalogue/ "guého gueho ")'
   price: 1100
   contextual: false
-- title: Gérard Traquandi sans titre 16/19
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
-  technique: Eau forte 16/19
+- title: Pierre Buraglio
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Pierre-Buraglio.jpg
+  technique: ''
   fields:
   - Oeuvre sur papier
   styles:
@@ -119,7 +122,7 @@ works:
     width: 50
     depth: 0
   description: '# [Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
-  price: 550
+  price: 700
   contextual: true
 - title: Primitive N°1 de Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg
