@@ -26,6 +26,30 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Forme d'architecture 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture4.70x50.jpg
+  technique: Acrylique sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
+- title: Forme d'architecture 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture3.40x50.jpg
+  technique: Acrylique sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
 - title: Forme d'architecture 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture2.70x50.jpg
   technique: 'Acrylique sur papier '
