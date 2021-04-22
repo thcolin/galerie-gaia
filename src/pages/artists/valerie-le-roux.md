@@ -188,11 +188,12 @@ works:
   description: ''
   price: 80
   contextual: true
-- title: Corail bleu N
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/corail-bleu.jpg
-  technique: Sérigraphie  /50
+- title: 'Algue orange 34 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
+    34.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
   dimensions:
-    height: 93
+    height: 92
     width: 65
     depth: 
   description: ''
@@ -265,7 +266,7 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Végétal jaune
+- title: 'Algue jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vegetal-jaune.jpg
   technique: Sérigraphie /50
   dimensions:
