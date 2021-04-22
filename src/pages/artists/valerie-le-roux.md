@@ -26,6 +26,48 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Trio algues 58
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
+    algues 92x45  58.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 45
+    width: 92
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
+- title: Algue curry 35
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
+    35.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 92
+    width: 65
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
+- title: Trio algues bleu pâle 56
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
+    algues 56 92x45 bleu pale.jpg
+  technique: 'sérigraphie signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 45
+    width: 92
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
 - title: Triptyque algues jaune et bleu pâle
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-
     algues jaune bleu pale 32X65  43-48.jpg
@@ -56,20 +98,6 @@ works:
     n°37 38 39  \nbrique n° 40 41 42"
   price: 80
   contextual: false
-- title: Trio algues 58
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
-    algues 92x45  58.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 45
-    width: 92
-    depth: 0
-  description: ''
-  price: 90
-  contextual: true
 - title: Trio algues 57
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  57.jpg
@@ -99,20 +127,6 @@ works:
   contextual: true
 - title: Algue vert argile 18
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues18.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 92
-    width: 65
-    depth: 0
-  description: ''
-  price: 95
-  contextual: true
-- title: Algue curry 35
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
-    35.jpg
   technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
   fields:
   - Oeuvre sur papier
