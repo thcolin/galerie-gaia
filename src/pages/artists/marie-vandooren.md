@@ -26,6 +26,31 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Forme d'architecture 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
+  technique: 'Acrylique sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
+- title: 2 baigneurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphietrichromie.2baigneurs.70x50.jpg
+  technique: Sérigraphie trichromie
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
 - title: Les Sables d'Olonne
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
     sables.50x70.jpg
@@ -39,7 +64,7 @@ works:
   description: ''
   price: 250
   contextual: true
-- title: Un baigneur
+- title: 1 baigneur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
     trichromie.1baigneur.70x50.jpg
   technique: Sérigraphie en trichromie
@@ -80,19 +105,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture2.70x50.jpg
   technique: 'Acrylique sur papier '
   fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
-- title: Forme d'architecture 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
-  technique: 'Acrylique sur papier '
-  fields:
-  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 70
