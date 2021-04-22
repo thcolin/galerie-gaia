@@ -11,6 +11,19 @@ biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEG
   JAFFE GAROUSTE "
 exhibitions: []
 works:
+- title: 'Buraglio - "A Jean-Jacques Rousseau" '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buraglio-a-jean-jacques-rousseau-212.jpg
+  technique: Epreuve pigmentaire 2/12 2019
+  dimensions:
+    height: 66
+    width: 48
+    depth: 
+  description: "# Buraglio "
+  price: 700
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: Pierre Alechinsky - "Ziggourat II"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-ziggourat-ii.jpg
   technique: Lithographie 19/66 1985
@@ -132,19 +145,6 @@ works:
     depth: 
   description: "# Hervé Di Rosa"
   price: 1600
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
-- title: 'Buraglio - "A Jean-Jacques Rousseau" '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buraglio-a-jean-jacques-rousseau-212.jpg
-  technique: Epreuve pigmentaire 2/12 2019
-  dimensions:
-    height: 66
-    width: 48
-    depth: 
-  description: "# Buraglio "
-  price: 700
   sold: false
   contextual: true
   styles:
