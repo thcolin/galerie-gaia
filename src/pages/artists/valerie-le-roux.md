@@ -26,6 +26,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Trio algues 58
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
+    algues 92x45  58.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 45
+    width: 92
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
 - title: Trio algues 57
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  57.jpg
