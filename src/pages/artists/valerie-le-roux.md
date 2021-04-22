@@ -26,6 +26,36 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Triptyque algues jaune et bleu pâle
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-
+    algues jaune bleu pale 32X65  43-48.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: ''
+    width: 32
+    depth: 0
+  description: "Vendues séparément ou en triptyque  \ncouleurs disponibles  \njaune
+    n° 43 44 45   \nbleu  n° 46 47 48"
+  price: 80
+  contextual: false
+- title: Triptyques algues vert et brique
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
+    37 a 42.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvres sur papier
+  styles: []
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: "Vendues séparément ou en triptyque  \ncouleurs disponibles  \nvert
+    n°37 38 39  \nbrique n° 40 41 42"
+  price: 80
+  contextual: false
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
