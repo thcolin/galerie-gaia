@@ -26,8 +26,33 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Forme d'architecture 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture2.70x50.jpg
+  technique: 'Acrylique sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
+- title: Forme d'architecture 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
+  technique: 'Acrylique sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
 - title: Béton volant
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg
   technique: Collage sur sérigraphie Exemplaire unique
   dimensions:
     height: 70
@@ -38,7 +63,7 @@ works:
   sold: false
   contextual: true
 - title: 'Contraste #4'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-contraste-4-30x40cm-16ex-2019.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-contraste-4-30x40cm-16ex-2019.jpg
   technique: Sérigraphie 16 exemplaires
   fields: []
   styles: []
@@ -50,7 +75,7 @@ works:
   price: 120
   contextual: true
 - title: Palindrome 6
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg
   technique: Sérigraphie en 7 exemplaires
   fields: []
   styles: []
@@ -62,7 +87,7 @@ works:
   price: 130
   contextual: true
 - title: Palindrome 3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-palindrome3-50x70cm-5ex-2019-1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-palindrome3-50x70cm-5ex-2019-1.jpg
   technique: Sérigraphie
   fields: []
   styles: []
@@ -74,7 +99,7 @@ works:
   price: 200
   contextual: true
 - title: Palindrome 3 couleurs
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/palindrome.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/palindrome.jpg
   technique: Sérigraphie en 20 exemplaires
   dimensions:
     height: 70
@@ -85,7 +110,7 @@ works:
   sold: false
   contextual: true
 - title: Montagne
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-montagne-50x70-2020-200euros-pg.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-montagne-50x70-2020-200euros-pg.jpg
   technique: Sérigraphie en 10 exemplaires
   dimensions:
     height: 50
@@ -96,7 +121,7 @@ works:
   sold: false
   contextual: true
 - title: Piscine végétale
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-piscine-vegetale-50x70-2020.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-piscine-vegetale-50x70-2020.jpg
   technique: Sérigraphie 10 exemplaires
   dimensions:
     height: 70
@@ -107,7 +132,7 @@ works:
   sold: false
   contextual: true
 - title: 'Maquette 3 Solitude '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.maquette3.10x10cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.maquette3.10x10cm.jpg
   technique: Maquette sur socle bois
   dimensions:
     height: 10
@@ -119,7 +144,7 @@ works:
   fields:
   - Sculpture
 - title: Maquette 1 Vélo
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.maquette1.16x9cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.maquette1.16x9cm.jpg
   technique: 'Maquette socle Bois '
   dimensions:
     height: 16
@@ -131,7 +156,7 @@ works:
   fields:
   - Sculpture
 - title: Végétal bleu
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vegetal-bleu.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vegetal-bleu.jpg
   technique: Sérigraphie en 15 exemplaires
   dimensions:
     height: 70
@@ -142,7 +167,7 @@ works:
   sold: false
   contextual: true
 - title: Paysage 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.paysage2.100x81cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.paysage2.100x81cm.jpg
   technique: acrylique sur papier
   dimensions:
     height: 50
@@ -154,7 +179,7 @@ works:
   fields:
   - Peinture
 - title: Paysage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.paysage.81x65cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.paysage.81x65cm.jpg
   technique: acrylique sur papier
   dimensions:
     height: 65
@@ -164,7 +189,7 @@ works:
   price: 700
   contextual: true
 - title: Portrait de Marie Vandooren
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandooren-portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandooren-portrait.jpg
   dimensions:
     height: 0
     width: 0
