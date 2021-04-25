@@ -30,7 +30,7 @@ biography: |-
   >
   > Voyages initiatiques et inspirants, riches d’ observations, d’ émotions et d’ empreintes de temps et paysages traversés.
   >
-  > En peinture comme au coeur de la nature, les sens sont connectés et exacerbés. L’ exercice en plein air permet d’ absorber force et formes nouvelles, coloramas infinis et poésie.
+  > En peinture comme au cœur de la nature, les sens sont connectés et exacerbés. L’ exercice en plein air permet d’ absorber force et formes nouvelles, coloramas infinis et poésie.
   >
   > Cette série est arrivée sans idée pré conçues, comme une réminiscence de sensations au charme primitif, revitalisant.
   >
@@ -66,6 +66,19 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-01.jpg
+  technique: 'Mixte sur toile tissée '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 32
+    depth: 0
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
 - title: 'EN LIBERTE Installation en triptyque '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
   technique: peinture
@@ -217,21 +230,6 @@ works:
   price: 900
   sold: false
   contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Abstrait
-- title: Détail sculpture murale triangulaire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/detail-sculpture-murale.jpg
-  technique: pigments acryliques, gravure et pyrogravure sur chêne brut
-  dimensions:
-    height: 45
-    width: 25
-    depth: 4.5
-  description: ''
-  price: 650
-  sold: false
-  contextual: true
   fields:
   - Sculpture
   styles:
