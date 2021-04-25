@@ -7,47 +7,67 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "> # Marie Bathellier \n>\n> Marie Veyron Bathellier débute son parcours
-  d’études supérieures par les Beaux-Arts à Rennes, suivi d’une année à l’Académie
-  d’Arts de Wroclaw en Pologne, pour terminer par la Faculté d’Arts plastiques de
-  la Sorbonne à Paris.\n>\n> Depuis 2003, chaque atelier se situe en pleine nature
-  : île d’Yeu où elle vit, mais aussi à la campagne et en montagne . De ce voisinage
-  avec le vivant est né une façon de travailler : instinctive , expérimentale et minimale
-  et poétique. Marie Bathelier travaille par cycles, oscille entre plusieurs disciplines
-  sans distinction de valeur peinture, sculpture, installations.\n>\n> C’est dans
-  la nature sauvage et le jardin que l’artiste puise force, formes et matériaux. Collectionner,
-  photographier et prendre des notes enrichissent sa démarche.\n\n> Cet état de contemplation,
-  d’accueil et de déclics renouvelle en permanence son travail.\n>\n> Sur de grandes
-  toiles et séries de petits formats de cartons qu’elle recycle, l’artiste agence
-  des formes abstraites et minimales. Le principe de ces imbrications entraîne un
-  dialogue entre espaces, couleurs et textures. Marie Bathellier sublime ses aplats
-  pigmentaires mates, transparents, irisés ou pailletés en y ajoutant argile, sable
-  ou poudre de roche. L’ oeil s’ amuse des formes entrant en relations, des jeux de
-  matières caressés par la lumière et se baigne dans des coloramas doux et puissants.\n\n>
-  Sculptures en bois brut aux formes architecturées, hauts totems, mobiles, lianes
-  végétales chorégraphiées ou suite de pas japonais granitiques témoignent d’une pratique
-  artistique affranchie, spontanée et sensorielle.\n\n> Born in July 1971, Marie Bathellier,
-  spent her childhood in Brittany between the land and the sea.\n\nShe studied Beaux-Arts
-  in Rennes followed by one year in Wroclaw (Poland) at the Academy of Arts and finished
-  at the Sorbonne (Paris) in the Faculté d’Arts plastiques;\n\nSince 2003, nature
-  is her work environment – Ile d’Yeu where she lives, country side and mountains
-  where she spends a lot of time. From this co-habitation she has drawn her way of
-  working : instinctive, experimental, minimal and poetic.\n\nMarie Bathellier works
-  in cycles, travels between several disciplines without favouritism – painting, sculpture,
-  installations.\n\nThe artist finds strength, forms and materials in the wilderness
-  and gardens. Her work is fed by taking notes, by taking photos, collecting materials.
-  Her contemplative approach and embrace of nature, permanently stimulate and renew
-  her work.\n\nThe artist arranges abstract and minimal forms on large canvases or
-  in series of smaller recycled cardboards. These arrangements create a dialogue between
-  space, colour and texture. The surfaces become sparkly, transparent, pearly or deeply
-  mat as she enhances them using clay, sand or rock dust. They become a playful vision
-  of forms interacting, of textures with soft and powerful colour palettes being stroked
-  by light.\n\nArchitectural sculptures in untreated wood, totems poles, mobiles,
-  choreographed vegetal creepers or lines of Japanese granit stepping stones reveal
-  a free, spontaneous and sensual artistic work."
+biography: |-
+  > # Marie Bathellier
+
+  > Série Very blue, very green :
+  >
+  > " Very blue, very green" est le titre d’ une chanson de Nick Waterhouse. Il ne m’ en voudra pas de le lui emprunter.
+  >
+  > La collecte de matériaux est au cœur de ma pratique. Elle invite curiosité, nouvelles explorations et renouvellement permanent.
+  >
+  > Les fins liens tissés de ces anciens sacs de pêche m’ ont évoqués les liens qui relient la pratique artistique à la nature. J’ aime les trames et les tissages, les dessous - dessus, les devant - derrière.
+  >
+  > Leur transparence m’ ont invité à utiliser les deux faces du matériau, jouant ainsi avec la traversée partielle de la couleur. Plusieurs plans se juxtaposent ainsi et une profondeur se crée.
+  >
+  > La nature est le thème de cette nouvelle série qui emprunte à Joan Mitchell une écriture abstraite, débridée et heureuse.
+  >
+  > Invitation à s’ enf ( o ) uir dans le végétal et l’ aquatique pour y puiser réconfort et énergie.
+  >
+  > Nature bouillonnante, jaillissante, sauvage. Couleurs pigmentaires qui sondent la fraicheur de l’ eau, des ombres végétales, de la terre, de l’ air.
+  >
+  > Régulièrement, je m’ échappe randonner et part à la rencontre de sensations.
+  >
+  > Voyages initiatiques et inspirants, riches d’ observations, d’ émotions et d’ empreintes de temps et paysages traversés.
+  >
+  > En peinture comme au coeur de la nature, les sens sont connectés et exacerbés. L’ exercice en plein air permet d’ absorber force et formes nouvelles, coloramas infinis et poésie.
+  >
+  > Cette série est arrivée sans idée pré conçues, comme une réminiscence de sensations au charme primitif, revitalisant.
+  >
+  > Surprises dans la découverte de nouveaux paysages, de sensations nouvelles, surprises dans la recherche d’ une nouvelle écriture picturale.
+  >
+  > À la hauteur de la liberté et la joie qui accompagnent mes jours d’ escapades en montagne, mer et campagne, il fallait recherché une vigueur expéditive, une désinvolture joyeuse qui, bien - sûr, déborde du cadre.
+  >
+  > Texte de Marie Bathellier Avril 2021
+  >
+  > Marie Veyron Bathellier débute son parcours d’études supérieures par les Beaux-Arts à Rennes, suivi d’une année à l’Académie d’Arts de Wroclaw en Pologne, pour terminer par la Faculté d’Arts plastiques de la Sorbonne à Paris.
+  >
+  > Depuis 2003, chaque atelier se situe en pleine nature : île d’Yeu où elle vit, mais aussi à la campagne et en montagne . De ce voisinage avec le vivant est né une façon de travailler : instinctive , expérimentale et minimale et poétique. Marie Bathelier travaille par cycles, oscille entre plusieurs disciplines sans distinction de valeur peinture, sculpture, installations.
+  >
+  > C’est dans la nature sauvage et le jardin que l’artiste puise force, formes et matériaux. Collectionner, photographier et prendre des notes enrichissent sa démarche.
+
+  > Cet état de contemplation, d’accueil et de déclics renouvelle en permanence son travail.
+  >
+  > Sur de grandes toiles et séries de petits formats de cartons qu’elle recycle, l’artiste agence des formes abstraites et minimales. Le principe de ces imbrications entraîne un dialogue entre espaces, couleurs et textures. Marie Bathellier sublime ses aplats pigmentaires mates, transparents, irisés ou pailletés en y ajoutant argile, sable ou poudre de roche. L’ oeil s’ amuse des formes entrant en relations, des jeux de matières caressés par la lumière et se baigne dans des coloramas doux et puissants.
+
+  > Sculptures en bois brut aux formes architecturées, hauts totems, mobiles, lianes végétales chorégraphiées ou suite de pas japonais granitiques témoignent d’une pratique artistique affranchie, spontanée et sensorielle.
+
+  > Born in July 1971, Marie Bathellier, spent her childhood in Brittany between the land and the sea.
+
+  She studied Beaux-Arts in Rennes followed by one year in Wroclaw (Poland) at the Academy of Arts and finished at the Sorbonne (Paris) in the Faculté d’Arts plastiques;
+
+  Since 2003, nature is her work environment – Ile d’Yeu where she lives, country side and mountains where she spends a lot of time. From this co-habitation she has drawn her way of working : instinctive, experimental, minimal and poetic.
+
+  Marie Bathellier works in cycles, travels between several disciplines without favouritism – painting, sculpture, installations.
+
+  The artist finds strength, forms and materials in the wilderness and gardens. Her work is fed by taking notes, by taking photos, collecting materials. Her contemplative approach and embrace of nature, permanently stimulate and renew her work.
+
+  The artist arranges abstract and minimal forms on large canvases or in series of smaller recycled cardboards. These arrangements create a dialogue between space, colour and texture. The surfaces become sparkly, transparent, pearly or deeply mat as she enhances them using clay, sand or rock dust. They become a playful vision of forms interacting, of textures with soft and powerful colour palettes being stroked by light.
+
+  Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
 - title: 'EN LIBERTE Installation en triptyque '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
   technique: peinture
   dimensions:
     height: 70
@@ -60,7 +80,7 @@ works:
   fields: []
   styles: []
 - title: EN LIBERTE panneau 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
@@ -78,7 +98,7 @@ works:
   fields: []
   styles: []
 - title: EN LIBERTE panneau 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
@@ -96,7 +116,7 @@ works:
   fields: []
   styles: []
 - title: EN LIBERTE panneau 3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg
   technique: pigments acryliques, argile et sable sur toile
   dimensions:
     height: 70
@@ -114,7 +134,7 @@ works:
   fields: []
   styles: []
 - title: Sans titre &5
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
   fields: []
   styles: []
@@ -127,7 +147,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &4
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
@@ -141,7 +161,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-3_15x17.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-3_15x17.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
@@ -155,7 +175,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-2-17x18.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-2-17x18.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
@@ -169,7 +189,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre &1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
   fields: []
   styles: []
@@ -182,7 +202,7 @@ works:
   sold: false
   contextual: true
 - title: Terre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculptureterre-9x35x60.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculptureterre-9x35x60.jpeg
   technique: pigments acryliques et argile sur bois
   dimensions:
     height: 60
@@ -202,7 +222,7 @@ works:
   styles:
   - Abstrait
 - title: Détail sculpture murale triangulaire
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/detail-sculpture-murale.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/detail-sculpture-murale.jpg
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
   dimensions:
     height: 45
@@ -217,7 +237,7 @@ works:
   styles:
   - Abstrait
 - title: Sculpture murale triangles
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sculpture-murale.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sculpture-murale.jpg
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
   dimensions:
     height: 45
@@ -232,7 +252,7 @@ works:
   styles:
   - anstrait
 - title: 'Sculpture murale à rayures '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/profil-sbleue.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/profil-sbleue.jpeg
   technique: 'pigments acryliques et paillettes sur bois '
   dimensions:
     height: 35
@@ -250,7 +270,7 @@ works:
   styles:
   - Abstrait
 - title: Sculpture murale au carré rouge
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-profilscarrerouge.jpeg
   technique: pigments acryliques sur chêne brut
   dimensions:
     height: 30
@@ -268,7 +288,7 @@ works:
   styles:
   - Abstrait
 - title: Refuge
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg
   technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
   dimensions:
     height: 48
@@ -286,7 +306,7 @@ works:
   styles:
   - Abstrait
 - title: Mer 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer1-22x22-160.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer1-22x22-160.jpeg
   technique: pigments acryliques sur papier photographique mat 310g
   dimensions:
     height: 22
@@ -306,7 +326,7 @@ works:
   styles:
   - Figuratif
 - title: Mer 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer2-22-x22-160.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer2-22-x22-160.jpeg
   technique: pigments acryliques sur papier photographique mat 310g
   dimensions:
     height: 22
@@ -326,7 +346,7 @@ works:
   styles:
   - Figuratif
 - title: Lit de camp peint
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg
   technique: 'peinture acrylique sur toile '
   dimensions:
     height: 43
@@ -344,7 +364,7 @@ works:
   - Design
   styles: []
 - title: 'Portrait '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-portrait.jpg
   technique: ''
   dimensions:
     height: 
@@ -371,5 +391,11 @@ exhibitions:
   end: ''
 styles:
 - Abstrait
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
