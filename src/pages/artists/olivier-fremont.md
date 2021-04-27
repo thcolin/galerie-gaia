@@ -10,19 +10,29 @@ expose: true
 biography: |-
   # Olivier Fremont
 
-  _L'artiste et la matière : esthétique d'un songe partagé_
+  OXYDATION Exposition au Domaine des 3 Toits - Vertou (44) 8/05/21 30/06/21
 
-  _Sur l'pont de Nantes_, parmi les _enfants obstinés_, se détache une figure singulière, celle d'Olivier Frémont. C'est en 2014, lorsque ce dernier proposa sa sculpture pour l'exposition du Salon d'Automne International à Saint-Petersbourg que nous découvrions cet artiste inimitable.
+  Cécile Perraud et Vincent Barbier font partie de ces nouveaux venus au métier de la vigne et du vin qui officient avec l’enthousiasme et la foi des convertis. Ils s’inscrivent fidèlement dans la tradition du terroir qui les accueille et s’adonnent tout aussi passionnément à la recherche et à l’expérimentation.
 
-  Tirant le fil de la toile (le Web), nous abordions par l'écran le territoire plastique d'une œuvre insolite dont la diversité des formes manifeste à l'évidence un souci de synthèse liant dans une même respiration, sculpture, peinture et architecture. De fait, l'œuvre d'Olivier Frémont est intrinsèquement soudée à la perception du mur, du sol et du lieu d'exposition, à l'intérieur comme à l'extérieur ; quelle qu'en soit la technique adoptée, elle est parée d'une indéniable vertu architectonique. Avant toute chose, il s'agit bien pour l'artiste de faire vivre un espace.
+  Encouragés par un petit groupe d’amis fervents réunis autour de Vincent Rousseau, anciennement conservateur chargé des collections d’art moderne au Musée d’Arts de Nantes, Cécile et Vincent ont généreusement proposé à des artistes plasticiens de se joindre à leur belle aventure.
 
-  Si ce dernier a parfaitement assimilé les compressions de César et son "art de la récup", s'il reste fasciné par les nouveaux réalistes et par l'œuvre de [Julio Gonzales](https://juliogonzalez.org "Julio Gonzales"), le véritable héros d'Olivier Frémont est sans conteste [Jean Dubuffet](https://www.dubuffetfondation.com/savie.php?menu=21&lang=fr "Jean Dubuffet"). La volonté de faire entendre le cri primal de l'humanité, de révéler la forme en-dehors de tous les poncifs, de tous les académismes, de toutes les modes caractérisant une époque où une civilisation donnée, est un legs précieux qu'Olivier Frémont fertilise sur un terreau bien à lui, étonnamment identifiable malgré l’abondance des formes et des techniques. S'il nous fallait identifier le génie d'Olivier Frémont, c'est ici, selon nous, qu'on le trouverait. Dans cette médiation plastique entre l'humain et la matière. Dans cette faculté à nous faire entendre par les yeux les chants de la terre, ceux qu'entonne le métal soudé, martelé, oxydé, repoussé, stigmatisé, couvert de sa patine de rouille ou recouvert de teintes rutilantes... Inspirées de la nature minérale, végétale, animale ou humaine, les formes suggérées peuvent être aussi rugueuses que lisses, légères ou élégantes à l'instar de cette _Africaine_ tout en arabesques...
+  Ils ont ainsi engagé un fructueux dialogue avec leur proche voisin sculpteur.
 
-  Dès lors, il importe de le claironner à la cantonade : _Sur l'pont de Nantes, un artiste nous est donné_...
+  Parce qu’il sait qu’un simple regard suffit à changer le sort d’un objet délaissé, Olivier Frémont trouve ses matériaux au gré de ses incursions dans l’antre des ferrailleurs. Il prend dignement place dans la grande famille de ceux qui, à l’instar du chiffonnier de Baudelaire, dans _l’Ame du Vin,_ glanent leur bien dans « _le capharnaüm des rebuts_ » : «_il fait un triage, un choix intelligent, il_ _ramasse comme un avare un trésor»._
 
-  Noël Coret
+  Marcel Duchamp fit ainsi entrer dans l’histoire un très ordinaire porte- bouteille et Jean Dubuffet révéla la beauté brute de créations dédaignées.
 
-  Ecrivain d’Art. Président d’honneur du Salon d’Automne.
+  Comme les vins qui ne livrent tous leurs secrets qu’au fil d’un lent processus de maturation, les rêveries métalliques d’Oliver Frémont ne prennent réellement corps qu’au terme d’un patient travail sensible et physique de composition. En pratique, le maître de chai et le sculpteur exercent une même activité, l’art de l_’assemblage_. Qu’il s’agisse de marier des saveurs ou de conjuguer des formes, ils ont tous deux pour tâche d’associer justement en une même réalisation des éléments d'origines diverses.
+
+  Ils partagent aussi une autre préoccupation : chacun en son domaine reste particulièrement attentif - mais pour des raisons différentes - au phénomène chimique de l’_oxydation_. Le vigneron en redoute les conséquences néfastes sur la qualité de sa production. Le sculpteur en assume pleinement les effets qui constituent en quelque sorte la peau vivante de ses œuvres.
+
+  C’est au cours de tels échanges sur la nature et _l’aspect des choses_ que cette exposition est née.
+
+  Il ne s’agit évidemment pas d’une simple question de surface.
+
+  Olivier Frémont sait qu’après Dada et les Nouveaux Réalistes qui ont magnifiquement ouvert la voie, beaucoup d’artistes ont succombé aux sirènes de la récupération mais, lui-même, n’a jamais été vraiment séduit par la poétique de l’objet « tout fait ». Les débris et restes qu’il recueille et réunit précautionneusement n’ont plus d’histoire : il « opère » au chevet de ces lambeaux suturés pour redonner couleur et vie à la chair du fer. A ce stade de recherche dans les entrailles métalliques le choix d’un rendu lisse ou rugueux, mat ou verni ne relève plus que d’un impossible défi : exprimer les états d’âme de la matière.
+
+  Vincent Rousseau - Conservateur chargé de l'art moderne aux musées des Arts de Nantes de 1975 à 2011.
 
   Pour comprendre et voir le travail in situ, l’artiste accepte d’**ouvrir** **son** **atelier** sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
 exhibitions: []
