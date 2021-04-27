@@ -66,9 +66,22 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
+- title: Very green, very blue 002
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-02.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 32
+    depth: 0
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
 - title: Very blue, very green 001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-01.jpg
-  technique: 'Mixte sur toile tissée '
+  technique: Pigments acrylique sur tissage recyclé
   fields: []
   styles: []
   dimensions:
