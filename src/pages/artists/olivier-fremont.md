@@ -18,7 +18,7 @@ biography: |-
 
   Ils ont ainsi engagé un fructueux dialogue avec leur proche voisin sculpteur.
 
-  Parce qu’il sait qu’un simple regard suffit à changer le sort d’un objet délaissé, Olivier Frémont trouve ses matériaux au gré de ses incursions dans l’antre des ferrailleurs. Il prend dignement place dans la grande famille de ceux qui, à l’instar du chiffonnier de Baudelaire, dans _l’Ame du Vin,_ glanent leur bien dans « _le capharnaüm des rebuts_ » : «_il fait un triage, un choix intelligent, il_ _ramasse comme un avare un trésor»._
+  Parce qu’il sait qu’un simple regard suffit à changer le sort d’un objet délaissé, Olivier Frémont trouve ses matériaux au gré de ses incursions dans l’antre des ferrailleurs. Il prend dignement place dans la grande famille de ceux qui, à l’instar du chiffonnier de [Baudelaire, dans _l’Ame du Vin_](https://www.youtube.com/watch?v=LWYhiUA44Ng "BAUDELAIRE CHARLES ")_,_ glanent leur bien dans « _le capharnaüm des rebuts_ » : «_il fait un triage, un choix intelligent, il_ _ramasse comme un avare un trésor»._
 
   Marcel Duchamp fit ainsi entrer dans l’histoire un très ordinaire porte- bouteille et Jean Dubuffet révéla la beauté brute de créations dédaignées.
 
