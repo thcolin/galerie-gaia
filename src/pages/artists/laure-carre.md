@@ -423,6 +423,17 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
+- title: Atelier Laure Carré
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier-laure-carre-elisabeth-givre.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: 'Atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-atelier.jpg
   fields: []
