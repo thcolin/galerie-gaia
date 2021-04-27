@@ -342,8 +342,8 @@ works:
     height: 80
     width: 80
     depth: 
-  description: ''
-  price: 1400
+  description: Collection privée de la galerie Gaïa
+  price: ''
   sold: false
   contextual: true
 - title: 'Walk in the kingdom '
