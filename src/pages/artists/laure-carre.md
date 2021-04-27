@@ -138,6 +138,32 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Autoportrait rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    rose-160X130.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: ''
+  price: 5000
+  contextual: true
+- title: Autoportrait jaune
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    jaune-160X130.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: ''
+  price: 5000
+  contextual: true
 - title: Autoportrait bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
     bleu-160X130.jpeg
