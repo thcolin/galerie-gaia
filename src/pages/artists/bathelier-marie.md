@@ -105,7 +105,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Very green, very blue 003
+- title: Very green, very blue P003
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-03.jpg
   technique: Pigments acrylique sur tissage recyclé
   fields: []
