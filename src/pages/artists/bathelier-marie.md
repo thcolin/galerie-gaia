@@ -66,7 +66,7 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
-- title: 'Sans titre '
+- title: Very blue, very green 001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-01.jpg
   technique: 'Mixte sur toile tissée '
   fields: []
