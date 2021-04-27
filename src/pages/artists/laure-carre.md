@@ -138,6 +138,18 @@ biography: |-
     1992 à 1996 La Forge -Paris
 exhibitions: []
 works:
+- title: Triptyque Autoportrait
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-triptyque-Autoportrait.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: 'Triptyque 13 000€ '
+  price: ''
+  contextual: true
 - title: Autoportrait rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
     rose-160X130.jpeg
