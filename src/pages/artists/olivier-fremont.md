@@ -28,7 +28,7 @@ biography: |-
 exhibitions: []
 works:
 - title: 'Sans titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-fremont-sans-titre-1.JPG
   dimensions:
     height: 31
     width: 39
@@ -38,7 +38,7 @@ works:
   contextual: false
   technique: Métal soudé vernis sur socle wengé
 - title: 'Sans titre '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-fremont-44x17x10.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-fremont-44x17x10.jpg
   technique: Métal soudé vernis sur socle wengé
   dimensions:
     height: 44
@@ -48,17 +48,18 @@ works:
   price: 1000
   contextual: false
 - title: Sans titre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-fremont-sans-titre-3.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-fremont-sans-titre-3.jpg
   technique: Métal soudé vernis sur socle wengé
   dimensions:
     height: 30
     width: 34
     depth: 15
   description: "2020"
-  price: 1600
+  price: 1500
   contextual: true
 - title: Compression
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Compression 70x70x30 tirage bronze I  sur VIII 9000 €.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Compression 70x70x30
+    tirage bronze I  sur VIII 9000 €.jpg
   technique: Bronze 1/8
   dimensions:
     height: 70
@@ -69,7 +70,8 @@ works:
   sold: false
   contextual: true
 - title: Compression oxydée
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/compression oxydée 68x115x20 6500 €.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/compression oxydée
+    68x115x20 6500 €.jpg
   technique: Acier
   dimensions:
     height: 68
@@ -79,7 +81,8 @@ works:
   price: 6500
   contextual: false
 - title: Sans titre 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Acier peint patinée (recto) 108 x 40 x 25 2000 €.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Acier peint patinée
+    (recto) 108 x 40 x 25 2000 €.JPG
   technique: Acier peint patiné
   dimensions:
     height: 108
@@ -89,7 +92,7 @@ works:
   price: 2000
   contextual: false
 - title: Tête et bustes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-famille-la-derniere-serie-des-bronze.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-famille-la-derniere-serie-des-bronze.jpg
   technique: Bronze édition en 8 exemplaires Fonderie Le Floch
   dimensions:
     height: 
@@ -100,7 +103,8 @@ works:
   sold: false
   contextual: true
 - title: Mural 11
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural 11 compressions 500x200 15000 € .jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural 11 compressions
+    500x200 15000 € .jpg
   technique: 'Compressions '
   dimensions:
     height: 0
