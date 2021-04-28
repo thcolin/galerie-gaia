@@ -43,7 +43,7 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   \ \n**l’évidence devant une œuvre qui s’impose  \nl’évidence qui ne se discute pas
   et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence qui
   se partage  \nl’évidence qui euphorise et qui rayonne  \nVenez très sincèrement,
-  c'est encore mieux en vrai !**"
+  c'est encore mieux en vrai !**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)"
 about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité-e
   aux prochains vernissages ?"
 seo:

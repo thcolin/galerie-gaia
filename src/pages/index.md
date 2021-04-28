@@ -1,9 +1,13 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre-13.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    jaune-160X130.jpeg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    rose-160X130.jpeg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    bleu-160X130.jpeg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210329_WIDE_Artefacts_Gaia_EPonsaud_53.jpg
 redirect_from:
 - "/plan/"
 seo:
