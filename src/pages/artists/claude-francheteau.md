@@ -31,6 +31,16 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: Ciel 2059
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg
+  technique: Acrylique sur toile
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: "2020"
+  price: 750
+  contextual: true
 - title: Ciel 087
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciels-087-20x20.jpg
   technique: 'Acrylique sur toile '
@@ -53,16 +63,6 @@ works:
   description: caisse américaine bois brut
   price: 1800
   sold: false
-  contextual: true
-- title: Ciel 2059
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 50
-    width: 50
-    depth: 0
-  description: "2020"
-  price: 750
   contextual: true
 - title: Ciel 2009
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2009-38x48.jpg

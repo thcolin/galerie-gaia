@@ -34,31 +34,8 @@ biography: "# Jean-François Mollière \n\n**Photos grand  format éditées en 5
   Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
-- title: Tokyo 6
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg"
-  technique: Photographie
-  dimensions:
-    height: 35
-    width: 45
-    depth: 0
-  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
-    blanc standard 1/10
-  price: 590
-  contextual: true
-- title: Chicago 25
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg"
-  technique: 'Photographie jet d''encre pigmentaire '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: 'œuvre encadrée '
-  price: 590
-  contextual: true
 - title: New York 7
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-7-l-0-73m-x-h-1-02-m.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-7-l-0-73m-x-h-1-02-m.jpg
   technique: 'Photographie tirage pigmentaire '
   fields: []
   styles: []
@@ -69,8 +46,31 @@ works:
   description: 'Tirage en 5 exemplaires œuvre encadrée caisse américaine '
   price: 1800
   contextual: true
+- title: Tokyo 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg
+  technique: Photographie
+  dimensions:
+    height: 35
+    width: 45
+    depth: 0
+  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
+    blanc standard 1/10
+  price: 590
+  contextual: true
+- title: Chicago 25
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg
+  technique: 'Photographie jet d''encre pigmentaire '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: 'œuvre encadrée '
+  price: 590
+  contextual: true
 - title: New York 19
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-5-9.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-5-9.JPG
   technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
   fields: []
   styles: []
@@ -82,7 +82,7 @@ works:
   price: 1500
   contextual: true
 - title: New York 17
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-17-l-0-30m-x-h-0-30-m.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-17-l-0-30m-x-h-0-30-m.jpg
   technique: 'Photographie tirage jet d''encre pigmentaire '
   fields: []
   styles: []
@@ -94,7 +94,7 @@ works:
   price: 590
   contextual: true
 - title: New York 13
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jeanfrancois-molliere-new-york-13-75-x-68.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jeanfrancois-molliere-new-york-13-75-x-68.jpg
   technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
   fields: []
   styles: []
@@ -106,7 +106,7 @@ works:
   price: 1500
   contextual: true
 - title: New York 11
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg
   technique: Photographie
   dimensions:
     height: 70
@@ -116,7 +116,7 @@ works:
   price: 1500
   contextual: true
 - title: Tokyo 9
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-tokyo-9-58x70.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-tokyo-9-58x70.jpg
   technique: Photographie jet d'encre pigmentaire sur dibond caisse américaine
   fields: []
   styles: []
@@ -128,7 +128,7 @@ works:
   price: 1500
   contextual: true
 - title: Tokyo 8
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-8-40-x-40-cm-jpeg.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-8-40-x-40-cm-jpeg.jpg
   technique: Photographie
   dimensions:
     height: 40
@@ -139,7 +139,7 @@ works:
   price: 490
   contextual: true
 - title: Tokyo 4
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg
   technique: Photographie
   dimensions:
     height: 40
@@ -150,7 +150,8 @@ works:
   price: 590
   contextual: true
 - title: New York 9
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere  New York 3 061.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere  New
+    York 3 061.JPG
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
     height: 80
@@ -161,7 +162,7 @@ works:
   price: 1700
   contextual: true
 - title: Chicago 21
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago-21-86x80-light.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago-21-86x80-light.jpg
   technique: 'Photographie '
   dimensions:
     height: 86
@@ -172,8 +173,8 @@ works:
   price: 1800
   contextual: true
 - title: Tokyo 7
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 22
-    26.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere Des
+    souvenirs de Villes Des Souvenirs d'Amours 22 26.JPG
   technique: photographie tirage papier fine art contrecollé sur dibond caisse américaine
   dimensions:
     height: 40
@@ -183,8 +184,8 @@ works:
   price: 590
   contextual: true
 - title: Tokyo 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere Des souvenirs de Villes Des Souvenirs d'Amours 18
-    22.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere Des
+    souvenirs de Villes Des Souvenirs d'Amours 18 22.JPG
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
     height: 80
@@ -194,7 +195,8 @@ works:
   price: 1500
   contextual: true
 - title: New York 5
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere  New York 8 068.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere  New
+    York 8 068.JPG
   technique: 'photographie tirage papier fine art contrecollé sur dibond '
   dimensions:
     height: 100
@@ -204,7 +206,7 @@ works:
   price: 2200
   contextual: true
 - title: New York 15
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1349.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1349.jpg
   technique: 'photographie Edition en 15 exemplaires '
   dimensions:
     height: 70
@@ -215,7 +217,7 @@ works:
   sold: false
   contextual: true
 - title: New York 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1347.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1347.jpg
   technique: 'photographie edition 15 exemplaires '
   dimensions:
     height: 80
@@ -228,7 +230,7 @@ works:
   sold: false
   contextual: true
 - title: New York 20
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1348.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1348.jpg
   technique: photographie Edition en 15 exemplaires
   dimensions:
     height: 80
@@ -239,7 +241,7 @@ works:
   sold: false
   contextual: true
 - title: 'New York 3 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1350.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1350.jpg
   technique: 'photographie Edition en 15 exemplaires '
   dimensions:
     height: 72
@@ -250,7 +252,7 @@ works:
   sold: false
   contextual: true
 - title: Inside the horizon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1351.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1351.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
     height: 100
@@ -262,7 +264,7 @@ works:
   sold: false
   contextual: true
 - title: Chicago 23
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1352.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1352.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
     height: 60
@@ -273,7 +275,7 @@ works:
   sold: false
   contextual: true
 - title: Chicago 22
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1353.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1353.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
     height: 72
@@ -284,7 +286,7 @@ works:
   sold: false
   contextual: true
 - title: New York 4
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1355.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1355.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
     height: 72
