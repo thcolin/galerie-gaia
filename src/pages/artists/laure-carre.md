@@ -139,7 +139,8 @@ biography: |-
 exhibitions: []
 works:
 - title: Triptyque Autoportrait
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-triptyque-Autoportrait.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
+    LAURE.jpeg
   technique: 'Huile sur toile '
   fields: []
   styles: []
