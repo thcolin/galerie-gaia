@@ -11,6 +11,32 @@ biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEG
   JAFFE GAROUSTE "
 exhibitions: []
 works:
+- title: 'Hervé Di Rosa - Le promeneur '
+  technique: Eau forte 48/60 1987
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 56
+    width: 76
+    depth: 0
+  description: "# Hervé Di Rosa"
+  price: 1600
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-di-rosa-eau-forte-__le-promeneur__.jpg
+- title: " Hervé Di Rosa - Le Pêcheur "
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/herve-di-rosa-le-pecheur-2960.jpg
+  technique: Aquatinte, eau forte 29/60 encadrée baguette chêne
+  dimensions:
+    height: 125
+    width: 87
+    depth: 
+  description: "# Hervé Di Rosa"
+  price: 1600
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: 'Buraglio - "A Jean-Jacques Rousseau" '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buraglio-a-jean-jacques-rousseau-212.jpg
   technique: Epreuve pigmentaire 2/12 2019
@@ -123,32 +149,6 @@ works:
   description: "# Eloïse Van Der Heyden"
   price: 900
   contextual: true
-- title: 'Hervé Di Rosa - Le promeneur '
-  technique: Eau forte 48/60 1987
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 56
-    width: 76
-    depth: 0
-  description: "# Hervé Di Rosa"
-  price: 1600
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-di-rosa-eau-forte-__le-promeneur__.jpg
-- title: " Hervé Di Rosa - Le Pêcheur "
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/herve-di-rosa-le-pecheur-2960.jpg
-  technique: Aquatinte, eau forte 29/60 encadrée baguette chêne
-  dimensions:
-    height: 125
-    width: 87
-    depth: 
-  description: "# Hervé Di Rosa"
-  price: 1600
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Jean Messagier - Les porteurs de presqu'île
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/messagier-les-porteurs-de-presquile.jpg
   technique: 'Pointe sèche et aquatinte Epreuve d''artiste 1966 '
