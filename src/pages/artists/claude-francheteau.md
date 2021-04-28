@@ -32,7 +32,7 @@ exhibitions:
   end: 
 works:
 - title: Ciel 087
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciels-087-20x20.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciels-087-20x20.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -40,11 +40,11 @@ works:
     height: 20
     width: 20
     depth: 0
-  description: ''
-  price: 250
+  description: Réservé
+  price: ''
   contextual: true
 - title: CIEL 2067
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ciel-2067.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ciel-2067.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 80
@@ -55,7 +55,7 @@ works:
   sold: false
   contextual: true
 - title: Ciel 2059
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 50
@@ -65,7 +65,7 @@ works:
   price: 750
   contextual: true
 - title: Ciel 2009
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2009-38x48.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2009-38x48.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 38
@@ -75,7 +75,7 @@ works:
   price: 680
   contextual: true
 - title: Ciel 190
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-190-100x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-190-100x50.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 100
@@ -85,7 +85,7 @@ works:
   price: 1500
   contextual: true
 - title: Ciel 149
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-149-48x68.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-149-48x68.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 68
@@ -95,7 +95,7 @@ works:
   price: 1000
   contextual: true
 - title: Ciel 116
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-116-100x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-116-100x50.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 100
@@ -105,7 +105,7 @@ works:
   price: 1500
   contextual: true
 - title: Ciel 004
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-004-50x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-004-50x50.jpg
   dimensions:
     height: 50
     width: 50
@@ -115,7 +115,7 @@ works:
   contextual: true
   technique: Acrylique sur toile
 - title: Ciel 2070
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Francheteau_Ciel2070(2018)_30x30.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Francheteau_Ciel2070(2018)_30x30.jpg
   technique: 'Acrylique sur toile '
   dimensions:
     height: 30
@@ -124,7 +124,7 @@ works:
   price: 400
   contextual: true
 - title: Ciel 2042
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Francheteau_Ciel2042(2016)_20x30.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Francheteau_Ciel2042(2016)_20x30.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 20
@@ -133,7 +133,7 @@ works:
   price: 380
   contextual: true
 - title: Ciel 2023
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Francheteau_Ciel2023(2016)_20x20.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Francheteau_Ciel2023(2016)_20x20.jpg
   technique: 'Acrylique qur toile '
   dimensions:
     height: 20
@@ -142,7 +142,7 @@ works:
   price: 280
   contextual: true
 - title: Ciel 2005
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/937.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/937.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 20
@@ -153,7 +153,8 @@ works:
   sold: false
   contextual: true
 - title: Portrait de Claude Francheteau
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-claude francheteau- portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-claude
+    francheteau- portrait.jpg
   dimensions:
     height: 0
     width: 0
