@@ -13,14 +13,23 @@ const Contextual = ({ work, ...props }) => {
     high: {
       height: [1, 200],
       width: [1, 300],
-      ratio: 510, // (width of the picture in cm)
-      margin: `5% 0 29%`,
+      style: {
+        width: '100%',
+        padding: '0% 36% 0% 14%',
+        margin: `7% 0% 25%`,
+        '>span': {
+          height: 'auto',
+          width: `${((work.dimensions.width / 235) * 100)}%`,
+        },
+      },
     },
     small: {
       height: [1, 70],
       width: [1, 100],
-      ratio: 100,
-      margin: `${35 - (30 * (work.dimensions.height / 70))}% 0 70%`,
+      style: {
+        width: `${((work.dimensions.width / 100) * 100)}%`,
+        margin: `${35 - (30 * (work.dimensions.height / 70))}% 0 70%`,
+      },
     },
   }
 
@@ -64,10 +73,9 @@ const Contextual = ({ work, ...props }) => {
             <div css={Contextual.styles.wall}>
               <Image src={`https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/assets-wall-${key}.jpg`} rel="preload" />
               <div
-                css={Contextual.styles.work}
-                style={{
-                  width: `${((work.dimensions.width / size.ratio) * 100)}%`,
-                  margin: size.margin,
+                css={{
+                  ...Contextual.styles.work,
+                  ...size.style
                 }}
               >
                 <Image src={work.image} />
