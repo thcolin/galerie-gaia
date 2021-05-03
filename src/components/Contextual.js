@@ -16,7 +16,7 @@ const Contextual = ({ work, ...props }) => {
       style: {
         width: '100%',
         padding: '0% 36% 0% 14%',
-        margin: `7% 0% 25%`,
+        margin: `9% 0% 23%`,
         '>span': {
           height: 'auto',
           width: `${((work.dimensions.width / 235) * 100)}%`,
@@ -54,7 +54,7 @@ const Contextual = ({ work, ...props }) => {
     <div {...props}>
       <button onClick={() => setOpen(true)}>
         <Icon children="couch" style={{ margin: '0 0.5rem 0 0' }} />
-        Voir le rapport d’échelle
+        Voir l'oeuvre au mur
       </button>
       <div
         css={{
