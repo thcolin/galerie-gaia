@@ -25,11 +25,24 @@ works:
   dimensions:
     height: 64.2
     width: 49.2
-    depth: 0
-  price: 500
+    depth: 
+  price: 600
   sold: false
   contextual: true
   description: '1997 Atelier Buyse Lille '
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Viallat_Sans(rond28:60)_69x69-01.jpg
+  technique: Lithographie 28/60
+  fields: []
+  styles: []
+  dimensions:
+    height: 69
+    width: 69
+    depth: 0
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
 - title: Sans - fond vert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-vert.jpg
   technique: Sérigraphie 3/3 sur papier Canson vert
@@ -38,7 +51,7 @@ works:
   dimensions:
     height: 94.5
     width: 65
-    depth: 0
+    depth: 
   description: "# Claude Viallat Edition Putman"
   price: 1500
   sold: false
@@ -51,7 +64,7 @@ works:
   dimensions:
     height: 94.5
     width: 65
-    depth: 0
+    depth: 
   description: "# Claude Viallat Edition Putman"
   price: 1500
   sold: false
