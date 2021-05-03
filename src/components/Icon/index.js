@@ -1,5 +1,6 @@
 import Menu from './Menu'
 import Arrow from './Arrow'
+import Eye from './Eye'
 import Close from './Close'
 import Instagram from './Instagram'
 import Facebook from './Facebook'
@@ -20,6 +21,7 @@ import Palette from './Palette'
 const icons = {
   menu: Menu,
   arrow: Arrow,
+  eye: Eye,
   close: Close,
   instagram: Instagram,
   facebook: Facebook,

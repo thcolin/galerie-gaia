@@ -53,7 +53,7 @@ const Contextual = ({ work, ...props }) => {
   return (
     <div {...props}>
       <button onClick={() => setOpen(true)}>
-        <Icon children="couch" style={{ margin: '0 0.5rem 0 0' }} />
+        <Icon children="eye" style={{ margin: '0 0.5rem 0 0' }} />
         Voir l'oeuvre au mur
       </button>
       <div
