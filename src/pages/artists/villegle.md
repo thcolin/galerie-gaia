@@ -51,10 +51,10 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 70
+    width: 50
     depth: 
-  description: Planche signée mail en bas droite 1989
+  description: Planche signée main en bas droite 1989
   price: 800
   sold: false
   contextual: true
