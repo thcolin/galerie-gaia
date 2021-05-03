@@ -10,6 +10,7 @@ artists:
 - artist: src/pages/artists/the-blind.md
 - artist: src/pages/artists/brigitte-marionneau.md
 - artist: src/pages/artists/tangui-robert.md
+- artist: src/pages/artists/villegle.md
 - artist: src/pages/artists/aline.md
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/isthme.md
@@ -32,7 +33,6 @@ artists:
 - artist: src/pages/artists/sebastien-bouchard.md
 - artist: src/pages/artists/muriel-kerba.md
 - artist: src/pages/artists/philippe-lecomte.md
-- artist: src/pages/artists/frederique-tristant.md
 - artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/bram-van-velde.md
 - artist: src/pages/artists/boris-jakobek.md

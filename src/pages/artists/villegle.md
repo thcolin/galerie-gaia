@@ -13,7 +13,7 @@ title: Villeglé Jacques
 location: ''
 birth: "1926"
 death: ''
-expose: false
+expose: true
 biography: '# [Jacques Villeglé](https://www.moma.org/artists/6163 "jacques villéglé
   villglé")'
 works:
@@ -25,7 +25,7 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 0
+    depth: 
   description: Planche signée mail en bas droite 1989
   price: 800
   sold: false
@@ -37,7 +37,7 @@ works:
   dimensions:
     height: 35
     width: 26
-    depth: 0
+    depth: 
   description: "Œuvre encadrée baguette bois noir et verre antireflet   \nFormat encadrée
     29X38"
   price: 500
@@ -51,9 +51,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Planche signée mail en bas droite 1989
   price: 800
   sold: false
