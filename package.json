@@ -55,7 +55,7 @@
     "babel-preset-gatsby": "^1.1.0",
     "eslint": "^7.25.0",
     "gatsby-plugin-manifest": "^3.3.0",
-    "gray-matter": "^4.0.2",
+    "gray-matter": "^4.0.3",
     "snazzy": "^9.0.0",
     "standardx": "^7.0.0"
   },
