@@ -78,38 +78,42 @@ works:
 
     Oeuvre encadrée verre musée antireflet
   price: 250
-  contextual: true
-- title: Lièvres émaillés Marianne Abergel
+  contextual: false
+- title: Chimère Marianne Abergel Cube plié brûlé DAHA
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-abergel.jpg
-  technique: Grés émaillé
+  technique: Grés émaillé sur cube plié brûlé
   fields:
   - Céramique
+  - Design
   styles:
   - Figuratif
   dimensions:
     height: 15
     width: 9
     depth: 6
-  description: '# [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/
-    "https://galeriegaia.fr/artists/marianne-abergel/")'
-  price: 300
+  description: |-
+    # [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/ "https://galeriegaia.fr/artists/marianne-abergel/")
+
+    # [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")
+  price: 650
   contextual: false
 - title: Little wood trash par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019110903-LittleWoodTrash-105x70cm-atelier.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-1.jpg
   technique: 'Mixte sur papier '
   fields:
   - Peinture
   styles:
   - Figuratif
   dimensions:
-    height: 105
-    width: 70
+    height: 115
+    width: 80
     depth: 0
-  description: "# [Toma L](https://galeriegaia.fr/artists/toma-l/ \"toma labarthe
-    \")\n\n2019 prix sur demande "
+  description: |-
+    # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
+
+    prix sur demande
   price: ''
-  contextual: true
+  contextual: false
 - title: Pierre Buraglio
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Pierre-Buraglio.jpg
   technique: ''
@@ -124,8 +128,8 @@ works:
   description: '# [Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
   price: 700
   contextual: true
-- title: Primitive N°1 de Pierre Tual
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg
+- title: Primitive N°3 de Pierre Tual
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
   technique: Fer recuit
   fields:
   - Sculpture
