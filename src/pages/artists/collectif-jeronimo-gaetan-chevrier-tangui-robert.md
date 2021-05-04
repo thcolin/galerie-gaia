@@ -31,8 +31,20 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
   par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
+- title: Fresque 1 ...
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque
+    1.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Versants Fresque I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png
   technique: 'Peinture sur mur brut '
   dimensions:
     height: 250
@@ -45,7 +57,7 @@ works:
   price: ''
   contextual: false
 - title: Versants fresque II
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
   technique: 'Peinture sur mur brut '
   dimensions:
     height: 500
@@ -55,7 +67,7 @@ works:
   price: ''
   contextual: false
 - title: Strates 32
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg
   technique: Sérigraphie
   dimensions:
     height: 30
@@ -65,7 +77,7 @@ works:
   price: 340
   contextual: true
 - title: Strates 27
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-27-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-27-30x40.jpg
   technique: Sérigraphie
   dimensions:
     height: 30
@@ -75,7 +87,7 @@ works:
   price: 170
   contextual: true
 - title: Strates 16
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-16-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-16-30x40.jpg
   technique: Sérigraphie
   dimensions:
     height: 30
@@ -85,7 +97,7 @@ works:
   price: 170
   contextual: true
 - title: Strates 35
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg
   technique: 'Sérigraphie en 19 exemplaires '
   dimensions:
     height: 40
@@ -95,7 +107,7 @@ works:
   price: 280
   contextual: true
 - title: Strates 36
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-36-30x40cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-36-30x40cm.jpg
   dimensions:
     height: 40
     width: 30
@@ -105,7 +117,7 @@ works:
   contextual: true
   technique: 'Sérigraphie édition en 15 exemplaires '
 - title: Latence 05
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.jpg
   dimensions:
     height: 40
     width: 30
@@ -114,7 +126,7 @@ works:
   price: 120
   contextual: true
 - title: Diptyque Strates 8
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/diptyque-strates-8.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/diptyque-strates-8.jpg
   technique: Sérigraphie 1/1
   dimensions:
     height: 30
@@ -125,7 +137,7 @@ works:
   sold: false
   contextual: true
 - title: Strates 28
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate-28.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate-28.jpg
   technique: Sérigraphie  Edition en 10 exemplaires
   dimensions:
     height: 30
@@ -135,7 +147,8 @@ works:
   sold: false
   contextual: true
 - title: Cimes 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-09 @Versants-cimes1-40x30cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-09
+    @Versants-cimes1-40x30cm.jpg
   technique: Sérigraphie  Edition en 10 exemplaires
   dimensions:
     height: 40
@@ -144,7 +157,8 @@ works:
   price: 280
   contextual: true
 - title: Viçosa I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-15 @Versants-Vicosa.01-40x30cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-15
+    @Versants-Vicosa.01-40x30cm.jpg
   technique: Sérigraphie Edition en 15 exemplaires
   dimensions:
     height: 40
@@ -155,7 +169,8 @@ works:
   sold: true
   contextual: false
 - title: Viçosa II
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-16 @Versants-Vicosa.02-40x30cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-16
+    @Versants-Vicosa.02-40x30cm.jpg
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -166,7 +181,8 @@ works:
   sold: false
   contextual: true
 - title: Viçosa IV
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-18 @Versants-Vicosa.04-40x30cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-18
+    @Versants-Vicosa.04-40x30cm.jpg
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -177,7 +193,8 @@ works:
   sold: false
   contextual: true
 - title: Viçosa V
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-19 @Versants-Vicosa.05-40x30cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-19
+    @Versants-Vicosa.05-40x30cm.jpg
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -188,7 +205,8 @@ works:
   sold: false
   contextual: true
 - title: Viçosa VI
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-20 @Versants-Vicosa.06-40x30cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-20
+    @Versants-Vicosa.06-40x30cm.jpg
   technique: Sérigraphie
   dimensions:
     height: 40
@@ -198,7 +216,8 @@ works:
   sold: false
   contextual: false
 - title: Viçosa VII
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-21 @Versants-Vicosa.07-70x100cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-21
+    @Versants-Vicosa.07-70x100cm.jpg
   technique: Sérigraphie
   dimensions:
     height: 70
@@ -207,7 +226,8 @@ works:
   price: 620
   contextual: true
 - title: 'Gisement I '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-10 @Versants-Gisement.01-29.7x21cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-10
+    @Versants-Gisement.01-29.7x21cm.jpg
   technique: Sérigraphie Edition en 17 exemplaires
   dimensions:
     height: 30
@@ -216,7 +236,7 @@ works:
   price: 160
   contextual: true
 - title: Gisements III
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gisements-3.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gisements-3.jpg
   technique: Sérigraphie
   dimensions:
     height: 20
@@ -227,7 +247,8 @@ works:
   sold: false
   contextual: true
 - title: Gisement V
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-11 @Versants-gisement.04-29.7x21cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@Seuil-11
+    @Versants-gisement.04-29.7x21cm.jpg
   technique: Sérigraphie Edition en 14 exemplaires
   dimensions:
     height: 30
@@ -236,7 +257,7 @@ works:
   price: 160
   contextual: true
 - title: Versants 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Versants-Versants.01-50x70cm.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Versants-Versants.01-50x70cm.jpg
   technique: 'Sérigraphie '
   dimensions:
     height: 50
@@ -245,7 +266,7 @@ works:
   price: 420
   contextual: true
 - title: 'Fresque murale à l''Atelier Nantes '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/installation-murale.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/installation-murale.jpg
   technique: ''
   dimensions:
     height: 
@@ -257,7 +278,7 @@ works:
   sold: false
   contextual: true
 - title: Gaïa
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/serigraphie-pour-gaia.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/serigraphie-pour-gaia.jpg
   technique: 'Sérigraphie en 20 exemplaires '
   dimensions:
     height: 70
