@@ -199,8 +199,9 @@ works:
   - Oeuvre sur papier
   styles:
   - abstrait
-- title: Feutre et acrylique  de Françoise Paressant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-A:F-50X50-005.jpg
+- title: 'Les Vacances par Isabelle Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les
+    vacances.jpg
   technique: 'Acrylique sur feutre '
   dimensions:
     height: 40
