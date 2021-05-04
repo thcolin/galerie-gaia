@@ -143,19 +143,6 @@ works:
     Tual")'
   price: 2500
   contextual: false
-- title: 'Buran de Dimitri Bourriau '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg
-  technique: 'photographie '
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: '# [Dimitri Bourriau](https://galeriegaia.fr/artists/dimitri-bourriau/
-    "dimitri bourriau")'
-  price: ''
-  contextual: true
-  fields:
-  - Photographie
 - title: Lit de camp de Marie Bathellier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
   dimensions:
@@ -170,22 +157,6 @@ works:
   - Design
   styles:
   - Abstrait
-- title: Contenir le vent 9-XI de Brigitte Marionneau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir
-    le vent 9-XI, 2021,.h.18x15x16cm.jpg
-  technique: 'Terre enfumée '
-  dimensions:
-    height: 18
-    width: 15
-    depth: 16
-  description: '# [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
-    "Brigitte Marionneau")'
-  price: 2200
-  contextual: false
-  fields:
-  - Céramique
-  styles:
-  - abstrait
 - title: Pierre Muckensturm Jacqueline Pecantet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pecantet-muckensturm.jpg
   dimensions:
@@ -249,7 +220,8 @@ works:
   styles:
   - Figuratif
 - title: Fresque Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque
+    1.jpg
   technique: Sérigraphie
   dimensions:
     height: 70
