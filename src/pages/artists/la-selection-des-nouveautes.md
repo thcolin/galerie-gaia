@@ -80,7 +80,7 @@ works:
   price: 250
   contextual: true
 - title: Lièvres émaillés Marianne Abergel
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-3-lièvres-céladon-2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-abergel.jpg
   technique: Grés émaillé
   fields:
   - Céramique
