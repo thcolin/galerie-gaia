@@ -62,7 +62,7 @@ works:
   - Fresque
 - title: Versants fresque II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
-  technique: 'Peinture sur mur brut '
+  technique: 'Fresque sur mur brut '
   dimensions:
     height: 500
     width: 400
@@ -70,6 +70,8 @@ works:
   description: Commande promotion immobilière - visible sur rendez-vous
   price: ''
   contextual: false
+  fields:
+  - Fresque
 - title: Strates 32
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg
   technique: Sérigraphie

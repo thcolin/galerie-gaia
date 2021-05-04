@@ -49,6 +49,17 @@ biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après
   changement des  évènements « .  \ntiré du livre de Baghavad-Gita"
 exhibitions: []
 works:
+- title: Les vacances
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
+  technique: 'Bronze N° 7/8 '
+  dimensions:
+    height: 16
+    width: 43
+    depth: 5
+  description: " Fonderie Barthélémy Crest (26)"
+  price: 3800
+  sold: false
+  contextual: false
 - title: Confluence
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_healy_confluence_73x58.jpg
   technique: Bronze Epreuve d'Artiste EA I/IV
@@ -108,26 +119,6 @@ works:
   description: Fonderie Barthélémy Crest (26)
   price: 1950
   contextual: true
-- title: Les Albatros
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-albatros.jpg
-  technique: Bronze
-  dimensions:
-    height: 50
-    width: 43
-    depth: 14
-  description: '"Souvent, pour s''amuser, les hommes d''équipage prennent des albatros,
-    vastes oiseaux des mers, qui suivent, indolents compagnons de voyage, le navire
-    glissant sur ls gouffres amers. A peine les ont-ils déposés sur les planches,
-    que ces rois de l''azur, maladroits et honteux, laissent piteusement leurs grandes
-    ailes blanches comme des avirons traîner à côté d''eux. Ce voyageur ailé, comme
-    il est gauche et veule ! Lui, naguère si beau, qu''il est comique et laid ! L''un
-    agace son bec avec un brûle-gueule, L''autre mime en boitant, l''infirme qui volait
-    ! Le Poète est semblable au prince nuées qui hante la tempête et se rit de l''arche;
-    exilé sur le sol au milieu des huées, ses ailes de géant l''empêchent de marcher."
-    - "L''Albatros" de Charles Beaudelaire'
-  price: 5500
-  sold: false
-  contextual: false
 - title: Le mythe de Sisyphe - détail
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png
   technique: 'Bronze 8 exemplaires '
@@ -162,28 +153,6 @@ works:
     les entreprises acquisition possible en [leasing ou défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
     \"lesaing defiscalisation\")"
   price: 5700
-  sold: false
-  contextual: false
-- title: Anouck
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anouck.jpg
-  technique: Bronze
-  dimensions:
-    height: 11
-    width: 12
-    depth: 5
-  description: EA II/IV
-  price: 2600
-  sold: false
-  contextual: false
-- title: Les vacances
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: 'Bronze N° 7/8 '
-  dimensions:
-    height: 16
-    width: 43
-    depth: 5
-  description: " Fonderie Barthélémy Crest (26)"
-  price: 3500
   sold: false
   contextual: false
 - title: La sphère des possibles
