@@ -80,8 +80,9 @@ works:
   price: 250
   contextual: false
 - title: Chimère Marianne Abergel Cube plié brûlé DAHA
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-abergel.jpg
-  technique: Grés émaillé sur cube plié brûlé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-cube
+    plié-abergel.jpg
+  technique: Grés émaillé par Marianne Abergel sur cube plié brûlé DAHA
   fields:
   - Céramique
   - Design
@@ -157,8 +158,8 @@ works:
   - Design
   styles:
   - Abstrait
-- title: Pierre Muckensturm Jacqueline Pecantet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pecantet-muckensturm.jpg
+- title: Pierre Muckensturm et Jacqueline Pecantet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muckensturm-pecantet.jpg
   dimensions:
     height: 70
     width: 50
@@ -167,7 +168,7 @@ works:
     "PIERRE MUCKENSTURM")'
   price: 450
   contextual: true
-  technique: 'Estampe et grès '
+  technique: Estampe Muckensturm et grès Jacqueline Pecantet
   fields:
   - Oeuvre sur papier
   - Faience
