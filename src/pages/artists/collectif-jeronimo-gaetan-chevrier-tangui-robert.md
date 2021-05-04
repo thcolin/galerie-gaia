@@ -32,30 +32,34 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
 exhibitions: []
 works:
 - title: Fresque 1 ...
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque
-    1.jpg
-  fields: []
-  styles: []
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
+  fields:
+  - Fresque
+  styles:
+  - Abstrait
   dimensions:
     height: 0
     width: 0
     depth: 0
   description: ''
-  price: 0
+  price: ''
   contextual: true
+  technique: Fresque mural projet personnalisable pour professionnel et particulier
 - title: Versants Fresque I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png
-  technique: 'Peinture sur mur brut '
+  technique: 'Fresque murale '
   dimensions:
     height: 250
     width: 500
     depth: 0
-  description: "Fresque réalisée sur commande pour une cour intérieur.  \nVisible
+  description: "Fresque réalisée sur commande pour une cour intérieure  \nVisible
     sur rendez-vous  \n[Interview ](https://www.youtube.com/watch?v=DxkvbjnGL4E \"interview
     galerie gaia jerome maillet tangui robert gaetan chevrier\")Décadrée de Versants
     par la Galerie Gaïa"
   price: ''
   contextual: false
+  fields:
+  - Fresque
 - title: Versants fresque II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
   technique: 'Peinture sur mur brut '
