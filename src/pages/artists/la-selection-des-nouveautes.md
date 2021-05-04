@@ -21,9 +21,8 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Triptyque Autoportrait
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
-    LAURE.jpeg
+- title: 'Autoportrait Laure Carré  '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre.jpg
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -31,11 +30,9 @@ works:
     height: 160
     width: 130
     depth: 0
-  description: |-
-    # [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure carre")
-
-    Triptyque 13 000€ ou à l'unité 5000€
-  price: 13000
+  description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
+    carre")'
+  price: 5000
   contextual: false
 - title: 'Sérigraphie Valérie Le Roux '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
@@ -66,7 +63,7 @@ works:
   price: 800
   contextual: true
 - title: Iris de Dimitri Roubichou
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-abergel.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '
   fields:
   - Photographie
