@@ -212,29 +212,37 @@ works:
   fields: []
   styles:
   - abstrait
-- title: Oeuf Posé - GO SEGAWA
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf
-    posé.png
-  technique: 'Sérigraphie /50 '
+- title: Alain Clement Morellet The Blind
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-blind-clement-morellet.jpg
+  technique: Estampe
   dimensions:
     height: 5.6
     width: 5.6
     depth: 9
-  description: '# [Go Segawa](https://galeriegaia.fr/artists/go-segawa/ "Go Segawa")'
-  price: 120
+  description: "# [The Blind]() Morellet Clement"
+  price: ''
   sold: false
-  contextual: true
-- title: Jardin des plantes par Tangui Robert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg
-  technique: Gravure sur zinc et piquetage photos
+  contextual: false
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
+  - Figuratif
+- title: Vague Hurlante Franco Salas Borques
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-farnco-salas-borques.jpg
+  technique: 'Huile sur toile '
   dimensions:
     height: 40
-    width: 50
-    depth: 0
-  description: '# [Tangui Robert](https://galeriegaia.fr/artists/tangui-robert/ "Tangui
-    robert")'
-  price: 450
-  contextual: true
+    width: 81
+    depth: 130
+  description: '# [Franco Salas Borques](https://galeriegaia.fr/artists/franco-salas-borquez/
+    "franco salas borques")'
+  price: 3200
+  contextual: false
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
 - title: Fresque Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque.jpg
   technique: Sérigraphie
