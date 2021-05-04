@@ -41,18 +41,6 @@ works:
   description: "2020"
   price: 750
   contextual: true
-- title: Ciel 087
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciels-087-20x20.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: Réservé
-  price: ''
-  contextual: true
 - title: CIEL 2067
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ciel-2067.jpg
   technique: Acrylique sur toile
