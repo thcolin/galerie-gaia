@@ -184,35 +184,37 @@ works:
   - Céramique
   styles:
   - abstrait
-- title: Algue  de Muriel Kerba
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MURIEL-KERBA_algue.petrole_70x50.jpg
+- title: Pierre Muckensturm Jacqueline Pecantet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pecantet-muckensturm.jpg
   dimensions:
     height: 70
     width: 50
     depth: 0
-  description: '# [Muriel Kerba](https://galeriegaia.fr/artists/muriel-kerba/ "Muriel
-    Kerba")'
-  price: 700
+  description: '# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
+    "PIERRE MUCKENSTURM")'
+  price: 450
   contextual: true
-  technique: monotype en sérigraphie sur papier Fabriano 285g (70 x 50)
+  technique: 'Estampe et grès '
   fields:
   - Oeuvre sur papier
+  - Faience
   styles:
   - abstrait
 - title: 'Les Vacances par Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les
     vacances.jpg
-  technique: 'Acrylique sur feutre '
+  technique: Bronze 7/9
   dimensions:
     height: 40
     width: 40
-  description: '# [Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
-    "Francoise Paressant")'
-  price: ''
-  contextual: true
-  fields: []
+  description: '# [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
+    "isabelle healy") '
+  price: 3800
+  contextual: false
+  fields:
+  - Sculpture
   styles:
-  - abstrait
+  - Figuratif
 - title: Alain Clement Morellet The Blind
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-blind-clement-morellet.jpg
   technique: Estampe
