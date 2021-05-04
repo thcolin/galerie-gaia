@@ -157,17 +157,19 @@ works:
   fields:
   - Photographie
 - title: Lit de camp de Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900€.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 43
+    width: 70
+    depth: 188
   description: "# [Marie Bathellier]()"
-  price: ''
+  price: 900
   contextual: false
-  technique: Technique mixte sur carton partiellement  pyrogravé
+  technique: Acryliquye sur bâche
   fields:
-  - Oeuvre sur papier
+  - Design
+  styles:
+  - Abstrait
 - title: Contenir le vent 9-XI de Brigitte Marionneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-contenir
     le vent 9-XI, 2021,.h.18x15x16cm.jpg
