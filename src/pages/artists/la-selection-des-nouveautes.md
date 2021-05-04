@@ -164,9 +164,10 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: '# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
-    "PIERRE MUCKENSTURM")'
-  price: 450
+  description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
+    \"PIERRE MUCKENSTURM\")\n\n## [Jacqueline Pecantet](https://galeriegaia.fr/artists/jacqueline-pecantet/
+    \"pecantet\") "
+  price: ''
   contextual: true
   technique: Estampe Muckensturm et grès Jacqueline Pecantet
   fields:
@@ -206,7 +207,8 @@ works:
   - Abstrait
   - Figuratif
 - title: Vague Hurlante Franco Salas Borques
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-farnco-salas-borques.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
+    cap.jpg
   technique: 'Huile sur toile '
   dimensions:
     height: 40
@@ -221,16 +223,15 @@ works:
   styles:
   - Figuratif
 - title: Fresque Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque
-    1.jpg
-  technique: Sérigraphie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
+  technique: Fresque mural projet personnalisable
   dimensions:
     height: 70
     width: 50
     depth: 
   description: '# [Jeronimo Tangui Robert Gaetan Chevrier](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
     "collectif seuil")'
-  price: 170
+  price: ''
   sold: false
   contextual: false
 redirect_from:
