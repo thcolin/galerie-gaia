@@ -235,8 +235,8 @@ works:
     robert")'
   price: 450
   contextual: true
-- title: 'Failles #35 Versants'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg
+- title: Fresque Versants
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque.jpg
   technique: Sérigraphie
   dimensions:
     height: 70
