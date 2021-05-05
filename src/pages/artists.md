@@ -3,11 +3,11 @@ template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/edwin-wide.md
-- artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/the-blind.md
+- artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/brigitte-marionneau.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/villegle.md
@@ -16,10 +16,8 @@ artists:
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/morellet-francois.md
-- artist: src/pages/artists/aline.md
 - artist: src/pages/artists/estampes.md
 - artist: src/pages/artists/pierre-muckensturm.md
-- artist: src/pages/artists/jean-paul-friol.md
 - artist: src/pages/artists/mathilde-guiho.md
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/jorj-morin.md
@@ -36,14 +34,13 @@ artists:
 - artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/bram-van-velde.md
 - artist: src/pages/artists/boris-jakobek.md
+- artist: src/pages/artists/jean-paul-friol.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
 - artist: src/pages/artists/kazy-usclef.md
-- artist: src/pages/artists/virginie-chardon.md
 - artist: src/pages/artists/dimitri-roubichou.md
 - artist: src/pages/artists/anne-gaiss.md
 - artist: src/pages/artists/claude-francheteau.md
 - artist: src/pages/artists/neil-ratnavira.md
-- artist: src/pages/artists/pascal-proust.md
 - artist: src/pages/artists/marie-vandooren.md
 - artist: src/pages/artists/alain-clement.md
 - artist: src/pages/artists/valerie-le-roux.md
@@ -51,6 +48,7 @@ artists:
 - artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/patrick-gueguen.md
+- artist: src/pages/artists/virginie-chardon.md
 - artist: src/pages/artists/xavier-jallais.md
 - artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/jean-claude-breat.md
