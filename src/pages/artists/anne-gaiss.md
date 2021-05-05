@@ -85,17 +85,15 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: 'Nigredo '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Gais_titre_format(HxL)-
-    01.jpg
-  technique: Incision au scalpel sur papier noir Moulin de la Roque
+- title: Nigredo 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_nigredo.1_60X76.jpg
+  technique: Encre de chine découpe et incision sur papier indien
   dimensions:
-    height: 68
+    height: 76
     width: 50
     depth: 
-  description: "Encadrement baguette aluminium Nielsen noir mat  \nœuvre posée en
-    rehausse sur fond et verre musée."
-  price: ''
+  description: 'Œuvre encadrée '
+  price: 3200
   sold: false
   contextual: false
 - title: Animus Anima 4
