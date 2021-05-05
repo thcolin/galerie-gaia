@@ -29,8 +29,35 @@ biography: |-
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
+- title: Cube plié Or
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damie-hamon-daha-cube
+    huilé.jpg
+  technique: Cube en chêne massif et feuille d'or
+  dimensions:
+    height: 39
+    width: 29
+    depth: 29
+  description: "Conçu comme une stèle, un tabouret, un chevet si on l'empile il devient
+    brancusien ....à l'infini   \nPersonnellement je l'aime pour ce qu'il est"
+  price: 850
+  sold: false
+  contextual: false
+- title: Cube plié brûlé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-cube
+    plié-abergel.jpg
+  technique: Chêne brûlé
+  fields: []
+  styles: []
+  dimensions:
+    height: 39
+    width: 29
+    depth: 29
+  description: Posée sur le cuble Chimère grès [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/
+    "mariane abergel")
+  price: 850
+  contextual: false
 - title: Cube plié chêne brut
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-daha-cube-chene-brut.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-daha-cube-chene-brut.jpg
   technique: 'cube en chêne massif brut '
   fields: []
   styles: []
@@ -42,19 +69,7 @@ works:
   price: 500
   contextual: true
 - title: Cube plié Or
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damie-hamon-daha-cube huilé.jpg"
-  technique: Cube en chêne massif et feuille d'or
-  dimensions:
-    height: 39
-    width: 29
-    depth: 29
-  description: "Conçu comme une stèle, un tabouret, un chevet si on l'empile il devient
-    brancusien ....à l'infini   \nPersonnellement je l'aime pour ce qu'il est"
-  price: 850
-  sold: false
-  contextual: false
-- title: Cube plié Or
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cubes-plies.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cubes-plies.jpg
   technique: bois massif peint
   dimensions:
     height: 28
@@ -66,7 +81,7 @@ works:
   sold: false
   contextual: false
 - title: Fauteuil Ellipse
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fauteuil-ellipse.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fauteuil-ellipse.jpg
   technique: ''
   dimensions:
     height: 
@@ -77,7 +92,7 @@ works:
   sold: false
   contextual: true
 - title: Valet
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valet.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valet.jpg
   technique: chêne massif
   dimensions:
     height: 98
@@ -86,17 +101,6 @@ works:
   description: 'Symbol de l''infini, fonctionnel et esthétique ce valet peut-être
     peint sur demande '
   price: 490
-  sold: false
-  contextual: true
-- title: Console
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/console.jpg"
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "projet de meubles sur mesure \ninformation à la galerie"
-  price: 
   sold: false
   contextual: true
 redirect_from:
