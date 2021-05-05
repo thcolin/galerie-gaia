@@ -32,6 +32,19 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
+- title: Splendor Solis VII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
+  technique: 'Encre de chine découpes et incisions sur feuille de cuivre marouflé
+    sur papier, marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 101
+    width: 69
+    depth: 0
+  description: ''
+  price: 6000
+  contextual: true
 - title: Nigredo IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_nigredo.4_60X76.jpg
   technique: Découpe et incision sur feuille d'argent noire grattée, maroufflée sur
