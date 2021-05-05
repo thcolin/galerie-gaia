@@ -39,8 +39,21 @@ biography: "# Muriel Kerba\n\nAborder le travail de Muriel Kerba relève de la s
   - Lyon\n\n_2018_ Galerie Isabelle Laverny - Paris\n\n_2017_ Carré des créateurs
   - Colombes\n\n_2017_-2016 Journée de l’estampe contemporaine Saint Sulpice - Paris"
 works:
+- title: 'Cellule orange '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-orange_70x50.jpg
+  technique: monotype en sérigraphie sur papier Fabriano 285g
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: 'pièce unique '
+  price: 700
+  sold: false
+  contextual: true
 - title: Noyau jaune sur fond jean
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_noyau-jaune-fond-jean_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_noyau-jaune-fond-jean_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -52,21 +65,8 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Winter is coming
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_winter-is-coming_70x50.jpg"
-  technique: monotype en sérigraphie sur papier Fabriano 285g
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: Réservé
-  price: 700
-  sold: false
-  contextual: true
 - title: 'Ondulation cellulaire '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_ondulation-cellulaire_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_ondulation-cellulaire_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -79,7 +79,7 @@ works:
   sold: false
   contextual: true
 - title: Noyau anthracite coeur bleu
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_noyau-antracite-coeur-bleu_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_noyau-antracite-coeur-bleu_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -92,7 +92,7 @@ works:
   sold: false
   contextual: true
 - title: Citron aborigène
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_citron-aborigene_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_citron-aborigene_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -104,21 +104,8 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: 'Cellule orange '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-orange_70x50.jpg"
-  technique: monotype en sérigraphie sur papier Fabriano 285g
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: 'pièce unique '
-  price: 700
-  sold: false
-  contextual: true
 - title: Cellule chardon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -131,7 +118,7 @@ works:
   sold: false
   contextual: true
 - title: Alvéoles argent
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_alveoles-argent_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_alveoles-argent_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -144,7 +131,7 @@ works:
   sold: false
   contextual: true
 - title: Algue pétrole
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_algue-petrole_70x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_algue-petrole_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -156,6 +143,25 @@ works:
   price: 700
   sold: false
   contextual: true
+- title: Winter is coming
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_winter-is-coming_70x50.jpg
+  technique: monotype en sérigraphie sur papier Fabriano 285g
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: Réservé
+  price: 700
+  sold: false
+  contextual: true
 exhibitions: []
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
