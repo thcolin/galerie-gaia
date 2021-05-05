@@ -32,6 +32,19 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
+- title: Nigredo IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_nigredo.4_60X76.jpg
+  technique: Découpe et incision sur feuille d'argent noire grattée, maroufflée sur
+    feuille de papier indien traditionnel
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 60
+    depth: 0
+  description: Œuvre encadrée
+  price: 3200
+  contextual: true
 - title: Rivage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne
     gaiss - rivage 84X64.jpg
@@ -64,7 +77,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Albedo 1
+- title: Albedo I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_albedo.1
     _60X76.jpg
   technique: Incisions au scalpel sur papier traditionnel indien
@@ -96,7 +109,7 @@ works:
   price: 3200
   sold: false
   contextual: false
-- title: Animus Anima 4
+- title: Animus Anima IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_Animus.anima.4_60X76.JPG
   technique: Incisions au scalpel sur feuille d’argent marouflée sur papier traditionnel
     indien
