@@ -33,7 +33,8 @@ biography: |-
 exhibitions: []
 works:
 - title: Rivage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne gaiss - rivage 84X64.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne
+    gaiss - rivage 84X64.jpg
   technique: 'Papier brut couleur blanche naturelle incision au scalpel '
   dimensions:
     height: 70
@@ -50,9 +51,10 @@ works:
   description: ''
   price: ''
   contextual: true
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne gaiss - empreinte 84X64.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne
+    gaiss - empreinte 84X64.jpg
 - title: Nigredo
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo.jpg
   technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
     height: 68
@@ -62,18 +64,18 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Rubedo
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/RUBEDOV2.jpg"
-  technique: Incisions au scalpel sur feuille de cuivre marouflée sur papier traditionnel
-    indien
+- title: Albedo 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_albedo.1
+    _60X76.jpg
+  technique: Incisions au scalpel sur papier traditionnel indien
   dimensions:
-    height: 50
-    width: 70
-  description: ''
-  price: ''
+    height: 86
+    width: 64
+  description: Œuvre encadrée
+  price: 3200
   contextual: true
 - title: 'Détail de matière '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo-vii.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo-vii.jpg
   technique: Incisions sur feuille de cuivre
   dimensions:
     height: ''
@@ -84,7 +86,8 @@ works:
   sold: false
   contextual: true
 - title: 'Nigredo '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Gais_titre_format(HxL)- 01.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Gais_titre_format(HxL)-
+    01.jpg
   technique: Incision au scalpel sur papier noir Moulin de la Roque
   dimensions:
     height: 68
@@ -95,16 +98,16 @@ works:
   price: ''
   sold: false
   contextual: false
-- title: Animus Anima 9
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AG_2018_Animusanima9_60X76_papierciselé.argent.jpg"
+- title: Animus Anima 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_Animus.anima.4_60X76.JPG
   technique: Incisions au scalpel sur feuille d’argent marouflée sur papier traditionnel
     indien
   dimensions:
-    height: 60
-    width: 76
+    height: 76
+    width: 60
     depth: 
-  description: ''
-  price: ''
+  description: Œuvre encadrée
+  price: 3200
   sold: false
   contextual: true
 redirect_from:
