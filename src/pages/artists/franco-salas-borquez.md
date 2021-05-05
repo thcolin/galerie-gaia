@@ -21,6 +21,29 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Vague hurlante
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague
+    hurlante-130 x 81 2019.jpg
+  description: ''
+  price: 3200
+  dimensions:
+    height: 81
+    width: 130
+  contextual: true
+  technique: 'Huile sur toile '
+- title: Vague hurlante en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
+    cap.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 81
+    width: 130
+    depth: 0
+  description: ''
+  price: 3200
+  contextual: false
 - title: La fraction
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-salas-borques-friction-100x100.JPG
   technique: 'Huile sur toile '
@@ -33,16 +56,6 @@ works:
   description: "2020"
   price: 3200
   contextual: true
-- title: Vague hurlante
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague
-    hurlante-130 x 81 2019.jpg
-  description: ''
-  price: 3200
-  dimensions:
-    height: 81
-    width: 130
-  contextual: true
-  technique: 'Huile sur toile '
 - title: Elément
   technique: 'Huile sur toile '
   dimensions:
