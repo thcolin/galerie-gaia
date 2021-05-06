@@ -116,8 +116,8 @@ works:
     height: 146
     width: 114
     depth: 
-  description: "2019"
-  price: 3200
+  description: '2019 Prix sur demande '
+  price: ''
   sold: false
   contextual: true
 - title: 'Allongée dans l''herbe #10'
@@ -126,8 +126,8 @@ works:
     height: 55
     width: 46
     depth: 0
-  description: "2020"
-  price: 750
+  description: 2020 Prix sur demande
+  price: ''
   contextual: true
   technique: 'Acrylique sur toile '
 - title: 'Allongée dans l''herbe #5'
@@ -137,8 +137,8 @@ works:
     height: 50
     width: 41
     depth: 0
-  description: "2020"
-  price: 750
+  description: 2020 Prix sur demande
+  price: ''
   contextual: true
 - title: 'Allongée dans l''herbe #7'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg
@@ -148,7 +148,7 @@ works:
     width: 41
     depth: 0
   description: ''
-  price: 750
+  price: ''
   contextual: true
 - title: Britany
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_isthme_britany_76x59.jpg
@@ -219,7 +219,7 @@ works:
     height: 146
     width: 114
   description: "2020"
-  price: 3200
+  price: ''
   contextual: true
 - title: 'Cou-Rage #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg
