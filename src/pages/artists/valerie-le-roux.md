@@ -190,18 +190,18 @@ works:
   description: ''
   price: 68
   contextual: false
-- title: Saladier XXL
+- title: Grand plat XXL
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    bol.jpg
+    plat 2.jpg
   fields:
   - Céramique
   styles: []
   dimensions:
-    height: 14
-    width: 27
-    depth: 27
+    height: 5
+    width: 43
+    depth: 43
   description: ''
-  price: 195
+  price: 240
   contextual: false
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
