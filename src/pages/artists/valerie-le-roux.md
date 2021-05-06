@@ -26,6 +26,19 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Grand plat bleu et ocre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    plat 2.jpg
+  technique: Faïence signée main
+  fields: []
+  styles: []
+  dimensions:
+    height: 5
+    width: 43
+    depth: 43
+  description: ''
+  price: 240
+  contextual: false
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
@@ -189,19 +202,6 @@ works:
     depth: 28.5
   description: ''
   price: 68
-  contextual: false
-- title: Grand plat XXL
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat 2.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 5
-    width: 43
-    depth: 43
-  description: ''
-  price: 240
   contextual: false
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
