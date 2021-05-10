@@ -29,6 +29,32 @@ biography: |-
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
+- title: 'Zoom sur cube plié brûlé '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
+    NOIR.jpeg
+  fields: []
+  styles: []
+  dimensions:
+    height: 39
+    width: 29
+    depth: 29
+  description: ''
+  price: 850
+  contextual: false
+  technique: Chêne brûlé
+- title: Cube plié brûlé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cuble
+    plié noir-daha.jpeg
+  technique: Chêne brûlé
+  fields: []
+  styles: []
+  dimensions:
+    height: 39
+    width: 29
+    depth: 29
+  description: ''
+  price: 850
+  contextual: false
 - title: Cube plié Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damie-hamon-daha-cube
     huilé.jpg
