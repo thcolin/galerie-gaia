@@ -68,65 +68,65 @@ biography: |-
 works:
 - title: Very green, very blue G001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
-  technique: Pigments acrylique sur tissage recyclé
+  technique: " Pigments acryliques sur matériau tissé recyclé"
   fields: []
   styles: []
   dimensions:
     height: 50
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 700
   sold: false
   contextual: true
 - title: Very green, very blue G003
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3514.jpg
-  technique: Pigments acrylique sur tissage recyclé
+  technique: Pigments acryliques sur matériau tissé recyclé
   fields: []
   styles: []
   dimensions:
     height: 50
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 700
   sold: false
   contextual: false
 - title: Very green, very blue G002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3511.jpg
-  technique: Pigments acrylique sur tissage recyclé
+  technique: Pigments acryliques sur matériau tissé recyclé
   fields: []
   styles: []
   dimensions:
     height: 
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 700
   sold: false
   contextual: false
 - title: Very green, very blue P003
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-03.jpg
-  technique: Pigments acrylique sur tissage recyclé
+  technique: Pigments acryliques sur matériau tissé recyclé
   fields: []
   styles: []
   dimensions:
     height: 48
     width: 35
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
   contextual: true
 - title: Very green, very blue P002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-02.jpg
-  technique: ''
+  technique: Pigments acryliques sur matériau tissé recyclé
   fields: []
   styles: []
   dimensions:
     height: 48
     width: 32
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -139,7 +139,7 @@ works:
   dimensions:
     height: 48
     width: 32
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
