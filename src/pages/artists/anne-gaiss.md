@@ -147,6 +147,17 @@ works:
   price: 3200
   sold: false
   contextual: true
+- title: Portrait Anne Gaiss
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-anne-gaiss-portrait.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 redirect_from:
 - "/artistes/87-anne-gaiss/"
 styles:

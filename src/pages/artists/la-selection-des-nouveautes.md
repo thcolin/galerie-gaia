@@ -34,6 +34,19 @@ works:
     carre")'
   price: 5000
   contextual: false
+- title: Oracle XI par Anne Gaiss
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
+  technique: 'Huiles, Feutres et incisions sur feuille de cuivre marouflée sur papier
+    traditionnel indien '
+  fields: []
+  styles: []
+  dimensions:
+    height: 74
+    width: 64
+    depth: 0
+  description: '# [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/ "anne gaiss")'
+  price: 3200
+  contextual: true
 - title: 'Sérigraphie Valérie Le Roux '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
