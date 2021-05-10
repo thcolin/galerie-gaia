@@ -7,64 +7,70 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: |-
-  > # Marie Bathellier
-
-  > Série Very blue, very green :
-  >
-  > " Very blue, very green" est le titre d’ une chanson de Nick Waterhouse. Il ne m’ en voudra pas de le lui emprunter.
-  >
-  > La collecte de matériaux est au cœur de ma pratique. Elle invite curiosité, nouvelles explorations et renouvellement permanent.
-  >
-  > Les fins liens tissés de ces anciens sacs de pêche m’ ont évoqués les liens qui relient la pratique artistique à la nature. J’ aime les trames et les tissages, les dessous - dessus, les devant - derrière.
-  >
-  > Leur transparence m’ ont invité à utiliser les deux faces du matériau, jouant ainsi avec la traversée partielle de la couleur. Plusieurs plans se juxtaposent ainsi et une profondeur se crée.
-  >
-  > La nature est le thème de cette nouvelle série qui emprunte à Joan Mitchell une écriture abstraite, débridée et heureuse.
-  >
-  > Invitation à s’ enf ( o ) uir dans le végétal et l’ aquatique pour y puiser réconfort et énergie.
-  >
-  > Nature bouillonnante, jaillissante, sauvage. Couleurs pigmentaires qui sondent la fraicheur de l’ eau, des ombres végétales, de la terre, de l’ air.
-  >
-  > Régulièrement, je m’ échappe randonner et part à la rencontre de sensations.
-  >
-  > Voyages initiatiques et inspirants, riches d’ observations, d’ émotions et d’ empreintes de temps et paysages traversés.
-  >
-  > En peinture comme au cœur de la nature, les sens sont connectés et exacerbés. L’ exercice en plein air permet d’ absorber force et formes nouvelles, coloramas infinis et poésie.
-  >
-  > Cette série est arrivée sans idée pré conçues, comme une réminiscence de sensations au charme primitif, revitalisant.
-  >
-  > Surprises dans la découverte de nouveaux paysages, de sensations nouvelles, surprises dans la recherche d’ une nouvelle écriture picturale.
-  >
-  > À la hauteur de la liberté et la joie qui accompagnent mes jours d’ escapades en montagne, mer et campagne, il fallait recherché une vigueur expéditive, une désinvolture joyeuse qui, bien - sûr, déborde du cadre.
-  >
-  > Texte de Marie Bathellier Avril 2021
-  >
-  > Marie Veyron Bathellier débute son parcours d’études supérieures par les Beaux-Arts à Rennes, suivi d’une année à l’Académie d’Arts de Wroclaw en Pologne, pour terminer par la Faculté d’Arts plastiques de la Sorbonne à Paris.
-  >
-  > Depuis 2003, chaque atelier se situe en pleine nature : île d’Yeu où elle vit, mais aussi à la campagne et en montagne . De ce voisinage avec le vivant est né une façon de travailler : instinctive , expérimentale et minimale et poétique. Marie Bathelier travaille par cycles, oscille entre plusieurs disciplines sans distinction de valeur peinture, sculpture, installations.
-  >
-  > C’est dans la nature sauvage et le jardin que l’artiste puise force, formes et matériaux. Collectionner, photographier et prendre des notes enrichissent sa démarche.
-
-  > Cet état de contemplation, d’accueil et de déclics renouvelle en permanence son travail.
-  >
-  > Sur de grandes toiles et séries de petits formats de cartons qu’elle recycle, l’artiste agence des formes abstraites et minimales. Le principe de ces imbrications entraîne un dialogue entre espaces, couleurs et textures. Marie Bathellier sublime ses aplats pigmentaires mates, transparents, irisés ou pailletés en y ajoutant argile, sable ou poudre de roche. L’ oeil s’ amuse des formes entrant en relations, des jeux de matières caressés par la lumière et se baigne dans des coloramas doux et puissants.
-
-  > Sculptures en bois brut aux formes architecturées, hauts totems, mobiles, lianes végétales chorégraphiées ou suite de pas japonais granitiques témoignent d’une pratique artistique affranchie, spontanée et sensorielle.
-
-  > Born in July 1971, Marie Bathellier, spent her childhood in Brittany between the land and the sea.
-
-  She studied Beaux-Arts in Rennes followed by one year in Wroclaw (Poland) at the Academy of Arts and finished at the Sorbonne (Paris) in the Faculté d’Arts plastiques;
-
-  Since 2003, nature is her work environment – Ile d’Yeu where she lives, country side and mountains where she spends a lot of time. From this co-habitation she has drawn her way of working : instinctive, experimental, minimal and poetic.
-
-  Marie Bathellier works in cycles, travels between several disciplines without favouritism – painting, sculpture, installations.
-
-  The artist finds strength, forms and materials in the wilderness and gardens. Her work is fed by taking notes, by taking photos, collecting materials. Her contemplative approach and embrace of nature, permanently stimulate and renew her work.
-
-  The artist arranges abstract and minimal forms on large canvases or in series of smaller recycled cardboards. These arrangements create a dialogue between space, colour and texture. The surfaces become sparkly, transparent, pearly or deeply mat as she enhances them using clay, sand or rock dust. They become a playful vision of forms interacting, of textures with soft and powerful colour palettes being stroked by light.
-
-  Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
+biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Very
+  blue, very green\" est le titre d’ une chanson de Nick Waterhouse. Il ne m’ en voudra
+  pas de le lui emprunter.\n>\n> La collecte de matériaux est au cœur de ma pratique.
+  Elle invite curiosité, nouvelles explorations et renouvellement permanent.\n>\n>
+  Les fins liens tissés de ces anciens sacs de pêche m’ ont évoqués les liens qui
+  relient la pratique artistique à la nature. J’ aime les trames et les tissages,
+  les dessous - dessus, les devant - derrière.\n>\n> Leur transparence m’ ont invité
+  à utiliser les deux faces du matériau, jouant ainsi avec la traversée partielle
+  de la couleur. Plusieurs plans se juxtaposent ainsi et une profondeur se crée.\n>\n>
+  La nature est le thème de cette nouvelle série qui emprunte à Joan Mitchell une
+  écriture abstraite, débridée et heureuse.\n>\n> Invitation à s’ enf ( o ) uir dans
+  le végétal et l’ aquatique pour y puiser réconfort et énergie.\n>\n> Nature bouillonnante,
+  jaillissante, sauvage. Couleurs pigmentaires qui sondent la fraicheur de l’ eau,
+  des ombres végétales, de la terre, de l’ air.\n>\n> Régulièrement, je m’ échappe
+  randonner et part à la rencontre de sensations.\n>\n> Voyages initiatiques et inspirants,
+  riches d’ observations, d’ émotions et d’ empreintes de temps et paysages traversés.\n>\n>
+  En peinture comme au cœur de la nature, les sens sont connectés et exacerbés. L’
+  exercice en plein air permet d’ absorber force et formes nouvelles, coloramas infinis
+  et poésie.\n>\n> Cette série est arrivée sans idée pré conçues, comme une réminiscence
+  de sensations au charme primitif, revitalisant.\n>\n> Surprises dans la découverte
+  de nouveaux paysages, de sensations nouvelles, surprises dans la recherche d’ une
+  nouvelle écriture picturale.\n>\n> À la hauteur de la liberté et la joie qui accompagnent
+  mes jours d’ escapades en montagne, mer et campagne, il fallait recherché une vigueur
+  expéditive, une désinvolture joyeuse qui, bien - sûr, déborde du cadre.\n>\n> Texte
+  de Marie Bathellier Avril 2021\n\nNée en 1971, Marie Bathellier a passé son enfance
+  en Bretagne entre terre et mer.  \nAprès ses études aux Beaux-Arts de Rennes, elle
+  poursuit une année à l’Académie d’ Arts de Wroclaw - Pologne, puis entre à Paris
+  en Faculté d’Arts plastiques à La Sorbonne.\n\nL'ensemble des explorations de [Marie
+  Bathellier](https://www.mariebathellier.com/ \"https://www.mariebathellier.com/\")
+  est inspiré par l'immersion dans le [paysage](https://fr.wikipedia.org/wiki/Peinture_de_paysage)
+  et se fait ode à la puissante beauté de la nature. Pratique de randonnées en montagne,
+  découvertes de nouveaux paysages et déploiement d’ ateliers nomades. Carnets de
+  route, appareil photos, sécateur, toiles roulées et pigments l’ accompagnent. Tissages
+  végétales et peintures gestuelles se pratiquent en plein air. Travail dans la nature
+  sauvage, temps suspendu. Echos nouveaux.\n\nCette démarche de contemplation, d’
+  explorations et de déclics renouvelle en permanence son travail.\n\nL'[artiste](https://www.amelie-paris.com/fr/artistes
+  \"https://www.amelie-paris.com/fr/artistes\") construit par et avec la couleur et
+  explore des dégradés subtiles ou travaille des polychromies qui se révèlent plus
+  lentement.\n\nMarie Bathellier multiplie les expériences sensorielles et passe d'un
+  matériau à un autre. Densité minérale, vie du bois brut, douceur du tissus, qualité
+  pliable et froissable du papier japonais, souplesse d'un châssis entoilé...et la
+  couleur toujours.\n\nSes collectes d’ argile, de calcaire ou de graines mélangées
+  à ses couleurs pigmentaires offrent une variation de textures racontant la richesse
+  et la délicatesse du vivant.\n\nSculptures, installations, peintures, photographies.
+  Un travail singulier qui nous plonge dans un univers à la fois radical et poétique,
+  archaïque et gracieux.\n\n> Born in July 1971, Marie Bathellier, spent her childhood
+  in Brittany between the land and the sea.\n\nShe studied Beaux-Arts in Rennes followed
+  by one year in Wroclaw (Poland) at the Academy of Arts and finished at the Sorbonne
+  (Paris) in the Faculté d’Arts plastiques;\n\nSince 2003, nature is her work environment
+  – Ile d’Yeu where she lives, country side and mountains where she spends a lot of
+  time. From this co-habitation she has drawn her way of working : instinctive, experimental,
+  minimal and poetic.\n\nMarie Bathellier works in cycles, travels between several
+  disciplines without favouritism – painting, sculpture, installations.\n\nThe artist
+  finds strength, forms and materials in the wilderness and gardens. Her work is fed
+  by taking notes, by taking photos, collecting materials. Her contemplative approach
+  and embrace of nature, permanently stimulate and renew her work.\n\nThe artist arranges
+  abstract and minimal forms on large canvases or in series of smaller recycled cardboards.
+  These arrangements create a dialogue between space, colour and texture. The surfaces
+  become sparkly, transparent, pearly or deeply mat as she enhances them using clay,
+  sand or rock dust. They become a playful vision of forms interacting, of textures
+  with soft and powerful colour palettes being stroked by light.\n\nArchitectural
+  sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers
+  or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
+  artistic work."
 works:
 - title: Very green, very blue G001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
