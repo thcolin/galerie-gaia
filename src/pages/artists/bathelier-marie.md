@@ -66,19 +66,6 @@ biography: |-
 
   Architectural sculptures in untreated wood, totems poles, mobiles, choreographed vegetal creepers or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual artistic work.
 works:
-- title: Lit de camp et sculpture en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Lit de camp et sculpture '
-  price: 
-  sold: false
-  contextual: false
 - title: Very green, very blue G001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
   technique: " Pigments acryliques sur matériau tissé recyclé"
@@ -421,6 +408,19 @@ works:
   - Photographie
   styles:
   - Figuratif
+- title: Lit de camp et sculpture en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Lit de camp et sculpture '
+  price: 
+  sold: false
+  contextual: false
 - title: Lit de camp peint
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg
   technique: Peinture acrylique sur toile de coton teinte
