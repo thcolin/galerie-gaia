@@ -13,15 +13,13 @@ biography: |-
 
   "Concilier inspiration régionale et esprit contemporain, ce n'est pas si fréquent. Valérie Le Roux y parvient.
 
-  Céramiste mais pas que. Le support ne serait peut être que prétexte pour installer un trait qui se lit aussi bien à plat que sur des volumes.
-  Alors en sérigraphie ou sur une céramique ce regard efficace et si poétique sur notre bord de mer, vous permettra d'installer un bol d'air frais au-delà de notre belle Bretagne.
-  La modération du trait n'est pas synonyme de minimalisme dans ce travail qui met la flore en mouvement.
+  Céramiste mais pas que. Le support ne serait peut-être que prétexte pour installer un trait qui se lit aussi bien à plat que sur des volumes. Alors en sérigraphie ou sur une céramique ce regard efficace et si poétique sur notre bord de mer, vous disposez d'un bol d'air frais au-delà de notre belle Bretagne. La modération du trait n'est pas synonyme de minimalisme dans ce travail qui met la flore en mouvement.
 
-  Et les sérigraphies sont réalisées par un CAT régionale, ce qui est aussi important pour Valérie Leroux
+  Et les sérigraphies sont réalisées par un CAT régional, ce qui est aussi important pour Valérie Leroux
 
   **Xavier de Jarcy - TELERAMA** Novembre 2016
 
-  [Regarder Maison France 5 Novembre 2020](https://www.france.tv/france-5/la-maison-france-5/2007295-concarneau.html "valerie leroux maison farnce 5")
+  [Regarder Maison France 5 novembre 2020](https://www.france.tv/france-5/la-maison-france-5/2007295-concarneau.html "valerie leroux maison farnce 5")
 exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
@@ -229,42 +227,6 @@ works:
   description: ''
   price: 145
   contextual: false
-- title: Bouteille poissons rayures rouges
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille5V1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 31
-    width: 8
-    depth: 0
-  description: ''
-  price: 90
-  contextual: false
-- title: Bouteille verte géométrie
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille4V1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 31
-    width: 8
-    depth: 0
-  description: ''
-  price: 90
-  contextual: false
-- title: Bouteille poissons rayures vertes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille3V3.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 31
-    width: 8
-    depth: 0
-  description: ''
-  price: 90
-  contextual: false
 - title: Bouteille poissons rayures bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille1V1.jpg
   fields:
@@ -277,19 +239,6 @@ works:
   description: ''
   price: 90
   contextual: false
-- title: Trio Bouteilles
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-3bouteille.jpg
-  technique: Céramique
-  dimensions:
-    height: 31
-    width: 8
-    depth: 
-  description: Prix par bouteille
-  price: 90
-  sold: false
-  contextual: false
-  fields:
-  - Céramique
 - title: Poisson russe orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg
   technique: 'Sérigraphie '
