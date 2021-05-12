@@ -35,11 +35,37 @@ biography: "# Judith Wolfe\n\nJudith Wolfe est née aux Etats-Unis, héritière 
   esquissées à l'encre de Chine comme autant de solitudes qui se croisent sur la toile.
   **C**es formes donnent à la peinture une sorte de plénitude teintée d'optimisme,
   qui fait écho aux convictions de l'artiste, à sa volonté de mettre l'être humain
-  au cœur de sa démarche.   \n   \n Texte de Marianne Amar\n\nExpositions \n\n**2014**
-  _\"La couleur de le Peinture\"_ Centre Culturel de Gurgy (89)  \n**2012** _\"Grands
-  Espaces Colorés\"_ Abattoirs d'Avallon (89)Galerie Caron Bedout  \n**2011** _\"Cheminements\"_
-  Galerie Véronique Smagghe, Paris  \n**2010** _\"Blue Paintings\" _The American University
-  of Paris Fine Arts Gallery, Paris  \n _\"_[_Jardins Rêvés_](http://judith.wolfe.free.fr/pages/mairie17e.htm)_\"_
+  au cœur de sa démarche.   \n   \n Texte de Marianne Amar\n\n**Interview réalisée
+  en octobre 1998 et reproduite avec l'autorisation de la revue Trac\\[é\\] Le qui
+  , quoi , comment ...**\n\n**Qui est Judith Wolfe**?  une artiste à l'âme \" nomade
+  \", ayant eu la chance de bénéficier de deux cultures, deux langues et plutôt fascinée
+  par les différences. \n\n**Quoi ?** **Des** grands assemblages/collages de peintures
+  sur Papier, légers et mobiles où se mêlent dessins, couleurs, bribes de phrases.
+  Je structure l'espace, entre autres, avec un jeu de déplacements. Ma formation de
+  danseuse est, du reste, toujours présente dans ce que je fais. \n\n**Comment ? A**
+  partir de matériaux simples : papiers, pigments, liants, colles, encre de Chine.
+  N'oubliez pas mes pinceaux souples et mes grands bambous**.** \n\n**Quel est votre
+  projet ?** **Mener** ma quête picturale le plus loin possible en travaillant sur
+  de grands murs, dans un grand espace. J'ai besoin de beaucoup d'espace. **  \n Quelles
+  ont été vos premières influences** **?** **A** mes tous débuts, les peintres européens
+  de tendance expressionniste : **Franz Marc**, **Alexander Jawlenski** et **Oskar
+  Kokoschka**, suivis par les peintres américains \" abstraits \" tels **Robert Motherwell**,
+  **Sam Francis**, **Hans Hofmann**, parmi d'autres. **  \n Quel est l'artiste que
+  vous n'aimez pas ? L'artiste** qui ne me surprend pas. **Quel est votre artiste
+  préféré ? En** ce moment **Bill Viola**, artiste multimédia dont l'œuvre comporte
+  beaucoup de dimensions plastiques, poétiques et philosophiques. **  \n De qui écoutez-vous
+  les conseils ? J'essaie** d'écouter ma petite \"voix intérieure \", c'est ainsi
+  que je m'en sors le mieux. **  \n Que faisiez-vous il y a vingt ans ?** **J'avais**
+  vendu tous mes chassis pour être libre. J'adoptais le papier comme support. Des
+  grands découpages audacieux de **Matisse** m'avaient marqués. **  \n Qu'est-ce qu'une
+  oeuvre réussie ? C'est** une œuvre habitée par une nécéssité intérieure \" qui n'exclut
+  ni la sensation, ni l'intuition, et qui s'impose avec évidence**.** **Que faites-vous
+  à l'extérieur de l'atelier ?** **Je** me ressource dans la ville et dans la nature.
+  Je travaille aussi avec des étudiants et c'est passionnant.   \n   \n \n\nExpositions
+  \n\n**2014** _\"La couleur de le Peinture\"_ Centre Culturel de Gurgy (89)  \n**2012**
+  _\"Grands Espaces Colorés\"_ Abattoirs d'Avallon (89)Galerie Caron Bedout  \n**2011**
+  _\"Cheminements\"_ Galerie Véronique Smagghe, Paris  \n**2010** _\"Blue Paintings\"
+  _The American University of Paris Fine Arts Gallery, Paris  \n _\"_[_Jardins Rêvés_](http://judith.wolfe.free.fr/pages/mairie17e.htm)_\"_
   Mairie du 17e arrondissement, Paris   \n _\"Figures et Paysages\"_ Galerie du Grand
   T, Nantes   \n**2008** _\"Convergences\" _Galerie Eric Devlin, Montréal, Canada
   \ \n**2007 \"**[_Bannières_](http://judith.wolfe.free.fr/pages/laon0708.htm)_\"_

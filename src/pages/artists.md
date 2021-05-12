@@ -7,6 +7,7 @@ artists:
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/bathelier-marie.md
+- artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/the-blind.md
 - artist: src/pages/artists/viallat-claude.md
