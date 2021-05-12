@@ -25,6 +25,35 @@ biography: 'Le travail de Judith Wolfe porte la trace de ses errances. Judit Wol
   jaunes, du bleu qui évoque les espaces outremer. Les formes sur le papier et les
   couleurs sont lyriques.'
 works:
+- title: Les sagesses 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
+    sagesses 1 - 60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: "2011"
+  price: 1500
+  sold: false
+  contextual: false
+- title: Les pots d'Angélique 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
+    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    .jpg
+  technique: Technique mixte sur papier marouflé sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 122
+    depth: 0
+  description: "2002"
+  price: 5000
+  sold: false
+  contextual: true
 - title: Les pots d'Angélique 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
     pots d'Angélique 6-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
@@ -40,7 +69,7 @@ works:
   price: 5000
   sold: false
   contextual: true
-- title: Les pots d'angélique 4
+- title: Les pots d'Angélique 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
     pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
