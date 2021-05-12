@@ -227,18 +227,6 @@ works:
   description: ''
   price: 145
   contextual: false
-- title: Bouteille poissons rayures bleues
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-bouteille1V1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 31
-    width: 8
-    depth: 0
-  description: ''
-  price: 90
-  contextual: false
 - title: Poisson russe orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg
   technique: 'Sérigraphie '
@@ -265,18 +253,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Fleure jaune N
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_leroux_sans_92x65-5.jpg
-  technique: Sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 93
-    width: 65
-    depth: 0
-  description: Edition en 50 exemplaires signée
-  price: 95
-  contextual: true
 - title: Poisson russe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ia.jpg
   technique: Sérigraphie
