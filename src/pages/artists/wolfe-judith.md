@@ -25,9 +25,37 @@ biography: 'Le travail de Judith Wolfe porte la trace de ses errances. Judit Wol
   jaunes, du bleu qui évoque les espaces outremer. Les formes sur le papier et les
   couleurs sont lyriques.'
 works:
+- title: Paradis perdu 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Paradis
+    perdu 1-102x69 cm-2400 eu-acrylique sur papier marouflé_toile-2000 .jpg-.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 102
+    width: 69
+    depth: 0
+  description: "2000"
+  price: 2400
+  sold: false
+  contextual: true
+- title: Les sagesses 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
+    sagesses 3-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: "2011"
+  price: 1500
+  sold: false
+  contextual: true
 - title: Les sagesses 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    sagesses 1 - 60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011.jpg
+    sagesses1 - 60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011.jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []
