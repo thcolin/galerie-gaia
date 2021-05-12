@@ -191,18 +191,6 @@ works:
   description: ''
   price: 68
   contextual: false
-- title: Plateau orange
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette-3.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 2
-    width: 19.5
-    depth: 28.5
-  description: ''
-  price: 68
-  contextual: false
 - title: Grand Vase vert noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
   fields:
