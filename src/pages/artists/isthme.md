@@ -109,6 +109,19 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: 'Deep Blue #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
+    1-acrylique-146x114-2020.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 146
+    width: 114
+    depth: 0
+  description: Prix sur demande
+  price: ''
+  contextual: true
 - title: 'Allongée dans l''herbe #8'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-allongée
     dans l'herbe8-acrylique-146cmx114-2021.jpg
@@ -122,16 +135,6 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
-- title: 'Deep Blue #3'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-isthme-Blue
-    Deep3- 146 cmx114cm-2020.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 146
-    width: 114
-  description: "2020"
-  price: ''
-  contextual: true
 - title: Venise, un matin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/venise-un-matin.jpg
   technique: Acrylique sur toile
