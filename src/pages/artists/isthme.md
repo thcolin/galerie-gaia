@@ -109,6 +109,20 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: Farandole Gris
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE-GRIS
+    1:6-Litho-2020-65x50.jpg
+  technique: Lithographie  6 exemplaires
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: "2020"
+  price: 750
+  contextual: true
 - title: 'Deep Blue #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
     1-acrylique-146x114-2020.jpg
