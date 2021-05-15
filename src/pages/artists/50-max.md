@@ -1,6 +1,6 @@
 ---
 fields:
-- Oeuvres sur papier
+- Oeuvre sur papier
 styles:
 - Abstrait
 - Figuratif
@@ -16,8 +16,9 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "Des éditions limitées à petit prix,   \nchinées au grès de mes recherches
-  pour des accrochages qui créent un style unique, comme vous !"
+biography: "# Déco arty à petit prix\n\nDes éditions limitées à petit prix,  \nchinées
+  au grès de mes recherches pour des accrochages qui créent un style unique, comme
+  vous !"
 works:
 - title: 'Arcade Fire '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
@@ -44,7 +45,7 @@ works:
   dimensions:
     height: 45.6
     width: 61
-    depth: 0
+    depth: 
   description: 'Mélange graphique ambiance cinématographique et musicale '
   price: 50
   sold: false
@@ -59,7 +60,7 @@ works:
   dimensions:
     height: 61.3
     width: 46
-    depth: 0
+    depth: 
   description: ambiance graphique pour bureau à la maison ou espace de co-working
   price: 50
   sold: false
@@ -74,7 +75,7 @@ works:
   dimensions:
     height: 61
     width: 45.6
-    depth: 0
+    depth: 
   description: Chambre ado ou espace de co-working ambiance musicale et graphique
   price: 50
   sold: false

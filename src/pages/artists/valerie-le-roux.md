@@ -99,7 +99,7 @@ works:
     37 a 42.jpg
   technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
   fields:
-  - Oeuvres sur papier
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 92
