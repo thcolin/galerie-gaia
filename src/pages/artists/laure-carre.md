@@ -149,7 +149,7 @@ works:
     width: 130
     depth: 0
   description: ''
-  price: 5000
+  price: 4900
   contextual: true
 - title: Triptyque Autoportrait
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
@@ -175,7 +175,7 @@ works:
     width: 130
     depth: 0
   description: ''
-  price: 5000
+  price: 4900
   contextual: true
 - title: Autoportrait jaune
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
@@ -188,7 +188,7 @@ works:
     width: 130
     depth: 0
   description: ''
-  price: 5000
+  price: 4900
   contextual: true
 - title: Nostalgie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg
