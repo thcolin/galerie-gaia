@@ -32,7 +32,7 @@ works:
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carre")'
-  price: 5000
+  price: 3900
   contextual: false
 - title: Oracle XI par Anne Gaiss
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
