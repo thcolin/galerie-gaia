@@ -318,19 +318,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Banc
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/865.jpg
-  technique: Sérigraphie
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: ''
-  price: 80
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
 styles:
