@@ -88,6 +88,20 @@ biography: "# Judith Wolfe\n\nJudith Wolfe est née aux Etats-Unis, héritière 
   Galerie Aube 3935, Montréal, Québec  \n Galerie Works II, South Hampton, New York,
   Etats-Unis"
 works:
+- title: Les Sagesses 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
+    sagesses3-60X60-2011.jpeg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: "2011"
+  price: 1500
+  sold: false
+  contextual: true
 - title: Les pots d'Angélique 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
     d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
@@ -176,8 +190,8 @@ works:
   sold: false
   contextual: false
 - title: Les sagesses 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    sagesses1 - 60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
+    sagesses1-95X65-2011.jpeg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []
