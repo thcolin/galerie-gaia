@@ -786,5 +786,18 @@ articles:
     autre image se construit subtilement sous nos yeux, un visage apparaît. Altération,
     transformation, le défaut comme une provocation ingénieuse plantée sous nos yeux
     par l'artiste pour nous émouvoir subtilement."
+- template: article
+  date: '2021-05-28T15:48:59Z'
+  categories:
+  - Exposition
+  title: Wave week-end arts visuels
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/wave_150dpi-01 (1).png
+  content: "Non - Habitants   \nLa Galerie Gaïa accueille en résidence 3 étudiants
+    de l'Ecole des Beaux Arts de Nantes afin qu'après cette longue période de retrait
+    forcé ils puissent travailler, montrer, échanger sur leurs pratiques respectives.\n\nAinsi
+    chacun s'installe pour 3 jours avec son bureau de travail, son matériel et ses
+    envies d'évoquer leur rapport à la ville, à l'espace de vie et à la galerie.\n\nSimon
+    Bousquet - sculpture béton\n\nBasile Collet - installation végétale\n\nEdwin Blandin
+    - dessin "
 
 ---
