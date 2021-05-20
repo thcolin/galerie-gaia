@@ -383,7 +383,7 @@ works:
     width: 40
     depth: 0
   description: "1988"
-  price: 150
+  price: 140
   contextual: true
 - title: Portrait femme
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_portraitfemme_41-5x31-5.jpg
