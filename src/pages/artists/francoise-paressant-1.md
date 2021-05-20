@@ -90,19 +90,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: 'CDC triptyque '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage-papier-decoupe-cousu-triptyque-3x120x40.JPG
-  technique: Collage papier découpé cousu
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: Triptyque de 3 bandes de 3 x 120 cm de hauteur X 40 cm de large
-  price: 4200
-  sold: false
-  contextual: true
 - title: CDC 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc002.jpg
   technique: Collage découpé cousu
@@ -113,7 +100,7 @@ works:
     width: 20
     depth: 
   description: Œuvre encadrée dans caisse américaine noir mat Offert
-  price: 360
+  price: 300
   sold: false
   contextual: true
 - title: CDC 001
@@ -126,7 +113,7 @@ works:
     width: 20
     depth: 
   description: Œuvre encadrée dans caisse américaine bois noir mat Offert
-  price: 360
+  price: 300
   sold: false
   contextual: true
 - title: CDC 003
@@ -244,7 +231,7 @@ works:
     height: 50
     width: 40
     depth: 
-  description: œuvre encadrée bois blanc
+  description: œuvre encadrée bois blanc verre musée
   price: 700
   sold: false
   contextual: true
@@ -259,7 +246,7 @@ works:
     height: 50
     width: 40
     depth: 
-  description: 'œuvre encadrée bois blanc '
+  description: œuvre encadrée bois blanc verre musée
   price: 700
   sold: false
   contextual: true
