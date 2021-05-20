@@ -147,8 +147,8 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
-- title: Venise, un matin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/venise-un-matin.jpg
+- title: 'Deep blue #13'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-Deep Blue#13-2020-146x114.jpg
   technique: Acrylique sur toile
   dimensions:
     height: 146
