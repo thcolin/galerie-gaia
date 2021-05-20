@@ -47,6 +47,21 @@ works:
   description: '# [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/ "anne gaiss")'
   price: 3200
   contextual: true
+- title: Paysage d'été 4 Judith Wolfe
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
+    d'ete4-95X65-2004-2200E.jpeg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 95
+    width: 65
+    depth: 0
+  description: "2004"
+  price: 2200
+  contextual: true
 - title: 'Sérigraphie Valérie Le Roux '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
@@ -61,7 +76,7 @@ works:
   price: 90
   contextual: false
   technique: Sérigraphie 50 exemplaires
-- title: Fenêtre sur route 6 par Aline ISOARD
+- title: Fenêtre sur route 6 par Aline Isoard
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
     sur route 6-2020, 60x60cm.jpg
   technique: Photographie pigmentée tirage unique
