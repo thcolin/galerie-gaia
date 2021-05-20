@@ -7,7 +7,7 @@ carousel:
     rose-160X130.jpeg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
     bleu-160X130.jpeg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/wave_150dpi-01 (1).png
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/wave_facebook_page-03.png
 redirect_from:
 - "/plan/"
 seo:
