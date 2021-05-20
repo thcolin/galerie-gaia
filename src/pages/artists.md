@@ -2,6 +2,7 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/wave-week-end-arts-visuels-nantes.md
 - artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/laure-carre.md
