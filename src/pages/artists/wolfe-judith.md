@@ -88,6 +88,34 @@ biography: "# Judith Wolfe\n\nJudith Wolfe est née aux Etats-Unis, héritière 
   Galerie Aube 3935, Montréal, Québec  \n Galerie Works II, South Hampton, New York,
   Etats-Unis"
 works:
+- title: Paysage d'été 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
+    d'ete1-95X65-2004-2200E.jpeg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 95
+    width: 65
+    depth: 0
+  description: "2004"
+  price: 2200
+  sold: false
+  contextual: true
+- title: Paysage d'été 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
+    d'ete4-95X65-2004-2200E.jpeg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 95
+    width: 65
+    depth: 0
+  description: "2004"
+  price: 2200
+  sold: false
+  contextual: true
 - title: Les Sagesses 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
     sagesses3-60X60-2011.jpeg
