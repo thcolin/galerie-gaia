@@ -294,7 +294,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 140
+  price: 130
   contextual: true
 - title: Gravure XI-XIII 1988
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-xi-xiii-1988-15x17cm.JPG
