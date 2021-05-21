@@ -42,8 +42,27 @@ works:
     height: 118
     width: 112
     depth: 0
-  description: ''
+  description: "Sur la console de chez [Barak](https://www.instagram.com/baraklemagasin/?hl=fr
+    \"barak nantes\")   \nA droite Céramique de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
+    \"pierre tual gaia\")  \nAu centre Sculpture bronze [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
+    \"isabelle healy\")  \nA gauche Faïences de [Valérie Le roux](https://galeriegaia.fr/artists/valerie-le-roux/
+    \"valerie le roux gaia\")"
   price: 4500
+  sold: false
+  contextual: true
+- title: Plage de la mine d'Or
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg
+  technique: Feutre blanc teinté acrylique
+  fields:
+  - Textile
+  styles:
+  - Abstrait
+  dimensions:
+    height: 118
+    width: 112
+    depth: 
+  description: Accrochage libre par le haut pour un effet de souplesse comme une tapisserie
+  price: 4800
   sold: false
   contextual: true
 - title: 'Eclaircies en fin de journée '
@@ -77,21 +96,6 @@ works:
   price: 12000
   sold: false
   contextual: true
-- title: Plage de la mine d'Or
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg
-  technique: Feutre blanc teinté acrylique
-  fields:
-  - Textile
-  styles:
-  - Abstrait
-  dimensions:
-    height: 118
-    width: 112
-    depth: 
-  description: Accrochage libre par le haut pour un effet de souplesse comme une tapisserie
-  price: 4800
-  sold: false
-  contextual: true
 - title: CPJ 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg
   technique: 'Collages sur toile de papier japon teinté acrylique '
@@ -116,58 +120,6 @@ works:
     depth: 
   description: Œuvre encadrée dans caisse américaine noir mat Offert
   price: 300
-  sold: false
-  contextual: true
-- title: CDC 003
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cd-60x40-003.jpg
-  technique: Collage découpé cousu
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 40
-    depth: 
-  description: œuvre encadrée dans caisse américaine bois naturel
-  price: 560
-  sold: false
-  contextual: true
-- title: Blason 001
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg
-  technique: Acrylique sur feutre
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-- title: Blason 002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-- title: Blason 003
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
   sold: false
   contextual: true
 - title: A/F 005
@@ -224,8 +176,8 @@ works:
   contextual: true
 - title: Dessin ruban
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin
-    ruban.jpg
-  technique: papier japon teintés
+    ruban2.jpg
+  technique: papier japon teinté
   fields:
   - Oeuvre sur papier
   styles:
@@ -240,8 +192,8 @@ works:
   contextual: true
 - title: Dessin ruban
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin
-    ruban2.jpg
-  technique: papier japon teinté
+    ruban.jpg
+  technique: papier japon teintés
   fields:
   - Oeuvre sur papier
   styles:
@@ -252,6 +204,45 @@ works:
     depth: 
   description: œuvre encadrée bois blanc verre musée
   price: 700
+  sold: false
+  contextual: true
+- title: Blason 001
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg
+  technique: Acrylique sur feutre
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 002
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Encadrement boite en bois blanc
+  price: 320
+  sold: false
+  contextual: true
+- title: Blason 003
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg
+  technique: 'Acrylique sur feutre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 
+  description: Encadrement boite en bois blanc
+  price: 320
   sold: false
   contextual: true
 - title: Portrait de Françoise Paressant
