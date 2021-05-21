@@ -31,6 +31,21 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Plage de la mine d'or en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-mine
+    dor en situation.jpg
+  technique: Acrylique sur feutre tressé
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 118
+    width: 112
+    depth: 0
+  description: ''
+  price: 4500
+  sold: false
+  contextual: true
 - title: 'Eclaircies en fin de journée '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-tapisserie.jpg
   technique: Tapisserie en laine banche et toile teintée  tissées
