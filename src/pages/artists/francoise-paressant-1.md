@@ -208,7 +208,8 @@ works:
   sold: false
   contextual: true
 - title: Dessin ruban
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40cm-2016.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin
+    ruban.jpg
   technique: papier japon teintés
   fields:
   - Oeuvre sur papier
@@ -223,7 +224,8 @@ works:
   sold: false
   contextual: true
 - title: Dessin ruban
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin-ruban-50-cm-x-40-cm-2016.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin
+    ruban2.jpg
   technique: papier japon teinté
   fields:
   - Oeuvre sur papier
