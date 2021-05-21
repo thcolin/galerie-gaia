@@ -13,7 +13,7 @@ title: 'WAVE  Nantes '
 location: ''
 birth: ''
 death: ''
-expose: false
+expose: true
 biography: ''
 works:
 - title: WAVE Week-end arts visuels Nantes 28 29 30 Mai 2021
