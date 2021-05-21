@@ -103,19 +103,6 @@ works:
   price: 300
   sold: false
   contextual: true
-- title: CDC 001
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc001.jpg
-  technique: Collage découpé cousu
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Œuvre encadrée dans caisse américaine bois noir mat Offert
-  price: 300
-  sold: false
-  contextual: true
 - title: CDC 003
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cd-60x40-003.jpg
   technique: Collage découpé cousu
