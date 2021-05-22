@@ -20,6 +20,21 @@ biography: "# Déco arty à petit prix\n\nDes éditions limitées à petit prix,
   au grès de mes recherches pour des accrochages qui créent un style unique, comme
   vous !"
 works:
+- title: Aplat par Cindy Belaud
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-aplat-70X50.jpg
+  technique: Sérigraphie en 12 exemplaires
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 200
+  sold: false
+  contextual: true
 - title: 'Arcade Fire '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
     Fire-63,5x48,2.jpg
