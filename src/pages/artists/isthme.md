@@ -158,6 +158,19 @@ works:
   price: ''
   sold: false
   contextual: true
+- title: 'Farandole rouge ciel '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE
+    ROUGE-CIEL 1-2-Technique mixte-2020-65X50.jpg
+  technique: 'Litho 1/6 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: '2021 Musée imprimerie de Nantes '
+  price: 380
+  contextual: true
 - title: Farandole pourpre gris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE-POURPRE-GRIS-Lithographie-2020-65x50.jpg
   technique: Lithographie 6 exemplaires
@@ -195,8 +208,8 @@ works:
     height: 65
     width: 50
     depth: 0
-  description: '2020 Musée de l''imprimerie de Nantes '
-  price: 750
+  description: 2021 Musée de l'imprimerie de Nantes
+  price: 380
   contextual: true
 - title: Britany
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_isthme_britany_76x59.jpg
