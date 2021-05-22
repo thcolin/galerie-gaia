@@ -43,6 +43,20 @@ biography: "# Elisabeth Wadecki \n\nest née en 1963 à Zürich, d'un père polo
   que de présence au monde."
 exhibitions: []
 works:
+- title: En mon jardin N°12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    En mon jardin N°12 acrylique, bâtons d'huile sur papier marouflé sur toile-  2019-
+    100x100cm- 1800 euros.JPG
+  technique: Acrylique, bâtons d'huile sur papier marouflé sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2019"
+  price: 1800
+  contextual: true
 - title: 'Sans titre N°7 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki sans titre
     n°7-2018-150x150cm- techniques mixtes- 3500 euros- visible à l'atelier.JPG
@@ -143,17 +157,6 @@ works:
   price: 800
   sold: false
   contextual: true
-- title: Sans titre N°3 Papier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sanstitre-papier-n-3-2018-52x72cm-acrylique-pastels-fusain-surpapier-encadrealuminiumsousverre-700euros.jpg
-  technique: 'pastel et fusain sur papier '
-  dimensions:
-    height: 52
-    width: 72
-  description: "2018  \noeuvre encadrée baguette aluminium "
-  price: 700
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Nuit N°3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
     Nuit N°3- 2018-116x80cm- acrylique, pastels secs, fusain- 1700 euros.JPG
@@ -166,41 +169,6 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Si on allait N°1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/si-on-allait-ndegree1.jpg
-  technique: Acrylique, pastels sur carton
-  dimensions:
-    height: 22
-    width: 22
-    depth: 
-  description: "2018   \noeuvre encadrée baguette bois naturel"
-  price: 280
-  sold: false
-  contextual: true
-- title: Si on allait N°5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/si-on-allait-ndegree5.jpg
-  technique: Acrylique, pastels sur carton
-  dimensions:
-    height: 22
-    width: 22
-    depth: 
-  description: "2018   \noeuvre encadrée baguette bois naturel"
-  price: 280
-  sold: false
-  contextual: true
-- title: Le Rai profond N°3 ouest
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-n-3ouest-30x57cm-2019-acrylique-pastelssecs-sur-papier-600euros.JPG
-  technique: 'Acrylique et pastel sur papier '
-  dimensions:
-    height: 30
-    width: 60
-    depth: 
-  description: "2019 \n\noeuvre encadrée baguette aluminium "
-  price: 600
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Le Rai profond N°4 ouest
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg
   technique: 'Acrylique et pastel sur papier '
