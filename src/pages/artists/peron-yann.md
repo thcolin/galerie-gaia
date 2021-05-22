@@ -14,7 +14,7 @@ title: Peron Yann
 location: ''
 birth: ''
 death: ''
-expose: false
+expose: true
 biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, créer avec
   rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois,
   carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports
