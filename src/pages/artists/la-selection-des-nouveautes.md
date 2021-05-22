@@ -10,6 +10,17 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: New Ex
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: Trait par Cindy Belaud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
   technique: Sérigraphie 8/10
@@ -24,16 +35,20 @@ works:
   description: "[Cindy Belaud]() "
   price: 150
   contextual: false
-- title: New Ex
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
-  fields: []
-  styles: []
+- title: Gammes 2021 par Cindy Belaud
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
+  technique: Sérigraphie en 12 exemplaires
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
   dimensions:
-    height: 0
-    width: 0
+    height: 70
+    width: 50
     depth: 0
-  description: ''
-  price: ''
+  description: '# [Cindy Belaud](https://galeriegaia.fr/artists/50-max/ "Cindy belaud
+    polen")'
+  price: 200
   contextual: false
 - title: 'Autoportrait Laure Carré  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre.jpg
