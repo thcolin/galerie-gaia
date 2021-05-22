@@ -69,8 +69,8 @@ works:
     height: 141
     width: 125
     depth: 0
-  description: ''
-  price: 
+  description: "Cadre sur-mesure ébeniste   \nFormat de l'oeuvre 122X106cm "
+  price: 3900
   sold: false
   contextual: true
 exhibitions: []
