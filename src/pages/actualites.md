@@ -790,7 +790,7 @@ articles:
   date: '2021-05-28T15:48:59Z'
   categories:
   - Exposition
-  title: Wave week-end arts visuels
+  title: Wave week-end arts visuels 28 29 30 Mai 2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/wave_150dpi-01 (1).png
   content: "Non - Habitants   \nLa Galerie Gaïa accueille en résidence 3 étudiants
     de l'Ecole des Beaux Arts de Nantes afin qu'après cette longue période de retrait
