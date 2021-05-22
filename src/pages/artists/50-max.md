@@ -62,7 +62,7 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Aplat par Cindy Belaud
+- title: Gammes 21 par Cindy Belaud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-aplat-70X50.jpg
   technique: Sérigraphie en 12 exemplaires
   fields:
