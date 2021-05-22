@@ -2,8 +2,7 @@
 template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/wave_facebook_page-03.png
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    jaune-160X130.jpeg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dimitri-Roubichou-Jade.jpeg.JPG
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0982.jpeg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
     bleu-160X130.jpeg
