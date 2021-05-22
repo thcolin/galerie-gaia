@@ -44,7 +44,8 @@ biography: "# Elisabeth Wadecki \n\nest née en 1963 à Zürich, d'un père polo
 exhibitions: []
 works:
 - title: 'Sans titre N°7 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-7-150x150-2018-acrylique-huile-fusain-pastels-secs-sur-toile-3500-euros_-visible-a-l-atelier-13-1000.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki sans titre
+    n°7-2018-150x150cm- techniques mixtes- 3500 euros- visible à l'atelier.JPG
   technique: 'Acrylique huile fusain et pastels secs sur toile '
   fields: []
   dimensions:
