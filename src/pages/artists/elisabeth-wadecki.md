@@ -99,15 +99,17 @@ works:
   description: dyptique, le prix indiqué concerne les 2 parties
   price: 4000
   contextual: false
-- title: 'Sans titre N°1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ewadecki-sans-titre-n-1-acrylique-huile-pastels-secs120x150-2017-3000eur-7-1000.jpg
-  technique: 'Acrylique et pastel sec sur toile '
+- title: Canopée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    Canopée- 2021- acrylique, bâtons d'huile sur papier marouflé sur toile- 130x130cm-
+    3000 euros.JPG
+  technique: Acrylique bâtons d huile sur papier marouflé sur toile
   fields: []
   dimensions:
-    height: 120
-    width: 150
+    height: 130
+    width: 130
     depth: 0
-  description: "2017"
+  description: "2021"
   price: 3000
   contextual: true
 - title: En mon jardin N°1 Toile
@@ -118,15 +120,6 @@ works:
     width: 150
   description: "Visible sur demande en atelier  \n2019"
   price: 3500
-  contextual: true
-- title: En mon jardin N°4 Toile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-enmonjardin-n-4-2020-acrylique-batons-d-huile-sur-toile-97x130cm-2200euros.JPG
-  technique: Acrylique et bâtons d'huile sur toile
-  dimensions:
-    height: 97
-    width: 130
-  description: "2020"
-  price: 2200
   contextual: true
 - title: En mon jardin N°4 Papier marouflé sur toile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG
