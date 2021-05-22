@@ -131,64 +131,16 @@ works:
   description: "2019"
   price: 1800
   contextual: true
-- title: En mon jardin N°7 Papier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-mon-jardin-ndegree7.jpg
-  technique: Acrylique et bâtons d'huile sur papier
+- title: Mosaïque Re(s)source N°1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    Mosaïque Re(s)source N°1 -2016- 55x55cm- acrylique, huile - 800 euros encadré.jpg
+  technique: 'Acrylique et huile sur toile '
   dimensions:
-    height: 54
-    width: 114
+    height: 55
+    width: 55
     depth: 
-  description: "2019   \noeuvre encadrée baguette aluminium"
-  price: 1350
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: En mon jardin N°8 Papier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-mon-jardin-ndegree6.jpg
-  technique: Acrylique et bâtons d’huile sur papier
-  dimensions:
-    height: 54
-    width: 86
-    depth: 
-  description: "2019   \noeuvre encadrée baguette aluminium "
-  price: 900
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Sans titre N°4 Toile marouflée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-toilemarouflee-sur-carton-n-4-acrylique-pastels-2018-550euros-41x41-encadrebaguetteboisnaturel-550euros.jpg
-  technique: acrylique et pastels sur toile marouflée sur carton
-  dimensions:
-    height: 40
-    width: 40
-  description: |-
-    oeuvre encadrée baguette bois naturel
-
-    2018
-  price: 550
-  contextual: true
-- title: Sans Titre N°5 Toile marouflée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-ndegree5.jpg
-  technique: Acrylique et pastel sur toile marouflée sur carton
-  dimensions:
-    height: 41
-    width: 41
-    depth: 
-  description: "2018   \noeuvre encadrée baguette bois naturel "
-  price: 550
-  sold: false
-  contextual: true
-- title: Sans Titre N°11 Toile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-sans-titre-n-11-diptyque-2018-acrylique-pastelssecs-sur-toile-1800-euros-visibleatelier.JPG
-  technique: Acrylique et pastel sur toile
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: "Visible sur demande à l'atelier   \n2018"
-  price: 1800
+  description: "2016  \noeuvre encadrée baguette bois blanc"
+  price: 800
   sold: false
   contextual: true
 - title: Sans titre N°3 Papier
@@ -202,8 +154,9 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Le soleil se lève et tout devient nuit N°4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-soleil-se-leve-et-tout-devient-nuit-ndegree3.jpg
+- title: Nuit N°3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    Nuit N°3- 2018-116x80cm- acrylique, pastels secs, fusain- 1700 euros.JPG
   technique: Acrylique, pastel fusain sur toile
   dimensions:
     height: 116
