@@ -158,36 +158,6 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: 'Allongée dans l''herbe #10'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee10-55cmx46cm-2020.jpg
-  dimensions:
-    height: 55
-    width: 46
-    depth: 0
-  description: 2020 Prix sur demande
-  price: ''
-  contextual: true
-  technique: 'Acrylique sur toile '
-- title: 'Allongée dans l''herbe #5'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee-5-50x41cm-2020.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 50
-    width: 41
-    depth: 0
-  description: 2020 Prix sur demande
-  price: ''
-  contextual: true
-- title: 'Allongée dans l''herbe #7'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-canopee-7-50x41cm-2020.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 50
-    width: 41
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
 - title: Farandole pourpre gris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE-POURPRE-GRIS-Lithographie-2020-65x50.jpg
   technique: Lithographie 6 exemplaires
@@ -347,7 +317,7 @@ works:
   price: 5500
   sold: false
   contextual: true
-- title: Nuit en mer III
+- title: Nuit en mer III Litho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iii-113.jpg
   technique: Lithographie 13 exemplaires
   dimensions:
@@ -360,7 +330,7 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'Nuits en Mer '
+- title: Nuits en Mer Litho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-410.jpg
   technique: Lithographie en 10 exemplaires
   dimensions:
