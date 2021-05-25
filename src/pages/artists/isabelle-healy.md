@@ -62,16 +62,16 @@ works:
   contextual: false
 - title: Confluence
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_healy_confluence_73x58.jpg
-  technique: Bronze Epreuve d'Artiste EA I/IV
+  technique: Bronze Epreuve d'Artiste EA II/IV
   dimensions:
     height: 73
     width: 58
     depth: 12
-  description: "**IMPORTANT : La série Confluence est bientôt épuisée restent disponibles
-    les numéros de réserve I II III et IV/IV**   \nConfluence est la version grand
-    format de L'envolée.  \nDisponible sur commande\n\n* Confluence : nom féminin
-    du latin confluencia. Point de convergence de deux cours d'eau."
-  price: 9400
+  description: "**IMPORTANT : La série Confluence est bientôt épuisée reste disponible
+    le numéros de réserve II/IV**  \nConfluence est la version grand format de L'envolée.
+    \ \nDisponible prochainement à la galerie. Prix sur demande.\n\n* Confluence :
+    nom féminin du latin confluencia. Point de convergence de deux cours d'eau."
+  price: ''
   sold: false
   contextual: false
 - title: Confluence détail
