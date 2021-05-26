@@ -5744,10 +5744,10 @@ gatsby-plugin-gdpr-cookies@^2.0.0:
   dependencies:
     "@babel/runtime" "^7.11.2"
 
-gatsby-plugin-google-analytics@^3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.4.0.tgz#4630d0d8f2f37806be50de9bb3e120f4045150d1"
-  integrity sha512-dH/ZHPo8fzQq5DoFVR6oMd1n3xnsmvvy+CTzzaWCNxF5DGikTJFuIvUm3nLchBuRkfIlj2UbDkJfuPGwmfkTqw==
+gatsby-plugin-google-analytics@^3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.6.0.tgz#5b4826044cc626eb56783ceec5e7eabe3ff8ee37"
+  integrity sha512-yd7MwPJNuGLFtZk+O1WZiHM8YKsIfAg7CLKW+nd5AikNQFO3aFI4h2irqQ9s3O2M1ZS0gQdB50jqwscpQLv6+g==
   dependencies:
     "@babel/runtime" "^7.12.5"
     minimatch "3.0.4"
