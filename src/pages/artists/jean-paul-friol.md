@@ -85,18 +85,6 @@ works:
   description: ''
   price: 450
   contextual: true
-- title: Papiers collés 1994
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1994-70x104cm.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 104
-    width: 70
-    depth: 0
-  description: Réservé
-  price: 450
-  contextual: true
 - title: Papiers collés 1996
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papiers-colles-1996-h75x108l.jpg
   fields: []
@@ -107,19 +95,6 @@ works:
     depth: 0
   description: ''
   price: 450
-  contextual: true
-- title: 'Papiers collés '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-43x53cm.jpg
-  technique: 'Papiers collés et techniques mixtes '
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 53
-    width: 43
-    depth: 0
-  description: ''
-  price: 350
   contextual: true
 - title: 'Gravure 1988 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
@@ -209,6 +184,19 @@ works:
   description: ''
   price: 690
   contextual: false
+- title: Papier collé 081
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg
+  technique: Collage, papier soie, encre
+  dimensions:
+    height: 72
+    width: 52
+    depth: 
+  description: "1991"
+  price: 450
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: Papier collé 065
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-065-1996-collage-papier-kraft-acrylique-email-a-froid-crayon-de-couleur-h62x77l.jpg
   technique: Collage, papier kraft, acrylique, émail à froid, caryon de couleur
@@ -233,19 +221,6 @@ works:
   description: "1992"
   price: 450
   contextual: true
-- title: Papier collé 081
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg
-  technique: Collage, papier soie, encre
-  dimensions:
-    height: 72
-    width: 52
-    depth: 
-  description: "1991"
-  price: 450
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Papier collé 005
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papier-colle-005.jpg
   technique: Collage, papier soie, encre
@@ -263,19 +238,6 @@ works:
   dimensions:
     height: 73
     width: 61
-    depth: 
-  description: '1991 '
-  price: 450
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
-- title: Visage yeux cernés noirs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage-yeux-cernes-noirs.jpg
-  technique: collage papier et dessin
-  dimensions:
-    height: 91
-    width: 64
     depth: 
   description: '1991 '
   price: 450
@@ -360,19 +322,6 @@ works:
   description: ''
   price: 150
   contextual: true
-- title: Mise en situation Jean-Paul Friol et Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-friol-papier022-es.jpg
-  technique: Friol encre sur papier, Bathellier pigment et acrylique sur bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Marie Bathellier](https://galeriegaia.fr/artists/bathelier-marie/
-    "friol et bathellier") Sculpture Terre'
-  price: ''
-  contextual: false
 - title: Femme fleur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-gravure-femme-fleur.jpg
   technique: 'Gravure sur platre 4/25 '
@@ -436,7 +385,7 @@ works:
   price: 130
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol_femmenue_53-5x43-5.jpg
-  title: 'Gravure Nue Femme '
+  title: 'Gravure Nu Femme '
   technique: Gravure sur plâtre 7/20
 - title: Gravure 9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-09-1989-11-15-36x24.jpg
