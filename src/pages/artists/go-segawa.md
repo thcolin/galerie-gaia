@@ -16,7 +16,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Cube in red
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-cube-in-red.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-cube-in-red.png
   technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
@@ -28,7 +28,7 @@ works:
   price: 105
   contextual: true
 - title: Oeuf posé I (échelle 2/3eme)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
   technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
@@ -40,7 +40,7 @@ works:
   price: 90
   contextual: true
 - title: Colline imaginaire I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png
   technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
@@ -52,7 +52,7 @@ works:
   price: 180
   contextual: true
 - title: 'Les gouttes V '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-gouttes-v-650.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-gouttes-v-650.jpg
   technique: Impression jet d’encre sur polyester Edition 10/50
   dimensions:
     height: 7
@@ -63,7 +63,7 @@ works:
   sold: false
   contextual: false
 - title: Collision II
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
   technique: Impression jet d'encre sur polyester 10/25
   fields: []
   styles: []
@@ -75,7 +75,7 @@ works:
   price: 110
   contextual: true
 - title: La balle dans une balle III
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-balle-dans-la-balle.png"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-balle-dans-la-balle.png
   technique: Impression jet d'encre sur polyester 27/50
   fields: []
   styles: []
@@ -87,7 +87,7 @@ works:
   price: 110
   contextual: true
 - title: Dark Ball
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dark-ball.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dark-ball.jpg
   technique: impression jet d’encre sur polyester Edition 47/50
   dimensions:
     height: 7
@@ -98,7 +98,7 @@ works:
   sold: false
   contextual: false
 - title: Visage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg
   technique: Sérigraphie sur PVC Edition 12/50
   dimensions:
     height: 8
@@ -109,7 +109,7 @@ works:
   sold: false
   contextual: false
 - title: Blue & Pink
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-and-pink.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-and-pink.jpg
   technique: impression jet d’encre sur polyester Edition 29/50
   dimensions:
     height: 7
@@ -120,8 +120,8 @@ works:
   sold: false
   contextual: false
 - title: Goutte rouge
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg"
-  technique: Impression jet d’encre sur polyester Edition 38/50
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
+  technique: Impression jet d’encre sur polyester Edition 42/50
   dimensions:
     height: 6
     width: 11
@@ -131,7 +131,7 @@ works:
   sold: false
   contextual: false
 - title: Black cube in blue
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
   technique: Impression jet d'encre sur polyester Edition 3/25
   dimensions:
     height: 8
@@ -142,7 +142,7 @@ works:
   sold: false
   contextual: false
 - title: 5 volumes empilées
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
   technique: ''
   dimensions:
     height: 
@@ -153,7 +153,7 @@ works:
   sold: false
   contextual: true
 - title: 'Oval I – red & yellow '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-i-red-and-yellow-1550-1650.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-i-red-and-yellow-1550-1650.jpg
   technique: Impression jet d’encre sur polyester Edition en 50 exemplaires
   dimensions:
     height: 9
@@ -165,7 +165,7 @@ works:
   sold: false
   contextual: false
 - title: 'Oval II – dark '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-ii-dark-950-1050.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-ii-dark-950-1050.jpg
   technique: Impression  jet d’encre sur polyester Edition en 50 exemplaires
   dimensions:
     height: 9
@@ -177,7 +177,7 @@ works:
   sold: false
   contextual: true
 - title: Life I (3/25)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/life-i-325.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/life-i-325.jpg
   technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
   dimensions:
     height: 8
@@ -188,7 +188,7 @@ works:
   sold: false
   contextual: false
 - title: 'Violet '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/violet-1350-1450.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/violet-1350-1450.jpg
   technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
   dimensions:
     height: 7
@@ -199,7 +199,7 @@ works:
   sold: false
   contextual: false
 - title: 'Squares in Blue '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/squares-in-blue-425.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/squares-in-blue-425.jpg
   technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
   dimensions:
     height: 8
@@ -210,7 +210,7 @@ works:
   sold: false
   contextual: false
 - title: 'Snake II – orange '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/snake-ii-orange-1950.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/snake-ii-orange-1950.jpg
   technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
   dimensions:
     height: 6
@@ -221,7 +221,7 @@ works:
   sold: false
   contextual: false
 - title: Trophée Open de Squash de Nantes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trophee-open-de-squash-de-nantes.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trophee-open-de-squash-de-nantes.jpg
   technique: ''
   dimensions:
     height: 
