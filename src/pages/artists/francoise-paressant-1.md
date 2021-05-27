@@ -96,6 +96,19 @@ works:
   price: 12000
   sold: false
   contextual: true
+- title: CPJ 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-cpj3-60X50.jpg
+  technique: 'Papiers japon acrylique marouflés sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: "2011"
+  price: 800
+  sold: false
+  contextual: true
 - title: CPJ 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-cpj2-40X30.jpg
   technique: 'Collages sur toile de papier japon teinté acrylique '
