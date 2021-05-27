@@ -29,6 +29,23 @@ biography: |-
 
   **Non-Habitants** nous rassemblent, ainsi, pour un temps de production, sur le lieu même de l’exposition, à la **Galerie Gaïa à Nantes,** le temps d'un week-end de déambulation artistique dans la ville  : [Wave]() Ce processus expérimental tente de voir comment la diversité et la pluralité de nos approches plastiques cohabitent, s'adaptent et se transforment via des fragments de nos travaux. Partageant un intérêt commun pour le paysage urbain, les marques et les caractéristiques des modes d’habitation, nous prenons le parti à travers le projet « Non-Habitants » de vivre cette cohabitation fortuite comme un moteur de notre création personnelle.
 works:
+- title: Portrait Simon Bousquet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2021-05-27 à 11.14.17.png
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    # Simon Bousquet
+
+    A travers impressions, moulages et autres constructions utilisant le béton, exploitant les éléments du chantier, du monde ouvrier, Simon Bousquet compose ses réalisations autour de questionnements sur les ruines qui nous entourent, avec lesquelles on vit.
+  price: 
+  sold: false
+  contextual: false
 - title: WAVE Week-end arts visuels Nantes 28 29 30 Mai 2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/wave_150dpi-01 (1).png
   technique: ''
@@ -69,6 +86,23 @@ works:
   sold: false
   contextual: true
   price: 
+- title: Portrait Basile COLLET
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2021-05-27 à 11.14.30.png
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    # Basile Collet
+
+    développe une pratique artistique qui s’approche des matérialités et notions des systèmes de survie, des traces d’existences, et de la perpétuité de la mémoire, par le biais d’installations, de sculptures, dessins et vidéos. Son travail opère comme un exercice de traduction entre l’immatérialité de l'idéal et la réalité politique. Il conduit dans le cadre du programme CCC à la Head Genève, une recherche sur le lien entre les imaginaires apocalyptiques et la gestion des territoires.
+  price: 
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
