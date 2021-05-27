@@ -210,13 +210,17 @@ works:
   sold: false
   contextual: true
 - title: Le Rai profond N°4 ouest
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-le-rai-profond-4-30x60.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-wadecki-rai
+    profond 4  ouest.jpg
   technique: 'Acrylique et pastel sur papier '
   dimensions:
     height: 30
     width: 60
     depth: 
-  description: "2019 \n\noeuvre encadré baguette aluminium"
+  description: |-
+    2019
+
+    œuvre encadrée baguette aluminium verre anti reflet
   price: 600
   sold: false
   contextual: true
