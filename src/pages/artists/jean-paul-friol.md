@@ -148,7 +148,7 @@ works:
   price: 450
   contextual: true
 - title: Papier encre 022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-paul-friol-encre-022.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie)-gaia-friol-papier022.jpg
   technique: 'Encre sur papier '
   fields: []
   styles:
