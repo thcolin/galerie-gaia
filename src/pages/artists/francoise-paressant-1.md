@@ -97,7 +97,7 @@ works:
   sold: false
   contextual: true
 - title: CPJ 002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cpj-40x30-002.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-cpj2-40X30.jpg
   technique: 'Collages sur toile de papier japon teinté acrylique '
   fields: []
   styles: []
