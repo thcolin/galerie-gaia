@@ -228,28 +228,6 @@ works:
   price: 160
   sold: false
   contextual: true
-- title: Paysage 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.paysage2.100x81cm.jpg
-  technique: acrylique sur papier
-  dimensions:
-    height: 50
-    width: 81
-    depth: ''
-  description: "2020"
-  price: 700
-  contextual: true
-  fields:
-  - Peinture
-- title: Paysage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.paysage.81x65cm.jpg
-  technique: acrylique sur papier
-  dimensions:
-    height: 65
-    width: 81
-    depth: ''
-  description: ''
-  price: 700
-  contextual: true
 - title: Portrait de Marie Vandooren
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandooren-portrait.jpg
   dimensions:
