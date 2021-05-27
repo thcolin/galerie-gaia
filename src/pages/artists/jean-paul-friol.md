@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: 'Masques Africains '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-verre
+    masque afric.jpg
+  technique: Verre et pigments
+  fields: []
+  styles: []
+  dimensions:
+    height: 34
+    width: 39
+    depth: 5
+  description: Oeuvre encadrée cadre bois laqué noir haute feuillure 5cm
+  price: 780
+  contextual: true
 - title: Papier collé 044
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-044-1996-collage-papier-kraft-scotch-acrylique-email-a-froid-h77x61l.jpg
   technique: Collage, papier, kraft, scotch, acrylique, email à froid
