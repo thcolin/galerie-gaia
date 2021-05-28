@@ -27,8 +27,8 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
 exhibitions: []
 works:
 - title: 'Contraste #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste#1-
-    30x40 cm- 2ex- 2019.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste1-
+    30x40cm 2019.jpg
   technique: 'Sérigraphie 2 exemplaires '
   fields: []
   styles: []
