@@ -26,6 +26,19 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: 'Contraste #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste#1-
+    30x40 cm- 2ex- 2019.jpg
+  technique: 'Sérigraphie 2 exemplaires '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: dernier exemplaire
+  price: 180
+  contextual: true
 - title: Forme d'architecture 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
   technique: 'Acrylique sur papier '
