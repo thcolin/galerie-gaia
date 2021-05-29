@@ -101,7 +101,7 @@ works:
   price: 250
   contextual: false
 - title: Lièvre vert clair
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.gif
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
   technique: Grès émaillé
   fields: []
   styles: []
