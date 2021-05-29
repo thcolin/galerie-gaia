@@ -18,13 +18,13 @@ exports.handler = async (event, context, callback) => {
     return
   }
 
-  const ext = path.extname(file).toLowerCase()
-  if (!['.png', '.jpg', '.jpeg'].includes(ext)) {
+  const ext = path.extname(file)
+  if (!['.png', '.jpg', '.jpeg'].includes(ext.toLowerCase())) {
     console.log(`Unsupported image type: ${ext}`)
     return
   }
 
-  const type = `image/${{ png: 'png', jpg: 'jpeg', jpeg: 'jpeg' }[ext]}`
+  const type = `image/${{ '.png': 'png', '.jpg': 'jpeg', '.jpeg': 'jpeg' }[ext.toLowerCase()]}`
 
   try {
     console.log('S3 getObject', { Bucket, Key: `forestry/${file}` })
@@ -34,7 +34,7 @@ exports.handler = async (event, context, callback) => {
     return
   }
 
-  const slugified = `${slug(path.basename(file, ext), { lower: true })}${ext}`
+  const slugified = `${slug(path.basename(file, ext), { lower: true })}${ext.toLowerCase()}`
 
   try {
     original = await sharp(forestry).resize(1920).toBuffer()
