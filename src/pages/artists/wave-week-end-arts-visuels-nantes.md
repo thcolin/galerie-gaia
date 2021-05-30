@@ -29,7 +29,7 @@ biography: |-
 
   **Non-Habitants** nous rassemblent, ainsi, pour un temps de production, sur le lieu même de l’exposition, à la **Galerie Gaïa à Nantes,** le temps d'un week-end de déambulation artistique dans la ville  : [Wave]() Ce processus expérimental tente de voir comment la diversité et la pluralité de nos approches plastiques cohabitent, s'adaptent et se transforment via des fragments de nos travaux. Partageant un intérêt commun pour le paysage urbain, les marques et les caractéristiques des modes d’habitation, nous prenons le parti à travers le projet « Non-Habitants » de vivre cette cohabitation fortuite comme un moteur de notre création personnelle.
 works:
-- title: 'Décomposition - Simon Collet '
+- title: 'Décomposition par Simon Collet '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-collet-decomposition.jpg
   technique: Impression sur béton
   fields:
