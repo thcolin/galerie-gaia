@@ -87,7 +87,7 @@ works:
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-chilida70x50.jpg
   styles:
-  - abstrait
+  - Abstrait
 - title: Miró Exposition Barcelone 1973
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
   technique: Affiche de collection en parfait état
@@ -98,6 +98,10 @@ works:
   description: "# Miro "
   price: 140
   contextual: true
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
 - title: Tapiès Exposition Galerie Maeght 1975
   technique: Affiche de collection en parfait état
   dimensions:
@@ -109,7 +113,7 @@ works:
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tapies-maeght72x56.jpg
   styles:
-  - abstrait
+  - Abstrait
 - title: 'Georg Baselitz - Sigmund '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
   technique: Eau forte (15/15)
