@@ -207,7 +207,7 @@ works:
     height: 62
     width: 82
     depth: 0
-  description: 2020 Réservé
+  description: 2020 Caisse américaine chêne
   price: ''
   contextual: true
 - title: Simple color
