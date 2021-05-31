@@ -3,8 +3,8 @@ fields:
 - Peinture
 - Oeuvre sur papier
 styles:
-- figuratif
-- abstrait
+- Figuratif
+- Abstrait
 seo:
   type: article
   title: ''
@@ -97,7 +97,7 @@ works:
   dimensions:
     height: 95
     width: 65
-    depth: 0
+    depth: 
   description: "2004"
   price: 2200
   sold: false
@@ -111,7 +111,7 @@ works:
   dimensions:
     height: 95
     width: 65
-    depth: 0
+    depth: 
   description: "2004"
   price: 2200
   sold: false
@@ -125,7 +125,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2011"
   price: 1500
   sold: false
@@ -140,7 +140,7 @@ works:
   dimensions:
     height: 150
     width: 122
-    depth: 0
+    depth: 
   description: "2002"
   price: 5000
   sold: false
@@ -154,7 +154,7 @@ works:
   dimensions:
     height: 102
     width: 89
-    depth: 0
+    depth: 
   description: "2000"
   price: 2400
   sold: false
@@ -169,7 +169,7 @@ works:
   dimensions:
     height: 150
     width: 122
-    depth: 0
+    depth: 
   description: "2002"
   price: 5000
   sold: false
@@ -183,7 +183,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2011"
   price: 1500
   sold: false
@@ -198,7 +198,7 @@ works:
   dimensions:
     height: 150
     width: 122
-    depth: 0
+    depth: 
   description: "2002"
   price: 5000
   sold: false
@@ -212,7 +212,7 @@ works:
   dimensions:
     height: 102
     width: 69
-    depth: 0
+    depth: 
   description: "2000"
   price: 2400
   sold: false
@@ -226,7 +226,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: "2011"
   price: 1500
   sold: false
