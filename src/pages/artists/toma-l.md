@@ -129,6 +129,19 @@ works:
   description: 2019 Prix sur demande
   price: ''
   contextual: true
+- title: 'Brut and Simple colors dans l''atelier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-L_atelier_0012.jpg
+  technique: Technqiue mixte sur toile, châssis à clef
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 102
+    depth: 0
+  description: 2019 Prix sur demande
+  price: ''
+  contextual: false
 - title: 'Petit crade à l''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2020031706-PETITCRADE-100X72CM-atelier.jpg
