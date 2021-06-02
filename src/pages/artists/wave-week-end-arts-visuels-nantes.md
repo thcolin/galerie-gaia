@@ -29,8 +29,24 @@ biography: |-
 
   **Non-Habitants** nous rassemblent, ainsi, pour un temps de production, sur le lieu même de l’exposition, à la **Galerie Gaïa à Nantes,** le temps d'un week-end de déambulation artistique dans la ville  : [Wave]() Ce processus expérimental tente de voir comment la diversité et la pluralité de nos approches plastiques cohabitent, s'adaptent et se transforment via des fragments de nos travaux. Partageant un intérêt commun pour le paysage urbain, les marques et les caractéristiques des modes d’habitation, nous prenons le parti à travers le projet « Non-Habitants » de vivre cette cohabitation fortuite comme un moteur de notre création personnelle.
 works:
-- title: Crash par Simon Bousquet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-BOUSQUET-crash.jpg
+- title: Nouvelle condition par Simon Collet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-collet-nouvelle
+    condition.jpg
+  technique: 'Moulage béton et serre joint '
+  fields:
+  - Sculpture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 10
+    width: 45
+    depth: 8
+  description: ''
+  price: 750
+  sold: false
+  contextual: false
+- title: Griffes par Simon Bousquet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-collet-griffes.jpg
   technique: Photographie impression sur béton
   fields:
   - Photographie
@@ -44,8 +60,8 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: Griffes par Simon Bousquet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-collet-griffes.jpg
+- title: Crash par Simon Bousquet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-BOUSQUET-crash.jpg
   technique: Photographie impression sur béton
   fields:
   - Photographie
