@@ -101,6 +101,20 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Dark and full colors
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019012701-darkandfullcolors-160x200cm.jpg
+  technique: Tecnique mixte sur toile, châssis à clef
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 160
+    width: 200
+    depth: 0
+  description: '2019 Prix sur demande '
+  price: ''
+  contextual: true
 - title: 'Petit crade à l''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2020031706-PETITCRADE-100X72CM-atelier.jpg
