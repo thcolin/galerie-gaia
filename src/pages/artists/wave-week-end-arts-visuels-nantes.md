@@ -44,22 +44,7 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: Griffes par Simon Collet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-collet-griffes.jpg
-  technique: Impression sur béton
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: "# Simon Collet"
-  price: 350
-  sold: false
-  contextual: true
-- title: Noir néon par Simon Collet
+- title: Noir néon par Simon Bousquet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-simon-collet-noir
     néon.jpg
   technique: 'Photographie impression sur béton '
