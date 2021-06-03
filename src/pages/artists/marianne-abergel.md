@@ -52,18 +52,6 @@ works:
   description: Prix par pièce de 250€ à 300€
   price: 250
   contextual: true
-- title: Lièvre vert foncé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-lièvre-vert-foncé-2021.jpg
-  technique: Grès émaillé
-  fields: []
-  styles: []
-  dimensions:
-    height: 15
-    width: 9
-    depth: 6
-  description: ''
-  price: 280
-  contextual: false
 - title: Grande chimère lièvre céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2021.jpg
   technique: Grès émaillé
