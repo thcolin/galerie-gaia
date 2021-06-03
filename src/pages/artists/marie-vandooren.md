@@ -62,7 +62,7 @@ works:
     width: 70
     depth: 0
   description: ''
-  price: 250
+  price: 200
   contextual: true
 - title: Les Sables d'Olonne
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
@@ -75,7 +75,7 @@ works:
     width: 70
     depth: 0
   description: ''
-  price: 250
+  price: 200
   contextual: true
 - title: 1 baigneur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
@@ -88,7 +88,7 @@ works:
     width: 70
     depth: 0
   description: ''
-  price: 250
+  price: 200
   contextual: true
 - title: Forme d'architecture 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture4.70x50.jpg
