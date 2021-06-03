@@ -35,6 +35,23 @@ works:
   description: "[Cindy Belaud]() "
   price: 150
   contextual: false
+- title: Dark and full colors par Toma L
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
+  technique: Mixte sur toile, châssis à clef
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 160
+    width: 200
+    depth: 0
+  description: |-
+    # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
+
+    Prix sur demande
+  price: ''
+  contextual: false
 - title: Gammes 2021 par Cindy Belaud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
   technique: Sérigraphie en 12 exemplaires
@@ -158,7 +175,7 @@ works:
   price: 650
   contextual: false
 - title: Little wood trash par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-1.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
   technique: 'Mixte sur papier '
   fields:
   - Peinture
