@@ -34,14 +34,40 @@ biography: |-
 
   Se dire que la production induit une action, un mouvement extérieur du corps. C’est prendre en compte ses faillibilités. Conserver la possibilité de se tromper, d’accepter l’accident bienvenu. Rester spontané**.**
 
-  _Cindy Belaud, expérimente, malmène et questionne : la forme, le motif, le médium._
+  Cindy Belaud, expérimente, malmène et questionne : la forme, le motif, le médium.
 
-  _Son acte créatif n’est jamais limité, faire, faire encore, faire toujours, malgré les erreurs et les accidents. Les œuvres de Cindy Belaud sont des étapes de réflexion. L’expérimentation et la spontanéité sont intrinsèques à sa production plastique qui s’exprime sur papier, lors de confections d’objets imprimés, en sérigraphie ou avec des formes monumentales sur mur… Pour cette plasticienne, expérimentation suppose rigueur. Un protocole de création qu’il faut inventer et qu’elle s’impose. Sa rigueur permet une liberté poétique. Les travaux de Cindy Belaud sont des exercices aux formes simples : un formalisme immédiat. C’est pourtant là que le regardant se doit d’observer un mouvement de recul et se laisser convaincre par l’échange qui lui est proposé. Cindy Belaud souhaite transmettre et fournir un prêt à penser._
+  Son acte créatif n’est jamais limité, faire, faire encore, faire toujours, malgré les erreurs et les accidents. Les œuvres de Cindy Belaud sont des étapes de réflexion. L’expérimentation et la spontanéité sont intrinsèques à sa production plastique qui s’exprime sur papier, lors de confections d’objets imprimés, en sérigraphie ou avec des formes monumentales sur mur… Pour cette plasticienne, expérimentation suppose rigueur. Un protocole de création qu’il faut inventer et qu’elle s’impose. Sa rigueur permet une liberté poétique. Les travaux de Cindy Belaud sont des exercices aux formes simples : un formalisme immédiat. C’est pourtant là que le regardant se doit d’observer un mouvement de recul et se laisser convaincre par l’échange qui lui est proposé. Cindy Belaud souhaite transmettre et fournir un prêt à penser.
 
-  _Cindy Belaud, vit et travaille à Nantes et Rennes. Diplômée d’un Master recherche en Arts plastiques - Pratiques et poétiques de l’Université de Rennes2 en 2015. Elle s’inscrit dans les questionnements du mouvement Support/Surface et adhère aux valeurs modernes et radicales de l’École du Bauhaus. Enfin, elle s’inspire de ses contemporains : Bruno Peinado, Damien Poulain, Meg Hopkin, Palefroi, Formes Vives, Momo Studio…_
+  Cindy Belaud, vit et travaille à Nantes et Rennes. Diplômée d’un Master recherche en Arts plastiques - Pratiques et poétiques de l’Université de Rennes2 en 2015. Elle s’inscrit dans les questionnements du mouvement Support/Surface et adhère aux valeurs modernes et radicales de l’École du Bauhaus. Enfin, elle s’inspire de ses contemporains : Bruno Peinado, Damien Poulain, Meg Hopkin, Palefroi, Formes Vives, Momo Studio…
 
   Ines Ben Brahim
 works:
+- title: 1 Trait en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 150
+  sold: false
+  contextual: false
+- title: 1 Trait
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-trait-40X30.jpg
+  technique: Sérigraphie 5/10
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 150
+  sold: false
+  contextual: true
 - title: Aplat en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
   technique: ''
@@ -54,7 +80,7 @@ works:
   description: ''
   price: 200
   sold: false
-  contextual: true
+  contextual: false
 - title: Aplat
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-aplat-70X50.jpg
   technique: 'Sérigraphie '
@@ -66,19 +92,6 @@ works:
     depth: 0
   description: Disponibles 8_9_10/12
   price: 200
-  sold: false
-  contextual: true
-- title: 1 Trait
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-trait-40X30.jpg
-  technique: Sérigraphie 5/10
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 150
   sold: false
   contextual: true
 exhibitions: []
