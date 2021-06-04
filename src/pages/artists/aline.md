@@ -100,20 +100,6 @@ works:
   price: 800
   sold: false
   contextual: true
-- title: Station 5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
-    5-2017,60x60cm.jpg
-  technique: Photo tirage unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2017"
-  price: 700
-  sold: false
-  contextual: true
 - title: Les objets 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-les
     objets 10-2019,60x60cm.jpg
@@ -126,20 +112,6 @@ works:
     depth: 
   description: "2017"
   price: 700
-  sold: false
-  contextual: true
-- title: 'Habitants sur route 12 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-habitants
-    sur route 12-2018,60x60cm.jpg
-  technique: 'Photo dépigmentée tirage unique '
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: Réservé
-  price: 
   sold: false
   contextual: true
 - title: Habitants sur route 8
