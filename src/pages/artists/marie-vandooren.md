@@ -214,7 +214,7 @@ works:
     width: 10
     depth: 6
   description: "2020"
-  price: 250
+  price: 150
   contextual: false
   fields:
   - Sculpture
@@ -226,7 +226,7 @@ works:
     width: 9
     depth: 9
   description: ''
-  price: 250
+  price: 150
   contextual: false
   fields:
   - Sculpture
