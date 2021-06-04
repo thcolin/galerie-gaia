@@ -54,7 +54,7 @@ works:
     height: 60
     width: 60
     depth: 
-  price: 700
+  price: 800
   sold: false
   contextual: true
   description: '2020 '
@@ -69,7 +69,7 @@ works:
     width: 60
     depth: 
   description: ''
-  price: 700
+  price: 800
   sold: false
   contextual: true
 - title: Station 6 2017
@@ -83,7 +83,7 @@ works:
     width: 60
     depth: 
   description: "2017"
-  price: 700
+  price: 800
   sold: false
   contextual: true
 - title: Station 6 2016
@@ -111,7 +111,7 @@ works:
     width: 60
     depth: 
   description: "2017"
-  price: 700
+  price: 800
   sold: false
   contextual: true
 - title: Habitants sur route 8
@@ -125,7 +125,7 @@ works:
     width: 60
     depth: 
   description: "2018"
-  price: 700
+  price: 800
   sold: false
   contextual: true
 exhibitions: []
