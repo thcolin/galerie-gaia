@@ -5,8 +5,7 @@ carousel:
     l-2019012701-darkandfullcolors-160x200cm.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-00 emile 2020-
     détail2.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    bleu-160X130.jpeg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
 redirect_from:
 - "/plan/"
 seo:
