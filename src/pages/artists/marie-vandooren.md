@@ -26,6 +26,31 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: 'Pont route '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_pont
+    route_sérigraphie_30x40_2021.jpg
+  technique: Sérigraphie 12/12
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 130
+  contextual: true
+- title: 3 nageurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
+  technique: Sérigraphie trichromie 4/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 61
+    width: 42
+    depth: 0
+  description: "Image 40X30  \n2021"
+  price: 150
+  contextual: true
 - title: 'Contraste #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste1-
     30x40cm 2019.jpg
