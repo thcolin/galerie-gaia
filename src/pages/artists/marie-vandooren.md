@@ -39,6 +39,18 @@ works:
   description: ''
   price: 130
   contextual: true
+- title: Visage montagne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_visagemontagne_sérigraphie_30x40_2021.jpg
+  technique: Sérigraphie 9/9
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 34
+    depth: 0
+  description: "Format image 40X30 cm  \n2021"
+  price: 130
+  contextual: true
 - title: 3 nageurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie trichromie 4/8
