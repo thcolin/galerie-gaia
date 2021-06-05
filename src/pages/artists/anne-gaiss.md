@@ -32,19 +32,6 @@ biography: |-
   Galerie Gaïa, Nantes
 exhibitions: []
 works:
-- title: Oracle XI
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
-  technique: Huiles, Feutres et incisions sur feuille de cuivre marouflée sur papier
-    traditionnel indien
-  fields: []
-  styles: []
-  dimensions:
-    height: 74
-    width: 64
-    depth: 0
-  description: L'âme court sur le chemin jusqu'à l'éclosion des nuages
-  price: 3200
-  contextual: true
 - title: Splendor Solis VII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
   technique: 'Encre de chine découpes et incisions sur feuille de cuivre marouflé
@@ -57,6 +44,19 @@ works:
     depth: 0
   description: ''
   price: 6000
+  contextual: true
+- title: Oracle XI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
+  technique: Huiles, Feutres et incisions sur feuille de cuivre marouflée sur papier
+    traditionnel indien
+  fields: []
+  styles: []
+  dimensions:
+    height: 74
+    width: 64
+    depth: 0
+  description: L'âme court sur le chemin jusqu'à l'éclosion des nuages
+  price: 3200
   contextual: true
 - title: Nigredo IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_nigredo.4_60X76.jpg
