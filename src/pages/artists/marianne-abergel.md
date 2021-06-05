@@ -40,6 +40,17 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Grande Courbe
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
+    ABERGEL- Frontalité1- 46x22 cm.jpg
+  technique: Céramique
+  dimensions:
+    height: 46
+    width: 22
+    depth: 0
+  description: "2019"
+  price: 1500
+  contextual: false
 - title: 3 lièvres céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-3-lièvres-céladon-2021.jpg
   technique: Grès émaillé
@@ -98,7 +109,7 @@ works:
     width: 12
     depth: 6
   description: ''
-  price: 300
+  price: 280
   contextual: false
 - title: Lièvre céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg
@@ -108,34 +119,10 @@ works:
   - Figuratif
   dimensions:
     height: 19
-    width: 0
-    depth: 0
+    width: 12
+    depth: 6
   description: ''
   price: 280
-  contextual: false
-- title: Lièvre turquoise
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievres-turquoise-2020.jpg
-  technique: Grès émaillé
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 12
-    width: 0
-    depth: 0
-  description: Modèle de droite disponible
-  price: 200
-  contextual: false
-- title: Grande Courbe
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL- Frontalité1- 46x22 cm.jpg
-  technique: Céramique
-  dimensions:
-    height: 46
-    width: 22
-    depth: 0
-  description: "2019"
-  price: 1500
   contextual: false
 - title: Sisters
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
