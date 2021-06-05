@@ -126,7 +126,7 @@ works:
   description: Modèle de droite disponible
   price: 200
   contextual: false
-- title: Frontalité 1
+- title: Grande Courbe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL- Frontalité1- 46x22 cm.jpg
   technique: Céramique
