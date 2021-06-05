@@ -86,7 +86,7 @@ works:
     width: 9
     depth: 6
   description: ''
-  price: 250
+  price: 280
   contextual: false
 - title: Lièvre vert clair
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
