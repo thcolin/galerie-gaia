@@ -3,9 +3,11 @@ template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019012701-darkandfullcolors-160x200cm.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-00 emile 2020-
     détail2.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_pont
+    route_sérigraphie_30x40_2021.jpg
 redirect_from:
 - "/plan/"
 seo:
