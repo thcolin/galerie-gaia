@@ -124,16 +124,16 @@ works:
   description: ''
   price: 280
   contextual: false
-- title: Sisters
+- title: Sisters en duo
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL-Sisters- 39x19 cm.jpg
-  technique: 'Céramique '
+  technique: Céramique Porcelaine teintée dans la masse, oxyde de Cobalt
   dimensions:
     height: 39
     width: 19
     depth: 0
-  description: "1200€/ pièce  \n2019"
-  price: 1200
+  description: "Chaque pétale de faïence est accumulée individuellement   \n2019"
+  price: 2400
   contextual: false
 - title: Chimère cachée Le lièvre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
