@@ -79,19 +79,6 @@ works:
   description: ''
   price: 2000
   contextual: true
-- title: En mon jardin sur toile N°5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-wadecki
-    en mon jardin sur toile N°5-2019-81x100cm-acrylique,bâtons-d'huile- 1600 euros.JPG
-  technique: Acrylique, bâtons d'huile
-  fields: []
-  styles: []
-  dimensions:
-    height: 81
-    width: 100
-    depth: 0
-  description: "2019"
-  price: 1600
-  contextual: true
 - title: En mon jardin N°12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
     En mon jardin N°12 acrylique, bâtons d'huile sur papier marouflé sur toile-  2019-

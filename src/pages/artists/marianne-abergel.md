@@ -158,7 +158,7 @@ works:
   description: ''
   price: 290
   sold: false
-  contextual: true
+  contextual: false
 - title: 'Portrait d''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-portrait
     Marianne Abergel- 2019.jpg
