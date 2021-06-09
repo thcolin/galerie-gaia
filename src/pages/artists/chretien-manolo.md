@@ -10,7 +10,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: Chretien Manolo
+title: Chrétien Manolo
 location: ''
 birth: ''
 death: ''
