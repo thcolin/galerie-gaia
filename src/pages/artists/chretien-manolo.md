@@ -17,6 +17,20 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: Green and Red
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-v1GREEN
+    RED-9637 9627.jpeg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: T BIRD CARMAN
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-90x60cm-TBIRD-KARMAN-1C5A5473.jpeg
   technique: Photo sublimation sur feuille d'aluminium brossée brillant
