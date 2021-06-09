@@ -40,6 +40,19 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: 'Cerf '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
+    cerf-06.21.jpg
+  technique: 'Grès  émaillé oxyde de cuivre 2 cuissons '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 9
+    depth: 10
+  description: ''
+  price: 650
+  contextual: false
 - title: Chimère lièvre porcelaine & or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
     lièvre porcelaine-06.21.jpg
@@ -77,6 +90,8 @@ works:
   description: "2019"
   price: 1500
   contextual: false
+  styles:
+  - Abstrait
 - title: 3 lièvres céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-3-lièvres-céladon-2021.jpg
   technique: Grès émaillé
@@ -161,6 +176,8 @@ works:
   description: "Chaque pétale de faïence est accumulée individuellement   \n2019"
   price: 2400
   contextual: false
+  styles:
+  - Abstrait
 - title: Chimère cachée Le lièvre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL-chimère cachée-lièvre.jpg
