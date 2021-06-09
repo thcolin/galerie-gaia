@@ -40,6 +40,32 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Lièvre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-lièvre
+    2-06.21.jpg
+  technique: 'Grès oxyde de cuivre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 12
+    depth: 7
+  description: ''
+  price: 560
+  contextual: false
+- title: 'Lièvre 1 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-lièvre
+    1-06.21.jpg
+  technique: Grès oxyde de cuivre
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 12
+    depth: 7
+  description: ''
+  price: 560
+  contextual: false
 - title: 'Cerf '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
     cerf-06.21.jpg
