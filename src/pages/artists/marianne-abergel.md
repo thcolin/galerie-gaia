@@ -82,7 +82,7 @@ works:
 - title: Chimère lièvre porcelaine & or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
     lièvre porcelaine-06.21.jpg
-  technique: Porcelaine émaillée lustre or
+  technique: Porcelaine émaillée lustre or 3 cuissons
   fields: []
   styles: []
   dimensions:
@@ -95,7 +95,7 @@ works:
 - title: Chimère cerf porcelaine & or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
     cerf porcelaine-06.21.jpg
-  technique: Porcelaine émaillée lustre or
+  technique: Porcelaine émaillée lustre or 3 cuissons
   fields: []
   styles: []
   dimensions:
