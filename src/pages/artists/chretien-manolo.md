@@ -17,18 +17,33 @@ death: ''
 expose: true
 biography: ''
 works:
-- title: Green and Red
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-v1GREEN
-    RED-9637 9627.jpeg
-  technique: ''
+- title: Indian sabre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-indian-sabre-two-120X120.jpeg
+  technique: Photo sublimation sur feuille d'aluminium brossée brillant caisse américaine
+    noire
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 100
+    width: 100
     depth: 0
-  description: ''
-  price: 
+  description: '3 exemplaires '
+  price: 4500
+  sold: false
+  contextual: true
+- title: Alumination Green and Red (diptyque)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-v1GREEN
+    RED-9637 9627.jpeg
+  technique: Photo sublimation sur feuille d'aluminium brossée brillant caisse américaine
+    noire
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 120
+    depth: 0
+  description: Diptyque 2X (90X60cm)
+  price: 5600
   sold: false
   contextual: true
 - title: T BIRD CARMAN
