@@ -28,7 +28,7 @@
     "gatsby-plugin-sitemap": "^4.0.0",
     "gatsby-redirect-from": "^0.3.0",
     "gatsby-source-filesystem": "3.4.0",
-    "gatsby-transformer-remark": "4.1.0",
+    "gatsby-transformer-remark": "4.4.0",
     "is-mobile": "^3.0.0",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
