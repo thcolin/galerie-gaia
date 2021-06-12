@@ -26,6 +26,58 @@ biography: |-
   [L’exposition Polymorphie ](https://galeriegaia.fr/actualites/ "exposition galerie gaia nantes")organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: Prés contigus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-prés
+    contigus.JPG
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 55
+    width: 46
+    depth: 0
+  description: "1974  \nVisible à la galerie"
+  price: 2000
+  contextual: true
+- title: Bois secs (I)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
+    sec.JPG
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 81
+    width: 116
+    depth: 0
+  description: "1988  \nVisible à la galerie"
+  price: 4700
+  contextual: true
+- title: Bois sec en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
+    sec (scénographie ac chaise).JPG
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 4700
+  contextual: false
+- title: Point culminant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
+    culminant.JPG
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 73
+    depth: 100
+  description: "1986  \nVisible à la galerie"
+  price: 4300
+  contextual: true
 - title: Point culminant en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
     culminant (scénographie ac chaise) .JPG
@@ -52,32 +104,6 @@ works:
   description: "1990  \nVisible à la galerie"
   price: 2500
   contextual: true
-- title: Prés contigus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-prés
-    contigus.JPG
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 55
-    width: 46
-    depth: 0
-  description: "1974  \nVisible à la galerie"
-  price: 2000
-  contextual: true
-- title: Point culminant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
-    culminant.JPG
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 73
-    depth: 100
-  description: "1986  \nVisible à la galerie"
-  price: 4300
-  contextual: true
 - title: Le taillis
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     taillis.JPG
@@ -103,19 +129,6 @@ works:
     depth: 0
   description: "1974  \nVisible à la galerie"
   price: 3300
-  contextual: true
-- title: Bois secs (I)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
-    sec.JPG
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 81
-    width: 116
-    depth: 0
-  description: "1988  \nVisible à la galerie"
-  price: 4700
   contextual: true
 - title: 'Arbre à couleurs '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-arbre
