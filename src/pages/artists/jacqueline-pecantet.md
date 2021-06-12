@@ -21,6 +21,21 @@ biography: "# Jacqueline Pecantet\n\nDes boules, des cubes...  \nDes cubes, clin
   à effleurer, à caresser..."
 exhibitions: []
 works:
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/66 JM Nicolau copie.jpg
+  technique: Photographie
+  fields:
+  - Edition
+  styles:
+  - Figuratif
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Image contenue dans le livre S'il reste des silences...  \nTirage
+    à 300 exemplaires 29€"
+  price: 29
+  contextual: true
 - title: 'Chine '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 Page 5 Left 1-AAA-CHINE
     2005025 copie.jpeg
