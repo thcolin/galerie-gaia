@@ -27,8 +27,21 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: 'Circonvolutions '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-circonvolutions.JPG
+  technique: 'Eau forte sur zinc '
+  fields: []
+  styles: []
+  dimensions:
+    height: 342
+    width: 340
+    depth: 0
+  description: "1971"
+  price: 450
+  sold: false
+  contextual: true
 - title: Signaux indécis
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
   technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
   dimensions:
     height: 118
@@ -43,7 +56,7 @@ works:
   styles:
   - Abstrait
 - title: Zoom sur Signaux indécis
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/signaux-indecis.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/signaux-indecis.jpg
   technique: Tapisserie en laine
   dimensions:
     height: 
@@ -58,7 +71,7 @@ works:
   styles:
   - Abstrait
 - title: Vers l'Ouest
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vers-louest.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vers-louest.jpg
   technique: Gravure
   dimensions:
     height: 
@@ -71,7 +84,7 @@ works:
   fields: []
   styles: []
 - title: En forme de feuille
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg
   technique: Gravure
   dimensions:
     height: 
@@ -84,7 +97,7 @@ works:
   fields: []
   styles: []
 - title: Bouquet bleu
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouquet-bleu.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouquet-bleu.jpg
   technique: Gravure
   dimensions:
     height: 
@@ -97,7 +110,7 @@ works:
   fields: []
   styles: []
 - title: Bride abattue
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bride-abattue.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bride-abattue.jpg
   technique: Gravure
   dimensions:
     height: 
@@ -110,7 +123,7 @@ works:
   fields: []
   styles: []
 - title: Capture
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture.jpg
   technique: Gravure
   dimensions:
     height: 
@@ -123,7 +136,7 @@ works:
   fields: []
   styles: []
 - title: Jeu de pistes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg
   technique: Gravure
   dimensions:
     height: 
@@ -136,7 +149,7 @@ works:
   fields: []
   styles: []
 - title: Les 3 veilleurs 1977
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-3-veiileurs-1977.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-3-veiileurs-1977.jpg
   technique: Gravure
   dimensions:
     height: 450
@@ -149,7 +162,7 @@ works:
   fields: []
   styles: []
 - title: Espace nacré
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/espace-nacre.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/espace-nacre.jpg
   technique: Tapisserie en laine  Lissière Edith Morin
   dimensions:
     height: 111
@@ -164,7 +177,7 @@ works:
   styles:
   - Abstrait
 - title: Papillon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papillon.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papillon.jpg
   technique: Tapisserie en laine Lissier Pierre Carton ERBA
   dimensions:
     height: 92
@@ -179,7 +192,7 @@ works:
   styles:
   - Abstrait
 - title: Cloture restreinte
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cloture-restreinte.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cloture-restreinte.jpg
   technique: Mosaïque Marbre rose, jaune, travertin rouge
   dimensions:
     height: 48
@@ -193,7 +206,7 @@ works:
   - Sculpture
   styles: []
 - title: Exposition Polymorphie 2020
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-polymorphie-2020.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-polymorphie-2020.jpg
   technique: ''
   dimensions:
     height: 
@@ -209,5 +222,11 @@ redirect_from:
 - "/artistes/103-jorj-morin/"
 styles:
 - Abstrait
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
