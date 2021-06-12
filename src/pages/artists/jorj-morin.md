@@ -33,8 +33,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 342
-    width: 340
+    height: 34
+    width: 34
     depth: 0
   description: "1971"
   price: 450
@@ -74,8 +74,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vers-louest.jpg
   technique: Gravure
   dimensions:
-    height: 
-    width: 
+    height: 40
+    width: 30
     depth: 
   description: '1981 '
   price: 150
@@ -87,8 +87,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg
   technique: Gravure
   dimensions:
-    height: 
-    width: 
+    height: 30
+    width: 20
     depth: 
   description: '1972 '
   price: 150
