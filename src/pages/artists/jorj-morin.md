@@ -100,8 +100,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouquet-bleu.jpg
   technique: Gravure
   dimensions:
-    height: 
-    width: 
+    height: 30
+    width: 20
     depth: 
   description: '1976 '
   price: 150
@@ -113,8 +113,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bride-abattue.jpg
   technique: Gravure
   dimensions:
-    height: 
-    width: 
+    height: 40
+    width: 30
     depth: 
   description: '1984 '
   price: 250
@@ -126,8 +126,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture.jpg
   technique: Gravure
   dimensions:
-    height: 
-    width: 
+    height: 40
+    width: 30
     depth: 
   description: '1988 '
   price: 250
@@ -139,8 +139,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg
   technique: Gravure
   dimensions:
-    height: 
-    width: 
+    height: 40
+    width: 30
     depth: 
   description: '1978 '
   price: 250
