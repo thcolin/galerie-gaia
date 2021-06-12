@@ -21,8 +21,43 @@ biography: "# Jacqueline Pecantet\n\nDes boules, des cubes...  \nDes cubes, clin
   à effleurer, à caresser..."
 exhibitions: []
 works:
+- title: 'Chine '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 Page 5 Left 1-AAA-CHINE
+    2005025 copie.jpeg
+  technique: 'Photographie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Image contenue dans le livre S'il reste des silences...  \nTirage
+    à 300 exemplaires 29€"
+  price: 29
+  contextual: false
+- title: Jean Michel Nicolau Livre S'il reste des silences
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/s'il reste des silences
+    Couv .jpeg
+  technique: 'Edition livre photographies '
+  fields:
+  - Edition
+  styles:
+  - Figuratif
+  dimensions:
+    height: 21
+    width: 21
+    depth: 0
+  description: "Ici le sujet photographié n'est plus considéré en tant que tel. L'image
+    ccesse d'être le simple reflet documentaire du réel pour se donner comme une transcription
+    délibérément subjective de l'univers personnel du photographe.\n\nLe Noir et Blanc,
+    auquel Jean-Michel Nicolau est resté fidèle, trouve ici toute sa profondeur, vréant,
+    par des partis pris de contrastes et de tonalités, les contours d'une expression
+    singulière.\n\nDes gravats de mémoire, des paroles en vrac et des points cardinaux
+    en quête d'horizon.\n\n "
+  price: 29
+  contextual: false
 - title: Grès 13
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG
   technique: 'Terre enfumée et polie au galet '
   dimensions:
     height: 0
@@ -32,7 +67,7 @@ works:
   price: 140
   contextual: false
 - title: Grès 12
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2127-j-pecantet.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2127-j-pecantet.JPG
   technique: Crin de cheval au grès poli au galet
   dimensions:
     height: 7
@@ -42,7 +77,7 @@ works:
   price: 120
   contextual: false
 - title: Grès 11
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG
   technique: Crin de cheval au grès poli au galet
   dimensions:
     height: 10
@@ -52,7 +87,7 @@ works:
   price: 120
   contextual: false
 - title: Grès 10
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6070-j-pecantet.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6070-j-pecantet.JPG
   technique: Enfumage et grès poli au galet
   dimensions:
     height: 0
@@ -63,7 +98,7 @@ works:
   price: 140
   contextual: false
 - title: Grès 9
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2120-j-pecantet.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2120-j-pecantet.JPG
   technique: Crin de cheval au grès poli au galet
   dimensions:
     height: 7
@@ -73,7 +108,7 @@ works:
   price: 140
   contextual: false
 - title: Grès 8
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6073-j-pecantet.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6073-j-pecantet.JPG
   technique: Enfumage sur grès poli au galet
   dimensions:
     height: 9
@@ -83,7 +118,7 @@ works:
   price: 120
   contextual: false
 - title: Grès 6
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6079-j-pecantet.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6079-j-pecantet.JPG
   technique: Cyanotype sur papier japon sur grès poli au galet
   dimensions:
     height: 0
@@ -95,7 +130,7 @@ works:
   price: 120
   contextual: false
 - title: Portrait de Jacqueline Pecantet
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf1615-j-pecantet.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf1615-j-pecantet.JPG
   dimensions:
     height: 0
     width: 0
@@ -104,7 +139,7 @@ works:
   price: 0
   contextual: false
 - title: Rhizomes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rhizomes.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rhizomes.jpg
   technique: Eau forte et gaufrage 3/15
   dimensions:
     height: 52
