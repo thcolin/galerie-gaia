@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Hamon Damien
+title: Hamon Damien DAHA
 location: ''
 fields:
 - Design
