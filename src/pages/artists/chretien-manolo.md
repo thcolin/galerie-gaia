@@ -85,7 +85,7 @@ works:
     height: 90
     width: 60
     depth: 0
-  price: 6500
+  price: 2600
   sold: false
   contextual: true
   description: 3 exemplaires
