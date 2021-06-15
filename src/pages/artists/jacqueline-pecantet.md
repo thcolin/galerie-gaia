@@ -9,34 +9,35 @@ death: "0"
 expose: true
 biography: "# Jean Michel Nicolau\n\nExposition Galerie Gaïa du jeudi 24 au samedi
   26 Juin 2021  \nLivre tiré à 300 exemplaires disponible à la galerie et Librairie
-  Coiffard Nantes.\n\n\"S'il reste des silences\" est un livre de photographies qu'au-delà
-  de sa méticuleuse préparation, Jean-Michel Nicolau s’apprêtait à nous dévoiler avec
-  générosité mais surtout avec une exigence toute particulière.\n\nLe samedi matin,
-  je recevais leur visite avec Jacqueline Pecantet, ils allaient ou revenaient du
-  marché, et pendant que je discutais des nouvelles céramiques ou gravures de Jacqueline,
-  Jean-Michel se penchait sur les œuvres d'autres artistes de la galerie. Quand je
-  dis qu'il se penchait, je devrais dire il plongeait car il aimait  aller chercher
-  loin au-delà des apparences et de la surface. Sa voix ensuite traduisait cette émotion
-  pour croiser l'intention et le résultat. Si la bienveillance était une marque de
-  respect , précis était son analyse. \n\nJe vous laisse découvrir l'exposition que
-  nous accrochons en sa mémoire avec Jacqueline Pecantet qui sera présente pour vous
-  raconter ces images.\n\nJe vous préviens je n'ai pas souvent vu une qualité de photographie
-  en noir et blanc aussi subtile, une envie irrésistible de toucher le papier car
-  on sent une matière irisée qui frôle la surface et transforme l'image. Un résultat
-  obtenu grâce à une très etroite collaboration avec un imprimeur génial qui a même
-  décidé de nommer ce noir le Noir Nicolau.\n\nTout n'est pas dit, et vous n'avez
-  encore rien vu !\n\nElisabeth Givre \n\n## Jacqueline Pecantet \n\nDes boules, des
-  cubes...  \nDes cubes, clins d’œil à Platon. Selon le philosophe, chacun des quatre
-  éléments fondamentaux – la Terre, l'Eau, l'Air, le Feu – est associé à un solide.
-  Le solide le plus stable, le cube, représente la Terre.  \nNi moule ni assemblage
-  de plaques, toutes les pièces sont montées en colombins et longuement polies au
-  galet avant une cuisson en four électrique.\n\nGrès blanc, grès rouge...Certaines
-  pièces subiront une deuxième cuisson en four à gaz, et le crin de cheval, déposé
-  dès la sortie du four, viendra dessiner des calligraphies...  \nD'autres seront
-  enfumées avec des ajouts d'oxydes, de matières et de végétaux divers. La puissance
-  du feu et des flammes décidera des nuances de bruns, de roux et de noirs, ou laissera
-  apparaître par endroits la couleur d'origine de la terre.\n\nParfois les deux techniques
-  sont associées.  \nDes pièces à toucher, à effleurer, à caresser..."
+  Coiffard et Durance et chez l'éditeur Art3 Plessis.\n\n\"S'il reste des silences\"
+  est un livre de photographies qu'au-delà de sa méticuleuse préparation, Jean-Michel
+  Nicolau s’apprêtait à nous dévoiler avec générosité mais surtout avec une exigence
+  toute particulière.\n\nLe samedi matin, je recevais leur visite avec Jacqueline
+  Pecantet, ils allaient ou revenaient du marché, et pendant que je discutais des
+  nouvelles céramiques ou gravures de Jacqueline, Jean-Michel se penchait sur les
+  œuvres d'autres artistes de la galerie. Quand je dis qu'il se penchait, je devrais
+  dire il plongeait car il aimait  aller chercher loin au-delà des apparences et de
+  la surface. Sa voix ensuite traduisait cette émotion pour croiser l'intention et
+  le résultat. Si la bienveillance était une marque de respect , précis était son
+  analyse. \n\nJe vous laisse découvrir l'exposition que nous accrochons en sa mémoire
+  avec Jacqueline Pecantet qui sera présente pour vous raconter ces images.\n\nJe
+  vous préviens je n'ai pas souvent vu une qualité de photographie en noir et blanc
+  aussi subtile, une envie irrésistible de toucher le papier car on sent une matière
+  irisée qui frôle la surface et transforme l'image. Un résultat obtenu grâce à une
+  très etroite collaboration avec un imprimeur génial qui a même décidé de nommer
+  ce noir le Noir Nicolau.\n\nTout n'est pas dit, et vous n'avez encore rien vu !\n\nElisabeth
+  Givre \n\n## Jacqueline Pecantet \n\nDes boules, des cubes...  \nDes cubes, clins
+  d’œil à Platon. Selon le philosophe, chacun des quatre éléments fondamentaux – la
+  Terre, l'Eau, l'Air, le Feu – est associé à un solide. Le solide le plus stable,
+  le cube, représente la Terre.  \nNi moule ni assemblage de plaques, toutes les pièces
+  sont montées en colombins et longuement polies au galet avant une cuisson en four
+  électrique.\n\nGrès blanc, grès rouge...Certaines pièces subiront une deuxième cuisson
+  en four à gaz, et le crin de cheval, déposé dès la sortie du four, viendra dessiner
+  des calligraphies...  \nD'autres seront enfumées avec des ajouts d'oxydes, de matières
+  et de végétaux divers. La puissance du feu et des flammes décidera des nuances de
+  bruns, de roux et de noirs, ou laissera apparaître par endroits la couleur d'origine
+  de la terre.\n\nParfois les deux techniques sont associées.  \nDes pièces à toucher,
+  à effleurer, à caresser..."
 exhibitions: []
 works:
 - title: Jean Michel Nicolau Livre S'il reste des silences
