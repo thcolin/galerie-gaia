@@ -61,7 +61,22 @@ works:
     en quête d'horizon.\n\n "
   price: 29
   contextual: false
-- title: 'Sans titre '
+- title: Sans titre  Jean-Michel Nicolau
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/98 Page 50 Left
+    6-AAA-DSCF2449 copie.jpeg
+  technique: 'Photographie '
+  fields:
+  - Photographie
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Image contenue dans le livre S’il reste des silences…  \nTirage à
+    300 exemplaires 29€"
+  price: 29
+  contextual: true
+- title: Sans titre Jean-Michel Nicolau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/66 JM Nicolau copie.jpg
   technique: Photographie
   fields:
@@ -76,7 +91,7 @@ works:
     à 300 exemplaires 29€"
   price: 29
   contextual: true
-- title: 'Chine '
+- title: Chine Jean-Michel Nicolau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 Page 5 Left 1-AAA-CHINE
     2005025 copie.jpeg
   technique: 'Photographie '
