@@ -117,6 +117,19 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Ellipse en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2021-06-15 à 17.29.30.png
+  technique: Bois exotique wengé
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Prix sur demande selon le choix du bois
+  price: 0
+  contextual: false
 - title: Valet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valet.jpg
   technique: chêne massif
