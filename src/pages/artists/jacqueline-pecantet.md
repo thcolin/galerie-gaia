@@ -166,18 +166,6 @@ works:
   description: "2020"
   price: 120
   contextual: false
-- title: Grès 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6079-j-pecantet.JPG
-  technique: Cyanotype sur papier japon sur grès poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "1 cube de 7cm  / 1 cube de 5cm / 1 cube de 4cm  \n[**La cyanotypie**](https://fr.wikipedia.org/wiki/Cyanotype
-    \"cyanotype\") est un procédé photographique dont l'invention remonte aux premiers
-    temps de la photographie."
-  price: 120
-  contextual: false
 - title: Portrait de Jacqueline Pecantet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf1615-j-pecantet.JPG
   dimensions:
