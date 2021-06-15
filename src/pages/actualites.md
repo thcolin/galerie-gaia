@@ -799,5 +799,32 @@ articles:
     envies d'évoquer leur rapport à la ville, à l'espace de vie et à la galerie.\n\nSimon
     Bousquet - sculpture béton\n\nBasile Collet - installation végétale\n\nEdwin Blandin
     - dessin "
+- template: article
+  date: '2021-06-23T16:05:09Z'
+  categories:
+  - Exposition
+  title: Jean-Michel Nicolau "S'il reste des silences"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/s'il reste des silences
+    Couv .jpeg
+  content: "# Jean Michel Nicolau\n\nExposition de photographie du jeudi 24 au samedi
+    26 Juin 2021  \nLivre tiré à 300 exemplaires disponibles à la galerie et Librairie
+    Coiffard et Durance et chez l'éditeur Art3 Plessis.\n\n\"S'il reste des silences\"
+    est un livre de photographies qu'au-delà de sa méticuleuse préparation, Jean-Michel
+    Nicolau s’apprêtait à nous dévoiler avec générosité mais surtout avec une exigence
+    toute particulière.\n\nLe samedi matin, je recevais leur visite avec Jacqueline
+    Pécantet, ils allaient ou revenaient du marché, et pendant que je discutais des
+    nouvelles céramiques ou gravures de Jacqueline, Jean-Michel se penchait sur les
+    œuvres d'autres artistes de la galerie. Quand je dis qu'il se penchait, je devrais
+    dire il plongeait car il aimait  aller chercher loin au-delà des apparences et
+    de la surface. Sa voix ensuite traduisait cette émotion pour croiser l'intention
+    et le résultat. Si la bienveillance était une marque de respect , précis était
+    son analyse. \n\nJe vous laisse découvrir l'exposition que nous accrochons en
+    sa mémoire avec Jacqueline Pécantet qui sera présente pour vous raconter ces images.\n\nJe
+    vous préviens je n'ai pas souvent vu une qualité de photographie en noir et blanc
+    aussi subtile, une envie irrésistible de toucher le papier car on sent une matière
+    irisée qui frôle la surface et transforme l'image. Un résultat obtenu grâce à
+    une très étroite collaboration avec un imprimeur génial qui a même décidé de nommer
+    ce noir le Noir Nicolau.\n\nTout n'est pas dit, et vous n'avez encore rien vu
+    !"
 
 ---
