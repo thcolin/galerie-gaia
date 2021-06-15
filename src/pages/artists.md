@@ -20,6 +20,7 @@ artists:
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/villegle.md
 - artist: src/pages/artists/aline.md
+- artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/morellet-francois.md
 - artist: src/pages/artists/isabelle-healy.md
@@ -56,7 +57,6 @@ artists:
 - artist: src/pages/artists/jean-paul-friol.md
 - artist: src/pages/artists/xavier-jallais.md
 - artist: src/pages/artists/jorj-morin-peintre.md
-- artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/neil-ratnavira.md
 - artist: src/pages/artists/patrick-gueguen.md
 - artist: src/pages/artists/valota.md
