@@ -47,20 +47,6 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
-- title: Indian sabre 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-indian-sabre-two-120X120.jpeg
-  technique: Photo sublimation sur feuille d'aluminium brossée brillant caisse américaine
-    noire
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: '3 exemplaires '
-  price: 4500
-  sold: false
-  contextual: true
 - title: Alumination Green and Red (diptyque)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-v1GREEN
     RED-9637 9627.jpeg
@@ -72,8 +58,24 @@ works:
     height: 90
     width: 120
     depth: 0
-  description: Diptyque 2X (90X60cm)
+  description: "Diptyque 2X (90X60cm) 5600€ 3 exemplaires  \nDiptyque 2X (120X80cm)
+    9000€ 3 exemplaires"
   price: 5600
+  sold: false
+  contextual: true
+- title: Indian sabre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-indian-sabre-two-120X120.jpeg
+  technique: Photo sublimation sur feuille d'aluminium brossée brillant caisse américaine
+    noire
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "80X80 cm 3 exemplaires 3000€  \n100X100 cm 3 exemplaires 4500€  \n120X120
+    cm 3 exemplaires 6500€\n\n140X140 cm 2 EA 8800€ \n\nEdition limitée à 11 exemplaires "
+  price: 4500
   sold: false
   contextual: true
 - title: T BIRD CARMAN
@@ -85,10 +87,11 @@ works:
     height: 90
     width: 60
     depth: 0
-  price: 2600
+  price: 2800
   sold: false
   contextual: true
-  description: 3 exemplaires
+  description: "90X60 cm 3 exemplaires 2800€  \n120X80 cm 3 exemplaires 4500€  \n150X100
+    cm 3 exemplaires 6800€\n\n180X120 cm 2 EA 9800€ \n\nEdition limitée à 11 exemplaires "
 exhibitions: []
 
 ---
