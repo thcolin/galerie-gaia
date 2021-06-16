@@ -44,6 +44,21 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Détail du livre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-leporello.jpg
+  technique: ''
+  fields:
+  - Edition
+  styles:
+  - Figuratif
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Fenêtre sur route 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
     sur route 6-2020, 60x60cm.jpg
