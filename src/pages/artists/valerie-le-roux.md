@@ -189,18 +189,6 @@ works:
   description: ''
   price: 68
   contextual: false
-- title: Grand Vase vert noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase3V1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 34
-    width: 13
-    depth: 0
-  description: ''
-  price: 230
-  contextual: false
 - fields:
   - Oeuvre sur papier
   styles: []
