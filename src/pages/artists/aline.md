@@ -44,19 +44,44 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
-- title: Détail du livre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-leporello.jpg
+- title: Edition livre "Apparaître, disparaître, être"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
+    4.jpg
   technique: ''
+  fields:
+  - Edition
+  styles: []
+  dimensions:
+    height: 21
+    width: 15
+    depth: 0
+  description: "Chaque exemplaire comporte une édition photographique dépigmentée
+    unique appelée \"Camion 2021\".  \nÉdition Educ'Arts texte original et poétique
+    de Jean-Pierre Nuaud précisant la démarche d'Aline Isoard, signée au colophon
+    par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
+    \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
+    BNF remis à la Bibliothèque Nationale de France"
+  price: 240
+  sold: false
+  contextual: false
+- title: '"Camion 2021" Détail du livre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-leporello.jpg
+  technique: photographie
   fields:
   - Edition
   styles:
   - Figuratif
   dimensions:
-    height: 0
-    width: 0
+    height: 21
+    width: 15
     depth: 0
-  description: ''
-  price: 
+  description: "Chaque exemplaire comporte une édition photographique dépigmentée
+    unique.  \nÉdition Educ'Arts texte original et poétique de Jean-Pierre Nuaud précisant
+    la démarche d'Aline Isoard,  signée au colophon par les auteurs.  \n55 exemplaires
+    emboîtage par Atelier Jeanne Frères à Nantes  \n50 exemplaires numérotés de 1/50
+    \ \n4 exemplaires I/IV  \n1 exemplaire désigné BNF remis à la Bibliothèque Nationale
+    de France"
+  price: 240
   sold: false
   contextual: true
 - title: Fenêtre sur route 6
