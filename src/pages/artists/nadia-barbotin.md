@@ -47,7 +47,7 @@ works:
     width: 89
     depth: 
   description: "2020"
-  price: 3200
+  price: 2900
   sold: false
   contextual: true
   fields: []
@@ -154,12 +154,12 @@ works:
     width: 120
     depth: 
   description: "2017"
-  price: 4400
+  price: 3900
   sold: false
   contextual: true
   fields: []
   styles: []
-- title: Faille
+- title: Faille en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg
   technique: Huile sur toile
   dimensions:
@@ -167,7 +167,7 @@ works:
     width: 120
     depth: 
   description: "En contexte  \n2017"
-  price: 4400
+  price: 3900
   sold: false
   contextual: false
   fields: []
