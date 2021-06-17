@@ -48,8 +48,8 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
 exhibitions: []
 works:
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition1.jpg
-  technique: Livre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition2.jpg
+  technique: Coffret 12 planches
   fields:
   - Edition
   styles: []
@@ -57,7 +57,38 @@ works:
     height: 25
     width: 25
     depth: 0
-  description: ''
+  description: |-
+    \[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE\]
+
+    Edition 50 exemplaires carton sérigraphiés, numérotés et signés
+
+    Contenant 12 typographies originales numérotées et signées format 25x25 cm imprimées sur papier BFK Rives
+
+    Réalisé en collaboration avec l'atelier En l'Encre Nous Croyons , ancien responsable d'atelier des Imageries d'Epinal
+
+    J'ai choisi la typographie car je suis tombé sous le charme de la presse à platine Heidelberg datant de 1965 qui se trouve dans cet atelier et surtout car elle permet une impression en relief (le trait est encré + foulé dans le papier).
+  price: 500
+  contextual: false
+- title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition1.jpg
+  technique: Coffret 12 planches
+  fields:
+  - Edition
+  styles: []
+  dimensions:
+    height: 25
+    width: 25
+    depth: 0
+  description: |-
+    \[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE\]
+
+    Edition 50 exemplaires carton sérigraphiés, numérotés et signés
+
+    Contenant 12 typographies originales numérotées et signées format 25x25 cm imprimées sur papier BFK Rives
+
+    Réalisé en collaboration avec l'atelier En l'Encre Nous Croyons , ancien responsable d'atelier des Imageries d'Epinal
+
+    J'ai choisi la typographie car je suis tombé sous le charme de la presse à platine Heidelberg datant de 1965 qui se trouve dans cet atelier et surtout car elle permet une impression en relief (le trait est encré + foulé dans le papier).
   price: 500
   contextual: true
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
@@ -71,6 +102,7 @@ works:
   description: ''
   price: ''
   contextual: false
+  technique: Coffret 12 planches texte de présentation
 - fields:
   - Edition
   styles: []
@@ -92,7 +124,7 @@ works:
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition3.jpg
   title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  technique: Livre
+  technique: Coffret 12 planches
 - title: 2023P3481 basculement de carrés avec entas pour interstices et décalage dans
     le repère orthogonal
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckenturm-2023P3481.jpg
