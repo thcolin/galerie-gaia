@@ -45,6 +45,20 @@ works:
   description: ''
   price: 6000
   contextual: true
+- title: 'Albedo '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne-gaiss-30X40
+    blanc.jpg
+  technique: 'Incisions au scalpel sur papier traditionnel indien '
+  fields: []
+  styles: []
+  dimensions:
+    height: 52
+    width: 42
+    depth: 0
+  description: Œuvre de format 40X30 , encadrement montage caisson sur fond blanc
+    et verre anti-reflet baguette aluminium noir
+  price: 1200
+  contextual: true
 - title: Oracle XI
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
   technique: Huiles, Feutres et incisions sur feuille de cuivre marouflée sur papier
