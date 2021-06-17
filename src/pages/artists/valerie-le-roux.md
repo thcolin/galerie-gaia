@@ -203,18 +203,6 @@ works:
     papier.jpg
   technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
   title: 'Oeuvre sur papier Originale sans titre '
-- title: Vase Moyen vert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-vase2V1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 145
-  contextual: false
 - title: Poisson russe orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg
   technique: 'Sérigraphie '
