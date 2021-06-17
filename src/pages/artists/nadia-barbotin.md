@@ -27,20 +27,20 @@ biography: |-
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
 - title: Retrouvailles
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg
   technique: Huile sur toile
   dimensions:
     height: 130
     width: 194
     depth: 
   description: "Diptyque   \n2020"
-  price: 5200
+  price: 4500
   sold: false
   contextual: true
   fields: []
   styles: []
 - title: 'Vibrations '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg
   technique: Huile sur toile
   dimensions:
     height: 116
@@ -53,72 +53,72 @@ works:
   fields: []
   styles: []
 - title: Freedom
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg
   technique: 'Huile sur toile et techniques mixtes '
   dimensions:
     height: 120
     width: 120
     depth: 
   description: "2020"
-  price: 4000
+  price: 3500
   sold: false
   contextual: true
   fields: []
   styles: []
 - title: Freedom
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG
   technique: Huile sur toile et techniques mixtes
   dimensions:
     height: 120
     width: 120
     depth: 
   description: "En contexte   \n2020"
-  price: 4000
+  price: 3500
   sold: false
   contextual: false
   fields: []
   styles: []
 - title: 'Transparences blanches '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg
   technique: Huile sur toile
   dimensions:
     height: 91
     width: 91
     depth: 
   description: "2019"
-  price: 2800
+  price: 2500
   sold: false
   contextual: true
   fields: []
   styles: []
 - title: Transparences blanches
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg
   technique: Huile
   dimensions:
     height: 91
     width: 91
     depth: 
   description: "En contexte  \n2019"
-  price: 2800
+  price: 2500
   sold: false
   contextual: false
   fields: []
   styles: []
 - title: Rock
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg
   technique: Huile
   dimensions:
     height: 120
     width: 120
     depth: 
   description: "2016"
-  price: 4000
+  price: 3500
   sold: false
   contextual: true
   fields: []
   styles: []
-- title: Rock
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg"
+- title: Rock en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg
   technique: Huile
   dimensions:
     height: 120
@@ -128,13 +128,13 @@ works:
     2016
 
     En contexte
-  price: 5000
+  price: 3500
   sold: false
   contextual: false
   fields: []
   styles: []
 - title: Retrouvailles
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg
   technique: Huile sur toile et Techniques mixtes
   dimensions:
     height: 130
@@ -147,7 +147,7 @@ works:
   fields: []
   styles: []
 - title: Faille
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg
   technique: Huile sur toile
   dimensions:
     height: 150
@@ -160,7 +160,7 @@ works:
   fields: []
   styles: []
 - title: Faille
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg
   technique: Huile sur toile
   dimensions:
     height: 150
@@ -173,7 +173,7 @@ works:
   fields: []
   styles: []
 - title: 'Portrait '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo-profil-bnw-2018.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo-profil-bnw-2018.jpg
   technique: ''
   dimensions:
     height: 
@@ -189,5 +189,11 @@ works:
 exhibitions: []
 styles:
 - Abstrait
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
