@@ -48,6 +48,19 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
 exhibitions: []
 works:
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition1.jpg
+  technique: Livre
+  fields:
+  - Edition
+  styles: []
+  dimensions:
+    height: 25
+    width: 25
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
+- title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition4.jpg
   fields: []
   styles: []
