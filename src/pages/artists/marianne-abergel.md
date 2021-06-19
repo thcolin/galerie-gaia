@@ -40,6 +40,34 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Totem 3 et 4 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem4
+    5.jpg
+  technique: Céramique
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Totem vendu seul 450€   \nTotem vendu en duo 850€  \nTotem vendu en
+    trio 1250€  \nTotem vendu en quatuor 1600€"
+  price: 450
+  contextual: false
+- title: Totem 1 et 2 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem
+    1 2.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Totem vendu seul 450€   \nTotem vendu en duo 850€  \nTotem vendu en
+    trio 1250€  \nTotem vendu en quatuor 1600€"
+  price: 450
+  contextual: false
 - title: Totem 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem5.jpg
   technique: Céramique
