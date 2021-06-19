@@ -35,8 +35,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 113.5
+    width: 68.5
     depth: 0
   description: 'dernier exemplaire '
   price: 300
