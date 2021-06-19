@@ -40,6 +40,32 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Totem 5
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem5.jpg
+  technique: Céramique
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 30
+    width: 15
+    depth: 3
+  description: ''
+  price: 450
+  contextual: false
+- title: Totem 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem4a.jpg
+  technique: Céramique,
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 30
+    width: 15
+    depth: 3
+  description: ''
+  price: 450
+  contextual: false
 - title: Totem 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem2a.jpg
   technique: Céramique
