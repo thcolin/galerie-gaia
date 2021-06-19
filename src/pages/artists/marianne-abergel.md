@@ -40,6 +40,31 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Grande Courbe
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
+    ABERGEL- Frontalité1- 46x22 cm.jpg
+  technique: Céramique
+  dimensions:
+    height: 46
+    width: 22
+    depth: 0
+  description: "2019"
+  price: 1500
+  contextual: false
+  styles:
+  - Abstrait
+- title: Grande chimère lièvre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2-2021.jpg
+  technique: Grès émaillé
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 9
+    depth: 10
+  description: ''
+  price: 650
+  contextual: false
 - title: Totem 3 et 4 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem4
     5.jpg
@@ -185,19 +210,6 @@ works:
   description: ''
   price: 750
   contextual: false
-- title: Grande Courbe
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL- Frontalité1- 46x22 cm.jpg
-  technique: Céramique
-  dimensions:
-    height: 46
-    width: 22
-    depth: 0
-  description: "2019"
-  price: 1500
-  contextual: false
-  styles:
-  - Abstrait
 - title: 3 lièvres céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-3-lièvres-céladon-2021.jpg
   technique: Grès émaillé
@@ -212,18 +224,6 @@ works:
   contextual: true
 - title: Grande chimère lièvre céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2021.jpg
-  technique: Grès émaillé
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 9
-    depth: 10
-  description: ''
-  price: 650
-  contextual: false
-- title: Grande chimère lièvre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2-2021.jpg
   technique: Grès émaillé
   fields: []
   styles: []
@@ -322,5 +322,6 @@ redirect_from:
 - "/artistes/59-marianne-abergel/"
 styles:
 - Figuratif
+- Abstrait
 
 ---
