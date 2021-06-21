@@ -43,8 +43,31 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: Mikayo
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKAYO-30cmx30cm-30
+    tirages.jpg
+  technique: Photographie
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
+- title: Trophée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
+  technique: 'Photographie tirage papier baryté '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
 - title: Jade
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-jade-jpeg.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-jade-jpeg.JPG
   technique: Photographie
   fields: []
   styles: []
@@ -56,7 +79,7 @@ works:
   price: 250
   contextual: true
 - title: Paige
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-paige-jpeg.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-paige-jpeg.JPG
   technique: 'Photographie '
   fields: []
   styles: []
@@ -68,7 +91,7 @@ works:
   price: 250
   contextual: true
 - title: Naoned
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-naoned-jpeg.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-naoned-jpeg.JPG
   technique: Photographie
   fields: []
   styles: []
@@ -79,20 +102,9 @@ works:
   description: Œuvre encadrée verre musée 30X30 cm
   price: 250
   contextual: true
-- title: Inda
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-inda-jpeg-1.JPG"
-  technique: Photographie 20X20
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: Œuvre encadrée verre musée 30X30cm
-  price: 250
-  contextual: true
 - title: Vera
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-VERA-30 cm x 30 cm - 30 tirages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-VERA-30
+    cm x 30 cm - 30 tirages.jpg
   technique: 'Photographie '
   dimensions:
     height: 30
@@ -102,7 +114,8 @@ works:
   price: 250
   contextual: true
 - title: Paa
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-PAA-30cm x 30 cm-30 tirages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-PAA-30cm
+    x 30 cm-30 tirages.jpg
   technique: 'Photographie '
   dimensions:
     height: 60
@@ -112,7 +125,8 @@ works:
   price: 700
   contextual: true
 - title: Ono
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-ONO-30 cm x 30 cm - 30 tirages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-ONO-30
+    cm x 30 cm - 30 tirages.jpg
   technique: 'Photographie '
   dimensions:
     height: 30
@@ -122,7 +136,8 @@ works:
   price: 250
   contextual: true
 - title: Moha
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MOHA-30 cm x 30 cm - 30 tirages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MOHA-30
+    cm x 30 cm - 30 tirages.jpg
   technique: Photographie
   dimensions:
     height: 60
@@ -132,7 +147,8 @@ works:
   price: 700
   contextual: true
 - title: Miki
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKI-30 cm x 30 cm-30 tirages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKI-30
+    cm x 30 cm-30 tirages.jpg
   technique: Photographie
   dimensions:
     height: 40
@@ -140,29 +156,10 @@ works:
     depth: 0
   description: ''
   price: 400
-  contextual: true
-- title: Mikayo
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKAYO-30cmx30cm-30 tirages.jpg"
-  technique: Photographie
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: ''
-  price: 400
-  contextual: true
-- title: Lueta
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-LUETA-30 cm x 30 cm - 30 tirages.jpg"
-  technique: 'Photographie '
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: ''
-  price: 250
   contextual: true
 - title: Bäla
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30 cm x 30 cm - 30 tirages.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30
+    cm x 30 cm - 30 tirages.jpg
   technique: Photographie tirage papier baryté
   dimensions:
     height: 30
@@ -172,7 +169,8 @@ works:
   price: 250
   contextual: true
 - title: Ostie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_1857 - Copie - Copie.JPG"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_1857 - Copie
+    - Copie.JPG
   technique: Photographie tirage papier barytée
   dimensions:
     height: 30
@@ -182,7 +180,7 @@ works:
   price: 250
   contextual: true
 - title: Anchorage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anchorage.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anchorage.jpg
   technique: Photo sur papier baryté
   dimensions:
     height: 20
@@ -194,7 +192,7 @@ works:
   sold: false
   contextual: true
 - title: Sará
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cinq.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cinq.jpg
   technique: Photographie tirage  sur papier baryté
   dimensions:
     height: 30
@@ -205,7 +203,7 @@ works:
   sold: false
   contextual: true
 - title: Sará
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sept.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sept.jpg
   technique: Photographie tirage sur papier baryté
   dimensions:
     height: 30
@@ -216,7 +214,7 @@ works:
   sold: false
   contextual: true
 - title: 'Anémone '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anemone.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anemone.jpg
   technique: Photo sur papier baryté
   dimensions:
     height: 30
@@ -228,7 +226,7 @@ works:
   sold: false
   contextual: false
 - title: Quatre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/quatre.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/quatre.jpg
   technique: Photographie tirage sur papier baryté
   dimensions:
     height: 60
@@ -239,7 +237,7 @@ works:
   sold: false
   contextual: true
 - title: Acate
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/acate.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/acate.jpg
   technique: 'Photographie tirage papier fine art '
   dimensions:
     height: 40
@@ -250,7 +248,8 @@ works:
   sold: false
   contextual: true
 - title: Portrait
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-dimitri roubichou portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-dimitri
+    roubichou portrait.jpg
   dimensions:
     height: 0
     width: 0
