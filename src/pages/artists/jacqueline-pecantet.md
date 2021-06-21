@@ -4,6 +4,7 @@ title: 'Pécantet Jacqueline '
 location: ''
 fields:
 - Céramique
+- Edition
 birth: "0"
 death: "0"
 expose: true

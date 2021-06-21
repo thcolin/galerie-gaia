@@ -1,6 +1,7 @@
 ---
 fields:
 - Photographie
+- Edition
 styles:
 - Figuratif
 - Abstrait
@@ -11,7 +12,7 @@ birth: ''
 death: ''
 expose: true
 biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotidiens
-  pour sortir de son village dans les Alpes, Aline Isoard conservé de mon enfance
+  pour sortir de son village dans les Alpes, Aline Isoard a conservé de son enfance
   le souvenir de ce jeu qui consiste à accommoder la netteté du regard sur les différents
   plans des paysages. Ainsi s’est formée l’empreinte ADN du travail de Aline Isoard.\n\nComme
   passagère, le véhicule avec ses multiples ouvertures/fenêtres devient le studio
