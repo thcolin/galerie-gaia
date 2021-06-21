@@ -54,18 +54,6 @@ works:
   description: ''
   price: 400
   contextual: true
-- title: Trophée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
-  technique: 'Photographie tirage papier baryté '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: ''
-  price: 400
-  contextual: true
 - title: Jade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-jade-jpeg.JPG
   technique: Photographie
@@ -101,6 +89,18 @@ works:
     depth: 0
   description: Œuvre encadrée verre musée 30X30 cm
   price: 250
+  contextual: true
+- title: Trophée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
+  technique: 'Photographie tirage papier baryté '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 400
   contextual: true
 - title: Vera
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-VERA-30
