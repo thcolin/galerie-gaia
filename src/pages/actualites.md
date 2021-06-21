@@ -800,7 +800,7 @@ articles:
     Bousquet - sculpture béton\n\nBasile Collet - installation végétale\n\nEdwin Blandin
     - dessin "
 - template: article
-  date: '2021-06-23T16:05:09Z'
+  date: '2021-06-24T16:05:09Z'
   categories:
   - Exposition
   title: Jean-Michel Nicolau "S'il reste des silences"
