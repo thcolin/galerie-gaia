@@ -56,10 +56,43 @@ works:
     height: 16
     width: 43
     depth: 5
-  description: " Fonderie Barthélémy Crest (26)"
+  description: "Réservée  \nFonderie Barthélémy Crest (26)"
   price: 3800
   sold: false
   contextual: false
+- title: La sphère des possibles
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg
+  technique: Bronze 4/8
+  dimensions:
+    height: 65
+    width: 13
+    depth: 13
+  description: Disponible sur commande
+  price: 4200
+  sold: false
+  contextual: false
+- title: Les âmes sœurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
+  technique: Bronze N° 8/8
+  dimensions:
+    height: 42
+    width: 38
+    depth: 9
+  description: "Fonderie Barthélémy Crest (26)  \n2020"
+  price: 3200
+  contextual: false
+- title: Mon héros
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
+  technique: Bronze EA I/IV
+  fields: []
+  styles: []
+  dimensions:
+    height: 47
+    width: 12
+    depth: 11
+  description: Fonderie Barthélémy Crest (26)
+  price: 1950
+  contextual: true
 - title: Confluence
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_healy_confluence_73x58.jpg
   technique: Bronze Epreuve d'Artiste EA II/IV
@@ -86,15 +119,18 @@ works:
   description: Fonderie Barthélémy Crest (26)
   price: 9400
   contextual: false
-- title: Les âmes sœurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
-  technique: Bronze N° 8/8
+- title: Fondation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
+  technique: Bronze N°2/8
   dimensions:
-    height: 42
-    width: 38
-    depth: 9
-  description: "Fonderie Barthélémy Crest (26)  \n2020"
-  price: 3200
+    height: 28
+    width: 37
+    depth: 
+  description: "\"L'Humain est la première force dans n'importe quel projet\"  \nPour
+    les entreprises acquisition possible en [leasing ou défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
+    \"lesaing defiscalisation\")"
+  price: 5700
+  sold: false
   contextual: false
 - title: Le Papillon
   technique: Bronze 5/8
@@ -107,18 +143,6 @@ works:
   description: "2020   \nFonderie Barthélémy Crest (26)"
   price: 1600
   contextual: false
-- title: Mon héros
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
-  technique: Bronze EA I/IV
-  fields: []
-  styles: []
-  dimensions:
-    height: 47
-    width: 12
-    depth: 11
-  description: Fonderie Barthélémy Crest (26)
-  price: 1950
-  contextual: true
 - title: Le mythe de Sisyphe - détail
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png
   technique: 'Bronze 8 exemplaires '
@@ -141,30 +165,6 @@ works:
     depth: 8
   description: Sur commande
   price: 4500
-  contextual: false
-- title: Fondation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
-  technique: Bronze N°2/8
-  dimensions:
-    height: 28
-    width: 37
-    depth: 
-  description: "\"L'Humain est la première force dans n'importe quel projet\"  \nPour
-    les entreprises acquisition possible en [leasing ou défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
-    \"lesaing defiscalisation\")"
-  price: 5700
-  sold: false
-  contextual: false
-- title: La sphère des possibles
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg
-  technique: Bronze 4/8
-  dimensions:
-    height: 65
-    width: 13
-    depth: 13
-  description: Disponible sur commande
-  price: 4200
-  sold: false
   contextual: false
 - title: Notre héritage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-notre-heritage-seul.png
