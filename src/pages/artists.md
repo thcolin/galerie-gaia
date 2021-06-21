@@ -4,12 +4,12 @@ artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/franco-salas-borquez.md
-- artist: src/pages/artists/bathelier-marie.md
-- artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/aline.md
-- artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/pierre-muckensturm.md
+- artist: src/pages/artists/bathelier-marie.md
+- artist: src/pages/artists/toma-l.md
+- artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/chretien-manolo.md
 - artist: src/pages/artists/isthme.md
