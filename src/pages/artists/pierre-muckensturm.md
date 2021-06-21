@@ -50,7 +50,7 @@ biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à St
 exhibitions: []
 works:
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition2.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition02.jpg
   technique: Coffret 12 planches
   fields:
   - Edition
@@ -72,7 +72,7 @@ works:
   price: 500
   contextual: false
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition1.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition01.jpg
   technique: Coffret 12 planches
   fields:
   - Edition
@@ -94,7 +94,7 @@ works:
   price: 500
   contextual: true
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition4.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition04.jpg
   fields: []
   styles: []
   dimensions:
@@ -124,7 +124,7 @@ works:
     J'ai choisi la typographie car je suis tombé sous le charme de la presse à platine Heidelberg datant de 1965 qui se trouve dans cet atelier et surtout car elle permet une impression en relief (le trait est encré + foulé dans le papier).
   price: 500
   contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition3.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition03.jpg
   title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
   technique: Coffret 12 planches
 - title: 2023P3481 basculement de carrés avec entas pour interstices et décalage dans
