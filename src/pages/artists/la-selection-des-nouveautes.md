@@ -21,6 +21,19 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Jorj Morin Point Culminant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
+    culminant (scénographie avec chaise).JPG
+  fields: []
+  styles: []
+  dimensions:
+    height: 73
+    width: 100
+    depth: 0
+  description: '# [Jorj Morin](https://galeriegaia.fr/artists/jorj-morin-peintre/
+    "Georges MORIN")'
+  price: 4300
+  contextual: false
 - title: Trait par Cindy Belaud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
   technique: Sérigraphie 8/10
