@@ -40,6 +40,18 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Sister 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-©Marianne-Abergel-Coblat-sister-1.jpg
+  technique: 'Céramique Porcelaine teintée dans la masse, oxyde de Cobalt '
+  fields: []
+  styles: []
+  dimensions:
+    height: 18
+    width: 19
+    depth: 19
+  description: Chaque pétale de faïence est accumulée individuellement
+  price: 1200
+  contextual: false
 - title: Grande Courbe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL- Frontalité1- 46x22 cm.jpg
