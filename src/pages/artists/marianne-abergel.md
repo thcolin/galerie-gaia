@@ -40,6 +40,18 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Sister 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-©Marianne-Abergel-Cobalt-sister-2.jpg
+  technique: 'Céramique Porcelaine teintée dans la masse, oxyde de Cobalt '
+  fields: []
+  styles: []
+  dimensions:
+    height: 19
+    width: 19
+    depth: 0
+  description: Chaque pétale de faïence est accumulée individuellement
+  price: 1400
+  contextual: false
 - title: Sister 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-©Marianne-Abergel-Coblat-sister-1.jpg
   technique: 'Céramique Porcelaine teintée dans la masse, oxyde de Cobalt '
@@ -52,6 +64,19 @@ works:
   description: Chaque pétale de faïence est accumulée individuellement
   price: 1200
   contextual: false
+- title: Sisters en duo
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
+    ABERGEL-Sisters- 39x19 cm.jpg
+  technique: Céramique Porcelaine teintée dans la masse, oxyde de Cobalt
+  dimensions:
+    height: 39
+    width: 19
+    depth: 0
+  description: "Chaque pétale de faïence est accumulée individuellement   \n2019"
+  price: 2400
+  contextual: false
+  styles:
+  - Abstrait
 - title: Grande Courbe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL- Frontalité1- 46x22 cm.jpg
@@ -259,19 +284,6 @@ works:
   description: ''
   price: 280
   contextual: false
-- title: Sisters en duo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL-Sisters- 39x19 cm.jpg
-  technique: Céramique Porcelaine teintée dans la masse, oxyde de Cobalt
-  dimensions:
-    height: 39
-    width: 19
-    depth: 0
-  description: "Chaque pétale de faïence est accumulée individuellement   \n2019"
-  price: 2400
-  contextual: false
-  styles:
-  - Abstrait
 - title: Chimère cachée Le lièvre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL-chimère cachée-lièvre.jpg
