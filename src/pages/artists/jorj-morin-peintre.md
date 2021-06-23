@@ -92,7 +92,7 @@ works:
   price: 4300
   contextual: false
 - title: Sans titre 1990
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-sans
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-Morin-sans
     titre.JPG
   technique: Acryqlique sur toile
   fields: []
@@ -105,7 +105,7 @@ works:
   price: 2500
   contextual: true
 - title: Le taillis
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-Morin-le
     taillis.JPG
   technique: 'Acrylique sur toile '
   fields: []
@@ -131,7 +131,7 @@ works:
   price: 3300
   contextual: true
 - title: 'Arbre à couleurs '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-arbre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-Morin-arbre
     à couleurs.JPG
   technique: 'Acrylique sur toile '
   fields: []
