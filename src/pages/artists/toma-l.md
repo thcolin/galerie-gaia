@@ -309,7 +309,7 @@ works:
     height: 56.5
     width: 38
     depth: 0
-  description: "2018"
+  description: Vendue
   price: 350
   contextual: true
 - title: Bonne pierre bon oeil 02
