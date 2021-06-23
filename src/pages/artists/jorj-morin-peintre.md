@@ -54,7 +54,7 @@ works:
   contextual: true
 - title: Bois sec en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
-    sec (scénographie ac chaise).JPG
+    sec (scénographie avec chaise).JPG
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -66,7 +66,7 @@ works:
   price: 4700
   contextual: false
 - title: Point culminant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jorj-Morin-point
     culminant.JPG
   technique: Acrylique sur toile
   fields: []
@@ -80,7 +80,7 @@ works:
   contextual: true
 - title: Point culminant en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
-    culminant (scénographie ac chaise) .JPG
+    culminant (scénographie avec chaise).JPG
   technique: Acrylique sur toile
   fields: []
   styles: []
