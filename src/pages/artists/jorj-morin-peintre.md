@@ -37,11 +37,11 @@ works:
     width: 46
     depth: 0
   description: "1974  \nVisible à la galerie"
-  price: 2000
+  price: 2400
   contextual: true
 - title: Bois secs (I)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
-    sec.JPG
+    sec.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
