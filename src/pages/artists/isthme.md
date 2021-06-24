@@ -120,7 +120,7 @@ works:
     width: 114
     depth: 0
   description: Prix sur demande
-  price: ''
+  price: 4300
   contextual: true
 - title: 'Deep Blue #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
