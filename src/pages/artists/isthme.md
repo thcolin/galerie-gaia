@@ -154,7 +154,7 @@ works:
     height: 146
     width: 114
     depth: 
-  description: '2019 Prix sur demande '
+  description: Réservé
   price: ''
   sold: false
   contextual: true
