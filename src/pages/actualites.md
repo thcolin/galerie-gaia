@@ -826,5 +826,21 @@ articles:
     une très étroite collaboration avec un imprimeur génial qui a même décidé de nommer
     ce noir le Noir Nicolau.\n\nTout n'est pas dit, et vous n'avez encore rien vu
     !"
+- template: article
+  date: '2021-07-01T16:36:34Z'
+  categories:
+  - Exposition
+  title: 'Tangui Robert Chroniques Nantaises '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/invitationTR1.jpg
+  content: "# Tangui Robert \n\n### Fragments paysages - Chroniques Nantaises \n\nTangui
+    Robert arpente les berges de Loire  \nTangui Robert serpente dans les couloirs
+    du musée des Arts  \nTangui Robert  fragmente ces carnets pour mélanger croquis
+    et photographies.  \nSi certains  paysages et architectures qu'il nous montre
+    font partie de nos déambulations, Tangui a ce talent pour les scruter, les détailler
+    et les denteler comme un orfèvre. Les drapés observés sur des toiles du musée
+    incarnent exactement ce rapprochement iconoclaste des sujets. Avec Tangui ces
+    fusions créent des fragments de paysage élégants et évidents.\n\nExposition [Tangui
+    Robert ](https://galeriegaia.fr/artists/tangui-robert/ \"tangui robert \")à scruter
+    de près tout l'été à la Galerie Gaïa "
 
 ---
