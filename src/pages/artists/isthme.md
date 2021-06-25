@@ -109,7 +109,7 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
-- title: 'Deep Blue #1'
+- title: 'Deep Blue #9'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
     1-acrylique-146x114-2020.jpg
   technique: Acrylique sur toile
@@ -119,8 +119,8 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: Prix sur demande
-  price: 4300
+  description: Vendue
+  price: ''
   contextual: true
 - title: 'Deep Blue #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
