@@ -25,6 +25,24 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Exposition La marche des flots Médiathèque de Pornichet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
+    saas borquez -pornichet.jpg
+  technique: 'Huile sur toile et dessins '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Le peintre Franco Salas Borquez représenté par la Galerie Gaïa de
+    Nantes expose des œuvres récentes à la médiathèque de Pornichet.  \nL'artiste
+    connu par ses peintures des mers qui expriment toute la force de cette nature,
+    propose pour cette nouvelle exposition de nous faire ressentir la poésie en se
+    plongeant dans ses compositions maritimes.\n\nUne exposition pour tous les passionnés
+    d'art , de la mer et de voyage."
+  price: ''
+  contextual: false
 - title: Vague hurlante
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague
     hurlante-130 x 81 2019.jpg
