@@ -16,6 +16,10 @@ biography: |-
 
   texte de  Nathalie Tatai-Pogioni
 exhibitions:
+- title: La marche des flots
+  location: Mediathèque Camille Flammarion Pornichet (44)
+  start: 06/07/2021
+  end: 18/07/2021
 - title: Le sillage
   location: Saint Malo Chapelle St Sauveur
   start: 16 -11- 2019
