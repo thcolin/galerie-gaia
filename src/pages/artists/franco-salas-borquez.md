@@ -40,7 +40,10 @@ works:
     connu par ses peintures des mers qui expriment toute la force de cette nature,
     propose pour cette nouvelle exposition de nous faire ressentir la poésie en se
     plongeant dans ses compositions maritimes.\n\nUne exposition pour tous les passionnés
-    d'art , de la mer et de voyage."
+    d'art , de la mer et de voyage.\n\nMardi      10H 12H30    15H30 18H  \nMercredi
+    10H 12H30    15H30 18H  \nJeudi       10H 14H        15H30 18H  \nVendredi  10H
+    12H30    15H30 19H  \nSamedi     10H 12H30    15H30 18H  \nDimanche 10H 12H30
+    \   15H30 18H"
   price: ''
   contextual: false
 - title: Vague hurlante
