@@ -423,7 +423,7 @@ works:
     height: 162
     width: 114
     depth: 
-  description: prix sur demande
+  description: Vendue
   price: ''
   sold: false
   contextual: true
