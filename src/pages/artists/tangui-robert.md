@@ -13,6 +13,19 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: Depuis Trentemoult
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Depuis Trentemoult-Nantes-18x24 copie.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 18
+    width: 24
+    depth: 0
+  description: "2021"
+  price: 250
+  contextual: true
+  technique: 'Eau forte '
 - title: Extrait de Jardin des plantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-insta.jpg
   fields: []
@@ -179,16 +192,6 @@ works:
   description: ''
   price: 280
   contextual: true
-- title: Silence I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-silence-i-30x40.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
 - title: En rester là
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg
   technique: 'Gravure sur zinc et piquetage photos '
@@ -197,26 +200,6 @@ works:
     width: 40
     depth: 0
   description: 'Réhausse à la peinture or '
-  price: 380
-  contextual: true
-- title: Echo II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-echo-ii-30x40.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
-- title: Echo I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-echo-i-30x40.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
   price: 380
   contextual: true
 - title: Yang Shuo
