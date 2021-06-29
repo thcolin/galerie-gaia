@@ -14,7 +14,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Extrait de Jardin des plantes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-insta.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-insta.jpg
   fields: []
   styles: []
   dimensions:
@@ -25,7 +25,7 @@ works:
   price: 450
   contextual: false
 - title: 'Bras de la Madeleine et Jardin des Plantes '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-bras-de-la-madeleine-et-jardin-des-plantes-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-bras-de-la-madeleine-et-jardin-des-plantes-30x40.jpg
   technique: 'Gravure sur zinc et photo édition 20 exemplaires '
   fields:
   - Oeuvre sur papier
@@ -39,7 +39,7 @@ works:
   price: 380
   contextual: true
 - title: 'Grandes serres et bord de Loire - Nantes '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-grandes-serres-et-bord-de-loire-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-grandes-serres-et-bord-de-loire-30x40.jpg
   technique: 'Photo et gravure sur zinc Edition en 20 exemplaires '
   fields:
   - Oeuvre sur papier
@@ -53,7 +53,7 @@ works:
   price: 380
   contextual: true
 - title: 'Musée d''Arts et Théâtre Graslin Nantes '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-et-graslin-40x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-et-graslin-40x50.jpg
   technique: 'Dessin, fusain et aquarelle '
   fields: []
   styles: []
@@ -62,10 +62,10 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: 420
+  price: 450
   contextual: true
 - title: Musée d'Arts de Nantes et Beguin Say
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say-40x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say-40x50.jpg
   technique: Dessin, fusain et aquarelle
   fields: []
   styles: []
@@ -74,10 +74,10 @@ works:
     width: 50
     depth: 0
   description: Pièce unique
-  price: 420
+  price: 450
   contextual: true
 - title: Musée d'Arts et Beguin Say
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say_2-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say_2-30x40.jpg
   technique: Dessin, fusain aquarelle
   fields: []
   styles: []
@@ -86,10 +86,10 @@ works:
     width: 40
     depth: 0
   description: Pièce unique
-  price: 420
+  price: 450
   contextual: true
 - title: Jardin des plantes
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg
   technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
   dimensions:
     height: 40
@@ -102,7 +102,7 @@ works:
   - Oeuvre sur papier
   - " Photographie"
 - title: 'Cale de l''Esclain et Jardin des Plantes '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-l-esclun-et-jardin-des-plantes-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-l-esclun-et-jardin-des-plantes-30x40.jpg
   technique: 'Gravure sur zinc et photos Edition en 20 exemplaires '
   fields:
   - Oeuvre sur papier
@@ -116,7 +116,7 @@ works:
   price: 380
   contextual: true
 - title: 'Château des Ducs et Musée d''Arts de Nantes '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-chateau-des-ducs-et-musee-des-arts-50x70.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-chateau-des-ducs-et-musee-des-arts-50x70.jpg
   technique: Dessin fusain et aquarelle
   fields: []
   styles: []
@@ -128,7 +128,7 @@ works:
   price: 480
   contextual: true
 - title: Cale de l'Esclain et Rue de Verdun
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-cale-de-l-esclain-et-rue-de-verdun-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-cale-de-l-esclain-et-rue-de-verdun-30x40.jpg
   technique: Dessin aquarelle rotring
   fields: []
   styles: []
@@ -137,11 +137,11 @@ works:
     width: 40
     depth: 0
   description: Pièce unique
-  price: 350
+  price: 380
   contextual: true
 - title: Sans titre
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-sans-titre-30x24.jpg"
-  technique: Gravure sur zinc et piquetage photos
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-sans-titre-30x24.jpg
+  technique: Gravure sur zinc eau forte
   dimensions:
     height: 30
     width: 24
@@ -150,7 +150,7 @@ works:
   price: 280
   contextual: true
 - title: Resurgence VII
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-resurgence-vii-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-resurgence-vii-30x40.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 30
@@ -160,7 +160,7 @@ works:
   price: 380
   contextual: true
 - title: Resurgence VI
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-resurgence-vi-40x30.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-resurgence-vi-40x30.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 40
@@ -170,7 +170,7 @@ works:
   price: 380
   contextual: true
 - title: Bangkok Noi
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 30
@@ -180,7 +180,7 @@ works:
   price: 280
   contextual: true
 - title: Silence I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-silence-i-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-silence-i-30x40.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 40
@@ -190,7 +190,7 @@ works:
   price: 380
   contextual: true
 - title: En rester là
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg
   technique: 'Gravure sur zinc et piquetage photos '
   dimensions:
     height: 30
@@ -200,7 +200,7 @@ works:
   price: 380
   contextual: true
 - title: Echo II
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-echo-ii-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-echo-ii-30x40.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 40
@@ -210,7 +210,7 @@ works:
   price: 380
   contextual: true
 - title: Echo I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-echo-i-30x40.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-echo-i-30x40.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 30
@@ -220,7 +220,8 @@ works:
   price: 380
   contextual: true
 - title: Yang Shuo
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Yang Shuo-40x50_1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Yang
+    Shuo-40x50_1.jpg
   technique: Gravure sur zinc et piquetage photos Epreuve d'artiste
   dimensions:
     height: 40
@@ -229,7 +230,8 @@ works:
   price: 450
   contextual: true
 - title: 'Xia Men '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Xia Men-24x30_1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Xia
+    Men-24x30_1.jpg
   technique: Gravure sur zinc et piquetage photos
   dimensions:
     height: 24
@@ -238,7 +240,7 @@ works:
   price: 280
   contextual: true
 - title: 'Digue '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Digue-30x40.jpg_1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Digue-30x40.jpg_1.jpg
   technique: Gravure et piquage photos Edition en 20 exemplaires
   dimensions:
     height: 40
@@ -247,7 +249,7 @@ works:
   price: 380
   contextual: true
 - title: Alcantara
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Alcantara-40x50_1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Alcantara-40x50_1.jpg
   technique: 'Gravure sur zinc et photographies Edition en 20 exemplaires '
   dimensions:
     height: 40
@@ -258,7 +260,7 @@ works:
   sold: false
   contextual: true
 - title: Salento
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Salento-40x50_1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Salento-40x50_1.jpg
   technique: Gravure sur zinc et photo et piquetage photographique Edition en 20 exemplaires
   dimensions:
     height: 43
@@ -269,7 +271,7 @@ works:
   sold: false
   contextual: true
 - title: Tourbière
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tourbiere.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tourbiere.jpg
   technique: Gravure sur zinc, bronze Edition en 8 exemplaires
   dimensions:
     height: 53
@@ -284,7 +286,7 @@ works:
   styles:
   - Figuratif
 - title: 'Reliquat I '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reliquat-i-420.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reliquat-i-420.jpg
   technique: 'Gravure eau-forte réhaussée or Edition en 20 exemplaires '
   dimensions:
     height: 30
@@ -295,7 +297,7 @@ works:
   sold: false
   contextual: true
 - title: 'Pêcheur – Grande rivière '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pecheur-grande-riviere-17.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pecheur-grande-riviere-17.jpg
   technique: Gravure sur zinc et piquetage photographique Edition en 7 exemplaires
   dimensions:
     height: 26
