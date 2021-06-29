@@ -35,15 +35,14 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Le peintre Franco Salas Borquez représenté par la Galerie Gaïa de
-    Nantes expose des œuvres récentes à la médiathèque de Pornichet.  \nL'artiste
-    connu par ses peintures des mers qui expriment toute la force de cette nature,
-    propose pour cette nouvelle exposition de nous faire ressentir la poésie en se
-    plongeant dans ses compositions maritimes.\n\nUne exposition pour tous les passionnés
-    d'art , de la mer et de voyage.\n\nMardi      10H 12H30    15H30 18H  \nMercredi
-    10H 12H30    15H30 18H  \nJeudi       10H 14H        15H30 18H  \nVendredi  10H
-    12H30    15H30 19H  \nSamedi     10H 12H30    15H30 18H  \nDimanche 10H 12H30
-    \   15H30 18H"
+  description: "Le peintre Franco Salas Borquez représenté par la Galerie Gaïa depuis
+    2017 expose des œuvres récentes à la médiathèque de Pornichet.  \nL'artiste connu
+    par ses peintures des mers qui expriment toute la force de cette nature, propose
+    pour cette nouvelle exposition de nous faire ressentir la poésie en se plongeant
+    dans ses compositions maritimes.\n\nUne exposition pour tous les passionnés d'art
+    , de la mer et de voyage.\n\nDu Mardi  au Dimanche   10H 12H30    15H30 18H  \nProlongation
+    le Vendredi 19H  \nFermé le lundi\n\nInformation et rendez-vous pour visite privée
+    au 02 40 48 14 91"
   price: ''
   contextual: false
 - title: Vague hurlante
