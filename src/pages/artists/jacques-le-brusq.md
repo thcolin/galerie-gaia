@@ -85,16 +85,16 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   \ \n1986 Le Grand Huit - Maison de la Culture, Rennes (commissariat Jean-Yves Louédec)
   \ \n1973 Musée de Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de
   Bovrel, Saint Guyomard  \n1965 Foyer des artistes - Montparnasse - Galerie Marc
-  Vaux, Paris\n\n**Collections publiques :**\n\nArtothèque Nantes  \nMusée de Tessé
-  Le Mans  \nMusée des Baux Arts La Cohue Vannes  \nMusée Robert Tatin Cossé Le Vivien
-  \ \nMusée La Perrine Laval  \nFonds d'Art Contemporain Ville de Rennes  \nFonds
-  d'Art Contemporain Ecole des Beaux Arts de Nantes  \nFonds d'Art Contemporain Ville
-  de Paris  \nFonds d'Art Contemporain Domaine de Kerguehennec Bignan  \nFonds d'Art
-  Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque Nationale de
-  France Paris  \nArtothèque Angers"
+  Vaux, Paris\n\n**Collections publiques :**\n\nMusée des Arts de Nantes  \nArtothèque
+  Nantes  \nMusée de Tessé Le Mans  \nMusée des Baux Arts La Cohue Vannes  \nMusée
+  Robert Tatin Cossé Le Vivien  \nMusée La Perrine Laval  \nFonds d'Art Contemporain
+  Ville de Rennes  \nFonds d'Art Contemporain Ecole des Beaux Arts de Nantes  \nFonds
+  d'Art Contemporain Ville de Paris  \nFonds d'Art Contemporain Domaine de Kerguehennec
+  Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque
+  Nationale de France Paris  \nArtothèque Angers"
 works:
 - title: Rhuys vers kerne Opus 3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg
   technique: Huile sur papier
   fields: []
   styles: []
@@ -102,12 +102,13 @@ works:
     height: 53
     width: 43
     depth: 
-  description: encadrement baguette chêne verre antireflet qualité musée
-  price: 2000
+  description: "Prix sur demande  \nencadrement baguette chêne verre antireflet qualité
+    musée"
+  price: 
   sold: false
   contextual: true
 - title: Rhuys vers kernes Opus 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg
   technique: Huile sur papier
   fields: []
   styles: []
@@ -115,12 +116,13 @@ works:
     height: 53
     width: 43
     depth: 
-  description: encadrement baguette chêne verre antireflet qualité musée
-  price: 2000
+  description: "Prix sur demande  \nencadrement baguette chêne verre antireflet qualité
+    musée"
+  price: 
   sold: false
   contextual: true
 - title: Tri Avr Opus1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/17_img_7742_cmjn-copie.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/17_img_7742_cmjn-copie.jpg
   technique: 'Huile sur papier '
   fields: []
   styles: []
@@ -128,13 +130,13 @@ works:
     height: 48
     width: 63
     depth: 
-  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
-    type coffret - baguette chêne)
-  price: 3000
+  description: "Prix sur demande  \nFormat du papier 100X70 œuvre encadrée (verre
+    anti-reflet - encadrement type coffret - baguette chêne)"
+  price: 
   sold: false
   contextual: false
 - title: Paysage
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3091.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3091.jpg
   technique: Huile sur papier
   fields: []
   styles: []
@@ -144,11 +146,11 @@ works:
     depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
-  price: 3000
+  price: 
   sold: false
   contextual: false
 - title: Paysage Ker Sal 1Opus2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3074.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3074.jpg
   technique: Huile sur papier
   fields: []
   styles: []
@@ -162,7 +164,7 @@ works:
   sold: false
   contextual: false
 - title: La Brèche Opus 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-nom-16.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-nom-16.jpg
   technique: Huile sur papier
   fields: []
   styles: []
@@ -179,5 +181,11 @@ exhibitions:
   location: ''
   start: ''
   end: ''
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
