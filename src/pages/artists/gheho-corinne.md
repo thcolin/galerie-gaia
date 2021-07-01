@@ -96,19 +96,6 @@ works:
   price: 1100
   sold: false
   contextual: false
-- title: Vigie
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG
-  technique: Cuisson haute température
-  fields: []
-  styles: []
-  dimensions:
-    height: 15
-    width: 10
-    depth: 10
-  description: Blanc 400€ Noir 450€
-  price: 400
-  sold: false
-  contextual: false
 - title: 'Bols '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG
   technique: Grès ou porcelaine
@@ -200,19 +187,6 @@ works:
   price: 350
   sold: false
   contextual: false
-- title: 'Ancrage 2 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage-2.JPG
-  technique: Cuisson haute température
-  fields: []
-  styles: []
-  dimensions:
-    height: 12.5
-    width: 17.5
-    depth: 3.5
-  price: 350
-  sold: false
-  contextual: false
-  description: ''
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/portrait-corinne.JPG
   technique: ''
