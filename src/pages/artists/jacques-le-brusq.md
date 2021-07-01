@@ -158,9 +158,9 @@ works:
     height: 47.5
     width: 62
     depth: 
-  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
-    type coffret - baguette chêne)
-  price: 3000
+  description: "Prix sur demande  \nFormat du papier 100X70 œuvre encadrée (verre
+    anti-reflet - encadrement type coffret - baguette chêne)"
+  price: 
   sold: false
   contextual: false
 - title: La Brèche Opus 2
