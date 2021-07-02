@@ -43,6 +43,18 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: Iris
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
+  technique: Photographie sur papier baryté
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
 - title: Mikayo
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKAYO-30cmx30cm-30
     tirages.jpg
