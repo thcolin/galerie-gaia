@@ -78,19 +78,6 @@ works:
   description: ''
   price: 280
   contextual: true
-- title: Depuis Trentemoult
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Depuis Trentemoult-Nantes-18x24 copie.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 18
-    width: 24
-    depth: 0
-  description: "2021"
-  price: 180
-  contextual: true
-  technique: 'Eau forte '
 - title: Extrait de Jardin des plantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-insta.jpg
   fields: []
@@ -204,18 +191,6 @@ works:
     depth: 0
   description: Pièce unique
   price: 480
-  contextual: true
-- title: Cale de l'Esclain et Rue de Verdun
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-cale-de-l-esclain-et-rue-de-verdun-30x40.jpg
-  technique: Dessin aquarelle rotring
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: Pièce unique
-  price: 380
   contextual: true
 - title: Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-sans-titre-30x24.jpg
