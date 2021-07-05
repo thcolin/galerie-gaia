@@ -841,5 +841,22 @@ articles:
     iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
     élégants et évidents.\n\nExposition [Tangui Robert ](https://galeriegaia.fr/artists/tangui-robert/
     \"tangui robert \")à scruter de près tout l'été à la Galerie Gaïa"
+- template: article
+  date: '2021-07-05T17:34:36Z'
+  categories:
+  - Exposition
+  title: La marche des flots
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
+    saas borquez -pornichet.jpg
+  content: "## Exposition La marche des flots Médiathèque de Pornichet\n\nHuile sur
+    toile et dessins \n\nLe peintre [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
+    \"franco salas borquez\") représenté par la Galerie Gaïa depuis 2017 expose des
+    œuvres récentes à la Médiathèque Camille Flammarion de Pornichet (Place du Marché).
+    \ \nL’artiste connu par ses peintures des mers qui expriment toute la force de
+    cette nature, propose pour cette nouvelle exposition de nous faire ressentir la
+    poésie en se plongeant dans ses compositions maritimes.\n\nUne exposition pour
+    tous les passionnés d’art , de la mer et de voyage.\n\nDu Mardi au Dimanche 10H
+    12H30 15H30 18H  \nProlongation le Vendredi 19H  \nFermé le lundi\n\nInformation
+    et rendez-vous pour visite privée au 02 40 48 14 91"
 
 ---
