@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Nouveautés Juin 2021
+title: Nouveautés Juillet 2021
 location: ''
 birth: "0"
 death: "0"
