@@ -21,6 +21,22 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Vague Hurlante Franco Salas Borques
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
+    cap.jpg
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 40
+    width: 81
+    depth: 130
+  description: '# [Franco Salas Borques](https://galeriegaia.fr/artists/franco-salas-borquez/
+    "franco salas borques")'
+  price: 3200
+  contextual: false
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
 - title: Jorj Morin Point Culminant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
     culminant (scénographie avec chaise).JPG
@@ -121,18 +137,18 @@ works:
   description: "2004"
   price: 2200
   contextual: true
-- title: 'Sérigraphie Valérie Le Roux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
-    algues 92x45  58.jpg
+- title: 'Grand plat Valérie Le Roux '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
+    plat.jpg
   fields:
   - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 45
-    width: 92
-    depth: 0
-  description: Prix par bouteille
-  price: 90
+    height: 43
+    width: 43
+    depth: 5
+  description: ''
+  price: 240
   contextual: false
   technique: Sérigraphie 50 exemplaires
 - title: Fenêtre sur route 6 par Aline Isoard
@@ -294,22 +310,6 @@ works:
   - Oeuvre sur papier
   styles:
   - Abstrait
-  - Figuratif
-- title: Vague Hurlante Franco Salas Borques
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
-    cap.jpg
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 40
-    width: 81
-    depth: 130
-  description: '# [Franco Salas Borques](https://galeriegaia.fr/artists/franco-salas-borquez/
-    "franco salas borques")'
-  price: 3200
-  contextual: false
-  fields:
-  - Peinture
-  styles:
   - Figuratif
 - title: Fresque Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
