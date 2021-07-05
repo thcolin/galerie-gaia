@@ -3,8 +3,7 @@ template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer3-22x22-160€.jpeg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019012701-darkandfullcolors-160x200cm.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2019110903-LittleWoodTrash-105x70cm.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3509.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-00 emile 2020-
     détail2.jpg
