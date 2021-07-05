@@ -93,18 +93,18 @@ works:
     carre")'
   price: 3900
   contextual: false
-- title: Oracle XI par Anne Gaiss
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
-  technique: 'Huiles, Feutres et incisions sur feuille de cuivre marouflée sur papier
-    traditionnel indien '
+- title: Solis VII par Anne Gaiss
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
+  technique: 'Incisions sur feuille de cuivre or marouflée sur papier traditionnel
+    indien '
   fields: []
   styles: []
   dimensions:
-    height: 74
-    width: 64
+    height: 101
+    width: 69
     depth: 0
   description: '# [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/ "anne gaiss")'
-  price: 3200
+  price: 6000
   contextual: true
 - title: Paysage d'été 4 Judith Wolfe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
