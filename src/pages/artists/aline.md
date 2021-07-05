@@ -45,6 +45,20 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Station 6 2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
+    6-2017,60x60cm.jpg
+  technique: Photo dépigmentée tirage unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 
+  description: "2017"
+  price: 800
+  sold: false
+  contextual: true
 - title: Livre "Apparaître, disparaître, être"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
     4.jpg
@@ -129,20 +143,6 @@ works:
     width: 60
     depth: 
   description: ''
-  price: 800
-  sold: false
-  contextual: true
-- title: Station 6 2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
-    6-2017,60x60cm.jpg
-  technique: Photo dépigmentée tirage unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2017"
   price: 800
   sold: false
   contextual: true
