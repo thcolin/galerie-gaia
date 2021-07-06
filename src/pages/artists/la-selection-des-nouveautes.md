@@ -22,7 +22,7 @@ works:
   price: ''
   contextual: false
 - title: Abyssale de  Franco Salas Borques Lit de camp Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-franco-salas-borquez-pornichet.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathelier-salas-borquez.jpg
   technique: 'Huile sur toile '
   dimensions:
     height: 40
