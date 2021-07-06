@@ -25,9 +25,22 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Déferlante
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Défèrlante  100  x
+    100 cm huile sur toile 2021.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2021"
+  price: 3200
+  contextual: true
 - title: Contraste
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Contraste 100 x
-    100 cm  Huile sur toile 2021.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Contraste
+    100 x 100 cm  Huile sur toile 2021.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -39,8 +52,8 @@ works:
   price: 3200
   contextual: true
 - title: Abyssale
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Abyssale 200 x 300
-    cm huile sur toile 2020.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Abyssale
+    200 x 300 cm huile sur toile 2020.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
