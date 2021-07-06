@@ -25,6 +25,46 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: 'Le duel '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Le
+    duel 130 x 130 cm huile sur toile 2021.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: ''
+  price: 4200
+  contextual: true
+- title: La dualité
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-La
+    dualité huile sur toile 100 x 100 cm 2021.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2021"
+  price: 3200
+  contextual: true
+- title: L'agitation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-L'agitation
+    pastel 70 x 50 cm  2020.jpg
+  technique: 'Pastel sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 77
+    width: 57
+    depth: 0
+  description: '2021 encadrement compris sous verre '
+  price: 1700
+  contextual: true
 - title: Déferlante
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Défèrlante  100  x
     100 cm huile sur toile 2021.JPG
