@@ -21,17 +21,18 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Vague Hurlante Franco Salas Borques
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
-    cap.jpg
+- title: Abyssale de  Franco Salas Borques Lit de camp Marie Bathellier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-franco-salas-borquez-pornichet.jpg
   technique: 'Huile sur toile '
   dimensions:
     height: 40
     width: 81
     depth: 130
-  description: '# [Franco Salas Borques](https://galeriegaia.fr/artists/franco-salas-borquez/
-    "franco salas borques")'
-  price: 3200
+  description: |-
+    # [Franco Salas Borques](https://galeriegaia.fr/artists/franco-salas-borquez/ "franco salas borques")
+
+    # [Marie Bathellier]()
+  price: ''
   contextual: false
   fields:
   - Peinture
