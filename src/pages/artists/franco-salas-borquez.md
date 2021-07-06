@@ -25,6 +25,32 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Terre et mer
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Terre
+    et mer 100 x 100 cm huile sur toile 2021.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2021"
+  price: 3200
+  contextual: true
+- title: Nocturne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Nocturne
+    120 x 200 cm  huile sur toile 2020.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 200
+    depth: 0
+  description: "2021"
+  price: 6600
+  contextual: true
 - title: 'Le duel '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Le
     duel 130 x 130 cm huile sur toile 2021.JPG
@@ -88,7 +114,7 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: ''
+  description: "2021"
   price: 3200
   contextual: true
 - title: Abyssale
