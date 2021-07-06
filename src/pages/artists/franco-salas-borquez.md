@@ -25,9 +25,20 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
-- title: Terre et mer
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Terre
-    et mer 100 x 100 cm huile sur toile 2021.JPG
+- title: Exposition La Marche des flots Médiathèque Pornichet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Exposition du 6 au 18 Juillet 2021 Médiathèque Pornichet '
+  price: ''
+  contextual: true
+- title: La dualité
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-La
+    dualité huile sur toile 100 x 100 cm 2021.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -37,6 +48,39 @@ works:
     depth: 0
   description: "2021"
   price: 3200
+  contextual: true
+- title: Exposition La marche des flots Médiathèque de Pornichet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
+    saas borquez -pornichet.jpg
+  technique: 'Huile sur toile et dessins '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Le peintre Franco Salas Borquez représenté par la Galerie Gaïa depuis
+    2017 expose des œuvres récentes à la médiathèque de Pornichet.  \nL'artiste connu
+    par ses peintures des mers qui expriment toute la force de cette nature, propose
+    pour cette nouvelle exposition de nous faire ressentir la poésie en se plongeant
+    dans ses compositions maritimes.\n\nUne exposition pour tous les passionnés d'art
+    , de la mer et de voyage.\n\nDu Mardi  au Dimanche   10H 12H30    15H30 18H  \nProlongation
+    le Vendredi 19H  \nFermé le lundi\n\nInformation et rendez-vous pour visite privée
+    au 02 40 48 14 91"
+  price: ''
+  contextual: false
+- title: Abyssale
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Abyssale
+    200 x 300 cm huile sur toile 2020.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 200
+    width: 300
+    depth: 0
+  description: ''
+  price: 12000
   contextual: true
 - title: Nocturne
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Nocturne
@@ -63,19 +107,6 @@ works:
     depth: 0
   description: ''
   price: 4200
-  contextual: true
-- title: La dualité
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-La
-    dualité huile sur toile 100 x 100 cm 2021.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2021"
-  price: 3200
   contextual: true
 - title: L'agitation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-L'agitation
@@ -117,49 +148,18 @@ works:
   description: "2021"
   price: 3200
   contextual: true
-- title: Abyssale
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Abyssale
-    200 x 300 cm huile sur toile 2020.JPG
+- title: Terre et mer
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Terre
+    et mer 100 x 100 cm huile sur toile 2021.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 200
-    width: 300
+    height: 100
+    width: 100
     depth: 0
-  description: ''
-  price: 12000
-  contextual: true
-- title: Exposition La marche des flots Médiathèque de Pornichet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
-    saas borquez -pornichet.jpg
-  technique: 'Huile sur toile et dessins '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Le peintre Franco Salas Borquez représenté par la Galerie Gaïa depuis
-    2017 expose des œuvres récentes à la médiathèque de Pornichet.  \nL'artiste connu
-    par ses peintures des mers qui expriment toute la force de cette nature, propose
-    pour cette nouvelle exposition de nous faire ressentir la poésie en se plongeant
-    dans ses compositions maritimes.\n\nUne exposition pour tous les passionnés d'art
-    , de la mer et de voyage.\n\nDu Mardi  au Dimanche   10H 12H30    15H30 18H  \nProlongation
-    le Vendredi 19H  \nFermé le lundi\n\nInformation et rendez-vous pour visite privée
-    au 02 40 48 14 91"
-  price: ''
-  contextual: false
-- title: Exposition La Marche des flots Médiathèque Pornichet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Exposition du 6 au 18 Juillet 2021 Médiathèque Pornichet '
-  price: ''
+  description: "2021"
+  price: 3200
   contextual: true
 - title: Vague hurlante
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague
