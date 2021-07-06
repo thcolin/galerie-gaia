@@ -25,6 +25,32 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Contraste
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Contraste 100 x
+    100 cm  Huile sur toile 2021.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 3200
+  contextual: true
+- title: Abyssale
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Abyssale 200 x 300
+    cm huile sur toile 2020.JPG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 200
+    width: 300
+    depth: 0
+  description: ''
+  price: 12000
+  contextual: true
 - title: Exposition La marche des flots Médiathèque de Pornichet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     saas borquez -pornichet.jpg
