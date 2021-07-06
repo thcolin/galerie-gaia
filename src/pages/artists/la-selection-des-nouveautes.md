@@ -249,7 +249,7 @@ works:
     Tual")'
   price: 2500
   contextual: false
-- title: Lit de camp de Marie Bathellier
+- title: Lit de camp et sculpture de Marie Bathellier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
   dimensions:
     height: 43
@@ -258,7 +258,7 @@ works:
   description: "# [Marie Bathellier]()"
   price: 900
   contextual: false
-  technique: Acryliquye sur bâche
+  technique: Acrylique sur bâche
   fields:
   - Design
   styles:
