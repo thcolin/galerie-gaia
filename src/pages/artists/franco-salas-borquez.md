@@ -81,7 +81,7 @@ works:
     depth: 0
   description: ''
   price: 12000
-  contextual: true
+  contextual: false
 - title: Nocturne
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Nocturne
     120 x 200 cm  huile sur toile 2020.JPG

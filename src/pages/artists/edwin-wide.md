@@ -25,7 +25,7 @@ exhibitions:
 works:
 - title: SOLDAT 1915
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-SOLDAT 1915-195x130cm.jpg
+    Wide-SOLDAT 1915-195x130cm.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
