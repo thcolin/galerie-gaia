@@ -34,7 +34,7 @@ works:
     width: 130
     depth: 0
   description: ''
-  price: 2900
+  price: 3500
   contextual: true
 - title: IDFRA EA
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
@@ -72,7 +72,7 @@ works:
     width: 130
     depth: 0
   description: Vendu
-  price: 2900
+  price: ''
   contextual: true
   technique: Acrylique sur toile
 - title: 05-01-17
