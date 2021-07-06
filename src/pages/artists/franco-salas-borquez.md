@@ -209,13 +209,13 @@ works:
 - title: 'Dessin '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_SalasBorques_titre_format
     50X70.jpeg
-  technique: 'Crayon sur papier '
+  technique: Encre sur papier canson noir
   dimensions:
     height: 70
     width: 50
     depth: 0
   description: Œuvre encadrée en baguette bois blanc verre musée anti-reflet
-  price: 700
+  price: 1200
   contextual: true
   fields:
   - Oeuvre sur papier

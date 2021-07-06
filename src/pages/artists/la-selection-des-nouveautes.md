@@ -328,7 +328,7 @@ redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 - "/artistes/la-selection-des-nouveautes-de-mars-2020/"
 fields:
-- Séléction
+- Sélection
 seo:
   title: Les nouveautés - Galerie Gaïa, galerie d'art contemporain
   description: Exposition, peinture, sculpture, estampe, photographie… Découvrez les
