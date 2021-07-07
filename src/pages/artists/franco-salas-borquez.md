@@ -7,14 +7,23 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  # Franco Salas-Borquez
-
-  Franco Salas Borquez est né en 1979, sur  l'Île de Chiloé au Sud Austral du Chili.
-
-  Le travail de Franco Salas-Borques est le fruit de sa réflexion consciente et inconsciente envers le monde et le caractère amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque naturellement et instinctivement que le peintre développe son travail à travers la thématique de la mer déchainée. Lorsqu’il peint, Franco Salas-Borques fait appel à son intuition pour exercer des gestes chargés de force et de tension. Sa liberté d’artiste s’exprime alors dans toute cette révolte et peu à peu la mer prend vie, les vagues hurlent telles des âmes. Ensuite, l’agitation créatrice laisse place à la patience, telle une méditation qui permet de ressentir l’intensité de l’instant. L’étape finale du tableau est une sorte de recommencement, l’artiste se détache de ses peurs et de sa rigueur technique. Avec ces derniers gestes, il dessine la force du vent qui libère la mer de sa propre colère. À travers le langage universel et poétique de l’artiste, on découvre la peinture comme force créatrice et destructive où seule la beauté peut être sauvée.
-
-  texte de  Nathalie Tatai-Pogioni
+biography: "# Franco Salas-Borquez\n\nFranco Salas Borquez est né en 1979, sur  l'Île
+  de Chiloé au Sud Austral du Chili.\n\nLe travail de Franco Salas-Borques est le
+  fruit de sa réflexion consciente et inconsciente envers le monde et le caractère
+  amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque
+  naturellement et instinctivement que le peintre développe son travail à travers
+  la thématique de la mer déchainée. Lorsqu’il peint, Franco Salas-Borques fait appel
+  à son intuition pour exercer des gestes chargés de force et de tension. Sa liberté
+  d’artiste s’exprime alors dans toute cette révolte et peu à peu la mer prend vie,
+  les vagues hurlent telles des âmes. Ensuite, l’agitation créatrice laisse place
+  à la patience, telle une méditation qui permet de ressentir l’intensité de l’instant. L’étape
+  finale du tableau est une sorte de recommencement, l’artiste se détache de ses peurs
+  et de sa rigueur technique. Avec ces derniers gestes, il dessine la force du vent
+  qui libère la mer de sa propre colère. À travers le langage universel et poétique
+  de l’artiste, on découvre la peinture comme force créatrice et destructive où seule
+  la beauté peut être sauvée.\n\ntexte de  Nathalie Tatai-Pogioni\n\nCollection privée:
+  \ \nMusée de la Citadelle à [St Tropez](https://www.saint-tropez.fr/culture/citadelle/
+  \"musee maritime st tropez\")  \nMusée de la marine de Madrid"
 exhibitions:
 - title: La marche des flots
   location: Mediathèque Camille Flammarion Pornichet (44)
