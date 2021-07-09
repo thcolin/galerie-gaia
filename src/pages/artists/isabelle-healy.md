@@ -71,28 +71,6 @@ works:
   price: 4200
   sold: false
   contextual: false
-- title: Les âmes sœurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
-  technique: Bronze N° 8/8
-  dimensions:
-    height: 42
-    width: 38
-    depth: 9
-  description: "Fonderie Barthélémy Crest (26)  \n2020"
-  price: 3200
-  contextual: false
-- title: Mon héros
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
-  technique: Bronze EA I/IV
-  fields: []
-  styles: []
-  dimensions:
-    height: 47
-    width: 12
-    depth: 11
-  description: Fonderie Barthélémy Crest (26) sur commande
-  price: 2500
-  contextual: true
 - title: Confluence
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_healy_confluence_73x58.jpg
   technique: Bronze Epreuve d'Artiste EA II/IV
@@ -119,6 +97,28 @@ works:
   description: Fonderie Barthélémy Crest (26)
   price: 9400
   contextual: false
+- title: Les âmes sœurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-ames-soeurs-laterales-h.jpg
+  technique: Bronze N° 8/8
+  dimensions:
+    height: 42
+    width: 38
+    depth: 9
+  description: "Fonderie Barthélémy Crest (26)  \n2020"
+  price: 3200
+  contextual: false
+- title: Mon héros
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
+  technique: Bronze EA I/IV
+  fields: []
+  styles: []
+  dimensions:
+    height: 47
+    width: 12
+    depth: 11
+  description: Fonderie Barthélémy Crest (26) sur commande
+  price: 2500
+  contextual: true
 - title: Fondation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
   technique: Bronze N°2/8
@@ -133,7 +133,7 @@ works:
   sold: false
   contextual: false
 - title: Le Papillon
-  technique: Bronze 5/8
+  technique: Bronze 6/8
   fields: []
   styles: []
   dimensions:
@@ -141,19 +141,9 @@ works:
     width: 20
     depth: 6
   description: "2020   \nFonderie Barthélémy Crest (26)"
-  price: 1600
+  price: 1800
   contextual: false
-- title: Le mythe de Sisyphe - détail
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mythe-sisyphe-detail.png
-  technique: 'Bronze 8 exemplaires '
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Sur commande
-  price: 4500
-  sold: false
-  contextual: false
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
 - title: Le mythe de Sisyphe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-myhte-sisyphe.png
   technique: Bronze
