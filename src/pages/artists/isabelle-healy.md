@@ -56,7 +56,7 @@ works:
     height: 16
     width: 43
     depth: 5
-  description: "Réservée  \nFonderie Barthélémy Crest (26)"
+  description: "6/8  \nFonderie Barthélémy Crest (26)"
   price: 3800
   sold: false
   contextual: false
@@ -90,7 +90,7 @@ works:
     height: 47
     width: 12
     depth: 11
-  description: Fonderie Barthélémy Crest (26)
+  description: Fonderie Barthélémy Crest (26) sur commande
   price: 2500
   contextual: true
 - title: Confluence
