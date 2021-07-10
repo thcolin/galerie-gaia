@@ -99,7 +99,7 @@ works:
     width: 65
     depth: 
   description: "2004"
-  price: 2200
+  price: 2400
   sold: false
   contextual: true
 - title: Paysage d'été 4
@@ -113,7 +113,7 @@ works:
     width: 65
     depth: 
   description: "2004"
-  price: 2200
+  price: 2400
   sold: false
   contextual: true
 - title: Les Sagesses 3
