@@ -45,6 +45,34 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Station 3 2018
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/station 3-2018,
+    60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: pièce unique
+  price: 800
+  sold: false
+  contextual: true
+- title: Station 3 2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/station 3-2017,
+    60x60wa.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 800
+  sold: false
+  contextual: true
 - title: Station 6 2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
     6-2017,60x60cm.jpg
