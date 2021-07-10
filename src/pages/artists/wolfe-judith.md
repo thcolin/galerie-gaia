@@ -174,9 +174,10 @@ works:
   price: 5000
   sold: false
   contextual: true
-- title: Les sagesses 3
+- title: Les sagesses 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    sagesses 3-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg.jpg
+    sagesses 2-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg
+    .jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []
@@ -217,7 +218,7 @@ works:
   price: 2400
   sold: false
   contextual: false
-- title: Les sagesses 1
+- title: Les sagesses 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
     sagesses1-95X65-2011.jpeg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
