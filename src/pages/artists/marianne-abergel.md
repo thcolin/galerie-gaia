@@ -126,8 +126,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Totem vendu seul 450€   \nTotem vendu en duo 850€  \nTotem vendu en
-    trio 1250€  \nTotem vendu en quatuor 1600€"
+  description: "Totem vendu seul 450€  \nTotem vendu en duo 850€  \nTotem vendu en
+    trio 1250€\n\nvisuel gauche vendu"
   price: 450
   contextual: false
 - title: Totem 5
@@ -165,19 +165,6 @@ works:
   dimensions:
     height: 30
     width: 12
-    depth: 2
-  description: ''
-  price: 450
-  contextual: false
-- title: Totem 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem1a.jpg
-  technique: Céramique
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 30
-    width: 15
     depth: 2
   description: ''
   price: 450
