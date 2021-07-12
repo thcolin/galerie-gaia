@@ -124,20 +124,20 @@ works:
   description: '# [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/ "anne gaiss")'
   price: 6000
   contextual: true
-- title: Paysage d'été 4 Judith Wolfe
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
-    d'ete4-95X65-2004-2200E.jpeg
+- title: Sagesse 1 Judith Wolfe
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
+    sagesses1-95X65-2011.jpeg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields:
   - Peinture
   styles:
   - Abstrait
   dimensions:
-    height: 95
-    width: 65
+    height: 60
+    width: 60
     depth: 0
-  description: "2004"
-  price: 2200
+  description: "2011"
+  price: 1500
   contextual: true
 - title: 'Grand plat Valérie Le Roux '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
@@ -222,20 +222,6 @@ works:
     prix sur demande
   price: ''
   contextual: false
-- title: Pierre Buraglio
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Pierre-Buraglio.jpg
-  technique: ''
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  dimensions:
-    height: 66
-    width: 48
-    depth: 0
-  description: '# [Estampes](https://galeriegaia.fr/artists/estampes/ "Gerard Traquandi")'
-  price: 700
-  contextual: true
 - title: Primitive N°3 de Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
   technique: Fer recuit
