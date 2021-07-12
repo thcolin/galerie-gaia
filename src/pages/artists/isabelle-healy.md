@@ -49,6 +49,18 @@ biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après
   de Baghavad-Gita"
 exhibitions: []
 works:
+- title: Détail Le Papillon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
+  technique: Bronze 6/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 38
+    width: 20
+    depth: 6
+  description: Fondeur d'art Barthélémy Crest (26)
+  price: 1800
+  contextual: true
 - title: Anouck
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
   technique: Bronze I/IV
@@ -64,7 +76,7 @@ works:
   contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: 'Bronze N° 7/8 '
+  technique: 'Bronze N° 6/8 '
   dimensions:
     height: 16
     width: 43
