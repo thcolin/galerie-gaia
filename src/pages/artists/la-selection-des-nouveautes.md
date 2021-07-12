@@ -153,9 +153,9 @@ works:
   price: 240
   contextual: false
   technique: Sérigraphie 50 exemplaires
-- title: Fenêtre sur route 6 par Aline Isoard
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
-    sur route 6-2020, 60x60cm.jpg
+- title: Station 7 2020 par Aline Isoard
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
+    7-2020,60x60w.jpg
   technique: Photographie pigmentée tirage unique
   fields:
   - Photographie
