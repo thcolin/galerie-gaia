@@ -186,9 +186,8 @@ works:
     Oeuvre encadrée verre musée antireflet
   price: 250
   contextual: false
-- title: Chimère Marianne Abergel Cube plié brûlé DAHA
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-cube
-    plié-abergel.jpg
+- title: Zed scultpure DAHA et Goutte Rouge Go Segawa
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-zed.jpg
   technique: Grés émaillé par Marianne Abergel sur cube plié brûlé DAHA
   fields:
   - Céramique
@@ -200,10 +199,10 @@ works:
     width: 9
     depth: 6
   description: |-
-    # [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/ "https://galeriegaia.fr/artists/marianne-abergel/")
+    # [Go Segawa](https://galeriegaia.fr/artists/go-segawa/ "go segawa")
 
     # [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")
-  price: 650
+  price: 160
   contextual: false
 - title: Little wood trash par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg

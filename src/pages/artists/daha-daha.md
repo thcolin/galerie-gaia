@@ -29,6 +29,21 @@ biography: |-
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
+- title: Zed
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-zed.jpg
+  technique: Chêne
+  fields:
+  - Sculpture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 25
+    width: 7
+    depth: 5
+  description: 'Goutte rouge de [Go Segawa](https://galeriegaia.fr/artists/go-segawa/
+    "go segawa") '
+  price: 300
+  contextual: false
 - title: 'Zoom sur cube plié brûlé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
     NOIR.jpeg
