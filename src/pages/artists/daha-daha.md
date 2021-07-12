@@ -107,14 +107,14 @@ works:
   sold: false
   contextual: false
 - title: Fauteuil Ellipse
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fauteuil-ellipse.jpg
-  technique: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damien-hamon-ellipse.jpeg
+  technique: Wengé
   dimensions:
     height: 
     width: 
     depth: 
   description: "prix selon le choix du bois \nsur commande"
-  price: 
+  price: 3900
   sold: false
   contextual: true
 - title: Ellipse en situation
@@ -128,7 +128,7 @@ works:
     width: 0
     depth: 0
   description: Prix sur demande selon le choix du bois
-  price: 0
+  price: 3900
   contextual: false
 - title: Valet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valet.jpg
