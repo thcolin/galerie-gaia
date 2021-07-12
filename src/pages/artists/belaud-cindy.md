@@ -42,6 +42,33 @@ biography: |-
 
   Ines Ben Brahim
 works:
+- title: Aplat en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 200
+  sold: false
+  contextual: false
+- title: '3X3X3 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-3X3X3
+    1.jpeg
+  technique: Sérigraphie sur carton bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: '2 exemplaires signées numérotées '
+  price: 400
+  sold: false
+  contextual: true
 - title: 1 Trait en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
   technique: ''
@@ -68,19 +95,6 @@ works:
   price: 150
   sold: false
   contextual: true
-- title: Aplat en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 200
-  sold: false
-  contextual: false
 - title: Aplat
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-aplat-70X50.jpg
   technique: 'Sérigraphie '

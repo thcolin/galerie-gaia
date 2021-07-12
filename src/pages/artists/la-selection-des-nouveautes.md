@@ -51,19 +51,20 @@ works:
     "Georges MORIN")'
   price: 4300
   contextual: false
-- title: Trait par Cindy Belaud
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
+- title: 3X3X3 par Cindy Belaud
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-3X3X3
+    2.jpeg
   technique: Sérigraphie 8/10
   fields:
   - Oeuvre sur papier
   styles:
   - Abstrait
   dimensions:
-    height: 40
-    width: 30
+    height: 80
+    width: 60
     depth: 0
   description: "[Cindy Belaud]() "
-  price: 150
+  price: 400
   contextual: false
 - title: Dark and full colors par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
