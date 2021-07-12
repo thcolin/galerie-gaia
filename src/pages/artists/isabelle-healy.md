@@ -49,6 +49,18 @@ biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après
   de Baghavad-Gita"
 exhibitions: []
 works:
+- title: Anouck
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
+  technique: Bronze I/IV
+  fields: []
+  styles: []
+  dimensions:
+    height: 12
+    width: 12
+    depth: 5
+  description: ''
+  price: 2300
+  contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
   technique: 'Bronze N° 7/8 '
