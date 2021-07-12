@@ -59,7 +59,7 @@ works:
     width: 12
     depth: 5
   description: ''
-  price: 2300
+  price: 2600
   contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
