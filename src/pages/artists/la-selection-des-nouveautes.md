@@ -38,6 +38,24 @@ works:
   - Peinture
   styles:
   - Figuratif
+- title: Zed scultpure DAHA et Goutte Rouge Go Segawa
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-zed.jpg
+  technique: Grés émaillé par Marianne Abergel sur cube plié brûlé DAHA
+  fields:
+  - Céramique
+  - Design
+  styles:
+  - Figuratif
+  dimensions:
+    height: 15
+    width: 9
+    depth: 6
+  description: |-
+    # [Go Segawa](https://galeriegaia.fr/artists/go-segawa/ "go segawa")
+
+    # [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")
+  price: 160
+  contextual: false
 - title: Jorj Morin Point Culminant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
     culminant (scénographie avec chaise).JPG
@@ -185,24 +203,6 @@ works:
 
     Oeuvre encadrée verre musée antireflet
   price: 250
-  contextual: false
-- title: Zed scultpure DAHA et Goutte Rouge Go Segawa
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-zed.jpg
-  technique: Grés émaillé par Marianne Abergel sur cube plié brûlé DAHA
-  fields:
-  - Céramique
-  - Design
-  styles:
-  - Figuratif
-  dimensions:
-    height: 15
-    width: 9
-    depth: 6
-  description: |-
-    # [Go Segawa](https://galeriegaia.fr/artists/go-segawa/ "go segawa")
-
-    # [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")
-  price: 160
   contextual: false
 - title: Little wood trash par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
