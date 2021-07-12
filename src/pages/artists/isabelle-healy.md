@@ -58,7 +58,8 @@ works:
     height: 12
     width: 12
     depth: 5
-  description: ''
+  description: "Les 8 premières éditions ont été vendues.   \nReste disponible seulement
+    3 Epreuves d'Artistes "
   price: 2600
   contextual: true
 - title: Les vacances
