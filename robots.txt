@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://galeriegaia.fr/sitemap.xml
+Host: https://galeriegaia.fr
