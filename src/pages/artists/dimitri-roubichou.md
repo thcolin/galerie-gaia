@@ -43,6 +43,18 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: Trophée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
+  technique: Photographie sur papier baryté
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
 - title: Coquillage recto 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillageverso.jpg
   technique: Photographie sur papier baryté
