@@ -43,6 +43,18 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: Coquillage verso 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillage-verso.jpg
+  technique: Photographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 300
+  contextual: true
 - title: Iris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
   technique: Photographie sur papier baryté
