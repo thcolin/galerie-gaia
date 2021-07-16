@@ -101,8 +101,8 @@ works:
     height: 120
     width: 200
     depth: 0
-  description: "2021"
-  price: 6600
+  description: Réservée
+  price: ''
   contextual: true
 - title: 'Le duel '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Le
