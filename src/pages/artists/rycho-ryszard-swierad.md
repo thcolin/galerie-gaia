@@ -17,6 +17,18 @@ biography: |-
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: 'St Pierre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CONCARNEAU-Voyage-03.jpg
+  technique: Image photographique 20 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 160
+  contextual: true
 - title: Mala bestia 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak02.jpg
   technique: Photo et peinture or sous verre
