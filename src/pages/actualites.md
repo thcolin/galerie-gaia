@@ -858,5 +858,13 @@ articles:
     tous les passionnés d’art , de la mer et de voyage.\n\nDu Mardi au Dimanche 10H
     12H30 15H30 18H  \nProlongation le Vendredi 19H  \nFermé le lundi\n\nInformation
     et rendez-vous pour visite privée au 02 40 48 14 91"
+- template: article
+  date: '2021-07-17T13:41:57Z'
+  categories:
+  - Exposition
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
+  title: La marche des flots Franco Salas Borquez
+  content: "[https://www.youtube.com/watch?v=4l1EKXeYYf8](https://www.youtube.com/watch?v=4l1EKXeYYf8
+    \"https://www.youtube.com/watch?v=4l1EKXeYYf8\")\n\n# Franco Salas Borquez "
 
 ---
