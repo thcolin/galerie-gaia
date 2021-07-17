@@ -47,6 +47,20 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
+- title: Biscarosse
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-100X100-BISCAROSSE-1C5A6271.jpg
+  technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "80X80 cm 3 exemplaires 3000€  \n100X100 cm 3 exemplaires 4500€  \n120X120
+    cm 3 exemplaires 6500€"
+  price: 4500
+  sold: false
+  contextual: true
 - title: Cockpit Concorde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-80X120-CONCORDE-COCKPIT.jpg
   technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
