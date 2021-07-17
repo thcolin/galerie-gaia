@@ -49,15 +49,16 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
 works:
 - title: 'Exoplanéte #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-PLANETE-12-50X50-1C5A0957.jpg
-  technique: ''
+  technique: 'Photo sublimation sur feuille d''aluminium brossée brillant caisse américaine
+    noire '
   fields: []
   styles: []
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "80X80 cm 3 exemplaires 3000€  \n100X100 cm 3 exemplaires 4500€  \n120X120
-    cm 3 exemplaires 6500€"
+  description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
+    exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 
   sold: false
   contextual: true
@@ -70,8 +71,8 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: "80X80 cm 3 exemplaires 3000€  \n100X100 cm 3 exemplaires 4500€  \n120X120
-    cm 3 exemplaires 6500€"
+  description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
+    exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 4500
   sold: false
   contextual: true
@@ -84,7 +85,10 @@ works:
     height: 120
     width: 80
     depth: 0
-  description: Disponible en 150X100 6800€
+  description: |-
+    # Manolo Chretien
+
+    Disponible en 150X100 6800€
   price: 4500
   sold: false
   contextual: true
@@ -99,8 +103,8 @@ works:
     height: 90
     width: 120
     depth: 0
-  description: "Diptyque 2X (90X60cm) 5600€ 3 exemplaires  \nDiptyque 2X (120X80cm)
-    9000€ 3 exemplaires"
+  description: "# Manolo Chretien\n\nDiptyque 2X (90X60cm) 5600€ 3 exemplaires  \nDiptyque
+    2X (120X80cm) 9000€ 3 exemplaires"
   price: 5600
   sold: false
   contextual: true
@@ -114,12 +118,13 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: "80X80 cm 3 exemplaires 3000€  \n100X100 cm 3 exemplaires 4500€  \n120X120
-    cm 3 exemplaires 6500€\n\n140X140 cm 2 EA 8800€ \n\nEdition limitée à 11 exemplaires "
+  description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
+    exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€\n\n140X140 cm 2 EA 8800€\n\nEdition
+    limitée à 11 exemplaires"
   price: 4500
   sold: false
   contextual: true
-- title: T BIRD CARMAN
+- title: T Bird Carman
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-90x60cm-TBIRD-KARMAN-1C5A5473.jpeg
   technique: Photo sublimation sur feuille d'aluminium brossée brillant
   fields: []
@@ -131,8 +136,13 @@ works:
   price: 2800
   sold: false
   contextual: true
-  description: "90X60 cm 3 exemplaires 2800€  \n120X80 cm 3 exemplaires 4500€  \n150X100
-    cm 3 exemplaires 6800€\n\n180X120 cm 2 EA 9800€ \n\nEdition limitée à 11 exemplaires "
-exhibitions: []
+  description: "# Manolo Chretien\n\n90X60 cm 3 exemplaires 2800€  \n120X80 cm 3 exemplaires
+    4500€  \n150X100 cm 3 exemplaires 6800€\n\n180X120 cm 2 EA 9800€\n\nEdition limitée
+    à 11 exemplaires"
+exhibitions:
+- title: ''
+  location: ''
+  start: ''
+  end: ''
 
 ---
