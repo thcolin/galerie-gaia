@@ -47,6 +47,19 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
+- title: Cockpit Concorde
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-80X120-CONCORDE-COCKPIT.jpg
+  technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 80
+    depth: 0
+  description: Disponible en 150X100 6800€
+  price: 4500
+  sold: false
+  contextual: true
 - title: Alumination Green and Red (diptyque)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-v1GREEN
     RED-9637 9627.jpeg
