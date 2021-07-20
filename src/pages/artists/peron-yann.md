@@ -66,10 +66,10 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
+    height: 
+    width: 
+    depth: 
+  description: Vendu
   price: 
   sold: false
   contextual: true
@@ -82,9 +82,9 @@ works:
   dimensions:
     height: 141
     width: 125
-    depth: 0
-  description: "Cadre sur-mesure ébeniste   \nFormat de l'oeuvre 122X106cm "
-  price: 3900
+    depth: 
+  description: Vendu
+  price: 
   sold: false
   contextual: true
 exhibitions: []
