@@ -53,7 +53,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 400
+  price: 300
   contextual: true
 - title: Coquillage verso 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillage-verso.jpg
