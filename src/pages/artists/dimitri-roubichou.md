@@ -8,15 +8,15 @@ birth: "0"
 death: "0"
 expose: true
 biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats différents
-  édition en 9 exemplaires  \nPapier baryté\n\n30X30cm      250€  \n40X40cm      400€
-  \ \n60X60cm      700€  \n120X120cm 1200€\n\nL'artiste est né à Nantes. Dimitri Roubichou
-  poursuit dans les années 90 des études de cinéma à Paris VIII et à l’Ecole Nationale
-  Supérieure de Photographie d’Arles.\nRoubichou débute à cette période, à photographier
-  les matières végétales et ce qu’elles peuvent suggérer. Au début des années 2010,
-  l'artiste passe à la photographie numérique avec la même approche, avec des outils
-  différents et des thèmes plus diversifiés. Il poursuit son travail sur le végétal,
-  le minéral et les portraits. Ses influences sont diverses : des peintures feu d’Yves
-  Klein au Paris d’Eugène Atget mais la nature reste sa principale source d'inspiration.\n\n\"Les
+  édition en 9 exemplaires  \nPapier baryté\n\n30X30cm        \n40X40cm        \n60X60cm
+  \       \n120X120cm \n\nL'artiste est né à Nantes. Dimitri Roubichou poursuit dans
+  les années 90 des études de cinéma à Paris VIII et à l’Ecole Nationale Supérieure
+  de Photographie d’Arles.\nRoubichou débute à cette période, à photographier les
+  matières végétales et ce qu’elles peuvent suggérer. Au début des années 2010, l'artiste
+  passe à la photographie numérique avec la même approche, avec des outils différents
+  et des thèmes plus diversifiés. Il poursuit son travail sur le végétal, le minéral
+  et les portraits. Ses influences sont diverses : des peintures feu d’Yves Klein
+  au Paris d’Eugène Atget mais la nature reste sa principale source d'inspiration.\n\n\"Les
   thèmes privilégiés de mon travail de photographe tournent essentiellement autour
   de l’enveloppe intime du  végétal, du minéral et celui du corps. J’essaie dans mes
   images de mettre en valeur ces « matériaux » naturels, parfois de façon plus abstraite
@@ -112,7 +112,7 @@ works:
     width: 40
     depth: 0
   description: ''
-  price: 500
+  price: 400
   contextual: true
 - title: Paige
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-paige-jpeg.JPG
