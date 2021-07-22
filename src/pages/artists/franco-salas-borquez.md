@@ -44,7 +44,7 @@ works:
     width: 100
     depth: 0
   description: Œuvre encadrée caisse américaine noire
-  price: 1800
+  price: 2200
   contextual: true
   technique: Huile sur toile
 - title: Exposition La Marche des flots Médiathèque Pornichet
