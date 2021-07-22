@@ -26,6 +26,20 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: Zen II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Zen
+    II 25X31.jpg
+  technique: Technique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 25
+    depth: 0
+  description: Encadrée
+  price: 250
+  sold: false
+  contextual: true
 - title: Noir et jaune
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Barbotin-Nadia-Vitrail
     Contemporain noir et jaune 40X40X3.JPG
