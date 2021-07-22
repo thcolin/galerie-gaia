@@ -29,8 +29,19 @@ biography: |-
   [https://daha.fr/](https://daha.fr/ "https://daha.fr/")
 exhibitions: []
 works:
+- title: Fauteuil Ellipse
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damien-hamon-ellipse.jpeg
+  technique: Wengé
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: "prix selon le choix du bois \nsur commande"
+  price: 6500
+  sold: false
+  contextual: true
 - title: Zed
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-zed.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-Zed.jpg
   technique: Chêne
   fields:
   - Sculpture
@@ -43,6 +54,19 @@ works:
   description: 'Goutte rouge de [Go Segawa](https://galeriegaia.fr/artists/go-segawa/
     "go segawa") '
   price: 300
+  contextual: false
+- title: Ellipse en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2021-06-15 à 17.29.30.png
+  technique: Bois exotique wengé
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Prix sur demande selon le choix du bois
+  price: 3900
   contextual: false
 - title: 'Zoom sur cube plié brûlé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
@@ -120,30 +144,6 @@ works:
     une table brut 500€TTC huilé 580€TTC peint 600€TTC Or 850€TTC
   price: 850
   sold: false
-  contextual: false
-- title: Fauteuil Ellipse
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damien-hamon-ellipse.jpeg
-  technique: Wengé
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "prix selon le choix du bois \nsur commande"
-  price: 6500
-  sold: false
-  contextual: true
-- title: Ellipse en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2021-06-15 à 17.29.30.png
-  technique: Bois exotique wengé
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Prix sur demande selon le choix du bois
-  price: 3900
   contextual: false
 - title: Valet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valet.jpg
