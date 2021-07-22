@@ -26,7 +26,33 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
-- title: Fusion
+- title: Masculin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Masculin25X31.jpg
+  technique: Technique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 25
+    depth: 0
+  description: ''
+  price: 250
+  sold: false
+  contextual: true
+- title: 'Fusion '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Fusion25X31.jpg
+  technique: Technique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 25
+    depth: 0
+  description: Encadrée
+  price: 250
+  sold: false
+  contextual: true
+- title: Féminin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Féminin25X31.jpg
   technique: Tecnique mixte sur papier
   fields: []
