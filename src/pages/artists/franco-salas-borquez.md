@@ -34,6 +34,18 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: 'L ''Indomptable '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-limdoptable-sea-oil-painting-by-franco-salas-borquez_5.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 200
+    width: 300
+    depth: 0
+  description: "# Franco Salas Borquez\n\nPensez cette toile comme une fresque murale "
+  price: 12000
+  contextual: true
 - title: Portrait d'une vague
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai-franco-salas-borquez-Huile
     sur toile 100 x50 cm 2021 Portrait d'une vague.JPG
