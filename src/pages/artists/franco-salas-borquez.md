@@ -34,6 +34,18 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: L'Indomptable en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-limdoptable-sea-oil-painting-by-franco-salas-borquez_200x300cm-34.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 200
+    width: 300
+    depth: 0
+  description: "# Franco Salas Borquez"
+  price: 12000
+  contextual: true
 - title: 'L ''Indomptable '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-limdoptable-sea-oil-painting-by-franco-salas-borquez_5.jpg
   technique: 'Huile sur toile '
