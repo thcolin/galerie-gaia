@@ -4,6 +4,7 @@ title: 'Barbotin Nadia '
 location: Nantes
 fields:
 - Peinture
+- Oeuvre sur papier
 birth: ''
 death: ''
 expose: true
@@ -26,6 +27,47 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: Retrouvailles
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg
+  technique: Huile sur toile
+  dimensions:
+    height: 130
+    width: 194
+    depth: 
+  description: "Diptyque   \n2020"
+  price: 4500
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
+- title: Retrouvailles en atelier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg
+  technique: Huile sur toile et Techniques mixtes
+  dimensions:
+    height: 130
+    width: 194
+    depth: 
+  description: "Diptyque en contexte  \n2020"
+  price: 5200
+  sold: false
+  contextual: false
+  fields: []
+  styles: []
+- title: Zen IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Zen
+    IV25X31.jpg
+  technique: Technique mixte sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 31
+    width: 25
+    depth: 0
+  description: Encadrée
+  price: 250
+  sold: false
+  contextual: true
 - title: Zen III
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Zen
     III25X31.jpg
@@ -121,19 +163,6 @@ works:
   price: 250
   sold: false
   contextual: true
-- title: Retrouvailles
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 130
-    width: 194
-    depth: 
-  description: "Diptyque   \n2020"
-  price: 4500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: Freedom
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg
   technique: 'Huile sur toile et techniques mixtes '
@@ -211,19 +240,6 @@ works:
 
     En contexte
   price: 3500
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: Retrouvailles
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg
-  technique: Huile sur toile et Techniques mixtes
-  dimensions:
-    height: 130
-    width: 194
-    depth: 
-  description: "Diptyque en contexte  \n2020"
-  price: 5200
   sold: false
   contextual: false
   fields: []
