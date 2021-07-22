@@ -26,6 +26,20 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: Noir et jaune
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Barbotin-Nadia-Vitrail
+    Contemporain noir et jaune 40X40X3.JPG
+  technique: Technique mixte sur plexi
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 3
+  description: ''
+  price: 1800
+  sold: false
+  contextual: false
 - title: Colors
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Barbotin-Nadia-Vitrail
     contemporain coloré 40X40X3.jpg
