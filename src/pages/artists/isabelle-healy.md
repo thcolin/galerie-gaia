@@ -72,9 +72,9 @@ works:
     height: 101
     width: 47
     depth: 12
-  description: ''
+  description: "Nouveauté 2021 Fonderie Barthélémy Crest  \nPlus de photos sur demande"
   price: 6500
-  contextual: true
+  contextual: false
 - title: Détail Le Papillon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
   technique: Bronze 6/8
