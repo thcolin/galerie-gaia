@@ -39,7 +39,7 @@ works:
   styles:
   - Figuratif
 - title: Zed scultpure DAHA et Goutte Rouge Go Segawa
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-zed.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-daha-Zed.jpg
   technique: Grés émaillé par Marianne Abergel sur cube plié brûlé DAHA
   fields:
   - Céramique
