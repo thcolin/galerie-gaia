@@ -87,12 +87,12 @@ works:
   contextual: false
 - title: La sphère des possibles
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg
-  technique: Bronze 4/8
+  technique: Bronze N°7/8
   dimensions:
     height: 65
     width: 13
     depth: 13
-  description: Disponible sur commande
+  description: Fonderie Barthélémy Crest
   price: 4200
   sold: false
   contextual: false
