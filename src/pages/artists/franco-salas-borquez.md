@@ -34,6 +34,19 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Portrait d'une vague
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai-franco-salas-borquez-Huile
+    sur toile 100 x50 cm 2021 Portrait d'une vague.JPG
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 100
+    depth: 0
+  description: Œuvre encadrée caisse américaine noire
+  price: 1800
+  contextual: true
+  technique: Huile sur toile
 - title: Exposition La Marche des flots Médiathèque Pornichet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
   fields: []
