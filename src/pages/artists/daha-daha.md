@@ -129,7 +129,7 @@ works:
     width: 
     depth: 
   description: "prix selon le choix du bois \nsur commande"
-  price: 3900
+  price: 6500
   sold: false
   contextual: true
 - title: Ellipse en situation
