@@ -21,6 +21,21 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: 'Une île - nouvelle sculpture  par Isabelle Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
+    ile-IMG_3590.JPG
+  technique: Bronze 2/8
+  dimensions:
+    height: 40
+    width: 40
+  description: '# [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
+    "isabelle healy") '
+  price: 6500
+  contextual: false
+  fields:
+  - Sculpture
+  styles:
+  - Figuratif
 - title: Abyssale de  Franco Salas Borques Lit de camp Marie Bathellier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathelier-salas-borquez.jpg
   technique: 'Huile sur toile '
@@ -267,21 +282,6 @@ works:
   - Faience
   styles:
   - abstrait
-- title: 'Les Vacances par Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les
-    vacances.jpg
-  technique: Bronze 7/9
-  dimensions:
-    height: 40
-    width: 40
-  description: '# [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
-    "isabelle healy") '
-  price: 3800
-  contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Figuratif
 - title: Alain Clement Morellet The Blind
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-blind-clement-morellet.jpg
   technique: Estampe
