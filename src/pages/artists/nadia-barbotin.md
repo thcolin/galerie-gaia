@@ -26,6 +26,19 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
+- title: Fusion
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Féminin25X31.jpg
+  technique: Tecnique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 25
+    depth: 0
+  description: Encadrée
+  price: 250
+  sold: false
+  contextual: true
 - title: Retrouvailles
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg
   technique: Huile sur toile
