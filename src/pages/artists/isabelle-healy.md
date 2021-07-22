@@ -49,6 +49,32 @@ biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après
   de Baghavad-Gita"
 exhibitions: []
 works:
+- title: Une île en extérieur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
+    ile-IMG_3590.JPG
+  technique: Bronze N°2/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 101
+    width: 47
+    depth: 12
+  description: Bronze pouvant être scellé en extérieur
+  price: 6500
+  contextual: false
+- title: Une île
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
+    ile-W01.jpg
+  technique: Bronze N°2/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 101
+    width: 47
+    depth: 12
+  description: ''
+  price: 6500
+  contextual: true
 - title: Détail Le Papillon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
   technique: Bronze 6/8
