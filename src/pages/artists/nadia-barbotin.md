@@ -39,19 +39,6 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: 'Vibrations '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-vibrations-116x89.jpg
-  technique: Huile sur toile
-  dimensions:
-    height: 116
-    width: 89
-    depth: 
-  description: "2020"
-  price: 2900
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: Freedom
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg
   technique: 'Huile sur toile et techniques mixtes '
