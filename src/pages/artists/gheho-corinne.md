@@ -40,6 +40,19 @@ biography: "# Corinne Guého\n\nDepuis 1998 Corinne Gueho travaille autour de fo
   sont le développement créatif des personnes, la confiance en soi, les échanges et
   l’ouverture au monde des arts, le plaisir et l’acquisition de savoir et savoir-faire."
 works:
+- title: Ancrage pont
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrages.JPG
+  technique: 'Raku nu '
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 15
+    depth: 4.5
+  description: ''
+  price: 250
+  sold: false
+  contextual: false
 - title: Cylindre 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
     3,H25,Diam11.jpg
@@ -96,19 +109,6 @@ works:
   price: 1100
   sold: false
   contextual: false
-- title: 'Bols '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-porcelaine-2.JPG
-  technique: Grès ou porcelaine
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "petits formats 10€ jusqu’à 45€  \nplateaux noyer ou fresnes 20€"
-  price: 10
-  sold: false
-  contextual: true
 - title: Vigie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-2.JPG
   technique: 'Raku nu '
@@ -133,32 +133,6 @@ works:
     depth: 4
   description: Prix selon modèle de gauche à droite 200€ 350€ 400€
   price: 200
-  sold: false
-  contextual: false
-- title: 'Bols '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-bols.JPG
-  technique: Grés ou porcelaine
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "petits formats 10€ jusqu'à 45€  \nplateaux noyer ou fresnes 20€"
-  price: 10
-  sold: false
-  contextual: false
-- title: Ancrage pont
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrages.JPG
-  technique: 'Raku nu '
-  fields: []
-  styles: []
-  dimensions:
-    height: 7.5
-    width: 15
-    depth: 4.5
-  description: ''
-  price: 250
   sold: false
   contextual: false
 - title: 'Vigie '
