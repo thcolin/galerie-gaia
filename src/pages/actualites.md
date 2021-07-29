@@ -866,5 +866,24 @@ articles:
   title: La marche des flots Franco Salas Borquez
   content: "[https://www.youtube.com/watch?v=4l1EKXeYYf8](https://www.youtube.com/watch?v=4l1EKXeYYf8
     \"https://www.youtube.com/watch?v=4l1EKXeYYf8\")\n\n# Franco Salas Borquez "
+- template: article
+  date: '2021-07-20T06:55:05Z'
+  categories:
+  - Exposition
+  title: La marche des flots Franco Salas Borquez
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
+    salas borquez-l'indomptable.jpg
+  content: "A Nantes cet été la galerie reste ouverte du mardi au samedi 13H 21H  \n2
+    salles 2 expositions \n\n**Franco Salas Borquez** connu par ses peintures des
+    mers qui expriment toute la force de cette nature, propose pour cette nouvelle
+    exposition de nous faire ressentir la poésie en se plongeant dans ses compositions
+    maritimes.Une exposition pour tous les passionnés d’art , de la mer et de voyage.\n\n**Tangui
+    Robert** arpente les berges de Loire, serpente dans les couloirs du musée des
+    Arts, fragmente ses carnets pour mélanger croquis et photographies.  \nSi certains
+    paysages et architectures qu’il nous montre font partie de nos déambulations,
+    Tangui a ce talent pour les scruter, les détailler et les denteler comme un orfèvre.
+    Les drapés observés sur des toiles du musée incarnent exactement ce rapprochement
+    iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
+    élégants et évidents."
 
 ---
