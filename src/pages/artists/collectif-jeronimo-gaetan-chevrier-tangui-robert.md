@@ -34,12 +34,12 @@ works:
 - title: Strates 52
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     52_fond.jpg
-  technique: Sérigraphie
+  technique: Sérigraphie en 6 exemplaires
   fields: []
   styles: []
   dimensions:
-    height: 70
-    width: 50
+    height: 80
+    width: 60
     depth: 0
   description: ''
   price: 0
@@ -47,12 +47,12 @@ works:
 - title: Strates 51
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     51_fond.jpg
-  technique: Sérigraphie
+  technique: Sérigraphie en 6 exemplaires
   fields: []
   styles: []
   dimensions:
-    height: 70
-    width: 50
+    height: 80
+    width: 60
     depth: 0
   description: ''
   price: 0
