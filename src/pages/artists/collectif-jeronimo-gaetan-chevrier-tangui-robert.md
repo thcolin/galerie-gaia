@@ -60,12 +60,12 @@ works:
 - title: Strates 50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     50_fond.jpg
-  technique: Sérigraphie
+  technique: Sérigraphie en 10 exemplaires
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 40
+    height: 40
+    width: 30
     depth: 0
   description: ''
   price: 0
@@ -73,12 +73,12 @@ works:
 - title: Strates 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     49_fond.jpg
-  technique: Sérigraphie
+  technique: Sérigraphie en 8 exemplaires
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 40
+    height: 40
+    width: 30
     depth: 0
   description: ''
   price: 0
@@ -86,7 +86,7 @@ works:
 - title: Moyée 1 partie 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsdiptyque
     Moyée 01_part 2.jpg
-  technique: Sérigraphie en diptyque
+  technique: Sérigraphie en diptyque en 9 exemplaires
   fields: []
   styles: []
   dimensions:
@@ -99,7 +99,7 @@ works:
 - title: Moyée 1 partie 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsdiptyque
     Moyée 01_part 1.jpg
-  technique: Sérigraphie en diptyque
+  technique: Sérigraphie en diptyque en 9 exemplaires
   fields: []
   styles: []
   dimensions:
