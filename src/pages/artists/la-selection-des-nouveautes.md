@@ -10,22 +10,6 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
-- title: L'Indomptable de Franco Salas Borquez
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-feanco
-    salas borquez-l indomptable.jpg
-  technique: 'Huile sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 200
-    width: 300
-    depth: 0
-  description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
-    "franco salas borques")'
-  price: 12000
-  contextual: false
 - title: New Ex
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
@@ -52,6 +36,22 @@ works:
   - Sculpture
   styles:
   - Figuratif
+- title: L'Indomptable de Franco Salas Borquez
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-feanco
+    salas borquez-l indomptable.jpg
+  technique: 'Huile sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 200
+    width: 300
+    depth: 0
+  description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
+    "franco salas borques")'
+  price: 12000
+  contextual: false
 - title: Lit de camp et sculpture de Marie Bathellier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
   dimensions:
