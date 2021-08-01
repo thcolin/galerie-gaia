@@ -10,6 +10,22 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: L'Indomptable de Franco Salas Borquez
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-feanco
+    salas borquez-l indomptable.jpg
+  technique: 'Huile sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 200
+    width: 300
+    depth: 0
+  description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
+    "franco salas borques")'
+  price: 12000
+  contextual: false
 - title: New Ex
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
@@ -36,6 +52,20 @@ works:
   - Sculpture
   styles:
   - Figuratif
+- title: Lit de camp et sculpture de Marie Bathellier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
+  dimensions:
+    height: 43
+    width: 70
+    depth: 188
+  description: "# [Marie Bathellier]()"
+  price: 900
+  contextual: false
+  technique: Acrylique sur bâche
+  fields:
+  - Design
+  styles:
+  - Abstrait
 - title: Abyssale de  Franco Salas Borques Lit de camp Marie Bathellier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathelier-salas-borquez.jpg
   technique: 'Huile sur toile '
@@ -251,20 +281,6 @@ works:
     Tual")'
   price: 2500
   contextual: false
-- title: Lit de camp et sculpture de Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
-  dimensions:
-    height: 43
-    width: 70
-    depth: 188
-  description: "# [Marie Bathellier]()"
-  price: 900
-  contextual: false
-  technique: Acrylique sur bâche
-  fields:
-  - Design
-  styles:
-  - Abstrait
 - title: Pierre Muckensturm et Jacqueline Pecantet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muckensturm-pecantet.jpg
   dimensions:
