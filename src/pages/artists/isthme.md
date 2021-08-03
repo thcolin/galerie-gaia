@@ -130,7 +130,7 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: 'Prix sur demande '
+  description: Réservé
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '

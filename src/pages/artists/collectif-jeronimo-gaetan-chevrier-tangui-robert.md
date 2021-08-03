@@ -31,6 +31,20 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
   par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
+- title: Fresque 1 ...
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
+  fields:
+  - Fresque
+  styles:
+  - Abstrait
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
+  technique: Fresque mural projet personnalisable pour professionnel et particulier
 - title: Strates 52
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     52_fond.jpg
@@ -109,20 +123,6 @@ works:
   description: prix du diptyque
   price: 420
   contextual: true
-- title: Fresque 1 ...
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
-  fields:
-  - Fresque
-  styles:
-  - Abstrait
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
-  technique: Fresque mural projet personnalisable pour professionnel et particulier
 - title: Versants Fresque I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png
   technique: 'Fresque murale '
