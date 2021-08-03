@@ -42,7 +42,7 @@ works:
     width: 60
     depth: 0
   description: ''
-  price: 0
+  price: 480
   contextual: true
 - title: Strates 51
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
@@ -55,7 +55,7 @@ works:
     width: 60
     depth: 0
   description: ''
-  price: 0
+  price: 480
   contextual: true
 - title: Strates 50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
