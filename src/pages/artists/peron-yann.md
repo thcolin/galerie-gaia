@@ -59,6 +59,20 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- title: Emile 2021-04
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 249
+    width: 123.5
+    depth: 0
+  description: "Format tableau hors cadre : 203 x 104,5 cm  \nCadre CP Bouleau - profondeur
+    14,5 cm"
+  price: 7900
+  sold: false
+  contextual: true
 - title: Salomé 2015-02
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
