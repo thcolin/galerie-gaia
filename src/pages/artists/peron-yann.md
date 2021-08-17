@@ -59,6 +59,21 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- title: Salomé 2015-02
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
+  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
+    peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 168
+    width: 123.2
+    depth: 0
+  description: "Format tableau hors cadre : 115 x 160 cm  \nCadre CP Bouleau - profondeur
+    15 cm - vernis mat"
+  price: 4050
+  sold: false
+  contextual: true
 - title: Marie 2015-03
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
