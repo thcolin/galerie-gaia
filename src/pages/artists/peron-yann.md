@@ -61,7 +61,8 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
 works:
 - title: Emile 2021-04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
-  technique: ''
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
+    sur cp peuplier
   fields: []
   styles: []
   dimensions:
@@ -98,7 +99,7 @@ works:
     height: 171
     width: 120
     depth: 0
-  description: "Format tableau hors cadre : 110 x 161 cm  \nCadre frêne thermo-chauffé
+  description: "Format tableau hors cadre : 161 x 110 cm  \nCadre frêne thermo-chauffé
     profondeur 5 cm, huilé."
   price: 5600
   sold: false
