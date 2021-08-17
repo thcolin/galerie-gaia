@@ -59,6 +59,20 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- title: Marie 2015-03
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
+  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
+    peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 171
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Détail Emile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-00 emile 2020-
     détail2.jpg
