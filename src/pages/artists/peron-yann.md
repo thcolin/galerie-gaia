@@ -66,11 +66,12 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 120
-    width: 171
+    height: 171
+    width: 120
     depth: 0
-  description: ''
-  price: 
+  description: "Format tableau hors cadre : 110 x 161 cm  \nCadre frêne thermo-chauffé
+    profondeur 5 cm, huilé."
+  price: 5600
   sold: false
   contextual: true
 - title: Détail Emile
