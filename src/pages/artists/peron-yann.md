@@ -104,34 +104,6 @@ works:
   price: 5600
   sold: false
   contextual: true
-- title: Détail Emile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-00 emile 2020-
-    détail2.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: Vendu
-  price: 
-  sold: false
-  contextual: true
-- title: Emile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-00 emile 2020
-    2.jpg
-  technique: Aquarelle rehaussée de pastel à l’huile sur papier arche marouflé
-  fields: []
-  styles: []
-  dimensions:
-    height: 141
-    width: 125
-    depth: 
-  description: Vendu
-  price: 
-  sold: false
-  contextual: true
 exhibitions: []
 
 ---
