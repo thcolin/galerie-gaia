@@ -27,6 +27,48 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: L'arbre noué 1971
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
+    noué.JPG
+  technique: Eau forte 10/50
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 450
+  sold: false
+  contextual: true
+- title: Jeu d'aiguilles 1984
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-jeu
+    d'aiguilles.JPG
+  technique: Eau forte 4/7
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 250
+  sold: false
+  contextual: true
+- title: Haute mer 1977
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-haute
+    mer.JPG
+  technique: Eau forte 1/50
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 150
+  sold: false
+  contextual: true
 - title: Fleur coupée 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fleur
     coupée.JPG
