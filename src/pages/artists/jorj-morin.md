@@ -48,8 +48,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 45
+    width: 30
     depth: 0
   description: ''
   price: 450
