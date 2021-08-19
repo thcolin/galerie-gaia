@@ -98,8 +98,8 @@ works:
   sold: false
   contextual: true
 - title: Trois veilleurs 1977
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
-    veilleurs.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Extrait article
+    Galerie Gaïa- 27.jpg
   technique: Eau forte 15/50
   fields: []
   styles: []
