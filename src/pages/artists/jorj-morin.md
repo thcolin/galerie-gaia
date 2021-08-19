@@ -155,7 +155,7 @@ works:
   contextual: true
 - title: Signaux optiques 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-signaux
-    optiques.JPG
+    optiques.jpg
   technique: Eau forte 7/50
   fields: []
   styles: []
@@ -364,7 +364,7 @@ works:
   contextual: true
 - title: L'arbre noué 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
-    noué.JPG
+    noué.jpg
   technique: Eau forte 10/50
   fields: []
   styles: []
