@@ -21,6 +21,19 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Trois veilleurs - en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
+    02.jpg
+  technique: Eau-forte 15/50
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 450
+  contextual: false
 - title: 'Une île - nouvelle sculpture  par Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
     ile-IMG_3590.JPG

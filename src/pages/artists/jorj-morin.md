@@ -28,7 +28,8 @@ biography: |-
 exhibitions: []
 works:
 - title: Trois veilleurs 1977 - en situation
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
+    02.jpg
   technique: Eau-forte 15/50
   fields: []
   styles: []
