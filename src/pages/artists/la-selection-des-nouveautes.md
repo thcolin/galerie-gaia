@@ -21,7 +21,7 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Trois veilleurs - en situation
+- title: Trois veilleurs de Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
     02.jpg
   technique: Eau-forte 15/50
@@ -31,7 +31,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: '[Jorj Morin](https://galeriegaia.fr/artists/jorj-morin/ "Jorj Morin")'
   price: 450
   contextual: false
 - title: 'Une île - nouvelle sculpture  par Isabelle Healy '
