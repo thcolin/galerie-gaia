@@ -31,7 +31,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Jorj Morin](https://galeriegaia.fr/artists/jorj-morin/ "Jorj Morin")'
+  description: '# [Jorj Morin](https://galeriegaia.fr/artists/jorj-morin/ "Jorj Morin")'
   price: 450
   contextual: false
 - title: 'Une île - nouvelle sculpture  par Isabelle Healy '
