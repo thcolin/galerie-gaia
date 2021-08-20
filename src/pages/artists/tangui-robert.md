@@ -13,6 +13,32 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: Palermo
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Palermo-40x50_1.jpg
+  technique: Gravure sur zinc et piquetage photos - Edition en 20 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Maison Toulu
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Maison Toulu-30x40_1.jpg
+  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: Escalier serres de Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Escalier serres-Nantes-30x40.jpg
