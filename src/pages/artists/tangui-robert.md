@@ -13,6 +13,32 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: Théâtre Graslin - Nantes
+  technique: Eau forte et photographie - Edition 20 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Theatre Graslin-Nantes-40x50.jpg
+- title: Drapé - Moulage Nantes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui-Drappé
+    moulage nantes-30x40 copie.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: Jardin Nuages - Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Jardin nuages nantes-40x50 copie.jpg
@@ -22,6 +48,19 @@ works:
   dimensions:
     height: 40
     width: 50
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Palermo
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Palermo-40x50_1.jpg
+  technique: Gravure sur zinc et piquetage photos - Edition en 20 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
     depth: 0
   description: ''
   price: 450
@@ -39,6 +78,16 @@ works:
   description: ''
   price: 280
   contextual: true
+- title: Bangkok Noi
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg
+  technique: Gravure sur zinc et piquetage photos
+  dimensions:
+    height: 30
+    width: 24
+    depth: 0
+  description: ''
+  price: 280
+  contextual: true
 - title: Ombre Loire - Nantes
   technique: Eau forte et photographie - Edition 20 exemplaires
   fields: []
@@ -52,19 +101,6 @@ works:
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Ombres Loire-Nantes-21x29,7.jpg
-- title: Théâtre Graslin - Nantes
-  technique: Eau forte et photographie - Edition 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Theatre Graslin-Nantes-40x50.jpg
 - title: Nantes musée des arts
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Tangui Robert-Capillaire des murailles-30x40 copie.jpg
@@ -128,19 +164,6 @@ works:
     depth: 0
   description: ''
   price: 380
-  contextual: true
-- title: Palermo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Palermo-40x50_1.jpg
-  technique: Gravure sur zinc et piquetage photos - Edition en 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 40
-    depth: 0
-  description: ''
-  price: 450
   contextual: true
 - title: Maison Toulu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
@@ -389,16 +412,6 @@ works:
     depth: 0
   description: ''
   price: 380
-  contextual: true
-- title: Bangkok Noi
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 30
-    width: 24
-    depth: 0
-  description: ''
-  price: 280
   contextual: true
 - title: En rester là
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg
