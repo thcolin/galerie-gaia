@@ -13,6 +13,31 @@ biography: |-
   Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
 exhibitions: []
 works:
+- title: Nantes musée des arts
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Tangui Robert-Capillaire des murailles-30x40 copie.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: Capillaire des murailles
+  price: 380
+  contextual: true
+- title: Reflet Loire - Nantes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Reflet Loire Nantes-30x40.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: Parvis cathédrale - Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Parvis cathédrale-Nantes-21x29,7 copie.jpg
