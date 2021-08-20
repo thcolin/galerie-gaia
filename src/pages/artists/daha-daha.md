@@ -66,7 +66,7 @@ works:
     width: 0
     depth: 0
   description: Prix sur demande selon le choix du bois
-  price: 3900
+  price: 6500
   contextual: false
 - title: 'Zoom sur cube plié brûlé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
