@@ -120,7 +120,7 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 700
+  price: 750
   contextual: true
 - title: Territoire Noir/Blanc - 2/12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
@@ -133,7 +133,7 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 700
+  price: 750
   contextual: true
 - title: 'Small Architecture #22 - 2018'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
@@ -146,7 +146,7 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 700
+  price: 750
   contextual: true
 - title: 'Small Architecture #21 - 2018'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
@@ -159,7 +159,7 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 700
+  price: 750
   contextual: true
 - title: 'Small Architecture #20 - 2018'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
@@ -172,7 +172,7 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 700
+  price: 750
   contextual: true
 - title: 'Deep Blue #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
