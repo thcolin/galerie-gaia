@@ -247,7 +247,7 @@ works:
     width: 50
     depth: 0
   description: Musée de l’imprimerie de Nantes
-  price: ''
+  price: 380
   contextual: true
 - title: Farandole pourpre gris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE-POURPRE-GRIS-Lithographie-2020-65x50.jpg
