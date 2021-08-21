@@ -21,6 +21,19 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: 'Small Architecture #20 - 2018'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-galerie-gaïa-
+    01.jpg
+  technique: Collage
+  fields: []
+  styles: []
+  dimensions:
+    height: 76.5
+    width: 57
+    depth: 0
+  description: "# [Isthme]()"
+  price: 750
+  contextual: false
 - title: Trois veilleurs de Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
     02.jpg

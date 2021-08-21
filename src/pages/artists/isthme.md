@@ -109,6 +109,55 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: 'Deep Blue #6'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 146
+    width: 114
+    depth: 0
+  description: Prix sur demande
+  price: ''
+  contextual: true
+- title: 'Allongée dans l''herbe #8'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-allongée
+    dans l'herbe8-acrylique-146cmx114-2021.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 146
+    width: 114
+    depth: 0
+  description: Réservé
+  price: ''
+  contextual: true
+  technique: 'Acrylique sur toile '
+- title: 'Deep Blue #11'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
+    1-acrylique-146x114-2020.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 146
+    width: 114
+    depth: 0
+  description: Vendue
+  price: ''
+  contextual: true
+- title: 'Deep blue #13'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-Deep Blue#13-2020-146x114.jpg
+  technique: Acrylique sur toile
+  dimensions:
+    height: 146
+    width: 114
+    depth: 
+  description: Réservée
+  price: ''
+  sold: false
+  contextual: true
 - title: Territoire Noir/Blanc - 3/12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
     Noir:Blanc-3:12-76,5x57.jpg
@@ -173,55 +222,6 @@ works:
     depth: 0
   description: ''
   price: 750
-  contextual: true
-- title: 'Deep Blue #6'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: Prix sur demande
-  price: ''
-  contextual: true
-- title: 'Allongée dans l''herbe #8'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-allongée
-    dans l'herbe8-acrylique-146cmx114-2021.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: Réservé
-  price: ''
-  contextual: true
-  technique: 'Acrylique sur toile '
-- title: 'Deep Blue #11'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
-    1-acrylique-146x114-2020.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: Vendue
-  price: ''
-  contextual: true
-- title: 'Deep blue #13'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-Deep Blue#13-2020-146x114.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 146
-    width: 114
-    depth: 
-  description: Réservée
-  price: ''
-  sold: false
   contextual: true
 - title: 'Farandole rouge ciel '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE
