@@ -14,7 +14,7 @@ title: Man&Pia
 location: ''
 birth: ''
 death: ''
-expose: false
+expose: true
 biography: ''
 works:
 - title: A forest - 2020
