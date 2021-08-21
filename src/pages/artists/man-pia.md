@@ -33,7 +33,7 @@ works:
     height: 94
     width: 184
     depth: 0
-  description: ''
+  description: Caisse américaine
   price: 5500
   sold: false
   contextual: true
@@ -46,7 +46,7 @@ works:
     height: 80
     width: 76
     depth: 0
-  description: ''
+  description: Caisse américaine
   price: 3900
   sold: false
   contextual: true
