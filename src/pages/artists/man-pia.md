@@ -24,6 +24,32 @@ biography: "Pia Laureau et Manolo Chrétien se sont rencontrés en 1987 aux Arts
   - Galerie Isabelle Laverny - DU 5 AU 26 JUIN 2021  \nLondres - Galerie French Art
   Studio - JUIN 2016"
 works:
+- title: Dancing in the street - 2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-DANCING-IN-THE-STREET-94x184.jpg
+  technique: Acrylique
+  fields: []
+  styles: []
+  dimensions:
+    height: 94
+    width: 184
+    depth: 0
+  description: ''
+  price: 5500
+  sold: false
+  contextual: true
+- title: On our way - 2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-ON-OUR-WAY-80X76.jpg
+  technique: Peinture acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 76
+    depth: 0
+  description: ''
+  price: 3900
+  sold: false
+  contextual: true
 - title: A forest - 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-A-FOREST-93x120.jpeg
   technique: 'Peinture acrylique sur toile '
