@@ -60,7 +60,7 @@ works:
     width: 121
     depth: 0
   description: Caisse américaine
-  price: 3880
+  price: 4900
   sold: false
   contextual: true
 - title: Below the cherry moon - 2020
