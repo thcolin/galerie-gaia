@@ -109,19 +109,6 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
-- title: Farandole J
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-farandole
-    J-66x50.jpg
-  technique: 'Lithographie '
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: Musée de l’imprimerie de Nantes
-  price: ''
-  contextual: true
 - title: Territoire Noir/Blanc - 3/12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
     Noir:Blanc-3:12-76,5x57.jpg
@@ -248,6 +235,19 @@ works:
     depth: 0
   description: '2021 Musée imprimerie de Nantes '
   price: 380
+  contextual: true
+- title: Farandole J
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-farandole
+    J-66x50.jpg
+  technique: 'Lithographie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: Musée de l’imprimerie de Nantes
+  price: ''
   contextual: true
 - title: Farandole pourpre gris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE-POURPRE-GRIS-Lithographie-2020-65x50.jpg
