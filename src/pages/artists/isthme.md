@@ -163,7 +163,7 @@ works:
   contextual: true
 - title: 'Small Architecture #20 - 2018'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
-    Architecture #22-2018-76,5x57.jpg'
+    Architecture #20-2018-76,5x57.jpg'
   technique: Collage sur Canson et Arches
   fields: []
   styles: []
