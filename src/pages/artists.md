@@ -11,6 +11,7 @@ artists:
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/chretien-manolo.md
+- artist: src/pages/artists/man-pia.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
 - artist: src/pages/artists/edwin-wide.md
