@@ -109,6 +109,45 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: 'Small Architecture #22 - 2018'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
+    Architecture #22-2018-76,5x57.jpg'
+  technique: Collage sur Canson et Arches
+  fields: []
+  styles: []
+  dimensions:
+    height: 76.5
+    width: 57
+    depth: 0
+  description: ''
+  price: 700
+  contextual: true
+- title: 'Small Architecture #21 - 2018'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
+    Architecture #21-2018-76,5x57.jpg'
+  technique: Collage sur Canson et Arches
+  fields: []
+  styles: []
+  dimensions:
+    height: 76.5
+    width: 57
+    depth: 0
+  description: 'galerie-gaia@Isthme-Small Architecture #21-2018-76,5x57'
+  price: 700
+  contextual: true
+- title: 'Small Architecture #20 - 2018'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
+    Architecture #20-2018-76,5x57.jpg'
+  technique: Collage sur Canson et Arches
+  fields: []
+  styles: []
+  dimensions:
+    height: 76.5
+    width: 57
+    depth: 0
+  description: ''
+  price: 700
+  contextual: true
 - title: 'Deep Blue #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
   technique: 'Acrylique sur toile '
