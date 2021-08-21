@@ -109,6 +109,32 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: Territoire Noir/Blanc - 3/12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
+    Noir:Blanc-3:12-76,5x57.jpg
+  technique: Collage
+  fields: []
+  styles: []
+  dimensions:
+    height: 76.5
+    width: 57
+    depth: 0
+  description: ''
+  price: 700
+  contextual: true
+- title: Territoire Noir/Blanc - 2/12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
+    Noir:Blanc-2:12-76,5x57.jpg
+  technique: Collage
+  fields: []
+  styles: []
+  dimensions:
+    height: 76.5
+    width: 57
+    depth: 0
+  description: ''
+  price: 700
+  contextual: true
 - title: 'Small Architecture #22 - 2018'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
     Architecture #22-2018-76,5x57.jpg'
@@ -132,7 +158,7 @@ works:
     height: 76.5
     width: 57
     depth: 0
-  description: 'galerie-gaia@Isthme-Small Architecture #21-2018-76,5x57'
+  description: ''
   price: 700
   contextual: true
 - title: 'Small Architecture #20 - 2018'
