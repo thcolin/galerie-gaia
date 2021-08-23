@@ -151,18 +151,6 @@ works:
   description: ''
   price: 400
   contextual: true
-- title: Forme d'architecture 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture2.70x50.jpg
-  technique: 'Acrylique sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
 - title: Béton volant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg
   technique: sérigraphie en 15 exemplaires
