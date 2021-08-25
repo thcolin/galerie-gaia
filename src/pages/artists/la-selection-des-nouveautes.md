@@ -35,8 +35,8 @@ works:
   price: 750
   contextual: false
 - title: Trois veilleurs de Jorj Morin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
-    02.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    10.jpg
   technique: Eau-forte 15/50
   fields:
   - Oeuvre sur papier
@@ -46,7 +46,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '# [Jorj Morin](https://galeriegaia.fr/artists/jorj-morin/ "Jorj Morin")'
+  description: |-
+    # [Jorj Morin](https://galeriegaia.fr/artists/jorj-morin/ "Jorj Morin")
+
+    Publication dans Côté Ouest Septembre 2021
   price: 450
   contextual: false
 - title: 'Une île - nouvelle sculpture  par Isabelle Healy '
