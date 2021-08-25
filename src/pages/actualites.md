@@ -885,5 +885,14 @@ articles:
     Les drapés observés sur des toiles du musée incarnent exactement ce rapprochement
     iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
     élégants et évidents."
+- template: article
+  date: '2021-08-25T09:19:43Z'
+  categories: []
+  title: Hors les murs Pornichet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    02.jpg
+  content: "[Côté Ouest Magazine Août Septembre 2021](https://www.cotemaison.fr/cote-ouest/
+    \"Côté Ouest Magazine\")  \nAccueille dans ce lieu d'exposition Dimanche 5 et
+    19 septembre 2021  \nsur rendez-vous 02 40 48 14 91"
 
 ---
