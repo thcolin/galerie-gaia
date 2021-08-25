@@ -157,64 +157,10 @@ works:
     height: 70
     width: 210
     depth: 
-  description: 'Mon avis : ne les séparez pas !'
+  description: Vendue
   price: 
   sold: false
   contextual: false
-  fields: []
-  styles: []
-- title: EN LIBERTE panneau 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p1-70-x-70-800.jpeg
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 
-  description: |-
-    Panneau 1 d’un ensemble de trois panneaux encadrement baguette chêne brut.
-
-    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
-
-    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
-  price: 800
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: EN LIBERTE panneau 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p2-70-x-70-800.jpeg
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 
-  description: |-
-    Panneau 2 d’un ensemble de trois panneaux encadrement baguette chêne brut.
-
-    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
-
-    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
-  price: 800
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: EN LIBERTE panneau 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-toile70-p3-70-x-70-800.jpeg
-  technique: pigments acryliques, argile et sable sur toile
-  dimensions:
-    height: 70
-    width: 70
-    depth: 
-  description: |-
-    Panneau 3 d’un ensemble de trois panneaux encadrement baguette chêne brut.
-
-    Un grand jeu de formes abstraites et minimales traversent librement trois panneaux de toile brut. Ces trois compositions sont marquées par une suite de segments imbriquées et segmentées.
-
-    Marie Bathellier explore et mélange argile, poudre de roche et pigments et développe ainsi des palettes aux textures riches et contrastées. L’ esprit apprivoise et s’ amuse de ces formes au bord du déséquilibre. Univers minimal à la fois puissant et paisible.
-  price: 800
-  sold: false
-  contextual: true
   fields: []
   styles: []
 - title: Sans titre &5
@@ -414,15 +360,16 @@ works:
   - Photographie
   styles:
   - Figuratif
-- title: Lit de camp et sculpture en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
+- title: Lit de camp et sculpture en situation dans Côté Ouest
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    04.jpg
   technique: ''
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: 'Lit de camp et sculpture '
   price: 
   sold: false
