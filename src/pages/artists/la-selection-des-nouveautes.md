@@ -191,9 +191,10 @@ works:
     polen")'
   price: 200
   contextual: false
-- title: 'Autoportrait Laure Carré  '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre.jpg
-  technique: 'Huile sur toile '
+- title: 'Cactus Laure Carré  Sérigraphies Valérie Le Roux & Versants Sculpture Isabelle
+    Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A9977.JPG
+  technique: ''
   fields: []
   styles: []
   dimensions:
@@ -202,7 +203,7 @@ works:
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carre")'
-  price: 3900
+  price: ''
   contextual: false
 - title: Solis VII par Anne Gaiss
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
