@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Nouveautés Été 2021
+title: Nouveautés Rentrée 2021
 location: ''
 birth: "0"
 death: "0"
@@ -21,7 +21,7 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Small Architecture #20 - 2018'
+- title: 'Small Architecture #20 - 2018 Isthme'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-galerie-gaïa-
     01.jpg
   technique: Collage
@@ -38,8 +38,10 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
     02.jpg
   technique: Eau-forte 15/50
-  fields: []
-  styles: []
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
   dimensions:
     height: 0
     width: 0
