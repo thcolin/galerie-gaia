@@ -84,12 +84,16 @@ works:
   price: 12000
   contextual: false
 - title: Lit de camp et sculpture de Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathellier-lit.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    04.jpg
   dimensions:
     height: 43
     width: 70
     depth: 188
-  description: "# [Marie Bathellier]()"
+  description: |-
+    # [Marie Bathellier]()
+
+    Publication Côté Ouest Septembre 2021
   price: 900
   contextual: false
   technique: Acrylique sur bâche
