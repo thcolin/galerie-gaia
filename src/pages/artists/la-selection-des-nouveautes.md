@@ -132,19 +132,6 @@ works:
   description: '# [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")'
   price: ''
   contextual: false
-- title: Jorj Morin Point Culminant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
-    culminant (scénographie avec chaise).JPG
-  fields: []
-  styles: []
-  dimensions:
-    height: 73
-    width: 100
-    depth: 0
-  description: '# [Jorj Morin](https://galeriegaia.fr/artists/jorj-morin-peintre/
-    "Georges MORIN")'
-  price: 4300
-  contextual: false
 - title: 3X3X3 par Cindy Belaud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-3X3X3
     2.jpeg
@@ -280,8 +267,9 @@ works:
     Oeuvre encadrée verre musée antireflet
   price: 250
   contextual: false
-- title: Little wood trash par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
+- title: Petit crade par Toma L
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l 1-pornichet.jpg
   technique: 'Mixte sur papier '
   fields:
   - Peinture
@@ -313,7 +301,7 @@ works:
   price: 2500
   contextual: false
 - title: Pierre Muckensturm et Jacqueline Pecantet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muckensturm-pecantet.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210501_144743.jpg
   dimensions:
     height: 70
     width: 50
@@ -346,7 +334,7 @@ works:
   - Abstrait
   - Figuratif
 - title: Fresque Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A0072rec.jpg
   technique: Fresque mural projet personnalisable
   dimensions:
     height: 70
