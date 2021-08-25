@@ -168,32 +168,6 @@ works:
   description: 2020 Prix sur demande
   price: ''
   contextual: true
-- title: Little Wood Trash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019110903-LittleWoodTrash-105x70cm.jpg
-  technique: 'Mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 105
-    width: 70
-    depth: 0
-  description: 2019 Prix sur demande
-  price: ''
-  contextual: true
-- title: Little Wood trash en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019110903-LittleWoodTrash-105x70cm-atelier.jpg
-  technique: 'Mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 105
-    width: 70
-    depth: 0
-  description: '2019 prix sur demande '
-  price: ''
-  contextual: false
 - title: Petit crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tomal-petit
     crade encadree.jpg
