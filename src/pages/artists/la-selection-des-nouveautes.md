@@ -34,6 +34,18 @@ works:
   description: "# [Isthme]()"
   price: 750
   contextual: false
+- title: Fresque Versants
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A0072rec.jpg
+  technique: Fresque mural projet personnalisable
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: '# [Jeronimo Tangui Robert Gaetan Chevrier](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
+    "collectif seuil")'
+  price: ''
+  sold: false
+  contextual: false
 - title: Trois veilleurs de Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     10.jpg
@@ -333,18 +345,6 @@ works:
   styles:
   - Abstrait
   - Figuratif
-- title: Fresque Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A0072rec.jpg
-  technique: Fresque mural projet personnalisable
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: '# [Jeronimo Tangui Robert Gaetan Chevrier](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
-    "collectif seuil")'
-  price: ''
-  sold: false
-  contextual: false
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 - "/artistes/la-selection-des-nouveautes-de-mars-2020/"
