@@ -157,7 +157,7 @@ works:
     height: 70
     width: 210
     depth: 
-  description: Vendue
+  description: Vendu
   price: 
   sold: false
   contextual: false
@@ -309,11 +309,8 @@ works:
     height: 48
     width: 24
     depth: 19
-  description: 'Refuge : série qui aborde des formes architecturées et minimales,
-    mises en beauté par le travail de la couleur et des textures minéralisées, gravées
-    et pyrogravées. Jeux d’ équilibres au bord du déséquilibre, de porte à faux et
-    de percées. Le regard englobe, contourne, traverse, se cache, se perche'
-  price: 850
+  description: Vendu
+  price: 
   sold: false
   contextual: false
   fields:
