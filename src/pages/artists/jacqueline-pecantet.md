@@ -41,6 +41,47 @@ biography: "# Jean Michel Nicolau\n\nExposition Galerie Gaïa du jeudi 24 au sam
   à effleurer, à caresser..."
 exhibitions: []
 works:
+- title: Grès 13
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG
+  technique: 'Terre enfumée et polie au galet '
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Installation 2 cubes 6 cm 13 cm  \n2020"
+  price: 140
+  contextual: false
+- title: Grès 12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2127-j-pecantet.JPG
+  technique: Crin de cheval au grès poli au galet
+  dimensions:
+    height: 7
+    width: 7.8
+    depth: 7.5
+  description: "2020"
+  price: 120
+  contextual: false
+- title: Grès 11
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG
+  technique: Crin de cheval au grès poli au galet
+  dimensions:
+    height: 10
+    width: 6.5
+    depth: 8
+  description: "2020"
+  price: 120
+  contextual: false
+- title: Grès 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6070-j-pecantet.JPG
+  technique: Enfumage et grès poli au galet
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "3 petits carrés installés en triptyque modulable \n\n1 cube de 7cm
+    \ / 1 cube de 6cm / 1 cube de 5cm  \n2020"
+  price: 140
+  contextual: false
 - title: Jean Michel Nicolau Livre S'il reste des silences
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/s'il reste des silences
     Couv .jpeg
@@ -105,47 +146,6 @@ works:
   description: "Image contenue dans le livre S'il reste des silences...  \nTirage
     à 300 exemplaires 29€"
   price: 29
-  contextual: false
-- title: Grès 13
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ceramique-pecantet-2-1.JPG
-  technique: 'Terre enfumée et polie au galet '
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Installation 2 cubes 6 cm 13 cm  \n2020"
-  price: 140
-  contextual: false
-- title: Grès 12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2127-j-pecantet.JPG
-  technique: Crin de cheval au grès poli au galet
-  dimensions:
-    height: 7
-    width: 7.8
-    depth: 7.5
-  description: "2020"
-  price: 120
-  contextual: false
-- title: Grès 11
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacqueline-pecantet-gres-11.JPG
-  technique: Crin de cheval au grès poli au galet
-  dimensions:
-    height: 10
-    width: 6.5
-    depth: 8
-  description: "2020"
-  price: 120
-  contextual: false
-- title: Grès 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf6070-j-pecantet.JPG
-  technique: Enfumage et grès poli au galet
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "3 petits carrés installés en triptyque modulable \n\n1 cube de 7cm
-    \ / 1 cube de 6cm / 1 cube de 5cm  \n2020"
-  price: 140
   contextual: false
 - title: Grès 9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dscf2120-j-pecantet.JPG

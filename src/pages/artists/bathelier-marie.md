@@ -302,21 +302,6 @@ works:
   - Sculpture
   styles:
   - Abstrait
-- title: Refuge
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculpture-perceeorange-19x29x48-850.jpeg
-  technique: Sculpture bois, partiellement pyrogravée et peinte aux pigments et sable
-  dimensions:
-    height: 48
-    width: 24
-    depth: 19
-  description: Vendu
-  price: 
-  sold: false
-  contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Abstrait
 - title: Mer 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-mer1-22x22-160.jpeg
   technique: pigments acryliques sur papier photographique mat 310g
