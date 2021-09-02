@@ -108,6 +108,22 @@ works:
   price: 600
   sold: false
   contextual: true
+- title: Trio de CPM 50_40 1-2-3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181058.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Cette installation est une suggestion, le chien ne fait pas partie
+    de la proposition artistique ! '
+  price: 
+  sold: false
+  contextual: false
 - title: Feutre teinté
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-feutre
     teinté 70 cm x 50 cm 2018 - copie 2.jpg
