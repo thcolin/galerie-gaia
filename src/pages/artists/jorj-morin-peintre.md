@@ -26,17 +26,6 @@ biography: |-
   [L’exposition Polymorphie ](https://galeriegaia.fr/actualites/ "exposition galerie gaia nantes")organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
-- title: Vent tournant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1278.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 73
-    width: 100
-    depth: 
-  description: "1975  \nVisible sur demande"
-  price: 4300
-  sold: false
-  contextual: true
 - title: Passage des migrateurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1323.jpg
   technique: Huile et acrylique sur toile
@@ -48,6 +37,43 @@ works:
   price: 5500
   sold: false
   contextual: true
+- title: Passage de migrateurs en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_160259.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Au fond feutre tressé [Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
+    \"jules francoise paressant\")  \nSur la table sculpture [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
+    \"pierre tual\")  \nAdorable chien seulement de passage ..."
+  price: 5500
+  contextual: false
+- title: Vent tournant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1278.jpg
+  technique: Acrylique sur toile
+  dimensions:
+    height: 73
+    width: 100
+    depth: 
+  description: "1975"
+  price: 4300
+  sold: false
+  contextual: true
+- title: Vent tournant en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_152811.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "1975"
+  price: 4300
+  contextual: false
 - title: Prés contigus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-prés
     contigus.JPG
