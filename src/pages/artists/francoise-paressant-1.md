@@ -31,6 +31,21 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Papier main 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
+    puzzle 120x100 2001 copie 2.jpg
+  technique: Papier fait main teinté
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 0
+  description: Marouflage sur toile, cache clou bois naturel
+  price: 3000
+  sold: false
+  contextual: true
 - title: Feutre teinté
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-feutre
     teinté 70 cm x 50 cm 2018 - copie 2.jpg
@@ -44,6 +59,35 @@ works:
     depth: 0
   description: "2018"
   price: 900
+  sold: false
+  contextual: true
+- title: Oeuvre en feutre teinté en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
+    "pierre tual")
+  price: 
+  sold: false
+  contextual: false
+- title: Papier main
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
+    fait main 130 cm x 97 cm 2002 copie.jpg
+  technique: 'Papier fait main teinté '
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: "2003   \nŒuvre pouvant être installée en format paysage"
+  price: 3000
   sold: false
   contextual: true
 - title: Papier main en situation
@@ -61,19 +105,19 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Papier main
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
-    fait main 130 cm x 97 cm 2002 copie.jpg
-  technique: 'Papier fait main teinté '
+- title: Feutre croisé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
+    de  feutre  teintées, croisées 160 cm x 140 cm 2001  - copie 3.jpg
+  technique: 'Bandes de feutre teintées et croisées '
   fields:
-  - Peinture
+  - Textile
   styles: []
   dimensions:
-    height: 130
-    width: 97
+    height: 160
+    width: 140
     depth: 0
-  description: "2003   \nŒuvre pouvant être installée en format paysage"
-  price: 3000
+  description: '2001 '
+  price: 5000
   sold: false
   contextual: true
 - title: Oeuvres en Feutres en situation
@@ -90,21 +134,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Feutre croisé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
-    de  feutre  teintées, croisées 160 cm x 140 cm 2001  - copie 3.jpg
-  technique: 'Bandes de feutre teintées et croisées '
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 160
-    width: 140
-    depth: 0
-  description: '2001 '
-  price: 5000
-  sold: false
-  contextual: true
 - title: Plage de la mine d'or en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-mine
     dor en situation.jpg
