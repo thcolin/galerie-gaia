@@ -31,19 +31,19 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
-- title: CPM 50_40_1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
-    40 cm x 50 cm .jpg
-  technique: Collage papier marouflés sur toile en caisse américaine bois clair naturel
+- title: Papier main 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
+    puzzle 120x100 2001 copie 2.jpg
+  technique: Papier fait main teinté
   fields:
   - Peinture
   styles: []
   dimensions:
-    height: 50
-    width: 40
+    height: 120
+    width: 100
     depth: 0
-  description: "2021"
-  price: 600
+  description: Marouflage sur toile, cache clou bois naturel
+  price: 3000
   sold: false
   contextual: true
 - title: Papier main 2 en situation
@@ -61,19 +61,35 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Papier main 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
-    puzzle 120x100 2001 copie 2.jpg
-  technique: Papier fait main teinté
+- title: CPM 50_40_1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    40 cm x 50 cm .jpg
+  technique: Collage papier marouflés sur toile en caisse américaine bois clair naturel
   fields:
   - Peinture
   styles: []
   dimensions:
-    height: 120
-    width: 100
+    height: 50
+    width: 40
     depth: 0
-  description: Marouflage sur toile, cache clou bois naturel
-  price: 3000
+  description: "2021"
+  price: 600
+  sold: false
+  contextual: true
+- title: CPM 50_40 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    40 cm x 50 cm marouflé sur toile.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: ''
+  price: 600
   sold: false
   contextual: true
 - title: Feutre teinté
