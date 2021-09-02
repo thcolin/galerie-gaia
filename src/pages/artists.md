@@ -5,10 +5,11 @@ artists:
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/franco-salas-borquez.md
+- artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/aline.md
+- artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/tangui-robert.md
-- artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/peron-yann.md
@@ -25,7 +26,6 @@ artists:
 - artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/villegle.md
 - artist: src/pages/artists/morellet-francois.md
-- artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/estampes.md
 - artist: src/pages/artists/mathilde-guiho.md
 - artist: src/pages/artists/jacques-le-brusq.md
