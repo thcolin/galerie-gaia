@@ -31,6 +31,20 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Oeuvres en Feutres en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
+  technique: ''
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
     de  feutre  teintées, croisées 160 cm x 140 cm 2001  - copie 3.jpg
