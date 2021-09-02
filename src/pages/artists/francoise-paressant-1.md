@@ -109,6 +109,21 @@ works:
   price: 700
   sold: false
   contextual: true
+- title: Installation en trio CPM 60_50 1-2-3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_161230.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: Proposition en triptyque 1900€ , le chien n'est pas compris dans le
+    prix...
+  price: 1900
+  sold: false
+  contextual: true
 - title: CDC 40_30 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
     cousu, marouflé sur toile 40 cm x 30 cm 2021.jpg
