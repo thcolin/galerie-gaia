@@ -41,7 +41,7 @@ works:
   dimensions:
     height: 118
     width: 112
-    depth: 0
+    depth: 
   description: "Sur la console de chez [Barak](https://www.instagram.com/baraklemagasin/?hl=fr
     \"barak nantes\")   \nA droite Céramique de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
     \"pierre tual gaia\")  \nAu centre Sculpture bronze [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
@@ -76,7 +76,7 @@ works:
     height: 135
     width: 128
     depth: 
-  description: ''
+  description: Visible sur demande
   price: 10000
   sold: false
   contextual: true
@@ -92,7 +92,7 @@ works:
     height: 150
     width: 135
     depth: 
-  description: "2020"
+  description: 2020 Visible sur demande
   price: 12000
   sold: false
   contextual: true
@@ -104,7 +104,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: "2011"
   price: 800
   sold: false

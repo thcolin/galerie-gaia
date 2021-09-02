@@ -598,7 +598,7 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Signaux indécis
+- title: Tapisserie Signaux indécis
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
   technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
   dimensions:
