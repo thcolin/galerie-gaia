@@ -31,6 +31,21 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Papier main
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
+    fait main 130 cm x 97 cm 2002 copie.jpg
+  technique: 'Papier fait main teinté '
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: "2003   \nŒuvre pouvant être installée en format paysage"
+  price: 3000
+  sold: false
+  contextual: true
 - title: Oeuvres en Feutres en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
   technique: ''
