@@ -61,6 +61,54 @@ works:
   price: 
   sold: false
   contextual: false
+- title: CPM 60_50 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    60 cm x 50  2021.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: "2021"
+  price: 700
+  sold: false
+  contextual: true
+- title: CPM 60_50 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    60 cm x 50 cm 2021.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: "2021"
+  price: 700
+  sold: false
+  contextual: true
+- title: CPM 60_50 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    marouflé sur toile 60 cm x 50 cm 2021.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: "2021"
+  price: 700
+  sold: false
+  contextual: true
 - title: CDC 40_30 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
     cousu, marouflé sur toile 40 cm x 30 cm 2021.jpg
