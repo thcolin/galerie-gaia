@@ -31,6 +31,54 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: CDC 40_30 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
+    cousu, 30 cm x 40 cm 2021.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 500
+  sold: false
+  contextual: true
+- title: CDC 40_30 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
+    cousu marouflé sur toile 40 cm x 30 cm.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 500
+  sold: false
+  contextual: true
+- title: 'Installation de 4 CDC 40_30 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-pornichet-cdc
+    40X30.jpg
+  technique: Collages découpés cousus en caisse américaine bois naturel clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021  \nProposition d'installation, œuvres vendues séparément sans
+    le chien"
+  price: 
+  sold: false
+  contextual: false
 - title: Papier main 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
