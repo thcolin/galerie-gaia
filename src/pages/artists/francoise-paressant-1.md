@@ -31,6 +31,36 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: CPM 50_40_1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    40 cm x 50 cm .jpg
+  technique: Collage papier marouflés sur toile en caisse américaine bois clair naturel
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: "2021"
+  price: 600
+  sold: false
+  contextual: true
+- title: Papier main 2 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181442.jpg
+  technique: ''
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 0
+  description: Œuvre posée au sol sérigraphie [Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
+    "valérie le roux")
+  price: 
+  sold: false
+  contextual: false
 - title: Papier main 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
