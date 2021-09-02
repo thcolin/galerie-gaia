@@ -2,17 +2,18 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
-- artist: src/pages/artists/tangui-robert.md
-- artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/bathelier-marie.md
+- artist: src/pages/artists/francoise-paressant-1.md
+- artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/aline.md
 - artist: src/pages/artists/toma-l.md
+- artist: src/pages/artists/tangui-robert.md
+- artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/chretien-manolo.md
 - artist: src/pages/artists/man-pia.md
-- artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
 - artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/wolfe-judith.md
@@ -20,11 +21,9 @@ artists:
 - artist: src/pages/artists/belaud-cindy.md
 - artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/brigitte-marionneau.md
-- artist: src/pages/artists/wave-week-end-arts-visuels-nantes.md
 - artist: src/pages/artists/the-blind.md
 - artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/villegle.md
-- artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/morellet-francois.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/estampes.md
@@ -70,6 +69,7 @@ artists:
 - artist: src/pages/artists/adolfo-arenas-alonso.md
 - artist: src/pages/artists/portrait.md
 - artist: src/pages/artists/50-max.md
+- artist: src/pages/artists/wave-week-end-arts-visuels-nantes.md
 - artist: src/pages/artists/art-galeries-nantes.md
 seo:
   title: Artistes - Galerie Gaïa, galerie d'art contemporain
