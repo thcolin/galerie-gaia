@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Jorj Morin
+title: Morin Jorj Estampe Tapisserie
 location: Nantes
 fields:
 - Oeuvre sur papier
@@ -706,20 +706,7 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: Les 3 veilleurs 1977
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-3-veiileurs-1977.jpg
-  technique: Gravure
-  dimensions:
-    height: 450
-    width: 300
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Espace nacré
+- title: 'Tapisserie Espace nacré '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/espace-nacre.jpg
   technique: Tapisserie en laine  Lissière Edith Morin
   dimensions:
@@ -734,7 +721,7 @@ works:
   - Textile
   styles:
   - Abstrait
-- title: Papillon
+- title: Tapisserie Papillon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papillon.jpg
   technique: Tapisserie en laine Lissier Pierre Carton ERBA
   dimensions:
