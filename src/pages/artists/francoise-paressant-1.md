@@ -92,6 +92,22 @@ works:
   price: 600
   sold: false
   contextual: true
+- title: CPM 50_40 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
+    50 cm x 40 cm  2021.jpg
+  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
+    clair
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
 - title: Feutre teinté
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-feutre
     teinté 70 cm x 50 cm 2018 - copie 2.jpg
