@@ -53,7 +53,7 @@ works:
     width: 50.5
     depth: 0
   description: ''
-  price: 550
+  price: 650
   contextual: true
 - title: '06MA6G '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/06ma6g-419.jpg
@@ -85,7 +85,7 @@ works:
     width: 66.5
     depth: 
   description: "2020"
-  price: 600
+  price: 650
   sold: false
   contextual: true
 redirect_from:

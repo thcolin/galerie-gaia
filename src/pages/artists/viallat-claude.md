@@ -26,7 +26,7 @@ works:
     height: 64.2
     width: 49.2
     depth: 
-  price: 600
+  price: 800
   sold: false
   contextual: true
   description: '1997 Atelier Buyse Lille '
@@ -38,9 +38,9 @@ works:
   dimensions:
     height: 69
     width: 69
-    depth: 0
+    depth: 
   description: ''
-  price: 600
+  price: 700
   sold: false
   contextual: true
 - title: Sans - fond vert
