@@ -31,23 +31,35 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
-- title: Papier main  en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181442.jpg
+- title: Oeuvre en feutre teinté en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
   technique: ''
-  fields:
-  - Peinture
+  fields: []
   styles: []
   dimensions:
-    height: 120
-    width: 100
+    height: 0
+    width: 0
     depth: 0
-  description: |-
-    Œuvre posée au sol sérigraphie [Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/ "valérie le roux")
-
-    Réservée
-  price: 3000
+  description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
+    "pierre tual")
+  price: 
   sold: false
   contextual: false
+- title: Feutre teinté
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-feutre
+    teinté 70 cm x 50 cm 2018 - copie 2.jpg
+  technique: feutre teinté collé sur papier encadrée et sous verre
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 60
+    width: 50
+    depth: 0
+  description: "2018"
+  price: 900
+  sold: false
+  contextual: true
 - title: CPM 60_50 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
     60 cm x 50  2021.jpg
@@ -251,35 +263,6 @@ works:
     depth: 0
   description: 'Cette installation est une suggestion, le chien ne fait pas partie
     de la proposition artistique ! '
-  price: 
-  sold: false
-  contextual: false
-- title: Feutre teinté
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-feutre
-    teinté 70 cm x 50 cm 2018 - copie 2.jpg
-  technique: feutre teinté collé sur papier encadrée et sous verre
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 60
-    width: 50
-    depth: 0
-  description: "2018"
-  price: 900
-  sold: false
-  contextual: true
-- title: Oeuvre en feutre teinté en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
-    "pierre tual")
   price: 
   sold: false
   contextual: false

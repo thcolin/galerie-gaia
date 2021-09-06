@@ -204,53 +204,6 @@ works:
   price: 290
   sold: false
   contextual: true
-- title: Sans titre &2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-2-17x18.jpg
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
-    17 x 18 cm
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: ''
-  price: 290
-  sold: false
-  contextual: true
-- title: Sans titre &1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-1_17x18.jpg
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Œuvre encadrée caisse bois blanc
-  price: 290
-  sold: false
-  contextual: true
-- title: Terre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-sculptureterre-9x35x60.jpeg
-  technique: pigments acryliques et argile sur bois
-  dimensions:
-    height: 60
-    width: 35
-    depth: 9
-  description: A partir de poutres anciennes en bois , Marie Bathelier trace et coupe
-    des cubes. C’est en les ponçant un à un qu’elle les pense, apprivoise leur volume,
-    taille et texture. L’artiste construit des cabanes refuges où percher nos rêveries.
-    Nombre réduit de matériaux et couleur. Esthétique épuré et essentiel, Ode à la
-    nature et sa poésie brute. Ces pièces en bois enrobées d’ argile déploient un
-    charme primitif.
-  price: 900
-  sold: false
-  contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Abstrait
 - title: Sculpture murale triangles
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sculpture-murale.jpg
   technique: pigments acryliques, gravure et pyrogravure sur chêne brut
