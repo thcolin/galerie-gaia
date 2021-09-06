@@ -263,23 +263,23 @@ works:
     "Aline ISOARD ")'
   price: 700
   contextual: true
-- title: Iris de Dimitri Roubichou
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-abergel.jpg
+- title: Coquillage de Dimitri Roubichou
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillage-verso.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '
   fields:
   - Photographie
   styles:
   - Figuratif
   dimensions:
-    height: 30
-    width: 30
+    height: 50
+    width: 40
     depth: 0
   description: |-
     # [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri roubichou ")
 
     Oeuvre encadrée verre musée antireflet
-  price: 250
-  contextual: false
+  price: 400
+  contextual: true
 - title: Petit crade par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l 1-pornichet.jpg
