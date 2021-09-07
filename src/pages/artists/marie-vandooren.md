@@ -26,31 +26,6 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
-- title: 'Pont route '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_pont
-    route_sérigraphie_30x40_2021.jpg
-  technique: Sérigraphie 12/12
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
-  price: 130
-  contextual: true
-- title: Visage montagne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_visagemontagne_sérigraphie_30x40_2021.jpg
-  technique: Sérigraphie 9/9
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 34
-    depth: 0
-  description: "Format image 40X30 cm  \n2021"
-  price: 130
-  contextual: true
 - title: 3 nageurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie trichromie 4/8
@@ -63,18 +38,19 @@ works:
   description: "Image 40X30  \n2021"
   price: 150
   contextual: true
-- title: 'Contraste #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste1-
-    30x40cm 2019.jpg
-  technique: 'Sérigraphie 2 exemplaires '
-  fields: []
-  styles: []
+- title: No where
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-nowhere-photographieargentique-40x60cm-5ex-2021.jpg
+  technique: Photographie et tirage papier argentique 5 exemplaires
+  fields:
+  - Photographie
+  styles:
+  - Figurtaif
   dimensions:
     height: 40
-    width: 30
+    width: 60
     depth: 0
-  description: dernier exemplaire
-  price: 180
+  description: ''
+  price: 300
   contextual: true
 - title: Forme d'architecture 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
@@ -101,10 +77,10 @@ works:
   description: ''
   price: 200
   contextual: true
-- title: Les Sables d'Olonne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
-    sables.50x70.jpg
-  technique: Sérigraphie trichromie
+- title: 1 baigneur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
+    trichromie.1baigneur.70x50.jpg
+  technique: Sérigraphie en trichromie
   fields: []
   styles: []
   dimensions:
@@ -114,10 +90,10 @@ works:
   description: ''
   price: 200
   contextual: true
-- title: 1 baigneur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
-    trichromie.1baigneur.70x50.jpg
-  technique: Sérigraphie en trichromie
+- title: Les Sables d'Olonne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
+    sables.50x70.jpg
+  technique: Sérigraphie trichromie
   fields: []
   styles: []
   dimensions:
@@ -139,6 +115,19 @@ works:
   description: ''
   price: 500
   contextual: true
+- title: 'Pont route '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_pont
+    route_sérigraphie_30x40_2021.jpg
+  technique: Sérigraphie 12/12
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 130
+  contextual: true
 - title: Forme d'architecture 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture3.40x50.jpg
   technique: Acrylique sur papier
@@ -150,6 +139,19 @@ works:
     depth: 0
   description: ''
   price: 400
+  contextual: true
+- title: 'Contraste #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste1-
+    30x40cm 2019.jpg
+  technique: 'Sérigraphie 2 exemplaires '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: dernier exemplaire
+  price: 180
   contextual: true
 - title: Béton volant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg
@@ -173,6 +175,18 @@ works:
     depth: 0
   description: ''
   price: 120
+  contextual: true
+- title: Visage montagne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_visagemontagne_sérigraphie_30x40_2021.jpg
+  technique: Sérigraphie 9/9
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 34
+    depth: 0
+  description: "Format image 40X30 cm  \n2021"
+  price: 130
   contextual: true
 - title: Palindrome 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg
