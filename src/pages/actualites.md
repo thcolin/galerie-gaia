@@ -886,6 +886,15 @@ articles:
     iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
     élégants et évidents."
 - template: article
+  date: '2021-09-07T09:55:55Z'
+  categories:
+  - Interview
+  title: Interview Versants
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES_M__Pornichet_HD_2.JPG
+  content: "[interview  par la galerie Gaïa de Versants](https://youtu.be/DxkvbjnGL4E
+    \"interview Versants\") \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    01.jpg)"
+- template: article
   date: '2021-09-04T09:19:43Z'
   categories:
   - Exposition
@@ -901,14 +910,5 @@ articles:
     Gaëtan Chevrier et Tangui Robert).\n\n  \nLe week-end du **4 &** **5** septembre
     et du **18 & 19** septembre.  \nVisite exclusive sur rendez-vous 02 40 48 14 91
     - max groupe de 6  \nVisite sans obligation d'achat."
-- template: article
-  date: '2021-09-07T09:55:55Z'
-  categories:
-  - Interview
-  title: Interview Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES_M__Pornichet_HD_2.JPG
-  content: "[interview  par la galerie Gaïa de Versants](https://youtu.be/DxkvbjnGL4E
-    \"interview Versants\") \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    01.jpg)"
 
 ---
