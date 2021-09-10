@@ -32,13 +32,14 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy-usclef-double
     trouble.jpg
   technique: Sérigraphie sur papier japon
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 113.5
     width: 68.5
     depth: 0
-  description: 'dernier exemplaire '
+  description: C'est le dernier exemplaire !
   price: 300
   contextual: true
 - title: Double
@@ -60,7 +61,7 @@ works:
     width: 
     depth: 
   description: "œuvre éphémère du Voyage à Nantes dans le cadre de l'installation
-    dans une péniche canale St Félix à Nantes \"Asie Rider\" 2015.  \nVendu"
+    dans une péniche canale St Félix à Nantes \"Asie Rider\" 2015.  \nVendue"
   price: 
   sold: false
   contextual: true
