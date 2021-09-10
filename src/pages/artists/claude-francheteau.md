@@ -31,6 +31,30 @@ exhibitions:
   start: "2015"
   end: 
 works:
+- title: Sky 004
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-sky004-100x100-2021.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2021"
+  price: 3300
+  contextual: true
+- title: Sky 005
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-sky005-90x90-2021.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: "2021"
+  price: 2800
+  contextual: true
 - title: Ciel 2059
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-2059-50x50.jpg
   technique: Acrylique sur toile
