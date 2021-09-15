@@ -77,6 +77,17 @@ works:
   contextual: false
 - title: Détail Le Papillon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
+  technique: 'Bronze 6/8 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 38
+    width: 20
+    depth: 6
+  description: Réservée
+  price: 1800
+  contextual: true
+- title: Le Papillon
   technique: Bronze 6/8
   fields: []
   styles: []
@@ -84,9 +95,10 @@ works:
     height: 38
     width: 20
     depth: 6
-  description: Fondeur d'art Barthélémy Crest (26)
+  description: Réservée
   price: 1800
-  contextual: true
+  contextual: false
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
 - title: Anouck
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
   technique: Bronze I/IV
@@ -183,18 +195,6 @@ works:
   price: 5700
   sold: false
   contextual: false
-- title: Le Papillon
-  technique: Bronze 6/8
-  fields: []
-  styles: []
-  dimensions:
-    height: 38
-    width: 20
-    depth: 6
-  description: "2020   \nFonderie Barthélémy Crest (26)"
-  price: 1800
-  contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
 - title: Le mythe de Sisyphe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-myhte-sisyphe.png
   technique: Bronze

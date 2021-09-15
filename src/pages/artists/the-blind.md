@@ -15,10 +15,11 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "# The Blind \n\n4 déclinaisons de faits de sociétés traduits par The Blind
+biography: "# The Blind\n\n4 déclinaisons de faits de sociétés traduits par The Blind
   en Jeux de Sociétés  \nHumour sérieusement décalé qui frappe juste et ose en plus
   aborder visuellement ces sujets avec l'écriture en Braille.  \nAudacieux et Malicieux
-  !"
+  !\n\n[Article Presse Minutes ](https://www.20minutes.fr/arts-stars/culture/2346983-20181002-nantes-graffitis-braille-the-blind-donne-vision-art
+  \"Minute Nantes \")"
 works:
 - title: Extrait de la Série jeux de sociétés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
@@ -29,7 +30,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: "4 déclinaisons de faits de sociétés traduits par The Blind en Jeux
     de Sociétés  \nHumour sérieusement décalé qui frappe juste et ose en plus aborder
     visuellement ces sujets avec l'écriture en Braille.  \nAudacieux et Malicieux
@@ -46,7 +47,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -60,7 +61,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -74,7 +75,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -88,11 +89,26 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   price: 150
   sold: false
   contextual: false
   description: ''
+- title: Je gueule, tu gueules...ils braillent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    05.jpg
+  technique: 'Sérigraphie réhaussée sur verre avec des pastilles translucide en relief '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 650
+  sold: false
+  contextual: false
 exhibitions: []
 
 ---
