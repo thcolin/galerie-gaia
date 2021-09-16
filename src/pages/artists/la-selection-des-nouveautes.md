@@ -10,6 +10,21 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: 'Papier huilé 3 Françoise Paressant '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
+  technique: Acrylique et encre sur papier huilé
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: "1997  \n[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
+    \"francoise paressant\")"
+  price: 700
+  contextual: false
 - title: New Ex
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
