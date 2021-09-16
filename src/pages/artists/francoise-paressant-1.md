@@ -31,6 +31,34 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
   \"galerie Chevalier tapisserie paris \") Paris"
 works:
+- title: Papier huilé 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
+    huilé 2 Horizontal 70X50.jpg
+  technique: Acrylique et encre sur papier huilé
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: "1997  \nŒuvre verticale présentée aussi en horizontal"
+  price: 700
+  sold: false
+  contextual: true
+- title: Papier huilé 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
+    huilé 1 70X50.jpg
+  technique: 'Acrylique sur papier huilé '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: "1997"
+  price: 700
+  sold: false
+  contextual: true
 - title: Oeuvres en Feutres en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
   technique: ''
