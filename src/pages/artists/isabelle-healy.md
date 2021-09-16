@@ -95,7 +95,7 @@ works:
     height: 38
     width: 20
     depth: 6
-  description: Réservée
+  description: ''
   price: 1800
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
@@ -119,7 +119,7 @@ works:
     height: 16
     width: 43
     depth: 5
-  description: "6/8  \nFonderie Barthélémy Crest (26)"
+  description: "Réservée   \nFonderie Barthélémy Crest (26)"
   price: 3800
   sold: false
   contextual: false

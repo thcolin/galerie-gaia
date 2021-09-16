@@ -10,6 +10,17 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: New Ex
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: 'Papier huilé 3 Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
   technique: Acrylique et encre sur papier huilé
@@ -25,29 +36,17 @@ works:
     \"francoise paressant\")"
   price: 700
   contextual: false
-- title: New Ex
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+- title: Deep blue 1 - Isthme
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_122315.jpg
+  technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
-- title: 'Small Architecture #20 - 2018 Isthme'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-galerie-gaïa-
-    01.jpg
-  technique: Collage
-  fields: []
-  styles: []
-  dimensions:
-    height: 76.5
-    width: 57
+    height: 146
+    width: 114
     depth: 0
   description: "# [Isthme]()"
-  price: 750
+  price: ''
   contextual: false
 - title: Fresque Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A0072rec.jpg
