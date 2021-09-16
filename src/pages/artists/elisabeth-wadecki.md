@@ -43,6 +43,19 @@ biography: "# Elisabeth Wadecki \n\nest née en 1963 à Zürich, d'un père polo
   que de présence au monde."
 exhibitions: []
 works:
+- title: 'Palude 1 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    re(s)source Paludes N°I-2017- 120x100cm-acrylique, pastels,fusain-2000 euros.JPG
+  technique: 'Technique mixte sur toile acrylique, pastel, fusain '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 0
+  description: "2017"
+  price: 2000
+  contextual: true
 - title: 'Retour des bois '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Retour
     des bois- 2021- acrylique, bâtons d'huile sur papier marouflé sur toile- 130x97cm-
