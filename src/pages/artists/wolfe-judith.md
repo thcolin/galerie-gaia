@@ -88,6 +88,36 @@ biography: "# Judith Wolfe\n\nJudith Wolfe est née aux Etats-Unis, héritière 
   Galerie Aube 3935, Montréal, Québec  \n Galerie Works II, South Hampton, New York,
   Etats-Unis"
 works:
+- title: Saint Nazaire 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
+    St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
+    .jpg
+  technique: 'technqiue mixte sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2009"
+  price: 3800
+  sold: false
+  contextual: true
+- title: 'Saint Nazaire 5 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
+    St.Nazaire 5-120x120 cm-3800€-acrylique et encre sur papiermarouflé_toile-2009
+    .jpg
+  technique: 'technique mixte papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2009"
+  price: 3800
+  sold: false
+  contextual: true
 - title: Paysage d'été 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
     d'ete1-95X65-2004-2200E.jpeg
