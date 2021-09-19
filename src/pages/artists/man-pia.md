@@ -2,7 +2,7 @@
 fields:
 - Peinture
 styles:
-- Abstraction
+- Abstrait
 seo:
   type: article
   title: ''

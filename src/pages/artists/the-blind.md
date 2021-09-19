@@ -21,6 +21,37 @@ biography: "# The Blind\n\n4 déclinaisons de faits de sociétés traduits par T
   !\n\n[Article Presse Minutes ](https://www.20minutes.fr/arts-stars/culture/2346983-20181002-nantes-graffitis-braille-the-blind-donne-vision-art
   \"Minute Nantes \")"
 works:
+- title: Je gueule...
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
+    blind-je geule-70X50.jpg
+  technique: 'Sérigraphie 30 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 'Œuvre encadrée avec verre anti-reflet et pastille silicon pour écriture
+    en braille posée sur le verre '
+  price: 700
+  sold: false
+  contextual: true
+- title: Je gueule, tu gueules...ils braillent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    05.jpg
+  technique: 'Sérigraphie réhaussée sur verre avec des pastilles translucide en relief '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: Article côté Ouest Aout Septembre 2021
+  price: 700
+  sold: false
+  contextual: false
 - title: Extrait de la Série jeux de sociétés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
     blind-5-JEUX DE SOCIÉTÉ.jpg
@@ -94,21 +125,6 @@ works:
   sold: false
   contextual: false
   description: ''
-- title: Je gueule, tu gueules...ils braillent
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    05.jpg
-  technique: 'Sérigraphie réhaussée sur verre avec des pastilles translucide en relief '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 650
-  sold: false
-  contextual: false
 exhibitions: []
 
 ---
