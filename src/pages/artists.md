@@ -2,10 +2,10 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/aline.md
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/franco-salas-borquez.md
-- artist: src/pages/artists/aline.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/toma-l.md
