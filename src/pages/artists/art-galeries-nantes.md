@@ -29,6 +29,20 @@ biography: "# Art Galeries Nantes\n\n## Galerie Albane l'Artichaut-galerie Le 56
   artistiques collectives."
 exhibitions: []
 works:
+- title: 10 Octobre 2021 - Les Galeries, le dimanche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
+    Dimanche 10-10-2021 - Affiche A2.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Albane Galerie - Galerie le 56 - L'Artichaut Galerie - Le Triphasé
+    - Galerie des Oubliés - Galerie Gaïa \n\nLes galeries de l'association Art Galeries
+    Nantes ouvrent leurs portes le Dimanche 10 Octobre 2021 de 14H à 18H"
+  price: ''
+  contextual: true
 - title: Les galeries, le dimanche 24 Novembre 2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-galeries-le-dimanche-24-novembre-2019.jpg
   technique: Portes grandes ouvertes
