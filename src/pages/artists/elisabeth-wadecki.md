@@ -70,6 +70,18 @@ works:
   description: "2021"
   price: 2200
   contextual: true
+- title: Nuit N°3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    Nuit N°3- 2018-116x80cm- acrylique, pastels secs, fusain- 1700 euros.JPG
+  technique: Acrylique, pastel fusain sur toile
+  dimensions:
+    height: 116
+    width: 81
+    depth: 
+  description: '2019 '
+  price: 1800
+  sold: false
+  contextual: true
 - title: En mon jardin N°1 Toile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
   technique: 'Acrylique bâtons d''huile sur toile '
@@ -102,7 +114,8 @@ works:
     height: 150
     width: 150
     depth: 0
-  description: "2018"
+  description: '2018 Œuvre visible en Octobre 2021 à la [Galerie des Bigotes ](https://www.mairie-vannes.fr/vannesloisirs/agenda/galerie-des-bigotes/
+    "musée vannes ")Association des Amis du musée de Vannes '
   price: 3500
   contextual: true
 - title: 'Diptyque En mon jardin '
@@ -169,18 +182,6 @@ works:
     depth: 
   description: "2016  \noeuvre encadrée baguette bois blanc"
   price: 800
-  sold: false
-  contextual: true
-- title: Nuit N°3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
-    Nuit N°3- 2018-116x80cm- acrylique, pastels secs, fusain- 1700 euros.JPG
-  technique: Acrylique, pastel fusain sur toile
-  dimensions:
-    height: 116
-    width: 81
-    depth: 
-  description: '2019 '
-  price: 1800
   sold: false
   contextual: true
 - title: Le Rai profond N°4 ouest
