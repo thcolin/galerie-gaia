@@ -26,11 +26,42 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   avec juste ce faut d'élégance et de douceur picturales pour en faire oublier la
   rigueur théorique.\n\n1983 3 Peintures ont été acquises par le [musée des Arts de
   Nantes](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=PARESSANT
-  \"collection musée des arts nantes \")  \n 2003 1 Dessin a été offert par les [Amis
+  \"collection musée des arts nantes \")  \n2003 1 Dessin a été offert par les [Amis
   du Musée d'Arts de Nantes](http://www.amis-musee-arts-nantes.fr/ \"amis du musée
-  des arts de nantes \")  \n 2020 Exposition tapisserie à la [Galerie Chevalier](http://www.galerie-chevalier.com/
-  \"galerie Chevalier tapisserie paris \") Paris"
+  des arts de nantes \")  \n2021 Exposition tapisserie Art Paris avec la [Galerie
+  Chevalier](http://www.galerie-chevalier.com/ \"galerie Chevalier tapisserie paris
+  \") Paris"
 works:
+- title: Feutre croisé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
+    de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
+  technique: 'Bandes de feutre teintées et croisées '
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 160
+    width: 140
+    depth: 0
+  description: 2001 Accrochage mural avec simples crochets fixées sur une baguette
+    en bois positionnée sur le haut de l’œuvre tissée.
+  price: 5000
+  sold: false
+  contextual: true
+- title: Oeuvres en Feutre en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
+  technique: ''
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 - title: Papier huilé 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 1 70X50.jpg
@@ -101,36 +132,6 @@ works:
     depth: 0
   description: ''
   price: 700
-  sold: false
-  contextual: true
-- title: Oeuvres en Feutres en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
-  technique: ''
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 
-  sold: false
-  contextual: false
-- title: Feutre croisé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
-    de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
-  technique: 'Bandes de feutre teintées et croisées '
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 160
-    width: 140
-    depth: 0
-  description: 2001 Accrochage mural avec simples crochets fixées sur une baguette
-    en bois positionnée sur le haut de l’œuvre tissée.
-  price: 5000
   sold: false
   contextual: true
 - title: Info presse magazine Investir 09_2021
