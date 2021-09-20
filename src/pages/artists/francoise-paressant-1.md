@@ -119,7 +119,7 @@ works:
   contextual: false
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
-    de  feutre  teintées, croisées 160 cm x 140 cm 2001  - copie 3.jpg
+    de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
   technique: 'Bandes de feutre teintées et croisées '
   fields:
   - Textile
@@ -128,7 +128,8 @@ works:
     height: 160
     width: 140
     depth: 0
-  description: '2001 '
+  description: 2001Accrochage mural avec simples crochets fixées sur une baguette
+    en bois positionnée sur le haut de l’œuvre tissée.
   price: 5000
   sold: false
   contextual: true
