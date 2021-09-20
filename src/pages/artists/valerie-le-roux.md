@@ -163,32 +163,6 @@ works:
   description: ''
   price: 80
   contextual: true
-- title: 'Grand plat noir et vert '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 5
-    width: 43
-    depth: 43
-  description: ''
-  price: 240
-  contextual: false
-- title: Plateau bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-assiette
-    1.jpg
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 2
-    width: 19.5
-    depth: 28.5
-  description: ''
-  price: 68
-  contextual: false
 - fields:
   - Oeuvre sur papier
   styles: []
