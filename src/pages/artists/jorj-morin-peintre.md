@@ -33,7 +33,7 @@ works:
     height: 97
     width: 162
     depth: 
-  description: "1975  \nVisible sur demande"
+  description: "1975  \nRéservée"
   price: 5500
   sold: false
   contextual: true
