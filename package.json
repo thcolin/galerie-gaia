@@ -16,7 +16,7 @@
     "@emotion/react": "^11.1.5",
     "@material-ui/core": "^4.11.4",
     "fs-extra": "^10.0.0",
-    "gatsby": "3.4.0",
+    "gatsby": "3.14.0",
     "gatsby-plugin-breadcrumb": "^12.1.1",
     "gatsby-plugin-gdpr-cookies": "^2.0.0",
     "gatsby-plugin-google-analytics": "^3.4.0",
