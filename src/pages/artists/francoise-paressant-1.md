@@ -128,13 +128,14 @@ works:
     height: 160
     width: 140
     depth: 0
-  description: 2001Accrochage mural avec simples crochets fixées sur une baguette
+  description: 2001 Accrochage mural avec simples crochets fixées sur une baguette
     en bois positionnée sur le haut de l’œuvre tissée.
   price: 5000
   sold: false
   contextual: true
-- title: Oeuvre en feutre teinté en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
+- title: Info presse magazine Investir 09_2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Investir 092021
+    Françoise Paressant.png
   technique: ''
   fields: []
   styles: []
@@ -142,8 +143,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
-    "pierre tual")
+  description: Osez l'art textile pour le plaisir et visitez le [musée Lurçat à Angers](https://musees.angers.fr/lieux/musee-jean-lurcat-et-de-la-tapisserie-contemporaine/index.html
+    "musee lurçat angers")
   price: 
   sold: false
   contextual: false
@@ -162,6 +163,20 @@ works:
   price: 900
   sold: false
   contextual: true
+- title: Oeuvre en feutre teinté en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
+    "pierre tual")
+  price: 
+  sold: false
+  contextual: false
 - title: CPM 60_50 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
     60 cm x 50  2021.jpg
