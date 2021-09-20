@@ -910,5 +910,29 @@ articles:
     Gaëtan Chevrier et Tangui Robert).\n\n  \nLe week-end du **4 &** **5** septembre
     et du **18 & 19** septembre.  \nVisite exclusive sur rendez-vous 02 40 48 14 91
     - max groupe de 6  \nVisite sans obligation d'achat."
+- template: article
+  date: '2021-10-06T12:12:55Z'
+  categories:
+  - Exposition
+  title: Aline Isoard  Auto-Fiction  6-30/10/21
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
+    1-2019, 90x90a.jpg
+  content: "# Aline ISOARD QPN 2021\n\nAuto-Fiction exposition photographie présentée
+    dans le cadre de la 25eme édition de la QPN 2021 avec la thématique : \"Histoire(s)\"\n\nC’est
+    dans l'habitacle cloisonné de vitres d’une voiture qu’Aline Isoard réalise ses
+    photographies. Ce lieu clos et protecteur fonctionne comme une lumineuse, et donc
+    paradoxale, chambre noire où le renversement spéculaire de l'espace s'opère grâce
+    aux reflets des rétroviseurs.\n\nSur les voies de circulation avec ses automobiles
+    aperçues furtivement, la photographe nous livre un témoignage social sur un monde
+    nomade. La saisie des attitudes des conducteurs anonymes et des passagers, objets,
+    et fragments de carrosseries sont révélateurs d'une appartenance à une sphère
+    culturelle et professionnelle, déductibles des seules apparences représentées.
+    \ \n Après une sélection de ses prises de vue, Aline Isoard retravaille les tirages
+    numériques et fait subir à leur couche pigmentaire des opérations manuelles pour
+    supprimer, aussi bien que pour les révéler, des détails, des éléments graphiques,
+    mais également afin d'atténuer des couleurs ou des contrastes.\n\n_Elle se dit
+    peintre, elle se dit photographe,_ 2019 (extrait)\n\n[Jacques Py, critique d’art](https://www.archivesdelacritiquedart.org/auteur/py-jacques
+    \"Jacques Py\")\n\nExposition du 6 au 30 Octobre 2021  \nVernissage 6/10/21 18H
+    \ \nOuverture Dimanche 10 Octobre 14H "
 
 ---
