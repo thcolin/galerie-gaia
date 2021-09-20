@@ -88,6 +88,21 @@ works:
   price: 700
   sold: false
   contextual: false
+- title: Papier huilé 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-papier
+    huilé 4.jpg
+  technique: 'Papiers huilés peints, découpés et superposés '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
 - title: Oeuvres en Feutres en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
   technique: ''
