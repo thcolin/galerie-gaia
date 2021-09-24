@@ -29,15 +29,12 @@ content:
     haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13 à 60
     mois**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
     ou **IRPP (professions libérales)**\n* Au terme du contrat un transfert de propriété
-    vous est proposé;\n* Cela concerne des **artistes vivants ou non**\n\n  [Article
-    \"Du leasing dans l'art\" Gazette Drouot](https://galeriegaia.frhttps://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Gazette
-    drouot juin 2017.pdf \"Article Gazette Drouot\")\n\n**Calcul pour une œuvre de
-    3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir 193€ HT\n* économies d'impôts
-    générées 1296€ HT\n* coût global hors économies de charges sociales, IR = 3332€
-    HT\n  * _Les loyers sont une charge déductible et génèrent une économie d'IS estimée
-    à 28 %_\n\n    [Faire une simulation](http://bail-art.com/le-leasing/ \"FAIRE
-    UNE SIMULATION\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_Fondation_28x37 cadré.jpg)
-    \ \n_\"Fondation\" bronze Isabelle Healy_\n\n## **2. L'achat en défiscalisation**\n\nCette
+    vous est proposé;\n* Cela concerne des **artistes vivants ou non**\n\n**Calcul
+    pour une œuvre de 3500€ & 24 mois :**\n\n* loyer mensuel terme à échoir 193€ HT\n*
+    économies d'impôts générées 1296€ HT\n* coût global hors économies de charges
+    sociales, IR = 3332€ HT\n  * _Les loyers sont une charge déductible et génèrent
+    une économie d'IS estimée à 28 %_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_Fondation_28x37
+    cadré.jpg)  \n_\"Fondation\" bronze Isabelle Healy_\n\n## **2. L'achat en défiscalisation**\n\nCette
     niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
     \ pour **soutenir les artistes vivants**. Ainsi **entreprises et professions libérales**
     peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**\n\n* L’œuvre
@@ -72,7 +69,8 @@ seo:
   type: website
   description: 'Défiscalisation art (acquisition, location, leasing) : Elisabeth Givre,
     directrice de la Galerie Gaïa, conseille les entreprises et professions libérales.'
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-defiscalisation-location-leasing art.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-defiscalisation-location-leasing
+    art.jpg
 redirect_from:
 - "/prestations/"
 - "/defiscalisation-oeuvre-d-art/"
