@@ -915,8 +915,7 @@ articles:
   categories:
   - Exposition
   title: Aline Isoard  Auto-Fiction  6-30/10/21
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
-    1-2019, 90x90a.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-afffiche-isoard.jpg
   content: "# Aline ISOARD QPN 2021\n\nAuto-Fiction exposition photographie présentée
     dans le cadre de la 25eme édition de la QPN 2021 avec la thématique : \"Histoire(s)\"\n\nC’est
     dans l'habitacle cloisonné de vitres d’une voiture qu’Aline Isoard réalise ses
