@@ -84,7 +84,7 @@ works:
     height: 38
     width: 20
     depth: 6
-  description: Réservée
+  description: ''
   price: 1800
   contextual: true
 - title: Le Papillon
