@@ -7,6 +7,7 @@ carousel:
     huilé 1 70X50.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
     1-2019, 90x90.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 2-2021,90x90a.jpg
 redirect_from:
 - "/plan/"
 seo:
