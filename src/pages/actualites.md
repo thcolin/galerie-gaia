@@ -911,10 +911,10 @@ articles:
     et du **18 & 19** septembre.  \nVisite exclusive sur rendez-vous 02 40 48 14 91
     - max groupe de 6  \nVisite sans obligation d'achat."
 - template: article
-  date: '2021-10-06T12:12:55Z'
+  date: '2021-10-07T12:12:55Z'
   categories:
   - Exposition
-  title: Aline Isoard  Auto-Fiction  6-30/10/21
+  title: Aline Isoard  Auto-Fiction  vernissage 7/10 18H
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-afffiche-isoard.jpg
   content: "# Aline ISOARD QPN 2021\n\nAuto-Fiction exposition photographie présentée
     dans le cadre de la 25eme édition de la QPN 2021 avec la thématique : \"Histoire(s)\"\n\nC’est
