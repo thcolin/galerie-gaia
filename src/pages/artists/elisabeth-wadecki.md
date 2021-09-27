@@ -70,18 +70,6 @@ works:
   description: "2021"
   price: 2200
   contextual: true
-- title: Nuit N°3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
-    Nuit N°3- 2018-116x80cm- acrylique, pastels secs, fusain- 1700 euros.JPG
-  technique: Acrylique, pastel fusain sur toile
-  dimensions:
-    height: 116
-    width: 81
-    depth: 
-  description: '2019 '
-  price: 1800
-  sold: false
-  contextual: true
 - title: En mon jardin N°1 Toile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
   technique: 'Acrylique bâtons d''huile sur toile '

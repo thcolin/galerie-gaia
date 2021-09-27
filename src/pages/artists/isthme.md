@@ -161,15 +161,15 @@ works:
 - title: Territoire Noir/Blanc - 3/12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
     Noir:Blanc-3:12-76,5x57.jpg
-  technique: Collage
+  technique: Lithographie en 12 exemplaires + Collage papier japon
   fields: []
   styles: []
   dimensions:
     height: 76.5
     width: 57
     depth: 0
-  description: ''
-  price: 750
+  description: chaque pièce est unique
+  price: 600
   contextual: true
 - title: Territoire Noir/Blanc - 2/12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
