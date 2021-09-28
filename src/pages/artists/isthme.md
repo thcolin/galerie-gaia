@@ -134,30 +134,6 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
-- title: 'Deep Blue #11'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
-    1-acrylique-146x114-2020.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: Vendue
-  price: ''
-  contextual: true
-- title: 'Deep blue #13'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Isthme-Deep Blue#13-2020-146x114.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 146
-    width: 114
-    depth: 
-  description: Réservée
-  price: ''
-  sold: false
-  contextual: true
 - title: Territoire Noir/Blanc - 3/12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
     Noir:Blanc-3:12-76,5x57.jpg
@@ -170,19 +146,6 @@ works:
     depth: 0
   description: chaque pièce est unique
   price: 600
-  contextual: true
-- title: Territoire Noir/Blanc - 2/12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
-    Noir:Blanc-2:12-76,5x57.jpg
-  technique: Collage
-  fields: []
-  styles: []
-  dimensions:
-    height: 76.5
-    width: 57
-    depth: 0
-  description: ''
-  price: 750
   contextual: true
 - title: 'Small Architecture #22 - 2018'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
