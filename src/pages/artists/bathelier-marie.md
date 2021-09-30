@@ -150,19 +150,6 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: 'EN LIBERTE Installation en triptyque '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
-  technique: peinture
-  dimensions:
-    height: 70
-    width: 210
-    depth: 
-  description: Vendu
-  price: 
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
 - title: Sans titre &5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
@@ -326,6 +313,19 @@ works:
   contextual: false
   fields:
   - Design
+  styles: []
+- title: 'EN LIBERTE Installation en triptyque '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
+  technique: ''
+  dimensions:
+    height: 70
+    width: 210
+    depth: 
+  description: Toiles et sculpture vendues présentation Galerie Gaïa Pornichet
+  price: 
+  sold: false
+  contextual: false
+  fields: []
   styles: []
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-portrait.jpg
