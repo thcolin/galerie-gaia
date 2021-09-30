@@ -914,8 +914,8 @@ articles:
   date: '2021-10-07T12:12:55Z'
   categories:
   - Exposition
-  title: Aline Isoard  Auto-Fiction  vernissage 7/10 18H
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-afffiche-isoard.jpg
+  title: Aline Isoard  vernissage 7/10 18H
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A.ISOARDafficheQPN.jpg
   content: "# Aline ISOARD QPN 2021\n\nAuto-Fiction exposition photographie présentée
     dans le cadre de la 25eme édition de la QPN 2021 avec la thématique : \"Histoire(s)\"\n\nC’est
     dans l'habitacle cloisonné de vitres d’une voiture qu’Aline Isoard réalise ses
