@@ -114,13 +114,13 @@ works:
   contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: 'Bronze N° 6/8 '
+  technique: 'Bronze EA '
   dimensions:
     height: 16
     width: 43
     depth: 5
   description: "Réservée   \nFonderie Barthélémy Crest (26)"
-  price: 3800
+  price: ''
   sold: false
   contextual: false
 - title: La sphère des possibles
