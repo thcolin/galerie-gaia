@@ -27,6 +27,19 @@ biography: |-
   Pauline Friol
 exhibitions: []
 works:
+- title: Papier collé 081
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg
+  technique: Collage, papier soie, encre
+  dimensions:
+    height: 72
+    width: 52
+    depth: 
+  description: "1991"
+  price: 450
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: 'Masques Africains '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-friol-verre
     masque afric.jpg
@@ -135,21 +148,6 @@ works:
   description: "1996"
   price: 450
   contextual: true
-- title: Papier encre 022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie)-gaia-friol-papier022.jpg
-  technique: 'Encre sur papier '
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 77
-    width: 76
-    depth: 0
-  description: "1982 j'ai fait encadrer cette œuvre avec une baguette alu noire et
-    verre antireflet qualité musée et j'ai conservé une large marge blanche.  \nle
-    prix est donc avec l'encadrement "
-  price: 550
-  contextual: false
 - title: Papier collé 042
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colle-042-1996-collage-papier-acrylique-email-a-froid-h60x75l.jpg
   technique: Collage papier acrylique email à froid
@@ -197,19 +195,6 @@ works:
   description: ''
   price: 690
   contextual: false
-- title: Papier collé 081
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-081-1991-collage-papier-soie-encre-h66x49l.jpg
-  technique: Collage, papier soie, encre
-  dimensions:
-    height: 72
-    width: 52
-    depth: 
-  description: "1991"
-  price: 450
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Papier collé 065
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-papier-colles-065-1996-collage-papier-kraft-acrylique-email-a-froid-crayon-de-couleur-h62x77l.jpg
   technique: Collage, papier kraft, acrylique, émail à froid, caryon de couleur
