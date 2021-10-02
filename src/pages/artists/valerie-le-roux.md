@@ -24,6 +24,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Grand Plat algue orange
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-valerie-leroux-plat
+    orange 36CM.jpg
+  technique: Céramique pièce unique
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 36
+    width: 36
+    depth: 7
+  description: Pièce unique
+  price: 160
+  contextual: false
 - title: Grand plat bleu et ocre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
     plat 2.jpg
