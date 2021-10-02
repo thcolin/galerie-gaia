@@ -51,6 +51,18 @@ works:
   description: Edition 10/50
   price: 90
   contextual: true
+- title: Square in blue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
+  technique: Sérigraphie impression jet d'encre sur polyester 2/25
+  fields: []
+  styles: []
+  dimensions:
+    height: 8.5
+    width: 8.5
+    depth: 8.5
+  description: "2018"
+  price: 110
+  contextual: false
 - title: Colline imaginaire I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png
   technique: Impression jet d'encre sur polyester
