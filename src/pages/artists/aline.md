@@ -45,6 +45,20 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Habitants sur route 1_2019
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
+    1-2019, 90x90aw.jpg
+  technique: 'Photographie dépigmentée '
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 
+  sold: false
+  contextual: true
 - title: Pont 19_2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 19-2017,60x60wA.jpg
   technique: 'Photographie dépigmentée '
@@ -55,6 +69,20 @@ works:
     width: 60
     depth: 0
   description: ''
+  price: 800
+  sold: false
+  contextual: true
+- title: Station 7 2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
+    7-2020,60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
   price: 800
   sold: false
   contextual: true
@@ -159,20 +187,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     12-2018,60x60w.jpg
   technique: Photo dépigmentée
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Pièce unique
-  price: 800
-  sold: false
-  contextual: true
-- title: Station 7 2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
-    7-2020,60x60w.jpg
-  technique: Photographie dépigmentée
   fields: []
   styles: []
   dimensions:
