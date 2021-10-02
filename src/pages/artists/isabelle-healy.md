@@ -121,7 +121,7 @@ works:
     depth: 5
   description: "Disponible en Novembre - dernier exemplaire   \nFonderie Barthélémy
     Crest (26)"
-  price: ''
+  price: 3900
   sold: false
   contextual: false
 - title: La sphère des possibles
