@@ -15,6 +15,18 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Gosegawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: Beans Rainbow
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Beans_Rainbow_2018_mail.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'sur commande '
+  price: 180
+  contextual: true
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
   technique: Sérigraphie impression jet d'encre sur polyester 8/25
