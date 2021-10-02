@@ -74,28 +74,6 @@ works:
   description: ''
   price: 110
   contextual: true
-- title: Blue & Pink
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-and-pink.jpg
-  technique: impression jet d’encre sur polyester Edition 29/50
-  dimensions:
-    height: 7
-    width: 7
-    depth: 7
-  description: "Création et tirage en 2016          \nFormat précis 7,5 X 7,5 X7,5cm"
-  price: 120
-  sold: false
-  contextual: false
-- title: Goutte rouge
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
-  technique: Impression jet d’encre sur polyester Edition 42/50
-  dimensions:
-    height: 6
-    width: 11
-    depth: 11
-  description: "Création et tirage en 2011  \n"
-  price: 160
-  sold: false
-  contextual: false
 - title: Black cube in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
   technique: Impression jet d'encre sur polyester Edition 3/25
@@ -195,6 +173,17 @@ works:
     depth: 22
   description: 'Création en 2006  Tirage en 2008                     '
   price: 380
+  sold: false
+  contextual: false
+- title: Goutte rouge
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
+  technique: Impression jet d’encre sur polyester Edition 42/50
+  dimensions:
+    height: 6
+    width: 11
+    depth: 11
+  description: "Création et tirage en 2011  \n"
+  price: 160
   sold: false
   contextual: false
 - title: Collision II
