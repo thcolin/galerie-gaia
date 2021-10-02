@@ -402,18 +402,6 @@ works:
     signés au crayon"
   price: 1200
   contextual: true
-- title: 196J17101 H - 4 carrés à Entas  juxtaposés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    p 196J17101H .jpg
-  technique: Technique  gravure carborundum  sur zinc imprimée sur  Papier BFK Rives
-    250  gr/m2 margé
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: Épreuve unique, titrée signée au crayon
-  price: 1050
-  contextual: true
 - title: '14P1832263 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     14p1832263 .jpg
