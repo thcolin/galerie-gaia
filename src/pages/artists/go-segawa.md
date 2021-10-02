@@ -15,6 +15,18 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Gosegawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: Mass
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
+  technique: Sérigraphie impression jet d'encre sur polyester 8/25
+  fields: []
+  styles: []
+  dimensions:
+    height: 6
+    width: 12
+    depth: 12
+  description: "2019"
+  price: 160
+  contextual: false
 - title: Cube in red
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-cube-in-red.png
   technique: Impression jet d'encre sur polyester
@@ -74,17 +86,6 @@ works:
   description: ''
   price: 110
   contextual: true
-- title: Black cube in blue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
-  technique: Impression jet d'encre sur polyester Edition 3/25
-  dimensions:
-    height: 8
-    width: 8
-    depth: 8
-  description: "Création et tirage en 2019  \nDimension précise 8,5 X 8,5 X 8,5cm "
-  price: 120
-  sold: false
-  contextual: false
 - title: 5 volumes empilées
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
   technique: ''
@@ -120,37 +121,15 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Life I (3/25)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/life-i-325.jpg
-  technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
+- title: Visage
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg
+  technique: Sérigraphie sur PVC Edition 12/50
   dimensions:
     height: 8
-    width: 8
-    depth: 8
-  description: "Format précis 8,5 X 8,5 X 8,5 cm   \nTirage 2019 "
-  price: 120
-  sold: false
-  contextual: false
-- title: 'Violet '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/violet-1350-1450.jpg
-  technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
-  dimensions:
-    height: 7
-    width: 7
-    depth: 7
-  description: "Format précis 7,5 X 7,5 X 7,5 cm \n\nTirage 2018 "
-  price: 80
-  sold: false
-  contextual: false
-- title: 'Squares in Blue '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/squares-in-blue-425.jpg
-  technique: 'Impression jet d’encre sur polyester Edition en 25 exemplaires '
-  dimensions:
-    height: 8
-    width: 8
-    depth: 8
-  description: 'Tirage 2018 '
-  price: 120
+    width: 16
+    depth: 22
+  description: 'Création en 2006  Tirage en 2008                     '
+  price: 380
   sold: false
   contextual: false
 - title: 'Snake II – orange '
@@ -164,15 +143,15 @@ works:
   price: 80
   sold: false
   contextual: false
-- title: Visage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg
-  technique: Sérigraphie sur PVC Edition 12/50
+- title: Black cube in blue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
+  technique: Impression jet d'encre sur polyester Edition 3/25
   dimensions:
     height: 8
-    width: 16
-    depth: 22
-  description: 'Création en 2006  Tirage en 2008                     '
-  price: 380
+    width: 8
+    depth: 8
+  description: "Création et tirage en 2019  \nDimension précise 8,5 X 8,5 X 8,5cm "
+  price: 120
   sold: false
   contextual: false
 - title: Goutte rouge
