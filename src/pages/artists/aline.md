@@ -45,6 +45,20 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Fenêtre sur route GF12_2015
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+    GF12-2015,92x92verre.jpg
+  technique: 'Photographie dépigmentée '
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: 'Pièce unique '
+  price: 0
+  sold: false
+  contextual: true
 - title: Fenêtre sur route 6_2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     6-2021,90x90aw.jpg
