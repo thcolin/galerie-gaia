@@ -56,7 +56,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 
+  price: 1500
   sold: false
   contextual: true
 - title: Pont 19_2017
@@ -69,7 +69,7 @@ works:
     width: 60
     depth: 0
   description: ''
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 7 2020
@@ -83,7 +83,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Fenêtre sur route 3_2019
@@ -97,7 +97,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 
+  price: 1500
   sold: false
   contextual: true
 - title: Fenêtre sur route GF12_2015
@@ -111,7 +111,7 @@ works:
     width: 90
     depth: 0
   description: 'Pièce unique '
-  price: 0
+  price: 1500
   sold: false
   contextual: true
 - title: Fenêtre sur route 6_2021
@@ -125,7 +125,7 @@ works:
     width: 90
     depth: 0
   description: ''
-  price: 
+  price: 1500
   sold: false
   contextual: true
 - title: Station 12_2018
@@ -139,7 +139,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 5_2017
