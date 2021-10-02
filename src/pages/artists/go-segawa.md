@@ -62,18 +62,6 @@ works:
   price: 130
   sold: false
   contextual: false
-- title: Collision II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
-  technique: Impression jet d'encre sur polyester 10/25
-  fields: []
-  styles: []
-  dimensions:
-    height: 8.5
-    width: 8.5
-    depth: 8.5
-  description: "2018"
-  price: 110
-  contextual: true
 - title: La balle dans une balle III
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-balle-dans-la-balle.png
   technique: Impression jet d'encre sur polyester 27/50
@@ -86,28 +74,6 @@ works:
   description: ''
   price: 110
   contextual: true
-- title: Dark Ball
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dark-ball.jpg
-  technique: impression jet d’encre sur polyester Edition 47/50
-  dimensions:
-    height: 7
-    width: 7
-    depth: 7
-  description: 'Création et tirage en 2012                                               '
-  price: 130
-  sold: false
-  contextual: false
-- title: Visage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg
-  technique: Sérigraphie sur PVC Edition 12/50
-  dimensions:
-    height: 8
-    width: 16
-    depth: 22
-  description: 'Création en 2006  Tirage en 2008                     '
-  price: 380
-  sold: false
-  contextual: false
 - title: Blue & Pink
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-and-pink.jpg
   technique: impression jet d’encre sur polyester Edition 29/50
@@ -220,6 +186,29 @@ works:
   price: 80
   sold: false
   contextual: false
+- title: Visage
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg
+  technique: Sérigraphie sur PVC Edition 12/50
+  dimensions:
+    height: 8
+    width: 16
+    depth: 22
+  description: 'Création en 2006  Tirage en 2008                     '
+  price: 380
+  sold: false
+  contextual: false
+- title: Collision II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
+  technique: Impression jet d'encre sur polyester 10/25
+  fields: []
+  styles: []
+  dimensions:
+    height: 8.5
+    width: 8.5
+    depth: 8.5
+  description: "2018"
+  price: 110
+  contextual: true
 - title: Trophée Open de Squash de Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trophee-open-de-squash-de-nantes.jpg
   technique: ''
