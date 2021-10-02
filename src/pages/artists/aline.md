@@ -153,7 +153,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 6_2016
@@ -194,7 +194,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 7 2016
@@ -208,7 +208,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 3 2016
@@ -222,7 +222,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Habitant sur route 6 2020
@@ -236,7 +236,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Fenêtre sur route 9 2018
@@ -250,7 +250,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 12 2016
@@ -393,7 +393,7 @@ works:
     width: 60
     depth: 
   description: ''
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Station 6 2016
@@ -407,7 +407,7 @@ works:
     width: 60
     depth: 
   description: "2016"
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Les objets 10
@@ -421,7 +421,7 @@ works:
     width: 60
     depth: 
   description: "2017"
-  price: 800
+  price: 900
   sold: false
   contextual: true
 - title: Habitants sur route 8
@@ -435,7 +435,7 @@ works:
     width: 60
     depth: 
   description: "2018"
-  price: 800
+  price: 900
   sold: false
   contextual: true
 exhibitions: []
