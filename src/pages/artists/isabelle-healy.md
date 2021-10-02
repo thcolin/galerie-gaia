@@ -114,12 +114,13 @@ works:
   contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: 'Bronze EA '
+  technique: Bronze EA II/IV
   dimensions:
     height: 16
     width: 43
     depth: 5
-  description: "Réservée   \nFonderie Barthélémy Crest (26)"
+  description: "Disponible en Novembre - dernier exemplaire   \nFonderie Barthélémy
+    Crest (26)"
   price: ''
   sold: false
   contextual: false
@@ -172,15 +173,15 @@ works:
   contextual: false
 - title: Mon héros
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
-  technique: Bronze EA I/IV
+  technique: 'Bronze '
   fields: []
   styles: []
   dimensions:
     height: 47
     width: 12
     depth: 11
-  description: Fonderie Barthélémy Crest (26) sur commande
-  price: 2500
+  description: Epuisée
+  price: ''
   contextual: true
 - title: Fondation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
