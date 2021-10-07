@@ -61,7 +61,7 @@ works:
   contextual: true
 - title: Pont 19_2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 19-2017,60x60wA.jpg
-  technique: 'Photographie dépigmentée '
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
@@ -75,7 +75,7 @@ works:
 - title: Station 7 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
     7-2020,60x60w.jpg
-  technique: Photographie dépigmentée
+  technique: 'Photographie dépigmentée pièce unique '
   fields: []
   styles: []
   dimensions:
@@ -186,21 +186,21 @@ works:
 - title: Fenêtre sur route 2_2018
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     12-2018,60x60w.jpg
-  technique: Photo dépigmentée
+  technique: Photo dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
     height: 60
     width: 60
     depth: 0
-  description: Pièce unique
-  price: 900
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Station 7 2016
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
     7_2016 60x60w.jpg
-  technique: Photographie dépigmentée
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
@@ -242,15 +242,15 @@ works:
 - title: Fenêtre sur route 9 2018
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardfenêtre
     sur route 9-2018,60x60w .jpg
-  technique: Photographie dépigmentée
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
     height: 60
     width: 60
     depth: 0
-  description: Pièce unique
-  price: 900
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Station 12 2016
