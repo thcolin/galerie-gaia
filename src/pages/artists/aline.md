@@ -56,7 +56,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 1500
+  price: 1800
   sold: false
   contextual: true
 - title: Pont 19_2017
@@ -68,8 +68,8 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: ''
-  price: 900
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Station 7 2020
@@ -82,22 +82,22 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: Pièce unique
-  price: 900
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Fenêtre sur route 3_2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     3-2019, 90x90a.jpg
-  technique: 'Photographie dépigmentée '
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
     height: 90
     width: 90
     depth: 0
-  description: Pièce unique
-  price: 1500
+  description: Encadrement verre antireflet
+  price: 1800
   sold: false
   contextual: true
 - title: Fenêtre sur route GF12_2015
