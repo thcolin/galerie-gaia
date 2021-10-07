@@ -191,19 +191,6 @@ works:
   description: "2019  \nPrix sur demande "
   price: ''
   contextual: true
-- title: Simple black
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2012111201-simpleblack-70x100cm.jpg
-  technique: mixte sur papier caisse américaine chêne
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: "2012  \nPrix sur demande "
-  price: ''
-  contextual: true
 - title: 'Little wood trash '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg
   technique: Technique mixte sur bois
