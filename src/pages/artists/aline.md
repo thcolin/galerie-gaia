@@ -45,6 +45,20 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Fenêtre sur route IDF 4_2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+    Ile de F 4-2016 60x60wa.jpg
+  technique: Photo dépigmentée pièce unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Encadrement verre anti-reflet
+  price: 1200
+  sold: false
+  contextual: true
 - title: Station 7 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
     7-2020,60x60w.jpg
@@ -198,10 +212,10 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Station 12_2018
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-station
-    6-2017,60x60cm.jpg
-  technique: 'Photographie dépigmentée '
+- title: Les objets 1_2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les objets 1-2017,
+    60x60wa.jpg
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
