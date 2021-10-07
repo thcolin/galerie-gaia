@@ -45,20 +45,6 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
-- title: Fenêtre sur route IDF 4_2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
-    Ile de F 4-2016 60x60wa.jpg
-  technique: Photo dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Encadrement verre anti-reflet
-  price: 1200
-  sold: false
-  contextual: true
 - title: Station 7 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
     7-2020,60x60w.jpg
@@ -70,6 +56,20 @@ works:
     width: 60
     depth: 0
   description: Encadrement verre antireflet
+  price: 1200
+  sold: false
+  contextual: true
+- title: Fenêtre sur route IDF 4_2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+    Ile de F 4-2016 60x60wa.jpg
+  technique: Photo dépigmentée pièce unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Encadrement verre anti-reflet
   price: 1200
   sold: false
   contextual: true
@@ -393,65 +393,6 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: Livre "Apparaître, disparaître, être"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
-    4.jpg
-  technique: ''
-  fields:
-  - Edition
-  styles: []
-  dimensions:
-    height: 21
-    width: 15
-    depth: 0
-  description: "Chaque exemplaire comporte une édition photographique dépigmentée
-    unique appelée \"Camion 2021\".  \nÉdition Educ'Arts texte original et poétique
-    de Jean-Pierre Nuaud précisant la démarche d'Aline Isoard, signée au colophon
-    par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
-    \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
-    BNF remis à la Bibliothèque Nationale de France"
-  price: 240
-  sold: false
-  contextual: false
-- title: '"Apparaître,disparaître, être" Détail du livre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-leporello.jpg
-  technique: photographie
-  fields:
-  - Edition
-  styles: []
-  dimensions:
-    height: 21
-    width: 15
-    depth: 0
-  description: "Chaque exemplaire comporte une édition photographique dépigmentée
-    unique.  \nÉdition Educ'Arts texte original et poétique de Jean-Pierre Nuaud précisant
-    la démarche d'Aline Isoard,  signée au colophon par les auteurs.  \n55 exemplaires
-    emboîtage par Atelier Jeanne Frères à Nantes  \n50 exemplaires numérotés de 1/50
-    \ \n4 exemplaires I/IV  \n1 exemplaire désigné BNF remis à la Bibliothèque Nationale
-    de France"
-  price: 240
-  sold: false
-  contextual: false
-- title: 'Pages du Livre "Apparaître, disparaître, être" '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
-    2.jpg
-  technique: photographie
-  fields:
-  - Edition
-  styles: []
-  dimensions:
-    height: 21
-    width: 15
-    depth: 0
-  description: "Chaque exemplaire comporte une édition photographique dépigmentée
-    unique appelée \"Camion 2021\".  \nÉdition Educ'Arts texte original et poétique
-    de Jean-Pierre Nuaud précisant la démarche d'Aline Isoard, signée au colophon
-    par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
-    \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
-    BNF remis à la Bibliothèque Nationale de France"
-  price: 240
-  sold: false
-  contextual: true
 - title: Fenêtre sur route 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
     sur route 6-2020, 60x60cm.jpg
@@ -494,34 +435,65 @@ works:
   price: 900
   sold: false
   contextual: true
-- title: Les objets 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-les
-    objets 10-2019,60x60cm.jpg
-  technique: Photo dépigmentée tirage unique
-  fields: []
+- title: Livre "Apparaître, disparaître, être"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
+    4.jpg
+  technique: ''
+  fields:
+  - Edition
   styles: []
   dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2017"
-  price: 900
+    height: 21
+    width: 15
+    depth: 0
+  description: "Chaque exemplaire comporte une édition photographique dépigmentée
+    unique appelée \"Camion 2021\".  \nÉdition Educ'Arts texte original et poétique
+    de Jean-Pierre Nuaud précisant la démarche d'Aline Isoard, signée au colophon
+    par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
+    \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
+    BNF remis à la Bibliothèque Nationale de France"
+  price: 240
   sold: false
-  contextual: true
-- title: Habitants sur route 8
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-habitants
-    sur route 8-2018, 60x60cm.jpg
-  technique: Photo dépigmentée tirage unique
-  fields: []
+  contextual: false
+- title: 'Pages du Livre "Apparaître, disparaître, être" '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
+    2.jpg
+  technique: photographie
+  fields:
+  - Edition
   styles: []
   dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2018"
-  price: 900
+    height: 21
+    width: 15
+    depth: 0
+  description: "Chaque exemplaire comporte une édition photographique dépigmentée
+    unique appelée \"Camion 2021\".  \nÉdition Educ'Arts texte original et poétique
+    de Jean-Pierre Nuaud précisant la démarche d'Aline Isoard, signée au colophon
+    par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
+    \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
+    BNF remis à la Bibliothèque Nationale de France"
+  price: 240
   sold: false
   contextual: true
+- title: '"Apparaître,disparaître, être" Détail du livre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-leporello.jpg
+  technique: photographie
+  fields:
+  - Edition
+  styles: []
+  dimensions:
+    height: 21
+    width: 15
+    depth: 0
+  description: "Chaque exemplaire comporte une édition photographique dépigmentée
+    unique.  \nÉdition Educ'Arts texte original et poétique de Jean-Pierre Nuaud précisant
+    la démarche d'Aline Isoard,  signée au colophon par les auteurs.  \n55 exemplaires
+    emboîtage par Atelier Jeanne Frères à Nantes  \n50 exemplaires numérotés de 1/50
+    \ \n4 exemplaires I/IV  \n1 exemplaire désigné BNF remis à la Bibliothèque Nationale
+    de France"
+  price: 240
+  sold: false
+  contextual: false
 exhibitions: []
 seo:
   title: ''
