@@ -45,18 +45,32 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
-- title: Fenêtre sur route 9 _2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
-    9-2019,105x76plexi.jpg
+- title: Reflet 3 _2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 3-2020,
+    90x90wa.jpg
   technique: Photo dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
-    height: 105
-    width: 76
+    height: 90
+    width: 90
     depth: 0
-  description: ''
-  price: 2200
+  description: Encadrement verre anti-reflet
+  price: 1800
+  sold: false
+  contextual: true
+- title: Station 7 2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
+    7-2020,60x60w.jpg
+  technique: 'Photographie dépigmentée pièce unique '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Fenêtre sur route GF7 2014
@@ -71,6 +85,20 @@ works:
     depth: 0
   description: Encadrement plexi
   price: 2500
+  sold: false
+  contextual: true
+- title: Fenêtre sur route 9 _2019
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+    9-2019,105x76plexi.jpg
+  technique: Photographie dépigmentée pièce unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 105
+    width: 76
+    depth: 0
+  description: ''
+  price: 2200
   sold: false
   contextual: true
 - title: Habitants sur route 1_2019
@@ -90,20 +118,6 @@ works:
 - title: Pont 19_2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 19-2017,60x60wA.jpg
   technique: Photographie dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
-  sold: false
-  contextual: true
-- title: Station 7 2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
-    7-2020,60x60w.jpg
-  technique: 'Photographie dépigmentée pièce unique '
   fields: []
   styles: []
   dimensions:
