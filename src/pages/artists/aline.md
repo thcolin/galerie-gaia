@@ -103,15 +103,15 @@ works:
 - title: Fenêtre sur route GF12_2015
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     GF12-2015,92x92verre.jpg
-  technique: 'Photographie dépigmentée '
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
     height: 90
     width: 90
     depth: 0
-  description: 'Pièce unique '
-  price: 1500
+  description: Encadrement verre antireflet
+  price: 1800
   sold: false
   contextual: true
 - title: Fenêtre sur route 6_2021
