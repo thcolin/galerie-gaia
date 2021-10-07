@@ -48,14 +48,14 @@ works:
 - title: Habitants sur route 1_2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
     1-2019, 90x90aw.jpg
-  technique: 'Photographie dépigmentée '
+  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
     height: 90
     width: 90
     depth: 0
-  description: Pièce unique
+  description: Encadrement verre antireflet
   price: 1800
   sold: false
   contextual: true
