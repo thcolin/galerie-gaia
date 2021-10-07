@@ -45,20 +45,6 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
-- title: Reflet 3 _2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 3-2020,
-    90x90wa.jpg
-  technique: Photo dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Encadrement verre anti-reflet
-  price: 1800
-  sold: false
-  contextual: true
 - title: Station 7 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
     7-2020,60x60w.jpg
@@ -71,6 +57,34 @@ works:
     depth: 0
   description: Encadrement verre antireflet
   price: 1200
+  sold: false
+  contextual: true
+- title: Habitants sur route 2_2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
+    2-2020,90x90.jpg
+  technique: Photo dépigmentée pièce unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Encadrement verre anti-reflet
+  price: 1800
+  sold: false
+  contextual: true
+- title: Reflet 3 _2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 3-2020,
+    90x90wa.jpg
+  technique: Photo dépigmentée pièce unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Encadrement verre anti-reflet
+  price: 1800
   sold: false
   contextual: true
 - title: Fenêtre sur route GF7 2014
