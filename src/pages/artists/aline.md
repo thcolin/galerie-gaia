@@ -2,6 +2,7 @@
 fields:
 - Photographie
 - Edition
+- Plasticienne
 styles:
 - Figuratif
 - Abstrait

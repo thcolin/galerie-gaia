@@ -21,6 +21,21 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Station 7 2020 par Aline Isoard
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-vitrine.jpg
+  technique: Photographie pigmentée tirage unique
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
+    "Aline ISOARD ")'
+  price: 1200
+  contextual: true
 - title: 'Papier huilé 3 Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
   technique: Acrylique et encre sur papier huilé
@@ -261,22 +276,6 @@ works:
   price: 240
   contextual: false
   technique: Sérigraphie 50 exemplaires
-- title: Station 7 2020 par Aline Isoard
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
-    7-2020,60x60w.jpg
-  technique: Photographie pigmentée tirage unique
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
-    "Aline ISOARD ")'
-  price: 700
-  contextual: true
 - title: Coquillage de Dimitri Roubichou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillage-verso.jpg
   technique: 'Photographie tirage papier baryté 9 exemplaires '
