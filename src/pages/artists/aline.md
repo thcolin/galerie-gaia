@@ -124,8 +124,8 @@ works:
     height: 90
     width: 90
     depth: 0
-  description: ''
-  price: 1500
+  description: Encadrement verre antireflet
+  price: 1800
   sold: false
   contextual: true
 - title: Station 12_2018
@@ -138,8 +138,8 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: Pièce unique
-  price: 900
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Station 5_2017
@@ -152,8 +152,8 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: Pièce unique
-  price: 900
+  description: Encadrement verre antireflet
+  price: 1200
   sold: false
   contextual: true
 - title: Station 6_2016
