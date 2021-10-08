@@ -253,7 +253,7 @@ works:
     height: 
     width: 30
     depth: 0
-  description: "2021"
+  description: "2009"
   price: 500
   sold: false
   contextual: true
@@ -269,39 +269,7 @@ works:
     height: 40
     width: 30
     depth: 0
-  description: "2021"
-  price: 500
-  sold: false
-  contextual: true
-- title: CDC 40_30 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
-    cousu, 30 cm x 40 cm 2021.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: "2021"
-  price: 500
-  sold: false
-  contextual: true
-- title: CDC 40_30 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
-    cousu marouflé sur toile 40 cm x 30 cm.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: "2021"
+  description: "2009"
   price: 500
   sold: false
   contextual: true
