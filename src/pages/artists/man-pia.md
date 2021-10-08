@@ -38,7 +38,7 @@ works:
   price: 2500
   sold: false
   contextual: true
-- title: Dancing in the street - 2021
+- title: Dancing in the street
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-DANCING-IN-THE-STREET-94x184.jpg
   technique: Acrylique
   fields: []
@@ -47,7 +47,7 @@ works:
     height: 94
     width: 184
     depth: 0
-  description: Caisse américaine
+  description: "Caisse américaine chêne   \n2021"
   price: 5500
   sold: false
   contextual: true
