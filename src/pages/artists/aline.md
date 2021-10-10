@@ -56,8 +56,8 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
+  description: Vendu
+  price: 
   sold: false
   contextual: true
 - title: Fenêtre sur route IDF 4_2017
@@ -167,8 +167,8 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
+  description: vendu
+  price: 
   sold: false
   contextual: true
 - title: Fenêtre sur route 3_2019
@@ -453,7 +453,7 @@ works:
     par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
     \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
     BNF remis à la Bibliothèque Nationale de France"
-  price: 240
+  price: 260
   sold: false
   contextual: false
 - title: 'Pages du Livre "Apparaître, disparaître, être" '
@@ -473,28 +473,9 @@ works:
     par les auteurs.  \n55 exemplaires emboîtage par Atelier Jeanne Frères à Nantes
     \ \n50 exemplaires numérotés de 1/50  \n4 exemplaires I/IV  \n1 exemplaire désigné
     BNF remis à la Bibliothèque Nationale de France"
-  price: 240
+  price: 260
   sold: false
   contextual: true
-- title: '"Apparaître,disparaître, être" Détail du livre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-leporello.jpg
-  technique: photographie
-  fields:
-  - Edition
-  styles: []
-  dimensions:
-    height: 21
-    width: 15
-    depth: 0
-  description: "Chaque exemplaire comporte une édition photographique dépigmentée
-    unique.  \nÉdition Educ'Arts texte original et poétique de Jean-Pierre Nuaud précisant
-    la démarche d'Aline Isoard,  signée au colophon par les auteurs.  \n55 exemplaires
-    emboîtage par Atelier Jeanne Frères à Nantes  \n50 exemplaires numérotés de 1/50
-    \ \n4 exemplaires I/IV  \n1 exemplaire désigné BNF remis à la Bibliothèque Nationale
-    de France"
-  price: 240
-  sold: false
-  contextual: false
 exhibitions: []
 seo:
   title: ''
