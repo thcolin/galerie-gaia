@@ -101,15 +101,15 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
 - title: Anouck
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
-  technique: Bronze I/IV
+  technique: Bronze I/IV réservé
   fields: []
   styles: []
   dimensions:
     height: 12
     width: 12
     depth: 5
-  description: "Les 8 premières éditions ont été vendues.   \nReste disponible seulement
-    3 Epreuves d'Artistes "
+  description: "Les 8 premières éditions ont été vendues.  \nReste disponible seulement
+    2 Epreuves d'Artistes"
   price: 2600
   contextual: true
 - title: Les vacances
