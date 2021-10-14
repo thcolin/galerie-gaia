@@ -78,7 +78,7 @@ works:
   price: 290
   sold: false
   contextual: true
-- title: 2020SPp8A
+- title: 2020SPp8A1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_8A - 38x28.jpg
   technique: 'Techique mixte sur papier '
@@ -90,19 +90,19 @@ works:
   price: 290
   sold: false
   contextual: true
-- title: 2017PLp83
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp83.jpg
-  technique: Acrylique et Technique mixte sur bois
+- title: 2020SPp9A2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_8B - 38x28.jpg
+  technique: Technique mixte sur papier
   dimensions:
     height: 150
     width: 150
     depth: 
-  description: ''
-  price: 3500
+  description: Œuvre originale
+  price: 290
   sold: false
   contextual: true
-  fields:
-  - Peinture
+  fields: []
 - title: 2018PLp28a
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp28a.jpg
   technique: ''
