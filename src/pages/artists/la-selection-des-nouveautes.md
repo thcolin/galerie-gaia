@@ -36,6 +36,24 @@ works:
     "Aline ISOARD ")'
   price: 1200
   contextual: true
+- title: Bonne pierre bon oeil 08 par Toma L
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l - litho cadre blanc ES.jpg
+  technique: 'Lithographie '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: |-
+    # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
+
+    prix sur demande
+  price: 350
+  contextual: false
 - title: 'Papier huilé 3 Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
   technique: Acrylique et encre sur papier huilé
@@ -142,23 +160,6 @@ works:
   - Design
   styles:
   - Abstrait
-- title: Abyssale de  Franco Salas Borques Lit de camp Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bathelier-salas-borquez.jpg
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 40
-    width: 81
-    depth: 130
-  description: |-
-    # [Franco Salas Borques](https://galeriegaia.fr/artists/franco-salas-borquez/ "franco salas borques")
-
-    # [Marie Bathellier]()
-  price: ''
-  contextual: false
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
 - title: Ellipse de DAHA Photos Dimitri Roubichou & Rycho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     08.jpg
@@ -172,21 +173,6 @@ works:
     depth: 6
   description: '# [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")'
   price: ''
-  contextual: false
-- title: 3X3X3 par Cindy Belaud
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-3X3X3
-    2.jpeg
-  technique: Sérigraphie 8/10
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: "[Cindy Belaud]() "
-  price: 400
   contextual: false
 - title: Dark and full colors par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
@@ -276,41 +262,6 @@ works:
   price: 240
   contextual: false
   technique: Sérigraphie 50 exemplaires
-- title: Coquillage de Dimitri Roubichou
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillage-verso.jpg
-  technique: 'Photographie tirage papier baryté 9 exemplaires '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 50
-    width: 40
-    depth: 0
-  description: |-
-    # [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/ "dimitri roubichou ")
-
-    Oeuvre encadrée verre musée antireflet
-  price: 400
-  contextual: true
-- title: Petit crade par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l 1-pornichet.jpg
-  technique: 'Mixte sur papier '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 115
-    width: 80
-    depth: 0
-  description: |-
-    # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
-
-    prix sur demande
-  price: ''
-  contextual: false
 - title: Primitive N°3 de Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
   technique: Fer recuit
