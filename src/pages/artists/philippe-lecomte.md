@@ -31,6 +31,55 @@ exhibitions:
   end: 23/11/2019
   start: 7/11/2019
 works:
+- title: 2020SPp3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_3 - 69x62.jpg
+  technique: Mixte sur papier cadre peint
+  dimensions:
+    height: 69
+    width: 62
+    depth: 
+  description: prix encadré
+  price: 650
+  sold: false
+  contextual: true
+- title: 2020SPp5A
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_5A - 28x19.jpg
+  technique: Mixte sur papier
+  dimensions:
+    height: 28
+    width: 19
+    depth: 
+  description: œuvre originale
+  price: 250
+  sold: false
+  contextual: true
+- title: 2020SPp5B
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_5B - 28x19.jpg
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 28
+    width: 19
+    depth: 
+  description: ''
+  price: 250
+  sold: false
+  contextual: true
+- title: 2020SPp42
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_42 - 76x56.jpg
+  technique: 'Technique mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: ''
+  price: 490
+  contextual: true
 - title: 2020SPp49B
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_49B - 38x28.jpg
@@ -69,42 +118,6 @@ works:
     depth: 0
   description: ''
   price: 290
-  contextual: true
-- title: 2020SPp3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
-    - 2020_3 - 69x62.jpg
-  technique: Mixte sur papier cadre peint
-  dimensions:
-    height: 69
-    width: 62
-    depth: 
-  description: prix encadré
-  price: 650
-  sold: false
-  contextual: true
-- title: 2020SPp5A
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
-    - 2020_5A - 28x19.jpg
-  technique: Mixte sur papier
-  dimensions:
-    height: 28
-    width: 19
-    depth: 
-  description: œuvre originale
-  price: 250
-  sold: false
-  contextual: true
-- title: 2020SPp5B
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
-    - 2020_5B - 28x19.jpg
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 28
-    width: 19
-    depth: 
-  description: ''
-  price: 250
-  sold: false
   contextual: true
 - title: 2020SPp8A
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
