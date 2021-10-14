@@ -249,19 +249,20 @@ works:
   price: 1500
   contextual: true
 - title: 'Grand plat Valérie Le Roux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-valerie-leroux-plat
+    orange 36CM 2.jpg
   fields:
-  - Oeuvre sur papier
+  - Céramique
   styles: []
   dimensions:
-    height: 43
-    width: 43
-    depth: 5
-  description: ''
-  price: 240
+    height: 5
+    width: 36
+    depth: 36
+  description: '[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
+    "valerie le roux")'
+  price: 160
   contextual: false
-  technique: Sérigraphie 50 exemplaires
+  technique: Céramique pièce unique
 - title: Primitive N°3 de Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
   technique: Fer recuit
@@ -277,23 +278,6 @@ works:
     Tual")'
   price: 2500
   contextual: false
-- title: Pierre Muckensturm et Jacqueline Pecantet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210501_144743.jpg
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/
-    \"PIERRE MUCKENSTURM\")\n\n## [Jacqueline Pecantet](https://galeriegaia.fr/artists/jacqueline-pecantet/
-    \"pecantet\") "
-  price: ''
-  contextual: true
-  technique: Estampe Muckensturm et grès Jacqueline Pecantet
-  fields:
-  - Oeuvre sur papier
-  - Faience
-  styles:
-  - abstrait
 - title: Alain Clement Morellet The Blind
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-blind-clement-morellet.jpg
   technique: Estampe
