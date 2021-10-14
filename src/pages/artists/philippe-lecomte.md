@@ -31,29 +31,6 @@ exhibitions:
   end: 23/11/2019
   start: 7/11/2019
 works:
-- title: 2017PLp12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp12.jpg
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 80
-    width: 120
-    depth: 
-  description: œuvre encadrée
-  price: 1300
-  sold: false
-  contextual: true
-- title: 2020SPp5A
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
-    - 2020_5A - 28x19.jpg
-  technique: Mixte sur papier
-  dimensions:
-    height: 38
-    width: 28
-    depth: 
-  description: œuvre originale
-  price: 290
-  sold: false
-  contextual: true
 - title: 2020SPp3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_3 - 69x62.jpg
@@ -66,16 +43,28 @@ works:
   price: 650
   sold: false
   contextual: true
+- title: 2020SPp5A
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_5A - 28x19.jpg
+  technique: Mixte sur papier
+  dimensions:
+    height: 28
+    width: 19
+    depth: 
+  description: œuvre originale
+  price: 250
+  sold: false
+  contextual: true
 - title: 2020SPp5B
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_5B - 28x19.jpg
   technique: Technique mixte sur papier
   dimensions:
-    height: 38
-    width: 28
+    height: 28
+    width: 19
     depth: 
-  description: Œuvre originale
-  price: 290
+  description: ''
+  price: 250
   sold: false
   contextual: true
 - title: 2020SPp8A
@@ -164,15 +153,27 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: 2016PLp11
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2016plp11.jpg
-  technique: mixte sur papier
+- title: 2020SPp35
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_35 - 57x42.jpg
+  technique: Technique mixte sur papier
   dimensions:
-    height: 76
-    width: 56
+    height: 57
+    width: 42
     depth: 
-  description: encadré (papier flottant)
-  price: 650
+  description: cadre peint
+  price: 450
+  sold: false
+  contextual: true
+- title: 2017PLp12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp12.jpg
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 80
+    width: 120
+    depth: 
+  description: œuvre encadrée
+  price: 1300
   sold: false
   contextual: true
 - title: Exposition dessin et peinture
