@@ -31,17 +31,6 @@ exhibitions:
   end: 23/11/2019
   start: 7/11/2019
 works:
-- title: 2017PLp12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp12.jpg
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 80
-    width: 120
-    depth: 
-  description: œuvre encadrée
-  price: 1300
-  sold: false
-  contextual: true
 - title: 2020SPp3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_3 - 69x62.jpg
@@ -54,15 +43,27 @@ works:
   price: 650
   sold: false
   contextual: true
-- title: 2018PLp55
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp55.jpg
+- title: 2017PLp12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp12.jpg
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 80
+    width: 120
+    depth: 
+  description: œuvre encadrée
+  price: 1300
+  sold: false
+  contextual: true
+- title: 2020SPp5
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_5A - 28x19.jpg
   technique: Mixte sur papier
   dimensions:
-    height: 120
-    width: 80
+    height: 38
+    width: 28
     depth: 
-  description: prix encadré
-  price: 1300
+  description: œuvre originale
+  price: 290
   sold: false
   contextual: true
 - title: 2018PLp24
