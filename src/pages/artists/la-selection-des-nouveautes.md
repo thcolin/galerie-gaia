@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Nouveautés Rentrée 2021
+title: Nouveautés Automne 2021
 location: ''
 birth: "0"
 death: "0"
