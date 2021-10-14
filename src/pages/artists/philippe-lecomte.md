@@ -98,7 +98,7 @@ works:
     height: 150
     width: 150
     depth: 
-  description: Œuvre originale
+  description: ''
   price: 290
   sold: false
   contextual: true
@@ -111,7 +111,7 @@ works:
     height: 38
     width: 28
     depth: 
-  description: prix avec encadrement
+  description: ''
   price: 280
   sold: false
   contextual: true
@@ -123,7 +123,7 @@ works:
     height: 50
     width: 33
     depth: 
-  description: prix avec encadrement
+  description: ''
   price: 290
   sold: false
   contextual: true
@@ -140,7 +140,7 @@ works:
   sold: false
   contextual: true
   fields: []
-- title: 2020SPp8E
+- title: 2020SPp8F
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_8F - 38x28.jpg
   technique: technique mixte sur papier
