@@ -32,7 +32,7 @@ exhibitions:
   start: 7/11/2019
 works:
 - title: 2017PLp12
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp12.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp12.jpg
   technique: Technique mixte sur papier
   dimensions:
     height: 80
@@ -42,19 +42,20 @@ works:
   price: 1300
   sold: false
   contextual: true
-- title: 2018PLp65
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp65.jpg"
-  technique: Mixte sur papier
+- title: 2020SPp3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_3 - 69x62.jpg
+  technique: Mixte sur papier cadre peint
   dimensions:
-    height: 50
-    width: 65
+    height: 69
+    width: 62
     depth: 
   description: prix encadré
-  price: 490
+  price: 600
   sold: false
   contextual: true
 - title: 2018PLp55
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp55.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp55.jpg
   technique: Mixte sur papier
   dimensions:
     height: 120
@@ -65,7 +66,7 @@ works:
   sold: false
   contextual: true
 - title: 2018PLp24
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp24.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp24.jpg
   technique: Mixte sur papier
   dimensions:
     height: 76
@@ -76,7 +77,7 @@ works:
   sold: false
   contextual: true
 - title: 2018PLp54
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp54.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp54.jpg
   technique: 'Technqiue mixte sur papier '
   dimensions:
     height: 54
@@ -87,7 +88,7 @@ works:
   sold: false
   contextual: true
 - title: 2017PLp83
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp83.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017plp83.jpg
   technique: Acrylique et Technique mixte sur bois
   dimensions:
     height: 150
@@ -100,7 +101,7 @@ works:
   fields:
   - Peinture
 - title: 2018PLp28a
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp28a.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp28a.jpg
   technique: ''
   dimensions:
     height: 38
@@ -111,7 +112,7 @@ works:
   sold: false
   contextual: true
 - title: 2018PLp7a
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp7a.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp7a.jpg
   technique: ''
   dimensions:
     height: 50
@@ -122,7 +123,7 @@ works:
   sold: false
   contextual: true
 - title: 2018PLp101
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp101.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp101.jpg
   technique: technique mixte sur toile
   dimensions:
     height: 30
@@ -135,7 +136,7 @@ works:
   fields:
   - Peinture
 - title: 2018PLp73
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp73.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp73.jpg
   technique: technique mixte sur papier
   dimensions:
     height: 56
@@ -146,7 +147,7 @@ works:
   sold: false
   contextual: true
 - title: 2018PLp45
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp45.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp45.jpg
   technique: mixte sur papier
   dimensions:
     height: 76
@@ -157,7 +158,7 @@ works:
   sold: false
   contextual: true
 - title: 2016PLp11
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2016plp11.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2016plp11.jpg
   technique: mixte sur papier
   dimensions:
     height: 76
@@ -168,7 +169,7 @@ works:
   sold: false
   contextual: true
 - title: Exposition dessin et peinture
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-dessin-et-peinture.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-dessin-et-peinture.jpg
   technique: ''
   dimensions:
     height: 
