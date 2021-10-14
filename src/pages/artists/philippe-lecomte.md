@@ -118,13 +118,13 @@ works:
 - title: 2020SPp8D
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_8D - 38x28.jpg
-  technique: ''
+  technique: Technique mixte sur papier
   dimensions:
     height: 50
     width: 33
     depth: 
   description: prix avec encadrement
-  price: 380
+  price: 290
   sold: false
   contextual: true
 - title: 2020SPp8E
@@ -140,15 +140,16 @@ works:
   sold: false
   contextual: true
   fields: []
-- title: 2018PLp73
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp73.jpg
+- title: 2020SPp8E
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_8F - 38x28.jpg
   technique: technique mixte sur papier
   dimensions:
-    height: 56
-    width: 38
+    height: 38
+    width: 28
     depth: 
-  description: encadré
-  price: 380
+  description: ''
+  price: 290
   sold: false
   contextual: true
 - title: 2018PLp45
