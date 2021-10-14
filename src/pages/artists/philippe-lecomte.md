@@ -152,15 +152,16 @@ works:
   price: 290
   sold: false
   contextual: true
-- title: 2018PLp45
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2018plp45.jpg
-  technique: mixte sur papier
+- title: 2020SPp34
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
+    - 2020_34 - 36x36.jpg
+  technique: Technique mixte sur papier
   dimensions:
-    height: 76
-    width: 56
+    height: 36
+    width: 36
     depth: 
-  description: encadré
-  price: 490
+  description: ''
+  price: 350
   sold: false
   contextual: true
 - title: 2016PLp11
