@@ -176,6 +176,20 @@ works:
   price: 
   sold: false
   contextual: false
+- title: 'Portrait '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-Jacques
+    Le Brusq.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Jacques Le Brusq"
+  price: 
+  sold: false
+  contextual: false
 exhibitions:
 - title: ''
   location: ''
