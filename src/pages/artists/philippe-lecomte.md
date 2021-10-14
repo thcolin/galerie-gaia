@@ -51,7 +51,7 @@ works:
     width: 62
     depth: 
   description: prix encadré
-  price: 600
+  price: 650
   sold: false
   contextual: true
 - title: 2018PLp55
