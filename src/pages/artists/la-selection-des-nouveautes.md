@@ -54,6 +54,27 @@ works:
     prix sur demande
   price: 350
   contextual: false
+- title: Livre coffret François Morellet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
+  technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
+    Velin Arches 240gr.
+  fields:
+  - Edition
+  styles:
+  - Abstrait
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: "[Francois Morellet](https://galeriegaia.fr/artists/morellet-francois/
+    \"françois morellet\")\n\nLivre d'artiste composé de 11 lithographies N°6/30  \nCe
+    coffret appartient aux réserves de l'éditeur nantais Jean Pierre Nuaud qui a édité
+    pour l'association René de Tréméac ce coffret de 11 lithographies originales signées
+    et numérotées de 1 à 30 sur papier Velin Arches 240gr.Le coffret est en parfait
+    état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a
+    donné un état de conservation parfait.\n\nRARE et superbe"
+  price: 6000
+  contextual: false
 - title: 'Papier huilé 3 Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
   technique: Acrylique et encre sur papier huilé
@@ -80,18 +101,6 @@ works:
     depth: 0
   description: "# [Isthme]()"
   price: ''
-  contextual: false
-- title: Fresque Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A0072rec.jpg
-  technique: Fresque mural projet personnalisable
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: '# [Jeronimo Tangui Robert Gaetan Chevrier](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/
-    "collectif seuil")'
-  price: ''
-  sold: false
   contextual: false
 - title: Trois veilleurs de Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
@@ -141,38 +150,6 @@ works:
   description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
     "franco salas borques")'
   price: 12000
-  contextual: false
-- title: Lit de camp et sculpture de Marie Bathellier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    04.jpg
-  dimensions:
-    height: 43
-    width: 70
-    depth: 188
-  description: |-
-    # [Marie Bathellier]()
-
-    Publication Côté Ouest Septembre 2021
-  price: 900
-  contextual: false
-  technique: Acrylique sur bâche
-  fields:
-  - Design
-  styles:
-  - Abstrait
-- title: Ellipse de DAHA Photos Dimitri Roubichou & Rycho
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    08.jpg
-  technique: ''
-  fields:
-  - Design
-  styles: []
-  dimensions:
-    height: 15
-    width: 9
-    depth: 6
-  description: '# [DAHA](https://galeriegaia.fr/artists/daha-daha/ "damien hamon DAHA")'
-  price: ''
   contextual: false
 - title: Dark and full colors par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg

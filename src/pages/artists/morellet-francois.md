@@ -1,6 +1,7 @@
 ---
 fields:
 - Oeuvre sur papier
+- Edition
 styles:
 - Abstrait
 template: artist
@@ -36,7 +37,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
   technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
     Velin Arches 240gr.
-  fields: []
+  fields:
+  - Edition
   styles: []
   dimensions:
     height: 30
@@ -55,7 +57,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Morellet
     - Coffret Recto.jpg
   technique: Coffret comprenant 11 lithographies n° 6/30
-  fields: []
+  fields:
+  - Edition
   styles: []
   dimensions:
     height: 31
