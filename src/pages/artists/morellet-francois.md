@@ -94,7 +94,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Hasards système et téléphone 9
@@ -120,7 +120,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Hasards système et téléphone 7
@@ -133,7 +133,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   sold: false
   contextual: true
 - fields: []
@@ -143,7 +143,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   contextual: true
   title: Hasards système et téléphone 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-6.jpg
@@ -159,7 +159,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Hasards système et téléphone 4
@@ -172,7 +172,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Hasards système et téléphone 3
