@@ -32,6 +32,44 @@ biography: |-
 
   Dans les années 2000, de nombreuses rétrospectives et expositions sont organisées en Europe (Galerie nationale du Jeu de Paume à Paris, musée Matisse du Cateau-Cambrésis, espace du Stiftung für Konkrete Kunst de Reutlingen en Allemagne…), au Brésil (Fondation Hélio Oiticica de Rio de Janeiro) . En 2010, il est le deuxième artiste vivant à réaliser une œuvre pérenne  au [Musée du Louvre](https://www.louvre.fr/hommage-francois-morellet "Morellet louvre"). En 2011, son exposition « Réinstallations » au Centre Pompidou est sa 455ème exposition personnelle.
 works:
+- title: 'Intégralité du coffret des 11 lithographies '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
+  technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
+    Velin Arches 240gr.
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: |-
+    Ce coffret appartient aux réserves de l'éditeur nantais Jean Pierre Nuaud qui a édité pour l'association René de Tréméac ce coffret de 11 lithographies originales signées et numérotées de 1 à 30 sur papier Velin Arches 240gr.
+
+    Le coffret est en parfait état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a donné un état de conservation parfait.
+
+    RARE et superbe
+  price: 6000
+  sold: false
+  contextual: false
+- title: 'Livre Coffret Systemes, Hasard et Telephone '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Morellet
+    - Coffret Recto.jpg
+  technique: Coffret comprenant 11 lithographies n° 6/30
+  fields: []
+  styles: []
+  dimensions:
+    height: 31
+    width: 26
+    depth: 2
+  description: |-
+    Ce coffret appartient aux réserves de l'éditeur nantais Jean Pierre Nuaud qui a édité pour l'association René de Tréméac ce coffret de 11 lithographies originales signées et numérotées de 1 à 30 sur papier Velin Arches 240gr.
+
+    Le coffret est en parfait état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a donné un état de conservation parfait.
+
+    RARE et superbe
+  price: 6000
+  sold: false
+  contextual: false
 - title: Hasards système et téléphone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-10.jpg
   technique: Lithographie
