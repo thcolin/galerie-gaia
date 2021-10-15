@@ -70,6 +70,20 @@ works:
   price: 6000
   sold: false
   contextual: false
+- title: '1ere page  et colophon signés '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Morellet
+    - Coffret global - 02.jpg
+  technique: Sur papier Velin Arches 240gr.
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 6000
+  sold: false
+  contextual: false
 - title: Hasards système et téléphone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-10.jpg
   technique: Lithographie
@@ -171,7 +185,7 @@ works:
     width: 25
     depth: 
   description: ''
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Hasards système et téléphone 2
@@ -184,7 +198,7 @@ works:
     width: 25
     depth: 
   description: Non disponible
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Hasards système et téléphone 1
@@ -197,7 +211,7 @@ works:
     width: 25
     depth: 
   description: 'Signé main en bas à droite '
-  price: 450
+  price: 
   sold: false
   contextual: true
 - title: Documentation source 1
