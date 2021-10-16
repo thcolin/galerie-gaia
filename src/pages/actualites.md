@@ -933,5 +933,13 @@ articles:
     peintre, elle se dit photographe,_ 2019 (extrait)\n\n[Jacques Py, critique d’art](https://www.archivesdelacritiquedart.org/auteur/py-jacques
     \"Jacques Py\")\n\nExposition du 6 au 30 Octobre 2021  \nVernissage 6/10/21 18H
     \ \nOuverture Dimanche 10 Octobre 14H "
+- template: article
+  date: '2021-10-16T09:52:01Z'
+  categories:
+  - Interview
+  title: Interview Aline Isoard Auto-Fiction
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A.ISOARDafficheQPN.jpg
+  content: '[Interview Aline Isoard](https://www.youtube.com/watch?v=IJa9MaLJCpQ "Aline
+    Isoard Quinzaine photographique nantaise")'
 
 ---
