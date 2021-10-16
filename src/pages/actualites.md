@@ -891,9 +891,10 @@ articles:
   - Interview
   title: Interview Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES_M__Pornichet_HD_2.JPG
-  content: "[interview  par la galerie Gaïa de Versants](https://youtu.be/DxkvbjnGL4E
-    \"interview Versants\") \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    01.jpg)"
+  content: |-
+    [Interview Décadrée de Versants par Elisabeth Givre](https://www.youtube.com/watch?v=DxkvbjnGL4E "tangui robert jeronimo gaetan chevrier")
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa- 01.jpg)
 - template: article
   date: '2021-09-04T09:19:43Z'
   categories:
