@@ -63,9 +63,9 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   univers. Le paysage qu’il voit, n’est pas tant celui qui se trouve devant ses yeux
   que celui qui lui traverse le corps. »_  \n**Christophe Cesbron**, extrait de _Peindre
   sous le temps_, Jacques Le Brusq, éditions Domaine de Kerguéhennec, octobre 2013\n\n**Expositions
-  à venir :**\n\n2021 (mai-septembre) Fougères Musée de la Villéon \" Paysages, Paysages
-  \" Commissariat Samuel Linard  \n2021 Automne Galerie Gaïa commissariat Elisabeth
-  Givre\n\n**Expositions personnelles :**\n\n2020 Juin-Décembre  Musée Robert Tatin
+  personnelles :**\n\n2021 Novembre \"La présence au monde\" Galerie Gaïa commissariat
+  Elisabeth Givre\n\n2021 (mai-septembre) Fougères Musée de la Villéon \" Paysages,
+  Paysages \" Commissariat Samuel Linard  \n2020 Juin-Décembre  Musée Robert Tatin
   - \" Du Morbihan à la Frénouse, aux abords du pays où la lumière ne fait point d'ombre
   \" - commissariat Bruno Godivier - édition d'un catalogue  \n2020 Juillet- Novembre
   Vannes Musée des Beaux-Arts  La Cohue \" Terres et Landes , Paysages de Bretagne
@@ -191,10 +191,10 @@ works:
   sold: false
   contextual: false
 exhibitions:
-- title: ''
-  location: ''
-  start: ''
-  end: ''
+- title: La présence au monde
+  location: Nantes Galerie Gaia
+  start: 4/11/21
+  end: 20/11/21
 seo:
   title: ''
   heading: ''
