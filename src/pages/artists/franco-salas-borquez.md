@@ -62,56 +62,6 @@ works:
     Pensez cette toile comme une fresque murale, visible à la galerie
   price: 12000
   contextual: true
-- title: Portrait d'une vague
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai-franco-salas-borquez-Huile
-    sur toile 100 x50 cm 2021 Portrait d'une vague.JPG
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 100
-    depth: 0
-  description: Œuvre encadrée caisse américaine noire
-  price: 2200
-  contextual: true
-  technique: Huile sur toile
-- title: Exposition La Marche des flots Médiathèque Pornichet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Exposition du 6 au 18 Juillet 2021 Médiathèque Pornichet '
-  price: ''
-  contextual: true
-- title: Abyssale
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Abyssale
-    200 x 300 cm huile sur toile 2020.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 200
-    width: 300
-    depth: 0
-  description: Œuvre en réserve. Visible sur rendez-vous
-  price: 12000
-  contextual: false
-- title: Nocturne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Nocturne
-    120 x 200 cm  huile sur toile 2020.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 200
-    depth: 0
-  description: Réservée
-  price: ''
-  contextual: true
 - title: 'Le duel '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Le
     duel 130 x 130 cm huile sur toile 2021.JPG
@@ -124,20 +74,6 @@ works:
     depth: 0
   description: ''
   price: 4200
-  contextual: true
-- title: L'agitation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-L'agitation
-    pastel 70 x 50 cm  2020.jpg
-  technique: 'Pastel sur papier '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 77
-    width: 57
-    depth: 0
-  description: '2021 encadrement compris sous verre '
-  price: 1700
   contextual: true
 - title: Déferlante
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Défèrlante  100  x
@@ -152,42 +88,46 @@ works:
   description: "2021"
   price: 3200
   contextual: true
-- title: Contraste
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Contraste
-    100 x 100 cm  Huile sur toile 2021.JPG
+- title: Abyssale
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Abyssale
+    200 x 300 cm huile sur toile 2020.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 100
-    width: 100
+    height: 200
+    width: 300
     depth: 0
-  description: "2021"
-  price: 3200
+  description: Œuvre en réserve. Visible sur rendez-vous
+  price: 12000
+  contextual: false
+- title: L'agitation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-L'agitation
+    pastel 70 x 50 cm  2020.jpg
+  technique: 'Pastel sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 77
+    width: 57
+    depth: 0
+  description: '2021 encadrement compris sous verre '
+  price: 1700
   contextual: true
-- title: Terre et mer
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Terre
-    et mer 100 x 100 cm huile sur toile 2021.JPG
+- title: Nocturne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Nocturne
+    120 x 200 cm  huile sur toile 2020.JPG
   technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 100
-    width: 100
+    height: 120
+    width: 200
     depth: 0
-  description: "2021"
-  price: 3200
+  description: Réservée
+  price: ''
   contextual: true
-- title: Vague hurlante
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@francosalasborquez-Vague
-    hurlante-130 x 81 2019.jpg
-  description: ''
-  price: 3200
-  dimensions:
-    height: 81
-    width: 130
-  contextual: true
-  technique: 'Huile sur toile '
 - title: Vague hurlante en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
     cap.jpg
@@ -201,28 +141,6 @@ works:
   description: ''
   price: 3200
   contextual: false
-- title: La fraction
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-salas-borques-friction-100x100.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2020"
-  price: 3200
-  contextual: true
-- title: Elément
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 100
-    width: 100
-  description: Réservée
-  price: 3200
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-element-100x100.JPG
-  sold: false
 - title: 'Dessin '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_SalasBorques_titre_format
     50X70.jpeg
@@ -236,6 +154,17 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
+- title: Exposition La Marche des flots Médiathèque Pornichet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Exposition du 6 au 18 Juillet 2021 Médiathèque Pornichet '
+  price: ''
+  contextual: true
 - title: Exposition Le Sillage St Malo 2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
     salas borquez -expo st malo1.JPG
@@ -245,28 +174,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: true
-- title: L'océan aveugle
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/l-ocean-aveugle.jpg
-  technique: huile sur toile 2016
-  dimensions:
-    height: 273
-    width: 159
-    depth: 
-  description: ''
-  price: 8000
-  sold: false
-  contextual: true
-- title: le chaos et l'ordre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-chaos-et-lordre.jpg
-  technique: huile sur toile 2016
-  dimensions:
-    height: 182
-    width: 260
-    depth: 
-  description: prix sur demande
-  price: 
-  sold: false
   contextual: true
 - title: la furie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-furie.jpg

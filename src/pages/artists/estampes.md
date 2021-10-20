@@ -11,6 +11,19 @@ biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEG
   JAFFE GAROUSTE "
 exhibitions: []
 works:
+- title: 'Georg Baselitz - Sigmund '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
+  technique: Eau forte (15/15)
+  dimensions:
+    height: 85
+    width: 63
+    depth: 
+  description: "# Georg Baselitz"
+  price: 3200
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: 'Hervé Di Rosa - Le promeneur '
   technique: Eau forte 48/60 1987
   fields: []
@@ -114,19 +127,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tapies-maeght72x56.jpg
   styles:
   - Abstrait
-- title: 'Georg Baselitz - Sigmund '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
-  technique: Eau forte (15/15)
-  dimensions:
-    height: 85
-    width: 63
-    depth: 
-  description: "# Georg Baselitz"
-  price: 2900
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: 'Valérie Bonduelle '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-valérie-bonduelle.jpg
   technique: Lithographie pièce unique 1987
