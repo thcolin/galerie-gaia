@@ -159,7 +159,7 @@ works:
   sold: false
   contextual: true
 - title: Pont 19_2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 19-2017,60x60wA.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 18-2021,60x60wa.jpg
   technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
