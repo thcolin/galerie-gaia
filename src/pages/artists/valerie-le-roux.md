@@ -24,6 +24,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Trio algues 58
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
+    algues 92x45  58.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 45
+    width: 92
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
 - title: Grand plat algue orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-valerie-leroux-plat
     orange 36CM.jpg
@@ -51,20 +65,6 @@ works:
   description: Vendu
   price: 240
   contextual: false
-- title: Trio algues 58
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
-    algues 92x45  58.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 45
-    width: 92
-    depth: 0
-  description: ''
-  price: 90
-  contextual: true
 - title: Algue curry 35
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
     35.jpg
