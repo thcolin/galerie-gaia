@@ -134,10 +134,10 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
-- title: Territoire Noir/Blanc - 3/12
+- title: Territoire Noir/Blanc - /10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
     Noir:Blanc-3:12-76,5x57.jpg
-  technique: Lithographie en 12 exemplaires + Collage papier japon
+  technique: Lithographie en 10 exemplaires + Collage papier japon
   fields: []
   styles: []
   dimensions:
@@ -252,19 +252,6 @@ works:
   description: 2021 Musée de l'imprimerie de Nantes
   price: 380
   contextual: true
-- title: Britany
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_isthme_britany_76x59.jpg
-  technique: Collage sur papier Arche
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 76
-    width: 59
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
 - title: 'Green Rhapsody #7'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-green-rhapsody-collage-7-76x56-2016.jpg
   technique: Collage
@@ -287,30 +274,6 @@ works:
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg
   technique: Collage
-  fields:
-  - Oeuvre sur papier
-- title: 'Territoires Noir/ Blanc #4'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-territoires-noir-blanc-13-76x56cm-2017.jpg
-  technique: 'Collage '
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "2017"
-  price: 750
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Territoires Noir/ Blanc #10'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-territoires-noir-blanc-10-2017-76x57cm.jpg
-  technique: 'Collage '
-  dimensions:
-    height: 76
-    width: 57
-    depth: 0
-  description: "2017"
-  price: 750
-  contextual: true
   fields:
   - Oeuvre sur papier
 - title: 'Cou-Rage #1'
