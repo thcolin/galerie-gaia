@@ -35,7 +35,7 @@ works:
     height: 36
     width: 36
     depth: 7
-  description: Pièce unique
+  description: Pièce unique Vendu
   price: 160
   contextual: false
 - title: Grand plat bleu et ocre
@@ -48,7 +48,7 @@ works:
     height: 5
     width: 43
     depth: 43
-  description: ''
+  description: Vendu
   price: 240
   contextual: false
 - title: Trio algues 58
