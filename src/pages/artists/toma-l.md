@@ -9,7 +9,7 @@ birth: ''
 death: ''
 expose: true
 biography: "# Toma L\n\n## [catalogue toma l](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_gaiagalerie_19novembre2020.pdf
-  \"toma l thomas l thomas labarte labarthe\") \n\n« Je compose en associant les pleins
+  \"toma l thomas l thomas labarte labarthe\")\n\n« Je compose en associant les pleins
   et les vides. Les masses sont sombres, moyennes et claires. La lumière vient de
   la toile ou de la couleur. Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes
   formes sont des personnages vivants, son geste souple. Reconnaît-on, ici, à l’endroit,
@@ -101,20 +101,6 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Dark and full colors
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019012701-darkandfullcolors-160x200cm.jpg
-  technique: Tecnique mixte sur toile, châssis à clef
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 160
-    width: 200
-    depth: 0
-  description: '2019 Prix sur demande '
-  price: ''
-  contextual: true
 - title: 'Brut and simple colors '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019111601-BrutAndSimpleColor-1-2-162x130cm.jpg
@@ -127,6 +113,20 @@ works:
     width: 130
     depth: 0
   description: 2019 Prix sur demande
+  price: ''
+  contextual: true
+- title: Dark and full colors
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019012701-darkandfullcolors-160x200cm.jpg
+  technique: Tecnique mixte sur toile, châssis à clef
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 160
+    width: 200
+    depth: 0
+  description: '2019 Prix sur demande '
   price: ''
   contextual: true
 - title: 'Brut and Simple colors dans l''atelier '
@@ -223,17 +223,6 @@ works:
     depth: 0
   description: "2017"
   price: 0
-  contextual: true
-- title: Querelle carbone 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040101-querellecarbone10-150x140cm.jpg
-  technique: 'Technique mixte sur papier cadre '
-  dimensions:
-    height: 150
-    width: 140
-    depth: 0
-  description: "châssis et cadre à choisir selon votre projet d'installation  \nprix
-    sur le catalogue ou sur demande"
-  price: ''
   contextual: true
 - title: Simple color en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_2017_situation_0010.jpg
@@ -377,17 +366,6 @@ works:
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
-- title: 'Red Canaille '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/red-canaille.jpg
-  technique: Technique mixte sur papier marouflée sur toile en lin châssis à clefs
-  dimensions:
-    height: 162
-    width: 114
-    depth: 
-  description: Vendue
-  price: ''
-  sold: false
-  contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
   technique: 'Technique mixte sur bois '
