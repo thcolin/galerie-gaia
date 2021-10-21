@@ -1,15 +1,15 @@
 ---
 template: about
 content:
-- column: "# Défiscaliser : la location  d'oeuvres d'art en entreprise?\n\n## Marque
+- column: "# Défiscaliser : la location  d’œuvres d'art en entreprise?\n\n## Marque
     employeur RSE bien-être au travail grâce à l'art\n\nDans des **bureaux nouvelles
     générations,** la tendance de fond va bien au-delà d'un mobilier design, d'une
     table de ping-pong pour donner une ambiance chaleureuse et renforcer l'identité
     de votre entreprise **auprès de vos clients et collaborateurs.**  \nComment concrétiser
     les intentions de la **RSE**, comment renforcer **la marque employeur**, comment
     rendre concret le **bien-être au travail** ?  \nToutes ces intentions peuvent
-    être **boostées par l'installation d’œuvres d'artistes** qui humanisent l'espace,
-    améliorent la créativité et stimulent l'esprit coopératif.\n\nAprès la définition
+    être **boostées par l'installation d’œuvres d'artistes** **qui humanisent l'espace,
+    améliorent la créativité et stimulent l'esprit coopératif.**\n\nAprès la définition
     de votre projet, je vous accompagne dans chaque étape :\n\n* **Sélection d’œuvres
     disponibles dans le** [**catalogue**](https://galeriegaia.fr/catalogue/ \"catalogue
     galerie gaia\") **sur le site** de la galerie (photos - sérigraphies - sculptures-
@@ -23,15 +23,16 @@ content:
     \"conception oeuvre\")\n\n## Louer ou acheter une œuvre ?\n\nDeux solutions adaptées
     à des choix stratégiques patrimoniaux et fiscaux différents pour valoriser vos
     espaces de travail.\n\n## **1 . La location financière - leasing**\n\nJ'ai retenu
-    le professionnalisme de la société [ALFRED](), pour faciliter l'accès à des œuvres
-    d'art avec la location & option d'achat à la fin du contrat.\n\n* **Capacité d'emprunt**
-    préservée et haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat**
-    de **13 à 60 mois**\n* Déduction du résultat imposable et **réduction de l'IS
-    (entreprises)** ou **IRPP (professions libérales)**\n* Au terme du contrat un
-    transfert de propriété vous est proposé;\n* Cela concerne des **artistes vivants
-    ou non**\n\n**Calcul pour une œuvre de 3500€ & 24 mois :**\n\n* loyer mensuel
-    terme à échoir 193€ HT\n* économies d'impôts générées 1296€ HT\n* coût global
-    hors économies de charges sociales, IR = 3332€ HT\n  * _Les loyers sont une charge
+    le professionnalisme de la société [BAIL ART,](https://bail-art.com/financement/
+    \"BAIL ART SIMULATEUR\") pour faciliter l'accès à des œuvres d'art avec la location
+    & option d'achat à la fin du contrat, la LOA.\n\n* **Capacité d'emprunt** préservée
+    et haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13 à
+    48 mois**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
+    ou **IRPP (professions libérales)**\n* Au terme du contrat un transfert de propriété
+    vous est proposé une valeur résiduelle de 5%\n* Cela concerne des **artistes vivants
+    ou non**\n\n**Calcul pour une œuvre de 5000€ & 24 mois :**\n\n* loyer mensuel
+    terme à échoir 273€ HT\n* économies d'impôts générées 1905€ HT\n* coût global
+    hors économies de charges sociales, IR = 4647€ HT\n  * _Les loyers sont une charge
     déductible et génèrent une économie d'IS estimée à 28 %_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_Fondation_28x37
     cadré.jpg)  \n_\"Fondation\" bronze Isabelle Healy_\n\n## **2. L'achat en défiscalisation**\n\nCette
     niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
@@ -45,7 +46,7 @@ content:
     :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire\n* La déduction
     annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005
     = 1750€ de plafond annuel déductible\n* Déduction annuelle de l' IS   7000€ /
-    5 ans = 1400€\n\n_données chiffrées novembre 2020_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@boisrond-omr.jpg)"
+    5 ans = 1400€\n\n_données chiffrées novembre 2021_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@boisrond-omr.jpg)"
   contact:
     display: true
     placeholder: Renseignement location & défiscalisation
