@@ -59,6 +59,20 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- fields: []
+  styles: []
+  dimensions:
+    height: 155
+    width: 120
+    depth: 0
+  description: Lors d'une séance...
+  price: 3200
+  contextual: true
+  title: Ensemble 10mn
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-ensemble-155X120.jpeg
+  technique: Aquarelle senelier = rehauts de pastel à l'huile papier arche marouflé
+    sur cp peuplier
+  sold: false
 - title: Emile 2021-04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
   technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
