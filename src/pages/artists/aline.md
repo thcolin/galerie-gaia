@@ -154,7 +154,7 @@ works:
     height: 90
     width: 90
     depth: 0
-  description: Encadrement verre antireflet
+  description: Vendu
   price: 1800
   sold: false
   contextual: true
