@@ -65,12 +65,14 @@ works:
     height: 155
     width: 120
     depth: 0
-  description: Lors d'une séance...
+  description: Lors d’une séance de modèle vivant, sur grand format, j’ai exécuté
+    cette aquarelle de manière intense et libre. C’est un crayonné gestuel, aquarellé
+    qui tente de capter la vie de ce couple fugace.
   price: 3200
   contextual: true
   title: Ensemble 10mn
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-ensemble-155X120.jpeg
-  technique: Aquarelle senelier = rehauts de pastel à l'huile papier arche marouflé
+  technique: Aquarelle senelier + rehauts de pastel à l'huile papier arche marouflé
     sur cp peuplier
   sold: false
 - title: Emile 2021-04
