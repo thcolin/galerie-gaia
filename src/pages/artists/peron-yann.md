@@ -59,6 +59,21 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- title: Détail Emile 2021_04
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-détail
+    emile-S.jpg
+  technique: 'Aquarelle Sennelier + rehauts de pastel à l''huile / Papier arche marouflé
+    sur cp peuplier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 203
+    width: 104.5
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: ALICE 1-06
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-alice1-06.JPG
   technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
