@@ -139,6 +139,23 @@ works:
   price: 6000
   sold: false
   contextual: true
+- fields: []
+  styles: []
+  dimensions:
+    height: 95
+    width: 95
+    depth: 0
+  description: |-
+    L’huile projetée sur la toile de lin à grands coups de pinceaux, superposée à un contour de graphite tantôt effacé, tantôt essuyé, confèrent au sujet pourtant statique un mouvement d’introspection ou d’implosion. On a l’impression que l’homme tombe à l’intérieur de lui- même au passage de l’an 2000, année de réalisation de cette peinture d’après modèle vivant.
+
+    Le rouge incandescent de son corps l’illumine de ses entrailles rageuses et résignées. Acceptation, souffrance et force de vivre.
+  price: 6500
+  contextual: true
+  title: IMPLOSION
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-implosion.JPG
+  technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
+    châssis bois
+  sold: false
 - title: Salomé 2015-02
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
