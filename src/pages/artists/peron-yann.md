@@ -59,6 +59,23 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- title: ALICE 1-06
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-alice1-06.JPG
+  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 132
+    width: 85
+    depth: 0
+  description: Huile et aquarelle ne se mélangent pas. Cela crée des traces de gouttes
+    séchées, des empreintes qui nourrissent le sujet devenu secondaire. La force de
+    ce tableau est cette confrontation du haut et du bas dans laquelle Alice se dissous.
+    C’est une matière aquarellée qui s’ancre dans les couleurs grasses et huileuses.
+  price: 2500
+  sold: false
+  contextual: true
 - fields: []
   styles: []
   dimensions:
