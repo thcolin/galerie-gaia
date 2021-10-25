@@ -29,6 +29,19 @@ biography: |-
   [Vidéo](https://youtu.be/unMbFirj_Jo "dimitri bourriau") de Dimitri Bourriau avec Paul et Clément dans leurs aventures
 exhibitions: []
 works:
+- title: Cochlea
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_Cochlea_2019.jpg
+  technique: 'Atlantis Teatro Tirage Argentique, contrecollé sur Dibon '
+  fields: []
+  styles: []
+  dimensions:
+    height: 149
+    width: 100
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Atlantis Teatro
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg
   technique: Tirage Argentique, contrecollé sur Dibon N°4/15
