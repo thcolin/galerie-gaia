@@ -31,7 +31,7 @@ exhibitions: []
 works:
 - title: Cochlea
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_Cochlea_2019.jpg
-  technique: 'Atlantis Teatro Tirage Argentique, contrecollé sur Dibon '
+  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
   fields: []
   styles: []
   dimensions:
@@ -39,12 +39,12 @@ works:
     width: 100
     depth: 0
   description: ''
-  price: 
+  price: 3500
   sold: false
   contextual: true
 - title: Atlantis Teatro
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg
-  technique: Tirage Argentique, contrecollé sur Dibon N°4/15
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-DimitriBourriau_AtlantisTeatro_2020.jpg
+  technique: Tirage papier contrecollé sur Dibon N°4/15
   dimensions:
     height: 100
     width: 159
