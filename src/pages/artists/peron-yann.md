@@ -89,7 +89,7 @@ works:
   price: 7900
   sold: false
   contextual: true
-- title: ALICE 1-06
+- title: Alice 1-06
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-alice1-06.JPG
   technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
     sur cp peuplier
@@ -180,15 +180,20 @@ works:
 - title: Marie 2015-03
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
-    peuplier
+    peuplier Cadre frêne thermo-chauffé profondeur 5 cm, huilé.
   fields: []
   styles: []
   dimensions:
     height: 171
     width: 120
     depth: 0
-  description: "Format tableau hors cadre : 161 x 110 cm  \nCadre frêne thermo-chauffé
-    profondeur 5 cm, huilé."
+  description: "Format tableau hors cadre : 161 x 110 cm  \n  \nCette œuvre a été
+    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
+    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
+    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCette peinture gestuelle met en
+    lumière malgré la position de retrait du modèle avec ses mains levées, la délicatesse
+    du ventre, des cuisses par contraste face le fond noir et gris. L’emploi de la
+    couleur en traits gras affine le contours du corps de la femme si fragile si vivante."
   price: 5600
   sold: false
   contextual: true
