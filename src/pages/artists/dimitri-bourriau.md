@@ -29,56 +29,9 @@ biography: |-
   [Vidéo](https://youtu.be/unMbFirj_Jo "dimitri bourriau") de Dimitri Bourriau avec Paul et Clément dans leurs aventures
 exhibitions: []
 works:
-- title: Théâtre de Bel Air
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg"
-  technique: Photographie sur papier baryté collé dibond
-  dimensions:
-    height: 30
-    width: 45
-    depth: 
-  description: "Septembre 2020 -Oeuvre vendue avec caisse américaine noire \n\nCe
-    théâtre est situé à Nantes et il est utilisé pour des répétitions par des compagnies
-    de théâtre. Répertorié et classé, son devenir est encore inconnu, mais l'atmosphère
-    qui s'en dégage est étonnant quand on imagine les applaudissements, les rires,
-    les bruits de stupeurs qui ont du faire vibrer plusieurs générations de spectateurs.
-    Hâte de retrouver nos spectacles vivants. "
-  price: 450
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Snow storm
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg"
-  technique: Photographie Tirage papier contrecollé dibond
-  dimensions:
-    height: 150
-    width: 100
-    depth: 
-  description: "Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
-    \n\n[vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 \"dimitri bourriau\")
-    du 1er lancement du programme Buran  \nPrix sur demande"
-  price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Bank
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg"
-  technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
-  dimensions:
-    height: 120
-    width: 80
-    depth: 
-  description: "2017 Bureau du directeur de la Caisse d'Epargne d'une bourgade normande
-    \n\nencadrement caisse US livraison à domicile  \nPrix sur demande"
-  price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: Atlantis Teatro
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg"
-  technique: Tirage Argentique, contrecollé sur Dibon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_AtlantisTeatro_2020.jpg
+  technique: Tirage Argentique, contrecollé sur Dibon N°4/15
   dimensions:
     height: 100
     width: 159
@@ -106,8 +59,55 @@ works:
   contextual: true
   fields: []
   styles: []
+- title: Théâtre de Bel Air
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg
+  technique: Photographie sur papier baryté collé dibond
+  dimensions:
+    height: 30
+    width: 45
+    depth: 
+  description: "Septembre 2020 -Oeuvre vendue avec caisse américaine noire \n\nCe
+    théâtre est situé à Nantes et il est utilisé pour des répétitions par des compagnies
+    de théâtre. Répertorié et classé, son devenir est encore inconnu, mais l'atmosphère
+    qui s'en dégage est étonnant quand on imagine les applaudissements, les rires,
+    les bruits de stupeurs qui ont du faire vibrer plusieurs générations de spectateurs.
+    Hâte de retrouver nos spectacles vivants. "
+  price: 450
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
+- title: Snow storm
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg
+  technique: Photographie Tirage papier contrecollé dibond
+  dimensions:
+    height: 150
+    width: 100
+    depth: 
+  description: "Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
+    \n\n[vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 \"dimitri bourriau\")
+    du 1er lancement du programme Buran  \nPrix sur demande"
+  price: 
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
+- title: Bank
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg
+  technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
+  dimensions:
+    height: 120
+    width: 80
+    depth: 
+  description: "2017 Bureau du directeur de la Caisse d'Epargne d'une bourgade normande
+    \n\nencadrement caisse US livraison à domicile  \nPrix sur demande"
+  price: 
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
 - title: Greenhouse 3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -121,7 +121,7 @@ works:
   fields: []
   styles: []
 - title: Buzludzha - Bulgarie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -136,7 +136,7 @@ works:
   fields: []
   styles: []
 - title: Dictator
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dictator.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dictator.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -150,7 +150,7 @@ works:
   fields: []
   styles: []
 - title: Buzludzha - Bulgarie interieur
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie-interieur.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie-interieur.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -164,7 +164,7 @@ works:
   fields: []
   styles: []
 - title: Jumanji Theater
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -178,7 +178,7 @@ works:
   fields: []
   styles: []
 - title: Soviet Spa
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-spa.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-spa.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 120
@@ -192,7 +192,7 @@ works:
   fields: []
   styles: []
 - title: Blue Sanatorium
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-sanatorium.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-sanatorium.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 80
@@ -206,7 +206,7 @@ works:
   fields: []
   styles: []
 - title: Soviet Sanotorium
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-sanotorium.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-sanotorium.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
     height: 120
@@ -220,7 +220,8 @@ works:
   fields: []
   styles: []
 - title: 'Portrait '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-dimitri bourriau-portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-dimitri
+    bourriau-portrait.jpg
   technique: ''
   dimensions:
     height: 
@@ -236,5 +237,11 @@ redirect_from:
 - "/artistes/98-dimitri-bourriau/"
 styles:
 - Figuratif
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
