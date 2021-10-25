@@ -151,7 +151,7 @@ works:
     Le rouge incandescent de son corps l’illumine de ses entrailles rageuses et résignées. Acceptation, souffrance et force de vivre.
   price: 6500
   contextual: true
-  title: IMPLOSION
+  title: Implosion
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-implosion.JPG
   technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
     châssis bois
@@ -159,16 +159,22 @@ works:
 - title: Salomé 2015-02
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
-    peuplier
+    peuplier Cadre CP Bouleau - profondeur 15 cm - vernis mat
   fields: []
   styles: []
   dimensions:
     height: 168
     width: 123.2
     depth: 0
-  description: "Format tableau hors cadre : 115 x 160 cm  \nCadre CP Bouleau - profondeur
-    15 cm - vernis mat"
-  price: 4050
+  description: "Format tableau hors cadre : 115 x 160 cm  \n  \nCette œuvre a été
+    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
+    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
+    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCe croquis peint exécuté avec célérité
+    et force remplit le vide blanc qui l’entoure à la manière des estampes japonaises.
+    La tension entre ce grand aplat blanc qu’est la texture vierge du papier et les
+    entrelacs formés par les coups de graphite et les touches de peinture nerveuses
+    dessine la silhouette onctueuse de ce modèle bien vivant."
+  price: 4000
   sold: false
   contextual: true
 - title: Marie 2015-03
