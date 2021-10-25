@@ -29,6 +29,19 @@ biography: |-
   [Vidéo](https://youtu.be/unMbFirj_Jo "dimitri bourriau") de Dimitri Bourriau avec Paul et Clément dans leurs aventures
 exhibitions: []
 works:
+- title: 'Teatro Colosseum '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_TeatroColosseum2_2018.jpg
+  technique: 'Tirage papier contrecollé sur Dibon 5/15 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 150
+    depth: 0
+  description: Caisse US au choix
+  price: 3500
+  sold: false
+  contextual: true
 - title: Cochlea
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_Cochlea_2019.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -197,34 +210,6 @@ works:
     Tirage à 15 exemplaires
     Sur dibon avec caisse US livré à domicile
   price: 3500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Blue Sanatorium
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue-sanatorium.jpg
-  technique: Tirage papier contrecollé dibon
-  dimensions:
-    height: 80
-    width: 120
-    depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Soviet Sanotorium
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-sanotorium.jpg
-  technique: Tirage papier contrecollé dibon
-  dimensions:
-    height: 120
-    width: 80
-    depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
   sold: false
   contextual: true
   fields: []
