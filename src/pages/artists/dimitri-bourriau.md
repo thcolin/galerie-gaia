@@ -92,15 +92,16 @@ works:
   styles: []
 - title: Snow storm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg
-  technique: Photographie Tirage papier contrecollé dibond
+  technique: Photographie Tirage papier contrecollé dibond 15 exemplaires
   dimensions:
-    height: 150
+    height: 149
     width: 100
     depth: 
-  description: "Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
-    \n\n[vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 \"dimitri bourriau\")
-    du 1er lancement du programme Buran  \nPrix sur demande"
-  price: 
+  description: |-
+    Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
+
+    [vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 "dimitri bourriau") du 1er lancement du programme Buran
+  price: 3500
   sold: false
   contextual: true
   fields: []
@@ -109,26 +110,27 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg
   technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
   dimensions:
-    height: 120
-    width: 80
+    height: 90
+    width: 60
     depth: 
   description: "2017 Bureau du directeur de la Caisse d'Epargne d'une bourgade normande
     \n\nencadrement caisse US livraison à domicile  \nPrix sur demande"
-  price: 
+  price: 2400
   sold: false
   contextual: true
   fields: []
   styles: []
 - title: Greenhouse 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg
-  technique: Tirage papier contrecollé dibon
+  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
   dimensions:
-    height: 80
-    width: 120
+    height: 100
+    width: 150
     depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
+  description: |
+    Tirage à 15 exemplaires
+    Sur dibon avec caisse US livré à domicile
+  price: 3500
   sold: false
   contextual: true
   fields: []
