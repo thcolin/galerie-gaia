@@ -85,6 +85,20 @@ works:
   contextual: true
   fields: []
   styles: []
+- title: Bank
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg
+  technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
+  dimensions:
+    height: 90
+    width: 60
+    depth: 
+  description: "2017 Bureau du directeur de la Caisse d'Epargne d'une bourgade normande
+    \n\nencadrement caisse US livraison à domicile  \nPrix sur demande"
+  price: 2400
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
 - title: Jumanji Theater
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg
   technique: Tirage papier contrecollé sur Dibon 3/15
@@ -98,6 +112,19 @@ works:
   contextual: true
   fields: []
   styles: []
+- title: Noratlas
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_Noratlas_2016.jpg
+  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 150
+    depth: 0
+  description: Caisse US au choix
+  price: 3500
+  sold: false
+  contextual: true
 - title: Théâtre de Bel Air
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg
   technique: Photographie sur papier baryté collé dibond
@@ -128,20 +155,6 @@ works:
 
     [vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 "dimitri bourriau") du 1er lancement du programme Buran
   price: 3500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Bank
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg
-  technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
-  dimensions:
-    height: 90
-    width: 60
-    depth: 
-  description: "2017 Bureau du directeur de la Caisse d'Epargne d'une bourgade normande
-    \n\nencadrement caisse US livraison à domicile  \nPrix sur demande"
-  price: 2400
   sold: false
   contextual: true
   fields: []
