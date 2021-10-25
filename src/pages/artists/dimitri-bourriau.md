@@ -72,6 +72,19 @@ works:
   contextual: true
   fields: []
   styles: []
+- title: Jumanji Theater
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg
+  technique: Tirage papier contrecollé sur Dibon 3/15
+  dimensions:
+    height: 100
+    width: 150
+    depth: 
+  description: Caisse US livré au choix
+  price: 3500
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
 - title: Théâtre de Bel Air
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg
   technique: Photographie sur papier baryté collé dibond
@@ -160,30 +173,15 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: Jumanji Theater
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg
-  technique: Tirage papier contrecollé dibon
-  dimensions:
-    height: 80
-    width: 120
-    depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: Soviet Spa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-spa.jpg
-  technique: Tirage papier contrecollé dibon
+  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
   dimensions:
     height: 120
     width: 80
     depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
+  description: "Caisse US au choix  \nPhoto visible à la galerie"
+  price: 3500
   sold: false
   contextual: true
   fields: []
