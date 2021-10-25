@@ -120,16 +120,14 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: Greenhouse 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg
-  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
+- title: Dictator's Villa
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dictator.jpg
+  technique: Tirage papier contrecollé sur Dibon 2/15 exemplaire
   dimensions:
     height: 100
     width: 150
     depth: 
-  description: |
-    Tirage à 15 exemplaires
-    Sur dibon avec caisse US livré à domicile
+  description: " Caisse US au choix"
   price: 3500
   sold: false
   contextual: true
@@ -139,41 +137,25 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie.jpg
   technique: Tirage papier contrecollé dibon
   dimensions:
-    height: 80
+    height: 60
     width: 120
     depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande\nReportage sur arte decouverte concernant ce lieu incroyable
-    \nhttps://www.youtube.com/watch?v=NU0CPodqDCE"
-  price: 
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Dictator
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dictator.jpg
-  technique: Tirage papier contrecollé dibon
-  dimensions:
-    height: 80
-    width: 120
-    depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
+  description: "Tirage à 15 exemplaires Sur dibon avec caisse US livré à domicile
+    \ \n Reportage sur arte decouverte concernant ce lieu incroyable https://www.youtube.com/watch?v=NU0CPodqDCE"
+  price: 2900
   sold: false
   contextual: true
   fields: []
   styles: []
 - title: Buzludzha - Bulgarie interieur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie-interieur.jpg
-  technique: Tirage papier contrecollé dibon
+  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
   dimensions:
-    height: 80
-    width: 120
+    height: 100
+    width: 150
     depth: 
-  description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
-    \nPrix sur demande"
-  price: 
+  description: " Caisse US au choix"
+  price: 3500
   sold: false
   contextual: true
   fields: []
@@ -202,6 +184,21 @@ works:
   description: "Tirage à 15 exemplaires \nSur dibon avec caisse US livré à domicile
     \nPrix sur demande"
   price: 
+  sold: false
+  contextual: true
+  fields: []
+  styles: []
+- title: Greenhouse 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg
+  technique: Tirage papier contrecollé sur Dibon 15 exemplaires
+  dimensions:
+    height: 100
+    width: 150
+    depth: 
+  description: |
+    Tirage à 15 exemplaires
+    Sur dibon avec caisse US livré à domicile
+  price: 3500
   sold: false
   contextual: true
   fields: []
