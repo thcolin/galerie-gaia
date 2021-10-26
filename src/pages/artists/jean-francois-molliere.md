@@ -47,7 +47,7 @@ works:
   description: 2019 Caisse américaine noire en bois
   price: 1500
   contextual: true
-- title: New York x
+- title: Chicago 48
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-_DSF8872 vH 90 x 74.83  cm.jpg
   technique: 'Tirage jet d''encre pigmentaire sur dibond '
