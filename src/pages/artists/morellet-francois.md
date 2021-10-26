@@ -50,7 +50,7 @@ works:
     Le coffret est en parfait état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a donné un état de conservation parfait.
 
     RARE et superbe
-  price: 5000
+  price: 5800
   sold: false
   contextual: false
 - title: 'Livre Coffret Systemes, Hasard et Telephone '
@@ -70,7 +70,7 @@ works:
     Le coffret est en parfait état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a donné un état de conservation parfait.
 
     RARE et superbe
-  price: 5000
+  price: 5800
   sold: false
   contextual: false
 - title: '1ere page  et colophon signés '
@@ -84,7 +84,7 @@ works:
     width: 0
     depth: 0
   description: ''
-  price: 5000
+  price: 5800
   sold: false
   contextual: false
 - title: Hasards système et téléphone 10
