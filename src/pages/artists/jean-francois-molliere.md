@@ -34,6 +34,19 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   Sortie Oct 2012"
 exhibitions: []
 works:
+- title: Chicago 27
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-Chicago 27 90X70.jpg
+  technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 79
+    depth: 0
+  description: 2019 Caisse américaine noire en bois
+  price: 1500
+  contextual: true
 - title: New York x
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-_DSF8872 vH 90 x 74.83  cm.jpg
@@ -46,6 +59,19 @@ works:
     depth: 0
   description: ''
   price: 1800
+  contextual: true
+- title: Chicago x
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-CHICAGO 58 X 65.25.jpg
+  technique: Tirage jet d'encre pigmentaire sur dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 58
+    depth: 0
+  description: Caisse américaine noire
+  price: 1500
   contextual: true
 - title: New york 39
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
@@ -95,31 +121,6 @@ works:
   description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
     blanc standard 1/10
   price: 590
-  contextual: true
-- title: Chicago 25
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg
-  technique: 'Photographie jet d''encre pigmentaire '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: 'œuvre encadrée '
-  price: 590
-  contextual: true
-- title: Chicago 27
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 27 90X70.jpg
-  technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 79
-    depth: 0
-  description: 2019 Caisse américaine noire en bois
-  price: 1500
   contextual: true
 - title: New York 17
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-17-l-0-30m-x-h-0-30-m.jpg
@@ -199,6 +200,18 @@ works:
     depth: 0
   description: "caisse américaine bois noir  \ntirage 2/5 "
   price: 1800
+  contextual: true
+- title: Chicago 25
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg
+  technique: 'Photographie jet d''encre pigmentaire '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: 'œuvre encadrée '
+  price: 590
   contextual: true
 - title: Chicago 21
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago-21-86x80-light.jpg
