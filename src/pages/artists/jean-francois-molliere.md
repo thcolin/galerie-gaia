@@ -136,11 +136,11 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg
   technique: Photographie
   dimensions:
-    height: 70
-    width: 70
+    height: 90
+    width: 90
     depth: 0
   description: ''
-  price: 1500
+  price: 1800
   contextual: true
 - title: Tokyo 9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-tokyo-9-58x70.jpg
