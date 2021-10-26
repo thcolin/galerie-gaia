@@ -208,12 +208,12 @@ works:
   contextual: true
 - title: New York 15
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1349.jpg
-  technique: 'photographie Edition en 15 exemplaires '
+  technique: 'Tirage jet d''encre pigmentaire '
   dimensions:
     height: 70
     width: 70
     depth: 
-  description: 'tirage papier fine art sur dibond caisse américaine bois '
+  description: N° 3/5 caisse américaine bois
   price: 1500
   sold: false
   contextual: true
@@ -237,31 +237,9 @@ works:
     height: 80
     width: 100
     depth: 
-  description: 'tirage papier fine art sur dibond caisse américaine bois '
+  description: "tirage papier fine art sur dibond caisse américaine bois  \nTirage
+    disponible format 58X70cm 1/5 1800€"
   price: 590
-  sold: false
-  contextual: true
-- title: 'New York 3 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1350.jpg
-  technique: 'photographie Edition en 15 exemplaires '
-  dimensions:
-    height: 72
-    width: 60
-    depth: 
-  description: 'tirage papier fine art sur dibond caisse américaine bois '
-  price: 1800
-  sold: false
-  contextual: true
-- title: Inside the horizon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1351.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 100
-    width: 85
-    depth: 
-  description: "Edition en 15 exemplaires  \noeuvres visible à la brasserie [Le Molière](https://www.lemoliere.fr/
-    \"brasserie le moliere \") à Nantes"
-  price: ''
   sold: false
   contextual: true
 - title: Chicago 23
@@ -284,17 +262,6 @@ works:
     depth: 
   description: ''
   price: 590
-  sold: false
-  contextual: true
-- title: New York 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1355.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 72
-    width: 60
-    depth: 
-  description: ''
-  price: 1800
   sold: false
   contextual: true
 redirect_from:
