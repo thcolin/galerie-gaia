@@ -69,16 +69,17 @@ works:
   description: 'œuvre encadrée '
   price: 590
   contextual: true
-- title: New York 19
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-des-souvenirs-de-villes-des-souvenirs-d-amours-5-9.JPG
+- title: Chicago 27
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-Chicago 27 90X70.jpg
   technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
   fields: []
   styles: []
   dimensions:
-    height: 70
-    width: 57
+    height: 90
+    width: 79
     depth: 0
-  description: ''
+  description: 2019 Caisse américaine noire en bois
   price: 1500
   contextual: true
 - title: New York 17
@@ -199,10 +200,10 @@ works:
     York 8 068.JPG
   technique: 'photographie tirage papier fine art contrecollé sur dibond '
   dimensions:
-    height: 100
-    width: 70
+    height: 130
+    width: 104
     depth: 0
-  description: ''
+  description: N°4/5
   price: 2200
   contextual: true
 - title: New York 15
