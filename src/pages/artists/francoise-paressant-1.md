@@ -32,6 +32,20 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   Chevalier](http://www.galerie-chevalier.com/ \"galerie Chevalier tapisserie paris
   \") Paris"
 works:
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
+    puzzle 120x100 2001 copie 2.jpg
+  technique: 'Papier fait main teinté marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: ''
+  price: 3000
+  sold: false
+  contextual: true
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
     de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
