@@ -12,7 +12,7 @@ seo:
   image: ''
 articles:
 - template: article
-  date: '2020-12-06T11:38:00Z'
+  date: 2020-12-06T11:38:00Z
   categories:
   - Exposition
   content: "# Tangui Robert\n\nIl y a tout juste 1 an, j'exprimais mon envie auprès
@@ -51,9 +51,9 @@ articles:
     2015 - 2020  - 5ème saison  pour la Galerie Gaïa.
 
     Votre fidélité sera infiniment précieuse
-  date: ''
+  date: 
 - template: article
-  date: '2021-01-16T10:21:06Z'
+  date: 2021-01-16T10:21:06Z
   categories:
   - Exposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/friol-gravure-couleur-ea-1-8-1988-23x41cm.jpeg
@@ -84,7 +84,7 @@ articles:
     VALOTA peintures
 
     _Du 04/09/2015 au 05/17/2015_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -92,7 +92,7 @@ articles:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/florence-bandrier-and-renaud-allirand.jpg
   content: "Peintures Gravure et Encres \n\"Des écritures qui s'empreintent du visible
     à l'illisible ...\"\n\n_Du 05/21/2015 au 06/13/2015_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -103,7 +103,7 @@ articles:
     Que voit on? Que veut on voir?
 
     _Du 06/18/2015 au 07/04/2015_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -114,7 +114,7 @@ articles:
     vente des sérigraphies numérotées et signées et coffrets rétrospective en édition limitée
 
     _Du 09/03/2015 au 09/05/2015_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -124,7 +124,7 @@ articles:
     vernissage jeudi 10 septembre 18H
 
     _Du 09/10/2015 au 09/26/2015_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -134,7 +134,7 @@ articles:
     Présent le 9 octobre à la galerie Claude sera à nouveau présent le 16 octobre après midi à la galerie avec ses papiers et ses crayons. Vous étiez nombreux vendredi dernier, alors il récidive!
 
     _Du 10/08/2015 au 10/24/2015_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -147,7 +147,7 @@ articles:
     https://www.youtube.com/watch?v=t6Et5ZKeUXY
 
     _Du 11/19/2015 au 12/05/2015_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -163,7 +163,7 @@ articles:
     http://assomorgane.fr/Partenariat-avec-GAIA.html
 
     _Du 02/25/2016 au 02/27/2016_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -175,7 +175,7 @@ articles:
     participatives avec un collectif de 5 artistes jusqu'à 1h du matin. \nVenez pour
     voir en live, pour participer, pour jouer, pour apprendre...\n\n\npour en savoir
     plus sur l'événement  http://www.chambre21.fr\n\n_Du 04/21/2016 au 04/21/2016_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -188,7 +188,7 @@ articles:
     au plafond de KAZY USCLEF\nécritures en lumière de FLORENCE BANDRIER \n\nNOCTURNE
     LE 12 MAI 19H 22H avec reprise d'une oeuvre éphémère\n\nwww.chambre21.fr\n\n_Du
     04/22/2016 au 05/14/2016_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -198,7 +198,7 @@ articles:
     rencontre avec les artistes samedi 28 Mai 15H
 
     _Du 05/26/2016 au 06/11/2016_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -210,7 +210,7 @@ articles:
     \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE \n\nMathilde GUIHO photographie
     - Mikola MUDRYK peinture - Julie MAQUET plasticienne - Mathieu WÜHRMANN peinture
     - Valentin LAMBERT peinture - Eric BERIOT peinture\n\n_Du 06/17/2016 au 06/24/2016_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -221,7 +221,7 @@ articles:
     http://www.grafikama.fr/fr/category/artistes-fr/
 
     _Du 07/01/2016 au 08/27/2016_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -235,7 +235,7 @@ articles:
     texte de  Nathalie Tatai-Pogioni
 
     _Du 09/30/2016 au 12/02/2016_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -248,7 +248,7 @@ articles:
     Exposition à vivre sur place !
 
     _Du 10/08/2016 au 10/29/2016_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -260,7 +260,7 @@ articles:
     permettre d'apprécier je vous ai installé un \"mur d'essayage\"...pour essayer
     \nTout simplement!\nDimanche 18 15H 19H\nLundi 19 Mardi 20 Mercredi 21 15H 19H\nJeudi
     22 vendredi 23 11H 21H\nSamedi 24 fermé\n\n_Du 12/02/2016 au 12/31/2016_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -268,7 +268,7 @@ articles:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/philippe-lecomte.jpg
   content: "Techniques mixtes sur papier et toile \nRencontre avec l'artiste samedi
     28 de 16H à 19H\n\n_Du 01/28/2017 au 02/25/2017_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -276,14 +276,14 @@ articles:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-annick-argant-and-jean-claude-breat.jpg
   content: "Annick ARGANT sculptures et volumes \nJean Claude BREAT peintures\n\n_Du
     03/16/2017 au 04/15/2017_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: Exposition Argant et Bréat dans la galerie de l'entreprise Keran
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-argant-et-breat-dans-la-galerie-de-lentreprise-keran.jpg
   content: _Du 03/31/2017 au 06/02/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -300,21 +300,21 @@ articles:
     par Juliette EOCHE DUVAL avec les 4 artistes sur le Portrait aujourd'hui, pour
     quoi, quel sens, quelle histoire ? Samedi 8 Avril 11H- 12H30\n\n_Du 04/06/2017
     au 04/08/2017_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: LE PORTRAIT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-portrait.jpg
   content: _Du 04/14/2017 au 04/15/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: Francky CRIQUET "Comme à l'atelier"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/francky-criquet-comme-a-latelier.jpg
   content: _Du 05/04/2017 au 05/27/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -325,21 +325,21 @@ articles:
     fois en galerie.\nVenez voir \net pourquoi pas \nacquérir une  oeuvre d'un  pour
     les soutenir \n\nETRE CURIEUX\nREGARDER AU DELA DE LEURS OEUVRES  DES JEUNES TALENTS
     \nPENSER QUE L ART EST NECESSAIRE A NOTRE LIBERTE\n\n_Du 06/29/2017 au 07/01/2017_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: TANGUI ROBERT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tangui-robert.jpg
   content: _Du 07/12/2017 au 08/31/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: Go Segawa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/go-segawa.jpg
   content: _Du 09/07/2017 au 09/23/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -349,7 +349,7 @@ articles:
     artistes permanents et visibles à la galerie
 
     _Du 09/26/2017 au 11/24/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -359,7 +359,7 @@ articles:
     Vernissage jeudi 5 à partir de 18H
 
     _Du 10/05/2017 au 10/21/2017_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -367,14 +367,14 @@ articles:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-francheteau.jpg
   content: "VERNISSAGE CAFE PHILO\nAVEC CLAUDE BAZELIS \nVENDREDI 24 NOVEMBRE 19H\n\n_Du
     11/24/2017 au 12/16/2017_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: MAXIME LUTUN VENTE PRIVEE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/maxime-lutun-vente-privee.jpg
   content: "SCULPTEUR DE LUMIERE \nvente privée 18H 21H\n\n_Du 12/01/2017 au 12/03/2017_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -384,7 +384,7 @@ articles:
     "Ce que je crois voir" c'est un trouble devant la matière qui efface le réel de l'image que notre oeil comprend d'instinct, mais très vite on s'échappe du réel pour se raconter une histoire, un film, les oeuvres de Rych'o donne envie d'écrire la suite
 
     _Du 01/25/2018 au 02/17/2018_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -415,7 +415,7 @@ articles:
     dans l’expo, on met la galerie à l’envers pour finir au Carré Madame Laure en
     vous souhaitant un très bel anniversaire ! \n\nElisabeth GIVRE\n\n_Du 03/23/2018
     au 04/14/2018_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -425,7 +425,7 @@ articles:
     installation située chez KERAN 4 rue Viviani à Nantes
 
     _Du 03/29/2018 au 05/18/2018_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -444,7 +444,7 @@ articles:
     version XIXeme siècle , machines à écrire vs XXeme, tablettes vs XXIeme siècle.\n\n\nChaque
     artiste de manière totalement  subjective choisira le texte sur son oeuvre afin
     d'offrir 4 PASS du MUSEE DES ARTS DE NANTES\n\n_Du 04/19/2018 au 04/19/2018_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -465,7 +465,7 @@ articles:
     astral ou happé par le fourmillement de la vie terrestre. \n...suite du texte
     disponible à la galerie et sur demande contact@galeriegaia.fr\n\n_Du 06/09/2018
     au 06/30/2018_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -480,7 +480,7 @@ articles:
     disponibles en exclusivité :\nLe collectif Au Seuil avec Jeronimo Gaëtan Chevrier
     Tangui Robert, et Boris Jakobek \nL'exposition de leurs oeuvres durera jusqu'au
     28 juillet.\n\n_Du 06/21/2018 au 07/28/2018_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -494,14 +494,14 @@ articles:
     d'échelle et ne se commande pas, c'est avec un esprit libre que Kazy Usclef nous
     dévoilera ses toiles pour l'exposition Keran.\nLaissez-vous embarquer !\n\n_Du
     07/04/2018 au 09/07/2018_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   title: La galerie est ouverte tout l'été
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-galerie-est-ouverte-tout-lete.jpg
   content: _Du 07/07/2018 au 08/31/2018_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -518,7 +518,7 @@ articles:
     oblige il n'en reste pas beaucoup...) sont en vente auprès de PSA Open International
     Squash Nantes.\n\nhttps://www.youtube.com/channel/UCKwY-uJEvEXsHBynYNy2kfg\n\n_Du
     09/05/2018 au 09/09/2018_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -531,7 +531,7 @@ articles:
     Neil Ratnavira réalisera plusieurs toiles sur place avec encres & pinceaux
 
     _Du 10/04/2018 au 10/04/2018_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -546,7 +546,7 @@ articles:
     Glisser, plonger dans ses eaux énigmatiques, c est comme initier un voyage presque familier.
 
     _Du 10/16/2018 au 12/14/2018_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -556,7 +556,7 @@ articles:
     Nantes \nla galerie Gaïa vous propose une sélection de 7 photographies en édition
     limitée à 10 exemplaires\n\nhttps://grand-patrimoine.loire-atlantique.fr/jcms/l-agenda/les-expositions/2019-georges-rousse/polygones-exposition-de-georges-rousse-fr-p2_314968\n\n_Du
     02/07/2019 au 03/09/2019_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -567,7 +567,7 @@ articles:
     de lumière, quand se révèlent toutes les nuances de bleus, alors le voyage de
     la matière sur la toile sublime la rencontre de l’eau et du ciel.\"\n\n_Du 06/06/2019
     au 06/29/2019_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -609,7 +609,7 @@ articles:
     d’eau, un rose ou un terre-de-sienne d’argile, et prend son envol dans l’espace
     subtil d’un blanc mat, ou celui d’un bleu crépusculaire...\nOù il n’est question
     que de notre « être au monde… »\n\n_Du 07/05/2019 au 07/27/2019_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -619,7 +619,7 @@ articles:
     La galerie est ouverte du jeudi au samedi 11H 19H SAUF LES 1ER - 2 - 3 - 15 AOUT 2019
 
     _Du 07/28/2019 au 08/31/2019_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -631,7 +631,7 @@ articles:
     La couleur fera le reste. \nL'exposition se clôture le DIMANCHE 24 NOVEMBRE de
     13H à 18H dans le cadre de l'évènement \"Les galeries, le dimanche\" organisé
     par l'association Art Galeries Nantes.\n\n_Du 11/07/2019 au 11/24/2019_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -641,7 +641,7 @@ articles:
     DIMANCHE 24 NOVEMBRE dernier jour de l'exposition de Philippe LECOMTE. Ce sera l'occasion de causer avec vous de l'état de la critique d'art. Comment parler d'art aujourd'hui, avec la présence de Louis Raimond journaliste
 
     _Du 11/24/2019 au 11/24/2019_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -658,7 +658,7 @@ articles:
     bienveillance et la volonté insensée – mais si grisante - de leur promotion et diffusion !
 
     _Du 11/24/2019 au 11/24/2019_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -669,7 +669,7 @@ articles:
     dans l'onglet Artiste Fêtes-Art\nDes bons cadeaux \nLivraisons offertes \nOUVERTURES
     SPECIALES EN DECEMBRE 2019\nOuvertures du lundi 2 au lundi 23 de 11H - 19H \nOuverture
     les dimanches 8 - 17 - 22 /12 de 15H à 19H\n\n_Du 12/02/2019 au 12/23/2019_"
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -680,14 +680,14 @@ articles:
     Découvrir ses peintures, ses gravures mais aussi des gouaches, des stèles et des tapisseries, où la ligne claire et la palette de couleurs nous font intimement vibrer.
 
     _Du 01/16/2020 au 02/01/2020_
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20200827_001459.jpg
   title: Exposition à Pornichet
   content: Lieu d'exposition sur rendez-vous, contactez moi au 02 40 48 14 91
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -697,7 +697,7 @@ articles:
     # Galerie Gaia Fotofever
 
     **Embarquez pour un tour du monde la photographie contemporaine!** fotofever accueille au Carrousel du Louvre, au cœur de Paris, **50 galeries et éditeurs dont la Galerie Gaïa** présentant le meilleur de la scène photographique contemporaine avec 150 artistes exposés
-  date: ''
+  date: 
 - template: article
   categories:
   - Exposition
@@ -718,9 +718,9 @@ articles:
     notion de la dualité dans un ensemble est réellement sensible dans les différentes
     séries de [Jean-François Mollière.](https://galeriegaia.fr/artists/jean-francois-molliere/
     \"jean farncois moliere\")"
-  date: ''
+  date: 
 - template: article
-  date: '2021-01-29T10:28:33Z'
+  date: 2021-01-29T10:28:33Z
   categories:
   - Exposition
   title: Peinture fraîche...Chantier en cours !
@@ -731,7 +731,7 @@ articles:
     le Catalogue que je peux vous livrer à domicile pour faire votre choix.\n\nA très
     vite et suivez nos actualités sur Instagram galeriegaianantes"
 - template: article
-  date: '2020-11-02T16:10:55Z'
+  date: 2020-11-02T16:10:55Z
   categories:
   - Interview
   title: Interview de Isthme
@@ -739,7 +739,7 @@ articles:
     "Interview de Isabelle Thoams ")'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier_isthme_19_12_hd_05.jpg
 - template: article
-  date: '2020-11-02T16:05:35Z'
+  date: 2020-11-02T16:05:35Z
   categories:
   - Interview
   title: Interview de Laure Carré
@@ -747,7 +747,7 @@ articles:
     "Interview Laure Carré")'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-laurecarre-portrait-artiste.jpg
 - template: article
-  date: '2021-03-05T23:00:00Z'
+  date: 2021-03-05T23:00:00Z
   categories:
   - Exposition
   title: En Février visitez des ateliers d'artistes
@@ -767,7 +767,7 @@ articles:
     - Kazy Usclef - Franco Salas Borques - Nadia Barbotin-Sébastien Bouchard - Françoise
     Paressant - Pierre Tual..."
 - template: article
-  date: '2021-03-11T20:22:49Z'
+  date: 2021-03-11T20:22:49Z
   categories:
   - Exposition
   title: 'Artefacts Edwin Wide Exposition Peinture '
@@ -787,7 +787,7 @@ articles:
     transformation, le défaut comme une provocation ingénieuse plantée sous nos yeux
     par l'artiste pour nous émouvoir subtilement."
 - template: article
-  date: '2021-05-28T15:48:59Z'
+  date: 2021-05-28T15:48:59Z
   categories:
   - Exposition
   title: Wave week-end arts visuels 28 29 30 Mai 2021
@@ -800,7 +800,7 @@ articles:
     Bousquet - sculpture béton\n\nBasile Collet - installation végétale\n\nEdwin Blandin
     - dessin "
 - template: article
-  date: '2021-06-24T16:05:09Z'
+  date: 2021-06-24T16:05:09Z
   categories:
   - Exposition
   title: Jean-Michel Nicolau "S'il reste des silences"
@@ -827,7 +827,7 @@ articles:
     ce noir le Noir Nicolau.\n\nTout n'est pas dit, et vous n'avez encore rien vu
     !"
 - template: article
-  date: '2021-07-01T16:36:34Z'
+  date: 2021-07-01T16:36:34Z
   categories:
   - Exposition
   title: 'Tangui Robert Chroniques Nantaises '
@@ -842,7 +842,7 @@ articles:
     élégants et évidents.\n\nExposition [Tangui Robert ](https://galeriegaia.fr/artists/tangui-robert/
     \"tangui robert \")à scruter de près tout l'été à la Galerie Gaïa"
 - template: article
-  date: '2021-07-05T17:34:36Z'
+  date: 2021-07-05T17:34:36Z
   categories:
   - Exposition
   title: La marche des flots
@@ -859,7 +859,7 @@ articles:
     12H30 15H30 18H  \nProlongation le Vendredi 19H  \nFermé le lundi\n\nInformation
     et rendez-vous pour visite privée au 02 40 48 14 91"
 - template: article
-  date: '2021-07-17T13:41:57Z'
+  date: 2021-07-17T13:41:57Z
   categories:
   - Exposition
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
@@ -867,7 +867,7 @@ articles:
   content: "[https://www.youtube.com/watch?v=4l1EKXeYYf8](https://www.youtube.com/watch?v=4l1EKXeYYf8
     \"https://www.youtube.com/watch?v=4l1EKXeYYf8\")\n\n# Franco Salas Borquez "
 - template: article
-  date: '2021-07-20T06:55:05Z'
+  date: 2021-07-20T06:55:05Z
   categories:
   - Exposition
   title: La marche des flots Franco Salas Borquez
@@ -886,7 +886,7 @@ articles:
     iconoclaste des sujets. Avec Tangui ces fusions créent des fragments de paysage
     élégants et évidents."
 - template: article
-  date: '2021-09-07T09:55:55Z'
+  date: 2021-09-07T09:55:55Z
   categories:
   - Interview
   title: Interview Versants
@@ -896,7 +896,7 @@ articles:
 
     ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa- 01.jpg)
 - template: article
-  date: '2021-09-04T09:19:43Z'
+  date: 2021-09-04T09:19:43Z
   categories:
   - Exposition
   title: Hors les murs Pornichet 18 &19 Septembre 2021
@@ -912,7 +912,7 @@ articles:
     et du **18 & 19** septembre.  \nVisite exclusive sur rendez-vous 02 40 48 14 91
     - max groupe de 6  \nVisite sans obligation d'achat."
 - template: article
-  date: '2021-10-07T12:12:55Z'
+  date: 2021-10-07T12:12:55Z
   categories:
   - Exposition
   title: Aline Isoard  vernissage 7/10 18H
@@ -935,12 +935,39 @@ articles:
     \"Jacques Py\")\n\nExposition du 6 au 30 Octobre 2021  \nVernissage 6/10/21 18H
     \ \nOuverture Dimanche 10 Octobre 14H "
 - template: article
-  date: '2021-10-16T09:52:01Z'
+  date: 2021-10-16T09:52:01Z
   categories:
   - Interview
   title: Interview Aline Isoard Auto-Fiction
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A.ISOARDafficheQPN.jpg
   content: '[Interview Aline Isoard](https://www.youtube.com/watch?v=IJa9MaLJCpQ "Aline
     Isoard Quinzaine photographique nantaise")'
+- template: article
+  date: 2021-11-04T21:55:48Z
+  categories:
+  - Exposition
+  title: Le présent du monde
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
+  content: "# Jacques Le Brusq \n\nExposition Le présent du monde, peinture\n\nAu
+    commencement j'ai rencontré Jacques Le Brusq. Je ne connaissais rien de son travail.
+    \  \nNous parlions de la peinture, de la couleur.  \nNous parlions du métier de
+    galeriste,  \nNous parlions de l’art, de l’éducation, de la formation dans les
+    écoles.\n\nEt en parlant de tout, nous parlions de nous.\n\nAlors un jour il y
+    a eu une invitation, à voir pour regarder. Je me suis retrouvée assise dans un
+    salon où les toiles étaient prêtes à se montrer. Ce fût un moment délicieux, où
+    Jacques orchestra cette exposition comme une pièce de théâtre – ne dit-on pas
+    tableau pour parler de la scénographie d’une pièce ? - .\n\nTout le film de nos
+    échanges se redéployait, le chemin d’une vie libre et engagée traduit dans ses
+    peintures.\n\nJ’ai vécu ce moment intimement et intensément au présent, mais je
+    me projetais incessamment dans ce futur pour partager cette rencontre de Jacques
+    avec sa peinture.\n\nAvant ma deuxième rencontre avec ses œuvres, j’ai convoqué
+    mes souvenirs avec la nostalgie de la première fois.\n\nMaintenant je sais qu’il
+    n’ y a aucun regret de cette première fois, car c’est une peinture qui se réinvente
+    dès lors que nous sommes convoquées à les revoir.\n\nOui regarder une peinture
+    de Jacques, c’est comme prendre rendez-vous avec l’essentiel.\n\nSa peinture mérite
+    la lumière. Se faire happer par le tout, puis glisser vers les transitions chromatiques
+    vaporeuses et mystérieuses, se laisser envelopper. La peinture de jacques est
+    présente et éthérée.\n\nPas de figuration, mais la réalité de l’abstraction ,
+    la présence au monde.\n\nElisabeth Givre - Galerie Gaïa"
 
 ---
