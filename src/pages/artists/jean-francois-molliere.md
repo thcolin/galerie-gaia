@@ -34,6 +34,32 @@ biography: "# Jean-François Mollière \n\n**Photos grand  format éditées en 5
   Edition De La Martiniére Sortie Oct 2012"
 exhibitions: []
 works:
+- title: New york 39
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-NY 39-70X50.jpg
+  technique: Tirage jet d'encre pigmentaire sur dibond 1/5
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 'Caisse américaine noire en bois '
+  price: 1500
+  contextual: true
+- title: 'Chicago 45 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-Chicago 45 80X80.jpg
+  technique: 'Tirage jet d''encre pigmentaire '
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: Caisse américaine noire bois
+  price: 1800
+  contextual: true
 - title: New York 7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-7-l-0-73m-x-h-1-02-m.jpg
   technique: 'Photographie tirage pigmentaire '
