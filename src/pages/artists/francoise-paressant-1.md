@@ -55,7 +55,7 @@ works:
     height: 120
     width: 100
     depth: 0
-  description: ''
+  description: encadrement cache clou bois 2003
   price: 3000
   sold: false
   contextual: true
