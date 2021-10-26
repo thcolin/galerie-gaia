@@ -93,6 +93,19 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque
   Nationale de France Paris  \nArtothèque Angers"
 works:
+- title: Exposition Le Présent du Monde
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 - title: Rhuys vers kerne Opus 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg
   technique: Huile sur papier
@@ -179,7 +192,7 @@ works:
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-Jacques
     Le Brusq.jpg
-  technique: ''
+  technique: Photo de Julie Berkovicz
   fields: []
   styles: []
   dimensions:
