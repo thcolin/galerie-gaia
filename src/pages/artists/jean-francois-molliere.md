@@ -58,7 +58,7 @@ works:
     width: 79
     depth: 0
   description: 2019 Caisse américaine noire en bois
-  price: 1500
+  price: 1800
   contextual: true
 - title: Chicago 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
