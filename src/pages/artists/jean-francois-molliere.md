@@ -285,12 +285,12 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1348.jpg
   technique: photographie Edition en 15 exemplaires
   dimensions:
-    height: 80
-    width: 100
+    height: 58
+    width: 70
     depth: 
   description: "tirage papier fine art sur dibond caisse américaine bois  \nTirage
-    disponible format 58X70cm 1/5 1800€"
-  price: 590
+    disponible format 40X45cm 1/5 590€"
+  price: 1500
   sold: false
   contextual: true
 - title: Chicago 23
