@@ -32,15 +32,28 @@ biography: "# Françoise Paressant\n\nNée à Nantes en 1944, l'artiste est auto
   Chevalier](http://www.galerie-chevalier.com/ \"galerie Chevalier tapisserie paris
   \") Paris"
 works:
-- title: 'Sans titre '
+- title: Sans titre Papier fait main teinté en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181442.jpg
+  technique: 'Papier fait main teinté marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 0
+  description: encadrement bois cache clou 2003
+  price: 3000
+  sold: false
+  contextual: true
+- title: Sans titre Papier fait main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
   technique: 'Papier fait main teinté marouflé sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 130
-    width: 97
+    height: 120
+    width: 100
     depth: 0
   description: ''
   price: 3000
