@@ -70,20 +70,20 @@ works:
     height: 65
     width: 58
     depth: 0
-  description: Caisse américaine noire
+  description: Tirage en 5 exemplaires caisse américaine noire
   price: 1300
   contextual: true
 - title: New york 39
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-NY 39-70X50.jpg
-  technique: Tirage jet d'encre pigmentaire sur dibond 1/5
+  technique: 'Tirage jet d''encre pigmentaire sur dibond '
   fields: []
   styles: []
   dimensions:
     height: 70
     width: 50
     depth: 0
-  description: 'Caisse américaine noire en bois '
+  description: Tirage en 5 exemplaires caisse américaine noire en bois
   price: 1500
   contextual: true
 - title: 'Chicago 45 '
@@ -96,7 +96,7 @@ works:
     height: 80
     width: 80
     depth: 0
-  description: Caisse américaine noire bois
+  description: Tirage en 5 exemplaires caisse américaine noire bois
   price: 1800
   contextual: true
 - title: New York 7
@@ -113,13 +113,12 @@ works:
   contextual: true
 - title: Tokyo 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg
-  technique: Photographie
+  technique: Photographie tirage jet d'encre pigmentaire papier contrecollé dibond
   dimensions:
     height: 35
     width: 45
     depth: 0
-  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
-    blanc standard 1/10
+  description: " Encadrement blanc standard 1/10"
   price: 590
   contextual: true
 - title: New York 17
@@ -136,14 +135,14 @@ works:
   contextual: true
 - title: New York 13
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jeanfrancois-molliere-new-york-13-75-x-68.jpg
-  technique: Photographie tirage jet d'encre pigmentaire sur dibond caisse américaine
+  technique: 'Photographie tirage jet d''encre pigmentaire sur dibond '
   fields: []
   styles: []
   dimensions:
     height: 75
     width: 68
     depth: 0
-  description: ''
+  description: 'Tirage en 2/5 exemplaires caisse américaine noire bois '
   price: 1500
   contextual: true
 - title: New York 11
