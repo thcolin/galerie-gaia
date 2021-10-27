@@ -85,7 +85,10 @@ works:
     width: 123.5
     depth: 0
   description: "Format tableau hors cadre : 203 x 104,5 cm  \nCadre CP Bouleau - profondeur
-    14,5 cm"
+    14,5 cm  \nCe portrait est le second de mon fils Emile. Vue de profil. La couleur
+    explose en teintes multiples grâce aux multiples qualités de l’aquarelle. La lumière
+    irrigue le personnage ancré dans l’ombre à la base du tableau. Verticale, la toile
+    se tend vers l’horizon souligné par le regard bleu perçant."
   price: 7900
   sold: false
   contextual: true
