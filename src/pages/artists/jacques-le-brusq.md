@@ -115,9 +115,8 @@ works:
     height: 53
     width: 43
     depth: 
-  description: "Prix sur demande  \nencadrement baguette chêne verre antireflet qualité
-    musée"
-  price: 
+  description: Format encadré 100X70 cm baguette chêne verre antireflet qualité musée
+  price: 4000
   sold: false
   contextual: true
 - title: Rhuys vers kernes Opus 2
@@ -129,9 +128,8 @@ works:
     height: 53
     width: 43
     depth: 
-  description: "Prix sur demande  \nencadrement baguette chêne verre antireflet qualité
-    musée"
-  price: 
+  description: Format encadré 100X70 cm  baguette chêne verre antireflet qualité musée
+  price: 4000
   sold: false
   contextual: true
 - title: Tri Avr Opus1
@@ -143,9 +141,8 @@ works:
     height: 48
     width: 63
     depth: 
-  description: "Prix sur demande  \nFormat du papier 100X70 œuvre encadrée (verre
-    anti-reflet - encadrement type coffret - baguette chêne)"
-  price: 
+  description: Format encadré 100X70 cm verre anti-reflet  baguette chêne
+  price: 4000
   sold: false
   contextual: false
 - title: Paysage
@@ -159,7 +156,7 @@ works:
     depth: 
   description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
     type coffret - baguette chêne)
-  price: 
+  price: 4000
   sold: false
   contextual: false
 - title: Paysage Ker Sal 1Opus2
@@ -171,9 +168,9 @@ works:
     height: 47.5
     width: 62
     depth: 
-  description: "Prix sur demande  \nFormat du papier 100X70 œuvre encadrée (verre
-    anti-reflet - encadrement type coffret - baguette chêne)"
-  price: 
+  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
+    type coffret - baguette chêne)
+  price: 4000
   sold: false
   contextual: false
 - title: La Brèche Opus 2
