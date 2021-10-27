@@ -147,12 +147,12 @@ works:
   contextual: true
 - title: New York 11
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg
-  technique: Photographie
+  technique: Photographie tirage jet d'encre pigmentaire papier contrecollé dibond
   dimensions:
     height: 90
     width: 90
     depth: 0
-  description: ''
+  description: Tirage en 5 exemplaires caisse américaine noire bois
   price: 1800
   contextual: true
 - title: Tokyo 9
@@ -282,13 +282,13 @@ works:
   contextual: true
 - title: New York 20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1348.jpg
-  technique: photographie Edition en 15 exemplaires
+  technique: photographie Edition tirage papier fine art sur dibond 1/5
   dimensions:
     height: 58
     width: 70
     depth: 
-  description: "tirage papier fine art sur dibond caisse américaine bois  \nTirage
-    disponible format 40X45cm 1/5 590€"
+  description: " caisse américaine bois  \nAutre format disponible  40X45cm 8/10 590€
+    encadrement bois blanc"
   price: 1500
   sold: false
   contextual: true
@@ -299,7 +299,7 @@ works:
     height: 60
     width: 72
     depth: 
-  description: ''
+  description: 'Tirage en 10 exemplaires '
   price: 590
   sold: false
   contextual: true
@@ -310,7 +310,7 @@ works:
     height: 72
     width: 60
     depth: 
-  description: ''
+  description: 'Tirage en 10 exemplaires '
   price: 590
   sold: false
   contextual: true
