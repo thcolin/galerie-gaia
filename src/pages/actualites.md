@@ -947,7 +947,7 @@ articles:
   categories:
   - Exposition
   title: Le présent du monde
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_2021.jpg
   content: "# Jacques Le Brusq \n\nExposition Le présent du monde, peinture\n\nAu
     commencement j'ai rencontré Jacques Le Brusq. Je ne connaissais rien de son travail.
     \  \nNous parlions de la peinture, de la couleur.  \nNous parlions du métier de
