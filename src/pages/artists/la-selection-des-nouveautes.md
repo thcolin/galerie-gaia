@@ -10,6 +10,17 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: New Ex
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: 'Jeudi 4 Novembre Vernissage expo Jacques le Brusq '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/InvitationGAIA-JLB_211022-WEB2.jpg
   technique: huile sur papier et sur toile
@@ -22,17 +33,6 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: New Ex
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
 - title: Station 7 2020 par Aline Isoard
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-vitrine.jpg
   technique: Photographie pigmentée tirage unique
