@@ -200,6 +200,20 @@ works:
   price: 5600
   sold: false
   contextual: true
+- title: Portrait de l'artiste
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-emile21
+    avec yann-peron.jpeg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Huile sur toile Emile 21 '
+  price: 7900
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
