@@ -88,7 +88,7 @@ works:
     height: 25
     width: 16
     depth: 7
-  description: "2019"
+  description: vendue
   price: 1600
   sold: false
   contextual: false
