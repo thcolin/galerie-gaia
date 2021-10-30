@@ -48,7 +48,7 @@ works:
     width: 60
     depth: 0
   description: ''
-  price: 450
+  price: 350
   contextual: true
 - title: I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- Patrick
