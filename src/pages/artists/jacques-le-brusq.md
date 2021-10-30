@@ -93,6 +93,20 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque
   Nationale de France Paris  \nArtothèque Angers"
 works:
+- title: 29 AFR OPUS 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/29-AFR OPUS1_2019_jacques-le-brusq_galerie-gaia.jpg
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
+    bois naturel
+  price: 4000
+  sold: false
+  contextual: true
 - title: '13 BR FL VE '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13-BR FL VE_2020_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
