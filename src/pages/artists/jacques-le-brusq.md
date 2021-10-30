@@ -93,6 +93,34 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque
   Nationale de France Paris  \nArtothèque Angers"
 works:
+- title: 9517 VER CLA FLO
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-9517-VER-CLA-FLO-OPUS-1_2018_jacques-le-brusq_galerie-gaia.jpg
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: 2018 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
+    bois naturel
+  price: 4000
+  sold: false
+  contextual: true
+- title: '7750 RHUYS OPUS 1 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7750-RHUYS-OPUS-1_2016_jacques-le-brusq_galerie-gaia.jpg
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: 2016 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
+    bois naturel
+  price: 4000
+  sold: false
+  contextual: true
 - title: '7749 RHUYS OPUS 2 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7749-RHUYS-OPUS-2_2016_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
