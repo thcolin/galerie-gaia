@@ -1,13 +1,10 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/04-VER-CLA-FLO-OPUS-2_2019_jacques-le-brusq_galerie-gaia.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georg
     baselitz.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/station 12-2016
-    60x60w.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 2-2021,90x90a.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
-    1-2019, 90x90.jpg
 redirect_from:
 - "/plan/"
 seo:
