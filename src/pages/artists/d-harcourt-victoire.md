@@ -15,7 +15,7 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: ''
+biography: "# Victoire D'Harcourt"
 works:
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
@@ -57,6 +57,20 @@ works:
     depth: 2
   description: Fonderie d'art Avangini
   price: 1700
+  sold: false
+  contextual: false
+- title: Portrait de Victoire d'Harcourt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
+    d'harcourt-portrait.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
   sold: false
   contextual: false
 exhibitions: []
