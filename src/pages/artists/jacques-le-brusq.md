@@ -140,12 +140,12 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 63
+    height: 28
+    width: 32
     depth: 0
-  description: 2018 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
+  description: 2018 Œuvre présentée en format 53 X43  sous verre anti-reflet encadrement
     bois naturel
-  price: 4000
+  price: 2500
   sold: false
   contextual: true
 - title: '7750 RHUYS OPUS 1 '
@@ -252,12 +252,12 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 
+    height: 28
+    width: 32
     depth: 0
-  description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
+  description: 2019 Œuvre présentée en format 53 X43  sous verre anti-reflet encadrement
     bois naturel
-  price: 4000
+  price: 2500
   sold: false
   contextual: true
 - title: '03 PAY VE FON '
