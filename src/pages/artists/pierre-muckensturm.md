@@ -450,51 +450,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: 14p1r1 - 14p1r2 - 14p1r3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r1-14p1r2-14p1r3.jpg
-  technique: Gravure - Aquatinte sur cuivre sur papier BFK Rives
-  dimensions:
-    height: 47
-    width: 38
-    depth: 
-  description: "Installation en triptyque \n\n14p1r1 (8/11)\n14p1r2 (8/11)\n14p1r3
-    (8/11)"
-  price: 1000
-  sold: false
-  contextual: false
-- title: 14p1r1 (8/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r1-811.jpg
-  technique: Aquatinte sur cuivre sur papier BFK Rives
-  dimensions:
-    height: 47
-    width: 38
-    depth: 
-  description: '2014 '
-  price: 350
-  sold: false
-  contextual: true
-- title: 14p1r2 (8/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r2-811.jpg
-  technique: Aquatinte sur cuivre sur papier BFK Rives
-  dimensions:
-    height: 47
-    width: 38
-    depth: 
-  description: '2014 '
-  price: 350
-  sold: false
-  contextual: true
-- title: 14p1r3 (8/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14p1r3-811.jpg
-  technique: Aquatinte sur cuivre sur papier BFK Rives
-  dimensions:
-    height: 47
-    width: 38
-    depth: 
-  description: '2014 '
-  price: 350
-  sold: false
-  contextual: true
 - title: 14c3-1 (9/11)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
   technique: Aquatinte
