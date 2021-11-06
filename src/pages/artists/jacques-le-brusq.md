@@ -293,11 +293,11 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 53
-    width: 43
+    height: 27
+    width: 32
     depth: 
-  description: Format encadré 100X70 cm  baguette chêne verre antireflet qualité musée
-  price: 4000
+  description: Format encadré 53X43 cm  baguette chêne verre antireflet qualité musée
+  price: 2500
   sold: false
   contextual: true
 - title: Tri Avr Opus1
