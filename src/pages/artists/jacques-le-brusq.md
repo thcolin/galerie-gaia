@@ -140,12 +140,12 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 28
-    width: 32
+    height: 48
+    width: 63
     depth: 0
-  description: 2018 Œuvre présentée en format 53 X43  sous verre anti-reflet encadrement
+  description: 2018 Œuvre présentée en format 100X70  sous verre anti-reflet encadrement
     bois naturel
-  price: 2500
+  price: 4000
   sold: false
   contextual: true
 - title: '7750 RHUYS OPUS 1 '
