@@ -73,25 +73,25 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Marie Annie Avril  \n2019 Le Mans  Musée de Tessé  \" Paysages \" ( Des primitifs
   italiens aux peintres contemporains ) commissariat Carole Hirardot  \n2019 Cossé
   le Vivien Musée Robert Tatin \" Ô temps de Tatin \"commissariat Bruno Godivier  \n2018
-  Vannes Musée des Beaux-Arts La Cohue \" En présence des arbres \"Béatrice Bescond
-  \ \n2018 Nantes- Galerie RDV- \" Ce presque rien \"- Noémie Chauvet Jacques Le Brusq-
-  \ \n2016 Paris- Galerie Jean Fournier \" 25 ans de l'art dans les chapelles \"  \n2015
-  _Un chemin en peinture_, Atelier Raspail, Paris (commissariat Charles Bimbenet)
-  \ \n2013 _Sur le motif_, Domaine de Kerguehennec, Bignan (commissariat Olivier Delavalade)
-  \ \n1998 Espace Sophie Barrouyer, Paris  \n1997 FIAC - Espace du Quai Branly, Paris
-  (Galerie Plessis)  \n1996 _Du paysage au dépaysement,_ Musée des Beaux-arts, Chartres
-  (commissariat Maïthé Valles-Bled)  \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée
-  de Tessé - Collégiale Saint-Pierre-La-Cour, Le Mans (commissariat Serge Nikitine)
-  \ \n1986 Le Grand Huit - Maison de la Culture, Rennes (commissariat Jean-Yves Louédec)
-  \ \n1973 Musée de Tessé, Le Mans (commissariat Raymond Blanc)  \n1971 La Cour de
-  Bovrel, Saint Guyomard  \n1965 Foyer des artistes - Montparnasse - Galerie Marc
-  Vaux, Paris\n\n**Collections publiques :**\n\nMusée des Arts de Nantes  \nArtothèque
-  Nantes  \nMusée de Tessé Le Mans  \nMusée des Baux Arts La Cohue Vannes  \nMusée
-  Robert Tatin Cossé Le Vivien  \nMusée La Perrine Laval  \nFonds d'Art Contemporain
-  Ville de Rennes  \nFonds d'Art Contemporain Ecole des Beaux Arts de Nantes  \nFonds
-  d'Art Contemporain Ville de Paris  \nFonds d'Art Contemporain Domaine de Kerguehennec
-  Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois Fougères  \nBNF Bibilothèque
-  Nationale de France Paris  \nArtothèque Angers"
+  Vannes Musée des Beaux-Arts La Cohue \" En présence des arbres \" commissariat Françoise
+  Berretrot & Marie-Annie Avril.  \n2018 Nantes- Galerie RDV- \" Ce presque rien \"-
+  Noémie Chauvet Jacques Le Brusq-  \n2016 Paris- Galerie Jean Fournier \" 25 ans
+  de l'art dans les chapelles \"  \n2015 _Un chemin en peinture_, Atelier Raspail,
+  Paris (commissariat Charles Bimbenet)  \n2013 _Sur le motif_, Domaine de Kerguehennec,
+  Bignan (commissariat Olivier Delavalade)  \n1998 Espace Sophie Barrouyer, Paris
+  \ \n1997 FIAC - Espace du Quai Branly, Paris (Galerie Plessis)  \n1996 _Du paysage
+  au dépaysement,_ Musée des Beaux-arts, Chartres (commissariat Maïthé Valles-Bled)
+  \ \n1992 Galerie Akié Arrichi, Paris  \n1991 Musée de Tessé - Collégiale Saint-Pierre-La-Cour,
+  Le Mans (commissariat Serge Nikitine)  \n1986 Le Grand Huit - Maison de la Culture,
+  Rennes (commissariat Jean-Yves Louédec)  \n1973 Musée de Tessé, Le Mans (commissariat
+  Raymond Blanc)  \n1971 La Cour de Bovrel, Saint Guyomard  \n1965 Foyer des artistes
+  - Montparnasse - Galerie Marc Vaux, Paris\n\n**Collections publiques :**\n\nMusée
+  des Arts de Nantes  \nArtothèque Nantes  \nMusée de Tessé Le Mans  \nMusée des Baux
+  Arts La Cohue Vannes  \nMusée Robert Tatin Cossé Le Vivien  \nMusée La Perrine Laval
+  \ \nFonds d'Art Contemporain Ville de Rennes  \nFonds d'Art Contemporain Ecole des
+  Beaux Arts de Nantes  \nFonds d'Art Contemporain Ville de Paris  \nFonds d'Art Contemporain
+  Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
+  Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
