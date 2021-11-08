@@ -81,20 +81,6 @@ works:
   price: 1200
   sold: false
   contextual: false
-- title: Caresser les songes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-Caresser
-    les songes,H16,L20,l15.jpg
-  technique: Enfumage pit fire
-  fields: []
-  styles: []
-  dimensions:
-    height: 16
-    width: 20
-    depth: 15
-  description: ''
-  price: 1300
-  sold: false
-  contextual: false
 - title: Cylindre 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
     1 ,H29,Diam11.jpg
