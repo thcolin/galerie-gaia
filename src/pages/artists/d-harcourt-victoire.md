@@ -10,7 +10,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: D'HARCOURT Victoire
+title: D'Harcourt Victoire
 location: ''
 birth: ''
 death: ''
