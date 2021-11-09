@@ -88,19 +88,6 @@ works:
   description: "2021"
   price: 3200
   contextual: true
-- title: Abyssale
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Abyssale
-    200 x 300 cm huile sur toile 2020.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 200
-    width: 300
-    depth: 0
-  description: Œuvre en réserve. Visible sur rendez-vous
-  price: 12000
-  contextual: false
 - title: L'agitation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-L'agitation
     pastel 70 x 50 cm  2020.jpg
@@ -128,19 +115,6 @@ works:
   description: Réservée
   price: ''
   contextual: true
-- title: Vague hurlante en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco-salas-borques-le
-    cap.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 81
-    width: 130
-    depth: 0
-  description: ''
-  price: 3200
-  contextual: false
 - title: 'Dessin '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_SalasBorques_titre_format
     50X70.jpeg
