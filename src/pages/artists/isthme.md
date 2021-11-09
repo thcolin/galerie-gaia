@@ -202,7 +202,7 @@ works:
 - title: Farandole J
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-farandole
     J-66x50.jpg
-  technique: 'Lithographie '
+  technique: Lithographie 1/2
   fields: []
   styles: []
   dimensions:
