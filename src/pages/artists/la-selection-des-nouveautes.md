@@ -67,8 +67,8 @@ works:
   description: |-
     # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
 
-    prix sur demande
-  price: 350
+    vendu
+  price: ''
   contextual: false
 - title: Livre coffret François Morellet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
@@ -115,7 +115,10 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: "# [Isthme]()"
+  description: |-
+    # [Isthme]()
+
+    vendu
   price: ''
   contextual: false
 - title: Trois veilleurs de Jorj Morin
@@ -251,9 +254,9 @@ works:
     height: 5
     width: 36
     depth: 36
-  description: '[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
-    "valerie le roux")'
-  price: 160
+  description: "[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
+    \"valerie le roux\")  \nvendu"
+  price: ''
   contextual: false
   technique: Céramique pièce unique
 - title: Primitive N°3 de Pierre Tual

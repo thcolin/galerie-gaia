@@ -174,7 +174,7 @@ works:
     height: 120
     width: 120
     depth: 0
-  description: "2020"
+  description: "2020  \nLes visuels des 4 toiles sont disponibles sur demande galeriegaia@orange.fr"
   price: 
   sold: false
   contextual: false
