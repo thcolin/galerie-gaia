@@ -1,6 +1,7 @@
 ---
 fields:
 - Oeuvre sur papier
+- Peinture
 styles:
 - Abstrait
 template: artist
@@ -106,17 +107,18 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Huile sur toile en situation
+- title: 'BR MO NO OPUS 2 dans l''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
     Le Brusq-ES-16-10-21 -04.jpg
   technique: 'Huile sur toile '
-  fields: []
+  fields:
+  - Peinture
   styles: []
   dimensions:
     height: 120
     width: 120
     depth: 0
-  description: ''
+  description: "2020"
   price: 
   sold: false
   contextual: false
