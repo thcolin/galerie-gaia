@@ -107,21 +107,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: 'BR MO NO OPUS 2 dans l''atelier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
-    Le Brusq-ES-16-10-21 -04.jpg
-  technique: 'Huile sur toile '
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 0
-  description: "2020"
-  price: 
-  sold: false
-  contextual: false
 - title: 7731 GAE LEM OPUS 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K7731-GAR-LEM-OPUS-1_2017_jacques-le-brusq_galerie-gaia.jpg
   technique: Huile sur papier
@@ -178,6 +163,21 @@ works:
   price: 4000
   sold: false
   contextual: true
+- title: 'BR MO NO OPUS 2 dans l''atelier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
+    Le Brusq-ES-16-10-21 -04.jpg
+  technique: 'Huile sur toile '
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2020"
+  price: 
+  sold: false
+  contextual: false
 - title: '7732 GAR LEM OPUS 2 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7732-GAR-LEM-OPUS-2_2017_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -285,8 +285,9 @@ works:
     height: 27
     width: 32
     depth: 
-  description: Format encadré 53X42 cm baguette chêne verre antireflet qualité musée
-  price: 2500
+  description: "Format encadré 53X42 cm baguette chêne verre antireflet qualité musée
+    \ \nVendu"
+  price: 
   sold: false
   contextual: true
 - title: Rhuys vers kernes Opus 2

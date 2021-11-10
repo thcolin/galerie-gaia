@@ -21,8 +21,8 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Jeudi 4 Novembre Vernissage expo Jacques le Brusq '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/InvitationGAIA-JLB_211022-WEB2.jpg
+- title: 'Jeudi 11 Novembre Rencontrez Jacques le Brusq '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_151057.jpg
   technique: huile sur papier et sur toile
   fields: []
   styles: []
@@ -30,7 +30,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: '# [Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
+    "jacques le brusq")'
   price: 0
   contextual: true
 - title: Station 7 2020 par Aline Isoard
@@ -44,10 +45,13 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
-    "Aline ISOARD ")'
+  description: |-
+    # [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/ "Aline ISOARD ")
+
+    vendu
   price: 1200
   contextual: true
+  sold: true
 - title: Bonne pierre bon oeil 08 par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l - litho cadre blanc ES.jpg
