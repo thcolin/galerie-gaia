@@ -45,7 +45,7 @@ works:
     width: 140
     depth: 0
   description: "2021"
-  price: 0
+  price: 3800
   contextual: true
 - title: L'indomptable en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
@@ -85,7 +85,7 @@ works:
     height: 120
     width: 120
     depth: 0
-  description: ''
+  description: Encadrement caisse américaine bois noir
   price: 4200
   contextual: true
 - title: Déferlante
@@ -98,7 +98,7 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: "2021"
+  description: Encadrement caisse américaine bois noir 2021
   price: 3200
   contextual: true
 - title: L'agitation
