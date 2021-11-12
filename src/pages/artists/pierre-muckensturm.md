@@ -223,7 +223,7 @@ works:
     width: 183
     depth: 0
   description: "Visible à la galerie, en réserve   \n2014"
-  price: 11500
+  price: 13600
   contextual: true
   fields:
   - Peinture
@@ -237,7 +237,7 @@ works:
     width: 183
     depth: 0
   description: ''
-  price: 11500
+  price: 13600
   contextual: false
   technique: technique mixte et huile sur toile sur châssis
 - title: 14P2906 détail
@@ -249,7 +249,7 @@ works:
     width: 183
     depth: 0
   description: "2014"
-  price: 11500
+  price: 13600
   contextual: true
   fields:
   - Peinture
