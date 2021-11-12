@@ -26,6 +26,19 @@ biography: |-
   [L’exposition Polymorphie ](https://galeriegaia.fr/actualites/ "exposition galerie gaia nantes")organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: Prés contigus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
+    morin-prés contigus-1974.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 55
+    width: 46
+    depth: 0
+  description: "1974  \nVisible à la galerie"
+  price: 2400
+  contextual: true
 - fields: []
   styles: []
   dimensions:
@@ -33,7 +46,7 @@ works:
     width: 81
     depth: 0
   description: "1983"
-  price: 0
+  price: 3300
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
     morin-ressac-60x81-1983.jpg
@@ -62,19 +75,6 @@ works:
   description: "1975"
   price: 4300
   contextual: false
-- title: Prés contigus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
-    morin-prés contigus-1974.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 55
-    width: 46
-    depth: 0
-  description: "1974  \nVisible à la galerie"
-  price: 2400
-  contextual: true
 - title: Bois secs (I)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
     sec.jpg
