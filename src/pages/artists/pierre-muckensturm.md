@@ -420,7 +420,7 @@ works:
     width: 183
     depth: 0
   description: 'Visible à la galerie, en réserve '
-  price: 11500
+  price: 13600
   contextual: true
   fields:
   - Peinture
@@ -434,7 +434,7 @@ works:
     width: 183
     depth: 0
   description: ''
-  price: 11500
+  price: 13600
   contextual: false
 - title: 203R0941 -  composition à 6 angles  à Entas -
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
