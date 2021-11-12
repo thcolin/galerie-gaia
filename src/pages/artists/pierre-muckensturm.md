@@ -6,47 +6,56 @@ fields:
 - Oeuvre sur papier
 - Edition
 - Peinture
+- Dessin
 birth: "0"
 death: "0"
 expose: true
-biography: "# Pierre Muckensturm \n\nL'artiste est né le 20 février 1970 à Strasbourg,
-  vit et travaille à Colmar. En 1994, lors de sa formation à l'Institut Universitaire
-  de Formation des Maîtres à Colmar, il a pour professeur Jean Jérome, enseignant
-  à la faculté d'arts plastiques de Strasbourg avec lequel il se lie d'amitié et qui
-  lui transmet sa passion de la peinture. Il participe entre 1997 et 2001 à des ateliers
-  d'art plastiques et aura de ce fait l'occasion de faire découvrir ses premiers travaux
-  lors d'expositions collectives au Centre Rhénan d'Art Contemporain à Altkirch (France).
-  Depuis lors il mène une carrière artistique parallèlement à sa profession d'enseignant
-  spécialisé.\n\nDepuis 1995  Pierre  Muckensturm  mène un travail plastique avec
-  constance, distant de tout effet de mode, dans lequel apparaît la volonté de réfléchir
-  le tableau comme une clé de compréhension du rapport que nous pouvons avoir à notre
-  propre temporalité. Le processus fondateur du travail de Pierre Muckensturm trouve
-  son origine dans une visite de la chapelle de Ronchamp, œuvre maîtresse de l’architecte
-  Charles Edouard Jeanneret. Là, il comprend qu’une justesse peut être puisée dans
-  un subtil dialogue entre massivité et élévation. Dès lors, l'artiste décide d’adopter
-  un langage formel simple : le tableau se construira à partir de deux pôles : un
-  tracé massif s’allégeant par sa juxtaposition à des vides. Cette simplicité formelle
-  sera associée à une matérialité très dépouillée, qui inscrira l’oeuvre dans un temps
-  indicible. L'artiste a franchi un pas important dans ses recherches par une pratique
-  assidue de la gravure notamment au sein des ateliers Rémy Bucciali. Elle participe
-  à une évolution de sa peinture : son oeuvre gravée s’applique, par des déploiements
-  de lignes contenues qui peuvent se faire formes, à fixer sa perception temporelle
-  ressentie lors d’une résidence sur le continent africain. Pierre Muckensturm veille
-  depuis toujours à ce que ses oeuvres tant gravées que peintes soient, comme ont
-  pu l’être en leur temps les peintures japonaises, des «objets tranquilles», des
-  formes silencieuses. Il appuie ses recherches sur la certitude que, comme a pu l’affirmer
-  Julius Bissier : « le calme est plus grand que la tempête».\n\nLors d'une résidence
-  artistique en 2010 au musée Boribana de Dakar, un inconnu rapport à la temporalité
-  d'une infinie souplesse s'impose à lui en Afrique. A partir de cette expérience,
-  parallèlement à son œuvre peinte, il développe un important travail de gravure,
-  en collaboration avec le taille-doucier Rémy Bucciali, qui vise la fixation d'une
-  ligne/forme d'une souplesse, courbure et d'un déploiement qui puissent le plus justement
-  exprimer sa nouvelle préhension temporelle.\n\nP i e r r e    M u c k e n s t u
-  r m  est actuellement représenté par :\nGalerie IDEELART/ London\nGalerie Lazarew
-  . Paris + Bruxelles .\nGalerie Michelle Champetier . Cannes .\nGalerie KAZoART .
-  www . Paris .\nGalerie Hus . Paris .\nGalerie Leizorovici . Paris .\nGalerie Rémy
-  Bucciali . Colmar .\nGalerie L’espace du dedans . Lille .\nGalerie Gaïa . Nantes
-  ."
+biography: "# Pierre Muckensturm\n\n« J’ai un goût prononcé pour la fantaisie, avec
+  une tolérance de plus ou moins deux virgule deux degrés. » s’amuse Pierre Muckensturm.
+  \ \n  \nDans la série intitulée _\\[Entasis\\]_ qu’il développe depuis 2019, l’artiste
+  s’intéresse à l’incidence de la ligne courbe sur la perception des constructions
+  rigoureusement orthogonales.  \n  \nL’Entasis, c’est appliquer une imperceptible
+  courbure qui permet à ce qui n’est pas droit de paraître droit. Pour corriger la
+  légère déformation créée par la perspective, les architectes de l’antiquité grecque
+  bombaient finement les colonnes de leurs temples pour que l’œil rationnel dresse
+  le cerveau irrationnel à voir une perfection rectiligne absente. Ou au-delà de la
+  perfection…  \n  \nC’est ce jeu de la règle déréglée qui intéresse et que décline
+  Pierre Muckensturm. Une recherche ludique, une compulsion maîtrisée se déployant
+  en pratique sérielle. Elle génère ces chorégraphies d’équerres tournées, retournées,
+  alignées, désalignées tournoyant sur le blanc de ses toiles accrochées en monômes,
+  en binômes, par trois ou quatre, en damiers… Les fruits incertains et fragiles de
+  la rigueur mathématique détournée. Des carrés qui s’excusent de ne pas l’être…  \n
+  \ \nSon geste plastique colonise le support – toile, papier, murs d’accrochage –,
+  joue l’entre cadres, scande la fiction d’une articulation rigoureuse générant de
+  l’instable, du traviole, du doute et finalement une débauche là où aurait dû s’afficher
+  un garde-à-vous.  \n  \nUne musique pour l’œil (et l’esprit). Une tension de sarabande
+  comme celle d’une partita de Bach avec la même volonté d’épuiser un motif pour accéder
+  à son épure.  \n  \nLuc Maechel - journaliste et critique d’art  \nColmar 2020\n\nL'artiste
+  né en 1970 à Strasbourg, vit et travaille à Colmar. \n\nDepuis 1995  Pierre  Muckensturm
+  \ mène un travail plastique avec constance, distant de tout effet de mode, dans
+  lequel apparaît la volonté de réfléchir le tableau comme une clé de compréhension
+  du rapport que nous pouvons avoir à notre propre temporalité. Le processus fondateur
+  du travail de Pierre Muckensturm trouve son origine dans une visite de la chapelle
+  de Ronchamp, œuvre maîtresse de l’architecte Charles Edouard Jeanneret. Là, il comprend
+  qu’une justesse peut être puisée dans un subtil dialogue entre massivité et élévation.
+  Dès lors, l'artiste décide d’adopter un langage formel simple : le tableau se construira
+  à partir de deux pôles : un tracé massif s’allégeant par sa juxtaposition à des
+  vides. Cette simplicité formelle sera associée à une matérialité très dépouillée,
+  qui inscrira l’oeuvre dans un temps indicible. L'artiste a franchi un pas important
+  dans ses recherches par une pratique assidue de la gravure notamment au sein des
+  ateliers Rémy Bucciali. Elle participe à une évolution de sa peinture : son oeuvre
+  gravée s’applique, par des déploiements de lignes contenues qui peuvent se faire
+  formes, à fixer sa perception temporelle ressentie lors d’une résidence sur le continent
+  africain. Pierre Muckensturm veille depuis toujours à ce que ses oeuvres tant gravées
+  que peintes soient, comme ont pu l’être en leur temps les peintures japonaises,
+  des «objets tranquilles», des formes silencieuses. Il appuie ses recherches sur
+  la certitude que, comme a pu l’affirmer Julius Bissier : « le calme est plus grand
+  que la tempête»\n\nP i e r r e    M u c k e n s t u r m  est actuellement représenté
+  par :\n\nGalerie [La Ligne Zurich](http://www.galerie-la-ligne.ch/index.php \"galerie
+  la ligne zurich\")\n\nGalerie IDEELART/ London Galerie Lazarew . Paris + Bruxelles
+  . Galerie Michelle Champetier . Cannes . Galerie KAZoART . www . Paris . Galerie
+  Hus . Paris . Galerie Leizorovici . Paris . Galerie Rémy Bucciali . Colmar . Galerie
+  L’espace du dedans . Lille "
 exhibitions: []
 works:
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
