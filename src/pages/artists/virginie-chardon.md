@@ -58,8 +58,8 @@ works:
   description: "Fonderie Paumelle  \nSérie limitée"
   price: 5900
   contextual: false
-- title: Omer Le Dog Allemand
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-omer-2.jpg
+- title: 'Omer avec Virginie '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-portrait.jpg
   technique: 'Bronze '
   dimensions:
     height: 50
