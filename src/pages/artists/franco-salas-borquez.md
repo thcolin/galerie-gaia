@@ -34,6 +34,19 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: La mer montée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
+    salas borquez-la mer montee.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 140
+    depth: 0
+  description: "2021"
+  price: 0
+  contextual: true
 - title: L'indomptable en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     salas borquez-l'indomptable.jpg
