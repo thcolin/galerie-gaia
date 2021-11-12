@@ -7,11 +7,11 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Virginie Chardon \n\n\"Voilà plus d’une dizaine d’années que Virginie
+biography: "# Virginie Chardon\n\n\"Voilà plus d’une dizaine d’années que Virginie
   Chardon travaille la terre glaise, au sein de l’atelier de Rrose Sélavy à Paris,
   réalisant ainsi des sculptures aux formes et visages multiples, issus d’univers
   qui leur sont propres, qui ont évolué au gré de ses inspirations et des moments
-  de vie. C’est la passion qui leur a donné corps !   \nDepuis l’enfance, c’est la
+  de vie. C’est la passion qui leur a donné corps !  \nDepuis l’enfance, c’est la
   passion du dessin, de la photo et de la bande dessinée qui n’a de cesse de grandir
   en elle jusqu’à se transformer en une véritable évidence. C’est ainsi que naturellement
   est née cette aventure.  Enfin, son attirance pour l’image a pu s’exprimer : le
@@ -34,7 +34,11 @@ biography: "# Virginie Chardon \n\n\"Voilà plus d’une dizaine d’années que
   GAÎA_ - Nantes  \nMai : _WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD_ - Mall
   Galleries London  \nNovembre- Décembre : _SNAA_ Salon Nationale des Artistes Animaliers
   - Bry Sur Marne\n\n**2020** :  \n_Février : ART CAPITAL_ - GRAND PALAIS, Paris -
-  **MENTION  \nJuin : _ART EXPO_ by Maison & Jardin - Atelier Basfroi - Paris 11ème"
+  **MENTION  \nJuin : _ART EXPO_ by Maison & Jardin - Atelier Basfroi - Paris 11ème
+  \ \nExposition à la Chapelle du Bourg – Arradon (56)\n\n**2021** :\n\n**LE BASILE
+  Hôtel** – Collection Permanente - Paris  \n**GALERIE Philippe HEIM** – Les Sablons,
+  Bruxelles  \n**SAB Expo** Septembre Galerie Costermans - Bruxelles  \n**_ART EXPO_**
+  _by Maison & Jardin – Atelier Basfroi - Paris_"
 exhibitions:
 - {}
 works:
