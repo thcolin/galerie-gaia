@@ -49,13 +49,14 @@ works:
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg
 - title: James le cocker anglais
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-STAN
+    détail.jpg
   technique: 'bronze '
   dimensions:
     height: 50
     width: 40
     depth: 46
-  description: "Fonderie Paumelle  \nSérie limitée"
+  description: Fonderie Paumelle Edition 8 exemplaires + IV EA
   price: 5900
   contextual: false
 - title: 'Omer avec Virginie '
