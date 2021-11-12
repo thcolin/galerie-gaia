@@ -47,9 +47,9 @@ works:
   description: "pièces numérotées /8  \nFonderie Paumelle"
   price: 4900
   contextual: false
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg
 - title: James le cocker anglais
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-james-sculpture-bronze-arradon.jpg
   technique: 'bronze '
   dimensions:
     height: 50
@@ -59,7 +59,7 @@ works:
   price: 5900
   contextual: false
 - title: Omer Le Dog Allemand
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-omer-2.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-omer-2.jpg
   technique: 'Bronze '
   dimensions:
     height: 50
@@ -69,7 +69,7 @@ works:
   price: 7000
   contextual: false
 - title: Omer Le Dog Allemand
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/omer.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Omer.jpg
   technique: bronze
   dimensions:
     height: 50
@@ -80,7 +80,7 @@ works:
   sold: false
   contextual: false
 - title: Hipolyte le morse
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hipolyte-le-morse.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hipolyte-le-morse.jpg
   technique: 'bronze '
   dimensions:
     height: 77
@@ -91,7 +91,7 @@ works:
   sold: false
   contextual: false
 - title: Le pélican
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-pelican.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-pelican.jpg
   technique: bronze
   dimensions:
     height: 60
@@ -102,7 +102,7 @@ works:
   sold: false
   contextual: false
 - title: Balthazar l'Orang Outan
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/balthazar.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/balthazar.jpg
   technique: bronze
   dimensions:
     height: 43
@@ -113,7 +113,7 @@ works:
   sold: false
   contextual: false
 - title: Portrait de Virginie Chardon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-portrait.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-portrait.jpg
   technique: 'Bronze de Omer le Dug Allemand '
   dimensions:
     height: 0
