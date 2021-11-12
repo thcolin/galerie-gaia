@@ -70,7 +70,7 @@ works:
     height: 50
     width: 46
     depth: 40
-  description: "pièce numérotée /8  \nFonderie Candide"
+  description: _ART CAPITAL_ - GRAND PALAIS, Paris - **MENTION
   price: 7000
   contextual: false
 - title: Omer Le Dog Allemand
