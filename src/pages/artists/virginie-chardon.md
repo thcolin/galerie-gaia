@@ -42,6 +42,19 @@ biography: "# Virginie Chardon\n\n\"Voilà plus d’une dizaine d’années que 
 exhibitions:
 - {}
 works:
+- title: 'Cesar et Virginie '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Gorille
+    et Virginie.jpg
+  technique: Bronze
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 64
+    depth: 45
+  description: "Edition en 8 exemplaires + IV EA  \nFonderie Delorme"
+  price: ''
+  contextual: true
 - title: Stan le bouledog anglais
   technique: 'Bronze '
   dimensions:
