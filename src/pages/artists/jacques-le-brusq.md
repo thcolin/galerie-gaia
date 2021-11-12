@@ -257,10 +257,9 @@ works:
     height: 48
     width: 63
     depth: 0
-  description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
+  description: Réservé
   price: 4000
-  sold: false
+  sold: true
   contextual: true
 - title: '03 PAY VE FON '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
