@@ -167,8 +167,8 @@ works:
   price: 3300
   contextual: true
 - title: 'Arbre à couleurs '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-Morin-arbre
-    à couleurs.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
+    morin-fleurs coupés-1978.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
