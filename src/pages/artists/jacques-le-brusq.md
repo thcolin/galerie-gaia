@@ -103,7 +103,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: '[https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur](https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur
+    "https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur")'
   price: 
   sold: false
   contextual: false
