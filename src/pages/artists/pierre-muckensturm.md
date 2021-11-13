@@ -391,7 +391,7 @@ works:
   fields:
   - Peinture
 - title: 14P1832263 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-GF2.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 14P1832263.jpeg
   technique: 'Technique mixte et huile sur toile sur châssis '
   fields: []
   styles: []
