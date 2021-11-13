@@ -123,16 +123,15 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Trio algue bleu pâle 55
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
-    algues 56 92x45 bleu pale.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+- title: 'Algue bleue fond rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
+  technique: 'Sérigraphie  signée numérotée 20/50 '
   fields:
   - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 45
-    width: 92
+    height: 65
+    width: 65
     depth: 0
   description: ''
   price: 90
