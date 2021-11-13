@@ -24,6 +24,19 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: 'Algue bleue fond rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
+  technique: 'Sérigraphie  signée numérotée 20/50 '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 65
+    width: 65
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
 - title: 'Algue orange 34 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
     34.jpg
@@ -109,30 +122,16 @@ works:
     \ \nvert n°37 38 39  \nbrique n° 40 41 42"
   price: 80
   contextual: false
-- title: Trio algues 57
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
-    algues 92x45  57.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+- title: Balânes -  bleu sur fond vert argile
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143707.jpg
+  technique: 'Sérigraphie  signée numérotée en 21/50 '
   fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 92
-    depth: 0
-  description: ''
-  price: 90
-  contextual: true
-- title: 'Algue bleue fond rouge '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
-  technique: 'Sérigraphie  signée numérotée 20/50 '
-  fields:
-  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 65
     width: 65
     depth: 0
-  description: ''
+  description: "2020"
   price: 90
   contextual: true
 - title: Algue vert argile 18
