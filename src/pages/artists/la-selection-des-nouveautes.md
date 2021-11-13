@@ -21,7 +21,7 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Jeudi 11 Novembre Rencontrez Jacques le Brusq '
+- title: 'Samedi 20 Novembre Rencontrez Jacques le Brusq '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_151057.jpg
   technique: huile sur papier et sur toile
   fields: []
