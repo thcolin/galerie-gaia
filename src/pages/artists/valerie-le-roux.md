@@ -24,7 +24,7 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: 'Algue bleue fond rouge '
+- title: 'Algue -bleu sur fond rouge '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
   technique: 'Sérigraphie  signée numérotée 20/50 '
   fields:
@@ -34,8 +34,20 @@ works:
     height: 65
     width: 65
     depth: 0
-  description: ''
+  description: "2020"
   price: 90
+  contextual: true
+- title: Algue - bleu sur fond vert argile
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143856.jpg
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 72
+    width: 72
+    depth: 0
+  description: Format de l’œuvre avec cadre bois naturel teinté et ciré
+  price: 190
   contextual: true
 - title: 'Algue orange 34 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
@@ -147,6 +159,19 @@ works:
   description: ''
   price: 95
   contextual: true
+- title: 'Trio Poisson rayé rouge orangé '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
+  technique: Sérigraphie 23/100
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: "2020"
+  price: 95
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Balanes jaunes 44
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-BALANES
     jaune 44 32X65.jpg
@@ -234,19 +259,6 @@ works:
     width: 65
     depth: 
   description: vendu sans cadre
-  price: 95
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Trio Poisson rayé rouge orangé '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
-  technique: Sérigraphie 23/100
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: "2020"
   price: 95
   sold: false
   contextual: true
