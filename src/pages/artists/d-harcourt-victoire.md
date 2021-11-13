@@ -15,7 +15,16 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "# Victoire D'Harcourt"
+biography: |-
+  # Victoire D'Harcourt
+
+  Au départ, il s'agit de ronds bien sages, enchevêtrés gentiment les uns dans les autres. Solides et sûrs d’eux-mêmes. Solidaires et unis pour toujours. Quoi de plus tranquillisant que ces liens indéfectibles, indissolubles, qui donnent le sentiment que rien ne pourra les séparer. Tout paraît tellement établi et tellement durable. Nous voilà bien rassurés.
+
+  Pourtant, à bien y regarder, cette toute puissance est plus fragile qu’il n’y paraît et ces grands ronds ne tiennent qu’à un fil. Unis ou libre ? Il est trop tard, l’artiste a choisi. Impossible de se séparer au risque de tout casser. La quête de la liberté est impossible.
+
+  Le travail de Victoire d’Harcourt exprime souvent un double sentiment qui lie à la fois la force et la fragilité dans un ensemble dont l’équilibre est précaire
+
+  2021 : Cours d'accueil de l'hôpital Necker Aluminium poli
 works:
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
