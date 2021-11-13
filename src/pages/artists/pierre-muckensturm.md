@@ -58,6 +58,20 @@ biography: "# Pierre Muckensturm\n\n« J’ai un goût prononcé pour la fantais
   L’espace du dedans . Lille "
 exhibitions: []
 works:
+- title: XXI 23023 juxtaposition de 16 quasi carrés constitués de 64 angles à entas
+    0°
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    muckensturm XXI 23 023.jpg
+  technique: Crayon encre de chine sur papier BFK Rives
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: ''
+  price: 1400
+  contextual: true
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition02.jpg
   technique: Coffret 12 planches
@@ -102,40 +116,6 @@ works:
     J'ai choisi la typographie car je suis tombé sous le charme de la presse à platine Heidelberg datant de 1965 qui se trouve dans cet atelier et surtout car elle permet une impression en relief (le trait est encré + foulé dans le papier).
   price: 500
   contextual: true
-- title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition04.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
-  technique: Coffret 12 planches texte de présentation
-- fields:
-  - Edition
-  styles: []
-  dimensions:
-    height: 25
-    width: 25
-    depth: 0
-  description: |-
-    \[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE\]
-
-    Edition 50 exemplaires  carton sérigraphiés, numérotés et signés
-
-    Contenant 12 typographies originales numérotées et signées format 25x25 cm imprimées sur papier BFK Rives
-
-    Réalisé en collaboration avec l'atelier En l'Encre Nous Croyons , ancien responsable d'atelier des Imageries d'Epinal
-
-    J'ai choisi la typographie car je suis tombé sous le charme de la presse à platine Heidelberg datant de 1965 qui se trouve dans cet atelier et surtout car elle permet une impression en relief (le trait est encré + foulé dans le papier).
-  price: 500
-  contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition03.jpg
-  title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
-  technique: Coffret 12 planches
 - title: 2023P3481 basculement de carrés avec entas pour interstices et décalage dans
     le repère orthogonal
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckenturm-2023P3481.jpg
@@ -160,20 +140,6 @@ works:
     depth: 0
   description: Edition en 22 exemplaires
   price: 400
-  contextual: true
-- title: XXI 23023 juxtaposition de 16 quasi carrés constitués de 64 angles à entas
-    0°
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    muckensturm XXI 23 023.jpg
-  technique: Crayon encre de chine sur papier BFK Rives
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: ''
-  price: 1400
   contextual: true
 - title: XXI 19 021 36 angles avec entas pour former croix ou carrés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre

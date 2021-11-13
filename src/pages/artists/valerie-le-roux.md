@@ -24,6 +24,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: 'Algue orange 34 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
+    34.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  dimensions:
+    height: 92
+    width: 65
+    depth: 
+  description: ''
+  price: 95
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
@@ -38,33 +52,6 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Grand plat algue orange
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-valerie-leroux-plat
-    orange 36CM.jpg
-  technique: Céramique pièce unique
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 36
-    width: 36
-    depth: 7
-  description: Pièce unique Vendu
-  price: 160
-  contextual: false
-- title: Grand plat bleu et ocre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Valérie-Leroux-grand
-    plat 2.jpg
-  technique: Faïence signée main
-  fields: []
-  styles: []
-  dimensions:
-    height: 5
-    width: 43
-    depth: 43
-  description: Vendu
-  price: 240
-  contextual: false
 - title: Algue curry 35
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
     35.jpg
@@ -203,20 +190,6 @@ works:
   description: ''
   price: 80
   contextual: true
-- title: 'Algue orange 34 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
-    34.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  dimensions:
-    height: 92
-    width: 65
-    depth: 
-  description: ''
-  price: 95
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Poisson russe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ia.jpg
   technique: Sérigraphie
