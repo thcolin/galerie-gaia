@@ -142,6 +142,18 @@ works:
   description: 2019 Prix sur demande
   price: ''
   contextual: false
+- title: Trash yellow and sweet velvet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021052801-TRASHYELLOWANDSWEETVELVET-ColorsonLargeCanvas-180x120cm_bd_1000p.jpg
+  technique: Technique mixte sur toile en lin châssis bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 180
+    width: 120
+    depth: 0
+  description: "2021  \nPrix sur demande"
+  price: ''
+  contextual: true
 - title: 'Petit crade à l''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2020031706-PETITCRADE-100X72CM-atelier.jpg
