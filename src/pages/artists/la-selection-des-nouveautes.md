@@ -34,6 +34,42 @@ works:
     "jacques le brusq")'
   price: 0
   contextual: true
+- title: Livre coffret François Morellet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
+  technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
+    Velin Arches 240gr.
+  fields:
+  - Edition
+  styles:
+  - Abstrait
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: "[Francois Morellet](https://galeriegaia.fr/artists/morellet-francois/
+    \"françois morellet\")\n\nLivre d'artiste composé de 11 lithographies N°6/30  \nCe
+    coffret appartient aux réserves de l'éditeur nantais Jean Pierre Nuaud qui a édité
+    pour l'association René de Tréméac ce coffret de 11 lithographies originales signées
+    et numérotées de 1 à 30 sur papier Velin Arches 240gr.Le coffret est en parfait
+    état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a
+    donné un état de conservation parfait.\n\nRARE et superbe"
+  price: 6000
+  contextual: false
+- title: 'Algue  Valérie Le Roux '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-le
+    roux-algue verte MES.jpg
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 72
+    width: 72
+    depth: ''
+  description: "[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
+    \"valerie le roux\")  \navec cadre 190€"
+  price: 90
+  contextual: false
+  technique: Sérigraphie 20/50
 - title: Station 7 2020 par Aline Isoard
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-vitrine.jpg
   technique: Photographie pigmentée tirage unique
@@ -69,27 +105,6 @@ works:
 
     vendu
   price: ''
-  contextual: false
-- title: Livre coffret François Morellet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
-  technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
-    Velin Arches 240gr.
-  fields:
-  - Edition
-  styles:
-  - Abstrait
-  dimensions:
-    height: 30
-    width: 25
-    depth: 0
-  description: "[Francois Morellet](https://galeriegaia.fr/artists/morellet-francois/
-    \"françois morellet\")\n\nLivre d'artiste composé de 11 lithographies N°6/30  \nCe
-    coffret appartient aux réserves de l'éditeur nantais Jean Pierre Nuaud qui a édité
-    pour l'association René de Tréméac ce coffret de 11 lithographies originales signées
-    et numérotées de 1 à 30 sur papier Velin Arches 240gr.Le coffret est en parfait
-    état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a
-    donné un état de conservation parfait.\n\nRARE et superbe"
-  price: 6000
   contextual: false
 - title: 'Papier huilé 3 Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
@@ -244,21 +259,6 @@ works:
   description: "2011"
   price: 1500
   contextual: true
-- title: 'Algue  Valérie Le Roux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-le
-    roux-algue verte MES.jpg
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 72
-    width: 72
-    depth: ''
-  description: "[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
-    \"valerie le roux\")  \navec cadre 190€"
-  price: 90
-  contextual: false
-  technique: Sérigraphie 20/50
 - title: Primitive N°3 de Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
   technique: Fer recuit
