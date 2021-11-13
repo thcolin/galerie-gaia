@@ -244,21 +244,21 @@ works:
   description: "2011"
   price: 1500
   contextual: true
-- title: 'Grand plat Valérie Le Roux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-valerie-leroux-plat
-    orange 36CM 2.jpg
+- title: 'Algue  Valérie Le Roux '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-le
+    roux-algue verte MES.jpg
   fields:
-  - Céramique
+  - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 5
-    width: 36
-    depth: 36
+    height: 72
+    width: 72
+    depth: ''
   description: "[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
-    \"valerie le roux\")  \nvendu"
-  price: ''
+    \"valerie le roux\")  \navec cadre 190€"
+  price: 90
   contextual: false
-  technique: Céramique pièce unique
+  technique: Sérigraphie 20/50
 - title: Primitive N°3 de Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
   technique: Fer recuit
