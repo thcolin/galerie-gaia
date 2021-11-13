@@ -216,15 +216,15 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Tête à queue rouge
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/863.jpg
-  technique: Sérigraphie
+- title: Banc de poisson orange
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143350.jpg
+  technique: Sérigraphie 40/100
   dimensions:
     height: 93
     width: 65
     depth: 
-  description: ''
-  price: 80
+  description: "2020"
+  price: 95
   sold: false
   contextual: true
   fields:
