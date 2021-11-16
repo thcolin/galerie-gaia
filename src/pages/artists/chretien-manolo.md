@@ -47,6 +47,19 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
+- title: Cockpit Concorde in situ dans des bureaux
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CONCORDE-COCKPIT-INSITU.jpg
+  technique: Photo sublimation sur feuille d'aluminium brossée brillant
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Disponible en 150X100 6800€
+  price: 4500
+  sold: false
+  contextual: true
 - title: 'Exoplanéte #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-PLANETE-12-50X50-1C5A0957.jpg
   technique: 'Photo sublimation sur feuille d''aluminium brossée brillant caisse américaine
