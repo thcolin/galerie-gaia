@@ -300,8 +300,8 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Territoires Colorés #15'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Isthme-Territoires
-    Colorés15-76cmx57cm-2020.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-territoires
+    colorés 15-76X56.jpg
   technique: Collage
   dimensions:
     height: 76
@@ -318,8 +318,8 @@ works:
   dimensions:
     height: 146
     width: 114
-  description: "2016"
-  price: 3200
+  description: 2016 prix sur demande
+  price: ''
   contextual: true
 - title: 'Installation Nuits en mer #24 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuits-en-mer-24-installation.jpg
