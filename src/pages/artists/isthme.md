@@ -109,6 +109,19 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: Summer solstice
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-LITHO 2021-76X56cm-Summer
+    Solstice.jpg
+  technique: Lithographie 4/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: '2021 Musée imprimerie de Nantes '
+  price: 500
+  contextual: true
 - title: 'Deep Blue #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
   technique: 'Acrylique sur toile '
@@ -185,19 +198,6 @@ works:
     depth: 0
   description: ''
   price: 750
-  contextual: true
-- title: 'Farandole rouge ciel '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE
-    ROUGE-CIEL 1-2-Technique mixte-2020-65X50.jpg
-  technique: 'Litho 1/6 '
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: '2021 Musée imprimerie de Nantes '
-  price: 380
   contextual: true
 - title: Farandole J
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-farandole
