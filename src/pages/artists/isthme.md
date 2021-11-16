@@ -225,23 +225,10 @@ works:
   description: '2020 Musée de l''imprimerie de Nantes '
   price: 380
   contextual: true
-- title: Farandole Rouge Gris
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-FARANDOLE-ROUGE-GRIS-1-6-.jpg
-  technique: Litho 1/6
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: "2021"
-  price: 380
-  contextual: true
-- title: Farandole gris
+- title: Farandole b
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-FARANDOLE-GRIS
     1:6-Litho-2020-65x50.jpg
-  technique: Lithographie  6 exemplaires
+  technique: Lithographie  2/5
   fields:
   - Oeuvre sur papier
   styles: []
@@ -283,7 +270,7 @@ works:
     height: 77
     width: 58
     depth: 0
-  description: ''
+  description: Sur demande
   price: 750
   contextual: true
   fields:
