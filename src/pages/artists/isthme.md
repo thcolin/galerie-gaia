@@ -109,6 +109,19 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: Territoires colorés II encadré
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Linogravure 3 couleurs
+    50 X64.jpg
+  technique: Linogravure tirage 13 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: Reste la 5 et 6/13
+  price: 380
+  contextual: false
 - title: Summer solstice
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-LITHO 2021-76X56cm-Summer
     Solstice.jpg
