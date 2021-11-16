@@ -134,9 +134,9 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
-- title: Territoire Noir/Blanc - /10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Territoire
-    Noir:Blanc-3:12-76,5x57.jpg
+- title: Territoire Noir/Blanc
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme-territoir
+    noir blanc-10-10.jpg
   technique: Lithographie en 10 exemplaires + Collage papier japon
   fields: []
   styles: []
@@ -144,7 +144,7 @@ works:
     height: 76.5
     width: 57
     depth: 0
-  description: chaque pièce est unique
+  description: "chaque pièce est unique du fait du collage  \nVisuel du 10/10"
   price: 600
   contextual: true
 - title: 'Small Architecture #22 - 2018'
