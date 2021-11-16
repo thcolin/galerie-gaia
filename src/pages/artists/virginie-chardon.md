@@ -53,7 +53,7 @@ works:
     width: 64
     depth: 45
   description: "Edition en 8 exemplaires + IV EA  \nFonderie Delorme"
-  price: ''
+  price: 9900
   contextual: true
 - title: Le cachalot
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-IMG_9741.jpg
@@ -65,8 +65,8 @@ works:
     height: 70
     width: 60
     depth: 30
-  description: Vendu avec socle en acier et sangle en cuir
-  price: ''
+  description: "Vendu avec socle en acier et sangle en cuir  \nSur commande"
+  price: 6900
   contextual: true
 - title: Stan le bouledog anglais
   technique: 'Bronze '
