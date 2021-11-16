@@ -89,16 +89,6 @@ works:
   description: Fonderie Paumelle Edition 8 exemplaires + IV EA
   price: 5900
   contextual: false
-- title: 'Omer avec Virginie '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-portrait.jpg
-  technique: 'Bronze '
-  dimensions:
-    height: 50
-    width: 46
-    depth: 40
-  description: _ART CAPITAL_ - GRAND PALAIS, Paris - **MENTION
-  price: 7000
-  contextual: false
 - title: Omer Le Dog Allemand
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Omer.jpg
   technique: bronze
@@ -143,16 +133,16 @@ works:
   price: 5400
   sold: false
   contextual: false
-- title: Portrait de Virginie Chardon
+- title: 'Omer avec Virginie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-portrait.jpg
-  technique: 'Bronze de Omer le Dug Allemand '
+  technique: 'Bronze '
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
+    height: 50
+    width: 46
+    depth: 40
+  description: _ART CAPITAL_ - GRAND PALAIS, Paris - **MENTION
+  price: 7000
+  contextual: false
 redirect_from:
 - "/artistes/95-virginie-chardon/"
 styles:
