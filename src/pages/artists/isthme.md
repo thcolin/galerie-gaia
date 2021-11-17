@@ -109,6 +109,18 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: V2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-V1-2021-13x18.jpg
+  technique: Linogravure 2/7
+  fields: []
+  styles: []
+  dimensions:
+    height: 13
+    width: 18
+    depth: 0
+  description: vendu avec un passe partout prêt pour encadrement de format 30X40cm
+  price: 140
+  contextual: true
 - title: Lino B1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-B1-2021-13x18
     C.jpg
