@@ -147,7 +147,7 @@ works:
     depth: 0
   description: 'Linogravure 13X18cm vendu avec un passe partout de format 30X40cm
     prêt à encadrer '
-  price: 140
+  price: 230
   contextual: true
 - title: Lino V2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-V1-2021-13x18.jpg
@@ -159,7 +159,7 @@ works:
     width: 18
     depth: 0
   description: vendu avec un passe partout prêt pour encadrement de format 30X40cm
-  price: 140
+  price: 230
   contextual: true
 - title: Territoires colorés II encadré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Linogravure 3 couleurs
