@@ -47,6 +47,32 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
+- title: 'New wave #6'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#6.jpeg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
+- title: 'New Wave #5'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#5.jpeg
+  technique: Photographie sur aluminium brossé
+  fields: []
+  styles: []
+  dimensions:
+    height: 68
+    width: 110
+    depth: 0
+  description: Tirage en 9 exemplaires + 2 Epreuves d'Artistes
+  price: 3500
+  sold: false
+  contextual: true
 - title: New wave 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#2.jpg
   technique: Photographie sur aluminium brossé
