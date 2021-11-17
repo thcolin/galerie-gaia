@@ -151,7 +151,7 @@ works:
     height: 180
     width: 120
     depth: 0
-  description: "2021  \nPrix sur demande"
+  description: Réservée
   price: ''
   contextual: true
 - title: 'Petit crade à l''atelier '
