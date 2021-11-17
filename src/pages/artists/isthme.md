@@ -150,13 +150,14 @@ works:
   price: 230
   contextual: true
 - title: Lino V2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-V1-2021-13x18.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/insta-Isthme-6Linos-V2-2021-13x18.jpeg
   technique: Linogravure 2/7
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 13
-    width: 18
+    height: 30
+    width: 40
     depth: 0
   description: vendu avec un passe partout prêt pour encadrement de format 30X40cm
   price: 230
