@@ -109,19 +109,6 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
-- title: Territoires colorés II encadré
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Linogravure 3 couleurs
-    50 X64.jpg
-  technique: Linogravure tirage 13 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: Reste la 5 et 6/13
-  price: 380
-  contextual: false
 - title: Summer solstice
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-LITHO 2021-76X56cm-Summer
     Solstice.jpg
@@ -147,6 +134,19 @@ works:
   description: Prix sur demande
   price: ''
   contextual: true
+- title: Territoires colorés II encadré
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Linogravure 3 couleurs
+    50 X64.jpg
+  technique: Linogravure tirage 13 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: Reste la 5 et 6/13
+  price: 380
+  contextual: false
 - title: 'Allongée dans l''herbe #8'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-allongée
     dans l'herbe8-acrylique-146cmx114-2021.jpg
@@ -283,20 +283,21 @@ works:
     height: 77
     width: 58
     depth: 0
-  description: Sur demande
+  description: ''
   price: 750
   contextual: true
   fields:
   - Oeuvre sur papier
 - title: 'Cou-Rage #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-2-77x58.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-courage-E.jpg
   technique: Collage
   dimensions:
     height: 77
     width: 58
     depth: 0
-  description: ''
-  price: 750
+  description: Oeuvre encadrée baguette chêne montage caisson oeuvre posée sur carton
+    plume pour effet de flottement
+  price: 900
   contextual: true
   fields:
   - Oeuvre sur papier
@@ -334,19 +335,6 @@ works:
   description: 2016 prix sur demande
   price: ''
   contextual: true
-- title: 'Installation Nuits en mer #24 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuits-en-mer-24-installation.jpg
-  technique: Acrylique sur toile montée sur 6 châssis bois indépendant
-  dimensions:
-    height: 170
-    width: 180
-    depth: ''
-  description: "Installation créée pour l'exposition à la galerie en Juin 2019.  \nElle
-    se compose de 6 panneaux de 170cm de hauteur et 25 cm de largeur espacée de 6
-    cm installés selon le protocole de l'artiste."
-  price: 5500
-  sold: false
-  contextual: true
 - title: Nuit en mer III Litho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iii-113.jpg
   technique: Lithographie 13 exemplaires
@@ -373,36 +361,33 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'Soul Ground  #4'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans.jpg
-  technique: Collage sur papier Arches
-  dimensions:
-    height: 76
-    width: 57
-    depth: 
-  description: |-
-    2016
-
-    œuvre encadrée montage caisson papier flottant baguette chêne
-  price: 780
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Nuit en mer IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iv-425.jpg
-  technique: Lithographie en 25 exemplaires
+  technique: 'Lithographie 4/25 '
   dimensions:
     height: 69
     width: 53
     depth: 
   description: "œuvre encadrée montage caisson baguette chêne\n\n2019 Musée imprimerie
     de Nantes "
-  price: 480
+  price: 490
   sold: false
   contextual: true
   fields:
   - Oeuvre sur papier
+- title: 'Installation Nuits en mer #24 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuits-en-mer-24-installation.jpg
+  technique: Acrylique sur toile montée sur 6 châssis bois indépendant
+  dimensions:
+    height: 170
+    width: 180
+    depth: ''
+  description: "Installation créée pour l'exposition à la galerie en Juin 2019.  \nElle
+    se compose de 6 panneaux de 170cm de hauteur et 25 cm de largeur espacée de 6
+    cm installés selon le protocole de l'artiste."
+  price: 5500
+  sold: false
+  contextual: true
 - title: Portrait de Isthme
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isabelle-dans-son-atelier.jpg
   technique: ''
