@@ -15,6 +15,7 @@ artists:
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/chretien-manolo.md
+- artist: src/pages/artists/philippe-lecomte.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/man-pia.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
@@ -33,7 +34,6 @@ artists:
 - artist: src/pages/artists/mathilde-guiho.md
 - artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/nadia-barbotin.md
-- artist: src/pages/artists/philippe-lecomte.md
 - artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/dimitri-bourriau.md
 - artist: src/pages/artists/sebastien-bouchard.md

@@ -47,32 +47,6 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
-- title: Indian sabre 2 in situ
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-INDIAN-SABRE-INSITU.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 4500
-  sold: false
-  contextual: true
-- title: 'Exoplanète #5 in situ'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/EXOPLANETE#1-INSITU.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: ''
-  price: 3000
-  sold: false
-  contextual: true
 - title: 'New wave #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#6.jpeg
   technique: Photographie sur aluminium brossé
@@ -125,6 +99,19 @@ works:
   description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
     exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 
+  sold: false
+  contextual: true
+- title: 'Exoplanète #5 in situ'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/EXOPLANETE#1-INSITU.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: ''
+  price: 3000
   sold: false
   contextual: true
 - title: 'Exoplanète #6'
@@ -214,6 +201,19 @@ works:
   description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
     exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€\n\n140X140 cm 2 EA 8800€\n\nEdition
     limitée à 11 exemplaires"
+  price: 4500
+  sold: false
+  contextual: true
+- title: Indian sabre 2 in situ
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-INDIAN-SABRE-INSITU.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
   price: 4500
   sold: false
   contextual: true
