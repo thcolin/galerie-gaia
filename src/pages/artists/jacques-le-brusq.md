@@ -94,22 +94,6 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
-- title: 7731 GAR LEM OPUS 1 encadrée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-K7731 GAR LEM OPUS 1-100X70.jpg
-  technique: 'Huile sur papier '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: 2017 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
   technique: ''
@@ -139,6 +123,22 @@ works:
   price: 4000
   sold: false
   contextual: false
+- title: 7731 GAR LEM OPUS 1 encadrée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-K7731 GAR LEM OPUS 1-100X70.jpg
+  technique: 'Huile sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: 2017 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
+    bois naturel
+  price: 4000
+  sold: false
+  contextual: true
 - title: 9517 VER CLA FLO
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-9517-VER-CLA-FLO-OPUS-1_2018_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -249,6 +249,21 @@ works:
     depth: 0
   description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
+  price: 4000
+  sold: false
+  contextual: false
+- title: 29 AFR OPUS 1 encadrée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-29 AFR OPUS 100X70.jpg
+  technique: Huile sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: ''
   price: 4000
   sold: false
   contextual: true
