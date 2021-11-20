@@ -28,20 +28,6 @@ exhibitions:
   start: "0"
   end: 
 works:
-- title: Double trouble
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy-usclef-double
-    trouble.jpg
-  technique: Sérigraphie sur papier japon
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 113.5
-    width: 68.5
-    depth: 0
-  description: C'est le dernier exemplaire !
-  price: 300
-  contextual: true
 - title: Double
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double.jpg
   technique: Huile sur toile et technique mixte
@@ -99,6 +85,20 @@ works:
   description: "2017"
   price: 3000
   sold: false
+  contextual: true
+- title: Double trouble
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy-usclef-double
+    trouble.jpg
+  technique: Sérigraphie sur papier japon
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 113.5
+    width: 68.5
+    depth: 0
+  description: Epuisée
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/48-kazy-usclef/"
