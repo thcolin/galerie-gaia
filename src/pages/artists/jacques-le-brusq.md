@@ -94,7 +94,7 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
-- title: 7731 GAR LEM OPUS 1
+- title: 7731 GAR LEM OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-K7731 GAR LEM OPUS 1-100X70.jpg
   technique: 'Huile sur papier '
@@ -124,10 +124,11 @@ works:
   price: 
   sold: false
   contextual: false
-- title: 7731 GAE LEM OPUS 1
+- title: '7731 GAR LEM OPUS 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K7731-GAR-LEM-OPUS-1_2017_jacques-le-brusq_galerie-gaia.jpg
   technique: Huile sur papier
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 48
@@ -137,7 +138,7 @@ works:
     bois naturel
   price: 4000
   sold: false
-  contextual: true
+  contextual: false
 - title: 9517 VER CLA FLO
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-9517-VER-CLA-FLO-OPUS-1_2018_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
