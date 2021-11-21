@@ -91,6 +91,7 @@ button {
   background: #fff;
   border: 1px solid #272727;
   transition: all 200ms ease-in-out;
+  white-space: nowrap;
 }
 
 button:hover:not(:disabled), button.active {

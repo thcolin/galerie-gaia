@@ -28,8 +28,12 @@ const Contact = ({ ...props }) => {
       </section>
       <hr />
       <section css={Contact.styles.contact}>
-        <h2>Contact</h2>
+        <h2>Newsletter</h2>
         <RichText>{frontmatter.about}</RichText>
+        <ContactForm id="uth7YJ01" method='newsletter' />
+      </section>
+      <section css={Contact.styles.contact}>
+        <h2>Contact</h2>
         <ContactForm id="qJR6evrvE_8YqOTqPnVUU" />
       </section>
     </Layout>

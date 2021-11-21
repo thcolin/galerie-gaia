@@ -163,25 +163,7 @@ const Artist = ({ location, ...props }) => {
                       },
                     ]}
                   />
-                  <Contact
-                    id="66QKKrtv"
-                    method="phone"
-                    success="Merci ! Nous allons vous recontacter rapidement"
-                    toggle={true}
-                    inputs={[
-                      ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
-                        name,
-                        value: (
-                          typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                          name === 'image' ? fromFilesystem2S3(work.image) : work[name]
-                        ),
-                      })),
-                      {
-                        name: 'artist',
-                        value: frontmatter.title,
-                      },
-                    ]}
-                  />
+                  <Contact id="uth7YJ01" method='newsletter' toggle={true} />
                 </div>
               ))}
             </div>
