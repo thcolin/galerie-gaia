@@ -45,25 +45,6 @@ const Catalogue = ({ scrollPosition, ...props }) => {
   ), [])
 
   const options = useMemo(() => ({
-    artists: {
-      type: 'select',
-      transform: (page, artists) => !artists.length ? page : ({
-        ...page,
-        frontmatter: {
-          ...page.frontmatter,
-          works: artists.map(artist => artist.value).includes(page.frontmatter.title) ? page.frontmatter.works : [],
-        },
-      }),
-      props: {
-        label: 'Artistes',
-        isMulti: true,
-        isSearchable: true,
-        options: artists.map(artist => ({
-          value: artist.frontmatter.title,
-          label: artist.frontmatter.title,
-        }))
-      }
-    },
     styles: {
       type: 'select',
       transform: (page, styles) => !styles.length ? page : ({
@@ -105,6 +86,25 @@ const Catalogue = ({ scrollPosition, ...props }) => {
           label: field,
         })),
       },
+    },
+    artists: {
+      type: 'select',
+      transform: (page, artists) => !artists.length ? page : ({
+        ...page,
+        frontmatter: {
+          ...page.frontmatter,
+          works: artists.map(artist => artist.value).includes(page.frontmatter.title) ? page.frontmatter.works : [],
+        },
+      }),
+      props: {
+        label: 'Artistes',
+        isMulti: true,
+        isSearchable: true,
+        options: artists.map(artist => ({
+          value: artist.frontmatter.title,
+          label: artist.frontmatter.title,
+        }))
+      }
     },
     // TODO: Add `color`
     price: {
