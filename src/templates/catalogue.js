@@ -213,9 +213,6 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         </div>
         <h1>{frontmatter.title}</h1>
         <RichText children={frontmatter.description} />
-        <div css={Catalogue.styles.reinsurance}>
-          <Reinsurance />
-        </div>
         {pieces.length && (
           <small css={Catalogue.styles.resume}>
             <code>
@@ -256,6 +253,9 @@ const Catalogue = ({ scrollPosition, ...props }) => {
             </button>
           </nav>
         )}
+        <div css={Catalogue.styles.reinsurance}>
+          <Reinsurance />
+        </div>
       </section>
     </Layout>
   )
@@ -319,7 +319,7 @@ Catalogue.styles = {
     padding: '2em',
   },
   reinsurance: {
-    margin: '2rem 0 1rem 0',
+    margin: '2rem 0 0 0',
   }
 }
 
