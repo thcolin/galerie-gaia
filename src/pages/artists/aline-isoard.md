@@ -435,6 +435,8 @@ works:
   sold: false
   contextual: true
 exhibitions: []
+redirect_from:
+- "/artistes/aline/"
 seo:
   title: ''
   heading: ''
