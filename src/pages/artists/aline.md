@@ -57,7 +57,7 @@ works:
     depth: 0
   description: Pièce unique présentée sous passe-partout cartonné format 40X40 prêt
     à être encadrée.
-  price: 400
+  price: 380
   sold: false
   contextual: true
 - title: Station 7 2020
