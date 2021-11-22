@@ -176,16 +176,16 @@ works:
   description: Reste la 5 et 6/13
   price: 380
   contextual: false
-- title: 'Allongée dans l''herbe #8'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-allongée
-    dans l'herbe8-acrylique-146cmx114-2021.jpg
+- title: 'Allongée dans l''herbe #6b'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Allongée
+    dans l'herbe#6b-146X114-Acrylique sur toile.jpg
   fields: []
   styles: []
   dimensions:
     height: 146
     width: 114
     depth: 0
-  description: Réservé
+  description: "2021  \nPrix sur demande"
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
