@@ -159,7 +159,7 @@ works:
   description: ''
   price: 95
   contextual: true
-- title: 'Trio Poisson rayé rouge orangé '
+- title: 'Trio Poissons rayés rouge orangé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
   technique: Sérigraphie 23/100
   dimensions:

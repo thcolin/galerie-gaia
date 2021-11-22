@@ -122,8 +122,9 @@ works:
   description: '2021 Musée imprimerie de Nantes '
   price: 500
   contextual: true
-- title: 'Deep Blue #6'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-DEEP BLUE6-acrylique-146x114-2021.jpg
+- title: 'Deep Blue #10'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Deep
+    Blue #10-146X114-Acrylique sur toile.jpg'
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -131,7 +132,7 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: Prix sur demande
+  description: "2021   \nPrix sur demande"
   price: ''
   contextual: true
 - title: Lino B1
