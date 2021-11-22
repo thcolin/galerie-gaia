@@ -46,6 +46,20 @@ biography: "# Aline Isoard\n\nDurant les inévitables déplacements quasi quotid
   être un ensemble de matériaux dont la dépigmentation dévie les origines réalistes
   de l’image et s’ouvre sur le trouble entre illusion et intention."
 works:
+- title: Les objets 10-2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les objets 10-2020,30x30aw.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Pièce unique présentée sous passe-partout cartonné format 40X40 prêt
+    à être encadrée.
+  price: 400
+  sold: false
+  contextual: true
 - title: Station 7 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
     7-2020,60x60w.jpg
