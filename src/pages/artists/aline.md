@@ -60,20 +60,6 @@ works:
   price: 380
   sold: false
   contextual: true
-- title: Station 7 2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
-    7-2020,60x60w.jpg
-  technique: 'Photographie dépigmentée pièce unique '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Vendu
-  price: 
-  sold: false
-  contextual: true
 - title: Fenêtre sur route IDF 4_2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     Ile de F 4-2016 60x60wa.jpg
@@ -156,20 +142,6 @@ works:
     depth: 0
   description: ''
   price: 2200
-  sold: false
-  contextual: true
-- title: Habitants sur route 1_2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
-    1-2019, 90x90aw.jpg
-  technique: Photographie dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Vendu
-  price: 1800
   sold: false
   contextual: true
 - title: Pont 19_2017
