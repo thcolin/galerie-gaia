@@ -94,21 +94,6 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
-- title: Rhuys vers Kernes Opus 2 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-RHUYS VER KERNES OPUS 2.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 53
-    width: 43
-    depth: 0
-  description: "Huile sur papier 27 x 32  \nFormat encadré 53X43 cm baguette chêne
-    verre antireflet qualité musée"
-  price: 2500
-  sold: false
-  contextual: true
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
   technique: ''
@@ -240,8 +225,9 @@ works:
   price: 4000
   sold: false
   contextual: true
-- title: '41 BR MONO '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/41-BR-MONO_2020_jacques-le-brusq_galerie-gaia.jpg
+- title: 5390 BR PAY FLO OPUS 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-CHR 5390 BR PAY FLO OPUS1-100X70.jpg
   technique: Huile sur papier
   fields: []
   styles: []
@@ -353,18 +339,19 @@ works:
   price: 4000
   sold: false
   contextual: true
-- title: Rhuys vers kerne Opus 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg
+- title: Rhuys vers Kernes Opus 2 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-RHUYS VER KERNES OPUS 2.jpg
   technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
-    height: 27
-    width: 32
-    depth: 
-  description: "Format encadré 53X42 cm baguette chêne verre antireflet qualité musée
-    \ \nVendu"
-  price: 
+    height: 53
+    width: 43
+    depth: 0
+  description: "Huile sur papier 27 x 32  \nFormat encadré 53X43 cm baguette chêne
+    verre antireflet qualité musée"
+  price: 2500
   sold: false
   contextual: true
 - title: Rhuys vers kernes Opus 2
@@ -380,47 +367,20 @@ works:
   price: 2500
   sold: false
   contextual: true
-- title: Tri Avr Opus1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/17_img_7742_cmjn-copie.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: Format encadré 100X70 cm verre anti-reflet  baguette chêne
-  price: 4000
-  sold: false
-  contextual: false
-- title: Paysage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3091.jpg
+- title: Rhuys vers kerne Opus 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg
   technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 63
+    height: 27
+    width: 32
     depth: 
-  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
-    type coffret - baguette chêne)
-  price: 4000
+  description: "Format encadré 53X42 cm baguette chêne verre antireflet qualité musée
+    \ \nVendu"
+  price: 
   sold: false
-  contextual: false
-- title: Paysage Ker Sal 1Opus2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_3074.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 47.5
-    width: 62
-    depth: 
-  description: Format du papier 100X70 œuvre encadrée (verre anti-reflet - encadrement
-    type coffret - baguette chêne)
-  price: 4000
-  sold: false
-  contextual: false
+  contextual: true
 - title: La Brèche Opus 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-nom-16.jpg
   technique: Huile sur papier
