@@ -101,7 +101,31 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: '"SL21 Pensée" Colors and paper - violet'
+- title: IT 12 Entre deux eaux - colors and paper
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041601-IT12ENTREDEUXEAUX-ColorsonPaper-120x80cm_bd_1000p.jpg
+  technique: Technique mixte sur papier velin d'arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 80
+    depth: 0
+  description: "2021 Caisse américaine chêne format 124X84 cm  \nprix sur demande"
+  price: ''
+  contextual: true
+- title: FOR 17 Fraîcheur - colors and paper
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021042001-FOR17FRAICHEUR-ColorsonPaper-120x80cm_bd_1000p.jpg
+  technique: Technqiue mixte velin sur papier d'Arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 80
+    depth: 0
+  description: "2021 Caisse américaine chêne format 124X84 cm  \nPrix sur demande"
+  price: ''
+  contextual: true
+- title: 'SL21 Pensée - Colors and paper '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041201-SL21PENSEE-ColorsonPaper-120x80cm_bd_1000p.jpg
   technique: Technique mixte sur papier velin d'arches
   fields: []
@@ -110,8 +134,8 @@ works:
     height: 120
     width: 80
     depth: 0
-  description: Caisse américaine chêne
-  price: 4500
+  description: "2021 Caisse américaine chêne format 124X84 cm  \nPrix sur demande"
+  price: ''
   contextual: true
 - title: 'Brut and simple colors '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
