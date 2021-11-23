@@ -81,16 +81,16 @@ works:
   price: 500
   sold: false
   contextual: true
-- title: "7"
+- title: B IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
     30.jpg
-  technique: 'Eau forte pointe sèche sur zinc Edition en x exemplaires '
+  technique: 'Eau forte pointe sèche sur zinc '
   dimensions:
-    height: 0
-    width: 0
+    height: 38
+    width: 28
     depth: 0
-  description: ''
-  price: 0
+  description: Edition 1/20
+  price: 250
   contextual: true
 - title: "6"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
