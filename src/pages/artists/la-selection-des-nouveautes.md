@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Nouveautés Automne 2021
+title: Noël 2021
 location: ''
 birth: "0"
 death: "0"
@@ -21,18 +21,20 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Samedi 20 Novembre Rencontrez Jacques le Brusq '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_151057.jpg
-  technique: huile sur papier et sur toile
+- title: 'Rhuys vers Kernes Opus 2  Jacques le Brusq '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-RHUYS VER KERNES OPUS 2.jpg
+  technique: 'huile sur papier '
   fields: []
   styles: []
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: '# [Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
-    "jacques le brusq")'
-  price: 0
+  description: "# [Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
+    \"jacques le brusq\")\n\nHuile sur papier (27 x 32)  \nFormat encadré 53X43 cm
+    baguette chêne verre antireflet qualité musée"
+  price: 2500
   contextual: true
 - title: Livre coffret François Morellet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
