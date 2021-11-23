@@ -26,10 +26,10 @@ biography: |-
 
   2021 : Cours d'accueil de l'hôpital Necker Aluminium poli
 works:
-- title: 'Sans titre '
+- title: Alliance IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
-  technique: Bronze 2/8
+  technique: Bronze pâtiné 2/8
   fields: []
   styles: []
   dimensions:
