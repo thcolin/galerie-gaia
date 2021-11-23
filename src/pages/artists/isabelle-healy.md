@@ -75,18 +75,18 @@ works:
   description: "Nouveauté 2021 Fonderie Barthélémy Crest  \nPlus de photos sur demande"
   price: 6500
   contextual: false
-- title: Détail Le Papillon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
-  technique: 'Bronze 6/8 '
+- title: Les Albatros
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_LesAlbatros_50x43x14.jpg
+  technique: Bronze n° 4/8
   fields: []
   styles: []
   dimensions:
-    height: 38
-    width: 20
-    depth: 6
-  description: ''
-  price: 1800
-  contextual: true
+    height: 50
+    width: 43
+    depth: 14
+  description: "Fonderie Barthélemy Crest (26)  \nLivraison mi-décembre 2021"
+  price: 5800
+  contextual: false
 - title: Le Papillon
   technique: Bronze 7/8
   fields: []
@@ -99,6 +99,18 @@ works:
   price: 1800
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
+- title: Détail Le Papillon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
+  technique: 'Bronze 7/8 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 38
+    width: 20
+    depth: 6
+  description: ''
+  price: 1800
+  contextual: true
 - title: Anouck
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
   technique: 'Bronze III/IV '
