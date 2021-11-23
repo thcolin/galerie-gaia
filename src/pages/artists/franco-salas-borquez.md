@@ -34,6 +34,32 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Vent révolté
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francos
+    salas borquez-vent revoltee 100X100.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 3200
+  contextual: true
+- title: La brume
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francos
+    salas borquez-la brume-92X73cm C.PNG
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 92
+    width: 73
+    depth: 0
+  description: '2020 encadrement caisse américaine noire '
+  price: 2900
+  contextual: true
 - title: La mer montée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     salas borquez-la mer montee.jpg
@@ -128,19 +154,6 @@ works:
   description: Réservée
   price: ''
   contextual: true
-- title: 'Dessin '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_SalasBorques_titre_format
-    50X70.jpeg
-  technique: Encre sur papier canson noir
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: Œuvre encadrée en baguette bois blanc verre musée anti-reflet
-  price: 1200
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Exposition La Marche des flots Médiathèque Pornichet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-franco-salas-borquez.jpg
   fields: []
