@@ -82,7 +82,7 @@ works:
     height: 200
     width: 300
     depth: 0
-  description: ''
+  description: 'Visible sur rendez-vous '
   price: 12000
   contextual: false
   technique: 'Huile sur toile '
@@ -95,10 +95,8 @@ works:
     height: 200
     width: 300
     depth: 0
-  description: |-
-    # Franco Salas Borquez
-
-    Pensez cette toile comme une fresque murale, visible à la galerie
+  description: "# Franco Salas Borquez\n\nPensez cette toile comme une fresque murale,
+    Visible sur rendez-vous "
   price: 12000
   contextual: true
 - title: 'Le duel '
