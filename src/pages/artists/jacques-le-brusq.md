@@ -94,17 +94,18 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
-- title: En Beauce Opus 1 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150853.jpg
-  technique: 'Huile sur toile '
+- title: Exposition Le Présent du Monde
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
+  technique: ''
   fields: []
   styles: []
   dimensions:
-    height: 120
-    width: 114
+    height: 0
+    width: 0
     depth: 0
-  description: "1996"
-  price: 10000
+  description: '[https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur](https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur
+    "https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur")'
+  price: 
   sold: false
   contextual: false
 - title: En Beauce Opus 2
@@ -120,7 +121,20 @@ works:
   price: 10000
   sold: false
   contextual: true
-- title: En Beauce
+- title: En Beauce Opus 2 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150930.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 114
+    depth: 0
+  description: "1998"
+  price: 10000
+  sold: false
+  contextual: false
+- title: En Beauce Opus 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-1_1996_huile-toile_120x114cm.jpg
   technique: 'Huile sur toile montée sur châssis '
   fields: []
@@ -133,18 +147,17 @@ works:
   price: 10000
   sold: false
   contextual: true
-- title: Exposition Le Présent du Monde
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
-  technique: ''
+- title: En Beauce Opus 1 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150853.jpg
+  technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 120
+    width: 114
     depth: 0
-  description: '[https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur](https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur
-    "https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur")'
-  price: 
+  description: "1996"
+  price: 10000
   sold: false
   contextual: false
 - title: 5390 BR PAY FLO OPUS 1
