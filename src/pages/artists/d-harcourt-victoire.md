@@ -26,7 +26,7 @@ biography: |-
 
   2021 : Cours d'accueil de l'hôpital Necker Aluminium poli
 works:
-- title: Alliance IV
+- title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
   technique: Bronze pâtiné 2/8
@@ -40,7 +40,7 @@ works:
   price: 6000
   sold: false
   contextual: false
-- title: 'Sans titre '
+- title: Alliance XVIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-56X21X19-1:8.jpg
   technique: Bronze 2/8
@@ -54,7 +54,7 @@ works:
   price: 4800
   sold: false
   contextual: false
-- title: 'Sans titre '
+- title: Petite Catena
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-18X18X2-EA.jpg
   technique: 'Bronze EA II/IV '
