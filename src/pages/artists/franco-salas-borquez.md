@@ -162,17 +162,6 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: la furie
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-furie.jpg
-  technique: huile sur toile 2016
-  dimensions:
-    height: 312
-    width: 166
-    depth: 
-  description: prix sur demande
-  price: 
-  sold: false
-  contextual: true
 - title: Exposition Le Sillage St Malo 2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
     salas borquez -expo st malo5.JPG
