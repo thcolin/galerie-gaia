@@ -72,6 +72,34 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Umbra Delectat 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
+    UMBRA DELECTAT 3 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+  technique: pigments acrylique et argile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 33
+    width: 49
+    depth: 0
+  description: "2021"
+  price: 450
+  sold: false
+  contextual: true
+- title: Umbra Delectat
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
+    UMBRA DELECTAT 3 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+  technique: pigments acryl. et argile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 33
+    width: 49
+    depth: 0
+  description: ''
+  price: 450
+  sold: false
+  contextual: true
 - title: Mes Bains 6 2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 6 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
