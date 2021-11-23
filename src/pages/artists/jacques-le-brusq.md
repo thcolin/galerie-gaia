@@ -94,6 +94,21 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
+- title: Rhuys vers Kernes Opus 2 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-RHUYS VER KERNES OPUS 2.jpg
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 53
+    width: 43
+    depth: 0
+  description: "Huile sur papier 27 x 32  \nFormat encadré 53X43 cm baguette chêne
+    verre antireflet qualité musée"
+  price: 2500
+  sold: false
+  contextual: true
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
   technique: ''
