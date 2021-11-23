@@ -181,8 +181,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 63
+    height: 100
+    width: 70
     depth: 0
   description: 2020 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
