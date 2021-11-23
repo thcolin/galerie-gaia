@@ -72,6 +72,20 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Lux in mare 2
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - MES : LUX IN MARE 2 - 42 x 42 cm pigments acryl. sur papier japonais.jpg'
+  technique: pigments acrylique  et argile sur papier japon
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 42
+    depth: 0
+  description: "2021"
+  price: 650
+  sold: false
+  contextual: true
 - title: Umbra Delectat 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
     UMBRA DELECTAT 3 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
