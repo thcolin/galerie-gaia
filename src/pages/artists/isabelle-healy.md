@@ -88,14 +88,14 @@ works:
   price: 1800
   contextual: true
 - title: Le Papillon
-  technique: Bronze 6/8
+  technique: Bronze 7/8
   fields: []
   styles: []
   dimensions:
     height: 38
     width: 20
     depth: 6
-  description: Le 6/8 est réservé - bientôt disponible la 7/8
+  description: "Le 6/8 est réservé -   \nbientôt disponible la 7/8 (janvier 2022)"
   price: 1800
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
