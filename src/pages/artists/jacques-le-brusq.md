@@ -94,6 +94,19 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
+- title: En Beauce
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-1_1996_huile-toile_120x114cm.jpg
+  technique: 'Huile sur toile montée sur châssis '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 114
+    depth: 0
+  description: '1996 '
+  price: 10000
+  sold: false
+  contextual: true
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
   technique: ''
@@ -108,6 +121,35 @@ works:
   price: 
   sold: false
   contextual: false
+- title: 5390 BR PAY FLO OPUS 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CHR-5390-BR-PAY-FLO_2015_jacques-le-brusq_galerie-gaia.jpg
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: 2015 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
+    bois naturel
+  price: 4000
+  sold: false
+  contextual: true
+- title: 5390 BR PAY FLO OPUS 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-CHR 5390 BR PAY FLO OPUS1-100X70.jpg
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 0
+  description: 2020 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
+    bois naturel
+  price: 4000
+  sold: false
+  contextual: true
 - title: '7731 GAR LEM OPUS 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K7731-GAR-LEM-OPUS-1_2017_jacques-le-brusq_galerie-gaia.jpg
   technique: Huile sur papier
@@ -221,21 +263,6 @@ works:
     width: 63
     depth: 0
   description: 2017 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
-- title: 5390 BR PAY FLO OPUS 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-CHR 5390 BR PAY FLO OPUS1-100X70.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 0
-  description: 2020 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
   sold: false
