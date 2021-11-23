@@ -21,6 +21,22 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Alliance XVIII de Victoire d'Harcourt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
+    d hracourt-alliance xvIII ES.jpg
+  technique: Bronze pâtiné 2/8
+  fields:
+  - Sculpture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 56
+    width: 21
+    depth: 19
+  description: '# [Victoire d''Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
+    "victoire d''harcourt")'
+  price: 4800
+  contextual: true
 - title: 'Rhuys vers Kernes Opus 2  Jacques le Brusq '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
