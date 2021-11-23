@@ -263,27 +263,15 @@ works:
   fields:
   - Design
   styles: []
-- title: 'EN LIBERTE Installation en triptyque '
+- title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
   technique: ''
   dimensions:
     height: 70
     width: 210
     depth: 
-  description: Toiles et sculpture vendues présentation Galerie Gaïa Pornichet
-  price: 
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: 'Portrait '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-portrait.jpg
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "# Marie Bathellier"
+  description: "En Liberté Installation en triptyque présentation Galerie Gaïa Pornichet
+    \ \nvendue"
   price: 
   sold: false
   contextual: false
