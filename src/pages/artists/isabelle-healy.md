@@ -101,7 +101,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
 - title: Anouck
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
-  technique: 'Bronze II/IV '
+  technique: 'Bronze III/IV '
   fields: []
   styles: []
   dimensions:
@@ -109,7 +109,7 @@ works:
     width: 12
     depth: 5
   description: "Les 8 premières éditions ont été vendues.  \nReste disponible seulement
-    1 Epreuve d'Artiste  \nlivraison en galerie fin novembre (délai du fondeur)"
+    1 Epreuve d'Artiste  \nlivraison en galerie mi-décembre 2021(délai du fondeur)"
   price: 2600
   contextual: true
 - title: Les vacances
@@ -119,7 +119,7 @@ works:
     height: 16
     width: 43
     depth: 5
-  description: "Disponible en Novembre - dernier exemplaire   \nFonderie Barthélémy
+  description: "Disponible mi-décembre 2021 - dernier exemplaire  \nFonderie Barthélémy
     Crest (26)"
   price: 3900
   sold: false
