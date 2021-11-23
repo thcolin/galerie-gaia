@@ -72,6 +72,21 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Mes bains 7
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - MES BAINS 7 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
+    mat.jpg
+  technique: pigments acrylique sur tirage photographique Fine Art mat
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 300
+  sold: false
+  contextual: true
 - title: Lux in mare 2
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES : LUX IN MARE 2 - 42 x 42 cm pigments acryl. sur papier japonais.jpg'
@@ -127,21 +142,6 @@ works:
     depth: 0
   description: "Vitraux de la chapelle de l'Ile d'Yeu  \nŒuvre encadrée baguette blanche
     22 x 22 cm"
-  price: 300
-  sold: false
-  contextual: true
-- title: Mes bains 7
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
-    - MES BAINS 7 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
-    mat.jpg
-  technique: pigments acrylique sur tirage photographique Fine Art mat
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: ''
   price: 300
   sold: false
   contextual: true

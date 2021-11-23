@@ -36,7 +36,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Côté coeur
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-claude-breat-40x40x3-5.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-claude-breat-40x40x3-5.jpg
   technique: Mixte sur papier marouflé sur bois châssis de 3cm de haut
   fields: []
   styles: []
@@ -48,7 +48,7 @@ works:
   price: 1200
   contextual: true
 - title: La femme au violon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-claude-breat-la-femme-au-violon-40x30x4.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-claude-breat-la-femme-au-violon-40x30x4.jpg
   technique: Mixte sur papier marouflé sur toile sur châssis de 4cm de haut
   fields: []
   styles: []
@@ -60,7 +60,7 @@ works:
   price: 1200
   contextual: true
 - title: TARTRUFFE & COCHON QUI RIT
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tartruffe-and-cochon-qui-rit.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tartruffe-and-cochon-qui-rit.jpg
   technique: Mixte sur toile
   dimensions:
     height: 50
@@ -70,19 +70,8 @@ works:
   price: 1800
   sold: false
   contextual: false
-- title: 1=+
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1.jpg"
-  technique: Mixte sur toile
-  dimensions:
-    height: 180
-    width: 200
-    depth: 
-  description: vendue
-  price: 
-  sold: false
-  contextual: true
 - title: EXPO KERAN
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/expo-keran.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/expo-keran.jpg
   technique: ''
   dimensions:
     height: 
@@ -93,7 +82,7 @@ works:
   sold: false
   contextual: true
 - title: ATELIER
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier.jpg
   technique: ''
   dimensions:
     height: 
