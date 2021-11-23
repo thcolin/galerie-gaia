@@ -234,20 +234,6 @@ works:
   price: 4000
   sold: false
   contextual: true
-- title: '7750 RHUYS OPUS 1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7750-RHUYS-OPUS-1_2016_jacques-le-brusq_galerie-gaia.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 0
-  description: 2016 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: false
 - title: 7750 RHUYS OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-K 7750 RHUYS OPUS 1-100X70.jpg
@@ -264,13 +250,14 @@ works:
   sold: false
   contextual: true
 - title: '7749 RHUYS OPUS 2 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7749-RHUYS-OPUS-2_2016_jacques-le-brusq_galerie-gaia.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE
+    BRUSQ-rhuys opus 2 C.jpg
   technique: 'Huile sur papier '
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 63
+    height: 100
+    width: 70
     depth: 0
   description: 2016 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
