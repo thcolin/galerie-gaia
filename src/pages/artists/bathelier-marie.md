@@ -72,6 +72,26 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Mes bains 3
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - D : MES BAINS 3 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine
+    Art mat.jpg'
+  technique: pigments acrylique sur tirage photographique Fine Art mat (30 x 20)
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: |-
+    Tirage photographique plongé dans des bains pigmentaires.Superposition de deux paysages, l’un photographié, l’autre peint par infusions successives. Confusion entre les deux disciplines, écho aux daguerréotypes, aux bains révélateurs. Jeux de voilages partiels poudrés, transparents, irisés ou pailletés.
+
+    Ode aux bains, aux immersions de nos rêveries.
+
+    Œuvre encadrée baguette blanche 22 x 22 cm
+  price: 300
+  sold: false
+  contextual: true
 - title: Very green, very blue P003
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-03.jpg
   technique: Pigments acryliques sur matériau tissé recyclé
@@ -189,9 +209,9 @@ works:
   styles:
   - Abstrait
 - title: Mes Bains 2 - 2021
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
-    - D : MES BAINS 2 - 20 x 30 cm - pigments acryl. sur tirage photographique Fine
-    Art mat.jpg'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - MES BAINS 2 - 20 x 30 cm - pigments acryl. sur tirage photographique Fine Art
+    mat.jpg
   technique: pigments acrylique sur tirage photographique Fine Art mat
   dimensions:
     height: 30
@@ -205,7 +225,7 @@ works:
     Œuvre encadrée baguette blanche 32 x 22 cm
   price: 400
   sold: false
-  contextual: true
+  contextual: false
   fields:
   - Photographie
   styles: []
