@@ -44,7 +44,7 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: ''
+  description: "2021"
   price: 3200
   contextual: true
 - title: La brume
