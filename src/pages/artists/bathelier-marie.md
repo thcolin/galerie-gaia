@@ -72,10 +72,40 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Mes bains 7
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - MES BAINS 7 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
+    mat.jpg
+  technique: pigments acrylique sur tirage photographique Fine Art mat
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 300
+  sold: false
+  contextual: true
+- title: Mes bains 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - MES BAINS 4 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
+    mat.jpg
+  technique: 'pigments acrylique sur tirage photographique Fine Art mat '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 300
+  sold: false
+  contextual: false
 - title: Mes bains 3
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
-    - D : MES BAINS 3 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine
-    Art mat.jpg'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
+    - MES BAINS 3 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
+    mat.jpg
   technique: pigments acrylique sur tirage photographique Fine Art mat (30 x 20)
   fields: []
   styles: []
