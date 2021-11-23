@@ -94,6 +94,32 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Domaine de Kerguehennec Bignan  \nFonds d'Art Contemporain Galerie Albert Bourgeois
   Fougères  \nBNF Bibilothèque Nationale de France Paris  \nArtothèque Angers"
 works:
+- title: En Beauce Opus 1 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150853.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 114
+    depth: 0
+  description: "1996"
+  price: 10000
+  sold: false
+  contextual: false
+- title: En Beauce Opus 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-2_1998_huile-toile_120x114cm.jpg
+  technique: Huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 114
+    depth: 0
+  description: "1998"
+  price: 10000
+  sold: false
+  contextual: true
 - title: En Beauce
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-1_1996_huile-toile_120x114cm.jpg
   technique: 'Huile sur toile montée sur châssis '
