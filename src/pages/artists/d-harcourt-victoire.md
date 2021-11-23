@@ -54,6 +54,20 @@ works:
   price: 4800
   sold: false
   contextual: false
+- title: Alliance XVIII en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
+    d hracourt-alliance xvIII ES.jpg
+  technique: Bronze pâtiné 2/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 56
+    width: 21
+    depth: 19
+  description: ''
+  price: 4800
+  sold: false
+  contextual: true
 - title: Petite Catena
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-18X18X2-EA.jpg
