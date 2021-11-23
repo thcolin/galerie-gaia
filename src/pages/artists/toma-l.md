@@ -101,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: '"SL21 Pensée" Colors and paper - violet'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041201-SL21PENSEE-ColorsonPaper-120x80cm_bd_1000p.jpg
+  technique: Technique mixte sur papier velin d'arches
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 80
+    depth: 0
+  description: Caisse américaine chêne
+  price: 4500
+  contextual: true
 - title: 'Brut and simple colors '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019111601-BrutAndSimpleColor-1-2-162x130cm.jpg
