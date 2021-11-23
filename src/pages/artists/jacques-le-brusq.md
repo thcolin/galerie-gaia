@@ -174,7 +174,7 @@ works:
   price: 4000
   sold: false
   contextual: true
-- title: 5390 BR PAY FLO OPUS 1
+- title: 5390 BR PAY FLO OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-CHR 5390 BR PAY FLO OPUS1-100X70.jpg
   technique: Huile sur papier
