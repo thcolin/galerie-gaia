@@ -58,9 +58,9 @@ works:
     width: 73
     depth: 0
   description: '2020 encadrement caisse américaine noire '
-  price: 2900
+  price: 2700
   contextual: true
-- title: La mer montée
+- title: La montée des flôts
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     salas borquez-la mer montee.jpg
   technique: 'Huile sur toile '
