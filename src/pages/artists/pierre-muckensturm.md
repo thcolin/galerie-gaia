@@ -58,6 +58,22 @@ biography: "# Pierre Muckensturm\n\n« J’ai un goût prononcé pour la fantais
   L’espace du dedans . Lille "
 exhibitions: []
 works:
+- title: XXI 40 116
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
+    40 116-65x50-gravure.jpg
+  technique: carborundum sur découpes de plaques de métal imprimé sur papier BFK Rives
+    250 g/m2 margé
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: "2021 Edition 10/15  \n\\[mise en contact de vingt quadrilatères courbes
+    réalisés en assemblant deux angles avec entas positionnés à -2,2°/0°/+2,2°\\]"
+  price: 500
+  contextual: true
 - title: XXI 23023 juxtaposition de 16 quasi carrés constitués de 64 angles à entas
     0°
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
