@@ -178,32 +178,6 @@ works:
   description: 2019 Prix sur demande
   price: ''
   contextual: false
-- title: 'Petit crade à l''atelier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2020031706-PETITCRADE-100X72CM-atelier.jpg
-  technique: 'Mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 72
-    depth: 0
-  description: '2020 Prix sur demande '
-  price: ''
-  contextual: false
-- title: Petit crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2020031706-PETITCRADE-100X72CM.jpg
-  technique: 'Mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 72
-    depth: 0
-  description: 2020 Prix sur demande
-  price: ''
-  contextual: true
 - title: Petit crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tomal-petit
     crade encadree.jpg
@@ -227,15 +201,6 @@ works:
   description: "2019  \nPrix sur demande "
   price: ''
   contextual: true
-- title: 'Little wood trash '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019110901-littlewoodtrash-105x70cm.jpg
-  technique: Technique mixte sur bois
-  dimensions:
-    height: 115
-    width: 80
-  description: ''
-  price: ''
-  contextual: true
 - title: Petit crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2020120711-petitcrade-58x78cm.jpg
   technique: Technique mixte sur papier marouflé sur bois caisse américaine chêne
@@ -248,30 +213,6 @@ works:
   description: 2020 Caisse américaine chêne
   price: ''
   contextual: true
-- title: Simple color
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2017090401-simplecolor-102x70cm-copie.jpg
-  technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
-  fields: []
-  styles: []
-  dimensions:
-    height: 78
-    width: 108
-    depth: 0
-  description: "2017"
-  price: 0
-  contextual: true
-- title: Simple color en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_2017_situation_0010.jpg
-  technique: Technique mixte sur papier marouflé sur bois caisse américaine noire
-  fields: []
-  styles: []
-  dimensions:
-    height: 78
-    width: 108
-    depth: 0
-  description: "2017"
-  price: 0
-  contextual: false
 - title: Bonne pierre bon oeil 08
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo08.jpg
   technique: Lithographie 6/2
