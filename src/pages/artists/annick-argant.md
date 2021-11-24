@@ -30,18 +30,6 @@ exhibitions:
   start: "0"
   end: 
 works:
-- title: Petit dernier Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-argant-carraiamntvert.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 17
-    width: 11
-    depth: 13
-  description: ''
-  price: 400
-  contextual: false
-  technique: Grès sur bois
 - title: Les grands Carr'aimant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-grands-carraimants.jpg
   technique: grés sur socle bois

@@ -13,7 +13,7 @@ title: 'WAVE  Nantes '
 location: ''
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: |-
   # [WAVE NANTES 2021](https://metropole.nantes.fr/infonantes/agenda/45412-wave--week-end-arts-visuels "WAVE NANTES")
 
