@@ -37,19 +37,6 @@ works:
     "victoire d''harcourt")'
   price: 4800
   contextual: true
-- title: Umbra Delectat 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
-    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
-  technique: pigments acrylique et argile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 33
-    width: 49
-    depth: 0
-  description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
-  price: 450
-  contextual: true
 - title: 'Rhuys vers Kernes Opus 2  Jacques le Brusq '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
@@ -65,6 +52,33 @@ works:
     baguette chêne verre antireflet qualité musée"
   price: 2500
   contextual: true
+- title: Umbra Delectat 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
+    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+  technique: pigments acrylique et argile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 33
+    width: 49
+    depth: 0
+  description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
+  price: 450
+  contextual: true
+- title: XXI 40 116
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
+    40 116-65x50-gravure-es.jpg
+  technique: 'carborundum sur découpes de plaques de métal imprimé sur papier BFK
+    Rives 250 g/m2 margé '
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/)"
+  price: 500
+  contextual: false
 - title: Livre coffret François Morellet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
   technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
