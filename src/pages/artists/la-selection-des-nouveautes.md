@@ -101,8 +101,9 @@ works:
   price: 90
   contextual: false
   technique: Sérigraphie 20/50
-- title: Station 7 2020 par Aline Isoard
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-vitrine.jpg
+- title: Station 6 2016 par Aline Isoard
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-isoard
+    aline- station ES.jpg
   technique: Photographie pigmentée tirage unique
   fields:
   - Photographie
@@ -112,13 +113,11 @@ works:
     height: 60
     width: 60
     depth: 0
-  description: |-
-    # [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/ "Aline ISOARD ")
-
-    vendu
+  description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
+    "Aline ISOARD ")'
   price: 1200
   contextual: true
-  sold: true
+  sold: false
 - title: Bonne pierre bon oeil 08 par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l - litho cadre blanc ES.jpg
