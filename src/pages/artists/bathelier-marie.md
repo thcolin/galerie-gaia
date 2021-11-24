@@ -115,9 +115,9 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Umbra Delectat
+- title: Umbra Delectat 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
-    UMBRA DELECTAT 3 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
   technique: pigments acryl. et argile sur papier
   fields: []
   styles: []
