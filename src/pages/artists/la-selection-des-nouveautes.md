@@ -37,6 +37,19 @@ works:
     "victoire d''harcourt")'
   price: 4800
   contextual: true
+- title: Umbra Delectat 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
+    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+  technique: pigments acrylique et argile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 33
+    width: 49
+    depth: 0
+  description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
+  price: 450
+  contextual: true
 - title: 'Rhuys vers Kernes Opus 2  Jacques le Brusq '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
@@ -249,65 +262,6 @@ works:
     carre")'
   price: ''
   contextual: false
-- title: Solis VII par Anne Gaiss
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
-  technique: 'Incisions sur feuille de cuivre or marouflée sur papier traditionnel
-    indien '
-  fields: []
-  styles: []
-  dimensions:
-    height: 101
-    width: 69
-    depth: 0
-  description: '# [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/ "anne gaiss")'
-  price: 6000
-  contextual: true
-- title: Sagesse 1 Judith Wolfe
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
-    sagesses1-95X65-2011.jpeg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Abstrait
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: "2011"
-  price: 1500
-  contextual: true
-- title: Primitive N°3 de Pierre Tual
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual.jpg
-  technique: Fer recuit
-  fields:
-  - Sculpture
-  styles:
-  - Abstrait
-  dimensions:
-    height: 20
-    width: 36
-    depth: 24
-  description: '# [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "Pierre
-    Tual")'
-  price: 2500
-  contextual: false
-- title: Alain Clement Morellet The Blind
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-blind-clement-morellet.jpg
-  technique: Estampe
-  dimensions:
-    height: 5.6
-    width: 5.6
-    depth: 9
-  description: "# [The Blind]() Morellet Clement"
-  price: ''
-  sold: false
-  contextual: false
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  - Figuratif
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
 - "/artistes/la-selection-des-nouveautes-de-mars-2020/"
