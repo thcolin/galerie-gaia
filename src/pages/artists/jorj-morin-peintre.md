@@ -85,7 +85,7 @@ works:
     height: 81
     width: 116
     depth: 0
-  description: "1988  \nVisible à la galerie"
+  description: "1988  \nVisible sur demande"
   price: 4700
   contextual: true
 - title: Bois sec en situation
