@@ -139,20 +139,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Trois oiseaux 1986
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
-    oiseaux.JPG
-  technique: Eau forte 1/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
 - title: Signaux optiques 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-signaux
     optiques.jpg
