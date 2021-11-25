@@ -72,19 +72,19 @@ works:
   description: L'âme court sur le chemin jusqu'à l'éclosion des nuages
   price: 3200
   contextual: true
-- title: Albedo noir
+- title: Albedo doré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
     gaiss-albedo doré.jpg
-  technique: Découpe et incision sur feuille d'argent noire grattée, maroufflée sur
-    feuille de papier indien traditionnel
+  technique: 'Découpe et incision sur papier noir oxydée '
   fields: []
   styles: []
   dimensions:
-    height: 76
-    width: 60
+    height: 63.5
+    width: 41.5
     depth: 0
-  description: Œuvre encadrée
-  price: 3200
+  description: "Format du papier 42X29 cm  \nŒuvre encadrée baguette noire montage
+    caisson hauteur 3,5cm verre anti-reflet"
+  price: 1200
   contextual: true
 - title: Rivage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne
