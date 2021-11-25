@@ -72,8 +72,9 @@ works:
   description: L'âme court sur le chemin jusqu'à l'éclosion des nuages
   price: 3200
   contextual: true
-- title: Nigredo IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_nigredo.4_60X76.jpg
+- title: Albedo noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
+    gaiss-albedo doré.jpg
   technique: Découpe et incision sur feuille d'argent noire grattée, maroufflée sur
     feuille de papier indien traditionnel
   fields: []
