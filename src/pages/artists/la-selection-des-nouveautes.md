@@ -37,6 +37,22 @@ works:
     "victoire d''harcourt")'
   price: 4800
   contextual: true
+- title: Papier Albedo Anne Gaiss et Sculpture Alliance XVIII Victoire D'Harcourt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
+    gaiss-albedo doré ES.jpg
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    # [Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/)
+
+    # [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/)
+  price: ''
+  contextual: false
 - title: 'Rhuys vers Kernes Opus 2  Jacques le Brusq '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
