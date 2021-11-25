@@ -127,19 +127,6 @@ works:
   description: ''
   price: 4300
   contextual: false
-- title: Sans titre 1990
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-Morin-sans
-    titre.JPG
-  technique: Acryqlique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 54
-    depth: 0
-  description: "1990  \nVisible à la galerie"
-  price: 2500
-  contextual: true
 - title: Le taillis
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-Morin-le
     taillis.JPG
@@ -150,7 +137,7 @@ works:
     height: 60
     width: 81
     depth: 0
-  description: "1986  \nVisible à la galerie"
+  description: "1986  \nVisible sur demande"
   price: 3200
   contextual: true
 - title: La nuit verte
