@@ -45,7 +45,7 @@ works:
   description: ''
   price: 6000
   contextual: true
-- title: 'Albedo '
+- title: Albedo blanc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne-gaiss-30X40
     blanc.jpg
   technique: 'Incisions au scalpel sur papier traditionnel indien '
