@@ -177,8 +177,8 @@ works:
   sold: false
   contextual: false
 - title: Feutre teinté
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-feutre
-    teinté 70 cm x 50 cm 2018 - copie 2.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-feutre-60X50
+    C.jpg
   technique: feutre teinté collé sur papier encadrée et sous verre
   fields:
   - Textile
