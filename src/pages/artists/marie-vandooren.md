@@ -52,19 +52,6 @@ works:
   description: ''
   price: 300
   contextual: true
-- title: Forme d'architecture 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
-  technique: 'Acrylique sur papier '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
 - title: 2 baigneurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphietrichromie.2baigneurs.70x50.jpg
   technique: Sérigraphie trichromie
@@ -194,8 +181,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 40
+    height: 57
+    width: 38
     depth: 0
   description: ''
   price: 130
