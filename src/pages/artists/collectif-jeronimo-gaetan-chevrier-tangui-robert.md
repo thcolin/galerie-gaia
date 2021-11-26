@@ -69,6 +69,19 @@ works:
   description: ''
   price: 380
   contextual: true
+- title: Strate 49
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
+    49_fond.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 280
+  contextual: true
 - title: Fresque 1 ...
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
   fields:
