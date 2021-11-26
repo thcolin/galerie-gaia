@@ -43,6 +43,17 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: Miki
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKI-30
+    cm x 30 cm-30 tirages.jpg
+  technique: Photographie
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
 - title: Iris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
   technique: Photographie sur papier baryté
@@ -193,17 +204,6 @@ works:
     depth: 0
   description: ''
   price: 700
-  contextual: true
-- title: Miki
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKI-30
-    cm x 30 cm-30 tirages.jpg
-  technique: Photographie
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: ''
-  price: 250
   contextual: true
 - title: Bäla
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30
