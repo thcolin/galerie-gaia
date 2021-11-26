@@ -229,21 +229,21 @@ works:
   - Sculpture
   styles:
   - Figuratif
-- title: L'Indomptable de Franco Salas Borquez
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-feanco
-    salas borquez-l indomptable.jpg
+- title: Vent révolté de Franco Salas Borquez
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
+    sals borquez-vent revolte ES.jpg
   technique: 'Huile sur toile '
   fields:
   - Peinture
   styles:
   - Figuratif
   dimensions:
-    height: 200
-    width: 300
+    height: 100
+    width: 100
     depth: 0
   description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
     "franco salas borques")'
-  price: 12000
+  price: 3600
   contextual: false
 - title: Dark and full colors par Toma L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
