@@ -26,6 +26,18 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Forme d'architecture 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
+  technique: 'Acrylique sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 57
+    width: 42
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
 - title: 3 nageurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie trichromie 4/8
