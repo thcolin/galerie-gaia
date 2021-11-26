@@ -31,6 +31,31 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
   par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
+- title: Strates 42
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 42 2-4 30X20.jpg
+  technique: Sérigraphie 2/4
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 20
+    depth: 0
+  description: 'Encadrement chêne verre anti-reflet '
+  price: 200
+  contextual: true
+- title: Strates 39
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/starte 39 14-21
+    30X20.jpg
+  technique: Sérigraphie 4 couleurs
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: encadrement chêne et verre anti-reflet
+  price: 200
+  contextual: true
 - title: 'Failles #22'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-faille
     22.jpg
@@ -110,6 +135,28 @@ works:
   description: ''
   price: 280
   contextual: true
+- title: Strates 32
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg
+  technique: Sérigraphie
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 340
+  contextual: true
+- title: Versants fresque II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
+  technique: 'Fresque sur mur brut '
+  dimensions:
+    height: 500
+    width: 400
+    depth: 0
+  description: Commande promotion immobilière - visible sur rendez-vous
+  price: ''
+  contextual: false
+  fields:
+  - Fresque
 - title: Versants Fresque I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png
   technique: 'Fresque murale '
@@ -125,87 +172,6 @@ works:
   contextual: false
   fields:
   - Fresque
-- title: Versants fresque II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
-  technique: 'Fresque sur mur brut '
-  dimensions:
-    height: 500
-    width: 400
-    depth: 0
-  description: Commande promotion immobilière - visible sur rendez-vous
-  price: ''
-  contextual: false
-  fields:
-  - Fresque
-- title: Strates 32
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg
-  technique: Sérigraphie
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
-  price: 340
-  contextual: true
-- title: Strates 27
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-27-30x40.jpg
-  technique: Sérigraphie
-  dimensions:
-    height: 30
-    width: 20
-    depth: 0
-  description: ''
-  price: 170
-  contextual: true
-- title: Strates 16
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-16-30x40.jpg
-  technique: Sérigraphie
-  dimensions:
-    height: 30
-    width: 20
-    depth: 0
-  description: ''
-  price: 170
-  contextual: true
-- title: Strates 35
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-35-30x40cm.jpeg
-  technique: 'Sérigraphie en 19 exemplaires '
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Strates 36
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-strates-36-30x40cm.jpg
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-  technique: 'Sérigraphie édition en 15 exemplaires '
-- title: Latence 05
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie_gaia_gaetan_chevrier_latence05_40x30-1.jpg
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: 'Tirage limité '
-  price: 120
-  contextual: true
-- title: Strates 28
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate-28.jpg
-  technique: Sérigraphie  Edition en 10 exemplaires
-  dimensions:
-    height: 30
-    width: 24
-  description: Œuvre encadrée cadre aluminium chêne
-  price: 180
-  sold: false
-  contextual: true
 - title: Gaïa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/serigraphie-pour-gaia.jpg
   technique: 'Sérigraphie en 20 exemplaires '
