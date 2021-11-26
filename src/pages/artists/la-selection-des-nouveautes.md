@@ -37,6 +37,18 @@ works:
     "victoire d''harcourt")'
   price: 4800
   contextual: true
+- title: Strate 39 et 42 en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 39 ET 42
+    ES.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# [Versant](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/)"
+  price: 200
+  contextual: true
 - title: Papier Albedo Anne Gaiss et Sculpture Alliance XVIII Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
     gaiss-albedo doré ES.jpg
