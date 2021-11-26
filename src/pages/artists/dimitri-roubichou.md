@@ -43,6 +43,18 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: Iris
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
+  technique: Photographie sur papier baryté
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
 - title: Coquillage recto 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-coquillageverso.jpg
   technique: Photographie sur papier baryté
@@ -67,28 +79,16 @@ works:
   description: ''
   price: 300
   contextual: true
-- title: Iris
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
-  technique: Photographie sur papier baryté
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: ''
-  price: 400
-  contextual: true
 - title: Mikayo
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKAYO-30cmx30cm-30
     tirages.jpg
   technique: Photographie
   dimensions:
-    height: 40
-    width: 40
+    height: 30
+    width: 30
     depth: 0
   description: ''
-  price: 400
+  price: 250
   contextual: true
 - title: Jade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-jade-jpeg.JPG
@@ -203,7 +203,7 @@ works:
     width: 40
     depth: 0
   description: ''
-  price: 400
+  price: 250
   contextual: true
 - title: Bäla
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30
