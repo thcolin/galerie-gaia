@@ -230,8 +230,8 @@ works:
   styles:
   - Figuratif
 - title: Vent révolté de Franco Salas Borquez
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
-    sals borquez-vent revolte ES.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -franco
+    salas borquez vent revolte ES.jpg
   technique: 'Huile sur toile '
   fields:
   - Peinture

@@ -34,19 +34,6 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
-- title: Vent révolté en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
-    sals borquez-vent revolte ES.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 3600
-  contextual: false
 - title: Vent révolté
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francos
     salas borquez-vent revoltee 100X100.jpg
@@ -60,6 +47,19 @@ works:
   description: "2021"
   price: 3200
   contextual: true
+- title: Vent révolté en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -franco
+    salas borquez vent revolte ES.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 3600
+  contextual: false
 - title: La brume
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francos
     salas borquez-la brume-92X73cm C.PNG
