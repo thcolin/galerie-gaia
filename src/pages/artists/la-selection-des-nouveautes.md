@@ -68,7 +68,7 @@ works:
     baguette chêne verre antireflet qualité musée"
   price: 2500
   contextual: true
-- title: Umbra Delectat 4
+- title: Umbra Delectat 4 de Marie Bathelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
     UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
   technique: pigments acrylique et argile sur papier
@@ -81,7 +81,7 @@ works:
   description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
   price: 450
   contextual: true
-- title: XXI 40 116
+- title: XXI 40 116 de Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure-es.jpg
   technique: 'carborundum sur découpes de plaques de métal imprimé sur papier BFK
