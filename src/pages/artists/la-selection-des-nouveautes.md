@@ -49,6 +49,19 @@ works:
   description: "# [Versant](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/)"
   price: 200
   contextual: true
+- title: Monotype de Renaud Allirand
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -renaud
+    allirand - monotype colore ES.jpg
+  technique: Monotype
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 36
+    depth: 0
+  description: "# [Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/)"
+  price: 290
+  contextual: true
 - title: Papier Albedo Anne Gaiss et Sculpture Alliance XVIII Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
     gaiss-albedo doré ES.jpg
