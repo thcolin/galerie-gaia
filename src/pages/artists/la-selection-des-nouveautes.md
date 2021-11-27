@@ -10,6 +10,19 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: 'Edition Pascal Gueguen '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pascal
+    gueguen ES.jpg
+  technique: Edition en 21 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# [Pascal Guéguen](https://galeriegaia.fr/artists/patrick-gueguen/)"
+  price: 140
+  contextual: true
 - title: New Ex
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
