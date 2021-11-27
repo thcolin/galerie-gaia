@@ -202,7 +202,7 @@ works:
   price: ''
   contextual: true
 - title: Petit crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2020120711-petitcrade-58x78cm.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Petit crade GGN.jpg
   technique: Technique mixte sur papier marouflé sur bois caisse américaine chêne
   fields: []
   styles: []
