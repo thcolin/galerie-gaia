@@ -45,6 +45,7 @@ const Catalogue = ({ scrollPosition, ...props }) => {
   ), [])
 
   const options = useMemo(() => ({
+    // TODO: Add `color`
     styles: {
       type: 'select',
       transform: (page, styles) => !styles.length ? page : ({
@@ -106,63 +107,70 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         }))
       }
     },
-    // TODO: Add `color`
     price: {
-      type: 'range',
-      default: [
-        0,
-        artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(parseInt(acc), parseInt(work.price || 0)), 0)), 0)
-      ],
-      transform: (page, range) => ({
+      type: 'checkbox',
+      default: [],
+      transform: (page, prices) => !prices.length ? page : ({
         ...page,
         frontmatter: {
           ...page.frontmatter,
-          works: page.frontmatter.works.filter(work => parseInt(work.price) >= range[0] && parseInt(work.price) <= range[1]),
+          works: page.frontmatter.works.filter(work => prices.some(([min, max]) => work.price >= min && work.price <= max)),
         },
       }),
       props: {
         label: 'Prix',
-        labelize: (v) => new Intl.NumberFormat('fr-FR', { style: 'currency', currency: 'EUR', maximumSignificantDigits: 12 }).format(v),
+        options: [
+          { id: '0-200', value: [0, 200], label: '0 - 200€' },
+          { id: '200-1000', value: [200, 1000], label: '200 - 1 000€' },
+          { id: '1000-5000', value: [1000, 5000], label: '1 000 - 5 000€' },
+          { id: '5000+', value: [5000, Infinity], label: '5 000€ +' },
+        ],
       }
     },
-    // orientation: {
-    //   // type: 'buttons',
-    //   validate: (page, value) => page
-    // },
-    width: {
-      type: 'range',
-      default: [
-        0,
-        artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(acc, (parseInt(work.dimensions?.width) || 0)), 0)), 0)
-      ],
-      transform: (page, range) => ({
+    format: {
+      type: 'checkbox',
+      default: [],
+      transform: (page, formats) => !formats.length ? page : ({
         ...page,
         frontmatter: {
           ...page.frontmatter,
-          works: page.frontmatter.works.filter(work => (parseInt(work.dimensions?.width) || 0) >= range[0] && (parseInt(work.dimensions?.width) || 0) <= range[1]),
+          works: page.frontmatter.works.filter(work => formats.some(([min, max]) => (
+            work.height && work.width
+            && work.height >= min && work.height <= max
+            && work.width >= min && work.width <= max
+          ))),
         },
       }),
       props: {
-        label: 'Largeur',
-        labelize: (v) => v > 100 ? `${(v / 100).toFixed(2)} m` : `${v} cm`,
+        label: 'Formats',
+        options: [
+          { id: 'small', value: [0, 50], label: 'Petit (0 - 50cm)' },
+          { id: 'medium', value: [50, 100], label: 'Moyen (50 - 100cm)' },
+          { id: 'large', value: [100, Infinity], label: 'Grand (100cm +)' },
+        ],
       }
     },
-    height: {
-      type: 'range',
-      default: [
-        0,
-        artists.reduce((res, artist) => Math.max(res, artist.frontmatter.works.reduce((acc, work) => Math.max(acc, (parseInt(work.dimensions?.height) || 0)), 0)), 0)
-      ],
-      transform: (page, range) => ({
+    orientation: {
+      type: 'checkbox',
+      default: [],
+      transform: (page, orientations) => !orientations.length ? page : ({
         ...page,
         frontmatter: {
           ...page.frontmatter,
-          works: page.frontmatter.works.filter(work => (parseInt(work.dimensions?.height) || 0) >= range[0] && (parseInt(work.dimensions?.height) || 0) <= range[1]),
+          works: page.frontmatter.works.filter(work => orientations.some((orientation) => ({
+            portrait: work.dimensions?.height > work.dimensions?.width,
+            landscape: work.dimensions?.height < work.dimensions?.width,
+            square: work.dimensions?.height === work.dimensions?.width,
+          }[orientation]))),
         },
       }),
       props: {
-        label: 'Hauteur',
-        labelize: (v) => v > 100 ? `${(v / 100).toFixed(2)} m` : `${v} cm`,
+        label: 'Orientations',
+        options: [
+          { id: 'portrait', value: 'portrait', label: 'Portrait' },
+          { id: 'landscape', value: 'landscape', label: 'Paysage' },
+          { id: 'square', value: 'square', label: 'Carré' },
+        ],
       }
     },
   }), [])

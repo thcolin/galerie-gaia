@@ -1,5 +1,5 @@
 import Select from 'components/Select'
-import Range from 'components/Range'
+import Checkbox from 'components/Checkbox'
 import theme from 'theme'
 
 const Options = ({ options, values, setValues, setPage, ...props }) => (
@@ -22,16 +22,14 @@ const Options = ({ options, values, setValues, setPage, ...props }) => (
     </div>
     <div>
       {Object.keys(options)
-        .filter(key => options[key].type === 'range')
+        .filter(key => options[key].type === 'checkbox')
         .map(key => (
-          <Range
+          <Checkbox
             key={key}
             {...options[key].props}
-            min={options[key].default[0]}
-            max={options[key].default[1]}
-            values={[(values[key] || options[key].default)[0], (values[key] || options[key].default)[1]]}
+            value={values[key] || []}
             onChange={(v) => {
-              setValues(values => ({ ...values, [key]: v }))
+              setValues(values => ({ ...values, [key]: v || [] }))
               setPage(0)
             }}
           />
@@ -44,25 +42,17 @@ const Options = ({ options, values, setValues, setPage, ...props }) => (
 Options.styles = {
   element: {
     background: 'white',
-    padding: '2em 0',
-    margin: '0 0 2em',
+    padding: '1em 0',
+    margin: '0 -1em 1em',
     zIndex: 2,
     '>div': {
       display: 'flex',
       flexDirection: 'row',
       alignItems: 'center',
-      ':not(:last-of-type)': {
-        marginBottom: '2em',
-      },
+      flexWrap: 'wrap',
       '>*': {
-        paddingLeft: '1em',
-        paddingRight: '1em',
-        ':first-of-type': {
-          paddingLeft: '0em',
-        },
-        ':last-of-type': {
-          paddingRight: '0em',
-        },
+        flex: 1,
+        padding: '1em',
       },
     },
     [theme.medias.small]: {
@@ -72,18 +62,6 @@ Options.styles = {
       zIndex: 0,
       '>div': {
         flexDirection: 'column',
-        '>*': {
-          paddingLeft: '0em !important',
-          paddingRight: '0em !important',
-          paddingTop: '1em',
-          paddingBottom: '1em',
-          ':first-of-type': {
-            paddingTop: '0em',
-          },
-          ':last-of-type': {
-            paddingBottom: '0em',
-          },
-        },
       },
     },
   }
