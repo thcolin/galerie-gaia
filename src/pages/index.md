@@ -5,8 +5,8 @@ carousel:
     d'harcourt-55X36X20-2:8.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre.muckensturm-XXI83188-59,4x42cm-dessin-détail.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georg
-    baselitz.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia dimitri
+    roubichou Akemi.jpg
 redirect_from:
 - "/plan/"
 seo:
