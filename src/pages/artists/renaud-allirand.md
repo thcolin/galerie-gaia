@@ -60,6 +60,19 @@ biography: "# Renaud Allirand\n\n**Les écritures rebelles**   \nBarbelés infra
   Robinet\n\nTranslation: Diana Quinby"
 exhibitions: []
 works:
+- title: Sans titre Monotype
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-renaud
+    allirand -monotype coloré C.jpg
+  technique: eau forte
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 36
+    depth: 0
+  description: Oeuvre encadrée baguette chêne
+  price: 290
+  contextual: true
 - title: "8"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
     36.jpg
