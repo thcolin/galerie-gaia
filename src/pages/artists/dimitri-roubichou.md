@@ -43,6 +43,19 @@ biography: "# Dimitri Roubichou\n\nLes tirages sont disponibles dans des formats
   contemplatif et matiériste.\"\n\nDimitri Roubichou"
 exhibitions: []
 works:
+- title: 'Akémi '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia dimitri
+    roubichou Akemi.jpg
+  technique: 'Photographie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
 - title: Miki
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKI-30
     cm x 30 cm-30 tirages.jpg
