@@ -100,9 +100,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: '[https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur](https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur
     "https://telenantes.ouest-france.fr/nantes-matin/article/journal-de-8h30-les-suites-de-la-mort-dun-ivoirien-de-33-ans-dimanche-matin-sur")'
   price: 
@@ -116,7 +116,7 @@ works:
   dimensions:
     height: 120
     width: 114
-    depth: 0
+    depth: 
   description: "1998"
   price: 10000
   sold: false
@@ -129,7 +129,7 @@ works:
   dimensions:
     height: 120
     width: 114
-    depth: 0
+    depth: 
   description: "1998"
   price: 10000
   sold: false
@@ -142,7 +142,7 @@ works:
   dimensions:
     height: 120
     width: 114
-    depth: 0
+    depth: 
   description: '1996 '
   price: 10000
   sold: false
@@ -155,7 +155,7 @@ works:
   dimensions:
     height: 120
     width: 114
-    depth: 0
+    depth: 
   description: "1996"
   price: 10000
   sold: false
@@ -168,7 +168,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2015 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -183,7 +183,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: 2020 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -198,7 +198,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2017 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -214,7 +214,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: 2017 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -228,7 +228,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2018 Œuvre présentée en format 100X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -244,7 +244,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 4000
   sold: false
@@ -258,7 +258,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: 2016 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -274,7 +274,7 @@ works:
   dimensions:
     height: 120
     width: 120
-    depth: 0
+    depth: 
   description: "2020  \nLes visuels des 4 toiles sont disponibles sur demande galeriegaia@orange.fr"
   price: 
   sold: false
@@ -287,7 +287,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2017 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -302,7 +302,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: 2019 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -316,7 +316,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -332,7 +332,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 4000
   sold: false
@@ -345,7 +345,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -359,7 +359,7 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: 2020 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
     bois naturel
   price: 4000
@@ -373,24 +373,10 @@ works:
   dimensions:
     height: 48
     width: 63
-    depth: 0
+    depth: 
   description: Réservé
   price: 4000
   sold: true
-  contextual: true
-- title: '03 PAY VE FON '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 0
-  description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
   contextual: true
 - title: Rhuys vers Kernes Opus 2 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
@@ -401,7 +387,7 @@ works:
   dimensions:
     height: 53
     width: 43
-    depth: 0
+    depth: 
   description: "Huile sur papier 27 x 32  \nFormat encadré 53X43 cm baguette chêne
     verre antireflet qualité musée"
   price: 2500
@@ -429,8 +415,20 @@ works:
     height: 27
     width: 32
     depth: 
-  description: "Format encadré 53X42 cm baguette chêne verre antireflet qualité musée
-    \ \nVendu"
+  description: ".Format encadré 53X42 cm baguette chêne verre antireflet qualité musée"
+  price: 2500
+  sold: false
+  contextual: true
+- title: '03 PAY VE FON '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 63
+    depth: 
+  description: Collection privée Galerie Gaïa
   price: 
   sold: false
   contextual: true
@@ -454,9 +452,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "# Jacques Le Brusq"
   price: 
   sold: false
