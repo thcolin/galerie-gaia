@@ -82,7 +82,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: ''
   price: 300
   sold: false
@@ -96,7 +96,7 @@ works:
   dimensions:
     height: 42
     width: 42
-    depth: 0
+    depth: 
   description: "2021"
   price: 650
   sold: false
@@ -110,7 +110,7 @@ works:
   dimensions:
     height: 33
     width: 49
-    depth: 0
+    depth: 
   description: "2021"
   price: 450
   sold: false
@@ -124,7 +124,7 @@ works:
   dimensions:
     height: 33
     width: 49
-    depth: 0
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -139,7 +139,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: "Vitraux de la chapelle de l'Ile d'Yeu  \nŒuvre encadrée baguette blanche
     22 x 22 cm"
   price: 300
@@ -155,7 +155,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: ''
   price: 300
   sold: false
@@ -170,7 +170,7 @@ works:
   dimensions:
     height: 20
     width: 20
-    depth: 0
+    depth: 
   description: |-
     Tirage photographique plongé dans des bains pigmentaires.Superposition de deux paysages, l’un photographié, l’autre peint par infusions successives. Confusion entre les deux disciplines, écho aux daguerréotypes, aux bains révélateurs. Jeux de voilages partiels poudrés, transparents, irisés ou pailletés.
 
@@ -375,8 +375,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
   technique: ''
   dimensions:
-    height: 70
-    width: 210
+    height: 
+    width: 
     depth: 
   description: "En Liberté Installation en triptyque présentation Galerie Gaïa Pornichet
     \ \nvendue"
