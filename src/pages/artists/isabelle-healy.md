@@ -60,7 +60,7 @@ works:
     width: 47
     depth: 12
   description: Bronze pouvant être scellé en extérieur
-  price: 6500
+  price: 5500
   contextual: false
 - title: Une île
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
@@ -73,7 +73,7 @@ works:
     width: 47
     depth: 12
   description: "Nouveauté 2021 Fonderie Barthélémy Crest  \nPlus de photos sur demande"
-  price: 6500
+  price: 5500
   contextual: false
 - title: Les Albatros
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_LesAlbatros_50x43x14.jpg
