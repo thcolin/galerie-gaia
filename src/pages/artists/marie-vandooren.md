@@ -139,19 +139,6 @@ works:
   description: ''
   price: 400
   contextual: true
-- title: 'Contraste #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-contraste1-
-    30x40cm 2019.jpg
-  technique: 'Sérigraphie 2 exemplaires '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: dernier exemplaire
-  price: 180
-  contextual: true
 - title: Béton volant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg
   technique: sérigraphie en 15 exemplaires
