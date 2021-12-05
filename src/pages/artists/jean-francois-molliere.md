@@ -167,17 +167,6 @@ works:
   description: ''
   price: 1500
   contextual: true
-- title: Tokyo 8
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-8-40-x-40-cm-jpeg.jpg
-  technique: Photographie
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: Tirage jet d'encre pigmentaire papier contrecollé dibond encadrement
-    blanc standard 1/10
-  price: 490
-  contextual: true
 - title: Tokyo 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-4-40-x-40-cm-jpeg.jpg
   technique: Photographie
@@ -289,7 +278,7 @@ works:
     depth: 
   description: " caisse américaine bois  \nAutre format disponible  40X45cm 8/10 590€
     encadrement bois blanc"
-  price: 1500
+  price: 1800
   sold: false
   contextual: true
 - title: Chicago 23
