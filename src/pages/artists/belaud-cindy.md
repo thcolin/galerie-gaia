@@ -57,6 +57,34 @@ works:
   price: 600
   sold: false
   contextual: true
+- title: Scotch et karcher 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-scotch
+    karcher 2.jpeg
+  technique: Sérigraphie 5 passages, création et composition à l’adhésif et au jet
+    haute pression
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: 2021 Edition en 8 exemplaires
+  price: 600
+  sold: false
+  contextual: true
+- title: Aplat
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-aplat-70X50.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: Disponibles 8_9_10/12
+  price: 200
+  sold: false
+  contextual: true
 - title: Aplat en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
   technique: ''
@@ -84,19 +112,6 @@ works:
   price: 400
   sold: false
   contextual: true
-- title: 1 Trait en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: false
 - title: 1 Trait
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-trait-40X30.jpg
   technique: Sérigraphie 5/10
@@ -110,19 +125,19 @@ works:
   price: 150
   sold: false
   contextual: true
-- title: Aplat
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-aplat-70X50.jpg
-  technique: 'Sérigraphie '
+- title: 1 Trait en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
+  technique: ''
   fields: []
   styles: []
   dimensions:
-    height: 70
-    width: 50
+    height: 40
+    width: 30
     depth: 
-  description: Disponibles 8_9_10/12
-  price: 200
+  description: ''
+  price: 150
   sold: false
-  contextual: true
+  contextual: false
 exhibitions: []
 
 ---

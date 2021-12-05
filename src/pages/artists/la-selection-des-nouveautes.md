@@ -37,7 +37,7 @@ works:
     "victoire d''harcourt")'
   price: 4800
   contextual: true
-- title: Strate 39 et 42 en situation
+- title: Strate 39 et 42 en situation Versant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 39 ET 42
     ES.jpg
   fields: []
