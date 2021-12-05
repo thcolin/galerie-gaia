@@ -53,7 +53,7 @@ works:
     height: 100
     width: 70
     depth: 0
-  description: 2021 Edition en 8 exemplaires
+  description: "2021 Collaboration avec Hoyhiro   \nEdition en 8 exemplaires"
   price: 600
   sold: false
   contextual: true
@@ -68,7 +68,7 @@ works:
     height: 100
     width: 70
     depth: 0
-  description: 2021 Edition en 8 exemplaires
+  description: "2021 Collaboration avec Hoyhiro   \nEdition en 8 exemplaires"
   price: 600
   sold: false
   contextual: true

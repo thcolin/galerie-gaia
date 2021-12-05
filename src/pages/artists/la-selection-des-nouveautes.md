@@ -300,9 +300,9 @@ works:
     Prix sur demande
   price: ''
   contextual: false
-- title: Gammes 2021 par Cindy Belaud
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
-  technique: Sérigraphie en 12 exemplaires
+- title: Scotch & Karcher 1 par Cindy Belaud & Hoyhiro
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-IMG_5624.jpeg
+  technique: Sérigraphie en 8 exemplaires
   fields:
   - Oeuvre sur papier
   styles:
@@ -313,7 +313,7 @@ works:
     depth: 0
   description: '# [Cindy Belaud](https://galeriegaia.fr/artists/50-max/ "Cindy belaud
     polen")'
-  price: 200
+  price: 600
   contextual: false
 - title: 'Cactus Laure Carré  Sérigraphies Valérie Le Roux & Versants Sculpture Isabelle
     Healy '
