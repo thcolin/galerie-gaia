@@ -108,7 +108,7 @@ works:
     height: 102
     width: 73
     depth: 0
-  description: 'Tirage en 5 exemplaires œuvre encadrée caisse américaine '
+  description: Epuisée
   price: 1800
   contextual: true
 - title: Tokyo 6
