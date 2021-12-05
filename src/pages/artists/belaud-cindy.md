@@ -42,6 +42,21 @@ biography: |-
 
   Ines Ben Brahim
 works:
+- title: 'Scotch et Karcher l '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-scotch
+    karcher 1 .jpeg
+  technique: Sérigraphie 8 passages, création et composition à l’adhésif et au jet
+    haute pression
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: 2021 Edition en 8 exemplaires
+  price: 600
+  sold: false
+  contextual: true
 - title: Aplat en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_GAMMES_2021.jpeg
   technique: ''
@@ -50,7 +65,7 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 0
+    depth: 
   description: ''
   price: 200
   sold: false
@@ -64,7 +79,7 @@ works:
   dimensions:
     height: 80
     width: 60
-    depth: 0
+    depth: 
   description: '2 exemplaires signées numérotées '
   price: 400
   sold: false
@@ -77,7 +92,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -90,7 +105,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -103,7 +118,7 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 0
+    depth: 
   description: Disponibles 8_9_10/12
   price: 200
   sold: false
