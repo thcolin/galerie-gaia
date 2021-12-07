@@ -31,6 +31,19 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
   par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
+- title: Strates 58
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 58 _ 30x40cm
+    _ 12ex _ web.jpg
+  technique: 'Sérigraphie 12 exemplaires '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 280
+  contextual: true
 - title: Strate 53
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 53 _ 40x60cm
     _ 12ex.  _ web.jpg
