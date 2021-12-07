@@ -72,10 +72,39 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
-- title: Umbra delectat 4
+- title: 'Lux in mare '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
+    bathellier -LUX IN MARE E 47X47.jpg
+  technique: 'Papier peint froissé '
+  fields: []
+  styles: []
+  dimensions:
+    height: 47
+    width: 47
+    depth: 0
+  description: '2021 encadrement montage caisson baguette blanche en bois hauteur
+    de 5cm l’œuvre est épinglée sur le fond et flotte avec un esprit de liberté '
+  price: 850
+  sold: false
+  contextual: true
+- title: 'Umbra Delectat 4 en situation '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
+    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+  technique: pigments acrylique et argile sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 33
+    width: 49
+    depth: 
+  description: 2021 mise en situation du papier épinglé sur le mur
+  price: 400
+  sold: false
+  contextual: true
+- title: Umbra delectat 4 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
     bathellier -UMBRA DELECTAT E 60X44.jpg
-  technique: ''
+  technique: pigments acrylique et argile sur papier
   fields: []
   styles: []
   dimensions:
@@ -127,20 +156,6 @@ works:
     width: 49
     depth: 
   description: "2021"
-  price: 450
-  sold: false
-  contextual: true
-- title: Umbra Delectat 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
-    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
-  technique: pigments acryl. et argile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 33
-    width: 49
-    depth: 
-  description: ''
   price: 450
   sold: false
   contextual: true
