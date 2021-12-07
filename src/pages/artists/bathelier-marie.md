@@ -72,6 +72,21 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Umbra delectat 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
+    bathellier -UMBRA DELECTAT E 60X44.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 44
+    width: 60
+    depth: 0
+  description: 'Oeuvre encadrée avec un montage caisson et verre anti-reflet, baguette
+    bois blanche hauteur de la boite 3,5 cm '
+  price: 650
+  sold: false
+  contextual: true
 - title: Mes bains 7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 7 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
