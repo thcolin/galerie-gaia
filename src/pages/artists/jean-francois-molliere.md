@@ -34,18 +34,18 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   Sortie Oct 2012"
 exhibitions: []
 works:
-- title: Chicago 45
+- title: Chicago 27
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 45 80X80.jpg
-  technique: Tirage jet d'encre pigmentaire sur papier contrecollé sur dibond
+    francois molliere-Chicago 27 90X70.jpg
+  technique: 'Photographie tirage jet d''encre pigmentaire sur dibond '
   fields: []
   styles: []
   dimensions:
-    height: 80
-    width: 80
+    height: 90
+    width: 79
     depth: 0
-  description: 'Tirage à 5 exemplaires caisse américaine noire '
-  price: 1500
+  description: Tirage en 5 exemplaires  caisse américaine noire en bois
+  price: 1800
   contextual: true
 - title: 'New York 44 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
@@ -73,31 +73,31 @@ works:
   description: 'Tirage à 5 exemplaires caisse américaine noire '
   price: 1500
   contextual: true
-- title: Chicago 48
+- title: Chicago 46
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-_DSF8872 vH 90 x 74.83  cm.jpg
+    francois molliere-Chicago 46-58x58.jpg
   technique: 'Tirage jet d''encre pigmentaire sur dibond '
   fields: []
   styles: []
   dimensions:
-    height: 90
-    width: 75
+    height: 58
+    width: 58
     depth: 0
   description: Tirage en 5 exemplaires caisse américaine noire en bois
-  price: 1800
+  price: 1300
   contextual: true
-- title: Chicago 27
+- title: Chicago 45
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 27 90X70.jpg
-  technique: 'Photographie tirage jet d''encre pigmentaire sur dibond '
+    francois molliere-Chicago 45 80X80.jpg
+  technique: Tirage jet d'encre pigmentaire sur papier contrecollé sur dibond
   fields: []
   styles: []
   dimensions:
-    height: 90
-    width: 79
+    height: 80
+    width: 80
     depth: 0
-  description: Tirage en 5 exemplaires  caisse américaine noire en bois
-  price: 1800
+  description: 'Tirage à 5 exemplaires caisse américaine noire '
+  price: 1500
   contextual: true
 - title: Chicago 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
