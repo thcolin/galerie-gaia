@@ -31,6 +31,19 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
   par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
+- title: Strates 51
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
+    51_fond.jpg
+  technique: Sérigraphie en 6 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: ''
+  price: 480
+  contextual: true
 - title: Strates 42
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 42 2-4 30X20.jpg
   technique: Sérigraphie 2/4
@@ -55,6 +68,19 @@ works:
     depth: 0
   description: encadrement chêne et verre anti-reflet
   price: 200
+  contextual: true
+- title: Strates 52
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
+    52_fond.jpg
+  technique: Sérigraphie en 6 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: ''
+  price: 480
   contextual: true
 - title: 'Failles #22'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-faille
@@ -96,32 +122,6 @@ works:
   price: ''
   contextual: true
   technique: Fresque mural projet personnalisable pour professionnel et particulier
-- title: Strates 52
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    52_fond.jpg
-  technique: Sérigraphie en 6 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: ''
-  price: 480
-  contextual: true
-- title: Strates 51
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    51_fond.jpg
-  technique: Sérigraphie en 6 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: ''
-  price: 480
-  contextual: true
 - title: Strates 50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     50_fond.jpg
@@ -134,16 +134,6 @@ works:
     depth: 0
   description: ''
   price: 280
-  contextual: true
-- title: Strates 32
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg
-  technique: Sérigraphie
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
-  price: 340
   contextual: true
 - title: Versants fresque II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
