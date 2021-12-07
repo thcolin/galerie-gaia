@@ -31,6 +31,19 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\nVidéo de 
   par affinité artistique pour produire ensemble et croiser leur production respective."
 exhibitions: []
 works:
+- title: Strate 53
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 53 _ 40x60cm
+    _ 12ex.  _ web.jpg
+  technique: Sérigraphie 5 couleurs
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: Strates 51
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     51_fond.jpg
@@ -108,6 +121,19 @@ works:
   description: ''
   price: 280
   contextual: true
+- title: Strates 50
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
+    50_fond.jpg
+  technique: Sérigraphie en 10 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 280
+  contextual: true
 - title: Fresque 1 ...
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
   fields:
@@ -122,19 +148,6 @@ works:
   price: ''
   contextual: true
   technique: Fresque mural projet personnalisable pour professionnel et particulier
-- title: Strates 50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    50_fond.jpg
-  technique: Sérigraphie en 10 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
 - title: Versants fresque II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
   technique: 'Fresque sur mur brut '
