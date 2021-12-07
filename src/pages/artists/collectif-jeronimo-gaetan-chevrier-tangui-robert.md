@@ -135,19 +135,6 @@ works:
   description: ''
   price: 280
   contextual: true
-- title: Strates 49
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    49_fond.jpg
-  technique: Sérigraphie en 8 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
 - title: Strates 32
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-projets-versants-strates-32-30x40.jpg
   technique: Sérigraphie
