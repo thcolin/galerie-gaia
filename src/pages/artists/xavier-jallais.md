@@ -30,125 +30,23 @@ biography: "# Xavier Jallais\n\nNé en 1971, Xavier Jallais vit et travaille à 
   (max 6 personnes)"
 exhibitions: []
 works:
-- title: Automorphie Structure tridimensionnelle 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-structure-tridimentionnelle-1-60x60.JPG"
-  technique: Collage de sable, cendre, acrylique et huile sur toile.
+- title: Il y avait tant à faire
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ Xavier
+    Jallais - Il y avait tant à faire - 75x55, 80x 60 E.jpg
+  technique: Acrylique sur carton
+  fields: []
+  styles: []
   dimensions:
-    height: 60
+    height: 80
     width: 60
-    depth: 
-  description: '2017
-
-'
-  price: 800
-  sold: false
-  contextual: true
-  fields:
-  - Peinture
-- title: Espace géométrique VII
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-espace-geometrique-vii-120x100.jpg"
-  technique: Dessin, collage, aquarelle, pastel, acrylique sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
     depth: 0
-  description: 'Œuvre encadrée sous verre '
-  price: 1200
+  description: Oeuvre encadrée montage caisson oeuvre posée sur un fond blanc verre
+    classique
+  price: 650
   contextual: true
-- title: Espace géométrique II
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-espace-geometrique-ii-76x56.jpg"
-  technique: Dessin, collage, pastel, aquarelle, acrylique sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: ''
-  price: 550
-  contextual: true
-- title: Polyèdre VI
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-polyedre-vi-25x20-25x35.jpg"
-  technique: Eau forte sur zinc sur papier RBK Rives 300g/m2
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 25
-    width: 35
-    depth: 0
-  description: Tirage en 7 exemplaires
-  price: 150
-  contextual: true
-- title: Automorphie double structure blanche
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-double-structure-blanche-130x97.jpg"
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: ''
-  price: 2300
-  contextual: true
-- title: Automorphie structure géométrique II
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-structure-geometrique-ii-81x65.jpg"
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 81
-    width: 65
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
-- title: Automorphie ligne blanche I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-ligneblanche-130x97.jpg"
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: ''
-  price: 2300
-  contextual: true
-- title: Automorphie architecture I
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-automorphie-architecture-i-130x97.jpg"
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: ''
-  price: 2300
-  contextual: true
-- title: Prendre son envol
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier Jallais - Prendre son envol - 30 x 40.jpg"
-  technique: 'Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2 '
-  dimensions:
-    height: 30
-    width: 40
-  description: "Edition en 11 exemplaires  \n2020"
-  price: 140
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Le feu pour attribut
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier Jallais - Le feu pour attribut - 40 x 50.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier
+    Jallais - Le feu pour attribut - 40 x 50.jpg
   technique: Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2
   dimensions:
     height: 50
@@ -159,7 +57,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Automorphie Grande Structure
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/automorphie-grande-structure.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/automorphie-grande-structure.jpg
   technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
   dimensions:
     height: 150
@@ -171,21 +69,8 @@ works:
   contextual: true
   fields:
   - Peinture
-- title: Le défi de Thésée (2/11)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-defi-de-thesee-211.jpg"
-  technique: Eau forte sur zinc, tirage 11 ex sur RBK Rives 300g/m²
-  dimensions:
-    height: 50
-    width: 40
-    depth: 
-  description: '2019 '
-  price: 230
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Cerf 1 (4/7)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
@@ -198,7 +83,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Double stigmates (1/7)
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double-stigmates-17.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double-stigmates-17.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
     height: 46
