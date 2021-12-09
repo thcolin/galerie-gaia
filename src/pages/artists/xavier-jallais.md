@@ -30,19 +30,6 @@ biography: "# Xavier Jallais\n\nNé en 1971, Xavier Jallais vit et travaille à 
   (max 6 personnes)"
 exhibitions: []
 works:
-- title: Le jour n'est pas si loin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ xavier
-    Jallais - Le jour n'est pas si loin -51x 36, 65x50 E.jpg
-  technique: Acrylique sur carton
-  fields: []
-  styles: []
-  dimensions:
-    height: 66
-    width: 50
-    depth: 0
-  description: 'Oeuvre encadrée cadre bois blanc montage caisson  posée sur fond blanc '
-  price: 650
-  contextual: true
 - title: Il y avait tant à faire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ Xavier
     Jallais - Il y avait tant à faire - 75x55, 80x 60 E.jpg
@@ -56,6 +43,32 @@ works:
   description: Oeuvre encadrée montage caisson oeuvre posée sur un fond blanc verre
     classique
   price: 850
+  contextual: true
+- title: Le jour n'est pas si loin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ xavier
+    Jallais - Le jour n'est pas si loin -51x 36, 65x50 E.jpg
+  technique: Acrylique sur carton
+  fields: []
+  styles: []
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: 'Oeuvre encadrée cadre bois blanc montage caisson  posée sur fond blanc '
+  price: 650
+  contextual: true
+- title: Bâteau rouge
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-xavier
+    jallais-bateau rouge.jpg
+  technique: Acrylique sur carton
+  fields: []
+  styles: []
+  dimensions:
+    height: 32
+    width: 26
+    depth: 0
+  description: Oeuvre encadrée verre classique baguette chêne
+  price: 250
   contextual: true
 - title: Le feu pour attribut
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier
