@@ -17,6 +17,19 @@ biography: |-
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: Venise
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-rycho-venise-50X50
+    21ex.png
+  technique: Photographie Mixte media
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: '21 exemplaires '
+  price: 240
+  contextual: true
 - title: 'La mer d''ici '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-rycho-paysage2.jpg
   technique: Photographie mixte média
@@ -41,19 +54,6 @@ works:
     depth: 0
   description: 7 exemplaires
   price: 600
-  contextual: true
-- title: Venise
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-rycho-venise-50X50
-    21ex.png
-  technique: Photographie Mixte media
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 50
-    depth: 0
-  description: '21 exemplaires '
-  price: 240
   contextual: true
 - title: Jetée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-port.jpg
@@ -91,7 +91,7 @@ works:
     width: 18
     depth: 0
   description: Pièce unique encadrée
-  price: 200
+  price: 238
   contextual: true
 - title: Mala bestia
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak04.jpg
@@ -103,7 +103,7 @@ works:
     width: 18
     depth: 0
   description: oeuvre encadrée
-  price: 200
+  price: 238
   contextual: true
 - title: Mala bestia 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak03.jpg
@@ -115,7 +115,7 @@ works:
     width: 18
     depth: 0
   description: Pièce unique encadrée
-  price: 200
+  price: 238
   contextual: true
 - title: Mala bestia 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-scarabe1.jpg
@@ -127,7 +127,7 @@ works:
     width: 18
     depth: 0
   description: Pièce unique encadrée
-  price: 200
+  price: 238
   contextual: true
 - title: CC 0013
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cc-0013.jpg
@@ -139,19 +139,6 @@ works:
   description: ''
   price: 600
   sold: false
-  contextual: true
-- title: 2 femmes à New York
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-rycho-2femmes
-    NY-70X50.jpg
-  technique: 'photographie en 21 exemplaires '
-  fields: []
-  styles: []
-  dimensions:
-    height: 96
-    width: 70
-    depth: 0
-  description: ''
-  price: 600
   contextual: true
 - title: Albert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/albert.jpg
@@ -175,28 +162,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Elle
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elle.jpg
-  technique: 'Photographie tirage papier marouflée sur bois 1 exemplaire '
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: ''
-  price: 1400
-  sold: false
-  contextual: true
-- title: CC5937
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cc5937.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 96
-    width: 66
-    depth: 
-  description: "\n"
-  price: 600
-  sold: false
-  contextual: true
 - title: NY22
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny22.jpg
   technique: Mixte
@@ -205,17 +170,6 @@ works:
     width: 70
     depth: 
   description: Tirage papier 4/21
-  price: 600
-  sold: false
-  contextual: true
-- title: NY744A
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny744a.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 96
-    width: 70
-    depth: 
-  description: ''
   price: 600
   sold: false
   contextual: true
@@ -228,39 +182,6 @@ works:
     depth: 
   description: ''
   price: 700
-  sold: false
-  contextual: true
-- title: NY tuesday
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ny-tuesday.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: "1995"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1995.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 30
-    width: 30
-    depth: 
-  description: ''
-  price: 180
-  sold: false
-  contextual: true
-- title: COCA IN NY
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/coca-in-ny.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 30
-    width: 40
-    depth: 
-  description: ''
-  price: 240
   sold: false
   contextual: true
 - title: E125ST
