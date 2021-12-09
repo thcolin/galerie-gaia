@@ -17,6 +17,31 @@ biography: |-
   « Je suis imagiste »...
 exhibitions: []
 works:
+- title: 'La mer d''ici '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-rycho-paysage2.jpg
+  technique: Photographie mixte média
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: 7 exemplaires
+  price: 600
+  contextual: true
+- title: La dune d'ici
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-rycho-paysage
+    1.jpg
+  technique: Photographie mixte média
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: 7 exemplaires
+  price: 600
+  contextual: true
 - title: Venise
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-rycho-venise-50X50
     21ex.png
