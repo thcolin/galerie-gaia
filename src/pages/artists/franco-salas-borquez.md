@@ -83,7 +83,7 @@ works:
     height: 70
     width: 140
     depth: 0
-  description: "2021"
+  description: 2021 Œuvre encadrée avec caisse américaine noire
   price: 3800
   contextual: true
 - title: L'indomptable en situation
