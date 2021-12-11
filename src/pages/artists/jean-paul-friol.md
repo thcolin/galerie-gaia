@@ -272,7 +272,8 @@ works:
   price: 130
   contextual: true
 - title: Gravure 10-11-1987
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-10-11-1987-1er-etat-25x21cm.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Gravure 10-11-1987
+    gravure sur platre-edition en 11 exempliares (30x21) 120 .JPG
   technique: Gravure sur plâtre édition en 11 exemplaires
   fields: []
   styles:
@@ -285,7 +286,8 @@ works:
   price: 120
   contextual: true
 - title: Gravure 9-11-1985
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-9-15-1987-16x15cm.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gravure 9-11-1985
+    gravure sur platre-edition en 15 ex (30x20) 120€.JPG
   technique: Gravure sur plâtre édition en 15 exemplaires
   fields: []
   styles:
