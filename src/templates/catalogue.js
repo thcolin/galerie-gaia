@@ -135,9 +135,9 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         frontmatter: {
           ...page.frontmatter,
           works: page.frontmatter.works.filter(work => formats.some(([min, max]) => (
-            work.height && work.width
-            && work.height >= min && work.height <= max
-            && work.width >= min && work.width <= max
+            (work.dimensions?.height && work.dimensions?.width)
+            && work.dimensions?.height >= min && work.dimensions?.height <= max
+            && work.dimensions?.width >= min && work.dimensions?.width <= max
           ))),
         },
       }),
@@ -157,7 +157,7 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         ...page,
         frontmatter: {
           ...page.frontmatter,
-          works: page.frontmatter.works.filter(work => orientations.some((orientation) => ({
+          works: page.frontmatter.works.filter(work => orientations.some((orientation) => (work.dimensions?.height && work.dimensions?.width) && ({
             portrait: work.dimensions?.height > work.dimensions?.width,
             landscape: work.dimensions?.height < work.dimensions?.width,
             square: work.dimensions?.height === work.dimensions?.width,
