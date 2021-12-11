@@ -244,7 +244,8 @@ works:
   styles:
   - Figuratif
 - title: Gravure 1987
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-1987-31x22cm.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gravure 1987-gravure
+    sur platre-EA (40x30) 130€.JPG
   technique: Gravure sur plâtre EA
   fields: []
   styles:
@@ -257,7 +258,8 @@ works:
   price: 130
   contextual: true
 - title: Gravure XI-XIII 1988
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-ea-xi-xiii-1988-15x17cm.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gravure XI-XIII
+    1988-gravure sur platre-EA (30x20) 130€ .JPG
   technique: Gravure sur plâtre EA
   fields: []
   styles:
