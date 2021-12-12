@@ -45,7 +45,7 @@ works:
     width: 100
     depth: 0
   description: "2021"
-  price: 3200
+  price: 3600
   contextual: true
 - title: Vent révolté en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -franco
