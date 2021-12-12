@@ -300,7 +300,8 @@ works:
   price: 120
   contextual: true
 - title: Gravure 6-20-1988
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_friol-gravure-6-20-1988-21x15cm.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gravure 6-20-1988
+    gravure sur platre-en 20 ex (21x15) 120€ .JPG
   technique: 'Gravure sur plâtre édition en 20 exemplaires '
   fields: []
   styles: []
