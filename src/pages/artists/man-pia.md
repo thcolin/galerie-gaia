@@ -10,7 +10,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: Man&Pia
+title: Man et Pia
 location: ''
 birth: ''
 death: ''
@@ -33,7 +33,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 2500
   sold: false
@@ -46,7 +46,7 @@ works:
   dimensions:
     height: 94
     width: 184
-    depth: 0
+    depth: 
   description: "Caisse américaine chêne   \n2021"
   price: 5500
   sold: false
@@ -59,7 +59,7 @@ works:
   dimensions:
     height: 80
     width: 76
-    depth: 0
+    depth: 
   description: "Caisse américaine chêne  \n2021"
   price: 2200
   sold: false
@@ -72,7 +72,7 @@ works:
   dimensions:
     height: 95
     width: 121
-    depth: 0
+    depth: 
   description: "Caisse américaine  \n2020"
   price: 4000
   sold: false
@@ -85,7 +85,7 @@ works:
   dimensions:
     height: 94
     width: 151
-    depth: 0
+    depth: 
   description: 'Caisse américaine '
   price: 4980
   sold: false
