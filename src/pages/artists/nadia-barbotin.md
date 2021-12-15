@@ -27,28 +27,28 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
-- title: Retrouvailles
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194.jpeg
+- title: 'Transparences blanches '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg
   technique: Huile sur toile
   dimensions:
-    height: 130
-    width: 194
+    height: 91
+    width: 91
     depth: 
-  description: "Diptyque   \n2020"
-  price: 4500
+  description: "2019"
+  price: 2500
   sold: false
   contextual: true
   fields: []
   styles: []
-- title: Retrouvailles en atelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-retrouvailles-130x194-in-situ.jpeg
-  technique: Huile sur toile et Techniques mixtes
+- title: Transparences blanches en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg
+  technique: Huile
   dimensions:
-    height: 130
-    width: 194
+    height: 91
+    width: 91
     depth: 
-  description: "Diptyque en contexte  \n2020"
-  price: 5200
+  description: "En contexte  \n2019"
+  price: 2500
   sold: false
   contextual: false
   fields: []
@@ -176,41 +176,15 @@ works:
   contextual: true
   fields: []
   styles: []
-- title: Freedom
+- title: Freedom en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG
   technique: Huile sur toile et techniques mixtes
   dimensions:
     height: 120
     width: 120
     depth: 
-  description: "En contexte   \n2020"
+  description: "2020"
   price: 3500
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: 'Transparences blanches '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 91
-    width: 91
-    depth: 
-  description: "2019"
-  price: 2500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Transparences blanches
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg
-  technique: Huile
-  dimensions:
-    height: 91
-    width: 91
-    depth: 
-  description: "En contexte  \n2019"
-  price: 2500
   sold: false
   contextual: false
   fields: []
@@ -235,10 +209,7 @@ works:
     height: 120
     width: 120
     depth: 
-  description: |-
-    2016
-
-    En contexte
+  description: Réservé
   price: 3500
   sold: false
   contextual: false
