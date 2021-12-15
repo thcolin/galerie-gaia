@@ -63,7 +63,7 @@ works:
   dimensions:
     height: 31
     width: 25
-    depth: 0
+    depth: 
   description: Encadrée
   price: 250
   sold: false
@@ -75,9 +75,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Encadrée
   price: 250
   sold: false
@@ -91,7 +91,7 @@ works:
   dimensions:
     height: 31
     width: 25
-    depth: 0
+    depth: 
   description: Encadrée
   price: 250
   sold: false
@@ -132,8 +132,8 @@ works:
   dimensions:
     height: 31
     width: 25
-    depth: 0
-  description: ''
+    depth: 
+  description: Réservé
   price: 250
   sold: false
   contextual: true
@@ -145,7 +145,7 @@ works:
   dimensions:
     height: 31
     width: 25
-    depth: 0
+    depth: 
   description: Encadrée
   price: 250
   sold: false
@@ -158,7 +158,7 @@ works:
   dimensions:
     height: 31
     width: 25
-    depth: 0
+    depth: 
   description: Encadrée
   price: 250
   sold: false
@@ -222,7 +222,7 @@ works:
     height: 120
     width: 120
     depth: 
-  description: "2016"
+  description: Réservé
   price: 3500
   sold: false
   contextual: true
