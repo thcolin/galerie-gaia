@@ -167,40 +167,40 @@ works:
   price: 80
   sold: false
   contextual: false
-- title: Black cube in blue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
-  technique: Impression jet d'encre sur polyester Edition 3/25
-  dimensions:
-    height: 8.5
-    width: 8.5
-    depth: 8.5
-  description: Edition 50 exemplaires
-  price: 120
-  sold: false
-  contextual: false
 - title: Goutte rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
-  technique: Impression jet d’encre sur polyester Edition 42/50
+  technique: 'Impression jet d’encre sur polyester '
   dimensions:
     height: 6
     width: 11
     depth: 11
-  description: "Création et tirage en 2011  \n"
+  description: Edition 50 exemplaires
   price: 160
   sold: false
   contextual: false
 - title: Collision II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
-  technique: Impression jet d'encre sur polyester 10/25
+  technique: 'Impression jet d''encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 8.5
     width: 8.5
     depth: 8.5
-  description: "2018"
+  description: Edition en 25 exemplaires
   price: 110
-  contextual: true
+  contextual: false
+- title: Black cube in blue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
+  technique: Piece unique encre et peint à la main
+  dimensions:
+    height: 14
+    width: 14
+    depth: 24.5
+  description: ''
+  price: 1000
+  sold: false
+  contextual: false
 - title: Trophée Open de Squash de Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trophee-open-de-squash-de-nantes.jpg
   technique: ''
