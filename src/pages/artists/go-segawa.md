@@ -65,14 +65,14 @@ works:
   contextual: true
 - title: Square in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
-  technique: Sérigraphie impression jet d'encre sur polyester 2/25
+  technique: 'Sérigraphie impression jet d''encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 8.5
     width: 8.5
     depth: 8.5
-  description: "2018"
+  description: 25 exemplaires
   price: 110
   contextual: false
 - title: Colline imaginaire I
@@ -84,30 +84,30 @@ works:
     height: 3
     width: 14.3
     depth: 14.3
-  description: Edition 14/20
+  description: Edition 20 exemplaires
   price: 180
   contextual: true
 - title: 'Les gouttes V '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-gouttes-v-650.jpg
-  technique: Impression jet d’encre sur polyester Edition 10/50
+  technique: 'Impression jet d’encre sur polyester '
   dimensions:
     height: 7
     width: 11
     depth: 11
-  description: '2016 '
+  description: Edition 50 exemplaires
   price: 130
   sold: false
   contextual: false
 - title: La balle dans une balle III
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-balle-dans-la-balle.png
-  technique: Impression jet d'encre sur polyester 27/50
+  technique: 'Impression jet d''encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: ''
+  description: 50 exemplaires
   price: 110
   contextual: true
 - title: 5 volumes empilées
@@ -123,19 +123,19 @@ works:
   contextual: true
 - title: 'Oval I – red & yellow '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-i-red-and-yellow-1550-1650.jpg
-  technique: Impression jet d’encre sur polyester Edition en 50 exemplaires
+  technique: 'Impression jet d’encre sur polyester '
   dimensions:
     height: 9
     width: 4
     depth: 4
   description: "red & yellow (15/50)  format 9,6 X 4,6 X 4,6 70€ \n\nred & yellow
     (3/25) format 12,5 X 6 X 6 130€  \nTirage 2019"
-  price: 
+  price: 70
   sold: false
   contextual: false
 - title: 'Oval II – dark '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-ii-dark-950-1050.jpg
-  technique: Impression  jet d’encre sur polyester Edition en 50 exemplaires
+  technique: 'Impression  jet d’encre sur polyester '
   dimensions:
     height: 9
     width: 4
