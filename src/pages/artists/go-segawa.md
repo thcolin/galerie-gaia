@@ -152,18 +152,18 @@ works:
     height: 8
     width: 16
     depth: 22
-  description: 'Création en 2006  Tirage en 2008                     '
+  description: Création en 2006  Sur commande
   price: 380
   sold: false
   contextual: false
 - title: 'Snake II – orange '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/snake-ii-orange-1950.jpg
-  technique: 'Impression jet d’encre sur polyester Edition en 50 exemplaires '
+  technique: 'Impression jet d’encre sur polyester '
   dimensions:
-    height: 6
-    width: 6
-    depth: 6
-  description: "Dimension précise 6,5 X 6,5 X 6,5 cm \n\nTirage 2016 "
+    height: 6.5
+    width: 6.5
+    depth: 6.5
+  description: "Edition en 50 exemplaires  \nSur commande"
   price: 80
   sold: false
   contextual: false
@@ -171,10 +171,10 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
   technique: Impression jet d'encre sur polyester Edition 3/25
   dimensions:
-    height: 8
-    width: 8
-    depth: 8
-  description: "Création et tirage en 2019  \nDimension précise 8,5 X 8,5 X 8,5cm "
+    height: 8.5
+    width: 8.5
+    depth: 8.5
+  description: Edition 50 exemplaires
   price: 120
   sold: false
   contextual: false
