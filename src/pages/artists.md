@@ -1,6 +1,7 @@
 ---
 template: artists
 artists:
+- artist: src/pages/artists/duhec-olivier.md
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/jacques-le-brusq.md
