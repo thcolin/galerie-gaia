@@ -42,7 +42,7 @@ works:
   description: ''
   price: 5800
   sold: false
-  contextual: true
+  contextual: false
 - title: Mini Log
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
     log ES.jpg
@@ -56,7 +56,7 @@ works:
   description: 2,5kg
   price: 5800
   sold: false
-  contextual: true
+  contextual: false
 exhibitions: []
 
 ---
