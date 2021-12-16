@@ -48,10 +48,10 @@ works:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: Edition 39/50
-  price: 105
+  description: 50 Exemplaires
+  price: 110
   contextual: true
-- title: Oeuf posé I (échelle 2/3eme)
+- title: 'Oeuf posé I '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
   technique: Impression jet d'encre sur polyester
   fields: []
@@ -60,8 +60,8 @@ works:
     height: 5.6
     width: 9.6
     depth: 9.6
-  description: Edition 10/50
-  price: 90
+  description: Edition 50 exemplaires
+  price: 100
   contextual: true
 - title: Square in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
