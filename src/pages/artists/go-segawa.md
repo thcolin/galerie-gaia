@@ -21,11 +21,11 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'sur commande '
-  price: 180
+    height: 7
+    width: 7
+    depth: 25
+  description: 15 exemplaires
+  price: 230
   contextual: true
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
