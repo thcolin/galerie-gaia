@@ -194,9 +194,9 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
   technique: Piece unique encre et peint à la main
   dimensions:
-    height: 14
-    width: 14
-    depth: 24.5
+    height: 13.5
+    width: 13.5
+    depth: 13.5
   description: ''
   price: 1000
   sold: false
