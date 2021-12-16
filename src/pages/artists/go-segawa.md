@@ -29,14 +29,14 @@ works:
   contextual: true
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
-  technique: Sérigraphie impression jet d'encre sur polyester 8/25
+  technique: 'Sérigraphie impression jet d''encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 6
     width: 12
     depth: 12
-  description: "2019"
+  description: 25 exemplaires
   price: 160
   contextual: false
 - title: Cube in red
