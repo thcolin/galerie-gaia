@@ -12,7 +12,7 @@ biography: |-
 
   Go Segawa est né en 1970 à Saitama - Japon. Il vit et travaille dans la région parisienne Après avoir obtenu sa licence en arts plastiques, section peinture occidentale à Nippon Université (Tokyo), il est arrivé en France en 1996. Diplômé D.N.S.E.P à l’école des beaux-Arts de Rennes en 2001, DESS « créateurs de produits multimédias artistiques et culturelles » à l’Université Rennes 2 en 2004, Master « Réalité virtuelle » à l’Université Paris8, en 2006. Il effectue ensuite ses recherches en doctorat à l’université Paris8: Esthétique sciences et technologies des arts. Depuis 2001 il expose dans les galeries notamment de Rennes,Paris et Tokyo.
 
-  Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Gosegawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
+  Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Go Segawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
 - title: Beans Rainbow
