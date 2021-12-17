@@ -42,7 +42,7 @@ works:
   dimensions:
     height: 160
     width: 140
-    depth: 0
+    depth: 
   description: 2001 Accrochage mural avec simples crochets fixées sur une baguette
     en bois positionnée sur le haut de l’œuvre tissée.
   price: 5000
@@ -55,9 +55,9 @@ works:
   - Textile
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
@@ -70,7 +70,7 @@ works:
   dimensions:
     height: 120
     width: 100
-    depth: 0
+    depth: 
   description: encadrement bois cache clou 2003
   price: 3000
   sold: false
@@ -84,7 +84,7 @@ works:
   dimensions:
     height: 120
     width: 100
-    depth: 0
+    depth: 
   description: encadrement cache clou bois 2003
   price: 3000
   sold: false
@@ -98,7 +98,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: "1997"
   price: 700
   sold: false
@@ -112,7 +112,7 @@ works:
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: "1997  \nŒuvre verticale (signature en bas à droite) présentée aussi
     en horizontal"
   price: 700
@@ -125,9 +125,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "1997  \nCéramique à droite de [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
     \"brigitte marioneau\")"
   price: 700
@@ -141,7 +141,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: "1997"
   price: 700
   sold: false
@@ -156,7 +156,7 @@ works:
   dimensions:
     height: 70
     width: 50
-    depth: 0
+    depth: 
   description: ''
   price: 700
   sold: false
@@ -168,9 +168,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Osez l'art textile pour le plaisir et visitez le [musée Lurçat à Angers](https://musees.angers.fr/lieux/musee-jean-lurcat-et-de-la-tapisserie-contemporaine/index.html
     "musee lurçat angers")
   price: 
@@ -186,7 +186,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: "2018"
   price: 900
   sold: false
@@ -197,9 +197,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
     "pierre tual")
   price: 
@@ -216,7 +216,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: "2021"
   price: 700
   sold: false
@@ -232,7 +232,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: "2021"
   price: 700
   sold: false
@@ -248,7 +248,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: "2021"
   price: 700
   sold: false
@@ -262,7 +262,7 @@ works:
   dimensions:
     height: 60
     width: 50
-    depth: 0
+    depth: 
   description: Proposition en triptyque 1900€ , le chien n'est pas compris dans le
     prix...
   price: 1900
@@ -279,7 +279,7 @@ works:
   dimensions:
     height: 
     width: 30
-    depth: 0
+    depth: 
   description: "2009"
   price: 500
   sold: false
@@ -295,7 +295,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: "2009"
   price: 500
   sold: false
@@ -310,7 +310,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: "2021  \nProposition d'installation, œuvres vendues séparément sans
     le chien"
   price: 
@@ -326,7 +326,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: "2021"
   price: 600
   sold: false
@@ -342,7 +342,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: ''
   price: 600
   sold: false
@@ -358,7 +358,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: ''
   price: 600
   sold: false
@@ -371,9 +371,9 @@ works:
   - Peinture
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: 'Cette installation est une suggestion, le chien ne fait pas partie
     de la proposition artistique ! '
   price: 
@@ -389,7 +389,7 @@ works:
   dimensions:
     height: 130
     width: 97
-    depth: 0
+    depth: 
   description: "2003   \nŒuvre pouvant être installée en format paysage"
   price: 3000
   sold: false
@@ -401,9 +401,9 @@ works:
   - Peinture
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "Œuvre pouvant être installée en format paysage ou portrait  \nSérigraphie
     de Versant sur mur du fond"
   price: 
@@ -528,19 +528,6 @@ works:
   contextual: true
 - title: A/F 004
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 
-  description: Œuvre encadrée caisson bois blanc
-  price: 560
-  sold: false
-  contextual: true
-- title: A/F 002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-002.jpg
   technique: 'Acrylique sur feutre '
   fields: []
   styles: []
