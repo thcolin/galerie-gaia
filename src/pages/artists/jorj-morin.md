@@ -445,15 +445,15 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: Exercice agité 1983
+- title: Exercice respiratoire 1983
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-exercice
     respiratoire.JPG
   technique: Eau forte 12/50
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 29
+    width: 20
     depth: 
   description: ''
   price: 350
@@ -466,7 +466,7 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 40
+    height: 33
     width: 50
     depth: 
   description: ''
@@ -480,8 +480,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 40
-    width: 30
+    height: 38
+    width: 28.5
     depth: 
   description: ''
   price: 250
@@ -495,7 +495,7 @@ works:
   styles: []
   dimensions:
     height: 50
-    width: 30
+    width: 33
     depth: 
   description: ''
   price: 350
@@ -508,8 +508,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 30
+    height: 47.8
+    width: 29
     depth: 
   description: ''
   price: 350
