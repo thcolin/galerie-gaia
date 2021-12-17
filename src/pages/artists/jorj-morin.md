@@ -90,8 +90,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 38
+    width: 28.5
     depth: 
   description: ''
   price: 250
@@ -104,8 +104,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 28.5
+    width: 19
     depth: 
   description: ''
   price: 150
