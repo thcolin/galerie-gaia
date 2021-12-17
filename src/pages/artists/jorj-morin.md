@@ -563,8 +563,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 34
-    width: 34
+    height: 60.5
+    width: 40.5
     depth: 
   description: "1971"
   price: 450
