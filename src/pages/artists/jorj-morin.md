@@ -34,9 +34,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -50,7 +50,7 @@ works:
   dimensions:
     height: 45
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -62,9 +62,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 38
+    width: 28.5
+    depth: 
   description: ''
   price: 250
   sold: false
@@ -76,9 +76,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 61
+    width: 45.5
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -90,9 +90,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 250
   sold: false
@@ -104,9 +104,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -118,9 +118,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -132,9 +132,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -146,9 +146,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -160,9 +160,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -173,9 +173,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -187,9 +187,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 250
   sold: false
@@ -201,9 +201,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -215,9 +215,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 250
   sold: false
@@ -229,9 +229,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -243,9 +243,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -257,9 +257,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -271,9 +271,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -285,9 +285,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -299,9 +299,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -313,9 +313,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -327,9 +327,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -341,9 +341,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -355,9 +355,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -369,9 +369,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 250
   sold: false
@@ -383,9 +383,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -397,9 +397,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -410,9 +410,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -424,9 +424,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -438,9 +438,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -454,7 +454,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -466,9 +466,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -482,7 +482,7 @@ works:
   dimensions:
     height: 40
     width: 50
-    depth: 0
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -496,7 +496,7 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 250
   sold: false
@@ -510,7 +510,7 @@ works:
   dimensions:
     height: 50
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -524,7 +524,7 @@ works:
   dimensions:
     height: 50
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -538,7 +538,7 @@ works:
   dimensions:
     height: 50
     width: 40
-    depth: 0
+    depth: 
   description: ''
   price: 450
   sold: false
@@ -552,7 +552,7 @@ works:
   dimensions:
     height: 50
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 350
   sold: false
@@ -566,7 +566,7 @@ works:
   dimensions:
     height: 30
     width: 20
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -579,7 +579,7 @@ works:
   dimensions:
     height: 34
     width: 34
-    depth: 0
+    depth: 
   description: "1971"
   price: 450
   sold: false
