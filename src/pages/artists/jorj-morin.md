@@ -617,8 +617,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg
   technique: Gravure
   dimensions:
-    height: 30
-    width: 20
+    height: 10
+    width: 9.5
     depth: 
   description: '1972 '
   price: 150
