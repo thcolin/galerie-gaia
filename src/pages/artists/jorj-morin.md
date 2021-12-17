@@ -369,25 +369,11 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 38
+    width: 28.5
     depth: 
   description: ''
   price: 250
-  sold: false
-  contextual: true
-- title: Haute mer 1977
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-haute
-    mer.JPG
-  technique: Eau forte 1/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 150
   sold: false
   contextual: true
 - title: Fleur coupée 1977
@@ -397,21 +383,21 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 28.5
+    width: 19
     depth: 
   description: ''
   price: 150
   sold: false
   contextual: true
-- title: FESTIVAL 1989
+- title: Festival 1989
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-FESTIVAL.JPG
   technique: Eau forte 3/50
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 44.5
+    width: 32.5
     depth: 
   description: ''
   price: 350
@@ -424,8 +410,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 28.5
+    width: 19
     depth: 
   description: ''
   price: 150
