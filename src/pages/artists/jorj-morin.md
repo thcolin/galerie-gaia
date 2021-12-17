@@ -173,8 +173,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 40.5
+    width: 60.5
     depth: 
   description: ''
   price: 450
@@ -187,8 +187,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 38
+    width: 28.5
     depth: 
   description: ''
   price: 250
@@ -201,8 +201,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
+    height: 50
+    width: 37.5
     depth: 
   description: ''
   price: 350
