@@ -669,8 +669,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg
   technique: Gravure
   dimensions:
-    height: 40
-    width: 30
+    height: 16
+    width: 16
     depth: 
   description: '1978 '
   price: 250
