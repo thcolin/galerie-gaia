@@ -61,7 +61,7 @@ works:
     width: 9.6
     depth: 9.6
   description: Edition 50 exemplaires
-  price: 100
+  price: 130
   contextual: true
 - title: Square in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
