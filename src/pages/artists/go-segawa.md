@@ -49,7 +49,7 @@ works:
     width: 7.5
     depth: 7.5
   description: 50 Exemplaires
-  price: 110
+  price: 130
   contextual: true
 - title: 'Oeuf posé I '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
@@ -73,7 +73,7 @@ works:
     width: 8.5
     depth: 8.5
   description: 25 exemplaires
-  price: 110
+  price: 130
   contextual: false
 - title: Colline imaginaire I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png
