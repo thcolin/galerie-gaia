@@ -35,18 +35,6 @@ biography: |-
   [www.lindengruen.at](https://www.lindengruen.at/ "galerie lindengruen autriche")
 exhibitions: []
 works:
-- title: Côté coeur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-claude-breat-40x40x3-5.jpg
-  technique: Mixte sur papier marouflé sur bois châssis de 3cm de haut
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: ''
-  price: 1200
-  contextual: true
 - title: La femme au violon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-claude-breat-la-femme-au-violon-40x30x4.jpg
   technique: Mixte sur papier marouflé sur toile sur châssis de 4cm de haut
