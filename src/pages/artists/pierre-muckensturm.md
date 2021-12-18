@@ -365,10 +365,7 @@ works:
     height: 65
     width: 50
     depth: 0
-  description: |-
-    Tirage 7 exemplaires ex n°4/7 en vente
-
-    Réalisation 2020
+  description: "Tirage 7 exemplaires sur commande  \n2020"
   price: 500
   contextual: true
 - title: '196J23091 et 196J23092 - 24  angles à Entas et renversement '
