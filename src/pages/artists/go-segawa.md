@@ -108,7 +108,7 @@ works:
     width: 7.5
     depth: 7.5
   description: 50 exemplaires
-  price: 110
+  price: 130
   contextual: true
 - title: 5 volumes empilées
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
