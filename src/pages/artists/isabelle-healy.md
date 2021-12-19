@@ -84,8 +84,8 @@ works:
     height: 50
     width: 43
     depth: 14
-  description: "Fonderie Barthélemy Crest (26)  \nLivraison mi-décembre 2021"
-  price: 5800
+  description: "Fonderie Barthélemy Crest (26)  \nVisible à la galerie "
+  price: 5500
   contextual: false
 - title: Le Papillon
   technique: Bronze 7/8
@@ -133,7 +133,7 @@ works:
     depth: 5
   description: "Disponible mi-décembre 2021 - dernier exemplaire  \nFonderie Barthélémy
     Crest (26)"
-  price: 3900
+  price: 3600
   sold: false
   contextual: false
 - title: La sphère des possibles
