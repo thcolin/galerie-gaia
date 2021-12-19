@@ -77,20 +77,6 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Algue curry 35
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
-    35.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 92
-    width: 65
-    depth: 0
-  description: ''
-  price: 95
-  contextual: true
 - title: Végétal bleu sur fond vert argile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143638.jpg
   technique: sérigraphie signée numérotée 21/50
