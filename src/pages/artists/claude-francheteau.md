@@ -86,16 +86,6 @@ works:
   description: "2020"
   price: 680
   contextual: true
-- title: Ciel 190
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-190-100x50.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 100
-    width: 50
-    depth: 0
-  description: "2020"
-  price: 1500
-  contextual: true
 - title: Ciel 149
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-francheteau-ciel-149-48x68.jpg
   technique: Acrylique sur toile
