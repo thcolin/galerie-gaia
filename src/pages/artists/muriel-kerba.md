@@ -93,8 +93,8 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Citron aborigène
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_citron-aborigene_70x50.jpg
+- title: Hypnotic
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_hypnotic_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -106,8 +106,8 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Cellule chardon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-chardon-_70x50.jpg
+- title: Totem
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_totem_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
