@@ -113,21 +113,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Totem vendu seul 450€   \nTotem vendu en duo 850€  \nTotem vendu en
-    trio 1250€  \nTotem vendu en quatuor 1600€"
-  price: 450
-  contextual: false
-- title: Totem 1 et 2 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem
-    1 2.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Totem vendu seul 450€  \nTotem vendu en duo 850€  \nTotem vendu en
-    trio 1250€\n\nvisuel gauche vendu"
+  description: "Totem vendu seul 450€  \nTotem vendu en duo 850€"
   price: 450
   contextual: false
 - title: Totem 4
