@@ -102,10 +102,9 @@ works:
   description: ''
   price: 650
   contextual: false
-- title: Totem 3 et 4 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem4
-    5.jpg
-  technique: Céramique
+- title: Duo de Totem
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211221_142040.jpg
+  technique: Grès
   fields: []
   styles:
   - Abstrait
