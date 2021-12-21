@@ -15,17 +15,28 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Go Segawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: Black cube in blue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
+  technique: Piece unique encre et peint à la main
+  dimensions:
+    height: 13.5
+    width: 13.5
+    depth: 13.5
+  description: ''
+  price: 1000
+  sold: false
+  contextual: false
 - title: Life I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Life_I_Ed25_2019.jpg
   technique: Sérigraphie impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
-    height: 7.5
-    width: 7.5
-    depth: 7.5
+    height: 8.5
+    width: 8.5
+    depth: 8.5
   description: Sur commande
-  price: 0
+  price: 130
   contextual: true
 - title: Transparency III - blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
@@ -72,7 +83,7 @@ works:
     height: 7
     width: 7
     depth: 25
-  description: 15 exemplaires
+  description: Edition en 15 exemplaires sur commande
   price: 230
   contextual: true
 - title: Mass
@@ -226,17 +237,6 @@ works:
     depth: 8.5
   description: Edition en 25 exemplaires
   price: 110
-  contextual: false
-- title: Black cube in blue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
-  technique: Piece unique encre et peint à la main
-  dimensions:
-    height: 13.5
-    width: 13.5
-    depth: 13.5
-  description: ''
-  price: 1000
-  sold: false
   contextual: false
 - title: Trophée Open de Squash de Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trophee-open-de-squash-de-nantes.jpg
