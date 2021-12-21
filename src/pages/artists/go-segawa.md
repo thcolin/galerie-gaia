@@ -156,17 +156,6 @@ works:
   price: 380
   sold: false
   contextual: false
-- title: 'Snake II – orange '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/snake-ii-orange-1950.jpg
-  technique: 'Impression jet d’encre sur polyester '
-  dimensions:
-    height: 6.5
-    width: 6.5
-    depth: 6.5
-  description: "Edition en 50 exemplaires  \nSur commande"
-  price: 80
-  sold: false
-  contextual: false
 - title: Goutte rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
   technique: 'Impression jet d’encre sur polyester '
