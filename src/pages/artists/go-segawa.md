@@ -15,6 +15,18 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Go Segawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: Life I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Life_I_Ed25_2019.jpg
+  technique: Sérigraphie impression jet d'encre sur polyester
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 7.5
+    depth: 7.5
+  description: Sur commande
+  price: 0
+  contextual: true
 - title: Transparency III - blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
   technique: Sérigraphie impression jet d'encre sur polyester
