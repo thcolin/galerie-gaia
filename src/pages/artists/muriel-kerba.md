@@ -52,8 +52,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Noyau jaune sur fond jean
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_noyau-jaune-fond-jean_70x50.jpg
+- title: Blue lemon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_blue
+    lemon_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -65,8 +66,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: 'Ondulation cellulaire '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_ondulation-cellulaire_70x50.jpg
+- title: Deep inside
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_deep
+    inside_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
@@ -78,8 +80,8 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Noyau anthracite coeur bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_noyau-antracite-coeur-bleu_70x50.jpg
+- title: Féminité
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_féminité_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
