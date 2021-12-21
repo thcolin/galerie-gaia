@@ -38,6 +38,28 @@ biography: "# Sébastien Bouchard\n\nMusicien, amateur de culture Surf, Skate et
   au 02-40-48-14-91 (max 6 personnes)"
 exhibitions: []
 works:
+- title: MadameFouque
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-madamefouque-100x73.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1900
+  contextual: true
+- title: Portrait de Jeune Homme
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 81
+    width: 100
+    depth: 0
+  description: ''
+  price: 1900
+  contextual: true
 - title: Icare V
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1439.jpg
   technique: Mixte sur toile
