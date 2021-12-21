@@ -15,6 +15,18 @@ biography: |-
   Sculpture sans pesanteur Go Segawa crée des sculptures dans lesquelles on peut sentir à la fois trois éléments différents du point de vue conceptuel : les deux dimensions, les trois dimensions et la pesanteur. Cela trouble la perception de l’espace. A partir de la notion de la peinture et de la sculpture, Go Segawa essaie de déplacer le dessin de l’espace à deux dimensions à l’illusion de l’espace en trois dimensions.
 exhibitions: []
 works:
+- title: Colline rouge
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia colline_rouge_ed20_2017.jpg
+  technique: Sérigraphie impression jet d'encre sur polyester
+  fields: []
+  styles: []
+  dimensions:
+    height: 3.6
+    width: 14.2
+    depth: 14.2
+  description: ''
+  price: 0
+  contextual: true
 - title: Beans Rainbow
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Beans_Rainbow_2018_mail.jpg
   technique: 'Sérigraphie '
