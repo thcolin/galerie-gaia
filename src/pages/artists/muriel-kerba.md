@@ -39,8 +39,8 @@ biography: "# Muriel Kerba\n\nAborder le travail de Muriel Kerba relève de la s
   - Lyon\n\n_2018_ Galerie Isabelle Laverny - Paris\n\n_2017_ Carré des créateurs
   - Colombes\n\n_2017_-2016 Journée de l’estampe contemporaine Saint Sulpice - Paris"
 works:
-- title: 'Cellule orange '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_cellule-orange_70x50.jpg
+- title: Blooming
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_blooming_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
   fields: []
   styles: []
