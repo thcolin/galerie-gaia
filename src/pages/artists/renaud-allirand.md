@@ -151,17 +151,6 @@ works:
   price: 500
   contextual: true
   sold: false
-- title: "1"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
-    4.jpg
-  technique: 'Eau forte pointe sèche sur zinc '
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
 - title: 2 ème jour
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2-eme-jour.jpg
   technique: eau forte et pointe sèche sur zinc 5/8
