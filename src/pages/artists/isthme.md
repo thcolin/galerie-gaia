@@ -109,9 +109,9 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
-- title: 'Deep blue #11'
+- title: 'Deep Blue #10'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Deep
-    Blue #11-146x114-Acrylique sur toile.jpg'
+    Blue #10-146X114-Acrylique sur toile.jpg'
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -119,7 +119,7 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: "2021  \nPrix sur demande"
+  description: "2021   \nPrix sur demande"
   price: ''
   contextual: true
 - title: Summer solstice
@@ -134,19 +134,6 @@ works:
     depth: 0
   description: '2021 Musée imprimerie de Nantes '
   price: 500
-  contextual: true
-- title: 'Deep Blue #10'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Deep
-    Blue #10-146X114-Acrylique sur toile.jpg'
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: "2021   \nPrix sur demande"
-  price: ''
   contextual: true
 - title: Lino B1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-B1-2021-13x18

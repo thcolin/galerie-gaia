@@ -27,19 +27,8 @@ exhibitions:
   end: 
 works:
 - title: La rue de la Soie
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-rue-de-la-soi.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-rue-de-la-soi.jpg
   technique: Lithographie
-  dimensions:
-    height: 90
-    width: 76
-    depth: 
-  description: ''
-  price: 890
-  sold: false
-  contextual: true
-- title: Le dragon
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-dragon.jpg"
-  technique: lithographie
   dimensions:
     height: 90
     width: 76
