@@ -205,19 +205,6 @@ works:
   description: ''
   price: 280
   contextual: false
-- title: Lièvre céladon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marianne-abergel-lievre-celadon-2020.jpg
-  technique: grès émaillé
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 19
-    width: 12
-    depth: 6
-  description: ''
-  price: 280
-  contextual: false
 - title: Chimère cachée Le lièvre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
     ABERGEL-chimère cachée-lièvre.jpg
