@@ -13,20 +13,19 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   ce lieu situé dans le cœur historique de la ville de Nantes, le quartier Decré.\n\nToutes
   les œuvres sélectionnées proviennent des ateliers de mes artistes assurant leur
   authenticité. Chaque artiste à la galerie bénéficie d'un soutien pour valoriser
-  leur travail grâce à une programmation de 7 expositions annuelles et des salons.
-  \n\nLes héritiers de [Jorj Morin](/artists/jorj-morin-peintre/ \"Jorj Morin\") célèbre
-  publicitaire nantais, peintre et graveur nous honorent de leur confiance. Ainsi
-  ses gravures, peintures, stèles et tapisseries sont exposées et disponibles à la
-  vente en exclusivité à la galerie.\n\n**En 2021 la Galerie Gaia continue sa transformation**
-  en aménageant les 2 salles de la galerie art contemporain pour accueillir 6 à 8
-  expositions  alternant solo-show et des expositions collectives. **L'abstraction
-  qui est au cœur de la sélection fait aussi la place à des œuvres plus figuratives
-  où l'architecture et la ligne sont fréquemment présentes ou sous-jacentes.**\n\nCette
-  sélection de plus de **70 artistes représente un fond de +800 œuvres** disponibles
-  dans l'onglet  [CATALOGUE](https://galeriegaia.fr/catalogue/ \"galerie gaillard\")
-  avec un choix de peintures, sculptures, photographies, dessins, gravures, lithographies,
-  sérigraphies, céramiques, tapisseries et objets uniques de designer tous sélectionnés
-  par mes soins.\n\n[Interview par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
+  leur travail grâce à une programmation de 7 expositions annuelles et des salons.\n\nLes
+  héritiers de [Jorj Morin](/artists/jorj-morin-peintre/ \"Jorj Morin\") célèbre publicitaire
+  nantais, peintre et graveur nous honorent de leur confiance. Ainsi ses gravures,
+  peintures, stèles et tapisseries sont exposées et disponibles à la vente en exclusivité
+  à la galerie.\n\n**En 2021 la Galerie Gaia continue sa transformation** en aménageant
+  les 2 salles de la galerie art contemporain pour accueillir 6 à 8 expositions  alternant
+  solo-show et des expositions collectives. **L'abstraction qui est au cœur de la
+  sélection fait aussi la place à des œuvres plus figuratives où l'architecture et
+  la ligne sont fréquemment présentes ou sous-jacentes.**\n\nCette sélection de plus
+  de **70 artistes représente un fond de +800 œuvres** disponibles dans l'onglet  [CATALOGUE](https://galeriegaia.fr/catalogue/
+  \"galerie gaillard\") avec un choix de peintures, sculptures, photographies, dessins,
+  gravures, lithographies, sérigraphies, céramiques, tapisseries et objets uniques
+  de designer tous sélectionnés par mes soins.\n\n[Interview par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
   \"interview elisabeth givre \")\n\nVous avez trouvé une œuvre dans le [catalogue](https://galeriegaia.fr/catalogue/
   \"catalogue de la collection de  galerie gaia\") qui vous plait et vous hésitez
   ?  \nComment financer votre achat ?  \nLes livraisons sont-elles possibles partout
@@ -44,9 +43,31 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   \ \n**l’évidence devant une œuvre qui s’impose  \nl’évidence qui ne se discute pas
   et dont on pourra discuter  \nl’évidence qui se garde pour soi  \nl’évidence qui
   se partage  \nl’évidence qui euphorise et qui rayonne  \nVenez très sincèrement,
-  c'est encore mieux en vrai !**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)"
+  c'est encore mieux en vrai !**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)Galerie
+  Gaïa a contemporary art gallery in Nantes\n\nThe **Galerie Gaïa** – an art gallery
+  in Nantes - extends the spirit of a place created in **1978**.\n\nThe story begins
+  with **L’Affiche** and in 1985 Norbert Marsal acquired the gallery which in 1999
+  became the **Arts Pluriels** gallery. Then follows a series of contemporary abstract
+  works. Thus, confirmed artists alternate with exhibitions from Villeglé, Hartung,
+  Corneille, Combas, Bram Van Velde, Alechinsky\n\n**In 2015 Elisabeth Givre** continued
+  the adventure and firmly established contemporary art in Nantes with the **Galerie
+  Gaïa**, as the true imprint of this place located in the historic heart of the city
+  of Nantes, the Decré district.\n\nAll the selected works come from the workshops
+  of my artists ensuring their authenticity. Each artist at the gallery is supported
+  to showcase their work through a program of 7 annual exhibitions and fairs.\n\nThe
+  heirs of Jorj Morin, a famous Nantes advertiser, painter and engraver, honour us
+  with their trust. Thus his engravings, paintings, stelae and tapestries are exhibited
+  and available for sale exclusively at the gallery.\n\n**In 2021, the Gaia Gallery
+  continues its transformation** by fitting out the 2 two rooms of the contemporary
+  art gallery to accommodate 6 to 8 exhibitions alternating between solo shows and
+  group exhibitions. **The abstraction that is at the heart of the selection also
+  gives way to more figurative works where architecture and line are frequently present
+  or underlying.**\n\nThis selection of more than **70 artists represents a background
+  of +800 works** available in the CATALOG tab with a choice of paintings, sculptures,
+  photographs, drawings, engravings, lithographs, serigraphs, ceramics, tapestries
+  and unique designer objects all selected by my care."
 about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité-e
-  aux prochains vernissages ?"
+  aux prochains vernissages ?\nDo you want receive our newsletter? "
 seo:
   title: Le Lieu - Galerie Gaïa, galerie d'art contemporain à Nantes
   heading: Galerie Gaïa, Galerie d'art à Nantes
