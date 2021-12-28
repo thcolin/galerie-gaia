@@ -84,7 +84,7 @@ works:
     width: 7
     depth: 25
   description: Edition en 15 exemplaires sur commande
-  price: 230
+  price: 300
   contextual: true
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
