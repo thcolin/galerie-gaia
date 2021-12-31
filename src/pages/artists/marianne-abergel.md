@@ -40,6 +40,19 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
+- title: Grande Courbe
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
+    ABERGEL- Frontalité1- 46x22 cm.jpg
+  technique: Céramique
+  dimensions:
+    height: 46
+    width: 22
+    depth: 0
+  description: "2019"
+  price: 1500
+  contextual: false
+  styles:
+  - Abstrait
 - title: Sister 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-©Marianne-Abergel-Cobalt-sister-2.jpg
   technique: 'Céramique Porcelaine teintée dans la masse, oxyde de Cobalt '
@@ -77,19 +90,6 @@ works:
   contextual: false
   styles:
   - Abstrait
-- title: Grande Courbe
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL- Frontalité1- 46x22 cm.jpg
-  technique: Céramique
-  dimensions:
-    height: 46
-    width: 22
-    depth: 0
-  description: "2019"
-  price: 1500
-  contextual: false
-  styles:
-  - Abstrait
 - title: Grande chimère lièvre céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2021.jpg
   technique: Grès émaillé
@@ -103,7 +103,8 @@ works:
   price: 650
   contextual: false
 - title: Duo de Totem
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211221_142040.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Duo Totem Marianne
+    Abergel.jpg
   technique: Grès
   fields: []
   styles:
