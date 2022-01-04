@@ -101,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Exposition Rétro Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-TOMA_220103-BAT.jpg
+  technique: Technique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "20 janvier au 12 février   \nPrésence de l'artiste samedi 22 janvier"
+  price: ''
+  contextual: true
 - title: IT 12 Entre deux eaux - colors and paper
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041601-IT12ENTREDEUXEAUX-ColorsonPaper-120x80cm_bd_1000p.jpg
   technique: Technique mixte sur papier velin d'arche
