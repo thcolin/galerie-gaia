@@ -975,6 +975,7 @@ articles:
   - Exposition
   title: Rétro Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-TOMA_220103-BAT.jpg
-  content: 'Exposition peinture et papier de Toma L '
+  content: "Exposition peinture et papier de Toma L  \nPrésence de l'artiste Samedi
+    22 Janvier "
 
 ---
