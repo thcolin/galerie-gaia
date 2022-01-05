@@ -194,20 +194,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Promenades au bord des Isthmes 1981
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-promenade
-    au bord des isthmes.JPG
-  technique: Eau forte 6/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 38
-    width: 28.5
-    depth: 
-  description: ''
-  price: 250
-  sold: false
-  contextual: true
 - title: Noeud majuscule 1975
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-noeud
     majuscule.JPG
