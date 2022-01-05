@@ -114,19 +114,6 @@ works:
   description: ''
   price: 500
   contextual: true
-- title: 'Pont route '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_pont
-    route_sérigraphie_30x40_2021.jpg
-  technique: Sérigraphie 12/12
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
-  price: 130
-  contextual: true
 - title: Forme d'architecture 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture3.40x50.jpg
   technique: Acrylique sur papier
@@ -231,30 +218,6 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: 'Maquette 3 Solitude '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.maquette3.10x10cm.jpg
-  technique: Maquette sur socle bois
-  dimensions:
-    height: 10
-    width: 10
-    depth: 6
-  description: "2020"
-  price: 150
-  contextual: false
-  fields:
-  - Sculpture
-- title: Maquette 1 Vélo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vandoorenmarie.maquette1.16x9cm.jpg
-  technique: 'Maquette socle Bois '
-  dimensions:
-    height: 16
-    width: 9
-    depth: 9
-  description: ''
-  price: 150
-  contextual: false
-  fields:
-  - Sculpture
 - title: Végétal bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vegetal-bleu.jpg
   technique: Sérigraphie en 15 exemplaires
