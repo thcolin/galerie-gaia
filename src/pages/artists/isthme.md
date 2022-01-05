@@ -109,19 +109,19 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
-- title: 'Deep Blue #10'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Deep
-    Blue #10-146X114-Acrylique sur toile.jpg'
-  technique: 'Acrylique sur toile '
+- title: 'Allongée dans l''herbe #6b'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Allongée
+    dans l'herbe#6b-146X114-Acrylique sur toile.jpg
   fields: []
   styles: []
   dimensions:
     height: 146
     width: 114
     depth: 0
-  description: "2021   \nPrix sur demande"
+  description: "2021  \nPrix sur demande"
   price: ''
   contextual: true
+  technique: 'Acrylique sur toile '
 - title: Summer solstice
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-LITHO 2021-76X56cm-Summer
     Solstice.jpg
@@ -176,19 +176,6 @@ works:
   description: Reste la 5 et 6/13
   price: 380
   contextual: false
-- title: 'Allongée dans l''herbe #6b'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Allongée
-    dans l'herbe#6b-146X114-Acrylique sur toile.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: "2021  \nPrix sur demande"
-  price: ''
-  contextual: true
-  technique: 'Acrylique sur toile '
 - title: Territoire Noir/Blanc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme-territoir
     noir blanc-10-10.jpg
