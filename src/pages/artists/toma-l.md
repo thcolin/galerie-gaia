@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Toma L
+title: Toma-L
 location: ''
 fields:
 - Peinture
@@ -8,7 +8,7 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Toma L\n\n## [catalogue toma l](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_gaiagalerie_19novembre2020.pdf
+biography: "# Toma-L\n\n## [catalogue toma l](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_gaiagalerie_19novembre2020.pdf
   \"toma l thomas l thomas labarte labarthe\")\n\n« Je compose en associant les pleins
   et les vides. Les masses sont sombres, moyennes et claires. La lumière vient de
   la toile ou de la couleur. Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes

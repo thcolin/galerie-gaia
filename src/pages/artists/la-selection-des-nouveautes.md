@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Noël 2021
+title: Janvier 2022
 location: ''
 birth: "0"
 death: "0"
