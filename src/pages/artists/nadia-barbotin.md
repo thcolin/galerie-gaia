@@ -124,35 +124,9 @@ works:
   price: 1800
   sold: false
   contextual: false
-- title: Masculin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Masculin25X31.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 31
-    width: 25
-    depth: 
-  description: Réservé
-  price: 250
-  sold: false
-  contextual: true
 - title: 'Fusion '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Fusion25X31.jpg
   technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 31
-    width: 25
-    depth: 
-  description: Encadrée
-  price: 250
-  sold: false
-  contextual: true
-- title: Féminin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Féminin25X31.jpg
-  technique: Tecnique mixte sur papier
   fields: []
   styles: []
   dimensions:
@@ -184,32 +158,6 @@ works:
     width: 120
     depth: 
   description: "2020"
-  price: 3500
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: Rock
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120.jpeg
-  technique: Huile
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: Réservé
-  price: 3500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Rock en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-rock-120x120-in-situ.jpeg
-  technique: Huile
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: Réservé
   price: 3500
   sold: false
   contextual: false

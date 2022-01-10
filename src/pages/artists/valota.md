@@ -132,18 +132,6 @@ works:
   contextual: false
   fields:
   - Céramique
-- title: Tour mordorée noire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-tour-mordoree-57x42.jpg
-  technique: Céramique
-  dimensions:
-    height: 57
-    width: 42
-    depth: 42
-  description: "2020"
-  price: 3000
-  contextual: false
-  fields:
-  - Céramique
 - title: Quiet days under the trees 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valota-quiet-days-under-the-trees-6-73x60.jpg
   technique: Cire et pigments sur bois
