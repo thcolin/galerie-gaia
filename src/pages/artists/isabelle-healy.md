@@ -183,18 +183,6 @@ works:
   description: "Fonderie Barthélémy Crest (26)  \n2020"
   price: 3200
   contextual: false
-- title: Mon héros
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-mon-heros.png
-  technique: 'Bronze '
-  fields: []
-  styles: []
-  dimensions:
-    height: 47
-    width: 12
-    depth: 11
-  description: Epuisée
-  price: ''
-  contextual: true
 - title: Fondation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fondation.jpg
   technique: Bronze N°2/8
@@ -205,7 +193,7 @@ works:
   description: "\"L'Humain est la première force dans n'importe quel projet\"  \nPour
     les entreprises acquisition possible en [leasing ou défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
     \"lesaing defiscalisation\")"
-  price: 5700
+  price: 6600
   sold: false
   contextual: false
 - title: Le mythe de Sisyphe
