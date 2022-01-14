@@ -101,6 +101,17 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Expo Rétro Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
 - title: Exposition Rétro Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-TOMA_220103-BAT.jpg
   technique: Technique mixte sur papier
