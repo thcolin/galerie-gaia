@@ -59,6 +59,24 @@ biography: "Dés la plus petite enfance j’ai aimé colorer, barbouiller, crée
   moi car il marque un tournant tant dans le changement de format et de technique
   que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
+- title: Emile 2021-04
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 249
+    width: 123.5
+    depth: 
+  description: "Format tableau hors cadre : 203 x 104,5 cm  \nCadre CP Bouleau - profondeur
+    14,5 cm  \nCe portrait est le second de mon fils Emile. Vue de profil. La couleur
+    explose en teintes multiples grâce aux multiples qualités de l’aquarelle. La lumière
+    irrigue le personnage ancré dans l’ombre à la base du tableau. Verticale, la toile
+    se tend vers l’horizon souligné par le regard bleu perçant."
+  price: 7900
+  sold: false
+  contextual: true
 - title: Détail Emile 2021_04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-détail
     emile-S.jpg
@@ -69,27 +87,9 @@ works:
   dimensions:
     height: 203
     width: 104.5
-    depth: 0
+    depth: 
   description: ''
   price: 
-  sold: false
-  contextual: true
-- title: Emile 2021-04
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 249
-    width: 123.5
-    depth: 0
-  description: "Format tableau hors cadre : 203 x 104,5 cm  \nCadre CP Bouleau - profondeur
-    14,5 cm  \nCe portrait est le second de mon fils Emile. Vue de profil. La couleur
-    explose en teintes multiples grâce aux multiples qualités de l’aquarelle. La lumière
-    irrigue le personnage ancré dans l’ombre à la base du tableau. Verticale, la toile
-    se tend vers l’horizon souligné par le regard bleu perçant."
-  price: 7900
   sold: false
   contextual: true
 - title: Alice 1-06
@@ -101,7 +101,7 @@ works:
   dimensions:
     height: 132
     width: 85
-    depth: 0
+    depth: 
   description: Huile et aquarelle ne se mélangent pas. Cela crée des traces de gouttes
     séchées, des empreintes qui nourrissent le sujet devenu secondaire. La force de
     ce tableau est cette confrontation du haut et du bas dans laquelle Alice se dissous.
@@ -114,7 +114,7 @@ works:
   dimensions:
     height: 155
     width: 120
-    depth: 0
+    depth: 
   description: Lors d’une séance de modèle vivant, sur grand format, j’ai exécuté
     cette aquarelle de manière intense et libre. C’est un crayonné gestuel, aquarellé
     qui tente de capter la vie de ce couple fugace.
@@ -135,7 +135,7 @@ works:
   dimensions:
     height: 140
     width: 100
-    depth: 0
+    depth: 
   description: Autoportrait réalisé pendant Pâques 2020. Coeur arraché, lumière figée
     sur les rides et les reliefs que la vie dessine sur mon visage. Regard concentré
     et fixé sur le spectateur. En 7 séances seul face à moi- même.
@@ -147,7 +147,7 @@ works:
   dimensions:
     height: 95
     width: 95
-    depth: 0
+    depth: 
   description: |-
     L’huile projetée sur la toile de lin à grands coups de pinceaux, superposée à un contour de graphite tantôt effacé, tantôt essuyé, confèrent au sujet pourtant statique un mouvement d’introspection ou d’implosion. On a l’impression que l’homme tombe à l’intérieur de lui- même au passage de l’an 2000, année de réalisation de cette peinture d’après modèle vivant.
 
@@ -168,7 +168,7 @@ works:
   dimensions:
     height: 168
     width: 123.2
-    depth: 0
+    depth: 
   description: "Format tableau hors cadre : 115 x 160 cm  \n  \nCette œuvre a été
     réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
     les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
@@ -189,7 +189,7 @@ works:
   dimensions:
     height: 171
     width: 120
-    depth: 0
+    depth: 
   description: "Format tableau hors cadre : 161 x 110 cm  \n  \nCette œuvre a été
     réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
     les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
@@ -207,9 +207,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: 'Huile sur toile Emile 21 '
   price: 7900
   sold: false
