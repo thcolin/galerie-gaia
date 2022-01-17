@@ -92,6 +92,36 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Léo
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -yann
+    peron-leo- 117X90.JPG
+  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 117
+    width: 90
+    depth: 0
+  description: '09-2020'
+  price: 3500
+  sold: false
+  contextual: true
+- title: Clair obscur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -yann
+    peron-clair obscur 122X120.JPG
+  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 122
+    width: 100
+    depth: 0
+  description: ''
+  price: 3800
+  sold: false
+  contextual: true
 - title: Alice 1-06
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-alice1-06.JPG
   technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
