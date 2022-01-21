@@ -202,18 +202,6 @@ works:
   description: "2020"
   price: 500
   contextual: true
-- title: Voyage intérieur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-voyage-interieur-75x75.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 75
-    width: 75
-    depth: 0
-  description: "2020"
-  price: 1400
-  contextual: true
 - title: 'Mannequin atelier Manrique '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg
   technique: Dessin huile sur papier encadrement baguette chêne
@@ -264,18 +252,6 @@ works:
     depth: 0
   description: "2020"
   price: 1300
-  contextual: true
-- title: Au pas
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-au-pas-25x34.jpeg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 25
-    width: 34
-    depth: 0
-  description: "2020"
-  price: 300
   contextual: true
 - title: 'Jamais sans mon arbre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-jamais-sans-mon-arbre-80x80.JPG
@@ -328,16 +304,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Le pied
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-le-pied-35x27.jpg
-  technique: Huile et technique mixte sur toile
-  dimensions:
-    height: 35
-    width: 27
-    depth: 0
-  description: "2020"
-  price: 350
-  contextual: true
 - title: Jean Genet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg
   technique: 'Huile sur toile '
@@ -356,15 +322,6 @@ works:
   description: '09/2019'
   price: 3000
   contextual: false
-- title: Chien d'atelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-chiend'atelier-huiletoile-100X100.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 100
-    width: 100
-  description: 02/2020
-  price: 1800
-  contextual: true
 - title: Une chaise la nuit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg
   technique: 'Encre sur papier '
