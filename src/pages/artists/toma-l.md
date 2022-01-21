@@ -101,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Un type Rétro Crade aux couleurs flash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-UnTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
+  technique: Technique mixte sur papier Velin d'arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 85
+    width: 65
+    depth: 0
+  description: "2021 caisse américaine chêne  \nprix sur demande"
+  price: ''
+  contextual: true
 - title: Le type Rétro Crade aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-LeTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
@@ -110,7 +122,7 @@ works:
     height: 85
     width: 65
     depth: 0
-  description: '2021 caisse américaine cadre en chêne '
+  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
   price: 3300
   contextual: true
 - title: Expo Rétro Crade
