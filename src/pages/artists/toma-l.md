@@ -8,14 +8,13 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Toma-L\n\n[Retro Crade le Catalogue](https://app.forestry.io/sites/rvlyohao9wjrjw/#/media/
-  \"catalogue toma l\") \n\n« Je compose en associant les pleins et les vides. Les
-  masses sont sombres, moyennes et claires. La lumière vient de la toile ou de la
-  couleur. Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes formes sont des
-  personnages vivants, son geste souple. Reconnaît-on, ici, à l’endroit, à l’envers,
-  de travers, une des entités imaginaires de l’artiste ? Et, là, ne forment-ils pas,
-  à deux, à trois, à quatre comme une famille de cœur, qui échange, discute ?\n\nCrayon
-  gras, acrylique, huile, pastel gras, papier, toile usée, grattée, coupée… Les lettres
+biography: "# Toma-L\n\n« Je compose en associant les pleins et les vides. Les masses
+  sont sombres, moyennes et claires. La lumière vient de la toile ou de la couleur.
+  Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes formes sont des personnages
+  vivants, son geste souple. Reconnaît-on, ici, à l’endroit, à l’envers, de travers,
+  une des entités imaginaires de l’artiste ? Et, là, ne forment-ils pas, à deux, à
+  trois, à quatre comme une famille de cœur, qui échange, discute ?\n\nCrayon gras,
+  acrylique, huile, pastel gras, papier, toile usée, grattée, coupée… Les lettres
   de son alphabet c’est la couleur, les couleurs. Premières et primaires comme Miró.
   Couleurs pures qui contrastent les unes avec les autres : il y a du mouvement dans
   les couleurs chez Toma-L , la couleur chez lui c’est du volume, une troisième dimension.\n\nToma-L
@@ -102,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Le type Rétro Crade aux couleurs flash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-LeTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
+  technique: Technique mixte sur papier Velin d'arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 85
+    width: 65
+    depth: 0
+  description: '2021 caisse américaine cadre en chêne '
+  price: 3300
+  contextual: true
 - title: Expo Rétro Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
   fields: []
