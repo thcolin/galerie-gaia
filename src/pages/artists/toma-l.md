@@ -101,29 +101,15 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Un type Rétro Crade noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121901-UnTypeRetroCradeNoir-140x120cm_bd_1000p.jpg
-  technique: Technique mixte sur toile en lin
+- title: Expo Rétro Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
   fields: []
   styles: []
   dimensions:
-    height: 140
-    width: 120
+    height: 0
+    width: 0
     depth: 0
-  description: '2021 prix sur demande '
-  price: ''
-  contextual: true
-- title: Un type Rétro Crade couleur carbone
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
-    RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 164
-    width: 125
-    depth: 0
-  description: "2021 cadre en bois   \nprix sur demande"
+  description: ''
   price: ''
   contextual: true
 - title: Un nouveau type Retro Crade aux couleurs flash
@@ -148,6 +134,19 @@ works:
     width: 65
     depth: 0
   description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
+  price: ''
+  contextual: true
+- title: Un type Rétro Crade couleur carbone
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
+    RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
+  technique: Technique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 164
+    width: 125
+    depth: 0
+  description: "2021 cadre en bois   \nprix sur demande"
   price: ''
   contextual: true
 - title: Le type Rétro Crade du carton auc couleurs flash
@@ -186,6 +185,18 @@ works:
   description: "2021 caisse américaine chêne  \nprix sur demande"
   price: ''
   contextual: true
+- title: Un type Rétro Crade noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121901-UnTypeRetroCradeNoir-140x120cm_bd_1000p.jpg
+  technique: Technique mixte sur toile en lin
+  fields: []
+  styles: []
+  dimensions:
+    height: 140
+    width: 120
+    depth: 0
+  description: '2021 prix sur demande '
+  price: ''
+  contextual: true
 - title: Le type Rétro Crade aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-LeTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
@@ -197,29 +208,6 @@ works:
     depth: 0
   description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
   price: 3300
-  contextual: true
-- title: Expo Rétro Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
-- title: Exposition Rétro Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-TOMA_220103-BAT.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "20 janvier au 12 février   \nPrésence de l'artiste samedi 22 janvier"
-  price: ''
   contextual: true
 - title: IT 12 Entre deux eaux - colors and paper
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041601-IT12ENTREDEUXEAUX-ColorsonPaper-120x80cm_bd_1000p.jpg
