@@ -101,6 +101,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Un type Rétro Crade noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121901-UnTypeRetroCradeNoir-140x120cm_bd_1000p.jpg
+  technique: Technique mixte sur toile en lin
+  fields: []
+  styles: []
+  dimensions:
+    height: 140
+    width: 120
+    depth: 0
+  description: '2021 prix sur demande '
+  price: ''
+  contextual: true
 - title: Un type Rétro Crade couleur carbone
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
     RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
@@ -111,7 +123,7 @@ works:
     height: 164
     width: 125
     depth: 0
-  description: "2021 cadre ne bois   \nprix sur demande"
+  description: "2021 cadre en bois   \nprix sur demande"
   price: ''
   contextual: true
 - title: Un nouveau type Retro Crade aux couleurs flash
