@@ -96,6 +96,10 @@ biography: "# Toma-L\n\n« Je compose en associant les pleins et les vides. Les 
   tard, il peint Mala bestia, sa première toile. Le temps des expositions suivra :
   Paris, Carhaix, Nantes, Tours.\n\n## Thomas Labarthe"
 exhibitions:
+- title: Rétro-Crade
+  location: Nantes Galerie Gaïa
+  start: 20/01/2022
+  end: 12/02/2022
 - title: Exposition "Il peint sur Nantes"
   location: Galerie Gaia
   start: 21 Mai
@@ -173,6 +177,18 @@ works:
     width: 21
     depth: 0
   description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
+  price: ''
+  contextual: true
+- title: Encadrement Petit Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lUnPetitRetroCrade-Atelier_TomaL_004_bd_1000p.jpg
+  technique: Baguette chêne, passe partout kraft verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 41
+    width: 31
+    depth: 0
+  description: 2022 Prix sur demande
   price: ''
   contextual: true
 - title: Deux types Rétro-Crade
