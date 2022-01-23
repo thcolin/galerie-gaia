@@ -100,7 +100,7 @@ exhibitions:
   location: Nantes Galerie Gaïa
   start: 20/01/2022
   end: 12/02/2022
-- title: Exposition "Il peint sur Nantes"
+- title: Il peint sur Nantes
   location: Galerie Gaia
   start: 21 Mai
   end: 20 Juin
