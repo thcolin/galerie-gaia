@@ -101,6 +101,30 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Exposition Rétro-Crade mise en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lToma-L_GalerieGaia_Retrocrade_01_bd_1000p.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: true
+- title: 'Deux types Rétro-Crade  '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-DeuxTypes
+    RetroCrade-160x122cm_bd_1000p.jpg
+  technique: Technique mixte sur toile de lin
+  fields: []
+  styles: []
+  dimensions:
+    height: 140
+    width: 120
+    depth: 0
+  description: "2022 montée sur châssis   \nprix sur demande "
+  price: ''
+  contextual: true
 - title: Expo Rétro Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
   fields: []
