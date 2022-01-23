@@ -149,7 +149,7 @@ works:
   description: "2021 cadre en bois   \nprix sur demande"
   price: ''
   contextual: true
-- title: Le type Rétro Crade du carton auc couleurs flash
+- title: Le type Rétro Crade du carton aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120304-LeTypeRetroCradeDuCartonAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
   fields: []
@@ -158,7 +158,7 @@ works:
     height: 85
     width: 65
     depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
+  description: "2021 caisse américaine cadre en chêne  \nRéservé"
   price: ''
   contextual: true
 - title: Encore un type Rétro Crade aux couleurs flash
