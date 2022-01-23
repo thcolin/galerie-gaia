@@ -21,6 +21,23 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Exposition Rétro-Crade jusqu'au 12 Février
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220121_120205.jpg
+  technique: Technique mixte sur papier velin d'Arches caisse amércaine chêne
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 160
+    width: 200
+    depth: 0
+  description: |-
+    # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
+
+    Prix sur demande
+  price: ''
+  contextual: false
 - title: Alliance XVIII de Victoire d'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d hracourt-alliance xvIII ES.jpg
@@ -48,19 +65,6 @@ works:
     depth: 0
   description: "# [Versant](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/)"
   price: 200
-  contextual: true
-- title: Monotype de Renaud Allirand
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -renaud
-    allirand - monotype colore ES.jpg
-  technique: Monotype
-  fields: []
-  styles: []
-  dimensions:
-    height: 29
-    width: 36
-    depth: 0
-  description: "# [Renaud Allirand](https://galeriegaia.fr/artists/renaud-allirand/)"
-  price: 290
   contextual: true
 - title: Papier Albedo Anne Gaiss et Sculpture Alliance XVIII Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
@@ -132,27 +136,6 @@ works:
     depth: 0
   description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/)"
   price: 500
-  contextual: false
-- title: Livre coffret François Morellet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
-  technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
-    Velin Arches 240gr.
-  fields:
-  - Edition
-  styles:
-  - Abstrait
-  dimensions:
-    height: 30
-    width: 25
-    depth: 0
-  description: "[Francois Morellet](https://galeriegaia.fr/artists/morellet-francois/
-    \"françois morellet\")\n\nLivre d'artiste composé de 11 lithographies N°6/30  \nCe
-    coffret appartient aux réserves de l'éditeur nantais Jean Pierre Nuaud qui a édité
-    pour l'association René de Tréméac ce coffret de 11 lithographies originales signées
-    et numérotées de 1 à 30 sur papier Velin Arches 240gr.Le coffret est en parfait
-    état et les 11 lithographies sont séparées d'un papier velin vierge qui leur a
-    donné un état de conservation parfait.\n\nRARE et superbe"
-  price: 6000
   contextual: false
 - title: 'Algue  Valérie Le Roux '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-le
@@ -282,23 +265,6 @@ works:
   description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
     "franco salas borques")'
   price: 3600
-  contextual: false
-- title: Dark and full colors par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210602_100704.jpg
-  technique: Mixte sur toile, châssis à clef
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 160
-    width: 200
-    depth: 0
-  description: |-
-    # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
-
-    Prix sur demande
-  price: ''
   contextual: false
 - title: Scotch & Karcher 1 par Cindy Belaud & Hoyhiro
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-IMG_5624.jpeg
