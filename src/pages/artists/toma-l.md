@@ -101,6 +101,32 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Deux grands types aux couleurs Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011401-DeuxGrandsTypesAux
+    CouleursRétroCrades--180x200cm_bd_1000p.jpg
+  technique: Technique mixte sur toile de lin
+  fields: []
+  styles: []
+  dimensions:
+    height: 180
+    width: 200
+    depth: 0
+  description: "Montage sur châssis  \n2022 prix sur demande "
+  price: ''
+  contextual: true
+- title: Deux autres types aux couleurs Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011301-
+    DeuxAutresTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
+  technique: Technique mixte sur toile de lin
+  fields: []
+  styles: []
+  dimensions:
+    height: 180
+    width: 120
+    depth: 0
+  description: "Montage sur châssis  \n2022"
+  price: ''
+  contextual: true
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
   technique: Technqiue mixte sur papier velin d'Arche
