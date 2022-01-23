@@ -102,6 +102,18 @@ exhibitions:
   end: 20 Juin
 works:
 - title: Un petit Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
+  technique: Technqiue mixte sur papier velin d'Arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
+  price: ''
+  contextual: true
+- title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
   technique: Technique mixte sur papier velin d'Arche
   fields: []
@@ -148,7 +160,7 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: true
+  contextual: false
 - title: 'Deux types Rétro-Crade  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-DeuxTypes
     RetroCrade-160x122cm_bd_1000p.jpg
