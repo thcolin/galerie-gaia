@@ -101,6 +101,31 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'Un petit Rétro-Crade '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011001-UnPetitRetroCrade-30x21cm_bd_1000p.jpg
+  technique: 'Technique mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: "Encadrement bois verre anti-reflet  \n2022 prix sur demande "
+  price: ''
+  contextual: true
+- title: Deux types Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022010901-
+    DeuxTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
+  technique: Technique mixet sur toile de lin
+  fields: []
+  styles: []
+  dimensions:
+    height: 180
+    width: 120
+    depth: 0
+  description: "2022"
+  price: ''
+  contextual: true
 - title: Exposition Rétro-Crade mise en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lToma-L_GalerieGaia_Retrocrade_01_bd_1000p.jpg
   fields: []
