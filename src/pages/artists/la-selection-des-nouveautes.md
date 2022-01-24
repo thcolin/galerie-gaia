@@ -83,10 +83,10 @@ works:
     # [Anne Gaiss](https://galeriegaia.fr/artists/anne-gaiss/)
   price: ''
   contextual: false
-- title: 'Rhuys vers Kernes Opus 2  Jacques le Brusq '
+- title: Jacques le Brusq et Brigitte Marionneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
-  technique: 'huile sur papier '
+  technique: huile sur papier et céramique
   fields: []
   styles: []
   dimensions:
@@ -95,18 +95,19 @@ works:
     depth: 0
   description: "# [Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
     \"jacques le brusq\")\n\nHuile sur papier (27 x 32)  \nFormat encadré 53X43 cm
-    baguette chêne verre antireflet qualité musée"
+    baguette chêne verre antireflet qualité musée\n\n# [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
+    \"marionneau\")"
   price: 2500
   contextual: true
-- title: Umbra Delectat 4 de Marie Bathelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
-    UMBRA DELECTAT 4 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
+- title: Lux in Mare de Marie Bathelier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
+    bathellier -LUX IN MARE E 47X47.jpg
   technique: pigments acrylique et argile sur papier
   fields: []
   styles: []
   dimensions:
-    height: 33
-    width: 49
+    height: 47
+    width: 47
     depth: 0
   description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
   price: 450
