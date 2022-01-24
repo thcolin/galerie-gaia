@@ -38,6 +38,24 @@ works:
     Prix sur demande
   price: ''
   contextual: false
+- title: Bonne pierre bon oeil 08 par Toma L
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l - litho cadre blanc ES.jpg
+  technique: 'Lithographie '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: |-
+    # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
+
+    vendu
+  price: ''
+  contextual: false
 - title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_192231.jpg
   technique: 'Bronze pâtiné 2/8  & Dessin sur papier velin '
@@ -139,21 +157,6 @@ works:
   description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/)"
   price: 500
   contextual: false
-- title: 'Algue  Valérie Le Roux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-le
-    roux-algue verte MES.jpg
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 72
-    width: 72
-    depth: ''
-  description: "[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
-    \"valerie le roux\")  \navec cadre 190€"
-  price: 90
-  contextual: false
-  technique: Sérigraphie 20/50
 - title: Station 6 2016 par Aline Isoard
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-isoard
     aline- station ES.jpg
@@ -171,24 +174,6 @@ works:
   price: 1200
   contextual: true
   sold: false
-- title: Bonne pierre bon oeil 08 par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l - litho cadre blanc ES.jpg
-  technique: 'Lithographie '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: |-
-    # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
-
-    vendu
-  price: ''
-  contextual: false
 - title: 'Papier huilé 3 Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
   technique: Acrylique et encre sur papier huilé
@@ -237,16 +222,16 @@ works:
     Publication dans Côté Ouest Septembre 2021
   price: 450
   contextual: false
-- title: 'Une île - nouvelle sculpture  par Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
-    ile-IMG_3590.JPG
-  technique: Bronze 2/8
+- title: 'Les Albatros -Isabelle Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia isabelle
+    healy lesalbatros mes.jpg
+  technique: Bronze 4/8
   dimensions:
     height: 40
     width: 40
   description: '# [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
     "isabelle healy") '
-  price: 6500
+  price: 4500
   contextual: false
   fields:
   - Sculpture
