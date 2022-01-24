@@ -110,7 +110,7 @@ works:
     width: 47
     depth: 0
   description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
-  price: 450
+  price: 850
   contextual: true
 - title: 'Edition Pascal Gueguen '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pascal
