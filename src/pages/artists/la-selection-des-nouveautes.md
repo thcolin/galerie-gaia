@@ -38,21 +38,22 @@ works:
     Prix sur demande
   price: ''
   contextual: false
-- title: Alliance XVIII de Victoire d'Harcourt
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
-    d hracourt-alliance xvIII ES.jpg
-  technique: Bronze pâtiné 2/8
+- title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_192231.jpg
+  technique: 'Bronze pâtiné 2/8  & Dessin sur papier velin '
   fields:
   - Sculpture
-  styles:
-  - Abstrait
+  - Oeuvre sur papier
+  styles: []
   dimensions:
     height: 56
     width: 21
     depth: 19
-  description: '# [Victoire d''Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
-    "victoire d''harcourt")'
-  price: 4800
+  description: |-
+    # [Victoire d'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/ "victoire d'harcourt")
+
+    # [Toma-L](https://galeriegaia.fr/artists/toma-l/ "Thomas Labarthe")
+  price: 6000
   contextual: true
 - title: Strate 39 et 42 en situation Versant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 39 ET 42
