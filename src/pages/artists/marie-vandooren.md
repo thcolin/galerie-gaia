@@ -161,18 +161,6 @@ works:
   description: "Format image 40X30 cm  \n2021"
   price: 130
   contextual: true
-- title: Palindrome 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-palindrome6-40x50cm-7ex-2019.jpg
-  technique: Sérigraphie en 7 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 57
-    width: 38
-    depth: 0
-  description: ''
-  price: 130
-  contextual: true
 - title: Palindrome 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-palindrome3-50x70cm-5ex-2019-1.jpg
   technique: Sérigraphie
