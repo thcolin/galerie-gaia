@@ -38,21 +38,6 @@ biography: "# Sébastien Bouchard\n\nMusicien, amateur de culture Surf, Skate et
   au 02-40-48-14-91 (max 6 personnes)"
 exhibitions: []
 works:
-- title: Madame Fouque
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-madamefouque-100x73.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: 'Pendant le 1er confinement les musées étant fermés Sébastien Bouchard
-    a exploré les réserves du musée des Arts de Nantes et c''est ainsi qu''il a trouvé
-    des portraits comme celui de la femme de l''artiste [Jean Marius Fouque](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=fouque
-    "musee arts de nantes ") (peinture à l''huile 1855 - 60x48cm) '
-  price: 1900
-  contextual: true
-  technique: 'Acrylique sur toile '
 - title: Portrait de Jeune Homme
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100.jpg
   fields: []
@@ -66,6 +51,21 @@ works:
     a exploré les réserves du musée des Arts de Nantes et c'est ainsi qu'il a trouvé
     des portraits comme celui de [Jacopo Coppi](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=coppi
     "musée des arts de nantes ") 1570 Huile sur toile 36X26cm
+  price: 1900
+  contextual: true
+  technique: 'Acrylique sur toile '
+- title: Madame Fouque
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-madamefouque-100x73.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: 'Pendant le 1er confinement les musées étant fermés Sébastien Bouchard
+    a exploré les réserves du musée des Arts de Nantes et c''est ainsi qu''il a trouvé
+    des portraits comme celui de la femme de l''artiste [Jean Marius Fouque](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=fouque
+    "musee arts de nantes ") (peinture à l''huile 1855 - 60x48cm) '
   price: 1900
   contextual: true
   technique: 'Acrylique sur toile '
@@ -110,17 +110,6 @@ works:
     depth: 
   description: 
   price: 1500
-  sold: false
-  contextual: true
-- title: Icare II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1436.jpg
-  technique: Mixte sur toile
-  dimensions:
-    height: 150
-    width: 100
-    depth: 
-  description: 
-  price: 2500
   sold: false
   contextual: true
 styles:
