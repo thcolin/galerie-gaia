@@ -71,7 +71,7 @@ works:
   technique: 'Acrylique sur toile '
 - title: Icare V
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1439.jpg
-  technique: Mixte sur toile
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 120
     width: 150
@@ -82,7 +82,7 @@ works:
   contextual: true
 - title: Fly Away
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-sebastienbouchard-flyaway60x60cm-2019.jpeg
-  technique: 'Mixte sur toile '
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 60
     width: 60
@@ -92,7 +92,7 @@ works:
   contextual: true
 - title: Icare IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1438.jpg
-  technique: Mixte sur toile
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 120
     width: 120
@@ -103,7 +103,7 @@ works:
   contextual: true
 - title: Oxygen
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1440.jpg
-  technique: Mixte sur toile
+  technique: 'Acrylique sur toile '
   dimensions:
     height: 146
     width: 89
