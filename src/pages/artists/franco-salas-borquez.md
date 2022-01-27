@@ -67,8 +67,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 92
-    width: 73
+    height: 97
+    width: 78
     depth: 0
   description: '2020 encadrement caisse américaine noire '
   price: 2700
