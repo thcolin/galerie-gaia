@@ -487,19 +487,6 @@ works:
   price: 800
   sold: false
   contextual: true
-- title: CPJ 002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-cpj2-40X30.jpg
-  technique: 'Collages sur toile de papier japon teinté acrylique '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: 2012 encadrement bois naturel
-  price: 600
-  sold: false
-  contextual: true
 - title: CDC 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc002.jpg
   technique: Collage découpé cousu
