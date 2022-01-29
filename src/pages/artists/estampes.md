@@ -1,14 +1,13 @@
 ---
 template: artist
-title: Estampes
+title: Multi Artistes Estampe
 location: ''
 fields:
 - Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
-biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI SAURA VIALLAT VILLEGLE
-  JAFFE GAROUSTE "
+biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI JAFFE GAROUSTE"
 exhibitions: []
 works:
 - title: 'Georg Baselitz - Sigmund '
@@ -292,7 +291,7 @@ works:
   - Figuratif
 - title: Claude Viallat - Sans Titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre.jpg
-  technique: Sérigraphie 28/60 Réservée
+  technique: 'Sérigraphie 28/60 '
   dimensions:
     height: 69
     width: 69
