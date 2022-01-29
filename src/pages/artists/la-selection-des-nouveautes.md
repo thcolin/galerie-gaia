@@ -29,13 +29,13 @@ works:
   styles:
   - Figuratif
   dimensions:
-    height: 160
-    width: 200
+    height: ''
+    width: ''
     depth: 0
   description: |-
     # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
 
-    Prix sur demande
+    Catalogue sur demande et téléchargeable [ici]()
   price: ''
   contextual: false
 - title: Bonne pierre bon oeil 08 par Toma L
