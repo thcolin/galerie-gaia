@@ -136,8 +136,8 @@ works:
     - 2020_8B - 38x28.jpg
   technique: Technique mixte sur papier
   dimensions:
-    height: 150
-    width: 150
+    height: 38
+    width: 28
     depth: 
   description: ''
   price: 290
