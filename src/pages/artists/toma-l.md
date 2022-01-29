@@ -114,9 +114,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "[télécharger le catalogue]()"
+  description: '[télécharger le catalogue](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie
+    gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "TOMA-L THOMAS LABARTHE")'
   price: ''
-  contextual: true
+  contextual: false
 - title: Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011801-RetroCrade-140x120cm_bd_1000p.jpg
   technique: 'Technique mixte sur toile '
@@ -297,7 +298,7 @@ works:
     height: 85
     width: 65
     depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nRéservé"
+  description: "2021 caisse américaine cadre en chêne  \nVendu"
   price: ''
   contextual: true
 - title: Encore un type Rétro Crade aux couleurs flash
