@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Multi Artistes Estampe
+title: Divers Artistes Estampe
 location: ''
 fields:
 - Oeuvre sur papier
