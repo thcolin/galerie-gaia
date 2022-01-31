@@ -49,20 +49,6 @@ works:
   description: Format de l’œuvre avec cadre bois naturel teinté et ciré
   price: 190
   contextual: true
-- title: 'Algue orange 34 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
-    34.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  dimensions:
-    height: 92
-    width: 65
-    depth: 
-  description: ''
-  price: 95
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg

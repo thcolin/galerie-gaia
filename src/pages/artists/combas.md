@@ -29,7 +29,8 @@ biography: "# Robert Combas\n\n## Combas\n\n## Combas Robert artiste\n\nRobert C
 exhibitions: []
 works:
 - title: Dragon Combas
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Combas_Sans(5:79)_57x76- 01.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Combas_Sans(5:79)_57x76-
+    01.jpg
   dimensions:
     height: 56
     width: 76
@@ -38,11 +39,11 @@ works:
     # Litho Combas
 
     Edité par l'atelier du Petit Jaunais 1997
-  price: 1200
+  price: 1800
   contextual: true
   technique: 'Lithographie en 5 couleurs Edition 5/79 '
 - title: 'Le Combo de Combas '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg
   technique: Installation lumineuse Sérigraphie
   dimensions:
     height: 52
@@ -57,7 +58,7 @@ works:
   sold: false
   contextual: true
 - title: Certificat d'authenticité Robert Combas "Le Combo de Combas"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20190523_180652.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20190523_180652.jpg
   dimensions:
     height: 0
     width: 0
