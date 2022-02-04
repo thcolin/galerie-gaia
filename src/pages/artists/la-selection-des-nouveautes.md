@@ -22,7 +22,7 @@ works:
   price: ''
   contextual: false
 - title: Exposition Rétro-Crade jusqu'au 12 Février
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220121_120205.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220203_183217.jpg
   technique: Technique mixte sur papier velin d'Arches caisse amércaine chêne
   fields:
   - Peinture
@@ -73,18 +73,21 @@ works:
     # [Toma-L](https://galeriegaia.fr/artists/toma-l/ "Thomas Labarthe")
   price: 6000
   contextual: true
-- title: Strate 39 et 42 en situation Versant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 39 ET 42
-    ES.jpg
-  fields: []
-  styles: []
+- title: 'Les Albatros -Isabelle Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia isabelle
+    healy lesalbatros mes.jpg
+  technique: Bronze 4/8
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Versant](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/)"
-  price: 200
-  contextual: true
+    height: 40
+    width: 40
+  description: '# [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
+    "isabelle healy") '
+  price: 4500
+  contextual: false
+  fields:
+  - Sculpture
+  styles:
+  - Figuratif
 - title: Papier Albedo Anne Gaiss et Sculpture Alliance XVIII Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
     gaiss-albedo doré ES.jpg
@@ -130,19 +133,6 @@ works:
   description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
   price: 850
   contextual: true
-- title: 'Edition Pascal Gueguen '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pascal
-    gueguen ES.jpg
-  technique: Edition en 21 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Pascal Guéguen](https://galeriegaia.fr/artists/patrick-gueguen/)"
-  price: 140
-  contextual: true
 - title: XXI 40 116 de Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure-es.jpg
@@ -156,131 +146,6 @@ works:
     depth: 0
   description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/)"
   price: 500
-  contextual: false
-- title: Station 6 2016 par Aline Isoard
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-isoard
-    aline- station ES.jpg
-  technique: Photographie pigmentée tirage unique
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: '# [ALINE ISOARD](https://app.forestry.io/sites/rvlyohao9wjrjw/#/pages/src-pages-artists-aline-md/
-    "Aline ISOARD ")'
-  price: 1200
-  contextual: true
-  sold: false
-- title: 'Papier huilé 3 Françoise Paressant '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120838.jpg
-  technique: Acrylique et encre sur papier huilé
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  dimensions:
-    height: 100
-    width: 70
-    depth: 0
-  description: "1997  \n[Françoise Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/
-    \"francoise paressant\")"
-  price: 700
-  contextual: false
-- title: Deep blue 1 - Isthme
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_122315.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 146
-    width: 114
-    depth: 0
-  description: |-
-    # [Isthme]()
-
-    vendu
-  price: ''
-  contextual: false
-- title: Trois veilleurs de Jorj Morin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    10.jpg
-  technique: Eau-forte 15/50
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: |-
-    # [Jorj Morin](https://galeriegaia.fr/artists/jorj-morin/ "Jorj Morin")
-
-    Publication dans Côté Ouest Septembre 2021
-  price: 450
-  contextual: false
-- title: 'Les Albatros -Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia isabelle
-    healy lesalbatros mes.jpg
-  technique: Bronze 4/8
-  dimensions:
-    height: 40
-    width: 40
-  description: '# [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
-    "isabelle healy") '
-  price: 4500
-  contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Figuratif
-- title: Vent révolté de Franco Salas Borquez
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -franco
-    salas borquez vent revolte ES.jpg
-  technique: 'Huile sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: '# [Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/
-    "franco salas borques")'
-  price: 3600
-  contextual: false
-- title: Scotch & Karcher 1 par Cindy Belaud & Hoyhiro
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-IMG_5624.jpeg
-  technique: Sérigraphie en 8 exemplaires
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: '# [Cindy Belaud](https://galeriegaia.fr/artists/50-max/ "Cindy belaud
-    polen")'
-  price: 600
-  contextual: false
-- title: 'Cactus Laure Carré  Sérigraphies Valérie Le Roux & Versants Sculpture Isabelle
-    Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8X8A9977.JPG
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
-    carre")'
-  price: ''
   contextual: false
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
