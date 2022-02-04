@@ -73,6 +73,22 @@ works:
     # [Toma-L](https://galeriegaia.fr/artists/toma-l/ "Thomas Labarthe")
   price: 6000
   contextual: true
+- title: Céramiques de Jacqueline Pecantet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pecantet ES3.jpg
+  technique: Céramique et ces petits traits noirs au ...le mystère de la fabrication
+    !
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    Choix de solo duo et trio de 140€ à 250€
+
+    [Jacqueline PECANTET](https://galeriegaia.fr/artists/jacqueline-pecantet/ "PECANTET CERAMIQUE ")
+  price: 140
+  contextual: false
 - title: 'Les Albatros -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia isabelle
     healy lesalbatros mes.jpg
