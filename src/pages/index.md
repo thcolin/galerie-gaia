@@ -1,10 +1,10 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT1.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
 redirect_from:
 - "/plan/"
 seo:
