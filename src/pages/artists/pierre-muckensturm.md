@@ -277,46 +277,6 @@ works:
   description: Triptyque 50cmx50cm
   price: 1200
   contextual: false
-- title: 183c23041
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_183c23041-50X50.jpg
-  technique: 'eau forte et carborendum sur cuivre imprimé sur papier BFK Rives '
-  dimensions:
-    height: 50
-    width: 50
-    depth: 0
-  description: "Edition en 6 exemplaires  \nInstallation de 3 formats"
-  price: 1200
-  contextual: true
-- title: 183c23041 Installation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-183c23041-3x50x50.jpg
-  technique: 'eau-forte '
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Triptyque 50cmx50cm
-  price: 1200
-  contextual: false
-- title: 182c16041
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_182c16041-50X50.jpg
-  technique: eau forte et carborundum sur cuivre imprimé sur papier BFK Rives
-  dimensions:
-    height: 50
-    width: 50
-    depth: 0
-  description: 'Installation de 3 œuvres '
-  price: 1200
-  contextual: true
-- title: 182c16041 Installation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-183c23041-3x50x50.jpg
-  technique: eau-forte
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Triptyque 50cmx50cm
-  price: 1200
-  contextual: false
 - title: '203R0944 - composition à 6 angles  à Entas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     p 203R0944.jpg
