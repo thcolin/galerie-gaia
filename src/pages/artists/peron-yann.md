@@ -32,20 +32,6 @@ biography: |-
 
   Alors, j’expose cette première œuvre de mon fils Emile, peinte pendant 2020, année particulière s’il en est. C’est un portrait issue d’une série, où la peinture par couches successives laisse apparaître d’autres couleurs en transparence. Ce tableau est important pour moi car il marque un tournant tant dans le changement de format et de technique que dans le sujet plus centré sur le corps, le visage et les mains."
 works:
-- title: Dos d'Alice
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-02-05 à 18.50.13.png
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 90
-    depth: 0
-  description: ''
-  price: 3700
-  sold: false
-  contextual: true
 - title: Emile 2021-04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
   technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
@@ -62,6 +48,25 @@ works:
     irrigue le personnage ancré dans l’ombre à la base du tableau. Verticale, la toile
     se tend vers l’horizon souligné par le regard bleu perçant."
   price: 7900
+  sold: false
+  contextual: true
+- title: Dos d'Alice
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-02-05 à 18.50.13.png
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 90
+    depth: 0
+  description: Sublime pose de dos qui révèle grâce à la lumière, le monde infini
+    qui se décline sur la peau du modèle. La force de l'instant cristallisée dans
+    un tourment de tâches et de teintes mi sombres, terreuses et sourdes comme si
+    elles allaient s'échapper du corps. Le blanc du papier révélé par la présence
+    de la peinture - Yann Peron
+  price: 3700
   sold: false
   contextual: true
 - title: Détail Emile 2021_04
