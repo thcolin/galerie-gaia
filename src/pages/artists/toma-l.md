@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Toma-L
+title: Toma-l
 location: ''
 fields:
 - Peinture
@@ -8,22 +8,22 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Toma-L\n\n« Je compose en associant les pleins et les vides. Les masses
+biography: "# toma-l\n\n« Je compose en associant les pleins et les vides. Les masses
   sont sombres, moyennes et claires. La lumière vient de la toile ou de la couleur.
-  Le sujet alors s’impose à moi. » raconte Toma-L.\n\nSes formes sont des personnages
+  Le sujet alors s’impose à moi. » raconte **toma-l.**\n\nSes formes sont des personnages
   vivants, son geste souple. Reconnaît-on, ici, à l’endroit, à l’envers, de travers,
   une des entités imaginaires de l’artiste ? Et, là, ne forment-ils pas, à deux, à
   trois, à quatre comme une famille de cœur, qui échange, discute ?\n\nCrayon gras,
   acrylique, huile, pastel gras, papier, toile usée, grattée, coupée… Les lettres
   de son alphabet c’est la couleur, les couleurs. Premières et primaires comme Miró.
   Couleurs pures qui contrastent les unes avec les autres : il y a du mouvement dans
-  les couleurs chez Toma-L , la couleur chez lui c’est du volume, une troisième dimension.\n\nToma-L
+  les couleurs chez toma-l , la couleur chez lui c’est du volume, une troisième dimension.\n\ntoma-l
   vous fait vous sentir bien, comme une personne, un ensemble de personnes, que l'on
   fréquente et qui vous donne de la pêche. La couleur et le mouvement que dégagent
   ses œuvres dépassent la dimension picturale pour procurer d'autres effets, d'autres
   sensations : le propre des objets magiques, bénéfiques.\n\nL’artiste questionne,
   doute, travaille, se tourmente, se surprend, trouve, partage, travaille encore.
-  Il peint à l’estomac, au cœur. On est en apesanteur. \\[Toma l - Juin 2014 - © Galerie
+  Il peint à l’estomac, au cœur. On est en apesanteur. \\[toma-l - Juin 2014 - © Galerie
   W\\]\n\n2022  Exposition \"Rétro Crade\" 19 Janvier 12 février à Galerie Gaïa\n\n2020
   \ \nExposition \"Il peint sur Nantes\"  21 Mars à la Galerie Gaïa.\n\n2019  \nExposition
   Querelle Carbone | Du 4 avril au 9 mai | Le Cosmonaute | Ateliers des Capucins |
@@ -426,16 +426,6 @@ works:
   description: 2019 Prix sur demande
   price: ''
   contextual: false
-- title: Petit crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tomal-petit
-    crade encadree.jpg
-  technique: Technique mixte sur papier caisse américaine noire
-  dimensions:
-    height: 108
-    width: 78
-  description: "caisse américaine noire  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg

@@ -93,19 +93,6 @@ works:
   description: ''
   price: 290
   contextual: true
-- title: 2020SPp49A
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
-    - 2020_49A - 38x28.jpg
-  technique: 'Technique mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 38
-    width: 28
-    depth: 0
-  description: ''
-  price: 290
-  contextual: true
 - title: 2020SPp37
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_37 - 28x38.jpg.jpg
