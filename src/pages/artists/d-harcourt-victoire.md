@@ -26,6 +26,20 @@ biography: |-
 
   2021 : Cours d'accueil de l'hôpital Necker Aluminium poli
 works:
+- title: Alliance XII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - victoire
+    d'harcourt-alliance XII.JPG
+  technique: 'Bronze II/IV '
+  fields: []
+  styles: []
+  dimensions:
+    height: 34
+    width: 50
+    depth: 32
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
@@ -89,9 +103,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
