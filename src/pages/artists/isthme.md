@@ -109,6 +109,19 @@ biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m
   \"galerie-gaia-isthme-interview-entiere.mp4\")"
 exhibitions: []
 works:
+- title: 'Ar Men #b'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Nuits
+    en mer, Ar Men b-2022-101X81-acrylique sur toile.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 101
+    width: 81
+    depth: 0
+  description: "Œuvre sur châssis 2022  \nPrix sur demande "
+  price: ''
+  contextual: true
 - title: 'Ar Men #a'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Nuits
     en mer, Ar Men a-146x114-2022-acrylique sur toile.jpg
