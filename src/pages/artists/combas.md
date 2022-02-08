@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Combas
+title: Combas Robert
 location: ''
 fields:
 - Oeuvre sur papier

@@ -52,28 +52,6 @@ works:
   price: 900
   sold: false
   contextual: true
-- title: Portrait par Nadja Holland
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/611.jpg
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "Nadja Hollande \nhuile sur toile \nPortrait"
-  price: 
-  sold: false
-  contextual: true
-- title: Portrait par Nadja Holland
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/612.jpg
-  technique: 'Huile  sur toile '
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: Portrait par Claude Francheteau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/613.jpg
   technique: ''
