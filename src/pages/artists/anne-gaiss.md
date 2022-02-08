@@ -97,16 +97,6 @@ works:
   description: ''
   price: ''
   contextual: true
-- title: Empreinte
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - anne
-    gaiss - empreinte 84X64.jpg
 - title: Nigredo
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo.jpg
   technique: Incision au scalpel sur papier noir Moulin de la Roque
@@ -117,16 +107,6 @@ works:
   description: 'Œuvre encadrée sur fond noir et verre musée baguette aluminium noire '
   price: ''
   sold: false
-  contextual: true
-- title: Albedo I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_albedo.1
-    _60X76.jpg
-  technique: Incisions au scalpel sur papier traditionnel indien
-  dimensions:
-    height: 86
-    width: 64
-  description: Œuvre encadrée
-  price: 3200
   contextual: true
 - title: 'Détail de matière '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo-vii.jpg
@@ -146,22 +126,10 @@ works:
     height: 76
     width: 50
     depth: 
-  description: 'Œuvre encadrée '
+  description: Œuvre encadrée verre anti reflet
   price: 3200
   sold: false
   contextual: false
-- title: Animus Anima IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_Animus.anima.4_60X76.JPG
-  technique: Incisions au scalpel sur feuille d’argent marouflée sur papier traditionnel
-    indien
-  dimensions:
-    height: 76
-    width: 60
-    depth: 
-  description: Œuvre encadrée
-  price: 3200
-  sold: false
-  contextual: true
 - title: Portrait Anne Gaiss
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-anne-gaiss-portrait.jpg
   fields: []
