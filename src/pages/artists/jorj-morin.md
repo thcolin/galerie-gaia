@@ -390,19 +390,6 @@ works:
   price: 150
   sold: false
   contextual: true
-- title: Festival 1989
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-FESTIVAL.JPG
-  technique: Eau forte 3/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 44.5
-    width: 32.5
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
 - title: Coeur (II) 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
     (II).JPG
@@ -600,19 +587,6 @@ works:
   - Textile
   styles:
   - Abstrait
-- title: Vers l'Ouest
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vers-louest.jpg
-  technique: Gravure
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: '1981 '
-  price: 150
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: En forme de feuille
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg
   technique: Gravure
