@@ -105,7 +105,7 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Catalogue Toma-L
+- title: Catalogue Expo Rétro-Crade Toma-L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-01-29 à 15.27.07.png
   fields: []
@@ -114,8 +114,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[télécharger le catalogue](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie
-    gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "TOMA-L THOMAS LABARTHE")'
+  description: '[télécharger le catalogue](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Toma-L_Catalogue_RetroCrade_GaiaGalerie_10Fevrier2022_SP.pdf
+    "catalogue toma-l sans prix")'
   price: ''
   contextual: false
 - title: Un type Rétro-Crade
@@ -576,8 +576,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Télécharger le catalogue Décembre 2020](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-l_gaiagalerie_19novembre2020.pdf
-    "Thomas labarthe toma l tomas labarte catalogue ")'
+  description: Télécharger le catalogue en date du 11/02/22
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
