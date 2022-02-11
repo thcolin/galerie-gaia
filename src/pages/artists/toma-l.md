@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Toma-l
+title: Toma-L
 location: ''
 fields:
 - Peinture
@@ -105,7 +105,7 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Catalogue Toma-l
+- title: Catalogue Toma-L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-01-29 à 15.27.07.png
   fields: []
@@ -118,7 +118,7 @@ works:
     gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "TOMA-L THOMAS LABARTHE")'
   price: ''
   contextual: false
-- title: Rétro-Crade
+- title: Un type Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011801-RetroCrade-140x120cm_bd_1000p.jpg
   technique: 'Technique mixte sur toile '
   fields: []
