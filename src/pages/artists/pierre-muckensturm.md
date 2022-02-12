@@ -257,18 +257,18 @@ works:
   contextual: true
   fields:
   - Peinture
-- title: 184c06051
+- title: 182C160413
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg
   technique: 'eau forte et carborundum sur cuivre imprimé sur papier BFK Rives '
   dimensions:
     height: 50
     width: 50
     depth: 0
-  description: "Edition en 6 exemplaires  \nInstallation de 3 formats"
+  description: "Edition  6/6   \nTriptyque (Installation des 3 formats)  \n2018"
   price: 1200
   contextual: true
-- title: 184c06051 Installation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm-184c06051-3x50x50.jpg
+- title: 182C160413 Installation
+  image: ''
   technique: Eau forte
   dimensions:
     height: 0
