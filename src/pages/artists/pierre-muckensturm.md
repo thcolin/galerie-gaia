@@ -268,7 +268,7 @@ works:
   price: 1200
   contextual: true
 - title: 182C160413 Installation
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-182c16041-3x50x50.jpg
   technique: Eau forte
   dimensions:
     height: 0
