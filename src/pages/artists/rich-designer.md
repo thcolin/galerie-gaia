@@ -55,6 +55,21 @@ works:
   price: 2250
   sold: false
   contextual: false
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210329_WIDE_Artefacts_Gaia_EPonsaud_55.jpg
+  technique: 'Lampe en Bois de noyer peinte par Edwin Wide '
+  fields: []
+  styles: []
+  dimensions:
+    height: 66.5
+    width: 12
+    depth: 12
+  price: 2250
+  sold: false
+  contextual: false
+  title: Mise en situation devant une toile de Edwin Wide
+  description: "A gauche le support recepteur de la lumière émise par la lampe de
+    droite.  \nLes 2 éléments doivent être à une distance minimum de 30cm.  \nLa lampe
+    (Led) est équipée d'une télécommande pour une variation dynamique"
 exhibitions:
 - title: 'MAD (Multiple Art Days) '
   location: Paris Hôtel de la Monnaie
