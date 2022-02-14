@@ -975,22 +975,21 @@ articles:
   - Exposition
   title: Rétro Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-TOMA_220103-BAT.jpg
-  content: "Exposition peinture et papier de Toma L  \nPrésence de l'artiste Samedi
-    22 Janvier toute la journée\n\n**Rétro Crade Toma-L**\n\nCette exposition est
-    née comme un besoin de commencer l'année coûte que coûte. Avec cette conviction
-    que les contraintes d'organisation ne peuvent entraver cette nécessité de voir,
-    de regarder, de participer, de provoquer un télescopage entre nos vies quotidiennes
-    et nos envies de vagabondage. Une exposition c'est un **_manifeste_** pour stimuler
-    nos émotions et créer ces vibrations artistiques, ces **_étincelles_** essentielles
-    à notre imagination.\n\nCette mission je la confie pour la seconde fois à **Thomas
-    Labarthe**.\n\nLe travail de Thomas se nourrit du face à face avec les autres.
-    Ami-e-s, relations, rencontres, frictions sympathiques, confrontations de pensées,
-    fêtes et musique en bande, et tous ces manques de l'autre laissent des traces.
-    \ \nIl est donc question dans les formes et les couleurs, de cette humanité qui
-    nous caractérise et qui engage le corps et l'esprit dans un sursaut vital.  \nCela
-    provoque une nouvelle création, des couleurs proches des éléments de terre de
-    feu, d'eau et d'air et propose ainsi une nouvelle écriture picturale.  \n**_Bonheur
-    !_** Ses personnages, leurs pieds, leurs poings et leurs mouvements sont toujours
-    là en rétro-plan !"
+  content: "[**Prolongation exposition jusqu'au 19 Février 2022**](https://galeriegaia.fr/artists/toma-l/
+    \"EXPO TOMA L\")\n\n**Rétro Crade Toma-L**\n\nCette exposition est née comme un
+    besoin de commencer l'année coûte que coûte. Avec cette conviction que les contraintes
+    d'organisation ne peuvent entraver cette nécessité de voir, de regarder, de participer,
+    de provoquer un télescopage entre nos vies quotidiennes et nos envies de vagabondage.
+    Une exposition c'est un **_manifeste_** pour stimuler nos émotions et créer ces
+    vibrations artistiques, ces **_étincelles_** essentielles à notre imagination.\n\nCette
+    mission je la confie pour la seconde fois à **Thomas Labarthe**.\n\nLe travail
+    de Thomas se nourrit du face à face avec les autres. Ami-e-s, relations, rencontres,
+    frictions sympathiques, confrontations de pensées, fêtes et musique en bande,
+    et tous ces manques de l'autre laissent des traces.  \nIl est donc question dans
+    les formes et les couleurs, de cette humanité qui nous caractérise et qui engage
+    le corps et l'esprit dans un sursaut vital.  \nCela provoque une nouvelle création,
+    des couleurs proches des éléments de terre de feu, d'eau et d'air et propose ainsi
+    une nouvelle écriture picturale.  \n**_Bonheur !_** Ses personnages, leurs pieds,
+    leurs poings et leurs mouvements sont toujours là en rétro-plan !"
 
 ---

@@ -18,6 +18,10 @@ biography: |-
   « Tous les hommes ont un secret attrait pour les ruines. Ce sentiment tient à la fragilité de notre nature, à une conformité secrète entre ces monuments détruits et la rapidité de notre existence. »
   François-René de Chateaubriand
 exhibitions:
+- title: Affordable Art Fair Bruxelles avec Galerie Gaïa
+  location: 'Bruxelles '
+  start: 23/03/22
+  end: 27/03/22
 - title: Artefacts
   location: Galerie Gaia
   end: 28 Mars 2021
