@@ -10,6 +10,22 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: 'Cleon Peterson Flowers of evil the kiss (white) '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
+    cleon.jpg
+  technique: Sérigraphie 121/125
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Figuratif
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: Dernières éditions de [**Cleon Peterson**](https://galeriegaia.fr/artists/estampes/
+    "cleon peterson") 2021
+  price: 900
+  contextual: false
 - title: New Ex
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
@@ -36,24 +52,6 @@ works:
     # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
 
     Catalogue sur demande et téléchargeable [ici](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "catalogue expo toma-l")
-  price: ''
-  contextual: false
-- title: Bonne pierre bon oeil 08 par Toma L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l - litho cadre blanc ES.jpg
-  technique: 'Lithographie '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: |-
-    # [Toma L](https://galeriegaia.fr/artists/toma-l/ "toma labarthe ")
-
-    vendu
   price: ''
   contextual: false
 - title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
