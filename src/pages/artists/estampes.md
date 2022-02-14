@@ -7,9 +7,42 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI JAFFE GAROUSTE"
+biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFFE
+  GAROUSTE"
 exhibitions: []
 works:
+- title: 'Traquandi - Sans Titre (noir) '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
+  technique: Aquatinte 12/19 2013
+  dimensions:
+    height: 80
+    width: 61
+    depth: 
+  description: "# Gérard Traquandi"
+  price: 800
+  sold: false
+  contextual: true
+- title: 'Gérard Traquandi - Sans Titre (orange) '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
+  technique: Aquatinte 12/19
+  dimensions:
+    height: 80
+    width: 61
+    depth: 
+  description: "# Gérard Traquandi"
+  price: 800
+  sold: false
+  contextual: true
+- title: Gérard Tranquandi duo en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
+  technique: Aquatinte
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: "# Gérard Traquandi"
+  price: 1500
+  contextual: false
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
     cleon.jpg
   fields: []
@@ -199,38 +232,6 @@ works:
     depth: 0
   description: "# Gérard Traquandi"
   price: 700
-  contextual: true
-- title: Gérard Tranquandi duo en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
-  technique: Aquatinte
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: "# Gérard Traquandi"
-  price: 1500
-  contextual: false
-- title: 'Gérard Traquandi - Sans Titre (orange) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
-  technique: Aquatinte 12/19
-  dimensions:
-    height: 80
-    width: 61
-    depth: 
-  description: "# Gérard Traquandi"
-  price: 800
-  sold: false
-  contextual: true
-- title: 'Traquandi - Sans Titre (noir) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
-  technique: Aquatinte 12/19 2013
-  dimensions:
-    height: 80
-    width: 61
-    depth: 
-  description: "# Gérard Traquandi"
-  price: 800
-  sold: false
   contextual: true
 - title: 'Gérard Traquandi - sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait3-66x50.jpg
