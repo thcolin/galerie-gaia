@@ -40,7 +40,21 @@ biography: "**A la frontière de l’objet d’art et du design**\n\n**Les Insé
   en septembre 2018, _Les Inséparables_ sont exposés sur le stand de la revue Irreverent
   et suscitent beaucoup d’intérêt chez les visiteurs comme chez les exposants. Un
   retour positif qui conforte la place\n\nsingulière du dispositif ."
-works: []
+works:
+- title: 'Les Inséparables '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/RICH_LesIns‚parables_Photo_DenisEsnault_A170802_03.jpg
+  technique: 'Bois de noyer - peinture 6 couleurs par Edwin Wide '
+  fields: []
+  styles: []
+  dimensions:
+    height: 66.5
+    width: 12
+    depth: 12
+  description: "projecteur RVB, télécommande, séquences dynamiques.  \ndistance minimum
+    entre la source et le récepteur 30 cm"
+  price: 2250
+  sold: false
+  contextual: false
 exhibitions:
 - title: 'MAD (Multiple Art Days) '
   location: Paris Hôtel de la Monnaie
