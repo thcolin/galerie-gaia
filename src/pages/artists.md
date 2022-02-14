@@ -1,8 +1,10 @@
 ---
 template: artists
 artists:
+- artist: []
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/toma-l.md
+- artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/duhec-olivier.md
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/jacques-le-brusq.md
@@ -10,6 +12,7 @@ artists:
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/bathelier-marie.md
+- artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/aline.md
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/isabelle-healy.md
@@ -20,7 +23,6 @@ artists:
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/man-pia.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
-- artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/belaud-cindy.md
@@ -54,7 +56,6 @@ artists:
 - artist: src/pages/artists/alain-clement.md
 - artist: src/pages/artists/daha-daha.md
 - artist: src/pages/artists/rycho-ryszard-swierad.md
-- artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/jean-paul-friol.md
 - artist: src/pages/artists/xavier-jallais.md
