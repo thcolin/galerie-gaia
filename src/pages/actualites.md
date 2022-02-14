@@ -991,5 +991,17 @@ articles:
     des couleurs proches des éléments de terre de feu, d'eau et d'air et propose ainsi
     une nouvelle écriture picturale.  \n**_Bonheur !_** Ses personnages, leurs pieds,
     leurs poings et leurs mouvements sont toujours là en rétro-plan !"
+- template: article
+  date: '2022-03-23T12:10:30Z'
+  categories:
+  - Exposition
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_story_v4withlogo.jpg
+  title: Bruxelles Affordable Art Fair
+  content: "# AFFORADABLE ART FAIR BRUXELLES \n\n**INVITATION OFFERTE PAR LA GALERIE**
+    \n\nObtenir un billet pour le [vernissage VIP](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
+    \"TICKET VIP\") du mercredi 23  \nmot de passe **G-GAIAVE limitée à 60 places**
+    \n\nObtenir un billet pour [le salon](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
+    \"SALON BRUXELLES\") du jeudi 24 au dimanche 27  \nmot de passe **G-GAIAGP limitée
+    à 150 places**"
 
 ---
