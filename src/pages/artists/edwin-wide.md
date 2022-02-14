@@ -34,7 +34,7 @@ works:
     width: 130
     depth: 0
   description: ''
-  price: 3500
+  price: 5500
   contextual: true
 - title: IDFRA EA
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
@@ -47,20 +47,20 @@ works:
     width: 97
     depth: 0
   description: ''
-  price: 1900
+  price: 3400
   contextual: true
-- title: 7.12.19 14H39
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-07.12.2019 14h39-100x70cm.jpg
-  technique: Acrylique sur bois
+- title: IDFRA DJ
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    DJ-130X81.jpg
+  technique: Acrylique sur toile
   fields: []
   styles: []
   dimensions:
-    height: 100
-    width: 70
+    height: 130
+    width: 89
     depth: 0
-  description: Vendu
-  price: ''
+  description: "2022"
+  price: 3200
   contextual: true
 - title: 05-01-17
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin-Wide-05-01-17-195X130.jpg
