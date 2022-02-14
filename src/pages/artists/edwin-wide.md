@@ -23,6 +23,19 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: IDFRA DJ
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    DJ-130X81.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: "2022"
+  price: 3200
+  contextual: true
 - title: SOLDAT 1915
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     Wide-SOLDAT 1915-195x130cm.jpg
@@ -49,19 +62,6 @@ works:
   description: ''
   price: 3400
   contextual: true
-- title: IDFRA DJ
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
-    DJ-130X81.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3200
-  contextual: true
 - title: 05-01-17
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin-Wide-05-01-17-195X130.jpg
   technique: Acrylique sur toile
@@ -71,21 +71,21 @@ works:
     height: 195
     width: 130
     depth: 0
-  description: ''
-  price: 3200
+  description: "2017"
+  price: 5000
   contextual: true
-- title: CHRISTIAN
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-CHRISTIAN-146x114cm.jpg
+- title: IDFRA LGF
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    LGF-130X81.jpg
   technique: Acrylique sur toile
   fields: []
   styles: []
   dimensions:
-    height: 114
-    width: 146
+    height: 130
+    width: 89
     depth: 0
-  description: Vendu
-  price: ''
+  description: "2022"
+  price: 3200
   contextual: true
 - title: 6-11-19 22H01
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
