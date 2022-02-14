@@ -36,6 +36,19 @@ works:
   description: "2022"
   price: 3200
   contextual: true
+- title: IDFRA LGF
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    LGF-130X81.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: "2022"
+  price: 3200
+  contextual: true
 - title: SOLDAT 1915
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     Wide-SOLDAT 1915-195x130cm.jpg
@@ -74,19 +87,6 @@ works:
   description: "2017"
   price: 5000
   contextual: true
-- title: IDFRA LGF
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
-    LGF-130X81.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3200
-  contextual: true
 - title: 6-11-19 22H01
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-06.12.2019 22h01-100x70cm.jpg
@@ -97,18 +97,18 @@ works:
     height: 100
     width: 70
     depth: 0
-  description: ''
-  price: 1900
+  description: "2019"
+  price: 2400
   contextual: true
 - title: 03/01/18 14:15
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg
-  technique: 'Mixte : spray & acrylique sur bois'
+  technique: Technique mixte spray & acrylique sur bois
   dimensions:
     height: 100
     width: 70
     depth: 
-  description: Toile sur châssis Prix 1500€
-  price: 
+  description: "2018"
+  price: 2400
   sold: false
   contextual: true
 - title: '25-10-17 '
