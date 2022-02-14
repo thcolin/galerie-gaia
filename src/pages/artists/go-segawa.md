@@ -17,13 +17,13 @@ exhibitions: []
 works:
 - title: Black cube in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
-  technique: Piece unique encre et peint à la main
+  technique: 'impression UV sur polycarbonate '
   dimensions:
     height: 13.5
     width: 13.5
     depth: 13.5
   description: ''
-  price: 1000
+  price: 1200
   sold: false
   contextual: false
 - title: Life I
