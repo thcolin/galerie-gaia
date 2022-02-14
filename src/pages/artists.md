@@ -1,7 +1,6 @@
 ---
 template: artists
 artists:
-- artist: []
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/edwin-wide.md
@@ -9,6 +8,7 @@ artists:
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/pierre-muckensturm.md
+- artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/bathelier-marie.md

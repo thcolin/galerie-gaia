@@ -34,12 +34,7 @@ biography: "**A la frontière de l’objet d’art et du design**\n\n**Les Insé
   présence familière et vivante.\n\nLes éléments en bois sont réalisés artisanalement
   par Thierry Marolleau Tournerie d’Argenton  \nLes têtes sont peintes par l’artiste
   urbain [**Edwin Donnart WIDE**](https://galeriegaia.fr/artists/edwin-wide/ \"EDWIN
-  WIDE\") \n\nUne première présentation des _Inséparables_ est faite à la HAB galerie
-  de Nantes le 24 mars 2018 lors du lancement de la revue _Irreverent_ XII, un prototype
-  est alors présenté.\n\nLors du MAD (Multiple Art Days) à Paris à l’hôtel de la Monnaie
-  en septembre 2018, _Les Inséparables_ sont exposés sur le stand de la revue Irreverent
-  et suscitent beaucoup d’intérêt chez les visiteurs comme chez les exposants. Un
-  retour positif qui conforte la place\n\nsingulière du dispositif ."
+  WIDE\")"
 works:
 - title: 'Les Inséparables '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/RICH_LesIns‚parables_Photo_DenisEsnault_A170802_03.jpg
