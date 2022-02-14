@@ -10,6 +10,17 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: New Ex
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: 'Cleon Peterson Flowers of evil the kiss (white) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
     cleon.jpg
@@ -26,19 +37,8 @@ works:
     "cleon peterson") 2021
   price: 900
   contextual: false
-- title: New Ex
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
-- title: Exposition Rétro-Crade jusqu'au 12 Février
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220203_183217.jpg
+- title: Prolongation de l'exposition Rétro-Crade jusqu'au 19 Février
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_143958.jpg
   technique: Technique mixte sur papier velin d'Arches caisse amércaine chêne
   fields:
   - Peinture
@@ -51,7 +51,7 @@ works:
   description: |-
     # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
 
-    Catalogue sur demande et téléchargeable [ici](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "catalogue expo toma-l")
+    Catalogue sur demande ou téléchargeable [ici](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "catalogue expo toma-l")
   price: ''
   contextual: false
 - title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
