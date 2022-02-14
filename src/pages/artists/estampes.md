@@ -10,6 +10,19 @@ expose: true
 biography: "# DI ROSA BASELITZ BURAGLIO ALECHINSKI TRACANDI JAFFE GAROUSTE"
 exhibitions: []
 works:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
+    cleon.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: '2021 signature main en bas à droite '
+  price: 900
+  contextual: false
+  title: Cleon Peterson Flowers of evil the kiss (white)
+  technique: Sérigraphie 121/125
 - title: 'Georg Baselitz - Sigmund '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
   technique: Eau forte (15/15)
