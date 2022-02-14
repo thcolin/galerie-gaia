@@ -126,18 +126,6 @@ works:
   price: ''
   contextual: true
   technique: Acrylique sur bois
-- title: 'IDFRA BL '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-IDFRA BL-130x97cm.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: Vendu
-  price: ''
-  contextual: true
 - title: 'Abandoned place #4'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
   technique: 'Photographie '
@@ -149,7 +137,7 @@ works:
     height: 40
     width: 60
     depth: 0
-  description: 'Tirage sur dibond '
+  description: Tirage sur dibond 30 exemplaires
   price: 350
   contextual: true
 - title: 'Abandoned place #2'
@@ -163,7 +151,7 @@ works:
     height: 40
     width: 60
     depth: 0
-  description: 'Tirage sur dibond '
+  description: Tirage sur dibond 30 exemplaires
   price: 350
   contextual: true
 - title: 'Abandoned place #1'
@@ -177,20 +165,8 @@ works:
     height: 40
     width: 60
     depth: 0
-  description: 'Tirage sur dibond '
+  description: Tirage sur dibond 30 exemplaires
   price: 350
-  contextual: true
-- title: Teaser Expo ARTEFACTS
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CartonArtefactVersoA6.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Teaser](https://www.youtube.com/watch?v=ZuIUr3zEFgU "Teaser expo
-    Wide ")'
-  price: 0
   contextual: true
 - title: Fresque Nantes Rue Arche Sèche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-fresque-arche-seche-nantes.jpg
