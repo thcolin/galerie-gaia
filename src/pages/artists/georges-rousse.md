@@ -10,6 +10,8 @@ expose: true
 biography: |-
   # Georges Rousse
 
+  > L'accord de la surface plane d'une photographie et la peinture en relief
+
   Georges Rousse est né en 1947 à Paris, où il vit et travaille aujourd'hui. Alors qu'il étudiait la médecine, il a décidé de créer son propre studio de photos d'architectures après avoir effectué un apprentissage chez un professionnel de la photographie. Le matériau premier de Georges Rousse est l'Espace, plus particulièrement les bâtiments abandonnés. A partir de l'objectif de son appareil photo, il capture ses peintures, qui en réalité contrastent avec l'ordre pictural et la surface plane de la photographie. Il créé dans ces lieux une forme utopique en projetant sa vision du monde.
 
   Afin de permettre aux spectateurs de partager son expérience de l'Espace il présente, dès le début des années 80, ses images en tirages de grand format. Cette œuvre forte et singulière qui déplace les frontières entre les médias traditionnels s'est immédiatement imposée dans le paysage de l'art contemporain.
@@ -25,6 +27,8 @@ biography: |-
   * 1992 : Bourse Romain Rolland à Calcutta (Inde)
   * 1993 : Grand Prix National de la Photographie
   * 2008 : Georges Rousse succède à Sol Lewitt comme Membre associé de l'Académie Royale de Belgique
+
+  > The harmony between a flat surface of a photography and a painting in relief
 
   Georges Rousse was born in 1947 in Paris, where he lives and works today. While studying medicine, he decided to create his own architectural photo studio after having completed an apprenticeship with a professional photographer. Georges Rousse's primary material is Space, especially abandoned buildings. From the lens of his camera, he captures his paintings, which in reality contrast with the pictorial order and the flat surface of the photograph. He creates in these places a utopian form by projecting his vision of the world.   In order to allow visitors to share his experience of Space, he presents, since the early 80s, his pictures in large format prints. This strong and singular work, which shifts the boundaries between traditional media, immediately made its mark on the contemporary art scene.
 
