@@ -7,40 +7,16 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Elisabeth Wadecki \n\nest née en 1963 à Zürich, d'un père polonais et
-  d'une mère française. L'artiste se forme à L’Ecole Nationale des Beaux-Arts de Nancy.
-  Elle vit et travaille depuis près de 30 ans dans la région nantaise.\n\nQu’elle
-  choisisse la peinture ou l’installation, Elisabeth Wadecki s’attache avant tout
-  à la sensualité des surfaces. Sa technique s’appuie sur une minutieuse préparation
-  des surfaces : la nature charnelle du support textile transparait à travers une
-  peinture extrêmement fluide, qui joue de la transparence et de l’absence d’épaisseur.\nSes
-  paysages naturels ou intimes, transcrits de manière quasi topographique par couches
-  successives, là où effacements et retraits, se font l’écho de trajectoires et racontent
-  l’histoire de corps, de geste et de sensualité, propres à l’abstraction. Le geste
-  étale, lisse, prend l’espace. Toujours en lien avec le rythme des saisons, la gamme
-  chromatique de l’artiste rejoint la peinture naturaliste.\n\nLa texture picturale
-  des toiles, constituée de surfaces plus ou moins transparentes, onctueuses, humides,
-  donne à voir un paysage quelque peu en lévitation. La composition semble se déployer
-  en miroir et rappelle la spécificité des paysages chinois. La peinture d’Elisabeth
-  Wadecki est très certainement empreinte d'influence asiatique, et relève d’un mélange
-  intuitif de références contemporaines tant picturales que littéraires. L’on sent
-  ici dans cette peinture, sourdre les mots ; on sent frémir la retenue délicate et
-  l’envol éternel de la poésie japonaise. En effet l’artiste, sensible à l’extrême
-  à la vie, à ses formes les plus simples et quotidiennes, fréquente l’art des haïkus,
-  qu’elle couche en toute liberté dans ses petits carnets.\n\nL'artiste propose une
-  peinture qui provoque une ouverture de perceptions et une sollicitation des sens
-  ; outre la vue, où se joue une incorporation du réel, une union entre le corps,
-  le sujet et le monde qui l’entoure.  L’art pictural d’Elisabeth Wadecki, bien au-delà
-  d’une projection abstraite, relève d’une restitution d’un mouvement, d’une circulation
-  entre sujet et monde.\n\nPartout, le geste de l’artiste semble dans son élan, sa
-  variété, capter les souffles qui animent l’univers. Il s’arrondit, s’allège et se
-  fragmente en touches denses ou fluides, s’effiloche pour ainsi mieux épouser l’essence
-  cachée des choses.\n\nSa peinture garde la trace d’un frémissement à travers le
-  temps, comme si l’œil du peintre n’avait capté que l’essence même du réel, tel un
-  calligraphe qui, dans la vitalité et l’immédiateté de son geste, jette ça et là
-  un jaune moisson, un vert lentilles d’eau, un rose ou un terre-de-sienne d’argile,
-  et prend son envol dans l’espace subtil d’un blanc mat.\n\nOù il n’est question
-  que de présence au monde."
+biography: |-
+  # Elisabeth Wadecki
+
+  > La préparation méticuleuse des surfaces, l'étape clé d'Elisabeth Wadecki
+
+  Elisabeth Wadecki est née en 1963 à Zürich, d’un père polonais et d’une mère française. L’artiste se forme à L’Ecole Nationale des Beaux-Arts de Nancy. Elle vit et travaille depuis près de 30 ans dans la région nantaise. Sa technique se joue par une minutieuse préparation des surfaces, sur lesquelles elle peind des paysages par couches successives, apportant transparence, volume, profondeur. De plus, l'artiste utilise une gamme chromatique constamment en accord avec les saisons, ce qui rend son travail d'autant plus naturaliste. Ses oeuvres gardent la trace d'un frémissement à travers le temps, comme si elle n'avait capté que l'essence même du réél. La composition de ses tableaux semble se déployer en miroir, et rappelle la spécificité des paysages chinois. L'artiste est en effet largement influencée par l'Asie : Elisabeth Wadecki lit des poèmes, des haikus. Elle propose des peintures provoquant l'ouverture des perceptions et solicitant les sens: à la vue s'ajoute une union entre le corps, le sujet, et le monde qui l'entoure.
+
+  > A meticulous preparation of surfaces, a key step for Elisabeth Wadecki
+
+  Elisabeth Wadecki was born in 1963 in Zurich, she has a Polish father and a French mother. The artist trained at the National School of Beaux-Arts in Nancy. She has been living and working near Nantes for nearly 30 years. Her technique is based on a meticulous preparation of surfaces, on which she paints landscapes in successive layers, bringing transparency, volume and depth. Moreover, the artist uses a chromatic range constantly in agreement with the seasons, which makes her work even more naturalist. Her pieces keep the trace of a quivering through time, as if she had only captured the essence of reality. The composition of her paintings seems to unfold in a mirror, and recalls the specificity of Chinese landscapes. The artist is indeed largely influenced by Asia: Elisabeth Wadecki reads poems, haikus. She proposes paintings provoking the opening of perceptions and soliciting the senses: to the sight is added a union between the body, the subject, and the world which surrounds it.
 exhibitions: []
 works:
 - title: 'Palude 1 '
