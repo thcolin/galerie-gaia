@@ -165,64 +165,6 @@ works:
   price: 130
   sold: false
   contextual: false
-- title: La balle dans une balle III
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-balle-dans-la-balle.png
-  technique: 'Impression jet d''encre sur polyester '
-  fields: []
-  styles: []
-  dimensions:
-    height: 7.5
-    width: 7.5
-    depth: 7.5
-  description: 50 exemplaires
-  price: 130
-  contextual: true
-- title: 5 volumes empilées
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
-  technique: ''
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: 'Installation sous cloche '
-  price: 
-  sold: false
-  contextual: true
-- title: 'Oval I – red & yellow '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-i-red-and-yellow-1550-1650.jpg
-  technique: 'Impression jet d’encre sur polyester '
-  dimensions:
-    height: 9
-    width: 4
-    depth: 4
-  description: "red & yellow (15/50)  format 9,6 X 4,6 X 4,6 70€ \n\nred & yellow
-    (3/25) format 12,5 X 6 X 6 130€  \nTirage 2019"
-  price: 70
-  sold: false
-  contextual: false
-- title: 'Oval II – dark '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/oval-ii-dark-950-1050.jpg
-  technique: 'Impression  jet d’encre sur polyester '
-  dimensions:
-    height: 9
-    width: 4
-    depth: 4
-  description: "Oval II – dark 9,6 X 4,6 X 4,6 (3/25)  70€ \n\nOval II – dark 12,5
-    X 6 X 6 (9/50, 10/50) 130€  \nTirage 2019"
-  price: 
-  sold: false
-  contextual: true
-- title: Visage
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/visage.jpg
-  technique: Sérigraphie sur PVC Edition 12/50
-  dimensions:
-    height: 8
-    width: 16
-    depth: 22
-  description: Création en 2006  Sur commande
-  price: 380
-  sold: false
-  contextual: false
 - title: Goutte rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
   technique: 'Impression jet d’encre sur polyester '
@@ -246,6 +188,18 @@ works:
   description: Edition en 25 exemplaires
   price: 110
   contextual: false
+- title: Boite plexi
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
+  technique: ''
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: "Idée pour les mettre en valeur une cloche en plexi  \nCommande sur
+    mesure - devis possible"
+  price: 
+  sold: false
+  contextual: false
 - title: Trophée Open de Squash de Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trophee-open-de-squash-de-nantes.jpg
   technique: ''
@@ -257,6 +211,18 @@ works:
     pour les organisateurs du tournoi international de l''Open de Squash de Nantes '
   price: 
   sold: false
+  contextual: false
+- title: Portrait de Go Segawa
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-portrait
+    Go SEGAWA.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Go Segawa"
+  price: 0
   contextual: false
 redirect_from:
 - "/artistes/15-go-segawa/"
