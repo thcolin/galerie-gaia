@@ -1,30 +1,28 @@
 ---
 template: contact
 content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo facade.jpg)\n\n##
-  Galerie Gaïa une galerie d'art contemporain à Nantes\n\nLa Galerie Gaïa poursuit
-  l’aventure d’un lieu d’art crée en 1978 à proximité de l’Ecole des Beaux-Arts alors
-  située en plein cœur de la ville de Nantes dans le quartier Decré.\n\nEn 2015 Elisabeth
-  Givre reprend, transforme et engage durablement l’espace pour installer une programmation
-  annuelle de 7 expositions en peinture, sculpture, céramique, photo, estampe et parfois
-  des installations.\n\nL’abstraction qui est au cœur de la sélection fait aussi la
-  place à des œuvres plus figurative.\n\nLa ligne, le trait, l’architecture sont un
-  des fils conducteurs de la sélection que j’assume et construis au fil de mes rencontres
-  dans les ateliers d’artistes.\n\nAussi les ruptures et les grands écarts d’une exposition
-  à l’autre sont une évidence fondamentale. Chaque artiste reste singulier, inspiré-e
-  mais pas rangé-e.\n\nLes Réserves : c'est la particularité de la galerie Gaïa! +900
-  œuvres de 70 artistes !\n\nCe [CATALOGUE](https://galeriegaia.fr/catalogue/ \"galerie
-  gaillard\") des réserves est devenue accessible au plus grand nombre et sans contrainte
-  géographique , grâce au site internet  qui est actualisé des disponibilités et des
-  nouveautés quotidiennement.\n\nL’art doit nous secouer et nous aider à figurer les
-  pensées les plus abstraites, mais aussi à extraire l’essentiel dans la complexité
+  Galerie Gaïa une galerie d'art contemporain à Nantes\n\nLa **Galerie Gaïa** poursuit
+  l’aventure d’un lieu d’art crée en **1978** à proximité de l’Ecole des Beaux-Arts
+  alors située en plein **cœur de la ville de Nantes** dans le quartier Decré.\n\n**En
+  2015 Elisabeth Givre** reprend, transforme et engage durablement l’espace pour installer
+  une programmation annuelle de 7 expositions en peinture, sculpture, céramique, photo,
+  estampe et parfois des installations.\n\nL’abstraction qui est au cœur de la sélection
+  fait aussi la place à des œuvres plus figurative. La ligne, le trait, l’architecture
+  sont un des fils conducteurs de la sélection. \n\nAussi les ruptures et les grands
+  écarts d’une exposition à l’autre sont une évidence fondamentale. Chaque artiste
+  reste singulier, inspiré-e mais pas rangé-e.\n\nLa particularité de la galerie Gaïa
+  : ses réserves avec **+900 œuvres de 70 artistes.**\n\nCes réserves sont disponibles
+  dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/ \"galerie gaillard\")
+  \ et actualisées quotidiennement.\n\nL’art doit nous secouer et nous aider à figurer
+  les pensées les plus abstraites, mais aussi à extraire l’essentiel de la complexité
   de nos émotions. C’est pour cela que dans ce lieu vous trouverez un foisonnement
   de formes artistiques , des démarches conceptuelles, des réalisations expérimentales
   de plasticiens, qui naviguent du point en passant par la ligne pour finir en trait
-  aussi large qu’un aplat monochrome !\n\nRestez curieux !\n\n[Interview par SUN RADIO
-  ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477 \"interview
-  elisabeth givre \")\n\n**Conseil, simplicité et confiance !**\n\nVous avez trouvé
-  une œuvre dans le [catalogue](https://galeriegaia.fr/catalogue/ \"catalogue de la
-  collection de  galerie gaia\") qui vous plait et vous hésitez ?\n\n**1.  Essayer
+  aussi large qu’un aplat monochrome !\n\nLaissez-vous surprendre !\n\n[Interview
+  par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
+  \"interview elisabeth givre \")\n\n**Conseil, simplicité et confiance !**\n\nVous
+  avez trouvé une œuvre dans le [catalogue](https://galeriegaia.fr/catalogue/ \"catalogue
+  de la collection de  galerie gaia\") qui vous plait et vous hésitez ?\n\n**1.  Essayer
   l’œuvre chez vous** pendant une semaine contre un chèque de caution de son montant.
   Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir
   en toute confiance.\n\n**2.**  **Paiement de  votre achat**  par virement ou carte
@@ -32,7 +30,7 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   cadeau. Pour les professionnels le financement peut se faire via la défiscalisation
   ou la location (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
   \"defiscalisation\") )\n\n**3**. **Livraison possible** dans le monde entier (Colissimo
-  - DHL - UPS). \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)Galerie
+  - DHL - UPS).\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)Galerie
   Gaïa a contemporary art gallery in Nantes\n\nThe **Galerie Gaïa** – an art gallery
   in Nantes - extends the spirit of a place created in **1978**.\n\nThe story begins
   with **L’Affiche** and in 1985 Norbert Marsal acquired the gallery which in 1999
