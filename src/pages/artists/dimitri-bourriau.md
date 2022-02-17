@@ -10,23 +10,17 @@ expose: true
 biography: |-
   # Dimitri Bourriau
 
-  Artiste français, installé sur la région nantaise, Dimitri Bourriau est graphiste de formation. Il s'intéresse depuis toujours à l'histoire et aux vestiges architecturaux.
+  > Le photographe qui capture l'Histoire des lieux
 
-  C’est en 2013 qu’il développe son intérêt pour la photographie de patrimoine en désuétude.
-
-  Sa première exploration fut un ancien cimetière de navires militaire.
-
-  Pour ces missions méticuleusement préparée Dimitri Bourriau sillonne le globe à la recherche de lieux en déclin. Il attire notre attention sur notre civilisation en constante mutation et notre mémoire éphémère.
-
-  Ses dernières découvertes l'ont conduit sur les traces du programme de vaisseau spatial soviétique Buran à Baïkonour (Kazakhstan).
-
-  En 2017 Dimitri Bourriau devient ambassadeur Manfrotto et en 2018 c'est Irix, la marque d'objectif ultra grand-angle d'origine Suisse qui propose à Dimitri Bourriau de devenir leur ambassadeur.
-
-  Ses images sont éditées en seulement 15 exemplaires pour vous garantir une meilleure exclusivité de ses photos.
-
-  En 2020 lauréat du concours Siena International Photo Awards (SIPA Contest) Drone Photo Adwards catégorie Urban pour Soviet space shuttles.
+  Dimitri Bourriau est un artiste français vivant à Nantes. Il a un diplôme de graphiste. En 2013, il s'est adonné à la photographie de patrimoine en ruine, en accord avec son intérêt pour les vestiges architecturaux et l'histoire. Il a commencé sa carrière de photographe avec une exploration d'un ancien cimetière de navires militaires. L'artiste sillonne la planète à la recherche de lieux en déclin afin d'y trouver inspiration et de capturer leur histoire. Via ces photographies, Dimitri Bourriau nous montre notre civilisation, en constante évolution, nous témoignant de nos souvenirs, seulement passagers. En 2017 Dimitri Bourriau devient ambassadeur de Manfrotto et d'Irix en 2018. Chacune de ses photographies sont éditées en seulement quinze exemplaires, garantissant une certaine exclusivité.
 
   [Vidéo](https://youtu.be/unMbFirj_Jo "dimitri bourriau") de Dimitri Bourriau avec Paul et Clément dans leurs aventures
+
+  > The photographer who captures the History of places
+
+  Dimitri Bourriau is a French artist living in Nantes. He has a degree in graphic design. In 2013, he took up photography of declined heritage, in line with his interest in architectural remains and history. He began his photography career with an exploration of an old military ship cemetery. The artist travels the world in search of decaying places to find inspiration and capture their history. Through these photographs, Dimitri Bourriau shows us our civilization, in constant evolution, witnessing our memories, only passing by. In 2017 Dimitri Bourriau became an ambassador od Manfrotto, and of Irix in 2018. Each of his photographs are edited in only fifteen copies, guaranteeing a certain exclusivity.
+
+  [Video](https://youtu.be/unMbFirj_Jo "dimitri bourriau") of Dimitri Bourriau with Paul and Clément in their adventures
 exhibitions: []
 works:
 - title: 'Teatro Colosseum '
@@ -37,7 +31,7 @@ works:
   dimensions:
     height: 100
     width: 150
-    depth: 0
+    depth: 
   description: Caisse US au choix
   price: 3500
   sold: false
@@ -50,7 +44,7 @@ works:
   dimensions:
     height: 149
     width: 100
-    depth: 0
+    depth: 
   description: ''
   price: 3500
   sold: false
@@ -120,7 +114,7 @@ works:
   dimensions:
     height: 100
     width: 150
-    depth: 0
+    depth: 
   description: Caisse US au choix
   price: 3500
   sold: false
@@ -133,7 +127,7 @@ works:
   dimensions:
     height: 100
     width: 150
-    depth: 0
+    depth: 
   description: Caisse US au choix
   price: 3500
   sold: false
