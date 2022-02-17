@@ -2,7 +2,7 @@
 template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Zoom_SiteGaia_2.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Zoom_SiteGaia_3.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_Email-headerw560xh280px_v32.jpg
 redirect_from:
 - "/plan/"
