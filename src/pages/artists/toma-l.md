@@ -105,6 +105,18 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Un type Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011801-RetroCrade-140x120cm_bd_1000p.jpg
+  technique: 'Technique mixte sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 140
+    width: 120
+    depth: 0
+  description: "Montage sur châssis  \n2022 prix sur demande "
+  price: 0
+  contextual: true
 - title: Catalogue Expo Rétro-Crade Toma-L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-01-29 à 15.27.07.png
@@ -118,18 +130,19 @@ works:
     "catalogue toma-l sans prix")'
   price: ''
   contextual: false
-- title: Un type Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011801-RetroCrade-140x120cm_bd_1000p.jpg
-  technique: 'Technique mixte sur toile '
+- title: Catalogue de la collection de Galerie Gaia
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
   fields: []
   styles: []
   dimensions:
-    height: 140
-    width: 120
+    height: 0
+    width: 0
     depth: 0
-  description: "Montage sur châssis  \n2022 prix sur demande "
-  price: 0
-  contextual: true
+  description: '[Télécharger le catalogue en date du 11/02/22](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Toma-L_Catalogue_GaiaGalerie_26Janvier2022.pdf
+    "catalogue des reserves ")'
+  price: ''
+  contextual: false
+  technique: Le catalogue comporte des images en situation et les prix
 - title: Deux grands types aux couleurs Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011401-DeuxGrandsTypesAux
     CouleursRétroCrades--180x200cm_bd_1000p.jpg
@@ -568,19 +581,6 @@ works:
   description: "2017"
   price: 400
   contextual: true
-- title: Le catalogue de Toma L pour Galerie Gaia
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Télécharger le catalogue en date du 11/02/22](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Toma-L_Catalogue_GaiaGalerie_26Janvier2022.pdf
-    "catalogue des reserves ")'
-  price: ''
-  contextual: false
-  technique: Le catalogue comporte des images en situation et les prix
 - title: Installation Wood cartel Toma L Nantes 2014
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
   technique: 'Technique mixte sur bois '
