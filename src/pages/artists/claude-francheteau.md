@@ -16,7 +16,7 @@ biography: |-
 
   > Simplicity mingled with honesty
 
-  Claude Francheteau was born in Nantes in 1971. He asserts himself as a "landscape painter", saying that it is an infinitely political attitude that claims painting as a place of work, that privileges the "Do". He advocates drawing, in its scrupulous honesty, and likes to show his work simply. The simplicity with which he paints and exhibits pleases his public, who, in front of his works, say they breathe, feel, and rise.
+  Claude Francheteau was born in Nantes in 1971. He asserts himself as a "landscape painter", saying that it is an infinitely political attitude that claims painting as a place of work, that privileges the "Make". He advocates drawing, in its scrupulous honesty, and likes to show his work simply. The simplicity with which he paints and exhibits pleases his public, who, in front of his works, say they breathe, feel, and rise.
 exhibitions:
 - title: Exposition personnelle
   location: Galerie Rouge Grenade   Paris XX
