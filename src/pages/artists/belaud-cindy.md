@@ -18,29 +18,13 @@ expose: true
 biography: |-
   # Cindy Belaud
 
-  **L’EXPERIMENTATION**
+  > L'expérimentation des formes et des couleurs
 
-  Se dire que rien n’est fini, on connaît le début, on ne se sait jamais la fin, même pas celle de sa vie.Débuter par une consigne, une envie, un désir. Une idée que l’on peut aussi appeler image, essayer qu’elle devienne sienne et visible par d’autres. On fait avec, on fait à partir.
+  Cindy Belaud, vit et travaille à Nantes et Rennes. Elle est diplômée d’un Master recherche en Arts plastiques - Pratiques et poétiques de l’Université de Rennes2 depuis 2015. Elle s’inscrit dans les questionnements du mouvement Support/Surface et adhère aux valeurs modernes et radicales de l’École du Bauhaus. Elle s’inspire de ses contemporains : Bruno Peinado, Damien Poulain, Meg Hopkin, Palefroi, Formes Vives, Momo Studio… Cindy Belaud expérimente, malmène et questionne: la forme, le motif, le médium. Elle aime se dire que définir les contours, les vides, les pleins et les matières d'une forme offrent un jeu infini. Aussi, la couleur n'est pas séduction, mais artistique, sociale, politique, psychologique.
 
-  **LA FORME**
+  > The experimentation of forms and colors
 
-  Se dire qu’une image est avant tout une composante de formes : trait, ligne, point. Définir ses contours, ses vides, ses pleins, ses matières. À partir de là, tout est possible, le jeu est infini.
-
-  **LA COULEUR**
-
-  Se dire que la couleur n’est pas séduction, elle est acte artistique, sociale, politique et psychologique. Démanteler les a priori, questionner ses limites et trouver de nouvelles manières de regarder. Percevoir autrement.
-
-  **LE GESTE**
-
-  Se dire que la production induit une action, un mouvement extérieur du corps. C’est prendre en compte ses faillibilités. Conserver la possibilité de se tromper, d’accepter l’accident bienvenu. Rester spontané**.**
-
-  Cindy Belaud, expérimente, malmène et questionne : la forme, le motif, le médium.
-
-  Son acte créatif n’est jamais limité, faire, faire encore, faire toujours, malgré les erreurs et les accidents. Les œuvres de Cindy Belaud sont des étapes de réflexion. L’expérimentation et la spontanéité sont intrinsèques à sa production plastique qui s’exprime sur papier, lors de confections d’objets imprimés, en sérigraphie ou avec des formes monumentales sur mur… Pour cette plasticienne, expérimentation suppose rigueur. Un protocole de création qu’il faut inventer et qu’elle s’impose. Sa rigueur permet une liberté poétique. Les travaux de Cindy Belaud sont des exercices aux formes simples : un formalisme immédiat. C’est pourtant là que le regardant se doit d’observer un mouvement de recul et se laisser convaincre par l’échange qui lui est proposé. Cindy Belaud souhaite transmettre et fournir un prêt à penser.
-
-  Cindy Belaud, vit et travaille à Nantes et Rennes. Diplômée d’un Master recherche en Arts plastiques - Pratiques et poétiques de l’Université de Rennes2 en 2015. Elle s’inscrit dans les questionnements du mouvement Support/Surface et adhère aux valeurs modernes et radicales de l’École du Bauhaus. Enfin, elle s’inspire de ses contemporains : Bruno Peinado, Damien Poulain, Meg Hopkin, Palefroi, Formes Vives, Momo Studio…
-
-  Ines Ben Brahim
+  Cindy Belaud, lives and works in Nantes and Rennes. She graduated with a Master's degree in Plastic Arts - Practices and Poetics from the University of Rennes2 in 2015. She is part of the questioning of the Support/Surface movement and adheres to the modern and radical values of the Bauhaus School. She is inspired by her contemporaries: Bruno Peinado, Damien Poulain, Meg Hopkin, Palefroi, Formes Vives, Momo Studio... Cindy Belaud experiments, maltreats and questions: the form, the motif, the medium. She likes to think that defining the contours, the voids, the solids and the materials of a shape offers an infinite game. Also, the color is not seduction, but artistic, social, political, psychological.
 works:
 - title: 'Scotch et Karcher l '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-scotch
@@ -52,7 +36,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: "2021 Collaboration avec Hoyhiro   \nEdition en 8 exemplaires"
   price: 600
   sold: false
@@ -67,7 +51,7 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: "2021 Collaboration avec Hoyhiro   \nEdition en 8 exemplaires"
   price: 600
   sold: false
