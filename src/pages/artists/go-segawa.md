@@ -130,7 +130,7 @@ works:
     depth: 7.5
   description: 50 Exemplaires
   price: 130
-  contextual: true
+  contextual: false
 - title: 'Oeuf posé I '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
   technique: Impression jet d'encre sur polyester
@@ -142,7 +142,7 @@ works:
     depth: 9.6
   description: Edition 50 exemplaires
   price: 130
-  contextual: true
+  contextual: false
 - title: Square in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
   technique: 'Sérigraphie impression jet d''encre sur polyester '
@@ -166,7 +166,7 @@ works:
     depth: 14.3
   description: Edition 20 exemplaires
   price: 180
-  contextual: true
+  contextual: false
 - title: 'Les gouttes V '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-gouttes-v-650.jpg
   technique: 'Impression jet d’encre sur polyester '
