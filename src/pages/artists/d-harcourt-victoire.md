@@ -39,7 +39,7 @@ works:
   description: ''
   price: 
   sold: false
-  contextual: true
+  contextual: false
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
@@ -81,7 +81,7 @@ works:
   description: ''
   price: 4800
   sold: false
-  contextual: true
+  contextual: false
 - title: Petite Catena
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-18X18X2-EA.jpg

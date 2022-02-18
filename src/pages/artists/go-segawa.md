@@ -70,7 +70,7 @@ works:
     depth: 7.5
   description: ''
   price: 130
-  contextual: true
+  contextual: false
 - title: Transparency IV - green
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_IV_green_2018.jpg
   fields: []
@@ -81,7 +81,7 @@ works:
     depth: 7.5
   description: ''
   price: 130
-  contextual: true
+  contextual: false
   technique: Sérigraphie impression jet d'encre sur polyester
 - title: Colline rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia colline_rouge_ed20_2017.jpg
@@ -94,7 +94,7 @@ works:
     depth: 14.2
   description: ''
   price: 180
-  contextual: true
+  contextual: false
 - title: Beans Rainbow
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Beans_Rainbow_2018_mail.jpg
   technique: 'Sérigraphie '
@@ -106,7 +106,7 @@ works:
     depth: 25
   description: Edition en 15 exemplaires sur commande
   price: 300
-  contextual: true
+  contextual: false
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
   technique: 'Sérigraphie impression jet d''encre sur polyester '
