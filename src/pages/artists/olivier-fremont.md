@@ -66,7 +66,7 @@ works:
     depth: 15
   description: "2020"
   price: 1500
-  contextual: true
+  contextual: false
 - title: Compression
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Compression 70x70x30
     tirage bronze I  sur VIII 9000 €.jpg
@@ -78,7 +78,7 @@ works:
   description: ''
   price: 9000
   sold: false
-  contextual: true
+  contextual: false
 - title: Compression oxydée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/compression oxydée
     68x115x20 6500 €.jpg

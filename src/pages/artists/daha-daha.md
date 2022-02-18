@@ -132,7 +132,7 @@ works:
     depth: 29
   description: ''
   price: 500
-  contextual: true
+  contextual: false
 - title: Cube plié Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cubes-plies.jpg
   technique: bois massif peint
@@ -156,7 +156,7 @@ works:
     peint sur demande '
   price: 490
   sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/66-daha-daha/"
 
