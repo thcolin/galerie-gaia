@@ -9,34 +9,16 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "# Brigitte Marionneau \n\nAprès la mise en forme de la pièce dans ses
-  lignes de force, Brigitte Marionneau poursuit sa réflexion dans une composition
-  d’ordre pictural, poétique et esthétique.\n\nEnsuite l'artiste prend des décisions
-  dans les différences de matière, de texture captant plus ou moins la lumière. S’opposent
-  des surfaces lisses, des enduits de terre ajoutée mis en relief, des inégalités
-  dans la matière, des vagues, des gravures…\n\nIl n’est pas aisé de décrire minutieusement
-  les étapes de création et ses enchaînements, nées d’une recherche et d’une intention
-  chaque fois uniques.\n\nLe recouvrement de la terre par l’engobe (enduit terreux)
-  posé en fines couches prépare les surfaces aux phases successives de lissage et
-  de polissage et exalte la matière.Les traces, les altérations, les accidents de
-  surface, les gravures sur terre ou sur engobe sont soulignés par des balayages successifs
-  d’engobe pâteux créant une matière proche que l’on pourrait qualifier d’épiderme.\n\nBrigitte
-  Marionneau exalte l’éclat de la matière par un lissage et un polissage minutieux.\n\nLa
-  Série « Contenir le vent »  \na commencé à partir d’une maquette d’argile façonnée
-  dans la masse. Sa forme a été très inspiratrice pour la suite des autres pièces,
-  qui se sont inscrites dans un dialogue permanent les unes avec les autres.\n\nLorsque
-  Brigitte Marionneau scelle le dernier morceau de terre d’une pièce, elle enferme
-  l’air contenu dans le volume. La terre devient alors une frontière vivante entre
-  l’intérieur et l’extérieur. La poche d’air enfermée, sous pression, lui permet de
-  tendre les surfaces et les lignes. Ses mains exercent une pression sur les parois
-  et déterminent les courbes du volume. L’air devient son allié pour bâtir.\n\nLa
-  terre est une matière souple, qui a sa plasticité, sa propre vitalité. Brigitte
-  Marionneau ne peut pas se contenter seulement d’un effet de matière. La texture
-  est recherchée en tant que vocabulaire plastique, soit par de larges enduits de
-  terre ajoutée sauvagement puis effacée en partie et réécrit comme un palimpseste,
-  soit par des surfaces gravées librement. L'artiste redessine la forme par le trait
-  , par le geste.\n\nBrigitte Marionneau laisse ainsi son empreinte, sa cartographie
-  personnelle au volume architecturé.\n\nCrédit photo Michael Franken"
+biography: |-
+  # Brigitte Marionneau
+
+  > De la couleur au noir et blanc, de l'architecture longiligne à la topographie humaine
+
+  Brigitte Marionneau est née en 1958. Elle a découvert la terre et la céramique Raku dans les années 1980. Elle a appris à travailler la terre, et a pris le temps nécessaire à comprendre ses spécificités et ses lois.  Après avoir travaillé des années durant des terres colorées, polies, enfumées, elle a décidé en 2006 d'abandonner la couleur et de commencer un nouveau cycle, celui du noir et du blanc. La série "Conternir le Vent" propose des formes abstraites, contraitement aux histoires que les pièces précédentes de la sculptrice racontaient. Ces formes abstraites se veulent épurées, construites par étapes. Comme un travail d'architecte, ayant sa souplesse. Brigitte précise qu'il y a toujours une relation au corps dans son travail. Ses pièces sont couchées ou debout, reposent légèrement, sont ancrées, et parlent de topographie humaine. Ainsi, après la mise en forme de la pièce dans ses lignes de force, Brigitte Marionneau poursuit sa réflexion dans une composition d’ordre pictural, poétique et esthétique. L’artiste prend ensuite des décisions dans les différences de matière, de texture captant plus ou moins la lumière. S’opposent des surfaces lisses, des enduits de terre ajoutée mis en relief, des inégalités dans la matière, des vagues, des gravures…
+
+  > From color to black and white, from linear architecture to human topography
+
+  Brigitte Marionneau was born in 1958. She discovered clay and Raku ceramics in the 1980s. She learned to work with clay, and took the necessary time to understand its specificities and laws.  After years of working with colored, polished and smoked clay, she decided in 2006 to abandon color and begin a new cycle, the one of black and white. The series "Conternir le Vent" proposes abstract forms, contrary to the stories that the sculptor's previous pieces told. These abstract forms are purified, built in stages. Like an architect's work, having its flexibility. Brigitte specifies that there is always a relationship to the body in her work. Her pieces lie or stand, rest lightly, are anchored, and speak of human topography. Thus, after the shaping of the piece in its lines of force, Brigitte Marionneau pursues her reflection in a composition of pictorial, poetic and aesthetic order. The artist then makes decisions in the differences of matter, of texture capturing more or less the light. Opposite smooth surfaces, coatings of earth added in relief, inequalities in the material, waves, engravings...
 works:
 - title: Contenir le vent 9-X
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marionneau-Contenir
