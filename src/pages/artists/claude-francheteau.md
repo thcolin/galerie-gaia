@@ -7,20 +7,16 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Claude Francheteau \n\nClaude Francheteau est né à Nantes, en 1971.\n\n\"I
-  was lying on my back, near the river, my eyes plunged into the deep blue of the
-  sky. At the edge of my field of vision, I could see the roofs and chimneys of buildings,
-  lost in the vast area and giving it a sense. What I saw could be a way to paint.\"\n\n\"J’étais
-  allongé sur le dos près du fleuve, les yeux plongés dans le bleu profond du ciel.
-  \ \nÀ l’extrémité de mon champ de vision, j’apercevais les toits et les cheminées
-  des immeubles, perdus dans ce vaste espace et qui lui donnaient un sens.  \nCe que
-  je voyais pouvait être une voie à peindre.\"\n\nClaude Francheteau s'affirme délibérément
-  comme \" peintre paysagiste\".\n\nC’est une attitude infiniment politique qui revendique
-  la peinture comme lieu de travail, qui privilégie le Faire. Il prône le dessin,
-  « la probité du dessin\", l’incontournable dessin et préfère simplement faire voir.\n\nIl
-  peint. Et généralement son public le lui rend bien qui, face à ses travaux, dit
-  respirer, ressentir, s’élever. Prendre un peu de hauteur.\n\nNorbert Marsal- Carl
-  de Châteauneuf."
+biography: |-
+  # Claude Francheteau
+
+  > La simplicité mêlée à l'honnêteté
+
+  Claude Francheteau est né à Nantes en 1971. Il s'affirme comme "peintre paysagiste", exprimant que c’est une attitude infiniment politique qui revendique la peinture comme lieu de travail, qui privilégie le Faire. Il prône le dessin, dans son honnêteté scrupuleuse, et aime montrer son travail simplement. La simplicité avec laquelle il peint et expose plaît à son public, qui face à ses travaux dit respirer, ressentir, s’élever.
+
+  > Simplicity mingled with honesty
+
+  Claude Francheteau was born in Nantes in 1971. He asserts himself as a "landscape painter", saying that it is an infinitely political attitude that claims painting as a place of work, that privileges the "Do". He advocates drawing, in its scrupulous honesty, and likes to show his work simply. The simplicity with which he paints and exhibits pleases his public, who, in front of his works, say they breathe, feel, and rise.
 exhibitions:
 - title: Exposition personnelle
   location: Galerie Rouge Grenade   Paris XX
