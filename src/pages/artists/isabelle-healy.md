@@ -95,7 +95,7 @@ works:
     height: 38
     width: 20
     depth: 6
-  description: "Le 6/8 est réservé -   \nbientôt disponible la 7/8 (janvier 2022)"
+  description: "La 7/8 est réservée (18/02/22)  \nSculpture disponible sur commande"
   price: 1800
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
@@ -229,7 +229,7 @@ works:
     depth: 20
   description: 'Disponible sur commande
 
-'
+    '
   price: 7600
   sold: false
   contextual: false
