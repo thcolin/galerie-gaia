@@ -23,6 +23,19 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: Beans I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-Beans_I.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 6.5
+    width: 6.5
+    depth: 6.5
+  description: "2016"
+  price: 130
+  contextual: false
 - title: Black cube in blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
   technique: 'impression UV sur polycarbonate '
@@ -45,7 +58,7 @@ works:
     depth: 8.5
   description: Sur commande
   price: 130
-  contextual: true
+  contextual: false
 - title: Transparency III - blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
   technique: Sérigraphie impression jet d'encre sur polyester
