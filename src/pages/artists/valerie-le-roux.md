@@ -63,19 +63,6 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Végétal bleu sur fond vert argile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143638.jpg
-  technique: sérigraphie signée numérotée 21/50
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: ''
-  price: 90
-  contextual: true
 - title: Algues jaune et bleu pâle
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-
     algues jaune bleu pale 32X65  43-48.jpg
