@@ -36,7 +36,7 @@ biography: "# Pierre Tual \n\n**\"Quand je plie une feuille de métal, l'espace 
   des Aulnays 61  \n1991 - 2001 Enseignant au Quai, Ecole d’Art de Mulhouse"
 works:
 - title: Louxor
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-louxor-128x134x88.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-louxor-128x134x88.jpg
   technique: Acier corten
   fields:
   - Sculpture
@@ -51,7 +51,7 @@ works:
   sold: false
   contextual: false
 - title: Primitive N°1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg
   fields: []
   styles: []
   dimensions:
@@ -64,7 +64,7 @@ works:
   technique: 'fer recuit au four '
   description: Série architecture 1999
 - title: Céramique 2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique2-13x24x20.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique2-13x24x20.jpg
   technique: Terre émaillée
   fields: []
   styles: []
@@ -75,9 +75,9 @@ works:
   description: ''
   price: 800
   sold: false
-  contextual: true
+  contextual: false
 - title: Primitive N°2
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitives-n-2.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitives-n-2.jpg
   technique: 'Fer recuit au four '
   fields: []
   styles: []
@@ -90,7 +90,7 @@ works:
   sold: false
   contextual: false
 - title: Céramique 1
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique1-25x22x17.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique1-25x22x17.jpg
   technique: Terre émaillée
   fields:
   - Céramique
@@ -102,9 +102,9 @@ works:
   description: ''
   price: 800
   sold: false
-  contextual: true
+  contextual: false
 - title: Primitive N°3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg
   technique: Fer recuit au four
   fields: []
   styles: []
@@ -117,7 +117,7 @@ works:
   sold: false
   contextual: false
 - title: Céramique 3
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique3-27x25x17.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique3-27x25x17.jpg
   technique: Terre émaillée
   fields:
   - Céramique
@@ -129,9 +129,9 @@ works:
   description: ''
   price: 1000
   sold: false
-  contextual: true
+  contextual: false
 - title: 'Primitives 1 '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitives1.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitives1.jpg
   technique: Fer recuit au four
   fields:
   - Sculpture
@@ -146,7 +146,7 @@ works:
   sold: false
   contextual: false
 - title: Atelier Pierre Tual
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-atelier.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-atelier.jpg
   technique: ''
   fields: []
   styles: []
@@ -161,5 +161,11 @@ works:
   sold: false
   contextual: true
 exhibitions: []
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
