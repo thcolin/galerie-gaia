@@ -23,6 +23,33 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: Life II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-Life_II.jpg
+  technique: 'impression jet d’encre sur polyester '
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 7.5
+    depth: 7.5
+  description: "impression jet d’encre sur polyester \n\n50 exemplaires limités \n\nCréation
+    et tirage en 2014"
+  price: 130
+  contextual: false
+- title: goutte rouge
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-goutte rouge.jpg
+  technique: 'impression jet d’encre sur polyester      '
+  fields: []
+  styles: []
+  dimensions:
+    height: 6.6
+    width: 11.3
+    depth: 11.3
+  description: "50 exemplaires \n\nCréation et tirage en 2011"
+  price: 200
+  contextual: false
 - title: 'Snake I - blue '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
   technique: impression UV sur polycarbonate
