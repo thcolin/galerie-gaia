@@ -41,59 +41,71 @@ works:
 - title: Les gouttes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-les_gouttes_ed50.jpg
-  technique: 'impression UV sur polycarbonate, vernis   '
+  technique: impression UV sur polycarbonate
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Ed.6 2020
+    height: 18.4
+    width: 29.4
+    depth: 29.4
+  description: |-
+    Ed.6 2020
+
+    Vernis
   price: 1600
   contextual: false
 - title: Green in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Green_in_Sphere_UV_print_2021.jpg
-  technique: 'impression UV sur polycarbonate, vernis '
+  technique: Impression UV sur polycarbonate
   fields: []
   styles: []
   dimensions:
     height: 15
     width: 15
     depth: 15
-  description: Ed.6 2021
+  description: |-
+    Ed.6 2021
+
+    Vernis
   price: 700
   contextual: false
 - title: Black Cube in Blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Black_Cube_in_Blue_UV_2020.jpg
-  technique: impression UV sur polycarbonate, vernis
+  technique: Impression UV sur polycarbonate
   fields: []
   styles: []
   dimensions:
     height: 15
     width: 15
     depth: 15
-  description: Ed.6 2020
+  description: |-
+    Ed.6 2020
+
+    Vernis
   price: 700
   contextual: false
 - title: 'Goutte collante I '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-goutte_collante_I_UV_print_2018.jpg
-  technique: Impression UV sur polycarbonate, vernis
+  technique: Impression UV sur polycarbonate
   fields: []
   styles: []
   dimensions:
     height: 17
     width: 12.8
     depth: 12.8
-  description: Ed.6   2018
+  description: |-
+    Ed.6   2018
+
+    Vernis
   price: 700
   contextual: false
 - title: 2 balles collées I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-2_balles_collées_I_UV_print_2018.jpg
-  technique: 'impression UV sur polycarbonate '
+  technique: 'Impression UV sur polycarbonate '
   fields: []
   styles: []
   dimensions:
@@ -119,7 +131,7 @@ works:
 - title: Beans I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Beans_I.jpg
-  technique: impression UV sur polycarbonate
+  technique: Impression UV sur polycarbonate
   fields: []
   styles: []
   dimensions:
