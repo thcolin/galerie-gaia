@@ -8,7 +8,7 @@ birth: "0"
 death: "0"
 expose: true
 biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFFE
-  GAROUSTE"
+  GAROUSTE LINDSTROM"
 exhibitions: []
 works:
 - title: 'Traquandi - Sans Titre (noir) '
