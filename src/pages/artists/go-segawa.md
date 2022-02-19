@@ -23,6 +23,19 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: Black Cube in Blue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-Black_Cube_in_Blue_UV_2020.jpg
+  technique: impression UV sur polycarbonate, vernis
+  fields: []
+  styles: []
+  dimensions:
+    height: 15
+    width: 15
+    depth: 15
+  description: Ed.6 2020
+  price: 700
+  contextual: false
 - title: 'Goutte collante I '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-goutte_collante_I_UV_print_2018.jpg
