@@ -11,6 +11,20 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: Bengt Lindström sans titre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia lindstrom.jpg
+  technique: Technqiue mixte sur toile
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 107
+    width: 77
+    depth: 0
+  description: Œuvre encadrée en caisse américaine noire
+  price: 6500
+  contextual: false
 - title: 'Traquandi - Sans Titre (noir) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
   technique: Aquatinte 12/19 2013
