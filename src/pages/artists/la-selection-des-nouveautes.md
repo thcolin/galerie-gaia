@@ -52,22 +52,19 @@ works:
     "cleon peterson") 2021
   price: 900
   contextual: false
-- title: Prolongation de l'exposition Rétro-Crade jusqu'au 19 Février
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_143958.jpg
-  technique: Technique mixte sur papier velin d'Arches caisse amércaine chêne
+- title: Bengt Lindstrom
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@lindstrom-107X77ES.jpg
+  technique: 'Technique mixte sur toile '
   fields:
   - Peinture
   styles:
   - Figuratif
   dimensions:
-    height: ''
-    width: ''
+    height: 107
+    width: 77
     depth: 0
-  description: |-
-    # [Toma l](https://galeriegaia.fr/artists/toma-l/ "toma labarthe")
-
-    Catalogue sur demande ou téléchargeable [ici](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia Toma-L_CatalogueExposition_RetroCrade_GaiaGalerie.pdf "catalogue expo toma-l")
-  price: ''
+  description: Œuvre encadrée caisse américaine noire
+  price: 6500
   contextual: false
 - title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_192231.jpg

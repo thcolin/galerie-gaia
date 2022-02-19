@@ -24,7 +24,7 @@ works:
     depth: 0
   description: Œuvre encadrée en caisse américaine noire
   price: 6500
-  contextual: false
+  contextual: true
 - title: 'Traquandi - Sans Titre (noir) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
   technique: Aquatinte 12/19 2013
