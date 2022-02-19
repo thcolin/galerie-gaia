@@ -23,6 +23,35 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: 'Dark & Yellow   '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-Dark_&_Yellow.jpg
+  technique: 'impression jet d’encre sur polyester '
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 7.5
+    depth: 7.5
+  description: "50 exemplaires limités \n\nCréation et tirage en 2016"
+  price: 130
+  contextual: false
+- title: MASS
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-MASS.jpg
+  technique: 'impression jet d’encre sur polyester  '
+  fields: []
+  styles: []
+  dimensions:
+    height: 6
+    width: 12
+    depth: 12
+  description: |-
+    25 exemplaires limités
+
+    Création et tirage en 2019
+  price: 160
+  contextual: false
 - title: Life II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Life_II.jpg
@@ -158,14 +187,14 @@ works:
 - title: Beans I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Beans_I.jpg
-  technique: Impression UV sur polycarbonate
+  technique: 'impression jet d’encre sur polyester   '
   fields: []
   styles: []
   dimensions:
     height: 6.5
     width: 6.5
     depth: 6.5
-  description: "2016"
+  description: "50 exemplaires limités \n\nCréation et tirage en 2016"
   price: 130
   contextual: false
 - title: Black cube in blue
