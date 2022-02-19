@@ -23,6 +23,44 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: 'Snake I - blue '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
+  technique: 'impression UV sur polycarbonate, vernis   '
+  fields: []
+  styles: []
+  dimensions:
+    height: 22
+    width: 22
+    depth: 22
+  description: Ed.6 2020
+  price: 1200
+  contextual: false
+- title: Les gouttes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-les_gouttes_ed50.jpg
+  technique: 'impression UV sur polycarbonate, vernis   '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Ed.6 2020
+  price: 1600
+  contextual: false
+- title: Green in Sphere
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-Green_in_Sphere_UV_print_2021.jpg
+  technique: 'impression UV sur polycarbonate, vernis '
+  fields: []
+  styles: []
+  dimensions:
+    height: 15
+    width: 15
+    depth: 15
+  description: Ed.6 2021
+  price: 700
+  contextual: false
 - title: Black Cube in Blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Black_Cube_in_Blue_UV_2020.jpg
