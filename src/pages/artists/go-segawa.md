@@ -23,6 +23,34 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: 'Snake I - blue '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
+  technique: impression UV sur polycarbonate
+  fields: []
+  styles: []
+  dimensions:
+    height: 22
+    width: 22
+    depth: 22
+  description: |-
+    Ed.6 2020
+
+    Vernis
+  price: 1200
+  contextual: false
+- title: 'œuf posé I  '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-oeuf_posé_I.jpg
+  technique: 'impression jet d’encre sur polyester   '
+  fields: []
+  styles: []
+  dimensions:
+    height: 5.6
+    width: 9.6
+    depth: 9.6
+  description: "50 exemplaires limités \n\nCréation en 2015 \n\nTirage en 2016"
+  price: 130
+  contextual: false
 - title: 'Dark & Yellow   '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Dark_&_Yellow.jpg
@@ -78,21 +106,6 @@ works:
     depth: 11.3
   description: "50 exemplaires \n\nCréation et tirage en 2011"
   price: 200
-  contextual: false
-- title: 'Snake I - blue '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
-  technique: impression UV sur polycarbonate
-  fields: []
-  styles: []
-  dimensions:
-    height: 22
-    width: 22
-    depth: 22
-  description: |-
-    Ed.6 2020
-
-    Vernis
-  price: 1200
   contextual: false
 - title: Les gouttes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
