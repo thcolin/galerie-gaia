@@ -277,18 +277,6 @@ works:
   description: "2022 caisse américaine cadre en chêne  \nprix sur demande"
   price: ''
   contextual: true
-- title: Un autre type Rétro Crade aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120305-UnAutreTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: 'Technique mixte sur papier Velin d''arche '
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
-  price: ''
-  contextual: true
 - title: Un type Rétro Crade couleur carbone
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
     RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
