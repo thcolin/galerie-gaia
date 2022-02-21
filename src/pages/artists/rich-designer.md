@@ -65,6 +65,20 @@ works:
   description: "A gauche le support recepteur de la lumière émise par la lampe de
     droite.  \nLes 2 éléments doivent être à une distance minimum de 30cm.  \nLa lampe
     (Led) est équipée d'une télécommande pour une variation dynamique"
+- title: 'Rich Designer Isabelle Rolland Christophe Hascoet '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/RICH _ 2021_Photo
+    Denis Esnault.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 exhibitions:
 - title: 'MAD (Multiple Art Days) '
   location: Paris Hôtel de la Monnaie
