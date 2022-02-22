@@ -7,46 +7,16 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Isabelle Healy\n\nIsabelle Healy est née en 1967 à Paris. Après des
-  études de communication à l'ESCOM Lyon , puis elle devient attachée de presse dans
-  des maisons de luxe et pigiste pour la presse et enfin décoratrice d'intérieur pour
-  l'agence Sublim'Home.  \nEn parallèle, dès 1990 elle suit des cours de dessin et
-  de peinture à St Étienne dans l'atelier de Madame Véran, diplômée des Beaux-arts
-  de Paris et major d'anatomie, une forte personnalité qui durant sept années lui
-  apprendra toutes les techniques de dessin et de peinture. Copier les maîtres classiques
-  , peindre à vue en extérieur, faire ses propres compositions… Puis l'envie de changer
-  d'enseignement s'impose, découvrir une nouvelle approche, d'autres perceptions ,
-  un nouveau maître… Serge Tziganov (EDAC St Étienne) sera celui ci durant 7 années,
-  études des perspectives, dessin académique , modèles vivants…\n\nUn drame personnel
-  survient alors… « L'aboutissement d'un deuil normal n'est en aucune façon l'oubli
-  du disparu, mais l'aptitude à situer à sa juste place dans une histoire achevée,
-  l'aptitude à réinvestir pleinement les activités vivantes, les projets et les désirs
-  qui donnent de la valeur à l'existence. » Monique Bydlowski , « Je rêve un enfant
-  ».\n\nArrivée alors à Lyon en 2005, elle s'oriente vers le modelage de la terre
-  , puis de la cire, la technique du bronze, et la sculpture . Huit années de cours
-  en atelier chez un sculpteur lyonnais. Au gré de l'art et de son parcours, Isabelle
-  vide sa besace de tout ce qui fait battre son cœur.\n\n« La personne résiliente
-  transforme le métal de la souffrance en ou de la sublimation et de la réflexion
-  » Boris Cyrulnik\n\nObserver, apprendre à regarder, raconter une histoire est une
-  quête quotidienne pour trouver les personnages émouvants et touchants qui nous ressemblent,
-  à prendre vie sous ses doigts. Le modelage de la terre et de la cire des techniques
-  différentes, ils exigent de développer la palette des personnages tantôt académiques,
-  tantôt contemporains, dans des situations poétiques, souvent en équilibre comme
-  dans la vie. Isabelle exprime dans ses sculptures , La Joie de Vivre, l'énergie,
-  la vitalité, le mouvement, l'élan de Vie, la fraternité et la grâce.\n\n\" L'artiste
-  doit aimer la Vie et nous montrer qu'elle est belle « Anatole France\n\nLes liens
-  universels tels que l'amour, l'enfance, l'amitié, la famille sont autant de thèmes
-  qui lui sont chers, de formidables sources d'inspiration. Les pièces deviennent
-  ainsi élégantes, graciles, habitées d'émotions. La facture contemporaine donne cette
-  liberté nécessaire.\n\nSes sculptures sont des poèmes à la fois intimes et universels
-  qui représentent la légèreté de l'instant avec la volonté de montrer un bonheur
-  serein et lumineux souvent éphémère.\n\nElle pratique une représentation des sentiments
-  humains et des moments partagés au fil du temps qui passe. Arrivant du dessin, elle
-  va vers une forme de stylisation, vers les vertus du dépouillement afin de garder
-  l'essentiel d'un geste, d'un mouvement, d'une attitude ou d'une intention, elle
-  va vers l'absolu.\n\n» (…) car la Vie n'est pas un choix que la capacité de maintenir
-  un état d'équilibre , au milieu du changement des évènements « .   \ntiré du livre
-  de Baghavad-Gita"
+biography: |-
+  # Isabelle Healy
+
+  > "L'artiste doit aimer la vie et nous montrer qu'elle est belle" Anatole France
+
+  Isabelle Healy est née en 1967 à Paris. Après des études de communication à l’ESCOM Lyon, elle devient attachée de presse dans des maisons de luxe, puis décoratrice d’intérieur pour l’agence Sublim’Home. En parallèle, de 1990 à 1997 elle a suivi des cours de dessin et de peinture à St Étienne dans l’atelier de Madame Véran. Puis, l'artiste va changer d'enseignant afin de découvrir de nouvelles approches, et s'orientera vers son nouveau maître, Serge Tziganov. Arrivée alors à Lyon en 2005, elle s’oriente vers le modelage de la terre, de la cire, la technique du bronze, et la sculpture. Elle passera huit ans à suivre des cours chez un sculpteur lyonnais. Au gré de son parcours, Isabelle vide sa besace de tout ce qui fait battre son cœur. Isabelle exprime dans ses sculptures la Joie de Vivre, l’énergie, la vitalité, le mouvement, l’élan de Vie, la fraternité et la grâce. “L’artiste doit aimer la Vie et nous montrer qu’elle est belle" dit Anatole France. Les liens universels tels que l’amour, l’enfance, l’amitié, la famille sont autant de thèmes qui lui sont chers, de formidables sources d’inspiration. Les pièces deviennent ainsi élégantes, graciles, habitées d’émotions. La facture contemporaine donne cette liberté nécessaire. Elle pratique une représentation des sentiments humains et des moments partagés au fil du temps qui passe.
+
+  > "The artist must love life and show us that it is beautiful" Anatole France
+
+  Isabelle Healy was born in 1967 in Paris. After studying communication at ESCOM Lyon, she became a press agent for luxury houses, then an interior designer for the Sublim'Home agency. At the same time, from 1990 to 1997, she took drawing and painting classes in St Etienne in Madame Véran's workshop. Then, the artist changed teachers in order to discover new approaches, and turned to her new master, Serge Tziganov. Arriving in Lyon in 2005, she turned to clay modeling, wax, bronze technique, and sculpture. She spent eight years taking classes with a sculptor in Lyon. Along the way, Isabelle empties her bag of everything that makes her heart beat. Isabelle expresses in her sculptures the Joy of Living, energy, vitality, movement, the impulse of Life, fraternity and grace. "The artist must love Life and show us that it is beautiful" said Anatole France. Universal things such as love, childhood, friendship, family are all themes that are dear to her, formidable sources of inspiration. The pieces thus become elegant, graceful, inhabited by emotions. The contemporary style gives this necessary freedom. She practices a representation of human feelings and shared moments as time passes.
 exhibitions: []
 works:
 - title: Une île en extérieur
