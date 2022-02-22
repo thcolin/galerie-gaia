@@ -7,106 +7,22 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Isthme - Isabelle Thomas \n\n« Peindre est ma respiration. Elle m'est
-  vitale. Elle agit comme une force ... Ma peinture est alors ivresse, réjouissance
-  et grâce comme vertige ou torpeur. »\nIsthme\n\n[Interview Décadrée de Isthme par
-  la Galerie Gaïa](https://youtu.be/lwznot2FJRs \"interview isthme par galerie gaia\")\n\n**Biographie**\n\nIsthme,
-  de son nom d’artiste, travaille sur les bords de Loire, à Nantes, où elle est née
-  en décembre 1963.  \nElle suit d’abord des études de Sciences Politiques à Bordeaux
-  puis en Aménagement et Gestion de Projets Urbains à Paris. Durant une dizaine d’années,
-  elle exerce dans plusieurs cabinets et collabore à Paris avec des architectes et
-  paysagistes.\n\nAu cours de ses études à Bordeaux, elle fréquente les expositions
-  du CAPC, anciens entrepôts à vin réhabilités pour accueillir d’importantes expositions
-  d’artistes contemporains. Ses premiers grands chocs artistiques sont ressentis là
-  lors de l’exposition monumentale d’Anselm Kieffer puis de celle de Richard Long
-  en 1985. Elle en sort bouleversée tant par la monumentalité des œuvres de Kiefer
-  que par la pureté des formes de celles de Long. En parallèle à son activité professionnelle,
-  elle suit des cours de dessins et de peinture à la cité des artistes d’Auvers-sur-Oise.\n\nEn
-  2000, elle part vivre en famille à Montréal, au Canada, où elle obtiendra la nationalité
-  canadienne. Et, c’est à partir de cette année- là qu’elle s’engage définitivement
-  dans une carrière artistique, passant trois années à l’École des Beaux-Arts Appliquées
-  Saydie Bronfman de Montréal. De son premier métier, elle garde la passion et le
-  goût pour l’espace, les lignes épurées, les pleins, les vides, les transparences,
-  les opacités...\n\nLes références qui nourrissent son travail artistique sont larges
-  et se portent autant vers les bâtiments des architectes comme\n\nMies Van Der Rohe
-  pour le Less is more, du japonais Tadao Ando pour la lumière que la sculpture de
-  Richard Serra ou de Dani Karavan pour leurs interventions minimalistes sur l’espace
-  public, ou encore la peinture du Color Field Painting (Robert Motherwell, Clyfford
-  Still, Charles Pollock) et la peinture contemporaine de Lee U Fan, artiste coréen,
-  Pierre Soulages, Fabienne Verdier, Geneviève Asse sans oublier les encres de Gao
-  XingJiang.\n\nIsthme a sa première exposition à Montréal en 2003 avec une dizaine
-  de peintures et de dessins. Entre 2003 et 2007, elle expose dans plusieurs galeries
-  et centres d’art montréalais avant de rentrer en France pour s’installer à Nantes,
-  sa ville natale, et vivre à proximité de l’océan. Elle est une passionnée de voyages
-  au large à la barre de voiliers. Elle navigue dès qu’elle le peut en Atlantique
-  et en Méditerranée. Elle a à son actif plusieurs traversées de l’océan atlantique.
-  Plusieurs séries de toiles, Nuits en Mer, et de dessins, Traversée ou Estuaire,
-  ont émergé de ces moments océaniques.\n\nAprès avoir été sélectionnée plusieurs
-  années dans les salons parisiens de Garches et Réalités Nouvelles et de nombreux
-  centres culturels d’art, elle rejoint en 2018 la galerie nantaise Gaia. Celle-ci
-  lui organise une première exposition individuelle en juin- juillet 2019.\n\nIsthme
-  est présente dans de nombreuses collections privées en Amérique du Nord et en Europe.\n\n**La
-  démarche artistique**\n\n« Je réalise peu d’esquisse avant de me lancer sur une
-  toile. Je ne pars pas à l’aveugle pour autant. J’ai toujours une « vision-intuition
-  » qui me permet de poser un premier jet sur une grande toile d’au moins un mètre
-  soixante pour aller chercher le geste le plus ample, vivant, et généreux possible.
-  Il s’agit dans cette première étape du travail d’aller à la recherche d’une forme
-  et de sa couleur. Puis à partir de celle-ci, débute ensuite le lent et long travail
-  de composition, d’agencement où chaque ligne doit répondre à une autre, où le petit
-  détail est aussi important que le grand, où chaque couleur doit trouver sa proportion.
-  Ce travail d’ajustement et de remise en cause continue se fait jour après jour jusqu’à
-  ce qu’un équilibre formel et coloré s’impose sur le tableau. Le temps n’a pas d’emprise.
-  L’enjeu dans cette étape est de conserver la fraîcheur, la spontanéité du début.\n\nChaque
-  toile est alors une aventure qui possède sa propre histoire, sa propre mémoire.
-  Cette « vision-intuition » trouve sa source dans la nature lors d’une escapade en
-  mer, une balade en forêt ou dans un grand paysage et qui est restée là, quelque
-  part dans ma mémoire. Je pense à mes séries comme Voyage en Argolide, Nuits en Mer
-  ou celle sur laquelle je travaille actuellement Allongée dans l’herbe. Cette dernière
-  a surgi l’été dernier dans le sud de la France sur les bords du Rhône lors d’un
-  moment dans l’herbe à regarder les éclats de lumière entre les feuilles des platanes.
-  Alors est née l’envie\n\nde transcrire sur la toile cette lumière et avec elle,
-  la jouissance de cette vision. Dans ces toiles, c’est le contraste du clair- obscur
-  que je recherche en laissant de grandes zones foncées de la couleur vert- de-vessie
-  jouxtées des blancs bleutés. Mais ici, la lumière provient de l’arrière du tableau,
-  comme dans les vitraux des églises.\n\nMon objectif pictural est de réussir à partager
-  des sensations communes de nature ou des sensations plus inédites (série Nuits en
-  Mer) lorsqu’il s’agit de moments vécus la nuit à la barre d’un bateau. La peinture
-  est alors un miroir : sensation de l’artiste-œuvre-sensation du spectateur. Cette
-  approche est très matisséenne dans le sens où le tableau est une émergence, une
-  ouverture vers quelque chose d’autre, un au-delà. Les éclats de blancs bleutés de
-  mes œuvres sont une invitation à plonger dans ceux- ci et même à s’envoler au travers.
-  Cette invitation me séduit.\n\nPour résumé, mon travail artistique actuel est à
-  la fois le résultat d’une « vision-intuition » suivi d’un travail d’ordonnancement
-  des couleurs et des formes. Sans la sensation, ma peinture m’apparait comme désincarnée,
-  sans la pensée, elle flotte. Si je voulais m’inscrire dans un courant artistique,
-  je dirais que mon travail chemine vers une abstraction sensible. »\n\nIsthme\n\nLa
-  démarche d'Isthme est toute d'équilibre entre improvisation sensible et rigueur
-  intellectuelle, entre  construction purement plastique et frémissement d'une vision
-  naturelle transposée par la poésie, entre suggestion et évidence picturale, entre
-  abstraction et allusion à une réalité elliptique.\n\nLes collages, les peintures
-  sur papier, les toiles de grand format, conçues en diptyques et en polyptyques jusqu'à
-  constituer des séries qui viennent s'imposer au regard dans les belles architectures
-  où Isthme les expose, deviennent le médium d'une seule et même démarche. Les collages
-  s'assemblent et se juxtaposent comme des « fragments de nature », d'une nature qui
-  se trouverait ici reconstituée dans un ordre inattendu et personnel, par une vision
-  plus proche de la réalité sensible qu'une restitution fidèle du monde. Les déchirures
-  des papiers introduisent le hasard et la fulgurance, même si la position réfléchie
-  de chaque morceau du collage et l'équilibre dynamique de la composition semblent
-  être l'objectif principal d’Isthme.\n\nIsthme fait jouer des accords audacieux,
-  accords de complémentaires en apparence mais savamment détournés et enrichis par
-  des tons inattendus. Les couleurs sont portées par une écriture très libre selon
-  une approche assez rationnelle du chromatisme et pour une proposition novatrice
-  et personnelle de l'harmonie et du rythme plastique.\n\nDans ses peintures abstraites
-  et radicales, qui ne semblent n'avoir ni haut ni bas, c'est la sensation spatiale
-  qui domine, et la dispersion des éléments colorés sur la surface, quelle qu'en soit
-  l'étendue, laisse à penser que nous sommes devant un détail ou un fragment d'une
-  œuvre beaucoup plus grande encore. L'écriture, comme bribes d'un discours de formes
-  colorées traversant la surface, évoquent des sons qui résonneraient dans le vaste
-  espace de la mémoire.\n\nToutes ces incursions dans les différentes techniques et
-  les champs de création sensiblement mais méthodiquement, explorées constituent  une
-  œuvre nouvelle et originale où la volonté intellectuelle règne mais où la main est
-  toujours présente.\n\nDaniel Lacomme\n\n[galerie-gaia-isthme-interview-entiere.mp4](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-interview-entiere.mp4
-  \"galerie-gaia-isthme-interview-entiere.mp4\")"
+biography: |-
+  # Isthme - Isabelle Thomas
+
+  « Peindre est ma respiration. Elle m'est vitale. Elle agit comme une force... Ma peinture est alors ivresse, réjouissance et grâce comme vertige ou torpeur. » Isthme
+
+  [Interview Décadrée de Isthme par la Galerie Gaïa](https://youtu.be/lwznot2FJRs "interview isthme par galerie gaia")
+
+  [galerie-gaia-isthme-interview-entiere.mp4](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-interview-entiere.mp4 "galerie-gaia-isthme-interview-entiere.mp4")
+
+  > Des débuts Montréalais avant de revenir aux sources Nantaises
+
+  Isthme est née à Nantes en 1963. Elle étudia les Sciences Politiques à Bordeaux puis l'Aménagement et Gestion de Projets Urbains à Paris. Ses premiers grands chocs artistiques sont ressentis lors de l’exposition monumentale d’Anselm Kieffer puis de celle de Richard Long en 1985, à Bordeaux. En 2000, elle s’engage définitivement dans une carrière artistique, passant trois années à l’École des Beaux-Arts Appliquées Saydie Bronfman de Montréal, ayant déménagé là bas. De son premier métier, elle garde la passion et le goût pour l’espace, les lignes épurées, les pleins, les vides, les transparences, les opacités… Les références qui nourrissent son travail artistique sont larges et se portent autant vers les bâtiments des architectes comme Mies Van Der Rohe, Tadao Ando, et que la sculpture de Richard Serra ou de Dani Karavan, la peinture du Color Field Painting... Isthme a sa première exposition à Montréal en 2003 avec une dizaine de peintures et de dessins. Entre 2003 et 2007, elle expose dans plusieurs galeries et centres d’art montréalais avant de rentrer à Nantes. Après avoir été sélectionnée plusieurs années dans les salons parisiens de Garches et Réalités Nouvelles et de nombreux centres culturels d’art, elle rejoint en 2018 la galerie nantaise Gaïa, où elle aura son exposition personnelle en juin-juillet 2019. Isthme décrit sa démarche artistique : « Je réalise peu d’esquisse avant de me lancer sur une toile. Je ne pars pas à l’aveugle pour autant. J’ai toujours une « vision-intuition » qui me permet de poser un premier jet sur une grande toile d’au moins un mètre soixante pour aller chercher le geste le plus ample, vivant, et généreux possible. Il s’agit dans cette première étape du travail d’aller à la recherche d’une forme et de sa couleur. Puis à partir de celle-ci, débute ensuite le lent et long travail de composition, d’agencement où chaque ligne doit répondre à une autre, où le petit détail est aussi important que le grand, où chaque couleur doit trouver sa proportion. Mon objectif pictural est de réussir à partager des sensations communes de nature ou des sensations plus inédites lorsqu’il s’agit de moments vécus la nuit à la barre d’un bateau.»
+
+  > Montreal beginnings before returning to Nantes
+
+  Isthme was born in Nantes in 1963. She studied Political Science in Bordeaux and Urban Planning and Project Management in Paris. Her first great artistic shocks were felt during the monumental exhibition of Anselm Kieffer and then that of Richard Long in 1985, in Bordeaux. In 2000, she definitively committed herself to an artistic career, spending three years at the Saydie Bronfman School of Applied Arts in Montreal, having moved there. From her first job, she keeps the passion and the taste for space, clean lines, solids, voids, transparencies, opacities... The references that feed her artistic work are wide and are as much about the buildings of architects like Mies Van Der Rohe, Tadao Ando, as the sculpture of Richard Serra or Dani Karavan, the painting of Color Field Painting... Isthme had her first exhibition in Montreal in 2003 with a dozen paintings and drawings. Between 2003 and 2007, she exhibited in several galleries and art centers in Montreal before returning to Nantes. After being selected for several years in the Parisian shows of Garches and Réalités Nouvelles and many cultural art centers, in 2018 she joined the Nantes gallery Gaïa, where she will have her solo exhibition in June-July 2019. Isthme describes her artistic approach, "I make few sketches before I start on a canvas. I don't go in blind though. I always have a "vision-intuition" which allows me to put a first draft on a large canvas of at least one meter sixty to go to seek the fullest gesture, alive, and generous possible. In this first stage of the work, I look for a form and its color. Then from this, the slow and long work of composition begins, of arrangement where each line must answer to another, where the small detail is as important as the big one, where each color must find its proportion. My pictorial objective is to succeed in sharing common sensations of nature or more unusual sensations when it comes to moments experienced at night at the helm of a boat."
 exhibitions: []
 works:
 - title: 'Ar Men #b'
