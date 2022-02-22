@@ -38,6 +38,21 @@ biography: "# Sébastien Bouchard\n\nMusicien, amateur de culture Surf, Skate et
   au 02-40-48-14-91 (max 6 personnes)"
 exhibitions: []
 works:
+- title: 'Détail "Portrait de jeune homme" '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100-DM
+    yeux.jpeg
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: "Le travail de Sébastien Bouchard interroge beaucoup sur écran.  \nLa
+    réponse à la question est-ce une photo? Non   \nLa réponse à la question est-ce
+    un collage? Non\n\nC'est donc bien une peinture et vous découvrez de prêt, le
+    trait, le pointillisme et le coup de pinceau ! A vos zooms ! "
+  price: 1900
+  contextual: false
 - title: Portrait de Jeune Homme
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100.jpg
   fields: []
