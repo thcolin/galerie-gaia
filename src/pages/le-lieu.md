@@ -7,9 +7,9 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   2015 Elisabeth Givre** reprend, transforme et engage durablement l’espace pour installer
   une programmation annuelle de 7 expositions en peinture, sculpture, céramique, photo,
   estampe et parfois des installations.\n\n**L’abstraction** qui est au cœur de la
-  sélection fait aussi la place à des œuvres plus **figurative**. **La ligne, le trait,
-  l’architecture** sont un des fils conducteurs de la sélection. \n\nAussi les ruptures
-  et les grands écarts d’une exposition à l’autre sont une évidence fondamentale.
+  sélection fait aussi la place à des œuvres plus **figuratives**. **La ligne, le
+  trait, l’architecture** sont un des fils conducteurs de la sélection.\n\nAussi les
+  ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale.
   Chaque artiste reste singulier, inspiré-e mais pas rangé-e.\n\n**La particularité
   de la galerie Gaïa : ses réserves** avec **+900 œuvres de 70 artistes.**\n\nCes
   réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/
@@ -18,8 +18,8 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   de la complexité de nos émotions. C’est pour cela que dans ce lieu vous trouverez
   un foisonnement de formes artistiques , des démarches conceptuelles, des réalisations
   expérimentales de plasticiens, qui naviguent du point en passant par la ligne pour
-  finir en trait aussi large qu’un aplat monochrome !\n\nLaissez-vous surprendre !\n\n[Interview
-  par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
+  finir en trait aussi large qu’un aplat monochrome !\n\n**Laissez-vous surprendre
+  !**\n\n[Interview par SUN RADIO ](https://www.lesonunique.com/content/elisabeth-givre-portrait-galeriste-57477
   \"interview elisabeth givre \")\n\n**Conseil, simplicité et confiance !**\n\nVous
   avez trouvé une œuvre dans le [catalogue](https://galeriegaia.fr/catalogue/ \"catalogue
   de la collection de  galerie gaia\") qui vous plait et vous hésitez ?\n\n**1.  Essayez
@@ -27,7 +27,7 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir
   en toute confiance.\n\n**2.**  **Paiement de  votre achat**  par virement ou carte
   bancaire, paiement en plusieurs fois à votre rythme, ou avec la cagnotte de la carte
-  cadeau.   \nPour les professionnels le financement peut se faire via la défiscalisation
+  cadeau.  \nPour les professionnels le financement peut se faire via la défiscalisation
   ou la location (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
   \"defiscalisation\") )\n\n**3**. **Livraison**  France Europe et reste du monde,
   Mars reste à l'étude (Colissimo - UPS).\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)Galerie
