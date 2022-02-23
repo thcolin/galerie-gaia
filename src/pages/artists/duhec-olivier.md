@@ -29,9 +29,23 @@ biography: "Artisan d’art, diplômé de l’École Boulle en 1999, Olivier Duh
   évoluer son travail avec des créations plus personnelles.\n\nCette série limitée
   en laiton poli or de 13  MINI LOG est présentée en exclusivité à la Galerie Gaïa "
 works:
-- title: 'Mini Log '
+- title: Mini Log
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
-    log.jpg
+    log BRAS.JPG
+  technique: Laiton poli
+  fields: []
+  styles: []
+  dimensions:
+    height: 35
+    width: 20
+    depth: 9
+  description: Edition en 13 exemplaires
+  price: 5800
+  sold: false
+  contextual: true
+- title: Mini Log en marche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
+    log MARCHE.JPG
   technique: Laiton poli or
   fields: []
   styles: []
@@ -39,7 +53,7 @@ works:
     height: 35
     width: 20
     depth: 9
-  description: ''
+  description: "Edition en 13 exemplaires   \nJambes, main et bras sont articulés "
   price: 5800
   sold: false
   contextual: false
