@@ -10,6 +10,22 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
+- title: Laure Carré Main Noire en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-main
+    noire-ES.jpeg
+  technique: 'Huile sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 27
+    width: 35
+    depth: 0
+  description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
+    carré")'
+  price: 350
+  contextual: true
 - title: Une escapade à Bruxelles ?
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_story_v4withlogo.jpg
   technique: 'La Galerie Gaïa sera présente à Bruxelles  '
