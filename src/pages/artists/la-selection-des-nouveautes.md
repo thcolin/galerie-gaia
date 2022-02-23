@@ -36,6 +36,19 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Sculpture Alliance XII Victoire D'Harcourt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia victoire
+    dhacourt alliance xii MES.JPG
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 34
+    width: 50
+    depth: 32
+  description: "# [Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/)\n\n# "
+  price: 6000
+  contextual: false
 - title: 'Cleon Peterson Flowers of evil the kiss (white) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
     cleon.jpg
@@ -114,19 +127,6 @@ works:
   - Sculpture
   styles:
   - Figuratif
-- title: Sculpture Alliance XIII Victoire D'Harcourt
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -victoire
-    d'harcourt ES2 cheminée.jpg
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/)\n\n# "
-  price: 6000
-  contextual: false
 - title: Jacques le Brusq et Brigitte Marionneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
