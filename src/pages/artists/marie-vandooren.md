@@ -27,7 +27,7 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
 exhibitions: []
 works:
 - title: Montagne dans forme
-  technique: Sérigraphie
+  technique: 'Sérigraphie '
   fields: []
   styles: []
   dimensions:
