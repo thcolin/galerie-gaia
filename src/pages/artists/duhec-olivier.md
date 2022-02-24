@@ -29,6 +29,20 @@ biography: "Artisan d’art, diplômé de l’École Boulle en 1999, Olivier Duh
   évoluer son travail avec des créations plus personnelles.\n\nCette série limitée
   en laiton poli or de 13  MINI LOG est présentée en exclusivité à la Galerie Gaïa "
 works:
+- title: 'Mini log en bande '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Légo 7D (1 sur
+    1).jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 5800
+  sold: false
+  contextual: false
 - title: Mini Log
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
     log BRAS.JPG
