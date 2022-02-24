@@ -26,6 +26,17 @@ biography: "# Marie Vandooren\n\nEn peinture,  **Marie Vandooren** interroge not
   de l'Usure et de Bitche."
 exhibitions: []
 works:
+- title: Montagne dans forme
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 35
+    depth: 0
+  description: Exemplaire 15/15
+  price: 150
+  contextual: true
 - title: La forme du ciel 3
   technique: Découpage et sérigraphie
   fields: []
