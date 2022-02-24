@@ -320,19 +320,6 @@ works:
   description: 2016 prix sur demande
   price: ''
   contextual: true
-- title: Nuit en mer III Litho
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iii-113.jpg
-  technique: Lithographie 13 exemplaires
-  dimensions:
-    height: 56
-    width: 76
-    depth: 
-  description: 2018 Musée imprimerie de Nantes
-  price: 350
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Nuits en Mer Litho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-410.jpg
   technique: Lithographie en 10 exemplaires
