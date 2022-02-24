@@ -95,7 +95,7 @@ works:
     width: 50
     depth: 0
   description: ''
-  price: ''
+  price: 2200
   contextual: true
 - title: Nigredo
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nigredo.jpg
