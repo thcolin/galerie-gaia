@@ -113,7 +113,10 @@ works:
     height: 65
     width: 13
     depth: 13
-  description: Fonderie Barthélémy Crest
+  description: |-
+    Fonderie Barthélémy Crest
+
+    N°7/8
   price: 4200
   sold: false
   contextual: false
