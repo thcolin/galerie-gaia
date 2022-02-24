@@ -137,13 +137,13 @@ works:
   - Figuartif
 - title: 'Pierre Alechinsky - "Writing Book" '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg
-  technique: Lithographie 65/99 encadrée baguette chêne verre musée anti-reflet
+  technique: Lithographie 65/99 1982 encadrée baguette chêne verre musée anti-reflet
   dimensions:
     height: 48
     width: 64
     depth: 
   description: "# Pierre Alechinsky"
-  price: 1400
+  price: 1500
   sold: false
   contextual: true
   styles:
