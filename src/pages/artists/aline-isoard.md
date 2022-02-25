@@ -106,23 +106,8 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: Fenêter sur route 67_2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
-    67-2020,90x90.jpg
-  technique: Photo dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Encadrement verre anti-reflet
-  price: 1800
-  sold: false
-  contextual: true
-- title: Habitants sur route 2_2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/habitants sur route
-    2-2020,90x90.jpg
+- title: Reflets 2 -2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 2-2021,90x90wa.jpg
   technique: Photo dépigmentée pièce unique
   fields: []
   styles: []
