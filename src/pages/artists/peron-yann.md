@@ -34,7 +34,7 @@ biography: |-
 works:
 - title: Emile 2021-04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
     sur cp peuplier
   fields: []
   styles: []
