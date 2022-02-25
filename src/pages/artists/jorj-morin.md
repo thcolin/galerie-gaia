@@ -97,20 +97,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Une échapée 1981
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-une
-    échappée.JPG
-  technique: Eau forte 6/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 38
-    width: 28.5
-    depth: 
-  description: ''
-  price: 250
-  sold: false
-  contextual: true
 - title: Une certaine cohésion 1972
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-une
     certaine cohésion.JPG
