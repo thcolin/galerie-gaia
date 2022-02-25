@@ -41,7 +41,7 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Scotch et karcher 2
+- title: Scotch et Karcher 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-scotch
     karcher 2.jpeg
   technique: Sérigraphie 5 passages, création et composition à l’adhésif et au jet
