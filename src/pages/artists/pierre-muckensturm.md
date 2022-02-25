@@ -289,18 +289,6 @@ works:
   description: "Tirage 7 exemplaires sur commande  \n2020"
   price: 500
   contextual: true
-- title: '196J13065E  - 4 carrés à Entas juxtaposés '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    p 196J13065E .jpg
-  technique: gravure carborundum sur zinc  imprimée sur Papier BFK Rives 250  gr/m2
-    margé
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "Épreuve unique, titrée signée au crayon  \nRéalisation 2019"
-  price: 1050
-  contextual: true
 - title: '203R0943 - composition à 6 angles  à Entas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     p 203R0943.jpg
@@ -315,19 +303,6 @@ works:
 
     Réalisation 2020
   price: 500
-  contextual: true
-- title: '196J23091 et 196J23092 - 24  angles à Entas et renversement '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    p 196J23091 .jpg
-  technique: Technique  gravure carborundum et pointe  sèche sur zinc imprimée sur
-    Papier  BFK Rives 250 gr/m2 margé
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "Composition 2 éléments n° 2/6 \n\nTirage 6 exemplaires, titrés numérotés
-    signés au crayon"
-  price: 1200
   contextual: true
 - title: '14P1832263 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
