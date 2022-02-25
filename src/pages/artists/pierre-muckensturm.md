@@ -113,7 +113,7 @@ works:
     0°
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     muckensturm XXI 23 023.jpg
-  technique: Crayon encre de chine sur papier BFK Rives
+  technique: Crayon à encre de chine sur papier BFK Rives
   fields: []
   styles: []
   dimensions:
@@ -182,7 +182,7 @@ works:
   contextual: true
 - title: 185R091011
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-185R091021.jpg
-  technique: Carborendum sur cuivre imprimée sur papier BFK Rives 250 gr margé
+  technique: Carborundum sur cuivre imprimée sur papier BFK Rives 250 gr margé
   fields: []
   styles: []
   dimensions:
@@ -195,7 +195,7 @@ works:
 - title: XXI 19 021 36 angles avec entas pour former croix ou carrés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     muckensturm XXI 19 021.jpg
-  technique: 'Crayon encre de chine sur papier BFK Rives '
+  technique: 'Crayon à encre de chine sur papier BFK Rives '
   fields: []
   styles: []
   dimensions:
@@ -208,7 +208,7 @@ works:
 - title: 205J1771 un tas d'angle avec entas
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     muckensturm 205J1771.jpg
-  technique: Carborendum sur  zinc imprimés sur papier BFK Rives 250gr margé
+  technique: Carborundum sur  zinc imprimés sur papier BFK Rives 250gr margé
   fields: []
   styles: []
   dimensions:
