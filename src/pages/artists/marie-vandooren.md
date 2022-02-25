@@ -53,7 +53,7 @@ works:
   description: Exemplaire 15/15
   price: 150
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/montagnedansforme.marievandooren.découpageetsérigraphie.24x30.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia montagnedansforme.marievandooren.découpageetsérigraphie.24x30.jpg
 - title: La forme du ciel 3
   technique: Découpage et sérigraphie
   fields: []
