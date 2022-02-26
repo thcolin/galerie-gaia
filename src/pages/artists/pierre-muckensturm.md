@@ -407,8 +407,8 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: 162R220613 (4/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/162r220613-411.jpg
+- title: 162R220612 (4/11)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-162R220612.jpg
   technique: Aquatinte et pointe sèche sur cuivre sur papier BFK Rives
   dimensions:
     height: 66
