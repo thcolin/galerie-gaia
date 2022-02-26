@@ -1,6 +1,8 @@
 ---
 template: artists
 artists:
+- artist: src/pages/artists/parrein-pascale.md
+- artist: src/pages/artists/jouet-michel.md
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/edwin-wide.md
