@@ -18,6 +18,34 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: Impacts VI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsVI_51x66-
+    01.jpg
+  technique: Eau forte sur papier Hahnemühle 300 grammes
+  fields: []
+  styles: []
+  dimensions:
+    height: 51
+    width: 66
+    depth: 0
+  description: Exemplaire 1/30
+  price: 230
+  sold: false
+  contextual: true
+- title: Impacts VIII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsVIII_50x65,5-
+    01.jpg
+  technique: Eau forte sur papier Hahnemühle 300 grammes
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 65.5
+    depth: 0
+  description: Exemplaire 4/30
+  price: 230
+  sold: false
+  contextual: true
 - title: Cellules IX
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_CellulesIX_100x70-
     01.jpg
