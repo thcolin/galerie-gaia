@@ -18,6 +18,20 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: Cellules XI
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_CellulesXI_98x70-
+    01.jpg
+  technique: Gravure au carborundum sur Fabriano 280 grammes
+  fields: []
+  styles: []
+  dimensions:
+    height: 98
+    width: 70
+    depth: 0
+  description: ''
+  price: 650
+  sold: false
+  contextual: true
 - title: Impacts VI
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsVI_51x66-
     01.jpg
