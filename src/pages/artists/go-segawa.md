@@ -352,17 +352,6 @@ works:
   price: 130
   sold: false
   contextual: false
-- title: Goutte rouge
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/goutte-rouge.jpg
-  technique: 'Impression jet d’encre sur polyester '
-  dimensions:
-    height: 6
-    width: 11
-    depth: 11
-  description: Edition 50 exemplaires
-  price: 160
-  sold: false
-  contextual: false
 - title: Collision II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
   technique: 'Impression jet d''encre sur polyester '

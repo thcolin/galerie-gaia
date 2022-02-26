@@ -18,6 +18,20 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: 'Impacts V '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsV_51x66-
+    01.jpg
+  technique: Eau forte sur papier Hahnemühle 300 grammes
+  fields: []
+  styles: []
+  dimensions:
+    height: 51
+    width: 66
+    depth: 0
+  description: Exemplaire 1/30
+  price: 230
+  sold: false
+  contextual: true
 - title: Paysage II (les 3 arbres)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_PaysagesII(les3arbres)_49x44-
     01.jpg
@@ -31,7 +45,7 @@ works:
   price: 200
   sold: false
   contextual: true
-  description: N°16/20
+  description: Exemplaire 16/20
 exhibitions: []
 
 ---
