@@ -18,6 +18,20 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: Cellules IX
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_CellulesIX_100x70-
+    01.jpg
+  technique: Gravure au carborundum sur Fabriano 280 grammes
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: Exemplaire 1/10
+  price: 650
+  sold: false
+  contextual: true
 - title: Paysage b
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_PaysagesB_32x40,5-
     01.jpg
