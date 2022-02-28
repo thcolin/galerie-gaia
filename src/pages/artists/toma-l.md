@@ -257,30 +257,6 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Deux types Rétro-Crade  '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-DeuxTypes
-    RetroCrade-160x122cm_bd_1000p.jpg
-  technique: Technique mixte sur toile de lin
-  fields: []
-  styles: []
-  dimensions:
-    height: 140
-    width: 120
-    depth: 0
-  description: "2022 montée sur châssis   \nprix sur demande "
-  price: ''
-  contextual: true
-- title: Expo Rétro Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FlyerGAIA-TOMA_220103-BAT3.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
 - title: Un nouveau type Retro Crade aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
@@ -304,54 +280,6 @@ works:
     width: 125
     depth: 0
   description: "2021 cadre en bois   \nprix sur demande"
-  price: ''
-  contextual: true
-- title: Le type Rétro Crade du carton aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120304-LeTypeRetroCradeDuCartonAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: Technique mixte sur papier Velin d'arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nVendu"
-  price: ''
-  contextual: true
-- title: Encore un type Rétro Crade aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120303-EncoreUnTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: 'Technique mixte sur papier  Velin d''arche '
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
-  price: ''
-  contextual: true
-- title: Un type Rétro Crade aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-UnTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: Technique mixte sur papier Velin d'arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2021 caisse américaine chêne  \nprix sur demande"
-  price: ''
-  contextual: true
-- title: Un type Rétro Crade noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121901-UnTypeRetroCradeNoir-140x120cm_bd_1000p.jpg
-  technique: Technique mixte sur toile en lin
-  fields: []
-  styles: []
-  dimensions:
-    height: 140
-    width: 120
-    depth: 0
-  description: '2021 prix sur demande '
   price: ''
   contextual: true
 - title: Le type Rétro Crade aux couleurs flash
@@ -390,59 +318,6 @@ works:
   description: "2021 Caisse américaine chêne format 124X84 cm  \nPrix sur demande"
   price: ''
   contextual: true
-- title: 'SL21 Pensée - Colors and paper '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041201-SL21PENSEE-ColorsonPaper-120x80cm_bd_1000p.jpg
-  technique: Technique mixte sur papier velin d'arches
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 80
-    depth: 0
-  description: "2021 Caisse américaine chêne format 124X84 cm  \nPrix sur demande"
-  price: ''
-  contextual: true
-- title: 'Brut and simple colors '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019111601-BrutAndSimpleColor-1-2-162x130cm.jpg
-  technique: Tecnique mixte sur toile , châssis à clef
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 162
-    width: 130
-    depth: 0
-  description: 2019 Prix sur demande
-  price: ''
-  contextual: true
-- title: Dark and full colors
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019012701-darkandfullcolors-160x200cm.jpg
-  technique: Tecnique mixte sur toile, châssis à clef
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 160
-    width: 200
-    depth: 0
-  description: '2019 Prix sur demande '
-  price: ''
-  contextual: true
-- title: 'Brut and Simple colors dans l''atelier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/toma-L_atelier_0012.jpg
-  technique: Technqiue mixte sur toile, châssis à clef
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 130
-    width: 102
-    depth: 0
-  description: 2019 Prix sur demande
-  price: ''
-  contextual: false
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg
@@ -625,24 +500,6 @@ works:
   description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
-- title: 'Little simple brut '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-tomal-2020031104-littlecolor-40x30cm_bd.jpg
-  technique: Couture et Technique mixte sur papier
-  dimensions:
-    height: 40
-    width: 30
-  description: "cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: Little Simple Brut
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-tomal-2020031105-littlecolor-40x30cm_bd.jpg
-  technique: Couture et Technique mixte sur papier cadre en chêne verre musée
-  dimensions:
-    height: 50
-    width: 40
-  description: prix dans le catalogue et sur demande
-  price: ''
-  contextual: true
 - title: 'Querelle carbone 4 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg
   technique: Technique mixte sur papier
@@ -796,19 +653,6 @@ works:
     depth: 
   description: ''
   price: 400
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Stone Age 09
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage-09_ex4-12.jpg
-  technique: Lithographie 04/12 et collage papier réhaussé
-  dimensions:
-    height: 66
-    width: 50
-    depth: 
-  description: ''
-  price: 500
   sold: false
   contextual: true
   fields:
