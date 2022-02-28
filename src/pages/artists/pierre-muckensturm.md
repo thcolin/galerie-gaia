@@ -385,17 +385,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: 184J210821 (6/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210821-611.jpg
-  technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
-  dimensions:
-    height: 76
-    width: 56
-    depth: 
-  description: '2018 '
-  price: 600
-  sold: false
-  contextual: true
 - title: 13R8-1 (9/11)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13r8-1-911.jpg
   technique: Aquatinte
