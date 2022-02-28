@@ -40,20 +40,18 @@ biography: "# Robert Combas\n\n> La \"figuration libre\", art minimaliste et con
   I am completely free, even by the format.\""
 exhibitions: []
 works:
-- title: Dragon Combas
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Combas_Sans(5:79)_57x76-
-    01.jpg
+- title: Dragon Combas dédicacée par l'artiste
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia combas
+    dragons 59.JPG
   dimensions:
     height: 56
     width: 76
     depth: 0
-  description: |-
-    # Litho Combas
-
-    Edité par l'atelier du Petit Jaunais 1997
+  description: "# Litho Combas\n\nÉditée par l'atelier du Petit Jaunais 1997  \nDédicacée
+    par l'artiste avec la mention \"Au plat\" et un dessin à droite de cette mention"
   price: 1800
   contextual: true
-  technique: 'Lithographie en 5 couleurs Edition 5/79 '
+  technique: 'Lithographie en 5 couleurs Edition 59/79 '
 - title: 'Le Combo de Combas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg
   technique: Installation lumineuse Sérigraphie
