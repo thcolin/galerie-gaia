@@ -35,7 +35,7 @@ works:
     depth: 
   description: "Œuvre encadrée baguette bois noir et verre antireflet   \nFormat encadrée
     29X38"
-  price: 500
+  price: 650
   sold: false
   contextual: true
   technique: Lithographie 8/100
