@@ -155,23 +155,20 @@ works:
   description: Pièce unique 2017
   price: 1400
   contextual: false
-- title: 'Goutte collante I '
+- title: Goutte collante I Ed.6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-goutte_collante_I_UV_print_2018.jpg
-  technique: Impression UV sur polycarbonate
+  technique: Impression UV sur polycarbonate, vernis
   fields: []
   styles: []
   dimensions:
     height: 17
     width: 12.8
     depth: 12.8
-  description: |-
-    Ed.6   2018
-
-    Vernis
+  description: "2018"
   price: 700
   contextual: false
-- title: 2 balles collées I
+- title: 2 balles collées I Ed.6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-2_balles_collées_I_UV_print_2018.jpg
   technique: 'Impression UV sur polycarbonate '
@@ -181,7 +178,7 @@ works:
     height: 13
     width: 13
     depth: 18.2
-  description: Ed.6  2018
+  description: "2018"
   price: 700
   contextual: false
 - title: Red in Sphere
@@ -240,7 +237,7 @@ works:
     Création et tirage en 2017
   price: 130
   contextual: false
-- title: Transparency IV - green
+- title: Transparency IV - green Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_IV_green_2018.jpg
   fields: []
   styles: []
@@ -248,10 +245,13 @@ works:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: ''
+  description: |-
+    50 exemplaires limités
+
+    Création et tirage en 2018
   price: 130
   contextual: false
-  technique: Sérigraphie impression jet d'encre sur polyester
+  technique: Impression jet d'encre sur polyester
 - title: Colline rouge Ed.20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia colline_rouge_ed20_2017.jpg
   technique: Impression jet d'encre sur polyester
