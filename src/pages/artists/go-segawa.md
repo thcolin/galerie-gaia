@@ -36,7 +36,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2016
-  price: 130
+  price: ''
   contextual: false
 - title: 'œuf posé I  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -62,7 +62,7 @@ works:
     width: 7.5
     depth: 7.5
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: 130
+  price: ''
   contextual: false
 - title: MASS
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -96,7 +96,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2014
-  price: 130
+  price: ''
   contextual: false
 - title: Goutte rouge Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -109,7 +109,7 @@ works:
     width: 11.3
     depth: 11.3
   description: "50 exemplaires \n\nCréation et tirage en 2011"
-  price: 200
+  price: ''
   contextual: false
 - title: Les gouttes Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -125,7 +125,7 @@ works:
     50 Exemplaires limités
 
     Création et tirage en 2016
-  price: 130
+  price: ''
   contextual: false
 - title: Green in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -205,7 +205,7 @@ works:
     width: 6.5
     depth: 6.5
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: 130
+  price: ''
   contextual: false
 - title: Life I Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Life_I_Ed25_2019.jpg
@@ -220,7 +220,7 @@ works:
     25 exemplaires limités
 
     Création et tirage en 2019
-  price: 140
+  price: ''
   contextual: false
 - title: Transparency III - blue Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
@@ -235,7 +235,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2017
-  price: 130
+  price: ''
   contextual: false
 - title: Transparency IV - green Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_IV_green_2018.jpg
@@ -249,7 +249,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2018
-  price: 130
+  price: ''
   contextual: false
   technique: Impression jet d'encre sur polyester
 - title: Colline rouge Ed.20
@@ -265,7 +265,7 @@ works:
     20 exemplaires limités
 
     2017
-  price: 180
+  price: ''
   contextual: false
 - title: Beans Rainbow
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Beans_Rainbow_2018_mail.jpg
@@ -292,7 +292,7 @@ works:
     25 exemplaires limités
 
     Création et tirage en 2019
-  price: 160
+  price: ''
   contextual: false
 - title: Cube in red Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-cube-in-red.png
@@ -307,7 +307,7 @@ works:
     50 Exemplaires
 
     Création et tirage en 2013
-  price: 130
+  price: ''
   contextual: false
 - title: Oeuf posé I Ed.50, échelle 2/3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
@@ -324,7 +324,7 @@ works:
     Création en 2015
 
     Tirage en 2016
-  price: 130
+  price: ''
   contextual: false
 - title: Squares in Blue Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
@@ -339,7 +339,7 @@ works:
     25 exemplaires limités
 
     Création et tirage en 2018
-  price: 130
+  price: ''
   contextual: false
 - title: Colline imaginaire I Ed.20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png
@@ -354,7 +354,7 @@ works:
     20 exemplaires limités
 
     2017
-  price: 180
+  price: ''
   contextual: false
 - title: 'Les gouttes V '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-gouttes-v-650.jpg
@@ -380,7 +380,7 @@ works:
     Edition en 25 exemplaires
 
     Création et tirage en 2018
-  price: 130
+  price: ''
   contextual: false
 - title: Boite plexi
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
