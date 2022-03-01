@@ -107,20 +107,20 @@ works:
   description: "50 exemplaires \n\nCréation et tirage en 2011"
   price: 200
   contextual: false
-- title: Les gouttes
+- title: Les gouttes Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-les_gouttes_ed50.jpg
-  technique: impression UV sur polycarbonate
+  technique: impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
-    height: 18.4
-    width: 29.4
-    depth: 29.4
+    height: 7
+    width: 11.2
+    depth: 11.2
   description: |-
-    Ed.6 2020
+    50 Exemplaires limités
 
-    Vernis
+    Création et tirage en 2016
   price: 1600
   contextual: false
 - title: Green in Sphere
@@ -140,20 +140,16 @@ works:
   price: 700
   contextual: false
 - title: Black Cube in Blue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-Black_Cube_in_Blue_UV_2020.jpg
-  technique: Impression UV sur polycarbonate
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Black_Cube_in_Blue_2017.jpg
+  technique: encre pigmentée, acrylique, vernis, PVC
   fields: []
   styles: []
   dimensions:
-    height: 15
-    width: 15
-    depth: 15
-  description: |-
-    Ed.6 2020
-
-    Vernis
-  price: 700
+    height: 13.5
+    width: 13.5
+    depth: 13.5
+  description: Pièce unique 2017
+  price: 1400
   contextual: false
 - title: 'Goutte collante I '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
