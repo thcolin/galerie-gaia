@@ -23,9 +23,9 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
-- title: 'Snake I - blue '
+- title: Snake I - blue Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
-  technique: impression jet d'encre sur polyester
+  technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
@@ -36,7 +36,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2016
-  price: 1200
+  price: 130
   contextual: false
 - title: 'œuf posé I  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -114,7 +114,7 @@ works:
 - title: Les gouttes Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-les_gouttes_ed50.jpg
-  technique: impression jet d'encre sur polyester
+  technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
@@ -125,7 +125,7 @@ works:
     50 Exemplaires limités
 
     Création et tirage en 2016
-  price: 1600
+  price: 130
   contextual: false
 - title: Green in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -197,10 +197,10 @@ works:
   description: Vernis 2018
   price: 700
   contextual: false
-- title: Beans I
+- title: Beans I Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Beans_I.jpg
-  technique: 'impression jet d’encre sur polyester   '
+  technique: 'Impression jet d’encre sur polyester   '
   fields: []
   styles: []
   dimensions:
@@ -225,16 +225,19 @@ works:
     Création et tirage en 2019
   price: 140
   contextual: false
-- title: Transparency III - blue
+- title: Transparency III - blue Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
-  technique: Sérigraphie impression jet d'encre sur polyester
+  technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: ''
+  description: |-
+    50 exemplaires limités
+
+    Création et tirage en 2017
   price: 130
   contextual: false
 - title: Transparency IV - green
