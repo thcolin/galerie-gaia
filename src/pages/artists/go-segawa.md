@@ -266,16 +266,19 @@ works:
   description: Edition en 15 exemplaires sur commande
   price: 300
   contextual: false
-- title: Mass
+- title: Mass Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
-  technique: 'Sérigraphie impression jet d''encre sur polyester '
+  technique: 'Impression jet d''encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 6
     width: 12
     depth: 12
-  description: 25 exemplaires
+  description: |-
+    25 exemplaires limités
+
+    Création et tirage en 2019
   price: 160
   contextual: false
 - title: Cube in red
@@ -302,16 +305,19 @@ works:
   description: Edition 50 exemplaires
   price: 130
   contextual: false
-- title: Square in blue
+- title: Squares in Blue Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
-  technique: 'Sérigraphie impression jet d''encre sur polyester '
+  technique: 'Impression jet d''encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 8.5
     width: 8.5
     depth: 8.5
-  description: 25 exemplaires
+  description: |-
+    25 exemplaires limités
+
+    Création et tirage en 2018
   price: 130
   contextual: false
 - title: Colline imaginaire I
@@ -337,17 +343,20 @@ works:
   price: 130
   sold: false
   contextual: false
-- title: Collision II
+- title: Collision II Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
-  technique: Impression UV sur polycarbonate
+  technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
     height: 8.5
     width: 8.5
     depth: 8.5
-  description: Edition en 25 exemplaires
-  price: 110
+  description: |-
+    Edition en 25 exemplaires
+
+    Création et tirage en 2018
+  price: 130
   contextual: false
 - title: Boite plexi
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
