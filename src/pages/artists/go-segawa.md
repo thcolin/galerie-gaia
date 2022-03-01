@@ -94,10 +94,10 @@ works:
     et tirage en 2014"
   price: 130
   contextual: false
-- title: goutte rouge
+- title: Goutte rouge Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-goutte rouge.jpg
-  technique: 'impression jet d’encre sur polyester      '
+  technique: 'Impression jet d’encre sur polyester      '
   fields: []
   styles: []
   dimensions:
