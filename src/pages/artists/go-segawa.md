@@ -25,17 +25,17 @@ exhibitions: []
 works:
 - title: 'Snake I - blue '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
-  technique: impression UV sur polycarbonate
+  technique: impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
-    height: 22
-    width: 22
-    depth: 22
+    height: 6.5
+    width: 6.5
+    depth: 6.5
   description: |-
-    Ed.6 2020
+    50 exemplaires limités
 
-    Vernis
+    Création et tirage en 2016
   price: 1200
   contextual: false
 - title: 'œuf posé I  '
