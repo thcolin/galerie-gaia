@@ -206,17 +206,6 @@ works:
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
   price: 130
   contextual: false
-- title: Black cube in blue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/black-cube-in-blue.jpg
-  technique: 'impression UV sur polycarbonate '
-  dimensions:
-    height: 13.5
-    width: 13.5
-    depth: 13.5
-  description: ''
-  price: 1200
-  sold: false
-  contextual: false
 - title: Life I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Life_I_Ed25_2019.jpg
   technique: Sérigraphie impression jet d'encre sur polyester
