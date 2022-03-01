@@ -339,7 +339,7 @@ works:
   contextual: false
 - title: Collision II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
-  technique: 'Impression jet d''encre sur polyester '
+  technique: Impression UV sur polycarbonate
   fields: []
   styles: []
   dimensions:
