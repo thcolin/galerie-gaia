@@ -51,10 +51,10 @@ works:
   description: "50 exemplaires limités \n\nCréation en 2015 \n\nTirage en 2016"
   price: 130
   contextual: false
-- title: 'Dark & Yellow   '
+- title: Dark & Yellow Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Dark_&_Yellow.jpg
-  technique: 'impression jet d’encre sur polyester '
+  technique: 'Impression jet d’encre sur polyester '
   fields: []
   styles: []
   dimensions:
@@ -80,18 +80,22 @@ works:
     Création et tirage en 2019
   price: 160
   contextual: false
-- title: Life II
+- title: Life II Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Life_II.jpg
-  technique: 'impression jet d’encre sur polyester '
+  technique: 'Impression jet d’encre sur polyester '
   fields: []
   styles: []
   dimensions:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: "impression jet d’encre sur polyester \n\n50 exemplaires limités \n\nCréation
-    et tirage en 2014"
+  description: |-
+    Impression jet d’encre sur polyester
+
+    50 exemplaires limités
+
+    Création et tirage en 2014
   price: 130
   contextual: false
 - title: Goutte rouge Ed.50
@@ -287,7 +291,7 @@ works:
     Création et tirage en 2019
   price: 160
   contextual: false
-- title: Cube in red
+- title: Cube in red Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-cube-in-red.png
   technique: Impression jet d'encre sur polyester
   fields: []
@@ -296,10 +300,13 @@ works:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: 50 Exemplaires
+  description: |-
+    50 Exemplaires
+
+    Création et tirage en 2013
   price: 130
   contextual: false
-- title: 'Oeuf posé I '
+- title: Oeuf posé I Ed.50, échelle 2/3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
   technique: Impression jet d'encre sur polyester
   fields: []
@@ -308,7 +315,12 @@ works:
     height: 5.6
     width: 9.6
     depth: 9.6
-  description: Edition 50 exemplaires
+  description: |-
+    50 exemplaires limités
+
+    Création en 2015
+
+    Tirage en 2016
   price: 130
   contextual: false
 - title: Squares in Blue Ed.25
