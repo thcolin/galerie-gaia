@@ -206,17 +206,20 @@ works:
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
   price: 130
   contextual: false
-- title: Life I
+- title: Life I Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Life_I_Ed25_2019.jpg
-  technique: Sérigraphie impression jet d'encre sur polyester
+  technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
     height: 8.5
     width: 8.5
     depth: 8.5
-  description: Sur commande
-  price: 130
+  description: |-
+    25 exemplaires limités
+
+    Création et tirage en 2019
+  price: 140
   contextual: false
 - title: Transparency III - blue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
@@ -242,16 +245,19 @@ works:
   price: 130
   contextual: false
   technique: Sérigraphie impression jet d'encre sur polyester
-- title: Colline rouge
+- title: Colline rouge Ed.20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia colline_rouge_ed20_2017.jpg
-  technique: Sérigraphie impression jet d'encre sur polyester
+  technique: Impression jet d'encre sur polyester
   fields: []
   styles: []
   dimensions:
     height: 3.6
     width: 14.2
     depth: 14.2
-  description: ''
+  description: |-
+    20 exemplaires limités
+
+    2017
   price: 180
   contextual: false
 - title: Beans Rainbow
@@ -320,7 +326,7 @@ works:
     Création et tirage en 2018
   price: 130
   contextual: false
-- title: Colline imaginaire I
+- title: Colline imaginaire I Ed.20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png
   technique: Impression jet d'encre sur polyester
   fields: []
@@ -329,7 +335,10 @@ works:
     height: 3
     width: 14.3
     depth: 14.3
-  description: Edition 20 exemplaires
+  description: |-
+    20 exemplaires limités
+
+    2017
   price: 180
   contextual: false
 - title: 'Les gouttes V '
