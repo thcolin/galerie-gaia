@@ -7,29 +7,37 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  # Anne Gaiss
-
-  Anne Gaiss est née en 1976 à Nantes. Entre macrocosme et microcosme, l’univers d’Anne Gaiss puise aux sources de l’invisible. Qu’il s’agisse de la structure interne de la matière révélée par la science, ou de la matière céleste perdue aux confins de l’espace, il s’agit ici bien d’une quête de ses mystères sur les chemins de la conscience, l’artiste devient passeur, chamane, celui qui permet de voir « au travers », « au delà » de notre réalité. Inspirée des écrits alchimistes, elle recrée le monde, d’une unité devenue dualité puis fractionnée sous la lame du scalpel, des ténèbres à la lumière, elle joue, transforme, métamorphose, transmute le visible pour en faire émerger la quintessence. L’alchimiste Martin Ruland disait que « l’imagination est l’astre dans l’homme, le corps céleste ou supracéleste ». Impalpable, subtil, l’esprit devient forme, la forme devient matière, la matière devient conscience. Pour l’alchimiste le métal a une âme, c’est ce que l’artiste nous révèle dans ces papiers. Leur surface couverte de métal devient miroir de l’âme, la ciselure nous amène vers l’envers de celui ci. « Connais-toi toi-même et tu connaitras l’univers » était la maxime du temple de Delphes. Derrière l’exploration de la nature de la matière, l’artiste propose ici à la manière de l’alchimiste de projeter comme le suggérait Jung l’inconscient dans l’obscurité de la matière afin de l’illuminer. La déconstruction du vide pour la reconstruction de la forme. La peau finement soulevée et ajourée nous livre un monde d’émotions et de sensations, l’émergence à partir du vide de l’œuvre d’une « scupture du vivant », création somptueuse ondulante, vibrante, lumineuse. La vibration du scalpel à l’origine de la forme, la lumière jouant sur le métal aux source de l’anima mundi.
-
-  EXPOSITIONS PERSONNELLES
-
-  2018 : Spendor solis, Galerie Virginie Louvet, Paris, France
-  2016 : La matière et l’espace, Galerie Caroline Tresca, Paris, France
-  2014 Destins croisés, Galerie du Haut-Pavé, Paris, France
-  Mues et merveilles, SEL, Sèvres, France
-  Incarnation, Maison Laffitte, France
-  2013 : Metamorphosis, Galerie Brumaire, Paris, France
-  Constellations organiques, Galerie Dom-Art, Dax, France
-  2012 : Jardins de Paradis, Galerie FAE l’Atelier, Boulogne-Billancourt, France
-
-  EXPOSITIONS COLLECTIVES (sélection)
-
-  2018 : Drawing Now
-  2017 : Rétrospective petits formats, Galerie du Haut-Pavé, Paris, France
-  Traits d’union, Galerie Dom-Art, Dax, France
-  Art Hors Normes, Lanxi Gallery, Shangaï, Chine
-  Galerie Gaïa, Nantes
+biography: "# Anne Gaiss\n\n> Anne Gaiss: Entre macrocosme et microcosme\n\nAnne Gaiss
+  est née en 1976 à Nantes. Elle vit et travaille à Paris. Anne Gaiss crée des oeuvres
+  montrant simultanément l'immensité de l'espace et la petitesse de notre monde, en
+  créant un dialogue subtil entre l'invisible et visible. L'artiste veut créér en
+  confrontant notre réalité avec la matière célèste peu connue, provenant des confins
+  de l'univers. En s'inspirant des écrits alchimistes, Anne Gaiss produit des oeuvres
+  mêlant réalité, illusion et divination.\n\nEXPOSITIONS PERSONNELLES\n\n* 2018 :
+  Spendor solis, Galerie Virginie Louvet, Paris, France\n* 2016 : La matière et l’espace,
+  Galerie Caroline Tresca, Paris, France\n* 2014 : Destins croisés, Galerie du Haut-Pavé,
+  Paris, France Mues et merveilles, SEL, Sèvres, France Incarnation, Maison Laffitte,
+  France \n* 2013 : Metamorphosis, Galerie Brumaire, Paris, France Constellations
+  organiques, Galerie Dom-Art, Dax, France \n* 2012 : Jardins de Paradis, Galerie
+  FAE l’Atelier, Boulogne-Billancourt, France\n\nEXPOSITIONS COLLECTIVES (sélection)\n\n*
+  2018 : Drawing Now\n* 2017 : Rétrospective petits formats, Galerie du Haut-Pavé,
+  Paris, France Traits d’union, Galerie Dom-Art, Dax, France Art Hors Normes, Lanxi
+  Gallery, Shangaï, Chine Galerie Gaïa, Nantes\n\n> Anne Gaiss: Between macrocosm
+  and microcosm\n\nAnne Gaiss was born in 1976 in Nantes. She lives and works in Paris.
+  Anne Gaiss creates works showing simultaneously the immensity of space and the smallness
+  of our world, creating a subtle dialogue between the invisible and the visible.
+  The artist wants to create by confronting our reality with the little known celestial
+  matter coming from the confines of the universe. Inspired by alchemist writings,
+  Anne Gaiss produces works mixing reality, illusion and divination.\n\nPERSONAL EXHIBITIONS\n\n*
+  2018 : Spendor solis, Virginie Louvet Gallery, Paris, France\n* 2016 : Matter and
+  space, Caroline Tresca Gallery, Paris, France\n* 2014: Destins croisés, Galerie
+  du Haut-Pavé, Paris, France \n* Mues et merveilles, SEL, Sèvres, France\n* Incarnation,
+  Maison Laffitte, France\n* 2013: Metamorphosis, Brumaire Gallery, Paris, France\n*
+  Organic Constellations, Dom-Art Gallery, Dax, France\n* 2012: Gardens of Paradise,
+  FAE l'Atelier Gallery, Boulogne-Billancourt, France\n\nCOLLECTIVE EXHIBITIONS (selection)\n\n*
+  2018: Drawing Now\n* 2017: Small size retrospective, Galerie du Haut-Pavé, Paris,
+  France\n* Traits d'union, Dom-Art Gallery, Dax, France\n* Art Hors Normes, Lanxi
+  Gallery, Shangaï, China\n* Gaïa Gallery, Nantes, France"
 exhibitions: []
 works:
 - title: Splendor Solis VII
