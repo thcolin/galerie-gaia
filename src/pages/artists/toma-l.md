@@ -24,11 +24,11 @@ biography: "# toma-l\n\n« Je compose en associant les pleins et les vides. Les 
   sensations : le propre des objets magiques, bénéfiques.\n\nL’artiste questionne,
   doute, travaille, se tourmente, se surprend, trouve, partage, travaille encore.
   Il peint à l’estomac, au cœur. On est en apesanteur. \\[toma-l - Juin 2014 - © Galerie
-  W\\]\n\n* 2022  \n\n  Exposition \"Rétro Crade\" 19 Janvier 12 février à Galerie
-  Gaïa\n* 2020 \n\n  Exposition \"Il peint sur Nantes\"  21 Mars à la Galerie Gaïa.\n*
-  2019 \n\n  Exposition Querelle Carbone | Du 4 avril au 9 mai | Le Cosmonaute | Ateliers
-  des Capucins | Brest  \n  Art Elysée | Salon d’art du 17 au 21 Octobre | Galerie
-  Saltiel | Paris.  \n  Exposition Solo Show | Nov 2019 Galerie Saltiel | Aix-En-Provences
+  W\\]\n\n* 2022 Exposition \"Rétro Crade\" 19 Janvier 12 février à Galerie Gaïa\n*
+  2020 Exposition \"Il peint sur Nantes\"  21 Mars à la Galerie Gaïa.\n* 2019\n\n
+  \ Exposition Querelle Carbone | Du 4 avril au 9 mai | Le Cosmonaute | Ateliers des
+  Capucins | Brest  \n  Art Elysée | Salon d’art du 17 au 21 Octobre | Galerie Saltiel
+  | Paris.  \n  Exposition Solo Show | Nov 2019 Galerie Saltiel | Aix-En-Provences
   \ \n  Exposition, Installation | Juillet, Aoùt 2019 | Domaine Peyre | Robion | Luberon.
   \ \n  Exposition | Mai 2019-Mai 2020 | Galerie FREVO |8th street Greenwich Village
   | NYC.\n* 2018  \n  Art up Lille | Grand Palais | Salon d’art avec la galerie Saltiel.
@@ -75,42 +75,41 @@ biography: "# toma-l\n\n« Je compose en associant les pleins et les vides. Les 
   exposition | Halle Saint-Pierre, Paris  \n  Installation et exposition | New Hôtel
   of Marseille, Marseille  \n  Exposition de dessins et signature | Librairie Mazarine,
   Paris  \n  Présentation du projet Vas-y | Salon du livre, Paris  \n  Exposition
-  de dessins et installation | L’Index, Nantes\n* 2011  \n  Marseille, février et
-  mars 2011. Le peintre, épaulé d’une équipe d’auteur, designer graphique, photographe
+  de dessins et installation | L’Index, Nantes\n* 2011 Marseille, février et mars
+  2011. Le peintre, épaulé d’une équipe d’auteur, designer graphique, photographe
   et vidéaste s’immergent dans une galerie-atelier pour donner naissance à une matière
   nouvelle, entièrement destinée à l’édition. Le projet, baptisé **_Vas-y_** est envisagé
   comme un huis-clos créatif. Auto édition coproduite par Thomas Labarthe et Sébastien
-  Fritsch.\n* 2009  \n  Courant 2009, la rencontre avec son agent Sébastien Fritsch
-  donne lieu à une série d’expositions et de nombreux projets créatifs dans le sud
-  de la France.Engagé dans son élan artistique, Thomas Labarthe sait aussi engager
-  les autres. Aujourd’hui, vidéaste, photographe, auteur, graphiste et scénographe
-  mutualisent leurs savoir-faire autour du peintre.\n* 2008  \n  Il est exposé en
-  France par la Galerie Id‑Art (Paris, 3e) et se rend à deux reprises à New-York,
-  pour des résidences.\n* 2006  \n  Il présente Figures Libres au Centre Altercultura
-  à Barcelone. Initialement exutoire, sa création se structure de plus en plus. Thomas
-  Labarthe trouve ses formats, commence à définir ses masses, ses formes et ses couleurs.
-  Riche et féconde, son expérience de vie en Espagne le lie aux chromies du sud. À
-  voir son travail, beaucoup invoquent d’ailleurs Joan Miró. D’autres citent Dubuffet
-  ou Basquiat. Thomas, lui, peint à l’estomac, au cœur.\n* 2001  \n  Thomas Labarthe
-  découvre **Jean Dubuffet au Centre Pompidou**. Une rétrospective qui constitue pour
-  lui un « véritable électrochoc ». 3 mois plus tard, il peint Mala bestia, sa première
-  toile. Le temps des expositions suivra : Paris, Carhaix, Nantes, Tours.\n\n\"I compose
-  by combining solids and voids. The masses are dark, medium and light. The light
-  comes from the canvas or from the color. The subject then imposes itself on me\"
-  says Toma-l.\n\nHis forms are living characters, his gestures are flexible. Do we
-  recognize, here, right side up, upside down, askew, one of the imaginary entities
-  of the artist? And, there, don't they form, with two, with three, with four like
-  a family of heart, which exchanges, discusses?\n\nGrease pencil, acrylic, oil, oil
-  pastel, paper, canvas worn, scratched, cut... The letters of his alphabet is the
-  color, colors. First and primary like Miró. Pure colors that contrast with each
-  other: there is movement in the colors at toma-l, the color at him is volume, a
-  third dimension.\n\nToma-l makes you feel good, like a person, a group of people,
-  that you meet and that makes you feel good. The color and the movement that his
-  works give off go beyond the pictorial dimension to provide other effects, other
-  sensations: the characteristic of magical, beneficial objects.\n\nThe artist questions,
-  doubts, works, torments himself, surprises himself, finds, shares, works again.
-  He paints to the stomach, to the heart. We are weightless. \\[toma-l - June 2014
-  - © Galerie W\\]"
+  Fritsch.\n* 2009 Courant 2009, la rencontre avec son agent Sébastien Fritsch donne
+  lieu à une série d’expositions et de nombreux projets créatifs dans le sud de la
+  France.Engagé dans son élan artistique, Thomas Labarthe sait aussi engager les autres.
+  Aujourd’hui, vidéaste, photographe, auteur, graphiste et scénographe mutualisent
+  leurs savoir-faire autour du peintre.\n* 2008 Il est exposé en France par la Galerie
+  Id‑Art (Paris, 3e) et se rend à deux reprises à New-York, pour des résidences.\n*
+  2006 Il présente Figures Libres au Centre Altercultura à Barcelone. Initialement
+  exutoire, sa création se structure de plus en plus. Thomas Labarthe trouve ses formats,
+  commence à définir ses masses, ses formes et ses couleurs. Riche et féconde, son
+  expérience de vie en Espagne le lie aux chromies du sud. À voir son travail, beaucoup
+  invoquent d’ailleurs Joan Miró. D’autres citent Dubuffet ou Basquiat. Thomas, lui,
+  peint à l’estomac, au cœur.\n* 2001 Thomas Labarthe découvre **Jean Dubuffet au
+  Centre Pompidou**. Une rétrospective qui constitue pour lui un « véritable électrochoc
+  ». 3 mois plus tard, il peint Mala bestia, sa première toile. Le temps des expositions
+  suivra : Paris, Carhaix, Nantes, Tours.\n\n\"I compose by combining solids and voids.
+  The masses are dark, medium and light. The light comes from the canvas or from the
+  color. The subject then imposes itself on me\" says Toma-l.\n\nHis forms are living
+  characters, his gestures are flexible. Do we recognize, here, right side up, upside
+  down, askew, one of the imaginary entities of the artist? And, there, don't they
+  form, with two, with three, with four like a family of heart, which exchanges, discusses?\n\nGrease
+  pencil, acrylic, oil, oil pastel, paper, canvas worn, scratched, cut... The letters
+  of his alphabet is the color, colors. First and primary like Miró. Pure colors that
+  contrast with each other: there is movement in the colors at toma-l, the color at
+  him is volume, a third dimension.\n\nToma-l makes you feel good, like a person,
+  a group of people, that you meet and that makes you feel good. The color and the
+  movement that his works give off go beyond the pictorial dimension to provide other
+  effects, other sensations: the characteristic of magical, beneficial objects.\n\nThe
+  artist questions, doubts, works, torments himself, surprises himself, finds, shares,
+  works again. He paints to the stomach, to the heart. We are weightless. \\[toma-l
+  - June 2014 - © Galerie W\\]"
 exhibitions:
 - title: Rétro-Crade
   location: Nantes Galerie Gaïa
