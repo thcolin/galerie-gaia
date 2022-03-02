@@ -10,52 +10,55 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Pierre Muckensturm\n\n« J’ai un goût prononcé pour la fantaisie, avec
-  une tolérance de plus ou moins deux virgule deux degrés. » s’amuse Pierre Muckensturm.
-  \ \n  \nDans la série intitulée _\\[Entasis\\]_ qu’il développe depuis 2019, l’artiste
-  s’intéresse à l’incidence de la ligne courbe sur la perception des constructions
-  rigoureusement orthogonales.  \n  \nL’Entasis, c’est appliquer une imperceptible
-  courbure qui permet à ce qui n’est pas droit de paraître droit. Pour corriger la
-  légère déformation créée par la perspective, les architectes de l’antiquité grecque
-  bombaient finement les colonnes de leurs temples pour que l’œil rationnel dresse
-  le cerveau irrationnel à voir une perfection rectiligne absente. Ou au-delà de la
-  perfection…  \n  \nC’est ce jeu de la règle déréglée qui intéresse et que décline
-  Pierre Muckensturm. Une recherche ludique, une compulsion maîtrisée se déployant
-  en pratique sérielle. Elle génère ces chorégraphies d’équerres tournées, retournées,
-  alignées, désalignées tournoyant sur le blanc de ses toiles accrochées en monômes,
-  en binômes, par trois ou quatre, en damiers… Les fruits incertains et fragiles de
-  la rigueur mathématique détournée. Des carrés qui s’excusent de ne pas l’être…  \n
-  \ \nSon geste plastique colonise le support – toile, papier, murs d’accrochage –,
-  joue l’entre cadres, scande la fiction d’une articulation rigoureuse générant de
-  l’instable, du traviole, du doute et finalement une débauche là où aurait dû s’afficher
-  un garde-à-vous.  \n  \nUne musique pour l’œil (et l’esprit). Une tension de sarabande
-  comme celle d’une partita de Bach avec la même volonté d’épuiser un motif pour accéder
-  à son épure.  \n  \nLuc Maechel - journaliste et critique d’art  \nColmar 2020\n\nL'artiste
-  né en 1970 à Strasbourg, vit et travaille à Colmar. \n\nDepuis 1995  Pierre  Muckensturm
-  \ mène un travail plastique avec constance, distant de tout effet de mode, dans
-  lequel apparaît la volonté de réfléchir le tableau comme une clé de compréhension
-  du rapport que nous pouvons avoir à notre propre temporalité. Le processus fondateur
-  du travail de Pierre Muckensturm trouve son origine dans une visite de la chapelle
-  de Ronchamp, œuvre maîtresse de l’architecte Charles Edouard Jeanneret. Là, il comprend
-  qu’une justesse peut être puisée dans un subtil dialogue entre massivité et élévation.
-  Dès lors, l'artiste décide d’adopter un langage formel simple : le tableau se construira
-  à partir de deux pôles : un tracé massif s’allégeant par sa juxtaposition à des
-  vides. Cette simplicité formelle sera associée à une matérialité très dépouillée,
-  qui inscrira l’oeuvre dans un temps indicible. L'artiste a franchi un pas important
-  dans ses recherches par une pratique assidue de la gravure notamment au sein des
-  ateliers Rémy Bucciali. Elle participe à une évolution de sa peinture : son oeuvre
-  gravée s’applique, par des déploiements de lignes contenues qui peuvent se faire
-  formes, à fixer sa perception temporelle ressentie lors d’une résidence sur le continent
-  africain. Pierre Muckensturm veille depuis toujours à ce que ses oeuvres tant gravées
-  que peintes soient, comme ont pu l’être en leur temps les peintures japonaises,
+biography: "# Pierre Muckensturm\n\n> L'artiste crée et le spectateur imagine la suite
+  de l'oeuvre...\n\nL’artiste est actuellement représenté par la galerie La Ligne,
+  à Zürich, prônant l’art minimaliste.\n\nDepuis 1995 Pierre Muckensturm mène un travail
+  plastique avec constance, distant de tout effet de mode, dans lequel apparaît la
+  volonté de réfléchir le tableau comme une clé de compréhension du rapport que nous
+  pouvons avoir à notre propre temporalité. Le processus fondateur du travail de Pierre
+  Muckensturm trouve son origine dans une visite de la chapelle de Ronchamp, œuvre
+  maîtresse de l’architecte Charles Edouard Jeanneret.\n\nLà, il comprend qu’une justesse
+  peut être puisée dans un subtil dialogue entre massivité et élévation. Dès lors,
+  l'artiste décide d’adopter un langage formel simple : le tableau se construira à
+  partir de deux pôles : un tracé massif s’allégeant par sa juxtaposition à des vides.
+  Cette simplicité formelle sera associée à une matérialité très dépouillée, qui inscrira
+  l’oeuvre dans un temps indicible. L'artiste a franchi un pas important dans ses
+  recherches par une pratique assidue de la gravure notamment au sein des ateliers
+  Rémy Bucciali. Elle participe à une évolution de sa peinture : son oeuvre gravée
+  s’applique, par des déploiements de lignes contenues qui peuvent se faire formes,
+  à fixer sa perception temporelle ressentie lors d’une résidence sur le continent
+  africain.\n\nPierre Muckensturm veille depuis toujours à ce que ses oeuvres tant
+  gravées que peintes soient, comme ont pu l’être en leur temps les peintures japonaises,
   des «objets tranquilles», des formes silencieuses. Il appuie ses recherches sur
   la certitude que, comme a pu l’affirmer Julius Bissier : « le calme est plus grand
-  que la tempête»\n\nP i e r r e    M u c k e n s t u r m  est actuellement représenté
-  par :\n\nGalerie [La Ligne Zurich](http://www.galerie-la-ligne.ch/index.php \"galerie
-  la ligne zurich\")\n\nGalerie IDEELART/ London Galerie Lazarew . Paris + Bruxelles
-  . Galerie Michelle Champetier . Cannes . Galerie KAZoART . www . Paris . Galerie
-  Hus . Paris . Galerie Leizorovici . Paris . Galerie Rémy Bucciali . Colmar . Galerie
-  L’espace du dedans . Lille "
+  que la tempête»\n\nL'artiste est également présents aux galeries :\n\n* Galerie
+  IDEELART/ London Galerie Lazarew . Paris + Bruxelles\n* Galerie Michelle Champetier
+  . Cannes \n* Galerie KAZoART . www . Paris  \n* Galerie Hus . Paris \n* Galerie
+  Leizorovici . Paris \n* Galerie Rémy Bucciali . Colmar \n* Galerie L’espace du dedans
+  . Lille\n\n> The artist creates and the spectator imagines the continuation of the
+  work...\n\nThe artist is currently represented by the gallery La Ligne, in Zürich,
+  advocating minimalist art.\n\nSince 1995, Pierre Muckensturm has been consistently
+  working on his art, far from any fashionable effect, in which the will to reflect
+  on the painting as a key to understanding the relationship we can have with our
+  own temporality appears. The founding process of Pierre Muckensturm's work originated
+  in a visit to the chapel in Ronchamp, the masterpiece of the architect Charles Edouard
+  Jeanneret. \n\nThere, he understood that accuracy could be found in a subtle dialogue
+  between massiveness and elevation. From then on, the artist decided to adopt a simple
+  formal language: the painting would be built from two poles: a massive line that
+  would be lightened by its juxtaposition with voids. This formal simplicity will
+  be associated with a very stripped materiality, which will inscribe the work in
+  an unspeakable time. The artist has taken an important step in his research by an
+  assiduous practice of engraving, notably within the Rémy Bucciali workshops. It
+  participates in an evolution of his painting: his engraved work applies, by deployments
+  of contained lines which can become forms, to fix his temporal perception felt during
+  a residence on the African continent. \n\nPierre Muckensturm has always made sure
+  that his engraved and painted works are, as Japanese paintings were in their time,
+  \"quiet objects\", silent forms. He bases his research on the certainty that, as
+  Julius Bissier once said: \"the calm is greater than the storm\".\n\nThe artist
+  is also present at the galleries:\n\n* IDEELART Gallery/ London Lazarew Gallery
+  . Paris + Brussels\n* Michelle Champetier Gallery . Cannes \n* Gallery KAZoART .
+  www . Paris  \n* Hus Gallery . Paris \n* Leizorovici Gallery . Paris \n* Gallery
+  Rémy Bucciali . Colmar \n* Gallery L'espace du dedans . Lille"
 exhibitions: []
 works:
 - title: XXI 40 116
