@@ -7,23 +7,26 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Franco Salas Borquez\n\nFranco Salas Borquez est né en 1979, sur  l'Île
-  de Chiloé au Sud Austral du Chili.\n\nLe travail de Franco Salas Borquez est le
-  fruit de sa réflexion consciente et inconsciente envers le monde et le caractère
-  amorale de la nature, au delà de la dichotomie du bien et du mal. C'est donc presque
-  naturellement et instinctivement que le peintre développe son travail à travers
-  la thématique de la mer déchainée. Lorsqu’il peint, Franco Salas-Borquez fait appel
-  à son intuition pour exercer des gestes chargés de force et de tension. Sa liberté
-  d’artiste s’exprime alors dans toute cette révolte et peu à peu la mer prend vie,
-  les vagues hurlent telles des âmes. Ensuite, l’agitation créatrice laisse place
-  à la patience, telle une méditation qui permet de ressentir l’intensité de l’instant. L’étape
-  finale du tableau est une sorte de recommencement, l’artiste se détache de ses peurs
-  et de sa rigueur technique. Avec ces derniers gestes, il dessine la force du vent
-  qui libère la mer de sa propre colère. À travers le langage universel et poétique
-  de l’artiste, on découvre la peinture comme force créatrice et destructive où seule
-  la beauté peut être sauvée.\n\ntexte de  Nathalie Tatai-Pogioni\n\nCollection privée:
-  \ \nMusée de la Citadelle à [St Tropez](https://www.saint-tropez.fr/culture/citadelle/
-  \"musee maritime st tropez\")  \nMusée de la marine de Madrid"
+biography: |-
+  # Franco Salas Borquez
+
+  > L'infinie possibilité d'interprétation d'un même élément : l'axe central du travail de Franco Salas Borquez
+
+  Franco Salas Borquez est né en 1979, sur l’Île de Chiloé au Sud Austral du Chili. L'artiste crée des scènes maritimes d'une beauté vertigineuse, témoignant l'immense force de la nature et de la fragilité de l'être humain. Franco Salas Borquez a pour fil conducteur la réinterprétation, et apprécie comparer un jeu d'échec au processus de peinture : les mêmes éléments sont toujours présents, mais ont une infinité de possibilités. Dans ses peintures, l'artiste propose une large quantité de détails parmettant une certaine intensité à ses oeuvres. En plus de cela, il utilise beaucoup d'étapes apportant beaucoup de nuances, de textures, de vibrations. Pour lui, la peinture est un langage subtil et poétique. Venant d'une famille de marins, Franco Salas Borquez aime faire appel à son intuition pour peindre.
+
+  COLLECTION PRIVEE :
+
+  * Musée de la Citadelle à St-Tropez, France
+  * Musée de la marine de Madrid, Espagne
+
+  > The infinite interpretation possibilities of a single element: the central theme of the work of Franco Salas Borquez
+
+  Franco Salas Borquez was born in 1979, on the island of Chiloé in the South of Chile. The artist creates maritime scenes of outstanding beauty, testifying to the immense force of nature and the fragility of the human being. Franco Salas Borquez's common thread is reinterpretation, and he likes to compare a chess game to the painting processes: the same elements are always present, but have an infinite number of possibilities. In his paintings, the artist proposes a large amount of details that give a certain intensity to his works. In addition to that, he uses a lot of steps bringing a lot of nuances, textures, vibrations. For him, painting is a subtle and poetic language. Coming from a family of sailors, Franco Salas Borquez likes to use his intuition to paint.
+
+  PRIVATE COLLECTION:
+
+  * Museum of La Citadelle in St-Tropez, France
+  * Museum of Marine in Madrid, Spain
 exhibitions:
 - title: La marche des flots
   location: Mediathèque Camille Flammarion Pornichet (44)
