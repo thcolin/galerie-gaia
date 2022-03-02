@@ -7,15 +7,20 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Adolfo Arenas Alonso\n\nAdolfo Arenas Alonso est né en 1972.   \nFormé
-  à l'Ecole des Arts et Métiers de Séville, il devient illustrateur spécialisé dans
-  le graphisme. Son art de la décadence, à la structure sauvage, est teinté d'une
-  sombre luxure.\n\nUne histoire incroyable que je vous raconterai en venant le regarder
-  à la galerie..."
+biography: |-
+  # Adolfo Arenas Alonso
+
+  > L'usage du graphite traduisant la luxure
+
+  Adolfo Arenas Alonso est né en 1972. Natif de Séville et formé à l'Ecole des Arts et Métiers de cette même ville, il devient illustrateur spécialisé dans l'utilisation du graphite. Il se trouve actuellement à Londres. Son art de la décadence, à la structure sauvage, est teinté d'une sombre luxure.
+
+  > The usage of graphite to translate lust
+
+  Adolfo Arenas Alonso was born in 1972. Born in Seville and trained at the School of Arts and Crafts in the same city, he became an illustrator, specialized in the use of graphite. He is currently based in London. His art of decadence, with a wild structure, is tinged with a dark lust.
 exhibitions: []
 works:
 - title: Dolce immaculate
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-arenasdolce-imaculate.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-arenasdolce-imaculate.jpg
   technique: Estampe 29/75
   dimensions:
     height: 112
@@ -25,7 +30,7 @@ works:
   price: 600
   contextual: true
 - title: Sine Nob'litate "Skull and bird"
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-adolfo-arenas-alonzo-sinenoblitate-skull-and-the-bird-76x112.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-adolfo-arenas-alonzo-sinenoblitate-skull-and-the-bird-76x112.jpg
   technique: Dessin original effectué au crayon Estampe 1/1 technique du giclée sur
     papier Arches
   dimensions:
@@ -66,7 +71,7 @@ works:
   sold: false
   contextual: true
 - title: 'Sin''noblitate Extrait Skull and bird '
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-adolfo-arenas-alonzo-detail-skrull-and-bird.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-adolfo-arenas-alonzo-detail-skrull-and-bird.jpg
   technique: dessin original au crayon
   dimensions:
     height: 0
@@ -78,7 +83,7 @@ works:
   price: 1000
   contextual: true
 - title: Jocondo il bello
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-adolfo-il-jiacondo.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-adolfo-il-jiacondo.jpg
   technique: Estampe 20/50 technique du giclée sur papier Arches
   dimensions:
     height: 112
