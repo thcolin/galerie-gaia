@@ -7,40 +7,16 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Alain Clément \n\nAlain Clément est né à Neuilly-sur-Seine en 1941.\nIl
-  vit et travaille à Nîmes, Paris et Berlin.\nA partir de 1970 il enseigne à l'école
-  des Beaux-arts de Montpellier, qu'il quitte ensuite pour celle de Nîmes dont il
-  prend la direction en 1985.\nL'artiste développe depuis près de quarante ans une
-  oeuvre abstraite située entre l'expression et une recherche de la composition.\nSes
-  peintures, sculptures et gravures réunissent plaisir optique, sensibilité et force
-  de construction.\n\n**SELECTION D'EXPOSITIONS**\n\n2017\nAlain Clément, Papiers,
-  Galerie Catherine Putman, Paris, France\nAlain Clément, Musée d'art moderne de Céret,
-  France\n\n2016\nArsenal Musée de Soisson, Soissons, France\nArt Karlsruhe, Die Galerie,
-  Karlsruhe, Allemagne\n\n2015\nDie Galerie, Frankfurt, Allemagne\n\n2014\nMaison
-  de la gravure Méditerranée, Montpellier, France\n\n2013\nAlain Clément sculptures,
-  Galerie baudoin lebon, Paris, France\nGalerie Klander, Toulouse, France\n\n2012\nHôtel
-  des Arts, Toulon\nDonation Alain Clément, Musée de Céret, France\nIndia Art Fair,
-  Galerie Baudoin Lebon, New Delhi, Inde\nNirox Foundation, Sculpture Park, Johannesburg,
-  Afrique du Sud\nVilla Datris, L'Isle-sur-la-Sorgue, France\nGalerie Vömel, Düsseldorf,
-  Allemagne\n\n2011\nGalerie Oniris, Rennes, France\n\n2010\nGalerie Reitz, Cologne,
-  Alemagne, France\nNolde Stiftung Seebül, Berlin, Allemagne\nGalerie Baudoin Lebon
-  , Paris, France\nGalerie Hélène Trintignan , Montpellier, France\nArt Paris, Art
-  Fair, Galerie Baudoin Lebon, Paris, France\n\n2009\nCarré Saint-Anne, Montpellier,
-  France\nGalerie Oniris, Rennes, France\n\n2008\nGalerie Noah, Augsburg, Allemagne\nVömel
-  Gallery, Art Karlsruhe, Allemagne\nOrangerie-Reinz Gallery, Cologne, Allemagne\n\n2007\nGalerie
-  Oniris, Rennes, France\nArt Paris, Galerie Baudoin Lebon, Grand Palais, France\nSéoul
-  Art Fair, Galerie Baudoin Lebon, Corée du Sud\nGalerie Trintignan, Montpellier,
-  France\n\n2006\nK Gallery, Séoul, Corée\n\n2004\nGalerie Kandler, Toulouse, France\nGalerie
-  Oniris, Rennes, France\nGalerie Orangerie-Reinz, Cologne, Allemagne\n\n2003\nGalerie
-  Baudoin Lebon, Paris, France\nMusée Graphique, Donation Schreiner, Bad Steben, Allemagne\n\n2002\nCentre
-  régional d'art contemporain, Motbéliard, France\nMusée d'art et d'Histoire, Neuchâtel,
-  Suisse\nMusé départemental d'art ancine et contemporain, Epinal, France\n\n2001\nMusée
-  Fabre, Montpellier, France\nLa Collection, Repères et Inédits, Carré d'Art - Musée
-  d'Art Contemporain, Nîmes, France\n\n1999\nAtelier-Galerie Confluences, Nîmes, France\n\n1998\nAlain
-  Clément, couleurs passions, Galerie Piltzer, Paris, France\n\n1997\nOrangerie-Reinz
-  Gallery, Köln, Allemagne\nCarré d'Art - Musée d'Art Contemporain, Nîmes, France\n\n1996\nPaintings
-  1980-1995, Centre d'Art Contemporain, Montbeliard. France\nPaintings 1980-1995,
-  Musée d'Art Moderne, Céret, France"
+biography: |-
+  # Alain Clément
+
+  > Une peinture structurée
+
+  Alain Clément est né à Neuilly-sur-Seine en 1941. A partir de 1970 il enseigne à l’école des Beaux-arts de Montpellier. Puis, en 1985, l'artiste prend la direction des Beaux-Arts de Nîmes et quitte ainsi ceux de Montpellier.  Il vit et travaille entre Nîmes, Paris et Berlin. L’artiste développe depuis près de trente ans un portfolio d'œuvres abstraites, parmi lesquelles les sculptures, gravures, et surtout les peintures  réunissent sensibilité, structure, et plaisir optique. Les agencements muraux qu'il réalise sont de grandes lignes colorées, structurant l'environnement qu'ils occupent.
+
+  > Structured paintings
+
+  Alain Clément was born in Neuilly-sur-Seine in 1941. From 1970 he became a teacher at the School of Beaux-Arts in Montpellier. Then, in 1985, the artist took over the direction of the Beaux-Arts of Nîmes and left Montpellier's ones.  He lives and works between Nîmes, Paris and Berlin. For nearly thirty years, the artist has been developing a portfolio of abstract works, among which sculptures, engravings, and especially paintings combine sensitivity, structure, and optical pleasure. The wall arrangements he creates are large colored lines, structuring the environment they occupy.
 exhibitions: []
 works:
 - title: 06MA3G
