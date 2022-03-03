@@ -65,6 +65,58 @@ biography: "# Aline Isoard\n\n> L'utilisation de la dépigmentation photographiq
   from the realistic origins of the image and opens onto the confusion between illusion
   and intention."
 works:
+- title: Reflets 3-2019
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - reflets 3-2019, 90x90w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1800
+  contextual: true
+- title: Reflets 2-2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - reflets 2-2021,90x90wa.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1800
+  contextual: true
+- title: Reflets 2-2019
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - reflets 2-2019, 90x90w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1800
+  contextual: true
+- title: Reflets 1-2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - reflets 1-2021,90x90w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1800
+  contextual: true
 - title: Paysage sur route Argentine 7-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
     Isoard - paysage sur route Argentine 7-2020, 60x60w.jpg
