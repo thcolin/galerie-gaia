@@ -37,18 +37,6 @@ works:
   description: "2020"
   price: 90
   contextual: true
-- title: Algue - bleu sur fond vert argile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143856.jpg
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 72
-    width: 72
-    depth: 0
-  description: Format de l’œuvre avec cadre bois naturel teinté et ciré
-  price: 190
-  contextual: true
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
