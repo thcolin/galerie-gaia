@@ -65,6 +65,45 @@ biography: "# Aline Isoard\n\n> L'utilisation de la dépigmentation photographiq
   from the realistic origins of the image and opens onto the confusion between illusion
   and intention."
 works:
+- title: Paysage sur route Argentine 7-2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - paysage sur route Argentine 7-2020, 60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
+- title: Fenêtre sur route 3-2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - fenêtre sur route 3-2020, 60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
+- title: Fenêtre sur route 1-2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - fenêtre sur route 1-2020, 60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
 - title: Les objets 10-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les objets 10-2020,30x30aw.jpg
   technique: Photographie dépigmentée
