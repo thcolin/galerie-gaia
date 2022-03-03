@@ -65,6 +65,19 @@ biography: "# Aline Isoard\n\n> L'utilisation de la dépigmentation photographiq
   from the realistic origins of the image and opens onto the confusion between illusion
   and intention."
 works:
+- title: Station 12-2016
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - station 12_2016 60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
 - title: Station 6-2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
     Isoard - station 6-2017,60x60w.jpg
