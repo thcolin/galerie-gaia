@@ -65,6 +65,71 @@ biography: "# Aline Isoard\n\n> L'utilisation de la dépigmentation photographiq
   from the realistic origins of the image and opens onto the confusion between illusion
   and intention."
 works:
+- title: Station 6-2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - station 6-2017,60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
+- title: Station 3-2018
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - station 3-2018,60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
+- title: Station 3-2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - station 3-2017 60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
+- title: Station 3-2016
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - station 3_2016 60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1200
+  contextual: true
+- title: Reflets 4-2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - reflets 4-2020,90x90w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1800
+  contextual: true
 - title: Reflets 3-2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
     Isoard - reflets 3-2019, 90x90w.jpg
