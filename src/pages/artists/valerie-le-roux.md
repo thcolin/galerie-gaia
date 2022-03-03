@@ -118,6 +118,56 @@ works:
   description: ''
   price: 95
   contextual: true
+- title: Saladier XXL
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladierXXL-hxlxL.jpg.jpg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 13.5
+    width: 27.5
+    depth: 27.5
+  description: ''
+  price: 190
+  contextual: true
+- title: Saladier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladier-hxlxL.jpg.jpg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 10.5
+    width: 21
+    depth: 21
+  description: ''
+  price: 87
+  contextual: true
+- title: Bouteille
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-le
+    roux-bouteille-hxlxL.jpg.jpg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 28
+    width: 10
+    depth: 10
+  description: ''
+  price: 98
+  contextual: true
+- title: Flacon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-le
+    roux-flacon-hxlxL.jpg.jpg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 19
+    depth: 19
+  description: Pièce unique
+  price: 650
+  contextual: true
 - title: 'Trio Poissons rayés rouge orangé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
   technique: Sérigraphie 23/100
