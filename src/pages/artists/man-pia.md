@@ -25,8 +25,8 @@ biography: "Pia Laureau et Manolo Chrétien se sont rencontrés en 1987 aux Arts
   Studio - JUIN 2016"
 works:
 - title: Earthforms
-  image: ''
-  technique: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai_Manolo_Chretien_man&pia-EARTHFORMS-100x100.jpg
+  technique: Peinture acrylique sur toile
   fields: []
   styles: []
   dimensions:
@@ -39,7 +39,7 @@ works:
   contextual: true
 - title: Take a long way home
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-man&pia_Manolo_Chretien_TAKE-A-LONG-WAY-HOME-81x130.jpg
-  technique: ''
+  technique: Peinture acrylique sur toile
   fields: []
   styles: []
   dimensions:

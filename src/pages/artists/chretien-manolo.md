@@ -56,10 +56,8 @@ works:
     height: 60
     width: 90
     depth: 0
-  description: |-
-    Exemplaire 1/3
-
-    2021
+  description: "Exemplaire 1/3\n\n2021\n\n80X80 cm 3 exemplaires 3000€  \n100X100
+    cm 3 exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 3000
   sold: false
   contextual: true
@@ -72,7 +70,8 @@ works:
     height: 80
     width: 120
     depth: 0
-  description: "Exemplaire 1/3 \n\n2021"
+  description: "Exemplaire 1/3\n\n2021\n\n80X80 cm 3 exemplaires 3000€  \n100X100
+    cm 3 exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 4500
   sold: false
   contextual: true
