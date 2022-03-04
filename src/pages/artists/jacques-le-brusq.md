@@ -174,7 +174,7 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   de France Paris\n* Artothèque Angers"
 works:
 - title: Cour sud, le Prunier
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-2021-12-29-Jacques-Le-Brusq-cour-sud-le-prunier.jpg.jpg
   technique: Huile sur toile
   fields: []
   styles: []
