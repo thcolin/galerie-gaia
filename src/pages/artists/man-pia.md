@@ -34,7 +34,7 @@ works:
     width: 100
     depth: 0
   description: ''
-  price: 4500
+  price: 3500
   sold: false
   contextual: true
 - title: Take a long way home
