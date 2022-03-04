@@ -173,6 +173,22 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: Vers l'entrée, Les Douglas
+  image: ''
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 28
+    width: 32
+    depth: 0
+  description: |-
+    Taille avec encadrement : 52,5X 42,5
+
+    2010
+  price: 2500
+  sold: false
+  contextual: true
 - title: Vers le jardin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_vers
     le jardin.jpg.jpg
