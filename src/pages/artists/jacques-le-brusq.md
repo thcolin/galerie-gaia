@@ -173,9 +173,9 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
-- title: Vers l'entrée, Les Douglas
-  image: ''
-  technique: ''
+- title: Contre-jour
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie_gaia_2021-12-29_Jacques_Le_Brusq_contre_jour_julieberkovicz_HD_-01[1].jpg
+  technique: Huile sur toile
   fields: []
   styles: []
   dimensions:
@@ -183,7 +183,24 @@ works:
     width: 32
     depth: 0
   description: |-
-    Taille avec encadrement : 52,5X 42,5
+    Dimensions avec encadrement : 52,5 x 42,5cm
+
+    1998
+  price: 2500
+  sold: false
+  contextual: true
+- title: Vers l'entrée, Les Douglas
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie_gaia_2021-12-29-Jacques-Le-Brusq-vers
+    l'entrée-Les Douglas.jpg.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 28
+    width: 32
+    depth: 0
+  description: |-
+    Taille avec encadrement : 52,5 x 42,5cm
 
     2010
   price: 2500
