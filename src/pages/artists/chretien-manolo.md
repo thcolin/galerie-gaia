@@ -47,6 +47,35 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
+- title: Mirage
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-MIRAGE-60x90.jpg
+  technique: Photographie sur aluminium brossé
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 90
+    depth: 0
+  description: |-
+    Exemplaire 1/3
+
+    2021
+  price: 3000
+  sold: false
+  contextual: true
+- title: Earthforms
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai_Manolo_Chretien_man&pia-EARTHFORMS-100x100.jpg
+  technique: Photographie sur aluminium brossé
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 4500
+  sold: false
+  contextual: true
 - title: Beech Wing
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-BEECH-WING-80x120.jpg
   technique: Photographie sur aluminium brossé
@@ -56,10 +85,7 @@ works:
     height: 80
     width: 120
     depth: 0
-  description: |-
-    1/3 Exemplaires.
-
-    2021
+  description: "Exemplaire 1/3 \n\n2021"
   price: 4500
   sold: false
   contextual: true
