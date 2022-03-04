@@ -63,19 +63,6 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Earthforms
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai_Manolo_Chretien_man&pia-EARTHFORMS-100x100.jpg
-  technique: Photographie sur aluminium brossé
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 4500
-  sold: false
-  contextual: true
 - title: Beech Wing
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-BEECH-WING-80x120.jpg
   technique: Photographie sur aluminium brossé

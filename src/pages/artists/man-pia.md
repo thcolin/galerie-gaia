@@ -24,6 +24,32 @@ biography: "Pia Laureau et Manolo Chrétien se sont rencontrés en 1987 aux Arts
   - Galerie Isabelle Laverny - DU 5 AU 26 JUIN 2021  \nLondres - Galerie French Art
   Studio - JUIN 2016"
 works:
+- title: Earthforms
+  image: ''
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 4500
+  sold: false
+  contextual: true
+- title: Take a long way home
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-man&pia_Manolo_Chretien_TAKE-A-LONG-WAY-HOME-81x130.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 81
+    width: 130
+    depth: 0
+  description: ''
+  price: 4500
+  sold: false
+  contextual: true
 - title: 'A forest '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-A-FOREST-93x120.jpeg
   technique: 'Peinture acrylique sur toile '
