@@ -47,6 +47,22 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »   \n  \nDepuis le ciel jus
   et autres façades  \n\\- L’eau avec ses mouvements de surfaces, ses ondes éphémères
   crées par le courant et les vents"
 works:
+- title: Beech Wing
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-BEECH-WING-80x120.jpg
+  technique: Photographie sur aluminium brossé
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 120
+    depth: 0
+  description: |-
+    1/3 Exemplaires.
+
+    2021
+  price: 4500
+  sold: false
+  contextual: true
 - title: 'New wave #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#6.jpeg
   technique: Photographie sur aluminium brossé
@@ -55,7 +71,7 @@ works:
   dimensions:
     height: 90
     width: 145
-    depth: 0
+    depth: 
   description: Tirage en 9 exemplaires + 2 Epreuves d'Artistes
   price: 5500
   sold: false
@@ -68,7 +84,7 @@ works:
   dimensions:
     height: 68
     width: 110
-    depth: 0
+    depth: 
   description: Tirage en 9 exemplaires + 2 Epreuves d'Artistes
   price: 3500
   sold: false
@@ -81,7 +97,7 @@ works:
   dimensions:
     height: 68
     width: 110
-    depth: 0
+    depth: 
   description: Tirage en 9 exemplaires + 2 Epreuves d'Artistes
   price: 3500
   sold: false
@@ -93,9 +109,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
     exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 
@@ -109,7 +125,7 @@ works:
   dimensions:
     height: 80
     width: 80
-    depth: 0
+    depth: 
   description: ''
   price: 3000
   sold: false
@@ -122,7 +138,7 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
     exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
   price: 4500
@@ -136,7 +152,7 @@ works:
   dimensions:
     height: 120
     width: 80
-    depth: 0
+    depth: 
   description: |-
     # Manolo Chretien
 
@@ -150,9 +166,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Disponible en 150X100 6800€
   price: 4500
   sold: false
@@ -167,7 +183,7 @@ works:
   dimensions:
     height: 90
     width: 120
-    depth: 0
+    depth: 
   description: |-
     # Manolo Chretien
 
@@ -181,9 +197,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: Diptyque
   price: 5600
   sold: false
@@ -197,7 +213,7 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
     exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€\n\n140X140 cm 2 EA 8800€\n\nEdition
     limitée à 11 exemplaires"
@@ -212,7 +228,7 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: ''
   price: 4500
   sold: false
@@ -225,7 +241,7 @@ works:
   dimensions:
     height: 90
     width: 60
-    depth: 0
+    depth: 
   price: 2800
   sold: false
   contextual: true
