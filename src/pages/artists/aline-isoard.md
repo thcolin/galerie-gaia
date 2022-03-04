@@ -340,20 +340,6 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Reflet 3 _2020
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reflets 3-2020,
-    90x90wa.jpg
-  technique: Photo dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Encadrement verre anti-reflet
-  price: 1800
-  sold: false
-  contextual: true
 - title: Fenêtre sur route GF7 2014
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     GF7-2014,115x90plexi.jpg
@@ -395,20 +381,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Fenêtre sur route 3_2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
-    3-2019, 90x90a.jpg
-  technique: Photographie dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Encadrement verre antireflet
-  price: 1800
-  sold: false
-  contextual: true
 - title: Fenêtre sur route GF12_2015
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     GF12-2015,92x92verre.jpg
@@ -437,79 +409,10 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Les objets 1_2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les objets 1-2017,
-    60x60wa.jpg
-  technique: Photographie dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
-  sold: false
-  contextual: true
 - title: Station 5_2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/station 8-2019,
     60x60aw.jpg
   technique: 'Photographie dépigmentée '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
-  sold: false
-  contextual: true
-- title: Station 6_2016
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/station 6-2016 60x60wa.jpg
-  technique: 'Photographie dépigmentée '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Pièce unique
-  price: 800
-  sold: false
-  contextual: true
-- title: Fenêtre route 9_2018
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardfenêtre
-    sur route 9-2018,60x60w .jpg
-  technique: Photographie dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
-  sold: false
-  contextual: true
-- title: Fenêtre sur route 2_2018
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
-    12-2018,60x60w.jpg
-  technique: Photo dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Encadrement verre antireflet
-  price: 1200
-  sold: false
-  contextual: true
-- title: Station 7 2016
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardstation
-    7_2016 60x60w.jpg
-  technique: Photographie dépigmentée pièce unique
   fields: []
   styles: []
   dimensions:
@@ -618,20 +521,6 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: Fenêtre sur route 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-fenêtre
-    sur route 6-2020, 60x60cm.jpg
-  technique: Photo dépigmentée tirage unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  price: 800
-  sold: false
-  contextual: true
-  description: '2020 '
 - title: Livre "Apparaître, disparaître, être"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nuaud-Isoard-livre
     4.jpg
