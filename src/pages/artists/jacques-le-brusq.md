@@ -173,6 +173,22 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: Cour sud, le Prunier
+  image: ''
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 28
+    width: 32
+    depth: 0
+  description: |-
+    Dimensions avec cadre : 52,5 x 42,5cm
+
+    2005
+  price: 2500
+  sold: false
+  contextual: true
 - title: Contre-jour
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-2021-12-29-Jacques-Le-Brusq-contre-jour.jpg.jpg
   technique: Huile sur toile
