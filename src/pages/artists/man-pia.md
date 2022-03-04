@@ -47,7 +47,7 @@ works:
     width: 130
     depth: 0
   description: ''
-  price: 4500
+  price: 
   sold: false
   contextual: true
 - title: 'A forest '

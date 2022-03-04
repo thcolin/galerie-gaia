@@ -174,7 +174,7 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   de France Paris\n* Artothèque Angers"
 works:
 - title: Contre-jour
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie_gaia_2021-12-29_Jacques_Le_Brusq_contre_jour_julieberkovicz_HD_-01[1].jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-2021-12-29-Jacques-Le-Brusq-contre-jour.jpg.jpg
   technique: Huile sur toile
   fields: []
   styles: []
