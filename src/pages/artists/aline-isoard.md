@@ -65,6 +65,58 @@ biography: "# Aline Isoard\n\n> L'utilisation de la dépigmentation photographiq
   from the realistic origins of the image and opens onto the confusion between illusion
   and intention."
 works:
+- title: Les objets 10-2020
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - les objets 10-2020,30x30w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Pièce unique
+  price: 500
+  contextual: true
+- title: Habitants sur route 5-2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - habitants sur route 5-2021, 30x30w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Pièce unique
+  price: 500
+  contextual: true
+- title: Pont GF2-2016
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - pont GF2-2016,92x90w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 92
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1500
+  contextual: true
+- title: Pont 15-2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - pont 15-2021,60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1000
+  contextual: true
 - title: Station 12-2016
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
     Isoard - station 12_2016 60x60w.jpg
@@ -76,7 +128,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Station 6-2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -89,7 +141,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Station 3-2018
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -102,7 +154,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Station 3-2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
