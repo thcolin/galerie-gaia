@@ -167,7 +167,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Station 3-2016
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -180,7 +180,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Reflets 4-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -193,7 +193,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 1800
+  price: 1500
   contextual: true
 - title: Reflets 3-2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -206,7 +206,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 1800
+  price: 1500
   contextual: true
 - title: Reflets 2-2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -219,7 +219,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 1800
+  price: 1500
   contextual: true
 - title: Reflets 2-2019
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -232,7 +232,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 1800
+  price: 1500
   contextual: true
 - title: Reflets 1-2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -245,7 +245,7 @@ works:
     width: 90
     depth: 0
   description: Pièce unique
-  price: 1800
+  price: 1500
   contextual: true
 - title: Paysage sur route Argentine 7-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -258,7 +258,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Fenêtre sur route 3-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -271,7 +271,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Fenêtre sur route 1-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -284,7 +284,7 @@ works:
     width: 60
     depth: 0
   description: Pièce unique
-  price: 1200
+  price: 1000
   contextual: true
 - title: Les objets 10-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les objets 10-2020,30x30aw.jpg
@@ -297,7 +297,7 @@ works:
     depth: 0
   description: Pièce unique présentée sous passe-partout cartonné format 40X40 prêt
     à être encadrée.
-  price: 380
+  price: 500
   sold: false
   contextual: true
 - title: Habitants sur route 5 2021
@@ -311,7 +311,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 380
+  price: 500
   contextual: true
 - title: Fenêtre sur route IDF 4_2017
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
