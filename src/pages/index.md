@@ -1,12 +1,12 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-main
+    noire.jpeg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-04 EMILE 2021
     01.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100-DM
     yeux.jpeg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100-DM
-    bouche.jpeg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_Email-headerw560xh280px_v32.jpg
 redirect_from:
 - "/plan/"
