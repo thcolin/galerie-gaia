@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Février 2022
+title: Mars 2022
 location: ''
 birth: "0"
 death: "0"
@@ -50,7 +50,7 @@ works:
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
-  price: 350
+  price: ''
   contextual: true
 - title: Sculpture Alliance XII Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia victoire

@@ -147,7 +147,7 @@ works:
     height: 27
     width: 35
     depth: 0
-  description: "2022"
+  description: Réservé
   price: 350
   contextual: true
 - title: Autoportrait bleu
