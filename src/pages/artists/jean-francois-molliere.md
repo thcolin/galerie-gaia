@@ -344,8 +344,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1352.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 60
-    width: 72
+    height: 40
+    width: 40
     depth: 
   description: 'Tirage en 10 exemplaires '
   price: 590
@@ -355,8 +355,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1353.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   dimensions:
-    height: 72
-    width: 60
+    height: 40
+    width: 40
     depth: 
   description: 'Tirage en 10 exemplaires '
   price: 590
