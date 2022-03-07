@@ -39,7 +39,7 @@ const Home = ({ ...props }) => {
         <Work
           title="Dossier de Presse"
           image="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/assets-presse.jpg"
-          url="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier de Presse - Galerie Gaïa.pdf"
+          url="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier+de+Presse+-+Galerie+Gai%CC%88a.pdf"
         />
         <Work
           title="Catalogue"
