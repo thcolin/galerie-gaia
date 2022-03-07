@@ -18,7 +18,6 @@ const Contact = ({ ...props }) => {
       <section css={Contact.styles.description}>
         <h1>{frontmatter.seo.heading}</h1>
         <RichText>{frontmatter.content}</RichText>
-        <strong><a href='https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier de Presse - Galerie Gaia.pdf' target='_blank'>Dossier de Presse</a></strong>
       </section>
       <hr />
       <section css={Contact.styles.map}>
