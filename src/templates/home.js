@@ -37,18 +37,23 @@ const Home = ({ ...props }) => {
           url="/actualites"
         />
         <Work
+          title="Dossier de Presse"
+          image="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/assets-presse.jpg"
+          url="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier de Presse - Galerie Gaïa.pdf"
+        />
+        <Work
           title="Catalogue"
           image="https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/assets-catalogue.jpg"
           url="/catalogue"
         />
-        {!!selection && (
+        {/* {!!selection && (
           <Work
             title={selection.frontmatter.title}
             image={selection.frontmatter.works[1].image}
             url={selection.url}
             state={{ work: selection.frontmatter.works[1].title }}
           />
-        )}
+        )} */}
       </section>
     </Layout>
   )
