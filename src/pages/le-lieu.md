@@ -52,7 +52,8 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   or underlying.**\n\nThis selection of more than **70 artists represents a background
   of +800 works** available in the CATALOG tab with a choice of paintings, sculptures,
   photographs, drawings, engravings, lithographs, serigraphs, ceramics, tapestries
-  and unique designer objects all selected by my care."
+  and unique designer objects all selected by my care.\n\n[**Dossier de Presse**](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier%20de%20Presse%20-%20Galerie%20Gaia.pdf
+  \"Dossier de Presse\")"
 about: "Vous souhaitez recevoir les actualités de la galerie,  \nEnvie d’être invité-e
   aux prochains vernissages ?\nDo you want receive our newsletter? "
 seo:
