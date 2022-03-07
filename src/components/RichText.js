@@ -1,6 +1,6 @@
 import { createElement } from 'react'
-import { Link } from 'gatsby'
 import Youtube from 'react-youtube'
+import Link from 'components/Link'
 import Image from 'components/Image'
 import Gallery from 'components/Gallery'
 import { getYoutubeId } from 'utils/youtube'

@@ -16,7 +16,7 @@ const Home = ({ ...props }) => {
   }, [])
 
   const article = useMemo(() => pages.find(page => page.frontmatter.template === 'blog').frontmatter.articles.slice(-1).pop(), [])
-  const selection = useMemo(() => pages.find(page => page.frontmatter.template === 'artist' && page.frontmatter.fields.includes('Séléction')), [])
+  // const selection = useMemo(() => pages.find(page => page.frontmatter.template === 'artist' && page.frontmatter.fields.includes('Séléction')), [])
 
   return (
     <Layout {...props}>
