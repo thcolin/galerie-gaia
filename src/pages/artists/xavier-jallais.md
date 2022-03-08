@@ -8,26 +8,38 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "# Xavier Jallais\n\nNé en 1971, Xavier Jallais vit et travaille à Chauvigny
-  dans la Vienne.  Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire
-  de l’Art et d’un Master Pro en Conservation-Restauration des Biens Culturel (spécialité
-  peinture).\n\nAyant fait l'objet de nombreuses parutions dans la revue spécialisée
-  Miroir de l'art, Xavier Jallais est un artiste que l'on a pu retrouvé dans des foires
-  d'art contemporain comme le Plus'art du Mans et dans de nombreuses galeries du grand
-  ouest.\n\nDernières expositions :\n\n2017 : Galerie Gaia  \n2016 : Art et Connivences,
-  le Rex, Le Pouliguen (44) Familles, Galerie Emmanuelle Rousse, Saint-Savin (86)
-  Puls’art, Le Mans (72)  \n2015 :Géométries, Galerie Emmanuelle Rousse, Saint-Savin
-  (86)\nArt Atlantic, La Rochelle (17)  \n2014 :Chasseur-cueilleur, Festival L'Auberge
-  Grand'Route, La Villedieu du Clain (86)  \n2013 :Galerie Eva Doublet, Saint-Georges
-  du Bois (17)\nConvention France-Magreb, cité de la mode et du design avec la Galerie
-  Emmanuelle Rousse, Paris\nArt Atlantic, La Rochelle (17)\nL’artiste à la cour des
-  contes, rencontre d’art contemporain, château de Saint-Auvent (87)\nL’abbaye et
-  moi, Galerie Emmanuelle Rousse à l’abbaye de Saint-Savin (86)  \n2012 : Automorphies,
-  Galerie Emmanuelle Rousse, Saint-Savin (86)\nDessine-moi demain, château de Saint-Auvent
-  (87)\nL’arrivage, Troyes (10)\nPuls’art, Le Mans (72)\nLe cri, biennale d’art sacré,
-  Poitiers (86)\n\nPour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir
-  son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91
-  (max 6 personnes)"
+biography: |-
+  # Xavier Jallais
+
+  Né en 1971, Xavier Jallais vit et travaille à Chauvigny dans la Vienne.  Il est diplômé d’une licence de mathématiques, d’une Licence d’Histoire de l’Art et d’un Master Pro en Conservation-Restauration des Biens Culturel (spécialité peinture).
+
+  Ayant fait l'objet de nombreuses parutions dans la revue spécialisée Miroir de l'art, Xavier Jallais est un artiste que l'on a pu retrouvé dans des foires d'art contemporain comme le Plus'art du Mans et dans de nombreuses galeries du grand ouest.
+
+  **Expositions :**
+
+  * 2017 : Galerie Gaia
+  * 2016 : Art et Connivences, le Rex, Le Pouliguen (44) Familles, Galerie Emmanuelle Rousse, Saint-Savin (86) Puls’art, Le Mans (72)
+  * 2015 : Géométries, Galerie Emmanuelle Rousse, Saint-Savin (86) Art Atlantic, La Rochelle (17)
+  * 2014 : Chasseur-cueilleur, Festival L'Auberge Grand'Route, La Villedieu du Clain (86)
+  * 2013 : Galerie Eva Doublet, Saint-Georges du Bois (17) Convention France-Magreb, cité de la mode et du design avec la Galerie Emmanuelle Rousse, Paris Art Atlantic, La Rochelle (17) L’artiste à la cour des contes, rencontre d’art contemporain, château de Saint-Auvent (87) L’abbaye et moi, Galerie Emmanuelle Rousse à l’abbaye de Saint-Savin (86)
+  * 2012 : Automorphies, Galerie Emmanuelle Rousse, Saint-Savin (86) Dessine-moi demain, château de Saint-Auvent (87) L’arrivage, Troyes (10) Puls’art, Le Mans (72) Le cri, biennale d’art sacré, Poitiers (86)
+
+  Pour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
+
+  Born in 1971, Xavier Jallais lives and works in Chauvigny, in Vienne department.  He has a degree in mathematics, a degree in Art History and a Master's degree in Conservation-Restoration of Cultural Property (specialized in painting).
+
+  Having been the subject of numerous publications in the specialized magazine Miroir de l'art, Xavier Jallais is an artist who has been found in contemporary art fairs such as Plus'art in Le Mans and in numerous galleries in West of France.
+
+  **Last exhibitions :**
+
+  * 2017 : Gaia Gallery
+  * 2016 : Art and Connivences, the Rex, Le Pouliguen (44) Families, Gallery Emmanuelle Rousse, Saint-Savin (86) Puls'art, Le Mans (72)
+  * 2015: Geometries, Gallery Emmanuelle Rousse, Saint-Savin (86) Art Atlantic, La Rochelle (17)
+  * 2014: Hunter-gatherer, Festival L'Auberge Grand'Route, La Villedieu du Clain (86)
+  * 2013: Eva Doublet Gallery, Saint-Georges du Bois (17) Convention France-Magreb, cité de la mode et du design with Galerie Emmanuelle Rousse, Paris Art Atlantic, La Rochelle (17) L'artiste à la cour des contes, rencontre d'art contemporain, château de Saint-Auvent (87) L'abbaye et moi, Galerie Emmanuelle Rousse at the abbey of Saint-Savin (86)
+  * 2012: Automorphies, Emmanuelle Rousse Gallery, Saint-Savin (86) Draw me tomorrow, Saint-Auvent castle (87) L'arrivage, Troyes (10) Puls'art, Le Mans (72) Le cri, biennale of sacred art, Poitiers (86)
+
+  To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
 - title: Il y avait tant à faire
