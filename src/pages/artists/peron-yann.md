@@ -31,6 +31,22 @@ biography: |-
   Je remercie la galerie Gaia et Elisabeth Givre pour sa confiance et sa gentillesse d’exposer mes œuvres. Peindre, exposer et vendre une toile est la poursuite d’une démarche de connaissance de soi. Je peins depuis 35 ans, peu importe l’expérience, les œuvres présentées sont issues de ce cheminement comme un murissement. J’ai envie aujourd’hui de partager, de montrer mon travail tout simplement et de goûter au plaisir de le diffuser.
 
   Alors, j’expose cette première œuvre de mon fils Emile, peinte pendant 2020, année particulière s’il en est. C’est un portrait issue d’une série, où la peinture par couches successives laisse apparaître d’autres couleurs en transparence. Ce tableau est important pour moi car il marque un tournant tant dans le changement de format et de technique que dans le sujet plus centré sur le corps, le visage et les mains."
+
+  Since my early childhood I have loved to color, to daub, to create with speed, rage and pleasure to leave my traces on all forms of paper, wood, cardboard, corrugated iron, etc. Colouring school notebooks, agendas and other course materials, extracted me from my solitary daily life to live dreamlike adventures. I spent my summer vacations in Pont-Aven between the pleasure of getting stuck in the mud, swimming in the icy water of this brackish river and observing the foliage of the Bois d'Amour where Paul Sérusier painted "Le Talisman".
+
+      Water and turpentine led me to figurative gestural expression, most often watercolored with diluted colors.
+
+  Painting opened my mind and pushed me out of my territory. I had to resist the call of painting to pursue my studies in architecture until I understood that I had to live with it. Visits to museums and exhibitions of my contemporaries influenced me and gave meaning to the free and powerfully selfish act of painting.
+
+  It is a time for oneself. A gesture linked to the gaze that externalizes the interior, a spiritual step.
+
+  After studying applied arts at Olivier de Serres, where I observed, created and drew nudes and objects, I continued my training by taking courses in painting live models at the Paris City Hall. The pleasure of painting overwhelmed me and remains today a sky of youth, a bubble of air which allows me to breathe the soul which guides me.
+
+  Very little exposed by fear and probably by embarrassment, I experimented techniques and very different subjects under the frame of the studio. To expose oneself is to come up against the gaze of the other or to become, for a moment, his collection. It is to take the risk of being hated or loved or worse, left indifferent. Painting is an act of breathing, of concentration which leads to an expressive graphic result which contains clumsiness, finds, mixes, repentances, the moment of the realization which freezes in time the colors and the subject. Figurative, I paint with my body, and I enjoy the materials spread out like cooking. My senses vibrate, the eye scans, my feverish hands shake three or four brushes between each hand and the material flows in large touches beyond the contours. The end result is a fragment of painting, nothing else: a piece of expression that now evolves outside and becomes independent. Marked with the seal of the time of its creation, sometimes with several cartouches, the painting becomes a property in its own right in its frame designed and personalized by its author.
+
+  I thank the Gaia gallery and Elisabeth Givre for its confidence and its kindness to expose my works. Painting, exhibiting and selling a painting is the continuation of a process of self-knowledge. I have been painting for 35 years, no matter what the experience, the works presented are the result of this journey as a maturation. Today I want to share, to show my work simply and to taste the pleasure of spreading it.
+
+  So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
 - title: Emile 2021-04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
@@ -60,7 +76,7 @@ works:
   dimensions:
     height: 130
     width: 90
-    depth: 0
+    depth: 
   description: Sublime pose de dos qui révèle grâce à la lumière, le monde infini
     qui se décline sur la peau du modèle. La force de l'instant cristallisée dans
     un tourment de tâches et de teintes mi sombres, terreuses et sourdes comme si
@@ -94,7 +110,7 @@ works:
   dimensions:
     height: 117
     width: 90
-    depth: 0
+    depth: 
   description: '09-2020'
   price: 3500
   sold: false
@@ -109,7 +125,7 @@ works:
   dimensions:
     height: 122
     width: 100
-    depth: 0
+    depth: 
   description: ''
   price: 3800
   sold: false
