@@ -150,6 +150,19 @@ works:
   description: Réservé
   price: 350
   contextual: true
+- title: Main rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-main
+    rose.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 35
+    width: 27
+    depth: 0
+  description: '2022, classieusement irrévérencieux comme il se doit avec Laure '
+  price: 350
+  contextual: true
 - title: Autoportrait bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
     bleu-160X130.jpeg

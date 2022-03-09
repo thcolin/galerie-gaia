@@ -305,18 +305,6 @@ works:
   description: "2021 Caisse américaine chêne format 124X84 cm  \nprix sur demande"
   price: ''
   contextual: true
-- title: FOR 17 Fraîcheur - colors and paper
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021042001-FOR17FRAICHEUR-ColorsonPaper-120x80cm_bd_1000p.jpg
-  technique: Technqiue mixte velin sur papier d'Arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 80
-    depth: 0
-  description: "2021 Caisse américaine chêne format 124X84 cm  \nPrix sur demande"
-  price: ''
-  contextual: true
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg
