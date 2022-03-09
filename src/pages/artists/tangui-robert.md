@@ -7,10 +7,17 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  # Tangui Robert
-
-  Le travail artistique de Tangui Robert est à la lisière de l’architecture, de l’art et du paysage. Architecte de formation, il a toujours souhaité faire coexister cette pratique avec d’autres champs disciplinaires. Cette posture l’a mené à travailler de manière hybride, en mêlant expériences professionnelles, voyages à travers le monde, et recherches plus théoriques autour de la question du regard et de la perception du monde qui nous entoure. Il partage aujourd’hui son temps entre travaux artistiques, collaborations avec l’agence _tact architectes_ et enseignement à l’Ecole d’Architecture de Nantes.
+biography: "# Tangui Robert\n\nTangui Robert est un architecte de formation, et est
+  artiste le reste de son temps. Son travail est un mélange entre l'architecture,
+  l'analyse des paysages, et l'art. Son souhait d'associer l'architecture avec d'autres
+  pratiques l'a mené à voyager, rechercher, analyser, et utiliser ses différentes
+  expériences professionnelles. Aujourd'hui, il collabore avec l'agence Tact Architectes,
+  enseigne à l'Ecole d'Architecture de Nantes, et créé. \n\nTangui Robert is an architect
+  by training, and an artist the rest of the time. His work is a mix between architecture,
+  landscape analysis, and art. His desire to combine architecture with other practices
+  has led him to travel, research, analyze, and utilize his various professional experiences.
+  Today, he collaborates with the agency Tact Architects, teaches at the School of
+  Architecture of Nantes, and creates. "
 exhibitions: []
 works:
 - title: Théâtre Graslin - Nantes
