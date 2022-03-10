@@ -45,6 +45,19 @@ works:
   description: "Nouveauté 2021 Fonderie Barthélémy Crest  \nPlus de photos sur demande"
   price: 5500
   contextual: false
+- title: Ronde de nuit
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia isabelle
+    healy larondedenuit.jpg
+  technique: Bronze 2/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 30
+    depth: 24
+  description: 2022 Fonderie Barthelemy
+  price: 3700
+  contextual: false
 - title: Les Albatros
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_LesAlbatros_50x43x14.jpg
   technique: Bronze n° 4/8
@@ -58,14 +71,14 @@ works:
   price: 5500
   contextual: false
 - title: Le Papillon
-  technique: Bronze 7/8
+  technique: Bronze 8/8
   fields: []
   styles: []
   dimensions:
     height: 38
     width: 20
     depth: 6
-  description: "La 7/8 est réservée (18/02/22)  \nSculpture disponible sur commande"
+  description: Sculpture disponible sur commande
   price: 1800
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
