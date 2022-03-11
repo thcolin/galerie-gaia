@@ -60,6 +60,20 @@ works:
   price: 5800
   sold: false
   contextual: true
+- title: Nano Log
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valeyrie durant
+    (1 sur 1)-2.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 2900
+  sold: false
+  contextual: false
 - title: 'Mini log en bande '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Légo 7D (1 sur
     1).jpg
