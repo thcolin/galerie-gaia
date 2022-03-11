@@ -173,6 +173,25 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: Vers le jardin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_vers
+    le jardin.jpg.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 52.5
+    width: 42.5
+    depth: 0
+  description: |-
+    Pièce unique.
+
+    Format sans cadre : 28 x 32cm
+
+    2012
+  price: 2500
+  sold: false
+  contextual: true
 - title: Cour sud, le Prunier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-2021-12-29-Jacques-Le-Brusq-cour-sud-le-prunier.jpg.jpg
   technique: Huile sur toile
@@ -219,25 +238,6 @@ works:
     Taille avec encadrement : 52,5 x 42,5cm
 
     2010
-  price: 2500
-  sold: false
-  contextual: true
-- title: Vers le jardin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_vers
-    le jardin.jpg.jpg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 52.5
-    width: 42.5
-    depth: 0
-  description: |-
-    Pièce unique.
-
-    Format sans cadre : 28 x 32cm
-
-    2012
   price: 2500
   sold: false
   contextual: true

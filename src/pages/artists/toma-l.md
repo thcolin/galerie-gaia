@@ -318,18 +318,6 @@ works:
   description: "2019  \nPrix sur demande "
   price: ''
   contextual: true
-- title: Petit crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Petit crade GGN.jpg
-  technique: Technique mixte sur papier marouflé sur bois caisse américaine chêne
-  fields: []
-  styles: []
-  dimensions:
-    height: 62
-    width: 82
-    depth: 0
-  description: 2020 Caisse américaine chêne
-  price: ''
-  contextual: true
 - title: Bonne pierre bon oeil 08
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo08.jpg
   technique: Lithographie 6/2
