@@ -128,7 +128,7 @@ works:
   sold: false
   contextual: true
 - title: Nigredo 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneGaiss_2018_nigredo.1_60X76.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nigredo 1.png
   technique: Encre de chine découpe et incision sur papier indien
   dimensions:
     height: 76
