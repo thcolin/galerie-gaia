@@ -46,6 +46,34 @@ biography: "> # Olivier Duhec \n\nOlivier Duhec est un bronzier d'art français 
   world.\n\nThe limited series of 13 MINI LOG in gold polished brass is presented
   exclusively at the Gaïa Gallery"
 works:
+- title: Mini Log en marche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
+    log MARCHE.JPG
+  technique: Laiton poli or
+  fields: []
+  styles: []
+  dimensions:
+    height: 35
+    width: 20
+    depth: 9
+  description: "Edition en 13 exemplaires   \nJambes, main et bras sont articulés "
+  price: 5800
+  sold: false
+  contextual: false
+- title: Nano log 3 finitions
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valeyrie durant
+    (2 sur 1)-5.jpg
+  technique: 'Laiton poli noir - nickel - or '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 15
+    depth: 8
+  description: "Edition en 13 exemplaires  \njambes bras et mains articulés 1kg"
+  price: 2900
+  sold: false
+  contextual: true
 - title: Nano Log or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valeyrie durant
     (2 sur 1)-3.jpg
@@ -100,20 +128,6 @@ works:
     depth: 
   description: "Nano Log  2900€  \nMini Log    5800€"
   price: 2900
-  sold: false
-  contextual: false
-- title: Mini Log en marche
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
-    log MARCHE.JPG
-  technique: Laiton poli or
-  fields: []
-  styles: []
-  dimensions:
-    height: 35
-    width: 20
-    depth: 9
-  description: "Edition en 13 exemplaires   \nJambes, main et bras sont articulés "
-  price: 5800
   sold: false
   contextual: false
 - title: Mini Log poli or en situation
