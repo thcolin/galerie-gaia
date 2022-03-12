@@ -88,18 +88,18 @@ works:
   price: 2900
   sold: false
   contextual: false
-- title: 'Mini log en bande '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Légo 7D (1 sur
-    1).jpg
-  technique: ''
+- title: 'Mini Log et Nano Log '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valeyrie durant
+    (2 sur 1)-6.jpg
+  technique: Laiton ploi nickel or et noir
   fields: []
   styles: []
   dimensions:
     height: 
     width: 
     depth: 
-  description: ''
-  price: 5800
+  description: "Nano Log  2900€  \nMini Log    5800€"
+  price: 2900
   sold: false
   contextual: false
 - title: Mini Log en marche
