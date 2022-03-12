@@ -46,7 +46,7 @@ biography: "> # Olivier Duhec \n\nOlivier Duhec est un bronzier d'art français 
   world.\n\nThe limited series of 13 MINI LOG in gold polished brass is presented
   exclusively at the Gaïa Gallery"
 works:
-- title: Nano or
+- title: Nano Log or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valeyrie durant
     (2 sur 1)-3.jpg
   technique: Laiton poli or
@@ -56,21 +56,21 @@ works:
     height: 20
     width: 15
     depth: 8
-  description: "jambes bras et mains articulés   \n1 kg"
+  description: "Edition en 13 exemplaires  \njambes bras et mains articulés  \n1 kg"
   price: 2900
   sold: false
   contextual: false
-- title: Mini Log poli or
+- title: Mini Log or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
     log BRAS.JPG
-  technique: Laiton poli
+  technique: Laiton poli or
   fields: []
   styles: []
   dimensions:
     height: 35
     width: 20
     depth: 9
-  description: Edition en 13 exemplaires
+  description: "Edition en 13 exemplaires  \njambes bras et mains articulés 3kg"
   price: 5800
   sold: false
   contextual: true
@@ -84,7 +84,7 @@ works:
     height: 20
     width: 15
     depth: 8
-  description: "jambes bras et mains articlués   \n1 kg"
+  description: "Edition 13 exemplaires  \njambes bras et mains articulés  \n1 kg"
   price: 2900
   sold: false
   contextual: false
