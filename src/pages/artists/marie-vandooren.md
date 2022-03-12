@@ -68,18 +68,6 @@ works:
   price: 140
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laformeduciel3.marievandooren.découpageetsérigraphie.24x30.jpg
-- title: La forme du ciel 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laformeduciel2.marievandooren.découpageetsérigraphie.24x30.jpg
-  technique: Découpage et sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 30
-    depth: 0
-  description: ''
-  price: 140
-  contextual: true
 - title: La forme du ciel 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laformeduciel1.marievandooren.découpageetsérigraphie.24x30.jpg
   technique: Découpage et sérigraphie
