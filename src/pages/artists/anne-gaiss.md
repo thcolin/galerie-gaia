@@ -40,6 +40,31 @@ biography: "# Anne Gaiss\n\n> Anne Gaiss: Entre macrocosme et microcosme\n\nAnne
   Gallery, Shangaï, China\n* Gaïa Gallery, Nantes, France"
 exhibitions: []
 works:
+- title: Stardust I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Anne_Gaiss_SatrdustI_46x55_acrylique_huile_feuillecuivre_marouflée_sur_toile.jpg
+  technique: Médium  Acrylique et huile sur feuilles de cuivre marouflées sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 55
+    width: 46
+    depth: 0
+  description: "2022"
+  price: 3900
+  contextual: true
+- title: Entre Mondes II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Anne_gaiss_2021_Entre_mondesII_130x80
+    - copie.jpg
+  technique: Huile et spray sur feuilles de cuivre marouflées sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 80
+    depth: 0
+  description: "2021"
+  price: 6800
+  contextual: true
 - title: Splendor Solis VII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
   technique: 'Encre de chine découpes et incisions sur feuille de cuivre marouflé
