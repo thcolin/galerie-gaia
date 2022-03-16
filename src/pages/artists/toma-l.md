@@ -132,19 +132,6 @@ works:
   description: "Montage sur châssis  \n2022 prix sur demande "
   price: 0
   contextual: true
-- title: Catalogue Expo Rétro-Crade Toma-L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-01-29 à 15.27.07.png
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[télécharger le catalogue](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Toma-L_Catalogue_RetroCrade_GaiaGalerie_10Fevrier2022_SP.pdf
-    "catalogue toma-l sans prix")'
-  price: ''
-  contextual: false
 - title: Catalogue de la collection de Galerie Gaia
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
   fields: []
@@ -153,8 +140,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Télécharger le catalogue en date du 11/02/22](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Toma-L_Catalogue_GaiaGalerie_26Janvier2022.pdf
-    "catalogue des reserves ")'
+  description: '[Télécharger le catalogue mars 2022](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/
+    "CATALOGUE TOMA L")'
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
