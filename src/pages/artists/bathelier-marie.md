@@ -72,6 +72,21 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: "(Em) Brassées 1"
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 68
+    depth: 0
+  description: ''
+  price: 700
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier ( em ) brassées 1 pigments acryl argile et calcaire sur papier 48 x
+    68 cm 700 euros.jpg
+  technique: 'Pigments acryliques, argile et calcaire sur papier '
+  sold: false
 - title: 'Lux in mare '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
     bathellier -LUX IN MARE E 47X47.jpg
@@ -81,7 +96,7 @@ works:
   dimensions:
     height: 47
     width: 47
-    depth: 0
+    depth: 
   description: '2021 encadrement montage caisson baguette blanche en bois hauteur
     de 5cm l’œuvre est épinglée sur le fond et flotte avec un esprit de liberté '
   price: 850
@@ -110,7 +125,7 @@ works:
   dimensions:
     height: 44
     width: 60
-    depth: 0
+    depth: 
   description: 'Oeuvre encadrée avec un montage caisson et verre anti-reflet, baguette
     bois blanche hauteur de la boite 3,5 cm '
   price: 650
