@@ -50,7 +50,7 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   group exhibitions. **The abstraction that is at the heart of the selection also
   gives way to more figurative works where architecture and line are frequently present
   or underlying.**\n\nThis selection of more than **70 artists represents a background
-  of +800 works** available in the CATALOG tab with a choice of paintings, sculptures,
+  of +900 works** available in the CATALOG tab with a choice of paintings, sculptures,
   photographs, drawings, engravings, lithographs, serigraphs, ceramics, tapestries
   and unique designer objects all selected by my care.\n\n[**Dossier de Presse**](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Dossier+de+Presse+-+Galerie+Gai%CC%88a.pdf
   \"Dossier de Presse\")"
