@@ -40,6 +40,19 @@ biography: "# Anne Gaiss\n\n> Anne Gaiss: Entre macrocosme et microcosme\n\nAnne
   Gallery, Shangaï, China\n* Gaïa Gallery, Nantes, France"
 exhibitions: []
 works:
+- title: Albedo IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia anne
+    gaiss albedo IV 20x20 500 euros.png.jpg
+  technique: Incisions au scalpel sur papier traditionnel indien
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
 - title: Empreinte
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia anne
     gaiss Empreinte 57x77 3200 euros.png.jpg
@@ -192,7 +205,7 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Nigredo 1
+- title: Nigredo IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nigredo 1.png
   technique: Encre de chine découpe et incision sur papier indien
   dimensions:
@@ -200,7 +213,7 @@ works:
     width: 50
     depth: 
   description: Œuvre encadrée verre anti reflet
-  price: 3200
+  price: 2900
   sold: false
   contextual: false
 - title: Portrait Anne Gaiss
