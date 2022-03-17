@@ -46,8 +46,8 @@ works:
   price: 5500
   contextual: false
 - title: Ronde de nuit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-isabelle
-    healy-larondedenuit.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-ronde
+    de nuit.jpg
   technique: Bronze 2/8
   fields: []
   styles: []
