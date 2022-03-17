@@ -72,6 +72,36 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Vent du soir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier vent du soir 3 pigments et argile sur sculpture bois 43 x 28 x 6 700
+    euros.jpg
+  technique: Pigments et argile sur sculpture bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 43
+    width: 28
+    depth: 6
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
+- title: Vent du soir 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier vent du soir 2 pigments et argile sur sculpture bois 33 x 29 x 6 600
+    euros.jpg
+  technique: Pigments et argile sur sculpture bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 33
+    width: 29
+    depth: 6
+  description: ''
+  price: 600
+  sold: false
+  contextual: false
 - title: Vent du soir 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 1 pigments et argile sur sculpture bois 43 x 23 x 6 700
