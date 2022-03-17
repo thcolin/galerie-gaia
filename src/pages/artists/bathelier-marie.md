@@ -72,6 +72,21 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Trésors 5
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier trésors 5 couleurs pig sur galet de ciment et coquillage 28 x 18 x
+    14 200 euros.jpg
+  technique: Couleurs pigmentaires sur galet de ciment et coquillage
+  fields: []
+  styles: []
+  dimensions:
+    height: 28
+    width: 18
+    depth: 14
+  description: ''
+  price: 200
+  sold: false
+  contextual: false
 - title: Trésors 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier trésors 3 couleurs pigmentaires sur galet de ciment 26 x 21 x 6 200
