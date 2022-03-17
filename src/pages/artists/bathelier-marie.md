@@ -72,6 +72,21 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Vent du soir 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier vent du soir 1 pigments et argile sur sculpture bois 43 x 23 x 6 700
+    euros.jpg
+  technique: Pigments et argile sur sculpture bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 43
+    width: 23
+    depth: 6
+  description: ''
+  price: 700
+  sold: false
+  contextual: false
 - title: Soir, le ciel s'agrandit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier soir, le ciel s' agrandit sculpture bois de vigne 85 x 60 x 15 800
@@ -86,7 +101,7 @@ works:
   description: ''
   price: 800
   sold: false
-  contextual: true
+  contextual: false
 - title: Grande ronce bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
@@ -101,7 +116,7 @@ works:
   description: ''
   price: 1100
   sold: false
-  contextual: true
+  contextual: false
 - title: Les parcelles 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 4 pigments calcaire et jus de feuilles de vigne sur papier
