@@ -40,6 +40,20 @@ biography: "# Anne Gaiss\n\n> Anne Gaiss: Entre macrocosme et microcosme\n\nAnne
   Gallery, Shangaï, China\n* Gaïa Gallery, Nantes, France"
 exhibitions: []
 works:
+- title: Empreinte
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia anne
+    gaiss Empreinte 57x77 3200 euros.png.jpg
+  technique: 'Encre de chine découpes et incisions sur feuille de cuivre marouflé
+    sur papier, marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 77
+    width: 57
+    depth: 0
+  description: ''
+  price: 3200
+  contextual: true
 - title: Entre Mondes I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneFeatGaiss_Entre
     mondesI_2021_50x65cm.jpg
