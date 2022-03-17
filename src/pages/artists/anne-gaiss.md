@@ -40,19 +40,6 @@ biography: "# Anne Gaiss\n\n> Anne Gaiss: Entre macrocosme et microcosme\n\nAnne
   Gallery, Shangaï, China\n* Gaïa Gallery, Nantes, France"
 exhibitions: []
 works:
-- title: Albedo IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia anne
-    gaiss albedo IV 20x20 500 euros.png.jpg
-  technique: Incisions au scalpel sur papier traditionnel indien
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
 - title: Empreinte
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia anne
     gaiss Empreinte 57x77 3200 euros.png.jpg
@@ -67,6 +54,19 @@ works:
   description: ''
   price: 3200
   contextual: true
+- title: Albedo IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia anne
+    gaiss albedo IV 20x20 500 euros.png.jpg
+  technique: Incisions au scalpel sur papier traditionnel indien
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: ''
+  price: 500
+  contextual: true
 - title: Entre Mondes I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneFeatGaiss_Entre
     mondesI_2021_50x65cm.jpg
@@ -80,6 +80,30 @@ works:
     depth: 0
   description: "2021"
   price: 3800
+  contextual: true
+- title: Nigredo IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nigredo 1.png
+  technique: Encre de chine découpe et incision sur papier indien
+  dimensions:
+    height: 76
+    width: 50
+    depth: 
+  description: Œuvre encadrée verre anti reflet
+  price: 2900
+  sold: false
+  contextual: false
+- title: Nigredo V
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galeriegaia Anne
+    Gaiss Nigredo V 54 x 37,5 2300 euros.jpg
+  technique: Encre de chine découpe et incision sur papier indien
+  fields: []
+  styles: []
+  dimensions:
+    height: 54
+    width: 37.5
+    depth: 0
+  description: ''
+  price: 2300
   contextual: true
 - title: Stardust II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Anne_Gaiss_StarDustII_100x75_Huile_acrylique_sur_feuille_cuivre_marouflées_sur_toile.JPG
@@ -205,17 +229,6 @@ works:
   price: ''
   sold: false
   contextual: true
-- title: Nigredo IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nigredo 1.png
-  technique: Encre de chine découpe et incision sur papier indien
-  dimensions:
-    height: 76
-    width: 50
-    depth: 
-  description: Œuvre encadrée verre anti reflet
-  price: 2900
-  sold: false
-  contextual: false
 - title: Portrait Anne Gaiss
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-anne-gaiss-portrait.jpg
   fields: []
