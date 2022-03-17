@@ -72,6 +72,140 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: La nuit, la lune, soudain
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier la nuit, la lune, soudain pig acryl et eau de pluie sur toile 24 x
+    30 350 euros.jpg
+  technique: 'Pigment acrylique et eau de pluie sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 30
+    depth: 0
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
+- title: Criblée d'étoiles
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier criblée d' étoiles pig acryl et argile sur toile 24 x 30 350 euros.jpg
+  technique: Pigment acrylique et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 30
+    depth: 0
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
+- title: Heure blanche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier heure blanche pigments acryl cendre végétale et sable sur toile 30
+    x 30 400 euros.jpg
+  technique: Pigments acryliques, cendre végétale et sable sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: ''
+  price: 400
+  sold: false
+  contextual: true
+- title: Regarde les fleurs voler
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier regarde les fleurs voler pigments acyl et cendre végétale sur toile
+    100 x 73 1600 euros.jpg
+  technique: Pigment acrylique et cendre végétale sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Pluie d'été
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier pluie d' été couleurs pigmentaires et organiques sur toile 73 x 100
+    1600 euros.jpg
+  technique: Couleurs pigmentaires et organiques sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: La tête me tourne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier la tête me tourne pigments acryl terre et eau de pluie sur toile 73
+    x 100 1600 euros.jpg
+  technique: Pigments acryliques, terre et eau de pluie sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Heures bleues
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
+    x 100 1600 euros.jpg
+  technique: pigments acryliques, cendre végétale et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Bains divins
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier bains divins pigments acryl terre et eau de pluie sur toile 100 x 73
+    1600 euros.jpg
+  technique: Pigments acryliques, terre et eau de pluie sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Aux quatre coins du jardin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
+    130 x 89 3600 euros.jpg
+  technique: pigments acryliques, terre et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: ''
+  price: 3600
+  sold: false
+  contextual: true
 - title: Grandes envolées
   technique: Couleurs pigmentaires, terre et eau de pluie sur toile
   fields: []
@@ -83,7 +217,9 @@ works:
   description: ''
   price: 4800
   contextual: true
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier grandes envolées couleurs pigmentaires terre et eau de pluie sur toile
+    114 x 162 cm 4800 euros.jpg
   sold: false
 - title: "(Em) Brassées 2"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
