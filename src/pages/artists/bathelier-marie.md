@@ -72,7 +72,20 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
-- title: "( Em ) Brassées 2"
+- title: Grandes envolées
+  technique: Couleurs pigmentaires, terre et eau de pluie sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 114
+    width: 162
+    depth: 0
+  description: ''
+  price: 4800
+  contextual: true
+  image: ''
+  sold: false
+- title: "(Em) Brassées 2"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier ( em ) brassées 2 pigments acryl argile et calcaire sur papier 48 x
     68 cm 700 euros.jpg
