@@ -72,6 +72,36 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Le temps s'étire
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier le temps s' étire pigments acryliques sur bois d' azalée des Hautes
+    Pyrénées 95 x 42 x 22 700 euros.jpg
+  technique: 'Pigments acryliques sur bois d''azalée des Hautes Pyrénées '
+  fields: []
+  styles: []
+  dimensions:
+    height: 95
+    width: 42
+    depth: 22
+  description: ''
+  price: 700
+  sold: false
+  contextual: false
+- title: Jours et nuit se lèvent, tombent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier jours et nuits se lèvent tombent pig acryl et poudre de roche sur bois
+    de hêtre 22 x 32 x 106 700 euros.jpg
+  technique: Pigments acryliques et poudre de roche sur bois de hêtre
+  fields: []
+  styles: []
+  dimensions:
+    height: 106
+    width: 32
+    depth: 22
+  description: ''
+  price: 700
+  sold: false
+  contextual: false
 - title: Trésors 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier trésors 5 couleurs pig sur galet de ciment et coquillage 28 x 18 x
