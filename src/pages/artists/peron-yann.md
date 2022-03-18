@@ -111,8 +111,8 @@ works:
     height: 117
     width: 90
     depth: 
-  description: '09-2020'
-  price: 3500
+  description: Vendue
+  price: 
   sold: false
   contextual: true
 - title: Clair obscur
