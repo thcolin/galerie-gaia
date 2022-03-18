@@ -72,6 +72,34 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: La nuit, la lune, soudain
+  image: ''
+  technique: Pigments acrylique et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 30
+    depth: 0
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
+- title: Pas Japonais
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier pas japonais incrustations minérales dans galet de ciment 18 x 17 x
+    3 200 euros.jpg
+  technique: Incrustations minérales dans galet de ciment
+  fields: []
+  styles: []
+  dimensions:
+    height: 18
+    width: 17
+    depth: 3
+  description: ''
+  price: 3200
+  sold: false
+  contextual: false
 - title: Auto-portrait bouillonnant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
