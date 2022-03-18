@@ -401,14 +401,14 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Coeur de nuit
+- title: Coeur de la nuit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier coeur de nuit pigments suie et argile sur toile 23 x 30 350 euros.jpg
   technique: Pigments, suie et argile sur toile
   fields: []
   styles: []
   dimensions:
-    height: 23
+    height: 24
     width: 30
     depth: 0
   description: ''
@@ -436,7 +436,7 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 23
+    height: 24
     width: 30
     depth: 0
   description: ''
@@ -536,7 +536,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
     x 100 1600 euros.jpg
-  technique: pigments acryliques, cendre végétale et argile sur toile
+  technique: Pigments acryliques, cendre végétale et argile sur toile
   fields: []
   styles: []
   dimensions:
@@ -547,7 +547,7 @@ works:
   price: 1600
   sold: false
   contextual: true
-- title: Bains divins
+- title: Les Sources Bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier bains divins pigments acryl terre et eau de pluie sur toile 100 x 73
     1600 euros.jpg
@@ -566,7 +566,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
     130 x 89 3600 euros.jpg
-  technique: pigments acryliques, terre et argile sur toile
+  technique: Pigments acryliques, terre et argile sur toile
   fields: []
   styles: []
   dimensions:
