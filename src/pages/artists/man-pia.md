@@ -20,9 +20,16 @@ biography: "Pia Laureau et Manolo Chrétien se sont rencontrés en 1987 aux Arts
   Man&Pia, une collaboration artistique à quatre mains.\n\nLe duo s'attache à explorer
   la dynamique des courants et des distorsions qu’ils provoquent sur la matière, qu’elle
   soit durable et solide comme les arbres et autres végétaux inclinés par les vents
-  dominants, ou éphémère et liquide comme les vagues.\n\nEXPOS MARQUANTES :\n\nParis
-  - Galerie Isabelle Laverny - DU 5 AU 26 JUIN 2021  \nLondres - Galerie French Art
-  Studio - JUIN 2016"
+  dominants, ou éphémère et liquide comme les vagues.\n\n**Expositions marquantes
+  :** \n\n* Paris - Galerie Isabelle Laverny - DU 5 AU 26 JUIN 2021\n* Londres - Galerie
+  French Art Studio - JUIN 2016\n\nPia Laureau and Manolo Chrétien met in 1987 at
+  the Arts Appliqués Olivier de Serres in Paris.\n\nSince then, they have joined forces
+  to create the duo Man&Pia, a four-handed artistic collaboration.\n\nThe duo explores
+  the dynamics of currents and the distortions they cause on matter, whether it is
+  durable and solid like trees and other plants tilted by the prevailing winds, or
+  ephemeral and liquid like the waves.\n\nMemorable exhibitions :\n\n* Paris - Isabelle
+  Laverny Gallery - from 5/6 to 26/6 2021\n* Londres - French Art Studio Gallery -
+  6 2016"
 works:
 - title: Earthforms
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gai_Manolo_Chretien_man&pia-EARTHFORMS-100x100.jpg
@@ -32,7 +39,7 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: ''
   price: 3500
   sold: false
@@ -45,7 +52,7 @@ works:
   dimensions:
     height: 81
     width: 130
-    depth: 0
+    depth: 
   description: ''
   price: 
   sold: false
