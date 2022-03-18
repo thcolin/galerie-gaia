@@ -151,8 +151,8 @@ works:
   price: 350
   contextual: true
 - title: Main rose
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-main
-    rose.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Laure
+    Carre Main rose.jpg
   technique: 'Huile sur toile '
   fields: []
   styles: []
