@@ -72,6 +72,66 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Auto-portrait bouillonnant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
+    x 25 1400 euros.jpg
+  technique: Pigments acryliques et sable sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 165
+    width: 112
+    depth: 25
+  description: ''
+  price: 1400
+  sold: false
+  contextual: false
+- title: A travers les branches
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier à travers les branches sculpture bois d' abricotier 120 x 100 x 10
+    1100 euros.jpg
+  technique: Sculpture bois d'abricotier
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 10
+    depth: 10
+  description: ''
+  price: 1100
+  sold: false
+  contextual: false
+- title: Grandes envolées
+  technique: Couleurs pigmentaires, terre et eau de pluie sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 114
+    width: 162
+    depth: 0
+  description: ''
+  price: 4800
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier grandes envolées couleurs pigmentaires terre et eau de pluie sur toile
+    114 x 162 cm 4800 euros.jpg
+  sold: false
+- title: Aux quatre coins du jardin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
+    130 x 89 3600 euros.jpg
+  technique: Pigments acryliques, terre et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: ''
+  price: 3600
+  sold: false
+  contextual: true
 - title: Le temps s'étire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier le temps s' étire pigments acryliques sur bois d' azalée des Hautes
@@ -562,36 +622,6 @@ works:
   price: 1600
   sold: false
   contextual: true
-- title: Aux quatre coins du jardin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
-    130 x 89 3600 euros.jpg
-  technique: Pigments acryliques, terre et argile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: ''
-  price: 3600
-  sold: false
-  contextual: true
-- title: Grandes envolées
-  technique: Couleurs pigmentaires, terre et eau de pluie sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 114
-    width: 162
-    depth: 0
-  description: ''
-  price: 4800
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier grandes envolées couleurs pigmentaires terre et eau de pluie sur toile
-    114 x 162 cm 4800 euros.jpg
-  sold: false
 - title: "(Em) Brassées 2"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier ( em ) brassées 2 pigments acryl argile et calcaire sur papier 48 x
