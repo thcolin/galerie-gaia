@@ -121,7 +121,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier trésors 3 couleurs pigmentaires sur galet de ciment 26 x 21 x 6 200
     euros.jpg
-  technique: Couleurs pigmentaires sur galet de ciment et coquillage
+  technique: 'Couleurs pigmentaires sur galet de ciment '
   fields: []
   styles: []
   dimensions:
@@ -161,11 +161,11 @@ works:
   price: 
   sold: true
   contextual: false
-- title: Vent du soir
+- title: Vent du soir 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 3 pigments et argile sur sculpture bois 43 x 28 x 6 700
     euros.jpg
-  technique: Pigments et argile sur sculpture bois
+  technique: Pigments et argile sur bois
   fields: []
   styles: []
   dimensions:
@@ -180,7 +180,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 2 pigments et argile sur sculpture bois 33 x 29 x 6 600
     euros.jpg
-  technique: Pigments et argile sur sculpture bois
+  technique: Pigments et argile sur bois
   fields: []
   styles: []
   dimensions:
@@ -195,7 +195,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 1 pigments et argile sur sculpture bois 43 x 23 x 6 700
     euros.jpg
-  technique: Pigments et argile sur sculpture bois
+  technique: Pigments et argile sur bois
   fields: []
   styles: []
   dimensions:
@@ -225,7 +225,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
     1100 euros.jpg
-  technique: Pigments acryliques sur bois dompté
+  technique: Pigments acryliques sur liane de ronce
   fields: []
   styles: []
   dimensions:
@@ -240,7 +240,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 4 pigments calcaire et jus de feuilles de vigne sur papier
     37 x 25 cm 500 euros.jpg
-  technique: Pigments calcaire et jus de feuilles de vigne sur papier
+  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
   dimensions:
@@ -255,7 +255,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 3 pigments calcaire et jus de feuilles de vigne sur papier
     48 x 33 600 euros.jpg
-  technique: Pigments calcaire et jus de feuilles de vigne sur papier
+  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
   dimensions:
@@ -270,7 +270,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
     48 x 33 600 euros.jpg
-  technique: Pigments calcaire et jus de feuilles de vigne sur papier
+  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
   dimensions:
