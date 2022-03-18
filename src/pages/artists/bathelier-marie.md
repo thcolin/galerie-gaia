@@ -72,6 +72,36 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Modèle vivant 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
+    40 x 30 350 euros.jpg
+  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Exemplaire 1/5
+  price: 350
+  sold: false
+  contextual: true
+- title: Modèle vivant 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
+    40 x 30 350 euros.jpg
+  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Exemplaire 1/5
+  price: 350
+  sold: false
+  contextual: true
 - title: Modèle vivant 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
@@ -83,7 +113,7 @@ works:
     height: 40
     width: 30
     depth: 0
-  description: ''
+  description: Exemplaire 1/5
   price: 350
   sold: false
   contextual: true
