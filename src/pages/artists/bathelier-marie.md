@@ -72,96 +72,6 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
-- title: Modèle vivant 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
-    40 x 30 350 euros.jpg
-  technique: Tirage photographique sur fine art et contre collage sur Dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: Exemplaire 1/5
-  price: 350
-  sold: false
-  contextual: true
-- title: Modèle vivant 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
-    40 x 30 350 euros.jpg
-  technique: Tirage photographique sur fine art et contre collage sur Dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: Exemplaire 1/5
-  price: 350
-  sold: false
-  contextual: true
-- title: Modèle vivant 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
-    40 x 30 350 euros.jpg
-  technique: Tirage photographique sur fine art et contre collage sur Dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: Exemplaire 1/5
-  price: 350
-  sold: false
-  contextual: true
-- title: La nuit, la lune, soudain
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier la nuit, la lune, soudain atelier pig acryl et argile sur toile 24
-    x 30 350 euros.jpg
-  technique: Pigments acrylique et argile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 30
-    depth: 0
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-- title: Pas Japonais
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier pas japonais incrustations minérales dans galet de ciment 18 x 17 x
-    3 200 euros.jpg
-  technique: Incrustations minérales dans galet de ciment
-  fields: []
-  styles: []
-  dimensions:
-    height: 18
-    width: 17
-    depth: 3
-  description: ''
-  price: 3200
-  sold: false
-  contextual: false
-- title: Auto-portrait bouillonnant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
-    x 25 1400 euros.jpg
-  technique: Pigments acryliques et sable sur bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 165
-    width: 112
-    depth: 25
-  description: ''
-  price: 1400
-  sold: false
-  contextual: false
 - title: A travers les branches
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier à travers les branches sculpture bois d' abricotier 120 x 100 x 10
@@ -192,19 +102,109 @@ works:
     Bathellier grandes envolées couleurs pigmentaires terre et eau de pluie sur toile
     114 x 162 cm 4800 euros.jpg
   sold: false
-- title: Aux quatre coins du jardin
+- title: Heures bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
-    130 x 89 3600 euros.jpg
-  technique: Pigments acryliques, terre et argile sur toile
+    Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
+    x 100 1600 euros.jpg
+  technique: Pigments acryliques, cendre végétale et argile sur toile
   fields: []
   styles: []
   dimensions:
-    height: 130
-    width: 89
+    height: 100
+    width: 73
     depth: 0
   description: ''
-  price: 3600
+  price: 1600
+  sold: false
+  contextual: true
+- title: La tête me tourne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier la tête me tourne pigments acryl terre et eau de pluie sur toile 73
+    x 100 1600 euros.jpg
+  technique: Pigments acryliques, terre et eau de pluie sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Pluie d'été
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier pluie d' été couleurs pigmentaires et organiques sur toile 73 x 100
+    1600 euros.jpg
+  technique: Couleurs pigmentaires et organiques sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Auto-portrait bouillonnant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
+    x 25 1400 euros.jpg
+  technique: Pigments acryliques et sable sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 165
+    width: 112
+    depth: 25
+  description: ''
+  price: 1400
+  sold: false
+  contextual: false
+- title: Les Sources Bleues
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier bains divins pigments acryl terre et eau de pluie sur toile 100 x 73
+    1600 euros.jpg
+  technique: Pigments acryliques, terre et eau de pluie sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
+- title: Jours et nuit se lèvent, tombent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier jours et nuits se lèvent tombent pig acryl et poudre de roche sur bois
+    de hêtre 22 x 32 x 106 700 euros.jpg
+  technique: Pigments acryliques et poudre de roche sur bois de hêtre
+  fields: []
+  styles: []
+  dimensions:
+    height: 106
+    width: 32
+    depth: 22
+  description: ''
+  price: 700
+  sold: false
+  contextual: false
+- title: Regarde les fleurs voler
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier regarde les fleurs voler pigments acyl et cendre végétale sur toile
+    100 x 73 1600 euros.jpg
+  technique: Pigment acrylique et cendre végétale sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 73
+    depth: 0
+  description: ''
+  price: 1600
   sold: false
   contextual: true
 - title: Le temps s'étire
@@ -222,32 +222,61 @@ works:
   price: 700
   sold: false
   contextual: false
-- title: Jours et nuit se lèvent, tombent
+- title: Pas Japonais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier jours et nuits se lèvent tombent pig acryl et poudre de roche sur bois
-    de hêtre 22 x 32 x 106 700 euros.jpg
-  technique: Pigments acryliques et poudre de roche sur bois de hêtre
+    Bathellier pas japonais incrustations minérales dans galet de ciment 18 x 17 x
+    3 200 euros.jpg
+  technique: Incrustations minérales dans galet de ciment
   fields: []
   styles: []
   dimensions:
-    height: 106
-    width: 32
-    depth: 22
+    height: 18
+    width: 17
+    depth: 3
   description: ''
-  price: 700
+  price: 3200
   sold: false
   contextual: false
-- title: Trésors 5
+- title: Soir, le ciel s'agrandit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier trésors 5 couleurs pig sur galet de ciment et coquillage 28 x 18 x
-    14 200 euros.jpg
-  technique: Couleurs pigmentaires sur galet de ciment et coquillage
+    Bathellier soir, le ciel s' agrandit sculpture bois de vigne 85 x 60 x 15 800
+    euros.jpg
+  technique: 'Sculpture bois de vigne '
   fields: []
   styles: []
   dimensions:
-    height: 28
-    width: 18
-    depth: 14
+    height: 85
+    width: 60
+    depth: 15
+  description: ''
+  price: 800
+  sold: false
+  contextual: false
+- title: Trésors 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier trésors 1 pigments sur galet de ciment réservé.jpg
+  technique: Pigments sur galet de ciment
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: true
+  contextual: false
+- title: Trésors 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier trésors 2 couleurs pigmentaires sur galet de ciment 2 20 x 19 x 6 200
+    euros.jpg
+  technique: Couleurs pigmentaires sur galet de ciment
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 19
+    depth: 6
   description: ''
   price: 200
   sold: false
@@ -267,63 +296,19 @@ works:
   price: 200
   sold: false
   contextual: false
-- title: Trésors 2
+- title: Trésors 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier trésors 2 couleurs pigmentaires sur galet de ciment 2 20 x 19 x 6 200
-    euros.jpg
-  technique: Couleurs pigmentaires sur galet de ciment
+    Bathellier trésors 5 couleurs pig sur galet de ciment et coquillage 28 x 18 x
+    14 200 euros.jpg
+  technique: Couleurs pigmentaires sur galet de ciment et coquillage
   fields: []
   styles: []
   dimensions:
-    height: 20
-    width: 19
-    depth: 6
+    height: 28
+    width: 18
+    depth: 14
   description: ''
   price: 200
-  sold: false
-  contextual: false
-- title: Trésors 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier trésors 1 pigments sur galet de ciment réservé.jpg
-  technique: Pigments sur galet de ciment
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 
-  sold: true
-  contextual: false
-- title: Vent du soir 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier vent du soir 3 pigments et argile sur sculpture bois 43 x 28 x 6 700
-    euros.jpg
-  technique: Pigments et argile sur bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 43
-    width: 28
-    depth: 6
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Vent du soir 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier vent du soir 2 pigments et argile sur sculpture bois 33 x 29 x 6 600
-    euros.jpg
-  technique: Pigments et argile sur bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 33
-    width: 29
-    depth: 6
-  description: ''
-  price: 600
   sold: false
   contextual: false
 - title: Vent du soir 1
@@ -341,21 +326,111 @@ works:
   price: 700
   sold: false
   contextual: false
-- title: Soir, le ciel s'agrandit
+- title: Vent du soir 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier soir, le ciel s' agrandit sculpture bois de vigne 85 x 60 x 15 800
+    Bathellier vent du soir 2 pigments et argile sur sculpture bois 33 x 29 x 6 600
     euros.jpg
-  technique: 'Sculpture bois de vigne '
+  technique: Pigments et argile sur bois
   fields: []
   styles: []
   dimensions:
-    height: 85
-    width: 60
-    depth: 15
+    height: 33
+    width: 29
+    depth: 6
   description: ''
-  price: 800
+  price: 600
   sold: false
   contextual: false
+- title: Vent du soir 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier vent du soir 3 pigments et argile sur sculpture bois 43 x 28 x 6 700
+    euros.jpg
+  technique: Pigments et argile sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 43
+    width: 28
+    depth: 6
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
+- title: Modèle vivant 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
+    40 x 30 350 euros.jpg
+  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Exemplaire 1/5
+  price: 350
+  sold: false
+  contextual: true
+- title: Modèle vivant 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
+    40 x 30 350 euros.jpg
+  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Exemplaire 1/5
+  price: 350
+  sold: false
+  contextual: true
+- title: Modèle vivant 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
+    40 x 30 350 euros.jpg
+  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: Exemplaire 1/5
+  price: 350
+  sold: false
+  contextual: true
+- title: La nuit, la lune, soudain
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier la nuit, la lune, soudain atelier pig acryl et argile sur toile 24
+    x 30 350 euros.jpg
+  technique: Pigments acrylique et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 30
+    depth: 0
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
+- title: Aux quatre coins du jardin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
+    130 x 89 3600 euros.jpg
+  technique: Pigments acryliques, terre et argile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: ''
+  price: 3600
+  sold: false
+  contextual: true
 - title: Grande ronce bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
@@ -371,19 +446,19 @@ works:
   price: 1100
   sold: false
   contextual: false
-- title: Les parcelles 4
+- title: Les parcelles 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier les parcelles 4 pigments calcaire et jus de feuilles de vigne sur papier
-    37 x 25 cm 500 euros.jpg
+    Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
+    48 x 33 600 euros.jpg
   technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
   dimensions:
-    height: 37
-    width: 25
+    height: 48
+    width: 33
     depth: 0
   description: ''
-  price: 500
+  price: 600
   sold: false
   contextual: true
 - title: Les parcelles 3
@@ -401,26 +476,26 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Les parcelles 2
+- title: Les parcelles 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
-    48 x 33 600 euros.jpg
+    Bathellier les parcelles 4 pigments calcaire et jus de feuilles de vigne sur papier
+    37 x 25 cm 500 euros.jpg
   technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 33
+    height: 37
+    width: 25
     depth: 0
   description: ''
-  price: 600
+  price: 500
   sold: false
   contextual: true
-- title: Proches 10
+- title: Proches 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches10 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    Bathellier proches 1 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: 'Couleurs pigmentaires et organiques sur papier '
   fields: []
   styles: []
   dimensions:
@@ -431,54 +506,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 7
+- title: Proches 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 7 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Proches 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 6 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Proches 5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 5 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Proches 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
   technique: Couleurs pigmentaires et organiques sur papier
   fields: []
@@ -506,9 +536,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 2
+- title: Proches 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
   technique: Couleurs pigmentaires et organiques sur papier
   fields: []
@@ -521,11 +551,56 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 1
+- title: Proches 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 1 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    Bathellier proches 5 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: 'Couleurs pigmentaires et organiques sur papier '
+  technique: Couleurs pigmentaires et organiques sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 68
+    depth: 0
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
+- title: Proches 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier proches 6 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    700 euros.jpg
+  technique: Couleurs pigmentaires et organiques sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 68
+    depth: 0
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
+- title: Proches 7
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier proches 7 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    700 euros.jpg
+  technique: Couleurs pigmentaires et organiques sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 68
+    depth: 0
+  description: ''
+  price: 700
+  sold: false
+  contextual: true
+- title: Proches 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier proches10 couleurs pigmentaires et organiques sur papier 48 x 68 cm
+    700 euros.jpg
+  technique: Couleurs pigmentaires et organiques sur papier
   fields: []
   styles: []
   dimensions:
@@ -620,81 +695,6 @@ works:
     depth: 0
   description: ''
   price: 400
-  sold: false
-  contextual: true
-- title: Regarde les fleurs voler
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier regarde les fleurs voler pigments acyl et cendre végétale sur toile
-    100 x 73 1600 euros.jpg
-  technique: Pigment acrylique et cendre végétale sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-- title: Pluie d'été
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier pluie d' été couleurs pigmentaires et organiques sur toile 73 x 100
-    1600 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-- title: La tête me tourne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier la tête me tourne pigments acryl terre et eau de pluie sur toile 73
-    x 100 1600 euros.jpg
-  technique: Pigments acryliques, terre et eau de pluie sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-- title: Heures bleues
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
-    x 100 1600 euros.jpg
-  technique: Pigments acryliques, cendre végétale et argile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-- title: Les Sources Bleues
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier bains divins pigments acryl terre et eau de pluie sur toile 100 x 73
-    1600 euros.jpg
-  technique: Pigments acryliques, terre et eau de pluie sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: ''
-  price: 1600
   sold: false
   contextual: true
 - title: "(Em) Brassées 2"
