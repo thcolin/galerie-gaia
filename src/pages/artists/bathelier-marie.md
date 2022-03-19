@@ -4,7 +4,6 @@ title: 'Bathellier Marie '
 location: ''
 fields:
 - Peinture
-- Photographie
 birth: ''
 death: ''
 expose: true
@@ -52,7 +51,9 @@ works:
     Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
     x 25 1400 euros.jpg
   technique: Pigments acryliques et sable sur bois
-  fields: []
+  fields:
+  - Peinture
+  - " Sculpture"
   styles: []
   dimensions:
     height: 165
@@ -67,7 +68,8 @@ works:
     Bathellier à travers les branches sculpture bois d' abricotier 120 x 100 x 10
     1100 euros.jpg
   technique: Sculpture bois d'abricotier
-  fields: []
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 120
@@ -187,7 +189,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier le temps s' étire pigments acryliques sur bois d' azalée des Hautes
     Pyrénées 95 x 42 x 22 700 euros.jpg
-  technique: 'Pigments acryliques sur bois d''azalée des Hautes Pyrénées '
+  technique: 'Sculpture pigments acryliques sur bois d''azalée des Hautes Pyrénées '
   fields: []
   styles: []
   dimensions:
@@ -210,7 +212,7 @@ works:
     width: 17
     depth: 3
   description: ''
-  price: 3200
+  price: 320
   sold: false
   contextual: false
 - title: Soir, le ciel s'agrandit
@@ -218,7 +220,8 @@ works:
     Bathellier soir, le ciel s' agrandit sculpture bois de vigne 85 x 60 x 15 800
     euros.jpg
   technique: 'Sculpture bois de vigne '
-  fields: []
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 85
