@@ -294,8 +294,9 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 1 pigments et argile sur sculpture bois 43 x 23 x 6 700
     euros.jpg
-  technique: Pigments et argile sur bois
-  fields: []
+  technique: Sculpture pigments et argile sur bois
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 43
@@ -309,8 +310,9 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 2 pigments et argile sur sculpture bois 33 x 29 x 6 600
     euros.jpg
-  technique: Pigments et argile sur bois
-  fields: []
+  technique: Sculpture pigments et argile sur bois
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 33
@@ -324,8 +326,9 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 3 pigments et argile sur sculpture bois 43 x 28 x 6 700
     euros.jpg
-  technique: Pigments et argile sur bois
-  fields: []
+  technique: Sculpture pigments et argile sur bois
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 43
@@ -334,13 +337,14 @@ works:
   description: ''
   price: 700
   sold: false
-  contextual: true
+  contextual: false
 - title: Modèle vivant 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
   technique: Tirage photographique sur fine art et contre collage sur Dibond
-  fields: []
+  fields:
+  - Photographie
   styles: []
   dimensions:
     height: 40
@@ -355,7 +359,8 @@ works:
     Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
   technique: Tirage photographique sur fine art et contre collage sur Dibond
-  fields: []
+  fields:
+  - Photographie
   styles: []
   dimensions:
     height: 40
@@ -370,7 +375,8 @@ works:
     Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
   technique: Tirage photographique sur fine art et contre collage sur Dibond
-  fields: []
+  fields:
+  - Photographie
   styles: []
   dimensions:
     height: 40
@@ -414,8 +420,9 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
     1100 euros.jpg
-  technique: Pigments acryliques sur liane de ronce
-  fields: []
+  technique: Sculpture pigments acryliques sur liane de ronce
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 100
