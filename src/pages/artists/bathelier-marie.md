@@ -4,55 +4,30 @@ title: 'Bathellier Marie '
 location: ''
 fields:
 - Peinture
+- Photographie
 birth: ''
 death: ''
 expose: true
-biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Very
-  blue, very green\" est le titre d’ une chanson de Nick Waterhouse. Il ne m’ en voudra
-  pas de le lui emprunter.\n>\n> La collecte de matériaux est au cœur de ma pratique.
-  Elle invite curiosité, nouvelles explorations et renouvellement permanent.\n>\n>
-  Les fins liens tissés de ces anciens sacs de pêche m’ ont évoqués les liens qui
-  relient la pratique artistique à la nature. J’ aime les trames et les tissages,
-  les dessous - dessus, les devant - derrière.\n>\n> Leur transparence m’ ont invité
-  à utiliser les deux faces du matériau, jouant ainsi avec la traversée partielle
-  de la couleur. Plusieurs plans se juxtaposent ainsi et une profondeur se crée.\n>\n>
-  La nature est le thème de cette nouvelle série qui emprunte à Joan Mitchell une
-  écriture abstraite, débridée et heureuse.\n>\n> Invitation à s’ enf ( o ) uir dans
-  le végétal et l’ aquatique pour y puiser réconfort et énergie.\n>\n> Nature bouillonnante,
-  jaillissante, sauvage. Couleurs pigmentaires qui sondent la fraicheur de l’ eau,
-  des ombres végétales, de la terre, de l’ air.\n>\n> Régulièrement, je m’ échappe
-  randonner et part à la rencontre de sensations.\n>\n> Voyages initiatiques et inspirants,
-  riches d’ observations, d’ émotions et d’ empreintes de temps et paysages traversés.\n>\n>
-  En peinture comme au cœur de la nature, les sens sont connectés et exacerbés. L’
-  exercice en plein air permet d’ absorber force et formes nouvelles, coloramas infinis
-  et poésie.\n>\n> Cette série est arrivée sans idée pré conçues, comme une réminiscence
-  de sensations au charme primitif, revitalisant.\n>\n> Surprises dans la découverte
-  de nouveaux paysages, de sensations nouvelles, surprises dans la recherche d’ une
-  nouvelle écriture picturale.\n>\n> À la hauteur de la liberté et la joie qui accompagnent
-  mes jours d’ escapades en montagne, mer et campagne, il fallait recherché une vigueur
-  expéditive, une désinvolture joyeuse qui, bien - sûr, déborde du cadre.\n>\n> Texte
-  de Marie Bathellier Avril 2021\n\nNée en 1971, Marie Bathellier a passé son enfance
-  en Bretagne entre terre et mer.  \nAprès ses études aux Beaux-Arts de Rennes, elle
-  poursuit une année à l’Académie d’ Arts de Wroclaw - Pologne, puis entre à Paris
-  en Faculté d’Arts plastiques à La Sorbonne.\n\nL'ensemble des explorations de [Marie
-  Bathellier](https://www.mariebathellier.com/ \"https://www.mariebathellier.com/\")
-  est inspiré par l'immersion dans le [paysage](https://fr.wikipedia.org/wiki/Peinture_de_paysage)
-  et se fait ode à la puissante beauté de la nature. Pratique de randonnées en montagne,
-  découvertes de nouveaux paysages et déploiement d’ ateliers nomades. Carnets de
-  route, appareil photos, sécateur, toiles roulées et pigments l’ accompagnent. Tissages
-  végétales et peintures gestuelles se pratiquent en plein air. Travail dans la nature
-  sauvage, temps suspendu. Echos nouveaux.\n\nCette démarche de contemplation, d’
-  explorations et de déclics renouvelle en permanence son travail.\n\nL'[artiste](https://www.amelie-paris.com/fr/artistes
-  \"https://www.amelie-paris.com/fr/artistes\") construit par et avec la couleur et
-  explore des dégradés subtiles ou travaille des polychromies qui se révèlent plus
-  lentement.\n\nMarie Bathellier multiplie les expériences sensorielles et passe d'un
-  matériau à un autre. Densité minérale, vie du bois brut, douceur du tissus, qualité
-  pliable et froissable du papier japonais, souplesse d'un châssis entoilé...et la
-  couleur toujours.\n\nSes collectes d’ argile, de calcaire ou de graines mélangées
-  à ses couleurs pigmentaires offrent une variation de textures racontant la richesse
-  et la délicatesse du vivant.\n\nSculptures, installations, peintures, photographies.
-  Un travail singulier qui nous plonge dans un univers à la fois radical et poétique,
-  archaïque et gracieux.\n\n> Born in July 1971, Marie Bathellier, spent her childhood
+biography: "> # Marie Bathellier\n\n> Marie Veyron Bathellier entrelace une vie insulaire
+  et des aventures artistiques.\n>\n> Guidée par une approche instinctive et sensorielle,
+  Marie Bathellier crée des œuvres mêlant éléments archaïques et contemporains.\n\n>
+  Recherches à l’atelier, escapades au cœur des paysages et résidences artistiques
+  rythment l’année.\n\n> La nature sauvage est au coeur de sa pratique. Elle y puise
+  ses idées de process et y collecte ses matériaux.\n>\n> Des lianes de glycine, de
+  lierre ou de ronce sont choisies et coupées.\n>\n> Leur mise en volume lie la souplesse
+  du végétal et la tension de la forme.\n>\n> Ces sculptures à l’esthétique japonaise
+  racontent une quête de simplicité et de grâce en mouvements.\n>\n> Les suspensions
+  mobiles et poétiques déploient des chorégraphies dans l’espace et captivent. Rêverie
+  et sentiment d’ apesanteur.\n>\n> Les œuvres de Marie Bathellier s’ accordent, dynamisent
+  l’ espace et invitent à la contemplation. Les pièces entrelacées inspirent la composition
+  des tableaux à venir.\n>\n> Marie Veyron Bathellier observe et dessine sur toiles
+  et papiers les lignes aériennes. Ces champs délimités seront terres de jeux pour
+  la couleur. Elle enrichit sa palette pigmentaire de matières minérales et végétales.
+  Ces textures naturelles caractérisent les compositions et traduisent souvenirs précieux
+  et émotions.\n\nNée en 1971, Marie Bathellier a passé son enfance en Bretagne entre
+  terre et mer.  \nAprès ses études aux Beaux-Arts de Rennes, elle poursuit une année
+  à l’Académie d’ Arts de Wroclaw - Pologne, puis entre à Paris en Faculté d’Arts
+  plastiques à La Sorbonne.\n\n> Born in July 1971, Marie Bathellier, spent her childhood
   in Brittany between the land and the sea.\n\nShe studied Beaux-Arts in Rennes followed
   by one year in Wroclaw (Poland) at the Academy of Arts and finished at the Sorbonne
   (Paris) in the Faculté d’Arts plastiques;\n\nSince 2003, nature is her work environment
@@ -72,6 +47,21 @@ biography: "> # Marie Bathellier\n\n> Série Very blue, very green :\n>\n> \" Ve
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Auto-portrait bouillonnant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
+    x 25 1400 euros.jpg
+  technique: Pigments acryliques et sable sur bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 165
+    width: 112
+    depth: 25
+  description: ''
+  price: 1400
+  sold: false
+  contextual: false
 - title: A travers les branches
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier à travers les branches sculpture bois d' abricotier 120 x 100 x 10
@@ -147,21 +137,6 @@ works:
   price: 1600
   sold: false
   contextual: true
-- title: Auto-portrait bouillonnant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
-    x 25 1400 euros.jpg
-  technique: Pigments acryliques et sable sur bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 165
-    width: 112
-    depth: 25
-  description: ''
-  price: 1400
-  sold: false
-  contextual: false
 - title: Les Sources Bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier bains divins pigments acryl terre et eau de pluie sur toile 100 x 73
@@ -182,7 +157,8 @@ works:
     Bathellier jours et nuits se lèvent tombent pig acryl et poudre de roche sur bois
     de hêtre 22 x 32 x 106 700 euros.jpg
   technique: Pigments acryliques et poudre de roche sur bois de hêtre
-  fields: []
+  fields:
+  - Sculpture
   styles: []
   dimensions:
     height: 106
