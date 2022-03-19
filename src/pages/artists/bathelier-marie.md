@@ -762,7 +762,8 @@ works:
     - MES BAINS 7 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
     mat.jpg
   technique: pigments acrylique sur tirage photographique Fine Art mat
-  fields: []
+  fields:
+  - Photographie
   styles: []
   dimensions:
     height: 20
@@ -821,7 +822,8 @@ works:
     - MES BAINS 4 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
     mat.jpg
   technique: 'pigments acrylique sur tirage photographique Fine Art mat '
-  fields: []
+  fields:
+  - Photographie
   styles: []
   dimensions:
     height: 20
@@ -830,13 +832,14 @@ works:
   description: ''
   price: 300
   sold: false
-  contextual: false
+  contextual: true
 - title: Mes bains 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 3 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
     mat.jpg
   technique: pigments acrylique sur tirage photographique Fine Art mat (30 x 20)
-  fields: []
+  fields:
+  - Photographie
   styles: []
   dimensions:
     height: 20
@@ -967,49 +970,6 @@ works:
   - Sculpture
   styles:
   - Abstrait
-- title: Mes Bains 2 - 2021
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
-    - MES BAINS 2 - 20 x 30 cm - pigments acryl. sur tirage photographique Fine Art
-    mat.jpg
-  technique: pigments acrylique sur tirage photographique Fine Art mat
-  dimensions:
-    height: 30
-    width: 20
-    depth: 
-  description: |-
-    Tirage photographique plongé dans des bains pigmentaires.Superposition de deux paysages, l’un photographié, l’autre peint par infusions successives. Confusion entre les deux disciplines, écho aux daguerréotypes, aux bains révélateurs. Jeux de voilages partiels poudrés, transparents, irisés ou pailletés.
-
-    Ode aux bains, aux immersions de nos rêveries.
-
-    Œuvre encadrée baguette blanche 32 x 22 cm
-  price: 400
-  sold: false
-  contextual: false
-  fields:
-  - Photographie
-  styles: []
-- title: Mes Bains - 2021
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
-    - D : MES BAINS 20 x 30 cm - pigments acryl. sur tirage photographique Fine Art
-    mat.jpg'
-  technique: pigments acrylique sur tirage photographique Fine Art mat
-  dimensions:
-    height: 22
-    width: 22
-    depth: 
-  description: |-
-    Tirage photographique plongé dans des bains pigmentaires.Superposition de deux paysages, l’un photographié, l’autre peint par infusions successives. Confusion entre les deux disciplines, écho aux daguerréotypes, aux bains révélateurs. Jeux de voilages partiels poudrés, transparents, irisés ou pailletés.
-
-    Ode aux bains, aux immersions de nos rêveries.
-
-    Œuvre  encadrée baguette blanche 32 x 22 cm
-  price: 400
-  sold: false
-  contextual: true
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
 - title: Lit de camp et sculpture en situation dans Côté Ouest
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     04.jpg
