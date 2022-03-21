@@ -28,6 +28,40 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: TPDNE 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-TPDNE3 100x150cm.jpg
+  technique: Impression sur dibond 1/2
+  fields:
+  - Art numérique
+  styles:
+  - Figuratif
+  dimensions:
+    height: 150
+    width: 100
+    depth: 0
+  description: "2022  \nCe portrait n'existe pas, il a été conçu par l'artiste à partir
+    d'une banque d'image d'une centaine de portraits. Un visage imaginaire comme un
+    peintre s'inspirant d'un modèle qui lui échappe!"
+  price: 3000
+  contextual: true
+- title: TPDNE 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-TPDNE1 100x150 cm.jpg
+  technique: Impression sur dibond tirage 1/2
+  fields:
+  - Art numérique
+  styles:
+  - Figuratif
+  dimensions:
+    height: 150
+    width: 100
+    depth: 0
+  description: "2022  \nCe portrait n'existe pas, il a été conçu par l'artiste à partir
+    d'une banque d'image d'une centaine de portraits. Un visage imaginaire comme un
+    peintre s'inspirant d'un modèle qui lui échappe!"
+  price: 3000
+  contextual: true
 - title: Couple Août 1937
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Couple aout 1937  92x73cm.jpg
