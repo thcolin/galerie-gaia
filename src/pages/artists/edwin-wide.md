@@ -28,10 +28,10 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
-- title: TPDNE 3
+- title: TPDNE 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE3 100x150cm.jpg
-  technique: Impression sur dibond 1/2
+    wide-TPDNE1 100x150 cm.jpg
+  technique: Impression sur dibond tirage 1/2
   fields:
   - Art numérique
   styles:
@@ -45,10 +45,22 @@ works:
     peintre s'inspirant d'un modèle qui lui échappe!"
   price: 3000
   contextual: true
-- title: TPDNE 1
+- title: 'Affordable Art Fair Bruxelles '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_1080px_v3.jpg
+  fields:
+  - Nouveautés
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
+- title: TPDNE 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE1 100x150 cm.jpg
-  technique: Impression sur dibond tirage 1/2
+    wide-TPDNE3 100x150cm.jpg
+  technique: Impression sur dibond 1/2
   fields:
   - Art numérique
   styles:
@@ -76,6 +88,47 @@ works:
   description: "2022"
   price: 2500
   contextual: true
+- title: IDFRA DJ
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    DJ-130X81.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: "2022"
+  price: 3400
+  contextual: true
+- title: Bal Angers 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-Bal Angers 1 92x73 cm.jpg
+  technique: Acrylique sur toile
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 92
+    width: 73
+    depth: 0
+  description: "2022"
+  price: 2500
+  contextual: true
+- title: 'Hors champ '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-Hors-champ.jpg
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 116
+    width: 89
+    depth: 0
+  description: "2022"
+  price: 3400
+  contextual: true
+  technique: Acrylique sur toile
 - title: Bal Angers 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Bal Angers 3 116x89 cm.jpg
@@ -90,23 +143,22 @@ works:
   description: "2022"
   price: 2500
   contextual: true
+- title: IDFRA LGF
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    LGF-130X81.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: "2022"
+  price: 3400
+  contextual: true
 - title: Bal Angers 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Bal Angers 2  92x73cm.jpg
-  technique: Acrylique sur toile
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 92
-    width: 73
-    depth: 0
-  description: "2022"
-  price: 2500
-  contextual: true
-- title: Bal Angers 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-Bal Angers 1 92x73 cm.jpg
   technique: Acrylique sur toile
   fields:
   - Peinture
@@ -132,45 +184,7 @@ works:
   description: "2022"
   price: 2500
   contextual: true
-- title: IDFRA DJ
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
-    DJ-130X81.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3400
-  contextual: true
-- title: IDFRA LGF
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
-    LGF-130X81.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3400
-  contextual: true
-- title: 'Affordable Art Fair Bruxelles '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_1080px_v3.jpg
-  fields:
-  - Nouveautés
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
-- title: "1915"
+- title: Soldat 1915
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     Wide-SOLDAT 1915-195x130cm.jpg
   technique: 'Acrylique sur toile '
@@ -232,20 +246,6 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: 'Hors champ '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-Hors-champ.jpg
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 116
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3400
-  contextual: true
-  technique: Acrylique sur toile
 - title: 'Abandoned place #4'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
   technique: 'Photographie '
