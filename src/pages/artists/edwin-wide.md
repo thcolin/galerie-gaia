@@ -39,7 +39,7 @@ works:
     width: 89
     depth: 0
   description: "2022"
-  price: 3200
+  price: 3400
   contextual: true
 - title: IDFRA LGF
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
@@ -52,7 +52,7 @@ works:
     width: 89
     depth: 0
   description: "2022"
-  price: 3200
+  price: 3400
   contextual: true
 - title: 'Affordable Art Fair Bruxelles '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_1080px_v3.jpg
@@ -115,7 +115,7 @@ works:
     width: 70
     depth: 0
   description: "2019"
-  price: 2400
+  price: 2700
   contextual: true
 - title: 03/01/18 14:15
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg
@@ -139,7 +139,7 @@ works:
     width: 89
     depth: 0
   description: "2022"
-  price: 3200
+  price: 3400
   contextual: true
   technique: Acrylique sur toile
 - title: 'Abandoned place #4'
