@@ -128,21 +128,20 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: '25-10-17 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
-    WIDE Donnart-25.10.2017-100x70cm.jpg
-  fields: []
+- title: 'Hors champ '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-Hors-champ.jpg
+  fields:
+  - Peinture
   styles: []
   dimensions:
-    height: 100
-    width: 70
+    height: 116
+    width: 89
     depth: 0
-  description: "Vendu  \nVidéo source pour cette œuvre traitant du risque des écrans
-    sur les enfants\n\n[https://www.ina.fr/video/S667143_001](https://www.ina.fr/video/S667143_001
-    \"https://www.ina.fr/video/S667143_001\")"
-  price: ''
+  description: "2022"
+  price: 3200
   contextual: true
-  technique: Acrylique sur bois
+  technique: Acrylique sur toile
 - title: 'Abandoned place #4'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
   technique: 'Photographie '
