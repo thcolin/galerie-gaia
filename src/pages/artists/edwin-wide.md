@@ -28,11 +28,54 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
+- title: Couple Août 1937
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-Couple aout 1937  92x73cm.jpg
+  technique: Acrylique sur toile
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 92
+    width: 73
+    depth: 0
+  description: "2022"
+  price: 2500
+  contextual: true
+- title: Bal Angers 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-Bal Angers 3 116x89 cm.jpg
+  technique: Acrylique sur toile
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 92
+    width: 73
+    depth: 0
+  description: "2022"
+  price: 2500
+  contextual: true
+- title: Bal Angers 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-Bal Angers 2  92x73cm.jpg
+  technique: Acrylique sur toile
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 92
+    width: 73
+    depth: 0
+  description: "2022"
+  price: 2500
+  contextual: true
 - title: Bal Angers 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Bal Angers 1 92x73 cm.jpg
   technique: Acrylique sur toile
-  fields: []
+  fields:
+  - Peinture
   styles: []
   dimensions:
     height: 92
@@ -45,7 +88,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-117 R.I  92x73cm.jpg
   technique: Acrylique sur toile
-  fields: []
+  fields:
+  - Peinture
   styles: []
   dimensions:
     height: 92
