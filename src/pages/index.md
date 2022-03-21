@@ -1,16 +1,11 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_0685.JPG
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-emile-instagram.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/valeyrie durant
-    (2 sur 1)-6.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
-    log POMPE.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-TPDNE1 100x150 cm.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P21-04 EMILE 2021
-    01.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
+    log POMPE.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-emile-instagram.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_Email-headerw560xh280px_v32.jpg
 redirect_from:
 - "/plan/"
