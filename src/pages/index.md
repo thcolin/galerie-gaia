@@ -6,7 +6,7 @@ carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-olivier-duhec-mini
     log DOS.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-goutte collante IU Vprint 2018.jpg
+    segawa-2 balles colléesI UV print 2018.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia isabelle
     healy lesalbatros mes.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-emile-instagram.jpg

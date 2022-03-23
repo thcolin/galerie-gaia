@@ -23,6 +23,19 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: Goutte collante I Ed.6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-goutte_collante_I_UV_print_2018.jpg
+  technique: Impression UV sur polycarbonate, vernis
+  fields: []
+  styles: []
+  dimensions:
+    height: 17
+    width: 12.8
+    depth: 12.8
+  description: "2018"
+  price: 700
+  contextual: false
 - title: Snake I - blue Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Snake_I.jpg
   technique: Impression jet d'encre sur polyester
@@ -51,6 +64,19 @@ works:
   description: "50 exemplaires limités \n\nCréation en 2015 \n\nTirage en 2016"
   price: 130
   contextual: false
+- title: 2 balles collées I Ed.6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-2_balles_collées_I_UV_print_2018.jpg
+  technique: 'Impression UV sur polycarbonate '
+  fields: []
+  styles: []
+  dimensions:
+    height: 13
+    width: 13
+    depth: 18.2
+  description: "2018"
+  price: 700
+  contextual: false
 - title: Dark & Yellow Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Dark_&_Yellow.jpg
@@ -64,7 +90,7 @@ works:
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
   price: ''
   contextual: false
-- title: MASS
+- title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-MASS.jpg
   technique: 'impression jet d’encre sur polyester  '
@@ -155,32 +181,6 @@ works:
   description: Pièce unique 2017
   price: 1400
   contextual: false
-- title: Goutte collante I Ed.6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-goutte_collante_I_UV_print_2018.jpg
-  technique: Impression UV sur polycarbonate, vernis
-  fields: []
-  styles: []
-  dimensions:
-    height: 17
-    width: 12.8
-    depth: 12.8
-  description: "2018"
-  price: 700
-  contextual: false
-- title: 2 balles collées I Ed.6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-2_balles_collées_I_UV_print_2018.jpg
-  technique: 'Impression UV sur polycarbonate '
-  fields: []
-  styles: []
-  dimensions:
-    height: 13
-    width: 13
-    depth: 18.2
-  description: "2018"
-  price: 700
-  contextual: false
 - title: Red in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Red_in_Spher_UV_print_2018.jpg
@@ -205,21 +205,6 @@ works:
     width: 6.5
     depth: 6.5
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: ''
-  contextual: false
-- title: Life I Ed.25
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Life_I_Ed25_2019.jpg
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 8.5
-    width: 8.5
-    depth: 8.5
-  description: |-
-    25 exemplaires limités
-
-    Création et tirage en 2019
   price: ''
   contextual: false
 - title: Transparency III - blue Ed.50
@@ -309,23 +294,6 @@ works:
     Création et tirage en 2013
   price: ''
   contextual: false
-- title: Oeuf posé I Ed.50, échelle 2/3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-oeuf-pose.png
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 5.6
-    width: 9.6
-    depth: 9.6
-  description: |-
-    50 exemplaires limités
-
-    Création en 2015
-
-    Tirage en 2016
-  price: ''
-  contextual: false
 - title: Squares in Blue Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
   technique: 'Impression jet d''encre sur polyester '
@@ -339,21 +307,6 @@ works:
     25 exemplaires limités
 
     Création et tirage en 2018
-  price: ''
-  contextual: false
-- title: Colline imaginaire I Ed.20
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-colline-imaginaire-i.png
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 3
-    width: 14.3
-    depth: 14.3
-  description: |-
-    20 exemplaires limités
-
-    2017
   price: ''
   contextual: false
 - title: 'Les gouttes V '
