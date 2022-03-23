@@ -109,7 +109,7 @@ works:
     width: 11.3
     depth: 11.3
   description: "50 exemplaires \n\nCréation et tirage en 2011"
-  price: ''
+  price: 200
   contextual: false
 - title: Les gouttes Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -125,7 +125,7 @@ works:
     50 Exemplaires limités
 
     Création et tirage en 2016
-  price: ''
+  price: 130
   contextual: false
 - title: Green in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
