@@ -151,7 +151,7 @@ works:
     50 Exemplaires limités
 
     Création et tirage en 2016
-  price: 130
+  price: ''
   contextual: false
 - title: Green in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -168,18 +168,6 @@ works:
 
     Vernis
   price: 700
-  contextual: false
-- title: Black Cube in Blue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Black_Cube_in_Blue_2017.jpg
-  technique: encre pigmentée, acrylique, vernis, PVC
-  fields: []
-  styles: []
-  dimensions:
-    height: 13.5
-    width: 13.5
-    depth: 13.5
-  description: Pièce unique 2017
-  price: 1400
   contextual: false
 - title: Red in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -308,17 +296,6 @@ works:
 
     Création et tirage en 2018
   price: ''
-  contextual: false
-- title: 'Les gouttes V '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-gouttes-v-650.jpg
-  technique: 'Impression jet d’encre sur polyester '
-  dimensions:
-    height: 7
-    width: 11
-    depth: 11
-  description: Edition 50 exemplaires
-  price: 130
-  sold: false
   contextual: false
 - title: Collision II Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
