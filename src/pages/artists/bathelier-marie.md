@@ -11,7 +11,7 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   aventures artistiques.\n>\n> Guidée par une approche instinctive et sensorielle,
   Marie Veyron Bathellier crée des œuvres mêlant éléments archaïques et contemporains.\n\n>
   Recherches à l’atelier, escapades au cœur des paysages et résidences artistiques
-  rythment l’année.\n\n> La nature sauvage est au coeur de sa pratique. Elle y puise
+  rythment l’année.\n\n> La nature sauvage est au cœur de sa pratique. Elle y puise
   ses idées de process et y collecte ses matériaux.\n>\n> Des lianes de glycine, de
   lierre ou de ronce sont choisies et coupées.\n>\n> Leur mise en volume lie la souplesse
   du végétal et la tension de la forme.\n>\n> Ces sculptures à l’esthétique japonaise
