@@ -7,9 +7,9 @@ fields:
 birth: ''
 death: ''
 expose: true
-biography: "> # Marie Bathellier\n\n> Marie Veyron Bathellier entrelace une vie insulaire
-  et des aventures artistiques.\n>\n> Guidée par une approche instinctive et sensorielle,
-  Marie Bathellier crée des œuvres mêlant éléments archaïques et contemporains.\n\n>
+biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et des
+  aventures artistiques.\n>\n> Guidée par une approche instinctive et sensorielle,
+  Marie Veyron Bathellier crée des œuvres mêlant éléments archaïques et contemporains.\n\n>
   Recherches à l’atelier, escapades au cœur des paysages et résidences artistiques
   rythment l’année.\n\n> La nature sauvage est au coeur de sa pratique. Elle y puise
   ses idées de process et y collecte ses matériaux.\n>\n> Des lianes de glycine, de
@@ -494,11 +494,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 2
+- title: AU JARDIN 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -509,11 +509,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 3
+- title: AU JARDIN 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 3 couleurs pigmentaires et organiqes sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -524,11 +524,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 4
+- title: AU JARDIN 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -539,11 +539,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 5
+- title: AU JARDIN 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 5 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -554,11 +554,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 6
+- title: AU JARDIN 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 6 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -569,11 +569,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 7
+- title: AU JARDIN 7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 7 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -584,11 +584,11 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Proches 10
+- title: AU JARDIN 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches10 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur papier
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
   styles: []
   dimensions:
@@ -682,7 +682,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 400
+  price: 550
   sold: false
   contextual: true
 - title: "(Em) Brassées 2"
