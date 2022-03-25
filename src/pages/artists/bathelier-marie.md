@@ -399,14 +399,15 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 350
+  price: 450
   sold: false
   contextual: true
 - title: Aux quatre coins du jardin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
     130 x 89 3600 euros.jpg
-  technique: Pigments acryliques, terre et argile sur toile
+  technique: 'Pigments acryliques, terre, eau de pluies et fossilles végétaux sur
+    toile '
   fields: []
   styles: []
   dimensions:
@@ -421,7 +422,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
     1100 euros.jpg
-  technique: Sculpture pigments acryliques sur liane de ronce
+  technique: Sculpture pigments acryliques sur liane de ronce entrelacé
   fields:
   - Sculpture
   styles: []
@@ -478,11 +479,11 @@ works:
   price: 500
   sold: false
   contextual: true
-- title: Proches 1
+- title: AU JARDIN 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 1 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
-  technique: 'Couleurs pigmentaires et organiques sur papier '
+  technique: 'pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier  '
   fields: []
   styles: []
   dimensions:
