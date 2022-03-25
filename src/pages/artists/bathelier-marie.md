@@ -73,14 +73,15 @@ works:
   styles: []
   dimensions:
     height: 120
-    width: 10
+    width: 100
     depth: 10
   description: ''
   price: 1100
   sold: false
   contextual: false
 - title: Grandes envolées
-  technique: Couleurs pigmentaires, terre et eau de pluie sur toile
+  technique: Pigments acrylique, terre et eau de pluies et fossilles végétaux sur
+    toile
   fields: []
   styles: []
   dimensions:
@@ -128,7 +129,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier pluie d' été couleurs pigmentaires et organiques sur toile 73 x 100
     1600 euros.jpg
-  technique: Couleurs pigmentaires et organiques sur toile
+  technique: Pigments acrylique, terre et eau de pluie sur toile
   fields: []
   styles: []
   dimensions:
@@ -167,7 +168,7 @@ works:
     width: 32
     depth: 22
   description: ''
-  price: 700
+  price: 800
   sold: false
   contextual: false
 - title: Regarde les fleurs voler
@@ -212,7 +213,7 @@ works:
     width: 17
     depth: 3
   description: ''
-  price: 320
+  price: 200
   sold: false
   contextual: false
 - title: Soir, le ciel s'agrandit
