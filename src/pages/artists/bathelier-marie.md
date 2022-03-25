@@ -220,7 +220,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier soir, le ciel s' agrandit sculpture bois de vigne 85 x 60 x 15 800
     euros.jpg
-  technique: 'Sculpture bois de vigne '
+  technique: 'Couleurs pigmentaire e targil sur bois de vigne '
   fields:
   - Sculpture
   styles: []
@@ -258,7 +258,7 @@ works:
     width: 19
     depth: 6
   description: ''
-  price: 200
+  price: 300
   sold: false
   contextual: false
 - title: Trésors 3
@@ -273,7 +273,7 @@ works:
     width: 21
     depth: 6
   description: ''
-  price: 200
+  price: 250
   sold: false
   contextual: false
 - title: Trésors 5
@@ -288,14 +288,14 @@ works:
     width: 18
     depth: 14
   description: ''
-  price: 200
+  price: 400
   sold: false
   contextual: false
 - title: Vent du soir 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 1 pigments et argile sur sculpture bois 43 x 23 x 6 700
     euros.jpg
-  technique: Sculpture pigments et argile sur bois
+  technique: Sculpture avec couleurs pigmentaires  et argile sur bois
   fields:
   - Sculpture
   styles: []
@@ -311,7 +311,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 2 pigments et argile sur sculpture bois 33 x 29 x 6 600
     euros.jpg
-  technique: Sculpture pigments et argile sur bois
+  technique: Sculpture avec couleurs pigmentaires  et argile sur bois
   fields:
   - Sculpture
   styles: []
@@ -327,7 +327,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier vent du soir 3 pigments et argile sur sculpture bois 43 x 28 x 6 700
     euros.jpg
-  technique: Sculpture pigments et argile sur bois
+  technique: Sculpture avec couleurs pigmentaires  et argile sur bois
   fields:
   - Sculpture
   styles: []
@@ -343,7 +343,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
-  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  technique: Tirage photographique sur papier fine art et contrecollé sur Dibon
   fields:
   - Photographie
   styles: []
@@ -359,7 +359,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
-  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  technique: Tirage photographique sur papier fine art et contrecollé sur Dibon
   fields:
   - Photographie
   styles: []
@@ -375,7 +375,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
-  technique: Tirage photographique sur fine art et contre collage sur Dibond
+  technique: Tirage photographique sur papier fine art et contrecollé sur Dibon
   fields:
   - Photographie
   styles: []
