@@ -53,29 +53,6 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
-- title: Vent tournant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1278.jpg
-  technique: Acrylique sur toile
-  dimensions:
-    height: 73
-    width: 100
-    depth: 
-  description: "1975"
-  price: 4300
-  sold: false
-  contextual: true
-- title: Vent tournant en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_152811.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "1975"
-  price: 4300
-  contextual: false
 - title: Bois secs (I)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
     sec.jpg
