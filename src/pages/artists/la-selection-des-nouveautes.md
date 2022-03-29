@@ -10,21 +10,6 @@ biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **
   est disponible à la vente en galerie ou par colissimo."
 exhibitions: []
 works:
-- title: Une escapade à Bruxelles ?
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_story_v4withlogo.jpg
-  technique: 'La Galerie Gaïa sera présente à Bruxelles  '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Artistes exposés   \n[Edwin Wide](https://galeriegaia.fr/artists/edwin-wide/
-    \"edwin wide \") peinture   \n[Go Segawa](https://galeriegaia.fr/artists/go-segawa/
-    \"go segawa\") sculpture  \n[Olivier Duhec](https://galeriegaia.fr/artists/duhec-olivier/
-    \"olivier duhec mini lego\") sculpture"
-  price: ''
-  contextual: false
 - title: New Ex
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []

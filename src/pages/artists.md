@@ -2,6 +2,7 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/duhec-olivier.md
 - artist: src/pages/artists/peron-yann.md
@@ -14,7 +15,6 @@ artists:
 - artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/isthme.md
-- artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/aline-isoard.md
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/isabelle-healy.md
