@@ -4,6 +4,8 @@ title: 'Bathellier Marie '
 location: ''
 fields:
 - Peinture
+- Sculpture
+- Photographie
 birth: ''
 death: ''
 expose: true
