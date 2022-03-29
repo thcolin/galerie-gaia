@@ -48,6 +48,21 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Arbres 9
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
+    - 9 33 x 49 cm.jpg
+  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 49
+    width: 33
+    depth: 0
+  description: "Installation de 9 formats  \n49X33 cm format de chaque œuvre sur papier"
+  price: 4500
+  sold: false
+  contextual: false
 - title: Arbres 6 - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
@@ -74,7 +89,7 @@ works:
     height: 43
     width: 39
     depth: 0
-  description: 'Triptyque '
+  description: "Triptyque  \n49X33 cm est le format de chaque papier"
   price: 1500
   sold: false
   contextual: false
