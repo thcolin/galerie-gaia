@@ -1011,6 +1011,10 @@ articles:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AFFICHE MARIE BATHELLIER
     GALERIEGAIA.jpg
   content: |-
+    # **Marie Veyron Bathellier**
+
+    **Vernissage Jeudi 31 Mars 18H en présence de l'artiste.**
+
     Marie Veyron Bathellier s'inspire de la nature jusqu'à faire corps avec elle. Au-delà du sujet dont elle se nourrit, elle utilise le végétal comme pinceau, la terre comme liant, les branches comme support, les ronces comme sculpture, l'eau de pluie pour diluer la matière qui subtilement se révèle sur le papier , la toile et le bois. Le chemin est aussi important que l’œuvre achevée. Exposition naturellement sensible.
 
     Toile, papier, sculpture, installation

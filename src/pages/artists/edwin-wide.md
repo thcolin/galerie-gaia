@@ -28,10 +28,10 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
-- title: TPDNE 1
+- title: TPDNE 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE1 100x150 cm.jpg
-  technique: Impression sur dibond tirage 1/2
+    wide-TPDNE3 100x150cm.jpg
+  technique: Impression sur dibond 1/2
   fields:
   - Art numérique
   styles:
@@ -45,22 +45,10 @@ works:
     peintre s'inspirant d'un modèle qui lui échappe!"
   price: 3000
   contextual: true
-- title: 'Affordable Art Fair Bruxelles '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AAF_2022_BRU_04_CAM_1080px_v3.jpg
-  fields:
-  - Nouveautés
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
-- title: TPDNE 3
+- title: TPDNE 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE3 100x150cm.jpg
-  technique: Impression sur dibond 1/2
+    wide-TPDNE1 100x150 cm.jpg
+  technique: Impression sur dibond tirage disponible 2/2
   fields:
   - Art numérique
   styles:
