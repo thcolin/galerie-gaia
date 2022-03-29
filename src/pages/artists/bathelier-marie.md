@@ -48,6 +48,21 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Arbre 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
+    - 3 33 x 49.jpg
+  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 43
+    width: 39
+    depth: 0
+  description: 'Triptyque '
+  price: 1500
+  sold: false
+  contextual: false
 - title: Auto-portrait bouillonnant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
