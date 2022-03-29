@@ -1003,5 +1003,16 @@ articles:
     \n\nObtenir un billet pour [le salon](https://aafbrussels.seetickets.com/tour/affordable-art-fair-brussels
     \"SALON BRUXELLES\") du jeudi 24 au dimanche 27  \nmot de passe **G-GAIAGP limitée
     à 150 places**"
+- template: article
+  date: '2022-03-31T12:08:10Z'
+  categories:
+  - Exposition
+  title: 'Marie Veyron Bathellier Natures à l''oeuvre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AFFICHE MARIE BATHELLIER
+    GALERIEGAIA.jpg
+  content: |-
+    Marie Veyron Bathellier s'inspire de la nature jusqu'à faire corps avec elle. Au-delà du sujet dont elle se nourrit, elle utilise le végétal comme pinceau, la terre comme liant, les branches comme support, les ronces comme sculpture, l'eau de pluie pour diluer la matière qui subtilement se révèle sur le papier , la toile et le bois. Le chemin est aussi important que l’œuvre achevée. Exposition naturellement sensible.
+
+    Toile, papier, sculpture, installation
 
 ---
