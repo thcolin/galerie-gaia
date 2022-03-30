@@ -27,19 +27,6 @@ biography: |-
   The Polymorphie exhibition organized in 2020 by the Gaïa Gallery can be defined by many terms, but the term retrospective is not one of them. Thus, it is about the desire to make an audience unfamiliar with Morin's art discover how exciting it is to watch an artist confront different media that offer jubilant constraints. It doesn't matter what the dates of these past works are, because in the present, his clear lines and color palette intimately thrill us.
 exhibitions: []
 works:
-- title: Prés contigus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
-    morin-prés contigus-1974.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 55
-    width: 46
-    depth: 0
-  description: "1974  \nVisible à la galerie"
-  price: 2400
-  contextual: true
 - fields: []
   styles: []
   dimensions:
@@ -53,6 +40,32 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
+- title: Prés contigus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
+    morin-prés contigus-1974.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 55
+    width: 46
+    depth: 0
+  description: "1974  \nVisible à la galerie"
+  price: 2400
+  contextual: true
+- title: 'Arbre à couleurs '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
+    morin-fleurs coupés-1978.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 81
+    depth: 0
+  description: "1978  \nvisible à la galerie"
+  price: 3300
+  contextual: true
 - title: Bois secs (I)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
     sec.jpg
@@ -129,19 +142,6 @@ works:
     width: 81
     depth: 0
   description: "1974  \nVisible à la galerie"
-  price: 3300
-  contextual: true
-- title: 'Arbre à couleurs '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
-    morin-fleurs coupés-1978.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 81
-    depth: 0
-  description: "1978  \nvisible à la galerie"
   price: 3300
   contextual: true
 - title: Etoile verte
