@@ -48,6 +48,21 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Soir, le ciel s'agrandit
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soir, le ciel s''
+    agrandit : coul. pigmentaires et organiques sur bois de vigne, 85 x 60 x 15 cm.jpg'
+  technique: couleurs pigmentaires et organiques sur bois de vigne
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 65
+    width: 85
+    depth: 15
+  description: ''
+  price: 800
+  sold: false
+  contextual: true
 - title: Arbres 6 - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
