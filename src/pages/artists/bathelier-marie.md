@@ -110,22 +110,6 @@ works:
   price: 1400
   sold: false
   contextual: false
-- title: A travers les branches
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier à travers les branches sculpture bois d' abricotier 120 x 100 x 10
-    1100 euros.jpg
-  technique: Sculpture bois d'abricotier
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 120
-    width: 100
-    depth: 10
-  description: ''
-  price: 1100
-  sold: false
-  contextual: false
 - title: Grandes envolées
   technique: Pigments acrylique, terre et eau de pluies et fossilles végétaux sur
     toile
@@ -822,34 +806,6 @@ works:
   price: 300
   sold: false
   contextual: true
-- title: Lux in mare 2
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
-    - MES : LUX IN MARE 2 - 42 x 42 cm pigments acryl. sur papier japonais.jpg'
-  technique: pigments acrylique  et argile sur papier japon
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 42
-    depth: 
-  description: "2021"
-  price: 650
-  sold: false
-  contextual: true
-- title: Umbra Delectat 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB-
-    UMBRA DELECTAT 3 - 33 x 49 cm pigments acryl. et argile sur papier.jpg
-  technique: pigments acrylique et argile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 33
-    width: 49
-    depth: 
-  description: "2021"
-  price: 450
-  sold: false
-  contextual: true
 - title: Mes Bains 6 2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 6 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
@@ -903,45 +859,6 @@ works:
   price: 300
   sold: false
   contextual: true
-- title: Very green, very blue P003
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-03.jpg
-  technique: Pigments acryliques sur matériau tissé recyclé
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 35
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-- title: Very green, very blue P002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-02.jpg
-  technique: Pigments acryliques sur matériau tissé recyclé
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 32
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-- title: Very blue, very green 001
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-32X48-01.jpg
-  technique: Pigments acryliques sur matériau tissé recyclé
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 32
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
 - title: Sans titre &5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
@@ -957,20 +874,6 @@ works:
   contextual: true
 - title: Sans titre &4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg
-  technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
-    17 x 18 cm
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: ''
-  price: 290
-  sold: false
-  contextual: true
-- title: Sans titre &3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-3_15x17.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
     17 x 18 cm
   fields: []
