@@ -626,7 +626,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 350
+  price: 450
   sold: false
   contextual: true
 - title: Le figuier
