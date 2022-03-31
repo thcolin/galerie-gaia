@@ -48,21 +48,6 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
-- title: Soir, le ciel s'agrandit
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soir, le ciel s''
-    agrandit : coul. pigmentaires et organiques sur bois de vigne, 85 x 60 x 15 cm.jpg'
-  technique: couleurs pigmentaires et organiques sur bois de vigne
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 65
-    width: 85
-    depth: 15
-  description: ''
-  price: 800
-  sold: false
-  contextual: true
 - title: Arbres 6 - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
@@ -78,6 +63,21 @@ works:
   price: 3000
   sold: false
   contextual: false
+- title: Soir, le ciel s'agrandit
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soir, le ciel s''
+    agrandit : coul. pigmentaires et organiques sur bois de vigne, 85 x 60 x 15 cm.jpg'
+  technique: couleurs pigmentaires et organiques sur bois de vigne
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 65
+    width: 85
+    depth: 15
+  description: ''
+  price: 800
+  sold: false
+  contextual: true
 - title: Arbres 9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     - 9 33 x 49 cm.jpg
@@ -108,7 +108,7 @@ works:
   price: 1500
   sold: false
   contextual: false
-- title: Auto-portrait bouillonnant
+- title: Agitation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
     x 25 1400 euros.jpg
@@ -186,7 +186,7 @@ works:
   price: 1600
   sold: false
   contextual: true
-- title: Les Sources Bleues
+- title: Source Bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier bains divins pigments acryl terre et eau de pluie sur toile 100 x 73
     1600 euros.jpg
@@ -653,20 +653,6 @@ works:
   styles: []
   dimensions:
     height: 24
-    width: 30
-    depth: 0
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-- title: 'Menthe fraiche '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier menthe fraiche pigments et eau de pluie sur toile 23 x 30 350 euros.jpg
-  technique: Pigments et eau de pluie sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 23
     width: 30
     depth: 0
   description: ''
