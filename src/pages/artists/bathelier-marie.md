@@ -262,20 +262,6 @@ works:
   price: 200
   sold: false
   contextual: false
-- title: Trésors 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier trésors 1 pigments sur galet de ciment réservé.jpg
-  technique: Pigments sur galet de ciment
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 
-  sold: true
-  contextual: false
 - title: Trésors 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier trésors 2 couleurs pigmentaires sur galet de ciment 2 20 x 19 x 6 200
@@ -303,10 +289,10 @@ works:
     width: 21
     depth: 6
   description: ''
-  price: 250
+  price: 300
   sold: false
   contextual: false
-- title: Trésors 5
+- title: Trésors - 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier trésors 5 couleurs pig sur galet de ciment et coquillage 28 x 18 x
     14 200 euros.jpg
@@ -318,7 +304,7 @@ works:
     width: 18
     depth: 14
   description: ''
-  price: 400
+  price: 300
   sold: false
   contextual: false
 - title: Vent du soir 1
