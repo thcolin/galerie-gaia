@@ -630,8 +630,8 @@ works:
   sold: false
   contextual: true
 - title: Le figuier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier le figuier pig acryl et argile sur toile 23 x 30.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - marie
+    batheliier- figuier.JPG
   technique: 'Pigment acrylique et argile sur toile '
   fields: []
   styles: []
@@ -658,7 +658,7 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Criblée d'étoiles
+- title: Etoiles
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier criblée d' étoiles pig acryl et argile sur toile 24 x 30 350 euros.jpg
   technique: Pigment acrylique et argile sur toile
@@ -669,7 +669,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 350
+  price: 450
   sold: false
   contextual: true
 - title: Heure blanche
