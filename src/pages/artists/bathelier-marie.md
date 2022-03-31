@@ -452,7 +452,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
     1100 euros.jpg
-  technique: Sculpture pigments acryliques sur liane de ronce entrelacé
+  technique: Sculpture végétale pigments acryliques sur liane de ronce entrelacée
   fields:
   - Sculpture
   styles: []
@@ -464,7 +464,7 @@ works:
   price: 1100
   sold: false
   contextual: false
-- title: Les parcelles 2
+- title: Les parcelles - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
     48 x 33 600 euros.jpg
@@ -479,7 +479,7 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Les parcelles 3
+- title: Les parcelles - 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 3 pigments calcaire et jus de feuilles de vigne sur papier
     48 x 33 600 euros.jpg
@@ -494,7 +494,7 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Les parcelles 4
+- title: Les parcelles - 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 4 pigments calcaire et jus de feuilles de vigne sur papier
     37 x 25 cm 500 euros.jpg
@@ -509,7 +509,7 @@ works:
   price: 500
   sold: false
   contextual: true
-- title: AU JARDIN 1
+- title: Au jardin -1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 1 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
@@ -524,7 +524,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 2
+- title: Au jardin -2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
@@ -539,7 +539,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 3
+- title: Au jardin -3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 3 couleurs pigmentaires et organiqes sur papier 48 x 68 cm
     700 euros.jpg
@@ -554,7 +554,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 4
+- title: Au jardin - 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
@@ -569,7 +569,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 5
+- title: Au jardin - 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 5 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
@@ -584,7 +584,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 6
+- title: Au jardin - 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 6 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
@@ -599,7 +599,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 7
+- title: Au jardin - 7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 7 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
