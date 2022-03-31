@@ -614,7 +614,7 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: AU JARDIN 10
+- title: Au jardin - 8
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches10 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
@@ -654,7 +654,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 350
+  price: 450
   sold: false
   contextual: true
 - title: La nuit, la lune, soudain
@@ -669,7 +669,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 350
+  price: 450
   sold: false
   contextual: true
 - title: Criblée d'étoiles
