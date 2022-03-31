@@ -201,7 +201,7 @@ works:
   price: 1600
   sold: false
   contextual: true
-- title: Jours et nuit se lèvent, tombent
+- title: 'Jour et nuit '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier jours et nuits se lèvent tombent pig acryl et poudre de roche sur bois
     de hêtre 22 x 32 x 106 700 euros.jpg
@@ -260,22 +260,6 @@ works:
     depth: 3
   description: ''
   price: 200
-  sold: false
-  contextual: false
-- title: Soir, le ciel s'agrandit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier soir, le ciel s' agrandit sculpture bois de vigne 85 x 60 x 15 800
-    euros.jpg
-  technique: 'Couleurs pigmentaire e targil sur bois de vigne '
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 85
-    width: 60
-    depth: 15
-  description: ''
-  price: 800
   sold: false
   contextual: false
 - title: Trésors 1
@@ -385,7 +369,7 @@ works:
   price: 700
   sold: false
   contextual: false
-- title: Modèle vivant 1
+- title: Paille
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
@@ -401,7 +385,7 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: Modèle vivant 2
+- title: Nid
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
@@ -417,7 +401,7 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: Modèle vivant 4
+- title: Pierre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
     40 x 30 350 euros.jpg
