@@ -69,7 +69,7 @@ works:
 - title: Dos d'Alice
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-02-05 à 18.50.13.png
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Paper arche marouflé
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
     sur cp peuplier
   fields: []
   styles: []
@@ -77,11 +77,7 @@ works:
     height: 130
     width: 90
     depth: 
-  description: Sublime pose de dos qui révèle grâce à la lumière, le monde infini
-    qui se décline sur la peau du modèle. La force de l'instant cristallisée dans
-    un tourment de tâches et de teintes mi sombres, terreuses et sourdes comme si
-    elles allaient s'échapper du corps. Le blanc du papier révélé par la présence
-    de la peinture - Yann Peron
+  description: Vendue
   price: 3700
   sold: false
   contextual: true
