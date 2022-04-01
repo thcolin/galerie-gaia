@@ -90,17 +90,18 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
-- title: Main noire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/image0.jpeg
+- title: Ronde sentimentale
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre-Ronde sentimentale-73X100.jpeg
   technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 27
-    width: 35
+    height: 73
+    width: 100
     depth: 0
-  description: Réservé
-  price: 350
+  description: "2022"
+  price: 1700
   contextual: true
 - title: Main rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Laure
