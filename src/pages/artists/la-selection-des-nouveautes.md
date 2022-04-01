@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Mars 2022
+title: Avril 2022
 location: ''
 birth: "0"
 death: "0"
@@ -21,21 +21,35 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Laure Carré Main Noire en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-main
-    noire-ES.jpeg
+- title: Aux 4 coins du jardin de Marie Bathelier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-marie
+    bathellier portrait.jpg
+  technique: Pigments acryliques, terre, eau de pluies et fossilles végétaux sur toile
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 130
+    width: 89
+    depth: 0
+  description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
+  price: 3600
+  contextual: false
+- title: Laure Carré Ronde sentimentale en situation à l'atelier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
+    sentimentale ES.jpeg
   technique: 'Huile sur toile '
   fields:
   - Peinture
   styles:
   - Figuratif
   dimensions:
-    height: 27
-    width: 35
+    height: 73
+    width: 100
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
-  price: ''
+  price: 1700
   contextual: true
 - title: Sculpture Alliance XII Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia victoire
@@ -143,19 +157,6 @@ works:
     baguette chêne verre antireflet qualité musée\n\n# [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
     \"marionneau\")"
   price: 2500
-  contextual: true
-- title: Lux in Mare de Marie Bathelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
-    bathellier -LUX IN MARE E 47X47.jpg
-  technique: pigments acrylique et argile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 47
-    width: 47
-    depth: 0
-  description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
-  price: 850
   contextual: true
 - title: XXI 40 116 de Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
