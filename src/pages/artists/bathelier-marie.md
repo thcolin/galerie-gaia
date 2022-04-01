@@ -93,6 +93,21 @@ works:
   price: 4500
   sold: false
   contextual: false
+- title: Trésors 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia- marie
+    bathellier - tresor galet trio.jpg
+  technique: Couleurs pigmentaires sur galet de ciment
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 5
+    width: 35
+    depth: 24
+  description: ''
+  price: 300
+  sold: false
+  contextual: false
 - title: Arbres 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     - 3 33 x 49.jpg
@@ -292,7 +307,7 @@ works:
   price: 300
   sold: false
   contextual: false
-- title: Trésors - 5
+- title: Trésors 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier trésors 5 couleurs pig sur galet de ciment et coquillage 28 x 18 x
     14 200 euros.jpg
