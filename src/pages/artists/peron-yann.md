@@ -66,21 +66,6 @@ works:
   price: 7900
   sold: false
   contextual: true
-- title: Dos d'Alice
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-02-05 à 18.50.13.png
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 90
-    depth: 
-  description: Vendue
-  price: 3700
-  sold: false
-  contextual: true
 - title: Détail Emile 2021_04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-détail
     emile-S.jpg
@@ -94,6 +79,62 @@ works:
     depth: 
   description: ''
   price: 
+  sold: false
+  contextual: true
+- title: Clair obscur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -yann
+    peron-clair obscur 122X120.JPG
+  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 122
+    width: 100
+    depth: 
+  description: ''
+  price: 3800
+  sold: false
+  contextual: true
+- title: Salomé 2015-02
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
+  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
+    peuplier Cadre CP Bouleau - profondeur 15 cm - vernis mat
+  fields: []
+  styles: []
+  dimensions:
+    height: 168
+    width: 123.2
+    depth: 
+  description: "Format tableau hors cadre : 115 x 160 cm  \n  \nCette œuvre a été
+    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
+    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
+    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCe croquis peint exécuté avec célérité
+    et force remplit le vide blanc qui l’entoure à la manière des estampes japonaises.
+    La tension entre ce grand aplat blanc qu’est la texture vierge du papier et les
+    entrelacs formés par les coups de graphite et les touches de peinture nerveuses
+    dessine la silhouette onctueuse de ce modèle bien vivant."
+  price: 4000
+  sold: false
+  contextual: true
+- title: Marie 2015-03
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
+  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
+    peuplier Cadre frêne thermo-chauffé profondeur 5 cm, huilé.
+  fields: []
+  styles: []
+  dimensions:
+    height: 171
+    width: 120
+    depth: 
+  description: "Format tableau hors cadre : 161 x 110 cm  \n  \nCette œuvre a été
+    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
+    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
+    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCette peinture gestuelle met en
+    lumière malgré la position de retrait du modèle avec ses mains levées, la délicatesse
+    du ventre, des cuisses par contraste face le fond noir et gris. L’emploi de la
+    couleur en traits gras affine le contours du corps de la femme si fragile si vivante."
+  price: 5600
   sold: false
   contextual: true
 - title: Léo
@@ -111,19 +152,36 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Clair obscur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -yann
-    peron-clair obscur 122X120.JPG
-  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
+- fields: []
+  styles: []
+  dimensions:
+    height: 95
+    width: 95
+    depth: 
+  description: |-
+    L’huile projetée sur la toile de lin à grands coups de pinceaux, superposée à un contour de graphite tantôt effacé, tantôt essuyé, confèrent au sujet pourtant statique un mouvement d’introspection ou d’implosion. On a l’impression que l’homme tombe à l’intérieur de lui- même au passage de l’an 2000, année de réalisation de cette peinture d’après modèle vivant.
+
+    Le rouge incandescent de son corps l’illumine de ses entrailles rageuses et résignées. Acceptation, souffrance et force de vivre.
+  price: 6500
+  contextual: true
+  title: Implosion
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-implosion.JPG
+  technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
+    châssis bois
+  sold: false
+- title: Dos d'Alice
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-02-05 à 18.50.13.png
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
     sur cp peuplier
   fields: []
   styles: []
   dimensions:
-    height: 122
-    width: 100
+    height: 130
+    width: 90
     depth: 
-  description: ''
-  price: 3800
+  description: Vendue
+  price: 3700
   sold: false
   contextual: true
 - title: Alice 1-06
@@ -174,64 +232,6 @@ works:
     sur les rides et les reliefs que la vie dessine sur mon visage. Regard concentré
     et fixé sur le spectateur. En 7 séances seul face à moi- même.
   price: 6000
-  sold: false
-  contextual: true
-- fields: []
-  styles: []
-  dimensions:
-    height: 95
-    width: 95
-    depth: 
-  description: |-
-    L’huile projetée sur la toile de lin à grands coups de pinceaux, superposée à un contour de graphite tantôt effacé, tantôt essuyé, confèrent au sujet pourtant statique un mouvement d’introspection ou d’implosion. On a l’impression que l’homme tombe à l’intérieur de lui- même au passage de l’an 2000, année de réalisation de cette peinture d’après modèle vivant.
-
-    Le rouge incandescent de son corps l’illumine de ses entrailles rageuses et résignées. Acceptation, souffrance et force de vivre.
-  price: 6500
-  contextual: true
-  title: Implosion
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-implosion.JPG
-  technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
-    châssis bois
-  sold: false
-- title: Salomé 2015-02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
-  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
-    peuplier Cadre CP Bouleau - profondeur 15 cm - vernis mat
-  fields: []
-  styles: []
-  dimensions:
-    height: 168
-    width: 123.2
-    depth: 
-  description: "Format tableau hors cadre : 115 x 160 cm  \n  \nCette œuvre a été
-    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
-    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
-    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCe croquis peint exécuté avec célérité
-    et force remplit le vide blanc qui l’entoure à la manière des estampes japonaises.
-    La tension entre ce grand aplat blanc qu’est la texture vierge du papier et les
-    entrelacs formés par les coups de graphite et les touches de peinture nerveuses
-    dessine la silhouette onctueuse de ce modèle bien vivant."
-  price: 4000
-  sold: false
-  contextual: true
-- title: Marie 2015-03
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
-  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
-    peuplier Cadre frêne thermo-chauffé profondeur 5 cm, huilé.
-  fields: []
-  styles: []
-  dimensions:
-    height: 171
-    width: 120
-    depth: 
-  description: "Format tableau hors cadre : 161 x 110 cm  \n  \nCette œuvre a été
-    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
-    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
-    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCette peinture gestuelle met en
-    lumière malgré la position de retrait du modèle avec ses mains levées, la délicatesse
-    du ventre, des cuisses par contraste face le fond noir et gris. L’emploi de la
-    couleur en traits gras affine le contours du corps de la femme si fragile si vivante."
-  price: 5600
   sold: false
   contextual: true
 - title: Portrait de l'artiste
