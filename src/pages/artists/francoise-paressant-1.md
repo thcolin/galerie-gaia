@@ -37,6 +37,22 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: 'Sonatine '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
+    paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
+  technique: Tapisserie de haute lice tissée par l'artiste coton et papier Bolloré
+    teinté (chaine en coton, trame en papier)
+  fields:
+  - Tapisserie
+  styles: []
+  dimensions:
+    height: 148
+    width: 120
+    depth: 0
+  description: ''
+  price: 8000
+  sold: false
+  contextual: true
 - title: La Strada
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-9 529 - La strada - 156 x 165 cm - 1998.jpg
