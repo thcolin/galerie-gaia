@@ -49,7 +49,9 @@ works:
     height: 148
     width: 120
     depth: 0
-  description: ''
+  description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
+    la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
+    chevalier\")"
   price: 8000
   sold: false
   contextual: true
