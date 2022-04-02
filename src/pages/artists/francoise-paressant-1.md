@@ -73,6 +73,33 @@ works:
   price: 11000
   sold: false
   contextual: true
+- title: Sans titre Papier fait main
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
+    puzzle 120x100 2001 copie 2.jpg
+  technique: 'Papier fait main teinté marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 
+  description: encadrement cache clou bois 2003
+  price: 3000
+  sold: false
+  contextual: true
+- title: Sans titre Papier fait main teinté en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181442.jpg
+  technique: 'Papier fait main teinté marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 
+  description: encadrement bois cache clou 2003
+  price: 3000
+  sold: false
+  contextual: true
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
     de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
@@ -103,33 +130,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Sans titre Papier fait main teinté en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181442.jpg
-  technique: 'Papier fait main teinté marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 100
-    depth: 
-  description: encadrement bois cache clou 2003
-  price: 3000
-  sold: false
-  contextual: true
-- title: Sans titre Papier fait main
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
-    puzzle 120x100 2001 copie 2.jpg
-  technique: 'Papier fait main teinté marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 100
-    depth: 
-  description: encadrement cache clou bois 2003
-  price: 3000
-  sold: false
-  contextual: true
 - title: Papier huilé 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 1 70X50.jpg
