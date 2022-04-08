@@ -20,6 +20,19 @@ biography: |-
   >
   > Le cadrage est aussi important que les sujets saisis dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination raconter la suite de l'histoire...Action !
 works:
+- fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 1700
+  contextual: true
+  title: Lomener
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Lomener-1mx1m.jpg
+  technique: 'Acrylique sur toile '
+  sold: false
 - title: 'Plein Soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
     soleil-100X100.jpeg
