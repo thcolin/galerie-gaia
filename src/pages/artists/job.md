@@ -126,6 +126,24 @@ works:
   price: 1500
   sold: false
   contextual: true
-exhibitions: []
+- title: Portrait de Job
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-philippe-bigot-portrait-job
+    lepeintre.jpeg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: portrait dans l'atelier
+  price: 
+  sold: false
+  contextual: false
+exhibitions:
+- title: Exposition Médiathèque de Pornichet Juillet 2022
+  end: 17 Juillet 2022
+  location: Pornichet
+  start: 4 juillet 2022
 
 ---
