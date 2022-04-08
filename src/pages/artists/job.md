@@ -37,7 +37,33 @@ biography: |-
   _Bien sûr, la beauté ou la qualité artistique, l'œuvre, comme dirait_ [_Marcel_](http://laboratoirefig.fr/wp-content/uploads/2016/04/Processus-duchamp.pdf "http://laboratoirefig.fr/wp-content/uploads/2016/04/Processus-duchamp.pdf") _« n'existe que dans l'œil de celui qui regarde»._
 
   _Il n'empêche que les émotions qui traversent lorsque l'on observe ces tableaux constituent probablement quelque chose d'universel en ce que chacun a vécu un jour ce moment._
-works: []
+works:
+- title: Saute mouton
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
+- title: Brigneau
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 82
+    depth: 0
+  description: ''
+  price: 2400
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
