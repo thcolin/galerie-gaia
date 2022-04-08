@@ -51,7 +51,7 @@ works:
     depth: 0
   description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
-    chevalier\")"
+    chevalier\")  \nSignature au dos "
   price: 8000
   sold: false
   contextual: true
@@ -67,9 +67,9 @@ works:
     height: 156
     width: 165
     depth: 0
-  description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa   \npar
+  description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
-    chevalier\") "
+    chevalier\")  \nSignature au dos"
   price: 11000
   sold: false
   contextual: true
