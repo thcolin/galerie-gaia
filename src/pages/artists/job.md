@@ -15,12 +15,15 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: ''
+biography: |-
+  > Job est un artiste peintre qui nous aide à prendre le temps pour que nos souvenirs apparaissent sous nos yeux, inondés par une lumière solaire et une palette de couleurs chaudes comme le sable.
+  >
+  > Le cadrage est aussi important que les sujets saisis dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination raconter la suite de l'histoire...Action !
 works:
 - title: 'Plein Soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
     soleil-100X100.jpeg
-  technique: ''
+  technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
@@ -28,7 +31,7 @@ works:
     width: 0
     depth: 0
   description: ''
-  price: 
+  price: 1700
   sold: false
   contextual: true
 - title: Brigneau
