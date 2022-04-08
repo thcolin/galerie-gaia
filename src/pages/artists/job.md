@@ -20,19 +20,6 @@ biography: |-
   >
   > Le cadrage est aussi important que les sujets saisis dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination raconter la suite de l'histoire...Action !
 works:
-- title: Carmel
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-carmel-100X100.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 1700
-  sold: false
-  contextual: true
 - title: 'Plein Soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
     soleil-100X100.jpeg
@@ -47,21 +34,34 @@ works:
   price: 1700
   sold: false
   contextual: true
-- title: Duel
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Duel-920x600.jpg
+- title: Motel
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Motel-1mx1m.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 60
-    width: 92
+    height: 100
+    width: 100
     depth: 0
   description: ''
-  price: 1500
+  price: 1700
   sold: false
   contextual: true
-- title: Motel
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Motel-1mx1m.jpg
+- title: Carmel
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-carmel-100X100.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 1700
+  sold: false
+  contextual: true
+- title: Saute mouton
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -113,17 +113,17 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Saute mouton
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
+- title: Duel
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Duel-920x600.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 100
-    width: 100
+    height: 60
+    width: 92
     depth: 0
   description: ''
-  price: 1700
+  price: 1500
   sold: false
   contextual: true
 exhibitions: []
