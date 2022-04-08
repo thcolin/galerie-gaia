@@ -44,6 +44,19 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
+- title: Béton volant fluo
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.béton
+    volant.sérigraphie.2022.50x70 copie.jpg
+  technique: Sérigraphie rose fluo 2/3
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
 - title: Montagne dans forme
   technique: 'Sérigraphie '
   fields: []
