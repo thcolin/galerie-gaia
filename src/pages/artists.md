@@ -17,6 +17,7 @@ artists:
 - artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/aline-isoard.md
 - artist: src/pages/artists/franco-salas-borquez.md
+- artist: src/pages/artists/job.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/chretien-manolo.md

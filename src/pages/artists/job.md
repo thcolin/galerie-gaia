@@ -38,19 +38,6 @@ biography: |-
 
   _Il n'empêche que les émotions qui traversent lorsque l'on observe ces tableaux constituent probablement quelque chose d'universel en ce que chacun a vécu un jour ce moment._
 works:
-- title: Saute mouton
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 - title: Brigneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
   technique: Acrylique sur toile
@@ -62,6 +49,19 @@ works:
     depth: 0
   description: ''
   price: 2400
+  sold: false
+  contextual: true
+- title: Saute mouton
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 1700
   sold: false
   contextual: true
 exhibitions: []
