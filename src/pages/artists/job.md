@@ -20,6 +20,19 @@ biography: |-
   >
   > Le cadrage est aussi important que les sujets saisis dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination raconter la suite de l'histoire...Action !
 works:
+- title: Carmel
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-carmel-100X100.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 1700
+  sold: false
+  contextual: true
 - title: 'Plein Soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
     soleil-100X100.jpeg
