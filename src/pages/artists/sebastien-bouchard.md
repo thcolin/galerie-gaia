@@ -145,17 +145,6 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Oxygen
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1440.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 146
-    width: 89
-    depth: 
-  description: 
-  price: 1500
-  sold: false
-  contextual: true
 styles:
 - Figuratif
 
