@@ -21,6 +21,23 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: 'Didier Engels photographe '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-stained
+    glass-100X150.jpeg
+  technique: Photographie
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 150
+    width: 100
+    depth: 0
+  description: "[Didier Engels ](https://galeriegaia.fr/artists/engels-didier/ \"didier
+    engels\")  \nnouvel artiste à la galerie découvert lors du salon Affordable Art
+    Fair de Bruxelles"
+  price: 4750
+  contextual: true
 - title: Aux 4 coins du jardin de Marie Bathelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-marie
     bathellier portrait.jpg
