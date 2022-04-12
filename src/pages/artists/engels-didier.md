@@ -39,8 +39,8 @@ biography: "# Engels Didier\n\nLa passion de Didier Engels pour les ports et les
   the image. It is only afterwards that the eye will perceive the underlying element,
   namely, the container or boat hull.."
 works:
-- title: 36 PART2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-36PART2-100X100.jpeg
+- title: 36 PART1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-36PART1-100X100.jpeg
   technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
     de 3 couches de résine epoxy '
   fields: []
@@ -49,12 +49,29 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: ''
+  description: "Encadrement caisse américaine noire  \nTirage en 8 exemplaires + 2
+    EA (épreuve d'artiste)"
   price: 4000
   sold: false
   contextual: true
-- title: 36 PART1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-36PART1-100X100.jpeg
+- title: Stained glass
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-stained
+    glass-100X150.jpeg
+  technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
+    de 3 couches de résine epoxy '
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 100
+    depth: 0
+  description: "Encadrement caisse américaine noire  \nTirage en 8 exemplaires + 2
+    EA (épreuve d'artiste)"
+  price: 4750
+  sold: false
+  contextual: true
+- title: 36 PART2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-36PART2-100X100.jpeg
   technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
     de 3 couches de résine epoxy '
   fields: []
