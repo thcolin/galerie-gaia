@@ -52,6 +52,22 @@ works:
   description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
   price: 3600
   contextual: false
+- title: Plein soleil par Job
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia job
+    plen soleil MES.jpeg
+  technique: Acrylique sur toile
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "Job  \nnouvel artiste de la galerie, en exposition du 4 au 17 juillet
+    2022 à Pornichet"
+  price: 1700
+  contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
     sentimentale ES.jpeg
