@@ -37,6 +37,20 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-100cm
+    x 50cm  1  collage papier japon teinté marouflé sur toile, 100 x 50 cm 2011.jpg
+  technique: 'Acrylique sur papier japon marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 50
+    depth: 0
+  description: ''
+  price: 1400
+  sold: false
+  contextual: true
 - title: 'Sonatine '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
@@ -130,6 +144,21 @@ works:
   price: 
   sold: false
   contextual: false
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-6  acrylique
+    sur papier 50 cm x 33 cm  2022.jpg
+  technique: Acrylique sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 50
+    width: 33
+    depth: 0
+  description: "2022"
+  price: 600
+  sold: false
+  contextual: true
 - title: Papier huilé 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 1 70X50.jpg
