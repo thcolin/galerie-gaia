@@ -58,7 +58,7 @@ works:
 - title: La Strada
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-9 529 - La strada - 156 x 165 cm - 1998.jpg
-  technique: 'apisserie de haute lice tissée par l''artiste  laine, coton et polyane
+  technique: 'Tapisserie de haute lice tissée par l''artiste  laine, coton et polyane
     (chaine en coton, trame en laine et polyane), rehauts d''acrylique  '
   fields:
   - Textile
