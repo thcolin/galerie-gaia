@@ -450,8 +450,8 @@ works:
   sold: false
   contextual: false
 - title: Papier main
-  image: ''
-  technique: 'Papier fait main teinté '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211103_150402.jpg
+  technique: Papier fait main teinté  marouflé sur toile
   fields:
   - Peinture
   styles: []
@@ -459,7 +459,8 @@ works:
     height: 130
     width: 97
     depth: 
-  description: "2003   \nŒuvre pouvant être installée en format paysage"
+  description: "2003  \nŒuvre pouvant être installée en format paysage  \nEncadrement
+    caisse américaine noire"
   price: 3000
   sold: false
   contextual: true
