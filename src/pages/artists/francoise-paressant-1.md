@@ -450,8 +450,7 @@ works:
   sold: false
   contextual: false
 - title: Papier main
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
-    fait main 130 cm x 97 cm 2002 copie.jpg
+  image: ''
   technique: 'Papier fait main teinté '
   fields:
   - Peinture
