@@ -25,6 +25,19 @@ biography: |-
   * Concevoir, organiser et accompagner toutes manifestations artistiques collectives.
 exhibitions: []
 works:
+- title: 'Dimanche 1er Mai les galeries seront ouvertes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
+    Dimanche 2022 AFFICHE A2.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Galerie des Oubliés   \nLe Triphasé  \nGalerie 56  \nL'artichaut Café
+    \ \nAlbane  \nMelting Art Gallery"
+  price: ''
+  contextual: true
 - title: 10 Octobre 2021 - Les Galeries, le dimanche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
     Dimanche 10-10-2021 - Affiche A2.jpg
