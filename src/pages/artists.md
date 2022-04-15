@@ -3,8 +3,8 @@ template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/bathelier-marie.md
-- artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/art-galeries-nantes.md
+- artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/engels-didier.md
 - artist: src/pages/artists/peron-yann.md
