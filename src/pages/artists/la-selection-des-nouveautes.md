@@ -21,6 +21,18 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Dimanche 1er Mai 2022 la galerie sera ouverte
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
+    Dimanche 2022 AFFICHE A2.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: 'Didier Engels photographe '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-stained
     glass-100X150.jpeg

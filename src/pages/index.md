@@ -1,6 +1,8 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
+    Dimanche 2022 RECTANGLE.jpg
 - image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trésors 2 : couleurs
     pigmentaires sur galet de ciment : 2, 20 x 19 x 6 .jpg'
 - image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la tête me tourne

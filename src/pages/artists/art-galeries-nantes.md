@@ -5,13 +5,11 @@ location: 'Nantes '
 fields: []
 birth: "0"
 death: "0"
-expose: false
+expose: true
 biography: |-
   # Art Galeries Nantes
 
   ## Galerie Albane l'Artichaut Galerie Le 56  Galerie des oubliés  Le Triphasé Atelier Prisme Galerie Gaïa
-
-  ## Nuit des galeries Nantes
 
   En 2015, rue Fénelon, l’idée d’association germe ! En 2016, l’association loi 1901 Art Galeries Nantes est créée. Elle fédère alors 14 galeries et lieux de diffusion nantais. A l’actif, de l’association, trois « Nuits des Galeries » - qui se révèleront des succès – lors desquelles chacun a pu se déplacer d’un lieu à l’autre, d’une découverte à l’autre, d’une surprise à l’autre : parce que l’idée avait vu le jour, les galeries ont ouvert la nuit ! En 2020, 9 galeries restent présentes au sein de l’association. Certaines galeries ont disparu du paysage nantais. En effet, une page de cette histoire privée et artistique s’est tournée, par choix personnel et/ou par impératifs économiques. Cependant, la relève est assurée et se profile ainsi une dynamique qui permettra aux artistes d’être toujours représentés et cela dans toutes leurs formes d’expression. Les objectifs d’Art Galeries Nantes sont :
 
@@ -25,7 +23,7 @@ biography: |-
   * Concevoir, organiser et accompagner toutes manifestations artistiques collectives.
 exhibitions: []
 works:
-- title: 'Dimanche 1er Mai les galeries seront ouvertes '
+- title: 'Dimanche 1er Mai 2022 les galeries d''art nantaises sont ouvertes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
     Dimanche 2022 AFFICHE A2.jpg
   fields: []
@@ -34,10 +32,11 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Galerie des Oubliés   \nLe Triphasé  \nGalerie 56  \nL'artichaut Café
-    \ \nAlbane  \nMelting Art Gallery"
+  description: "# Galerie des Oubliés  \nLe Triphasé  \nGalerie 56  \nL'artichaut
+    Café  \nAlbane  \nMelting Art Gallery   \nGalerie Gaia"
   price: ''
   contextual: true
+  technique: Dimanche 1er Mai 2022 ouverture de 14H à 18H
 - title: 10 Octobre 2021 - Les Galeries, le dimanche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
     Dimanche 10-10-2021 - Affiche A2.jpg
