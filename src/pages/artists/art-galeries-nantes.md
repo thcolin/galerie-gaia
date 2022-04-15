@@ -32,10 +32,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "# Galerie des Oubliés  \nLe Triphasé  \nGalerie 56  \nL'artichaut
-    Café  \nAlbane  \nMelting Art Gallery   \nGalerie Gaia"
+  description: "Le Triphasé  \nGalerie des oubliés  \nGalerie 56  \nL'artichaut Café
+    \ \nAlbane  \nMelting Art Gallery  \nGalerie Gaia"
   price: ''
-  contextual: true
+  contextual: false
   technique: Dimanche 1er Mai 2022 ouverture de 14H à 18H
 - title: 10 Octobre 2021 - Les Galeries, le dimanche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
