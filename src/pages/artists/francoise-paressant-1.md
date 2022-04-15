@@ -89,7 +89,7 @@ works:
   contextual: true
 - title: 'Sans titre en situation '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
-    paressant-pierre-tual-.jpg
+    paressant-pierre-tual.jpg
   technique: Acrylique sur papier japon marouflé sur toile
   fields:
   - Peinture
