@@ -37,6 +37,20 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: 'Exposition Françoise Paressant '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Françoise Paressant A2 haute def.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Cocktail vernissage Samedi 30 Avril 12H en présence de l'artiste
+  price: 
+  sold: false
+  contextual: false
 - title: 'Sonatine '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
@@ -51,7 +65,7 @@ works:
     depth: 0
   description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
-    chevalier\")  \nSignature au dos "
+    chevalier\")  \nSignature au dos"
   price: 8000
   sold: false
   contextual: true
