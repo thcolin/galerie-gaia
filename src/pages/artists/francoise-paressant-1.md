@@ -723,21 +723,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Atelier Françoise Paressant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-pierre-tual.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "# Françoise Paressant atelier \n\nPour comprendre et voir le travail
-    in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi
-    pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
-  price: 
-  sold: false
-  contextual: false
 exhibitions:
 - title: 'Galerie Chevalier '
   location: 'Paris 25 rue de Bourgogne '
