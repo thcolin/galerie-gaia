@@ -1030,7 +1030,7 @@ articles:
 
     Joyeuse et talentueuse coloriste, [Françoise Paressant]() s'amuse des formes et des couleurs pour rendre tous les supports vivants et vibrants. Reconnue internationalement pour son talent de lissière elle nous propose des tapisseries contemporaines ainsi que des collages papier sur toile.
 
-    Deux tapisseries exposées proviennent de La Galerie Chevalier Parsua prêtées pour cette exposition.
+    Deux tapisseries exposées proviennent de [La Galerie Chevalier Parsua]() prêtées pour cette exposition.
 
     Des œuvres de Françoise Paressant sont entrées dans les collections du Musée des Arts Décoratifs Paris, Musée des Arts de Nantes.
 
