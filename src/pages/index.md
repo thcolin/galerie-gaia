@@ -1,12 +1,12 @@
 ---
 template: home
 carousel:
-- image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/trésors 2 : couleurs
-    pigmentaires sur galet de ciment : 2, 20 x 19 x 6 .jpg'
-- image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la tête me tourne
-    : pigments acryl., terre et eau de pluie sur toile : 73 x 100.jpg'
-- image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vent du soir 1
-    : pigments et argile sur sculpture bois : 43 x 23 x 6 .jpg'
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
+    cm 2021 papier teinté tissé  2021.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
+    sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
+    sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
 - image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/modèle vivant
     1 tirage photographique sur fine art : contrecollage sur Dibon.jpg'
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES

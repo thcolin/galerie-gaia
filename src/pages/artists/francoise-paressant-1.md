@@ -37,6 +37,20 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: 'Exposition Françoise Paressant '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Françoise Paressant CARRE basse def.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Cocktail vernissage Samedi 30 Avril 12H en présence de l'artiste
+  price: 
+  sold: false
+  contextual: false
 - title: Papier tissé IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
     cm 2021 papier teinté tissé  2021.jpg
@@ -84,20 +98,6 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: 'Exposition Françoise Paressant '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Françoise Paressant A2 haute def.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Cocktail vernissage Samedi 30 Avril 12H en présence de l'artiste
-  price: 
-  sold: false
-  contextual: false
 - title: 'Sonatine '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
