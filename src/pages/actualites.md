@@ -1018,5 +1018,20 @@ articles:
     Marie Veyron Bathellier s'inspire de la nature jusqu'à faire corps avec elle. Au-delà du sujet dont elle se nourrit, elle utilise le végétal comme pinceau, la terre comme liant, les branches comme support, les ronces comme sculpture, l'eau de pluie pour diluer la matière qui subtilement se révèle sur le papier , la toile et le bois. Le chemin est aussi important que l’œuvre achevée. Exposition naturellement sensible.
 
     Toile, papier, sculpture, installation
+- template: article
+  date: '2022-04-30T21:00:37Z'
+  categories:
+  - Exposition
+  title: Françoise Paressant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
+    Françoise Paressant A2 haute def.jpg
+  content: |-
+    **Vernissage samedi 30 Avril 12H**
+
+    Joyeuse et talentueuse coloriste, [Françoise Paressant]() s'amuse des formes et des couleurs pour rendre tous les supports vivants et vibrants. Reconnue internationalement pour son talent de lissière elle nous propose des tapisseries contemporaines ainsi que des collages papier sur toile.
+
+    Deux tapisseries exposées proviennent de La Galerie Chevalier Parsua prêtées pour cette exposition.
+
+    Des œuvres de Françoise Paressant sont entrées dans les collections du Musée des Arts Décoratifs Paris, Musée des Arts de Nantes.
 
 ---
