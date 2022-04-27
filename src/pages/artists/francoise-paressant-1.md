@@ -87,22 +87,21 @@ works:
   price: 11000
   sold: false
   contextual: true
-- title: 'Sans titre en situation '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
-    paressant-pierre-tual.jpg
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
+    sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
   technique: Acrylique sur papier japon marouflé sur toile
   fields:
   - Peinture
   styles: []
   dimensions:
     height: 140
-    width: 140
+    width: 130
     depth: 0
-  description: "2012  \nSculpture acier [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
-    \"pierre tual\")"
+  description: "2012"
   price: 4000
   sold: false
-  contextual: false
+  contextual: true
 - title: Sans titre Papier fait main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
