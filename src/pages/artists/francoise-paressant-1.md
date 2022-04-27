@@ -540,21 +540,6 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Papier main en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_131844[1].jpg
-  technique: Papier fait main teinté
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: "Œuvre pouvant être installée en format paysage ou portrait  \nSérigraphie
-    de Versant sur mur du fond"
-  price: 
-  sold: false
-  contextual: true
 - title: Plage de la mine d'or en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-mine
     dor en situation.jpg
