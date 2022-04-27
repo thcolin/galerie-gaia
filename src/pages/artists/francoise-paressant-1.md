@@ -190,6 +190,19 @@ works:
   price: 450
   sold: false
   contextual: true
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-100X80-toile.jpg
+  technique: Acrylique sur papier japon, marouflé sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 80
+    depth: 0
+  description: '2012 châssis de 4 cm de hauteur '
+  price: 2600
+  sold: false
+  contextual: true
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
     de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
