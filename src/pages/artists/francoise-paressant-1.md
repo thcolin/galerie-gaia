@@ -176,6 +176,20 @@ works:
   price: 3000
   sold: false
   contextual: true
+- title: Sans titre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
+    sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
+  technique: Acrylique sur papier teinté, découpé, cousu
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: 2022 Œuvre encadrée bois blanc, vitre et montage caisson
+  price: 450
+  sold: false
+  contextual: true
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
     de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
@@ -654,19 +668,6 @@ works:
   contextual: true
 - title: Blason 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-- title: Blason 003
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-003.jpg
   technique: 'Acrylique sur feutre '
   fields: []
   styles: []
