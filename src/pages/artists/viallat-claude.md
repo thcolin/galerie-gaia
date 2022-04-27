@@ -39,19 +39,6 @@ works:
   sold: false
   contextual: true
   description: '1997 Atelier Buyse Lille '
-- title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Viallat_Sans(rond28:60)_69x69-01.jpg
-  technique: Lithographie 28/60
-  fields: []
-  styles: []
-  dimensions:
-    height: 69
-    width: 69
-    depth: 
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
 - title: Sans - fond vert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-vert.jpg
   technique: Sérigraphie 3/3 sur papier Canson vert
