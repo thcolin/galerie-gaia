@@ -37,6 +37,53 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: Papier tissé IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
+    cm 2021 papier teinté tissé  2021.jpg
+  technique: Papier teinté tissé superposé
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 43
+    width: 32
+    depth: 0
+  description: 2021 Œuvre présentée dans un cadre montage caisson sans vitre bois
+    blanc
+  price: 1150
+  sold: false
+  contextual: true
+- title: Papier tissé III
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-136
+    cm 36 cm.jpapier teinté tissé 2022pg.jpg
+  technique: Papier teinté tissé superposé
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 136
+    width: 36
+    depth: 0
+  description: "2022"
+  price: 1400
+  sold: false
+  contextual: true
+- title: Papier tissé II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32cm
+    x 28 cm papier teinté tissé  2021.jpg
+  technique: Ppaier teinté tissé superposé
+  fields:
+  - Textile
+  styles: []
+  dimensions:
+    height: 32
+    width: 28
+    depth: 0
+  description: 2021 Œuvre présentée dans un cadre montage caisson sans vitre bois
+    blanc
+  price: 700
+  sold: false
+  contextual: true
 - title: 'Exposition Françoise Paressant '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
     Françoise Paressant A2 haute def.jpg
