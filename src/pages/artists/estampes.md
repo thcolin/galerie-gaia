@@ -301,7 +301,7 @@ works:
     width: 50
     depth: 
   description: "# Shirley Jaffe"
-  price: 1800
+  price: 2200
   sold: false
   contextual: true
 - title: 'Frédéric Poincelet - Sans titre #3 '
@@ -362,7 +362,7 @@ works:
     width: 51
     depth: 
   description: "# Shirley Jaffe"
-  price: 1800
+  price: 2200
   sold: false
   contextual: true
 redirect_from:
