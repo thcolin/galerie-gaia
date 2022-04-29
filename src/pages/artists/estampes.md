@@ -11,6 +11,17 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: 'Shirley Jaffe - Sans Titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-770.jpg
+  technique: Sérigraphie atelier Byse Lille 7/70 2002
+  dimensions:
+    height: 65
+    width: 51
+    depth: 
+  description: "# Shirley Jaffe"
+  price: 2200
+  sold: false
+  contextual: true
 - title: Bengt Lindström sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia lindstrom.jpg
   technique: Technqiue mixte sur toile
@@ -354,17 +365,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: 'Shirley Jaffe - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-770.jpg
-  technique: Sérigraphie atelier Byse Lille 7/70 2002
-  dimensions:
-    height: 65
-    width: 51
-    depth: 
-  description: "# Shirley Jaffe"
-  price: 2200
-  sold: false
-  contextual: true
 redirect_from:
 - "/artistes/102-estampes/"
 styles:
