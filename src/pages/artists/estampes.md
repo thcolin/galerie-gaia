@@ -146,6 +146,17 @@ works:
   contextual: true
   styles:
   - Figuartif
+- title: 'Shirley Jaffe - Sans Titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg
+  technique: Sérigraphie atelier Byse Lille 25/70 2002
+  dimensions:
+    height: 65
+    width: 50
+    depth: 
+  description: "# Shirley Jaffe"
+  price: 2200
+  sold: false
+  contextual: true
 - title: 'Pierre Alechinsky - "Writing Book" '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg
   technique: Lithographie 65/99 1982 encadrée baguette chêne verre musée anti-reflet
@@ -304,17 +315,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: 'Shirley Jaffe - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg
-  technique: Sérigraphie atelier Byse Lille 25/70 2002
-  dimensions:
-    height: 65
-    width: 50
-    depth: 
-  description: "# Shirley Jaffe"
-  price: 2200
-  sold: false
-  contextual: true
 - title: 'Frédéric Poincelet - Sans titre #3 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
   technique: Lithographie 4/20 2017
