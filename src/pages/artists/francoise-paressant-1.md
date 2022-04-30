@@ -85,7 +85,7 @@ works:
 - title: Papier tissé II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32cm
     x 28 cm papier teinté tissé  2021.jpg
-  technique: Ppaier teinté tissé superposé
+  technique: Papier teinté tissé superposé
   fields:
   - Textile
   styles: []
@@ -93,9 +93,8 @@ works:
     height: 32
     width: 28
     depth: 0
-  description: 2021 Œuvre présentée dans un cadre montage caisson sans vitre bois
-    blanc
-  price: 700
+  description: vendu
+  price: 
   sold: false
   contextual: true
 - title: La Strada
@@ -186,8 +185,8 @@ works:
     height: 30
     width: 30
     depth: 0
-  description: 2022 Œuvre encadrée bois blanc, vitre et montage caisson
-  price: 450
+  description: Vendu
+  price: 
   sold: false
   contextual: true
 - title: 'Sans titre '
