@@ -52,18 +52,6 @@ works:
   price: 650
   sold: false
   contextual: true
-- title: 06MA3G
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_clement_06ma3g_66x50-5-01.jpg
-  technique: Aquatinte 14/19
-  fields: []
-  styles: []
-  dimensions:
-    height: 66
-    width: 50.5
-    depth: 0
-  description: Réservée
-  price: ''
-  contextual: true
 redirect_from:
 - "/artistes/89-alain-clement/"
 styles:
