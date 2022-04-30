@@ -98,24 +98,6 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: 'Sonatine '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
-    paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
-  technique: Tapisserie de haute lice tissée par l'artiste coton et papier Bolloré
-    teinté (chaine en coton, trame en papier)
-  fields:
-  - Tapisserie
-  styles: []
-  dimensions:
-    height: 148
-    width: 120
-    depth: 0
-  description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
-    la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
-    chevalier\")  \nSignature au dos"
-  price: 8000
-  sold: false
-  contextual: true
 - title: La Strada
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-9 529 - La strada - 156 x 165 cm - 1998.jpg
@@ -132,6 +114,24 @@ works:
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
     chevalier\")  \nSignature au dos"
   price: 11000
+  sold: false
+  contextual: true
+- title: 'Sonatine '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
+    paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
+  technique: Tapisserie de haute lice tissée par l'artiste coton et papier Bolloré
+    teinté (chaine en coton, trame en papier)
+  fields:
+  - Tapisserie
+  styles: []
+  dimensions:
+    height: 148
+    width: 120
+    depth: 0
+  description: "Vendu   \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
+    la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
+    chevalier\")  \nSignature au dos"
+  price: 
   sold: false
   contextual: true
 - title: 'Sans titre '
