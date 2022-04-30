@@ -243,7 +243,7 @@ works:
     height: 100
     width: 50
     depth: 0
-  description: ''
+  description: 'Œuvre montée sur châssis 4 cm '
   price: 1400
   sold: false
   contextual: true
@@ -258,8 +258,8 @@ works:
     height: 50
     width: 33
     depth: 0
-  description: "2022"
-  price: 600
+  description: 2022 Encadrement bois blanc verre anti-reflet
+  price: 750
   sold: false
   contextual: true
 - title: Papier huilé 1
