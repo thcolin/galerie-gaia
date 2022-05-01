@@ -282,8 +282,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 70
-    width: 100
+    height: 100
+    width: 70
     depth: 
   description: "1997  \nŒuvre verticale (signature en bas à droite) présentée aussi
     en horizontal"
