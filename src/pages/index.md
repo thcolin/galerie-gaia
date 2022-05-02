@@ -7,8 +7,6 @@ carousel:
     sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
-    Dimanche 2022 RECTANGLE.jpg
 redirect_from:
 - "/plan/"
 seo:
