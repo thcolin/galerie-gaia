@@ -272,7 +272,7 @@ works:
     width: 70
     depth: 
   description: "1997"
-  price: 700
+  price: 1200
   sold: false
   contextual: true
 - title: Papier huilé 2
@@ -287,7 +287,7 @@ works:
     depth: 
   description: "1997  \nŒuvre verticale (signature en bas à droite) présentée aussi
     en horizontal"
-  price: 700
+  price: 1200
   sold: false
   contextual: true
 - title: Papier huilé 2 en situation verticale
@@ -302,7 +302,7 @@ works:
     depth: 
   description: "1997  \nCéramique à droite de [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
     \"brigitte marioneau\")"
-  price: 700
+  price: 1200
   sold: false
   contextual: false
 - title: Papier huilé 3 en situation
@@ -315,7 +315,7 @@ works:
     width: 70
     depth: 
   description: "1997"
-  price: 700
+  price: 1200
   sold: false
   contextual: false
 - title: Papier huilé 4
