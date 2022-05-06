@@ -3,7 +3,6 @@ template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/francoise-paressant-1.md
-- artist: src/pages/artists/art-galeries-nantes.md
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/engels-didier.md
@@ -78,6 +77,7 @@ artists:
 - artist: src/pages/artists/portrait.md
 - artist: src/pages/artists/50-max.md
 - artist: src/pages/artists/wave-week-end-arts-visuels-nantes.md
+- artist: src/pages/artists/art-galeries-nantes.md
 seo:
   title: Artistes - Galerie Gaïa, galerie d'art contemporain
   heading: Les artistes de la Galerie Gaïa, Galerie d'art à Nantes
