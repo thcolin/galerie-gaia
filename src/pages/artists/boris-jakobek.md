@@ -2,7 +2,8 @@
 template: artist
 title: 'Jakobek Boris '
 location: ''
-fields: []
+fields:
+- Edition
 birth: "0"
 death: "0"
 expose: true
