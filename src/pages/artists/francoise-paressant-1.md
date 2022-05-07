@@ -348,21 +348,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Feutre teinté
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-feutre-60X50
-    C.jpg
-  technique: feutre teinté collé sur papier encadrée et sous verre
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 60
-    width: 50
-    depth: 
-  description: "2018"
-  price: 900
-  sold: false
-  contextual: true
 - title: Oeuvre en feutre teinté en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
   technique: ''
