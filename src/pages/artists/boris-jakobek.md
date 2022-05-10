@@ -35,6 +35,19 @@ biography: |-
   * "Swish swash" personnal exhibition, Les Hauts-parleurs , Villefranche-de-Rouergue, 2018
 exhibitions: []
 works:
+- title: Capturé sous hypnose
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: ''
+  price: 250
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Boris JAkobek -
+    Capturé sous hypnose - 2022.jpg
+  technique: Serigraphie sur papier
 - title: The footbridge of sadness
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-boris-jakobek-foot-bridge-of-sadness-21e-70x50.jpg
   technique: 'Sérigraphie 7 passes - 20 exemplaires sur Olin 300g '
