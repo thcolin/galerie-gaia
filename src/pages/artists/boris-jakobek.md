@@ -47,7 +47,7 @@ works:
     width: 50
     depth: 0
   description: "2020"
-  price: 250
+  price: 200
   contextual: true
 - title: Le montage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Boris JAkobek -
@@ -60,7 +60,7 @@ works:
     width: 50
     depth: 0
   description: "2022"
-  price: 250
+  price: 200
   contextual: true
 - title: 'Dream baby dream '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Boris JAkobek -
@@ -73,7 +73,7 @@ works:
     width: 50
     depth: 0
   description: "2022"
-  price: 250
+  price: 200
   contextual: true
 - title: Capturé sous hypnose
   fields: []
@@ -83,7 +83,7 @@ works:
     width: 50
     depth: 0
   description: "2022"
-  price: 250
+  price: 200
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Boris JAkobek -
     Capturé sous hypnose - 2022.jpg
