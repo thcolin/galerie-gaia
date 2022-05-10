@@ -42,20 +42,6 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
-- title: Il y avait tant à faire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ Xavier
-    Jallais - Il y avait tant à faire - 75x55, 80x 60 E.jpg
-  technique: Acrylique sur carton
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: Oeuvre encadrée montage caisson oeuvre posée sur un fond blanc verre
-    classique
-  price: 850
-  contextual: true
 - title: Le jour n'est pas si loin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ xavier
     Jallais - Le jour n'est pas si loin -51x 36, 65x50 E.jpg
@@ -101,7 +87,7 @@ works:
     height: 150
     width: 150
     depth: 
-  description: ''
+  description: 'Visible sur demande '
   price: 4000
   sold: false
   contextual: true
