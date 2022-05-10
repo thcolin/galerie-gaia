@@ -36,6 +36,19 @@ biography: |-
   * "Swish swash" personnal exhibition, Les Hauts-parleurs , Villefranche-de-Rouergue, 2018
 exhibitions: []
 works:
+- title: 'Dream baby dream '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Boris JAkobek -
+    Dream baby dream - 2022.jpg
+  technique: Serigraphie sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "2022"
+  price: 250
+  contextual: true
 - title: Capturé sous hypnose
   fields: []
   styles: []
