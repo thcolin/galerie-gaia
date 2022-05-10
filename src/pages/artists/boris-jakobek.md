@@ -4,6 +4,7 @@ title: 'Jakobek Boris '
 location: ''
 fields:
 - Edition
+- Serigraphie
 birth: "0"
 death: "0"
 expose: true
@@ -42,7 +43,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: ''
+  description: "2022"
   price: 250
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Boris JAkobek -
