@@ -109,13 +109,12 @@ works:
   contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: Bronze EA II/IV
+  technique: Bronze EA II/IV  III/IV
   dimensions:
     height: 16
     width: 43
     depth: 5
-  description: "Disponible mi-décembre 2021 - dernier exemplaire  \nFonderie Barthélémy
-    Crest (26)"
+  description: "2 exemplaires disponibles   \nFonderie Barthélémy Crest (26)"
   price: 3600
   sold: false
   contextual: false
