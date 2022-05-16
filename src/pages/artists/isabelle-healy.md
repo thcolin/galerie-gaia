@@ -140,7 +140,7 @@ works:
     width: 58
     depth: 12
   description: "**IMPORTANT : La série Confluence est bientôt épuisée reste disponible
-    le numéros de réserve II/IV**  \nConfluence est la version grand format de L'envolée.
+    le numéros de réserve II/IV**  \nConfluence est la version grand format de L'Envolée.
     \ \nPrix sur demande.\n\n* Confluence : nom féminin du latin confluencia. Point
     de convergence de deux cours d'eau."
   price: ''
