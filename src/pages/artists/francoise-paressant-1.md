@@ -47,7 +47,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: Cocktail vernissage Samedi 30 Avril 12H en présence de l'artiste
+  description: 'Rencontre avec Francoise Paressant jeudi 19 Mai à partir de 17H '
   price: 
   sold: false
   contextual: false

@@ -1025,13 +1025,14 @@ articles:
   title: Françoise Paressant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
     Françoise Paressant A2 haute def.jpg
-  content: |-
-    **Vernissage samedi 30 Avril 12H**
-
-    Joyeuse et talentueuse coloriste, [Françoise Paressant]() s'amuse des formes et des couleurs pour rendre tous les supports vivants et vibrants. Reconnue internationalement pour son talent de lissière elle nous propose des tapisseries contemporaines ainsi que des collages papier sur toile.
-
-    Deux tapisseries exposées proviennent de [La Galerie Chevalier Parsua]() prêtées pour cette exposition.
-
-    Des œuvres de Françoise Paressant sont entrées dans les collections du Musée des Arts Décoratifs Paris, Musée des Arts de Nantes.
+  content: "**Rencontre avec l'artiste Jeudi 19 Mai à partir de 17H**\n\nJoyeuse et
+    talentueuse coloriste, [Françoise Paressant]() s'amuse des formes et des couleurs
+    pour rendre tous les supports vivants et vibrants. Reconnue internationalement
+    pour son talent de lissière elle nous propose des tapisseries contemporaines ainsi
+    que des collages papier sur toile.\n\nDeux tapisseries exposées proviennent de
+    [La Galerie Chevalier Parsua]() prêtées pour cette exposition. [Sonatine et Strada](https://galeriegaia.fr/artists/francoise-paressant-1/
+    \"galerie chevalier parsua\") \n\nDes œuvres de Françoise Paressant sont entrées
+    dans les collections du Musée des Arts Décoratifs Paris, et au Musée des Arts
+    de Nantes suite à une exposition en 1984."
 
 ---
