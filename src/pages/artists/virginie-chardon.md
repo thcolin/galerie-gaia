@@ -80,7 +80,7 @@ works:
     width: 64
     depth: 45
   description: "Edition en 8 exemplaires + IV EA  \nFonderie Delorme"
-  price: 9900
+  price: 12900
   contextual: false
 - title: Le cachalot
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-IMG_9741.jpg
@@ -102,19 +102,19 @@ works:
     width: 53
     depth: 41
   description: "pièces numérotées /8  \nFonderie Paumelle"
-  price: 4900
+  price: 5400
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg
 - title: James le cocker anglais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-STAN
-    détail.jpg
+    détail.jpg
   technique: 'bronze '
   dimensions:
     height: 50
     width: 40
     depth: 46
   description: Fonderie Paumelle Edition 8 exemplaires + IV EA
-  price: 5900
+  price: 7800
   contextual: false
 - title: Omer Le Dog Allemand
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Omer.jpg
@@ -124,7 +124,7 @@ works:
     width: 46
     depth: 40
   description: "pièce numérotée /8  \nFonderie Candide"
-  price: 7000
+  price: 7800
   sold: false
   contextual: false
 - title: Hipolyte le morse
@@ -135,7 +135,7 @@ works:
     width: 44
     depth: 32
   description: "pièces numérotée /8  \nFonderie Paumelle"
-  price: 5900
+  price: 6800
   sold: false
   contextual: false
 - title: Le pélican
@@ -157,7 +157,7 @@ works:
     width: 30
     depth: 38
   description: "pièces numérotées /8  \nFonderie Paumelle"
-  price: 5400
+  price: 5900
   sold: false
   contextual: false
 - title: 'Omer avec Virginie '
@@ -168,7 +168,7 @@ works:
     width: 46
     depth: 40
   description: _ART CAPITAL_ - GRAND PALAIS, Paris - **MENTION
-  price: 7000
+  price: 7800
   contextual: false
 redirect_from:
 - "/artistes/95-virginie-chardon/"
