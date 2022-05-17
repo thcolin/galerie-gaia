@@ -7,28 +7,21 @@ fields:
 birth: "0"
 death: "0"
 expose: true
-biography: "# Virginie Chardon\n\n\"Voilà plus d’une dizaine d’années que Virginie
-  Chardon travaille la terre glaise, au sein de l’atelier de Rose Sélavy à Paris,
-  réalisant ainsi des sculptures aux formes et visages multiples, issus d’univers
-  qui leur sont propres, qui ont évolué au gré de ses inspirations et des moments
-  de vie. C’est la passion qui leur a donné corps !  \nDepuis l’enfance, c’est la
-  passion du dessin, de la photo et de la bande dessinée qui n’a de cesse de grandir
-  en elle jusqu’à se transformer en une véritable évidence. C’est ainsi que naturellement
-  est née cette aventure.  Enfin, son attirance pour l’image a pu s’exprimer : le
-  travail de l’argile  permet à Virginie Chardon de créer en 3D.  \nMais pas seulement
-  … ! A travers la sculpture, la sculptrice  retrouve sa capacité d’exprimer ce qu'elle
-  ressent de plus profond :  vivacité et énergie. Ainsi travaillant à mains nues,
-  amenant de la matière sur mes pièces, Virginie Chardon raconte une histoire, empreinte
-  de réalisme, de poésie ou de pure fiction.  Son imagination, et la technique se
-  libèrent !\n\nLa sculpture, par la technique, permet de mettre mes émotions en formes.
-  L'artiste passe de la pensée, à la concentration silencieuse et solitaire, au bouillonnement
-  créatif, au travail physique, à la contemplation, au questionnement, aux certitudes
-  … Virginie Chardon sculpte, modèle, elle se régale !  Des mois de travail pour chacune
-  de ses pièces, mais, quel bonheur de voir se dessiner ces animaux, ces visages,
-  ces personnages, et avec eux leur histoire !\n\nVous trouverez dans son travail
-  des sujets inspirés d’illustrations issus du monde animalier, de dessins de BD,
-  des visages qui sortent tout droit de ses rêves et sans doute aussi de ses rencontres.
-  Une source inépuisable d’inspiration.\"\n\nVirginie Chardon\n\n**EXPOSITIONS**\n\n*
+biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant toutes
+  les attitudes humaines des animaux, miroir de l’homme.Toujours empreint d’une douceur
+  enfantine, son travail saisit l’expression de l’animal avec simplicité et subtilité.\n\nPortant
+  une attention particulière aux faciès et aux regards, ses portraits sont vivants,
+  on y trouve toute l’humanité des différentes espèces animales.Modelées en terre,
+  ses pièces sont réalisées en bronze pour révéler toute la noblesse du sujet.\n\nCe
+  que l’on dit de ses sculptures : elles occupent l’espace par leur personnalité et
+  leur vitalité, elles apportent une vraie signature au lieu.\n\nENGLISH VERSION \n\nVirginie
+  Chardon questions us by sculpting all the animals’ human attitudes, the human being’s
+  mirror. Always imbued with childish gentleness, her work captures animal’s expression
+  with simplicity and subtlety.\n\nBy paying specific attention to faces and looks,
+  her portraits are lively in which we find all the different animal species’ humanity.
+  Modeled in clay, her pieces are made in bronze revealing the nobility of the model.\n\nWhat
+  we say about her sculptures: with their personality and their vitality they strongly
+  occupy the space, bringing a real signature to the places  \n  \nVirginie Chardon\n\n**EXPOSITIONS**\n\n*
   2018 : Octobre :13ème Biennale de sculpture animalière de Rambouillet – PRIX D’HONNEUR\n*
   2019 :  \n  Février : ART CAPITAL - Grand Palais - Paris  \n  Février à Avril :
   GALERIE GAÎA - Nantes  \n  Mai : WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD
@@ -38,28 +31,10 @@ biography: "# Virginie Chardon\n\n\"Voilà plus d’une dizaine d’années que 
   11ème  \n  Exposition à la Chapelle du Bourg – Arradon (56)\n* 2021 :\n\n  LE BASILE
   Hôtel – Collection Permanente - Paris  \n  GALERIE Philippe HEIM – Les Sablons,
   Bruxelles  \n  SAB Expo Septembre Galerie Costermans - Bruxelles  \n  ART EXPO by
-  Maison & Jardin – Atelier Basfroi - Paris\n\n\"Virginie Chardon has been working
-  with clay for more than ten years in Rose Sélavy's workshop in Paris, creating sculptures
-  with multiple shapes and faces, from their own universe, which have evolved according
-  to her inspirations and life moments. Since childhood, it is the passion of drawing,
-  photography and comics that has never ceased to grow in her until it became a real
-  evidence. This is how this adventure was born.  Finally, her attraction for the
-  image could be expressed: the work of clay allows Virginie Chardon to create in
-  3D. Through sculpture, the sculptor rediscovers her ability to express her deepest
-  feelings: vivacity and energy. Thus working with bare hands, bringing matter on
-  my pieces, Virginie Chardon tells a story, marked by realism, poetry or pure fiction.
-  \ Her imagination and technique are set free!\n\nSculpture, through technique, allows
-  me to put my emotions into form. The artist goes from thinking, to silent and solitary
-  concentration, to creative bubbling, to physical work, to contemplation, to questioning,
-  to certainties ... Virginie Chardon sculpts, models, she enjoys it!  Months of work
-  for each of her pieces, but what a joy to see these animals, these faces, these
-  characters, and with them their history!\n\nYou will find in her work subjects inspired
-  by illustrations from the animal world, drawings from comics, faces that come straight
-  out of her dreams and probably also from her encounters. An inexhaustible source
-  of inspiration.\"\n\nVirginie Chardon\n\n**EXHIBITIONS**\n\n* 2018 : October : 13th
-  Biennial of animal sculpture in Rambouillet - PRIX D'HONNEUR\n* 2019 :February :
-  ART CAPITAL - Grand Palais - ParisFebruary to April : GALERIE GAÎA - NantesMay :
-  WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD - Mall Galleries LondonNovember-
+  Maison & Jardin – Atelier Basfroi - Paris\n\n**EXHIBITIONS**\n\n* 2018 : October
+  : 13th Biennial of animal sculpture in Rambouillet - PRIX D'HONNEUR\n* 2019 :February
+  : ART CAPITAL - Grand Palais - ParisFebruary to April : GALERIE GAÎA - NantesMay
+  : WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD - Mall Galleries LondonNovember-
   December : SNAA Salon Nationale des Artistes Animaliers - Bry Sur Marne\n* 2020
   :February : ART CAPITAL - GRAND PALAIS, Paris - **MENTIONJune : ART EXPO by Maison
   & Jardin - Atelier Basfroi - Paris 11èmeExhibition at the Chapelle du Bourg - Arradon
