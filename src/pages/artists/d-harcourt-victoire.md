@@ -55,6 +55,19 @@ works:
   price: 
   sold: false
   contextual: false
+- title: Alliance IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/alliance-iv 3-75,5X30,2.jpeg
+  technique: 'Bronze '
+  fields: []
+  styles: []
+  dimensions:
+    height: 75.5
+    width: 30.2
+    depth: 10
+  description: "Edition en 12 exemplaires  \nvisible à la galerie en juin 2022"
+  price: 5200
+  sold: false
+  contextual: true
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
