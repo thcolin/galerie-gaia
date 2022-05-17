@@ -38,8 +38,8 @@ biography: |-
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
 - title: 'Exposition Françoise Paressant '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Françoise Paressant CARRE basse def.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa - Françoise
+    Paressant CARRE basse def.jpg
   technique: ''
   fields: []
   styles: []
@@ -53,7 +53,7 @@ works:
   contextual: false
 - title: Papier tissé IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
-    cm 2021 papier teinté tissé  2021.jpg
+    cm 2021 papier teinté tissé  2021.jpg
   technique: Papier teinté tissé superposé
   fields:
   - Textile
@@ -69,7 +69,7 @@ works:
   contextual: true
 - title: Papier tissé III
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-136
-    cm 36 cm.jpapier teinté tissé 2022pg.jpg
+    cm 36 cm.jpapier teinté tissé 2022pg.jpg
   technique: Papier teinté tissé superposé
   fields:
   - Textile
@@ -84,7 +84,7 @@ works:
   contextual: true
 - title: Papier tissé II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32cm
-    x 28 cm papier teinté tissé  2021.jpg
+    x 28 cm papier teinté tissé  2021.jpg
   technique: Papier teinté tissé superposé
   fields:
   - Textile
@@ -135,7 +135,7 @@ works:
   contextual: true
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
-    sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
+    sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
   technique: Acrylique sur papier japon marouflé sur toile
   fields:
   - Peinture
@@ -149,7 +149,7 @@ works:
   sold: false
   contextual: true
 - title: Sans titre Papier fait main
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
   technique: 'Papier fait main teinté marouflé sur toile '
   fields: []
@@ -177,7 +177,7 @@ works:
   contextual: true
 - title: Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
-    sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
+    sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
   technique: Acrylique sur papier teinté, découpé, cousu
   fields: []
   styles: []
@@ -204,7 +204,7 @@ works:
   contextual: true
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
-    de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
+    de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
   technique: 'Bandes de feutre teintées et croisées '
   fields:
   - Textile
@@ -234,7 +234,7 @@ works:
   contextual: false
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-100cm
-    x 50cm  1  collage papier japon teinté marouflé sur toile, 100 x 50 cm 2011.jpg
+    x 50cm  1  collage papier japon teinté marouflé sur toile, 100 x 50 cm 2011.jpg
   technique: 'Acrylique sur papier japon marouflé sur toile '
   fields: []
   styles: []
@@ -263,7 +263,7 @@ works:
   contextual: true
 - title: Papier huilé 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
-    huilé 1 70X50.jpg
+    huilé 1 70X50.jpg
   technique: 'Acrylique sur papier huilé '
   fields: []
   styles: []
@@ -277,7 +277,7 @@ works:
   contextual: true
 - title: Papier huilé 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
-    huilé 2 Horizontal 70X50.jpg
+    huilé 2 Horizontal 70X50.jpg
   technique: Acrylique et encre sur papier huilé
   fields: []
   styles: []
@@ -292,7 +292,7 @@ works:
   contextual: true
 - title: Papier huilé 2 en situation verticale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
-    huilé 2 ES 70X50.jpg
+    huilé 2 ES 70X50.jpg
   technique: 'Acrylique et encre sur papier huilé '
   fields: []
   styles: []
@@ -320,7 +320,7 @@ works:
   contextual: false
 - title: Papier huilé 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-papier
-    huilé 4.jpg
+    huilé 4.jpg
   technique: 'Papiers huilés peints, découpés et superposés '
   fields:
   - Oeuvre sur papier
@@ -330,12 +330,12 @@ works:
     width: 50
     depth: 
   description: ''
-  price: 700
+  price: 1200
   sold: false
   contextual: true
 - title: Info presse magazine Investir 09_2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Investir 092021
-    Françoise Paressant.png
+    Françoise Paressant.png
   technique: ''
   fields: []
   styles: []
@@ -396,7 +396,7 @@ works:
   contextual: true
 - title: CPM 60_50 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
-    marouflé sur toile 60 cm x 50 cm 2021.jpg
+    marouflé sur toile 60 cm x 50 cm 2021.jpg
   technique: Collages papier marouflés sur toile en caisse américaines bois naturel
     clair
   fields:
@@ -426,8 +426,8 @@ works:
   sold: false
   contextual: true
 - title: CDC 40_30 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
-    cousu, marouflé sur toile 40 cm x 30 cm 2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
+    cousu, marouflé sur toile 40 cm x 30 cm 2021.jpg
   technique: Collages papier marouflés sur toile en caisse américaines bois naturel
     clair
   fields:
@@ -442,7 +442,7 @@ works:
   sold: false
   contextual: true
 - title: CDC 40_30 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
     cousu, 40 cm x 30 cm 2021.jpg
   technique: Collages papier marouflés sur toile en caisse américaines bois naturel
     clair
