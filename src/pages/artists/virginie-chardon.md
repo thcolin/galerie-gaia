@@ -41,8 +41,7 @@ biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant t
   (56)\n* 2021 :\n\n  LE BASILE Hôtel - Permanent Collection - Paris\n\n  GALERIE
   Philippe HEIM - Les Sablons, Bruxelles\n\n  SAB Expo September Galerie Costermans
   - Bruxelles\n\n  ART EXPO by Maison & Jardin - Atelier Basfroi - Paris"
-exhibitions:
-- {}
+exhibitions: []
 works:
 - title: 'Cesar et Virginie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Gorille
