@@ -22,20 +22,6 @@ works:
   price: 2200
   sold: false
   contextual: true
-- title: Bengt Lindström sans titre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia lindstrom.jpg
-  technique: Technqiue mixte sur toile
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 107
-    width: 77
-    depth: 0
-  description: Œuvre encadrée en caisse américaine noire
-  price: 6500
-  contextual: true
 - title: 'Traquandi - Sans Titre (noir) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
   technique: Aquatinte 12/19 2013
@@ -209,7 +195,7 @@ works:
   styles:
   - Abstrait
 - title: 'Valérie Bonduelle '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-valérie-bonduelle.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-valérie-bonduelle.jpg
   technique: Lithographie pièce unique 1987
   fields: []
   styles:
