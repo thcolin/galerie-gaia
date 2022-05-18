@@ -39,32 +39,6 @@ works:
   sold: false
   contextual: true
   description: '1997 Atelier Buyse Lille '
-- title: Sans - fond vert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-vert.jpg
-  technique: Sérigraphie 3/3 sur papier Canson vert
-  fields: []
-  styles: []
-  dimensions:
-    height: 94.5
-    width: 65
-    depth: 
-  description: "# Claude Viallat Edition Putman"
-  price: 1500
-  sold: false
-  contextual: true
-- title: Sans - fond jaune
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-putman-jaune.jpg
-  technique: Sérigraphie 1/3 Impression sur feuille Canson fond jaune
-  fields: []
-  styles: []
-  dimensions:
-    height: 94.5
-    width: 65
-    depth: 
-  description: "# Claude Viallat Edition Putman"
-  price: 1500
-  sold: false
-  contextual: true
 exhibitions: []
 
 ---
