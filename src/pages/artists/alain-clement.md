@@ -19,6 +19,21 @@ biography: |-
   Alain Clément was born in Neuilly-sur-Seine in 1941. From 1970 he became a teacher at the School of Beaux-Arts in Montpellier. Then, in 1985, the artist took over the direction of the Beaux-Arts of Nîmes and left Montpellier's ones.  He lives and works between Nîmes, Paris and Berlin. For nearly thirty years, the artist has been developing a portfolio of abstract works, among which sculptures, engravings, and especially paintings combine sensitivity, structure, and optical pleasure. The wall arrangements he creates are large colored lines, structuring the environment they occupy.
 exhibitions: []
 works:
+- title: Sans titre - 21S1G
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0069.jpeg
+  technique: Aquatinte
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 66.5
+    depth: 0
+  description: |-
+    Edition: 2/19
+
+    2022
+  price: 650
+  contextual: true
 - title: Sans titre -#2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0163.jpeg
   technique: Aquatinte
