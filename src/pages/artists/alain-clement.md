@@ -32,7 +32,7 @@ works:
     Edition : 10/19
 
     2006
-  price: 650
+  price: 800
   contextual: true
 - title: Sans titre - 20J3G
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-alain-clement_sans-titre-1_2020_aquatinte_90-x-67-cm.jpg
