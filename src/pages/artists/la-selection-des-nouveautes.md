@@ -21,18 +21,6 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Dimanche 1er Mai 2022 la galerie sera ouverte
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
-    Dimanche 2022 AFFICHE A2.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
 - title: 'Didier Engels photographe '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-stained
     glass-100X150.jpeg
@@ -124,20 +112,6 @@ works:
   description: Dernières éditions de [**Cleon Peterson**](https://galeriegaia.fr/artists/estampes/
     "cleon peterson") 2021
   price: 900
-  contextual: false
-- title: Bengt Lindstrom
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@lindstrom-107X77ES.jpg
-  technique: 'Technique mixte sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 107
-    width: 77
-    depth: 0
-  description: Œuvre encadrée caisse américaine noire
-  price: 6500
   contextual: false
 - title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_192231.jpg
