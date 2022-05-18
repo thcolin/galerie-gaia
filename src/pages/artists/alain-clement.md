@@ -28,7 +28,10 @@ works:
     height: 76
     width: 57
     depth: 0
-  description: 'Edition : 10/19'
+  description: |-
+    Edition : 10/19
+
+    2006
   price: 650
   contextual: true
 - title: Sans titre - 20J3G
@@ -50,17 +53,6 @@ works:
     width: 50
     depth: 
   description: '2006 '
-  price: 650
-  sold: false
-  contextual: true
-- title: Sans titre - 20J2G
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-alain-clement_sans-titre-2_2020_aquatinte_50-x-66_5-cm.jpg
-  technique: Aquatinte 3/19
-  dimensions:
-    height: 50
-    width: 66.5
-    depth: 
-  description: "2020"
   price: 650
   sold: false
   contextual: true
