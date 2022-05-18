@@ -127,7 +127,7 @@ works:
     width: 50
     depth: 
   description: "# Pierre Alechinsky"
-  price: 1300
+  price: 1375
   sold: false
   contextual: true
   styles:
@@ -314,17 +314,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: Claude Viallat - Sans Titre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/claude-viallat-sans-titre.jpg
-  technique: 'Sérigraphie 28/60 '
-  dimensions:
-    height: 69
-    width: 69
-    depth: 
-  description: "# Claude Viallat"
-  price: 600
-  sold: false
-  contextual: true
 - title: Georges Autard - "Perte de sens"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-autard-perte-de-sens.jpg
   technique: Sérigraphie 36/60 1995
