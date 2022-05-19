@@ -11,6 +11,18 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: 'Frederic Poincelet - Sans titre #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0057.jpeg
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 57.5
+    depth: 0
+  description: "Edition: 4/20  \n2017"
+  price: 460
+  contextual: true
 - title: 'Frederic Poincelet - Sans titre #3 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
   technique: 'Lithographie '
@@ -18,7 +30,10 @@ works:
     height: 42
     width: 57
     depth: 
-  description: "###### **Edition : 4/20**"
+  description: |-
+    ###### **Edition : 1/20**
+
+    2017
   price: 460
   sold: false
   contextual: true
