@@ -64,21 +64,6 @@ works:
   price: 3000
   sold: false
   contextual: false
-- title: Trésors 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia- marie
-    bathellier - tresor galet trio.jpg
-  technique: Couleurs pigmentaires sur galet de ciment
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 5
-    width: 35
-    depth: 24
-  description: ''
-  price: 300
-  sold: false
-  contextual: false
 - title: Arbres 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     - 3 33 x 49.jpg
@@ -201,22 +186,6 @@ works:
     depth: 0
   description: Exemplaire 1/5
   price: 350
-  sold: false
-  contextual: true
-- title: Aux quatre coins du jardin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
-    130 x 89 3600 euros.jpg
-  technique: 'Pigments acryliques, terre, eau de pluies et fossilles végétaux sur
-    toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: ''
-  price: 3600
   sold: false
   contextual: true
 - title: Grande ronce bleue
