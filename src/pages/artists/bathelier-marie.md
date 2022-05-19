@@ -265,21 +265,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Les parcelles - 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier les parcelles 4 pigments calcaire et jus de feuilles de vigne sur papier
-    37 x 25 cm 500 euros.jpg
-  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 37
-    width: 25
-    depth: 0
-  description: ''
-  price: 500
-  sold: false
-  contextual: true
 - title: Au jardin -1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 1 couleurs pigmentaires et organiques sur papier 48 x 68 cm
