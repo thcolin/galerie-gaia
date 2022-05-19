@@ -203,21 +203,6 @@ works:
   price: 350
   sold: false
   contextual: true
-- title: La nuit, la lune, soudain
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier la nuit, la lune, soudain atelier pig acryl et argile sur toile 24
-    x 30 350 euros.jpg
-  technique: Pigments acrylique et argile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 30
-    depth: 0
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
 - title: Aux quatre coins du jardin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier aux quatre coins du jardin pigments acryl terre et et argile sur toile
