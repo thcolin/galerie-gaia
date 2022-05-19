@@ -48,6 +48,20 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Au jardin 5
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/proches5 : couleurs
+    p&o sur p : 48 x 68 cm.jpg'
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 68
+    depth: 0
+  description: 2022 Œuvre encadrée cadre chêne
+  price: 700
+  sold: false
+  contextual: true
 - title: Arbres 6 - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
