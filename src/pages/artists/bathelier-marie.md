@@ -296,8 +296,8 @@ works:
   sold: false
   contextual: true
 - title: Coeur de la nuit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier coeur de nuit pigments suie et argile sur toile 23 x 30 350 euros.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/alerie-gaia-marie-bathellier-coeur
+    de la nuit.heic
   technique: Pigments, suie et argile sur toile
   fields: []
   styles: []
