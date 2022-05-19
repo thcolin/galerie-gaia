@@ -11,6 +11,18 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: Frederic Poincelet - Massilia
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: 'Edition : 2/20'
+  price: 650
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0085.jpeg
+  technique: Lithographie
 - title: 'Frederic Poincelet - Sans titre #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0060.jpeg
   technique: Lithographie
