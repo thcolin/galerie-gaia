@@ -265,21 +265,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: Au jardin -1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 1 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: 'pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier  '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
 - title: Au jardin -2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
@@ -295,84 +280,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Au jardin -3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 3 couleurs pigmentaires et organiqes sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
 - title: Au jardin - 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Au jardin - 5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 5 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Au jardin - 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 6 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Au jardin - 7
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 7 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 0
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-- title: Au jardin - 8
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches10 couleurs pigmentaires et organiques sur papier 48 x 68 cm
     700 euros.jpg
   technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
   fields: []
