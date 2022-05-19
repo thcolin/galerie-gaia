@@ -266,7 +266,7 @@ works:
   contextual: true
 - title: Coeur de la nuit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/alerie-gaia-marie-bathellier-coeur
-    de la nuit.heic
+    de la nuit.jpg
   technique: Pigments, suie et argile sur toile
   fields: []
   styles: []
