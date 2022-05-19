@@ -13,12 +13,12 @@ exhibitions: []
 works:
 - title: 'Sans titre #3 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
-  technique: Lithographie 4/20 2017
+  technique: 'Lithographie '
   dimensions:
     height: 42
     width: 57
     depth: 
-  description: "# Frédéric Poincelet"
+  description: "###### **Edition : 4/20**"
   price: 460
   sold: false
   contextual: true
