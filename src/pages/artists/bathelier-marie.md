@@ -94,39 +94,6 @@ works:
   price: 1500
   sold: false
   contextual: false
-- title: Agitation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier auto portrait bouillonnant pigments acryl et sable sur bois 165 x 112
-    x 25 1400 euros.jpg
-  technique: Pigments acryliques et sable sur bois
-  fields:
-  - Peinture
-  - " Sculpture"
-  styles: []
-  dimensions:
-    height: 165
-    width: 112
-    depth: 25
-  description: ''
-  price: 1400
-  sold: false
-  contextual: false
-- title: Grandes envolées
-  technique: Pigments acrylique, terre et eau de pluies et fossilles végétaux sur
-    toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 114
-    width: 162
-    depth: 0
-  description: ''
-  price: 4800
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier grandes envolées couleurs pigmentaires terre et eau de pluie sur toile
-    114 x 162 cm 4800 euros.jpg
-  sold: false
 - title: Heures bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
@@ -138,7 +105,7 @@ works:
     height: 100
     width: 73
     depth: 0
-  description: ''
+  description: Œuvre visible au Restaurant [l'Aménité](https://www.lamenite-restaurant-nantes.com/)
   price: 1600
   sold: false
   contextual: true
