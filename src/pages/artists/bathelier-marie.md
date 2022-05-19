@@ -59,38 +59,9 @@ works:
     height: 49
     width: 33
     depth: 0
-  description: "Installation de 6 papiers   \n49X33 cm est le format de chaque papier"
+  description: "Installation de 6 papiers, tarif avec encadrement compris  \n49X33
+    cm est le format de chaque papier"
   price: 3000
-  sold: false
-  contextual: false
-- title: Soir, le ciel s'agrandit
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soir, le ciel s''
-    agrandit : coul. pigmentaires et organiques sur bois de vigne, 85 x 60 x 15 cm.jpg'
-  technique: couleurs pigmentaires et organiques sur bois de vigne
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 65
-    width: 85
-    depth: 15
-  description: ''
-  price: 800
-  sold: false
-  contextual: true
-- title: Arbres 9
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
-    - 9 33 x 49 cm.jpg
-  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 49
-    width: 33
-    depth: 0
-  description: "Installation de 9 formats  \n49X33 cm est le format de chaque papier"
-  price: 4500
   sold: false
   contextual: false
 - title: Trésors 6
