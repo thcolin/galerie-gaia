@@ -11,7 +11,7 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
-- title: 'Sans titre #3 '
+- title: 'Frederic Poincelet - Sans titre #3 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
   technique: 'Lithographie '
   dimensions:
