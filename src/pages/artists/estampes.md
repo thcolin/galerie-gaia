@@ -11,6 +11,19 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: 'Sans titre #3 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
+  technique: Lithographie 4/20 2017
+  dimensions:
+    height: 42
+    width: 57
+    depth: 
+  description: "# Frédéric Poincelet"
+  price: 460
+  sold: false
+  contextual: true
+  styles:
+  - Figuratif
 - title: 'Shirley Jaffe - Sans Titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-770.jpg
   technique: Sérigraphie atelier Byse Lille 7/70 2002
@@ -297,19 +310,6 @@ works:
     depth: 
   description: "# Antonio Saura"
   price: 1980
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
-- title: 'Frédéric Poincelet - Sans titre #3 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
-  technique: Lithographie 4/20 2017
-  dimensions:
-    height: 42
-    width: 57
-    depth: 
-  description: "# Frédéric Poincelet"
-  price: 460
   sold: false
   contextual: true
   styles:
