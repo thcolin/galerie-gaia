@@ -248,6 +248,20 @@ works:
   price: 600
   sold: false
   contextual: true
+- title: Au jardin 9
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/proches9 : pigments
+    a & o sur p : 48 x 68 cm.jpg'
+  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 68
+    depth: 0
+  description: 2022 Œuvre encadrée cadre chêne
+  price: 700
+  sold: false
+  contextual: true
 - title: Au jardin -2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
