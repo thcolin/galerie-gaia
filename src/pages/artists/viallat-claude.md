@@ -68,7 +68,7 @@ works:
     2015
   price: 2000
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0172.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0200.jpeg
   technique: Monotype à encrage
   sold: false
 exhibitions: []
