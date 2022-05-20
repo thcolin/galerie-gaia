@@ -26,6 +26,19 @@ biography: |-
 
   Claude Viallat was born in 1936 in Nîmes, where he still lives today. He studied at the School of Beaux-Arts in Montpellier between 1955 and 1959, and then at the Beaux-Arts in Paris from 1962 to 1963 in the studio of Raymond Legueult. He is one of the founders of "Supports/Surfaces" in the 1970s, a movement that calls for a renewal of art by questioning traditional materials. Claude Viallat favors flat rectangular or square surfaces, allowing him to emphasize the density, intensity, and brilliance of the colored surfaces he paints.
 works:
+- title: Sans _ fond rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-64,2X49,2.jpg
+  technique: Sérigraphie 88/99
+  fields: []
+  styles: []
+  dimensions:
+    height: 64.2
+    width: 49.2
+    depth: 
+  price: 800
+  sold: false
+  contextual: true
+  description: '1997 Atelier Buyse Lille '
 - title: 'Sans titre #6'
   fields: []
   styles: []
@@ -42,19 +55,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0172.jpeg
   technique: Monotype à encrage
   sold: false
-- title: Sans _ fond rose
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-claude-viallat-64,2X49,2.jpg
-  technique: Sérigraphie 88/99
-  fields: []
-  styles: []
-  dimensions:
-    height: 64.2
-    width: 49.2
-    depth: 
-  price: 800
-  sold: false
-  contextual: true
-  description: '1997 Atelier Buyse Lille '
 exhibitions: []
 
 ---
