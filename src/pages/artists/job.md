@@ -23,7 +23,7 @@ biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour 
   raconter la suite de l'histoire \n>\n> Parfois il est juste bon de se laisser aller
   à la douceur d'une atmosphère légère."
 works:
-- title: sur les quais
+- title: Sur les quais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
     les quais.jpg
   technique: 'Acrylique sur toile '
@@ -144,7 +144,8 @@ works:
   sold: false
   contextual: true
 - title: Portrait de Philippe Bigot
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1241.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
+    philippe bigot job pornichet canapé.jpg
   technique: ''
   fields: []
   styles: []
@@ -152,7 +153,7 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: portrait dans l'atelier
+  description: ''
   price: 
   sold: false
   contextual: false
