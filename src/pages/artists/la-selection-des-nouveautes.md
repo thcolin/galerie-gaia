@@ -64,8 +64,9 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: "Job  \nnouvel artiste de la galerie, en exposition du 4 au 17 juillet
-    2022 à Pornichet"
+  description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nNouvel
+    artiste de la galerie  \nA Pornichet le week-end de l'Ascension   \nEn exposition
+    du 4 au 17 juillet 2022 à Pornichet"
   price: 1700
   contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
