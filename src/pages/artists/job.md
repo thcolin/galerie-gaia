@@ -22,6 +22,33 @@ biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour 
   la ville devient décors de cinéma propice à laisser notre imagination raconter la
   suite de l'histoire "
 works:
+- title: sur les quais
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
+    les quais.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 97
+    width: 130
+    depth: 0
+  description: Cadre en bois 4cm hauteur
+  price: 2400
+  sold: false
+  contextual: true
+- title: Nalani
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-nalani.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 90
+    depth: 0
+  description: Cadre en bois 4 cm hauteur
+  price: 2400
+  sold: false
+  contextual: true
 - title: 'Plein Soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
     soleil-100X100.jpeg
@@ -38,32 +65,6 @@ works:
   contextual: true
 - title: Motel
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Motel-1mx1m.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 1700
-  sold: false
-  contextual: true
-- title: Carmel
-  image: ''
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 1700
-  sold: false
-  contextual: true
-- title: Saute mouton
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -126,6 +127,19 @@ works:
     depth: 0
   description: ''
   price: 1500
+  sold: false
+  contextual: true
+- title: Saute mouton
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: Réservée pour une vente aux enchères en septembre 2022
+  price: 
   sold: false
   contextual: true
 - title: Portrait de Job
