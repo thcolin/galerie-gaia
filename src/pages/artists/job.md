@@ -143,9 +143,8 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Portrait de Job
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-philippe-bigot-portrait-job
-    lepeintre.jpeg
+- title: Portrait de Philippe Bigot
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1241.jpeg
   technique: ''
   fields: []
   styles: []
