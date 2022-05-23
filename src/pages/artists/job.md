@@ -15,10 +15,12 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: |-
-  > Job est un artiste peintre qui nous aide à prendre le temps pour que nos souvenirs apparaissent sous nos yeux, inondés par une lumière solaire et une palette de couleurs chaudes comme le sable.
-  >
-  > Le cadrage est aussi important que les sujets saisis dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination raconter la suite de l'histoire...Action !
+biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour que
+  nos souvenirs apparaissent, inondés par une lumière solaire et une palette de couleurs
+  chaudes comme le sable.\n>\n> Le cadrage est aussi important que les sujets saisis
+  dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite
+  la ville devient décors de cinéma propice à laisser notre imagination raconter la
+  suite de l'histoire "
 works:
 - title: 'Plein Soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
@@ -27,8 +29,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 100
+    width: 100
     depth: 0
   description: ''
   price: 1700
@@ -48,7 +50,7 @@ works:
   sold: false
   contextual: true
 - title: Carmel
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-carmel-100X100.jpg
+  image: ''
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
