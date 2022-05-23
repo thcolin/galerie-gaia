@@ -16,11 +16,12 @@ birth: ''
 death: ''
 expose: true
 biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour que
-  nos souvenirs apparaissent, inondés par une lumière solaire et une palette de couleurs
+  nos souvenirs apparaissent inondés par une lumière solaire et une palette de couleurs
   chaudes comme le sable.\n>\n> Le cadrage est aussi important que les sujets saisis
-  dans des expressions spontanées. Tout en traits, perspectives et lignes de fuite
-  la ville devient décors de cinéma propice à laisser notre imagination raconter la
-  suite de l'histoire "
+  dans des moments de vie discrets, simples et heureux. Tout en traits, perspectives
+  et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination
+  raconter la suite de l'histoire \n>\n> Parfois il est juste bon de se laisser aller
+  à la douceur d'une atmosphère légère."
 works:
 - title: sur les quais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
@@ -157,9 +158,9 @@ works:
   sold: false
   contextual: false
 exhibitions:
-- title: Exposition Médiathèque de Pornichet Juillet 2022
+- title: Exposition Médiathèque Camille Flamarion Pornichet
+  location: La Baule Pornichet
+  start: 4 Juillet 2022
   end: 17 Juillet 2022
-  location: Pornichet
-  start: 4 juillet 2022
 
 ---
