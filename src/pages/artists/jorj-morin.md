@@ -27,6 +27,21 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: Tapisserie Signaux indécis
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
+  technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
+  dimensions:
+    height: 118
+    width: 184
+    depth: 
+  description: '1973 '
+  price: 3800
+  sold: false
+  contextual: true
+  fields:
+  - Textile
+  styles:
+  - Abstrait
 - title: 'Pierre gravée '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-pierre
     gravée.jpg
@@ -64,6 +79,20 @@ works:
   dimensions:
     height: 45
     width: 30
+    depth: 
+  description: ''
+  price: 450
+  sold: false
+  contextual: true
+- title: Trois signes non identifiés 1971
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
+    signes non identifiés.JPG
+  technique: Eau forte 10/50
+  fields: []
+  styles: []
+  dimensions:
+    height: 61
+    width: 38
     depth: 
   description: ''
   price: 450
@@ -123,20 +152,6 @@ works:
     depth: 
   description: ''
   price: 150
-  sold: false
-  contextual: true
-- title: Trois signes non identifiés 1971
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
-    signes non identifiés.JPG
-  technique: Eau forte 10/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 38
-    depth: 
-  description: ''
-  price: 450
   sold: false
   contextual: true
 - title: Signaux optiques 1971
@@ -543,21 +558,6 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Tapisserie Signaux indécis
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
-  technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
-  dimensions:
-    height: 118
-    width: 184
-    depth: 
-  description: '1973 '
-  price: 3800
-  sold: false
-  contextual: true
-  fields:
-  - Textile
-  styles:
-  - Abstrait
 - title: Zoom sur Signaux indécis
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/signaux-indecis.jpg
   technique: Tapisserie en laine
