@@ -82,7 +82,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 250
+  price: 350
   contextual: true
 - title: Miki
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MIKI-30
@@ -93,7 +93,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 250
+  price: 350
   contextual: true
 - title: Iris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-roubichou-iris.jpg
