@@ -48,8 +48,8 @@ works:
   sold: false
   contextual: true
 - title: Stained glass
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-stained
-    glass-100X150.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dideir engels- galerie
+    gaia- proue.jpg
   technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
     de 3 couches de résine epoxy '
   fields: []
@@ -64,7 +64,7 @@ works:
   sold: false
   contextual: true
 - title: 36 PART2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-36PART2-100X100.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_5426.jpg
   technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
     de 3 couches de résine epoxy '
   fields: []
