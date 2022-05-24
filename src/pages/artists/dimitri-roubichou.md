@@ -35,6 +35,30 @@ biography: |-
   Elisabeth Givre, Gaïa Gallery
 exhibitions: []
 works:
+- title: 'Echoes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Echoes (2).jpg
+  technique: Photographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: "2022"
+  price: 450
+  contextual: true
+- title: Penelope
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Penelop.jpg
+  technique: Photographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 50
+    depth: 0
+  description: "2022"
+  price: 500
+  contextual: true
 - title: 'Akémi '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia dimitri
     roubichou Akemi.jpg
@@ -119,7 +143,7 @@ works:
   price: 250
   contextual: true
 - title: Trophée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
   technique: Photographie sur papier baryté
   fields: []
   styles: []
@@ -155,7 +179,7 @@ works:
   price: 250
   contextual: true
 - title: Trophée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
   technique: 'Photographie tirage papier baryté '
   fields: []
   styles: []
@@ -211,7 +235,7 @@ works:
   price: 700
   contextual: true
 - title: Bäla
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30
     cm x 30 cm - 30 tirages.jpg
   technique: Photographie tirage papier baryté
   dimensions:
