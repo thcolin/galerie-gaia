@@ -23,6 +23,20 @@ biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour 
   raconter la suite de l'histoire \n>\n> Parfois il est juste bon de se laisser aller
   à la douceur d'une atmosphère légère."
 works:
+- title: Cache-cache
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-cache
+    cache.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 24
+    depth: 0
+  description: Encadrement bois naturel hauteur 4 cm
+  price: 340
+  sold: false
+  contextual: true
 - title: Sur les quais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
     les quais.jpg
