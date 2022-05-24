@@ -29,20 +29,20 @@ exhibitions: []
 works:
 - title: 'Pierre gravée '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-pierre
-    gravée.jpg
+    gravée.jpg
   technique: Eau forte
   fields: []
   styles: []
   dimensions:
     height: 38
     width: 28
-    depth: 0
+    depth: 
   description: "1973"
   price: 250
   sold: false
   contextual: true
 - title: Trois veilleurs - en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
     02.jpg
   technique: Eau-forte 15/50
   fields: []
@@ -57,7 +57,7 @@ works:
   contextual: true
 - title: Trois veilleurs 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Extrait article
-    Galerie Gaïa- 27.jpg
+    Galerie Gaïa- 27.jpg
   technique: Eau forte 15/50
   fields: []
   styles: []
@@ -99,7 +99,7 @@ works:
   contextual: true
 - title: Une certaine cohésion 1972
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-une
-    certaine cohésion.JPG
+    certaine cohésion.JPG
   technique: Eau forte 15/50
   fields: []
   styles: []
@@ -127,7 +127,7 @@ works:
   contextual: true
 - title: Trois signes non identifiés 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
-    signes non identifiés.JPG
+    signes non identifiés.JPG
   technique: Eau forte 10/50
   fields: []
   styles: []
@@ -196,7 +196,7 @@ works:
   contextual: true
 - title: Mouvement mécanique 1982
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-mouvements
-    mécaniques.JPG
+    mécaniques.JPG
   technique: Eau forte 3/50
   fields: []
   styles: []
@@ -224,7 +224,7 @@ works:
   contextual: true
 - title: Limites de propriété 1981
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-limites
-    de propriété.JPG
+    de propriété.JPG
   technique: Eau forte 22/50
   fields: []
   styles: []
@@ -308,7 +308,7 @@ works:
   contextual: true
 - title: Le château vertical 1968
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
-    château vertical.JPG
+    château vertical.JPG
   technique: Eau forte 1/50
   fields: []
   styles: []
@@ -321,7 +321,7 @@ works:
   sold: false
   contextual: true
 - title: L'échelle de Jacob 1971
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'échelle
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'échelle
     de jacob.JPG
   technique: Eau forte 10/50
   fields: []
@@ -336,7 +336,7 @@ works:
   contextual: true
 - title: L'arbre noué 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
-    noué.jpg
+    noué.jpg
   technique: Eau forte 10/50
   fields: []
   styles: []
@@ -364,7 +364,7 @@ works:
   contextual: true
 - title: Fleur coupée 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fleur
-    coupée.JPG
+    coupée.JPG
   technique: Eau forte 32/50
   fields: []
   styles: []
@@ -405,7 +405,7 @@ works:
   sold: false
   contextual: true
 - title: Fenêtre noire 1978
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fenêtre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fenêtre
     noire.JPG
   technique: Eau forte 16/50
   fields: []
@@ -434,7 +434,7 @@ works:
   contextual: true
 - title: Espace agité 1968
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-espace
-    agité.JPG
+    agité.JPG
   technique: Eau forte 2/50
   fields: []
   styles: []
@@ -476,7 +476,7 @@ works:
   contextual: true
 - title: Coupe géologique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coupe
-    géologique.JPG
+    géologique.JPG
   technique: Eau forte 15/50
   fields: []
   styles: []
@@ -490,7 +490,7 @@ works:
   contextual: true
 - title: Construction ephémère
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-constructions
-    ephémères.JPG
+    ephémères.JPG
   technique: Eau forte 10/50
   fields: []
   styles: []
@@ -551,7 +551,7 @@ works:
     width: 184
     depth: 
   description: '1973 '
-  price: 3500
+  price: 3800
   sold: false
   contextual: true
   fields:
