@@ -233,7 +233,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 250
+  price: 350
   contextual: true
 - title: Moha
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MOHA-30
@@ -311,7 +311,7 @@ works:
     depth: 
   description: "Edition en 9 exemplaires  \nEncadrement baguette aluminium noir brossé
     verre musée format 30X30 cm"
-  price: 250
+  price: 350
   sold: false
   contextual: false
 - title: Quatre
