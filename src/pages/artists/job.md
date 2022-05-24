@@ -23,6 +23,33 @@ biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour 
   raconter la suite de l'histoire \n>\n> Parfois il est juste bon de se laisser aller
   à la douceur d'une atmosphère légère."
 works:
+- title: A l'ombre de Léontine
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-A
+    l'ombre de Leontine-54x64.jpeg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 70
+    depth: 0
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
+- title: "112"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-112-60x60.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Encadrement bois naturel hauteur 4 cm
+  price: 700
+  sold: false
+  contextual: true
 - title: Cache-cache
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-cache
     cache.jpg
