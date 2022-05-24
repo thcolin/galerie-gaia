@@ -15,25 +15,25 @@ location: ''
 birth: ''
 death: ''
 expose: true
-biography: "> Job est un artiste peintre qui nous aide à prendre le temps pour que
-  nos souvenirs apparaissent inondés par une lumière solaire et une palette de couleurs
-  chaudes comme le sable.\n>\n> Le cadrage est aussi important que les sujets saisis
-  dans des moments de vie discrets, simples et heureux. Tout en traits, perspectives
-  et lignes de fuite la ville devient décors de cinéma propice à laisser notre imagination
-  raconter la suite de l'histoire \n>\n> Parfois il est juste bon de se laisser aller
-  à la douceur d'une atmosphère légère."
+biography: |-
+  > Job est un artiste peintre qui nous aide à prendre le temps pour que nos souvenirs apparaissent inondés par une lumière solaire et une palette de couleurs chaudes comme le sable.
+  >
+  > Le cadrage est aussi important que les sujets saisis dans des moments de vie discrets, simples et heureux. Tout en traits, perspectives et lignes de fuite, la ville devient décors de cinéma propice à laisser notre imagination raconter la suite de l'histoire.
+  >
+  > Parfois il est juste bon de se laisser aller à la douceur d'une atmosphère légère.
 works:
-- title: Tacoma
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Tacoma-60x60.jpeg
+- title: Sur les quais
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
+    les quais.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 60
-    width: 60
+    height: 97
+    width: 130
     depth: 0
-  description: Encadrement bois naturel hauteur 4 cm
-  price: 700
+  description: Cadre en bois 4cm hauteur
+  price: 2400
   sold: false
   contextual: true
 - title: A l'ombre de Léontine
@@ -50,17 +50,17 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: "112"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-112-60x60.jpg
-  technique: 'Acrylique sur toile '
+- title: Brigneau
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
+  technique: Acrylique sur toile
   fields: []
   styles: []
   dimensions:
-    height: 60
-    width: 60
+    height: 130
+    width: 82
     depth: 0
-  description: Encadrement bois naturel hauteur 4 cm
-  price: 700
+  description: ''
+  price: 2400
   sold: false
   contextual: true
 - title: Cache-cache
@@ -75,20 +75,6 @@ works:
     depth: 0
   description: Encadrement bois naturel hauteur 4 cm
   price: 340
-  sold: false
-  contextual: true
-- title: Sur les quais
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
-    les quais.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 97
-    width: 130
-    depth: 0
-  description: Cadre en bois 4cm hauteur
-  price: 2400
   sold: false
   contextual: true
 - title: Nalani
@@ -145,6 +131,32 @@ works:
   price: 1700
   sold: false
   contextual: true
+- title: "112"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-112-60x60.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Encadrement bois naturel hauteur 4 cm
+  price: 700
+  sold: false
+  contextual: true
+- title: Tacoma
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Tacoma-60x60.jpeg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Encadrement bois naturel hauteur 4 cm
+  price: 700
+  sold: false
+  contextual: true
 - fields: []
   styles: []
   dimensions:
@@ -158,19 +170,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Lomener-1mx1m.jpg
   technique: 'Acrylique sur toile '
   sold: false
-- title: Brigneau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 82
-    depth: 0
-  description: ''
-  price: 2400
-  sold: false
-  contextual: true
 - title: Duel
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Duel-920x600.jpg
   technique: 'Acrylique sur toile '
