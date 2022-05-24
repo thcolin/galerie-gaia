@@ -9,7 +9,7 @@ expose: true
 biography: |-
   # Art Galeries Nantes
 
-  ## Galerie Albane l'Artichaut Galerie Le 56  Galerie des oubliés  Le Triphasé Atelier Prisme Galerie Gaïa
+  ## Galerie Albane l'Artichaut Galerie Le 56  Galerie des oubliés  Le Triphasé  Galerie Gaïa
 
   En 2015, rue Fénelon, l’idée d’association germe ! En 2016, l’association loi 1901 Art Galeries Nantes est créée. Elle fédère alors 14 galeries et lieux de diffusion nantais. A l’actif, de l’association, trois « Nuits des Galeries » - qui se révèleront des succès – lors desquelles chacun a pu se déplacer d’un lieu à l’autre, d’une découverte à l’autre, d’une surprise à l’autre : parce que l’idée avait vu le jour, les galeries ont ouvert la nuit ! En 2020, 9 galeries restent présentes au sein de l’association. Certaines galeries ont disparu du paysage nantais. En effet, une page de cette histoire privée et artistique s’est tournée, par choix personnel et/ou par impératifs économiques. Cependant, la relève est assurée et se profile ainsi une dynamique qui permettra aux artistes d’être toujours représentés et cela dans toutes leurs formes d’expression. Les objectifs d’Art Galeries Nantes sont :
 
@@ -23,6 +23,18 @@ biography: |-
   * Concevoir, organiser et accompagner toutes manifestations artistiques collectives.
 exhibitions: []
 works:
+- title: Art Galeries Nantes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Art_Galeries_logo_jaune.png
+  technique: 'Suivez-nous sur Instagram @artgaleriesnantes '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Save the date 4eme Nuit des Galeries week-end du 11 Novembre 2022
+  price: ''
+  contextual: false
 - title: 'Dimanche 1er Mai 2022 les galeries d''art nantaises sont ouvertes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
     Dimanche 2022 AFFICHE A2.jpg

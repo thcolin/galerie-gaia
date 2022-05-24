@@ -34,7 +34,7 @@ works:
     height: 91
     width: 91
     depth: 
-  description: "2019"
+  description: Réservée
   price: 2500
   sold: false
   contextual: true
