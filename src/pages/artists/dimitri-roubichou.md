@@ -255,7 +255,7 @@ works:
     width: 30
     depth: 0
   description: Edition en 9 exemplaires
-  price: 250
+  price: 350
   contextual: true
 - title: Ostie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_1857 - Copie
@@ -266,7 +266,7 @@ works:
     width: 30
     depth: 0
   description: Edition en 9 exemplaires
-  price: 250
+  price: 350
   contextual: true
 - title: Anchorage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anchorage.jpg
@@ -288,7 +288,7 @@ works:
     width: 30
     depth: 
   description: 'Edition en 9 exemplaires '
-  price: 250
+  price: 350
   sold: false
   contextual: true
 - title: Sará
@@ -299,7 +299,7 @@ works:
     width: 30
     depth: 
   description: 'Edition en 9 exemplaires '
-  price: 250
+  price: 350
   sold: false
   contextual: true
 - title: 'Anémone '
