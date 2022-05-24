@@ -5,9 +5,10 @@ location: ''
 birth: "0"
 death: "0"
 expose: true
-biography: "# Idées cadeaux originales \n\nRetrouvez dans cette rubrique des **nouveautés**
-  proposées par les artistes de la galerie et **mise en situation**. Chaque œuvre
-  est disponible à la vente en galerie ou par colissimo."
+biography: |-
+  # Idées cadeaux originales
+
+  Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
 - title: New Ex
@@ -37,7 +38,7 @@ works:
     Fair de Bruxelles"
   price: 4750
   contextual: true
-- title: Plein soleil par Job
+- title: Plein soleil et Cache-cache par Job
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
     et job canape pornichet.jpg
   technique: Acrylique sur toile
@@ -49,9 +50,10 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nNouvel
-    artiste de la galerie  \nInstallation à Pornichet le week-end de l'Ascension  \nEn
-    exposition du 4 au 17 juillet 2022 à la médiathèque de Pornichet"
+  description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nPhilippe
+    Bigot nouvel artiste de la galerie  \nInstallation à la maison Gaia de Pornichet
+    le week-end de l'Ascension  \nEn exposition du 4 au 17 juillet 2022 à la médiathèque
+    de Pornichet"
   price: 1700
   contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
