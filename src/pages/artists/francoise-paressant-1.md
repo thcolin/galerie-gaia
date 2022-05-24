@@ -131,7 +131,7 @@ works:
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
     chevalier\")  \nSignature au dos"
   price: 
-  sold: false
+  sold: true
   contextual: true
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
