@@ -22,8 +22,7 @@ works:
   price: ''
   contextual: false
 - title: 'Didier Engels photographe '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/didier engels-stained
-    glass-100X150.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_8618.jpg
   technique: Photographie
   fields:
   - Photographie
@@ -38,23 +37,9 @@ works:
     Fair de Bruxelles"
   price: 4750
   contextual: true
-- title: Aux 4 coins du jardin de Marie Bathelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-marie
-    bathellier portrait.jpg
-  technique: Pigments acryliques, terre, eau de pluies et fossilles végétaux sur toile
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: "# [Marie Bathelier](https://galeriegaia.fr/artists/bathelier-marie/)"
-  price: 3600
-  contextual: false
 - title: Plein soleil par Job
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia job
-    plen soleil MES.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
+    et job canape pornichet.jpg
   technique: Acrylique sur toile
   fields:
   - Peinture
@@ -65,8 +50,8 @@ works:
     width: 100
     depth: 0
   description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nNouvel
-    artiste de la galerie  \nA Pornichet le week-end de l'Ascension   \nEn exposition
-    du 4 au 17 juillet 2022 à Pornichet"
+    artiste de la galerie  \nInstallation à Pornichet le week-end de l'Ascension  \nEn
+    exposition du 4 au 17 juillet 2022 à la médiathèque de Pornichet"
   price: 1700
   contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
