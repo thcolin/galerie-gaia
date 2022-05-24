@@ -35,8 +35,20 @@ biography: |-
   Elisabeth Givre, Gaïa Gallery
 exhibitions: []
 works:
-- title: 'Echoes '
+- title: Echoes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Echoes (2).jpg
+  technique: Photographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 45
+    width: 30
+    depth: 0
+  description: "2022"
+  price: 450
+  contextual: true
+- title: 'Echoes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/echoes.jpg
   technique: Photographie
   fields: []
   styles: []
