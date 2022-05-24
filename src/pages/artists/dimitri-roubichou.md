@@ -140,7 +140,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 250
+  price: 350
   contextual: true
 - title: Jade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitri-roubichou-jade-jpeg.JPG
@@ -152,7 +152,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 250
+  price: 350
   contextual: true
 - title: Trophée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
@@ -211,7 +211,7 @@ works:
     width: 30
     depth: 0
   description: ''
-  price: 250
+  price: 350
   contextual: true
 - title: Paa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-PAA-30cm
