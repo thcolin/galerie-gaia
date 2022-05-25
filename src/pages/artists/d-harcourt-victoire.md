@@ -61,13 +61,13 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 36
-    width: 76
+    height: 76
+    width: 36
     depth: 
   description: Edition en 12 exemplaires
   price: 5200
   sold: false
-  contextual: true
+  contextual: false
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
