@@ -55,19 +55,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Alliance IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
-  technique: 'Bronze '
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 36
-    depth: 
-  description: Edition en 12 exemplaires
-  price: 5200
-  sold: false
-  contextual: false
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
