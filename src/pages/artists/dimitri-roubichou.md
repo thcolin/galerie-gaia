@@ -190,18 +190,6 @@ works:
   description: Œuvre encadrée verre musée 30X30 cm
   price: 250
   contextual: true
-- title: Trophée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-roubichou-trophée.jpg
-  technique: 'Photographie tirage papier baryté '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: ''
-  price: 400
-  contextual: true
 - title: Vera
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-VERA-30
     cm x 30 cm - 30 tirages.jpg
@@ -224,17 +212,6 @@ works:
   description: ''
   price: 700
   contextual: true
-- title: Ono
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-ONO-30
-    cm x 30 cm - 30 tirages.jpg
-  technique: 'Photographie '
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: ''
-  price: 350
-  contextual: true
 - title: Moha
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-MOHA-30
     cm x 30 cm - 30 tirages.jpg
@@ -246,28 +223,6 @@ works:
   description: ''
   price: 700
   contextual: true
-- title: Bäla
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-BÄLA-30
-    cm x 30 cm - 30 tirages.jpg
-  technique: Photographie tirage papier baryté
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: Edition en 9 exemplaires
-  price: 350
-  contextual: true
-- title: Ostie
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_1857 - Copie
-    - Copie.JPG
-  technique: Photographie tirage papier barytée
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: Edition en 9 exemplaires
-  price: 350
-  contextual: true
 - title: Anchorage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/anchorage.jpg
   technique: Photo sur papier baryté
@@ -278,28 +233,6 @@ works:
   description: "Edition en 9 exemplaires  \nŒuvre encadrée verre musée format final
     30 X 30 cm "
   price: 250
-  sold: false
-  contextual: true
-- title: Sará
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cinq.jpg
-  technique: Photographie tirage  sur papier baryté
-  dimensions:
-    height: 30
-    width: 30
-    depth: 
-  description: 'Edition en 9 exemplaires '
-  price: 350
-  sold: false
-  contextual: true
-- title: Sará
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sept.jpg
-  technique: Photographie tirage sur papier baryté
-  dimensions:
-    height: 30
-    width: 30
-    depth: 
-  description: 'Edition en 9 exemplaires '
-  price: 350
   sold: false
   contextual: true
 - title: 'Anémone '
@@ -314,17 +247,6 @@ works:
   price: 350
   sold: false
   contextual: false
-- title: Quatre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/quatre.jpg
-  technique: Photographie tirage sur papier baryté
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: 'Edition en 9 exemplaire '
-  price: 700
-  sold: false
-  contextual: true
 - title: Acate
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/acate.jpg
   technique: 'Photographie tirage papier fine art '
