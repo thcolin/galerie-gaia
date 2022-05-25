@@ -131,6 +131,20 @@ works:
   price: 1700
   sold: false
   contextual: true
+- title: Surfers paradise
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Surfers
+    Paradise-90X90.jpeg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: 'Cadre bois naturel 4cm hauteur '
+  price: 1700
+  sold: false
+  contextual: true
 - title: "112"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-112-60x60.jpg
   technique: 'Acrylique sur toile '
