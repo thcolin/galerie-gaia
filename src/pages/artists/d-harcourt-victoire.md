@@ -61,8 +61,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 76
-    width: 36
+    height: 36
+    width: 76
     depth: 
   description: Edition en 12 exemplaires
   price: 5200
