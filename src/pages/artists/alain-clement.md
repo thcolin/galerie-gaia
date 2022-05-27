@@ -62,7 +62,7 @@ works:
   price: 650
   contextual: true
 - title: Sans titre -#2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0163.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0239.jpeg
   technique: Aquatinte
   fields: []
   styles: []
