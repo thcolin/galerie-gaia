@@ -45,8 +45,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 76
-    width: 36
+    height: 36
+    width: 76
     depth: 0
   description: Edition 12 Ex
   price: 5200
