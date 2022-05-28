@@ -73,7 +73,7 @@ works:
     height: 42
     width: 24
     depth: 0
-  description: Encadrement bois naturel hauteur 4 cm
+  description: Réservé
   price: 340
   sold: false
   contextual: true
@@ -102,7 +102,7 @@ works:
     depth: 0
   description: ''
   price: 1700
-  sold: true
+  sold: false
   contextual: true
 - title: Motel
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Motel-1mx1m.jpg
@@ -212,7 +212,7 @@ works:
   contextual: true
 - title: Portrait de Philippe Bigot
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
-    philippe bigot job pornichet canapé.jpg
+    philippe bigot job pornichet canapé.jpg
   technique: ''
   fields: []
   styles: []
