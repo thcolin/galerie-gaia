@@ -894,13 +894,13 @@ articles:
   content: |-
     [Interview Décadrée de Versants par Elisabeth Givre](https://www.youtube.com/watch?v=DxkvbjnGL4E "tangui robert jeronimo gaetan chevrier")
 
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa- 01.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa- 01.jpg)
 - template: article
   date: '2021-09-04T09:19:43.000+00:00'
   categories:
   - Exposition
   title: Hors les murs Pornichet 18 &19 Septembre 2021
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     02.jpg
   content: "[Côté Ouest Magazine Août Septembre 2021](https://www.cotemaison.fr/cote-ouest/
     \"Côté Ouest Magazine\")  \n**Escapade Hors les Murs**\n\nComme vous pouvez le
@@ -1023,8 +1023,8 @@ articles:
   categories:
   - Exposition
   title: Françoise Paressant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa -
-    Françoise Paressant A2 haute def.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa - Françoise
+    Paressant A2 haute def.jpg
   content: "**Rencontre avec l'artiste Jeudi 19 Mai à partir de 17H**\n\nJoyeuse et
     talentueuse coloriste, [Françoise Paressant]() s'amuse des formes et des couleurs
     pour rendre tous les supports vivants et vibrants. Reconnue internationalement
@@ -1034,5 +1034,27 @@ articles:
     \"galerie chevalier parsua\") \n\nDes œuvres de Françoise Paressant sont entrées
     dans les collections du Musée des Arts Décoratifs Paris, et au Musée des Arts
     de Nantes suite à une exposition en 1984."
+- template: article
+  date: '2022-06-02T16:00:00Z'
+  categories: []
+  title: Isthme - Absolu
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa - Isthme
+    A2 V2.JPEG
+  content: |-
+    **Vernissage Jeudi 2 Juin à 18h**
+
+    La peinture d[’Isthme](https://galeriegaia.fr/artists/isthme/) est une rencontre avec la lumière.
+
+    Une clarté qu’elle poursuit et collecte parfois dans les miroitements fluorescents d'une vague la nuit. Une quête du sublime qu’elle équilibre par la transparence et le geste.
+
+    Ce geste qui envahit tout, qui dépasse le souvenir du sensible et qui implique le corps sur la toile. Il se fait ample et généreux, se perd dans des abymes d’outremarins et de cramoisis, pourtant chaque ligne doit faire sens. Pour Isthme ses peintures sont des constructions plastiques et architecturales où la verticalité et la spontanéité sont essentielles.
+
+    La série montrée à la [Galerie Gaia](https://galeriegaia.fr) s’articule autour de deux pratiques, celle de la peinture dans laquelle on se perd, on plonge et l’on se laisse surprendre par une lumière qui transcende la matière. Celle du collage qui juxtapose différentes textures et différents bleus dans des compositions frontales.
+
+    [Isthme](https://galeriegaia.fr/artists/isthme/) (1963)
+
+    Diplômée de l’École des Beaux-Arts Appliquées Saydie Bronfman de Montréal. Elle vit et travaille à Nantes.
+
+    Sélectionnée plusieurs années dans les salons parisiens de Garches et Réalités Nouvelles, elle rejoint la [Galerie Gaia](https://galeriegaia.fr) en 2018.
 
 ---
