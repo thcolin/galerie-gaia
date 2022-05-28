@@ -1,12 +1,10 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
-    cm 2021 papier teinté tissé  2021.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/220509-ISTHME0278.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
-    sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/220509-ISTHME0275.jpg
 redirect_from:
 - "/plan/"
 seo:
