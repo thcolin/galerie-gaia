@@ -12,7 +12,7 @@ seo:
   title: Catalogue - Galerie Gaïa
   heading: Trouvez de l'inspiration parmis nos artistes
   type: website
-  description: Une panne d'inspiration pour trouver une oeuvre ? Venez découvrir l'oeuvre
+  description: Une panne d'inspiration pour trouver une oeuvre ? Venez découvrir celle
     qui vous conviendra sur notre catalogue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-reserve.jpg
 
