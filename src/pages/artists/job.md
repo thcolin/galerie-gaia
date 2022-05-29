@@ -113,7 +113,7 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: ''
+  description: Réservé
   price: 1700
   sold: false
   contextual: true
