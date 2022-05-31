@@ -66,7 +66,7 @@ works:
   price: ''
   contextual: true
 - title: 'Allongée dans l''herbe #6b'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Allongée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Allongée
     dans l'herbe#6b-146X114-Acrylique sur toile.jpg
   fields: []
   styles: []
@@ -78,19 +78,6 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
-- title: Summer solstice
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-LITHO 2021-76X56cm-Summer
-    Solstice.jpg
-  technique: Lithographie 4/8
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: '2021 Musée imprimerie de Nantes '
-  price: 500
-  contextual: true
 - title: Lino B1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-B1-2021-13x18
     C.jpg
@@ -145,45 +132,6 @@ works:
   description: "chaque pièce est unique du fait du collage  \nVisuel du 10/10"
   price: 600
   contextual: true
-- title: 'Small Architecture #22 - 2018'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
-    Architecture #22-2018-76,5x57.jpg'
-  technique: Collage sur Canson et Arches
-  fields: []
-  styles: []
-  dimensions:
-    height: 76.5
-    width: 57
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
-- title: 'Small Architecture #21 - 2018'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
-    Architecture #21-2018-76,5x57.jpg'
-  technique: Collage sur Canson et Arches
-  fields: []
-  styles: []
-  dimensions:
-    height: 76.5
-    width: 57
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
-- title: 'Small Architecture #20 - 2018'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-Small
-    Architecture #20-2018-76,5x57.jpg'
-  technique: Collage sur Canson et Arches
-  fields: []
-  styles: []
-  dimensions:
-    height: 76.5
-    width: 57
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
 - title: Farandole J
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Isthme-farandole
     J-66x50.jpg
@@ -223,89 +171,6 @@ works:
     depth: 0
   description: 2021 Musée de l'imprimerie de Nantes
   price: 380
-  contextual: true
-- title: 'Green Rhapsody #7'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-green-rhapsody-collage-7-76x56-2016.jpg
-  technique: Collage
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "2015"
-  price: 750
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Rhapsody in red '
-  dimensions:
-    height: 76
-    width: 57
-    depth: 0
-  description: "2015"
-  price: 750
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-greenrhapsody-76x56.jpg
-  technique: Collage
-  fields:
-  - Oeuvre sur papier
-- title: 'Cou-Rage #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-77x58-1.jpg
-  technique: Collage
-  dimensions:
-    height: 77
-    width: 58
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Cou-Rage #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-courage-E.jpg
-  technique: Collage
-  dimensions:
-    height: 84
-    width: 65
-    depth: 0
-  description: Oeuvre encadrée baguette chêne montage caisson verre anti-reflet oeuvre
-    posée sur carton plume pour effet de flottement
-  price: 900
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Cou-Rage #3'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-cou-rage-3-77x58.jpg
-  technique: 'Collage '
-  dimensions:
-    height: 77
-    width: 58
-    depth: 0
-  description: ''
-  price: 750
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Territoires Colorés #15'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-territoires
-    colorés 15-76X56.jpg
-  technique: Collage
-  dimensions:
-    height: 76
-    width: 57
-  description: "2020"
-  price: 750
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Purple Rhapsody #4 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Isthme-Purple
-    Rhapsody 4-146x114-2016.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 146
-    width: 114
-  description: 2016 prix sur demande
-  price: ''
   contextual: true
 - title: Nuits en Mer Litho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-titre-410.jpg
