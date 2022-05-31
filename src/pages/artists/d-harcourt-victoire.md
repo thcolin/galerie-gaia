@@ -51,7 +51,7 @@ works:
   description: Edition 12 Ex
   price: 5200
   contextual: false
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
   technique: 'Bronze '
   sold: false
 - title: Alliance XII
