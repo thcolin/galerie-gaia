@@ -90,20 +90,6 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: 'Plein Soleil '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-plein
-    soleil-100X100.jpeg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 1700
-  sold: false
-  contextual: true
 - title: Motel
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Motel-1mx1m.jpg
   technique: 'Acrylique sur toile '
