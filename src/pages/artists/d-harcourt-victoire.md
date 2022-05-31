@@ -41,19 +41,6 @@ biography: "# Victoire D'Harcourt\n\n> Toute puissance ne tient qu'à un fil\n\n
   work often expresses a double feeling that links both strength and fragility in
   a whole whose balance is precarious."
 works:
-- title: Alliance IV
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 36
-    depth: 0
-  description: Edition 8.Ex
-  price: 5200
-  contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
-  technique: 'Bronze '
-  sold: false
 - title: Alliance XII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - victoire
     d'harcourt-alliance XII.JPG
@@ -68,6 +55,19 @@ works:
   price: 
   sold: false
   contextual: false
+- title: Alliance IV
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 36
+    depth: 0
+  description: Edition 8.Ex
+  price: 5200
+  contextual: false
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
+  technique: 'Bronze '
+  sold: false
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
