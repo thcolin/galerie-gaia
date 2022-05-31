@@ -45,13 +45,13 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 36
-    width: 76
+    height: 76
+    width: 36
     depth: 0
   description: Edition 12 Ex
   price: 5200
   contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
+  image: ''
   technique: 'Bronze '
   sold: false
 - title: Alliance XII
