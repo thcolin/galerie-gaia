@@ -52,6 +52,21 @@ works:
     2015
   price: 2000
   contextual: true
+- title: 'Sans titre #2 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0239.jpeg
+  technique: Aquatinte
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 61
+    depth: 0
+  description: |-
+    Edition: 2/19
+
+    2009
+  price: 800
+  contextual: true
 - title: Plein soleil et Cache-cache par Job
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
     et job canape pornichet.jpg
