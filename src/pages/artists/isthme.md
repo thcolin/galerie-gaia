@@ -25,6 +25,98 @@ biography: |-
   Isthme was born in Nantes in 1963. She studied Political Science in Bordeaux and Urban Planning and Project Management in Paris. Her first great artistic shocks were felt during the monumental exhibition of Anselm Kieffer and then that of Richard Long in 1985, in Bordeaux. In 2000, she definitively committed herself to an artistic career, spending three years at the Saydie Bronfman School of Applied Arts in Montreal, having moved there. From her first job, she keeps the passion and the taste for space, clean lines, solids, voids, transparencies, opacities... The references that feed her artistic work are wide and are as much about the buildings of architects like Mies Van Der Rohe, Tadao Ando, as the sculpture of Richard Serra or Dani Karavan, the painting of Color Field Painting... Isthme had her first exhibition in Montreal in 2003 with a dozen paintings and drawings. Between 2003 and 2007, she exhibited in several galleries and art centers in Montreal before returning to Nantes. After being selected for several years in the Parisian shows of Garches and Réalités Nouvelles and many cultural art centers, in 2018 she joined the Nantes gallery Gaïa, where she will have her solo exhibition in June-July 2019. Isthme describes her artistic approach, "I make few sketches before I start on a canvas. I don't go in blind though. I always have a "vision-intuition" which allows me to put a first draft on a large canvas of at least one meter sixty to go to seek the fullest gesture, alive, and generous possible. In this first stage of the work, I look for a form and its color. Then from this, the slow and long work of composition begins, of arrangement where each line must answer to another, where the small detail is as important as the big one, where each color must find its proportion. My pictorial objective is to succeed in sharing common sensations of nature or more unusual sensations when it comes to moments experienced at night at the helm of a boat."
 exhibitions: []
 works:
+- title: 'Blue Majuscule #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
+    Majuscule#1-130X97cm-acrylique sur toile.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: "2022"
+  price: 3500
+  contextual: true
+  sold: false
+- title: 'Blue Majuscule #2'
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: "2022"
+  price: 1800
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME- 2022-Bleu
+    Majuscule#2-100x81cm-acrylique sur toile.jpg
+- title: 'Blue Majuscule #3'
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: "2022"
+  price: 1800
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
+    Majuscule#3-100x81cm-Acrylique sur toile.jpg
+- title: 'Blue Majuscule #4'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
+    Majuscule#4-100x81cm-acrylique sur toile.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: "2022"
+  price: 1800
+  contextual: true
+- title: 'Blue Majuscule #5'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
+    #5, 2022-120 x 120 cm -Acrylique sur toile  -.jpg'
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2022"
+  price: 4900
+  contextual: true
+- title: 'Entre bleus #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#1-2022-170x130cm-acrylisque
+    sur toile.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 170
+    width: 130
+    depth: 0
+  description: "2022"
+  price: 5500
+  contextual: true
+- title: 'Entre bleus #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#2-2022-acrylique
+    sur toile-114x195cm.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 170
+    depth: 0
+  description: "2022"
+  price: ''
+  contextual: true
 - title: 'Petits Equilibres #2'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Petits Equilibres#2-2022-76x56cm-linogravure:Lithographie
     et acrylique sur papier Arches.jpg
@@ -51,18 +143,18 @@ works:
   description: _2022_
   price: 700
   contextual: true
-- title: 'Entre bleus #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#2-2022-acrylique
-    sur toile-114x195cm.jpg
-  technique: Acrylique sur toile
+- title: 'Deep blue #15'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
+    #15, 2021 -76 x 57 cm -Collage sur papier Arches .jpg'
+  technique: Acrylique & collage sur papier Arches
   fields: []
   styles: []
   dimensions:
-    height: 170
-    width: 130
+    height: 76
+    width: 57
     depth: 0
-  description: "2022"
-  price: ''
+  description: "2021"
+  price: 750
   contextual: true
 - title: 'Deep Blue #16'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
@@ -77,18 +169,18 @@ works:
   description: "2021"
   price: 750
   contextual: true
-- title: 'Deep blue #15'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
-    #15, 2021 -76 x 57 cm -Collage sur papier Arches .jpg'
-  technique: Acrylique & collage sur papier Arches
+- title: 'Entre bleus #1'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Entre Bleus ISTHME-Entre
+    Bleus #1-2022 -60x51 cm-collage et acrylique sur canson.jpg'
+  technique: Acrylique et collages sur papier Canson
   fields: []
   styles: []
   dimensions:
-    height: 76
-    width: 57
+    height: 60
+    width: 51
     depth: 0
-  description: "2021"
-  price: 750
+  description: "2022"
+  price: 600
   contextual: true
 - title: 'Entre bleus #2'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus
@@ -103,85 +195,6 @@ works:
   description: "2022"
   price: 600
   contextual: true
-- title: 'Entre bleus #1'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Entre Bleus ISTHME-Entre
-    Bleus #1-2022 -60x51 cm-collage et acrylique sur canson.jpg'
-  technique: Acrylique et collages sur papier Canson
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 51
-    depth: 0
-  description: "2022"
-  price: 600
-  contextual: true
-- title: 'Blue Majuscule #5'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
-    #5, 2022-120 x 120 cm -Acrylique sur toile  -.jpg'
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 0
-  description: "2022"
-  price: 4900
-  contextual: true
-- title: 'Blue Majuscule #4'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
-    Majuscule#4-100x81cm-acrylique sur toile.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2022"
-  price: 1800
-  contextual: true
-- title: 'Blue Majuscule #3'
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2022"
-  price: 1800
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
-    Majuscule#3-100x81cm-Acrylique sur toile.jpg
-- title: 'Blue Majuscule #2'
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2022"
-  price: 1800
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME- 2022-Bleu
-    Majuscule#2-100x81cm-acrylique sur toile.jpg
-- title: 'Blue Majuscule #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
-    Majuscule#1-130X97cm-acrylique sur toile.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: "2022"
-  price: 3500
-  contextual: true
-  sold: false
 - title: 'Deep Blue # 4b'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2021-Deep
     Blue#4b-acrylique sur toile-130x97cm-jpg.jpg
