@@ -115,7 +115,7 @@ works:
     width: 170
     depth: 0
   description: "2022"
-  price: ''
+  price: 5700
   contextual: true
 - title: 'Petits Equilibres #2'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Petits Equilibres#2-2022-76x56cm-linogravure:Lithographie
