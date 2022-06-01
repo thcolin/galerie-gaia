@@ -22,21 +22,35 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Didier Engels photographe '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_8618.jpg
-  technique: Photographie
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
+- title: 'Claude Viallat - Sans titre #6'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0200.jpeg
+  technique: Monotype à encrage
+  fields: []
+  styles: []
   dimensions:
-    height: 150
-    width: 100
+    height: 20
+    width: 48
     depth: 0
-  description: "[Didier Engels ](https://galeriegaia.fr/artists/engels-didier/ \"didier
-    engels\")  \nnouvel artiste à la galerie découvert lors du salon Affordable Art
-    Fair de Bruxelles"
-  price: 4750
+  description: |-
+    Edition 6/30
+
+    2015
+  price: 2000
+  contextual: true
+- title: 'Claude Viallat - Sans titre #21'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
+  technique: 'Monotype à encrage '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 48
+    depth: 0
+  description: |-
+    Edition 21/30
+
+    2015
+  price: 2000
   contextual: true
 - title: Plein soleil et Cache-cache par Job
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
