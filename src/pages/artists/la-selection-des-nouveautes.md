@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Mai 2022
+title: Juin 2022
 location: ''
 birth: "0"
 death: "0"
@@ -72,19 +72,6 @@ works:
     carré")'
   price: 1700
   contextual: true
-- title: Sculpture Alliance XII Victoire D'Harcourt
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia victoire
-    dhacourt alliance xii MES.JPG
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 34
-    width: 50
-    depth: 32
-  description: "# [Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/)\n\n# "
-  price: 6000
-  contextual: false
 - title: 'Cleon Peterson Flowers of evil the kiss (white) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
     cleon.jpg
