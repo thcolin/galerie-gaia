@@ -37,20 +37,20 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
-- title: 'Exposition Françoise Paressant '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa - Françoise
-    Paressant CARRE basse def.jpg
-  technique: ''
+- title: Sans titre Papier fait main
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
+    puzzle 120x100 2001 copie 2.jpg
+  technique: 'Papier fait main teinté marouflé sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: 'Rencontre avec Francoise Paressant jeudi 19 Mai à partir de 17H '
-  price: 
+    height: 120
+    width: 100
+    depth: 
+  description: encadrement cache clou bois 2003
+  price: 3000
   sold: false
-  contextual: false
+  contextual: true
 - title: Papier tissé IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
     cm 2021 papier teinté tissé  2021.jpg
@@ -146,20 +146,6 @@ works:
     depth: 0
   description: "2012"
   price: 4000
-  sold: false
-  contextual: true
-- title: Sans titre Papier fait main
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
-    puzzle 120x100 2001 copie 2.jpg
-  technique: 'Papier fait main teinté marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 100
-    depth: 
-  description: encadrement cache clou bois 2003
-  price: 3000
   sold: false
   contextual: true
 - title: Sans titre Papier fait main teinté en situation
