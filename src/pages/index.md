@@ -1,9 +1,10 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Petits Equilibres#2-2022-76x56cm-linogravure:Lithographie
-    et acrylique sur papier Arches.jpg
-- image: ''
+- image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
+    #15, 2021 -76 x 57 cm -Collage sur papier Arches .jpg'
+- image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus
+    #2-2022 -60x51 cm-collage et acrylique sur canson  .jpg'
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/220509-ISTHME0275.jpg
 redirect_from:
 - "/plan/"
