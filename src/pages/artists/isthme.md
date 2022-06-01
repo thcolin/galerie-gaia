@@ -261,6 +261,20 @@ works:
   price: ''
   contextual: true
   technique: 'Acrylique sur toile '
+- title: Nuit en mer IV
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iv-425.jpg
+  technique: 'Lithographie 4/25 '
+  dimensions:
+    height: 69
+    width: 53
+    depth: 
+  description: "œuvre encadrée montage caisson baguette chêne\n\n2019 Musée imprimerie
+    de Nantes "
+  price: 490
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Lino B1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-B1-2021-13x18
     C.jpg
@@ -289,19 +303,6 @@ works:
   description: vendu avec un passe partout prêt pour encadrement de format 30X40cm
   price: 230
   contextual: true
-- title: Territoires colorés II encadré
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Linogravure 3 couleurs
-    50 X64.jpg
-  technique: Linogravure tirage 13 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: Reste la 5 et 6/13
-  price: 380
-  contextual: false
 - title: Territoire Noir/Blanc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme-territoir
     noir blanc-10-10.jpg
@@ -364,20 +365,6 @@ works:
     depth: 
   description: 2018 Musée imprimerie de Nantes
   price: 350
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Nuit en mer IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iv-425.jpg
-  technique: 'Lithographie 4/25 '
-  dimensions:
-    height: 69
-    width: 53
-    depth: 
-  description: "œuvre encadrée montage caisson baguette chêne\n\n2019 Musée imprimerie
-    de Nantes "
-  price: 490
   sold: false
   contextual: true
   fields:
