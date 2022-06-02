@@ -171,8 +171,8 @@ works:
     height: 30
     width: 30
     depth: 0
-  description: Vendu
-  price: 
+  description: "2022"
+  price: 450
   sold: false
   contextual: true
 - title: 'Sans titre '
