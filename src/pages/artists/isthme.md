@@ -288,8 +288,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Lino B1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-6Linos-B1-2021-13x18
-    C.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0287.jpeg
   technique: Linogravure 2/7
   fields:
   - Oeuvre sur papier
