@@ -283,7 +283,7 @@ works:
   description: "œuvre encadrée montage caisson baguette chêne\n\n2019 Musée imprimerie
     de Nantes "
   price: 490
-  sold: false
+  sold: true
   contextual: true
   fields:
   - Oeuvre sur papier
@@ -298,8 +298,7 @@ works:
     height: 30
     width: 40
     depth: 0
-  description: 'Linogravure 13X18cm vendu avec un passe partout de format 30X40cm
-    prêt à encadrer '
+  description: 'Linogravure 13X18cm '
   price: 250
   contextual: true
 - title: Lino V2
@@ -315,6 +314,7 @@ works:
   description: vendu avec un passe partout prêt pour encadrement de format 30X40cm
   price: 250
   contextual: true
+  sold: false
 - title: Territoire Noir/Blanc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/isthme-territoir
     noir blanc-10-10.jpg
