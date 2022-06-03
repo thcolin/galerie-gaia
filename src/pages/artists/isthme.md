@@ -60,10 +60,11 @@ works:
     width: 81
     depth: 0
   description: "2022"
-  price: 1800
+  price: 1900
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME- 2022-Bleu
     Majuscule#2-100x81cm-acrylique sur toile.jpg
+  sold: true
 - title: 'Blue Majuscule #3'
   technique: Acrylique sur toile
   fields: []
@@ -73,7 +74,7 @@ works:
     width: 81
     depth: 0
   description: "2022"
-  price: 1800
+  price: 1900
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
     Majuscule#3-100x81cm-Acrylique sur toile.jpg
@@ -88,7 +89,7 @@ works:
     width: 81
     depth: 0
   description: "2022"
-  price: 1800
+  price: 1900
   contextual: true
 - title: 'Blue Majuscule #5'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
@@ -101,7 +102,7 @@ works:
     width: 120
     depth: 0
   description: "2022"
-  price: 4900
+  price: 4200
   contextual: true
 - title: 'Entre bleus #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#1-2022-170x130cm-acrylisque
