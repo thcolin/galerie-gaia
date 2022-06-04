@@ -27,6 +27,20 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: L'arbre noué 1971
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
+    noué.jpg
+  technique: Eau forte 10/50
+  fields: []
+  styles: []
+  dimensions:
+    height: 61
+    width: 45.5
+    depth: 
+  description: ''
+  price: 450
+  sold: false
+  contextual: true
 - title: Tapisserie Signaux indécis
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
   technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
@@ -344,20 +358,6 @@ works:
   dimensions:
     height: 61
     width: 38
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-- title: L'arbre noué 1971
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
-    noué.jpg
-  technique: Eau forte 10/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 45.5
     depth: 
   description: ''
   price: 450
