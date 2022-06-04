@@ -34,8 +34,8 @@ works:
     height: 118
     width: 184
     depth: 
-  description: '1973 '
-  price: 3800
+  description: Vendu
+  price: 
   sold: false
   contextual: true
   fields:
