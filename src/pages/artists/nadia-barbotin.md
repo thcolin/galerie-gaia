@@ -34,7 +34,7 @@ works:
     height: 91
     width: 91
     depth: 
-  description: Réservée
+  description: ''
   price: 2500
   sold: false
   contextual: true

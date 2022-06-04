@@ -63,20 +63,6 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Cache-cache
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-cache
-    cache.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 24
-    depth: 0
-  description: Réservé
-  price: 340
-  sold: false
-  contextual: true
 - title: Nalani
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-nalani.jpg
   technique: 'Acrylique sur toile '
