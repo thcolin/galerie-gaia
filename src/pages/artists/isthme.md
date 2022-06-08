@@ -245,6 +245,7 @@ works:
   description: _2021_
   price: 3500
   contextual: true
+  sold: true
 - title: 'Ar Men #a'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Nuits
     en mer, Ar Men a-146x114-2022-acrylique sur toile.jpg
