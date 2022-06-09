@@ -138,19 +138,6 @@ works:
   description: ''
   price: 87
   contextual: true
-- title: Bouteille
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-le
-    roux-bouteille-hxlxL.jpg.jpg
-  technique: Céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 28
-    width: 10
-    depth: 10
-  description: ''
-  price: 98
-  contextual: true
 - title: Flacon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-le
     roux-flacon-hxlxL.jpg.jpg
