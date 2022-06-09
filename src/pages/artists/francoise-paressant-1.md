@@ -291,19 +291,6 @@ works:
   price: 1200
   sold: false
   contextual: false
-- title: Papier huilé 3 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet-20210905_120421.jpg
-  technique: Acrylique et encre sur papier huilé
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: "1997"
-  price: 1200
-  sold: false
-  contextual: false
 - title: Papier huilé 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-papier
     huilé 4.jpg
