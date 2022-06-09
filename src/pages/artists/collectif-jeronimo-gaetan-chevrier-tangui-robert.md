@@ -50,19 +50,6 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\n> Un colle
   Burban"
 exhibitions: []
 works:
-- title: Strate 53
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 53 _ 40x60cm
-    _ 12ex.  _ web.jpg
-  technique: Sérigraphie 5 couleurs
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
 - title: Strates 54
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia versants
     strate 54 60X40 5ex.jpg
