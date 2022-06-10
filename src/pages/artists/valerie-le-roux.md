@@ -99,9 +99,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 30
-    width: 10
-    depth: 10
+    height: 25
+    width: 15
+    depth: 15
   description: ''
   price: 145
   contextual: false
