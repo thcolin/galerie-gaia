@@ -93,6 +93,16 @@ works:
   description: ''
   price: 190
   contextual: true
+- title: Bouteille
+  fields: []
+  styles: []
+  dimensions:
+    height: 10
+    width: 21
+    depth: 21
+  description: ''
+  price: 98
+  contextual: false
 - title: 'Bouteille '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/0C193838-9759-42C6-A0F2-E60A88846413_1_105_c.jpeg
   technique: Céramique
