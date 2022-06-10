@@ -97,9 +97,9 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 10
-    width: 21
-    depth: 21
+    height: 30
+    width: 10
+    depth: ''
   description: ''
   price: 98
   contextual: false
