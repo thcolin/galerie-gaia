@@ -50,19 +50,6 @@ content:
   contact:
     display: true
     placeholder: Renseignement location & défiscalisation
-- column: |-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@edwinwide-omr.jpg)
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-toma L.png)
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nantes-amenagement-bureau.jpg)
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@boisrond-omr.jpg)
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-defiscalisation-art-2.jpg)![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-defiscalisation-art-omr1.jpg)
-  contact:
-    display: false
-    placeholder: ''
 seo:
   title: Défiscaliser - Galerie Gaïa, galerie d'art contemporain
   heading: Défiscaliser
