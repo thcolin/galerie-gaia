@@ -30,6 +30,18 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Grande algue sur fond orange
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/7EA582EF-84F1-4805-94C5-9A71A1304D9F_1_105_c.jpeg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 92
+    width: '065'
+    depth: 0
+  description: "2020"
+  price: 95
+  contextual: true
 - title: 'Algue -bleu sur fond rouge '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
   technique: 'Sérigraphie  signée numérotée 20/50 '
@@ -220,19 +232,6 @@ works:
   description: ''
   price: 95
   contextual: true
-- title: 'Trio Poissons rayés rouge orangé '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
-  technique: Sérigraphie 23/100
-  dimensions:
-    height: 93
-    width: 65
-    depth: 
-  description: "2020"
-  price: 95
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Balanes jaunes 44
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-BALANES
     jaune 44 32X65.jpg
@@ -261,6 +260,19 @@ works:
     papier.jpg
   technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
   title: 'Oeuvre sur papier Originale sans titre '
+- title: 'Trio Poissons rayés rouge orangé '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
+  technique: Sérigraphie 23/100
+  dimensions:
+    height: 93
+    width: 65
+    depth: 
+  description: "2020"
+  price: 95
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Poisson russe orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-poisson-russe-orange.jpg
   technique: 'Sérigraphie '
