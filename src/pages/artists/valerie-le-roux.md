@@ -45,6 +45,18 @@ works:
   description: "2020"
   price: 90
   contextual: true
+- title: 'Saladier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A8255D83-614C-4317-8685-3B119B26AF00_1_105_c.jpeg
+  technique: 'Céramique '
+  fields: []
+  styles: []
+  dimensions:
+    height: 10
+    width: 21
+    depth: 21
+  description: ''
+  price: 145
+  contextual: false
 - title: Saladier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladier-hxlxL.jpg.jpg
   technique: Céramique
