@@ -153,19 +153,6 @@ works:
   description: ''
   price: 98
   contextual: false
-- title: Flacon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-le
-    roux-flacon-hxlxL.jpg.jpg
-  technique: Céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 19
-    depth: 19
-  description: Pièce unique
-  price: 650
-  contextual: true
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
