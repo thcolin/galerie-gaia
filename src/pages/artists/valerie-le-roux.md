@@ -192,7 +192,19 @@ works:
   description: "2020"
   price: 90
   contextual: true
-- title: Algue vert argile 18
+- title: Algue vert d'eau
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A34A8961-8CF3-4831-9D53-2868DF5F2984_1_105_c.jpeg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 93
+    width: 65
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
+- title: Algue vert kaki 18
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues18.jpg
   technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
   fields:
@@ -245,6 +257,18 @@ works:
     depth: 0
   description: ''
   price: 90
+  contextual: true
+- title: Poissonx hublots
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/58368E41-9C4B-4279-9D5F-25B4822E8305.jpeg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 93
+    width: 65
+    depth: 0
+  description: ''
+  price: 80
   contextual: true
 - title: 'Trio Poissons rayés rouge orangé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
