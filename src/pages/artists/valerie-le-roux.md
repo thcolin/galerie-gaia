@@ -42,19 +42,6 @@ works:
   description: "2020"
   price: 95
   contextual: true
-- title: 'Algue -bleu sur fond rouge '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
-  technique: 'Sérigraphie  signée numérotée 20/50 '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: "2020"
-  price: 90
-  contextual: true
 - title: 'Saladier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A8255D83-614C-4317-8685-3B119B26AF00_1_105_c.jpeg
   technique: 'Céramique '
@@ -163,20 +150,6 @@ works:
   description: ''
   price: 98
   contextual: false
-- title: Trio algues 58
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
-    algues 92x45  58.jpg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 45
-    width: 92
-    depth: 0
-  description: ''
-  price: 90
-  contextual: true
 - title: Algues jaune et bleu pâle
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-
     algues jaune bleu pale 32X65  43-48.jpg
@@ -246,20 +219,33 @@ works:
   description: ''
   price: 80
   contextual: true
-- fields:
+- title: 'Algue -bleu sur fond rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
+  technique: 'Sérigraphie  signée numérotée 20/50 '
+  fields:
   - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 51
-    width: 42
+    height: 65
+    width: 65
     depth: 0
-  description: Œuvre encadrée
-  price: 450
+  description: "2020"
+  price: 90
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-original
-    papier.jpg
-  technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
-  title: 'Oeuvre sur papier Originale sans titre '
+- title: Trio algues 58
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
+    algues 92x45  58.jpg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 45
+    width: 92
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
 - title: 'Trio Poissons rayés rouge orangé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
   technique: Sérigraphie 23/100
@@ -337,6 +323,20 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
+- fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 51
+    width: 42
+    depth: 0
+  description: Œuvre encadrée
+  price: 450
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-original
+    papier.jpg
+  technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
+  title: 'Oeuvre sur papier Originale sans titre '
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
 styles: []
