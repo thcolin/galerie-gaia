@@ -32,6 +32,18 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: 'Bouteille '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AB61A43A-59DB-4D78-ABF8-1FC16E168D07_1_105_c.jpeg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 10
+    depth: 10
+  description: ''
+  price: 145
+  contextual: false
 - title: 'Algue -bleu sur fond rouge '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
   technique: 'Sérigraphie  signée numérotée 20/50 '
