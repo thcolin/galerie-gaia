@@ -205,7 +205,7 @@ works:
   price: 95
   contextual: true
 - title: Algue vert kaki 18
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues18.jpg
+  image: ''
   technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
   fields:
   - Oeuvre sur papier

@@ -11,6 +11,20 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: Miró Exposition Barcelone 1973
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
+  technique: Affiche de collection en parfait état
+  dimensions:
+    height: 75
+    width: 57
+    depth: 0
+  description: "# Miro "
+  price: 140
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
 - title: Frederic Poincelet - Massilia
   fields: []
   styles: []
@@ -210,20 +224,6 @@ works:
   price: 140
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-chilida70x50.jpg
-  styles:
-  - Abstrait
-- title: Miró Exposition Barcelone 1973
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
-  technique: Affiche de collection en parfait état
-  dimensions:
-    height: 75
-    width: 57
-    depth: 0
-  description: "# Miro "
-  price: 140
-  contextual: true
-  fields:
-  - Oeuvre sur papier
   styles:
   - Abstrait
 - title: Tapiès Exposition Galerie Maeght 1975
