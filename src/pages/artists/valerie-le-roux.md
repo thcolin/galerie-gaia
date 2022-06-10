@@ -45,9 +45,9 @@ works:
   description: "2020"
   price: 90
   contextual: true
-- title: 'Bouteille '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/0C193838-9759-42C6-A0F2-E60A88846413_1_105_c.jpeg
-  technique: Céramique
+- title: 'Saladier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A8255D83-614C-4317-8685-3B119B26AF00_1_105_c.jpeg
+  technique: 'Céramique '
   fields: []
   styles: []
   dimensions:
@@ -55,7 +55,7 @@ works:
     width: 21
     depth: 21
   description: ''
-  price: 98
+  price: 145
   contextual: false
 - title: 'Saladier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/D9DE815D-7B6D-42F6-B642-804B86CBDED5_1_105_c.jpeg
@@ -69,18 +69,6 @@ works:
   description: ''
   price: 0
   contextual: true
-- title: 'Saladier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A8255D83-614C-4317-8685-3B119B26AF00_1_105_c.jpeg
-  technique: 'Céramique '
-  fields: []
-  styles: []
-  dimensions:
-    height: 10
-    width: 21
-    depth: 21
-  description: ''
-  price: 145
-  contextual: false
 - title: Saladier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladier-hxlxL.jpg.jpg
   technique: Céramique
@@ -105,6 +93,30 @@ works:
   description: ''
   price: 190
   contextual: true
+- title: 'Bouteille '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/0C193838-9759-42C6-A0F2-E60A88846413_1_105_c.jpeg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 10
+    width: 21
+    depth: 21
+  description: ''
+  price: 98
+  contextual: false
+- title: Bouteille
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/04E55771-407D-42C4-BB6D-346AD1B65CCB_1_105_c.jpeg
+  technique: 'Céramique '
+  fields: []
+  styles: []
+  dimensions:
+    height: 10
+    width: 21
+    depth: 21
+  description: ''
+  price: 98
+  contextual: false
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
