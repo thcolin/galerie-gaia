@@ -2,9 +2,7 @@
 template: artist
 title: 'Le Roux Valérie '
 location: ''
-fields:
-- Oeuvre sur papier
-- Céramique
+fields: []
 birth: "0"
 death: "0"
 expose: true
