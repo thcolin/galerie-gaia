@@ -45,6 +45,30 @@ works:
   description: "2020"
   price: 90
   contextual: true
+- title: Saladier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladier-hxlxL.jpg.jpg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 10.5
+    width: 21
+    depth: 21
+  description: ''
+  price: 145
+  contextual: true
+- title: Saladier XXL
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladierXXL-hxlxL.jpg.jpg
+  technique: Céramique
+  fields: []
+  styles: []
+  dimensions:
+    height: 13.5
+    width: 27.5
+    depth: 27.5
+  description: ''
+  price: 190
+  contextual: true
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
     algues 92x45  58.jpg
@@ -113,30 +137,6 @@ works:
     depth: 0
   description: ''
   price: 95
-  contextual: true
-- title: Saladier XXL
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladierXXL-hxlxL.jpg.jpg
-  technique: Céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 13.5
-    width: 27.5
-    depth: 27.5
-  description: ''
-  price: 190
-  contextual: true
-- title: Saladier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladier-hxlxL.jpg.jpg
-  technique: Céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 10.5
-    width: 21
-    depth: 21
-  description: ''
-  price: 87
   contextual: true
 - title: Flacon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-le
@@ -258,7 +258,6 @@ works:
   - Oeuvre sur papier
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
-styles:
-- Figuratif
+styles: []
 
 ---
