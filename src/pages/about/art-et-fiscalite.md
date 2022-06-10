@@ -46,7 +46,8 @@ content:
     :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire\n* La déduction
     annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005
     = 1750€ de plafond annuel déductible\n* Déduction annuelle de l' IS   7000€ /
-    5 ans = 1400€\n\n_données chiffrées novembre 2021_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@boisrond-omr.jpg)"
+    5 ans = 1400€\n\n_données chiffrées novembre 2021_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure
+    carre rose.jpg)"
   contact:
     display: true
     placeholder: Renseignement location & défiscalisation

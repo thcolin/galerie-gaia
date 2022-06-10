@@ -6,16 +6,12 @@ content:
     métier.  \nCe sont des lieux où vous serez écoutés si vous avez un projet,  \ndes
     lieux singuliers où on ne vous impose pas du déjà vu.\n\n**Des artisans à la frontière
     de la démarche artistique !**  \nSouvent devenus amis, **arrivez de ma part en
-    toute légèreté.**\n\n[Gilles et Julie](https://gillesetjulie.com/) : j'veux du
-    cuir !\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/ \"L'Aménité\")
+    toute légèreté.**\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/ \"L'Aménité\")
     : je veux manger et me faire du bien, merci les voisins\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr
     \"Barak\") : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
     \"Ressources\") : mon marchand de couleurs et celui aussi de quelques artistes
     de la galerie. Conseils de pro!\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
-    \"Vincent Guerlais \") : parce que sa pâtisserie nommée Gaïa est juste un délice\n\n[Artension
-    ](https://www.magazine-artension.fr/ \"artension site\"): parce que c’est un magazine
-    d'art avec une ligne éditoriale indépendante. [News letter ](https://www.magazine-artension.fr/project/artension-hors-serie-n25-le-verre/
-    \"artension newsletter\")avril 2020"
+    \"Vincent Guerlais \") : parce que sa pâtisserie nommée Gaïa est juste un délice"
   contact:
     display: false
     placeholder: ''
@@ -48,6 +44,7 @@ seo:
   description: Ils nous font confiance - Galerie Gaïa vous conseille pour aménager,
     décorer, défiscaliser… Prêt d'œuvres avant achat pour essayer en toute sérénité
     !
-  image: "https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-galerie gaia - galeriste un métier presse océan.jpg"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-galerie
+    gaia - galeriste un métier presse océan.jpg
 
 ---
