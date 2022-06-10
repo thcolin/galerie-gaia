@@ -11,7 +11,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: Déco Arty Petit prix
+title: Petit prix
 location: ''
 birth: ''
 death: ''
@@ -20,6 +20,20 @@ biography: "# Déco arty à petit prix\n\nDes éditions limitées à petit prix,
   au grès de mes recherches pour des accrochages qui créent un style unique, comme
   vous !"
 works:
+- title: Milk
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Milk-64x45.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 64
+    width: 45
+    depth: 
+  description: Sympa pour la déco de la cuisine !
+  price: 50
+  sold: false
+  contextual: true
 - title: Garbage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doe
     eyed-61x45,6 .jpg
@@ -133,20 +147,6 @@ works:
     depth: 
   description: Ambiance chambre ado sympa!
   price: 40
-  sold: false
-  contextual: true
-- title: Milk
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Milk-64x45.jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 64
-    width: 45
-    depth: 
-  description: Sympa pour la déco de la cuisine !
-  price: 50
   sold: false
   contextual: true
 - title: KRAFT
