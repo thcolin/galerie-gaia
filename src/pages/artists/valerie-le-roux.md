@@ -93,17 +93,30 @@ works:
   description: ''
   price: 190
   contextual: true
+- title: 'Bouteille '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FB0A8AC0-872D-4AB6-9E84-FCA84D16A121.jpeg
+  technique: 'Ceramique '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 10
+    depth: 10
+  description: ''
+  price: 98
+  contextual: false
 - title: Bouteille
   fields: []
   styles: []
   dimensions:
     height: 30
     width: 10
-    depth: ''
+    depth: 10
   description: ''
   price: 98
   contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5425BD38-4AE1-46D9-BDE4-493BA47BF777_1_201_a.heic
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E18726D2-EC21-4CDE-82D2-3E560803474F.jpeg
+  technique: 'Céramique '
 - title: 'Bouteille '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/0C193838-9759-42C6-A0F2-E60A88846413_1_105_c.jpeg
   technique: Céramique
