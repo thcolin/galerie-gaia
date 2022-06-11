@@ -205,7 +205,7 @@ works:
   price: 95
   contextual: true
 - title: Algue vert kaki 18
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40B8C636-0229-4A83-AF89-B9E9C62EEFCD.jpeg
   technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
   fields:
   - Oeuvre sur papier
