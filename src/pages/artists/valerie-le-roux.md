@@ -258,7 +258,7 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Poissonx hublots
+- title: Poissons hublots
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/58368E41-9C4B-4279-9D5F-25B4822E8305.jpeg
   technique: Sérigraphie
   fields: []
