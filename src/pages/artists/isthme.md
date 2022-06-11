@@ -25,6 +25,18 @@ biography: |-
   Isthme was born in Nantes in 1963. She studied Political Science in Bordeaux and Urban Planning and Project Management in Paris. Her first great artistic shocks were felt during the monumental exhibition of Anselm Kieffer and then that of Richard Long in 1985, in Bordeaux. In 2000, she definitively committed herself to an artistic career, spending three years at the Saydie Bronfman School of Applied Arts in Montreal, having moved there. From her first job, she keeps the passion and the taste for space, clean lines, solids, voids, transparencies, opacities... The references that feed her artistic work are wide and are as much about the buildings of architects like Mies Van Der Rohe, Tadao Ando, as the sculpture of Richard Serra or Dani Karavan, the painting of Color Field Painting... Isthme had her first exhibition in Montreal in 2003 with a dozen paintings and drawings. Between 2003 and 2007, she exhibited in several galleries and art centers in Montreal before returning to Nantes. After being selected for several years in the Parisian shows of Garches and Réalités Nouvelles and many cultural art centers, in 2018 she joined the Nantes gallery Gaïa, where she will have her solo exhibition in June-July 2019. Isthme describes her artistic approach, "I make few sketches before I start on a canvas. I don't go in blind though. I always have a "vision-intuition" which allows me to put a first draft on a large canvas of at least one meter sixty to go to seek the fullest gesture, alive, and generous possible. In this first stage of the work, I look for a form and its color. Then from this, the slow and long work of composition begins, of arrangement where each line must answer to another, where the small detail is as important as the big one, where each color must find its proportion. My pictorial objective is to succeed in sharing common sensations of nature or more unusual sensations when it comes to moments experienced at night at the helm of a boat."
 exhibitions: []
 works:
+- title: 'Bleu Majuscule #5'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2BBECC62-173F-446D-834C-6A63DD8039F3_1_105_c.jpeg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 97
+    width: 130
+    depth: 0
+  description: "2022"
+  price: 3500
+  contextual: true
 - title: Exposition - Absolu - Isthme
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa - Isthme
     A2 V2.jpg
@@ -91,19 +103,6 @@ works:
   description: "2022"
   price: 1900
   contextual: true
-- title: 'Blue Majuscule #5'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
-    #5, 2022-120 x 120 cm -Acrylique sur toile  -.jpg'
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 0
-  description: "2022"
-  price: 4200
-  contextual: true
 - title: 'Entre bleus #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#1-2022-170x130cm-acrylisque
     sur toile.jpg
@@ -129,6 +128,19 @@ works:
     depth: 0
   description: "2022"
   price: 5700
+  contextual: true
+- title: 'Entre Bleus #3'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
+    #5, 2022-120 x 120 cm -Acrylique sur toile  -.jpg'
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 0
+  description: "2022"
+  price: 4200
   contextual: true
 - title: L'Envol II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0305.jpeg
