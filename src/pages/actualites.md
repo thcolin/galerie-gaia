@@ -1035,7 +1035,7 @@ articles:
     dans les collections du Musée des Arts Décoratifs Paris, et au Musée des Arts
     de Nantes suite à une exposition en 1984."
 - template: article
-  date: '2022-06-02T16:00:00Z'
+  date: ''
   categories: []
   title: Isthme - Absolu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa - Isthme
