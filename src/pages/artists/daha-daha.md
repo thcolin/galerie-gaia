@@ -36,7 +36,7 @@ works:
     width: 
     depth: 
   description: "prix selon le choix du bois \nsur commande"
-  price: 6500
+  price: 7000
   sold: false
   contextual: true
 - title: Zed
@@ -65,7 +65,7 @@ works:
     width: 0
     depth: 0
   description: Prix sur demande selon le choix du bois
-  price: 6500
+  price: 7000
   contextual: false
 - title: 'Zoom sur cube plié brûlé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
@@ -153,7 +153,7 @@ works:
     depth: 40
   description: 'Symbol de l''infini, fonctionnel et esthétique ce valet peut-être
     peint sur demande '
-  price: 490
+  price: 530
   sold: false
   contextual: false
 redirect_from:
