@@ -91,7 +91,7 @@ works:
     width: 29
     depth: 29
   description: ''
-  price: 850
+  price: 1200
   contextual: false
 - title: Cube plié Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damie-hamon-daha-cube
@@ -118,7 +118,7 @@ works:
     depth: 29
   description: Posée sur le cuble Chimère grès [Marianne Abergel](https://galeriegaia.fr/artists/marianne-abergel/
     "mariane abergel")
-  price: 850
+  price: 1200
   contextual: false
 - title: Cube plié chêne brut
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-daha-cube-chene-brut.jpg
