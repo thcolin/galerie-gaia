@@ -64,7 +64,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: Prix sur demande selon le choix du bois
+  description: "Photo prise pour un article dans [Côté Ouest ](https://www.cotemaison.fr/bois-nature/diaporama/a-pornichet-une-maison-galerie-refuge-pour-les-week-ends-et-les-vacances_34542.html
+    \"COT2 OUEST \")Août Septembre 2021   \nPrix sur demande selon le choix du bois"
   price: 7000
   contextual: false
 - title: 'Zoom sur cube plié brûlé '
