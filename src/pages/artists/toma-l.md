@@ -129,8 +129,8 @@ works:
     height: 140
     width: 120
     depth: 0
-  description: "Montage sur châssis  \n2022 prix sur demande "
-  price: 0
+  description: "Montage sur châssis  \n2022\n\nPrix sur demande "
+  price: ''
   contextual: true
 - title: Catalogue de la collection de Galerie Gaia
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
@@ -140,14 +140,13 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Télécharger le catalogue mars 2022](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/
-    "CATALOGUE TOMA L")'
+  description: Catalogue sur demande
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
 - title: Deux grands types aux couleurs Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011401-DeuxGrandsTypesAux
-    CouleursRétroCrades--180x200cm_bd_1000p.jpg
+    CouleursRétroCrades--180x200cm_bd_1000p.jpg
   technique: Technique mixte sur toile de lin
   fields: []
   styles: []
@@ -155,12 +154,12 @@ works:
     height: 180
     width: 200
     depth: 0
-  description: "Montage sur châssis  \n2022 prix sur demande "
+  description: "Montage sur châssis  \n2022 \n\nPrix sur demande"
   price: ''
   contextual: true
 - title: Deux autres types aux couleurs Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011301-
-    DeuxAutresTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
+    DeuxAutresTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
   technique: Technique mixte sur toile de lin
   fields: []
   styles: []
@@ -221,7 +220,7 @@ works:
   contextual: true
 - title: Deux types Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022010901-
-    DeuxTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
+    DeuxTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
   technique: Technique mixet sur toile de lin
   fields: []
   styles: []
@@ -278,7 +277,7 @@ works:
     width: 65
     depth: 0
   description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
-  price: 3300
+  price: ''
   contextual: true
 - title: IT 12 Entre deux eaux - colors and paper
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041601-IT12ENTREDEUXEAUX-ColorsonPaper-120x80cm_bd_1000p.jpg
