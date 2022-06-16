@@ -94,7 +94,7 @@ works:
   description: ''
   price: 1200
   contextual: false
-- title: Cube plié Or
+- title: Cube plié huilé + Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-damie-hamon-daha-cube
     huilé.jpg
   technique: Cube en chêne massif et feuille d'or
@@ -104,7 +104,7 @@ works:
     depth: 29
   description: "Conçu comme une stèle, un tabouret, un chevet si on l'empile il devient
     brancusien ....à l'infini   \nPersonnellement je l'aime pour ce qu'il est"
-  price: 880
+  price: 950
   sold: false
   contextual: false
 - title: Cube plié brûlé
@@ -140,9 +140,9 @@ works:
     height: 28
     width: 28
     depth: 39
-  description: Il se vend seul mais additionnés entre eux ils se complètent pour créer
-    une table brut 500€TTC huilé 580€TTC peint 600€TTC Or 850€TTC
-  price: 1200
+  description: 'Il se vend seul mais additionnés entre eux ils se complètent pour
+    créer une table '
+  price: 950
   sold: false
   contextual: false
 - title: Valet
@@ -154,7 +154,7 @@ works:
     depth: 40
   description: 'Symbol de l''infini, fonctionnel et esthétique ce valet peut-être
     peint sur demande '
-  price: 530
+  price: 650
   sold: false
   contextual: false
 redirect_from:
