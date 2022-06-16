@@ -21,7 +21,7 @@ biography: "Américaine installée à Paris depuis 1949, la peintre Shirley Jaff
   \ et du [Centre Pompidou](https://www.centrepompidou.fr/fr/programme/agenda/evenement/agYUNKn).\n\n**Exposition
   au Centre Pompidou**  \n[**Shirley Jaffe - Une Américaine a Paris**](Exposition
   au Centre Pompidou Shirley Jaffe - Une Américaine a Paris A voir jusqu’au 29 août
-  )  \n**A voir jusqu’au 29 août**\n\n  \nAn American in Paris since 1949, the painter
+  )  \n**A voir jusqu’au 29 août**\n\nAn American in Paris since 1949, the painter
   Shirley Jaffe has perfected her playful yet rigorous geometric abstractions since
   the late 60’s. In Paris she showed with Jean Fournier prior to joining the [Gallery
   Obadia](https://www.nathalieobadia.com/fr/artists/43-shirley-jaffe-estate/overview/).\n\nJaffe´s
