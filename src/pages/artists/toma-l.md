@@ -167,19 +167,19 @@ works:
     height: 180
     width: 120
     depth: 0
-  description: "Montage sur châssis  \n2022"
+  description: "Montage sur châssis  \n2022\n\nPrix sur demande "
   price: ''
   contextual: true
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
-  technique: Technqiue mixte sur papier velin d'Arche
+  technique: Technqiue mixte sur papier velin d'Arche -Encadrement chêne verre anti-reflet
   fields: []
   styles: []
   dimensions:
     height: 30
     width: 21
     depth: 0
-  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
+  description: "2022 \n\nPrix sur demande"
   price: ''
   contextual: true
 - title: Un petit Rétro-Crade
