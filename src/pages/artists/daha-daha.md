@@ -78,7 +78,7 @@ works:
     width: 29
     depth: 29
   description: ''
-  price: 850
+  price: 1200
   contextual: false
   technique: Chêne brûlé
 - title: Cube plié brûlé
@@ -104,7 +104,7 @@ works:
     depth: 29
   description: "Conçu comme une stèle, un tabouret, un chevet si on l'empile il devient
     brancusien ....à l'infini   \nPersonnellement je l'aime pour ce qu'il est"
-  price: 850
+  price: 880
   sold: false
   contextual: false
 - title: Cube plié brûlé
@@ -131,7 +131,7 @@ works:
     width: 29
     depth: 29
   description: ''
-  price: 500
+  price: 650
   contextual: false
 - title: Cube plié Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cubes-plies.jpg
@@ -142,7 +142,7 @@ works:
     depth: 39
   description: Il se vend seul mais additionnés entre eux ils se complètent pour créer
     une table brut 500€TTC huilé 580€TTC peint 600€TTC Or 850€TTC
-  price: 850
+  price: 1200
   sold: false
   contextual: false
 - title: Valet
