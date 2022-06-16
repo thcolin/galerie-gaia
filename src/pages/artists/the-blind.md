@@ -56,24 +56,9 @@ works:
   price: 700
   sold: false
   contextual: true
-- title: Je gueule, tu gueules...ils braillent
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    05.jpg
-  technique: 'Sérigraphie réhaussée sur verre avec des pastilles translucide en relief '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: Article côté Ouest Aout Septembre 2021
-  price: 700
-  sold: false
-  contextual: false
 - title: Extrait de la Série jeux de sociétés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
-    blind-5-JEUX DE SOCIÉTÉ.jpg
+    blind-5-JEUX DE SOCIÉTÉ.jpg
   technique: 4 Sérigraphies en 30 exemplaires
   fields: []
   styles: []
@@ -88,9 +73,24 @@ works:
   price: 150
   sold: false
   contextual: false
+- title: Je gueule, tu gueules...ils braillent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+    05.jpg
+  technique: 'Sérigraphie réhaussée sur verre avec des pastilles translucide en relief '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 
+  description: Article côté Ouest Aout Septembre 2021
+  price: 700
+  sold: false
+  contextual: false
 - title: TOUCHE PAR CE REGARD
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
-    blind-12-JEUX DE SOCIÉTÉ.jpg
+    blind-12-JEUX DE SOCIÉTÉ.jpg
   technique: Sérigraphie en 30 exemplaires
   fields: []
   styles: []
@@ -104,7 +104,7 @@ works:
   contextual: false
 - title: TOUCHER L HORIZON DU BOUT DES DOIGTS
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
-    blind-7-JEUX DE SOCIÉTÉ.jpg
+    blind-7-JEUX DE SOCIÉTÉ.jpg
   technique: Sérigraphie en 30 exemplaires
   fields: []
   styles: []
@@ -118,7 +118,7 @@ works:
   contextual: false
 - title: TOUCHER AVEC LES MAINS PROPRES
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
-    blind-6-JEUX DE SOCIÉTÉ.jpg
+    blind-6-JEUX DE SOCIÉTÉ.jpg
   technique: Sérigraphie en 30 exemplaires
   fields: []
   styles: []
@@ -132,7 +132,7 @@ works:
   contextual: false
 - title: TOUCHEZ PAS A MADAME
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
-    blind-1-JEUX DE SOCIÉTÉ.jpg
+    blind-1-JEUX DE SOCIÉTÉ.jpg
   technique: 'Sérigraphie en 30 exemplaires '
   fields: []
   styles: []
