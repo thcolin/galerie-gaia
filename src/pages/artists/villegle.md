@@ -51,7 +51,7 @@ works:
     depth: 
   description: Planche signée main en bas droite 1989
   price: 800
-  sold: false
+  sold: true
   contextual: true
 exhibitions: []
 
