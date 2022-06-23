@@ -123,8 +123,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 130
-    width: 170
+    height: 114
+    width: 195
     depth: 0
   description: "2022"
   price: 5700
