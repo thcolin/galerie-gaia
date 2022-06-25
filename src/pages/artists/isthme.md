@@ -65,32 +65,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME- 2022-Bleu
     Majuscule#2-100x81cm-acrylique sur toile.jpg
   sold: true
-- title: 'Blue Majuscule #3'
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2022"
-  price: 1900
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
-    Majuscule#3-100x81cm-Acrylique sur toile.jpg
-- title: 'Blue Majuscule #4'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
-    Majuscule#4-100x81cm-acrylique sur toile.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2022"
-  price: 1900
-  contextual: true
 - title: 'Bleu Majuscule #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2BBECC62-173F-446D-834C-6A63DD8039F3_1_105_c.jpeg
   technique: 'Acrylique sur toile '
@@ -144,18 +118,6 @@ works:
   contextual: true
 - title: L'Envol II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0305.jpeg
-  technique: Acrylique & collage sur papier Arches
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 57
-    depth: 0
-  description: "2022"
-  price: 750
-  contextual: true
-- title: L'Envol III
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0306.jpeg
   technique: Acrylique & collage sur papier Arches
   fields: []
   styles: []
