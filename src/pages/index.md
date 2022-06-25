@@ -1,11 +1,11 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-didier-engels-containers.jpg
 - image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
     #15, 2021 -76 x 57 cm -Collage sur papier Arches .jpg'
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
-- image: ''
 redirect_from:
 - "/plan/"
 seo:
