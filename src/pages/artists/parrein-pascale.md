@@ -3,7 +3,7 @@ fields:
 - Oeuvre sur papier
 styles:
 - Abstrait
-- " Figuratif"
+- Figuratif
 seo:
   type: article
   title: ''
@@ -36,7 +36,7 @@ works:
   dimensions:
     height: 98
     width: 70
-    depth: 0
+    depth: 
   description: ''
   price: 650
   sold: false
@@ -50,7 +50,7 @@ works:
   dimensions:
     height: 51
     width: 66
-    depth: 0
+    depth: 
   description: Exemplaire 1/30
   price: 230
   sold: false
@@ -64,7 +64,7 @@ works:
   dimensions:
     height: 50
     width: 65.5
-    depth: 0
+    depth: 
   description: Exemplaire 4/30
   price: 230
   sold: false
@@ -78,7 +78,7 @@ works:
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: Exemplaire 1/10
   price: 650
   sold: false
@@ -92,7 +92,7 @@ works:
   dimensions:
     height: 32
     width: 40.5
-    depth: 0
+    depth: 
   description: Exemplaire 6/30
   price: 200
   sold: false
@@ -106,7 +106,7 @@ works:
   dimensions:
     height: 51
     width: 66
-    depth: 0
+    depth: 
   description: Exemplaire 1/30
   price: 230
   sold: false
@@ -120,7 +120,7 @@ works:
   dimensions:
     height: 49
     width: 45
-    depth: 0
+    depth: 
   price: 200
   sold: false
   contextual: true
