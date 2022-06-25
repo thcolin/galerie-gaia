@@ -37,6 +37,18 @@ works:
   description: ''
   price: 0
   contextual: true
+- title: 'Bleu Majuscule #5'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2BBECC62-173F-446D-834C-6A63DD8039F3_1_105_c.jpeg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 97
+    width: 130
+    depth: 0
+  description: "2022"
+  price: 3500
+  contextual: true
 - title: 'Blue Majuscule #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2022-Bleu
     Majuscule#1-130X97cm-acrylique sur toile.jpg
@@ -65,18 +77,6 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME- 2022-Bleu
     Majuscule#2-100x81cm-acrylique sur toile.jpg
   sold: true
-- title: 'Bleu Majuscule #5'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2BBECC62-173F-446D-834C-6A63DD8039F3_1_105_c.jpeg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 97
-    width: 130
-    depth: 0
-  description: "2022"
-  price: 3500
-  contextual: true
 - title: 'Entre bleus #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#1-2022-170x130cm-acrylisque
     sur toile.jpg
