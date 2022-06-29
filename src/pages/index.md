@@ -1,9 +1,11 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-didier-engels-containers.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Image 29-06-2022
     à 14.11.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-didier-engels-containers.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Image 29-06-2022
+    à 14.28.jpg
 redirect_from:
 - "/plan/"
 seo:
