@@ -243,18 +243,6 @@ works:
   description: "2020"
   price: 1600
   contextual: true
-- title: Rodéo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-rodeo-80x80.jpg
-  technique: Huile sur toile et technique mixte
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: "2020"
-  price: 1660
-  contextual: true
 - title: Rêve de cheval
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg
   technique: 'Huile sur toile et technique mixte '
