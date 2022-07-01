@@ -13,6 +13,7 @@ artists:
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/jouet-michel.md
+- artist: src/pages/artists/shirley-jaffe.md
 - artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/go-segawa.md
