@@ -8,7 +8,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: 'Shirley Jaffe '
+title: Jaffe Shirley
 location: ''
 birth: 2 octobre 1923
 death: 29 septembre 2016
