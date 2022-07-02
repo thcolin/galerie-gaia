@@ -27,73 +27,18 @@ biography: |-
 
   Peintres « inspirants » : Rothko, nicolas De Staël, Gerhard Richter, Pierre Soulages, Alberto Burri, Zao Wou-KI, Hans Hartung, Kokichi Umezaki…
 works:
-- title: 'Transparences blanches '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 91
-    width: 91
-    depth: 
-  description: ''
-  price: 2500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Transparences blanches en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-transparences-blanches-91x91-in-situ.jpeg
-  technique: Huile
-  dimensions:
-    height: 91
-    width: 91
-    depth: 
-  description: "En contexte  \n2019"
-  price: 2500
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: Zen IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Zen
-    IV25X31.jpg
-  technique: Technique mixte sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 31
-    width: 25
-    depth: 
-  description: Encadrée
-  price: 250
-  sold: false
-  contextual: true
-- title: Zen III
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Zen
-    III25X31.jpg
-  technique: Technique mixte sur papier
+- title: Instinct 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Instinct
+    1 -89X116-Recto.jpg
+  technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: Encadrée
-  price: 250
-  sold: false
-  contextual: true
-- title: Zen II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Zen
-    II 25X31.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 31
-    width: 25
-    depth: 
-  description: Encadrée
-  price: 250
+    height: 116
+    width: 89
+    depth: 0
+  description: "2022"
+  price: 3000
   sold: false
   contextual: true
 - title: Noir et jaune
@@ -112,7 +57,7 @@ works:
   contextual: false
 - title: Colors
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Barbotin-Nadia-Vitrail
-    contemporain coloré 40X40X3.jpg
+    contemporain coloré 40X40X3.jpg
   technique: Technique mixte sur plexi
   fields: []
   styles: []
@@ -124,71 +69,6 @@ works:
   price: 1800
   sold: false
   contextual: false
-- title: 'Fusion '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Fusion25X31.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 31
-    width: 25
-    depth: 
-  description: Encadrée
-  price: 250
-  sold: false
-  contextual: true
-- title: Freedom
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120.jpeg
-  technique: 'Huile sur toile et techniques mixtes '
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: "2020"
-  price: 3500
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Freedom en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-freedom-120x120-in-situ.JPG
-  technique: Huile sur toile et techniques mixtes
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: "2020"
-  price: 3500
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
-- title: Faille
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 150
-    width: 120
-    depth: 
-  description: "2017"
-  price: 3900
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
-- title: Faille en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-barbotin-nadia-faille-150x120-in-situ.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 150
-    width: 120
-    depth: 
-  description: "En contexte  \n2017"
-  price: 3900
-  sold: false
-  contextual: false
-  fields: []
-  styles: []
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo-profil-bnw-2018.jpg
   technique: ''
