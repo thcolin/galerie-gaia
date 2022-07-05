@@ -30,16 +30,16 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Grande algue sur fond orange
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/7EA582EF-84F1-4805-94C5-9A71A1304D9F_1_105_c.jpeg
+- title: Algue vert d'eau
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A34A8961-8CF3-4831-9D53-2868DF5F2984_1_105_c.jpeg
   technique: Sérigraphie
   fields: []
   styles: []
   dimensions:
-    height: 92
-    width: '065'
+    height: 93
+    width: 65
     depth: 0
-  description: "2020"
+  description: ''
   price: 95
   contextual: true
 - title: 'Saladier '
@@ -191,18 +191,6 @@ works:
     depth: 0
   description: "2020"
   price: 90
-  contextual: true
-- title: Algue vert d'eau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A34A8961-8CF3-4831-9D53-2868DF5F2984_1_105_c.jpeg
-  technique: Sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 93
-    width: 65
-    depth: 0
-  description: ''
-  price: 95
   contextual: true
 - title: Algue vert kaki 18
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40B8C636-0229-4A83-AF89-B9E9C62EEFCD.jpeg
