@@ -41,20 +41,6 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Instinct 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Instinct
-    2-89X116-Recto.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 116
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3000
-  sold: false
-  contextual: true
 - title: Instinct 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Barbotin-Nadia-Instinct
     3 -89X116-In situ.jpg
@@ -63,7 +49,7 @@ works:
   styles: []
   dimensions:
     height: 116
-    width: 86
+    width: 89
     depth: 0
   description: "2022"
   price: 3000
@@ -77,7 +63,7 @@ works:
   styles: []
   dimensions:
     height: 116
-    width: 86
+    width: 89
     depth: 0
   description: "2022"
   price: 3000
