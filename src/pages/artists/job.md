@@ -76,20 +76,6 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Robe de bain
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-La
-    robe de bain-1mx1m.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 1700
-  sold: false
-  contextual: true
 - title: Surfers paradise
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Surfers
     Paradise-90X90.jpeg
