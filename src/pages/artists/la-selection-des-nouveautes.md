@@ -22,6 +22,22 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Panam par Job
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1868.JPG
+  technique: Acrylique sur toile
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nPhilippe
+    Bigot nouvel artiste de la galerie  \nEn exposition du 4 au 17 juillet 2022 à
+    la médiathèque de Pornichet"
+  price: 1700
+  contextual: false
 - title: 'Claude Viallat - Sans titre #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0200.jpeg
   technique: Monotype à encrage
@@ -67,24 +83,6 @@ works:
     2009
   price: 800
   contextual: true
-- title: Panam par Job
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
-    et job canape pornichet.jpg
-  technique: Acrylique sur toile
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nPhilippe
-    Bigot nouvel artiste de la galerie  \nInstallation à la maison Gaia de Pornichet
-    le week-end de l'Ascension  \nEn exposition du 4 au 17 juillet 2022 à la médiathèque
-    de Pornichet"
-  price: 1700
-  contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
     sentimentale ES.jpeg
