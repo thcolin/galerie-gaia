@@ -67,7 +67,7 @@ works:
     2009
   price: 800
   contextual: true
-- title: Plein soleil et Cache-cache par Job
+- title: Panam par Job
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
     et job canape pornichet.jpg
   technique: Acrylique sur toile
@@ -76,8 +76,8 @@ works:
   styles:
   - Figuratif
   dimensions:
-    height: 100
-    width: 100
+    height: 90
+    width: 90
     depth: 0
   description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nPhilippe
     Bigot nouvel artiste de la galerie  \nInstallation à la maison Gaia de Pornichet
