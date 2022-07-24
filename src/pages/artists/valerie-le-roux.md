@@ -30,13 +30,14 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Algue vert d'eau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A34A8961-8CF3-4831-9D53-2868DF5F2984_1_105_c.jpeg
-  technique: Sérigraphie
-  fields: []
+- title: Algue vert kaki 18
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40B8C636-0229-4A83-AF89-B9E9C62EEFCD.jpeg
+  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 93
+    height: 92
     width: 65
     depth: 0
   description: ''
@@ -91,18 +92,6 @@ works:
   price: 190
   contextual: true
 - title: 'Bouteille '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AB61A43A-59DB-4D78-ABF8-1FC16E168D07_1_105_c.jpeg
-  technique: Céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 25
-    width: 15
-    depth: 15
-  description: ''
-  price: 145
-  contextual: false
-- title: 'Bouteille '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FB0A8AC0-872D-4AB6-9E84-FCA84D16A121.jpeg
   technique: 'Ceramique '
   fields: []
@@ -114,18 +103,6 @@ works:
   description: ''
   price: 98
   contextual: false
-- title: Bouteille
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 10
-    depth: 10
-  description: ''
-  price: 98
-  contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E18726D2-EC21-4CDE-82D2-3E560803474F.jpeg
-  technique: 'Céramique '
 - title: 'Bouteille '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/0C193838-9759-42C6-A0F2-E60A88846413_1_105_c.jpeg
   technique: Céramique
@@ -191,19 +168,6 @@ works:
     depth: 0
   description: "2020"
   price: 90
-  contextual: true
-- title: Algue vert kaki 18
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40B8C636-0229-4A83-AF89-B9E9C62EEFCD.jpeg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 92
-    width: 65
-    depth: 0
-  description: ''
-  price: 95
   contextual: true
 - title: Balanes jaunes 44
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-BALANES
