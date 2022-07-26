@@ -96,32 +96,6 @@ works:
   price: 400
   sold: false
   contextual: true
-- title: 1 Trait
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cindy-belaud-trait-40X30.jpg
-  technique: Sérigraphie 5/10
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: true
-- title: 1 Trait en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CindyBelaud_TRAITS_2021.jpeg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: false
 exhibitions: []
 
 ---
