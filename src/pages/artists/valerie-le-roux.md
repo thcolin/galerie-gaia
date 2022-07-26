@@ -44,18 +44,6 @@ works:
   price: 95
   contextual: true
 - title: 'Saladier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/A8255D83-614C-4317-8685-3B119B26AF00_1_105_c.jpeg
-  technique: 'Céramique '
-  fields: []
-  styles: []
-  dimensions:
-    height: 10
-    width: 21
-    depth: 21
-  description: ''
-  price: 145
-  contextual: false
-- title: 'Saladier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/D9DE815D-7B6D-42F6-B642-804B86CBDED5_1_105_c.jpeg
   technique: 'Céramique '
   fields: []
@@ -66,18 +54,6 @@ works:
     depth: 21
   description: ''
   price: 0
-  contextual: true
-- title: Saladier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladier-hxlxL.jpg.jpg
-  technique: Céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 10.5
-    width: 21
-    depth: 21
-  description: ''
-  price: 145
   contextual: true
 - title: Saladier XXL
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-leroux-saladierXXL-hxlxL.jpg.jpg
