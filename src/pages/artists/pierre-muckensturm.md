@@ -388,17 +388,6 @@ works:
   price: 600
   sold: false
   contextual: true
-- title: 13R8-1 (9/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13r8-1-911.jpg
-  technique: Aquatinte
-  dimensions:
-    height: 65
-    width: 50
-    depth: 
-  description: '2013 '
-  price: 680
-  sold: false
-  contextual: true
 - title: 162R220612 (4/11)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-162R220612.jpg
   technique: Aquatinte et pointe sèche sur cuivre sur papier BFK Rives
