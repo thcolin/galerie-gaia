@@ -38,7 +38,7 @@ works:
     width: 70
     depth: 
   description: "2021 Collaboration avec Hoyhiro   \nEdition en 8 exemplaires"
-  price: 600
+  price: 400
   sold: false
   contextual: true
 - title: Scotch et Karcher 2
@@ -53,7 +53,7 @@ works:
     width: 70
     depth: 
   description: "2021 Collaboration avec Hoyhiro   \nEdition en 8 exemplaires"
-  price: 600
+  price: 400
   sold: false
   contextual: true
 - title: Aplat
