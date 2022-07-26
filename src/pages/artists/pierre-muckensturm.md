@@ -396,7 +396,7 @@ works:
     width: 50
     depth: 
   description: '2013 '
-  price: 350
+  price: 680
   sold: false
   contextual: true
 - title: 162R220612 (4/11)
