@@ -1056,5 +1056,20 @@ articles:
     Diplômée de l’École des Beaux-Arts Appliquées Saydie Bronfman de Montréal. Elle vit et travaille à Nantes.
 
     Sélectionnée plusieurs années dans les salons parisiens de Garches et Réalités Nouvelles, elle rejoint la [Galerie Gaia](https://galeriegaia.fr) en 2018.
+- template: article
+  date: '2022-07-04T22:00:00Z'
+  categories: []
+  title: 'Exposition Job '
+  content: "## Job peinture\n\nExposition - lundi 4 juillet 2022\n\nExposition Salle
+    à côté de la médiathèque Place du Marché à Pornichet  \nDu 4 au 16 Juillet 2022
+    \ \nJob est un artiste peintre qui nous aide à prendre le temps pour que nos souvenirs
+    apparaissent inondés par une lumière solaire et une palette de couleurs chaudes
+    comme le sable.\n\nLe cadrage est aussi important que les sujets saisis dans des
+    moments de vie discrets, simples et heureux. Tout en traits, perspectives et lignes
+    de fuite, la ville devient décors de cinéma propice à laisser notre imagination
+    raconter la suite de l’histoire.\n\nParfois il est juste bon de se laisser aller
+    à la douceur d’une atmosphère légère."
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Affiche COM JOB
+    PORNICHET.jpg
 
 ---
