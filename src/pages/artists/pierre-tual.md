@@ -100,20 +100,6 @@ works:
   price: 2500
   sold: false
   contextual: false
-- title: Céramique 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique1-25x22x17.jpg
-  technique: Terre émaillée
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 25
-    width: 22
-    depth: 17
-  description: ''
-  price: 800
-  sold: false
-  contextual: false
 - title: Primitive N°3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg
   technique: Fer recuit au four

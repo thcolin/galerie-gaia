@@ -44,19 +44,6 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
-- title: Béton volant fluo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.béton
-    volant.sérigraphie.2022.50x70 copie.jpg
-  technique: Sérigraphie rose fluo 2/3
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 250
-  contextual: true
 - title: Montagne dans forme
   technique: 'Sérigraphie '
   fields: []
@@ -68,7 +55,7 @@ works:
   description: Exemplaire 15/15
   price: 150
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia montagnedansforme.marievandooren.découpageetsérigraphie.24x30.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia montagnedansforme.marievandooren.découpageetsérigraphie.24x30.jpg
 - title: La forme du ciel 3
   technique: Découpage et sérigraphie
   fields: []
@@ -106,7 +93,7 @@ works:
   price: 500
   contextual: true
 - title: 3 nageurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie trichromie 4/8
   fields: []
   styles: []
@@ -132,7 +119,7 @@ works:
   price: 300
   contextual: true
 - title: 2 baigneurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphietrichromie.2baigneurs.70x50.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphietrichromie.2baigneurs.70x50.jpg
   technique: Sérigraphie trichromie
   fields: []
   styles: []
@@ -144,7 +131,7 @@ works:
   price: 200
   contextual: true
 - title: 1 baigneur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie
     trichromie.1baigneur.70x50.jpg
   technique: Sérigraphie en trichromie
   fields: []
@@ -157,7 +144,7 @@ works:
   price: 200
   contextual: true
 - title: Les Sables d'Olonne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
     sables.50x70.jpg
   technique: Sérigraphie trichromie
   fields: []
@@ -217,7 +204,7 @@ works:
   price: 120
   contextual: true
 - title: Visage montagne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_visagemontagne_sérigraphie_30x40_2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_visagemontagne_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie 9/9
   fields: []
   styles: []

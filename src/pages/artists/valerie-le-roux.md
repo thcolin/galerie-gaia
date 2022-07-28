@@ -68,18 +68,6 @@ works:
   price: 190
   contextual: true
 - title: 'Bouteille '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/FB0A8AC0-872D-4AB6-9E84-FCA84D16A121.jpeg
-  technique: 'Ceramique '
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 10
-    depth: 10
-  description: ''
-  price: 98
-  contextual: false
-- title: 'Bouteille '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/0C193838-9759-42C6-A0F2-E60A88846413_1_105_c.jpeg
   technique: Céramique
   fields: []
@@ -158,19 +146,6 @@ works:
     depth: 0
   description: ''
   price: 80
-  contextual: true
-- title: 'Algue -bleu sur fond rouge '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143608.jpg
-  technique: 'Sérigraphie  signée numérotée 20/50 '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: "2020"
-  price: 90
   contextual: true
 - title: Trio algues 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-trio
