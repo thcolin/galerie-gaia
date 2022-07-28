@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Bram Van Velde
+title: Van Velde Bram
 location: ''
 fields:
 - Oeuvre sur papier
@@ -63,7 +63,7 @@ works:
     height: 89
     width: 63
     depth: 
-  description: '1978 '
+  description: "1978"
   price: 2400
   sold: false
   contextual: true
