@@ -45,50 +45,6 @@ biography: |-
   * 2011: Bram van Velde - Geer Van Velde, Museum Belvédère, Heerenveen
 exhibitions: []
 works:
-- title: 'MP 350 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-350-12100.jpg
-  technique: Lithographie 12/100
-  dimensions:
-    height: 57
-    width: 55
-    depth: 
-  description: "1980"
-  price: 1700
-  sold: false
-  contextual: true
-- title: 'MP 320 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-320-23100.jpg
-  technique: Lithographie 23/100
-  dimensions:
-    height: 89
-    width: 63
-    depth: 
-  description: "1978"
-  price: 2400
-  sold: false
-  contextual: true
-- title: 'MP 315 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-315-64100.jpg
-  technique: Lithographie 64/100
-  dimensions:
-    height: 54
-    width: 35
-    depth: 
-  description: '1978 '
-  price: 920
-  sold: false
-  contextual: true
-- title: 'MP 314 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-314-33100.jpg
-  technique: Lithographie 33/100
-  dimensions:
-    height: 54
-    width: 35
-    depth: 
-  description: '1978 '
-  price: 1210
-  sold: false
-  contextual: true
 - title: 'MP 167 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-167-32100.jpg
   technique: Lithographie 32/100
@@ -109,6 +65,50 @@ works:
     depth: 
   description: '1978 '
   price: 1100
+  sold: false
+  contextual: true
+- title: 'MP 314 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-314-33100.jpg
+  technique: Lithographie 33/100
+  dimensions:
+    height: 54
+    width: 35
+    depth: 
+  description: '1978 '
+  price: 1210
+  sold: false
+  contextual: true
+- title: 'MP 315 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-315-64100.jpg
+  technique: Lithographie 64/100
+  dimensions:
+    height: 54
+    width: 35
+    depth: 
+  description: '1978 '
+  price: 920
+  sold: false
+  contextual: true
+- title: 'MP 320 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-320-23100.jpg
+  technique: Lithographie 23/100
+  dimensions:
+    height: 89
+    width: 63
+    depth: 
+  description: "1978"
+  price: 2400
+  sold: false
+  contextual: true
+- title: 'MP 350 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-350-12100.jpg
+  technique: Lithographie 12/100
+  dimensions:
+    height: 57
+    width: 55
+    depth: 
+  description: "1980"
+  price: 1700
   sold: false
   contextual: true
 - title: 'MP 361 '
