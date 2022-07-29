@@ -218,15 +218,6 @@ works:
   description: 2022 Prix sur demande
   price: ''
   contextual: true
-- title: 'Little simple brut '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
-  technique: 'Couture et Technique mixte sur papier '
-  dimensions:
-    height: 50
-    width: 40
-  description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
 - title: Deux types Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022010901-
     DeuxTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
@@ -298,6 +289,15 @@ works:
     width: 80
     depth: 0
   description: "2021 Caisse américaine chêne format 124X84 cm  \nprix sur demande"
+  price: ''
+  contextual: true
+- title: 'Little simple brut '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
+  technique: 'Couture et Technique mixte sur papier '
+  dimensions:
+    height: 50
+    width: 40
+  description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: 'Drawing black '
