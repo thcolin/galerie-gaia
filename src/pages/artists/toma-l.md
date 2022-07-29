@@ -132,7 +132,7 @@ works:
   description: "Montage sur châssis  \n2022\n\nPrix sur demande "
   price: ''
   contextual: true
-- title: Catalogue de la collection de Galerie Gaia
+- title: 'Catalogue de la collection '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
   fields: []
   styles: []
@@ -315,8 +315,10 @@ works:
   dimensions:
     height: 150
     width: 178
-  description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
-    sur demande"
+  description: |-
+    Oeuvre à encadrer selon votre projet
+
+    Prix sur demande
   price: ''
   contextual: true
 - title: Querelle carbone 10
