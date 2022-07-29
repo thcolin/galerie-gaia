@@ -218,6 +218,15 @@ works:
   description: 2022 Prix sur demande
   price: ''
   contextual: true
+- title: 'Little simple brut '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
+  technique: 'Couture et Technique mixte sur papier '
+  dimensions:
+    height: 50
+    width: 40
+  description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
+  price: ''
+  contextual: true
 - title: Deux types Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022010901-
     DeuxTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
@@ -289,6 +298,25 @@ works:
     width: 80
     depth: 0
   description: "2021 Caisse américaine chêne format 124X84 cm  \nprix sur demande"
+  price: ''
+  contextual: true
+- title: 'Drawing black '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 100
+    width: 70
+  description: "caisse américaine chêne  \nprix dans le catalogue et sur demande"
+  price: ''
+  contextual: true
+- title: 'Querelle carbone 4 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 150
+    width: 178
+  description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
+    sur demande"
   price: ''
   contextual: true
 - title: Querelle carbone 10
@@ -500,16 +528,16 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: 'Querelle carbone 4 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg
-  technique: Technique mixte sur papier
+- title: Installation Wood cartel Toma L Nantes 2014
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
+  technique: 'Technique mixte sur bois '
   dimensions:
-    height: 150
-    width: 178
-  description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
-    sur demande"
+    height: 100
+    width: 70
+  description: 'Œuvres réalisées pour l''exposition '
   price: ''
-  contextual: true
+  contextual: false
+  sold: false
 - title: Wood cartel red
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg
   technique: Technique mixte sur bois
@@ -529,24 +557,6 @@ works:
     width: 70
     depth: 0
   description: "caisse américaine noire  \nprix sur demande"
-  price: ''
-  contextual: true
-- title: 'Little simple brut '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
-  technique: 'Couture et Technique mixte sur papier '
-  dimensions:
-    height: 50
-    width: 40
-  description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: 'Drawing black '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2012040601-blackdrawing-80x110cm.jpg
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 100
-    width: 70
-  description: "caisse américaine chêne  \nprix dans le catalogue et sur demande"
   price: ''
   contextual: true
 - title: Projet Vas-y
@@ -582,16 +592,6 @@ works:
   price: ''
   contextual: true
   technique: 'Fresque '
-- title: Installation Wood cartel Toma L Nantes 2014
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
-  technique: 'Technique mixte sur bois '
-  dimensions:
-    height: 100
-    width: 70
-  description: 'Œuvres réalisées pour l''exposition '
-  price: ''
-  contextual: false
-  sold: false
 redirect_from:
 - "/artistes/99-toma-l/"
 styles:
