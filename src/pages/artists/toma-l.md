@@ -510,16 +510,6 @@ works:
     sur demande"
   price: ''
   contextual: true
-- title: Installation Wood cartel Toma L Nantes 2014
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
-  technique: 'Technique mixte sur bois '
-  dimensions:
-    height: 100
-    width: 70
-  description: 'Œuvres réalisées pour l''exposition '
-  price: ''
-  contextual: false
-  sold: false
 - title: Wood cartel red
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg
   technique: Technique mixte sur bois
@@ -592,6 +582,16 @@ works:
   price: ''
   contextual: true
   technique: 'Fresque '
+- title: Installation Wood cartel Toma L Nantes 2014
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
+  technique: 'Technique mixte sur bois '
+  dimensions:
+    height: 100
+    width: 70
+  description: 'Œuvres réalisées pour l''exposition '
+  price: ''
+  contextual: false
+  sold: false
 redirect_from:
 - "/artistes/99-toma-l/"
 styles:
