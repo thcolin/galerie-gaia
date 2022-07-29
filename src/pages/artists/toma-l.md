@@ -304,35 +304,9 @@ works:
   description: "2019  \nPrix sur demande "
   price: ''
   contextual: true
-- title: Bonne pierre bon oeil 08
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo08.jpg
-  technique: Lithographie 6/2
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 38
-    width: 56.5
-    depth: 0
-  description: "2018"
-  price: 350
-  contextual: true
-- title: Bonne pierre bon oeil 07
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo07.jpg
-  technique: Lithographie 2/6
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 56.5
-    width: 38
-    depth: 0
-  description: Vendue
-  price: 350
-  contextual: true
-- title: Bonne pierre bon oeil 02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-ocre.jpg
-  technique: Lithographie 7/8
+- title: Bonne pierre bon oeil 01
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo01.jpg
+  technique: Lithographie 8/8
   fields:
   - Oeuvre sur papier
   styles: []
@@ -356,8 +330,8 @@ works:
   description: "2018"
   price: 250
   contextual: true
-- title: Bonne pierre bon oeil 01
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo01.jpg
+- title: Bonne pierre bon oeil 02
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg
   technique: Lithographie 8/8
   fields:
   - Oeuvre sur papier
@@ -368,6 +342,123 @@ works:
     depth: 0
   description: "2018"
   price: 250
+  contextual: true
+- title: Bonne pierre bon oeil 02
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-ocre.jpg
+  technique: Lithographie 7/8
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 25
+    width: 35.5
+    depth: 0
+  description: "2018"
+  price: 250
+  contextual: true
+- title: Bonne pierre bon oeil 07
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo07.jpg
+  technique: Lithographie 2/6
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 56.5
+    width: 38
+    depth: 0
+  description: Vendue
+  price: 350
+  contextual: true
+- title: Bonne pierre bon oeil 08
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo08.jpg
+  technique: Lithographie 6/2
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 38
+    width: 56.5
+    depth: 0
+  description: "2018"
+  price: 350
+  contextual: true
+- title: Bonne pierre bon œil 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-10.jpg
+  technique: Lithographie 4/9
+  dimensions:
+    height: 57
+    width: 38
+    depth: 
+  description: ''
+  price: 300
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Bonne pierre bon œil 13 (vert)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-13.jpg
+  technique: Lithographie 8/9
+  dimensions:
+    height: 40
+    width: 30
+    depth: 
+  description: ''
+  price: 350
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Bonne pierre bon oeil 13 Noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_tomal_bonnepierrebonoeil-13-noir-_40x30-5-01.jpg
+  technique: Lithographie 6/9
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 40
+    width: 30.5
+    depth: 0
+  description: "2018"
+  price: 350
+  contextual: true
+- title: Bonne pierre bon œil 14 (noir)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-14-noir.jpg
+  technique: Lithographie 8/10
+  dimensions:
+    height: 76
+    width: 56
+    depth: 
+  description: "Musée imprimerie de Nantes   \n301841008"
+  price: 450
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Bonne pierre bon œil 14 (bleu & noir)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo14.jpg
+  technique: Lithographie 10/10
+  dimensions:
+    height: 76
+    width: 56.5
+    depth: 
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: Stone Age 02
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_tomal_stoneage-02-_66x51-01.jpg
+  technique: Lithographie 9/10
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 66
+    width: 51
+    depth: 0
+  description: "2017"
+  price: 400
   contextual: true
 - title: Stone Age 03
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage-03_ex7-8.jpg
@@ -382,44 +473,42 @@ works:
   description: "2017"
   price: 300
   contextual: true
-- title: Bonne pierre bon oeil 13 Noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_tomal_bonnepierrebonoeil-13-noir-_40x30-5-01.jpg
-  technique: Lithographie 6/9
-  fields:
-  - Oeuvre sur papier
-  styles: []
+- title: Stone Age 12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg
+  technique: Lithographie 7/10
   dimensions:
-    height: 40
-    width: 30.5
-    depth: 0
-  description: "2018"
-  price: 350
+    height: 76
+    width: 57
+    depth: 
+  description: "Musée de l'imprimerie de Nantes  \nOeuvre réhaussée aquarelle, pièce
+    unique dans la série"
+  price: 800
+  sold: false
   contextual: true
-- title: Bonne pierre bon oeil 02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg
-  technique: Lithographie 8/8
   fields:
   - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 25
-    width: 35.5
-    depth: 0
-  description: "2018"
-  price: 250
-  contextual: true
-- title: Stone Age 02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_tomal_stoneage-02-_66x51-01.jpg
-  technique: Lithographie 9/10
-  fields:
-  - Oeuvre sur papier
-  styles: []
+- title: Stone Age 16
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/stone-age-16.jpg
+  technique: Lithographie 1/2
   dimensions:
     height: 66
-    width: 51
-    depth: 0
-  description: "2017"
+    width: 50
+    depth: 
+  description: ''
   price: 400
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+- title: 'Querelle carbone 4 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg
+  technique: Technique mixte sur papier
+  dimensions:
+    height: 150
+    width: 178
+  description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
+    sur demande"
+  price: ''
   contextual: true
 - title: Installation Wood cartel Toma L Nantes 2014
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-installation-nantes2.jpg
@@ -431,6 +520,15 @@ works:
   price: ''
   contextual: false
   sold: false
+- title: Wood cartel red
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg
+  technique: Technique mixte sur bois
+  dimensions:
+    height: 106
+    width: 70
+  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande"
+  price: ''
+  contextual: true
 - title: Wood cartel black
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-t2014031010_woodcartel-black-105x70cm.jpg
   technique: Technique mixte sur bois
@@ -443,15 +541,6 @@ works:
   description: "caisse américaine noire  \nprix sur demande"
   price: ''
   contextual: true
-- title: Wood cartel red
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2014031013_woodcartel-red-105x70cm.jpg
-  technique: Technique mixte sur bois
-  dimensions:
-    height: 106
-    width: 70
-  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
 - title: 'Little simple brut '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
   technique: 'Couture et Technique mixte sur papier '
@@ -459,16 +548,6 @@ works:
     height: 50
     width: 40
   description: "Cadre en chêne et verre musée  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: 'Querelle carbone 4 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 150
-    width: 178
-  description: "oeuvre à encadrer selon votre projet  \nprix dans le catalogue et
-    sur demande"
   price: ''
   contextual: true
 - title: 'Drawing black '
@@ -513,111 +592,6 @@ works:
   price: ''
   contextual: true
   technique: 'Fresque '
-- title: Bonne pierre bon œil 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-10.jpg
-  technique: Lithographie 4/9
-  dimensions:
-    height: 57
-    width: 38
-    depth: 
-  description: ''
-  price: 300
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Bonne pierre bon œil 13 (vert)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-13.jpg
-  technique: Lithographie 8/9
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Bonne pierre bon œil 13 (noir)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-13-noir.jpg
-  technique: Lithographie 6/9
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Bonne pierre bon œil 14 (bleu & noir)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo14.jpg
-  technique: Lithographie 10/10
-  dimensions:
-    height: 76
-    width: 56.5
-    depth: 
-  description: ''
-  price: 600
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Bonne pierre bon œil 14 (noir)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-14-noir.jpg
-  technique: Lithographie 8/10
-  dimensions:
-    height: 76
-    width: 56
-    depth: 
-  description: "Musée imprimerie de Nantes   \n301841008"
-  price: 450
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Stone Age 02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/stone-age-02.jpg
-  technique: lithographie 9/10
-  dimensions:
-    height: 66
-    width: 51
-    depth: 
-  description: Atelier Toma L
-  price: 400
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Stone Age 12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg
-  technique: Lithographie 7/10
-  dimensions:
-    height: 76
-    width: 57
-    depth: 
-  description: "Musée de l'imprimerie de Nantes  \nOeuvre réhaussée aquarelle, pièce
-    unique dans la série"
-  price: 800
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Stone Age 16
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/stone-age-16.jpg
-  technique: Lithographie 1/2
-  dimensions:
-    height: 66
-    width: 50
-    depth: 
-  description: ''
-  price: 400
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 redirect_from:
 - "/artistes/99-toma-l/"
 styles:
