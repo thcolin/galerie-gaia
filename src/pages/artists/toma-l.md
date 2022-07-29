@@ -360,7 +360,7 @@ works:
   description: "2018"
   price: 250
   contextual: true
-- title: Bonne pierre bon oeil 02
+- title: 'Bonne pierre bon oeil 02 bleu '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-bleu.jpg
   technique: Lithographie 8/8
   fields:
@@ -373,7 +373,7 @@ works:
   description: "2018"
   price: 250
   contextual: true
-- title: Bonne pierre bon oeil 02
+- title: Bonne pierre bon oeil 02 ocre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo02-ocre.jpg
   technique: Lithographie 7/8
   fields:
@@ -425,7 +425,7 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Bonne pierre bon œil 13 (vert)
+- title: Bonne pierre bon œil 13 vert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-13.jpg
   technique: Lithographie 8/9
   dimensions:
@@ -451,7 +451,7 @@ works:
   description: "2018"
   price: 350
   contextual: true
-- title: Bonne pierre bon œil 14 (noir)
+- title: Bonne pierre bon œil 14 noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-14-noir.jpg
   technique: Lithographie 8/10
   dimensions:
@@ -464,7 +464,7 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Bonne pierre bon œil 14 (bleu & noir)
+- title: Bonne pierre bon œil 14 bleu & noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo14.jpg
   technique: Lithographie 10/10
   dimensions:
