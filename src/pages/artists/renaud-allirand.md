@@ -59,6 +59,18 @@ biography: "# Renaud Allirand\n\n> Les écritures rebelles\n\n\"Barbelés infran
   death."
 exhibitions: []
 works:
+- title: V
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-06-27 à 21.28.03.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
 - title: Sans titre Monotype
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-renaud
     allirand -monotype coloré C.jpg
