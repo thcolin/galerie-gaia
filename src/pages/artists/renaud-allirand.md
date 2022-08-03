@@ -59,18 +59,6 @@ biography: "# Renaud Allirand\n\n> Les écritures rebelles\n\n\"Barbelés infran
   death."
 exhibitions: []
 works:
-- title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0810.jpg
-  technique: Eau forte et pointe sèche sur zinc
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: 4/4
-  price: 800
-  contextual: true
 - title: Sans titre Monotype
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-renaud
     allirand -monotype coloré C.jpg
@@ -115,6 +103,18 @@ works:
     depth: 0
   description: ''
   price: 0
+  contextual: true
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0810.jpg
+  technique: Eau forte et pointe sèche sur zinc
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 4/4
+  price: 800
   contextual: true
 - title: "5"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Allirand_Gravure_format(HxL)-
