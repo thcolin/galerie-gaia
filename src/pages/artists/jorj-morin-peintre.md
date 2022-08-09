@@ -40,19 +40,6 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
-- title: Prés contigus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
-    morin-prés contigus-1974.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 55
-    width: 46
-    depth: 0
-  description: "1974  \nVisible à la galerie"
-  price: 2400
-  contextual: true
 - title: 'Arbre à couleurs '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
     morin-fleurs coupés-1978.jpg
