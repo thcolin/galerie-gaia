@@ -120,18 +120,6 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Un type Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011801-RetroCrade-140x120cm_bd_1000p.jpg
-  technique: 'Technique mixte sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 140
-    width: 120
-    depth: 0
-  description: "Montage sur châssis  \n2022\n\nPrix sur demande "
-  price: ''
-  contextual: true
 - title: 'Catalogue de la collection '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
   fields: []
