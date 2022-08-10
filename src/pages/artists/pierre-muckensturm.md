@@ -247,19 +247,20 @@ works:
   price: 13600
   contextual: false
   technique: technique mixte et huile sur toile sur châssis
-- title: 14P2906 détail
+- title: '14P1832263 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    14p2906 detail.JPG
-  technique: 'technique mixte et huile sur toile sur châssis '
+    14p1832263 .jpg
+  technique: Technique mixte et huile sur toile sur châssis
   dimensions:
-    height: 222
+    height: 226
     width: 183
     depth: 0
-  description: "2014"
+  description: 'Visible à la galerie, en réserve '
   price: 13600
-  contextual: true
+  contextual: false
   fields:
   - Peinture
+  sold: true
 - title: 182C160413
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Muckensturm_184c06051-50X50.jpg
   technique: 'eau forte et carborundum sur cuivre imprimé sur papier BFK Rives '
@@ -307,31 +308,6 @@ works:
     Réalisation 2020
   price: 500
   contextual: true
-- title: '14P1832263 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    14p1832263 .jpg
-  technique: Technique mixte et huile sur toile sur châssis
-  dimensions:
-    height: 226
-    width: 183
-    depth: 0
-  description: 'Visible à la galerie, en réserve '
-  price: 13600
-  contextual: true
-  fields:
-  - Peinture
-- title: 14P1832263 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 14P1832263.jpeg
-  technique: 'Technique mixte et huile sur toile sur châssis '
-  fields: []
-  styles: []
-  dimensions:
-    height: 226
-    width: 183
-    depth: 0
-  description: ''
-  price: 13600
-  contextual: false
 - title: 203R0941 -  composition à 6 angles  à Entas -
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     p 203R0941.jpg
