@@ -1,7 +1,7 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/172j230921-611.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Abyssale 200 x 300
     cm huile sur toile 2020.JPG
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
