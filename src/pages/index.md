@@ -1,8 +1,8 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/echoes.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE-GAIA-DAHA-CUBLE
     NOIR.jpeg
 redirect_from:
