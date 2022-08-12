@@ -202,7 +202,7 @@ works:
     depth: 0
   description: "Fresque réalisée sur commande pour une cour intérieure  \nVisible
     sur rendez-vous  \n[Interview ](https://www.youtube.com/watch?v=DxkvbjnGL4E \"interview
-    galerie gaia jerome maillet tangui robert gaetan chevrier\")Décadrée de Versants
+    galerie gaia jerome maillet tangui robert gaetan chevrier\") Décadrée de Versants
     par la Galerie Gaïa"
   price: ''
   contextual: false
