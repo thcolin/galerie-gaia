@@ -51,8 +51,7 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\n> Un colle
 exhibitions: []
 works:
 - title: Strates 39
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/starte 39 14-21
-    30X20.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0894.jpg
   technique: Sérigraphie 4 couleurs
   fields: []
   styles: []
@@ -64,7 +63,7 @@ works:
   price: 200
   contextual: true
 - title: Strates 42
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 42 2-4 30X20.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0893.jpg
   technique: Sérigraphie 2/4
   fields: []
   styles: []
@@ -72,7 +71,7 @@ works:
     height: 30
     width: 20
     depth: 0
-  description: 'Encadrement chêne verre anti-reflet '
+  description: Encadrement chêne verre musée anti-reflet
   price: 200
   contextual: true
 - title: Strate 49
