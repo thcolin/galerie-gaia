@@ -50,70 +50,6 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\n> Un colle
   Burban"
 exhibitions: []
 works:
-- title: Strates 54
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia versants
-    strate 54 60X40 5ex.jpg
-  technique: 'Sérigraphie 5 passages 1 couleur '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: "2021"
-  price: 380
-  contextual: true
-- title: Strates 61
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 61 _ 30x40cm
-    _ 4 ex _ web.jpg
-  technique: Sérigraphie en 4 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: "2021"
-  price: 280
-  contextual: true
-- title: Strates 60
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 60 _ 30x40cm
-    _ 12ex _ web.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: "2021"
-  price: 280
-  contextual: true
-  technique: Sérigraphie en 12 exemplaires
-- title: Strates 58
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 58 _ 30x40cm
-    _ 12ex _ web.jpg
-  technique: 'Sérigraphie 12 exemplaires '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: "2021"
-  price: 280
-  contextual: true
-- title: Strates 42
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 42 2-4 30X20.jpg
-  technique: Sérigraphie 2/4
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 20
-    depth: 0
-  description: 'Encadrement chêne verre anti-reflet '
-  price: 200
-  contextual: true
 - title: Strates 39
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/starte 39 14-21
     30X20.jpg
@@ -127,31 +63,17 @@ works:
   description: encadrement chêne et verre anti-reflet
   price: 200
   contextual: true
-- title: Strates 52
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    52_fond.jpg
-  technique: Sérigraphie en 6 exemplaires
+- title: Strates 42
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/strate 42 2-4 30X20.jpg
+  technique: Sérigraphie 2/4
   fields: []
   styles: []
   dimensions:
-    height: 80
-    width: 60
+    height: 30
+    width: 20
     depth: 0
-  description: ''
-  price: 480
-  contextual: true
-- title: 'Failles #22'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-faille
-    22.jpg
-  technique: Sérigraphie 7/8
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: ''
-  price: 380
+  description: 'Encadrement chêne verre anti-reflet '
+  price: 200
   contextual: true
 - title: Strate 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
@@ -179,7 +101,85 @@ works:
   description: ''
   price: 280
   contextual: true
-- title: Fresque 1 ...
+- title: Strates 52
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
+    52_fond.jpg
+  technique: Sérigraphie en 6 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: ''
+  price: 480
+  contextual: true
+- title: Strates 54
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia versants
+    strate 54 60X40 5ex.jpg
+  technique: 'Sérigraphie 5 passages 1 couleur '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: "2021"
+  price: 380
+  contextual: true
+- title: Strates 58
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 58 _ 30x40cm
+    _ 12ex _ web.jpg
+  technique: 'Sérigraphie 12 exemplaires '
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 280
+  contextual: true
+- title: Strates 60
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 60 _ 30x40cm
+    _ 12ex _ web.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 280
+  contextual: true
+  technique: Sérigraphie en 12 exemplaires
+- title: Strates 61
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 61 _ 30x40cm
+    _ 4 ex _ web.jpg
+  technique: Sérigraphie en 4 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 280
+  contextual: true
+- title: 'Failles #22'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versants-faille
+    22.jpg
+  technique: Sérigraphie 7/8
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
+- title: 'Fresque 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versant-fresque&.jpg
   fields:
   - Fresque
@@ -193,19 +193,7 @@ works:
   price: ''
   contextual: true
   technique: Fresque mural projet personnalisable pour professionnel et particulier
-- title: Versants fresque II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
-  technique: 'Fresque sur mur brut '
-  dimensions:
-    height: 500
-    width: 400
-    depth: 0
-  description: Commande promotion immobilière - visible sur rendez-vous
-  price: ''
-  contextual: false
-  fields:
-  - Fresque
-- title: Versants Fresque I
+- title: " Fresque 2"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-01-a-17-50-38.png
   technique: 'Fresque murale '
   dimensions:
@@ -216,6 +204,18 @@ works:
     sur rendez-vous  \n[Interview ](https://www.youtube.com/watch?v=DxkvbjnGL4E \"interview
     galerie gaia jerome maillet tangui robert gaetan chevrier\")Décadrée de Versants
     par la Galerie Gaïa"
+  price: ''
+  contextual: false
+  fields:
+  - Fresque
+- title: Fresque III
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-08-03-a-13-08-15.png
+  technique: 'Fresque sur mur brut '
+  dimensions:
+    height: 500
+    width: 400
+    depth: 0
+  description: Commande promotion immobilière - visible sur rendez-vous
   price: ''
   contextual: false
   fields:
