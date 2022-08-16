@@ -132,32 +132,6 @@ works:
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
-- title: Deux grands types aux couleurs Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011401-DeuxGrandsTypesAux
-    CouleursRétroCrades--180x200cm_bd_1000p.jpg
-  technique: Technique mixte sur toile de lin
-  fields: []
-  styles: []
-  dimensions:
-    height: 180
-    width: 200
-    depth: 0
-  description: "Montage sur châssis  \n2022 \n\nPrix sur demande"
-  price: ''
-  contextual: true
-- title: Deux autres types aux couleurs Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011301-
-    DeuxAutresTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
-  technique: Technique mixte sur toile de lin
-  fields: []
-  styles: []
-  dimensions:
-    height: 180
-    width: 120
-    depth: 0
-  description: "Montage sur châssis  \n2022\n\nPrix sur demande "
-  price: ''
-  contextual: true
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
   technique: Technqiue mixte sur papier velin d'Arche -Encadrement chêne verre anti-reflet
@@ -206,30 +180,6 @@ works:
   description: 2022 Prix sur demande
   price: ''
   contextual: true
-- title: Deux types Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022010901-
-    DeuxTypesAux CouleursRétroCrades-180x120cm_bd_1000p.jpg
-  technique: Technique mixet sur toile de lin
-  fields: []
-  styles: []
-  dimensions:
-    height: 180
-    width: 120
-    depth: 0
-  description: "2022"
-  price: ''
-  contextual: true
-- title: Exposition Rétro-Crade mise en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lToma-L_GalerieGaia_Retrocrade_01_bd_1000p.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
 - title: Un nouveau type Retro Crade aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
@@ -295,18 +245,6 @@ works:
     height: 100
     width: 70
   description: "caisse américaine chêne  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: 'Querelle carbone 4 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-2019040107-querellecarbone04-150x178cm.jpg
-  technique: Technique mixte sur papier
-  dimensions:
-    height: 150
-    width: 178
-  description: |-
-    Oeuvre à encadrer selon votre projet
-
-    Prix sur demande
   price: ''
   contextual: true
 - title: Querelle carbone 10
@@ -491,20 +429,6 @@ works:
   description: "2017"
   price: 300
   contextual: true
-- title: Stone Age 12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-stoneage12-72x51cm_rehausse.jpg
-  technique: Lithographie 7/10
-  dimensions:
-    height: 76
-    width: 57
-    depth: 
-  description: "Musée de l'imprimerie de Nantes  \nOeuvre réhaussée aquarelle, pièce
-    unique dans la série"
-  price: 800
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Stone Age 16
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/stone-age-16.jpg
   technique: Lithographie 1/2
