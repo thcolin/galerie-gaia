@@ -42,19 +42,6 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
-- title: Le jour n'est pas si loin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia @ xavier
-    Jallais - Le jour n'est pas si loin -51x 36, 65x50 E.jpg
-  technique: Acrylique sur carton
-  fields: []
-  styles: []
-  dimensions:
-    height: 66
-    width: 50
-    depth: 0
-  description: 'Oeuvre encadrée cadre bois blanc montage caisson  posée sur fond blanc '
-  price: 650
-  contextual: true
 - title: Bâteau rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-xavier
     jallais-bateau rouge.jpg
