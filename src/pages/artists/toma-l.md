@@ -120,6 +120,56 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Querelle carbone 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019040101-querellecarbone10-150x140cm.jpg
+  technique: 'Mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 140
+    depth: 0
+  description: "2019  \nPrix sur demande "
+  price: ''
+  contextual: true
+- title: Un nouveau type Retro Crade aux couleurs flash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
+  technique: Technique mixte sur papier Velin d'arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 85
+    width: 65
+    depth: 0
+  description: "2022 caisse américaine cadre en chêne  \nprix sur demande"
+  price: ''
+  contextual: true
+- title: Le type Rétro Crade aux couleurs flash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-LeTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
+  technique: Technique mixte sur papier Velin d'arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 85
+    width: 65
+    depth: 0
+  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
+  price: ''
+  contextual: true
+- title: Un type Rétro Crade couleur carbone
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
+    RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
+  technique: Technique mixte sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 164
+    width: 125
+    depth: 0
+  description: "2021 cadre en bois   \nprix sur demande"
+  price: ''
+  contextual: true
 - title: 'Catalogue de la collection '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
   fields: []
@@ -180,43 +230,6 @@ works:
   description: 2022 Prix sur demande
   price: ''
   contextual: true
-- title: Un nouveau type Retro Crade aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: Technique mixte sur papier Velin d'arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2022 caisse américaine cadre en chêne  \nprix sur demande"
-  price: ''
-  contextual: true
-- title: Un type Rétro Crade couleur carbone
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
-    RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 164
-    width: 125
-    depth: 0
-  description: "2021 cadre en bois   \nprix sur demande"
-  price: ''
-  contextual: true
-- title: Le type Rétro Crade aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-LeTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: Technique mixte sur papier Velin d'arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
-  price: ''
-  contextual: true
 - title: IT 12 Entre deux eaux - colors and paper
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041601-IT12ENTREDEUXEAUX-ColorsonPaper-120x80cm_bd_1000p.jpg
   technique: Technique mixte sur papier velin d'arche
@@ -245,19 +258,6 @@ works:
     height: 100
     width: 70
   description: "caisse américaine chêne  \nprix dans le catalogue et sur demande"
-  price: ''
-  contextual: true
-- title: Querelle carbone 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019040101-querellecarbone10-150x140cm.jpg
-  technique: 'Mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 150
-    width: 140
-    depth: 0
-  description: "2019  \nPrix sur demande "
   price: ''
   contextual: true
 - title: Bonne pierre bon oeil 01
