@@ -121,6 +121,7 @@ works:
     2022
   price: 510
   contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0889.jpg
 - title: Strates 39
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0894.jpg
   technique: Sérigraphie 4 couleurs
@@ -236,6 +237,21 @@ works:
   description: "2021"
   price: 280
   contextual: true
+- title: Strates 67
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0899.jpg
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: |-
+    Edition : 2/6
+
+    2022
+  price: 185
+  contextual: true
 - title: Strates 69
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0903.JPG
   technique: Serigraphie
@@ -247,6 +263,21 @@ works:
     depth: 0
   description: |-
     Edition : 5/15
+
+    2022
+  price: 185
+  contextual: true
+- title: Strates 70
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0898.jpg
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: |-
+    Edition : 13/16
 
     2022
   price: 185
