@@ -50,21 +50,6 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\n> Un colle
   Burban"
 exhibitions: []
 works:
-- title: Strates 72
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0902.jpg
-  technique: Serigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 25
-    depth: 0
-  description: |-
-    Edition : 4/12
-
-    2022
-  price: 185
-  contextual: true
 - title: Echo I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0886.jpg
   technique: Serigraphie
@@ -308,6 +293,21 @@ works:
     depth: 0
   description: |-
     Edition : 12/12
+
+    2022
+  price: 185
+  contextual: true
+- title: Strates 72
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0902.jpg
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: |-
+    Edition : 4/12
 
     2022
   price: 185
