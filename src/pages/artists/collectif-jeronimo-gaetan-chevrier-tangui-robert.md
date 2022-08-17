@@ -146,7 +146,7 @@ works:
   description: Encadrement chêne verre musée anti-reflet
   price: 200
   contextual: true
-- title: Strate 49
+- title: Strates 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     49_fond.jpg
   technique: Sérigraphie
@@ -278,6 +278,21 @@ works:
     depth: 0
   description: |-
     Edition : 13/16
+
+    2022
+  price: 185
+  contextual: true
+- title: Strates 73
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0900.jpg
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: |-
+    Edition : 4/15
 
     2022
   price: 185
