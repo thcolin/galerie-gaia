@@ -59,7 +59,10 @@ works:
     height: 80
     width: 60
     depth: 0
-  description: "2022"
+  description: |-
+    Edition : 1/16
+
+    2022
   price: 510
   contextual: true
 - title: Echo II
@@ -71,7 +74,10 @@ works:
     height: 40
     width: 60
     depth: 0
-  description: "2022"
+  description: |-
+    Edition : 3/4
+
+    2022
   price: 380
   contextual: true
 - title: 'Echo I & II Diptyque '
@@ -95,7 +101,24 @@ works:
     height: 80
     width: 60
     depth: 0
-  description: "2022"
+  description: |-
+    Edition : 4/9
+
+    2022
+  price: 510
+  contextual: true
+- title: Echo V
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: |-
+    Edition : 10/12
+
+    2022
   price: 510
   contextual: true
 - title: Strates 39
