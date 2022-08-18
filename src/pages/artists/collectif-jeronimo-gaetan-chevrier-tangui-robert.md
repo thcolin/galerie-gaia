@@ -128,7 +128,7 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 30
+    height: 46
     width: 30
     depth: 0
   description: |-
