@@ -245,32 +245,6 @@ works:
   description: ''
   price: 140
   contextual: true
-- title: Portrait motif 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-Portrait-Motif II - 32,5 x 25 cm.JPG
-  technique: 'Peinture originale sur papier Montval 300 gsm '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: encadrée format 40X50
-  price: 320
-  contextual: true
-- title: Portrait motif 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa-Patrick
-    Guéguen-Portrait-Motif I - 32,5 x 25 cm.JPG
-  technique: 'Peinture originale sur papier Montval 300 gsm '
-  fields: []
-  styles: []
-  dimensions:
-    height: 32.5
-    width: 25
-    depth: 0
-  description: encadré cadre 40 x 50 cm
-  price: 320
-  contextual: true
 - title: Exposition  samedi 9 juin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-vernissage-samedi-9-juin-11h.jpg
   technique: ''
