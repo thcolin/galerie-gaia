@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Juillet 2022
+title: Septembre 2022
 location: ''
 birth: "0"
 death: "0"
