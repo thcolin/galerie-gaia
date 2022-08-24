@@ -42,6 +42,19 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
+- title: Cerf 1 (4/7)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
+  technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
+  dimensions:
+    height: 46
+    width: 36
+    depth: 
+  description: '2014 '
+  price: 230
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 - title: Bâteau rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-xavier
     jallais-bateau rouge.jpg
@@ -80,19 +93,6 @@ works:
   contextual: true
   fields:
   - Peinture
-- title: Cerf 1 (4/7)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
-  technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
-  dimensions:
-    height: 46
-    width: 36
-    depth: 
-  description: '2014 '
-  price: 230
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Double stigmates (1/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double-stigmates-17.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²

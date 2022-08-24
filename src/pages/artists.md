@@ -2,6 +2,7 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/bathelier-marie.md
@@ -28,7 +29,6 @@ artists:
 - artist: src/pages/artists/parrein-pascale.md
 - artist: src/pages/artists/man-pia.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
-- artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/belaud-cindy.md
 - artist: src/pages/artists/jorj-morin.md
