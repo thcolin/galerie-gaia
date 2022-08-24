@@ -6,7 +6,7 @@ fields:
 - Photographie
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: "# Stéphanie Billarant\n\n> Nantes, ville de rêve ou ville rêvée ?\n\n\"Stéphanie
   Billarant est une rêveuse éveillée qui promène son regard sur le monde et transfigure
   la banalité du quotidien en provoquant des collisions entre des éléments qui dans

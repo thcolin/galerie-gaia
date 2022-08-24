@@ -6,7 +6,7 @@ fields:
 - Peinture
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: |-
   # Francky Criquet
 
