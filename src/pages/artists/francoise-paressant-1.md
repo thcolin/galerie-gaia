@@ -147,7 +147,7 @@ works:
   price: 
   sold: true
   contextual: true
-- title: 'Sans titre '
+- title: Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
   technique: Acrylique sur papier japon marouflé sur toile
