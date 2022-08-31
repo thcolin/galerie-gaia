@@ -676,7 +676,7 @@ works:
     width: 36
     depth: 
   description: '1973 '
-  price: 1500
+  price: 1800
   sold: false
   contextual: false
   fields:
