@@ -89,20 +89,6 @@ works:
   description: "2022"
   price: 3400
   contextual: true
-- title: Bal Angers 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-Bal Angers 1 92x73 cm.jpg
-  technique: Acrylique sur toile
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 92
-    width: 73
-    depth: 0
-  description: "2022"
-  price: 2500
-  contextual: true
 - title: 'Hors champ '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Hors-champ.jpg
@@ -143,20 +129,6 @@ works:
     depth: 0
   description: "2022"
   price: 3400
-  contextual: true
-- title: Bal Angers 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-Bal Angers 2  92x73cm.jpg
-  technique: Acrylique sur toile
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 92
-    width: 73
-    depth: 0
-  description: "2022"
-  price: 2500
   contextual: true
 - title: 117 R.I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
