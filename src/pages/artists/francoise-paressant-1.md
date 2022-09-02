@@ -37,20 +37,6 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
-- title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
-    toile 120X130.jpg
-  technique: 'Acrylique sur papier japon '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 130
-    depth: 0
-  description: ''
-  price: 3600
-  sold: false
-  contextual: true
 - title: Sans titre Papier fait main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
@@ -63,6 +49,20 @@ works:
     depth: 
   description: encadrement cache clou bois 2003
   price: 3000
+  sold: false
+  contextual: true
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
+    toile 120X130.jpg
+  technique: 'Acrylique sur papier japon '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 130
+    depth: 0
+  description: ''
+  price: 3600
   sold: false
   contextual: true
 - title: Papier tissé IV

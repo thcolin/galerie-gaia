@@ -48,10 +48,39 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Les parcelles - 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Image 02-09-2022
+    à 16.05.jpg
+  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 33
+    depth: 0
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
+- title: Les parcelles - 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
+    Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
+    48 x 33 600 euros.jpg
+  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 33
+    depth: 0
+  description: ''
+  price: 600
+  sold: false
+  contextual: true
 - title: Arbres 6 - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
-    6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
-  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
+    6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
+  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
   fields:
   - Peinture
   styles: []
@@ -67,7 +96,7 @@ works:
 - title: Arbres 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     - 3 33 x 49.jpg
-  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
+  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
   fields:
   - Peinture
   styles: []
@@ -218,36 +247,6 @@ works:
   price: 1100
   sold: false
   contextual: false
-- title: Les parcelles - 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
-    48 x 33 600 euros.jpg
-  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 33
-    depth: 0
-  description: ''
-  price: 600
-  sold: false
-  contextual: true
-- title: Les parcelles - 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier les parcelles 3 pigments calcaire et jus de feuilles de vigne sur papier
-    48 x 33 600 euros.jpg
-  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 33
-    depth: 0
-  description: ''
-  price: 600
-  sold: false
-  contextual: true
 - title: Au jardin 9
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/proches9 : pigments
     a & o sur p : 48 x 68 cm.jpg'
@@ -465,7 +464,7 @@ works:
   styles:
   - Abstrait
 - title: Lit de camp et sculpture en situation dans Côté Ouest
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     04.jpg
   technique: ''
   fields: []
