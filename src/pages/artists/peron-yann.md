@@ -48,8 +48,23 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: Dos d'Alice
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-02-05 à 18.50.13.png
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 90
+    depth: 
+  description: Vendue
+  price: 3700
+  sold: false
+  contextual: true
 - title: Emile 2021-04
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
   technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
     sur cp peuplier
   fields: []
@@ -67,7 +82,7 @@ works:
   sold: false
   contextual: true
 - title: Détail Emile 2021_04
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-détail
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-détail
     emile-S.jpg
   technique: 'Aquarelle Sennelier + rehauts de pastel à l''huile / Papier arche marouflé
     sur cp peuplier '
@@ -97,7 +112,7 @@ works:
   sold: false
   contextual: true
 - title: Salomé 2015-02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
     peuplier Cadre CP Bouleau - profondeur 15 cm - vernis mat
   fields: []
@@ -118,7 +133,7 @@ works:
   sold: false
   contextual: true
 - title: Marie 2015-03
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
     peuplier Cadre frêne thermo-chauffé profondeur 5 cm, huilé.
   fields: []
@@ -169,21 +184,6 @@ works:
   technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
     châssis bois
   sold: false
-- title: Dos d'Alice
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-02-05 à 18.50.13.png
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 90
-    depth: 
-  description: Vendue
-  price: 3700
-  sold: false
-  contextual: true
 - title: Alice 1-06
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-alice1-06.JPG
   technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
