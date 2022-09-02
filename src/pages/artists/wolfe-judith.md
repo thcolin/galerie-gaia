@@ -59,9 +59,23 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   manages to bring out forms, which balance her work. Judith Wolfe's goal is to put
   the human being at the heart of her approach."
 works:
+- title: Les Sagesses 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
+    sagesses3-60X60-2011.jpeg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 
+  description: "2011"
+  price: 1500
+  sold: false
+  contextual: true
 - title: Saint Nazaire 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
-    St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
+    St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
     .jpg
   technique: 'technqiue mixte sur papier marouflé sur toile '
   fields: []
@@ -76,7 +90,7 @@ works:
   contextual: true
 - title: 'Saint Nazaire 5 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
-    St.Nazaire 5-120x120 cm-3800€-acrylique et encre sur papiermarouflé_toile-2009
+    St.Nazaire 5-120x120 cm-3800€-acrylique et encre sur papiermarouflé_toile-2009
     .jpg
   technique: 'technique mixte papier marouflé sur toile '
   fields: []
@@ -117,23 +131,9 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Les Sagesses 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
-    sagesses3-60X60-2011.jpeg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2011"
-  price: 1500
-  sold: false
-  contextual: true
 - title: Les pots d'Angélique 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
-    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
   technique: Technique mixte sur papier marouflé sur toile
   fields: []
@@ -148,7 +148,7 @@ works:
   contextual: true
 - title: Paradis perdu 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Paradis
-    perdu 2-102x89 cm-2400€-acrylique sur papier marouflé_toile-2000 .jpg
+    perdu 2-102x89 cm-2400€-acrylique sur papier marouflé_toile-2000 .jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []
@@ -162,7 +162,7 @@ works:
   contextual: false
 - title: Les pots d'Angélique 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    pots d'Angélique 6-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    pots d'Angélique 6-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
   technique: Technique mixte sur papier marouflé sur toile
   fields: []
@@ -177,7 +177,7 @@ works:
   contextual: true
 - title: Les sagesses 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    sagesses 2-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg
+    sagesses 2-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg
     .jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
@@ -192,7 +192,7 @@ works:
   contextual: true
 - title: Les pots d'Angélique 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
   technique: 'Technique mixte sur papier marouflé sur toile '
   fields: []
@@ -207,7 +207,7 @@ works:
   contextual: true
 - title: Paradis perdu 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Paradis
-    perdu1-102x69 cm-2400 eu-acrylique sur papier marouflé_toile-2000 .jpg-.jpg
+    perdu1-102x69 cm-2400 eu-acrylique sur papier marouflé_toile-2000 .jpg-.jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []

@@ -142,6 +142,32 @@ works:
   description: "2022"
   price: 700
   contextual: true
+- title: 'Entre bleus #2'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus
+    #2-2022 -60x51 cm-collage et acrylique sur canson  .jpg'
+  technique: Acrylique et collage sur papier Canson
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 51
+    depth: 0
+  description: "2022"
+  price: 600
+  contextual: true
+- title: 'Entre bleus #1'
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Entre Bleus ISTHME-Entre
+    Bleus #1-2022 -60x51 cm-collage et acrylique sur canson.jpg'
+  technique: Acrylique et collages sur papier Canson
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 51
+    depth: 0
+  description: "2022"
+  price: 600
+  contextual: true
 - title: 'Deep blue #15'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Deep Blue
     #15, 2021 -76 x 57 cm -Collage sur papier Arches .jpg'
@@ -167,32 +193,6 @@ works:
     depth: 0
   description: "2021"
   price: 750
-  contextual: true
-- title: 'Entre bleus #1'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Entre Bleus ISTHME-Entre
-    Bleus #1-2022 -60x51 cm-collage et acrylique sur canson.jpg'
-  technique: Acrylique et collages sur papier Canson
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 51
-    depth: 0
-  description: "2022"
-  price: 600
-  contextual: true
-- title: 'Entre bleus #2'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus
-    #2-2022 -60x51 cm-collage et acrylique sur canson  .jpg'
-  technique: Acrylique et collages sur papier Canson
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 51
-    depth: 0
-  description: "2022"
-  price: 600
   contextual: true
 - title: 'Deep Blue # 4b'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2021-Deep
