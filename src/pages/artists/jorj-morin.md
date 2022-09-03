@@ -668,20 +668,6 @@ works:
   - Textile
   styles:
   - Abstrait
-- title: Cloture restreinte
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cloture-restreinte.jpg
-  technique: Mosaïque Marbre rose, jaune, travertin rouge
-  dimensions:
-    height: 48
-    width: 36
-    depth: 
-  description: '1973 '
-  price: 1800
-  sold: false
-  contextual: false
-  fields:
-  - Sculpture
-  styles: []
 - title: Exposition Polymorphie 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-polymorphie-2020.jpg
   technique: ''

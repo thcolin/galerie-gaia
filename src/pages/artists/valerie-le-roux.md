@@ -28,19 +28,6 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Algue vert kaki 18
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/40B8C636-0229-4A83-AF89-B9E9C62EEFCD.jpeg
-  technique: 'Sérigraphie  signée numérotée en 50 exemplaires '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 92
-    width: 65
-    depth: 0
-  description: ''
-  price: 95
-  contextual: true
 - title: Balânes -  bleu sur fond vert argile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143707.jpg
   technique: 'Sérigraphie  signée numérotée en 21/50 '
