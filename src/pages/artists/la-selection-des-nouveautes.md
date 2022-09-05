@@ -36,21 +36,18 @@ works:
   description: '[Job](https://galeriegaia.fr/artists/job/ "philippe bigot")'
   price: 1700
   contextual: false
-- title: 'Claude Viallat - Sans titre #6'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0200.jpeg
-  technique: Monotype à encrage
+- title: Franco Salas Borquez La montée des flôts
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1293 2.HEIC
+  technique: Huile sur toile
   fields: []
   styles: []
   dimensions:
-    height: 20
-    width: 48
+    height: 70
+    width: 140
     depth: 0
-  description: |-
-    Edition 6/30
-
-    2015
-  price: 2000
-  contextual: true
+  description: "[Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/)"
+  price: 3800
+  contextual: false
 - title: 'Claude Viallat - Sans titre #21'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
   technique: 'Monotype à encrage '
