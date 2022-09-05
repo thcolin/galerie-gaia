@@ -33,9 +33,7 @@ works:
     height: 90
     width: 90
     depth: 0
-  description: "[Job](https://galeriegaia.fr/artists/job/ \"philippe bigot\")  \nPhilippe
-    Bigot nouvel artiste de la galerie  \nEn exposition du 4 au 17 juillet 2022 à
-    la médiathèque de Pornichet"
+  description: '[Job](https://galeriegaia.fr/artists/job/ "philippe bigot")'
   price: 1700
   contextual: false
 - title: 'Claude Viallat - Sans titre #6'
@@ -68,7 +66,7 @@ works:
     2015
   price: 2000
   contextual: true
-- title: 'Sans titre #2 '
+- title: 'Alain Clément Sans titre #2 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0239.jpeg
   technique: Aquatinte
   fields: []
@@ -77,10 +75,8 @@ works:
     height: 80
     width: 61
     depth: 0
-  description: |-
-    Edition: 2/19
-
-    2009
+  description: '[Alain Clément](https://galeriegaia.fr/artists/alain-clement/ "alain
+    clement")'
   price: 800
   contextual: true
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
