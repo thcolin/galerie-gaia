@@ -63,19 +63,6 @@ works:
   description: ''
   price: 3600
   contextual: false
-- title: La brume
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francos
-    salas borquez-la brume-92X73cm C.PNG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 97
-    width: 78
-    depth: 0
-  description: '2020 encadrement caisse américaine noire '
-  price: 2700
-  contextual: true
 - title: La montée des flôts
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     salas borquez-la mer montee.jpg
