@@ -61,6 +61,17 @@ biography: "# Pierre Muckensturm\n\n> L'artiste crée et le spectateur imagine l
   Rémy Bucciali . Colmar \n* Gallery L'espace du dedans . Lille"
 exhibitions: []
 works:
+- title: 14c3-1 (9/11)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
+  technique: Aquatinte
+  dimensions:
+    height: 50
+    width: 50
+    depth: 
+  description: '2014 '
+  price: 400
+  sold: false
+  contextual: true
 - title: XXI 40 116
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure.jpg
@@ -329,17 +340,6 @@ works:
     depth: 
   description: '2019 '
   price: 600
-  sold: false
-  contextual: true
-- title: 14c3-1 (9/11)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/14c3-1-911.jpg
-  technique: Aquatinte
-  dimensions:
-    height: 50
-    width: 50
-    depth: 
-  description: '2014 '
-  price: 400
   sold: false
   contextual: true
 - title: 184J210811 (4/7)
