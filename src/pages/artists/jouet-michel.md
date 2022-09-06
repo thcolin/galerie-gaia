@@ -22,6 +22,19 @@ biography: |-
 
   Painter, sculptor, drawer, Michel Jouet was born in Cholet in 1943. Passionate about drawing since his childhood, he participated between 1970 and 1973 in several exhibitions in Cholet, Nantes, and the International Festival of Contemporary Art in Royan. After a fifteen-year break from the public, the artist uses white and black which are his favorite colors. However, he does not exclude primary colors. His works are sometimes tempered with a metal structure, others still with a plumb line feeding his visual.
 works:
+- title: ODM
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1102.jpg
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 46
+    width: 55
+    depth: 0
+  description: "2013"
+  price: 400
+  sold: false
+  contextual: true
 - title: Souris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia michel
     jouet souris.jpg
@@ -31,7 +44,7 @@ works:
   dimensions:
     height: 60
     width: 60
-    depth: 0
+    depth: 
   description: |-
     Tirage en 100 exemplaires
 
@@ -48,7 +61,7 @@ works:
   dimensions:
     height: 50
     width: 50
-    depth: 0
+    depth: 
   description: |-
     Tirage en 100 exemplaires
 
