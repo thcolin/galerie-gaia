@@ -28,10 +28,52 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
-- title: TPDNE 3
+- title: 'Abandoned place #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg
+  technique: 'Photographie '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 60
+    depth: 0
+  description: Tirage sur dibond 30 exemplaires
+  price: 350
+  contextual: true
+- title: 'Abandoned place #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg
+  technique: 'Photographie  '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 60
+    depth: 0
+  description: Tirage sur dibond 30 exemplaires
+  price: 350
+  contextual: true
+- title: 'Abandoned place #4'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
+  technique: 'Photographie '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 60
+    depth: 0
+  description: Tirage sur dibond 30 exemplaires
+  price: 350
+  contextual: true
+- title: TPDNE 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE3 100x150cm.jpg
-  technique: Impression sur dibond 1/2
+    wide-TPDNE1 100x150 cm.jpg
+  technique: Impression sur dibond tirage disponible 2/2
   fields:
   - Art numérique
   styles:
@@ -45,10 +87,10 @@ works:
     peintre s'inspirant d'un modèle qui lui échappe!"
   price: 3000
   contextual: true
-- title: TPDNE 1
+- title: TPDNE 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE1 100x150 cm.jpg
-  technique: Impression sur dibond tirage disponible 2/2
+    wide-TPDNE3 100x150cm.jpg
+  technique: Impression sur dibond 1/2
   fields:
   - Art numérique
   styles:
@@ -205,48 +247,6 @@ works:
   description: "2018"
   price: 2400
   sold: false
-  contextual: true
-- title: 'Abandoned place #4'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: Tirage sur dibond 30 exemplaires
-  price: 350
-  contextual: true
-- title: 'Abandoned place #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie  '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: Tirage sur dibond 30 exemplaires
-  price: 350
-  contextual: true
-- title: 'Abandoned place #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: Tirage sur dibond 30 exemplaires
-  price: 350
   contextual: true
 - title: Fresque Urbaine Nantes Rue Arche Sèche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-fresque-arche-seche-nantes.jpg
