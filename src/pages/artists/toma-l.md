@@ -120,6 +120,42 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Un petit Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
+  technique: Technique mixte sur papier velin d'Arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
+  price: ''
+  contextual: true
+- title: Un petit Rétro-Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
+  technique: Technqiue mixte sur papier velin d'Arche -Encadrement chêne verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: "2022 \n\nPrix sur demande"
+  price: ''
+  contextual: true
+- title: 'Un petit Rétro-Crade '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011001-UnPetitRetroCrade-30x21cm_bd_1000p.jpg
+  technique: Technique mixte sur papier velin d'Arche
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
+  price: ''
+  contextual: true
 - title: Querelle carbone 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019040101-querellecarbone10-150x140cm.jpg
@@ -133,6 +169,18 @@ works:
   description: "2019  \nPrix sur demande "
   price: ''
   contextual: true
+- title: 'Catalogue de la collection '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Catalogue sur demande
+  price: ''
+  contextual: false
+  technique: Le catalogue comporte des images en situation et les prix
 - title: Un nouveau type Retro Crade aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
@@ -168,54 +216,6 @@ works:
     width: 125
     depth: 0
   description: "2021 cadre en bois   \nprix sur demande"
-  price: ''
-  contextual: true
-- title: 'Catalogue de la collection '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-catalogue-tomal-ilpeintsurnantes.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Catalogue sur demande
-  price: ''
-  contextual: false
-  technique: Le catalogue comporte des images en situation et les prix
-- title: Un petit Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
-  technique: Technqiue mixte sur papier velin d'Arche -Encadrement chêne verre anti-reflet
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 21
-    depth: 0
-  description: "2022 \n\nPrix sur demande"
-  price: ''
-  contextual: true
-- title: Un petit Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
-  technique: Technique mixte sur papier velin d'Arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 21
-    depth: 0
-  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
-  price: ''
-  contextual: true
-- title: 'Un petit Rétro-Crade '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011001-UnPetitRetroCrade-30x21cm_bd_1000p.jpg
-  technique: Technique mixte sur papier velin d'Arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 21
-    depth: 0
-  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
   price: ''
   contextual: true
 - title: Encadrement Petit Crade
