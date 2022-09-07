@@ -11,7 +11,7 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
-- title: New Ex
+- title: Nouveautés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
   styles: []
@@ -21,32 +21,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: false
-- title: Panam par Job
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1868.JPG
-  technique: Acrylique sur toile
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: '[Job](https://galeriegaia.fr/artists/job/ "philippe bigot")'
-  price: 1700
-  contextual: false
-- title: Franco Salas Borquez La montée des flôts
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1293 2.HEIC
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 140
-    depth: 0
-  description: "[Franco Salas Borquez](https://galeriegaia.fr/artists/franco-salas-borquez/)"
-  price: 3800
   contextual: false
 - title: 'Claude Viallat - Sans titre #21'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
