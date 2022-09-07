@@ -40,6 +40,22 @@ biography: "# Robert Combas\n\n> La \"figuration libre\", art minimaliste et con
   I am completely free, even by the format.\""
 exhibitions: []
 works:
+- title: 'Le Combo de Combas '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg
+  technique: Création lumineuse sérigraphiée
+  dimensions:
+    height: 52
+    width: 98
+    depth: 7
+  description: |-
+    Une oeuvre originale de **Robert Combas** sérigraphiée sur Plexiglas et montée sur un caisson lumineux de 7cm d'épaisseur.
+
+    Chaque exemplaire est rehaussé par l'artiste à la pointe métallique.Chaque oeuvre est donc différente et unique.
+
+    2015 : Edition numérotée 13/25
+  price: 4500
+  sold: false
+  contextual: true
 - title: Dragon Combas dédicacée par l'artiste avec un dessin d'oeuf au plat
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia combas
     dragons 59.JPG
@@ -65,30 +81,6 @@ works:
   description: "Edition de l'atelier du Petit Jaunais 1997  \nDédicacée par l'artiste
     avec un dessin de fer à cheval"
   price: 1800
-  contextual: true
-- title: 'Le Combo de Combas '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg
-  technique: Installation lumineuse Sérigraphie
-  dimensions:
-    height: 52
-    width: 98
-    depth: ''
-  description: 'A la base c''est une sérigraphie originale de **Robert Combas** imprimée
-    sur Plexiglas et montée sur un caisson lumineux de 7cm d''épaisseur. Pour chaque
-    exemplaire, l''artiste est intervenu manuellement avec une pointe métallique,
-    en gravant de nouveaux motifs sur la sérigraphie. Edition numérotée 3/25 . Certificat
-    d''authenticité . '
-  price: 4500
-  sold: false
-  contextual: true
-- title: Certificat d'authenticité Robert Combas "Le Combo de Combas"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20190523_180652.jpg
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# Combas "
-  price: 0
   contextual: true
 redirect_from:
 - "/artistes/38-combas/"
