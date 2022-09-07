@@ -8,8 +8,8 @@ artists:
 - artist: src/pages/artists/jouet-michel.md
 - artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/engels-didier.md
+- artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/francoise-paressant-1.md
-- artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/duhec-olivier.md
@@ -19,9 +19,9 @@ artists:
 - artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/laure-carre.md
-- artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/aline-isoard.md
 - artist: src/pages/artists/franco-salas-borquez.md
+- artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/job.md
 - artist: src/pages/artists/isabelle-healy.md
 - artist: src/pages/artists/chretien-manolo.md
