@@ -80,6 +80,7 @@ works:
     2022
   price: 380
   contextual: true
+  sold: true
 - title: 'Echo I & II Diptyque '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0885.jpg
   technique: Serigraphie
