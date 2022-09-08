@@ -65,6 +65,45 @@ biography: "# Aline Isoard\n\n> L'utilisation de la dépigmentation photographiq
   from the realistic origins of the image and opens onto the confusion between illusion
   and intention."
 works:
+- title: Pont 15-2021
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - pont 15-2021,60x60w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: Pièce unique
+  price: 1000
+  contextual: true
+- title: Pont 19_2017
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 18-2021,60x60wa.jpg
+  technique: Photographie dépigmentée pièce unique
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 0
+  description: vendu
+  price: 
+  sold: false
+  contextual: true
+- title: Pont GF2-2016
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
+    Isoard - pont GF2-2016,92x90w.jpg
+  technique: Photographie dépigmentée
+  fields: []
+  styles: []
+  dimensions:
+    height: 92
+    width: 90
+    depth: 0
+  description: Pièce unique
+  price: 1500
+  contextual: true
 - title: Les objets 10-2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
     Isoard - les objets 10-2020,30x30w.jpg
@@ -90,32 +129,6 @@ works:
     depth: 0
   description: Pièce unique
   price: 500
-  contextual: true
-- title: Pont GF2-2016
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
-    Isoard - pont GF2-2016,92x90w.jpg
-  technique: Photographie dépigmentée
-  fields: []
-  styles: []
-  dimensions:
-    height: 92
-    width: 90
-    depth: 0
-  description: Pièce unique
-  price: 1500
-  contextual: true
-- title: Pont 15-2021
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
-    Isoard - pont 15-2021,60x60w.jpg
-  technique: Photographie dépigmentée
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: Pièce unique
-  price: 1000
   contextual: true
 - title: Station 12-2016
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia - Aline
@@ -314,7 +327,7 @@ works:
   price: 500
   contextual: true
 - title: Fenêtre sur route IDF 4_2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     Ile de F 4-2016 60x60wa.jpg
   technique: Photo dépigmentée pièce unique
   fields: []
@@ -341,7 +354,7 @@ works:
   sold: false
   contextual: true
 - title: Fenêtre sur route GF7 2014
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     GF7-2014,115x90plexi.jpg
   technique: Photo dépigmentée pièce unique
   fields: []
@@ -355,7 +368,7 @@ works:
   sold: false
   contextual: true
 - title: Fenêtre sur route 9 _2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     9-2019,105x76plexi.jpg
   technique: Photographie dépigmentée pièce unique
   fields: []
@@ -368,21 +381,8 @@ works:
   price: 2200
   sold: false
   contextual: true
-- title: Pont 19_2017
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pont 18-2021,60x60wa.jpg
-  technique: Photographie dépigmentée pièce unique
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 0
-  description: vendu
-  price: 
-  sold: false
-  contextual: true
 - title: Fenêtre sur route GF12_2015
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     GF12-2015,92x92verre.jpg
   technique: Photographie dépigmentée pièce unique
   fields: []
@@ -396,7 +396,7 @@ works:
   sold: false
   contextual: true
 - title: Fenêtre sur route 6_2021
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fenêtre sur route
     6-2021,90x90aw.jpg
   technique: 'Photographie dépigmentée '
   fields: []
@@ -452,7 +452,7 @@ works:
   sold: false
   contextual: true
 - title: Fenêtre sur route 9 2018
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardfenêtre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoardfenêtre
     sur route 9-2018,60x60w .jpg
   technique: Photographie dépigmentée pièce unique
   fields: []
