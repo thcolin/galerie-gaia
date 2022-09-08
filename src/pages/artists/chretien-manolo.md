@@ -75,6 +75,35 @@ biography: "# Manolo Chrétien\n\n« G R A V I T Y »\n\nDepuis le ciel jusqu’
   other facades \n* Water with its surface movements, its ephemeral waves created
   by the current and the winds."
 works:
+- title: Cockpit Concorde
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-80X120-CONCORDE-COCKPIT.jpg
+  technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 80
+    depth: 
+  description: |-
+    # Manolo Chretien
+
+    Disponible en 150X100 6800€
+  price: 4500
+  sold: false
+  contextual: true
+- title: Cockpit Concorde in situ dans des bureaux
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CONCORDE-COCKPIT-INSITU.jpg
+  technique: Photo sublimation sur feuille d'aluminium brossée brillant
+  fields: []
+  styles: []
+  dimensions:
+    height: 
+    width: 
+    depth: 
+  description: Disponible en 150X100 6800€
+  price: 4500
+  sold: false
+  contextual: true
 - title: Mirage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-MIRAGE-60x90.jpg
   technique: Photographie sur aluminium brossé
@@ -181,35 +210,6 @@ works:
     depth: 
   description: "# Manolo Chretien\n\n80X80 cm 3 exemplaires 3000€  \n100X100 cm 3
     exemplaires 4500€  \n120X120 cm 3 exemplaires 6500€"
-  price: 4500
-  sold: false
-  contextual: true
-- title: Cockpit Concorde
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-80X120-CONCORDE-COCKPIT.jpg
-  technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 80
-    depth: 
-  description: |-
-    # Manolo Chretien
-
-    Disponible en 150X100 6800€
-  price: 4500
-  sold: false
-  contextual: true
-- title: Cockpit Concorde in situ dans des bureaux
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CONCORDE-COCKPIT-INSITU.jpg
-  technique: Photo sublimation sur feuille d'aluminium brossée brillant
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: Disponible en 150X100 6800€
   price: 4500
   sold: false
   contextual: true

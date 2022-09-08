@@ -22,19 +22,6 @@ biography: |-
   >
   > Parfois il est juste bon de se laisser aller à la douceur d'une atmosphère légère.
 works:
-- title: Panam
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Pan Am- 90x90.jpeg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Encadrement bois
-  price: 1700
-  sold: false
-  contextual: true
 - title: Brigneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
   technique: Acrylique sur toile
@@ -46,6 +33,19 @@ works:
     depth: 0
   description: ''
   price: 2400
+  sold: false
+  contextual: true
+- title: Panam
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Pan Am- 90x90.jpeg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Encadrement bois
+  price: 1700
   sold: false
   contextual: true
 - title: Sur les quais
@@ -77,7 +77,7 @@ works:
   contextual: true
 - title: Portrait de Philippe Bigot
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
-    philippe bigot job pornichet canapé.jpg
+    philippe bigot job pornichet canapé.jpg
   technique: ''
   fields: []
   styles: []
