@@ -90,6 +90,58 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Autoportrait rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    rose-160X130.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: ''
+  price: 4300
+  contextual: true
+- title: Autoportrait bleu
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    bleu-160X130.jpeg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: ''
+  price: 4300
+  contextual: true
+- title: Autoportrait jaune
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
+    jaune-160X130.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: ''
+  price: 4300
+  contextual: true
+- title: Triptyque Autoportrait
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
+    LAURE.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: Triptyque 12 000€
+  price: 12000
+  contextual: false
 - title: Ronde sentimentale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
     carre-Ronde sentimentale-73X100.jpeg
@@ -115,58 +167,6 @@ works:
     depth: 0
   description: '2022, classieusement irrévérencieux comme il se doit avec Laure '
   price: 350
-  contextual: true
-- title: Autoportrait bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    bleu-160X130.jpeg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: ''
-  price: 4300
-  contextual: true
-- title: Triptyque Autoportrait
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
-    LAURE.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: Triptyque 12 000€
-  price: 12000
-  contextual: false
-- title: Autoportrait rose
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    rose-160X130.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: ''
-  price: 4300
-  contextual: true
-- title: Autoportrait jaune
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    jaune-160X130.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: ''
-  price: 4300
   contextual: true
 - title: Nostalgie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg
