@@ -54,6 +54,45 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   La Martiniére Release October 2012"
 exhibitions: []
 works:
+- title: Chicago 49
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-CHICAGO 58 X 65.25.jpg
+  technique: Tirage jet d'encre pigmentaire sur dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 58
+    depth: 0
+  description: Tirage en 5 exemplaires caisse américaine noire
+  price: 1300
+  contextual: true
+- title: Chicago 46
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-Chicago 46-58x58.jpg
+  technique: 'Tirage jet d''encre pigmentaire sur dibond '
+  fields: []
+  styles: []
+  dimensions:
+    height: 58
+    width: 58
+    depth: 0
+  description: Tirage en 5 exemplaires caisse américaine noire en bois
+  price: 1300
+  contextual: true
+- title: Chicago 45
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
+    francois molliere-Chicago 45 80X80.jpg
+  technique: Tirage jet d'encre pigmentaire sur papier contrecollé sur dibond
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: 'Tirage à 5 exemplaires caisse américaine noire '
+  price: 1500
+  contextual: true
 - title: Chicago 27
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-Chicago 27 90X70.jpg
@@ -92,45 +131,6 @@ works:
     depth: 0
   description: 'Tirage à 5 exemplaires caisse américaine noire '
   price: 1500
-  contextual: true
-- title: Chicago 46
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 46-58x58.jpg
-  technique: 'Tirage jet d''encre pigmentaire sur dibond '
-  fields: []
-  styles: []
-  dimensions:
-    height: 58
-    width: 58
-    depth: 0
-  description: Tirage en 5 exemplaires caisse américaine noire en bois
-  price: 1300
-  contextual: true
-- title: Chicago 45
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 45 80X80.jpg
-  technique: Tirage jet d'encre pigmentaire sur papier contrecollé sur dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: 'Tirage à 5 exemplaires caisse américaine noire '
-  price: 1500
-  contextual: true
-- title: Chicago 49
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-CHICAGO 58 X 65.25.jpg
-  technique: Tirage jet d'encre pigmentaire sur dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 58
-    depth: 0
-  description: Tirage en 5 exemplaires caisse américaine noire
-  price: 1300
   contextual: true
 - title: New york 39
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
