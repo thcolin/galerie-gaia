@@ -18,8 +18,8 @@ artists:
 - artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/shirley-jaffe.md
 - artist: src/pages/artists/jacques-le-brusq.md
-- artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/aline-isoard.md
+- artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/franco-salas-borquez.md
 - artist: src/pages/artists/peron-yann.md
 - artist: src/pages/artists/job.md
