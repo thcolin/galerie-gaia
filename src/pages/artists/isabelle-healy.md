@@ -19,6 +19,17 @@ biography: |-
   Isabelle Healy was born in 1967 in Paris. After studying communication at ESCOM Lyon, she became a press agent for luxury houses, then an interior designer for the Sublim'Home agency. At the same time, from 1990 to 1997, she took drawing and painting classes in St Etienne in Madame Véran's workshop. Then, the artist changed teachers in order to discover new approaches, and turned to her new master, Serge Tziganov. Arriving in Lyon in 2005, she turned to clay modeling, wax, bronze technique, and sculpture. She spent eight years taking classes with a sculptor in Lyon. Along the way, Isabelle empties her bag of everything that makes her heart beat. Isabelle expresses in her sculptures the Joy of Living, energy, vitality, movement, the impulse of Life, fraternity and grace. "The artist must love Life and show us that it is beautiful" said Anatole France. Universal things such as love, childhood, friendship, family are all themes that are dear to her, formidable sources of inspiration. The pieces thus become elegant, graceful, inhabited by emotions. The contemporary style gives this necessary freedom. She practices a representation of human feelings and shared moments as time passes.
 exhibitions: []
 works:
+- title: Les vacances
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
+  technique: Bronze EA II/IV  III/IV
+  dimensions:
+    height: 16
+    width: 43
+    depth: 5
+  description: "2 exemplaires disponibles   \nFonderie Barthélémy Crest (26)"
+  price: 3600
+  sold: false
+  contextual: false
 - title: Une île en extérieur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-une
     ile-IMG_3590.JPG
@@ -107,17 +118,6 @@ works:
     1 Epreuve d'Artiste  \nlivraison en galerie mi-décembre 2021(délai du fondeur)"
   price: 2600
   contextual: true
-- title: Les vacances
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
-  technique: Bronze EA II/IV  III/IV
-  dimensions:
-    height: 16
-    width: 43
-    depth: 5
-  description: "2 exemplaires disponibles   \nFonderie Barthélémy Crest (26)"
-  price: 3600
-  sold: false
-  contextual: false
 - title: La sphère des possibles
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg
   technique: Bronze N°7/8
