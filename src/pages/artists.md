@@ -13,8 +13,8 @@ artists:
 - artist: src/pages/artists/d-harcourt-victoire.md
 - artist: src/pages/artists/edwin-wide.md
 - artist: src/pages/artists/duhec-olivier.md
-- artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/toma-l.md
+- artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/shirley-jaffe.md
 - artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/jacques-le-brusq.md
