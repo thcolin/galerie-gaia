@@ -41,9 +41,9 @@ works:
     width: 75
     depth: 
   description: "**Il ne reste plus que 1 tirage disponible soit le 9/9 et cette photo
-    sera épuisée**.\n\nimpression numérique sur papier mat smooth contrecollé sur
-    dibond  \ncaisse américaine noire"
-  price: 750
+    sera épuisée**.\n\nImpression numérique sur papier mat smooth marouflé sur dibond
+    \ \ncaisse américaine noire"
+  price: 900
   sold: false
   contextual: true
   fields: []
@@ -227,5 +227,11 @@ exhibitions:
   end: ''
 styles:
 - Figuratif
+seo:
+  title: ''
+  heading: ''
+  type: ''
+  description: ''
+  image: ''
 
 ---
