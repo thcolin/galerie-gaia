@@ -1071,5 +1071,14 @@ articles:
     à la douceur d’une atmosphère légère."
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Affiche COM JOB
     PORNICHET.jpg
+- template: article
+  date: '2022-09-15T09:00:59Z'
+  categories:
+  - Exposition
+  title: Couleurs vitales
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
+    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    .jpg
+  content: "Judith Wolfe - Couleurs Vitales  \nExposition 15 au 30 Septembre 2022"
 
 ---
