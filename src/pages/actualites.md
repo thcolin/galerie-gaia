@@ -1079,6 +1079,21 @@ articles:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
     d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
-  content: "Judith Wolfe - Couleurs Vitales  \nExposition 15 au 30 Septembre 2022"
+  content: "**Judith Wolfe - Couleurs Vitales**  \n**Exposition 15 au 30 Septembre
+    2022  \nVernissage 15/09 18H**   \nJudith Wolfe a étudié avec le peintre John
+    Ferren au Queens College de New York puis avec Oskar Kokoschka à Salzbourg, avant
+    de s'installer à Paris en 1966.  \n D'abord influencée par les expressionnistes
+    européens, elle poursuit ses recherches graphiques dans son utilisation de couleurs
+    fortes et de coups de pinceau expressifs sur la toile ou sur papier.   \nEn 1976,
+    très impressionnée par les collages monumentaux de Matisse, Judith Wolfe entame
+    une série d'œuvres sur papier à grande échelle .Papiers arrachés, déchirés puis
+    à nouveau collés et assemblés, il y a là comme un symbole de fragilité mais aussi
+    de la légèreté et une indéniable vitalité.   \nAprès avoir maîtrisé la peinture
+    sur papier, elle complète et juxtapose maintenant ces bleus, rouges et jaunes
+    primaires avec les blancs du papier et les dessins à l'encre noire. À la fin des
+    années 90, des phrases et des morceaux de poèmes se sont glissés dans ses compositions.
+    \ \nLes œuvres récentes de Judith Wolfe questionnent notre course à la modernité
+    dans un monde des plus instable. Pourtant, ses œuvres, à travers son utilisation
+    vibrante de la couleur, renforcent un sentiment d'espoir."
 
 ---
