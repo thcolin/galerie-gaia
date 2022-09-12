@@ -159,7 +159,7 @@ works:
     width: 130
     depth: 0
   description: "2012"
-  price: 4500
+  price: 5400
   sold: false
   contextual: true
 - title: Sans titre Papier fait main teinté en situation
