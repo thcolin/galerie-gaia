@@ -37,19 +37,22 @@ works:
     2015
   price: 2000
   contextual: true
-- title: 'Alain Clément Sans titre #2 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0239.jpeg
-  technique: Aquatinte
-  fields: []
-  styles: []
+- title: Judith Wolfe exposition Septembre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
+    wolfe 2022.jpg
+  technique: 'Technique mixte sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
   dimensions:
-    height: 80
-    width: 61
+    height: 150
+    width: 122
     depth: 0
-  description: '[Alain Clément](https://galeriegaia.fr/artists/alain-clement/ "alain
-    clement")'
-  price: 800
-  contextual: true
+  description: '[Judith Wolfe](https://galeriegaia.fr/artists/wolfe-judith/ "judith
+    wolfe")'
+  price: 4500
+  contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
     sentimentale ES.jpeg
