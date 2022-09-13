@@ -4,11 +4,10 @@ carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
     St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
     .jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
+    dover-65X80.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-Green in Sphere UV print 2021.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
-    .jpg
 redirect_from:
 - "/plan/"
 seo:
