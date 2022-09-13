@@ -176,20 +176,6 @@ works:
   price: 2000
   sold: false
   contextual: true
-- title: Forêt magique 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
-    magique 1-100X100.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2018"
-  price: 
-  sold: false
-  contextual: true
 - title: Saint Nazaire 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
     St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
@@ -203,6 +189,20 @@ works:
     depth: 
   description: "2009"
   price: 3400
+  sold: false
+  contextual: true
+- title: Forêt magique 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
+    magique 1-100X100.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2018"
+  price: 3000
   sold: false
   contextual: true
 - title: Forêt magique 2

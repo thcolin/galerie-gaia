@@ -22,29 +22,26 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Claude Viallat - Sans titre #21'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
-  technique: 'Monotype à encrage '
-  fields: []
+- title: Judith Wolfe exposition Septembre 2022
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5161.JPG
+  technique: huile sur papier et céramique
+  fields:
+  - Peinture
   styles: []
   dimensions:
-    height: 20
-    width: 48
+    height: 0
+    width: 0
     depth: 0
-  description: |-
-    Edition 21/30
-
-    2015
-  price: 2000
-  contextual: true
-- title: Judith Wolfe exposition Septembre
+  description: "# [Judith Wolfe]()\n\n# "
+  price: 250
+  contextual: false
+- title: Judith Wolfe exposition Septembre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
     wolfe 2022.jpg
   technique: 'Technique mixte sur toile '
   fields:
   - Peinture
-  styles:
-  - Figuratif
+  styles: []
   dimensions:
     height: 150
     width: 122
@@ -68,6 +65,21 @@ works:
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
   price: 1700
+  contextual: true
+- title: 'Claude Viallat - Sans titre #21'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
+  technique: 'Monotype à encrage '
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 48
+    depth: 0
+  description: |-
+    Edition 21/30
+
+    2015
+  price: 2000
   contextual: true
 - title: 'Cleon Peterson Flowers of evil the kiss (white) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
@@ -133,22 +145,6 @@ works:
   - Sculpture
   styles:
   - Figuratif
-- title: Jacques le Brusq et Brigitte Marionneau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-RHUYS VER KERNES OPUS 2.jpg
-  technique: huile sur papier et céramique
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
-    \"jacques le brusq\")\n\nHuile sur papier (27 x 32)  \nFormat encadré 53X43 cm
-    baguette chêne verre antireflet qualité musée\n\n# [Brigitte Marionneau](https://galeriegaia.fr/artists/brigitte-marionneau/
-    \"marionneau\")"
-  price: 2500
-  contextual: true
 - title: XXI 40 116 de Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure-es.jpg
