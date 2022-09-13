@@ -59,6 +59,20 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   manages to bring out forms, which balance her work. Judith Wolfe's goal is to put
   the human being at the heart of her approach."
 works:
+- title: Fleur du désert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Fleurs
+    dud desert-150X122.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 120
+    depth: 0
+  description: "2015"
+  price: 4500
+  sold: false
+  contextual: true
 - title: Arbre jaune
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-arbre
     jaune-30X30.jpg
