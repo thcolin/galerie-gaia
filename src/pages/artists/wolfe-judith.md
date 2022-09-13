@@ -77,7 +77,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
     St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
     .jpg
-  technique: 'technqiue mixte sur papier marouflé sur toile '
+  technique: 'technique mixte sur papier marouflé sur toile '
   fields: []
   styles: []
   dimensions:
@@ -85,7 +85,7 @@ works:
     width: 120
     depth: 
   description: "2009"
-  price: 3800
+  price: 3400
   sold: false
   contextual: true
 - title: 'Saint Nazaire 5 '
@@ -100,35 +100,7 @@ works:
     width: 120
     depth: 
   description: "2009"
-  price: 3800
-  sold: false
-  contextual: true
-- title: Paysage d'été 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
-    d'ete1-95X65-2004-2200E.jpeg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 95
-    width: 65
-    depth: 
-  description: "2004"
-  price: 2400
-  sold: false
-  contextual: true
-- title: Paysage d'été 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-paysages
-    d'ete4-95X65-2004-2200E.jpeg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 95
-    width: 65
-    depth: 
-  description: "2004"
-  price: 2400
+  price: 3400
   sold: false
   contextual: true
 - title: Les pots d'Angélique 10
@@ -143,23 +115,9 @@ works:
     width: 122
     depth: 
   description: "2002"
-  price: 5000
+  price: 4500
   sold: false
   contextual: true
-- title: Paradis perdu 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Paradis
-    perdu 2-102x89 cm-2400€-acrylique sur papier marouflé_toile-2000 .jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 102
-    width: 89
-    depth: 
-  description: "2000"
-  price: 2400
-  sold: false
-  contextual: false
 - title: Les pots d'Angélique 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
     pots d'Angélique 6-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
@@ -172,7 +130,7 @@ works:
     width: 122
     depth: 
   description: "2002"
-  price: 5000
+  price: 4500
   sold: false
   contextual: true
 - title: Les sagesses 1
@@ -202,23 +160,9 @@ works:
     width: 122
     depth: 
   description: "2002"
-  price: 5000
+  price: 4500
   sold: false
   contextual: true
-- title: Paradis perdu 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Paradis
-    perdu1-102x69 cm-2400 eu-acrylique sur papier marouflé_toile-2000 .jpg-.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 102
-    width: 69
-    depth: 
-  description: "2000"
-  price: 2400
-  sold: false
-  contextual: false
 - title: Les sagesses 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
     sagesses1-95X65-2011.jpeg
