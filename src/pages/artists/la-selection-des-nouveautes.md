@@ -50,6 +50,21 @@ works:
     wolfe")'
   price: 4500
   contextual: false
+- title: 'Jorj Morin Espace clos '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
+    morin céramique 2 espace clos.JPG
+  technique: Céramique
+  fields:
+  - Céramique
+  styles:
+  - Abstrait
+  dimensions:
+    height: 26
+    width: 29
+    depth: 6
+  description: "[Jorj Morin]()"
+  price: ''
+  contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
     sentimentale ES.jpeg
@@ -65,21 +80,6 @@ works:
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
   price: 1700
-  contextual: true
-- title: 'Claude Viallat - Sans titre #21'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
-  technique: 'Monotype à encrage '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 48
-    depth: 0
-  description: |-
-    Edition 21/30
-
-    2015
-  price: 2000
   contextual: true
 - title: 'Cleon Peterson Flowers of evil the kiss (white) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson

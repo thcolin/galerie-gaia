@@ -1,9 +1,10 @@
 ---
 template: artist
-title: Morin Jorj Peinture
+title: Morin Jorj Peinture Céramique
 location: Nantes
 fields:
 - Peinture
+- Céramique
 birth: "1909"
 death: "1995"
 expose: true
