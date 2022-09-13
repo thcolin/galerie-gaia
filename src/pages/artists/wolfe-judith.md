@@ -59,6 +59,21 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   manages to bring out forms, which balance her work. Judith Wolfe's goal is to put
   the human being at the heart of her approach."
 works:
+- title: Les pots d'Angélique 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
+    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    .jpg
+  technique: 'Technique mixte sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 122
+    depth: 
+  description: "2002"
+  price: 4500
+  sold: false
+  contextual: true
 - title: Calais Douvre 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
     dover-65X80.jpg
@@ -69,21 +84,6 @@ works:
     height: 65
     width: 80
     depth: 0
-  description: "1987"
-  price: 2000
-  sold: false
-  contextual: true
-- title: Calais Douvre 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
-    douvre2-65X80.jpg
-  technique: 'Dessin sur papier encadré sous verre '
-  fields:
-  - Dessin
-  styles: []
-  dimensions:
-    height: 65
-    width: 80
-    depth: 
   description: "1987"
   price: 2000
   sold: false
@@ -161,19 +161,19 @@ works:
   price: 4500
   sold: false
   contextual: true
-- title: Les pots d'Angélique 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
-    .jpg
-  technique: 'Technique mixte sur papier marouflé sur toile '
-  fields: []
+- title: Calais Douvre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
+    douvre2-65X80.jpg
+  technique: 'Dessin sur papier encadré sous verre '
+  fields:
+  - Dessin
   styles: []
   dimensions:
-    height: 150
-    width: 122
+    height: 65
+    width: 80
     depth: 
-  description: "2002"
-  price: 4500
+  description: "1987"
+  price: 2000
   sold: false
   contextual: true
 - title: Forêt magique 1
@@ -234,9 +234,8 @@ works:
   sold: false
   contextual: true
 - title: Les sagesses 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    sagesses 2-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg
-    .jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
+    wolfe-sagesses 1.jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []
@@ -260,6 +259,19 @@ works:
     depth: 
   description: "2011"
   price: 1500
+  sold: false
+  contextual: false
+- title: 'Couleurs vitales '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5162.JPG
+  technique: Mixte papier et encre collé sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 0
+  description: 3 petits formats installés ensemble, vendus séparement
+  price: 250
   sold: false
   contextual: false
 exhibitions: []
