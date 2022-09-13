@@ -102,48 +102,6 @@ works:
   price: 4500
   sold: false
   contextual: true
-- title: Arbre jaune
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-arbre
-    jaune-30X30.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: "2018"
-  price: 300
-  sold: false
-  contextual: true
-- title: Forêt magique 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
-    magique 2-100X100.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2018"
-  price: 3000
-  sold: false
-  contextual: true
-- title: Forêt magique 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
-    magique 1-100X100.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2018"
-  price: 
-  sold: false
-  contextual: true
 - title: 'Saint Nazaire 5 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
     St.Nazaire 5-120x120 cm-3800€-acrylique et encre sur papiermarouflé_toile-2009
@@ -171,21 +129,6 @@ works:
     depth: 
   description: "2011"
   price: 1500
-  sold: false
-  contextual: true
-- title: Saint Nazaire 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
-    St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
-    .jpg
-  technique: 'technique mixte sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: "2009"
-  price: 3400
   sold: false
   contextual: true
 - title: Les pots d'Angélique 10
@@ -218,21 +161,6 @@ works:
   price: 4500
   sold: false
   contextual: true
-- title: Les sagesses 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    sagesses 2-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg
-    .jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2011"
-  price: 1500
-  sold: false
-  contextual: true
 - title: Les pots d'Angélique 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
     pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
@@ -246,6 +174,78 @@ works:
     depth: 
   description: "2002"
   price: 4500
+  sold: false
+  contextual: true
+- title: Forêt magique 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
+    magique 1-100X100.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2018"
+  price: 
+  sold: false
+  contextual: true
+- title: Saint Nazaire 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
+    St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
+    .jpg
+  technique: 'technique mixte sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 
+  description: "2009"
+  price: 3400
+  sold: false
+  contextual: true
+- title: Forêt magique 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
+    magique 2-100X100.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2018"
+  price: 3000
+  sold: false
+  contextual: true
+- title: Arbre jaune
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-arbre
+    jaune-30X30.jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: "2018"
+  price: 300
+  sold: false
+  contextual: true
+- title: Les sagesses 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
+    sagesses 2-60x60cm-1500€-acrylique et encre sur papier marouflé_toile-2011-jpg
+    .jpg
+  technique: 'Acrylique et encre sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 60
+    depth: 
+  description: "2011"
+  price: 1500
   sold: false
   contextual: true
 - title: Les sagesses 2
