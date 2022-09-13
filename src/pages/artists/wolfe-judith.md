@@ -59,6 +59,21 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   manages to bring out forms, which balance her work. Judith Wolfe's goal is to put
   the human being at the heart of her approach."
 works:
+- title: 'Saint Nazaire 5 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
+    St.Nazaire 5-120x120 cm-3800€-acrylique et encre sur papiermarouflé_toile-2009
+    .jpg
+  technique: 'technique mixte papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 120
+    depth: 
+  description: "2009"
+  price: 3400
+  sold: false
+  contextual: true
 - title: Les Sagesses 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
     sagesses3-60X60-2011.jpeg
@@ -78,21 +93,6 @@ works:
     St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
     .jpg
   technique: 'technique mixte sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: "2009"
-  price: 3400
-  sold: false
-  contextual: true
-- title: 'Saint Nazaire 5 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
-    St.Nazaire 5-120x120 cm-3800€-acrylique et encre sur papiermarouflé_toile-2009
-    .jpg
-  technique: 'technique mixte papier marouflé sur toile '
   fields: []
   styles: []
   dimensions:
