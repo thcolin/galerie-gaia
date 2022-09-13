@@ -50,7 +50,7 @@ works:
     wolfe")'
   price: 4500
   contextual: false
-- title: 'Jorj Morin Espace clos '
+- title: Jorj Morin Espace clos Céramique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
     morin céramique 2 espace clos.JPG
   technique: Céramique
@@ -63,7 +63,7 @@ works:
     width: 29
     depth: 6
   description: "[Jorj Morin]()"
-  price: ''
+  price: 2000
   contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde

@@ -40,8 +40,8 @@ works:
     width: 29
     depth: 6
   description: ''
-  price: 0
-  contextual: true
+  price: 2000
+  contextual: false
 - fields: []
   styles: []
   dimensions:
