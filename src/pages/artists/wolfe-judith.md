@@ -59,6 +59,35 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   manages to bring out forms, which balance her work. Judith Wolfe's goal is to put
   the human being at the heart of her approach."
 works:
+- title: Calais Douvre 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
+    dover-65X80.jpg
+  technique: 'Dessin encadré sous verre '
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 80
+    depth: 0
+  description: "1987"
+  price: 2000
+  sold: false
+  contextual: true
+- title: Calais Douvre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
+    douvre2-65X80.jpg
+  technique: 'Dessin sur papier encadré sous verre '
+  fields:
+  - Dessin
+  styles: []
+  dimensions:
+    height: 65
+    width: 80
+    depth: 
+  description: "1987"
+  price: 2000
+  sold: false
+  contextual: true
 - title: Fleur du désert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Fleurs
     dud desert-150X122.jpg
