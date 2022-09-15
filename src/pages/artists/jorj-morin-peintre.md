@@ -28,28 +28,6 @@ biography: |-
   The Polymorphie exhibition organized in 2020 by the Gaïa Gallery can be defined by many terms, but the term retrospective is not one of them. Thus, it is about the desire to make an audience unfamiliar with Morin's art discover how exciting it is to watch an artist confront different media that offer jubilant constraints. It doesn't matter what the dates of these past works are, because in the present, his clear lines and color palette intimately thrill us.
 exhibitions: []
 works:
-- title: Soleil Absent
-  fields: []
-  styles: []
-  dimensions:
-    height: 39.5
-    width: 25.5
-    depth: 0
-  description: ''
-  price: 0
-  contextual: true
-- title: Porte de l'Aube
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1226.jpg
-  technique: Marbre rose & vert
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 20
-    depth: 0
-  description: "1973"
-  price: 2000
-  contextual: true
 - fields: []
   styles: []
   dimensions:
@@ -63,6 +41,30 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
+- title: Formes Ailées
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 65
+    depth: 0
+  description: 'Consultation sur demande '
+  price: 3800
+  contextual: false
+  technique: Marbre blanc & travertin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
+- title: Porte de l'Aube
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1226.jpg
+  technique: Marbre rose & vert
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 20
+    depth: 0
+  description: "1973"
+  price: 2000
+  contextual: true
 - title: 'Espace clos '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1225.jpg
   technique: Céramique
