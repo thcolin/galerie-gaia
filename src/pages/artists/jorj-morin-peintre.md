@@ -43,7 +43,7 @@ works:
   technique: 'Acrylique sur toile '
 - title: 'Espace clos '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
-    morin céramique 2 espace clos.JPG
+    morin céramique 2 espace clos.JPG
   technique: Céramique
   fields:
   - Céramique
@@ -52,12 +52,12 @@ works:
     height: 26
     width: 29
     depth: 6
-  description: ''
-  price: 2000
+  description: 'Prix sur demande '
+  price: ''
   contextual: false
 - title: 'Arbre à couleurs '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
-    morin-fleurs coupés-1978.jpg
+    morin-fleurs coupés-1978.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -83,7 +83,7 @@ works:
   contextual: true
 - title: Bois sec en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-bois
-    sec (scénographie avec chaise).JPG
+    sec (scénographie avec chaise).JPG
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
@@ -109,7 +109,7 @@ works:
   contextual: true
 - title: Point culminant en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-point
-    culminant (scénographie avec chaise).JPG
+    culminant (scénographie avec chaise).JPG
   technique: Acrylique sur toile
   fields: []
   styles: []
