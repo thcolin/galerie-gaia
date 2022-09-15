@@ -52,7 +52,7 @@ works:
   contextual: false
 - title: Jorj Morin Espace clos Céramique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
-    morin céramique 2 espace clos.JPG
+    morin céramique 2 espace clos.JPG
   technique: Céramique
   fields:
   - Céramique
@@ -62,9 +62,20 @@ works:
     height: 26
     width: 29
     depth: 6
-  description: "[Jorj Morin]()"
-  price: 2000
+  description: "[Jorj Morin]()\n\nPrix sur demande "
+  price: ''
   contextual: false
+- title: Jorj Morin Formes Ailées
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 65
+    depth: 0
+  description: ''
+  price: 3800
+  contextual: true
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
     sentimentale ES.jpeg
