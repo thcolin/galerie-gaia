@@ -42,8 +42,7 @@ works:
   title: 'Resac '
   technique: 'Acrylique sur toile '
 - title: 'Espace clos '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
-    morin céramique 2 espace clos.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1203.JPG
   technique: Céramique
   fields:
   - Céramique
