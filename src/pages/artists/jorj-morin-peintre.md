@@ -28,6 +28,18 @@ biography: |-
   The Polymorphie exhibition organized in 2020 by the Gaïa Gallery can be defined by many terms, but the term retrospective is not one of them. Thus, it is about the desire to make an audience unfamiliar with Morin's art discover how exciting it is to watch an artist confront different media that offer jubilant constraints. It doesn't matter what the dates of these past works are, because in the present, his clear lines and color palette intimately thrill us.
 exhibitions: []
 works:
+- title: 'Deux Personnages '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1206.JPG
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 39.5
+    width: 25.5
+    depth: 0
+  description: ''
+  price: 
+  contextual: true
 - fields: []
   styles: []
   dimensions:
