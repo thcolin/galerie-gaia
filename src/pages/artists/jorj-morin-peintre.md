@@ -41,30 +41,6 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
-- title: Formes Ailées
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: 'Consultation sur demande '
-  price: 3800
-  contextual: false
-  technique: Marbre blanc & travertin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
-- title: Porte de l'Aube
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1226.jpg
-  technique: Marbre rose & vert
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 20
-    depth: 0
-  description: "1973"
-  price: 2000
-  contextual: true
 - title: 'Espace clos '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1225.jpg
   technique: Céramique
@@ -78,17 +54,41 @@ works:
   description: 'Prix sur demande '
   price: ''
   contextual: false
+- title: Formes Ailées
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 65
+    depth: 0
+  description: 'Consultation sur demande '
+  price: 3800
+  contextual: false
+  technique: Marbre blanc & travertin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
 - title: 'Deux Personnages '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1206.JPG
   technique: ''
   fields: []
   styles: []
   dimensions:
-    height: 39.5
-    width: 25.5
+    height: 39
+    width: 25
     depth: 0
   description: "1966"
   price: 1800
+  contextual: true
+- title: Porte de l'Aube
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1226.jpg
+  technique: Marbre rose & vert
+  fields: []
+  styles: []
+  dimensions:
+    height: 60
+    width: 20
+    depth: 0
+  description: "1973"
+  price: 2000
   contextual: true
 - title: 'Arbre à couleurs '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
