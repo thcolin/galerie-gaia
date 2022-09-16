@@ -6,7 +6,7 @@ fields:
 - Oeuvre sur papier
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: "# Anne Gaiss\n\n> Anne Gaiss: Entre macrocosme et microcosme\n\nAnne Gaiss
   est née en 1976 à Nantes. Elle vit et travaille à Paris. Anne Gaiss crée des oeuvres
   montrant simultanément l'immensité de l'espace et la petitesse de notre monde, en
@@ -184,7 +184,7 @@ works:
   contextual: true
 - title: Albedo doré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
-    gaiss-albedo doré.jpg
+    gaiss-albedo doré.jpg
   technique: 'Découpe et incision sur papier noir oxydée '
   fields: []
   styles: []
