@@ -62,7 +62,7 @@ works:
   description: "2022"
   price: 3500
   contextual: true
-  sold: false
+  sold: true
 - title: 'Blue Majuscule #2'
   technique: Acrylique sur toile
   fields: []
