@@ -65,6 +65,22 @@ works:
   description: "[Jorj Morin]()\n\nPrix sur demande "
   price: ''
   contextual: false
+- title: Blue Pacifique II par Isthme
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-blue
+    pacifique2 ES.jpg
+  technique: 'Acrylique sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 100
+    width: 81
+    depth: ''
+  description: '# [Isthme](https://galeriegaia.fr/artists/isthme/ "isabelle thomas
+    isthme ")'
+  price: 1900
+  contextual: false
 - title: Jorj Morin Formes Ailées
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
   fields: []
@@ -108,23 +124,6 @@ works:
     "cleon peterson") 2021
   price: 900
   contextual: false
-- title: Alliance XIII de Victoire d'Harcourt Dessin Toma-L
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20220122_192231.jpg
-  technique: 'Bronze pâtiné 2/8  & Dessin sur papier velin '
-  fields:
-  - Sculpture
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 56
-    width: 21
-    depth: 19
-  description: |-
-    # [Victoire d'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/ "victoire d'harcourt")
-
-    # [Toma-L](https://galeriegaia.fr/artists/toma-l/ "Thomas Labarthe")
-  price: 6000
-  contextual: true
 - title: Céramiques de Jacqueline Pecantet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pecantet ES3.jpg
   technique: Céramique et ces petits traits noirs au ...le mystère de la fabrication
