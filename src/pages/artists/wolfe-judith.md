@@ -88,6 +88,21 @@ works:
   price: 2000
   sold: false
   contextual: true
+- title: Les pots d'Angélique 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
+    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    .jpg
+  technique: Technique mixte sur papier marouflé sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 122
+    depth: 
+  description: "2002"
+  price: 4500
+  sold: false
+  contextual: true
 - title: Fleur du désert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Fleurs
     dud desert-150X122.jpg
@@ -117,6 +132,20 @@ works:
   price: 3400
   sold: false
   contextual: true
+- title: Floraisons
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia -judith
+    wolfe-floraison.jpg
+  technique: 'Technique mixte sur papier marouflé sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: "2019"
+  price: 3000
+  sold: false
+  contextual: true
 - title: Les Sagesses 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
     sagesses3-60X60-2011.jpeg
@@ -129,21 +158,6 @@ works:
     depth: 
   description: "2011"
   price: 1500
-  sold: false
-  contextual: true
-- title: Les pots d'Angélique 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
-    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
-    .jpg
-  technique: Technique mixte sur papier marouflé sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 150
-    width: 122
-    depth: 
-  description: "2002"
-  price: 4500
   sold: false
   contextual: true
 - title: Les pots d'Angélique 6

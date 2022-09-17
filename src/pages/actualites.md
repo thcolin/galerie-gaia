@@ -1075,7 +1075,7 @@ articles:
   date: '2022-09-15T09:00:59Z'
   categories:
   - Exposition
-  title: Couleurs vitales
+  title: Judith Wolfe Couleurs vitales
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
     d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
