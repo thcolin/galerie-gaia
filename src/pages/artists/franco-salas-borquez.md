@@ -50,19 +50,6 @@ works:
   description: "2021"
   price: 3600
   contextual: true
-- title: Vent révolté en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -franco
-    salas borquez vent revolte ES.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: ''
-  price: 3600
-  contextual: false
 - title: La montée des flôts
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     salas borquez-la mer montee.jpg
@@ -109,8 +96,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 120
-    width: 120
+    height: 130
+    width: 130
     depth: 0
   description: Encadrement caisse américaine bois noir
   price: 4200
@@ -138,7 +125,7 @@ works:
     height: 120
     width: 200
     depth: 0
-  description: Réservée
+  description: Vendue
   price: ''
   contextual: true
 - title: Exposition La Marche des flots Médiathèque Pornichet
