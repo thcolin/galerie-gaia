@@ -233,20 +233,6 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Arbre jaune
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-arbre
-    jaune-30X30.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: "2018"
-  price: 300
-  sold: false
-  contextual: true
 - title: Les sagesses 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
     wolfe-sagesses 1.jpg

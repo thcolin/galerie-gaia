@@ -11,7 +11,7 @@ seo:
   description: ''
   image: ''
 template: artist
-title: Petit prix
+title: Petits prix
 location: ''
 birth: ''
 death: ''
@@ -46,21 +46,6 @@ works:
     width: 45.6
     depth: 
   description: Chambre ado ou espace de co-working ambiance musicale et graphique
-  price: 50
-  sold: false
-  contextual: true
-- title: 'Arcade Fire '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Arcade
-    Fire-63,5x48,2.jpg
-  technique: Sérigraphie 28/120
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 64
-    width: 48
-    depth: 
-  description: ''
   price: 50
   sold: false
   contextual: true
@@ -162,21 +147,6 @@ works:
     des autocollants antivols colés sur les vinyls et CD  \nEffet graphique génial
     et couleurs bien plus belle en vrai ! "
   price: 40
-  sold: false
-  contextual: true
-- title: Pain d'Epices IV Didier Hamey
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-HD-68,8x58,5.jpg
-  technique: Eau forte EA 4/4
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 69
-    width: 59
-    depth: 
-  description: Univers poétique et onirique avec ce papillon, le début d'un conte
-    pour une déco de chambre ou de couleur très sympa!
-  price: 180
   sold: false
   contextual: true
 - title: Doombrips
