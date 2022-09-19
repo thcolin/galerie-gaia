@@ -10,7 +10,7 @@ content:
     être l'occasion d'un **anniversaire d’entreprise, d'une  inauguration d'un showroom,
     du lancement d'un produit ou d'un service, d'un arbre de Noël ...**\n\n* **J'ai
     sélectionné le talent et l'expérience d'un collectif d'artistes nantais 100 Pressions**
-    issus de la scène de l'art urbain. \n* Ainsi je vous propose **mon expertise de
+    issus de la scène de l'art urbain.\n* Ainsi je vous propose **mon expertise de
     chef de projet** et de **formateur en développement personnel pour Manpower Group**
     ,  \n  pour vous livrer un **projet clé en main  associant les enjeux RH et RSE
     et**  couvrant vos ambitions de **communication interne et externe.**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n###
@@ -29,8 +29,9 @@ content:
     moment singulier car très photographié et **diffusé sur les réseaux sociaux.**
     \ \nJe vous propose de **vous démarquer** avec à la réalisation par un artiste
     d'un trophée qui sera à la hauteur de votre évènement.\n\n_Trophée de l'Open International
-    de Squash Nantes par Go Segawa_\n\n![Artiste Go Segawa](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@opensquash2018.jpg
-    \"Open International Squash\")"
+    de Squash Nantes par Go Segawa  \nCrédit photo Lauranne Rochais_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/open
+    squash nantes gilis 2022.jpg)![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/open
+    squash nantes crouin 2022.jpg)"
   contact:
     display: true
     placeholder: Renseignement évènementiel
