@@ -19,6 +19,23 @@ biography: |-
   Isabelle Healy was born in 1967 in Paris. After studying communication at ESCOM Lyon, she became a press agent for luxury houses, then an interior designer for the Sublim'Home agency. At the same time, from 1990 to 1997, she took drawing and painting classes in St Etienne in Madame Véran's workshop. Then, the artist changed teachers in order to discover new approaches, and turned to her new master, Serge Tziganov. Arriving in Lyon in 2005, she turned to clay modeling, wax, bronze technique, and sculpture. She spent eight years taking classes with a sculptor in Lyon. Along the way, Isabelle empties her bag of everything that makes her heart beat. Isabelle expresses in her sculptures the Joy of Living, energy, vitality, movement, the impulse of Life, fraternity and grace. "The artist must love Life and show us that it is beautiful" said Anatole France. Universal things such as love, childhood, friendship, family are all themes that are dear to her, formidable sources of inspiration. The pieces thus become elegant, graceful, inhabited by emotions. The contemporary style gives this necessary freedom. She practices a representation of human feelings and shared moments as time passes.
 exhibitions: []
 works:
+- title: Point d'équilibre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/WEB_1_point-dequilibre-©isabellehealy.jpg
+  technique: Bronze fonderie Barthélémy
+  fields: []
+  styles: []
+  dimensions:
+    height: 43
+    width: 0
+    depth: 0
+  description: "Boule diamètre 21cm - Hauteur personnage 43cm Total 64 cm hauteur
+    \ \nParce que l’Amour est indispensable pour garder l’équilibre. Pour le point
+    du « i » du verbe Aimer. Pour la fragilité de la Vie à deux. Sceller un baiser
+    pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour
+    la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être
+    salvateur. Pour le déséquilibre que nous subissons parfois..."
+  price: 5500
+  contextual: true
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
   technique: Bronze EA II/IV  III/IV
