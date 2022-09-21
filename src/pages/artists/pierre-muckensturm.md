@@ -181,19 +181,6 @@ works:
     J'ai choisi la typographie car je suis tombé sous le charme de la presse à platine Heidelberg datant de 1965 qui se trouve dans cet atelier et surtout car elle permet une impression en relief (le trait est encré + foulé dans le papier).
   price: 500
   contextual: true
-- title: 2023P3481 basculement de carrés avec entas pour interstices et décalage dans
-    le repère orthogonal
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckenturm-2023P3481.jpg
-  technique: 'Crayon, crayon de couturier, peinture acrylique sur papier BFK Rives '
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: ''
-  price: 1000
-  contextual: true
 - title: 185R091011
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-185R091021.jpg
   technique: Carborundum sur cuivre imprimée sur papier BFK Rives 250 gr margé
