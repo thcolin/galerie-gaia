@@ -61,8 +61,8 @@ works:
     height: 65
     width: 65
     depth: 0
-  description: 'Consultation sur demande '
-  price: 3800
+  description: Réservée
+  price: ''
   contextual: false
   technique: Marbre blanc & travertin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
