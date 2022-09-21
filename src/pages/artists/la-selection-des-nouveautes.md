@@ -23,19 +23,6 @@ works:
   price: ''
   contextual: false
 - title: Judith Wolfe exposition Septembre 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5161.JPG
-  technique: huile sur papier et céramique
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Judith Wolfe]()\n\n# "
-  price: 250
-  contextual: false
-- title: Judith Wolfe exposition Septembre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
     wolfe 2022.jpg
   technique: 'Technique mixte sur toile '
@@ -49,6 +36,36 @@ works:
   description: '[Judith Wolfe](https://galeriegaia.fr/artists/wolfe-judith/ "judith
     wolfe")'
   price: 4500
+  contextual: false
+- title: 'Le Point d''équilibre -Isabelle Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-09-21 à 18.36.21.png
+  technique: Bronze 4/8
+  dimensions:
+    height: 40
+    width: 40
+  description: |-
+    # [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
+
+    Parce que l’Amour est indispensable pour garder l’équilibre. Pour le point du « i » du verbe Aimer. Pour la fragilité de la Vie à deux. Sceller un baiser pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être salvateur. Pour le déséquilibre que nous subissons parfois...
+  price: 6500
+  contextual: false
+  fields:
+  - Sculpture
+  styles:
+  - Figuratif
+- title: Judith Wolfe exposition Septembre 2022
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5161.JPG
+  technique: huile sur papier et céramique
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# [Judith Wolfe]()\n\n# "
+  price: 250
   contextual: false
 - title: Jorj Morin Espace clos Céramique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
@@ -81,17 +98,6 @@ works:
     isthme ")'
   price: 1900
   contextual: false
-- title: Jorj Morin Formes Ailées
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: ''
-  price: 3800
-  contextual: true
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
     sentimentale ES.jpeg
@@ -140,23 +146,6 @@ works:
     [Jacqueline PECANTET](https://galeriegaia.fr/artists/jacqueline-pecantet/ "PECANTET CERAMIQUE ")
   price: 140
   contextual: false
-- title: 'Le Point d''équilibre -Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-09-21 à 18.36.21.png
-  technique: Bronze 4/8
-  dimensions:
-    height: 40
-    width: 40
-  description: |-
-    # [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
-
-    Parce que l’Amour est indispensable pour garder l’équilibre. Pour le point du « i » du verbe Aimer. Pour la fragilité de la Vie à deux. Sceller un baiser pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être salvateur. Pour le déséquilibre que nous subissons parfois...
-  price: 6500
-  contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Figuratif
 - title: XXI 40 116 de Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure-es.jpg
