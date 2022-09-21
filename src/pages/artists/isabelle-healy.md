@@ -115,7 +115,7 @@ works:
     width: 12
     depth: 5
   description: "Les 8 premières éditions ont été vendues.  \nReste disponible seulement
-    1 Epreuve d'Artiste  \nlivraison en galerie mi-décembre 2021(délai du fondeur)"
+    1 Epreuve d'Artiste"
   price: 2600
   contextual: true
 - title: La sphère des possibles
