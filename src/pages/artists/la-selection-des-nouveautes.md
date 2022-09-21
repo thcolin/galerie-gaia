@@ -48,7 +48,7 @@ works:
     # [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
 
     Parce que l’Amour est indispensable pour garder l’équilibre. Pour le point du « i » du verbe Aimer. Pour la fragilité de la Vie à deux. Sceller un baiser pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être salvateur. Pour le déséquilibre que nous subissons parfois...
-  price: 6500
+  price: 5900
   contextual: false
   fields:
   - Sculpture

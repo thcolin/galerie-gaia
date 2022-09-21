@@ -34,8 +34,8 @@ works:
     pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour
     la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être
     salvateur. Pour le déséquilibre que nous subissons parfois..."
-  price: 5500
-  contextual: true
+  price: 5900
+  contextual: false
 - title: Les vacances
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-les-vacances.jpg
   technique: Bronze EA II/IV  III/IV
