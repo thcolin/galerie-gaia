@@ -2,6 +2,8 @@
 fields:
 - Sculpture
 - Céramique
+- Dessin
+- Estampe
 styles:
 - Abstrait
 template: artist
@@ -46,6 +48,19 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: x
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5404.jpg
+  technique: Eau forte
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Louxor
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-louxor-128x134x88.jpg
   technique: Acier corten
