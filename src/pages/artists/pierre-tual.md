@@ -58,7 +58,7 @@ works:
     height: 50
     width: 65
     depth: 0
-  description: "1977   \nTrès bon état"
+  description: "1977 papier BFK Rives  \nTrès bon état"
   price: 
   sold: false
   contextual: true
@@ -72,7 +72,7 @@ works:
     height: 50
     width: 65
     depth: 0
-  description: "1977, papier Arche  \nTrès bon état"
+  description: "1977, papier BFK Rives  \nTrès bon état"
   price: 
   sold: false
   contextual: true
