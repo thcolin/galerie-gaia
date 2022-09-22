@@ -48,6 +48,20 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Marine I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5402.jpg
+  technique: Eau forte 50 exemplaires
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "1977   \nTrès bon état"
+  price: 
+  sold: false
+  contextual: true
 - title: Estacade II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5404.jpg
   technique: Eau forte 4/30
