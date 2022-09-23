@@ -48,6 +48,21 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Brou de noix 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
+    de noix 2.jpg
+  technique: Brou de noix sur papier BFK Rives
+  fields:
+  - Dessin
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: "1988"
+  price: 
+  sold: false
+  contextual: true
 - title: Brou de noix 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 1.jpg
