@@ -80,34 +80,6 @@ works:
     2022
   price: 510
   contextual: true
-- title: Echo II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0879.jpg
-  technique: Serigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: |-
-    Edition : 3/4
-
-    2022
-  price: 380
-  contextual: true
-  sold: true
-- title: 'Echo I & II Diptyque '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0885.jpg
-  technique: Serigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 60
-    depth: 0
-  description: "2022"
-  price: 790
-  contextual: true
 - title: Echo IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0887.jpg
   technique: Serigraphie
