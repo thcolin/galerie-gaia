@@ -55,19 +55,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Bâteau rouge
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-xavier
-    jallais-bateau rouge.jpg
-  technique: Acrylique sur carton
-  fields: []
-  styles: []
-  dimensions:
-    height: 32
-    width: 26
-    depth: 0
-  description: Oeuvre encadrée verre classique baguette chêne
-  price: 250
-  contextual: true
 - title: Le feu pour attribut
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier
     Jallais - Le feu pour attribut - 40 x 50.jpg
