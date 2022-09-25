@@ -48,18 +48,17 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
-- title: Monotype 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
-    1.jpg
-  technique: Monotype sur papier BFK Rives
-  fields:
-  - Dessin
+- title: Kerinos
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
+    sculpture verte.jpg
+  technique: 'Fusain sur papier '
+  fields: []
   styles: []
   dimensions:
-    height: 100
-    width: 70
+    height: 70
+    width: 100
     depth: 0
-  description: "1993"
+  description: 'dessin de la sculpture Kerinos '
   price: 
   sold: false
   contextual: true
@@ -78,6 +77,21 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Monotype 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
+    1.jpg
+  technique: Monotype sur papier BFK Rives
+  fields:
+  - Dessin
+  styles: []
+  dimensions:
+    height: 100
+    width: 70
+    depth: 0
+  description: "1993"
+  price: 
+  sold: false
+  contextual: true
 - title: Brou de noix 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 4.jpg
@@ -90,20 +104,6 @@ works:
     width: 100
     depth: 0
   description: "1988"
-  price: 
-  sold: false
-  contextual: true
-- title: Kerinos
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
-    sculpture verte.jpg
-  technique: 'Fusain sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 100
-    depth: 0
-  description: 'dessin de la sculpture Kerinos '
   price: 
   sold: false
   contextual: true
@@ -218,19 +218,6 @@ works:
     depth: 20
   description: ''
   price: 800
-  sold: false
-  contextual: false
-- title: Primitive N°2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitives-n-2.jpg
-  technique: 'Fer recuit au four '
-  fields: []
-  styles: []
-  dimensions:
-    height: 26
-    width: 38
-    depth: 22
-  description: Série architecture 1999
-  price: 2500
   sold: false
   contextual: false
 - title: Primitive N°3
