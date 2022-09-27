@@ -32,6 +32,22 @@ biography: |-
 
   The ‘diversion’, or particular framing of the containers in post-production, enhances the existing graphic design and positions the subject as the main element.The eye will be drawn first by the colours, the alignments and the graphic nature of the image. It is only afterwards that the eye will perceive the underlying element, namely, the container or boat hull..
 works:
+- title: Kaaien compo verte
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/128x140 VERT OK
+    .jpg
+  technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
+    de 3 couches de résine epoxy '
+  fields: []
+  styles: []
+  dimensions:
+    height: 140
+    width: 128
+    depth: 5
+  description: "Encadrement caisse américaine noire  \nTirage en 8 exemplaires + 2
+    EA (épreuve d’artiste)"
+  price: 4500
+  sold: false
+  contextual: true
 - title: Stained glass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dideir engels- galerie
     gaia- proue.jpg
