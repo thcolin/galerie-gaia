@@ -123,20 +123,6 @@ works:
     entas positionnés à -2,2°/0°/+2,2°\\]"
   price: 900
   contextual: true
-- title: XXI 23023 juxtaposition de 16 quasi carrés constitués de 64 angles à entas
-    0°
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    muckensturm XXI 23 023.jpg
-  technique: Crayon à encre de chine sur papier BFK Rives
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: ''
-  price: 1400
-  contextual: true
 - title: "[PLUS OU MOINS DEUX VIRGULE DEUX DEGRÉS DE FANTAISIE ORTHOGONALE]"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm-edition02.jpg
   technique: Coffret 12 planches
@@ -192,19 +178,6 @@ works:
     depth: 0
   description: Edition en 22 exemplaires
   price: 400
-  contextual: true
-- title: XXI 19 021 36 angles avec entas pour former croix ou carrés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    muckensturm XXI 19 021.jpg
-  technique: 'Crayon à encre de chine sur papier BFK Rives '
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: ''
-  price: 1000
   contextual: true
 - title: 14P2906
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
