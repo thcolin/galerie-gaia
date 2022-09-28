@@ -206,19 +206,6 @@ works:
   description: ''
   price: 1000
   contextual: true
-- title: 205J1771 un tas d'angle avec entas
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    muckensturm 205J1771.jpg
-  technique: Carborundum sur  zinc imprimés sur papier BFK Rives 250gr margé
-  fields: []
-  styles: []
-  dimensions:
-    height: 56
-    width: 76
-    depth: 0
-  description: ''
-  price: 700
-  contextual: true
 - title: 14P2906
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     14p2906.jpg
