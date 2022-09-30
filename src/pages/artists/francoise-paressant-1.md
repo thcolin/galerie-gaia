@@ -65,22 +65,6 @@ works:
   price: 3600
   sold: false
   contextual: true
-- title: Papier tissé IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32
-    cm 2021 papier teinté tissé  2021.jpg
-  technique: Papier teinté tissé superposé
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 43
-    width: 32
-    depth: 0
-  description: 2021 Œuvre présentée dans un cadre montage caisson sans vitre bois
-    blanc
-  price: 1150
-  sold: false
-  contextual: true
 - title: Papier tissé II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32cm
     x 28 cm papier teinté tissé  2021.jpg
