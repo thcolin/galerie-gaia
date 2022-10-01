@@ -1,7 +1,7 @@
 ---
 template: artist
 title: 'Salas Borquez Franco '
-location: Franco Chilien
+location: ''
 fields:
 - Peinture
 birth: "0"
@@ -103,7 +103,7 @@ works:
   price: 4200
   contextual: true
 - title: Déferlante
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Défèrlante  100  x
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Défèrlante  100  x
     100 cm huile sur toile 2021.JPG
   technique: 'Huile sur toile '
   fields: []
@@ -137,27 +137,6 @@ works:
     width: 0
     depth: 0
   description: 'Exposition du 6 au 18 Juillet 2021 Médiathèque Pornichet '
-  price: ''
-  contextual: true
-- title: Exposition Le Sillage St Malo 2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
-    salas borquez -expo st malo1.JPG
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: true
-- title: Exposition Le Sillage St Malo 2019
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-franco
-    salas borquez -expo st malo5.JPG
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[vidéo de l''exposition](https://www.youtube.com/watch?v=8JP9GPVnTao
-    "video expo salas borquez st malo")'
   price: ''
   contextual: true
 - title: Exposition Le Sillage St Malo 2019
