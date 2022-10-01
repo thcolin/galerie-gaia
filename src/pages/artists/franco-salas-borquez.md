@@ -37,6 +37,18 @@ exhibitions:
   start: 16 -11- 2019
   end: 29-12- 2019
 works:
+- title: Les ondes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P1150907.JPG
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: "2022"
+  price: 2900
+  contextual: true
 - title: 'La révolte du vent '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_4293.JPG
   technique: 'Huile sur toile '
