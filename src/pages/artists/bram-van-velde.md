@@ -75,7 +75,7 @@ works:
     width: 55
     depth: 
   description: "1980"
-  price: 1700
+  price: 1800
   sold: false
   contextual: true
 - title: 'MP 361 '
@@ -86,7 +86,7 @@ works:
     width: 54
     depth: 
   description: '1980 '
-  price: 1700
+  price: 1800
   sold: false
   contextual: true
 - title: 'MP 371 '
@@ -97,7 +97,7 @@ works:
     width: 60
     depth: 
   description: '1980 '
-  price: 1700
+  price: 1800
   sold: false
   contextual: true
 redirect_from:
