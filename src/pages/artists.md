@@ -2,6 +2,7 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/bathelier-marie.md
@@ -40,7 +41,6 @@ artists:
 - artist: src/pages/artists/morellet-francois.md
 - artist: src/pages/artists/estampes.md
 - artist: src/pages/artists/mathilde-guiho.md
-- artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/nadia-barbotin.md
 - artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/dimitri-bourriau.md

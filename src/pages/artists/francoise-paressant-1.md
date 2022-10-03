@@ -65,21 +65,6 @@ works:
   price: 3600
   sold: false
   contextual: true
-- title: Papier tissé II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-32cm
-    x 28 cm papier teinté tissé  2021.jpg
-  technique: Papier teinté tissé superposé
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 32
-    width: 28
-    depth: 0
-  description: vendu
-  price: 
-  sold: false
-  contextual: true
 - title: Papier tissé III
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-136
     cm 36 cm.jpapier teinté tissé 2022pg.jpg
@@ -202,20 +187,6 @@ works:
   price: 5000
   sold: false
   contextual: true
-- title: Oeuvres en Feutre en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_141148.jpg
-  technique: ''
-  fields:
-  - Textile
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: false
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-100cm
     x 50cm  1  collage papier japon teinté marouflé sur toile, 100 x 50 cm 2011.jpg
