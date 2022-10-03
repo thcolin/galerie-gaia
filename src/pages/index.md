@@ -6,7 +6,7 @@ carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 2.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5326.JPG
+    tualIsafjordur  Fonte de fer 1:1 .jpeg
 redirect_from:
 - "/plan/"
 seo:
