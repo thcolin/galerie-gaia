@@ -48,6 +48,21 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: 'Céramique jaune '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5682.jpg
+  technique: Céramique émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 17
+    width: 18
+    depth: 10
+  description: "2021"
+  price: 1600
+  sold: false
+  contextual: true
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
