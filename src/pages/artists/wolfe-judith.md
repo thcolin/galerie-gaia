@@ -59,11 +59,11 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   manages to bring out forms, which balance her work. Judith Wolfe's goal is to put
   the human being at the heart of her approach."
 works:
-- title: Les pots d'Angélique 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
-    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+- title: Les pots d'Angélique 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
+    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
-  technique: 'Technique mixte sur papier marouflé sur toile '
+  technique: Technique mixte sur papier marouflé sur toile
   fields: []
   styles: []
   dimensions:
@@ -88,11 +88,11 @@ works:
   price: 2000
   sold: false
   contextual: true
-- title: Les pots d'Angélique 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
-    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+- title: Les pots d'Angélique 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Les
+    pots d'Angélique 4 - 150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
-  technique: Technique mixte sur papier marouflé sur toile
+  technique: 'Technique mixte sur papier marouflé sur toile '
   fields: []
   styles: []
   dimensions:
@@ -100,20 +100,6 @@ works:
     width: 122
     depth: 
   description: "2002"
-  price: 4500
-  sold: false
-  contextual: true
-- title: Fleur du désert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Fleurs
-    dud desert-150X122.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 150
-    width: 120
-    depth: 0
-  description: "2015"
   price: 4500
   sold: false
   contextual: true
@@ -146,18 +132,18 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Les Sagesses 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
-    sagesses3-60X60-2011.jpeg
+- title: Fleur du désert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Fleurs
+    dud desert-150X122.jpg
   technique: 'Acrylique et encre sur papier marouflé sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2011"
-  price: 1500
+    height: 150
+    width: 120
+    depth: 0
+  description: "2015"
+  price: 4500
   sold: false
   contextual: true
 - title: Les pots d'Angélique 6
@@ -175,92 +161,6 @@ works:
   price: 4500
   sold: false
   contextual: true
-- title: Calais Douvre 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Calais
-    douvre2-65X80.jpg
-  technique: 'Dessin sur papier encadré sous verre '
-  fields:
-  - Dessin
-  styles: []
-  dimensions:
-    height: 65
-    width: 80
-    depth: 
-  description: "1987"
-  price: 2000
-  sold: false
-  contextual: true
-- title: Saint Nazaire 6
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Marine
-    St.Nazaire 6-120x120cm-3800€-acrylique et encre sur papier marouflé_toile-2009
-    .jpg
-  technique: 'technique mixte sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: "2009"
-  price: 3400
-  sold: false
-  contextual: true
-- title: Forêt magique 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
-    magique 1-100X100.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2018"
-  price: 3000
-  sold: false
-  contextual: true
-- title: Forêt magique 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Forêt
-    magique 2-100X100.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2018"
-  price: 3000
-  sold: false
-  contextual: true
-- title: Les sagesses 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
-    wolfe-sagesses 1.jpg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2011"
-  price: 1500
-  sold: false
-  contextual: true
-- title: Les sagesses 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-les
-    sagesses1-95X65-2011.jpeg
-  technique: 'Acrylique et encre sur papier marouflé sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: "2011"
-  price: 1500
-  sold: false
-  contextual: false
 - title: 'Couleurs vitales '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5162.JPG
   technique: Mixte papier et encre collé sur toile
