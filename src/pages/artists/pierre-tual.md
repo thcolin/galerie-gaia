@@ -48,6 +48,51 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Jour d'Apollon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualJour d' Apollon Bronze 1:1.jpeg
+  technique: Bronze à angle drout Fonderie Landowski Paris
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 18
+    width: 26
+    depth: 18
+  description: 1/1
+  price: 4600
+  sold: false
+  contextual: false
+- title: Isafjordur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIsafjordur  Fonte de fer 1:1 .jpeg
+  technique: Fonte de fer chromé
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 22
+    width: 35
+    depth: 20
+  description: Pièce unique 1/1
+  price: 4200
+  sold: false
+  contextual: false
+- title: 'Bronze Citadelle '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualCitadelle   Bronze  1:1 .jpeg
+  technique: Bronze à la cire perdue, patine rouille acier corten
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 25
+  description: Pièce unique 1/1
+  price: 3900
+  sold: false
+  contextual: false
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
