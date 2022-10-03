@@ -262,7 +262,7 @@ works:
   contextual: false
 - title: Céramique bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5685.jpg
+    tualIMG_5687.jpg
   technique: Céramique émaillée
   fields:
   - Céramique

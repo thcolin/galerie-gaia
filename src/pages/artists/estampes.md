@@ -125,19 +125,6 @@ works:
   contextual: false
   title: Cleon Peterson Flowers of evil the kiss (white)
   technique: Sérigraphie 121/125
-- title: 'Georg Baselitz - Sigmund '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georg-baselitz-sigmund-1515.jpg
-  technique: Eau forte (15/15)
-  dimensions:
-    height: 85
-    width: 63
-    depth: 
-  description: "# Georg Baselitz"
-  price: 3200
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: 'Hervé Di Rosa - Le promeneur '
   technique: Eau forte 48/60 1987
   fields: []
@@ -160,19 +147,6 @@ works:
     depth: 
   description: "# Hervé Di Rosa"
   price: 1600
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
-- title: 'Buraglio - "A Jean-Jacques Rousseau" '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buraglio-a-jean-jacques-rousseau-212.jpg
-  technique: Epreuve pigmentaire 2/12 2019
-  dimensions:
-    height: 66
-    width: 48
-    depth: 
-  description: "# Buraglio "
-  price: 700
   sold: false
   contextual: true
   styles:
@@ -201,19 +175,6 @@ works:
   price: 2200
   sold: false
   contextual: true
-- title: 'Pierre Alechinsky - "Writing Book" '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-writing-book-6599.jpg
-  technique: Lithographie 65/99 1982 encadrée baguette chêne verre musée anti-reflet
-  dimensions:
-    height: 48
-    width: 64
-    depth: 
-  description: "# Pierre Alechinsky"
-  price: 1500
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Chillida Exposition 1971 Barcelone
   technique: Affiche de collection en parfait état
   dimensions:
@@ -251,19 +212,6 @@ works:
   description: ''
   price: 480
   contextual: true
-- title: 'Eloïse Van Der Heyden - Mimosa #15'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-eloise-van-der-heyden-mimosa15-55-8x42.jpg
-  technique: monotype variation 2
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 54
-    width: 42
-    depth: 0
-  description: "# Eloïse Van Der Heyden"
-  price: 900
-  contextual: true
 - title: Jean Messagier - Les porteurs de presqu'île
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/messagier-les-porteurs-de-presquile.jpg
   technique: 'Pointe sèche et aquatinte Epreuve d''artiste 1966 '
@@ -273,41 +221,6 @@ works:
     depth: 
   description: "# Jean Messagier"
   price: 850
-  sold: false
-  contextual: true
-- title: Gérard Traquandi sans titre (rose)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-rose-2006-66x50.jpg
-  technique: Aquatinte 3/19 2006
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# Gérard Traquandi"
-  price: 700
-  contextual: true
-- title: Gérard Traquandi sans titre (cuivré)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-cuivre-66x50.jpg
-  technique: Aquatinte 4/19 2006
-  fields: []
-  styles: []
-  dimensions:
-    height: 66
-    width: 50
-    depth: 0
-  description: "# Gérard Traquandi"
-  price: 700
-  contextual: true
-- title: 'Gérard Traquandi - sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait3-66x50.jpg
-  technique: Eau forte 5/19 2006
-  dimensions:
-    height: 66
-    width: 50
-    depth: 
-  description: "# Gérard Traquandi"
-  price: 700
   sold: false
   contextual: true
 - title: 'Gérard Traquandi - Sans titre  '
@@ -332,19 +245,6 @@ works:
   price: 550
   sold: false
   contextual: true
-- title: 'Antonio Saura - Francisco de Goya (WCC 280) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/antonio-saura-francisco-de-goya-wcc-280-96125.jpg
-  technique: Zincographie en couleur et 4 timbres humides 96/125 1977
-  dimensions:
-    height: 59
-    width: 78
-    depth: 
-  description: "# Antonio Saura"
-  price: 1980
-  sold: false
-  contextual: true
-  styles:
-  - Figuratif
 - title: Georges Autard - "Perte de sens"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-autard-perte-de-sens.jpg
   technique: Sérigraphie 36/60 1995
