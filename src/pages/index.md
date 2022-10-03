@@ -3,10 +3,6 @@ template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Le Manège  Bronze
     TEP 1:1.jpeg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
-    de noix 2.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIsafjordur  Fonte de fer 1:1 .jpeg
 redirect_from:
 - "/plan/"
 seo:
