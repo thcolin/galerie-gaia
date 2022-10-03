@@ -226,19 +226,6 @@ works:
   contextual: false
   technique: 'fer recuit au four '
   description: Série architecture 1999
-- title: Céramique 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique2-13x24x20.jpg
-  technique: Terre émaillée
-  fields: []
-  styles: []
-  dimensions:
-    height: 13
-    width: 24
-    depth: 20
-  description: ''
-  price: 800
-  sold: false
-  contextual: false
 - title: Primitive N°3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg
   technique: Fer recuit au four
@@ -250,20 +237,6 @@ works:
     depth: 22
   description: Série architecture 1999
   price: 2500
-  sold: false
-  contextual: false
-- title: Céramique 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-ceramique3-27x25x17.jpg
-  technique: Terre émaillée
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 27
-    width: 25
-    depth: 17
-  description: ''
-  price: 1000
   sold: false
   contextual: false
 - title: 'Primitives 1 '
