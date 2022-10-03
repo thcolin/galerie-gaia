@@ -48,6 +48,52 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Céramique bleue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5685.jpg
+  technique: Céramique émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 21
+    width: 18
+    depth: 18
+  description: "2020"
+  price: 
+  sold: false
+  contextual: false
+- title: Céramique blanche et acier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5684.jpg
+  technique: Céramique blanche émaillée et acier korten
+  fields:
+  - Sculpture
+  - Céramique
+  styles: []
+  dimensions:
+    height: 25
+    width: 36
+    depth: 20
+  description: "2020"
+  price: 
+  sold: false
+  contextual: false
+- title: Céramique verte
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5683.jpg
+  technique: Céramique émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 19
+    width: 19
+    depth: 13
+  description: "2021"
+  price: 
+  sold: false
+  contextual: false
 - title: Kérinos
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-kerinos.JPG
