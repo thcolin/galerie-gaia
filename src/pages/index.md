@@ -5,8 +5,7 @@ carousel:
     TEP 1:1.jpeg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 2.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-Green in Sphere UV print 2021.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5340.JPG
 redirect_from:
 - "/plan/"
 seo:
