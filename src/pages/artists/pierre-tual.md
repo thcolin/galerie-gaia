@@ -48,6 +48,21 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Kérinos
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
+    tual-kerinos.JPG
+  technique: " sculpture ruban de fer peint époxy , cuit au four"
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 50
+    width: 100
+    depth: 70
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 - title: 'Céramique jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5682.jpg
