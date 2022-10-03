@@ -48,81 +48,6 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
-- title: 'Le cirque '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualLe cirque  Bronze TEP  1:1 .jpeg
-  technique: Bronze à la cire perdue Fonderie TEP
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 30
-    width: 24
-    depth: 14
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: Jour de Vénus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualJour de Vénus  Bronze 1:1 .jpeg
-  technique: Bronze à angle droit Fonderie Landowski Paris
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 18
-    width: 26
-    depth: 18
-  description: Pièce unique Cire perdue 1/1
-  price: 4600
-  sold: false
-  contextual: false
-- title: Jour d'Apollon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualJour d' Apollon Bronze 1:1.jpeg
-  technique: Bronze à angle drout Fonderie Landowski Paris
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 18
-    width: 26
-    depth: 18
-  description: Pièce unique cire perdue 1/1
-  price: 4600
-  sold: false
-  contextual: false
-- title: Isafjordur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIsafjordur  Fonte de fer 1:1 .jpeg
-  technique: Fonte de fer chromé
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 22
-    width: 35
-    depth: 20
-  description: Pièce unique 1/1
-  price: 4200
-  sold: false
-  contextual: false
-- title: 'Bronze Citadelle '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualCitadelle   Bronze  1:1 .jpeg
-  technique: Bronze à la cire perdue, patine rouille acier corten
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 25
-  description: Pièce unique 1/1
-  price: 3900
-  sold: false
-  contextual: false
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
@@ -171,6 +96,96 @@ works:
   price: 
   sold: false
   contextual: true
+- title: 'Le cirque '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualLe cirque  Bronze TEP  1:1 .jpeg
+  technique: Bronze à la cire perdue Fonderie TEP Athènes
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 30
+    width: 24
+    depth: 14
+  description: Pièce unique 1/1
+  price: 3200
+  sold: false
+  contextual: true
+- title: Jour de Vénus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualJour de Vénus  Bronze 1:1 .jpeg
+  technique: Bronze à angle droit Fonderie Landowski Paris
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 18
+    width: 26
+    depth: 18
+  description: Pièce unique Cire perdue 1/1
+  price: 4600
+  sold: false
+  contextual: false
+- title: Isafjordur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIsafjordur  Fonte de fer 1:1 .jpeg
+  technique: Fonte de fer chromé
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 22
+    width: 35
+    depth: 20
+  description: Pièce unique 1/1
+  price: 4200
+  sold: false
+  contextual: false
+- title: Jour d'Apollon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualJour d' Apollon Bronze 1:1.jpeg
+  technique: Bronze à angle droit Fonderie Landowski Paris
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 18
+    width: 26
+    depth: 18
+  description: Pièce unique cire perdue 1/1
+  price: 4600
+  sold: false
+  contextual: false
+- title: 'Citadelle '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualCitadelle   Bronze  1:1 .jpeg
+  technique: Bronze à la cire perdue, patine rouille acier corten Fonderie TEP Athènes
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 25
+  description: Pièce unique 1/1
+  price: 3900
+  sold: false
+  contextual: false
+- title: Sargasse
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualSargasse Bronze TEP  1:1 .jpeg
+  technique: Bronze à la cire perdue Fonderie TEP Athènes, pâtine vert bronze
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 10
+    width: 28
+    depth: 24
+  description: Pièce unique 1/1
+  price: 3700
+  sold: false
+  contextual: false
 - title: Céramique bleu-vert
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5695.jpg
