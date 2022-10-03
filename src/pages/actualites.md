@@ -1095,5 +1095,23 @@ articles:
     \ \nLes œuvres récentes de Judith Wolfe questionnent notre course à la modernité
     dans un monde des plus instable. Pourtant, ses œuvres, à travers son utilisation
     vibrante de la couleur, renforcent un sentiment d'espoir."
+- template: article
+  date: '2022-10-06T09:00:33Z'
+  categories:
+  - Exposition
+  title: 'Pierre Tual '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
+  content: |-
+    # [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "pierre tual")
+
+    Pierre Tual dialogue avec le vide, l’équilibre et la forme.
+
+    Sculpteur abstrait par excellence ses œuvres se composent d’axes, de plans et de courbes qu’il fait cohabiter. Il cherche, expérimente, questionne la matière et l’espace. Il recherche le point de tension, cet instant où le matériau cède et se laisse guider par sa main. Qu’il travaille l’acier Corten, la céramique ou le bronze, les plis organiques, les courbes délicates et les équilibres ténues sont inhérents au travail de Pierre Tual.
+
+    Les œuvres montrées à la Galerie Gaia s’articule autour de deux pratiques. Celle de la sculpture & celle peu connu du dessin et autres monotypes.
+
+    Pierre Tual
+
+    Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en 1982 pour l’exposition « In situ », puis à la Galerie de France en 1984. Ses sculptures s’exposent de New-York à Copenhague en passant par la Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
 
 ---
