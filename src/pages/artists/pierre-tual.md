@@ -96,6 +96,21 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Céramique bleu-vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5695.jpg
+  technique: Céramique émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 22
+    width: 22
+    depth: 22
+  description: ''
+  price: 
+  sold: false
+  contextual: false
 - title: Céramique blanche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5697.jpg
@@ -121,21 +136,6 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
-  price: 
-  sold: false
-  contextual: false
-- title: Céramique bleu-vert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5695.jpg
-  technique: Céramique émaillée
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 22
-    width: 22
-    depth: 22
   description: ''
   price: 
   sold: false
@@ -231,6 +231,20 @@ works:
   price: 1600
   sold: false
   contextual: true
+- title: Brou de noix 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
+    de noix 1.jpg
+  technique: Brou de noix sur papier BFK Rives
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: "1988"
+  price: 
+  sold: false
+  contextual: true
 - title: Brou de noix 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-Ibrou
     de noix 5.jpg
@@ -261,56 +275,12 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Brou de noix 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
-    de noix 4.jpg
-  technique: Brou de noix sur papier BFK Rives
-  fields:
-  - Dessin
-  styles: []
-  dimensions:
-    height: 70
-    width: 100
-    depth: 0
-  description: "1988"
-  price: 
-  sold: false
-  contextual: true
-- title: Brou de noix 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
-    de noix 3.jpg
-  technique: Brou de noix sur papier BFK Rives
-  fields:
-  - Dessin
-  styles: []
-  dimensions:
-    height: 70
-    width: 100
-    depth: 0
-  description: "1988"
-  price: 
-  sold: false
-  contextual: true
 - title: Brou de noix 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 2.jpg
   technique: Brou de noix sur papier BFK Rives
   fields:
   - Dessin
-  styles: []
-  dimensions:
-    height: 70
-    width: 100
-    depth: 0
-  description: "1988"
-  price: 
-  sold: false
-  contextual: true
-- title: Brou de noix 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
-    de noix 1.jpg
-  technique: Brou de noix sur papier BFK Rives
-  fields: []
   styles: []
   dimensions:
     height: 70
@@ -334,6 +304,21 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Brou de noix 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
+    de noix 3.jpg
+  technique: Brou de noix sur papier BFK Rives
+  fields:
+  - Dessin
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: "1988"
+  price: 
+  sold: false
+  contextual: true
 - title: Estacade II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5404.jpg
   technique: Eau forte 4/30
@@ -345,6 +330,21 @@ works:
     width: 65
     depth: 0
   description: "1977, papier BFK Rives  \nTrès bon état"
+  price: 
+  sold: false
+  contextual: true
+- title: Brou de noix 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
+    de noix 4.jpg
+  technique: Brou de noix sur papier BFK Rives
+  fields:
+  - Dessin
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: "1988"
   price: 
   sold: false
   contextual: true
@@ -363,19 +363,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Primitive N°1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 36
-    depth: 24
-  price: 2500
-  sold: false
-  contextual: false
-  technique: 'fer recuit au four '
-  description: Série architecture 1999
 - title: Primitive N°3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg
   technique: Fer recuit au four
@@ -389,21 +376,19 @@ works:
   price: 2500
   sold: false
   contextual: false
-- title: 'Primitives 1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitives1.jpg
-  technique: Fer recuit au four
-  fields:
-  - Sculpture
-  styles:
-  - Abstrait
+- title: Primitive N°1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg
+  fields: []
+  styles: []
   dimensions:
     height: 20
     width: 36
     depth: 24
-  description: ''
   price: 2500
   sold: false
   contextual: false
+  technique: 'fer recuit au four '
+  description: Série architecture 1999
 - title: Atelier Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-atelier.jpg
   technique: ''
