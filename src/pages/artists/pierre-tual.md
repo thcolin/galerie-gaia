@@ -48,6 +48,51 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Céramique blanche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5697.jpg
+  technique: Céramique émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 11
+    width: 16
+    depth: 11
+  description: ''
+  price: 
+  sold: false
+  contextual: false
+- title: Céramique bleu-vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5695.jpg
+  technique: Céramique émaillée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 22
+    width: 22
+    depth: 22
+  description: ''
+  price: 
+  sold: false
+  contextual: false
+- title: Céramique et tôle pliée dorée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5691.jpg
+  technique: Installation céramique et tôle pliée dorée
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 20
+    width: 20
+    depth: 15
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Tôle pliée dorée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5689.jpg
