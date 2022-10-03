@@ -48,6 +48,54 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Exposition Pierre Tual Octobre 2022
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
+  technique: Sculptures - Dessins - Céramiques
+  fields: []
+  styles:
+  - Abstrait
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    Pierre Tual dialogue avec le vide, l’équilibre et la forme.
+
+    Sculpteur abstrait par excellence ses œuvres se composent d’axes, de plans et de courbes qu’il fait cohabiter. Il cherche, expérimente, questionne la matière et l’espace. Il recherche le point de tension, cet instant où le matériau cède et se laisse guider par sa main. Qu’il travaille l’acier Corten, la céramique ou le bronze, les plis organiques, les courbes délicates et les équilibres ténues sont inhérents au travail de Pierre Tual.
+
+    Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en 1982 pour l’exposition « In situ », puis à la Galerie de France en 1984. Ses sculptures s’exposent de New-York à Copenhague en passant par la Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
+  price: 
+  sold: false
+  contextual: false
+- title: Kérinos
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
+    tual-kerinos.JPG
+  technique: " sculpture ruban de fer peint époxy , cuit au four"
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 50
+    width: 100
+    depth: 70
+  description: ''
+  price: 
+  sold: false
+  contextual: false
+- title: Kerinos étude
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
+    sculpture verte.jpg
+  technique: 'Fusain sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 0
+  description: 'dessin de la sculpture Kerinos '
+  price: 
+  sold: false
+  contextual: true
 - title: Céramique blanche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5697.jpg
@@ -59,6 +107,20 @@ works:
     height: 11
     width: 16
     depth: 11
+  description: ''
+  price: 
+  sold: false
+  contextual: false
+- title: S
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC05646.JPG
+  technique: Acier plié
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
   description: ''
   price: 
   sold: false
@@ -154,21 +216,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Kérinos
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
-    tual-kerinos.JPG
-  technique: " sculpture ruban de fer peint époxy , cuit au four"
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 50
-    width: 100
-    depth: 70
-  description: ''
-  price: 
-  sold: false
-  contextual: false
 - title: 'Céramique jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5682.jpg
@@ -182,39 +229,6 @@ works:
     depth: 10
   description: "2021"
   price: 1600
-  sold: false
-  contextual: true
-- title: Exposition Pierre Tual Octobre 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
-  technique: Sculptures - Dessins - Céramiques
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: |-
-    Pierre Tual dialogue avec le vide, l’équilibre et la forme.
-
-    Sculpteur abstrait par excellence ses œuvres se composent d’axes, de plans et de courbes qu’il fait cohabiter. Il cherche, expérimente, questionne la matière et l’espace. Il recherche le point de tension, cet instant où le matériau cède et se laisse guider par sa main. Qu’il travaille l’acier Corten, la céramique ou le bronze, les plis organiques, les courbes délicates et les équilibres ténues sont inhérents au travail de Pierre Tual.
-
-    Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en 1982 pour l’exposition « In situ », puis à la Galerie de France en 1984. Ses sculptures s’exposent de New-York à Copenhague en passant par la Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
-  price: 
-  sold: false
-  contextual: false
-- title: Kerinos
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
-    sculpture verte.jpg
-  technique: 'Fusain sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 100
-    depth: 0
-  description: 'dessin de la sculpture Kerinos '
-  price: 
   sold: false
   contextual: true
 - title: Brou de noix 5
@@ -345,7 +359,7 @@ works:
     height: 128
     width: 134
     depth: 88
-  description: 'Prix sur demande '
+  description: Visible sur rdv et prix sur demande
   price: 
   sold: false
   contextual: false
