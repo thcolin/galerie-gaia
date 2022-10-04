@@ -69,8 +69,8 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 110
+    width: 75
     depth: 0
   description: ''
   price: 1600
