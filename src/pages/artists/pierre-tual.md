@@ -67,21 +67,6 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Monotype 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
-    1.jpg
-  technique: Monotype sur papier BFK Rives 1993
-  fields:
-  - Estampe
-  styles: []
-  dimensions:
-    height: 110
-    width: 75
-    depth: 0
-  description: ''
-  price: 1200
-  sold: false
-  contextual: true
 - title: Kérinos
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-kerinos.JPG
@@ -348,6 +333,21 @@ works:
   price: 
   sold: false
   contextual: true
+- title: Monotype 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
+    1.jpg
+  technique: Monotype sur papier BFK Rives 1993
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1200
+  sold: false
+  contextual: true
 - title: Tôle pliée dorée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5689.jpg
@@ -363,10 +363,10 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Céramique bleue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5687.jpg
-  technique: Céramique émaillée
+- title: 'Faïence bleue porphyre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
+    tual-faience bleue acier.jpg
+  technique: Céramique émaillée+ fer & acier
   fields:
   - Céramique
   styles: []
@@ -374,8 +374,8 @@ works:
     height: 21
     width: 18
     depth: 18
-  description: "2020"
-  price: 
+  description: ''
+  price: 1800
   sold: false
   contextual: false
 - title: Céramique blanche et acier
