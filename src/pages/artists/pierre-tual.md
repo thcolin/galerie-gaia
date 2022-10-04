@@ -332,10 +332,10 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Céramique et tôle pliée dorée
+- title: Brique émaillée cassée et laiton roulé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5691.jpg
-  technique: Installation céramique et tôle pliée dorée
+  technique: Installation céramique et laiton dorée
   fields:
   - Céramique
   styles: []
@@ -344,9 +344,9 @@ works:
     width: 20
     depth: 15
   description: ''
-  price: 
+  price: 800
   sold: false
-  contextual: true
+  contextual: false
 - title: Monotype 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
     1.jpg
@@ -362,10 +362,10 @@ works:
   price: 1200
   sold: false
   contextual: true
-- title: Tôle pliée dorée
+- title: Laiton plié roulé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5689.jpg
-  technique: 'Tôle pliée '
+  technique: 'Laiton doré roulé '
   fields:
   - Sculpture
   styles: []
@@ -374,7 +374,7 @@ works:
     width: 13
     depth: 11
   description: ''
-  price: 
+  price: 200
   sold: false
   contextual: false
 - title: 'Faïence bleue porphyre '
