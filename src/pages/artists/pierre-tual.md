@@ -273,6 +273,21 @@ works:
   price: 3900
   sold: false
   contextual: false
+- title: 'Verre et terre cuite '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualIMG_5702.jpg
+  technique: Isolateur fondu
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 8
+    width: 20
+    depth: 12
+  description: ''
+  price: 1800
+  sold: false
+  contextual: false
 - title: Sargasse
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualSargasse Bronze TEP  1:1 .jpeg
