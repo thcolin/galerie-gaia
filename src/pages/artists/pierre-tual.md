@@ -48,6 +48,20 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Dessin Le Jour de Mars
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
+    de mars.jpg
+  technique: Dessin original sur papier BFK Rives 2014
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
