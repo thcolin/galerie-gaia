@@ -48,6 +48,36 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: Monotype 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
+    2.jpg
+  technique: Estampe sur papier BFK Rives 1993
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1200
+  sold: false
+  contextual: true
+- title: Monotype 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
+    1.jpg
+  technique: Monotype sur papier BFK Rives 1993
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1200
+  sold: false
+  contextual: true
 - title: 'Dessin Le jour du soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
     du soleil.jpg
