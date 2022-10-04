@@ -75,9 +75,9 @@ works:
   - Sculpture
   styles: []
   dimensions:
-    height: 50
-    width: 100
-    depth: 70
+    height: 64
+    width: 108
+    depth: 60
   description: ''
   price: 
   sold: false
@@ -111,6 +111,20 @@ works:
   price: 3000
   sold: false
   contextual: true
+- title: 'Petite oblique contre le mur '
+  image: ''
+  technique: 'Acier corten '
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 176
+    width: 80
+    depth: 60
+  description: "1986"
+  price: 
+  sold: false
+  contextual: false
 - title: 'Le cirque '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualLe cirque  Bronze TEP  1:1 .jpeg
@@ -304,17 +318,17 @@ works:
   price: 600
   sold: false
   contextual: false
-- title: S
+- title: Voyelle O
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC05646.JPG
   technique: Acier plié
   fields:
   - Sculpture
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
+    height: 126
+    width: 160
+    depth: 68
+  description: "1989"
   price: 
   sold: false
   contextual: false
