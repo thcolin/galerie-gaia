@@ -48,79 +48,6 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
-- title: Monotype 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
-    2.jpg
-  technique: Estampe sur papier BFK Rives 1993
-  fields:
-  - Estampe
-  styles: []
-  dimensions:
-    height: 110
-    width: 75
-    depth: 0
-  description: ''
-  price: 1200
-  sold: false
-  contextual: true
-- title: Monotype 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
-    1.jpg
-  technique: Monotype sur papier BFK Rives 1993
-  fields:
-  - Estampe
-  styles: []
-  dimensions:
-    height: 110
-    width: 75
-    depth: 0
-  description: ''
-  price: 1200
-  sold: false
-  contextual: true
-- title: 'Dessin Le jour du soleil '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
-    du soleil.jpg
-  technique: Dessin originale sur papier BFK Rives 2014
-  fields:
-  - Estampe
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-- title: 'Dessin Le jour de Vénus '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
-    de venus.jpg
-  technique: Dessin originale sur papier BFK Rives 2014
-  fields: []
-  styles: []
-  dimensions:
-    height: 110
-    width: 75
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-- title: Dessin Le Jour de Mars
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
-    de mars.jpg
-  technique: Dessin original sur papier BFK Rives 2014
-  fields: []
-  styles: []
-  dimensions:
-    height: 110
-    width: 75
-    depth: 0
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
@@ -140,6 +67,35 @@ works:
   price: 
   sold: false
   contextual: false
+- title: Monotype 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
+    1.jpg
+  technique: Monotype sur papier BFK Rives 1993
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1200
+  sold: false
+  contextual: true
+- title: Dessin Le Jour de Mars
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
+    de mars.jpg
+  technique: Dessin original sur papier BFK Rives 2014
+  fields: []
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
 - title: Kérinos
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-kerinos.JPG
@@ -199,6 +155,21 @@ works:
   price: 3200
   sold: false
   contextual: true
+- title: Monotype 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
+    2.jpg
+  technique: Estampe sur papier BFK Rives 1993
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1200
+  sold: false
+  contextual: true
 - title: Jour de Vénus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualJour de Vénus  Bronze 1:1 .jpeg
@@ -214,6 +185,20 @@ works:
   price: 4600
   sold: false
   contextual: false
+- title: 'Dessin Le jour de Vénus '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
+    de venus.jpg
+  technique: Dessin originale sur papier BFK Rives 2014
+  fields: []
+  styles: []
+  dimensions:
+    height: 110
+    width: 75
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
 - title: Isafjordur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIsafjordur  Fonte de fer 1:1 .jpeg
@@ -244,6 +229,21 @@ works:
   price: 4600
   sold: false
   contextual: false
+- title: 'Dessin Le jour du soleil '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
+    du soleil.jpg
+  technique: Dessin originale sur papier BFK Rives 2014
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 1600
+  sold: false
+  contextual: true
 - title: 'Citadelle '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualCitadelle   Bronze  1:1 .jpeg
