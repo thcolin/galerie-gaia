@@ -274,7 +274,7 @@ works:
   price: 3700
   sold: false
   contextual: false
-- title: Céramique bleu-vert
+- title: Algue marine
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5695.jpg
   technique: Céramique émaillée
@@ -286,10 +286,10 @@ works:
     width: 22
     depth: 22
   description: ''
-  price: 
+  price: 1400
   sold: false
   contextual: false
-- title: Céramique blanche
+- title: Blanche entrecroisée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5697.jpg
   technique: Céramique émaillée
@@ -301,7 +301,7 @@ works:
     width: 16
     depth: 11
   description: ''
-  price: 
+  price: 600
   sold: false
   contextual: false
 - title: S
