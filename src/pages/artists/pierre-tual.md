@@ -274,6 +274,20 @@ works:
   price: 3900
   sold: false
   contextual: false
+- title: Voyelle "O"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/image7.jpeg
+  technique: Acier plié
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 126
+    width: 160
+    depth: 68
+  description: "1989"
+  price: 14000
+  sold: false
+  contextual: false
 - title: 'Verre et terre cuite '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5702.jpg
@@ -332,20 +346,6 @@ works:
     depth: 11
   description: ''
   price: 600
-  sold: false
-  contextual: false
-- title: Voyelle "O"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/image7.jpeg
-  technique: Acier plié
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 126
-    width: 160
-    depth: 68
-  description: "1989"
-  price: 14000
   sold: false
   contextual: false
 - title: Brique émaillée cassée et laiton roulé
