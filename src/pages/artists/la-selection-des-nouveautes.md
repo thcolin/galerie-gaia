@@ -23,8 +23,7 @@ works:
   price: ''
   contextual: false
 - title: William Byl et Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
-    byl cheval noir ES.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
   technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant
   fields:
   - Céramique
@@ -69,8 +68,7 @@ works:
   price: 1400
   contextual: false
 - title: William Byl & Jorj Morin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
-    byl buffle ES.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5664.jpg
   technique: Céramique pour Byl et Eau forte pour Morin
   fields:
   - Céramique
