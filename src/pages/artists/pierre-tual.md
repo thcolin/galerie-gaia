@@ -70,7 +70,7 @@ works:
 - title: Kérinos
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-kerinos.JPG
-  technique: " sculpture ruban de fer peint époxy , cuit au four"
+  technique: " Sculpture ruban de fer peint époxy , cuit au four"
   fields:
   - Sculpture
   styles: []
@@ -78,8 +78,8 @@ works:
     height: 64
     width: 108
     depth: 60
-  description: ''
-  price: 
+  description: "2004"
+  price: 11000
   sold: false
   contextual: false
 - title: Kerinos étude
@@ -112,8 +112,9 @@ works:
   sold: false
   contextual: true
 - title: 'Petite oblique contre le mur '
-  image: ''
-  technique: 'Acier corten '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -pierre
+    tual- petite oblique.jpeg
+  technique: Acier corten
   fields:
   - Sculpture
   styles: []
@@ -122,7 +123,7 @@ works:
     width: 80
     depth: 60
   description: "1986"
-  price: 
+  price: 12000
   sold: false
   contextual: false
 - title: 'Le cirque '
@@ -333,8 +334,8 @@ works:
   price: 600
   sold: false
   contextual: false
-- title: Voyelle O
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC05646.JPG
+- title: Voyelle "O"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/image7.jpeg
   technique: Acier plié
   fields:
   - Sculpture
@@ -344,7 +345,7 @@ works:
     width: 160
     depth: 68
   description: "1989"
-  price: 
+  price: 14000
   sold: false
   contextual: false
 - title: Brique émaillée cassée et laiton roulé
