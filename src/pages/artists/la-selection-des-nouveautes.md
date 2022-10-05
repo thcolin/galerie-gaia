@@ -22,21 +22,6 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Judith Wolfe exposition Septembre 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-judith
-    wolfe 2022.jpg
-  technique: 'Technique mixte sur toile '
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 150
-    width: 122
-    depth: 0
-  description: '[Judith Wolfe](https://galeriegaia.fr/artists/wolfe-judith/ "judith
-    wolfe")'
-  price: 4500
-  contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-09-21 à 18.36.21.png
@@ -54,19 +39,6 @@ works:
   - Sculpture
   styles:
   - Figuratif
-- title: Judith Wolfe exposition Septembre 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5161.JPG
-  technique: huile sur papier et céramique
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# [Judith Wolfe]()\n\n# "
-  price: 250
-  contextual: false
 - title: Jorj Morin Espace clos Céramique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
     morin céramique 2 espace clos.JPG
@@ -129,22 +101,6 @@ works:
   description: Dernières éditions de [**Cleon Peterson**](https://galeriegaia.fr/artists/estampes/
     "cleon peterson") 2021
   price: 900
-  contextual: false
-- title: Céramiques de Jacqueline Pecantet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pecantet ES3.jpg
-  technique: Céramique et ces petits traits noirs au ...le mystère de la fabrication
-    !
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: |-
-    Choix de solo duo et trio de 140€ à 250€
-
-    [Jacqueline PECANTET](https://galeriegaia.fr/artists/jacqueline-pecantet/ "PECANTET CERAMIQUE ")
-  price: 140
   contextual: false
 - title: XXI 40 116 de Pierre Muckensturm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
