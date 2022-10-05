@@ -11,6 +11,17 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: Nouveautés
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: William Byl et Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl cheval noir ES.JPG
@@ -21,7 +32,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: William Byl
+  description: '[William Byl](https://galeriegaia.fr/artists/byl-william/ "wiliam
+    byl") nouvel artiste de la galerie depuis Octobre 2022'
   price: 2400
   contextual: false
 - title: William Byl & Jorj Morin
@@ -34,19 +46,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: William Byl nouvel artiste de la galerie depuis Octobre 2022
+  description: "[William Byl]() nouvel artiste de la galerie depuis Octobre 2022"
   price: 2400
-  contextual: false
-- title: Nouveautés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
