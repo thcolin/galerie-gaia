@@ -289,6 +289,20 @@ works:
   price: 14000
   sold: false
   contextual: false
+- title: Estacade I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5405.jpg
+  technique: Eau forte 2/30
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "1977 papier BFK Rives  \nTrès bon état"
+  price: 800
+  sold: false
+  contextual: true
 - title: 'Verre et terre cuite '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5702.jpg
@@ -525,7 +539,7 @@ works:
     width: 65
     depth: 0
   description: "1977 papier BFK Rives  \nTrès bon état"
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: Brou de noix 3
@@ -554,7 +568,7 @@ works:
     width: 65
     depth: 0
   description: "1977, papier BFK Rives  \nTrès bon état"
-  price: 
+  price: 800
   sold: false
   contextual: true
 - title: Brou de noix 4
