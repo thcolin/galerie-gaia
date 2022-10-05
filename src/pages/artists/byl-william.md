@@ -26,6 +26,62 @@ biography: "William Byl est passionné par le dessin depuis l'enfance, et se fo
   années.\n\nSes pièces, en grès chamotté, sont recouvertes de jus d’oxydes de
   manière à laisser apparaître l’aspect brut du matériau."
 works:
+- title: Buffle roux
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
+    byl-bylbuffleroux51x50.JPG
+  technique: 'Grès roux '
+  fields: []
+  styles: []
+  dimensions:
+    height: 51
+    width: 50
+    depth: 12
+  description: "2022"
+  price: 2400
+  sold: false
+  contextual: false
+- title: 'Taureau noir '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
+    byl-byltaureaunoir32x35x32.JPG
+  technique: 'Grès noir recouvert de jus d''oxyde noir '
+  fields: []
+  styles: []
+  dimensions:
+    height: 32
+    width: 35
+    depth: 10
+  description: "2022"
+  price: 1600
+  sold: false
+  contextual: false
+- title: 'Buffle rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
+    byl-bylbufflerouge46x40.JPG
+  technique: Grès rouge recouvert de jus d'oxyde rouge
+  fields: []
+  styles: []
+  dimensions:
+    height: 46
+    width: 40
+    depth: 10
+  description: "2022"
+  price: 1600
+  sold: false
+  contextual: false
+- title: Tatou
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
+    byl-byltatounoir26.5x19.JPG
+  technique: 'Grès noir recouvert de jus d''oxyde noir '
+  fields: []
+  styles: []
+  dimensions:
+    height: 26.5
+    width: 19
+    depth: 19
+  description: ''
+  price: 1200
+  sold: false
+  contextual: false
 - title: Cheval roux
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylchevalroux40x42.JPG
@@ -52,34 +108,6 @@ works:
     depth: 15
   description: "2022"
   price: 2400
-  sold: false
-  contextual: false
-- title: Buffle roux
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
-    byl-bylbuffleroux51x50.JPG
-  technique: 'Grès roux '
-  fields: []
-  styles: []
-  dimensions:
-    height: 51
-    width: 50
-    depth: 12
-  description: "2022"
-  price: 2400
-  sold: false
-  contextual: false
-- title: 'Buffle rouge '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
-    byl-bylbufflerouge46x40.JPG
-  technique: Grès rouge recouvert de jus d'oxyde rouge
-  fields: []
-  styles: []
-  dimensions:
-    height: 46
-    width: 40
-    depth: 10
-  description: "2022"
-  price: 1600
   sold: false
   contextual: false
 - title: Portrait de William Byl
