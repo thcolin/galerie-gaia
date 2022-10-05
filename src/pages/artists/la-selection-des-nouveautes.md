@@ -38,6 +38,21 @@ works:
     byl") nouvel artiste de la galerie depuis Octobre 2022'
   price: 2400
   contextual: false
+- title: Dessin Kerinos par Pierre Tual
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
+    tual kerinos dessin ES.jpg
+  technique: Dessin sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ \"pierre
+    tual\")  \nEncadrement chêne verre musée"
+  price: 2200
+  contextual: false
 - title: Algue marine par Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
     tual algue ES.jpg
