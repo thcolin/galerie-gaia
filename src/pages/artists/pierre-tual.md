@@ -113,7 +113,7 @@ works:
   contextual: true
 - title: 'Petite oblique contre le mur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -pierre
-    tual- petite oblique.jpeg
+    tual -petite obliqueES .jpeg
   technique: Acier corten
   fields:
   - Sculpture
@@ -201,8 +201,8 @@ works:
   sold: false
   contextual: false
 - title: Dessin Le Jour de Mars
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
-    de mars.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
+    jour de mars.jpg
   technique: Dessin original sur papier BFK Rives 2014
   fields: []
   styles: []
