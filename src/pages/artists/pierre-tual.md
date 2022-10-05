@@ -48,33 +48,6 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
-- title: Eau forte sans titre 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5419.jpg
-  technique: Eau forte 14/30
-  fields:
-  - Estampe
-  styles: []
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: "1977 papier BFK Rives  \nTrès bon état"
-  price: 800
-  sold: false
-  contextual: true
-- title: 'Eau forte sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5406.jpg
-  technique: Eau forte 3/30
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: "1977 papier BFK Rives  \nTrès bon état"
-  price: 800
-  sold: false
-  contextual: true
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
@@ -316,20 +289,6 @@ works:
   price: 14000
   sold: false
   contextual: false
-- title: Estacade I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5405.jpg
-  technique: Eau forte 2/30
-  fields:
-  - Estampe
-  styles: []
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: "1977 papier BFK Rives  \nTrès bon état"
-  price: 800
-  sold: false
-  contextual: true
 - title: 'Verre et terre cuite '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5702.jpg
@@ -595,6 +554,47 @@ works:
     width: 65
     depth: 0
   description: "1977, papier BFK Rives  \nTrès bon état"
+  price: 800
+  sold: false
+  contextual: true
+- title: Eau forte sans titre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5419.jpg
+  technique: Eau forte 14/30
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "1977 papier BFK Rives  \nTrès bon état"
+  price: 800
+  sold: false
+  contextual: true
+- title: 'Eau forte sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5406.jpg
+  technique: Eau forte 3/30
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "1977 papier BFK Rives  \nTrès bon état"
+  price: 800
+  sold: false
+  contextual: true
+- title: Estacade I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5405.jpg
+  technique: Eau forte 2/30
+  fields:
+  - Estampe
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "1977 papier BFK Rives  \nTrès bon état"
   price: 800
   sold: false
   contextual: true
