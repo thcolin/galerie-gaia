@@ -11,6 +11,32 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: William Byl et Versants
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
+    byl cheval noir ES.JPG
+  technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: William Byl
+  price: 2400
+  contextual: false
+- title: William Byl & Jorj Morin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
+    byl buffle ES.JPG
+  technique: Céramique pour Byl et Eau forte pour Morin
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: William Byl nouvel artiste de la galerie depuis Octobre 2022
+  price: 2400
+  contextual: false
 - title: Nouveautés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
