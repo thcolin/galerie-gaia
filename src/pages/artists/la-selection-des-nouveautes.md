@@ -26,7 +26,9 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl cheval noir ES.JPG
   technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant
-  fields: []
+  fields:
+  - Céramique
+  - Estampe
   styles: []
   dimensions:
     height: 0
@@ -36,11 +38,28 @@ works:
     byl") nouvel artiste de la galerie depuis Octobre 2022'
   price: 2400
   contextual: false
+- title: Algue marine par Pierre Tual
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
+    tual algue ES.jpg
+  technique: 'Céramique '
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "pierre
+    tual") exposition du 6 au 22 Octobre 2022'
+  price: 1400
+  contextual: false
 - title: William Byl & Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl buffle ES.JPG
   technique: Céramique pour Byl et Eau forte pour Morin
-  fields: []
+  fields:
+  - Céramique
+  - " Estampe"
   styles: []
   dimensions:
     height: 0
@@ -66,6 +85,21 @@ works:
   - Sculpture
   styles:
   - Figuratif
+- title: Installation murale par Pierre Tual
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
+    tual mural.jpg
+  technique: Acier corten
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Pierre Tual ](https://galeriegaia.fr/artists/pierre-tual/ "peirre
+    tual")exposition du 6 au 22 octobre'
+  price: 1400
+  contextual: true
 - title: Jorj Morin Espace clos Céramique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
     morin céramique 2 espace clos.JPG
