@@ -83,17 +83,19 @@ works:
   sold: false
   contextual: false
 - title: Kerinos étude
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
-    sculpture verte.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tual-kerinos dessin C.jpg
   technique: 'Fusain sur papier '
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 70
     width: 100
     depth: 0
-  description: "dessin de la sculpture Kerinos  \nencadrement chêne verre musée anti-reflet"
-  price: 1095
+  description: "dessin de la sculpture Kerinos  \nprix avec encadrement chêne verre
+    musée anti-reflet"
+  price: 2095
   sold: false
   contextual: true
 - title: Le manège
@@ -421,8 +423,8 @@ works:
     height: 25
     width: 36
     depth: 20
-  description: "2020"
-  price: 
+  description: ''
+  price: 1600
   sold: false
   contextual: false
 - title: Céramique verte
