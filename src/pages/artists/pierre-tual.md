@@ -333,7 +333,7 @@ works:
     width: 22
     depth: 22
   description: ''
-  price: 1400
+  price: 1200
   sold: false
   contextual: false
 - title: Blanche entrecroisée
@@ -424,7 +424,7 @@ works:
     width: 36
     depth: 20
   description: ''
-  price: 1600
+  price: 1400
   sold: false
   contextual: false
 - title: Céramique verte
@@ -439,7 +439,7 @@ works:
     width: 19
     depth: 13
   description: "2021"
-  price: 
+  price: 1200
   sold: false
   contextual: false
 - title: 'Céramique jaune '
@@ -453,8 +453,8 @@ works:
     height: 17
     width: 18
     depth: 10
-  description: "2021"
-  price: 1600
+  description: ''
+  price: 1200
   sold: false
   contextual: true
 - title: Brou de noix 1
