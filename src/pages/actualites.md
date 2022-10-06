@@ -1100,7 +1100,7 @@ articles:
   categories:
   - Exposition
   title: 'Pierre Tual '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/220923-BAT_GAIA-P-TUAL_Flyer1.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   content: |-
     # [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "pierre tual")
 

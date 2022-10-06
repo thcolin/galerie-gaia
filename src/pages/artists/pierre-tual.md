@@ -92,8 +92,8 @@ works:
     height: 70
     width: 100
     depth: 0
-  description: 'dessin de la sculpture Kerinos '
-  price: 
+  description: "dessin de la sculpture Kerinos  \nencadrement chêne verre musée anti-reflet"
+  price: 1095
   sold: false
   contextual: true
 - title: Le manège
