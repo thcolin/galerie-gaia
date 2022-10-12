@@ -65,65 +65,6 @@ biography: "# Sébastien Bouchard\n\n\"Musicien, amateur de culture Surf, Skate 
   me to organize a private visit at 02-40-48-14-91 (max 6 people)."
 exhibitions: []
 works:
-- title: Portrait de Jeune Homme
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100.jpg
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 81
-    width: 100
-    depth: 0
-  description: Pendant le 1er confinement les musées étant fermés Sébastien Bouchard
-    a exploré les réserves du musée des Arts de Nantes et c'est ainsi qu'il a trouvé
-    des portraits comme celui de [Jacopo Coppi](https://museedartsdenantes.nantesmetropole.fr/resultats-navigart.html?jcrRedirectTo=%2Fcms%2Frender%2Flive%2Ffr%2Fsites%2Fmuseedarts%2Fresultats-navigart.html&keywords=coppi
-    "musée des arts de nantes ") 1570 Huile sur toile 36X26cm
-  price: 1900
-  contextual: true
-  technique: 'Acrylique sur toile '
-- title: Détail de "Portrait de Jeune Homme"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100-DM
-    bouche.jpeg
-  technique: Peinture sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "Le travail de **Sébastien Bouchard** interroge beaucoup sur écran.
-    \ \nLa réponse à la question est-ce une photo? Non  \nLa réponse à la question
-    est-ce un collage? Non\n\nC'est donc bien une peinture et vous découvrez de près,
-    le trait, le pointillisme et le coup de pinceau ! A vos zooms !"
-  price: 1900
-  contextual: false
-- title: 'Détail "Portrait de Jeune Homme" '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-sebastien-bouchard-portrait-de-jeune-homme-81x100-DM
-    yeux.jpeg
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "Le travail de Sébastien Bouchard interroge beaucoup sur écran.  \nLa
-    réponse à la question est-ce une photo? Non   \nLa réponse à la question est-ce
-    un collage? Non\n\nC'est donc bien une peinture et vous découvrez de près, le
-    trait, le pointillisme et le coup de pinceau ! A vos zooms ! "
-  price: 1900
-  contextual: false
-  technique: Acrylique sur toile
-- title: Icare V
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1439.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 120
-    width: 150
-    depth: 
-  description: 
-  price: 2700
-  sold: false
-  contextual: true
 - title: Icare IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1438.jpg
   technique: 'Acrylique sur toile '
@@ -133,6 +74,17 @@ works:
     depth: 
   description: 
   price: 2400
+  sold: false
+  contextual: true
+- title: Icare V
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1439.jpg
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 120
+    width: 150
+    depth: 
+  description: 
+  price: 2700
   sold: false
   contextual: true
 styles:
