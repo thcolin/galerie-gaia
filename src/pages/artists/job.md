@@ -35,19 +35,6 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Panam
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Pan Am- 90x90.jpeg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Encadrement bois
-  price: 1700
-  sold: false
-  contextual: true
 - title: Sur les quais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
     les quais.jpg
@@ -62,17 +49,17 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Saute mouton
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-sautemouton-1mx1m.jpg
+- title: Panam
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Pan Am- 90x90.jpeg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
-    height: 100
-    width: 100
+    height: 90
+    width: 90
     depth: 0
-  description: Réservée pour une vente aux enchères en septembre 2022
-  price: 
+  description: 'Vendu '
+  price: 1700
   sold: false
   contextual: true
 - title: Portrait de Philippe Bigot

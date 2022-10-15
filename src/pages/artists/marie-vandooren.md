@@ -260,17 +260,6 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: Végétal bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vegetal-bleu.jpg
-  technique: Sérigraphie en 15 exemplaires
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: "\n"
-  price: 160
-  sold: false
-  contextual: true
 - title: Portrait de Marie Vandooren
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandooren-portrait.jpg
   dimensions:
