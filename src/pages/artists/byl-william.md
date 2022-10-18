@@ -37,7 +37,7 @@ works:
     width: 50
     depth: 12
   description: "2022"
-  price: 2400
+  price: 2600
   sold: false
   contextual: false
 - title: 'Taureau noir '
@@ -107,7 +107,7 @@ works:
     width: 53
     depth: 15
   description: "2022"
-  price: 2400
+  price: 2600
   sold: false
   contextual: false
 - title: Portrait de William Byl
