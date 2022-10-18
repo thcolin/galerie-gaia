@@ -3,8 +3,9 @@ template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/pierre-tual.md
-- artist: src/pages/artists/wolfe-judith.md
+- artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/byl-william.md
+- artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/jouet-michel.md
@@ -46,7 +47,6 @@ artists:
 - artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/dimitri-bourriau.md
 - artist: src/pages/artists/sebastien-bouchard.md
-- artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/marianne-abergel.md
 - artist: src/pages/artists/anne-gaiss.md
 - artist: src/pages/artists/muriel-kerba.md
