@@ -58,7 +58,7 @@ works:
     width: 112
     depth: 0
   description: ''
-  price: 3600
+  price: 3400
   contextual: true
   technique: 'Photographie épreuve pigmentaire '
 - title: Esch sur Alzette
