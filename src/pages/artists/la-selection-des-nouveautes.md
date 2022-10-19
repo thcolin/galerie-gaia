@@ -52,6 +52,22 @@ works:
     tual\")  \nEncadrement chêne verre musée"
   price: 2200
   contextual: false
+- title: Brigneau 3 par Job
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau3-au
+    mur.jpg
+  technique: 'Acrylqiue sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 134
+    width: 100
+    depth: 0
+  description: |-
+    [Job](https://galeriegaia.fr/artists/job/ "philippe bigot")
+
+    Encadrement en bois
+  price: 2400
+  contextual: false
 - title: Algue marine par Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
     tual algue ES.jpg
