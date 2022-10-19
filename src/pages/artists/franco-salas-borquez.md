@@ -49,18 +49,6 @@ works:
   description: "2022"
   price: 3200
   contextual: true
-- title: Les ondes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P1150907.JPG
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: "2022"
-  price: 2900
-  contextual: true
 - title: 'La révolte du vent '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_4293.JPG
   technique: 'Huile sur toile '
@@ -72,19 +60,6 @@ works:
     depth: 0
   description: "2022"
   price: 3200
-  contextual: true
-- title: Vent révolté
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francos
-    salas borquez-vent revoltee 100X100.jpg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2021"
-  price: 3600
   contextual: true
 - title: La montée des flôts
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
@@ -98,6 +73,18 @@ works:
     depth: 0
   description: 2021 Œuvre encadrée avec caisse américaine noire
   price: 3800
+  contextual: true
+- title: Les ondes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P1150907.JPG
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: "2022"
+  price: 2900
   contextual: true
 - title: L'indomptable en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
@@ -137,19 +124,6 @@ works:
     depth: 0
   description: Encadrement caisse américaine bois noir
   price: 4200
-  contextual: true
-- title: Déferlante
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Défèrlante  100  x
-    100 cm huile sur toile 2021.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: Vendue
-  price: ''
   contextual: true
 - title: Nocturne
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Nocturne
