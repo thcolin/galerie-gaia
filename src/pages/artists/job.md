@@ -29,9 +29,9 @@ works:
   styles: []
   dimensions:
     height: 130
-    width: 82
+    width: 91
     depth: 0
-  description: ''
+  description: encadrement en bois naturel
   price: 2400
   sold: false
   contextual: true
@@ -46,6 +46,20 @@ works:
     width: 130
     depth: 0
   description: Cadre en bois 4cm hauteur
+  price: 2400
+  sold: false
+  contextual: true
+- title: 'Brigneau 3 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau
+    3-130 x 94 cms.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 134
+    width: 100
+    depth: 0
+  description: Encadrement bois naturel
   price: 2400
   sold: false
   contextual: true
