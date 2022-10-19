@@ -74,18 +74,6 @@ works:
   description: 2021 Œuvre encadrée avec caisse américaine noire
   price: 3800
   contextual: true
-- title: Les ondes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/P1150907.JPG
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: "2022"
-  price: 2900
-  contextual: true
 - title: L'indomptable en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-franco
     salas borquez-l'indomptable.jpg
