@@ -11,54 +11,56 @@ birth: "0"
 death: "0"
 expose: true
 biography: "# Pierre Muckensturm\n\n> L'artiste crée et le spectateur imagine la suite
-  de l'oeuvre...\n\nL’artiste est actuellement représenté par la galerie La Ligne,
-  à Zürich, prônant l’art minimaliste.\n\nDepuis 1995 Pierre Muckensturm mène un travail
-  plastique avec constance, distant de tout effet de mode, dans lequel apparaît la
-  volonté de réfléchir le tableau comme une clé de compréhension du rapport que nous
-  pouvons avoir à notre propre temporalité. Le processus fondateur du travail de Pierre
-  Muckensturm trouve son origine dans une visite de la chapelle de Ronchamp, œuvre
-  maîtresse de l’architecte Charles Edouard Jeanneret.\n\nLà, il comprend qu’une justesse
-  peut être puisée dans un subtil dialogue entre massivité et élévation. Dès lors,
-  l'artiste décide d’adopter un langage formel simple : le tableau se construira à
-  partir de deux pôles : un tracé massif s’allégeant par sa juxtaposition à des vides.
-  Cette simplicité formelle sera associée à une matérialité très dépouillée, qui inscrira
-  l’oeuvre dans un temps indicible. L'artiste a franchi un pas important dans ses
-  recherches par une pratique assidue de la gravure notamment au sein des ateliers
-  Rémy Bucciali. Elle participe à une évolution de sa peinture : son oeuvre gravée
-  s’applique, par des déploiements de lignes contenues qui peuvent se faire formes,
-  à fixer sa perception temporelle ressentie lors d’une résidence sur le continent
-  africain.\n\nPierre Muckensturm veille depuis toujours à ce que ses oeuvres tant
-  gravées que peintes soient, comme ont pu l’être en leur temps les peintures japonaises,
-  des «objets tranquilles», des formes silencieuses. Il appuie ses recherches sur
-  la certitude que, comme a pu l’affirmer Julius Bissier : « le calme est plus grand
-  que la tempête»\n\nL'artiste est également présents aux galeries :\n\n* Galerie
-  IDEELART/ London Galerie Lazarew . Paris + Bruxelles\n* Galerie Michelle Champetier
-  . Cannes \n* Galerie KAZoART . www . Paris  \n* Galerie Hus . Paris \n* Galerie
-  Leizorovici . Paris \n* Galerie Rémy Bucciali . Colmar \n* Galerie L’espace du dedans
-  . Lille\n\n> The artist creates and the spectator imagines the continuation of the
-  work...\n\nThe artist is currently represented by the gallery La Ligne, in Zürich,
-  advocating minimalist art.\n\nSince 1995, Pierre Muckensturm has been consistently
-  working on his art, far from any fashionable effect, in which the will to reflect
-  on the painting as a key to understanding the relationship we can have with our
-  own temporality appears. The founding process of Pierre Muckensturm's work originated
-  in a visit to the chapel in Ronchamp, the masterpiece of the architect Charles Edouard
-  Jeanneret. \n\nThere, he understood that accuracy could be found in a subtle dialogue
-  between massiveness and elevation. From then on, the artist decided to adopt a simple
-  formal language: the painting would be built from two poles: a massive line that
-  would be lightened by its juxtaposition with voids. This formal simplicity will
-  be associated with a very stripped materiality, which will inscribe the work in
-  an unspeakable time. The artist has taken an important step in his research by an
-  assiduous practice of engraving, notably within the Rémy Bucciali workshops. It
-  participates in an evolution of his painting: his engraved work applies, by deployments
-  of contained lines which can become forms, to fix his temporal perception felt during
-  a residence on the African continent. \n\nPierre Muckensturm has always made sure
-  that his engraved and painted works are, as Japanese paintings were in their time,
-  \"quiet objects\", silent forms. He bases his research on the certainty that, as
-  Julius Bissier once said: \"the calm is greater than the storm\".\n\nThe artist
-  is also present at the galleries:\n\n* IDEELART Gallery/ London Lazarew Gallery
-  . Paris + Brussels\n* Michelle Champetier Gallery . Cannes \n* Gallery KAZoART .
-  www . Paris  \n* Hus Gallery . Paris \n* Leizorovici Gallery . Paris \n* Gallery
-  Rémy Bucciali . Colmar \n* Gallery L'espace du dedans . Lille"
+  de l'oeuvre..\n\nPierre MUCKENSTURM vit et travaille en France.\n\nIl étudie la
+  géographie, puis se spécialise dans l’aménagement du territoire à l’université Louis
+  Pasteur de Strasbourg.\n\nLa carrière artistique de Pierre Muckensturm débute en
+  1997 par un travail résolument figuratif. Parmi ses premiers collectionneurs se
+  trouvent nombre d’architectes qui l’initieront à leur art, au design et lui feront
+  découvrir outre Le Modulor, une oeuvre majeure de Le Corbusier : Notre Dame du Haut.
+  C’est suite à sa visite en 2004 qu’il s’oriente subitement vers l’abstraction en
+  s’appliquant à retrouver dans ses productions la pertinences et la justesse de la
+  réponse plastique perçue alors : le juste rapport entre vide et plein, entre légèreté
+  et pesanteur.\n\nEn 2010, lors d’une résidence artistique au musée Boribana de Dakar,
+  l’Afrique lui impose un nouveau rapport à la temporalité d’une infinie souplesse
+  et cette découverte l’amènera à poursuivre une longue recherche visant à appréhender
+  et mieux comprendre les rapports de coexistence possibles entre la ligne courbe
+  et la rigueur d’une construction géométrique.\n\nPlus récemment, suite à sa découverte
+  de l’œuvre de l’artiste Martin Barré, il s’autorise une radicale simplification
+  de son travail en accordant une importante place aux espaces résiduels, aux vides,
+  aux blancs, au non-peint ou non réalisé.\n\nSes récents travaux s’appuient sur une
+  recherche conceptuelle et construite. Ils font appel à des principes préétablis
+  dans le respect des règles propres à celles de l’art concret et cherchent à rendre
+  sensible la fantaisie de la ligne courbe lorsqu’elle est introduite dans les constructions
+  rigoureusement géométriques et orthogonales.\n\nIl se plaît ainsi à affirmer, non
+  sans ironie : « j’ai un goût prononcé pour la fantaisie avec une tolérance de plus
+  ou moins deux virgule deux degrés ».\n\nL'artiste est également présents aux galeries
+  :\n\n* Galerie La Ligne, à Zürich, spécialiste de l’art minimaliste.\n* Galerie
+  IDEELART . London \n* Galerie Lazarew . Paris + Bruxelles\n* Galerie Michelle Champetier
+  . Cannes\n* Galerie Hus . Paris\n* Galerie Leizorovici . Paris\n* Galerie Rémy Bucciali
+  . Colmar\n* Galerie L’espace du dedans . Lille\n\n> The artist creates and the spectator
+  imagines the continuation of the work...\n\nThe artist is currently represented
+  by the gallery La Ligne, in Zürich, advocating minimalist art.\n\nSince 1995, Pierre
+  Muckensturm has been consistently working on his art, far from any fashionable effect,
+  in which the will to reflect on the painting as a key to understanding the relationship
+  we can have with our own temporality appears. The founding process of Pierre Muckensturm's
+  work originated in a visit to the chapel in Ronchamp, the masterpiece of the architect
+  Charles Edouard Jeanneret.\n\nThere, he understood that accuracy could be found
+  in a subtle dialogue between massiveness and elevation. From then on, the artist
+  decided to adopt a simple formal language: the painting would be built from two
+  poles: a massive line that would be lightened by its juxtaposition with voids. This
+  formal simplicity will be associated with a very stripped materiality, which will
+  inscribe the work in an unspeakable time. The artist has taken an important step
+  in his research by an assiduous practice of engraving, notably within the Rémy Bucciali
+  workshops. It participates in an evolution of his painting: his engraved work applies,
+  by deployments of contained lines which can become forms, to fix his temporal perception
+  felt during a residence on the African continent.\n\nPierre Muckensturm has always
+  made sure that his engraved and painted works are, as Japanese paintings were in
+  their time, \"quiet objects\", silent forms. He bases his research on the certainty
+  that, as Julius Bissier once said: \"the calm is greater than the storm\".\n\nThe
+  artist is also present at the galleries:\n\n* IDEELART Gallery/ London Lazarew Gallery
+  . Paris + Brussels\n* Michelle Champetier Gallery . Cannes\n* Gallery KAZoART .
+  www . Paris\n* Hus Gallery . Paris\n* Leizorovici Gallery . Paris\n* Gallery Rémy
+  Bucciali . Colmar\n* Gallery L'espace du dedans . Lille"
 exhibitions: []
 works:
 - title: XXI 40 116
