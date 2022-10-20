@@ -1113,5 +1113,29 @@ articles:
     Pierre Tual
 
     Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en 1982 pour l’exposition « In situ », puis à la Galerie de France en 1984. Ses sculptures s’exposent de New-York à Copenhague en passant par la Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
+- template: article
+  date: '2022-10-27T11:54:14Z'
+  categories:
+  - Exposition
+  title: Georges Rousse et la QPN
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_40x60.jpg
+  content: |-
+    # Georges Rousse est un plasticien de l’espace fantasmé.
+
+    La rencontre d’un lieu à l’abandon est le point de départ de son acte créatif. La ruine, ce terrain propice à la poésie est questionné par la lumière puis par une forme simple. Pour arriver à créer les dimensions et les échelles qui révèlent l’espace, l’artiste esquisse des dessins préparatoires où ses formes courent le long des murs, des sols et des plafonds.
+
+    « Je visite un bâtiment. À un certain endroit, je m’arrête parce que je perçois dans l’espace des choses qui m’intéressent. Je vois la lumière. Je cherche souvent l’incidence de la lumière sur l’architecture. J’observe la complexité des volumes dans le lieu »
+
+    Son travail de croquis lui permet d’appréhender le lieu, support spatial de l’œuvre, qu’il ne s’interdit pas de modifier ou d’altérer. Mais il permet aussi de comprendre son cliché photographique en devenir. Enfin arrive la photographie, qui fige le lieu dans l’œuvre, cet espace qui lui continue son évolution, sa dégradation, ses poésies.
+
+    « Quand je réalise une œuvre j’en fait une photo, ça me plairait de m’arrêter avant et de rester dans la transformation du lieu. Ce serait un acte artistique gratuit. »
+
+    **QPN Ici et ailleurs …**
+
+    Le concept de territoire est d’abord habité par la notion d’appartenance, à un espace délimité par des frontières, à une culture ou encore à un patrimoine. Puis, très vite, il fait échos aux changements, aux transitions, aux envies de voyages. L’on quitte un territoire, par nécessité, par fantasme d’un ailleurs ou par gout d‘aventures. Le territoire est donc multiple, fluctuant, vaporeux et souvent politique.
+
+    A la Galerie Gaia les œuvres de George Rousse créée des paysages fantasmés, des territoires inconnus que seule sa photographie nous permet d’entrevoir.
+
+    Texte : Inès Ben Brahim
 
 ---
