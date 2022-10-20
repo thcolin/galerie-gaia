@@ -3,10 +3,9 @@ template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Le Manège  Bronze
     TEP 1:1.jpeg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5418.JPG
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5697.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
-    de noix 3.jpg
+    tualIMG_5689.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5683.jpg
 redirect_from:
