@@ -1077,7 +1077,7 @@ articles:
   - Exposition
   title: Judith Wolfe Couleurs vitales
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-judith-wolfe-Lespots
-    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
+    d'Angélique 10-150x122 cm-5000€-technique mixte sur papier marouflé_toile-2002
     .jpg
   content: "**Judith Wolfe - Couleurs Vitales**  \n**Exposition 15 au 30 Septembre
     2022  \nVernissage 15/09 18H**   \nJudith Wolfe a étudié avec le peintre John
@@ -1113,11 +1113,13 @@ articles:
     Pierre Tual
 
     Diplômé de l’école des Beaux-Arts de Nantes et de l’École supérieur des Beaux-Arts de Paris. Il expose dès 1966 au Salon de la Jeune Sculpture à Paris, au Musée des Beaux Art de Nantes en 1977, au Centre Pompidou en 1982 pour l’exposition « In situ », puis à la Galerie de France en 1984. Ses sculptures s’exposent de New-York à Copenhague en passant par la Friche de l’Escalette à Marseille. Il rejoint la Galerie Gaia en 2019.
+
+    Texte : Ines Ben Brahim
 - template: article
   date: '2022-10-27T11:54:14Z'
   categories:
   - Exposition
-  title: Georges Rousse et la QPN
+  title: Georges Rousse & la QPN
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_40x60.jpg
   content: |-
     # Georges Rousse est un plasticien de l’espace fantasmé.
@@ -1126,7 +1128,7 @@ articles:
 
     « Je visite un bâtiment. À un certain endroit, je m’arrête parce que je perçois dans l’espace des choses qui m’intéressent. Je vois la lumière. Je cherche souvent l’incidence de la lumière sur l’architecture. J’observe la complexité des volumes dans le lieu »
 
-    Son travail de croquis lui permet d’appréhender le lieu, support spatial de l’œuvre, qu’il ne s’interdit pas de modifier ou d’altérer. Mais il permet aussi de comprendre son cliché photographique en devenir. Enfin arrive la photographie, qui fige le lieu dans l’œuvre, cet espace qui lui continue son évolution, sa dégradation, ses poésies.
+    Son travail de croquis lui permet d’appréhender le lieu, support spatial de l’œuvre, qu’il ne s’interdit pas de modifier ou d’altérer. Mais, il lui permet aussi de percevoir son cliché photographique en devenir. Enfin, arrive la photographie, qui fige le lieu dans l’œuvre, cet espace qui lui continue son évolution, sa dégradation, ses poésies.
 
     « Quand je réalise une œuvre j’en fait une photo, ça me plairait de m’arrêter avant et de rester dans la transformation du lieu. Ce serait un acte artistique gratuit. »
 
@@ -1136,6 +1138,6 @@ articles:
 
     A la Galerie Gaia les œuvres de George Rousse créée des paysages fantasmés, des territoires inconnus que seule sa photographie nous permet d’entrevoir.
 
-    Texte : Inès Ben Brahim
+    Texte : Ines Ben Brahim
 
 ---
