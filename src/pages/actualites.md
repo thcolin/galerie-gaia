@@ -1120,7 +1120,7 @@ articles:
   categories:
   - Exposition
   title: Georges Rousse & la QPN
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_40x60.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
   content: |-
     # Georges Rousse est un plasticien de l’espace fantasmé.
 
