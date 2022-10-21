@@ -109,8 +109,8 @@ works:
     height: 14
     width: 18
     depth: 20
-  description: Pièce unique 1/1
-  price: 3000
+  description: "Vendu   \nPièce unique 1/1"
+  price: 
   sold: false
   contextual: true
 - title: 'Petite oblique contre le mur '
