@@ -98,8 +98,7 @@ works:
   price: 2400
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-09-21 à 18.36.21.png
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg
   technique: Bronze 4/8
   dimensions:
     height: 40
