@@ -19,19 +19,6 @@ biography: |-
   Elisabeth Wadecki was born in 1963 in Zurich, she has a Polish father and a French mother. The artist trained at the National School of Beaux-Arts in Nancy. She has been living and working near Nantes for nearly 30 years. Her technique is based on a meticulous preparation of surfaces, on which she paints landscapes in successive layers, bringing transparency, volume and depth. Moreover, the artist uses a chromatic range constantly in agreement with the seasons, which makes her work even more naturalist. Her pieces keep the trace of a quivering through time, as if she had only captured the essence of reality. The composition of her paintings seems to unfold in a mirror, and recalls the specificity of Chinese landscapes. The artist is indeed largely influenced by Asia: Elisabeth Wadecki reads poems, haikus. She proposes paintings provoking the opening of perceptions and soliciting the senses: to the sight is added a union between the body, the subject, and the world which surrounds it.
 exhibitions: []
 works:
-- title: 'Palude 1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
-    re(s)source Paludes N°I-2017- 120x100cm-acrylique, pastels,fusain-2000 euros.JPG
-  technique: 'Technique mixte sur toile acrylique, pastel, fusain '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 100
-    depth: 0
-  description: "2017"
-  price: 2000
-  contextual: true
 - title: 'Retour des bois '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Retour
     des bois- 2021- acrylique, bâtons d'huile sur papier marouflé sur toile- 130x97cm-
@@ -52,7 +39,7 @@ works:
   dimensions:
     height: 150
     width: 150
-  description: "Visible sur demande en atelier  \n2019"
+  description: "Visible sur demande en réserve dans l'atelier de l'artiste  \n2019"
   price: 3500
   contextual: true
 - title: En mon jardin N°12
@@ -67,7 +54,7 @@ works:
     width: 100
     depth: 0
   description: "2019"
-  price: 1800
+  price: 2500
   contextual: true
 - title: 'Sans titre N°7 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki sans titre
@@ -103,6 +90,19 @@ works:
   description: "2016  \noeuvre encadrée baguette bois blanc"
   price: 800
   sold: false
+  contextual: true
+- title: 'Palude 1 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
+    re(s)source Paludes N°I-2017- 120x100cm-acrylique, pastels,fusain-2000 euros.JPG
+  technique: 'Technique mixte sur toile acrylique, pastel, fusain '
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 100
+    depth: 0
+  description: "2017"
+  price: 2000
   contextual: true
 - title: Le Rai profond N°4 ouest
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-wadecki-rai
