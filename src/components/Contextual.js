@@ -25,7 +25,7 @@ const Contextual = ({ work, ...props }) => {
     },
     small: {
       height: [1, 70],
-      width: [1, 100],
+      width: [1, 95],
       style: {
         width: `${((work.dimensions.width / 100) * 100)}%`,
         margin: `${35 - (30 * (work.dimensions.height / 70))}% 0 70%`,
