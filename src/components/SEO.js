@@ -12,7 +12,7 @@ const SEO = ({ title, description, type, image, pageContext }) => (
 
     <meta property="og:title" content={title} />
     <meta property="og:site_name" content={pageContext.site.siteMetadata.title} />
-    <meta property="og:type" content={type || 'website'} />
+    <meta property="og:type" content={type || 'website'} />
     {!!image && <meta property="og:image" content={fromFilesystem2S3(image)} />}
     <meta property="og:url" content={`${pageContext.site.siteMetadata.siteUrl}${pageContext.url}`} />
     <meta property="og:description" content={description} />

@@ -11,9 +11,9 @@ const Options = ({ options, values, setValues, setPage, ...props }) => (
           <Select
             key={key}
             {...options[key].props}
-            value={values[key] || []}
+            value={values[key] || []}
             onChange={(v) => {
-              setValues(values => ({ ...values, [key]: v || [] }))
+              setValues(values => ({ ...values, [key]: v || [] }))
               setPage(0)
             }}
           />
@@ -27,9 +27,9 @@ const Options = ({ options, values, setValues, setPage, ...props }) => (
           <Checkbox
             key={key}
             {...options[key].props}
-            value={values[key] || []}
+            value={values[key] || []}
             onChange={(v) => {
-              setValues(values => ({ ...values, [key]: v || [] }))
+              setValues(values => ({ ...values, [key]: v || [] }))
               setPage(0)
             }}
           />

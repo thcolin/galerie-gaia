@@ -21,7 +21,7 @@ biography: "# Judith Wolfe\n\n> S'inspirer de l'expressionnisme sans y plonger\n
   Wolfe est née aux Etats unis. Elle vit en France depuis quarante ans. Elle a été
   l’élève de Kokoschka, célèbre expressionniste. Elle produit de grands assemblages
   sur papier, où se mêlent dessins, couleurs, phrases… Elle peint aujourd’hui sur
-  du papier népalais. Les formes et les couleurs qu’elle utilise sont lyriques, poétiques :
+  du papier népalais. Les formes et les couleurs qu’elle utilise sont lyriques, poétiques :
   des rouges comme le sang, ou encore des bleus comme la mer. Malgré l’influence des
   peintres expressionnistes, l’artiste n’est jamais dans l’abstraction pure. Elle
   parvient à faire apparaître des formes, qui équilibrent ses travaux. Judith Wolfe

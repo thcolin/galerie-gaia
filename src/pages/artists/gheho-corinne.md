@@ -16,7 +16,7 @@ biography: "# Corinne Guého\n\n> Corinne Guého, la chorégraphe\n\nDepuis 1998
   du multiple induit un autre rapport. Le nombre nous interroge autrement que l’unique.
   Une communication, des choix, des face à face, des dialogues s’instaurent, qui amènent
   à chercher dans l’espace silencieux ce qui pourrait être encore révélé. Une part
-  de « l’enchantement simple » comme l’exprime Bobin, enchantement du jour, celui
+  de « l’enchantement simple » comme l’exprime Bobin, enchantement du jour, celui
   qui se donne ou pas. Instant unique où l’artiste semble avoir approché le magique
   qui consolide, et la pose … un instant. \n\nQuant à la technique, c’est du temps,
   des gestes répétés, des modulations d’enchaînements, pour comprendre les rouages,

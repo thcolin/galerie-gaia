@@ -16,7 +16,7 @@ birth: ''
 death: ''
 expose: true
 biography: |-
-  "Dès la plus petite enfance j’ai aimé colorer, barbouiller, créer avec rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois, carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports de cours, m’a extrait de mon quotidien solitaire pour vivre des aventures oniriques. Mes vacances d’été, je les ai partagées à Pont- Aven entre le plaisir de m’enliser dans la vase, nager dans l’eau glacée de cette rivière d’eau saumâtre et observer les feuillages du bois d’amour où Paul Sérusier a peint « Le Talisman ».
+  "Dès la plus petite enfance j’ai aimé colorer, barbouiller, créer avec rapidité, rage et plaisir pour laisser mes traces sur toutes formes de papier, bois, carton, tôle ondulée, etc. Barioler cahiers d’écolier, agendas et autres supports de cours, m’a extrait de mon quotidien solitaire pour vivre des aventures oniriques. Mes vacances d’été, je les ai partagées à Pont- Aven entre le plaisir de m’enliser dans la vase, nager dans l’eau glacée de cette rivière d’eau saumâtre et observer les feuillages du bois d’amour où Paul Sérusier a peint « Le Talisman ».
 
       L’eau et l’essence de térébenthine m’ont conduit à l’expression gestuelle figurative le plus souvent aquarellée de teintes diluées.
 
@@ -124,7 +124,7 @@ works:
   description: "Format tableau hors cadre : 115 x 160 cm  \n  \nCette œuvre a été
     réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
     les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
-    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCe croquis peint exécuté avec célérité
+    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCe croquis peint exécuté avec célérité
     et force remplit le vide blanc qui l’entoure à la manière des estampes japonaises.
     La tension entre ce grand aplat blanc qu’est la texture vierge du papier et les
     entrelacs formés par les coups de graphite et les touches de peinture nerveuses
@@ -145,7 +145,7 @@ works:
   description: "Format tableau hors cadre : 161 x 110 cm  \n  \nCette œuvre a été
     réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
     les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
-    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCette peinture gestuelle met en
+    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCette peinture gestuelle met en
     lumière malgré la position de retrait du modèle avec ses mains levées, la délicatesse
     du ventre, des cuisses par contraste face le fond noir et gris. L’emploi de la
     couleur en traits gras affine le contours du corps de la femme si fragile si vivante."

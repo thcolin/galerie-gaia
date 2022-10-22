@@ -2,7 +2,7 @@ import Icon from 'components/Icon'
 import data from 'data/reinsurance.json'
 import theme from 'theme'
 
-const Reinsurance = ({ ...props }) => {
+const Reinsurance = ({ ...props }) => {
   return (
     <div css={Reinsurance.styles.element}>
       {data.items.map(({ title, icon, content }, index) => (

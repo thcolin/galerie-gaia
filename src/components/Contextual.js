@@ -4,7 +4,7 @@ import Icon from 'components/Icon'
 import useEvent from 'react-use/lib/useEvent'
 import theme from 'theme'
 
-const Contextual = ({ work, ...props }) => {
+const Contextual = ({ work, ...props }) => {
   if (!work.dimensions || !work.dimensions?.width || !work.dimensions?.height) {
     return null
   }

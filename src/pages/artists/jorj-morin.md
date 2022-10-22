@@ -641,7 +641,7 @@ works:
   - Abstrait
 - title: Tapisserie Papillon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papillon.jpg
-  technique: Tapisserie en laine Lissier Pierre Carton ERBA
+  technique: Tapisserie en laine Lissier Pierre Carton ERBA
   dimensions:
     height: 92
     width: 118

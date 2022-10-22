@@ -40,7 +40,7 @@ const Blog = ({ scrollPosition, ...props }) => {
     .reverse()
   ), [articles, values])
 
-  const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
+  const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
 
   useEffect(() => {
     if (Object.keys(values).length || page > 0) {

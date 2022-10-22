@@ -113,9 +113,9 @@ const styles = {
     }),
     option: (style, props) => ({
       ...style,
-      backgroundColor: props.isFocused ? theme.colors.grey : props.isSelected ? theme.colors.gray : 'white',
+      backgroundColor: props.isFocused ? theme.colors.grey : props.isSelected ? theme.colors.gray : 'white',
       fontSize: '0.875em',
-      // color: (props.isSelected || props.isFocused) ? 'white' : theme.colors.tertiary,
+      // color: (props.isSelected || props.isFocused) ? 'white' : theme.colors.tertiary,
       cursor: 'pointer',
     }),
     loadingMessage: (style) => ({

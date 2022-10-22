@@ -7,7 +7,7 @@ birth: "0"
 death: "0"
 expose: false
 biography: "Déroulé de l'évènement  Samedi 27 février 2016  - 17H\n\n° Du 25 au 27
-  février l'exposition « Hasards pour Morgane »  permit de voir  les 25 feuillets
+  février l'exposition « Hasards pour Morgane »  permit de voir  les 25 feuillets
   des 25 artistes qui furent réunis visibles et lisibles ….ou presque sur les murs
   de la galerie.  \n° Samedi 27 février à 17H30 la vente des 25 oeuvres fut officiellement
   lancée\n° 3 derniers  donateurs se déclarèrent , les 22 autres ayant réalisé au
@@ -30,7 +30,7 @@ biography: "Déroulé de l'évènement  Samedi 27 février 2016  - 17H\n\n° Du 
   douleur de son absence. Nous avons voulu la faire vivre à travers un projet qu’elle
   aurait pu mener. Nous créons l’association Morgane.\nC’est alors la rencontre avec
   un éducateur Freinet de Dagana au Sénégal, Papa-Meïssa Hanne, président de l’Association
-  Sénégalaise de l’Ecole Moderne ; elle vulgarise, adopte et promeut la philosophie
+  Sénégalaise de l’Ecole Moderne ; elle vulgarise, adopte et promeut la philosophie
   et les techniques Freinet et toute innovation allant dans le sens de l’édification
   d’une école laïque, populaire, moderne et libératrice. Elle développe les droits
   d’un enfant citoyen.\nAvec eux et grâce aux dons des 850 adhérents de l’association
@@ -39,34 +39,34 @@ biography: "Déroulé de l'évènement  Samedi 27 février 2016  - 17H\n\n° Du 
   - 2011). Aujourd’hui nos actions portent essentiellement, mais toujours à la demande
   de nos partenaires sénégalais, sur l’aide à l’amélioration de la pratique du français,
   langue officielle du pays qui permet une communication entre toutes les régions.
-  Les projets pour  2016 : formation d’aide à la lecture de l’image et conduite du
+  Les projets pour  2016 : formation d’aide à la lecture de l’image et conduite du
   projet de construction d’un espace polyvalent associé au groupe scolaire et ouvert
-  sur le quartier.\n« Dagana résume bien Morgane, dans ses envies, dans l’énergie
+  sur le quartier.\n« Dagana résume bien Morgane, dans ses envies, dans l’énergie
   qui entoure ce projet, parce que l’objectif n’est jamais perdu de vue et qu’une
-  fois atteint, on continue à aller de l’avant ».\n\nCe qui fait la réussite de ce
+  fois atteint, on continue à aller de l’avant ».\n\nCe qui fait la réussite de ce
   projet c’est aussi le hasard des rencontres.\n\nNous avions des tableaux fraîchement
-  restaurés à faire encadrer, un jour, on se décide ! Nos trois tableaux sous le bras
+  restaurés à faire encadrer, un jour, on se décide ! Nos trois tableaux sous le bras
   et un cadre ancien en bandoulière, on y va. En route vers la galerie qui nous a
   été recommandée. C’est ouvert, on entre. Bruno nous accueille, nous découvrirons
-  plus tard qu’il est un des « artistes de GAÏA ». Avec lui on commence par le plus
+  plus tard qu’il est un des « artistes de GAÏA ». Avec lui on commence par le plus
   ancien. Il trouve que le cadre d’origine est ce qu’il est, mais que surtout c’est
   une partie de l’histoire de l’œuvre. C’est ainsi que Blandine l’a toujours connu.
   C’est dans son jus qu’il a du sens…nous sommes interloqués. Celle dont nous saurons
   plus tard que c’est Elisabeth Givre, vient se joindre à nous. Elle abonde dans cette
-  idée qui petit à petit pénètre Blandine et s’impose comme une évidence : le cadre
+  idée qui petit à petit pénètre Blandine et s’impose comme une évidence : le cadre
   ancien fait partie de l’image de ce tableau. Il restera dans son jus…. aux suivants.
   L’un héritera d’un cadre américain en bois naturel et l’autre d’un cadre du même
-  type mais noir ! C’est le conseil d’Elisabeth qui nous va bien, chacun le sien,
+  type mais noir ! C’est le conseil d’Elisabeth qui nous va bien, chacun le sien,
   chacun sa couleur. Nous déposons le tout dans un coin de la galerie, l’esprit enfin
   libéré, il est temps de lever le nez et de regarder ce qui nous entoure dans cette
-  galerie bien garnie.\nNos yeux tombent sur le dernier livre de Christian Bobin :
-  « Noireclaire ». Que fait-il là ? Notre curiosité ouvre le livre…il est « enrichi
+  galerie bien garnie.\nNos yeux tombent sur le dernier livre de Christian Bobin :
+  « Noireclaire ». Que fait-il là ? Notre curiosité ouvre le livre…il est « enrichi
   » de nombreux dessins, à la plume et à l’encre grise, très délicats et précis. Riches
   en émotions…et nous apprenons que c’est Bruno Dumas, notre premier guide-encadreur-conseil
-  qui commet ces ajouts. Il nous expose le principe : « vous me remettez un livre
+  qui commet ces ajouts. Il nous expose le principe : « vous me remettez un livre
   qui a du sens pour vous, je m’engage à vous le restituer dans un temps que je serai
-  seul à maîtriser, mais enrichi de dessins ».\nJe propose à Blandine de faire illustrer
-  les « 365 petits mots pour blandine » qu’Isabelle Pinçon, son auteure, a édité avec
+  seul à maîtriser, mais enrichi de dessins ».\nJe propose à Blandine de faire illustrer
+  les « 365 petits mots pour blandine » qu’Isabelle Pinçon, son auteure, a édité avec
   la Bolée d’Art. Rendez-vous est pris pour remettre l’ouvrage à la galerie le surlendemain.\nA
   ce rendez-vous, Pierre ira seul. Il souhaite prendre un peu de temps pour raconter
   l’histoire, l’histoire du livre, notre histoire. Que Bruno et ses dessins en soient
@@ -78,17 +78,17 @@ biography: "Déroulé de l'évènement  Samedi 27 février 2016  - 17H\n\n° Du 
   galerie se joint à nous dans la discussion. Une espèce de grâce nous enveloppe tous,
   un temps dans le temps. On échange les mails et l’adresse du site. Au revoir, merci,
   à bientôt. Bruno capte le livre que Pierre avait remis à Elisabeth en lui disant
-  « J’ai une idée avec. Je te le rendrai plus tard… ». Chacun comprend qu’il va aussi
+  « J’ai une idée avec. Je te le rendrai plus tard… ». Chacun comprend qu’il va aussi
   travailler sur cet exemplaire pour elle.\nEt puis fin décembre, un mail d’Elisabeth
   Givre nous demande si nous sommes libres un jour de janvier pour venir à la Galerie.
   Nous ne voyons pas l’urgence et pensons répondre dès notre retour à Nantes…. Quelques
   jours plus tard, nouveau mail, qui expose un projet né entre Elisabeth et Bruno
-  après que Pierre les a quittés le jour de la remise des livres : celui d’associer
+  après que Pierre les a quittés le jour de la remise des livres : celui d’associer
   les artistes de Gaïa au projet de l’association. L’émotion nous submerge.\nLe projet
   se concrétise avec une vente caritative des 25 oeuvres sur papier réalisées par
   25 artistes de la galerie. Et puis le projet s'enrichit avec une exposition et pour
   garder la mémoire de tout cela, arrive l'édition d'un livre coffret avec des extraits
-  des oeuvres.\nElisabeth, Bruno, comment vous dire ? Les murs et les actions de formation
+  des oeuvres.\nElisabeth, Bruno, comment vous dire ? Les murs et les actions de formation
   à Dagana porteront votre trace, votre générosité et votre émotion. Comme celle des
   artistes qui vous font confiance et maintenant nous accompagnent…\n\nBlandine et
   Pierre Nantes, le 10 février 2016 Association Morgane – 5 impasse de la coudre –
@@ -106,7 +106,7 @@ biography: "Déroulé de l'évènement  Samedi 27 février 2016  - 17H\n\n° Du 
   et de l’éducation incarnera notre lien avec Morgane. \nBruno Dumas a exhumé de sa
   bibliothèque un vieux livre aux pages jaunies que nous avons démembré pour envoyer
   4 feuillets à chaque artiste de la galerie. Peintres, plasticiens, graveurs, sculpteurs
-  \ ont ainsi reçu la même consigne « libre de vous exprimer sur ces feuillets »,
+  \ ont ainsi reçu la même consigne « libre de vous exprimer sur ces feuillets »,
   et la proposition que leurs oeuvres soient vendues au profit de l’association MORGANE.
   \n25 artistes ont travaillé  généreusement en faisant don de leur oeuvre, pour MORGANE,
   pour VOUS.\nEn recevant les oeuvres par courrier de Normandie, de Bretagne, de Paris

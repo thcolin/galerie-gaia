@@ -53,8 +53,8 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         frontmatter: {
           ...page.frontmatter,
           works: page.frontmatter.works.filter(work => (
-            (styles.some(style => (page.frontmatter.styles || []).includes(style.value)) && (work.styles || []).length === 0)
-            || styles.some(style => (work.styles || []).includes(style.value))
+            (styles.some(style => (page.frontmatter.styles || []).includes(style.value)) && (work.styles || []).length === 0)
+            || styles.some(style => (work.styles || []).includes(style.value))
           )),
         }
       }),
@@ -74,8 +74,8 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         frontmatter: {
           ...page.frontmatter,
           works: page.frontmatter.works.filter(work => (
-            (fields.some(field => (page.frontmatter.fields || []).includes(field.value)) && (work.fields || []).length === 0)
-            || fields.some(field => (work.fields || []).includes(field.value))
+            (fields.some(field => (page.frontmatter.fields || []).includes(field.value)) && (work.fields || []).length === 0)
+            || fields.some(field => (work.fields || []).includes(field.value))
           )),
         }
       }),
@@ -188,7 +188,7 @@ const Catalogue = ({ scrollPosition, ...props }) => {
     .filter(artist => artist.frontmatter.works.filter(work => !work.sold).length)
   ), [artists, values])
 
-  const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
+  const { page, setPage, pieces, length } = usePagination(entities, 10, { initial: (typeof history !== 'undefined' && history.state?.page) || 0 })
 
   useEffect(() => {
     if (Object.keys(values).length || page > 0) {
