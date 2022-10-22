@@ -57,13 +57,17 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', success = 
               </button>
             </Fragment>
           ) : method === 'newsletter' ? (
-            <div>
-              <input ref={register({ required: true })} name='email' type='email' placeholder='Email' required={true} />
-              <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitting} style={{ margin: '0 0 0 1rem' }}>
+            <Fragment>
+              <div>
+                <input ref={register({ required: true })} name='email' type='email' placeholder='Email' required={true} />
+                <input ref={register({ required: true })} name='name' type='text' placeholder='Prénom, Nom' required={true} />
+                <input ref={register()} name='city' type='text' placeholder='Ville' />
+              </div>
+              <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitting}>
                 <Icon children={isSubmitSuccessful ? 'check' : isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
                 {isSubmitSuccessful ? 'Envoyé !' : isSubmitting ? 'Envoie...' : 'Envoyer'}
               </button>
-            </div>
+            </Fragment>
           ) : null}
           {isSubmitSuccessful && success && (
             <em><small>{success}</small></em>
