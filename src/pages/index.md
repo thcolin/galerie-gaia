@@ -1,11 +1,12 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5689.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Le Manège  Bronze
     TEP 1:1.jpeg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5418.JPG
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
+    Rousse - Marseille 2013-2014  - Galerie Catherine Putman.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
+    Rousse Blanc Mesnil 2.jpg
 redirect_from:
 - "/plan/"
 seo:
