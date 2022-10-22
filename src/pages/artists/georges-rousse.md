@@ -84,8 +84,10 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: Bourgoin Jallieu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_bourgoin-jallieu_2011-2019_galerie-catherine-putman-_1a.jpeg
+- title: 'Luxembourg '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
+    Rousse "Luxembourg" 2005-2016 - épreuve pigmentaire - 92 x 112 cm - galerie Catherine
+    Putman.jpg
   technique: 'Photographie épreuve pigmentaire '
   fields: []
   styles: []
@@ -93,11 +95,12 @@ works:
     height: 112
     width: 92
     depth: 0
-  description: Tirage en 30 exemplaires
+  description: "Tirage en 30 exemplaires  \n2005-2016"
   price: 3200
   contextual: true
-- title: Heidelberg
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/heidelberg.jpg
+- title: Blanc Mesnil 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
+    Rousse Blanc Mesnil 1.jpg
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 112
