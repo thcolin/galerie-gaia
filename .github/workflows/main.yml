@@ -10,9 +10,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Export db data to Google Sheet
-      run: node ./export/works.js
     - uses: enriikke/gatsby-gh-pages-action@v2
       with:
         access-token: ${{ secrets.ACCESS_TOKEN }}
         deploy-branch: gh-pages
+    - name: Export db data to Google Sheet
+      run: node ./export/works.js
