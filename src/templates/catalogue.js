@@ -136,8 +136,10 @@ const Catalogue = ({ scrollPosition, ...props }) => {
           ...page.frontmatter,
           works: page.frontmatter.works.filter(work => formats.some(([min, max]) => (
             (work.dimensions?.height && work.dimensions?.width)
-            && work.dimensions?.height >= min && work.dimensions?.height <= max
-            && work.dimensions?.width >= min && work.dimensions?.width <= max
+            && (
+              work.dimensions?.height >= min && work.dimensions?.height <= max
+              || work.dimensions?.width >= min && work.dimensions?.width <= max
+            )
           ))),
         },
       }),
