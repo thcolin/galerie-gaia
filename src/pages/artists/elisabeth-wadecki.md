@@ -122,7 +122,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: Portrait d'Elisabeth Wadecki
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia elisabeth
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-elisabeth
     wadecki portrait.JPG
   dimensions:
     height: 0
