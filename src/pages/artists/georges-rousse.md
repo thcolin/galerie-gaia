@@ -84,7 +84,7 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: 'Luxembourg '
+- title: 'Luxembourg jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
     Rousse "Luxembourg" 2005-2016 - épreuve pigmentaire - 92 x 112 cm - galerie Catherine
     Putman.jpg
@@ -110,7 +110,7 @@ works:
   price: 2400
   sold: false
   contextual: true
-- title: Luxembourg
+- title: Luxembourg blanc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/luxembourg.jpg
   technique: Photographie épreuve pigmentaire
   dimensions:
@@ -132,25 +132,15 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: Bordeaux
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bordeaux.jpg
+- title: 'Bourgoin Jallieu #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
+    Rousse_Bourgoin-Jallieu_2011-2019_galerie Catherine Putman _2A.jpg
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 92
     width: 112
     depth: 
-  description: tirage à 30 exemplaires
-  price: 3200
-  sold: false
-  contextual: true
-- title: Mumbai
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mumbai.jpg
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 92
-    width: 112
-    depth: 
-  description: " tirage à 30 exemplaires"
+  description: "tirage à 30 exemplaires  \n2011 - 2019"
   price: 3200
   sold: false
   contextual: true
@@ -159,14 +149,17 @@ works:
   dimensions:
     height: 112
     width: 92
-- title: Genève
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/geneve.jpg
+  technique: Photographie épreuve pigmentaire
+  price: 3200
+  description: 'Tirage en 30  exemplaires sur commande '
+- title: Mumbai
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mumbai.jpg
   technique: Photographie épreuve pigmentaire
   dimensions:
     height: 92
     width: 112
     depth: 
-  description: tirage à 30 exemplaires
+  description: 'tirage à 30 exemplaires sur commande '
   price: 3200
   sold: false
   contextual: true
