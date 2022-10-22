@@ -120,7 +120,7 @@ const Catalogue = ({ scrollPosition, ...props }) => {
       props: {
         label: 'Prix',
         options: [
-          { id: '0-200', value: [0, 200], label: '0 - 200€' },
+          { id: '1-200', value: [1, 200], label: '1 - 200€' },
           { id: '200-1000', value: [200, 1000], label: '200 - 1 000€' },
           { id: '1000-5000', value: [1000, 5000], label: '1 000 - 5 000€' },
           { id: '5000+', value: [5000, Infinity], label: '5 000€ +' },
