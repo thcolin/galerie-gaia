@@ -40,7 +40,7 @@ works:
     height: 150
     width: 150
   description: "Visible sur demande en réserve dans l'atelier de l'artiste  \n2019"
-  price: 3500
+  price: 5000
   contextual: true
 - title: En mon jardin N°12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
@@ -67,7 +67,7 @@ works:
     depth: 0
   description: '2018 Œuvre visible en Octobre 2021 à la [Galerie des Bigotes ](https://www.mairie-vannes.fr/vannesloisirs/agenda/galerie-des-bigotes/
     "musée vannes ")Association des Amis du musée de Vannes '
-  price: 3500
+  price: 5000
   contextual: true
 - title: En mon jardin N°4 Papier marouflé sur toile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG
@@ -77,7 +77,7 @@ works:
     width: 100
     depth: 
   description: "2019"
-  price: 1800
+  price: 2500
   contextual: true
 - title: Mosaïque Re(s)source N°1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
