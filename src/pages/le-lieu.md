@@ -3,18 +3,20 @@ template: contact
 content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo facade.jpg)\n\n##
   Galerie Gaïa une galerie d'art contemporain à Nantes\n\nLa **Galerie Gaïa** poursuit
   l’aventure d’un lieu d’art crée en **1978** à proximité de l’Ecole des Beaux-Arts
-  alors située en plein **cœur de la ville de Nantes** dans le quartier Decré.\n\n**En
-  2015 Elisabeth Givre** reprend, transforme et engage durablement l’espace pour installer
-  une programmation annuelle de 7 expositions en peinture, sculpture, céramique, photo,
-  estampe et parfois des installations.\n\n**En 2022 Inès Ben Brahim** rejoint la
-  galerie avec son expertise, diplômée d'un double master en \"Critique et Esthétique
-  des arts\" et en \"recherche et Histoire de l'art\".\n\nPour les professionnels,
-  architectes, décorateurs et entreprises, Inès Ben Brahim m'accompagne comme chargée
-  de production dans la conception et réalisations de vos projets.\n\n**L’abstraction**
-  qui est au cœur de la sélection fait aussi la place à des œuvres plus **figuratives**.
-  **La ligne, le trait, l’architecture** sont un des fils conducteurs de la sélection.\n\nAussi
-  les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale.
-  Chaque artiste reste singulier, inspiré-e mais pas rangé-e.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg)\n\n**La
+  alors située en plein **cœur de la ville de Nantes** dans le quartier Decré.\n\nLa
+  Galerie Gaïa fondée en 2015 par **Elisabeth Givre** est un lieu qui questionne et
+  redéfinit la création contemporaine en perpétuelle évolution. On y fait des choix
+  exigeants, éclectiques et ambitieux. La galerie décloisonne et expérimente, elle
+  oblige à concevoir l’art contemporain et ses acteurs d’une manière nouvelle et multiple.\n\n**En
+  2022 Inès Ben Brahim** rejoint la galerie avec son expertise, diplômée d'un double
+  master en \"Critique et Esthétique des arts\" et en \"recherche et Histoire de l'art\".\n\nPour
+  les professionnels, **architectes, décorateurs et entreprises**, Inès Ben Brahim
+  m'accompagne comme chargée de production dans la conception et réalisation de vos
+  projets.\n\n**L’abstraction** qui est au cœur de la sélection fait aussi la place
+  à des œuvres plus **figuratives**. **La ligne, le trait, l’architecture** sont un
+  des fils conducteurs de la sélection.\n\nAussi les ruptures et les grands écarts
+  d’une exposition à l’autre sont une évidence fondamentale -7 expositions en solo-show
+  par an-. Chaque artiste reste singulier-e, inspiré-e mais surtout pas rangé-e.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg)\n\n**La
   particularité de la galerie Gaïa : ses réserves** avec **+900 œuvres de 70 artistes.**\n\nCes
   réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/
   \"galerie gaillard\")  et actualisées quotidiennement.\n\nL’art doit nous secouer
