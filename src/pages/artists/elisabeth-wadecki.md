@@ -19,6 +19,32 @@ biography: |-
   Elisabeth Wadecki was born in 1963 in Zurich, she has a Polish father and a French mother. The artist trained at the National School of Beaux-Arts in Nancy. She has been living and working near Nantes for nearly 30 years. Her technique is based on a meticulous preparation of surfaces, on which she paints landscapes in successive layers, bringing transparency, volume and depth. Moreover, the artist uses a chromatic range constantly in agreement with the seasons, which makes her work even more naturalist. Her pieces keep the trace of a quivering through time, as if she had only captured the essence of reality. The composition of her paintings seems to unfold in a mirror, and recalls the specificity of Chinese landscapes. The artist is indeed largely influenced by Asia: Elisabeth Wadecki reads poems, haikus. She proposes paintings provoking the opening of perceptions and soliciting the senses: to the sight is added a union between the body, the subject, and the world which surrounds it.
 exhibitions: []
 works:
+- title: Archipel n°7
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
+    n°7 2022 46x55cm acrylique sur toile 1400 eur.1000.jpg
+  technique: 'Acrylique  sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 46
+    width: 57
+    depth: 0
+  description: ''
+  price: 1500
+  contextual: true
+- title: Archipel n°5
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
+    n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
+  technique: 'Technique mixte sur toile : acrylique, pastel, fusain'
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 130
+    depth: 0
+  description: "2022"
+  price: 4000
+  contextual: true
 - title: 'Retour des bois '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Retour
     des bois- 2021- acrylique, bâtons d'huile sur papier marouflé sur toile- 130x97cm-
