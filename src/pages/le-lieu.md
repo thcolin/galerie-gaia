@@ -15,7 +15,7 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale
   -7 expositions en solo-show par an-.   \nChaque artiste reste singulier-e, inspiré-e
   mais surtout pas rangé-e !\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg)\n\n**La
-  particularité de la galerie Gaïa : ses réserves** avec **+900 œuvres de 70 artistes.**\n\nCes
+  particularité de la galerie Gaïa ?   \nSes réserves** **+900 œuvres de 70 artistes.**\n\nCes
   réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/
   \"galerie gaillard\")  et actualisées quotidiennement.\n\nL’art doit nous secouer
   et nous aider à figurer les pensées les plus abstraites, mais aussi à extraire l’essentiel
