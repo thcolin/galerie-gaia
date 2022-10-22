@@ -98,16 +98,16 @@ works:
   description: "Tirage en 30 exemplaires  \n2005-2016"
   price: 3200
   contextual: true
-- title: Blanc Mesnil 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
-    Rousse Blanc Mesnil 1.jpg
+- title: 'Blanc Mesnil '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-georges
+    rousse-diptyque balnc mesnil.png
   technique: Photographie épreuve pigmentaire
   dimensions:
-    height: 112
-    width: 92
+    height: 110
+    width: 62
     depth: 
-  description: " tirage à 30 exemplaires"
-  price: 3200
+  description: "tirage à 30 exemplaires  \ndiptyque deux fois 50X62 cm  \n2012"
+  price: 2400
   sold: false
   contextual: true
 - title: Luxembourg
@@ -117,7 +117,7 @@ works:
     height: 112
     width: 92
     depth: 
-  description: tirage à 30 exemplaires
+  description: 'tirage à 30 exemplaires sur commande '
   price: 3200
   sold: false
   contextual: true
