@@ -15,9 +15,10 @@ import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
 import { fromFilesystem2S3 } from 'utils/resolve'
 import theme from 'theme'
+import slug from 'slug'
 
-const Artist = ({ location, ...props }) => {
-  const { pageContext: { frontmatter, breadcrumb } } = props
+const Artist = ({ location, uri, ...props }) => {
+  const { pageContext: { frontmatter, breadcrumb, name: id } } = props
 
   if (!frontmatter.expose) {
     return (
@@ -38,8 +39,8 @@ const Artist = ({ location, ...props }) => {
   return (
     <Layout {...props}>
       <SEO
-        title={frontmatter.seo?.title || `${frontmatter.title}${frontmatter.fields.length ? `, ${(frontmatter.fields || []).join(', ')}` : ''} - Galerie Gaïa`}
-        description={frontmatter.seo?.description || `Découvrez, réservez et commandez les œuvres de ${frontmatter.title}${frontmatter.fields.length ? `, ${(frontmatter.fields || []).join(', ')}` : ''}, à la Galerie Gaïa, galerie d'art en ligne et à Nantes.`}
+        title={frontmatter.seo?.title || `${frontmatter.title}${frontmatter.fields.length ? `, ${(frontmatter.fields || []).join(', ')}` : ''} - Galerie Gaïa`}
+        description={frontmatter.seo?.description || `Découvrez, réservez et commandez les œuvres de ${frontmatter.title}${frontmatter.fields.length ? `, ${(frontmatter.fields || []).join(', ')}` : ''}, à la Galerie Gaïa, galerie d'art en ligne et à Nantes.`}
         image={slides[0]}
         pageContext={props.pageContext}
       />
@@ -52,8 +53,8 @@ const Artist = ({ location, ...props }) => {
               ({[parseInt(frontmatter.birth), parseInt(frontmatter.death)].filter(year => year).join(' - ')})
             </small>
           )}
-          {!!(frontmatter.location || (frontmatter.fields || []).length) && (
-            <p>{[frontmatter.location, (frontmatter.fields || []).join(', ')].filter(s => s).join(' - ')}</p>
+          {!!(frontmatter.location || (frontmatter.fields || []).length) && (
+            <p>{[frontmatter.location, (frontmatter.fields || []).join(', ')].filter(s => s).join(' - ')}</p>
           )}
         </div>
         {!!works.length && (
@@ -118,27 +119,60 @@ const Artist = ({ location, ...props }) => {
                   <br/>
                   {!work.sold && (
                     <Fragment>
-                      <Contact
-                        id="UCmdKCfm"
-                        method="buy"
-                        placeholder="Une demande de renseignements supplémentaires ? Écrivez nous votre message :"
-                        success="Merci ! Nous allons vous recontacter rapidement pour établir les détails de votre acquisition"
-                        toggle={true}
-                        inputs={[
-                          ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
-                            name,
-                            value: (
-                              typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                              name === 'image' ? fromFilesystem2S3(work.image) : work[name]
-                            ),
-                          })),
-                          {
-                            name: 'artist',
-                            value: frontmatter.title,
-                          },
-                        ]}
-                      />
-                     <hr />
+                      {uri === '/artists/adolfo-arenas-alonso' ? (
+                        <button
+                          class="snipcart-add-item"
+                          data-item-id={`${id}-${slug((work.title || '').toLowerCase().trim())}`}
+                          data-item-name={work.title}
+                          data-item-description={[
+                            work.technique,
+                            !!(
+                              work.dimensions?.height ||
+                              work.dimensions?.width ||
+                              work.dimensions?.depth
+                            ) && ` (${[
+                              work.dimensions?.height,
+                              work.dimensions?.width,
+                              work.dimensions?.depth,
+                            ].filter(size => size).join(' x ')})`,
+                            work.description,
+                          ].filter(v => v).join(", ")}
+                          data-item-image={work.image}
+                          data-item-price={work.price}
+                          data-item-url={frontmatter.url}
+                          data-item-max-quantity={1}
+                          {...((work.dimensions || {}).depth ? { 'data-item-length' : parseInt(work.dimensions || {}).depth } : {})}
+                          {...((work.dimensions || {}).height ? { 'data-item-height' : parseInt(work.dimensions || {}).height } : {})}
+                          {...((work.dimensions || {}).width ? { 'data-item-width' : parseInt(work.dimensions || {}).width } : {})}
+                          data-item-custom1-name="Un message à nous adresser ?"
+                          data-item-custom1-type="textarea"
+                        >
+                          <Icon children={'palette'} style={{ margin: '0 0.5rem 0 0' }} />
+                          Acquérir cette oeuvre
+                        </button>
+                      ) : (
+                        <Contact
+                          id="UCmdKCfm"
+                          method="buy"
+                          placeholder="Une demande de renseignements supplémentaires ? Écrivez nous votre message :"
+                          success="Merci ! Nous allons vous recontacter rapidement pour établir les détails de votre acquisition"
+                          toggle={true}
+                          inputs={[
+                            ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
+                              name,
+                              value: (
+                                typeof work[name] === 'object' ? JSON.stringify(work[name]) :
+                                name === 'image' ? fromFilesystem2S3(work.image) : work[name]
+                              ),
+                            })),
+                            {
+                              name: 'artist',
+                              value: frontmatter.title,
+                            },
+                          ]}
+                        />
+                      )}
+                    <hr />
                     </Fragment>
                   )}
                   {!!work.contextual && (

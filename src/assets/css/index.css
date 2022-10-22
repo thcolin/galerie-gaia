@@ -81,7 +81,7 @@ input, textarea {
   border: 1px solid #eee;
 }
 
-button {
+#___gatsby button {
   display: flex;
   justify-content: center;
   padding: 0.5em 1em;
@@ -93,17 +93,17 @@ button {
   white-space: nowrap;
 }
 
-button:hover:not(:disabled), button.active {
+#___gatsby button:hover:not(:disabled), #___gatsby button.active {
   color: #fff;
   background: #272727;
   border: 1px solid #272727;
 }
 
-button:not(:disabled) {
+#___gatsby button:not(:disabled) {
   cursor: pointer;
 }
 
-button:disabled {
+#___gatsby button:disabled {
   color: #fff;
   border: 1px solid #272727;
 }
@@ -183,4 +183,20 @@ div[data-rmiz-overlay="true"] > button {
   position: absolute;
   top: 0;
   left: 0;
+}
+
+.snipcart-cart-header__count,
+.snipcart-cart-header__title,
+.snipcart-item-quantity__label,
+.snipcart-item-quantity__quantity,
+.snipcart-item-line__header > .snipcart-button-icon.is-danger,
+.snipcart-summary-fees
+{
+  display: none !important;
+}
+
+.snipcart-item-quantity__total-price {
+  padding-top: 16px !important;
+  font-size: 24px !important;
+  line-height: 24px !important;
 }
