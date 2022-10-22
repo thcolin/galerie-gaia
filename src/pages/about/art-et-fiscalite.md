@@ -1,10 +1,10 @@
 ---
 template: about
 content:
-- column: "# Défiscaliser : la location  d’œuvres d'art en entreprise?\n\n## Marque
-    employeur RSE bien-être au travail grâce à l'art\n\nDans des **bureaux nouvelles
-    générations,** la tendance de fond va bien au-delà d'un mobilier design, d'une
-    table de ping-pong pour donner une ambiance chaleureuse et renforcer l'identité
+- column: "# Défiscaliser : la location leasing d’œuvres d'art en entreprise?\n\n##
+    Marque employeur RSE bien-être au travail grâce à l'art\n\nDans des **bureaux
+    nouvelles générations,** la tendance de fond va bien au-delà d'un mobilier design,
+    d'une table de ping-pong pour donner une ambiance chaleureuse et renforcer l'identité
     de votre entreprise **auprès de vos clients et collaborateurs.**  \nComment concrétiser
     les intentions de la **RSE**, comment renforcer **la marque employeur**, comment
     rendre concret le **bien-être au travail** ?  \nToutes ces intentions peuvent
