@@ -94,15 +94,18 @@ button {
 }
 
 button:hover:not(:disabled), button.active {
-  cursor: pointer;
   color: #fff;
   background: #272727;
   border: 1px solid #272727;
 }
 
+button:not(:disabled) {
+  cursor: pointer;
+}
+
 button:disabled {
-  color: #cccccc;
-  border: 1px solid #cccccc;
+  color: #fff;
+  border: 1px solid #272727;
 }
 
 details.rgpd {

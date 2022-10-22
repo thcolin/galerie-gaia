@@ -51,9 +51,9 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', success = 
                 <input ref={register({ required: !values.phone })} name='email' type='email' placeholder='Email' required={!values.phone} />
                 <input ref={register({ required: !values.email })} name='phone' type='tel' placeholder='Téléphone' required={!values.email} />
               </div>
-              <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitting}>
+              <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitSuccessful || isSubmitting}>
                 <Icon children={isSubmitSuccessful ? 'check' : isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
-                {isSubmitSuccessful ? 'Envoyé !' : isSubmitting ? 'Envoie...' : 'Envoyer'}
+                {isSubmitSuccessful ? 'Merci, à bientôt !' : isSubmitting ? '...' : 'Envoyer'}
               </button>
             </Fragment>
           ) : method === 'newsletter' ? (
@@ -63,9 +63,9 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', success = 
                 <input ref={register({ required: true })} name='name' type='text' placeholder='Prénom, Nom' required={true} />
                 <input ref={register()} name='city' type='text' placeholder='Ville' />
               </div>
-              <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitting}>
+              <button className={`contact-form ${isSubmitSuccessful ? 'active' : ''}`} type='submit' disabled={isSubmitSuccessful || isSubmitting}>
                 <Icon children={isSubmitSuccessful ? 'check' : isSubmitting ? 'loading' : 'send'} style={{ margin: '0 0.5rem 0 0' }} />
-                {isSubmitSuccessful ? 'Envoyé !' : isSubmitting ? 'Envoie...' : 'Envoyer'}
+                {isSubmitSuccessful ? 'Merci, à bientôt !' : isSubmitting ? '...' : "S'inscrire"}
               </button>
             </Fragment>
           ) : null}
