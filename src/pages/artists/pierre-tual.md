@@ -48,6 +48,21 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: 'Le cirque '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tualLe cirque  Bronze TEP  1:1 .jpeg
+  technique: Bronze à la cire perdue Fonderie TEP Athènes
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 30
+    width: 24
+    depth: 14
+  description: Pièce unique 1/1
+  price: 3200
+  sold: false
+  contextual: true
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
@@ -128,21 +143,6 @@ works:
   price: 12000
   sold: false
   contextual: false
-- title: 'Le cirque '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualLe cirque  Bronze TEP  1:1 .jpeg
-  technique: Bronze à la cire perdue Fonderie TEP Athènes
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 30
-    width: 24
-    depth: 14
-  description: Pièce unique 1/1
-  price: 3200
-  sold: false
-  contextual: true
 - title: Monotype 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
     2.jpg
