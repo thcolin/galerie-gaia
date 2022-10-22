@@ -79,18 +79,6 @@ works:
   description: "2019"
   price: 2500
   contextual: true
-- title: Mosaïque Re(s)source N°1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
-    Mosaïque Re(s)source N°1 -2016- 55x55cm- acrylique, huile - 800 euros encadré.jpg
-  technique: 'Acrylique et huile sur toile '
-  dimensions:
-    height: 55
-    width: 55
-    depth: 
-  description: "2016  \noeuvre encadrée baguette bois blanc"
-  price: 800
-  sold: false
-  contextual: true
 - title: 'Palude 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
     re(s)source Paludes N°I-2017- 120x100cm-acrylique, pastels,fusain-2000 euros.JPG
@@ -104,23 +92,6 @@ works:
   description: "2017"
   price: 2000
   contextual: true
-- title: Le Rai profond N°4 ouest
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-wadecki-rai
-    profond 4  ouest.jpg
-  technique: 'Acrylique et pastel sur papier '
-  dimensions:
-    height: 30
-    width: 60
-    depth: 
-  description: |-
-    2019
-
-    œuvre encadrée baguette aluminium verre anti reflet
-  price: 600
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Portrait d'Elisabeth Wadecki
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-elisabeth
     wadecki portrait.JPG
