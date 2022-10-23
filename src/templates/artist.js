@@ -119,7 +119,7 @@ const Artist = ({ location, uri, ...props }) => {
                   <br/>
                   {!work.sold && (
                     <Fragment>
-                      {uri === '/artists/adolfo-arenas-alonso' ? (
+                      {id === 'adolfo-arenas-alonso' ? (
                         <button
                           class="snipcart-add-item"
                           data-item-id={`${id}-${slug((work.title || '').toLowerCase().trim())}`}
