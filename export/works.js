@@ -9,10 +9,11 @@ const PAGES_DIR = path.resolve(__dirname, '..', 'src', 'pages')
   const works = []
 
   for (const artist of await fs.readdir(path.resolve(PAGES_DIR, 'artists'))) {
-    matter(await fs.readFile(path.resolve(PAGES_DIR, 'artists', artist), 'utf-8')).data.works
-      .forEach(({ fields, styles, dimensions: { height, width, depth } = {}, ...work }) => {
-        works.push({ ...work, fields: (fields || []).join(','), styles: (styles || []).join(','), height, width, depth })
-      })
+    const { data } = matter(await fs.readFile(path.resolve(PAGES_DIR, 'artists', artist), 'utf-8'))
+
+    data.works.forEach(({ fields, styles, dimensions: { height, width, depth } = {}, ...work }) => {
+      works.push({ artist: data.title, ...work, fields: (fields || []).join(','), styles: (styles || []).join(','), height, width, depth })
+    })
   }
 
   const doc = new GoogleSpreadsheet('1FaDn9wbsw6VznJMgL_pabP-RDtT4K7nqB1R1JZaOm9s')
