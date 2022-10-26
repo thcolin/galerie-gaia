@@ -86,8 +86,8 @@ works:
     width: 64
     depth: 0
   description: 2018 aquarelle de l'installation effectuée au Musée Dobrée de Nantes
-    en 2019
-  price: 6000
+    avant les travaux en 2019
+  price: 6400
   contextual: true
 - title: 'Luxembourg jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
@@ -115,7 +115,7 @@ works:
     width: 17
     depth: 0
   description: "2011"
-  price: 2200
+  price: 2500
   contextual: true
 - title: Château des Alpilles St Rémy de Provence
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_chateau-des-alpilles-saint-remy-_2010-2019_galerie-catherine-putman-1.jpeg
@@ -151,13 +151,15 @@ works:
     width: 56
     depth: 0
   description: '2015 '
-  price: 5000
+  price: 5400
   contextual: true
+  technique: Aquarelle oeuvre originale
 - title: 'Le pavillon de la muette #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     rousse DSC01389.jpg
   technique: 'Aquarelle oeuvre originale '
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 57
