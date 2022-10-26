@@ -48,6 +48,20 @@ biography: |-
   | Georges Rousse was born in 1947 in Paris, where he lives and works today. While studying medicine, he decided to create his own architectural photo studio after having completed an apprenticeship with a professional photographer. Georges Rousse's primary material is Space, especially abandoned buildings. From the lens of his camera, he captures his paintings, which in reality contrast with the pictorial order and the flat surface of the photograph. He creates in these places a utopian form by projecting his vision of the world. In order to allow visitors to share his experience of Space, he presents, since the early 80s, his pictures in large format prints. This strong and singular work, which shifts the boundaries between traditional media, immediately made its mark on the contemporary art scene.  Since his first exhibition in Paris, at the Galerie de France in 1981, Georges Rousse has not ceased to exhibit and intervene throughout the world, in Europe, Asia (Japan, Korea, China, Nepal.), the United States, Quebec, Latin America ..., pursuing his artistic path beyond fashion.  The artist has participated in numerous biennials - Paris Biennial, Venice Biennial, Sydney Biennial. - and has received prestigious awards.  983 Villa Médicis " Hors Les Murs ", New York (USA) 1985-1987 Villa Medici, Rome Prize (Italy) 1988 ICP Prize (International Center of Photography), New York (USA) 1989 Drawing Prize of the Salon de Montrouge 1992 Romain Rolland scholarship in Calcutta (India) 1993 Grand Prix National de la Photographie 2008 Georges Rousse succeeds Sol Lewitt as Associate Member of the Royal Academy of Belgium |
 exhibitions: []
 works:
+- title: Le pavillon de la muette
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    rousse DSC01386.jpg
+  technique: Aquarellesur papier oeuvre originale
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: '2018 '
+  price: 7000
+  contextual: true
 - title: 'Exposition Galerie Gaïa 2022 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
   technique: ''
