@@ -62,20 +62,20 @@ works:
   description: ''
   price: 3700
   contextual: true
-- title: Sans titre
+- title: 'Le pavillon de la muette #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     rousse DSC01389.jpg
-  technique: 'Aquarelle '
+  technique: 'Aquarelle oeuvre originale '
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 57
+    width: 76
     depth: 0
-  description: ''
-  price: 0
+  description: "2018"
+  price: 7500
   contextual: true
-- title: Le pavillon de la muette
+- title: 'Le pavillon de la muette #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     rousse DSC01386.jpg
   technique: Aquarellesur papier oeuvre originale
