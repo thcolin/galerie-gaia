@@ -128,6 +128,18 @@ works:
   price: 3200
   sold: false
   contextual: true
+- title: Bomdock 2010
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/BAT Bomdok.jpg
+  technique: Epreuve pigmentaire 30 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 61
+    depth: 0
+  description: ''
+  price: 1600
+  contextual: true
 - title: Arles 1986
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
     Rousse - Arles1986.jpg
