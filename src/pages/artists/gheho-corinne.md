@@ -9,7 +9,7 @@ title: Guého Corinne
 location: ''
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: "# Corinne Guého\n\n> Corinne Guého, la chorégraphe\n\nDepuis 1998 Corinne
   Guého travaille autour de formes simples, les personnifie, les incarne, les poétise…
   Au delà d’essayer encore et encore de saisir l’indicible des formes, le travail
@@ -58,6 +58,19 @@ biography: "# Corinne Guého\n\n> Corinne Guého, la chorégraphe\n\nDepuis 1998
   Atelier Sylvie Pellicer - Bourges (18)\n\n\n* 2013  \n  Collective exhibition «
   Art Table ! » Centre céramique Contemporaine, La Borne"
 works:
+- title: Ancrage 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG
+  technique: 'Terre cuisson haute température '
+  fields: []
+  styles: []
+  dimensions:
+    height: 13
+    width: 17.5
+    depth: 3.5
+  description: ''
+  price: 350
+  sold: false
+  contextual: false
 - title: Ancrage pont
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrages.JPG
   technique: 'Raku nu '
@@ -81,34 +94,6 @@ works:
     height: 25.5
     width: 11.5
     depth: 11.5
-  description: ''
-  price: 1100
-  sold: false
-  contextual: false
-- title: Cylindre 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
-    2,H30,Diam12,5.jpg
-  technique: Enfumage pit fire
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 12.5
-    depth: 12.5
-  description: ''
-  price: 1200
-  sold: false
-  contextual: false
-- title: Cylindre 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-guého-cylindre
-    1 ,H29,Diam11.jpg
-  technique: Enfumage pit fire
-  fields: []
-  styles: []
-  dimensions:
-    height: 29
-    width: 11
-    depth: 11
   description: ''
   price: 1100
   sold: false
@@ -137,32 +122,6 @@ works:
     depth: 4
   description: Prix selon modèle de gauche à droite 200€ 350€ 400€
   price: 200
-  sold: false
-  contextual: false
-- title: 'Vigie '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-vigies-haute-t.JPG
-  technique: 'Cuisson haute température '
-  fields: []
-  styles: []
-  dimensions:
-    height: 15
-    width: 11
-    depth: 11
-  description: Modèle blanc 400€
-  price: 450
-  sold: false
-  contextual: false
-- title: Ancrage 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gueho-corinne-ancrage3.JPG
-  technique: 'Terre cuisson haute température '
-  fields: []
-  styles: []
-  dimensions:
-    height: 13
-    width: 17.5
-    depth: 3.5
-  description: ''
-  price: 350
   sold: false
   contextual: false
 - title: 'Portrait '
