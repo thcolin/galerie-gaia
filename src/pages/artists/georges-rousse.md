@@ -98,7 +98,7 @@ works:
     width: 92
     depth: 0
   description: "Tirage en 30 exemplaires  \n2005-2016"
-  price: 3200
+  price: 3400
   contextual: true
 - title: 'Chasse sur Rhône #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
@@ -122,7 +122,7 @@ works:
     width: 112
     depth: 
   description: "2010"
-  price: 3200
+  price: 3400
   sold: false
   contextual: true
 - title: 'Bomdock '
@@ -203,7 +203,7 @@ works:
     width: 112
     depth: 0
   description: 'Tirage en 30 exemplaires '
-  price: 3200
+  price: 3400
   contextual: true
 - title: 'Blanc Mesnil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-georges
@@ -225,7 +225,7 @@ works:
     width: 92
     depth: 
   description: 'tirage à 30 exemplaires sur commande '
-  price: 3200
+  price: 3400
   sold: false
   contextual: true
 - title: Vevey
@@ -248,7 +248,7 @@ works:
     width: 112
     depth: 
   description: "tirage à 30 exemplaires  \n2011 - 2019"
-  price: 3200
+  price: 3400
   sold: false
   contextual: true
 - title: Séoul
@@ -257,8 +257,9 @@ works:
     height: 112
     width: 92
   technique: Photographie épreuve pigmentaire
-  price: 3200
+  price: 3400
   description: 'Tirage en 30  exemplaires sur commande '
+  contextual: true
 - title: Mumbai
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mumbai.jpg
   technique: Photographie épreuve pigmentaire
@@ -267,7 +268,7 @@ works:
     width: 112
     depth: 
   description: 'tirage à 30 exemplaires sur commande '
-  price: 3200
+  price: 3400
   sold: false
   contextual: true
 - title: Exposition Georges Rousse Galerie Gaïa
