@@ -236,7 +236,7 @@ works:
     width: 92
     depth: 
   description: Tirage en 30 exemplaires
-  price: 3200
+  price: 3400
   sold: false
   contextual: true
 - title: 'Bourgoin Jallieu #2'
