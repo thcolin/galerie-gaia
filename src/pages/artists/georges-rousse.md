@@ -128,7 +128,7 @@ works:
   price: 3200
   sold: false
   contextual: true
-- title: Bomdock 2010
+- title: 'Bomdock '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/BAT Bomdok.jpg
   technique: Epreuve pigmentaire 30 exemplaires
   fields: []
@@ -137,7 +137,7 @@ works:
     height: 76
     width: 61
     depth: 0
-  description: ''
+  description: "2010"
   price: 1600
   contextual: true
 - title: Arles 1986
