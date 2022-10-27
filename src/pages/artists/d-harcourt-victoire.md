@@ -52,7 +52,7 @@ works:
     width: 50
     depth: 32
   description: ''
-  price: 
+  price: 6000
   sold: false
   contextual: false
 - title: Alliance XIII
@@ -75,7 +75,7 @@ works:
   dimensions:
     height: 76
     width: 36
-    depth: 0
+    depth: 
   description: Edition 8.Ex
   price: 5200
   contextual: false
