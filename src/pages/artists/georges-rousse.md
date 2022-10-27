@@ -70,7 +70,7 @@ works:
     height: 92
     width: 112
     depth: 0
-  description: ''
+  description: "2013"
   price: 3400
   contextual: true
   technique: 'Photographie épreuve pigmentaire '
@@ -91,7 +91,7 @@ works:
   contextual: true
 - title: 'Luxembourg jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
-    Rousse "Luxembourg" 2005-2016 - épreuve pigmentaire - 92 x 112 cm - galerie Catherine
+    Rousse "Luxembourg" 2005-2016 - épreuve pigmentaire - 92 x 112 cm - galerie Catherine
     Putman.jpg
   technique: 'Photographie épreuve pigmentaire '
   fields: []
@@ -105,7 +105,7 @@ works:
   contextual: true
 - title: 'Chasse sur Rhône #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
-    Rousse - Chasse-sur-Rhône aquarelle galerie Catherine Putman.jpg
+    Rousse - Chasse-sur-Rhône aquarelle galerie Catherine Putman.jpg
   technique: Aquarelle oeuvre originale
   fields:
   - Oeuvre sur papier
@@ -124,7 +124,7 @@ works:
     height: 92
     width: 112
     depth: 
-  description: 'Tirage en 30 exemplaires '
+  description: "2010"
   price: 3200
   sold: false
   contextual: true
