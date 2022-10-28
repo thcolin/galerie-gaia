@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Octobre 2022
+title: Novembre 2022
 location: ''
 birth: "0"
 death: "0"
@@ -21,6 +21,20 @@ works:
     depth: 0
   description: ''
   price: ''
+  contextual: false
+- title: Carr'aimant tout en grès de Annick Argant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick-argant.JPG
+  technique: 'Grès '
+  fields:
+  - Céramique
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '# [Annick ARGANT](https://galeriegaia.fr/artists/annick-argant/ "ANNICK
+    ARGANT")'
+  price: 1200
   contextual: false
 - title: William Byl et Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
@@ -67,21 +81,6 @@ works:
 
     Encadrement en bois
   price: 2400
-  contextual: false
-- title: Algue marine par Pierre Tual
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
-    tual algue ES.jpg
-  technique: 'Céramique '
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ "pierre
-    tual") exposition du 6 au 22 Octobre 2022'
-  price: 1400
   contextual: false
 - title: William Byl & Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5664.jpg
