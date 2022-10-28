@@ -45,6 +45,19 @@ biography: |-
   * 2008: Georges Rousse succeeds Sol Lewitt as Associate Member of the Royal Academy of Belgium
 exhibitions: []
 works:
+- title: Utopia
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
+    Rousse Utopia 1 .JPG
+  technique: 'Aquarelle sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 42
+    width: 52
+    depth: 0
+  description: ''
+  price: 3500
+  contextual: true
 - title: 'Exposition Galerie Gaïa 2022 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
   technique: ''
