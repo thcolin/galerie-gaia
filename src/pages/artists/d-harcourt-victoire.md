@@ -41,6 +41,19 @@ biography: "# Victoire D'Harcourt\n\n> Toute puissance ne tient qu'à un fil\n\n
   work often expresses a double feeling that links both strength and fragility in
   a whole whose balance is precarious."
 works:
+- title: Alliance Blanche
+  fields: []
+  styles: []
+  dimensions:
+    height: 41
+    width: 70
+    depth: 5
+  description: "2022"
+  price: 2400
+  contextual: false
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1741.jpg
+  technique: 'Bas relief - Poudre de marbre & résine '
+  sold: false
 - title: 'Alliance Blanche au mur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0708.JPG
   technique: 'Bas relief - Poudre de marbre et résine '
@@ -68,19 +81,6 @@ works:
   price: 6000
   sold: false
   contextual: false
-- title: Alliance Blanche
-  fields: []
-  styles: []
-  dimensions:
-    height: 41
-    width: 70
-    depth: 5
-  description: "2022"
-  price: 2400
-  contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1741.jpg
-  technique: 'Bas relief - Poudre de marbre & résine '
-  sold: false
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
