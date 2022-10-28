@@ -27,6 +27,18 @@ exhibitions:
   start: "0"
   end: 
 works:
+- title: Carr'aimant tout en grès
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick-argant.JPG
+  technique: 'Grès '
+  fields: []
+  styles: []
+  dimensions:
+    height: 23
+    width: 13
+    depth: 11
+  description: 2 formes superposées en grès et articulées sur un axe
+  price: 1200
+  contextual: true
 - title: Les grands Carr'aimant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-grands-carraimants.jpg
   technique: grés sur socle bois
@@ -35,7 +47,7 @@ works:
     width: 
     depth: 
   description: Toute la production est vendue...soyez patient ils reviennent pour
-    l'été 2021!
+    Noël 2022!
   price: 
   sold: false
   contextual: true
