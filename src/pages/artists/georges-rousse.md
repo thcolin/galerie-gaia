@@ -45,19 +45,6 @@ biography: |-
   * 2008: Georges Rousse succeeds Sol Lewitt as Associate Member of the Royal Academy of Belgium
 exhibitions: []
 works:
-- title: Utopia
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
-    Rousse Utopia 1 .JPG
-  technique: 'Aquarelle sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 52
-    depth: 0
-  description: ''
-  price: 3500
-  contextual: true
 - title: 'Exposition Galerie Gaïa 2022 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
   technique: ''
@@ -84,20 +71,63 @@ works:
   price: 3400
   contextual: true
   technique: 'Photographie épreuve pigmentaire '
-- title: 'Nantes #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Georges
-    Rousse-Nantes 2 watercolour-Galerie Catherine Putman.jpg
-  technique: 'Aquarelle oeuvre originale '
-  fields:
-  - Oeuvre sur papier
+- title: 'Blanc Mesnil '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-georges
+    rousse-diptyque balnc mesnil.png
+  technique: Photographie épreuve pigmentaire
+  dimensions:
+    height: 110
+    width: 62
+    depth: 
+  description: "tirage à 30 exemplaires  \ndiptyque deux fois 50X62 cm  \n2012"
+  price: 2400
+  sold: false
+  contextual: true
+- title: 'Bomdock '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/BAT Bomdok.jpg
+  technique: Epreuve pigmentaire 30 exemplaires
+  fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 64
+    height: 76
+    width: 61
     depth: 0
-  description: 2018 aquarelle de l'installation effectuée au Musée Dobrée de Nantes
-    avant les travaux en 2019
-  price: 6400
+  description: "2010"
+  price: 1600
+  contextual: true
+- title: Château des Alpilles St Rémy de Provence
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_chateau-des-alpilles-saint-remy-_2010-2019_galerie-catherine-putman-1.jpeg
+  technique: Photographie tirage pigmentaire
+  dimensions:
+    height: 92
+    width: 112
+    depth: 
+  description: "2010"
+  price: 3400
+  sold: false
+  contextual: true
+- title: 'Bourgoin Jallieu #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
+    Rousse_Bourgoin-Jallieu_2011-2019_galerie Catherine Putman _2A.jpg
+  technique: Photographie épreuve pigmentaire
+  dimensions:
+    height: 92
+    width: 112
+    depth: 
+  description: "tirage à 30 exemplaires  \n2011 - 2019"
+  price: 3400
+  sold: false
+  contextual: true
+- title: Vevey
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vevey.jpg
+  technique: Photographie épreuve pigmentaire
+  dimensions:
+    height: 112
+    width: 92
+    depth: 
+  description: Tirage en 30 exemplaires
+  price: 3400
+  sold: false
   contextual: true
 - title: 'Luxembourg jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
@@ -127,28 +157,33 @@ works:
   description: "2011"
   price: 2500
   contextual: true
-- title: Château des Alpilles St Rémy de Provence
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_chateau-des-alpilles-saint-remy-_2010-2019_galerie-catherine-putman-1.jpeg
-  technique: Photographie tirage pigmentaire
+- title: 'Nantes #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Georges
+    Rousse-Nantes 2 watercolour-Galerie Catherine Putman.jpg
+  technique: 'Aquarelle oeuvre originale '
+  fields:
+  - Oeuvre sur papier
+  styles: []
   dimensions:
-    height: 92
-    width: 112
-    depth: 
-  description: "2010"
-  price: 3400
-  sold: false
+    height: 50
+    width: 64
+    depth: 0
+  description: 2018 aquarelle de l'installation effectuée au Musée Dobrée de Nantes
+    avant les travaux en 2019
+  price: 6400
   contextual: true
-- title: 'Bomdock '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/BAT Bomdok.jpg
-  technique: Epreuve pigmentaire 30 exemplaires
+- title: Utopia
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
+    Rousse Utopia 1 .JPG
+  technique: 'Aquarelle sur papier '
   fields: []
   styles: []
   dimensions:
-    height: 76
-    width: 61
+    height: 42
+    width: 52
     depth: 0
-  description: "2010"
-  price: 1600
+  description: ''
+  price: 3500
   contextual: true
 - title: Arles 1986
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
@@ -164,20 +199,6 @@ works:
   price: 5400
   contextual: true
   technique: Aquarelle oeuvre originale
-- title: 'Le pavillon de la muette #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    rousse DSC01389.jpg
-  technique: 'Aquarelle oeuvre originale '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 57
-    width: 76
-    depth: 0
-  description: "2018"
-  price: 7500
-  contextual: true
 - title: 'Lisbonne #3'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     rousse DSC03485.jpg
@@ -206,6 +227,20 @@ works:
   description: '2018 '
   price: 7500
   contextual: true
+- title: 'Le pavillon de la muette #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    rousse DSC01389.jpg
+  technique: 'Aquarelle oeuvre originale '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 57
+    width: 76
+    depth: 0
+  description: "2018"
+  price: 7500
+  contextual: true
 - title: Esch sur Alzette
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_esch-sur-alzette_2009-2019_galerie-catherine-putman.jpeg
   technique: Photographie épreuve pigmentaire
@@ -218,18 +253,6 @@ works:
   description: 'Tirage en 30 exemplaires '
   price: 3400
   contextual: true
-- title: 'Blanc Mesnil '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-georges
-    rousse-diptyque balnc mesnil.png
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 110
-    width: 62
-    depth: 
-  description: "tirage à 30 exemplaires  \ndiptyque deux fois 50X62 cm  \n2012"
-  price: 2400
-  sold: false
-  contextual: true
 - title: Luxembourg blanc
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/luxembourg.jpg
   technique: Photographie épreuve pigmentaire
@@ -238,29 +261,6 @@ works:
     width: 92
     depth: 
   description: 'tirage à 30 exemplaires sur commande '
-  price: 3400
-  sold: false
-  contextual: true
-- title: Vevey
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vevey.jpg
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 112
-    width: 92
-    depth: 
-  description: Tirage en 30 exemplaires
-  price: 3400
-  sold: false
-  contextual: true
-- title: 'Bourgoin Jallieu #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
-    Rousse_Bourgoin-Jallieu_2011-2019_galerie Catherine Putman _2A.jpg
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 92
-    width: 112
-    depth: 
-  description: "tirage à 30 exemplaires  \n2011 - 2019"
   price: 3400
   sold: false
   contextual: true
