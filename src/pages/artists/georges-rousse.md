@@ -177,7 +177,7 @@ works:
     width: 41.5
     depth: 0
   description: ''
-  price: 3700
+  price: 3900
   contextual: true
 - title: 'Le pavillon de la muette #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
