@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Georges Rousse
+title: Rousse Georges
 location: ''
 fields:
 - Photographie
@@ -191,7 +191,7 @@ works:
     width: 57
     depth: 0
   description: '2018 '
-  price: 7000
+  price: 7500
   contextual: true
 - title: Esch sur Alzette
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges-rousse_esch-sur-alzette_2009-2019_galerie-catherine-putman.jpeg
