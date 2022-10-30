@@ -175,21 +175,21 @@ works:
   description: "[Jorj Morin]()\n\nPrix sur demande "
   price: ''
   contextual: false
-- title: Laure Carré Ronde sentimentale en situation à l'atelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
-    sentimentale ES.jpeg
+- title: Le boxeur Laure Carré  à l'atelier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre la boxeuse ES.jpg
   technique: 'Huile sur toile '
   fields:
   - Peinture
   styles:
   - Figuratif
   dimensions:
-    height: 73
-    width: 100
+    height: 80
+    width: 80
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
-  price: 1700
+  price: 1500
   contextual: true
 - title: 'Bram Van Velde encadré par notre atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bram

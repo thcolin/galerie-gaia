@@ -90,7 +90,7 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
-- title: La boxeuse amoureuse
+- title: 'Le boxeur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
   technique: Huile sur toile technique mixte
   dimensions:
@@ -98,7 +98,7 @@ works:
     width: 80
     depth: 
   description: ''
-  price: 1400
+  price: 1500
   sold: false
   contextual: true
 - title: Un cheval et un cactus
