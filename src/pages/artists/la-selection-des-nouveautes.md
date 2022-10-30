@@ -23,7 +23,8 @@ works:
   price: ''
   contextual: false
 - title: Carr'aimant tout en grès de Annick Argant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick-argant.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
+    argant - carrémant tout en grés.jpg
   technique: 'Grès '
   fields:
   - Céramique
@@ -35,6 +36,23 @@ works:
   description: '# [Annick ARGANT](https://galeriegaia.fr/artists/annick-argant/ "ANNICK
     ARGANT")'
   price: 1200
+  contextual: false
+- title: Blue Pacifique II par Isthme installé à l'Aménité
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme
+    ES amenité.jpg
+  technique: 'Acrylique sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Abstrait
+  dimensions:
+    height: 100
+    width: 81
+    depth: ''
+  description: "# [Isthme](https://galeriegaia.fr/artists/isthme/ \"isabelle thomas
+    isthme \")\n\n[l'Aménité](https://www.lamenite-restaurant-nantes.com/ \"l'aménité\")
+    extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
+  price: 1900
   contextual: false
 - title: William Byl et Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
@@ -141,23 +159,6 @@ works:
     depth: 6
   description: "[Jorj Morin]()\n\nPrix sur demande "
   price: ''
-  contextual: false
-- title: Blue Pacifique II par Isthme installé à l'Aménité
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme
-    ES amenité.jpg
-  technique: 'Acrylique sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Abstrait
-  dimensions:
-    height: 100
-    width: 81
-    depth: ''
-  description: "# [Isthme](https://galeriegaia.fr/artists/isthme/ \"isabelle thomas
-    isthme \")\n\n[l'Aménité](https://www.lamenite-restaurant-nantes.com/ \"l'aménité\")
-    extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
-  price: 1900
   contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre ronde
