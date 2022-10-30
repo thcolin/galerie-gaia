@@ -48,6 +48,44 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: Boires de Loire
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-18
+    Boires d'été.jpg
+  technique: Aquarelle Sennelier+ rehauts de graphite, de pastel gras et d’encre Papier
+    aquarelle marouflé sur carton et sous- verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: Cette aquarelle, prise sur le vif, devant une succession de boires
+    de Loire, saisie le bleu du ciel qui se reflète par petites touches comme un ricochet
+    et vient illuminer les verts sombres du fleuve laissés dans l’ombre. Traités par
+    griffures à l’encre, les nuages viennent se mélanger aux frondaisons des frênes
+    et des peupliers. Instant de bonheur de fin d’été passé à côté d’Anna qui peint
+    également.
+  price: 980
+  sold: false
+  contextual: true
+- title: Paysage de Loire
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-p22-17
+    paysage de Loire.jpg
+  technique: Aquarelle Sennelier+ rehauts de graphite Papier aquarelle marouflé sur
+    carton et sous- verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: |-
+    Cette aquarelle, prise sur le vif, au milieu du bras de sable asséché de la Loire durant cet été 2022. Lieu hors du temps et du chaos environnant, peu marqué par la présence humaine; uniquement par le train dont les soubresauts sonores rappellent le passage fugace de la civilisation.
+
+    Peinte le 14 juillet, loin des bruits de la ville, les arbres qui bordent le chemin du fleuve royal offrent des milliers de teintes de verts à explorer. Le ciel se cache et réapparaît au travers les frondaisons d’été, le soleil pèse de tout son poids, l’eau couvre mes pieds de sa fraicheur bienfaisante. Je suis heureux et à ma place, perdu dans les reflets qui se mirent à la surface irisée des boires dont les contours mous indolents ondulent à la lumière sans cesse différente.
+  price: 980
+  sold: false
+  contextual: true
 - title: Lit de Loire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-16-
     lit de Loire.jpg
