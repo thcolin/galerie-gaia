@@ -22,6 +22,21 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: William Byl et Versants
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
+  technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant
+  fields:
+  - Céramique
+  - Estampe
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[William Byl](https://galeriegaia.fr/artists/byl-william/ "wiliam
+    byl") nouvel artiste de la galerie depuis Octobre 2022'
+  price: 2400
+  contextual: false
 - title: Carr'aimant tout en grès de Annick Argant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
     argant - carrémant tout en grés.jpg
@@ -54,20 +69,20 @@ works:
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
-- title: William Byl et Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
-  technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant
+- title: Jardin des plantes par Yann Peron
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-jardin
+    des plantes ES.JPG
+  technique: Aquarelle sur papier
   fields:
-  - Céramique
-  - Estampe
-  styles: []
+  - Oeuvre sur papier
+  styles:
+  - Figuratif
   dimensions:
-    height: 0
-    width: 0
+    height: 29
+    width: 83
     depth: 0
-  description: '[William Byl](https://galeriegaia.fr/artists/byl-william/ "wiliam
-    byl") nouvel artiste de la galerie depuis Octobre 2022'
-  price: 2400
+  description: '# [Yann Peron](https://galeriegaia.fr/artists/peron-yann/ "yann peron")'
+  price: 980
   contextual: false
 - title: Dessin Kerinos par Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
@@ -191,20 +206,6 @@ works:
   description: '# [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
     "van velde bram") '
   price: 900
-  contextual: false
-- title: XXI 40 116 de Pierre Muckensturm
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
-    40 116-65x50-gravure-es.jpg
-  technique: 'carborundum sur découpes de plaques de métal imprimé sur papier BFK
-    Rives 250 g/m2 margé '
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: "# [Pierre Muckensturm](https://galeriegaia.fr/artists/pierre-muckensturm/)"
-  price: 500
   contextual: false
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
