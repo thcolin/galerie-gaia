@@ -68,6 +68,43 @@ works:
   price: 980
   sold: false
   contextual: true
+- title: 'Sur la route '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-23
+    sur la route.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
+    et sous- verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: Cette oeuvre a été peinte de mémoire. Vitesse et sensations de défilement
+    ont guidé mes gestes. Le champ de blé se mélange aux frondaisons des chênes qui
+    s’étirent en trainées de verts sombres.
+  price: 980
+  sold: false
+  contextual: true
+- title: 'Jardin des plantes Nantes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-19
+    jardin des plantes.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
+    et sous- verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: Cette aquarelle, prise sur le vif au jardin des plantes de Nantes est
+    la seconde d’une série de travaux sur les reflets dans les milieux naturels.Ce
+    sont les gunnera au bord de l’étang qui m’ont séduits. Les ombres qui les découpent,
+    leur présence exotique qui semble cacher un mammifère tapi dans l’obscurité. Essai
+    de reflets et de couleurs observées longtemps avant de poser le pinceau sur la
+    feuille. Anna revient.
+  price: 980
+  sold: false
+  contextual: true
 - title: Paysage de Loire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-p22-17
     paysage de Loire.jpg
