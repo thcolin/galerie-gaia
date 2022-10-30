@@ -96,21 +96,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Clair obscur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -yann
-    peron-clair obscur 122X120.JPG
-  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 122
-    width: 100
-    depth: 
-  description: ''
-  price: 3800
-  sold: false
-  contextual: true
 - title: Salomé 2015-02
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
@@ -130,41 +115,6 @@ works:
     entrelacs formés par les coups de graphite et les touches de peinture nerveuses
     dessine la silhouette onctueuse de ce modèle bien vivant."
   price: 4000
-  sold: false
-  contextual: true
-- title: Marie 2015-03
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 02.jpg
-  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
-    peuplier Cadre frêne thermo-chauffé profondeur 5 cm, huilé.
-  fields: []
-  styles: []
-  dimensions:
-    height: 171
-    width: 120
-    depth: 
-  description: "Format tableau hors cadre : 161 x 110 cm  \n  \nCette œuvre a été
-    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
-    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
-    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCette peinture gestuelle met en
-    lumière malgré la position de retrait du modèle avec ses mains levées, la délicatesse
-    du ventre, des cuisses par contraste face le fond noir et gris. L’emploi de la
-    couleur en traits gras affine le contours du corps de la femme si fragile si vivante."
-  price: 5600
-  sold: false
-  contextual: true
-- title: Léo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -yann
-    peron-leo- 117X90.JPG
-  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 117
-    width: 90
-    depth: 
-  description: Vendue
-  price: 
   sold: false
   contextual: true
 - fields: []
@@ -199,39 +149,6 @@ works:
     ce tableau est cette confrontation du haut et du bas dans laquelle Alice se dissous.
     C’est une matière aquarellée qui s’ancre dans les couleurs grasses et huileuses.
   price: 2500
-  sold: false
-  contextual: true
-- fields: []
-  styles: []
-  dimensions:
-    height: 155
-    width: 120
-    depth: 
-  description: Lors d’une séance de modèle vivant, sur grand format, j’ai exécuté
-    cette aquarelle de manière intense et libre. C’est un crayonné gestuel, aquarellé
-    qui tente de capter la vie de ce couple fugace.
-  price: 3200
-  contextual: true
-  title: Ensemble 10mn
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-ensemble-155X120.jpeg
-  technique: Aquarelle senelier + rehauts de pastel à l'huile papier arche marouflé
-    sur cp peuplier
-  sold: false
-- title: Autoportrait 2020_07
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-autoportrait
-    20-07.JPG
-  technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 140
-    width: 100
-    depth: 
-  description: Autoportrait réalisé pendant Pâques 2020. Coeur arraché, lumière figée
-    sur les rides et les reliefs que la vie dessine sur mon visage. Regard concentré
-    et fixé sur le spectateur. En 7 séances seul face à moi- même.
-  price: 6000
   sold: false
   contextual: true
 - title: Portrait de l'artiste
