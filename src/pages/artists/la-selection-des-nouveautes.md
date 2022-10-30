@@ -142,9 +142,9 @@ works:
   description: "[Jorj Morin]()\n\nPrix sur demande "
   price: ''
   contextual: false
-- title: Blue Pacifique II par Isthme
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-blue
-    pacifique2 ES.jpg
+- title: Blue Pacifique II par Isthme installé à l'Aménité
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme
+    ES amenité.jpg
   technique: 'Acrylique sur toile '
   fields:
   - Peinture
@@ -154,8 +154,9 @@ works:
     height: 100
     width: 81
     depth: ''
-  description: '# [Isthme](https://galeriegaia.fr/artists/isthme/ "isabelle thomas
-    isthme ")'
+  description: "# [Isthme](https://galeriegaia.fr/artists/isthme/ \"isabelle thomas
+    isthme \")\n\n[l'Aménité](https://www.lamenite-restaurant-nantes.com/ \"l'aménité\")
+    extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
 - title: Laure Carré Ronde sentimentale en situation à l'atelier
@@ -177,17 +178,17 @@ works:
 - title: 'Bram Van Velde encadré par notre atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bram
     van velde ES cadre.JPG
-  technique: Sérigraphie 121/125
+  technique: Lithographie
   fields:
   - Oeuvre sur papier
   styles:
-  - Figuratif
+  - Abstrait
   dimensions:
     height: 80
     width: 80
     depth: 0
-  description: Dernières éditions de [**Cleon Peterson**](https://galeriegaia.fr/artists/estampes/
-    "cleon peterson") 2021
+  description: '# [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
+    "van velde bram") '
   price: 900
   contextual: false
 - title: XXI 40 116 de Pierre Muckensturm
