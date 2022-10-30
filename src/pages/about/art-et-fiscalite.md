@@ -1,22 +1,22 @@
 ---
 template: about
 content:
-- column: "# Défiscaliser : la location leasing d’œuvres d'art en entreprise?\n\n##
-    Marque employeur RSE bien-être au travail grâce à l'art\n\nDans des **bureaux
-    nouvelles générations,** la tendance de fond va bien au-delà d'un mobilier design,
-    d'une table de ping-pong pour donner une ambiance chaleureuse et renforcer l'identité
-    de votre entreprise **auprès de vos clients et collaborateurs.**  \nComment concrétiser
-    les intentions de la **RSE**, comment renforcer **la marque employeur**, comment
-    rendre concret le **bien-être au travail** ?  \nToutes ces intentions peuvent
-    être **boostées par l'installation d’œuvres d'artistes** **qui humanisent l'espace,
-    améliorent la créativité et stimulent l'esprit coopératif.**\n\nAprès la définition
-    de votre projet, je vous accompagne dans chaque étape :\n\n* **Sélection d’œuvres
-    disponibles dans le** [**catalogue**](https://galeriegaia.fr/catalogue/ \"catalogue
-    galerie gaia\") **sur le site** de la galerie (photos - sérigraphies - sculptures-
-    peintures)  à partir de 50€ .\n* **Sourcing d’œuvres spécifiques** selon vos critères
-    de style et de budget.\n* **Gestion d'un projet de création d'une fresque murale**
-    intérieure ou extérieure,  par un artiste graffeur (street-art) en faisant participer
-    vos équipes  ([rubrique Événementiel](https://galeriegaia.fr/about/evenementiel/
+- column: "# Défiscaliser : la location leasing d’œuvres d'art.\n\n## Marque employeur
+    RSE bien-être au travail grâce à l'art\n\nDans des **bureaux nouvelles générations,**
+    la tendance de fond va bien au-delà d'un mobilier design, d'une table de ping-pong.
+    Pour donner une ambiance chaleureuse et renforcer l'identité de votre entreprise
+    **auprès de vos clients et collaborateurs une oeuvre d'art marque la différence.**
+    \ \nComment concrétiser les intentions de la **RSE**, comment renforcer **la marque
+    employeur**, comment rendre concret le **bien-être au travail** ?  \nToutes ces
+    intentions peuvent être **boostées par l'installation d’œuvres d'artistes** **qui
+    humanisent l'espace, améliorent la créativité et stimulent l'esprit coopératif.**\n\nAprès
+    la définition de votre projet, je vous accompagne dans chaque étape :\n\n* **Sélection
+    d’œuvres disponibles dans le** [**catalogue**](https://galeriegaia.fr/catalogue/
+    \"catalogue galerie gaia\") **sur le site** de la galerie (photos - sérigraphies
+    - sculptures- peintures)  à partir de 50€ .\n* **Sourcing d’œuvres spécifiques**
+    selon vos critères de style et de budget.\n* **Gestion d'un projet de création
+    d'une fresque murale** intérieure ou extérieure,  par un artiste graffeur (street-art)
+    en faisant participer vos équipes  ([rubrique Événementiel](https://galeriegaia.fr/about/evenementiel/
     \"fresque mural street art\"))\n* **Réalisation d'une installation** visuelle,
     sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage de votre
     entreprise...([rubrique architecture)](https://galeriegaia.fr/about/immobilier-architecture/
