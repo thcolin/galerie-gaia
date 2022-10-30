@@ -48,6 +48,46 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: Lit de Loire
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-16-
+    lit de Loire.jpg
+  technique: Aquarelle Sennelier+ rehauts de graphite / Papier aquarelle marouflé
+    sur carton et sous- verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: Cette aquarelle, prise sur le vif, au milieu du bras de sable asséché
+    de la Loire durant cet été. Lieu hors du temps et du chaos environnant, peu marqué
+    par la présence humaine; uniquement par le train dont les soubresauts sonores
+    rappellent le passage fugace de la civilisation. Jetées par touches de couleurs,
+    surlignée au crayon gras, les boires du fleuve recueillent les reflets du ciel
+    conférant aux bancs de sable une présence flottante. Nous sommes ailleurs lorsque
+    que l’on se couche dans le lit de la Loire. La paradis est tout près.
+  price: 980
+  sold: false
+  contextual: true
+- title: Eau douce du Havre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-15-
+    eau douce du Havre.jpg
+  technique: Aquarelle Sennelier+ rehauts de graphite Papier aquarelle marouflé sur
+    carton et sous- verre anti-reflet
+  fields: []
+  styles: []
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: Cette aquarelle, prise sur le vif, les pieds dans la rivière traduit
+    l’onde aquatique comme autant de reflets venant des risées du ciel que des mouvements
+    sous l’eau du Havre. Extrait de mon carnet de croquis, ce format contient deux
+    pages, ce qui cadre le motif comme un paysage, vécu comme un moment passé avec
+    la Nature. Merci à elle pour sa générosité et sa beauté.
+  price: 980
+  sold: false
+  contextual: true
 - title: Dos d'Alice
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-02-05 à 18.50.13.png
