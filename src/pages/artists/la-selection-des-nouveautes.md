@@ -174,9 +174,9 @@ works:
     carré")'
   price: 1700
   contextual: true
-- title: 'Cleon Peterson Flowers of evil the kiss (white) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
-    cleon.jpg
+- title: 'Bram Van Velde encadré par notre atelier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bram
+    van velde ES cadre.JPG
   technique: Sérigraphie 121/125
   fields:
   - Oeuvre sur papier
