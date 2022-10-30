@@ -90,6 +90,34 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Un cheval et un cactus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carré-un cheval et un cactus.jpeg
+  technique: Technique mixte sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 32
+    width: 24
+    depth: 0
+  description: '2022oeuvre encadrée passe partout et sous verre '
+  price: 400
+  contextual: true
+- title: 'Buste de femme '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre -buste de femme.jpeg
+  technique: Technique mixte sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 30
+    width: 24
+    depth: 0
+  description: '2022 œuvre encadrée sous verre et passe partout blanc '
+  price: 400
+  contextual: true
 - title: La boxeuse amoureuse
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
   technique: Huile sur toile technique mixte
