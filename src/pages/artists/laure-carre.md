@@ -90,6 +90,17 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: La boxeuse amoureuse
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
+  technique: Huile sur toile technique mixte
+  dimensions:
+    height: 80
+    width: 80
+    depth: 
+  description: ''
+  price: 1400
+  sold: false
+  contextual: true
 - title: Autoportrait rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
     rose-160X130.jpeg
@@ -206,43 +217,6 @@ works:
   description: "2020"
   price: 330
   contextual: true
-- title: 'Ombre rebelle '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-ombre-rebelle-20x30.jpeg
-  technique: Dessin huile sur papier encadrement baguette chêne
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 20
-    width: 30
-    depth: 0
-  description: "2020"
-  price: 330
-  contextual: true
-- title: En toi
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-en-toi-54x81.jpeg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 54
-    width: 81
-    depth: 0
-  description: "2020"
-  price: 1300
-  contextual: true
-- title: 'Jamais sans mon arbre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-jamais-sans-mon-arbre-80x80.JPG
-  technique: Huile sur toile et technique mixte
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: "2020"
-  price: 1600
-  contextual: true
 - title: Rêve de cheval
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg
   technique: 'Huile sur toile et technique mixte '
@@ -278,48 +252,6 @@ works:
     width: 72
   description: 06/2018
   price: 1600
-  contextual: true
-- title: Playing with Laïka on the moon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-playingwithLaikaonthemoon-130X162.jpeg
-  technique: Huile sur toile
-  dimensions:
-    height: 162
-    width: 130
-  description: '09/2019'
-  price: 3000
-  contextual: false
-- title: Une chaise la nuit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-unechaiselanuit-20X20-0320.jpeg
-  technique: 'Encre sur papier '
-  dimensions:
-    height: 20
-    width: 20
-  description: "2020"
-  price: 200
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: La boxeuse amoureuse
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
-  technique: Huile sur toile technique mixte
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: ''
-  price: 1400
-  sold: false
-  contextual: true
-- title: La nuit la piscine
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-nuit-la-piscine.jpg
-  technique: Mixte sur toile
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: Collection privée de la galerie Gaïa
-  price: ''
-  sold: false
   contextual: true
 - title: 'Walk in the kingdom '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/walk-in-the-kingdom-1418.jpg

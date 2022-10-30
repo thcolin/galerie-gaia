@@ -46,8 +46,8 @@ biography: |-
 exhibitions: []
 works:
 - title: Bram Van Velde encadrée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bram
-    van velde ES cadre.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -bram
+    van velde ES cadre2022.jpg
   technique: Lithographie
   fields: []
   styles: []
