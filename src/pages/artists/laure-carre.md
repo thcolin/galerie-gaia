@@ -90,6 +90,17 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: La boxeuse amoureuse
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
+  technique: Huile sur toile technique mixte
+  dimensions:
+    height: 80
+    width: 80
+    depth: 
+  description: ''
+  price: 1400
+  sold: false
+  contextual: true
 - title: Un cheval et un cactus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
     carré-un cheval et un cactus.jpeg
@@ -117,17 +128,6 @@ works:
     depth: 0
   description: '2022 œuvre encadrée sous verre et passe partout blanc '
   price: 400
-  contextual: true
-- title: La boxeuse amoureuse
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
-  technique: Huile sur toile technique mixte
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: ''
-  price: 1400
-  sold: false
   contextual: true
 - title: Autoportrait rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
