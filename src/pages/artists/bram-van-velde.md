@@ -45,6 +45,20 @@ biography: |-
   * 2011: Bram van Velde - Geer Van Velde, Museum Belvédère, Heerenveen
 exhibitions: []
 works:
+- title: Bram Van Velde encadrée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bram
+    van velde ES cadre.JPG
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Projet d'encadrement avec verre musée baguette chêne et montage caisson
+    réalisée par notre atelier d'encadrement
+  price: 1700
+  contextual: false
 - title: 'MP 167 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-167-32100.jpg
   technique: Lithographie 32/100
