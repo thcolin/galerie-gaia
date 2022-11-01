@@ -31,7 +31,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Du 10 au 13 Novembre 2022   \nCale 2 des créateurs "
+  description: "**La 5ème Nuit des Galeries à Nantes**  \n**NOUVEAU FORMAT**  \n 1
+    seul lieu   \n 6 galeries  \n 4 jours d'exposition  \n 3 **nocturnes** 12H - 23H
+    \ \n 1 dimanche 12H - 18H  \n   \n jeudi 10 au dimanche 13 Novembre 2022"
   price: ''
   contextual: true
 - title: 'Nuit des Galeries #5'
