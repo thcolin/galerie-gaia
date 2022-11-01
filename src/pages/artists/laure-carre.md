@@ -34,7 +34,7 @@ biography: |-
   * 2016 Galerie IKI - Paris
   * 2015,14,12 ,05 - Galerie Antireflets - Nantes
   * 2014 Galerie Loïc Vallée - Nantes
-  * 2013 Galerie Le Temple du Goût -Nantes
+  * 2013 Galerie Le Temple du Goût -Nante
   * 2013 Galerie Le Rayon vert- Nantes
   * 2011 Galerie S.Davar - Paris
   * 2004 Galerie W - Paris
