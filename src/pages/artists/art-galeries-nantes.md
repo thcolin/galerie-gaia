@@ -36,7 +36,7 @@ works:
     \ \n 1 dimanche 12H - 18H  \n   \n jeudi 10 au dimanche 13 Novembre 2022"
   price: ''
   contextual: true
-- title: 'Nuit des Galeries #5'
+- title: 'La liste des 6 galeries de la Nuit des Galeries #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Flyer_LANUITDESGALERIES_verso_web.jpg
   fields: []
   styles: []
@@ -44,8 +44,11 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
-  price: 0
+  description: '[Galerie Albane](https://www.galerie-albane.com/ "albane galerie")
+    - [le 56](https://le56.fr/ "GALERIE LE 56") - [Le Triphazé]() - [Galerie des oubliés](https://galeriedesoublies.com/
+    "LES OUBLIES GALERIE") - [Le Rez de Chaussée](https://lerezdechaussee-nantes.com/
+    "LE RDC NANTES ")'
+  price: ''
   contextual: true
 - title: Art Galeries Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Art_Galeries_logo_jaune.png
