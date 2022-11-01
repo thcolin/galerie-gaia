@@ -102,8 +102,7 @@ works:
   sold: false
   contextual: true
 - title: Un cheval et un cactus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carré-un cheval et un cactus.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1788.jpg
   technique: Technique mixte sur papier
   fields:
   - Oeuvre sur papier
@@ -116,8 +115,7 @@ works:
   price: 400
   contextual: true
 - title: 'Buste de femme '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carre -buste de femme.jpeg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1787.jpg
   technique: Technique mixte sur papier
   fields:
   - Oeuvre sur papier
