@@ -66,6 +66,19 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- title: XXI 58 150
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
+    XXI 58 150 copie.jpg
+  technique: Encre noire et crayon sur papier Fabriano 160 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 600
+  contextual: true
 - title: 'XXI 56 150 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
     XXI 56 150 copie.jpg
@@ -143,20 +156,6 @@ works:
     depth: 0
   description: "2021"
   price: 600
-  contextual: true
-- title: '203R0946 composition à 6 angles  à Entas '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 203R0946
-    copie.jpg
-  technique: Technique gravure carborundum et eau forte sur zinc imprimée sur Papier
-    BFK Rives 250 gr/m2 margé
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: "2020"
-  price: 500
   contextual: true
 - title: 20m1886
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 20m188.6
@@ -457,6 +456,20 @@ works:
     width: 50
     depth: 0
   description: "Tirage 7 exemplaires sur commande  \n2020"
+  price: 500
+  contextual: true
+- title: '203R0946 composition à 6 angles  à Entas '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 203R0946
+    copie.jpg
+  technique: Technique gravure carborundum et eau forte sur zinc imprimée sur Papier
+    BFK Rives 250 gr/m2 margé
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: "2020"
   price: 500
   contextual: true
 - title: 191J24012 (6/30)
