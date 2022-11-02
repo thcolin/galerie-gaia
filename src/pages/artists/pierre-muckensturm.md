@@ -66,7 +66,7 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
-- title: 203R0946 composition à 6 angles  à Entas -
+- title: '203R0946 composition à 6 angles  à Entas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 203R0946
     copie.jpg
   technique: Technique gravure carborundum et eau forte sur zinc imprimée sur Papier
