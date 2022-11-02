@@ -66,6 +66,34 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- title: 20m1885
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 20m188.5
+    24x44.jpg
+  technique: Impression au carborundum sur papier BFK Rives marouflée sur toile et
+    cadre bois naturel
+  fields: []
+  styles: []
+  dimensions:
+    height: 24
+    width: 44
+    depth: 0
+  description: "2020"
+  price: 800
+  contextual: true
+- title: 20m1884
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 20m188.4
+    24,5x64 copie.jpg
+  technique: Impression au carborundum sur papier BFK Rives marouflée sur toile et
+    cadre bois naturel
+  fields: []
+  styles: []
+  dimensions:
+    height: 24.5
+    width: 64
+    depth: 0
+  description: "2020"
+  price: 1150
+  contextual: true
 - title: 20m1882
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 20m188.2
     45x31 copie.jpg
