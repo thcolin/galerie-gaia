@@ -66,6 +66,30 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- title: 'XXII 07 010 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 08 010 copie.jpg
+  technique: Gravure eau forte sur cuivre imprimée sur papier BFK Rives 250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 38
+    width: 28
+    depth: 0
+  description: "2022"
+  price: 350
+  contextual: true
+- title: 'XXII 06 010 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 06 010 copie.jpg
+  technique: Gravure eau forte sur cuivre imprimée sur papier BFK Rives 250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 48
+    width: 38
+    depth: 0
+  description: "2022"
+  price: 400
+  contextual: true
 - title: XXII 41 074
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
     XXII 41 074 n°11 et 12:15 copie.jpg
