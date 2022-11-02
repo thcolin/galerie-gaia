@@ -66,6 +66,45 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- title: 'XXI 56 150 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
+    XXI 56 150 copie.jpg
+  technique: Encre noire et crayon sur papier Fabriano 160 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 600
+  contextual: true
+- title: 'XXI 48 150 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
+    XXI 48 150 copie.jpg
+  technique: Encre noire et crayon sur papier Fabriano 160 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 450
+  contextual: true
+- title: 'XXI 25 034 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
+    XXI 25 034 copie.jpg
+  technique: Crayon et encre de Chine sur papier BFK Rives 250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: "2021"
+  price: 1200
+  contextual: true
 - title: XXI 4 005
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
     XXI 4 005 copie.jpg
