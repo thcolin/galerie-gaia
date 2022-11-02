@@ -66,6 +66,19 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- fields: []
+  styles: []
+  dimensions:
+    height: 183
+    width: 183
+    depth: 0
+  description: "2012"
+  price: 11700
+  contextual: true
+  title: 14P1834
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/12P1831 renommée
+    14P1834 recto copie.jpg
+  technique: 'Technique mixte & huile sur toile '
 - title: XXI 40 116
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure.jpg
