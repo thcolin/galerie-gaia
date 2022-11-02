@@ -314,16 +314,30 @@ works:
   description: Triptyque 50cmx50cm
   price: 1200
   contextual: false
-- title: '203R0944 - composition à 6 angles  à Entas '
+- title: 203R0941 -  composition à 6 angles  à Entas -
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    p 203R0944.jpg
-  technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
-    BFK Rives 250  gr/m2 margé
+    p 203R0941.jpg
+  technique: Technique  gravure carborundum et  eau forte sur zinc  imprimée sur Papier
+    BFK  Rives 250 gr/m2 margé
   dimensions:
     height: 65
     width: 50
     depth: 0
-  description: "Tirage 7 exemplaires sur commande  \n2020"
+  description: "Tirage 7 exemplaires ex n°4/7 en vente  \nRéalisation 2020"
+  price: 500
+  contextual: true
+- title: 203R0942 composition à 6 angles  à Entas -
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 203R0942
+    copie.jpg
+  technique: Technique gravure carborundum et eau forte sur zinc imprimée sur Papier
+    BFK Rives 250 gr
+  fields: []
+  styles: []
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: "2020"
   price: 500
   contextual: true
 - title: '203R0943 - composition à 6 angles  à Entas '
@@ -341,16 +355,16 @@ works:
     Réalisation 2020
   price: 500
   contextual: true
-- title: 203R0941 -  composition à 6 angles  à Entas -
+- title: '203R0944 - composition à 6 angles  à Entas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
-    p 203R0941.jpg
-  technique: Technique  gravure carborundum et  eau forte sur zinc  imprimée sur Papier
-    BFK  Rives 250 gr/m2 margé
+    p 203R0944.jpg
+  technique: Technique  gravure carborundum et eau forte sur  zinc  imprimée sur Papier
+    BFK Rives 250  gr/m2 margé
   dimensions:
     height: 65
     width: 50
     depth: 0
-  description: "Tirage 7 exemplaires ex n°4/7 en vente  \nRéalisation 2020"
+  description: "Tirage 7 exemplaires sur commande  \n2020"
   price: 500
   contextual: true
 - title: 191J24012 (6/30)
