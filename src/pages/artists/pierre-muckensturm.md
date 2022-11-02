@@ -66,6 +66,19 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- title: 'XXI 46 150 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckenstum
+    XXI 46 150 copie.jpg
+  technique: Encre noire et crayon sur papier Fabriano 160 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2021"
+  price: 600
+  contextual: true
 - title: '203R0946 composition à 6 angles  à Entas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm p 203R0946
     copie.jpg
