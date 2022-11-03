@@ -66,6 +66,44 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
+- title: 2021P3392
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1814.jpg
+  technique: Crayon, encre et encre de Chine sur papier BFK Rives 250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: "2020"
+  price: 1550
+  contextual: true
+- title: 2023P3472
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1820.jpg
+  technique: Crayon, crayon de couturier et peinture acrylique sur papier BFK Rives
+    250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2020"
+  price: 600
+  contextual: true
+- title: '2026P3571 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1818.jpg
+  technique: Crayon, crayon de couturier et peinture acrylique sur papier BFK Rives
+    250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 56
+    width: 76
+    depth: 0
+  description: "2020"
+  price: 1550
+  contextual: true
 - title: 'XXII 07 010 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 08 010 copie.jpg
   technique: Gravure eau forte sur cuivre imprimée sur papier BFK Rives 250 g
