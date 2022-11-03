@@ -222,7 +222,7 @@ works:
     height: 70
     width: 50
     depth: 
-  description: "\n"
+  description: 11/18
   price: 200
   sold: false
   contextual: true
