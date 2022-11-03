@@ -44,7 +44,7 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
-- title: Montagne dans forme
+- title: Colimaçon
   technique: 'Sérigraphie '
   fields: []
   styles: []
@@ -52,10 +52,10 @@ works:
     height: 45
     width: 35
     depth: 0
-  description: Exemplaire 15/15
-  price: 150
+  description: Exemplaire 5/12
+  price: 200
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia montagnedansforme.marievandooren.découpageetsérigraphie.24x30.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.colimaçon.50x70.2021.jpg
 - title: La forme du ciel 3
   technique: Découpage et sérigraphie
   fields: []
@@ -104,20 +104,6 @@ works:
   description: "Image 40X30  \n2021"
   price: 150
   contextual: true
-- title: No where
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-nowhere-photographieargentique-40x60cm-5ex-2021.jpg
-  technique: Photographie et tirage papier argentique 5 exemplaires
-  fields:
-  - Photographie
-  styles:
-  - Figurtaif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: ''
-  price: 300
-  contextual: true
 - title: 2 baigneurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphietrichromie.2baigneurs.70x50.jpg
   technique: Sérigraphie trichromie
@@ -143,17 +129,17 @@ works:
   description: ''
   price: 200
   contextual: true
-- title: Les Sables d'Olonne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.sérigraphie.les
-    sables.50x70.jpg
-  technique: Sérigraphie trichromie
+- title: 'Fête foraine '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.cieux
+    forains.50x70.sérigraphie.2022 .jpg
+  technique: 'Sérigraphie '
   fields: []
   styles: []
   dimensions:
     height: 50
     width: 70
     depth: 0
-  description: ''
+  description: 1/8 2022
   price: 200
   contextual: true
 - title: Forme d'architecture 4
