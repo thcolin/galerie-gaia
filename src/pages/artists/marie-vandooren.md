@@ -44,6 +44,33 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
+- title: YMCA Rose
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.ymca
+    rose.2022.50x70 .jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 7/10 2022
+  price: 200
+  contextual: true
+- title: Vestige 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.vestige2.2021.50x70
+    .jpg
+  technique: Sérigraphie
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 6/11 2021
+  price: 200
+  contextual: true
 - title: Colimaçon
   technique: 'Sérigraphie '
   fields: []
@@ -68,6 +95,45 @@ works:
   price: 140
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laformeduciel3.marievandooren.découpageetsérigraphie.24x30.jpg
+- title: 'Jardin des plantes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.jardin
+    des plantes.sérigraphie.2022.50x70 .jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 4/30 2022
+  price: 200
+  contextual: true
+- title: Plongeoir fumée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.plongeoir
+    fumée.2022.50x70.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 5/11 2022
+  price: 200
+  contextual: true
+- title: 'Fête foraine '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.cieux
+    forains.50x70.sérigraphie.2022 .jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 1/8 2022
+  price: 200
+  contextual: true
 - title: La forme du ciel 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laformeduciel1.marievandooren.découpageetsérigraphie.24x30.jpg
   technique: Découpage et sérigraphie
@@ -129,19 +195,6 @@ works:
   description: ''
   price: 200
   contextual: true
-- title: 'Fête foraine '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.cieux
-    forains.50x70.sérigraphie.2022 .jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 70
-    depth: 0
-  description: 1/8 2022
-  price: 200
-  contextual: true
 - title: Forme d'architecture 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture4.70x50.jpg
   technique: Acrylique sur papier
@@ -188,32 +241,6 @@ works:
     depth: 0
   description: 13/16 2019
   price: 130
-  contextual: true
-- title: 'Jardin des plantes '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.jardin
-    des plantes.sérigraphie.2022.50x70 .jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: 4/30 2022
-  price: 200
-  contextual: true
-- title: Plongeoir fumée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.plongeoir
-    fumée.2022.50x70.jpg
-  technique: Sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: 5/11 2022
-  price: 200
   contextual: true
 - title: Palindrome 3 couleurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/palindrome.jpg
