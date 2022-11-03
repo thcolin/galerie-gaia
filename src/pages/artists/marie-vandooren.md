@@ -168,12 +168,12 @@ works:
   contextual: true
 - title: Béton volant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg
-  technique: sérigraphie en 15 exemplaires
+  technique: sérigraphie en 16 exemplaires
   dimensions:
     height: 70
     width: 50
     depth: 
-  description: "2020"
+  description: "2021"
   price: 200
   sold: false
   contextual: true
@@ -186,23 +186,25 @@ works:
     height: 40
     width: 30
     depth: 0
-  description: ''
-  price: 120
+  description: 13/16 2019
+  price: 130
   contextual: true
-- title: Visage montagne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_visagemontagne_sérigraphie_30x40_2021.jpg
-  technique: Sérigraphie 9/9
+- title: 'Jardin des plantes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.jardin
+    des plantes.sérigraphie.2022.50x70 .jpg
+  technique: 'Sérigraphie '
   fields: []
   styles: []
   dimensions:
-    height: 50
-    width: 34
+    height: 70
+    width: 50
     depth: 0
-  description: "Format image 40X30 cm  \n2021"
-  price: 130
+  description: 4/30 2022
+  price: 200
   contextual: true
-- title: Palindrome 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-palindrome3-50x70cm-5ex-2019-1.jpg
+- title: Plongeoir fumée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.plongeoir
+    fumée.2022.50x70.jpg
   technique: Sérigraphie
   fields: []
   styles: []
@@ -210,7 +212,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: ''
+  description: 5/11 2022
   price: 200
   contextual: true
 - title: Palindrome 3 couleurs
