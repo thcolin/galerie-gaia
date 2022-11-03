@@ -312,20 +312,6 @@ works:
   description: "2020"
   price: 800
   contextual: true
-- title: 20m1884
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 20m188.4
-    24,5x64 copie.jpg
-  technique: Impression au carborundum sur papier BFK Rives marouflée sur toile et
-    cadre bois naturel
-  fields: []
-  styles: []
-  dimensions:
-    height: 24.5
-    width: 64
-    depth: 0
-  description: "2020"
-  price: 1150
-  contextual: true
 - title: 20m1882
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/muckensturm 20m188.2
     45x31 copie.jpg
@@ -380,24 +366,6 @@ works:
   description: "2021 Edition 10/15  \n\\[mise en contact de vingt quadrilatères courbes
     réalisés en assemblant deux angles avec entas positionnés à -2,2°/0°/+2,2°\\]"
   price: 500
-  contextual: true
-- title: Triptyque XXI 42 117 ABC
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
-    42 117 ABC-76x56-gravure-es.jp.jpg
-  technique: carborundum sur découpes de plaques de métal imprimé sur papier BFK Rives
-    250 g/m2 margé
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: |-
-    2021 Edition 8/11 triptyque 3X(76X56)
-
-    \[trois positions possibles de quadrilatères courbes réalisés en assemblant deux angles avec entas positionnés à -2,2°/0°/+2,2°\]
-  price: 2100
   contextual: true
 - title: 'Diptyque XXI 41 117 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
