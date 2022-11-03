@@ -158,6 +158,18 @@ works:
   description: ''
   price: 500
   contextual: true
+- title: Palindrome 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ galerie-gaia-marievandooren.palindrome3.50x70cm.5ex.2019.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 5/5
+  price: 200
+  contextual: true
 - title: 3 nageurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie trichromie 4/8

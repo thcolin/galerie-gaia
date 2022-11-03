@@ -30,6 +30,7 @@ artists:
 - artist: src/pages/artists/chretien-manolo.md
 - artist: src/pages/artists/philippe-lecomte.md
 - artist: src/pages/artists/tangui-robert.md
+- artist: src/pages/artists/marie-vandooren.md
 - artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/man-pia.md
 - artist: src/pages/artists/brigitte-marionneau.md
@@ -53,7 +54,6 @@ artists:
 - artist: src/pages/artists/gheho-corinne.md
 - artist: src/pages/artists/bram-van-velde.md
 - artist: src/pages/artists/valerie-le-roux.md
-- artist: src/pages/artists/marie-vandooren.md
 - artist: src/pages/artists/boris-jakobek.md
 - artist: src/pages/artists/kazy-usclef.md
 - artist: src/pages/artists/dimitri-roubichou.md
