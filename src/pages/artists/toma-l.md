@@ -130,8 +130,8 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: Encadrement caisse US chêne
-  price: 3500
+  description: "Encadrement caisse US chêne  \nPrix sur demande\n\n "
+  price: ''
   contextual: false
 - title: Simple trash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
@@ -143,8 +143,8 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US noire   \n2018"
-  price: 3500
+  description: "Encadrement caisse US noire  \n2018 Prix sur demande"
+  price: ''
   contextual: false
 - title: Little trash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
@@ -156,8 +156,8 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US noire  \n2018"
-  price: 3500
+  description: "Encadrement caisse US noire  \n2018 Prix sur demande"
+  price: ''
   contextual: false
 - title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
@@ -169,8 +169,8 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US chêne  \n2019"
-  price: 3500
+  description: "Encadrement caisse US chêne  \n2019 Prix sur demande"
+  price: ''
   contextual: false
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
