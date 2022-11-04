@@ -120,6 +120,45 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Simple trash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2018013001-simpletrash-70x50cm.jpg
+  technique: 'Technique mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "Encadrement caisse US noire   \n2018"
+  price: 3500
+  contextual: true
+- title: Little trash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2018020701-littletrash-70x50cm.jpg
+  technique: 'Technique mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "Encadrement caisse US noire  \n2018"
+  price: 3500
+  contextual: true
+- title: 'Little graphite and color '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019042104-Littlewhite-70x50cm 2.jpg
+  technique: 'Technique mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "Encadrement caisse US chêne  \n2019"
+  price: 3500
+  contextual: true
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
   technique: Technique mixte sur papier velin d'Arche

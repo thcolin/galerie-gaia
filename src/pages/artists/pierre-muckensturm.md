@@ -66,17 +66,18 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   storm\"."
 exhibitions: []
 works:
-- title: 2021P3392
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1814.jpg
-  technique: Crayon, encre et encre de Chine sur papier BFK Rives 250 g
+- title: XXII 41 074
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
+    XXII 41 074 n°11 et 12:15 copie.jpg
+  technique: Gravure carborundum sur zinc imprimée sur papier BFK Rives 250 g
   fields: []
   styles: []
   dimensions:
     height: 76
     width: 56
     depth: 0
-  description: "2020"
-  price: 1550
+  description: "2022"
+  price: 700
   contextual: true
 - title: 2023P3472
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1820.jpg
@@ -127,19 +128,6 @@ works:
     depth: 0
   description: "2022"
   price: 400
-  contextual: true
-- title: XXII 41 074
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
-    XXII 41 074 n°11 et 12:15 copie.jpg
-  technique: Gravure carborundum sur zinc imprimée sur papier BFK Rives 250 g
-  fields: []
-  styles: []
-  dimensions:
-    height: 76
-    width: 56
-    depth: 0
-  description: "2022"
-  price: 700
   contextual: true
 - title: XXI 79 182
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
@@ -351,6 +339,18 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/12P1831 renommée
     14P1834 recto copie.jpg
   technique: 'Technique mixte & huile sur toile '
+- title: 2021P3392
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1814.jpg
+  technique: Crayon, encre et encre de Chine sur papier BFK Rives 250 g
+  fields: []
+  styles: []
+  dimensions:
+    height: 76
+    width: 56
+    depth: 0
+  description: "2020"
+  price: 1550
+  contextual: true
 - title: XXI 40 116
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre. muckensturm-XXI
     40 116-65x50-gravure.jpg
