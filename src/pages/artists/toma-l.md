@@ -145,7 +145,7 @@ works:
     depth: 0
   description: "Encadrement caisse US noire   \n2018"
   price: 3500
-  contextual: true
+  contextual: false
 - title: Little trash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-IMG_5045.jpg
@@ -158,7 +158,7 @@ works:
     depth: 0
   description: "Encadrement caisse US noire  \n2018"
   price: 3500
-  contextual: true
+  contextual: false
 - title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-IMG_1621.jpg
