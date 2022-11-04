@@ -120,9 +120,22 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Little graphite and color
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-IMG_1631.jpg
+  technique: 'Technique mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: Encadrement caisse US chêne
+  price: 3500
+  contextual: false
 - title: Simple trash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2018013001-simpletrash-70x50cm.jpg
+    l-IMG_5044.jpg
   technique: 'Technique mixte sur papier '
   fields: []
   styles: []
@@ -135,7 +148,7 @@ works:
   contextual: true
 - title: Little trash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2018020701-littletrash-70x50cm.jpg
+    l-IMG_5045.jpg
   technique: 'Technique mixte sur papier '
   fields: []
   styles: []
@@ -148,7 +161,7 @@ works:
   contextual: true
 - title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019042104-Littlewhite-70x50cm 2.jpg
+    l-IMG_1621.jpg
   technique: 'Technique mixte sur papier '
   fields: []
   styles: []
@@ -158,7 +171,7 @@ works:
     depth: 0
   description: "Encadrement caisse US chêne  \n2019"
   price: 3500
-  contextual: true
+  contextual: false
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
   technique: Technique mixte sur papier velin d'Arche
