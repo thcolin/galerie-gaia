@@ -25,7 +25,25 @@ content:
     et les relations presses.\n\nGalerie Gaïa Studio accompagne :\n\nles cabinets
     d'architecture, les architectes indépendants, les promoteurs immobiliers et les
     promotions immobilières signataires de la charte 1 immeuble 1 oeuvre, des groupes
-    hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n**Recrutez
+    hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210721_090843.jpg)\n\nTransport
+    de l’œuvre de Kazy Usclef ...2023 direction un immeuble nantais Groupe Bati Nantes
+    - Cabinet d'Architecte In Situ \n\n**Recrutez un artiste !**\n\nLancez un appel
+    à candidature pour accueillir un artiste en Résidence.   \n  \nUne démarche innovante
+    pour une entreprise qui souhaite dans sa stratégie RSE, s'engager dans un soutien
+    humain, technique, financier pour vivre une aventure humaine inattendue.\n\nGalerie
+    Gaia Studio vous apporte son expertise en 3 étapes.\n\nECRIRE   \nIl s'agit de
+    se parler pour comprendre votre métier, votre organisation et connaître le contexte,
+    les valeurs et les enjeux de votre entreprise. Cette écriture permettra de rédiger
+    les intentions, budgéter le projet et lancer un appel à candidature.\n\nSUIVI
+    DU PROJET  \nGalerie Gaia Studio agit avec vous en co-responsabilité comme signataire
+    du contrat d'accueil. Et en interlocuteur référent pour l'artiste résident qui
+    sera sélectionné, lui apportant ainsi un soutien critique, technique et administratif.
+    L'artiste est alors rémunéré par Galerie Gaia Studio.\n\nCOMMUNIQUER  \nLa finalité
+    de la résidence est la création d'une oeuvre artistique réalisée sur place par
+    l'artiste. Autant d'histoires humaines à valoriser dans votre communication interne
+    et pour votre marque employeur. L'acquisition de l’œuvre reste à célébrer en communiquant
+    bien sûr avec vos clients et institutionnels. Un moment fort pour marquer les
+    collaborateurs et l'histoire de l'entreprise.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n**Recrutez
     un artiste !**\n\nLancez un appel à candidature pour accueillir un artiste en
     Résidence.   \n  \nUne démarche innovante pour une entreprise qui souhaite dans
     sa stratégie RSE, s'engager dans un soutien humain, technique, financier pour
