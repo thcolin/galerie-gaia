@@ -1,28 +1,31 @@
 ---
 template: about
 content:
-- column: |-
-    # Promoteur Immobilier Architecte décorateur
-
-    ## "1 immeuble 1 œuvre" ou 1% artistique
-
-    * Vous êtes un promoteur référencé auprès du Ministère de la Culture dans le cadre du programme **"1 immeuble 1 œuvre "**.
-    * Vous souhaitez intégrer un projet d'artiste dans les jardins, les halls d'entrée ou toutes autres parties communes pour valoriser le lieu, le rendre singulier et attractif dans votre **stratégie de commercialisation**.
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)
-
-    ## Architecte d'intérieur
-
-    Une fois les espaces et volumes créés, une fois les couleurs ou papiers peints retenus, le mobilier choisit, comment sublimer ce décor et le rendre unique?
-
-    * Parlez-moi du projet, montrez-moi des photos du lieu et je vous prépare une sélection
-    * Consultez le [catalogue](https://galeriegaia.fr/catalogue/ "catalogue artiste nantes galerie gaia") des œuvres en ligne selon leur style abstrait ou figuratif
-    * Possibilité de **prêt des œuvres durant une semaine** contre un chèque de caution du montant des œuvres.
-    * **Apport d'affaire** pour toutes ventes effectuées par vos soins
-
-    ## Fresque Murale street-art
-
-    **Osez la fresque** comme une déclaration d'identité d'un lieu intérieur et extérieur. Les artistes avec lesquels je travaille savent intégrer identité et architecture d'un lieu. Fresques réalisées sur Nantes et La Baule  **visibles sur rendez-vous.**
+- column: "Galerie Gaïa Studio  \nConception de projets artistiques \n\nLa Galerie
+    Gaia fondée à Nantes en 2015 est un lieu qui questionne et redéfinit la création
+    contemporaine en perpétuelle évolution. On y fait des choix exigeants, éclectiques
+    et ambitieux. La galerie décloisonne et expérimente pour les professionnels la
+    conception de projets artistiques et la création d'oeuvre d'art inspirés par vos
+    lieux, vos enjeux et vos valeurs.\n\n**1 LIEU 1 OEUVRE** \n\nImaginer - concevoir
+    - produire l’œuvre qui sublimera le lieu.\n\nGalerie Gaia Studio vous apporte
+    son expertise en 3 étapes\n\nCONCEVOIR  \nIl s’agit d’analyser vos besoins. Une
+    expertise qui se fait lors d’entretiens, d’études de vos espaces et d’échanges
+    autour de vos sensibilités plastiques. Cette récolte de matière nous permet d’apporter
+    une réflexion juste et personnaliser. Nous développons alors un projet sur mesure,
+    avec une identité artistique forte, qui sublime un lieu et vos valeurs.\n\nPRODUIRE
+    \ \nC’est d’abord planifier la fabrication d’une œuvre. C’est faire le lien avec
+    l’artiste, questionner son concept et demander des maquettes. C’est plus largement
+    questionner la faisabilité d’un projet pour enfin concevoir un budget et penser
+    l’administratif (contrats, cession de de droits) afin de lancer les montages avec
+    sérénité. Nous suivons la fabrication de l’œuvre, dans les respect budgétaire
+    et calendaire, jusque son installation sur site. Il est enfin temps de communiquer.\n\nCOMMUNIQUER
+    \ \nPenser une stratégie de communication interne et externe. C’est analyser vos
+    publics, valoriser le projet, apporter une lisibilité, penser une médiation pertinente
+    et les relations presses.\n\nGalerie Gaïa Studio accompagne :\n\nles cabinets
+    d'architecture, les architectes indépendants, les promoteurs immobiliers et les
+    promotions immobilières signataires de la charte 1 immeuble 1 oeuvre, des groupes
+    hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n**RESIDENCE
+    D ARTISTE EN ENTREPRISE**"
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
