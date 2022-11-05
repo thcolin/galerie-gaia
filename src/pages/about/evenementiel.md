@@ -2,33 +2,22 @@
 template: about
 content:
 - column: "# Événementiel insolite Nantes\n\n## **Séminaire, incentive, lancement
-    de produits, animation client originale**\n\n### **1. Team Building artistique**\n\n**Créer
-    une fresque collective !  \nDe 10 à 1000 collaborateurs ou clients,**  fédérez
-    des équipes qui seront **coachées par un collectif d'artistes autour de la culture
-    de votre entreprise, de son histoire, de ses  valeurs.**  \nCette réalisation
-    deviendra un support de communication interne et externe.  \nCet évènement peut
-    être l'occasion d'un **anniversaire d’entreprise, d'une  inauguration d'un showroom,
-    du lancement d'un produit ou d'un service, d'un arbre de Noël ...**\n\n* **J'ai
-    sélectionné le talent et l'expérience d'un collectif d'artistes nantais 100 Pressions**
-    issus de la scène de l'art urbain.\n* Ainsi je vous propose **mon expertise de
-    chef de projet** et de **formateur en développement personnel pour Manpower Group**
-    ,  \n  pour vous livrer un **projet clé en main  associant les enjeux RH et RSE
-    et**  couvrant vos ambitions de **communication interne et externe.**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-teambuilding.jpg)\n\n###
-    2. Une exposition dans votre entreprise\n\nEn tant que commissaire d'exposition
-    je vous propose :\n\n* Une sélection d'[**artistes régionaux**](https://galeriegaia.fr/catalogue/
+    de produits, animation client originale**\n\n### 1. Une exposition dans votre
+    entreprise\n\nEn tant que commissaire d'exposition je vous propose :\n\n* Une
+    sélection d'[**artistes nantais, régionaux**](https://galeriegaia.fr/catalogue/
     \"artistes nantais galerie gaia\") **ou nationaux**  pour créer une **expérience
     client singulière** avec la médiation artistique lors du **vernissage.**\n* Un
     choix d'artistes pour vivre une **performance en live** lors d'une soirée privée,
     d'un congrès, d'un anniversaire mémoriel.\n* La prise en charge de toute **la
     logistique** (transport - installation - scénographie).\n\n  _Exposition dans
     le hall du groupe Keran_\n\n  ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@keran@basso.jpg
-    \"Keran exposition Giani Basso\")\n\n  _Fresque  70 ans groupe Adélis - Artiste
-    Kazy Usclef_\n\n  ![Artiste Kazy Usclef](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG
-    \"Adelis 70 ans \")\n\n### **3. Trophée original et artistique**\n\nLa remise
-    d'un trophée lors d'un **challenge sportif ou une incentive interne** est  un
-    moment singulier car très photographié et **diffusé sur les réseaux sociaux.**
-    \ \nJe vous propose de **vous démarquer** avec à la réalisation par un artiste
-    d'un trophée qui sera à la hauteur de votre évènement.\n\n_Trophée de l'Open International
+    \"Keran exposition Giani Basso\")\n\n  ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2015.JPG)\n\n
+    \ _Evenementiel pour les 70 ans groupe Adélis - Artiste Kazy Usclef   \n  Fresque
+    sur bâche tendue_ \n\n### **3. Trophée original et artistique**\n\nLa remise d'un
+    trophée lors d'un **challenge sportif ou une incentive interne** est  un moment
+    singulier car très photographié et **diffusé sur les réseaux sociaux.**  \nJe
+    vous propose de **vous démarquer** avec à la réalisation par un artiste d'un trophée
+    qui sera à la hauteur de votre évènement.\n\n_Trophée de l'Open International
     de Squash Nantes par Go Segawa  \nCrédit photo Lauranne Rochais_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/open
     squash nantes gilis 2022.jpg)![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/open
     squash nantes crouin 2022.jpg)"

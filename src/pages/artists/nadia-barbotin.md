@@ -7,7 +7,7 @@ fields:
 - Oeuvre sur papier
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: |-
   # Nadia Barbotin
 
@@ -36,7 +36,7 @@ works:
   dimensions:
     height: 116
     width: 89
-    depth: 0
+    depth: 
   description: "2022"
   price: 3000
   sold: false
@@ -50,7 +50,7 @@ works:
   dimensions:
     height: 116
     width: 89
-    depth: 0
+    depth: 
   description: "2022"
   price: 3000
   sold: false
@@ -64,7 +64,7 @@ works:
   dimensions:
     height: 116
     width: 89
-    depth: 0
+    depth: 
   description: "2022"
   price: 3000
   sold: false
@@ -77,7 +77,7 @@ works:
   dimensions:
     height: 116
     width: 89
-    depth: 0
+    depth: 
   description: "2022"
   price: 3000
   sold: false
