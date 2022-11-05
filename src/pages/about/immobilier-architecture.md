@@ -6,26 +6,43 @@ content:
     en perpétuelle évolution. On y fait des choix exigeants, éclectiques et ambitieux
     en organisant des expositions pour le grand public.  \nGalerie Gaia Studio décloisonne
     et expérimente pour les professionnels la conception de projets artistiques et
-    la création d'oeuvre d'art inspirés par vos lieux, vos enjeux et vos valeurs.\n\n**1
-    LIEU 1 OEUVRE** \n\nImaginer - concevoir - produire l’œuvre qui sublimera le lieu.\n\nGalerie
-    Gaia Studio vous apporte son expertise en 3 étapes\n\nCONCEVOIR  \nIl s’agit d’analyser
-    vos besoins. Une expertise qui se fait lors d’entretiens, d’études de vos espaces
-    et d’échanges autour de vos sensibilités plastiques. Cette récolte de matière
-    nous permet d’apporter une réflexion juste et personnaliser. Nous développons
-    alors un projet sur mesure, avec une identité artistique forte, qui sublime un
-    lieu et vos valeurs.\n\nPRODUIRE  \nC’est d’abord planifier la fabrication d’une
-    œuvre. C’est faire le lien avec l’artiste, questionner son concept et demander
-    des maquettes. C’est plus largement questionner la faisabilité d’un projet pour
-    enfin concevoir un budget et penser l’administratif (contrats, cession de de droits)
-    afin de lancer les montages avec sérénité. Nous suivons la fabrication de l’œuvre,
-    dans les respect budgétaire et calendaire, jusque son installation sur site. Il
-    est enfin temps de communiquer.\n\nCOMMUNIQUER  \nPenser une stratégie de communication
-    interne et externe. C’est analyser vos publics, valoriser le projet, apporter
-    une lisibilité, penser une médiation pertinente et les relations presses.\n\nGalerie
-    Gaïa Studio accompagne :\n\nles cabinets d'architecture, les architectes indépendants,
-    les promoteurs immobiliers et les promotions immobilières signataires de la charte
-    1 immeuble 1 oeuvre, des groupes hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n**RESIDENCE
-    D ARTISTE EN ENTREPRISE**"
+    la création d'oeuvre d'art inspirés par vos lieux, vos enjeux et vos valeurs.\n\n**une
+    Architecture   \nun Lieu   \nune Oeuvre** \n\nImaginer - Concevoir - Produire
+    l’œuvre qui sublimera le lieu.\n\nGalerie Gaia Studio vous apporte son expertise
+    en 3 étapes.\n\nCONCEVOIR  \nIl s’agit d’analyser vos besoins. Une expertise qui
+    se fait lors d’entretiens, d’études de vos espaces et d’échanges autour de vos
+    sensibilités plastiques. Cette récolte de matière nous permet d’apporter une réflexion
+    juste et personnaliser. Nous développons alors un projet sur mesure, avec une
+    identité artistique forte, qui sublime un lieu et vos valeurs.\n\nPRODUIRE  \nC’est
+    d’abord planifier la fabrication d’une œuvre. C’est faire le lien avec l’artiste,
+    questionner son concept et demander des maquettes. C’est plus largement questionner
+    la faisabilité d’un projet pour enfin concevoir un budget et penser l’administratif
+    (contrats, cession de de droits) afin de lancer les montages avec sérénité. Nous
+    suivons la fabrication de l’œuvre, dans les respect budgétaire et calendaire,
+    jusque son installation sur site. Il est enfin temps de communiquer.\n\nCOMMUNIQUER
+    \ \nPenser une stratégie de communication interne et externe. C’est analyser vos
+    publics, valoriser le projet, apporter une lisibilité, penser une médiation pertinente
+    et les relations presses.\n\nGalerie Gaïa Studio accompagne :\n\nles cabinets
+    d'architecture, les architectes indépendants, les promoteurs immobiliers et les
+    promotions immobilières signataires de la charte 1 immeuble 1 oeuvre, des groupes
+    hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n**Recrutez
+    un artiste !**\n\nLancez un appel à candidature pour accueillir un artiste en
+    Résidence.   \n  \nUne démarche innovante pour une entreprise qui souhaite dans
+    sa stratégie RSE, s'engager dans un soutien humain, technique, financier pour
+    vivre une aventure humaine inattendue.\n\nGalerie Gaia Studio vous apporte son
+    expertise en 3 étapes.\n\nECRIRE   \nIl s'agit de se parler pour comprendre votre
+    métier, votre organisation et connaître le contexte, les valeurs et les enjeux
+    de votre entreprise. Cette écriture permettra de rédiger les intentions, budgéter
+    le projet et lancer un appel à candidature.\n\nSUIVI DU PROJET  \nGalerie Gaia
+    Studio agit avec vous en co-responsabilité comme signataire du contrat d'accueil.
+    Et en interlocuteur référent pour l'artiste résident qui sera sélectionné, lui
+    apportant ainsi un soutien critique, technique et administratif. L'artiste est
+    alors rémunéré par Galerie Gaia Studio.\n\nCOMMUNIQUER  \nLa finalité de la résidence
+    est la création d'une oeuvre artistique réalisée sur place par l'artiste. Autant
+    d'histoires humaines à valoriser dans votre communication interne et pour votre
+    marque employeur. L'acquisition de l’œuvre reste à célébrer en communiquant bien
+    sûr avec vos clients et institutionnels. Un moment fort pour marquer les collaborateurs
+    et l'histoire de l'entreprise.\n\n "
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
