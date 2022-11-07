@@ -1,23 +1,18 @@
 ---
 template: about
 content:
-- column: "# Défiscaliser : la location leasing d’œuvres d'art.\n\n## Marque employeur
-    RSE bien-être au travail grâce à l'art\n\nDans des **bureaux nouvelles générations,**
-    la tendance de fond va bien au-delà d'un mobilier design, d'une table de ping-pong.
-    Pour donner une ambiance chaleureuse et renforcer l'identité de votre entreprise
-    **auprès de vos clients et collaborateurs une oeuvre d'art marque la différence.**
-    \ \nComment concrétiser les intentions de la **RSE**, comment renforcer **la marque
-    employeur**, comment rendre concret le **bien-être au travail** ?  \nToutes ces
-    intentions peuvent être **boostées par l'installation d’œuvres d'artistes** **qui
-    humanisent l'espace, améliorent la créativité et stimulent l'esprit coopératif.**\n\nAprès
-    la définition de votre projet, je vous accompagne dans chaque étape :\n\n* **Sélection
+- column: "# Louer une oeuvre d'art ou acheter en défiscalisation une oeuvre d'art
+    ? \n\n## \n\nPour donner une ambiance chaleureuse et renforcer l'identité de votre
+    entreprise **auprès de vos clients et collaborateurs une table de ping pong c'est
+    bien, mais une oeuvre d'art unique et originale incarnera encore plus  vos valeurs
+    et votre différence.**   \nLes +  **RSE**, **marque employeur**,  **bien-être
+    au travail** , créativité\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection
     d’œuvres disponibles dans le** [**catalogue**](https://galeriegaia.fr/catalogue/
     \"catalogue galerie gaia\") **sur le site** de la galerie (photos - sérigraphies
     - sculptures- peintures)  à partir de 50€ .\n* **Sourcing d’œuvres spécifiques**
     selon vos critères de style et de budget.\n* **Gestion d'un projet de création
     d'une fresque murale** intérieure ou extérieure,  par un artiste graffeur (street-art)
-    en faisant participer vos équipes  ([rubrique Événementiel](https://galeriegaia.fr/about/evenementiel/
-    \"fresque mural street art\"))\n* **Réalisation d'une installation** visuelle,
+    en faisant participer vos équipes  \n* **Réalisation d'une installation** visuelle,
     sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage de votre
     entreprise...([rubrique architecture)](https://galeriegaia.fr/about/immobilier-architecture/
     \"conception oeuvre\")\n\n## Louer ou acheter une œuvre ?\n\nDeux solutions adaptées
@@ -30,23 +25,22 @@ content:
     48 mois**\n* Déduction du résultat imposable et **réduction de l'IS (entreprises)**
     ou **IRPP (professions libérales)**\n* Au terme du contrat un transfert de propriété
     vous est proposé une valeur résiduelle de 5%\n* Cela concerne des **artistes vivants
-    ou non**\n\n**Calcul pour une œuvre de 5000€ & 24 mois :**\n\n* loyer mensuel
+    ou non**\n\n**Calcul pour une œuvre de 5000€ sur 24 mois :**\n\n* loyer mensuel
     terme à échoir 273€ HT\n* économies d'impôts générées 1905€ HT\n* coût global
     hors économies de charges sociales, IR = 4647€ HT\n  * _Les loyers sont une charge
-    déductible et génèrent une économie d'IS estimée à 28 %_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_Fondation_28x37
-    cadré.jpg)  \n_\"Fondation\" bronze Isabelle Healy_\n\n## **2. L'achat en défiscalisation**\n\nCette
-    niche fiscale a été initiée par Jean-Jacques Aillagon alors Ministre de la Culture
-    \ pour **soutenir les artistes vivants**. Ainsi **entreprises et professions libérales**
-    peuvent s'engager sur ce **mécénat en se constituant un patrimoine.**\n\n* L’œuvre
-    doit être **exposée au public et aux salariés** durant 5 ans\n* L’œuvre figure
-    dans les immobilisations de l’entreprise\n* Le montant de la déduction est inscrit
-    à un compte de réserve spéciale au passif du bilan de la société.\n\n  [Texte
-    de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
+    déductible et génèrent une économie d'IS estimée à 28 %_\n\n## **2. L'achat en
+    défiscalisation**\n\nCette niche fiscale a été initiée par Jean-Jacques Aillagon
+    alors Ministre de la Culture  pour **soutenir les artistes vivants**. Ainsi **entreprises
+    et professions libérales** peuvent s'engager sur cette solution **en se constituant
+    un patrimoine.**\n\n* L’œuvre doit être **exposée au public et aux salariés**
+    durant 5 ans\n* L’œuvre figure dans les immobilisations de l’entreprise\n* Le
+    montant de la déduction est inscrit à un compte de réserve spéciale au passif
+    du bilan de la société.\n\n  [Texte de référence du Ministère](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32914
     \"Texte officiel\") des finances\n\n**Exemple de calcul pour une œuvre de 7000€
     :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire\n* La déduction
     annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005
-    = 1750€ de plafond annuel déductible\n* Déduction annuelle de l' IS   7000€ /
-    5 ans = 1400€\n\n_données chiffrées novembre 2021_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure
+    = 1750€ de plafond annuel déductible\n* Déduction annuelle au résultat fiscal
+    7000€ / 5 ans = 1400€\n\n_données chiffrées novembre 2022_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure
     carre rose.jpg)"
   contact:
     display: true
