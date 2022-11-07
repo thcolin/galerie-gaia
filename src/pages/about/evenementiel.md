@@ -1,8 +1,8 @@
 ---
 template: about
 content:
-- column: "# Événementiel insolite Nantes\n\n## **Séminaire, incentive, anniversaire
-    entreprise**\n\n### 1. Une exposition dans votre entreprise\n\nEn tant que commissaire
+- column: "## **Séminaire, incentive, anniversaire entreprise, évenementiel insolite
+    Nantes** \n\n### Une exposition dans votre entreprise\n\nEn tant que commissaire
     d'exposition je vous propose :\n\n* Une sélection d'[**artistes nantais, régionaux**](https://galeriegaia.fr/catalogue/
     \"artistes nantais galerie gaia\") **ou nationaux**  pour créer une **expérience
     client singulière** avec la médiation artistique lors du **vernissage.**\n* Un
@@ -14,8 +14,8 @@ content:
     \"keran sce yves gillet\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2015.JPG)\n\n_Evenementiel
     pour les 70 ans groupe_ [_Adélis_](https://twitter.com/tweetojoachim/status/935828642130747392
     \"KAZY USCLEF ADELIS\") _- Artiste_ [_Kazy Usclef_](https://galeriegaia.fr/artists/kazy-usclef/
-    \"KAZY USCLEF\") _  \nFresque sur bâche tendue_\n\n### **2. Trophée original réalisé
-    par un artiste**\n\nLa remise d'un trophée lors d'un **challenge sportif ou une
+    \"KAZY USCLEF\") _  \nFresque sur bâche tendue_\n\n### **Trophée original réalisé
+    par un artiste**\n\nLa remise d'un trophée lors d'un **challenge sportif, une
     incentive interne** est  un moment singulier car très photographié et **diffusé
     sur les réseaux sociaux.**  \nJe vous propose de **vous démarquer** avec à la
     réalisation par un artiste d'un trophée qui sera à la hauteur de votre évènement.\n\n_Trophée
