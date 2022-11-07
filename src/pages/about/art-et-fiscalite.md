@@ -1,12 +1,11 @@
 ---
 template: about
 content:
-- column: "# Louer une oeuvre d'art ou acheter en défiscalisation une oeuvre d'art
-    ?\n\n## \n\nPour donner une ambiance chaleureuse et renforcer l'identité de votre
-    entreprise **auprès de vos clients et collaborateurs une table de ping pong c'est
-    bien, mais une oeuvre d'art unique et originale incarnera encore plus  vos valeurs
-    et votre différence.**  \nLes +  **RSE**, **marque employeur**,  **bien-être au
-    travail** , créativité\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection
+- column: "# Louer une oeuvre d'art Acheter en défiscalisation une oeuvre d'art ?\n\n##
+    \n\nPour donner une ambiance chaleureuse et renforcer l'identité de votre entreprise
+    **auprès de vos clients et collaborateurs une table de ping pong c'est bien, mais
+    une œuvre d'art unique et originale incarnera encore plus  vos valeurs et votre
+    différence !**\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection
     d’œuvres disponibles dans le** [**catalogue**](https://galeriegaia.fr/catalogue/
     \"catalogue galerie gaia\") **sur le site** de la galerie (photos - sérigraphies
     - sculptures- peintures)  à partir de 50€ .\n* **Sourcing d’œuvres spécifiques**
@@ -15,10 +14,11 @@ content:
     en faisant participer vos équipes\n* **Réalisation d'une installation** visuelle,
     sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage de votre
     entreprise...([rubrique architecture)](https://galeriegaia.fr/about/immobilier-architecture/
-    \"conception oeuvre\")\n\n## Louer ou acheter une œuvre ?\n\nDeux solutions adaptées
-    à des choix stratégiques patrimoniaux et fiscaux différents pour valoriser vos
-    espaces de travail.\n\n## **1 . La location financière - leasing**\n\nJ'ai retenu
-    le professionnalisme de la société [BAIL ART,](https://bail-art.com/financement/
+    \"conception oeuvre\")\n\n  Les +  **RSE**, **marque employeur**,  **bien-être
+    au travail** , créativité\n\n## Louer ou acheter une œuvre ?\n\nDeux solutions
+    adaptées à des choix stratégiques patrimoniaux et fiscaux différents pour valoriser
+    vos espaces de travail.\n\n## **1 . La location financière - leasing**\n\nJ'ai
+    retenu le professionnalisme de la société [BAIL ART,](https://bail-art.com/financement/
     \"BAIL ART SIMULATEUR\") pour faciliter l'accès à des œuvres d'art avec la location
     & option d'achat à la fin du contrat, la LOA.\n\n* **Capacité d'emprunt** préservée
     et haut du bilan allégé (hors IFRS)\n* **Étalement du coût d'achat** de **13 à
