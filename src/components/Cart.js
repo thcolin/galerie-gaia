@@ -6,8 +6,8 @@ const Cart = ({ ...props }) => {
   const [items, setItems] = useState(0)
 
   useEffect(() => {
-    const unsubscribe = Snipcart.store.subscribe(() => setItems(Snipcart.store.getState().cart.items.count))
-    return unsubscribe
+    // const unsubscribe = Snipcart.store.subscribe(() => setItems(Snipcart.store.getState().cart.items.count))
+    // return unsubscribe
   }, [])
 
   return (
