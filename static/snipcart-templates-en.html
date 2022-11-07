@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Templates</title>
+  </head>
+  <body>
+    <div id="snipcart-templates">
+      <address-fields section="top">
+        <div style="padding: 16px 0 8px 0;">
+          <snipcart-label for="phone">Phone number</snipcart-label>
+          <snipcart-input name="phone"></snipcart-input>
+        </div>
+      </address-fields>
+      <billing section="bottom">
+        <fieldset class="snipcart-form__set">
+          <div class="snipcart-form__field">
+            <div class="snipcart-form__field-checkbox">
+              <snipcart-checkbox name="subscribeToNewsletter"></snipcart-checkbox>
+              <snipcart-label for="subscribeToNewsletter" class="snipcart__font--tiny snipcart-form__label--checkbox">
+                Subscribe to newsletter
+              </snipcart-label>
+            </div>
+          </div>
+        </fieldset>
+      </billing>
+      <payment section="bottom">
+        <div style="padding: 24px 0 0;">
+          <p>
+            <snipcart-checkbox name="privacy-policy" required></snipcart-checkbox>
+            <snipcart-label for="privacy-policy">I have read and agree to the Privacy Policy</snipcart-label>
+            <p style="line-height: 1.5; font-size: smaller; text-align: justify; padding: 8px 0;">
+              The information collected via the www.galeriegaia.fr site (hereinafter referred to as "the Site") is intended to be processed by Galerie Gaïa, the data controller, for the purpose of handling your request for information. The above information is mandatory for the management of your requests. In accordance with the regulations applicable to the protection of personal data, you have the right to access, rectify and port your personal data; the right to limit, delete and oppose the processing of your data for legitimate reasons; the possibility of sending us instructions to organise the fate of your personal data (conservation, deletion, communication to a third party, etc.) in the event of your death; you can exercise these rights by writing to the following e-mail address: galeriegaia@orange.fr. However, your opposition may, in practice and depending on the case, have an impact on your request for information. For more information about this processing, please contact us at galeriegaia@orange.fr.
+            </p>
+          </p>
+        </div>
+      </payment>
+    </div>
+  </body>
+</html>

@@ -1,10 +1,10 @@
 import { Link } from 'gatsby'
 
 const Breadcrumb = ({ location, crumbs, current, ...props }) => (
-  <nav class='breadcrumb'>
+  <nav className='breadcrumb'>
     <ul>
       {crumbs.map(({ crumbLabel, pathname }, index, arr) => (
-        <li>
+        <li key={index}>
           {index === (arr.length - 1) ? (
             <span>{current || crumbLabel}</span>
           ) : (

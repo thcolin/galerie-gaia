@@ -17,6 +17,7 @@ import Delivery from './Delivery'
 import Lock from './Lock'
 import Phone from './Phone'
 import Palette from './Palette'
+import Cart from './Cart'
 
 const icons = {
   menu: Menu,
@@ -38,6 +39,7 @@ const icons = {
   lock: Lock,
   phone: Phone,
   palette: Palette,
+  cart: Cart,
 }
 
 const Icon = ({ children, ...props }) => {

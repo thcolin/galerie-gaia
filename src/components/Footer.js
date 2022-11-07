@@ -1,9 +1,12 @@
-import { useState, useEffect } from 'react'
 import Icon from 'components/Icon'
 import theme from 'theme'
+import Cart from './Cart'
 
 const Footer = ({ pageContext, ...props }) => (
   <footer css={Footer.styles.element}>
+    <div>
+      <Cart />
+    </div>
     <p>
       {pageContext.site.siteMetadata.opening}
     </p>
@@ -46,7 +49,6 @@ Footer.styles = {
       bottom: 0,
       left: 0,
       width: '100%',
-      padding: '0 0 0 20em',
       '>*': {
         padding: '0 1em',
       },
@@ -57,7 +59,6 @@ Footer.styles = {
       bottom: 0,
       left: 0,
       width: '100%',
-      padding: '0 0 0 20em',
       '>*': {
         padding: '0 1em',
       },

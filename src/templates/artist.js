@@ -121,7 +121,7 @@ const Artist = ({ location, uri, ...props }) => {
                     <Fragment>
                       {id === 'adolfo-arenas-alonso' ? (
                         <button
-                          class="snipcart-add-item"
+                          className="snipcart-add-item"
                           data-item-id={`${id}-${slug((work.title || '').toLowerCase().trim())}`}
                           data-item-name={work.title}
                           data-item-description={[
