@@ -84,6 +84,16 @@ fields:
     default: []
     label: Styles
     description: Styles Artistique
+  - name: weight
+    type: number
+    label: Weight
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
   - name: dimensions
     type: field_group
     config: {}
