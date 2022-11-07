@@ -4,27 +4,27 @@ content:
 - column: "Galerie Gaïa Studio  \nConception de projets artistiques \n\nGalerie Gaia
     fondée à Nantes en 2015 est un lieu qui questionne et redéfinit la création contemporaine
     en perpétuelle évolution. On y fait des choix exigeants, éclectiques et ambitieux
-    en organisant des expositions pour le grand public.  \nGalerie Gaia Studio décloisonne
-    et expérimente pour les professionnels la conception de projets artistiques et
-    la création d’œuvre d'art inspirés par vos lieux, vos enjeux et vos valeurs.\n\n**une
-    Architecture   \nun Lieu   \nune Oeuvre** \n\nImaginer - Concevoir - Produire
-    l’œuvre qui sublimera un lieu.\n\nGalerie Gaia Studio vous apporte son expertise
-    en 3 étapes.\n\nCONCEVOIR  \nIl s’agit d’analyser vos besoins. Une expertise qui
-    se fait lors d’entretiens, d’études de vos espaces et d’échanges autour de vos
-    sensibilités plastiques. Cette récolte de matière nous permet d’apporter une réflexion
-    juste et personnaliser. Nous développons alors un projet sur mesure, avec une
-    identité artistique forte, qui sublime un lieu et vos valeurs.\n\nPRODUIRE  \nC’est
-    d’abord planifier la fabrication d’une œuvre. C’est faire le lien avec l’artiste,
-    questionner son concept et demander des maquettes. C’est plus largement questionner
-    la faisabilité d’un projet pour enfin concevoir un budget et son financement (défiscalisation)
-    et penser l’administratif (contrats, cession de de droits) afin de lancer les
-    montages avec sérénité. Nous suivons la fabrication de l’œuvre, dans les respect
-    budgétaire et calendaire, jusque son installation sur site. Il est enfin temps
-    de communiquer.\n\nCOMMUNIQUER  \nPenser une stratégie de communication interne
-    et externe. C’est analyser vos publics, valoriser le projet, apporter une lisibilité,
-    penser une médiation pertinente et les relations presses.\n\nGalerie Gaïa Studio
-    accompagne :\n\nles cabinets d'architecture, les architectes indépendants, les
-    promoteurs immobiliers et les promotions immobilières signataires de la charte
+    en organisant des expositions d'art contemporain pour le grand public.  \nGalerie
+    Gaia Studio décloisonne et expérimente pour les professionnels la conception de
+    projets artistiques et la création d’œuvres d'art inspirées par vos lieux, vos
+    enjeux et vos valeurs.\n\n**une Architecture   \nun Lieu   \nune Oeuvre** \n\nImaginer
+    - Concevoir - Produire l’œuvre qui sublimera un lieu.\n\nGalerie Gaia Studio vous
+    apporte son expertise en 3 étapes.\n\nCONCEVOIR  \nIl s’agit d’analyser vos besoins.
+    Une expertise qui se fait lors d’entretiens, d’études de vos espaces et d’échanges
+    autour de vos sensibilités plastiques. Cette récolte de matière nous permet d’apporter
+    une réflexion juste et personnaliser. Nous développons alors un projet sur mesure,
+    avec une identité artistique forte, qui sublime un lieu et vos valeurs.\n\nPRODUIRE
+    \ \nC’est d’abord planifier la fabrication d’une œuvre. C’est faire le lien avec
+    l’artiste, questionner son concept et demander des maquettes. C’est plus largement
+    questionner la faisabilité d’un projet pour enfin concevoir un budget et son financement
+    (défiscalisation) et penser l’administratif (contrats, cession de de droits) afin
+    de lancer les montages avec sérénité. Nous suivons la fabrication de l’œuvre,
+    dans les respect budgétaire et calendaire, jusque son installation sur site. Il
+    est enfin temps de communiquer.\n\nCOMMUNIQUER  \nPenser une stratégie de communication
+    interne et externe. C’est analyser vos publics, valoriser le projet, apporter
+    une lisibilité, penser une médiation pertinente et les relations presses.\n\nGalerie
+    Gaïa Studio accompagne :\n\nles cabinets d'architecture, les architectes indépendants,
+    les promoteurs immobiliers et les promotions immobilières signataires de la charte
     1 immeuble 1 oeuvre, des groupes hôteliers, et des architectes décorateurs.\n\nCe
     qu'il faut retenir : Défiscalisation - Sujet de communication puissant -\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy-masque
     sortie garage.jpg)\n\nŒuvre de Kazy Usclef- H 2,3 m x L 1,9 m x 1,5 m P 230kg
@@ -59,15 +59,18 @@ content:
     placeholder: Renseignement projet immobilier - décoration
 - contact:
     placeholder: Un message à nous adresser ?
-  column: "![café le Molière Christophe Vinet architecte décorateur d'intérieur nantes
-    loire atlantique](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
-    \"Brasserie le Moliere Nantes \")\n\nBrasserie Café Le Molière à Nantes - Réalisation
-    Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg)\n\nInstallation
-    “Le masque” de [Kazy Usclef](https://galeriegaia.fr/artists/kazy-usclef/ \"1%
-    artistique\") hall d’un immeuble de La Nantaise d'Habitation en 2021 (Hauteur
-    3m x Largeur 2,5m)\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nInstallation
-    Murale par [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/ \"1
-    immeuble 1 oeuvre\") "
+  column: |-
+    ![café le Molière Christophe Vinet architecte décorateur d'intérieur nantes loire atlantique](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg "Brasserie le Moliere Nantes ")
+
+    Brasserie Café Le Molière à Nantes - Réalisation Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg)
+
+    “Le masque” de [Kazy Usclef](https://galeriegaia.fr/artists/kazy-usclef/ "1% artistique")  installation pour le hall d’un immeuble de La Nantaise d'Habitation en 2023 (Hauteur 3m x Largeur 2,5m)
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural-11-compressions-500x200-15000-1.jpg)
+
+    Installation Murale de tôles d'acier froissées par [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/ "1 immeuble 1 oeuvre")
 seo:
   title: Architecture - Galerie Gaïa, galerie d'art contemporain
   heading: Architecture
