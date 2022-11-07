@@ -25,9 +25,11 @@ content:
     et les relations presses.\n\nGalerie Gaïa Studio accompagne :\n\nles cabinets
     d'architecture, les architectes indépendants, les promoteurs immobiliers et les
     promotions immobilières signataires de la charte 1 immeuble 1 oeuvre, des groupes
-    hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210721_090843.jpg)\n\nTransport
-    de l’œuvre de Kazy Usclef ...2023 direction un immeuble nantais [Groupe Bati-Nantes](https://www.batinantes.fr/
-    \"bati nantes\") -  [In Situ Architecture]( https://insituacv.com/ \"in situ acv\")\n\n**Recrutez
+    hôteliers, et des architectes décorateurs.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy-masque
+    sortie garage.jpg)\n\nŒuvre de Kazy Usclef- H 2,3 m x L 1,9 m x 1,5 m P 230kg
+    acier bois coque de bâteau.  \nTransport de l’œuvre ...2023 direction un immeuble
+    nantais  \n[Groupe Bati-Nantes](https://www.batinantes.fr/ \"bati nantes\") -
+    \ [In Situ Architecture]( https://insituacv.com/ \"in situ acv\")\n\n**Recrutez
     un artiste !**\n\nLancez un appel à candidature pour accueillir un artiste en
     Résidence.   \n  \nUne démarche innovante pour une entreprise qui souhaite dans
     sa stratégie RSE, s'engager dans un soutien humain, technique, financier pour
