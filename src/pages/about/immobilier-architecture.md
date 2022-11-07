@@ -6,7 +6,7 @@ content:
     en perpétuelle évolution. On y fait des choix exigeants, éclectiques et ambitieux
     en organisant des expositions pour le grand public.  \nGalerie Gaia Studio décloisonne
     et expérimente pour les professionnels la conception de projets artistiques et
-    la création d'oeuvre d'art inspirés par vos lieux, vos enjeux et vos valeurs.\n\n**une
+    la création d’œuvre d'art inspirés par vos lieux, vos enjeux et vos valeurs.\n\n**une
     Architecture   \nun Lieu   \nune Oeuvre** \n\nImaginer - Concevoir - Produire
     l’œuvre qui sublimera le lieu.\n\nGalerie Gaia Studio vous apporte son expertise
     en 3 étapes.\n\nCONCEVOIR  \nIl s’agit d’analyser vos besoins. Une expertise qui
@@ -42,12 +42,15 @@ content:
     Et en interlocuteur référent pour l'artiste résident qui sera sélectionné, lui
     apportant ainsi un soutien critique, technique et administratif. L'artiste est
     alors rémunéré par Galerie Gaia Studio.\n\nCOMMUNIQUER  \nLa finalité de la résidence
-    est la création d'une oeuvre artistique réalisée sur place par l'artiste. Autant
+    est la création d'une œuvre artistique réalisée sur place par l'artiste. Autant
     d'histoires humaines à valoriser dans votre communication interne et pour votre
     marque employeur. L'acquisition de l’œuvre reste à célébrer en communiquant bien
     sûr avec vos clients et institutionnels. Un moment fort pour marquer les collaborateurs
     et l'histoire de l'entreprise.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-hd_0.jpg)\n\n**source
-    documentaire** \n\n "
+    documentaire** \n\nEntreprise [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
+    \"supralog\") éditeur de logiciel accueille en résidence un artiste  Matthieu
+    Schmitt et découvre la richesse des rencontres qui ont fait naître des interactions
+    riches en créativité avec tous les services de l'entreprise .\n\n "
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
