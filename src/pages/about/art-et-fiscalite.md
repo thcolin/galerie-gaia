@@ -2,17 +2,17 @@
 template: about
 content:
 - column: "# Louer une oeuvre d'art ou acheter en défiscalisation une oeuvre d'art
-    ? \n\n## \n\nPour donner une ambiance chaleureuse et renforcer l'identité de votre
+    ?\n\n## \n\nPour donner une ambiance chaleureuse et renforcer l'identité de votre
     entreprise **auprès de vos clients et collaborateurs une table de ping pong c'est
     bien, mais une oeuvre d'art unique et originale incarnera encore plus  vos valeurs
-    et votre différence.**   \nLes +  **RSE**, **marque employeur**,  **bien-être
-    au travail** , créativité\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection
+    et votre différence.**  \nLes +  **RSE**, **marque employeur**,  **bien-être au
+    travail** , créativité\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection
     d’œuvres disponibles dans le** [**catalogue**](https://galeriegaia.fr/catalogue/
     \"catalogue galerie gaia\") **sur le site** de la galerie (photos - sérigraphies
     - sculptures- peintures)  à partir de 50€ .\n* **Sourcing d’œuvres spécifiques**
     selon vos critères de style et de budget.\n* **Gestion d'un projet de création
     d'une fresque murale** intérieure ou extérieure,  par un artiste graffeur (street-art)
-    en faisant participer vos équipes  \n* **Réalisation d'une installation** visuelle,
+    en faisant participer vos équipes\n* **Réalisation d'une installation** visuelle,
     sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage de votre
     entreprise...([rubrique architecture)](https://galeriegaia.fr/about/immobilier-architecture/
     \"conception oeuvre\")\n\n## Louer ou acheter une œuvre ?\n\nDeux solutions adaptées
@@ -40,11 +40,18 @@ content:
     :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire\n* La déduction
     annuelle est plafonnée à 5 pour mille du chiffre d’affaire soit 350 000 x 0,005
     = 1750€ de plafond annuel déductible\n* Déduction annuelle au résultat fiscal
-    7000€ / 5 ans = 1400€\n\n_données chiffrées novembre 2022_\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure
-    carre rose.jpg)"
+    7000€ / 5 ans = 1400€\n\n_données chiffrées novembre 2022_"
   contact:
     display: true
     placeholder: Renseignement location & défiscalisation
+- column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-notre
+    heritage seul.png)\n\nMon Héritage - bronze de [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
+    \"isabelle healy\") \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure
+    carre rose.jpg)\n\nAutoportrait peinture de [Laure Carré](https://galeriegaia.fr/artists/laure-carre/
+    \"laure carré\") - Showroom Cosentino Paris"
+  contact:
+    placeholder: Un message à nous adresser ?
+    display: false
 seo:
   title: Défiscaliser - Galerie Gaïa, galerie d'art contemporain
   heading: Défiscaliser
