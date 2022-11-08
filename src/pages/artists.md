@@ -6,6 +6,7 @@ artists:
 - artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/byl-william.md
 - artist: src/pages/artists/wolfe-judith.md
+- artist: src/pages/artists/byl-william-1.md
 - artist: src/pages/artists/isthme.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/jouet-michel.md
