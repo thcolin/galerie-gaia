@@ -17,6 +17,48 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: Noire 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0014-01.jpg
+  technique: Sculpture sur bois humide et brûlé
+  fields: []
+  styles: []
+  weight: 5
+  dimensions:
+    height: 24
+    width: 36
+    depth: 29
+  description: ''
+  price: 1200
+  sold: false
+  contextual: false
+- title: Noire 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0013-01.jpg
+  technique: Sculpture sur bois humide et brûlé
+  fields: []
+  styles: []
+  weight: 4
+  dimensions:
+    height: 24
+    width: 36
+    depth: 29
+  description: ''
+  price: 800
+  sold: false
+  contextual: false
+- title: Noire 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0012-01.jpg
+  technique: Sculpture sur bois humide et brûlé
+  fields: []
+  styles: []
+  weight: 4
+  dimensions:
+    height: 29
+    width: 23
+    depth: 12
+  description: ''
+  price: 800
+  sold: false
+  contextual: false
 - title: Prunus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0011-01~2.jpg
   technique: 'Sculpture sur bois humide prunier '
