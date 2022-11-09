@@ -195,7 +195,7 @@ works:
     \"galerie gaia - elisabeth wadecki video art et chapelle\")  \nPour comprendre
     et voir le travail in situ, l'artiste accepte d'ouvrir son atelier sur rendez-vous.
     Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
-  price: ''
+  price: 2500
   contextual: true
 redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
