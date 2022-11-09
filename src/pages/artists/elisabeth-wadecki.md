@@ -43,7 +43,7 @@ works:
     width: 130
     depth: 0
   description: "2022"
-  price: ''
+  price: 4000
   contextual: true
 - title: Archipel n°7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
