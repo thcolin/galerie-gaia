@@ -2,8 +2,7 @@
 fields:
 - Sculpture
 - Céramique
-- Dessin
-- Estampe
+- Oeuvre sur papier
 styles:
 - Abstrait
 template: artist
@@ -63,6 +62,7 @@ works:
   price: 3200
   sold: false
   contextual: true
+  weight: 
 - title: Exposition Pierre Tual Octobre 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/instagram_carousel-square.jpg
   technique: Sculptures - Dessins - Céramiques
@@ -70,9 +70,9 @@ works:
   styles:
   - Abstrait
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: |-
     Pierre Tual dialogue avec le vide, l’équilibre et la forme.
 
@@ -82,6 +82,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: Kérinos
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-kerinos.JPG
@@ -97,6 +98,7 @@ works:
   price: 11000
   sold: false
   contextual: false
+  weight: 
 - title: Kerinos étude
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tual-kerinos dessin C.jpg
@@ -107,12 +109,13 @@ works:
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: "dessin de la sculpture Kerinos  \nprix avec encadrement chêne verre
     musée anti-reflet"
   price: 2095
   sold: false
   contextual: true
+  weight: 
 - title: Le manège
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-Le Manège  Bronze TEP 1-1.jpeg
@@ -128,6 +131,7 @@ works:
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: 'Petite oblique contre le mur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -pierre
     tual -petite obliqueES .jpeg
@@ -143,6 +147,7 @@ works:
   price: 12000
   sold: false
   contextual: false
+  weight: 
 - title: Monotype 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
     2.jpg
@@ -153,11 +158,12 @@ works:
   dimensions:
     height: 110
     width: 75
-    depth: 0
+    depth: 
   description: ''
   price: 1200
   sold: false
   contextual: true
+  weight: 
 - title: Jour de Vénus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualJour de Vénus  Bronze 1:1 .jpeg
@@ -173,6 +179,7 @@ works:
   price: 4600
   sold: false
   contextual: false
+  weight: 
 - title: 'Dessin Le jour de Vénus '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
     de venus.jpg
@@ -182,11 +189,12 @@ works:
   dimensions:
     height: 110
     width: 75
-    depth: 0
+    depth: 
   description: ''
   price: 1600
   sold: false
   contextual: true
+  weight: 
 - title: Bronze Jour de Mars
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual jour de mars.jpg
@@ -202,6 +210,7 @@ works:
   price: 4600
   sold: false
   contextual: false
+  weight: 
 - title: Dessin Le Jour de Mars
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
     jour de mars.jpg
@@ -211,11 +220,12 @@ works:
   dimensions:
     height: 110
     width: 75
-    depth: 0
+    depth: 
   description: ''
   price: 1600
   sold: false
   contextual: true
+  weight: 
 - title: 'Relief au mur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tual-relief au mur.jpg
@@ -231,6 +241,7 @@ works:
   price: 1400
   sold: false
   contextual: false
+  weight: 
 - title: Isafjordur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIsafjordur  Fonte de fer 1:1 .jpeg
@@ -246,6 +257,7 @@ works:
   price: 4200
   sold: false
   contextual: false
+  weight: 
 - title: Jour d'Apollon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualJour d' Apollon Bronze 1:1.jpeg
@@ -261,6 +273,7 @@ works:
   price: 4600
   sold: false
   contextual: false
+  weight: 
 - title: 'Dessin Le jour du soleil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
     du soleil.jpg
@@ -269,13 +282,14 @@ works:
   - Estampe
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 1600
   sold: false
   contextual: true
+  weight: 
 - title: 'Citadelle '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualCitadelle   Bronze  1:1 .jpeg
@@ -291,6 +305,7 @@ works:
   price: 3900
   sold: false
   contextual: false
+  weight: 
 - title: Voyelle "O"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
     tual voyelle 0ES.jpeg
@@ -306,6 +321,7 @@ works:
   price: 14000
   sold: false
   contextual: false
+  weight: 
 - title: 'Verre et terre cuite '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5702.jpg
@@ -321,6 +337,7 @@ works:
   price: 1800
   sold: false
   contextual: false
+  weight: 
 - title: Sargasse
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualSargasse Bronze TEP  1:1 .jpeg
@@ -336,6 +353,7 @@ works:
   price: 3700
   sold: false
   contextual: false
+  weight: 
 - title: Algue marine
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5695.jpg
@@ -351,6 +369,7 @@ works:
   price: 1200
   sold: false
   contextual: false
+  weight: 
 - title: Blanche entrecroisée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5697.jpg
@@ -366,6 +385,7 @@ works:
   price: 600
   sold: false
   contextual: false
+  weight: 
 - title: Brique émaillée cassée et laiton roulé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5691.jpg
@@ -381,21 +401,22 @@ works:
   price: 800
   sold: false
   contextual: false
+  weight: 
 - title: Monotype 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
     1.jpg
   technique: Monotype sur papier BFK Rives 1993
-  fields:
-  - Estampe
+  fields: []
   styles: []
   dimensions:
     height: 110
     width: 75
-    depth: 0
+    depth: 
   description: ''
   price: 1200
   sold: false
   contextual: true
+  weight: 
 - title: Laiton plié roulé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5689.jpg
@@ -411,6 +432,7 @@ works:
   price: 200
   sold: false
   contextual: false
+  weight: 
 - title: 'Faïence bleue porphyre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
     tual-faience bleue acier.jpg
@@ -426,6 +448,7 @@ works:
   price: 1800
   sold: false
   contextual: false
+  weight: 
 - title: Céramique blanche et acier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5684.jpg
@@ -442,6 +465,7 @@ works:
   price: 1400
   sold: false
   contextual: false
+  weight: 
 - title: Céramique verte
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5683.jpg
@@ -457,6 +481,7 @@ works:
   price: 1200
   sold: false
   contextual: false
+  weight: 
 - title: 'Céramique jaune '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5682.jpg
@@ -472,6 +497,7 @@ works:
   price: 1200
   sold: false
   contextual: true
+  weight: 
 - title: Brou de noix 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 1.jpg
@@ -481,11 +507,12 @@ works:
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: "1988"
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Brou de noix 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-Ibrou
     de noix 5.jpg
@@ -496,11 +523,12 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: "1988"
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Monotype 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
     1.jpg
@@ -511,11 +539,12 @@ works:
   dimensions:
     height: 100
     width: 70
-    depth: 0
+    depth: 
   description: "1993"
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Brou de noix 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 2.jpg
@@ -526,11 +555,12 @@ works:
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: "1988"
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Marine I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5402.jpg
   technique: Eau forte 50 exemplaires
@@ -540,11 +570,12 @@ works:
   dimensions:
     height: 50
     width: 65
-    depth: 0
+    depth: 
   description: "1977 papier BFK Rives  \nTrès bon état"
   price: 800
   sold: false
   contextual: true
+  weight: 
 - title: Brou de noix 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 3.jpg
@@ -555,39 +586,40 @@ works:
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: "1988"
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Estacade II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5404.jpg
   technique: Eau forte 4/30
-  fields:
-  - Estampe
+  fields: []
   styles: []
   dimensions:
     height: 50
     width: 65
-    depth: 0
+    depth: 
   description: "1977, papier BFK Rives  \nTrès bon état"
   price: 800
   sold: false
   contextual: true
+  weight: 
 - title: Eau forte sans titre 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5419.jpg
   technique: Eau forte 14/30
-  fields:
-  - Estampe
+  fields: []
   styles: []
   dimensions:
     height: 50
     width: 65
-    depth: 0
+    depth: 
   description: "1977 papier BFK Rives  \nTrès bon état"
   price: 800
   sold: false
   contextual: true
+  weight: 
 - title: 'Eau forte sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5406.jpg
   technique: Eau forte 3/30
@@ -596,11 +628,12 @@ works:
   dimensions:
     height: 50
     width: 65
-    depth: 0
+    depth: 
   description: "1977 papier BFK Rives  \nTrès bon état"
   price: 800
   sold: false
   contextual: true
+  weight: 
 - title: Estacade I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5405.jpg
   technique: Eau forte 2/30
@@ -610,26 +643,27 @@ works:
   dimensions:
     height: 50
     width: 65
-    depth: 0
+    depth: 
   description: "1977 papier BFK Rives  \nTrès bon état"
   price: 800
   sold: false
   contextual: true
+  weight: 
 - title: Brou de noix 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-brou
     de noix 4.jpg
   technique: Brou de noix sur papier BFK Rives
-  fields:
-  - Dessin
+  fields: []
   styles: []
   dimensions:
     height: 70
     width: 100
-    depth: 0
+    depth: 
   description: "1988"
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Louxor
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-louxor-128x134x88.jpg
   technique: Acier corten
@@ -645,6 +679,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: Primitive N°3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-3.jpg
   technique: Fer recuit au four
@@ -658,6 +693,7 @@ works:
   price: 2500
   sold: false
   contextual: false
+  weight: 
 - title: Primitive N°1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-primitive-n-1.jpg
   fields: []
@@ -671,6 +707,7 @@ works:
   contextual: false
   technique: 'fer recuit au four '
   description: Série architecture 1999
+  weight: 
 - title: Atelier Pierre Tual
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-atelier.jpg
   technique: ''
@@ -686,6 +723,7 @@ works:
   price: 
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 seo:
   title: ''
