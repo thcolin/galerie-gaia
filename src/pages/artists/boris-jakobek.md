@@ -3,8 +3,7 @@ template: artist
 title: 'Jakobek Boris '
 location: ''
 fields:
-- Edition
-- Serigraphie
+- Oeuvre sur papier
 birth: "0"
 death: "0"
 expose: true
