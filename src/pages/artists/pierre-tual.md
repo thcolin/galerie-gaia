@@ -104,7 +104,7 @@ works:
     tual-kerinos dessin C.jpg
   technique: 'Fusain sur papier '
   fields:
-  - Oeuvre sur papier
+  - Dessin
   styles: []
   dimensions:
     height: 70
@@ -153,7 +153,7 @@ works:
     2.jpg
   technique: Estampe sur papier BFK Rives 1993
   fields:
-  - Estampe
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 110
@@ -184,7 +184,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-jour
     de venus.jpg
   technique: Dessin originale sur papier BFK Rives 2014
-  fields: []
+  fields:
+  - Dessin
   styles: []
   dimensions:
     height: 110
@@ -215,7 +216,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-dessin
     jour de mars.jpg
   technique: Dessin original sur papier BFK Rives 2014
-  fields: []
+  fields:
+  - Dessin
   styles: []
   dimensions:
     height: 110
@@ -534,7 +536,7 @@ works:
     1.jpg
   technique: Monotype sur papier BFK Rives
   fields:
-  - Dessin
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 100
