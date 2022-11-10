@@ -28,7 +28,13 @@ biography: |-
   * 1993 : Grand Prix National de la Photographie
   * 2008 : Georges Rousse succède à Sol Lewitt comme Membre associé de l'Académie Royale de Belgique
 
-  https://www.youtube.com/watch?v=tFiXI5nkATE
+  **Timelaps de l'installation Marseille 2011**
+
+  Part 1 : https://www.youtube.com/watch?v=LFT5CpYtMz0
+
+  Part 2 : https://www.youtube.com/watch?v=tFiXI5nkATE
+
+  Part 3 : https://www.youtube.com/watch?v=1e7msPV3CtI
 
   The harmony between a flat surface of a photography and a painting in relief
 
@@ -45,8 +51,6 @@ biography: |-
   * 1992: Romain Rolland scholarship in Calcutta (India)
   * 1993: Grand Prix National de la Photographie
   * 2008: Georges Rousse succeeds Sol Lewitt as Associate Member of the Royal Academy of Belgium
-
-  https://www.youtube.com/watch?v=tFiXI5nkATE
 exhibitions:
 - {}
 works:
