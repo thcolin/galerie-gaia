@@ -43,7 +43,10 @@ biography: |-
   * 1992: Romain Rolland scholarship in Calcutta (India)
   * 1993: Grand Prix National de la Photographie
   * 2008: Georges Rousse succeeds Sol Lewitt as Associate Member of the Royal Academy of Belgium
-exhibitions: []
+
+  [https://www.youtube.com/watch?v=tFiXI5nkATE](https://www.youtube.com/watch?v=tFiXI5nkATE "https://www.youtube.com/watch?v=tFiXI5nkATE")
+exhibitions:
+- {}
 works:
 - title: 'Exposition Galerie Gaïa 2022 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
@@ -298,7 +301,6 @@ works:
   contextual: false
 redirect_from:
 - "/artistes/93-georges-rousse/"
-styles:
-- Figuratif
+styles: []
 
 ---
