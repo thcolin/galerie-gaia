@@ -52,7 +52,7 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   Where it is only a question of our \"being in the world...\"."
 exhibitions: []
 works:
-- title: Archipel n°5
+- title: Archipels n°5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
   technique: 'Technique mixte sur toile : acrylique, pastel, fusain'
@@ -65,7 +65,7 @@ works:
   description: "2022"
   price: 4000
   contextual: true
-- title: Archipel n°7
+- title: Archipels n°7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°7 2022 46x55cm acrylique sur toile 1400 eur.1000.jpg
   technique: 'Acrylique  sur toile '
@@ -78,7 +78,7 @@ works:
   description: ''
   price: 1400
   contextual: true
-- title: Archipel n°9
+- title: Archipels n°9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°9  2022 70x70cm acrylique sur toile 1600 eur.1000.jpg
   technique: " acrylique sur toile"
@@ -91,7 +91,7 @@ works:
   description: "2022"
   price: 1600
   contextual: true
-- title: Archipel n°11
+- title: Archipels n°11
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°11 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
   technique: 'Acrylique sur toile '
@@ -146,7 +146,26 @@ works:
   description: ''
   price: 450
   contextual: true
-- title: 'En mon jardin N°5 sur toile '
+- title: 'En mon jardin n°1 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
+  technique: 'Acrylique bâtons d''huile sur toile '
+  dimensions:
+    height: 150
+    width: 150
+  description: "Visible sur demande en réserve dans l'atelier de l'artiste  \n2019"
+  price: 5000
+  contextual: true
+- title: 'En mon jardin n°4 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG
+  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
+  dimensions:
+    height: 100
+    width: 100
+    depth: 
+  description: "2019"
+  price: 2500
+  contextual: true
+- title: En mon jardin n°5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.wadecki en mon
     jardin sur TOILE N°5-2019-81x100cm-acrylique,bâtons-d'huile- 2000 euros.JPG
   technique: 'Acrylique sur toile et bâtons d''huile '
@@ -159,7 +178,7 @@ works:
   description: ''
   price: 2000
   contextual: true
-- title: En mon jardin N°6
+- title: En mon jardin n°6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.wadecki- En mon
     jardin N°6 sur TOILE, 2019 81x100cm, 2000 euros.JPG
   technique: Acrylqiue sur toile et bâton d'huile
@@ -172,16 +191,7 @@ works:
   description: "2019"
   price: 2000
   contextual: true
-- title: En mon jardin N°1 Toile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
-  technique: 'Acrylique bâtons d''huile sur toile '
-  dimensions:
-    height: 150
-    width: 150
-  description: "Visible sur demande en réserve dans l'atelier de l'artiste  \n2019"
-  price: 5000
-  contextual: true
-- title: En mon jardin N°12
+- title: En mon jardin n°12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
     En mon jardin N°12 acrylique, bâtons d'huile sur papier marouflé sur toile-  2019-
     100x100cm- 1800 euros.JPG
@@ -195,7 +205,7 @@ works:
   description: "2019"
   price: 2500
   contextual: true
-- title: 'Sans titre N°7 '
+- title: 'Sans titre n°7 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki sans titre
     n°7-2018-150x150cm- techniques mixtes- 3500 euros- visible à l'atelier.JPG
   technique: 'Acrylique huile fusain et pastels secs sur toile '
@@ -207,16 +217,6 @@ works:
   description: '2018 Œuvre visible en Octobre 2021 à la [Galerie des Bigotes ](https://www.mairie-vannes.fr/vannesloisirs/agenda/galerie-des-bigotes/
     "musée vannes ")Association des Amis du musée de Vannes '
   price: 5000
-  contextual: true
-- title: En mon jardin N°4 Papier marouflé sur toile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG
-  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: "2019"
-  price: 2500
   contextual: true
 - title: Le soleil se lève et tout devient nuit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Le soleil
