@@ -46,7 +46,7 @@ biography: |-
   * 1993: Grand Prix National de la Photographie
   * 2008: Georges Rousse succeeds Sol Lewitt as Associate Member of the Royal Academy of Belgium
 
-  [https://www.youtube.com/watch?v=tFiXI5nkATE](https://www.youtube.com/watch?v=tFiXI5nkATE "https://www.youtube.com/watch?v=tFiXI5nkATE")
+  https://www.youtube.com/watch?v=tFiXI5nkATE
 exhibitions:
 - {}
 works:
