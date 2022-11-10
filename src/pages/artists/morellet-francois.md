@@ -54,7 +54,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Morellet
     - Coffret Recto.jpg
   technique: Coffret comprenant 11 lithographies n° 6/30
-  fields: []
+  fields:
+  - Livre
   styles: []
   dimensions:
     height: 31

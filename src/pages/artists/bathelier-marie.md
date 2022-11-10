@@ -57,11 +57,12 @@ works:
   dimensions:
     height: 48
     width: 33
-    depth: 0
+    depth: 
   description: ''
   price: 600
   sold: false
   contextual: true
+  weight: 
 - title: Les parcelles - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier les parcelles 2 pigments calcaire et jus de feuilles de vigne sur papier
@@ -72,11 +73,12 @@ works:
   dimensions:
     height: 48
     width: 33
-    depth: 0
+    depth: 
   description: ''
   price: 600
   sold: false
   contextual: true
+  weight: 
 - title: Arbres 6 - 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
@@ -87,12 +89,13 @@ works:
   dimensions:
     height: 49
     width: 33
-    depth: 0
+    depth: 
   description: "Installation de 6 papiers, tarif avec encadrement compris  \n49X33
     cm est le format de chaque papier"
   price: 3000
   sold: false
   contextual: false
+  weight: 
 - title: Arbres 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
     - 3 33 x 49.jpg
@@ -103,11 +106,12 @@ works:
   dimensions:
     height: 43
     width: 39
-    depth: 0
+    depth: 
   description: "Triptyque  \n49X33 cm est le format de chaque papier"
   price: 1500
   sold: false
   contextual: false
+  weight: 
 - title: Heures bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
@@ -118,11 +122,12 @@ works:
   dimensions:
     height: 100
     width: 73
-    depth: 0
+    depth: 
   description: Œuvre visible au Restaurant [l'Aménité](https://www.lamenite-restaurant-nantes.com/)
   price: 1600
   sold: false
   contextual: true
+  weight: 
 - title: La tête me tourne
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier la tête me tourne pigments acryl terre et eau de pluie sur toile 73
@@ -133,11 +138,12 @@ works:
   dimensions:
     height: 100
     width: 73
-    depth: 0
+    depth: 
   description: ''
   price: 1600
   sold: false
   contextual: true
+  weight: 
 - title: Au jardin 5
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/proches5 : couleurs
     p&o sur p : 48 x 68 cm.jpg'
@@ -147,11 +153,12 @@ works:
   dimensions:
     height: 48
     width: 68
-    depth: 0
+    depth: 
   description: 2022 Œuvre encadrée cadre chêne
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: 'Jour et nuit '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier jours et nuits se lèvent tombent pig acryl et poudre de roche sur bois
@@ -168,6 +175,7 @@ works:
   price: 800
   sold: false
   contextual: false
+  weight: 
 - title: Regarde les fleurs voler
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier regarde les fleurs voler pigments acyl et cendre végétale sur toile
@@ -178,11 +186,12 @@ works:
   dimensions:
     height: 100
     width: 73
-    depth: 0
+    depth: 
   description: ''
   price: 1600
   sold: false
   contextual: true
+  weight: 
 - title: Paille
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
@@ -194,11 +203,12 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: Exemplaire 1/5
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Nid
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
@@ -210,11 +220,12 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: Exemplaire 1/5
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Pierre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
@@ -226,11 +237,12 @@ works:
   dimensions:
     height: 40
     width: 30
-    depth: 0
+    depth: 
   description: Exemplaire 1/5
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Grande ronce bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
@@ -242,11 +254,12 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: ''
   price: 1100
   sold: false
   contextual: false
+  weight: 
 - title: Au jardin 9
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/proches9 : pigments
     a & o sur p : 48 x 68 cm.jpg'
@@ -256,11 +269,12 @@ works:
   dimensions:
     height: 48
     width: 68
-    depth: 0
+    depth: 
   description: 2022 Œuvre encadrée cadre chêne
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Au jardin -2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
@@ -271,11 +285,12 @@ works:
   dimensions:
     height: 48
     width: 68
-    depth: 0
+    depth: 
   description: ''
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Au jardin - 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
@@ -286,11 +301,12 @@ works:
   dimensions:
     height: 48
     width: 68
-    depth: 0
+    depth: 
   description: ''
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Coeur de la nuit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/alerie-gaia-marie-bathellier-coeur
     de la nuit.jpg
@@ -300,11 +316,12 @@ works:
   dimensions:
     height: 24
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Le figuier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - marie
     batheliier- figuier.JPG
@@ -314,11 +331,12 @@ works:
   dimensions:
     height: 24
     width: 30
-    depth: 0
+    depth: 
   description: ''
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: 'Lux in mare '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
     bathellier -LUX IN MARE E 47X47.jpg
@@ -334,6 +352,7 @@ works:
   price: 850
   sold: false
   contextual: true
+  weight: 
 - title: Umbra delectat 4 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
     bathellier -UMBRA DELECTAT E 60X44.jpg
@@ -349,6 +368,7 @@ works:
   price: 650
   sold: false
   contextual: true
+  weight: 
 - title: Mes bains 7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 7 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
@@ -365,6 +385,7 @@ works:
   price: 300
   sold: false
   contextual: true
+  weight: 
 - title: Mes Bains 6 2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 6 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
@@ -381,6 +402,7 @@ works:
   price: 300
   sold: false
   contextual: true
+  weight: 
 - title: Mes bains 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 4 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
@@ -397,6 +419,7 @@ works:
   price: 300
   sold: false
   contextual: true
+  weight: 
 - title: Mes bains 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-MarieB
     - MES BAINS 3 - 20 x 20 cm - pigments acryl. sur tirage photographique Fine Art
@@ -418,6 +441,7 @@ works:
   price: 300
   sold: false
   contextual: true
+  weight: 
 - title: Sans titre &5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-5-17x15.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé
@@ -431,6 +455,7 @@ works:
   price: 290
   sold: false
   contextual: true
+  weight: 
 - title: Sans titre &4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton-4_15x17.jpg
   technique: pigments acryliques, argile et sable sur carton partiellement pyrogravé,
@@ -445,6 +470,7 @@ works:
   price: 290
   sold: false
   contextual: true
+  weight: 
 - title: 'Sculpture murale à rayures '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/profil-sbleue.jpeg
   technique: 'pigments acryliques et paillettes sur bois '
@@ -463,6 +489,7 @@ works:
   - Sculpture
   styles:
   - Abstrait
+  weight: 
 - title: Lit de camp et sculpture en situation dans Côté Ouest
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     04.jpg
@@ -477,24 +504,7 @@ works:
   price: 
   sold: false
   contextual: false
-- title: Lit de camp peint
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mariebathellier-litdecamppeint-43x70x188-900.jpeg
-  technique: Peinture acrylique sur toile de coton teinte
-  dimensions:
-    height: 43
-    width: 70
-    depth: 188
-  description: "Formes allongées, imbriquées, peintes sur la toile d’ un lit de camp,
-    \n\nComme Sonia Delaunay, M V Bathellier travaille divers supports , variant les
-    prétextes pour s’ amuser et composer formes et couleurs entrant en relations.
-    Aucune frontière entre la vie, l’ art et les arts décoratifs. La peinture c’ est
-    où on veut, où on vit, où l’ on s’ allonge, où l’ on rêve."
-  price: 900
-  sold: false
-  contextual: false
-  fields:
-  - Design
-  styles: []
+  weight: 
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
   technique: ''
@@ -509,6 +519,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 exhibitions:
 - title: Galerie Amélie Maison d'Art
   location: Paris 8ème
