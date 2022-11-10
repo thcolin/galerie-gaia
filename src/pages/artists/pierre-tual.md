@@ -3,6 +3,7 @@ fields:
 - Sculpture
 - Céramique
 - Oeuvre sur papier
+- Dessin
 styles:
 - Abstrait
 template: artist
@@ -281,7 +282,7 @@ works:
     du soleil.jpg
   technique: Dessin originale sur papier BFK Rives 2014
   fields:
-  - Estampe
+  - Dessin
   styles: []
   dimensions:
     height: 
@@ -385,22 +386,6 @@ works:
     depth: 11
   description: ''
   price: 600
-  sold: false
-  contextual: false
-  weight: 
-- title: Brique émaillée cassée et laiton roulé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5691.jpg
-  technique: Installation céramique et laiton dorée
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 15
-  description: ''
-  price: 800
   sold: false
   contextual: false
   weight: 
