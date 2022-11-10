@@ -97,20 +97,6 @@ works:
   description: "2019"
   price: 2000
   contextual: true
-- title: 'Retour des bois '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Retour
-    des bois- 2021- acrylique, bâtons d'huile sur papier marouflé sur toile- 130x97cm-
-    2200 euros.jpg
-  technique: Acrylique, bâtons d'huile sur papier marouflé sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: Vendu
-  price: 2200
-  contextual: true
 - title: En mon jardin N°1 Toile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
   technique: 'Acrylique bâtons d''huile sur toile '
