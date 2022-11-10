@@ -138,17 +138,6 @@ works:
   price: 200
   sold: false
   contextual: true
-- title: Le réveil
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reveil.jpg
-  technique: 'Sérigraphie  4 couleurs  papier Olin 300g '
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: Editions en 20 exemplaires
-  price: 120
-  sold: false
-  contextual: true
 - title: Schlaasss
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/822.jpg
   technique: 'sérigraphie  6 couleurs papier Olin 300g '

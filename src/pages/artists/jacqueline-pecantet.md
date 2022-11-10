@@ -4,7 +4,6 @@ title: 'Pécantet Jacqueline '
 location: ''
 fields:
 - Céramique
-- Edition
 birth: "0"
 death: "0"
 expose: true
@@ -65,8 +64,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/s'il reste des silences
     Couv .jpeg
   technique: 'Edition livre photographies '
-  fields:
-  - Edition
+  fields: []
   styles:
   - Figuratif
   dimensions:

@@ -4,7 +4,6 @@ title: 'Muckensturm Pierre '
 location: ''
 fields:
 - Oeuvre sur papier
-- Edition
 - Peinture
 - Dessin
 birth: "0"
