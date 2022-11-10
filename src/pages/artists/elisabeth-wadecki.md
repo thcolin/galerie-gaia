@@ -108,7 +108,7 @@ works:
     height: 130
     width: 97
     depth: 0
-  description: "2021"
+  description: Vendu
   price: 2200
   contextual: true
 - title: En mon jardin N°1 Toile
@@ -182,7 +182,7 @@ works:
     width: 100
     depth: 0
   description: "2017"
-  price: 2000
+  price: 3000
   contextual: true
 - title: Portrait d'Elisabeth Wadecki
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-elisabeth
@@ -195,7 +195,7 @@ works:
     \"galerie gaia - elisabeth wadecki video art et chapelle\")  \nPour comprendre
     et voir le travail in situ, l'artiste accepte d'ouvrir son atelier sur rendez-vous.
     Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)"
-  price: 2500
+  price: ''
   contextual: true
 redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
