@@ -64,7 +64,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/s'il reste des silences
     Couv .jpeg
   technique: 'Edition livre photographies '
-  fields: []
+  fields:
+  - Livre
   styles:
   - Figuratif
   dimensions:
@@ -78,50 +79,6 @@ works:
     par des partis pris de contrastes et de tonalités, les contours d'une expression
     singulière.\n\nDes gravats de mémoire, des paroles en vrac et des points cardinaux
     en quête d'horizon.\n\n "
-  price: 29
-  contextual: false
-- title: Sans titre  Jean-Michel Nicolau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/98 Page 50 Left
-    6-AAA-DSCF2449 copie.jpeg
-  technique: 'Photographie '
-  fields:
-  - Photographie
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Image contenue dans le livre S’il reste des silences…  \nTirage à
-    300 exemplaires 29€"
-  price: 29
-  contextual: true
-- title: Sans titre Jean-Michel Nicolau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/66 JM Nicolau copie.jpg
-  technique: Photographie
-  fields:
-  - Edition
-  styles:
-  - Figuratif
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Image contenue dans le livre S'il reste des silences...  \nTirage
-    à 300 exemplaires 29€"
-  price: 29
-  contextual: true
-- title: Chine Jean-Michel Nicolau
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 Page 5 Left 1-AAA-CHINE
-    2005025 copie.jpeg
-  technique: 'Photographie '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Image contenue dans le livre S'il reste des silences...  \nTirage
-    à 300 exemplaires 29€"
   price: 29
   contextual: false
 - title: Grès 9
@@ -153,17 +110,6 @@ works:
   description: ''
   price: 0
   contextual: false
-- title: Rhizomes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rhizomes.jpg
-  technique: Eau forte et gaufrage 3/15
-  dimensions:
-    height: 52
-    width: 39
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
 redirect_from:
 - "/artistes/36tistes/36-jacqueline-pecantet/"
 styles:
