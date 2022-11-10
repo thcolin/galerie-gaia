@@ -36,13 +36,13 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   le langage de ma peinture pour rester en intelligence avec ce que je vis »._ Et
   l’artiste, de citer Joan Mitchell : « peindre a quelque chose à voir avec le fait
   d’être en vie ». Où il n’est question que de notre « être au monde… »\n\n**ENGLISH
-  VERSION** \n\nElisabeth Wadecki's painting unfolds in the field of a narrative and
-  sensitive abstraction.\n\nHer painting provokes an opening of perceptions, a solicitation
-  of the senses, in addition to the sight, where an incorporation of the real is played,
-  a union between the body, the subject, and the world which surrounds it. Fromanger
-  said \"meditating is connecting me to the energy of the world, to the energy of
-  the wind, the rain, the sun, space and time.\n\nAs for her \"Archipels\" of 2022
-  (painting and wall installation) in connection with Edouard Glissant's \"Archipels\"
+  VERSION** \n\nArt\n\nElisabeth Wadecki's painting unfolds in the field of a narrative
+  and sensitive abstraction.\n\nHer painting provokes an opening of perceptions, a
+  solicitation of the senses, in addition to the sight, where an incorporation of
+  the real is played, a union between the body, the subject, and the world which surrounds
+  it. Fromanger said \"meditating is connecting me to the energy of the world, to
+  the energy of the wind, the rain, the sun, space and time.\n\nAs for her \"Archipels\"
+  of 2022 (painting and wall installation) in connection with Edouard Glissant's \"Archipels\"
   thought, they are a metaphor for the very movement of our world, with its climatic
   transformations and human migrations. A world of impermanence, as are nature, man
   and the universe. Thus, his works propose a modular narrative, diptychs, triptychs,
@@ -52,6 +52,32 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   Where it is only a question of our \"being in the world...\"."
 exhibitions: []
 works:
+- title: Archipel n°5
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
+    n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
+  technique: 'Technique mixte sur toile : acrylique, pastel, fusain'
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 130
+    depth: 0
+  description: "2022"
+  price: 4000
+  contextual: true
+- title: Archipel n°7
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
+    n°7 2022 46x55cm acrylique sur toile 1400 eur.1000.jpg
+  technique: 'Acrylique  sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 46
+    width: 57
+    depth: 0
+  description: ''
+  price: 1400
+  contextual: true
 - title: Archipel n°9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°9  2022 70x70cm acrylique sur toile 1600 eur.1000.jpg
@@ -78,31 +104,47 @@ works:
   description: "2022"
   price: 4000
   contextual: true
-- title: Archipel n°7
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
-    n°7 2022 46x55cm acrylique sur toile 1400 eur.1000.jpg
-  technique: 'Acrylique  sur toile '
+- title: Archipels n° 12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
+    Archipelle 12 .jpeg
+  technique: 'Acrylique  & Collage '
   fields: []
   styles: []
+  weight: 0
   dimensions:
-    height: 46
-    width: 57
+    height: 42
+    width: 30
     depth: 0
   description: ''
-  price: 1400
+  price: 450
   contextual: true
-- title: Archipel n°5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
-    n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
-  technique: 'Technique mixte sur toile : acrylique, pastel, fusain'
+- title: Archipels n°13
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
+    Archipel 13.jpeg
+  technique: Acrylique & Collage
   fields: []
   styles: []
+  weight: 0
   dimensions:
-    height: 130
-    width: 130
+    height: 30
+    width: 24
     depth: 0
-  description: "2022"
-  price: 4000
+  description: ''
+  price: 350
+  contextual: true
+- title: Archipels n°14
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
+    Archipel 14.jpeg
+  technique: Acrylique & Collage
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 30
+    width: 42
+    depth: 0
+  description: ''
+  price: 450
   contextual: true
 - title: 'En mon jardin N°5 sur toile '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.wadecki en mon
