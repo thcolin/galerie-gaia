@@ -36,13 +36,13 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   le langage de ma peinture pour rester en intelligence avec ce que je vis »._ Et
   l’artiste, de citer Joan Mitchell : « peindre a quelque chose à voir avec le fait
   d’être en vie ». Où il n’est question que de notre « être au monde… »\n\n**ENGLISH
-  VERSION** \n\nArt\n\nElisabeth Wadecki's painting unfolds in the field of a narrative
-  and sensitive abstraction.\n\nHer painting provokes an opening of perceptions, a
-  solicitation of the senses, in addition to the sight, where an incorporation of
-  the real is played, a union between the body, the subject, and the world which surrounds
-  it. Fromanger said \"meditating is connecting me to the energy of the world, to
-  the energy of the wind, the rain, the sun, space and time.\n\nAs for her \"Archipels\"
-  of 2022 (painting and wall installation) in connection with Edouard Glissant's \"Archipels\"
+  VERSION** \n\nElisabeth Wadecki's painting unfolds in the field of a narrative and
+  sensitive abstraction.\n\nHer painting provokes an opening of perceptions, a solicitation
+  of the senses, in addition to the sight, where an incorporation of the real is played,
+  a union between the body, the subject, and the world which surrounds it. Fromanger
+  said \"meditating is connecting me to the energy of the world, to the energy of
+  the wind, the rain, the sun, space and time.\n\nAs for her \"Archipels\" of 2022
+  (painting and wall installation) in connection with Edouard Glissant's \"Archipels\"
   thought, they are a metaphor for the very movement of our world, with its climatic
   transformations and human migrations. A world of impermanence, as are nature, man
   and the universe. Thus, his works propose a modular narrative, diptychs, triptychs,
