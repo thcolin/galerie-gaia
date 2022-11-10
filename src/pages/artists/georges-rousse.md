@@ -28,7 +28,9 @@ biography: |-
   * 1993 : Grand Prix National de la Photographie
   * 2008 : Georges Rousse succède à Sol Lewitt comme Membre associé de l'Académie Royale de Belgique
 
-  > The harmony between a flat surface of a photography and a painting in relief
+  https://www.youtube.com/watch?v=tFiXI5nkATE
+
+  The harmony between a flat surface of a photography and a painting in relief
 
   Georges Rousse was born in 1947 in Paris, where he lives and works today. While studying medicine, he decided to create his own architectural photo studio after having completed an apprenticeship with a professional photographer. Georges Rousse's primary material is Space, especially abandoned buildings. From the lens of his camera, he captures his paintings, which in reality contrast with the pictorial order and the flat surface of the photograph. He creates in these places a utopian form by projecting his vision of the world.   In order to allow visitors to share his experience of Space, he presents, since the early 80s, his pictures in large format prints. This strong and singular work, which shifts the boundaries between traditional media, immediately made its mark on the contemporary art scene.
 
