@@ -55,7 +55,7 @@ works:
 - title: Archipels n°5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
-  technique: 'Huile sur toile '
+  technique: 'Acrylique sur toile '
   fields: []
   styles: []
   dimensions:
