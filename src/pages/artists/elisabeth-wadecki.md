@@ -55,7 +55,7 @@ works:
 - title: Archipels n°5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
-  technique: 'Technique mixte sur toile : acrylique, pastel, fusain'
+  technique: 'Huile sur toile '
   fields: []
   styles: []
   dimensions:
@@ -232,19 +232,6 @@ works:
   price: 2300
   contextual: true
   technique: Acrylique et bâton d'huile sur toile brute
-- title: 'Palude 1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
-    re(s)source Paludes N°I-2017- 120x100cm-acrylique, pastels,fusain-2000 euros.JPG
-  technique: 'Technique mixte sur toile acrylique, pastel, fusain '
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 100
-    depth: 0
-  description: "2017"
-  price: 3000
-  contextual: true
 - title: Portrait d'Elisabeth Wadecki
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-elisabeth
     wadecki portrait.JPG
