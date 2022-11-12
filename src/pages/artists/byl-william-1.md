@@ -24,7 +24,7 @@ biography: 'Chaque pièce de bois a été récupérée sur la presqu''île de Rh
 works:
 - title: 'Noire '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0012-01.jpg
-  technique: Sculpture sur bois humide et brûlé
+  technique: Bois brulé
   fields: []
   styles: []
   weight: 4
@@ -38,7 +38,7 @@ works:
   contextual: false
 - title: Noire 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0014-01.jpg
-  technique: Sculpture sur bois humide et brûlé
+  technique: Bois brulé
   fields: []
   styles: []
   weight: 10
@@ -52,7 +52,7 @@ works:
   contextual: false
 - title: Noire 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0013-01.jpg
-  technique: Sculpture sur bois humide et brûlé
+  technique: Bois brulé
   fields: []
   styles: []
   weight: 4
