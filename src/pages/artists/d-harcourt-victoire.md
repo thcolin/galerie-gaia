@@ -41,6 +41,21 @@ biography: "# Victoire D'Harcourt\n\n> Toute puissance ne tient qu'à un fil\n\n
   work often expresses a double feeling that links both strength and fragility in
   a whole whose balance is precarious."
 works:
+- title: Equilibre Mini
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
+    d'harcourt-equilibre mini.jpg
+  technique: Bronze
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 18
+    width: 9.5
+    depth: 9.5
+  description: 1/8
+  price: 1600
+  sold: false
+  contextual: true
 - title: Alliance Blanche
   fields: []
   styles: []
@@ -54,6 +69,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1741.jpg
   technique: 'Bas relief - Poudre de marbre & résine '
   sold: false
+  weight: 
 - title: 'Alliance Blanche au mur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0708.JPG
   technique: 'Bas relief - Poudre de marbre et résine '
@@ -67,6 +83,7 @@ works:
   price: 2400
   sold: false
   contextual: false
+  weight: 
 - title: Alliance XII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - victoire
     d'harcourt-alliance XII.JPG
@@ -81,6 +98,7 @@ works:
   price: 6000
   sold: false
   contextual: false
+  weight: 
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
@@ -95,6 +113,7 @@ works:
   price: 6000
   sold: false
   contextual: false
+  weight: 
 - title: Alliance IV
   fields: []
   styles: []
@@ -108,10 +127,11 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
   technique: 'Bronze '
   sold: false
+  weight: 
 - title: Alliance XVIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-56X21X19-1:8.jpg
-  technique: Bronze 2/8
+  technique: Bronze 3/8
   fields: []
   styles: []
   dimensions:
@@ -122,6 +142,7 @@ works:
   price: 4800
   sold: false
   contextual: false
+  weight: 
 - title: Alliance XVIII en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d hracourt-alliance xvIII ES.jpg
@@ -136,6 +157,7 @@ works:
   price: 4800
   sold: false
   contextual: false
+  weight: 
 - title: Petite Catena
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-18X18X2-EA.jpg
@@ -150,6 +172,7 @@ works:
   price: 1700
   sold: false
   contextual: false
+  weight: 
 - title: Portrait de Victoire d'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-portrait.jpg
@@ -164,6 +187,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 exhibitions: []
 
 ---
