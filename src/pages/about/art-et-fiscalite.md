@@ -1,7 +1,7 @@
 ---
 template: about
 content:
-- column: "# Défiscaliser une œuvre d'art ?\n\n## \n\nPour donner une ambiance chaleureuse
+- column: "# Défiscaliser une œuvre d'art \n\nPour donner une ambiance chaleureuse
     et renforcer l'identité de votre entreprise auprès de vos clients et collaborateurs
     une table de ping pong c'est bien, mais **une œuvre d'art unique et originale**
     incarnera encore plus  vos valeurs et votre différence !\n\nNous vous accompagnons
@@ -42,11 +42,14 @@ content:
   contact:
     display: true
     placeholder: Renseignement location & défiscalisation
-- column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-notre
-    heritage seul.png)\n\nMon Héritage - bronze de [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/
-    \"isabelle healy\") \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure
-    carre rose.jpg)\n\nAutoportrait peinture de [Laure Carré](https://galeriegaia.fr/artists/laure-carre/
-    \"laure carré\") - Showroom Cosentino Paris"
+- column: |-
+    ![https://galeriegaia.fr/artists/isabelle-healy/](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-notre heritage seul.png "ISABELLE HEALY DEFISCALISATION OEUVRE ART")
+
+    Mon Héritage - bronze de [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
+
+    ![https://galeriegaia.fr/artists/laure-carre/](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure carre rose.jpg "LAURE CARRE COSENTINO PARIS")
+
+    Autoportrait peinture de [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure carré") - Showroom Cosentino Paris
   contact:
     placeholder: Un message à nous adresser ?
     display: false
