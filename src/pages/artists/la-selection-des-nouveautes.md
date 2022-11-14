@@ -145,20 +145,20 @@ works:
   - Sculpture
   styles:
   - Figuratif
-- title: Installation murale par Pierre Tual
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
-    tual mural.jpg
-  technique: Acier corten
+- title: Fête foraine par Marie Vandooren
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandoorenn-
+    fette foraine ES.jpg
+  technique: 'Sérigraphie '
   fields:
   - Sculpture
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 50
+    width: 70
     depth: 0
-  description: '[Pierre Tual ](https://galeriegaia.fr/artists/pierre-tual/ "peirre
-    tual")exposition du 6 au 22 octobre'
-  price: 1400
+  description: '[Marie Vandooren](https://galeriegaia.fr/artists/marie-vandooren/
+    "Marie Vandooren")'
+  price: 200
   contextual: true
 - title: Jorj Morin Espace clos Céramique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
