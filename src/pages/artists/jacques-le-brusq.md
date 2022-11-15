@@ -173,6 +173,36 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: VER CLA FLO Opus 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-VER CLA FLO opus 3 100 fig 2020 130X162.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2020"
+  price: 18000
+  sold: false
+  contextual: true
+- title: 'Rhuys Opus 1 Toile '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
+    le brusq-Rhuys opus 1 22 11 2022 30X30.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: Encadrement caisse américaine bois nautuel
+  price: 2500
+  sold: false
+  contextual: true
 - title: En Beauce Opus 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-2_1998_huile-toile_120x114cm.jpg
   technique: Huile sur toile montée sur châssis
@@ -186,6 +216,7 @@ works:
   price: 10000
   sold: false
   contextual: true
+  weight: 
 - title: Vers le jardin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_vers
     le jardin.jpg.jpg
@@ -195,7 +226,7 @@ works:
   dimensions:
     height: 52.5
     width: 42.5
-    depth: 0
+    depth: 
   description: |-
     Pièce unique.
 
@@ -205,6 +236,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Cour sud, le Prunier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-2021-12-29-Jacques-Le-Brusq-cour-sud-le-prunier.jpg.jpg
   technique: Huile sur toile
@@ -213,7 +245,7 @@ works:
   dimensions:
     height: 28
     width: 32
-    depth: 0
+    depth: 
   description: |-
     Dimensions avec cadre : 52,5 x 42,5cm
 
@@ -221,6 +253,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Contre-jour
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-2021-12-29-Jacques-Le-Brusq-contre-jour.jpg.jpg
   technique: Huile sur toile
@@ -229,7 +262,7 @@ works:
   dimensions:
     height: 28
     width: 32
-    depth: 0
+    depth: 
   description: |-
     Dimensions avec encadrement : 52,5 x 42,5cm
 
@@ -237,6 +270,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Vers l'entrée, Les Douglas
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie_gaia_2021-12-29-Jacques-Le-Brusq-vers
     l'entrée-Les Douglas.jpg.jpg
@@ -246,7 +280,7 @@ works:
   dimensions:
     height: 28
     width: 32
-    depth: 0
+    depth: 
   description: |-
     Taille avec encadrement : 52,5 x 42,5cm
 
@@ -254,6 +288,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Le chemin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_le
     chemin.jpg.jpg
@@ -263,7 +298,7 @@ works:
   dimensions:
     height: 52.5
     width: 42.5
-    depth: 0
+    depth: 
   description: |-
     Pièce unique.
 
@@ -273,6 +308,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: En Beauce Opus 2 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150930.jpg
   technique: 'Huile sur toile '
@@ -286,6 +322,7 @@ works:
   price: 10000
   sold: false
   contextual: false
+  weight: 
 - title: En Beauce Opus 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-1_1996_huile-toile_120x114cm.jpg
   technique: 'Huile sur toile montée sur châssis '
@@ -299,6 +336,7 @@ works:
   price: 10000
   sold: false
   contextual: true
+  weight: 
 - title: En Beauce Opus 1 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150853.jpg
   technique: 'Huile sur toile '
@@ -312,6 +350,7 @@ works:
   price: 10000
   sold: false
   contextual: false
+  weight: 
 - title: 5390 BR PAY FLO OPUS 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CHR-5390-BR-PAY-FLO_2015_jacques-le-brusq_galerie-gaia.jpg
   technique: Huile sur papier
@@ -326,6 +365,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 5390 BR PAY FLO OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-CHR 5390 BR PAY FLO OPUS1-100X70.jpg
@@ -341,6 +381,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: '7731 GAR LEM OPUS 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K7731-GAR-LEM-OPUS-1_2017_jacques-le-brusq_galerie-gaia.jpg
   technique: Huile sur papier
@@ -356,6 +397,7 @@ works:
   price: 4000
   sold: false
   contextual: false
+  weight: 
 - title: 7731 GAR LEM OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-K7731 GAR LEM OPUS 1-100X70.jpg
@@ -372,6 +414,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 9517 VER CLA FLO
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-9517-VER-CLA-FLO-OPUS-1_2018_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -386,6 +429,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 7750 RHUYS OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-K 7750 RHUYS OPUS 1-100X70.jpg
@@ -401,6 +445,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: '7749 RHUYS OPUS 2 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE
     BRUSQ-rhuys opus 2 C.jpg
@@ -416,6 +461,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 'BR MO NO OPUS 2 dans l''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
     Le Brusq-ES-16-10-21 -04.jpg
@@ -431,6 +477,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: '7732 GAR LEM OPUS 2 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7732-GAR-LEM-OPUS-2_2017_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -445,6 +492,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 30 AFR OPUS 2 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-30 AFR OPUS2-100X70.jpg
@@ -460,6 +508,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: '30 AFR OPUS 2 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/30-AFR-OPUS-2_2019_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -474,6 +523,7 @@ works:
   price: 4000
   sold: false
   contextual: false
+  weight: 
 - title: 29 AFR OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-29 AFR OPUS 100X70.jpg
@@ -489,6 +539,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 29 AFR OPUS 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/29-AFR OPUS1_2019_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -503,6 +554,7 @@ works:
   price: 4000
   sold: false
   contextual: false
+  weight: 
 - title: '13 BR FL VE '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13-BR FL VE_2020_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -517,6 +569,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: '04 VER CLA FLO '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/04-VER-CLA-FLO-OPUS-2_2019_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -530,6 +583,7 @@ works:
   price: 4000
   sold: true
   contextual: true
+  weight: 
 - title: Rhuys vers Kernes Opus 2 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-RHUYS VER KERNES OPUS 2.jpg
@@ -545,6 +599,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Rhuys vers kernes Opus 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg
   technique: Huile sur papier
@@ -558,6 +613,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Rhuys vers kerne Opus 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg
   technique: Huile sur papier
@@ -571,6 +627,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
   technique: ''
@@ -585,6 +642,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: '03 PAY VE FON '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
   technique: 'Huile sur papier '
@@ -598,6 +656,7 @@ works:
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: La Brèche Opus 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-nom-16.jpg
   technique: Huile sur papier
@@ -611,6 +670,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-Jacques
     Le Brusq.jpg
@@ -625,6 +685,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 exhibitions:
 - title: Le présent du monde
   location: Nantes Galerie Gaia
