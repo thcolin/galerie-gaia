@@ -22,6 +22,21 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: 'Nuit des Galeries 5 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nuit
+    galeries5IMG_6199.JPG
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
+    "le brusq") et [Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
+    "wadecki")'
+  price: ''
+  contextual: false
 - title: William Byl et Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
   technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant

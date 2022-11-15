@@ -36,6 +36,31 @@ works:
     \ \n 1 dimanche 12H - 18H  \n   \n jeudi 10 au dimanche 13 Novembre 2022"
   price: ''
   contextual: true
+- title: 'Nuit des Galeries 5 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_6295.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Novembre 2022 à la Cale 2 des créateurs '
+  price: ''
+  contextual: true
+- title: Les galeristes de l'association Art Galeries Nantes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nuit
+    galeries5IMG_6202.JPG
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: 'La liste des 6 galeries de la Nuit des Galeries #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Flyer_LANUITDESGALERIES_verso_web.jpg
   fields: []
