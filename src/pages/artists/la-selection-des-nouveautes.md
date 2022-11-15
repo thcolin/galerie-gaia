@@ -22,20 +22,20 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: 'Nuit des Galeries 5 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nuit
-    galeries5IMG_6199.JPG
-  fields: []
+- title: 'Céramiques par Valérie Le Roux  '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    le roux-galerie-gaia-IMG_6316.jpg
+  technique: Céramique
+  fields:
+  - Céramique
   styles: []
-  weight: 0
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
-    "le brusq") et [Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
-    "wadecki")'
-  price: ''
+    height: 26
+    width: 29
+    depth: 6
+  description: '[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
+    "valérie le roux ")'
+  price: 175
   contextual: false
 - title: William Byl et Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
@@ -66,6 +66,21 @@ works:
   description: '# [Annick ARGANT](https://galeriegaia.fr/artists/annick-argant/ "ANNICK
     ARGANT")'
   price: 1200
+  contextual: false
+- title: 'Nuit des Galeries 5 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nuit
+    galeries5IMG_6199.JPG
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
+    "le brusq") et [Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
+    "wadecki")'
+  price: ''
   contextual: false
 - title: Blue Pacifique II par Isthme installé à l'Aménité
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme
@@ -175,21 +190,6 @@ works:
     "Marie Vandooren")'
   price: 200
   contextual: true
-- title: Jorj Morin Espace clos Céramique
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-jorj
-    morin céramique 2 espace clos.JPG
-  technique: Céramique
-  fields:
-  - Céramique
-  styles:
-  - Abstrait
-  dimensions:
-    height: 26
-    width: 29
-    depth: 6
-  description: "[Jorj Morin]()\n\nPrix sur demande "
-  price: ''
-  contextual: false
 - title: Le boxeur Laure Carré  à l'atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
     carre la boxeuse ES.jpg

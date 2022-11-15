@@ -28,6 +28,21 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Vase vert clair
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    le roux-galerie-gaia-IMG_6318.jpg
+  technique: 'Céramique pièce unique '
+  fields:
+  - Céramique
+  styles: []
+  weight: 0
+  dimensions:
+    height: 18
+    width: 18
+    depth: 18
+  description: "2022"
+  price: 175
+  contextual: false
 - title: Grande coupe algue curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6317.jpg
@@ -39,7 +54,7 @@ works:
     height: 6
     width: 36
     depth: 36
-  description: ''
+  description: "2022"
   price: 250
   contextual: false
 - title: Algue curry
