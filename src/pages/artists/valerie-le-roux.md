@@ -28,6 +28,48 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Grande coupe algue curry
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    le roux-galerie-gaia-IMG_6317.jpg
+  technique: 'Céramique pièce unique '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 6
+    width: 36
+    depth: 36
+  description: "2022"
+  price: 250
+  contextual: false
+- title: Végétal orange vif et bleu marine format allongé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6337.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
+- title: Végétal bleu ciel et foncé format allongé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6336.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
 - title: Algue bleu ciel et foncé  format allongé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6335.jpg
@@ -42,6 +84,21 @@ works:
   description: ''
   price: 85
   contextual: true
+- title: Vase vert clair
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    le roux-galerie-gaia-IMG_6318.jpg
+  technique: 'Céramique pièce unique '
+  fields:
+  - Céramique
+  styles: []
+  weight: 0
+  dimensions:
+    height: 18
+    width: 18
+    depth: 18
+  description: "2022"
+  price: 175
+  contextual: false
 - title: Corail brique gris vert bleu marine et bleu foncé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6334.jpg
@@ -168,35 +225,6 @@ works:
     leroux-IMG_6330.jpg
   title: Sérigraphie verte
   technique: Sérigraphie Edition 30 exemplaires sur papier frangé
-- title: Vase vert clair
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    le roux-galerie-gaia-IMG_6318.jpg
-  technique: 'Céramique pièce unique '
-  fields:
-  - Céramique
-  styles: []
-  weight: 0
-  dimensions:
-    height: 18
-    width: 18
-    depth: 18
-  description: "2022"
-  price: 175
-  contextual: false
-- title: Grande coupe algue curry
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    le roux-galerie-gaia-IMG_6317.jpg
-  technique: 'Céramique pièce unique '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 6
-    width: 36
-    depth: 36
-  description: "2022"
-  price: 250
-  contextual: false
 - title: Algue curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
     35.jpg
