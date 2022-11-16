@@ -25,21 +25,24 @@ works:
 - title: ODM
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1102.jpg
   technique: Serigraphie
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 46
     width: 55
-    depth: 0
+    depth: 
   description: "2013"
   price: 400
   sold: false
   contextual: true
+  weight: 
 - title: Souris
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia michel
     jouet souris.jpg
   technique: Sérigraphie
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 60
@@ -52,23 +55,23 @@ works:
   price: 500
   sold: false
   contextual: true
+  weight: 
 - title: Systématique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia systematique
     michel jouet.jpg
-  technique: Sérigraphie
-  fields: []
+  technique: Sérigraphie Edition limitée à 100 exemplaires
+  fields:
+  - Oeuvre sur papier
   styles: []
   dimensions:
     height: 50
     width: 50
     depth: 
-  description: |-
-    Tirage en 100 exemplaires
-
-    N°46/100 et 47/100 disponibles à la galerie
+  description: N°46/100 et 47/100 disponibles à la galerie
   price: 500
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 
 ---
