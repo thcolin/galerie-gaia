@@ -28,6 +28,34 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Sérigraphie orange
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6331.jpg
+  technique: Sérigraphie Edition 30 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6330.jpg
+  title: Sérigraphie verte
+  technique: Sérigraphie Edition 30 exemplaires
 - title: Vase vert clair
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6318.jpg
@@ -162,20 +190,6 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 51
-    width: 42
-    depth: 0
-  description: Œuvre encadrée
-  price: 450
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-original
-    papier.jpg
-  technique: Lino imprimée à l'encre taille douce acrylique et mine de plomb
-  title: 'Oeuvre sur papier Originale sans titre '
 redirect_from:
 - "/artistes/79-valerie-le-roux/"
 styles: []
