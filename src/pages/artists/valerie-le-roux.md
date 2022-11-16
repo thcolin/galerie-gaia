@@ -28,6 +28,48 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Algue bleu ciel et foncé  format allongé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6335.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
+- title: Corail brique gris vert bleu marine et bleu foncé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6334.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
+- title: Corail kaki bleu ciel et bleu cobalt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6333.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
 - title: Corail orangé et bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6332.jpg
@@ -93,7 +135,7 @@ works:
   weight: 0
   dimensions:
     height: 92
-    width: 45
+    width: 65
     depth: 0
   description: ''
   price: 95
