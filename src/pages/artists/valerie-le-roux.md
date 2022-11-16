@@ -28,10 +28,24 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Algue vert argile
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6326.jpg
+  technique: Sérigraphie Edition en 50 exemplaire
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
 - title: Sérigraphie orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6331.jpg
-  technique: Sérigraphie Edition 30 exemplaires
+  technique: Sérigraphie Edition 30 exemplaires sur papier frangé
   fields: []
   styles: []
   weight: 0
@@ -40,7 +54,7 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 0
+  price: 180
   contextual: true
 - fields: []
   styles: []
@@ -50,12 +64,12 @@ works:
     width: 57
     depth: 0
   description: ''
-  price: 0
+  price: 180
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6330.jpg
   title: Sérigraphie verte
-  technique: Sérigraphie Edition 30 exemplaires
+  technique: Sérigraphie Edition 30 exemplaires sur papier frangé
 - title: Vase vert clair
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6318.jpg
