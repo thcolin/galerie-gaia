@@ -28,6 +28,62 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Corail orangé et bleu
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6332.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
+- title: 'Trio végetal rouge bleu marine et clair '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6328.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 32
+    width: 92
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
+- title: Trio végétal orange vif marine et kaki
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6327.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 32
+    width: 92
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
+- title: 'Algue jaune '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6325.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 65
+    depth: 0
+  description: ''
+  price: 95
+  contextual: true
 - title: Algue vert argile
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6326.jpg
