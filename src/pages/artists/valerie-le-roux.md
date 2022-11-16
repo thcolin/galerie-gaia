@@ -71,20 +71,6 @@ works:
   description: ''
   price: 85
   contextual: true
-- title: Algue bleu ciel et foncé  format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6335.jpg
-  technique: Sérigraphie Edition limitée à 50 exemplaires
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 92
-    width: 32
-    depth: 0
-  description: ''
-  price: 85
-  contextual: true
 - title: Vase vert clair
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6318.jpg
@@ -100,6 +86,34 @@ works:
   description: "2022"
   price: 175
   contextual: false
+- title: Algue bleu ciel et foncé  format allongé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6335.jpg
+  technique: Sérigraphie Edition limitée à 50 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
+- title: Corail Orange Bleu marine format allongé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6342.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
 - title: Végétal orange vif format allongé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6339.jpg
@@ -143,8 +157,7 @@ works:
   price: 95
   contextual: true
 - title: Grande bouteille motif bleu et noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-valerie
-    leroux vase .JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_6348.jpg
   technique: 'Céramique pièce unique '
   fields:
   - Céramique
