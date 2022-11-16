@@ -32,7 +32,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6317.jpg
   technique: 'Céramique pièce unique '
-  fields: []
+  fields:
+  - Céramique
   styles: []
   weight: 0
   dimensions:
@@ -127,6 +128,21 @@ works:
   description: ''
   price: 95
   contextual: true
+- title: Grande bouteille motif bleu et noir
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-valerie
+    leroux vase .JPG
+  technique: 'Céramique pièce unique '
+  fields:
+  - Céramique
+  styles: []
+  weight: 0
+  dimensions:
+    height: 36
+    width: 14
+    depth: 14
+  description: ''
+  price: 198
+  contextual: false
 - title: Corail orangé et bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6332.jpg
