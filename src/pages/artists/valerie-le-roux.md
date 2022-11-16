@@ -28,20 +28,6 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Homard bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6323.jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 92
-    width: 45
-    depth: 0
-  description: ''
-  price: 80
-  contextual: true
 - title: Grande coupe algue curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6317.jpg
@@ -114,6 +100,20 @@ works:
   description: "2022"
   price: 175
   contextual: false
+- title: Végétal orange vif format allongé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6339.jpg
+  technique: Sérigraphie Edition limitée à 80 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 32
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
 - title: Corail brique gris vert bleu marine et bleu foncé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6334.jpg
@@ -334,6 +334,34 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
+- title: Homard bleu
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6323.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 80
+  contextual: true
+- title: 'Homard rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6324.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 80
+  contextual: true
 - title: Tête à queue orange
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/864.jpg
   technique: Sérigraphie
