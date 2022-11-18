@@ -89,7 +89,7 @@ works:
     width: 62
     depth: 
   description: "tirage à 30 exemplaires  \ndiptyque deux fois 50X62 cm  \n2012"
-  price: 2400
+  price: 2600
   sold: false
   contextual: true
 - title: 'Bomdock '
@@ -180,6 +180,20 @@ works:
   description: 2018 aquarelle de l'installation effectuée au Musée Dobrée de Nantes
     avant les travaux en 2019
   price: 6400
+  contextual: true
+- title: 'Polygone '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: |-
+    En 2019, le musée Dobrée accueille dans les murs de son palais, plusieurs œuvres inédites de Georges Rousse pour une grande exposition temporaire. Dans ce lieu vierge de tout mobilier et objet de collections, il joue de notre perception.
+
+    Interview de Georges Rousse
+  price: 0
   contextual: true
 - title: Utopia
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaiaGeorges
