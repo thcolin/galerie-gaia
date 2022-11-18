@@ -168,32 +168,6 @@ works:
   description: ''
   price: 560
   contextual: false
-- title: Chimère lièvre porcelaine & or
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
-    lièvre porcelaine-06.21.jpg
-  technique: Porcelaine émaillée lustre or 3 cuissons
-  fields: []
-  styles: []
-  dimensions:
-    height: 25
-    width: 7
-    depth: 8
-  description: ''
-  price: 750
-  contextual: false
-- title: Chimère cerf porcelaine & or
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-chimère
-    cerf porcelaine-06.21.jpg
-  technique: Porcelaine émaillée lustre or 3 cuissons
-  fields: []
-  styles: []
-  dimensions:
-    height: 25
-    width: 7
-    depth: 8
-  description: ''
-  price: 750
-  contextual: false
 - title: Lièvre vert clair
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
   technique: Grès émaillé
