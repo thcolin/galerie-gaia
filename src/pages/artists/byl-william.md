@@ -26,7 +26,7 @@ biography: "William Byl est passionné par le dessin depuis l'enfance, et se fo
   années.\n\nSes pièces, en grès chamotté, sont recouvertes de jus d’oxydes de
   manière à laisser apparaître l’aspect brut du matériau."
 works:
-- title: Cheval roux
+- title: Cheval  sable
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylchevalroux40x42.JPG
   technique: 'Grès roux '
@@ -40,6 +40,7 @@ works:
   price: 1600
   sold: false
   contextual: false
+  weight: 
 - title: 'Taureau noir '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-byltaureaunoir32x35x32.JPG
@@ -54,7 +55,8 @@ works:
   price: 1600
   sold: false
   contextual: false
-- title: Buffle roux
+  weight: 
+- title: Buffle sable
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylbuffleroux51x50.JPG
   technique: 'Grès roux '
@@ -68,6 +70,7 @@ works:
   price: 2600
   sold: false
   contextual: false
+  weight: 
 - title: 'Cheval noir '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylchevalnoir48.5x53.JPG
@@ -82,6 +85,7 @@ works:
   price: 2600
   sold: false
   contextual: false
+  weight: 
 - title: 'Buffle rouge '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylbufflerouge46x40.JPG
@@ -92,10 +96,11 @@ works:
     height: 46
     width: 40
     depth: 10
-  description: "2022"
+  description: réservé
   price: 1600
   sold: false
   contextual: false
+  weight: 
 - title: Tatou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-byltatounoir26.5x19.JPG
@@ -110,6 +115,7 @@ works:
   price: 1200
   sold: false
   contextual: false
+  weight: 
 - title: Portrait de William Byl
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia William
     Byl portrait.JPG
@@ -117,13 +123,14 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   sold: false
   contextual: false
   price: 
+  weight: 
 exhibitions: []
 
 ---
