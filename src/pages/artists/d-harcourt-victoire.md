@@ -102,7 +102,7 @@ works:
 - title: Alliance XIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-55X36X20-2:8.jpg
-  technique: Bronze pâtiné 2/8
+  technique: Bronze pâtiné 6/8
   fields: []
   styles: []
   dimensions:
