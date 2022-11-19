@@ -102,8 +102,8 @@ works:
     height: 26
     width: 9
     depth: 10
-  description: ''
-  price: 600
+  description: Vendu
+  price: 
   sold: false
   contextual: false
 exhibitions:
