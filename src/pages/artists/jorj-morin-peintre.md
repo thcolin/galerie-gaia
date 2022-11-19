@@ -168,19 +168,6 @@ works:
   description: "1986  \nVisible sur demande"
   price: 3200
   contextual: true
-- title: La nuit verte
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-la
-    nuit verte.JPG
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 81
-    depth: 0
-  description: Réservée
-  price: 3300
-  contextual: true
 - title: Etoile verte
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1109.jpg
   technique: Acrylique sur toile
