@@ -41,6 +41,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Tapisserie Signaux indécis
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
   technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
@@ -56,6 +57,7 @@ works:
   - Textile
   styles:
   - Abstrait
+  weight: 
 - title: 'Pierre gravée '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-pierre
     gravée.jpg
@@ -70,34 +72,7 @@ works:
   price: 250
   sold: false
   contextual: true
-- title: Trois veilleurs - en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jorj-morin-galerie-gaïa-
-    02.jpg
-  technique: Eau-forte 15/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-- title: Trois veilleurs 1977
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Extrait article
-    Galerie Gaïa- 27.jpg
-  technique: Eau forte 15/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 45
-    width: 30
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
+  weight: 
 - title: Trois signes non identifiés 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
     signes non identifiés.JPG
@@ -112,6 +87,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Vents tournants 1986
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-vents
     tournants.JPG
@@ -126,6 +102,7 @@ works:
   price: 250
   sold: false
   contextual: true
+  weight: 
 - title: Vent ascendant 1974
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-vent
     ascendant.JPG
@@ -140,6 +117,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Une certaine cohésion 1972
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-une
     certaine cohésion.JPG
@@ -154,6 +132,7 @@ works:
   price: 150
   sold: false
   contextual: true
+  weight: 
 - title: Un oeil polyvalent 1976
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-un
     oeil polyvalent.JPG
@@ -168,6 +147,7 @@ works:
   price: 150
   sold: false
   contextual: true
+  weight: 
 - title: Signaux optiques 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-signaux
     optiques.jpg
@@ -182,6 +162,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Sans titre 1987
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-sans
     titre (2).JPG
@@ -196,6 +177,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Rupture 1989
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-rupture.JPG
   technique: Eau forte 1/50
@@ -209,6 +191,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Noeud majuscule 1975
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-noeud
     majuscule.JPG
@@ -223,6 +206,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Mouvement mécanique 1982
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-mouvements
     mécaniques.JPG
@@ -237,6 +221,7 @@ works:
   price: 250
   sold: false
   contextual: true
+  weight: 
 - title: Massif forestier 1976
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-massif
     forestier.JPG
@@ -251,6 +236,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Limites de propriété 1981
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-limites
     de propriété.JPG
@@ -265,6 +251,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Le vent qui va 1974
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     vent qui va.JPG
@@ -279,6 +266,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Le temps suspendu 1968
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     temps suspendu.JPG
@@ -293,6 +281,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Le point retenu 1986
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     point retenu.JPG
@@ -307,6 +296,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Le coeur sensible 1974
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     coeur sensible.JPG
@@ -321,20 +311,7 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Le choix difficile 1961
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
-    choix difficile.JPG
-  technique: Eau forte 9/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 32.5
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
+  weight: 
 - title: Le château vertical 1968
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     château vertical.JPG
@@ -349,6 +326,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: L'échelle de Jacob 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'échelle
     de jacob.JPG
@@ -363,6 +341,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Jeu d'aiguilles 1984
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-jeu
     d'aiguilles.JPG
@@ -377,6 +356,7 @@ works:
   price: 250
   sold: false
   contextual: true
+  weight: 
 - title: Fleur coupée 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fleur
     coupée.JPG
@@ -391,6 +371,7 @@ works:
   price: 150
   sold: false
   contextual: true
+  weight: 
 - title: Coeur (II) 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
     (II).JPG
@@ -405,6 +386,7 @@ works:
   price: 150
   sold: false
   contextual: true
+  weight: 
 - title: Cat 328 1974
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-cat
     328.JPG
@@ -419,6 +401,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Fenêtre noire 1978
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fenêtre
     noire.JPG
@@ -433,6 +416,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Exercice respiratoire 1983
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-exercice
     respiratoire.JPG
@@ -447,6 +431,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Espace agité 1968
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-espace
     agité.JPG
@@ -461,6 +446,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Libellule 1975
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-danse
     de la libellule.JPG
@@ -475,6 +461,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Coupe géologique
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coupe
     géologique.JPG
@@ -489,6 +476,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Construction ephémère
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-constructions
     ephémères.JPG
@@ -503,6 +491,7 @@ works:
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: Colonne sensible 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-colonnes
     sensibles.JPG
@@ -517,6 +506,7 @@ works:
   price: 350
   sold: false
   contextual: true
+  weight: 
 - title: Coeur 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
     (II).JPG
@@ -531,6 +521,7 @@ works:
   price: 150
   sold: false
   contextual: true
+  weight: 
 - title: 'Circonvolutions '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-circonvolution.JPG
   technique: 'Eau forte sur zinc '
@@ -544,21 +535,7 @@ works:
   price: 450
   sold: false
   contextual: true
-- title: Zoom sur Signaux indécis
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/signaux-indecis.jpg
-  technique: Tapisserie en laine
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ceci est un zoom sur la tapisserie Signaux indécis
-  price: 
-  sold: false
-  contextual: true
-  fields:
-  - Textile
-  styles:
-  - Abstrait
+  weight: 
 - title: En forme de feuille
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg
   technique: Gravure
@@ -572,6 +549,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Bouquet bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouquet-bleu.jpg
   technique: Gravure
@@ -585,6 +563,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Bride abattue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bride-abattue.jpg
   technique: Gravure
@@ -598,6 +577,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Capture
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture.jpg
   technique: Gravure
@@ -611,6 +591,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Jeu de pistes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg
   technique: Gravure
@@ -624,6 +605,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: 'Tapisserie Espace nacré '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/espace-nacre.jpg
   technique: Tapisserie en laine  Lissière Edith Morin
@@ -639,6 +621,7 @@ works:
   - Textile
   styles:
   - Abstrait
+  weight: 
 - title: Tapisserie Papillon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/papillon.jpg
   technique: Tapisserie en laine Lissier Pierre Carton ERBA
@@ -654,6 +637,7 @@ works:
   - Textile
   styles:
   - Abstrait
+  weight: 
 - title: Exposition Polymorphie 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-polymorphie-2020.jpg
   technique: ''
@@ -667,6 +651,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 redirect_from:
 - "/artistes/103-jorj-morin/"
 styles:

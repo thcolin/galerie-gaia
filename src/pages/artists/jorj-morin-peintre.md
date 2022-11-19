@@ -178,7 +178,7 @@ works:
     height: 60
     width: 81
     depth: 0
-  description: "1974  \nVisible à la galerie"
+  description: Réservée
   price: 3300
   contextual: true
 - title: Etoile verte
