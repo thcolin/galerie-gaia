@@ -119,17 +119,17 @@ works:
     height: 76
     width: 36
     depth: 
-  description: Edition 8.Ex
+  description: ''
   price: 5200
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0226.jpeg
-  technique: 'Bronze '
+  technique: Bronze Edition limitée numérotée 1/8 Fonderie Fusions David Gourcuff
   sold: false
   weight: 
 - title: Alliance XVIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-56X21X19-1:8.jpg
-  technique: Bronze 3/8
+  technique: Bronze  Edition limitée numérotée 5/8 Fonderie Fusions David Gourcuff
   fields: []
   styles: []
   dimensions:
@@ -144,7 +144,7 @@ works:
 - title: Alliance XVIII en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d hracourt-alliance xvIII ES.jpg
-  technique: Bronze pâtiné 2/8
+  technique: Bronze pâtiné 5/8
   fields: []
   styles: []
   dimensions:
