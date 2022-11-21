@@ -54,33 +54,6 @@ works:
   description: ''
   price: 3200
   contextual: true
-- title: Albedo IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia anne
-    gaiss albedo IV 20x20 500 euros.png.jpg
-  technique: Incisions au scalpel sur papier traditionnel indien
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
-- title: Entre Mondes I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AnneFeatGaiss_Entre
-    mondesI_2021_50x65cm.jpg
-  technique: Médium  Acrylique et huile et époxy sur feuilles de cuivre marouflées
-    sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 65
-    depth: 0
-  description: "2021"
-  price: 3800
-  contextual: true
 - title: Nigredo IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Nigredo 1.png
   technique: Encre de chine découpe et incision sur papier indien
@@ -104,43 +77,6 @@ works:
     depth: 0
   description: ''
   price: 2300
-  contextual: true
-- title: Stardust II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Anne_Gaiss_StarDustII_100x75_Huile_acrylique_sur_feuille_cuivre_marouflées_sur_toile.JPG
-  technique: Médium  Acrylique et huile sur feuilles de cuivre marouflées sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 0
-  description: "2022"
-  price: 5500
-  contextual: true
-- title: Stardust I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Anne_Gaiss_SatrdustI_46x55_acrylique_huile_feuillecuivre_marouflée_sur_toile.jpg
-  technique: Médium  Acrylique et huile sur feuilles de cuivre marouflées sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 55
-    width: 46
-    depth: 0
-  description: "2022"
-  price: 3900
-  contextual: true
-- title: Entre Mondes II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Anne_gaiss_2021_Entre_mondesII_130x80
-    - copie.jpg
-  technique: Huile et spray sur feuilles de cuivre marouflées sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 80
-    depth: 0
-  description: "2021"
-  price: 6800
   contextual: true
 - title: Splendor Solis VII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/annegaiss_2020_splendor.solis.VII_101x69.jpg
@@ -168,19 +104,6 @@ works:
   description: Œuvre de format 40X30 , encadrement montage caisson sur fond blanc
     et verre anti-reflet baguette aluminium noir
   price: 1200
-  contextual: true
-- title: Oracle XI
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Annegaiss_OracleXI_64x74.jpg
-  technique: Huiles, Feutres et incisions sur feuille de cuivre marouflée sur papier
-    traditionnel indien
-  fields: []
-  styles: []
-  dimensions:
-    height: 74
-    width: 64
-    depth: 0
-  description: L'âme court sur le chemin jusqu'à l'éclosion des nuages
-  price: 3200
   contextual: true
 - title: Albedo doré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-anne
