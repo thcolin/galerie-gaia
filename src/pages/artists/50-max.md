@@ -11,14 +11,14 @@ seo:
   description: ''
   image: ''
 template: artist
-title: Petits prix
+title: Petit prix
 location: ''
 birth: ''
 death: ''
 expose: true
 biography: "# Déco arty à petit prix\n\nDes éditions limitées à petit prix,  \nchinées
-  au grès de mes recherches pour des accrochages qui créent un style unique, comme
-  vous !"
+  au grès de mes recherches pour un accrochage qui créé un style unique, comme vous
+  !"
 works:
 - title: Milk
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Milk-64x45.jpg
@@ -34,6 +34,7 @@ works:
   price: 50
   sold: false
   contextual: true
+  weight: 
 - title: Garbage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doe
     eyed-61x45,6 .jpg
@@ -49,6 +50,7 @@ works:
   price: 50
   sold: false
   contextual: true
+  weight: 
 - title: The show and tell
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-the
     show&tell show-45,6x61.jpg
@@ -64,6 +66,7 @@ works:
   price: 50
   sold: false
   contextual: true
+  weight: 
 - title: Ephemera
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Ephemera-61,3x46
     .jpg
@@ -76,9 +79,10 @@ works:
     width: 46
     depth: 
   description: ambiance graphique pour bureau à la maison ou espace de co-working
-  price: 50
+  price: 1
   sold: false
   contextual: true
+  weight: 
 - title: War is peace
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-war
     is peace-48x48.jpg
@@ -90,9 +94,10 @@ works:
     width: 48
     depth: 
   description: ''
-  price: 40
+  price: 30
   sold: false
   contextual: true
+  weight: 
 - title: Scotus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-scotus-50x70.jpg
   technique: Sérigraphie
@@ -104,9 +109,10 @@ works:
     width: 70
     depth: 
   description: Chambre ado ou bureau pour un home office atypique
-  price: 50
+  price: 30
   sold: false
   contextual: true
+  weight: 
 - title: Pelican The Troubadour
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Pelican-61x45,5.jpg
   technique: Sérigraphie numéroté
@@ -117,9 +123,10 @@ works:
     width: 
     depth: 
   description: 'Affiche concert Metal ambiance home office graphique '
-  price: 50
+  price: 30
   sold: false
   contextual: true
+  weight: 
 - title: Tonkart
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Ozaer-61,5x45,2.jpg
   technique: Sérigraphie
@@ -134,6 +141,7 @@ works:
   price: 40
   sold: false
   contextual: true
+  weight: 
 - title: KRAFT
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-KRFT-61x45,7.jpg
   technique: 'Sérigraphie signée 2 couleurs jaune et argent '
@@ -149,6 +157,7 @@ works:
   price: 40
   sold: false
   contextual: true
+  weight: 
 - title: Doombrips
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doombrips-63,3x48.jpg
   technique: Sérigraphie
@@ -163,6 +172,7 @@ works:
   price: 50
   sold: false
   contextual: true
+  weight: 
 - title: Bjork Route du Rock
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Bjork-70x50.jpg
   technique: Sérigraphie 69/100
@@ -177,6 +187,7 @@ works:
   price: 50
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 
 ---
