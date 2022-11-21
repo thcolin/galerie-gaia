@@ -131,7 +131,7 @@ works:
 - title: Corail brique gris vert bleu marine et bleu foncé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6334.jpg
-  technique: Sérigraphie Edition limitée à 50 exemplaires
+  technique: Sérigraphie Edition limitée à 30 exemplaires
   fields: []
   styles: []
   weight: 0
@@ -145,7 +145,7 @@ works:
 - title: Corail kaki bleu ciel et bleu cobalt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6333.jpg
-  technique: Sérigraphie Edition limitée à 50 exemplaires
+  technique: Sérigraphie Edition limitée à 30 exemplaires
   fields: []
   styles: []
   weight: 0
@@ -173,7 +173,7 @@ works:
 - title: Corail orangé et bleu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6332.jpg
-  technique: Sérigraphie Edition limitée à 50 exemplaires
+  technique: Sérigraphie Edition limitée à 30 exemplaires
   fields: []
   styles: []
   weight: 0

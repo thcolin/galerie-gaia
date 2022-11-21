@@ -43,7 +43,7 @@ works:
     width: 100
     depth: 
   description: œuvre encadrée dans caisse américaine noire
-  price: 1900
+  price: 2200
   sold: false
   contextual: true
 - title: Le Masque
