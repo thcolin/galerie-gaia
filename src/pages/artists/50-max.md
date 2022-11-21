@@ -31,7 +31,7 @@ works:
     width: 45
     depth: 
   description: Sympa pour la déco de la cuisine !
-  price: 50
+  price: 30
   sold: false
   contextual: true
   weight: 
@@ -138,7 +138,7 @@ works:
     width: 45
     depth: 
   description: Ambiance chambre ado sympa!
-  price: 40
+  price: 30
   sold: false
   contextual: true
   weight: 
@@ -169,7 +169,7 @@ works:
     width: 48
     depth: 
   description: Effet garantie pour une chambre d'ado ou un bureau en home office !
-  price: 50
+  price: 40
   sold: false
   contextual: true
   weight: 
@@ -184,7 +184,7 @@ works:
     width: 50
     depth: 
   description: ''
-  price: 50
+  price: 30
   sold: false
   contextual: true
   weight: 
