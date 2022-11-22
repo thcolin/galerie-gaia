@@ -308,19 +308,6 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Algue orange
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie-leroux-algues
-    34.jpg
-  technique: Sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 91
-    width: 63
-    depth: 0
-  description: Edition limitée 50 exemplaires
-  price: 95
-  contextual: true
 - title: 'Trio Poissons rayés rouge orangé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
   technique: Sérigraphie 23/100
