@@ -44,7 +44,7 @@ works:
     depth: 
   description: œuvre encadrée dans caisse américaine noire
   price: 2200
-  sold: false
+  sold: true
   contextual: true
 - title: Le Masque
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg
