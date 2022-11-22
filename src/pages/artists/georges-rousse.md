@@ -54,19 +54,17 @@ biography: |-
 exhibitions:
 - {}
 works:
-- title: 'Exposition Galerie Gaïa 2022 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
-  technique: ''
-  fields: []
-  styles: []
+- title: Vevey
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vevey.jpg
+  technique: Photographie épreuve pigmentaire
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "# Georges Rousse \n\nExposition Galerie Gaïa en partenariat avec la
-    Galerie Putman"
-  price: ''
-  contextual: false
+    height: 112
+    width: 92
+    depth: 
+  description: Tirage en 30 exemplaires
+  price: 3400
+  sold: false
+  contextual: true
 - title: Marseille 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-Georges
     Rousse - Marseille 2013-2014  - Galerie Catherine Putman.jpg
@@ -80,6 +78,19 @@ works:
   price: 3400
   contextual: true
   technique: 'Photographie épreuve pigmentaire '
+- title: 'Exposition Galerie Gaïa 2022 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G_ROUSSE_Instagram_1.jpg
+  technique: ''
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "# Georges Rousse \n\nExposition Galerie Gaïa en partenariat avec la
+    Galerie Putman"
+  price: ''
+  contextual: false
 - title: 'Blanc Mesnil '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-georges
     rousse-diptyque balnc mesnil.png
@@ -124,17 +135,6 @@ works:
     width: 112
     depth: 
   description: "tirage à 30 exemplaires  \n2011 - 2019"
-  price: 3400
-  sold: false
-  contextual: true
-- title: Vevey
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/vevey.jpg
-  technique: Photographie épreuve pigmentaire
-  dimensions:
-    height: 112
-    width: 92
-    depth: 
-  description: Tirage en 30 exemplaires
   price: 3400
   sold: false
   contextual: true
