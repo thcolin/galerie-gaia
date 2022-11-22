@@ -35,17 +35,6 @@ exhibitions:
   start: "0"
   end: 
 works:
-- title: Double Trouble
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double.jpg
-  technique: Huile sur toile et technique mixte
-  dimensions:
-    height: 94
-    width: 100
-    depth: 
-  description: œuvre encadrée dans caisse américaine noire
-  price: 2200
-  sold: true
-  contextual: true
 - title: Le Masque
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg
   technique: mixte sur bois
@@ -71,23 +60,34 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Routine 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/routine-3.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 162
-    width: 97
-    depth: 
-  description: "2017"
-  price: 3000
-  sold: false
-  contextual: true
 - title: Le Minotaure
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-minotaure.jpg
   technique: Acrylique et technique mixte sur toile
   dimensions:
     height: 162
     width: 130
+    depth: 
+  description: "2017"
+  price: 3000
+  sold: false
+  contextual: true
+- title: Double Trouble
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double.jpg
+  technique: Huile sur toile et technique mixte
+  dimensions:
+    height: 94
+    width: 100
+    depth: 
+  description: Vendue
+  price: ''
+  sold: true
+  contextual: true
+- title: Routine 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/routine-3.jpg
+  technique: 'Acrylique sur toile '
+  dimensions:
+    height: 162
+    width: 97
     depth: 
   description: "2017"
   price: 3000
