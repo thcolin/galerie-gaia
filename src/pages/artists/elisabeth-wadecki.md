@@ -63,7 +63,7 @@ works:
     width: 130
     depth: 0
   description: "2022"
-  price: 4000
+  price: 3500
   contextual: true
 - title: Archipels n°7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
@@ -102,7 +102,7 @@ works:
     width: 130
     depth: 0
   description: "2022"
-  price: 4000
+  price: 3500
   contextual: true
 - title: Archipels n° 12
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
