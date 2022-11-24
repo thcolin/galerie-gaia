@@ -16,6 +16,22 @@ death: ''
 expose: true
 biography: ''
 works:
+- title: 'Le Kilt '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
+    Le Kilt, Impression pigmentaire sur papier Hahnemühle, Pigment print on Hahnemühle
+    paper, 30 x 20 cm, 12 x 8 in.jpg
+  technique: 'Sérigraphie Edition limitée à 25 exemplaires '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 30
+    width: 21
+    depth: 0
+  description: ''
+  price: 490
+  sold: false
+  contextual: true
 - title: Cours
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
     Cours !, Impression pigmentaire sur papier Hahnemuhle, Pigment print on Hahnemühle

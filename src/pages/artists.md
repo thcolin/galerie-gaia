@@ -4,6 +4,7 @@ artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/pierre-tual.md
+- artist: src/pages/artists/bard-francois.md
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/byl-william.md
 - artist: src/pages/artists/isthme.md
