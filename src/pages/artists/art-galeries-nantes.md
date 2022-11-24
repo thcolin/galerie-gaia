@@ -23,6 +23,18 @@ biography: |-
   * Concevoir, organiser et accompagner toutes manifestations artistiques collectives.
 exhibitions: []
 works:
+- title: Art Galeries Nantes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Art_Galeries_logo_jaune.png
+  technique: 'Suivez-nous sur Instagram @artgaleriesnantes '
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Save the date 4eme Nuit des Galeries week-end du 11 Novembre 2022
+  price: ''
+  contextual: false
 - title: 'Nuit des Galeries #5 Nouveau Format'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Flyer_LANUITDESGALERIES_recto_web.jpg
   fields: []
@@ -75,18 +87,6 @@ works:
     "LE RDC NANTES ")'
   price: ''
   contextual: true
-- title: Art Galeries Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Art_Galeries_logo_jaune.png
-  technique: 'Suivez-nous sur Instagram @artgaleriesnantes '
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Save the date 4eme Nuit des Galeries week-end du 11 Novembre 2022
-  price: ''
-  contextual: false
 - title: 'Dimanche 1er Mai 2022 les galeries d''art nantaises sont ouvertes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Les Galeries, Le
     Dimanche 2022 AFFICHE A2.jpg
