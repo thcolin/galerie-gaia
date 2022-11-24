@@ -154,7 +154,7 @@ works:
     width: 45
     depth: 0
   description: ''
-  price: 95
+  price: 180
   contextual: true
 - title: Corail kaki bleu ciel et bleu cobalt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
@@ -168,7 +168,7 @@ works:
     width: 45
     depth: 0
   description: ''
-  price: 95
+  price: 180
   contextual: true
 - title: Grande bouteille motif bleu et noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_6348.jpg
@@ -196,7 +196,7 @@ works:
     width: 45
     depth: 0
   description: ''
-  price: 95
+  price: 180
   contextual: true
 - title: 'Trio végetal rouge bleu marine et clair '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
