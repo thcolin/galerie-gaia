@@ -4,7 +4,6 @@ title: 'Jallais Xavier '
 location: ''
 fields:
 - Peinture
-- Oeuvre sur papier
 birth: ''
 death: ''
 expose: true
@@ -42,6 +41,34 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
+- title: Ne plus savoir où aller
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
+    plus savoir où aller, 100x81, 2021.jpg
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: ''
+  price: 1700
+  contextual: true
+- title: Rien d'autre que la lumière
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Rien
+    d'autre que la lumière.jpg
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 162
+    width: 114
+    depth: 0
+  description: "2022"
+  price: 4000
+  contextual: true
 - title: Cerf 1 (4/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
@@ -55,19 +82,18 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Le feu pour attribut
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-Xavier
-    Jallais - Le feu pour attribut - 40 x 50.jpg
-  technique: Eau forte sur zinc, tirage sur papier RBK Rives 280 g/m2
+- title: 'Toute affaire cessante '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Toute
+    affaire cessante.jpg
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   dimensions:
-    height: 50
-    width: 40
-  description: "Edition en 11 exemplaires  \n2020"
-  price: 180
+    height: 162
+    width: 114
+  description: "2022"
+  price: 4000
   contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: Un départ à l 'aube
+  fields: []
+- title: Le bâtisseur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Un
     départ, à l'aube, 150x100, 2021.jpg
   technique: collage de sable, cendre, acrylique et huile sur toile
@@ -81,19 +107,6 @@ works:
   contextual: true
   fields:
   - Peinture
-- title: Double stigmates (1/7)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double-stigmates-17.jpg
-  technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
-  dimensions:
-    height: 46
-    width: 36
-    depth: 
-  description: '2019 '
-  price: 230
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 redirect_from:
 - "/artistes/75-xavier-jallais/"
 styles:
