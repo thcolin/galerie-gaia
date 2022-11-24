@@ -51,6 +51,7 @@ works:
   price: 3000
   sold: false
   contextual: true
+  weight: 
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     toile 120X130.jpg
@@ -60,11 +61,12 @@ works:
   dimensions:
     height: 120
     width: 130
-    depth: 0
+    depth: 
   description: ''
   price: 3600
   sold: false
   contextual: true
+  weight: 
 - title: Papier tissé III
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-136
     cm 36 cm.jpapier teinté tissé 2022pg.jpg
@@ -75,11 +77,12 @@ works:
   dimensions:
     height: 136
     width: 36
-    depth: 0
+    depth: 
   description: "2022"
-  price: 1400
+  price: 2800
   sold: false
   contextual: true
+  weight: 
 - title: La Strada
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-9 529 - La strada - 156 x 165 cm - 1998.jpg
@@ -91,13 +94,14 @@ works:
   dimensions:
     height: 156
     width: 165
-    depth: 0
+    depth: 
   description: "1998  \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
     chevalier\")  \nSignature au dos"
   price: 11000
   sold: false
   contextual: true
+  weight: 
 - title: 'Sonatine '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise
     paressant-CFP22 - Sonatine - 148 cm x 120 cm - 2012.jpg
@@ -109,13 +113,14 @@ works:
   dimensions:
     height: 148
     width: 120
-    depth: 0
+    depth: 
   description: "Vendu   \nTapisserie prêtée pour l'exposition à la Galerie Gaïa  \npar
     la [Galerie Chevalier Persua Paris](https://www.galerie-chevalier.com/ \"galerie
     chevalier\")  \nSignature au dos"
   price: 
   sold: true
   contextual: true
+  weight: 
 - title: Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
@@ -126,11 +131,12 @@ works:
   dimensions:
     height: 140
     width: 130
-    depth: 0
+    depth: 
   description: "2012"
   price: 5400
   sold: false
   contextual: true
+  weight: 
 - title: Sans titre Papier fait main teinté en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_181442.jpg
   technique: 'Papier fait main teinté marouflé sur toile '
@@ -144,6 +150,7 @@ works:
   price: 3000
   sold: false
   contextual: true
+  weight: 
 - title: Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier, découpé cousu, 30 cm x 30 cm 2022.JPG
@@ -153,11 +160,12 @@ works:
   dimensions:
     height: 30
     width: 30
-    depth: 0
+    depth: 
   description: "2022"
   price: 450
   sold: false
   contextual: true
+  weight: 
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-100X80-toile.jpg
   technique: Acrylique sur papier japon, marouflé sur toile
@@ -166,11 +174,12 @@ works:
   dimensions:
     height: 100
     width: 80
-    depth: 0
+    depth: 
   description: '2012 châssis de 4 cm de hauteur '
   price: 2600
   sold: false
   contextual: true
+  weight: 
 - title: Feutre croisé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-bandes
     de  feutre  teintées, croisées 160 cm x 140 cm 2001.jpeg
@@ -187,6 +196,7 @@ works:
   price: 5000
   sold: false
   contextual: true
+  weight: 
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-100cm
     x 50cm  1  collage papier japon teinté marouflé sur toile, 100 x 50 cm 2011.jpg
@@ -196,11 +206,12 @@ works:
   dimensions:
     height: 100
     width: 50
-    depth: 0
+    depth: 
   description: 'Œuvre montée sur châssis 4 cm '
   price: 1400
   sold: false
   contextual: true
+  weight: 
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-6  acrylique
     sur papier 50 cm x 33 cm  2022.jpg
@@ -211,11 +222,12 @@ works:
   dimensions:
     height: 50
     width: 33
-    depth: 0
+    depth: 
   description: 2022 Encadrement bois blanc verre anti-reflet
   price: 750
   sold: false
   contextual: true
+  weight: 
 - title: Papier huilé 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 1 70X50.jpg
@@ -230,6 +242,7 @@ works:
   price: 1200
   sold: false
   contextual: true
+  weight: 
 - title: Papier huilé 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 2 Horizontal 70X50.jpg
@@ -245,6 +258,7 @@ works:
   price: 1200
   sold: false
   contextual: true
+  weight: 
 - title: Papier huilé 2 en situation verticale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 2 ES 70X50.jpg
@@ -260,6 +274,7 @@ works:
   price: 1200
   sold: false
   contextual: false
+  weight: 
 - title: Papier huilé 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-papier
     huilé 4.jpg
@@ -275,6 +290,7 @@ works:
   price: 1200
   sold: false
   contextual: true
+  weight: 
 - title: Info presse magazine Investir 09_2021
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Investir 092021
     Françoise Paressant.png
@@ -290,6 +306,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: Oeuvre en feutre teinté en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
   technique: ''
@@ -304,6 +321,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: CPM 60_50 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
     60 cm x 50  2021.jpg
@@ -320,6 +338,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: CPM 60_50 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
     60 cm x 50 cm 2021.jpg
@@ -336,6 +355,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: CPM 60_50 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
     marouflé sur toile 60 cm x 50 cm 2021.jpg
@@ -352,6 +372,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Installation en trio CPM 60_50 1-2-3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_161230.jpg
   technique: Collages papier marouflés sur toile en caisse américaines bois naturel
@@ -367,6 +388,7 @@ works:
   price: 1900
   sold: false
   contextual: true
+  weight: 
 - title: CDC 40_30 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
     cousu, marouflé sur toile 40 cm x 30 cm 2021.jpg
@@ -383,6 +405,7 @@ works:
   price: 500
   sold: false
   contextual: true
+  weight: 
 - title: CDC 40_30 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
     cousu, 40 cm x 30 cm 2021.jpg
@@ -399,6 +422,7 @@ works:
   price: 500
   sold: false
   contextual: true
+  weight: 
 - title: 'Installation de 4 CDC 40_30 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-pornichet-cdc
     40X30.jpg
@@ -415,6 +439,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 - title: Papier main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211103_150402.jpg
   technique: Papier fait main teinté  marouflé sur toile
@@ -430,6 +455,7 @@ works:
   price: 3000
   sold: false
   contextual: true
+  weight: 
 - title: Plage de la mine d'or en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-mine
     dor en situation.jpg
@@ -449,6 +475,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: Plage de la mine d'Or
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-plage-de-la-mine-dor118x112.jpg
   technique: Feutre blanc teinté acrylique
@@ -464,6 +491,7 @@ works:
   price: 4800
   sold: false
   contextual: true
+  weight: 
 - title: 'Eclaircies en fin de journée '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-francoise-tapisserie.jpg
   technique: Tapisserie en laine banche et toile teintée  tissées
@@ -479,6 +507,7 @@ works:
   price: 10000
   sold: false
   contextual: true
+  weight: 
 - title: Suite pour piano jouet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-piano
     jouet.jpg
@@ -495,6 +524,7 @@ works:
   price: 12000
   sold: false
   contextual: true
+  weight: 
 - title: CDC 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc002.jpg
   technique: Collage découpé cousu
@@ -508,6 +538,7 @@ works:
   price: 300
   sold: false
   contextual: true
+  weight: 
 - title: A/F 005
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-50x50-005.jpg
   technique: Acrylique sur feutre
@@ -521,6 +552,7 @@ works:
   price: 800
   sold: false
   contextual: true
+  weight: 
 - title: A/F 004
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-004.jpg
   technique: 'Acrylique sur feutre '
@@ -534,6 +566,7 @@ works:
   price: 560
   sold: false
   contextual: true
+  weight: 
 - title: A/F 001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-30x30-001.jpg
   technique: 'Acrylique sur feutre '
@@ -547,6 +580,7 @@ works:
   price: 560
   sold: false
   contextual: true
+  weight: 
 - title: Dessin ruban
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin
     ruban2.jpg
@@ -563,6 +597,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Dessin ruban
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-dessin
     ruban.jpg
@@ -579,6 +614,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Blason 001
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg
   technique: Acrylique sur feutre
@@ -592,6 +628,7 @@ works:
   price: 320
   sold: false
   contextual: true
+  weight: 
 - title: Blason 002
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg
   technique: 'Acrylique sur feutre '
@@ -605,6 +642,7 @@ works:
   price: 320
   sold: false
   contextual: true
+  weight: 
 - title: Portrait de Françoise Paressant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-portrait.jpg
   technique: ''
@@ -618,6 +656,7 @@ works:
   price: 
   sold: false
   contextual: false
+  weight: 
 exhibitions:
 - title: 'Galerie Chevalier '
   location: 'Paris 25 rue de Bourgogne '
