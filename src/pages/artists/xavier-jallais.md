@@ -67,15 +67,16 @@ works:
   contextual: true
   fields:
   - Oeuvre sur papier
-- title: Automorphie Grande Structure
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/automorphie-grande-structure.jpg
-  technique: sable, cendre, charbon de bois, sciure, acrylique et huile sur toile
+- title: Un départ à l 'aube
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Un
+    départ, à l'aube, 150x100, 2021.jpg
+  technique: collage de sable, cendre, acrylique et huile sur toile
   dimensions:
     height: 150
-    width: 150
+    width: 100
     depth: 
   description: 'Visible sur demande '
-  price: 4000
+  price: 3000
   sold: false
   contextual: true
   fields:
