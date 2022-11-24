@@ -206,21 +206,7 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 32
-    width: 92
-    depth: 0
-  description: ''
-  price: 85
-  contextual: true
-- title: Trio végétal orange vif marine et kaki
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6327.jpg
-  technique: Sérigraphie Edition limitée à 50 exemplaires
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 32
+    height: 45
     width: 92
     depth: 0
   description: ''
