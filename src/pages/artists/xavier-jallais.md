@@ -41,6 +41,20 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
+- title: Rien d'autre que la lumière
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Rien
+    d'autre que la lumière.jpg
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 162
+    width: 114
+    depth: 0
+  description: "2022"
+  price: 4000
+  contextual: true
 - title: Ailleurs ou nulle part
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ailleurs
     ou nulle part.jpg
@@ -69,6 +83,17 @@ works:
   description: "2021"
   price: 1100
   contextual: true
+- title: 'Toute affaire cessante '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Toute
+    affaire cessante.jpg
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  dimensions:
+    height: 162
+    width: 114
+  description: "2022"
+  price: 4000
+  contextual: true
+  fields: []
 - title: Lumière du soir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Lumière
     du soir.jpg
@@ -97,44 +122,6 @@ works:
   description: ''
   price: 1700
   contextual: true
-- title: Rien d'autre que la lumière
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Rien
-    d'autre que la lumière.jpg
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 162
-    width: 114
-    depth: 0
-  description: "2022"
-  price: 4000
-  contextual: true
-- title: Cerf 1 (4/7)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
-  technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
-  dimensions:
-    height: 46
-    width: 36
-    depth: 
-  description: '2014 '
-  price: 230
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Toute affaire cessante '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Toute
-    affaire cessante.jpg
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  dimensions:
-    height: 162
-    width: 114
-  description: "2022"
-  price: 4000
-  contextual: true
-  fields: []
 - title: Le bâtisseur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Un
     départ, à l'aube, 150x100, 2021.jpg
@@ -149,6 +136,31 @@ works:
   contextual: true
   fields:
   - Peinture
+- title: Avant d'aller plus loin
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: Encadrement caisse américaine 2022
+  price: 2900
+  contextual: true
+- title: Cerf 1 (4/7)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
+  technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
+  dimensions:
+    height: 46
+    width: 36
+    depth: 
+  description: '2014 '
+  price: 230
+  sold: false
+  contextual: true
+  fields:
+  - Oeuvre sur papier
 redirect_from:
 - "/artistes/75-xavier-jallais/"
 styles:
