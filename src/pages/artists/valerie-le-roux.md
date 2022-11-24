@@ -28,6 +28,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Sérigraphie bleue
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - valerie
+    leroux -serigraphie bleue.jpg
+  technique: 'Sérigraphie Edition 30 exemplaires sur papier frangé '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 76
+    width: 57
+    depth: 0
+  description: ''
+  price: 180
+  contextual: true
 - title: Grande coupe algue curry
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6317.jpg
