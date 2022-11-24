@@ -196,8 +196,8 @@ works:
     height: 195
     width: 130
     depth: 0
-  description: ''
-  price: 5500
+  description: Vendu
+  price: ''
   contextual: true
 - title: IDFRA EA
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
