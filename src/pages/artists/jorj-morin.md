@@ -447,42 +447,30 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 'Circonvolutions '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-circonvolution.JPG
-  technique: 'Eau forte sur zinc '
-  fields: []
-  styles: []
+- title: Vague et remous 1985
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6417.jpg
+  technique: 'Eau forte 5/50 réhausse aquarelle '
   dimensions:
-    height: 60.5
-    width: 40.5
+    height: 20
+    width: 30
     depth: 
-  description: "1971"
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: En forme de feuille
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en-forme-de-feuille.jpg
-  technique: Gravure
-  dimensions:
-    height: 10
-    width: 9.5
-    depth: 
-  description: '1972 '
+  description: ''
   price: 150
   sold: false
   contextual: true
   fields: []
   styles: []
   weight: 
-- title: Bouquet bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bouquet-bleu.jpg
-  technique: Gravure
+- title: Fleur dansant 1981
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6421.jpg
+  technique: Eau forte 17/50
   dimensions:
-    height: 90
-    width: 60
+    height: 30
+    width: 20
     depth: 
-  description: '1976 '
+  description: ''
   price: 150
   sold: false
   contextual: true
