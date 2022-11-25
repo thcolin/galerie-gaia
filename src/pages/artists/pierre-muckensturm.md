@@ -32,37 +32,18 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   rigoureusement géométriques et orthogonales.\n\nIl se plaît ainsi à affirmer, non
   sans ironie : « j’ai un goût prononcé pour la fantaisie avec une tolérance de plus
   ou moins deux virgule deux degrés ».\n\n**Galeries :**\n\n* Galerie La Ligne, à
-  Zürich, spécialiste de l’art minimaliste.\n* Galerie IDEELART . London \n* Galerie
-  Lazarew . Paris + Bruxelles\n* Galerie Michelle Champetier . Cannes\n\n**Collections
-  :**\n\nTama Art University Museum . Tokyo   \nInternational Print Center . New York
-  \  \nMusée des Beaux arts de Liège   \nMusée Boribana . Dakar   \nMusée du Petit
-  Format d’Art Contemporain . Nismes (Belgique)\n\nVilles de  : Colmar - La Roche-sur-Yon
-  - Kingersheim - La Rochelle . \n\nL'artiste crée et le spectateur imagine la suite
-  de l’œuvre..\n\n**2023  \n**Group show at Gaïa Gallery . Nantes . F  \nDuo show
-  with Carola Bürgi at La Ligne Gallery . Zürich . CH  \nGroup show at Musée Bossuet
-  . Meaux . F  \nArt Paris . Grand Palais Éphémère . La Ligne Gallery . Paris . F
-  \ \nWinter Group Show at La Ligne Gallery . Zürich . CH\n\n**2022  \n**21e Biennale
-  internationale « Petit Format de Papier » . Nismes . B et Charleville -Mézières
-  . F  \nArt Paris 2022 7-10 april Grand Palais Éphémère . La Ligne Gallery . Paris
-  . F  \nWinter Group Show at La Ligne Gallery . Zürich . CH\n\n***\n\nSince 1995,
-  Pierre Muckensturm has been consistently working on his art, far from any fashionable
-  effect, in which the will to reflect on the painting as a key to understanding the
-  relationship we can have with our own temporality appears. The founding process
-  of Pierre Muckensturm's work originated in a visit to the chapel in Ronchamp, the
-  masterpiece of the architect Charles Edouard Jeanneret.\n\nThere, he understood
-  that accuracy could be found in a subtle dialogue between massiveness and elevation.
-  From then on, the artist decided to adopt a simple formal language: the painting
-  would be built from two poles: a massive line that would be lightened by its juxtaposition
-  with voids. This formal simplicity will be associated with a very stripped materiality,
-  which will inscribe the work in an unspeakable time. The artist has taken an important
-  step in his research by an assiduous practice of engraving, notably within the Rémy
-  Bucciali workshops. It participates in an evolution of his painting: his engraved
-  work applies, by deployments of contained lines which can become forms, to fix his
-  temporal perception felt during a residence on the African continent.\n\nPierre
-  Muckensturm has always made sure that his engraved and painted works are, as Japanese
-  paintings were in their time, \"quiet objects\", silent forms. He bases his research
-  on the certainty that, as Julius Bissier once said: \"the calm is greater than the
-  storm\"."
+  Zürich spécialisée dans l'Art géométrique et concret.\n* Galerie IDEELART . London\n*
+  Galerie Michelle Champetier . Cannes\n\n**Collections :**\n\nTama Art University
+  Museum . Tokyo  \nInternational Print Center . New York  \nMusée des Beaux arts
+  de Liège  \nMusée Boribana . Dakar  \nMusée du Petit Format d’Art Contemporain .
+  Nismes (Belgique)\n\nVilles de  : Colmar - La Roche-sur-Yon - Kingersheim - La Rochelle
+  .\n\n\\**2023  \n\\**Group show at Gaïa Gallery . Nantes . F  \nDuo show with Carola
+  Bürgi at La Ligne Gallery . Zürich . CH  \nGroup show at Musée Bossuet . Meaux .
+  F  \nArt Paris . Grand Palais Éphémère . La Ligne Gallery . Paris . F  \nWinter
+  Group Show at La Ligne Gallery . Zürich . CH\n\n\\**2022  \n\\**21e Biennale internationale
+  « Petit Format de Papier » . Nismes . B et Charleville -Mézières . F  \nArt Paris
+  2022 7-10 april Grand Palais Éphémère . La Ligne Gallery . Paris . F  \nWinter Group
+  Show at La Ligne Gallery . Zürich . CH\n\n***"
 exhibitions: []
 works:
 - title: XXII 41 074
@@ -362,7 +343,7 @@ works:
     height: 65
     width: 50
     depth: 0
-  description: "2021 Edition 10/15  \n\\[mise en contact de vingt quadrilatères courbes
+  description: "2021 Edition 12/15  \n\\[mise en contact de vingt quadrilatères courbes
     réalisés en assemblant deux angles avec entas positionnés à -2,2°/0°/+2,2°\\]"
   price: 500
   contextual: true
