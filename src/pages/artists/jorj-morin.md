@@ -342,10 +342,10 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Fleur coupée 1977
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fleur
-    coupée.JPG
-  technique: Eau forte 32/50
+- title: Buste sans visage 1981
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6419.jpg
+  technique: 'Eau forte 5/50 réhausse aquarelle '
   fields: []
   styles: []
   dimensions:
