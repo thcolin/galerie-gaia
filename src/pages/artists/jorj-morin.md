@@ -507,15 +507,16 @@ works:
   fields: []
   styles: []
   weight: 
-- title: Jeu de pistes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jeu-de-pistes.jpg
-  technique: Gravure
+- title: Cyclope 1978
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6424.jpg
+  technique: Eau forte 17/50
   dimensions:
-    height: 16
-    width: 16
+    height: 30
+    width: 20
     depth: 
-  description: '1978 '
-  price: 250
+  description: ''
+  price: 150
   sold: false
   contextual: true
   fields: []
