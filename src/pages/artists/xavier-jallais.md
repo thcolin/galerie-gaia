@@ -94,20 +94,6 @@ works:
   price: 4000
   contextual: true
   fields: []
-- title: Lumière du soir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Lumière
-    du soir.jpg
-  technique: Acrylique sur carton enacdrée sous verre baguette bois brut
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 51
-    width: 36
-    depth: 0
-  description: "2021"
-  price: 750
-  contextual: true
 - title: Ne plus savoir où aller
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
     plus savoir où aller, 100x81, 2021.jpg
