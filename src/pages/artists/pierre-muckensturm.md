@@ -517,7 +517,7 @@ works:
     height: 65
     width: 50
     depth: 0
-  description: "Tirage 7 exemplaires sur commande  \n2020"
+  description: "Tirage 7 exemplaires   \n2020"
   price: 500
   contextual: true
 - title: '203R0946 composition à 6 angles  à Entas '
@@ -578,9 +578,9 @@ works:
   price: 400
   sold: false
   contextual: true
-- title: 172J230921 (6/11)
+- title: '172J230923 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/172j230921-611.jpg
-  technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
+  technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives Edition 6/11
   dimensions:
     height: 76
     width: 56
