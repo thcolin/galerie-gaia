@@ -477,29 +477,31 @@ works:
   fields: []
   styles: []
   weight: 
-- title: Bride abattue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bride-abattue.jpg
-  technique: Gravure
+- title: Bouquet Composé 1978
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6422.jpg
+  technique: 'Eau forte 27/50 réhausse aquarelle '
   dimensions:
-    height: 16.2
-    width: 15.9
+    height: 30
+    width: 20
     depth: 
-  description: '1984 '
-  price: 250
+  description: ''
+  price: 150
   sold: false
   contextual: true
   fields: []
   styles: []
   weight: 
-- title: Capture
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture.jpg
-  technique: Gravure
+- title: Point rouge 1978
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6423.jpg
+  technique: Eau forte 18/50
   dimensions:
-    height: 19
-    width: 12.5
+    height: 30
+    width: 21
     depth: 
-  description: '1988 '
-  price: 250
+  description: ''
+  price: 150
   sold: false
   contextual: true
   fields: []
