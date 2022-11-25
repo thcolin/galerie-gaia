@@ -103,21 +103,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Vent ascendant 1974
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-vent
-    ascendant.JPG
-  technique: Eau forte 22/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 45.5
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
 - title: Une certaine cohésion 1972
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-une
     certaine cohésion.JPG
@@ -399,21 +384,6 @@ works:
     depth: 
   description: ''
   price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Fenêtre noire 1978
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-fenêtre
-    noire.JPG
-  technique: Eau forte 16/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 48.5
-    width: 31
-    depth: 
-  description: ''
-  price: 350
   sold: false
   contextual: true
   weight: 
