@@ -387,21 +387,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Exercice respiratoire 1983
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-exercice
-    respiratoire.JPG
-  technique: Eau forte 12/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 29
-    width: 20
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-  weight: 
 - title: Espace agité 1968
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-espace
     agité.JPG
@@ -414,36 +399,6 @@ works:
     depth: 
   description: ''
   price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Libellule 1975
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-danse
-    de la libellule.JPG
-  technique: Eau forte 15/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 33
-    depth: 
-  description: ''
-  price: 350
-  sold: false
-  contextual: true
-  weight: 
-- title: Coupe géologique
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coupe
-    géologique.JPG
-  technique: Eau forte 15/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 47.8
-    width: 29
-    depth: 
-  description: ''
-  price: 350
   sold: false
   contextual: true
   weight: 
@@ -477,10 +432,10 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Coeur 1977
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
-    (II).JPG
-  technique: Eau forte 3/50
+- title: Fleur d'hiver 1981
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
+    morin-IMG_6420.jpg
+  technique: Eau forte 8/50
   fields: []
   styles: []
   dimensions:
