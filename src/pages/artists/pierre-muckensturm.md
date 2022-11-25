@@ -428,24 +428,11 @@ works:
     height: 222
     width: 183
     depth: 0
-  description: "Visible à la galerie, en réserve   \n2014"
-  price: 13600
+  description: 'Vendue collection Galerie '
+  price: ''
   contextual: true
   fields:
   - Peinture
-- title: 14P2906 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-muckensturm
-    GF1.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 222
-    width: 183
-    depth: 0
-  description: ''
-  price: 13600
-  contextual: false
-  technique: technique mixte et huile sur toile sur châssis
 - title: '14P1832263 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-muckensturm
     14p1832263 .jpg
@@ -489,7 +476,7 @@ works:
     height: 65
     width: 50
     depth: 0
-  description: "Tirage 7 exemplaires ex n°4/7 en vente  \nRéalisation 2020"
+  description: "Tirage 7 exemplaires ex n°3/7 en vente  \nRéalisation 2020"
   price: 500
   contextual: true
 - title: 203R0942 composition à 6 angles  à Entas -
