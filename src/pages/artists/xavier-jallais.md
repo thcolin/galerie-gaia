@@ -43,7 +43,7 @@ exhibitions: []
 works:
 - title: Rien d'autre que la lumière
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Rien
-    d'autre que la lumière.jpg
+    d'autre que la lumière.jpg
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   fields: []
   styles: []
@@ -95,7 +95,7 @@ works:
   contextual: true
   fields: []
 - title: Lumière du soir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Lumière
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Lumière
     du soir.jpg
   technique: Acrylique sur carton enacdrée sous verre baguette bois brut
   fields: []
@@ -110,7 +110,7 @@ works:
   contextual: true
 - title: Ne plus savoir où aller
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
-    plus savoir où aller, 100x81, 2021.jpg
+    plus savoir où aller, 100x81, 2021.jpg
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
   fields: []
   styles: []
@@ -124,7 +124,7 @@ works:
   contextual: true
 - title: Le bâtisseur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Un
-    départ, à l'aube, 150x100, 2021.jpg
+    départ, à l'aube, 150x100, 2021.jpg
   technique: collage de sable, cendre, acrylique et huile sur toile
   dimensions:
     height: 150
@@ -148,6 +148,7 @@ works:
   description: Encadrement caisse américaine 2022
   price: 2900
   contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2036.jpg
 - title: Cerf 1 (4/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
