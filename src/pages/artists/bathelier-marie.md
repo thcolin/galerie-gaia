@@ -50,7 +50,7 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
 works:
 - title: Peinture sans titre 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_6452.jpg
-  technique: ''
+  technique: 'Technique mixte sur support carton encadrée caisse américaine blanche '
   fields: []
   styles: []
   weight: 
