@@ -130,7 +130,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US chêne  \nPrix sur demande\n\n "
+  description: "Encadrement caisse US chêne  \nRéservé"
   price: ''
   contextual: false
 - title: Simple trash
@@ -218,7 +218,7 @@ works:
     height: 150
     width: 140
     depth: 0
-  description: "2019  \nPrix sur demande "
+  description: "2019   \nRéservé"
   price: ''
   contextual: true
 - title: 'Catalogue de la collection '

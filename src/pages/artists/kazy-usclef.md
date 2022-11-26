@@ -7,7 +7,7 @@ fields:
 - Street art
 birth: "0"
 death: "0"
-expose: false
+expose: true
 biography: |-
   # Kazy Usclef
 
@@ -68,23 +68,12 @@ works:
     height: 162
     width: 130
     depth: 
-  description: "2017"
-  price: 3000
+  description: 2017 Prix sur demande
+  price: ''
   sold: false
   contextual: true
   fields:
   - Peinture
-- title: Double Trouble
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double.jpg
-  technique: Huile sur toile et technique mixte
-  dimensions:
-    height: 94
-    width: 100
-    depth: 
-  description: Vendue
-  price: ''
-  sold: true
-  contextual: true
 - title: Routine 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/routine-3.jpg
   technique: 'Acrylique sur toile '
@@ -92,8 +81,8 @@ works:
     height: 162
     width: 97
     depth: 
-  description: "2017"
-  price: 3000
+  description: '2017 Prix sur demande '
+  price: ''
   sold: false
   contextual: true
 redirect_from:
