@@ -48,9 +48,24 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Parcelle 1
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les parcelles 3
+    : pigments, calcaire et jus de feuilles de vigne sur papier : 33 x 48.jpg'
+  technique: ''
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 46
+    width: 30
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: Les parcelles - 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Image 02-09-2022
-    à 16.05.jpg
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les parcelles 1
+    : pigments, calcaire et jus de de feuilles de vigne sur papier, 33 x 48.jpg'
   technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
@@ -76,71 +91,6 @@ works:
     depth: 
   description: ''
   price: 600
-  sold: false
-  contextual: true
-  weight: 
-- title: Arbres 6 - 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
-    6-2 couleurs pigmentaires et cendre végétale sur papier 33 x 49 chaque.jpg
-  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 49
-    width: 33
-    depth: 
-  description: "Installation de 6 papiers, tarif avec encadrement compris  \n49X33
-    cm est le format de chaque papier"
-  price: 3000
-  sold: false
-  contextual: false
-  weight: 
-- title: Arbres 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathellier-ARBRES
-    - 3 33 x 49.jpg
-  technique: 'Couleurs pigmentaires et cendre végétale sur papier '
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 43
-    width: 39
-    depth: 
-  description: "Triptyque  \n49X33 cm est le format de chaque papier"
-  price: 1500
-  sold: false
-  contextual: false
-  weight: 
-- title: Heures bleues
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier heures bleues pigments acryl cendre végétale et argile sur toile 73
-    x 100 1600 euros.jpg
-  technique: Pigments acryliques, cendre végétale et argile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 
-  description: Œuvre visible au Restaurant [l'Aménité](https://www.lamenite-restaurant-nantes.com/)
-  price: 1600
-  sold: false
-  contextual: true
-  weight: 
-- title: La tête me tourne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier la tête me tourne pigments acryl terre et eau de pluie sur toile 73
-    x 100 1600 euros.jpg
-  technique: Pigments acryliques, terre et eau de pluie sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 
-  description: ''
-  price: 1600
   sold: false
   contextual: true
   weight: 
@@ -176,105 +126,6 @@ works:
   sold: false
   contextual: false
   weight: 
-- title: Regarde les fleurs voler
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier regarde les fleurs voler pigments acyl et cendre végétale sur toile
-    100 x 73 1600 euros.jpg
-  technique: Pigment acrylique et cendre végétale sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 73
-    depth: 
-  description: ''
-  price: 1600
-  sold: false
-  contextual: true
-  weight: 
-- title: Paille
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier modèle vivant tirage photographique sur fine art contrecollage surDibon
-    40 x 30 350 euros.jpg
-  technique: Tirage photographique sur papier fine art et contrecollé sur Dibon
-  fields:
-  - Photographie
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: Exemplaire 1/5
-  price: 350
-  sold: false
-  contextual: true
-  weight: 
-- title: Nid
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier modèle vivant 2 tirage photographique sur fine art contrecollage surDibon
-    40 x 30 350 euros.jpg
-  technique: Tirage photographique sur papier fine art et contrecollé sur Dibon
-  fields:
-  - Photographie
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: Exemplaire 1/5
-  price: 350
-  sold: false
-  contextual: true
-  weight: 
-- title: Pierre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier modèle vivant 4 tirage photographique sur fine art contrecollage surDibon
-    40 x 30 350 euros.jpg
-  technique: Tirage photographique sur papier fine art et contrecollé sur Dibon
-  fields:
-  - Photographie
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: Exemplaire 1/5
-  price: 350
-  sold: false
-  contextual: true
-  weight: 
-- title: Grande ronce bleue
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier grande ronce bleue pigments acryliques sur bois dompté 100 x 100 cm
-    1100 euros.jpg
-  technique: Sculpture végétale pigments acryliques sur liane de ronce entrelacée
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: ''
-  price: 1100
-  sold: false
-  contextual: false
-  weight: 
-- title: Au jardin 9
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/proches9 : pigments
-    a & o sur p : 48 x 68 cm.jpg'
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 
-  description: 2022 Œuvre encadrée cadre chêne
-  price: 700
-  sold: false
-  contextual: true
-  weight: 
 - title: Au jardin -2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
     Bathellier proches 2 couleurs pigmentaires et organiques sur papier 48 x 68 cm
@@ -288,68 +139,6 @@ works:
     depth: 
   description: ''
   price: 700
-  sold: false
-  contextual: true
-  weight: 
-- title: Au jardin - 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Marie
-    Bathellier proches 4 couleurs pigmentaires et organiques sur papier 48 x 68 cm
-    700 euros.jpg
-  technique: pigments acrylique, terre, eaux de pluie et fossiles végétaux sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 68
-    depth: 
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
-  weight: 
-- title: Coeur de la nuit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/alerie-gaia-marie-bathellier-coeur
-    de la nuit.jpg
-  technique: Pigments, suie et argile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 30
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Le figuier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - marie
-    batheliier- figuier.JPG
-  technique: 'Pigment acrylique et argile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 30
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: 'Lux in mare '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- marie
-    bathellier -LUX IN MARE E 47X47.jpg
-  technique: 'Papier peint froissé '
-  fields: []
-  styles: []
-  dimensions:
-    height: 47
-    width: 47
-    depth: 
-  description: '2021 encadrement montage caisson baguette blanche en bois hauteur
-    de 5cm l’œuvre est épinglée sur le fond et flotte avec un esprit de liberté '
-  price: 850
   sold: false
   contextual: true
   weight: 
@@ -489,21 +278,6 @@ works:
   - Sculpture
   styles:
   - Abstrait
-  weight: 
-- title: Lit de camp et sculpture en situation dans Côté Ouest
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
-    04.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: 'Lit de camp et sculpture '
-  price: 
-  sold: false
-  contextual: false
   weight: 
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-givre-marie-bathellier.jpg
