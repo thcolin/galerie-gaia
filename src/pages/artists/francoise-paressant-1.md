@@ -212,22 +212,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-6  acrylique
-    sur papier 50 cm x 33 cm  2022.jpg
-  technique: Acrylique sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 50
-    width: 33
-    depth: 
-  description: 2022 Encadrement bois blanc verre anti-reflet
-  price: 750
-  sold: false
-  contextual: true
-  weight: 
 - title: Papier huilé 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-papier
     huilé 1 70X50.jpg
@@ -307,72 +291,6 @@ works:
   sold: false
   contextual: false
   weight: 
-- title: Oeuvre en feutre teinté en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_143452.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: Sculpture en acier découpé plié de [Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/
-    "pierre tual")
-  price: 
-  sold: false
-  contextual: false
-  weight: 
-- title: CPM 60_50 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
-    60 cm x 50  2021.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 60
-    width: 50
-    depth: 
-  description: "2021"
-  price: 700
-  sold: false
-  contextual: true
-  weight: 
-- title: CPM 60_50 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
-    60 cm x 50 cm 2021.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 60
-    width: 50
-    depth: 
-  description: "2021"
-  price: 700
-  sold: false
-  contextual: true
-  weight: 
-- title: CPM 60_50 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-collage
-    marouflé sur toile 60 cm x 50 cm 2021.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 60
-    width: 50
-    depth: 
-  description: "2021"
-  price: 700
-  sold: false
-  contextual: true
-  weight: 
 - title: Installation en trio CPM 60_50 1-2-3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pornichet20210901_161230.jpg
   technique: Collages papier marouflés sur toile en caisse américaines bois naturel
@@ -383,62 +301,11 @@ works:
     height: 60
     width: 50
     depth: 
-  description: Proposition en triptyque 1900€ , le chien n'est pas compris dans le
-    prix...
+  description: "Proposition en triptyque 1900€ , le chien n'est pas compris dans le
+    prix...  \nDisponible sur demande "
   price: 1900
   sold: false
   contextual: true
-  weight: 
-- title: CDC 40_30 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
-    cousu, marouflé sur toile 40 cm x 30 cm 2021.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 
-    width: 30
-    depth: 
-  description: "2009"
-  price: 500
-  sold: false
-  contextual: true
-  weight: 
-- title: CDC 40_30 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-coupé
-    cousu, 40 cm x 30 cm 2021.jpg
-  technique: Collages papier marouflés sur toile en caisse américaines bois naturel
-    clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: "2009"
-  price: 500
-  sold: false
-  contextual: true
-  weight: 
-- title: 'Installation de 4 CDC 40_30 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-pornichet-cdc
-    40X30.jpg
-  technique: Collages découpés cousus en caisse américaine bois naturel clair
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 
-  description: "2021  \nProposition d'installation, œuvres vendues séparément sans
-    le chien"
-  price: 
-  sold: false
-  contextual: false
   weight: 
 - title: Papier main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211103_150402.jpg
