@@ -49,8 +49,8 @@ biography: |-
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
 - title: Boires de Loire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-18
-    Boires d'été.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
+    peron- py architecture-P22-16 ENTIER.jpg
   technique: Aquarelle Sennelier+ rehauts de graphite, de pastel gras et d’encre Papier
     aquarelle marouflé sur carton et sous- verre anti-reflet
   fields: []
@@ -58,7 +58,7 @@ works:
   dimensions:
     height: 29
     width: 83
-    depth: 0
+    depth: 
   description: Cette aquarelle, prise sur le vif, devant une succession de boires
     de Loire, saisie le bleu du ciel qui se reflète par petites touches comme un ricochet
     et vient illuminer les verts sombres du fleuve laissés dans l’ombre. Traités par
@@ -68,6 +68,7 @@ works:
   price: 980
   sold: false
   contextual: true
+  weight: 
 - title: 'Sur la route '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-23
     sur la route.jpg
@@ -78,13 +79,14 @@ works:
   dimensions:
     height: 29
     width: 83
-    depth: 0
+    depth: 
   description: Cette oeuvre a été peinte de mémoire. Vitesse et sensations de défilement
     ont guidé mes gestes. Le champ de blé se mélange aux frondaisons des chênes qui
     s’étirent en trainées de verts sombres.
   price: 980
   sold: false
   contextual: true
+  weight: 
 - title: 'Jardin des plantes Nantes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-19
     jardin des plantes.jpg
@@ -95,7 +97,7 @@ works:
   dimensions:
     height: 29
     width: 83
-    depth: 0
+    depth: 
   description: Cette aquarelle, prise sur le vif au jardin des plantes de Nantes est
     la seconde d’une série de travaux sur les reflets dans les milieux naturels.Ce
     sont les gunnera au bord de l’étang qui m’ont séduits. Les ombres qui les découpent,
@@ -105,6 +107,7 @@ works:
   price: 980
   sold: false
   contextual: true
+  weight: 
 - title: Paysage de Loire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-p22-17
     paysage de Loire.jpg
@@ -115,7 +118,7 @@ works:
   dimensions:
     height: 29
     width: 83
-    depth: 0
+    depth: 
   description: |-
     Cette aquarelle, prise sur le vif, au milieu du bras de sable asséché de la Loire durant cet été 2022. Lieu hors du temps et du chaos environnant, peu marqué par la présence humaine; uniquement par le train dont les soubresauts sonores rappellent le passage fugace de la civilisation.
 
@@ -123,6 +126,7 @@ works:
   price: 980
   sold: false
   contextual: true
+  weight: 
 - title: Lit de Loire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-16-
     lit de Loire.jpg
@@ -133,7 +137,7 @@ works:
   dimensions:
     height: 29
     width: 83
-    depth: 0
+    depth: 
   description: Cette aquarelle, prise sur le vif, au milieu du bras de sable asséché
     de la Loire durant cet été. Lieu hors du temps et du chaos environnant, peu marqué
     par la présence humaine; uniquement par le train dont les soubresauts sonores
@@ -144,6 +148,7 @@ works:
   price: 980
   sold: false
   contextual: true
+  weight: 
 - title: Eau douce du Havre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-15-
     eau douce du Havre.jpg
@@ -154,7 +159,7 @@ works:
   dimensions:
     height: 29
     width: 83
-    depth: 0
+    depth: 
   description: Cette aquarelle, prise sur le vif, les pieds dans la rivière traduit
     l’onde aquatique comme autant de reflets venant des risées du ciel que des mouvements
     sous l’eau du Havre. Extrait de mon carnet de croquis, ce format contient deux
@@ -163,6 +168,7 @@ works:
   price: 980
   sold: false
   contextual: true
+  weight: 
 - title: Dos d'Alice
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-02-05 à 18.50.13.png
@@ -178,6 +184,7 @@ works:
   price: 3700
   sold: false
   contextual: true
+  weight: 
 - title: Emile 2021-04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01-2.jpg
   technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
@@ -196,6 +203,7 @@ works:
   price: 7900
   sold: false
   contextual: true
+  weight: 
 - title: Détail Emile 2021_04
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-détail
     emile-S.jpg
@@ -211,6 +219,7 @@ works:
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: Salomé 2015-02
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
   technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
@@ -232,6 +241,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - fields: []
   styles: []
   dimensions:
@@ -249,6 +259,7 @@ works:
   technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
     châssis bois
   sold: false
+  weight: 
 - title: Alice 1-06
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-alice1-06.JPG
   technique: Aquarelle Sennelier+ rehauts de pastel à l’huile / Papier arche marouflé
@@ -266,6 +277,7 @@ works:
   price: 2500
   sold: false
   contextual: true
+  weight: 
 - title: Portrait de l'artiste
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-emile21
     avec yann-peron.jpeg
@@ -280,6 +292,7 @@ works:
   price: 7900
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 
 ---
