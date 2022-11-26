@@ -48,6 +48,34 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
+- title: Peinture sans titre 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton&5-17X15.jpg
+  technique: Technique mixte sur support carton encadrée caisse américaine blanche
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 26
+    width: 20
+    depth: 0
+  description: ''
+  price: 290
+  sold: false
+  contextual: true
+- title: Peinture sans titre 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-bathelier-carton&4_15X17.jpg
+  technique: 'Technique mixte sur support carton encadrée caisse américaine blanche '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 22
+    width: 21
+    depth: 0
+  description: ''
+  price: 290
+  sold: false
+  contextual: true
 - title: Les Parcelles  -1
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les parcelles 3
     : pigments, calcaire et jus de feuilles de vigne sur papier : 33 x 48.jpg'
