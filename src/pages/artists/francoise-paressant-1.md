@@ -482,34 +482,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Blason 001
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason1-20x20.jpeg
-  technique: Acrylique sur feutre
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-  weight: 
-- title: Blason 002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-blason-20x20-002.jpg
-  technique: 'Acrylique sur feutre '
-  fields: []
-  styles: []
-  dimensions:
-    height: 20
-    width: 20
-    depth: 
-  description: Encadrement boite en bois blanc
-  price: 320
-  sold: false
-  contextual: true
-  weight: 
 - title: Portrait de Françoise Paressant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-paressant-portrait.jpg
   technique: ''
