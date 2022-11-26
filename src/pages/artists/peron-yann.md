@@ -70,8 +70,8 @@ works:
   contextual: true
   weight: 
 - title: 'Sur la route '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-23
-    sur la route.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
+    peron- py architecture-P22-23 ENTIER 2.jpg
   technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
     et sous- verre anti-reflet
   fields: []
@@ -150,8 +150,8 @@ works:
   contextual: true
   weight: 
 - title: Eau douce du Havre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-15-
-    eau douce du Havre.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
+    peron- py architecture-P22-15 ENTIER RECADRE.jpg
   technique: Aquarelle Sennelier+ rehauts de graphite Papier aquarelle marouflé sur
     carton et sous- verre anti-reflet
   fields: []
@@ -160,7 +160,7 @@ works:
     height: 29
     width: 83
     depth: 
-  description: Cette aquarelle, prise sur le vif, les pieds dans la rivière traduit
+  description: Cette aquarelle prise sur le vif, les pieds dans la rivière traduit
     l’onde aquatique comme autant de reflets venant des risées du ciel que des mouvements
     sous l’eau du Havre. Extrait de mon carnet de croquis, ce format contient deux
     pages, ce qui cadre le motif comme un paysage, vécu comme un moment passé avec
