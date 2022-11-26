@@ -48,10 +48,10 @@ biography: "> # Marie Bathellier\n\n> L'artiste entrelace une vie insulaire et d
   or lines of Japanese granit stepping stones reveal a free, spontaneous and sensual
   artistic work."
 works:
-- title: Parcelle 1
+- title: Les Parcelles  -1
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les parcelles 3
     : pigments, calcaire et jus de feuilles de vigne sur papier : 33 x 48.jpg'
-  technique: ''
+  technique: Pigments acryliques, calcaire et jus de feuilles de vigne sur papier
   fields: []
   styles: []
   weight: 
@@ -59,8 +59,8 @@ works:
     height: 46
     width: 30
     depth: 0
-  description: ''
-  price: 
+  description: "2022"
+  price: 600
   sold: false
   contextual: true
 - title: Les parcelles - 3
@@ -70,10 +70,10 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 33
+    height: 46
+    width: 30
     depth: 
-  description: ''
+  description: "2022"
   price: 600
   sold: false
   contextual: true
@@ -86,10 +86,10 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 48
-    width: 33
+    height: 46
+    width: 30
     depth: 
-  description: ''
+  description: "2022"
   price: 600
   sold: false
   contextual: true
