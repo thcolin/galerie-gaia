@@ -88,8 +88,8 @@ works:
   contextual: true
   weight: 
 - title: 'Jardin des plantes Nantes '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-19
-    jardin des plantes.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
+    peron- py architecture-P22-19 ENTIER.jpg
   technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
     et sous- verre anti-reflet
   fields: []
@@ -109,8 +109,8 @@ works:
   contextual: true
   weight: 
 - title: Paysage de Loire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-p22-17
-    paysage de Loire.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
+    peron- py architecture-P22-17 ENTIER 2.jpg
   technique: Aquarelle Sennelier+ rehauts de graphite Papier aquarelle marouflé sur
     carton et sous- verre anti-reflet
   fields: []
@@ -128,8 +128,8 @@ works:
   contextual: true
   weight: 
 - title: Lit de Loire
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-P22-16-
-    lit de Loire.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
+    peron- py architecture-P22-16 ENTIER.jpg
   technique: Aquarelle Sennelier+ rehauts de graphite / Papier aquarelle marouflé
     sur carton et sous- verre anti-reflet
   fields: []
