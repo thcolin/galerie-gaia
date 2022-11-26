@@ -41,6 +41,7 @@ works:
   price: 650
   sold: false
   contextual: true
+  weight: 
 - title: Impacts VI
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsVI_51x66-
     01.jpg
@@ -55,6 +56,7 @@ works:
   price: 230
   sold: false
   contextual: true
+  weight: 
 - title: Impacts VIII
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsVIII_50x65,5-
     01.jpg
@@ -69,6 +71,7 @@ works:
   price: 230
   sold: false
   contextual: true
+  weight: 
 - title: Cellules IX
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_CellulesIX_100x70-
     01.jpg
@@ -83,6 +86,7 @@ works:
   price: 650
   sold: false
   contextual: true
+  weight: 
 - title: Paysage b
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_PaysagesB_32x40,5-
     01.jpg
@@ -97,6 +101,7 @@ works:
   price: 200
   sold: false
   contextual: true
+  weight: 
 - title: 'Impacts V '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsV_51x66-
     01.jpg
@@ -111,20 +116,7 @@ works:
   price: 230
   sold: false
   contextual: true
-- title: Paysage II (les 3 arbres)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_PaysagesII(les3arbres)_49x44-
-    01.jpg
-  technique: Gravure sur plexi sur papier Hahnemühle 300 grammes
-  fields: []
-  styles: []
-  dimensions:
-    height: 49
-    width: 45
-    depth: 
-  price: 200
-  sold: false
-  contextual: true
-  description: Exemplaire 16/20
+  weight: 
 exhibitions: []
 
 ---

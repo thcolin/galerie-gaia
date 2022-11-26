@@ -3,10 +3,11 @@ template: artist
 title: Kazy Usclef
 location: ''
 fields:
+- Peinture
 - Street art
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: |-
   # Kazy Usclef
 
@@ -71,6 +72,8 @@ works:
   price: 3000
   sold: false
   contextual: true
+  fields:
+  - Peinture
 - title: Double Trouble
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/double.jpg
   technique: Huile sur toile et technique mixte

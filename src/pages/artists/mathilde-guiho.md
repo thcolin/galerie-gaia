@@ -6,7 +6,7 @@ fields:
 - Photographie
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: "# Mathilde Guiho\n\nLes genoux rouges\n\n\"Comme une exploration souterraine,
   « Les genoux rouges » cherche autour du lien matériel des souvenirs. Dans le corps
   d’abord. La peau, celle qui s’effrite par le soleil, qui nous rend si vulnérable,
@@ -33,21 +33,6 @@ biography: "# Mathilde Guiho\n\nLes genoux rouges\n\n\"Comme une exploration sou
   d’individualité, de recherche autour du souvenirs.\n\n[mathilde guiho](https://mathildeguiho.fr/
   \"mathilde guiho\")"
 works:
-- title: Mer
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mathilde-guiho-sans-titre-2015.jpg
-  technique: 'Photographie '
-  dimensions:
-    height: 50
-    width: 75
-    depth: 
-  description: "**Il ne reste plus que 1 tirage disponible soit le 9/9 et cette photo
-    sera épuisée**.\n\nImpression numérique sur papier mat smooth marouflé sur dibond
-    \ \ncaisse américaine noire"
-  price: 900
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
 - title: 'Les genoux rouges '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-les-genoux-rouges12-5x12-5.jpg
   technique: 'Photographie '
@@ -61,6 +46,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Le regard
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-le-regard-10x15.jpg
   technique: Photographie et broderies
@@ -74,6 +60,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Brûlées
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-brulee-15x10.jpg
   technique: Photographie
@@ -87,6 +74,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Ciel plein
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-ciel-plein-10x15.jpg
   technique: Photographie et broderies
@@ -100,6 +88,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: 'Eaux vides '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-eaux-vides-10x15.jpg
   technique: 'Photographies '
@@ -113,6 +102,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Embuée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-embuee-15x10.jpg
   technique: Photographie
@@ -126,6 +116,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: 'Loire '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-loire-9x10.jpg
   technique: Photographie
@@ -139,6 +130,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Oeil
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-oeil-9x10.jpg
   technique: Photographie et broderie
@@ -152,6 +144,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: 'Oiseaux '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-oiseaux-10x15.jpg
   technique: Photographie brodée
@@ -165,6 +158,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Portrait de fil
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-portrait-de-fil-19x13.jpg
   technique: 'Photographie et broderies '
@@ -178,6 +172,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Rouge
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-rouge-15x10.jpg
   technique: Photographie
@@ -191,6 +186,7 @@ works:
   contextual: false
   fields: []
   styles: []
+  weight: 
 - title: Portrait de Mathilde Guiho
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-mathilde-guiho-portrait1.jpg
   technique: ''
@@ -204,6 +200,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 exhibitions:
 - title: 'Les genoux rouges  Galerie Gaia '
   location: Nantes
