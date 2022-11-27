@@ -16,6 +16,46 @@ import 'react-medium-image-zoom/dist/styles.css'
 import { fromFilesystem2S3 } from 'utils/resolve'
 import theme from 'theme'
 import slug from 'slug'
+import { useSnipcartContext } from '../contexts/Snipcart'
+
+const SHIPPING_RULES = {
+  'Oeuvre sur papier': [
+    { size: [0, Infinity], weight: 50 },
+  ],
+  'Dessin': [
+    { size: [0, Infinity], weight: 50 },
+  ],
+  'Peinture': [
+    { size: [100, Infinity], weight: 350 },
+    { size: [50, 100], weight: 250 },
+    { size: [0, 50], weight: 150 },
+  ],
+  'Photographie': [
+    { size: [100, Infinity], weight: 350 },
+    { size: [50, 100], weight: 250 },
+    { size: [0, 50], weight: 150 },
+  ],
+  'Textile': [
+    { size: [100, Infinity], weight: 350 },
+    { size: [50, 100], weight: 250 },
+    { size: [0, 50], weight: 150 },
+  ],
+  'Design': [
+    { size: [100, Infinity], weight: 350 },
+    { size: [50, 100], weight: 250 },
+    { size: [0, 50], weight: 150 },
+  ],
+  'Sculpture': [
+    { size: [100, Infinity], weight: 650 },
+    { size: [50, 100], weight: 550 },
+    { size: [0, 50], weight: 450 },
+  ],
+  'Céramique': [
+    { size: [100, Infinity], weight: 650 },
+    { size: [50, 100], weight: 550 },
+    { size: [0, 50], weight: 450 },
+  ],
+}
 
 const Artist = ({ location, uri, ...props }) => {
   const { pageContext: { frontmatter, breadcrumb, name: id } } = props
@@ -26,6 +66,7 @@ const Artist = ({ location, uri, ...props }) => {
     )
   }
 
+  const cart = useSnipcartContext()
   const works = frontmatter.works.filter(work => !work.sold)
   const slides = works.map(work => work.image).filter(image => !!image)
   const [slide, setSlide] = useState(location.state?.work ? works.filter(work => !!work.image).findIndex(work => work.title === location.state.work) : 0)
@@ -111,15 +152,23 @@ const Artist = ({ location, uri, ...props }) => {
                     ].filter(size => size).join(' x ')})`}
                   </span>
                   {!!work.price && (
-                    <small>{work.price} €</small>
+                    <small>{(work.price * 1.05)} €</small>
                   )}
                   {!!work.description && (
                     <RichText children={work.description} />
                   )}
                   <br/>
-                  {!work.sold && (
+                  {(
+                    !work.sold &&
+                    !!work.price &&
+                    (work.dimensions?.width && work.dimensions?.height) &&
+                    (
+                      frontmatter.fields?.some(field => Object.keys(SHIPPING_RULES).includes(field)) ||
+                      !!work.fields?.some(field => Object.keys(SHIPPING_RULES).includes(field))
+                    )
+                  ) && (
                     <Fragment>
-                      {id === 'adolfo-arenas-alonso' ? (
+                      {(
                         <button
                           className="snipcart-add-item"
                           data-item-id={`${id}-${slug((work.title || '').toLowerCase().trim())}`}
@@ -135,42 +184,27 @@ const Artist = ({ location, uri, ...props }) => {
                               work.dimensions?.width,
                               work.dimensions?.depth,
                             ].filter(size => size).join(' x ')})`,
-                            work.description,
                           ].filter(v => v).join(", ")}
-                          data-item-image={work.image}
-                          data-item-price={work.price}
+                          data-item-image={fromFilesystem2S3(work.image)}
+                          data-item-price={work.price * 1.05}
                           data-item-url={frontmatter.url}
                           data-item-max-quantity={1}
-                          {...((work.dimensions || {}).depth ? { 'data-item-length' : parseInt(work.dimensions || {}).depth } : {})}
-                          {...((work.dimensions || {}).height ? { 'data-item-height' : parseInt(work.dimensions || {}).height } : {})}
-                          {...((work.dimensions || {}).width ? { 'data-item-width' : parseInt(work.dimensions || {}).width } : {})}
+                          data-item-weight={(cart ? 1000 : 0) + SHIPPING_RULES[
+                            work.fields?.find(field => Object.keys(SHIPPING_RULES).includes(field))
+                            || frontmatter.fields?.find(field => Object.keys(SHIPPING_RULES).includes(field))
+                          ].find(({ size: [min, max] }) => (
+                            work.dimensions?.height >= min && work.dimensions?.height <= max
+                            || work.dimensions?.width >= min && work.dimensions?.width <= max
+                          )).weight}
+                          {...(work.dimensions?.depth ? { 'data-item-length' : parseInt(work.dimensions?.depth) } : {})}
+                          {...(work.dimensions?.height ? { 'data-item-height' : parseInt(work.dimensions?.height) } : {})}
+                          {...(work.dimensions?.width ? { 'data-item-width' : parseInt(work.dimensions?.width) } : {})}
                           data-item-custom1-name="Un message à nous adresser ?"
                           data-item-custom1-type="textarea"
                         >
                           <Icon children={'palette'} style={{ margin: '0 0.5rem 0 0' }} />
                           Acquérir cette oeuvre
                         </button>
-                      ) : (
-                        <Contact
-                          id="UCmdKCfm"
-                          method="buy"
-                          placeholder="Une demande de renseignements supplémentaires ? Écrivez nous votre message :"
-                          success="Merci ! Nous allons vous recontacter rapidement pour établir les détails de votre acquisition"
-                          toggle={true}
-                          inputs={[
-                            ...Object.keys(work).filter(name => work[name] && work[name] !== '0').map(name => ({
-                              name,
-                              value: (
-                                typeof work[name] === 'object' ? JSON.stringify(work[name]) :
-                                name === 'image' ? fromFilesystem2S3(work.image) : work[name]
-                              ),
-                            })),
-                            {
-                              name: 'artist',
-                              value: frontmatter.title,
-                            },
-                          ]}
-                        />
                       )}
                     <hr />
                     </Fragment>

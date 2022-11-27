@@ -114,7 +114,7 @@ const Catalogue = ({ scrollPosition, ...props }) => {
         ...page,
         frontmatter: {
           ...page.frontmatter,
-          works: page.frontmatter.works.filter(work => prices.some(([min, max]) => work.price >= min && work.price <= max)),
+          works: page.frontmatter.works.filter(work => prices.some(([min, max]) => (work.price * 1.05) >= min && (work.price * 1.05) <= max)),
         },
       }),
       props: {

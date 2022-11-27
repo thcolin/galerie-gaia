@@ -1,22 +1,16 @@
-import { useEffect, useState } from 'react'
 import Icon from './Icon'
 import theme from '../theme'
+import { useSnipcartContext } from '../contexts/Snipcart'
 
 const Cart = ({ ...props }) => {
-  const [items, setItems] = useState(0)
-
-  useEffect(() => {
-    document.addEventListener('snipcart.ready', () => {
-      Snipcart.store.subscribe(() => setItems(Snipcart.store.getState().cart.items.count))
-    })
-  }, [])
+  const cart = useSnipcartContext()
 
   return (
     <div css={Cart.styles.element}>
       <button css={theme.resets.button} onClick={() => Snipcart.api.theme.cart.open()}>
         <Icon children='cart' />
       </button>
-      <span css={Cart.styles.badge} style={{ visibility: items ? 'visible' : 'hidden' }}>{items}</span>
+      <span css={Cart.styles.badge} style={{ visibility: cart ? 'visible' : 'hidden' }}>{cart}</span>
     </div>
   )
 }
