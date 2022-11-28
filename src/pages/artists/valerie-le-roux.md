@@ -73,7 +73,7 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: 'Bâlanes Bleue sur fond rouge '
+- title: 'Bâlanes Bleues sur fond rouge '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie
     leroux-IMG_6495.jpg
   technique: Sérigraphie signée numérotée N° 12/50
