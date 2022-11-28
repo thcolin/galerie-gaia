@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, useEffect } from 'react'
 
-const snipcartContext = createContext({})
+const snipcartContext = createContext(0)
 
 export const SnipcartProvider = ({ children, ...props }) => {
   const [state, setState] = useState(0)
