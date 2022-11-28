@@ -1145,7 +1145,7 @@ articles:
   - Exposition
   title: Rétrospective 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-11-28 à 19.01.03.png
+    2022-11-28 à 19.30.38.png
   content: "Retrouvez en exposition collective et dans le [catalogue](https://galeriegaia.fr/catalogue/
     \"catalogue galerie\")  \nles 9 artistes exposé-es en 2022\n\nToma-l  \nEdwin
     Wide  \nMarie Bathelier  \nFrançoise Paressant  \nIsthme  \nJob  \nJudith Wolfe
