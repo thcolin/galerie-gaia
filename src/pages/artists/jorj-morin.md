@@ -148,21 +148,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Une certaine cohésion 1972
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-une
-    certaine cohésion.JPG
-  technique: Eau forte 15/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 28.5
-    width: 19
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: true
-  weight: 
 - title: Un oeil polyvalent 1976
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-un
     oeil polyvalent.JPG
@@ -264,21 +249,6 @@ works:
     depth: 
   description: ''
   price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Limites de propriété 1981
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-limites
-    de propriété.JPG
-  technique: Eau forte 22/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 33
-    depth: 
-  description: ''
-  price: 350
   sold: false
   contextual: true
   weight: 
@@ -491,21 +461,6 @@ works:
   price: 150
   sold: false
   contextual: true
-  weight: 
-- title: Vague et remous 1985
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6417.jpg
-  technique: 'Eau forte 5/50 réhausse aquarelle '
-  dimensions:
-    height: 20
-    width: 30
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: true
-  fields: []
-  styles: []
   weight: 
 - title: Fleur dansant 1981
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
