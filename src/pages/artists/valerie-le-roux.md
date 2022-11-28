@@ -30,6 +30,63 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Corail brique gris vert bleu marine et bleu foncé
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    leroux-IMG_6334.jpg
+  technique: Sérigraphie Edition limitée à 30 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 45
+    depth: 0
+  description: ''
+  price: 180
+  contextual: true
+- title: Grande coupe algue curry
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+    le roux-galerie-gaia-IMG_6317.jpg
+  technique: 'Céramique pièce unique '
+  fields:
+  - Céramique
+  styles: []
+  weight: 0
+  dimensions:
+    height: 6
+    width: 36
+    depth: 36
+  description: "2022"
+  price: 250
+  contextual: false
+- title: 'Corail bleu marine sur fond rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie
+    leroux-IMG_6496.jpg
+  technique: Sérigraphie signée numérotée N° 10/50
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 65
+    width: 65
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
+- title: 'Bâlanes Bleue sur fond rouge '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie
+    leroux-IMG_6495.jpg
+  technique: Sérigraphie signée numérotée N° 12/50
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 65
+    width: 65
+    depth: 0
+  description: ''
+  price: 90
+  contextual: true
 - title: Trio algues bleues
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie
     leroux-IMG_6494.jpg
@@ -58,21 +115,6 @@ works:
   description: ''
   price: 180
   contextual: true
-- title: Grande coupe algue curry
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    le roux-galerie-gaia-IMG_6317.jpg
-  technique: 'Céramique pièce unique '
-  fields:
-  - Céramique
-  styles: []
-  weight: 0
-  dimensions:
-    height: 6
-    width: 36
-    depth: 36
-  description: "2022"
-  price: 250
-  contextual: false
 - title: Végétal orange vif et bleu marine format allongé
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6337.jpg
@@ -157,20 +199,6 @@ works:
     depth: 0
   description: ''
   price: 85
-  contextual: true
-- title: Corail brique gris vert bleu marine et bleu foncé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6334.jpg
-  technique: Sérigraphie Edition limitée à 30 exemplaires
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 92
-    width: 45
-    depth: 0
-  description: ''
-  price: 180
   contextual: true
 - title: Corail kaki bleu ciel et bleu cobalt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
