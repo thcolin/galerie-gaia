@@ -3,7 +3,7 @@ export default () => (
     dangerouslySetInnerHTML={{
       __html: `
         window.SnipcartSettings = {
-          publicApiKey: 'ZGZkZDBjY2UtYTgzNy00ZTIwLTliZDktZDVmMGY5MWZjMTU5NjM4MDIwNjA2Mjk1MTgzMzcx',
+          publicApiKey: 'MDNhYTdjMDAtOThjMC00MWJhLWEyOWQtYTdiODkzN2RkYjJlNjM4MDIwNjA2Mjk1MTgzMzcx',
           version: '3.4.1',
           currency: 'eur',
           modalStyle: 'side',
