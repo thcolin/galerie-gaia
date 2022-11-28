@@ -154,7 +154,7 @@ works:
   description: "Affiche festival musique reprenant le graphisme des lignes de code
     des autocollants antivols colés sur les vinyls et CD  \nEffet graphique génial
     et couleurs bien plus belle en vrai ! "
-  price: 40
+  price: 1
   sold: false
   contextual: true
   weight: 
