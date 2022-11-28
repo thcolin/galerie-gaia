@@ -2,7 +2,9 @@
 template: artist
 title: 'Le Roux Valérie '
 location: ''
-fields: []
+fields:
+- Oeuvre sur papier
+- Céramique
 birth: "0"
 death: "0"
 expose: true
@@ -28,6 +30,20 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
+- title: Trio algues bleues
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie
+    leroux-IMG_6494.jpg
+  technique: Sérigraphie Edition limitée n° 7/50
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 45
+    width: 92
+    depth: 0
+  description: ''
+  price: 85
+  contextual: true
 - title: Sérigraphie bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - valerie
     leroux -serigraphie bleue.jpg
