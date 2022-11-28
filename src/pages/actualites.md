@@ -1139,5 +1139,16 @@ articles:
     A la Galerie Gaia les œuvres de George Rousse créée des paysages fantasmés, des territoires inconnus que seule sa photographie nous permet d’entrevoir.
 
     Texte : Ines Ben Brahim
+- template: article
+  date: '2022-11-28T18:01:36Z'
+  categories:
+  - Exposition
+  title: Rétrospective 2022
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-11-28 à 19.01.03.png
+  content: "Retrouvez en exposition collective et dans le [catalogue](https://galeriegaia.fr/catalogue/
+    \"catalogue galerie\")  \nles 9 artistes exposé-es en 2022\n\nToma-l  \nEdwin
+    Wide  \nMarie Bathelier  \nFrançoise Paressant  \nIsthme  \nJob  \nJudith Wolfe
+    \ \nPierre Tual  \nGeorges Rousse"
 
 ---
