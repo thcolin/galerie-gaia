@@ -1143,7 +1143,7 @@ articles:
   date: '2022-11-28T18:01:36Z'
   categories:
   - Exposition
-  title: Rétrospective 2022
+  title: 'Exposition Collective '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
     2022-11-28 à 19.30.38.png
   content: "Retrouvez en exposition collective et dans le [catalogue](https://galeriegaia.fr/catalogue/
