@@ -13,11 +13,12 @@ Logo.styles = {
       display: 'block',
       margin: 0,
       padding: 0,
+      fontFamily: 'BW Gradual',
       fontSize: '3.5em',
       lineHeight: 1,
       textAlign: 'left',
       textDecoration: 'none',
-      letterSpacing: '0.125em',
+      textTransform: 'uppercase',
     },
     '>small': {
       display: 'block',

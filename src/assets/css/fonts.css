@@ -1,4 +1,14 @@
 @font-face {
+    font-family: 'BW Gradual';
+    font-display: swap;
+    src: url('../fonts/BwGradual-Medium.eot');
+    src: url('../fonts/BwGradual-Medium.woff') format('woff'),
+         url('../fonts/BwGradual-Medium.woff2') format('woff2');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Walkway Regular';
     font-display: swap;
     src: url('../fonts/Walkway_SemiBold-webfont.eot');
