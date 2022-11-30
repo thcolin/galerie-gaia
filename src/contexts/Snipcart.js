@@ -7,6 +7,33 @@ export const SnipcartProvider = ({ children, ...props }) => {
 
   useEffect(() => {
     const cb = () => {
+      Snipcart.api.session.setLanguage('fr', {
+        "actions": {
+          "continue_shopping": "Retour",
+          "checkout": "Livraison et paiement",
+        },
+        "address_form": {
+          "address1": "Adresse",
+        },
+        "header": {
+          "title_cart_summary": "Panier",
+        },
+        "payment": {
+          "form": {
+            "deferred_payment_title": "Payer plus tard",
+            "deferred_payment_instructions": "En passant cette commande vous réservez l'oeuvre pour 48h et vous acceptez de régler celle-ci dans ce délai, par carte, chèque, espèce ou virement.<br/><br/>Si vous avez besoin d'un délai supplémentaire, afin de maintenir votre réservation, contactez-nous au <legend style='font-weight:bold;'>02 40 48 14 91</legend> ou passez en discuter à la galerie au <legend style='display:inline;font-weight:bold;'>4 Rue Fénelon Nantes - Hôtel de Ville - Parking Decré.</legend>",
+          },
+          "checkout_with": "Payer via",
+          "checkout_with_method": "Payer via %{method}",
+          "place_order": "Finaliser ma commande",
+          "methods": {
+            "card": "Carte de crédit",
+            "paypal": "PayPal",
+            "deferred_payment": "Payer plus tard"
+          },
+        },
+      })
+
       Snipcart.store.subscribe(() => {
         const state = Snipcart.store.getState()
         setState(state.cart.items.count)

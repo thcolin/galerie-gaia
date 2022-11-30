@@ -159,7 +159,6 @@ const Artist = ({ location, uri, ...props }) => {
                   )}
                   <br/>
                   {(
-                    !work.sold &&
                     !!work.price &&
                     (work.dimensions?.width && work.dimensions?.height) &&
                     (
