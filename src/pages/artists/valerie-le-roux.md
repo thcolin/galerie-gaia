@@ -30,9 +30,9 @@ exhibitions:
 - title: Corner Galerie Gaia invité par les Galeries Lafayette Nantes Decré
   start: Eté 2018
 works:
-- title: Corail brique gris vert bleu marine et bleu foncé
+- title: Corail kaki bleu ciel et bleu cobalt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6334.jpg
+    leroux-IMG_6333.jpg
   technique: Sérigraphie Edition limitée à 30 exemplaires
   fields: []
   styles: []
@@ -199,20 +199,6 @@ works:
     depth: 0
   description: ''
   price: 85
-  contextual: true
-- title: Corail kaki bleu ciel et bleu cobalt
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6333.jpg
-  technique: Sérigraphie Edition limitée à 30 exemplaires
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 92
-    width: 45
-    depth: 0
-  description: ''
-  price: 180
   contextual: true
 - title: Grande bouteille motif bleu et noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_6348.jpg
