@@ -99,9 +99,9 @@ works:
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
-- title: Jardin des plantes par Yann Peron
+- title: Jardin des plantes Nantes par Yann Peron
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-jardin
-    des plantes ES.JPG
+    des plantes ES.jpg
   technique: Aquarelle sur papier
   fields:
   - Oeuvre sur papier
@@ -207,8 +207,8 @@ works:
   price: 1500
   contextual: true
 - title: 'Bram Van Velde encadré par notre atelier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-bram
-    van velde ES cadre.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -bram
+    van velde 1 ES cadre2022.jpg
   technique: Lithographie
   fields:
   - Oeuvre sur papier
