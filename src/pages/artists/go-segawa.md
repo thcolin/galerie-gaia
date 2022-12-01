@@ -240,18 +240,6 @@ works:
     2017
   price: ''
   contextual: false
-- title: Beans Rainbow
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Beans_Rainbow_2018_mail.jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles: []
-  dimensions:
-    height: 7
-    width: 7
-    depth: 25
-  description: Edition en 15 exemplaires sur commande
-  price: 300
-  contextual: false
 - title: Mass Ed.25
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
   technique: 'Impression jet d''encre sur polyester '
