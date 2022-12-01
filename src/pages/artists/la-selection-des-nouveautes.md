@@ -25,6 +25,19 @@ works:
     Instagram Facebook"
   price: ''
   contextual: true
+- title: Calendrier de l'avent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CALENDRIER DE L'AVENT
+    COUVERTURE .jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Abonnez-vous sur Instagram
+  price: ''
+  contextual: true
 - title: 'Céramiques par Valérie Le Roux  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6316.jpg
