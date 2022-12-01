@@ -51,6 +51,15 @@ export const SnipcartProvider = ({ children, ...props }) => {
           console.warn(e)
         }
       })
+      
+      Snipcart.api.cart.update({
+        customFields: [
+          {
+            name: 'privacy-policy',
+            value: true,
+          }
+        ]
+      })
     }
 
     typeof Snipcart !== 'undefined' ? cb() : document.addEventListener('snipcart.ready', cb)
