@@ -11,17 +11,20 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
-- title: Nouveautés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+- title: Calendrier de l'avent 2022
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-12-01 à 11.08.59.png
   fields: []
   styles: []
+  weight: 0
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: "Pour découvrir tous les jours nos propositions   \nAbonnes vous sur
+    Instagram Facebook"
   price: ''
-  contextual: false
+  contextual: true
 - title: 'Céramiques par Valérie Le Roux  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6316.jpg
@@ -66,21 +69,6 @@ works:
   description: '# [Annick ARGANT](https://galeriegaia.fr/artists/annick-argant/ "ANNICK
     ARGANT")'
   price: 1200
-  contextual: false
-- title: 'Nuit des Galeries 5 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nuit
-    galeries5IMG_6199.JPG
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Jacques Le Brusq](https://galeriegaia.fr/artists/jacques-le-brusq/
-    "le brusq") et [Elisabeth Wadecki](https://galeriegaia.fr/artists/elisabeth-wadecki/
-    "wadecki")'
-  price: ''
   contextual: false
 - title: Blue Pacifique II par Isthme installé à l'Aménité
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme
@@ -221,6 +209,17 @@ works:
   description: '# [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
     "van velde bram") '
   price: 900
+  contextual: false
+- title: Nouveautés
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
   contextual: false
 redirect_from:
 - "/artistes/78-la-selection-des-nouveautes-de-mars-2020/"
