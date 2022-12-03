@@ -218,7 +218,7 @@ works:
     height: 150
     width: 140
     depth: 0
-  description: "2019   \nRéservé"
+  description: Vendu
   price: ''
   contextual: true
 - title: 'Catalogue de la collection '
