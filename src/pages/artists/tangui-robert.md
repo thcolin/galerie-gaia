@@ -20,45 +20,6 @@ biography: "# Tangui Robert\n\nTangui Robert est un architecte de formation, et 
   Architecture of Nantes, and creates. "
 exhibitions: []
 works:
-- title: Escalier serres de Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Escalier serres-Nantes-30x40.jpg
-  technique: 'Eau forte et photographie en 20 exemplaires '
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: "2021"
-  price: 380
-  contextual: true
-- title: Théâtre Graslin - Nantes
-  technique: Eau forte et photographie - Edition 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Theatre Graslin-Nantes-40x50.jpg
-- title: Drapé - Moulage Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui-Drappé
-    moulage nantes-30x40 copie.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
 - title: Jardin Nuages - Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Jardin nuages nantes-40x50 copie.jpg
@@ -72,55 +33,6 @@ works:
   description: ''
   price: 450
   contextual: true
-- title: Palermo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Palermo-40x50_1.jpg
-  technique: Gravure sur zinc et piquetage photos - Edition en 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 40
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
-- title: Jardin Loire - Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Jardin Loire-24x30.jpg
-  technique: Eau forte et photographie - Edition 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 24
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Bangkok Noi
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-bangkok-noi-30x24.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 30
-    width: 24
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Ombre Loire - Nantes
-  technique: Eau forte et photographie - Edition 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 29.7
-    width: 21
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Ombres Loire-Nantes-21x29,7.jpg
 - title: Nantes musée des arts
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Tangui Robert-Capillaire des murailles-30x40 copie.jpg

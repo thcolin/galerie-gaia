@@ -37,7 +37,7 @@ works:
   dimensions:
     height: 30
     width: 20
-    depth: 0
+    depth: 
   description: ''
   price: 
   sold: false
@@ -52,7 +52,7 @@ works:
   dimensions:
     height: 30
     width: 20
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -67,7 +67,7 @@ works:
   dimensions:
     height: 30
     width: 20
-    depth: 0
+    depth: 
   description: ''
   price: 150
   sold: false
@@ -187,20 +187,6 @@ works:
   dimensions:
     height: 40
     width: 60
-    depth: 
-  description: ''
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Rupture 1989
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-rupture.JPG
-  technique: Eau forte 1/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 40.5
-    width: 60.5
     depth: 
   description: ''
   price: 450
