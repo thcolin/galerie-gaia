@@ -52,19 +52,6 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   Where it is only a question of our \"being in the world...\"."
 exhibitions: []
 works:
-- title: Archipels n°5
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
-    n°5 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 130
-    depth: 0
-  description: "2022"
-  price: 3500
-  contextual: true
 - title: Archipels n°7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
     n°7 2022 46x55cm acrylique sur toile 1400 eur.1000.jpg
