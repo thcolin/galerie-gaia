@@ -131,6 +131,7 @@ works:
   description: "2022"
   price: 3400
   contextual: true
+  sold: true
 - title: 'Hors champ '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Hors-champ.jpg
@@ -145,6 +146,7 @@ works:
   price: 3400
   contextual: true
   technique: Acrylique sur toile
+  sold: true
 - title: Bal Angers 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Bal Angers 3 116x89 cm.jpg
@@ -159,6 +161,7 @@ works:
   description: "2022"
   price: 2500
   contextual: true
+  sold: true
 - title: IDFRA LGF
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
     LGF-130X81.jpg
@@ -172,6 +175,7 @@ works:
   description: "2022"
   price: 3400
   contextual: true
+  sold: true
 - title: 117 R.I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-117 R.I  92x73cm.jpg
