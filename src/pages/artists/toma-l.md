@@ -220,18 +220,6 @@ works:
   price: ''
   contextual: false
   technique: Le catalogue comporte des images en situation et les prix
-- title: Un nouveau type Retro Crade aux couleurs flash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120306-UnNouveauTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
-  technique: Technique mixte sur papier Velin d'arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 85
-    width: 65
-    depth: 0
-  description: "2022 caisse américaine cadre en chêne  \nprix sur demande"
-  price: ''
-  contextual: true
 - title: Le type Rétro Crade aux couleurs flash
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021120301-LeTypeRetroCradeAuxCouleursFlash-80x60cm_bd_1000p.jpg
   technique: Technique mixte sur papier Velin d'arche
@@ -244,19 +232,6 @@ works:
   description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
   price: ''
   contextual: true
-- title: Un type Rétro Crade couleur carbone
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2021121801-UnType
-    RetroCradeCouleur Carbone-160x122cm_bd_1000p.jpg
-  technique: Technique mixte sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 164
-    width: 125
-    depth: 0
-  description: "2021 cadre en bois   \nprix sur demande"
-  price: ''
-  contextual: true
 - title: Encadrement Petit Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lUnPetitRetroCrade-Atelier_TomaL_004_bd_1000p.jpg
   technique: Baguette chêne, passe partout kraft verre anti-reflet
@@ -267,18 +242,6 @@ works:
     width: 31
     depth: 0
   description: 2022 Prix sur demande
-  price: ''
-  contextual: true
-- title: IT 12 Entre deux eaux - colors and paper
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041601-IT12ENTREDEUXEAUX-ColorsonPaper-120x80cm_bd_1000p.jpg
-  technique: Technique mixte sur papier velin d'arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 80
-    depth: 0
-  description: "2021 Caisse américaine chêne format 124X84 cm  \nprix sur demande"
   price: ''
   contextual: true
 - title: 'Little simple brut '
