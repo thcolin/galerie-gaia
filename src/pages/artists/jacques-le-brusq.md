@@ -183,7 +183,7 @@ works:
   dimensions:
     height: 30
     width: 30
-    depth: 0
+    depth: 
   description: Encadrement caisse américaine bois nautuel
   price: 2500
   sold: false
@@ -198,7 +198,7 @@ works:
   dimensions:
     height: 130
     width: 162
-    depth: 0
+    depth: 
   description: "2020"
   price: 18000
   sold: false
@@ -220,7 +220,7 @@ works:
 - title: Vers le jardin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_vers
     le jardin.jpg.jpg
-  technique: Huile sur toile
+  technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
@@ -239,7 +239,7 @@ works:
   weight: 
 - title: Cour sud, le Prunier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-2021-12-29-Jacques-Le-Brusq-cour-sud-le-prunier.jpg.jpg
-  technique: Huile sur toile
+  technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
@@ -256,7 +256,7 @@ works:
   weight: 
 - title: Contre-jour
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-gaia-2021-12-29-Jacques-Le-Brusq-contre-jour.jpg.jpg
-  technique: Huile sur toile
+  technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
@@ -274,7 +274,7 @@ works:
 - title: Vers l'entrée, Les Douglas
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie_gaia_2021-12-29-Jacques-Le-Brusq-vers
     l'entrée-Les Douglas.jpg.jpg
-  technique: Huile sur toile
+  technique: Huile sur  papier
   fields: []
   styles: []
   dimensions:
@@ -292,7 +292,7 @@ works:
 - title: Le chemin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_le
     chemin.jpg.jpg
-  technique: Huile sur toile
+  technique: Huile sur papier
   fields: []
   styles: []
   dimensions:
@@ -433,7 +433,7 @@ works:
 - title: 7750 RHUYS OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-K 7750 RHUYS OPUS 1-100X70.jpg
-  technique: 'Huile sur toile '
+  technique: Huile sur  papier
   fields:
   - Oeuvre sur papier
   styles: []
