@@ -98,7 +98,7 @@ works:
     width: 40.5
     depth: 
   description: Exemplaire 6/30
-  price: 200
+  price: 340
   sold: false
   contextual: true
   weight: 
@@ -113,7 +113,7 @@ works:
     width: 66
     depth: 
   description: Exemplaire 1/30
-  price: 230
+  price: 460
   sold: false
   contextual: true
   weight: 
