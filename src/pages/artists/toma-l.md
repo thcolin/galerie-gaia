@@ -120,9 +120,9 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Little graphite and color
+- title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-IMG_1631.jpg
+    l-IMG_1621.jpg
   technique: 'Technique mixte sur papier '
   fields: []
   styles: []
@@ -130,7 +130,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US chêne  \nRéservé"
+  description: "Encadrement caisse US chêne  \n2019 Prix sur demande"
   price: ''
   contextual: false
 - title: Simple trash
@@ -157,19 +157,6 @@ works:
     width: 50
     depth: 0
   description: "Encadrement caisse US noire  \n2018 Prix sur demande"
-  price: ''
-  contextual: false
-- title: 'Little graphite and color '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-IMG_1621.jpg
-  technique: 'Technique mixte sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: "Encadrement caisse US chêne  \n2019 Prix sur demande"
   price: ''
   contextual: false
 - title: Un petit Rétro-Crade
