@@ -87,21 +87,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Paysage b
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_PaysagesB_32x40,5-
-    01.jpg
-  technique: Gravure sur plexi sur papier Hahnemühle 300 grammes
-  fields: []
-  styles: []
-  dimensions:
-    height: 32
-    width: 40.5
-    depth: 
-  description: Exemplaire 6/30
-  price: 340
-  sold: false
-  contextual: true
-  weight: 
 - title: 'Impacts V '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_ImpactsV_51x66-
     01.jpg
@@ -114,6 +99,21 @@ works:
     depth: 
   description: Exemplaire 1/30
   price: 460
+  sold: false
+  contextual: true
+  weight: 
+- title: Paysage b
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Parrein_PaysagesB_32x40,5-
+    01.jpg
+  technique: Gravure sur plexi sur papier Hahnemühle 300 grammes
+  fields: []
+  styles: []
+  dimensions:
+    height: 32
+    width: 40.5
+    depth: 
+  description: Exemplaire 6/30
+  price: 170
   sold: false
   contextual: true
   weight: 
