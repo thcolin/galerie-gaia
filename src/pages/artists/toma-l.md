@@ -314,32 +314,6 @@ works:
   description: "2018"
   price: 250
   contextual: true
-- title: Bonne pierre bon oeil 07
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo07.jpg
-  technique: Lithographie 2/6
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 56.5
-    width: 38
-    depth: 0
-  description: Vendue
-  price: 350
-  contextual: true
-- title: Bonne pierre bon oeil 08
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo08.jpg
-  technique: Lithographie 6/2
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 38
-    width: 56.5
-    depth: 0
-  description: "2018"
-  price: 350
-  contextual: true
 - title: Bonne pierre bon œil 10
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/bonne-pierre-bon-oeil-10.jpg
   technique: Lithographie 4/9
