@@ -493,37 +493,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 30 AFR OPUS 2 encadrée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-30 AFR OPUS2-100X70.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: 2019 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
-  weight: 
-- title: '30 AFR OPUS 2 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/30-AFR-OPUS-2_2019_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: false
-  weight: 
 - title: 29 AFR OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-29 AFR OPUS 100X70.jpg
