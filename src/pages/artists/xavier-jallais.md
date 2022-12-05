@@ -134,7 +134,8 @@ works:
   description: Encadrement caisse américaine 2022
   price: 2900
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2036.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-1
+    Avant d'aller plus loin.jpg
 - title: Cerf 1 (4/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
