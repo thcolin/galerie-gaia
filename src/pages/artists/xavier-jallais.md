@@ -41,20 +41,17 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
-- title: Rien d'autre que la lumière
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Rien
-    d'autre que la lumière.jpg
+- title: 'Toute affaire cessante '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Toute
+    affaire cessante.jpg
   technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields: []
-  styles: []
-  weight: 0
   dimensions:
     height: 162
     width: 114
-    depth: 0
   description: "2022"
   price: 4000
   contextual: true
+  fields: []
 - title: Ailleurs ou nulle part
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ailleurs
     ou nulle part.jpg
@@ -83,17 +80,6 @@ works:
   description: "2021"
   price: 1100
   contextual: true
-- title: 'Toute affaire cessante '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Toute
-    affaire cessante.jpg
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  dimensions:
-    height: 162
-    width: 114
-  description: "2022"
-  price: 4000
-  contextual: true
-  fields: []
 - title: Ne plus savoir où aller
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
     plus savoir où aller, 100x81, 2021.jpg

@@ -195,17 +195,16 @@ works:
   description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
   price: ''
   contextual: true
-- title: Querelle carbone 10
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019040101-querellecarbone10-150x140cm.jpg
-  technique: 'Mixte sur papier '
+- title: Encadrement Petit Crade
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lUnPetitRetroCrade-Atelier_TomaL_004_bd_1000p.jpg
+  technique: Baguette chêne, passe partout kraft verre anti-reflet
   fields: []
   styles: []
   dimensions:
-    height: 150
-    width: 140
+    height: 41
+    width: 31
     depth: 0
-  description: Vendu
+  description: 2022 Prix sur demande
   price: ''
   contextual: true
 - title: 'Catalogue de la collection '
@@ -232,18 +231,6 @@ works:
   description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
   price: ''
   contextual: true
-- title: Encadrement Petit Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lUnPetitRetroCrade-Atelier_TomaL_004_bd_1000p.jpg
-  technique: Baguette chêne, passe partout kraft verre anti-reflet
-  fields: []
-  styles: []
-  dimensions:
-    height: 41
-    width: 31
-    depth: 0
-  description: 2022 Prix sur demande
-  price: ''
-  contextual: true
 - title: 'Little simple brut '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
   technique: 'Couture et Technique mixte sur papier '
@@ -260,6 +247,19 @@ works:
     height: 100
     width: 70
   description: "caisse américaine chêne  \nprix dans le catalogue et sur demande"
+  price: ''
+  contextual: true
+- title: Querelle carbone 10
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2019040101-querellecarbone10-150x140cm.jpg
+  technique: 'Mixte sur papier '
+  fields: []
+  styles: []
+  dimensions:
+    height: 150
+    width: 140
+    depth: 0
+  description: Vendu
   price: ''
   contextual: true
 - title: Bonne pierre bon oeil 01
