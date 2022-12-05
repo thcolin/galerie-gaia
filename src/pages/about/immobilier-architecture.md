@@ -23,20 +23,17 @@ content:
     Gaïa Studio conçoit des œuvres d’art à destination d’acteurs publics et privés
     ainsi qu’auprès d’entreprises. Galerie Gaia Studio mobilise des savoir-faire
     et met en place des collaborations pertinentes pour faire rayonner les ambitions
-    et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE**\n\n**_Directrice_**\n\nPassionnée
+    et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE _Directrice_**\n\nPassionnée
     d’histoire de l’art et diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
-    20 ans comme directrice d’agence chez Manpower France et comme Chef de projets
-    pour accompagner la transformation de l’entreprise pendant 5 ans.\n\nL’art en
-    entreprise permet pour un dirigeant –et pour ses services RH– d’incarner cette
-    recherche de sens, avec une œuvre créée in situ racontant les histoires humaines
-    qui la composent.\n\n**Témoignage :**\n\nEntreprise [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
-    \"supralog\") éditeur de logiciel accueille en résidence un artiste  Matthieu
-    Schmitt et découvre la richesse des rencontres qui ont fait naître des interactions
-    riches en créativité avec tous les services de l'entreprise .\n\n**INÈS BEN BRAHIM**\n\n**_Adjointe_**\n\nDiplômée
-    d’un double master en «_Critique et Esthétique des arts_ » et en « _Recherche
-    et Histoire de l’art_ ».\n\nPassionnée par l’art contemporain et les enjeux de
-    sa réception, je mène des mis- sions d’accompagnement, de coordination et de
-    développement de projets artistiques depuis près de 15 ans."
+    20 ans comme directrice d’agence chez Manpower France et 5 ans comme Chef de projets
+    pour accompagner la transformation de l’entreprise.\n\nL’art en entreprise permet
+    pour un dirigeant – et pour ses services RH – d’incarner cette recherche de sens,
+    avec une œuvre créée in situ racontant les histoires humaines qui la composent.\n\n**INÈS
+    BEN BRAHIM _Adjointe_**\n\nDiplômée d’un double master en «_Critique et Esthétique
+    des arts_ » et en « _Recherche et Histoire de l’art_ ».\n\nPassionnée par l’art
+    contemporain et les enjeux de sa réception, je mène des missions d’accompagnement,
+    de coordination et de développement de projets artistiques depuis près de 15
+    ans."
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
