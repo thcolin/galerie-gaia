@@ -13,10 +13,9 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   qui est au cœur de la sélection fait aussi la place à des œuvres plus **figuratives**.
   **La ligne, le trait, l’architecture** sont un des fils conducteurs de la sélection.\n\nAussi
   les ruptures et les grands écarts d’une exposition à l’autre sont une évidence fondamentale
-  -7 expositions en solo-show par an-.   \nChaque artiste reste singulier-e, inspiré-e
-  mais surtout pas rangé-e !\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg)\n\n**La
-  particularité de la galerie Gaïa ?   \nSes réserves** **+900 œuvres de 70 artistes.**\n\nCes
-  réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/
+  -7 expositions en solo-show par an-. Chaque artiste reste singulier-e, inspiré-e
+  mais surtout pas rangé-e !\n\n**La particularité de la galerie Gaïa ?  \nSes réserves**
+  **+900 œuvres de 70 artistes.**\n\nCes réserves sont disponibles dans l'onglet [CATALOGUE](https://galeriegaia.fr/catalogue/
   \"galerie gaillard\")  et actualisées quotidiennement.\n\nL’art doit nous secouer
   et nous aider à figurer les pensées les plus abstraites, mais aussi à extraire l’essentiel
   de la complexité de nos émotions. C’est pour cela que dans ce lieu vous trouverez
@@ -29,12 +28,10 @@ content: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/photo fac
   de la collection de  galerie gaia\") qui vous plait et vous hésitez ?\n\n**1.  Essayez
   l’œuvre chez vous** pendant une semaine contre un chèque de caution de son montant.
   Ainsi tranquillement dans votre espace, avec votre lumière vous pourrez choisir
-  en toute confiance.\n\n**2.**  **Paiement de  votre achat**  par virement ou carte
-  bancaire, paiement en plusieurs fois à votre rythme, ou avec la cagnotte de la carte
-  cadeau.  \nPour les professionnels le financement peut se faire via la défiscalisation
-  ou la location (rubrique prestation - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/
-  \"defiscalisation\") )\n\n**3**. **Livraison**  France Europe et reste du monde,
-  Mars reste à l'étude (Colissimo - UPS).\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)Galerie
+  en toute confiance.\n\n**2.**  **Paiement de  vos achats en ligne.** Pour les professionnels
+  le financement peut se faire via la défiscalisation ou le leasing  (rubrique prestation
+  - [défiscalisation](https://galeriegaia.fr/about/art-et-fiscalite/ \"defiscalisation\")
+  )\n\n**3**. **Livraison**  France Europe et reste du monde (Colissimo - UPS).\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20210326_WIDE_Artefacts_Gaia_EPonsaud_05.jpg)Galerie
   Gaïa a contemporary art gallery in Nantes\n\nThe **Galerie Gaïa** – an art gallery
   in Nantes - extends the spirit of a place created in **1978**.\n\nThe story begins
   with **L’Affiche** and in 1985 Norbert Marsal acquired the gallery which in 1999
