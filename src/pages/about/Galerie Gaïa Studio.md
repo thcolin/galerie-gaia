@@ -56,5 +56,14 @@ content:
   contact:
     placeholder: Un message à nous adresser ?
     display: false
+- column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/whome projet
+    galerie gaia studio.jpg)Cindy Belaud - Edwin Wide - Projet pour Whome - Nantes
+    \n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre
+    galerie gaia studio NB.png)\n\nElisabeth Givre Directrice Galerie Gaïa Studio\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines
+    ben brahim galerie gaia studio NB.png)\n\nInès Ben Brahim Adjointe Galerie Gaia
+    Studio"
+  contact:
+    placeholder: Un message à nous adresser ?
+    display: false
 
 ---
