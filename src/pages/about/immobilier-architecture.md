@@ -23,10 +23,20 @@ content:
     Gaïa Studio conçoit des œuvres d’art à destination d’acteurs publics et privés
     ainsi qu’auprès d’entreprises. Galerie Gaia Studio mobilise des savoir-faire
     et met en place des collaborations pertinentes pour faire rayonner les ambitions
-    et les valeurs de ses clients.\n\n**Témoignage :**\n\nEntreprise [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
+    et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE**\n\n**_Directrice_**\n\nPassionnée
+    d’histoire de l’art et diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
+    20 ans comme directrice d’agence chez Manpower France et comme Chef de projets
+    pour accompagner la transformation de l’entreprise pendant 5 ans.\n\nL’art en
+    entreprise permet pour un dirigeant –et pour ses services RH– d’incarner cette
+    recherche de sens, avec une œuvre créée in situ racontant les histoires humaines
+    qui la composent.\n\n**Témoignage :**\n\nEntreprise [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
     \"supralog\") éditeur de logiciel accueille en résidence un artiste  Matthieu
     Schmitt et découvre la richesse des rencontres qui ont fait naître des interactions
-    riches en créativité avec tous les services de l'entreprise ."
+    riches en créativité avec tous les services de l'entreprise .\n\n**INÈS BEN BRAHIM**\n\n**_Adjointe_**\n\nDiplômée
+    d’un double master en «_Critique et Esthétique des arts_ » et en « _Recherche
+    et Histoire de l’art_ ».\n\nPassionnée par l’art contemporain et les enjeux de
+    sa réception, je mène des mis- sions d’accompagnement, de coordination et de
+    développement de projets artistiques depuis près de 15 ans."
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
@@ -38,11 +48,10 @@ content:
     Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg)\n\n“Le
     masque” de [Kazy Usclef](https://galeriegaia.fr/artists/kazy-usclef/ \"1% artistique\")
     \ installation pour le hall d’un immeuble de La Nantaise d'Habitation en 2023
-    (Hauteur 3m x Largeur 2,5m)   \n2023 direction un immeuble nantais  \n[Groupe
-    Bati-Nantes](https://www.batinantes.fr/ \"bati nantes\") -  [In Situ Architecture](https://insituacv.com/
-    \"in situ acv\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nInstallation
-    Murale de tôles d'acier froissées par [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/
-    \"1 immeuble 1 oeuvre\")"
+    (Hauteur 3m x Largeur 2,5m)  \n2023 direction un immeuble nantais  \n[Groupe Bati-Nantes](https://www.batinantes.fr/
+    \"bati nantes\") -  [In Situ Architecture](https://insituacv.com/ \"in situ acv\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nProjet
+    d'installation Murale de tôles d'acier froissées 6 x 3 mètres   \npar [Olivier
+    Fremont](https://galeriegaia.fr/artists/olivier-fremont/ \"1 immeuble 1 oeuvre\")"
 seo:
   title: Architecture - Galerie Gaïa, galerie d'art contemporain
   heading: Architecture

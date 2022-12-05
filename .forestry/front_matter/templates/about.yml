@@ -55,4 +55,5 @@ fields:
   label: SEO
   description: SEO
 pages:
+- src/pages/about/Galerie Gaïa Studio.md
 - src/pages/about/art-et-fiscalite.md
