@@ -2,15 +2,15 @@
 template: about
 content:
 - column: "# Cadeau original, cadeau d'anniversaire, liste de mariage, départ à la
-    retraite\n\n## La Carte Cadeau\n\n  \nUne sélection dans le [catalogue](https://galeriegaia.fr/catalogue/
+    retraite\n\n## La Carte Cadeau\n\nUne sélection dans le [catalogue](https://galeriegaia.fr/catalogue/
     \"catalogue galerie gaia\") de la galerie permettra de choisir  \nparmi **+70
     artistes et  +900 œuvres disponibles livrables dans le monde entier.**  \n**A
     partir de 50€ sans limite dans le temps.**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nantes-carte-cadeau-recto2.jpg)\n\n##
     Encadrement sur mesure Nantes\n\nEncadrer c'est **conserver et sublimer une œuvre**.
     \ \nNous vous conseillons avec mon atelier d'encadrement **pour toutes œuvres
     acquises ou non à la galerie.**\n\n**Le +** optez pour le **verre musée** qui
-    protège à 98% des UV du soleil et de la lune, en plus il est anti-reflet.\n\n![https://galeriegaia.fr/artists/bram-van-velde/](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie
-    gaia -bram van velde encadré.JPG \"bram van velde galerie gaia \")"
+    protège à 98% des UV du soleil et de la lune, en plus il est anti-reflet.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie
+    gaia -bram van velde 1 ES cadre2022.jpg)"
   contact:
     display: true
     placeholder: Renseignements cartes de voeux

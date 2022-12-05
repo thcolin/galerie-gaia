@@ -19,10 +19,6 @@ content:
   contact:
     display: true
     placeholder: Renseignement courtage en art
-- column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
-    givre- courtier art- gaia nantes .jpg)"
-  contact:
-    placeholder: Un message à nous adresser ?
 - column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en situation
     chez MS.jpg)\n\nToma-l "
   contact:
