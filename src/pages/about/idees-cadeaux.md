@@ -10,7 +10,8 @@ content:
     \ \nNous vous conseillons avec mon atelier d'encadrement **pour toutes œuvres
     acquises ou non à la galerie.**\n\n**Le +** optez pour le **verre musée** qui
     protège à 98% des UV du soleil et de la lune, en plus il est anti-reflet.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie
-    gaia -bram van velde 1 ES cadre2022.jpg)"
+    gaia -bram van velde 1 ES cadre2022.jpg)Lithographie de [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
+    \"barm van velde \") baguette chêne montage caisson et verre anti-reflet."
   contact:
     display: true
     placeholder: Renseignements cartes de voeux
