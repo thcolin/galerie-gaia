@@ -2,7 +2,7 @@
 template: about
 content:
 - column: "## **Séminaire, incentive, anniversaire entreprise, évenementiel insolite
-    Nantes** \n\n### Une exposition dans votre entreprise\n\nEn tant que commissaire
+    Nantes**\n\n### Une exposition dans votre entreprise\n\nEn tant que commissaire
     d'exposition je vous propose :\n\n* Une sélection d'[**artistes nantais, régionaux**](https://galeriegaia.fr/catalogue/
     \"artistes nantais galerie gaia\") **ou nationaux**  pour créer une **expérience
     client singulière** avec la médiation artistique lors du **vernissage.**\n* Un
