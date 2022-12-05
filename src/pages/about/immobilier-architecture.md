@@ -1,7 +1,7 @@
 ---
 template: about
 content:
-- column: "**Galerie Gaïa studio accompagne les cabinets d’architecture,  \nles architectes
+- column: "**Galerie Gaïa Studio accompagne les cabinets d’architecture,  \nles architectes
     indépendants, ainsi que les architectes d’intérieur.**\n\n**Nous offrons également
     notre expertise aux groupes hôteliers, aux promoteurs immobiliers et aux signataires
     de la charte _1 immeuble 1 œuvre_.**\n\n**Enfin, nous conseillons les collectivités
@@ -19,11 +19,11 @@ content:
     jusqu’à son installation sur site.\n\n**3. COMMUNIQUER**\n\nPenser une stratégie
     de communication interne et externe, c’est analyser vos publics, valoriser le
     projet et lui apporter une lisibilité.  \nC’est penser une médiation pertinente
-    pour vos salariées et vos collaborateurs.\n\nŒuvre de Kazy Usclef- H 2,3 m x
-    L 1,9 m x 1,5 m P 230kg acier bois coque de bâteau.  \nTransport de l’œuvre ...2023
-    direction un immeuble nantais  \n[Groupe Bati-Nantes](https://www.batinantes.fr/
-    \"bati nantes\") -  [In Situ Architecture](https://insituacv.com/ \"in situ acv\")\n\n**Témoignage
-    :**\n\nEntreprise [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
+    pour vos salariées et vos collaborateurs.\n\n**GALERIE GAÏA STUDIO**\n\nGalerie
+    Gaïa Studio conçoit des œuvres d’art à destination d’acteurs publics et privés
+    ainsi qu’auprès d’entreprises. Galerie Gaia Studio mobilise des savoir-faire
+    et met en place des collaborations pertinentes pour faire rayonner les ambitions
+    et les valeurs de ses clients.\n\n**Témoignage :**\n\nEntreprise [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
     \"supralog\") éditeur de logiciel accueille en résidence un artiste  Matthieu
     Schmitt et découvre la richesse des rencontres qui ont fait naître des interactions
     riches en créativité avec tous les services de l'entreprise ."
