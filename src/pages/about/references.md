@@ -1,22 +1,8 @@
 ---
 template: about
 content:
-- column: "**Voici quelques lieux à part**, hors mode où le sur-mesure fait partie
-    de l'ADN du travail de ces artisans, le choix des fournisseurs est au coeur du
-    métier.  \nCe sont des lieux où vous serez écoutés si vous avez un projet,  \ndes
-    lieux singuliers où on ne vous impose pas du déjà vu.\n\n**Des artisans à la frontière
-    de la démarche artistique !**  \nSouvent devenus amis, **arrivez de ma part en
-    toute légèreté.**\n\n[L'Aménité](https://www.lamenite-restaurant-nantes.com/ \"L'Aménité\")
-    : je veux manger et me faire du bien, merci les voisins\n\n[Barak](https://www.instagram.com/baraklemagasin/?hl=fr
-    \"Barak\") : la brocante XXème la plus stylée du quartier\n\n[Ressources](https://ressource-peintures.com/
-    \"Ressources\") : mon marchand de couleurs et celui aussi de quelques artistes
-    de la galerie. Conseils de pro!\n\n[Vincent Guerlais](https://www.vincentguerlais.com/
-    \"Vincent Guerlais \") : parce que sa pâtisserie nommée Gaïa est juste un délice"
-  contact:
-    display: false
-    placeholder: ''
 - column: |-
-    **Merci pour la confiance** accordée par ces sociétés pour des projets riches en défis et émotions artistiques.
+    **Merci pour la confiance** accordée par ces sociétés partenaires pour des projets riches en défis et émotions artistiques.
 
     ```marksy
       h(Gallery, {
