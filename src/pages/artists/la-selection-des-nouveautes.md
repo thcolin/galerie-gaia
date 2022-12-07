@@ -38,7 +38,7 @@ works:
   price: 1060
   contextual: false
   technique: photographie grattéé pièce unique
-- title: 'Céramiques par Valérie Le Roux  '
+- title: 'Valérie Le Roux  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/728A8D14-797C-4822-9A18-F9EEF0697D8E.JPG
   technique: Sériraphie édition limitée à 30 exemplaires
   fields:
@@ -52,20 +52,17 @@ works:
     "valérie le roux ")'
   price: 189
   contextual: false
-- title: William Byl et Versants
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
-  technique: Cheval noir en céramique par William Byl & Sérigraphie de Versant
-  fields:
-  - Céramique
-  - Estampe
+- title: Françoise Paressant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/926D65C1-C40A-4718-8D4F-DEE69DF02E1D.JPG
+  technique: Papier cousu
+  fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 30
+    width: 30
     depth: 0
-  description: '[William Byl](https://galeriegaia.fr/artists/byl-william/ "wiliam
-    byl") nouvel artiste de la galerie depuis Octobre 2022'
-  price: 2400
+  description: "[Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/)"
+  price: 472.5
   contextual: false
 - title: Carr'aimant tout en grès de Annick Argant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
@@ -99,35 +96,31 @@ works:
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
-- title: Jardin des plantes Nantes par Yann Peron
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-jardin
-    des plantes ES.jpg
-  technique: Aquarelle sur papier
+- title: Dimitri Roubichou
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/B892D069-9796-4789-A423-02FE888E168F.JPG
+  technique: 'Photographie tirage sur papier '
   fields:
-  - Oeuvre sur papier
-  styles:
-  - Figuratif
-  dimensions:
-    height: 29
-    width: 83
-    depth: 0
-  description: '# [Yann Peron](https://galeriegaia.fr/artists/peron-yann/ "yann peron")'
-  price: 980
-  contextual: false
-- title: Dessin Kerinos par Pierre Tual
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia pierre
-    tual kerinos dessin ES.jpg
-  technique: Dessin sur papier
-  fields:
-  - Oeuvre sur papier
+  - Photographie
   styles: []
   dimensions:
-    height: 0
-    width: 0
+    height: 30
+    width: 30
     depth: 0
-  description: "[Pierre Tual](https://galeriegaia.fr/artists/pierre-tual/ \"pierre
-    tual\")  \nEncadrement chêne verre musée"
-  price: 2200
+  description: "# "
+  price: 367.5
+  contextual: false
+- title: Toma-l
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2096.JPG
+  technique: Technique mixte  sur papier
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 'prix sur demande '
+  price: ''
   contextual: false
 - title: Brigneau 3 par Job
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau3-au
