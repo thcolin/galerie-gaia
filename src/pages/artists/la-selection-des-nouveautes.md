@@ -122,21 +122,17 @@ works:
   description: 'prix sur demande '
   price: ''
   contextual: false
-- title: Brigneau 3 par Job
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau3-au
-    mur.jpg
-  technique: 'Acrylqiue sur toile '
+- title: Job Isthme Engels
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2149.jpg
+  technique: ''
   fields: []
   styles: []
   dimensions:
     height: 134
     width: 100
     depth: 0
-  description: |-
-    [Job](https://galeriegaia.fr/artists/job/ "philippe bigot")
-
-    Encadrement en bois
-  price: 2400
+  description: ''
+  price: ''
   contextual: false
 - title: William Byl & Jorj Morin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5664.jpg
