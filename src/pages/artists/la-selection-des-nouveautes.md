@@ -25,33 +25,32 @@ works:
     Instagram Facebook"
   price: ''
   contextual: true
-- title: Calendrier de l'avent
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CALENDRIER DE L'AVENT
-    COUVERTURE .jpg
+- title: 'Aline Isoard '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/607B730F-E70B-4F6C-A3F5-47B1E154F073.JPG
   fields: []
   styles: []
   weight: 0
   dimensions:
-    height: 0
-    width: 0
+    height: 60
+    width: 60
     depth: 0
   description: Abonnez-vous sur Instagram
-  price: ''
-  contextual: true
+  price: 1060
+  contextual: false
+  technique: photographie grattéé pièce unique
 - title: 'Céramiques par Valérie Le Roux  '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    le roux-galerie-gaia-IMG_6316.jpg
-  technique: Céramique
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/728A8D14-797C-4822-9A18-F9EEF0697D8E.JPG
+  technique: Sériraphie édition limitée à 30 exemplaires
   fields:
-  - Céramique
+  - Oeuvre sur papier
   styles: []
   dimensions:
-    height: 26
-    width: 29
-    depth: 6
+    height: 76
+    width: 57
+    depth: ''
   description: '[Valérie Le Roux](https://galeriegaia.fr/artists/valerie-le-roux/
     "valérie le roux ")'
-  price: 175
+  price: 189
   contextual: false
 - title: William Byl et Versants
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5667.jpg
