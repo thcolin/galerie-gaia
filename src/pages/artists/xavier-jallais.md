@@ -114,8 +114,8 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 100
-    width: 81
+    height: 130
+    width: 97
     depth: 0
   description: Encadrement caisse américaine 2022
   price: 2900
