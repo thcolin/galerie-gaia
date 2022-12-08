@@ -40,20 +40,6 @@ biography: "# Robert Combas\n\n> La \"figuration libre\", art minimaliste et con
   I am completely free, even by the format.\""
 exhibitions: []
 works:
-- title: Dragon dédicacée par l'artiste avec un dessin de fer à cheval
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia combas
-    dragons 13.JPG
-  technique: 'Lithographie en 5 couleurs 13/79 '
-  fields: []
-  styles: []
-  dimensions:
-    height: 56
-    width: 76
-    depth: 0
-  description: "Edition de l'atelier du Petit Jaunais 1997  \nDédicacée par l'artiste
-    avec un dessin de fer à cheval"
-  price: 1800
-  contextual: true
 - title: 'Le Combo de Combas '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/combo-1325.jpg
   technique: Création lumineuse sérigraphiée
