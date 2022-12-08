@@ -101,19 +101,6 @@ works:
   price: 1500
   sold: false
   contextual: true
-- title: Un cheval et un cactus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1788.jpg
-  technique: Technique mixte sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 32
-    width: 24
-    depth: 0
-  description: '2022oeuvre encadrée passe partout et sous verre '
-  price: 400
-  contextual: true
 - title: 'Buste de femme '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1787.jpg
   technique: Technique mixte sur papier
