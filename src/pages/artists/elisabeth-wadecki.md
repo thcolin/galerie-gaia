@@ -91,20 +91,6 @@ works:
   description: "2022"
   price: 3500
   contextual: true
-- title: Archipels n° 12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
-    Archipelle 12 .jpeg
-  technique: 'Acrylique  & Collage '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 42
-    width: 30
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
 - title: Archipels n°13
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
     Archipel 13.jpeg
@@ -119,20 +105,6 @@ works:
   description: ''
   price: 350
   contextual: true
-- title: Archipels n°14
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
-    Archipel 14.jpeg
-  technique: Acrylique & Collage
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 30
-    width: 42
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
 - title: 'En mon jardin n°1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
   technique: 'Acrylique bâtons d''huile sur toile '
@@ -141,16 +113,6 @@ works:
     width: 150
   description: "Visible sur demande en réserve dans l'atelier de l'artiste  \n2019"
   price: 5000
-  contextual: true
-- title: 'En mon jardin n°4 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-papiermaroufle-sur-toile-n-4-2019-acrylique-batonsd-huile-100x100-1800eur.JPG
-  technique: 'acrylique et bâton d''huile sur papier et marouflé sur toile '
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: "2019"
-  price: 2500
   contextual: true
 - title: En mon jardin n°5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.wadecki en mon
@@ -177,20 +139,6 @@ works:
     depth: 0
   description: "2019"
   price: 2000
-  contextual: true
-- title: En mon jardin n°12
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Wadecki
-    En mon jardin N°12 acrylique, bâtons d'huile sur papier marouflé sur toile-  2019-
-    100x100cm- 1800 euros.JPG
-  technique: Acrylique, bâtons d'huile sur papier marouflé sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: "2019"
-  price: 2500
   contextual: true
 - title: 'Sans titre n°7 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki sans titre
