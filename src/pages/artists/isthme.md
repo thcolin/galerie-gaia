@@ -62,31 +62,31 @@ works:
   description: "2022"
   price: 3500
   contextual: true
-- title: 'Entre bleus #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#1-2022-170x130cm-acrylisque
-    sur toile.jpg
+- title: 'Entre bleus #5'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Entre-bleus#5-100cmx81cm-acrylique
+    sur toile-2022.jpg
   technique: Acrylique sur toile
   fields: []
   styles: []
   dimensions:
-    height: 170
-    width: 130
+    height: 100
+    width: 81
     depth: 0
   description: "2022"
-  price: 5500
+  price: 1995
   contextual: true
-- title: 'Entre bleus #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Entre Bleus#2-2022-acrylique
-    sur toile-114x195cm.jpg
+- title: 'Entre bleus #6'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Entre-bleus#6-100cmx81cm-acrylique
+    sur toile-2022.jpg
   technique: Acrylique sur toile
   fields: []
   styles: []
   dimensions:
-    height: 114
-    width: 195
+    height: 100
+    width: 81
     depth: 0
   description: "2022"
-  price: 5700
+  price: 1995
   contextual: true
 - title: 'Entre Bleus #3'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
@@ -101,6 +101,7 @@ works:
   description: "2022"
   price: 4200
   contextual: true
+  sold: true
 - title: 'Petits Equilibres #1'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Petits Equilibres
     #1-2022-Linogravure:Lithographie et acrylique sur papier Arches-76x56cm.jpg'
@@ -111,7 +112,7 @@ works:
     height: 76
     width: 57
     depth: 0
-  description: _2022_
+  description: "2022"
   price: 700
   contextual: true
 - title: 'Petits Equilibres #2'
@@ -189,7 +190,7 @@ works:
     height: 130
     width: 97
     depth: 0
-  description: _2021_
+  description: "2021"
   price: 3500
   contextual: true
   sold: true
