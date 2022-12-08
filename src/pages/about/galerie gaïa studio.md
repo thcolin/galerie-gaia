@@ -13,19 +13,19 @@ content:
     c’est stimuler ses collaborateurs en leur offrant une expérience sensible et
     c’est soutenir la création contemporaine en partageant  \nvos savoir-faire :
     l’art devient un vecteur de communication singularisant et cultive votre marque
-    employeur.   \nCo-produire une œuvre avec votre ADN et vos valeurs sublime le
-    sentiment de fierté de vos collaborateurs.   \nL’œuvre devient un élément concret
-    de votre culture d’entreprise.**\n\n**1. CONCEVOIR**\n\nIl s’agit d’analyser vos
-    besoins. Une évaluation qui se fait lors d’entretiens, d’études de vos espaces
-    et d’échanges autour de vos sensibilités plastiques. Cette _récolte de matière_
-    nous permet d’apporter une réflexion juste et personnalisée. Nous développons
-    alors un projet sur-mesure avec une identité artistique forte, qui sublime votre
-    lieu et vos valeurs.  \n Galerie Gaïa Studio agit avec vous en coresponsabilité
-    comme signataire du contrat d’accueil. Nous nous plaçons en soutien critique,
-    technique et administratif pour vous et auprès de l’artiste (contrats, cession
-    de de droits). Enfin nous suivons la résidence dans le respect des contraintes
-    budgétaires et calendaires jusqu’à la livraison de l’œuvre.\n\n**2. PRODUIRE**\n\nC’est
-    faire le lien avec l’artiste, questionner son concept. C’est faire partie de toutes
+    employeur.  \nCo-produire une œuvre avec votre ADN et vos valeurs sublime le sentiment
+    de fierté de vos collaborateurs.  \nL’œuvre devient un élément concret de votre
+    culture d’entreprise.**\n\n**1. CONCEVOIR**\n\nIl s’agit d’analyser vos besoins.
+    Une évaluation qui se fait lors d’entretiens, d’études de vos espaces et d’échanges
+    autour de vos sensibilités plastiques. Cette _récolte de matière_ nous permet
+    d’apporter une réflexion juste et personnalisée. Nous développons alors un
+    projet sur-mesure avec une identité artistique forte, qui sublime votre lieu
+    et vos valeurs.  \nGalerie Gaïa Studio agit avec vous en coresponsabilité comme
+    signataire du contrat d’accueil. Nous nous plaçons en soutien critique, technique
+    et administratif pour vous et auprès de l’artiste (contrats, cession de de droits).
+    Enfin nous suivons la résidence dans le respect des contraintes budgétaires
+    et calendaires jusqu’à la livraison de l’œuvre.\n\n**2. PRODUIRE**\n\nC’est faire
+    le lien avec l’artiste, questionner son concept. C’est faire partie de toutes
     les étapes de création de l’esquisse à l’œuvre finale : l’Art devient un outil.
     Sa présence au sein de l’entreprise stimule et motive. Nous pouvons proposer
     un workshop, organiser des rencontres avec l’artiste ou animer des conférences
@@ -48,11 +48,13 @@ content:
     pour accompagner la transformation de l’entreprise pendant 5 ans.\n\nL’art en
     entreprise permet pour un dirigeant –et pour ses services RH– d’incarner cette
     recherche de sens, avec une œuvre créée in situ racontant les histoires humaines
-    qui la composent.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée d’un double
-    master en «_Critique et Esthétique des arts_ » et en « _Recherche et Histoire
-    de l’art_ ».\n\nPassionnée par l’art contemporain et les enjeux de sa réception,
-    je mène des missions d’accompagnement, de coordination et de développement de
-    projets artistiques depuis près de 15 ans."
+    qui la composent.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire
+    de l’art, j’ai mené des missions de médiation, de coordination et de développement
+    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
+    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
+    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
+    est de continuer à accompagner les artistes, les institutions et les entreprises
+    à penser et produire un projet artistique, suivi de chantier inclus."
   contact:
     placeholder: Un message à nous adresser ?
     display: false

@@ -134,19 +134,17 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: William Byl & Jorj Morin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5664.jpg
-  technique: Céramique pour Byl et Eau forte pour Morin
-  fields:
-  - Céramique
-  - " Estampe"
+- title: Yves Tilly
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 NOEL TILLY.jpg
+  technique: Sculpture bois
+  fields: []
   styles: []
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "[William Byl]() nouvel artiste de la galerie depuis Octobre 2022"
-  price: 2400
+  description: ''
+  price: 800
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg
@@ -209,7 +207,7 @@ works:
     depth: 0
   description: '# [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
     "van velde bram") '
-  price: 900
+  price: ''
   contextual: false
 - title: Nouveautés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png

@@ -29,11 +29,13 @@ content:
     pour accompagner la transformation de l’entreprise.\n\nL’art en entreprise permet
     pour un dirigeant – et pour ses services RH – d’incarner cette recherche de sens,
     avec une œuvre créée in situ racontant les histoires humaines qui la composent.\n\n**INÈS
-    BEN BRAHIM _Adjointe_**\n\nDiplômée d’un double master en «_Critique et Esthétique
-    des arts_ » et en « _Recherche et Histoire de l’art_ ».\n\nPassionnée par l’art
-    contemporain et les enjeux de sa réception, je mène des missions d’accompagnement,
-    de coordination et de développement de projets artistiques depuis près de 15
-    ans."
+    BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire de l’art, j’ai mené des missions
+    de médiation, de coordination et de développement de projets artistiques durant
+    15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme la biennale
+    d’art contemporain Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou
+    et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer à accompagner
+    les artistes, les institutions et les entreprises à penser et produire un projet
+    artistique, suivi de chantier inclus."
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
