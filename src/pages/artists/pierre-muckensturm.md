@@ -213,19 +213,6 @@ works:
   description: "2021"
   price: 1200
   contextual: true
-- title: XXI 4 005
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
-    XXI 4 005 copie.jpg
-  technique: Crayon et encre sur BFK Rives 250 g/m2
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 50
-    depth: 0
-  description: "2021"
-  price: 1200
-  contextual: true
 - title: 2022P3471
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
     2022P3471 copie.jpg
