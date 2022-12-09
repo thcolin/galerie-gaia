@@ -52,20 +52,6 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   Where it is only a question of our \"being in the world...\"."
 exhibitions: []
 works:
-- title: Archipels n°34
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
-    n34.jpg
-  technique: 'Technique mixte '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 50
-    width: 600
-    depth: 0
-  description: "2022"
-  price: 650
-  contextual: true
 - title: Archipels n°4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
     n4.JPG
@@ -159,6 +145,34 @@ works:
     depth: 0
   description: "2022"
   price: 2700
+  contextual: true
+- title: Archipels n°34
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
+    n34.jpg
+  technique: 'Technique mixte '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 600
+    depth: 0
+  description: "2022"
+  price: 650
+  contextual: true
+- title: Archipels n°37
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
+    n37.JPG
+  technique: 'Technique mixte '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 24
+    width: 21
+    depth: 0
+  description: "2022"
+  price: 435
   contextual: true
 - title: 'En mon jardin n°1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-elisabeth-wadecki-en-mon-jardin-1-150x150.jpg
