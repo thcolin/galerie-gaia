@@ -129,7 +129,7 @@ works:
     height: 30
     width: 21
     depth: 0
-  description: "Encadrement chêne verre anti-reflet  \n2022 prix sur demande "
+  description: "Encadrement chêne verre anti-reflet  \nPrix sur demande\n\n2022"
   price: ''
   contextual: true
 - title: 'Little graphite and color '
@@ -142,7 +142,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse americaine chêne  \n2019"
+  description: "Encadrement caisse américaine chêne\n\nPrix sur demande   \n2019"
   price: ''
   contextual: false
 - title: Simple trash
@@ -168,7 +168,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US noire  \n2018 Prix sur demande"
+  description: "Encadrement caisse américaine noire  \nPrix sur demande\n\n2018"
   price: ''
   contextual: false
 - title: Un petit Rétro-Crade
