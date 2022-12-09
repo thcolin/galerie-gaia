@@ -159,8 +159,7 @@ works:
   price: ''
   contextual: false
 - title: Little trash
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-IMG_5045.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Tomal.Littletrash.jpg
   technique: 'Technique mixte sur papier '
   fields: []
   styles: []
