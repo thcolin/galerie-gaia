@@ -134,7 +134,7 @@ works:
   contextual: true
 - title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-IMG_1621.jpg
+    l-2019042104-Littlewhite-70x50cm 2 2.jpg
   technique: 'Technique mixte sur papier '
   fields: []
   styles: []
@@ -142,7 +142,7 @@ works:
     height: 70
     width: 50
     depth: 0
-  description: "Encadrement caisse US chêne  \n2019 Prix sur demande"
+  description: "Encadrement caisse americaine chêne  \n2019"
   price: ''
   contextual: false
 - title: Simple trash
