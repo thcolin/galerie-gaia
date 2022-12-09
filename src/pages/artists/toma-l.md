@@ -170,6 +170,20 @@ works:
   description: "Encadrement caisse américaine noire  \nPrix sur demande\n\n2018"
   price: ''
   contextual: false
+- title: 'Little Trash '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
+    l-2018020701-littletrash-70x50cm.jpg
+  technique: Technique mixte
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "Encadrement caisse américaine noire  \nPrix sur demande\n\n2018"
+  price: 0
+  contextual: false
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011002-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
   technique: Technique mixte sur papier velin d'Arche
@@ -184,14 +198,19 @@ works:
   contextual: true
 - title: Un petit Rétro-Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
-  technique: Technqiue mixte sur papier velin d'Arche -Encadrement chêne verre anti-reflet
+  technique: 'Technqiue mixte sur papier velin d''Arche '
   fields: []
   styles: []
   dimensions:
     height: 30
     width: 21
     depth: 0
-  description: "2022 \n\nPrix sur demande"
+  description: |-
+    Encadrement chêne verre anti-reflet
+
+    Prix sur demande
+
+    2022
   price: ''
   contextual: true
 - title: Encadrement Petit Crade
