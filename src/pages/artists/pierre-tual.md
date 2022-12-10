@@ -404,22 +404,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Laiton plié roulé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualIMG_5689.jpg
-  technique: 'Laiton doré roulé '
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 14
-    width: 13
-    depth: 11
-  description: ''
-  price: 200
-  sold: false
-  contextual: false
-  weight: 
 - title: Céramique verte
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualIMG_5683.jpg
