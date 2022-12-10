@@ -232,12 +232,12 @@ works:
     height: 85
     width: 65
     depth: 0
-  description: "2021 caisse américaine cadre en chêne  \nprix sur demande"
+  description: "Caisse américaine cadre en chêne  \nPrix sur demande\n\n2021"
   price: ''
   contextual: true
 - title: 'Little simple brut '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@tomaL-2020031102-LITTLECOLOR-40x30cm.jpg
-  technique: 'Couture et Technique mixte sur papier '
+  technique: 'Technique mixte sur papier '
   dimensions:
     height: 50
     width: 40
@@ -266,6 +266,7 @@ works:
   description: Vendu
   price: ''
   contextual: true
+  sold: true
 - title: Bonne pierre bon oeil 01
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l-bpbo01.jpg
   technique: Lithographie 8/8
@@ -416,7 +417,7 @@ works:
     height: 66
     width: 50
     depth: 
-  description: ''
+  description: "2017"
   price: 400
   sold: false
   contextual: true
@@ -438,7 +439,7 @@ works:
   dimensions:
     height: 106
     width: 70
-  description: "caisse américaine noire  \nPrix dans le catalogue et sur demande"
+  description: "Caisse américaine noire  \nPrix sur demande"
   price: ''
   contextual: true
 - title: Wood cartel black
@@ -450,7 +451,7 @@ works:
     height: 106
     width: 70
     depth: 0
-  description: "caisse américaine noire  \nprix sur demande"
+  description: "Caisse américaine noire  \nPrix sur demande"
   price: ''
   contextual: true
 - title: Projet Vas-y
