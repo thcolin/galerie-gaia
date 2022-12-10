@@ -36,6 +36,20 @@ exhibitions:
   start: "0"
   end: 
 works:
+- title: La sieste
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
+    usclef-IMG_6678.jpg
+  technique: 'Fusain sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 75
+    width: 110
+    depth: 0
+  description: ''
+  price: 1200
+  contextual: true
 - title: Le Masque
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg
   technique: mixte sur bois
@@ -48,6 +62,34 @@ works:
   price: 
   sold: false
   contextual: true
+- title: 'Buste '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
+    usclef-IMG_6673.jpg
+  technique: Acrylique et technique mixte sur toile
+  dimensions:
+    height: 60
+    width: 60
+    depth: 
+  description: '2022 '
+  price: 700
+  sold: false
+  contextual: true
+  fields:
+  - Dessin
+- title: La danse des couteaux
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
+    usclef-IMG_6676.jpg
+  technique: 'Fusain sur papier '
+  dimensions:
+    height: 63
+    width: 80
+    depth: 
+  description: "2022"
+  price: 980
+  sold: false
+  contextual: true
+  fields:
+  - Dessin
 - title: Fresque pour la Galerie Gaïa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fresque-pour-la-galerie-gaia.jpg
   technique: peinture murale
@@ -59,30 +101,6 @@ works:
     Réalisation pour la 1ere  Nuit des Galeries dans le cadre de l'exposition La Chambre 21
     Nous pouvons étudier un projet pour vous sur un mur privé, dans un hall d'entreprise, ou sur toile. Prix selon le projet
   price: 
-  sold: false
-  contextual: true
-- title: Le Minotaure
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-minotaure.jpg
-  technique: Acrylique et technique mixte sur toile
-  dimensions:
-    height: 162
-    width: 130
-    depth: 
-  description: 2017 Prix sur demande
-  price: ''
-  sold: false
-  contextual: true
-  fields:
-  - Peinture
-- title: Routine 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/routine-3.jpg
-  technique: 'Acrylique sur toile '
-  dimensions:
-    height: 162
-    width: 97
-    depth: 
-  description: '2017 Prix sur demande '
-  price: ''
   sold: false
   contextual: true
 redirect_from:
