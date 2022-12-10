@@ -36,20 +36,6 @@ exhibitions:
   start: "0"
   end: 
 works:
-- title: La sieste
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
-    usclef-IMG_6678.jpg
-  technique: 'Fusain sur papier '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 75
-    width: 110
-    depth: 0
-  description: ''
-  price: 1200
-  contextual: true
 - title: Le Masque
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg
   technique: mixte sur bois
@@ -90,6 +76,20 @@ works:
   contextual: true
   fields:
   - Dessin
+- title: La sieste
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
+    usclef-IMG_6678.jpg
+  technique: 'Fusain sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 75
+    width: 110
+    depth: 0
+  description: ''
+  price: 1200
+  contextual: true
 - title: Fresque pour la Galerie Gaïa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fresque-pour-la-galerie-gaia.jpg
   technique: peinture murale
