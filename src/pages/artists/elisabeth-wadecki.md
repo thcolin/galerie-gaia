@@ -52,18 +52,32 @@ biography: "# Elisabeth Wadecki\n\nLa peinture d’Elisabeth Wadecki se déploie
   Where it is only a question of our \"being in the world...\"."
 exhibitions: []
 works:
-- title: Archipels n°4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
-    n4.JPG
+- title: Archipel n°8
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
+    n°8 2022 70x70cm 1600 euros.jpg
+  technique: 'Acrylique sur toile '
   fields: []
   styles: []
   weight: 0
   dimensions:
-    height: 0
-    width: 0
+    height: 70
+    width: 70
     depth: 0
-  description: ''
-  price: 0
+  description: "2022"
+  price: 1600
+  contextual: true
+- title: Archipels n°11
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
+    n°11 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 130
+    depth: 0
+  description: "2022"
+  price: 3500
   contextual: true
 - title: Archipels n°7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
@@ -90,19 +104,6 @@ works:
     depth: 0
   description: "2022"
   price: 1600
-  contextual: true
-- title: Archipels n°11
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/E.Wadecki Archipels
-    n°11 2022 130x130cm acrylique sur toile 4000 eur.1000.JPG
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 130
-    depth: 0
-  description: "2022"
-  price: 3500
   contextual: true
 - title: Archipels n°13
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Wadecki
@@ -132,6 +133,21 @@ works:
   description: "2022"
   price: 2700
   contextual: true
+- title: Archipels n°4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
+    n4.JPG
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '2022 Œuvre subtile et donc difficile à photographier son rendu est
+    superbe , nous vous conseillons de passer à la galerie '
+  price: 3675
+  contextual: true
+  technique: 'Acrylique sur toile '
 - title: Archipels n°20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie.Gaia.Wadecki.Archipel
     n20.jpg
