@@ -57,7 +57,7 @@ works:
     width: 60
     depth: 
   description: '2022 '
-  price: 700
+  price: 735
   sold: false
   contextual: true
   fields:
@@ -71,7 +71,7 @@ works:
     width: 80
     depth: 
   description: "2022"
-  price: 980
+  price: 1000
   sold: false
   contextual: true
   fields:
@@ -88,7 +88,7 @@ works:
     width: 110
     depth: 0
   description: ''
-  price: 1200
+  price: 1260
   contextual: true
 - title: Fresque pour la Galerie Gaïa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/fresque-pour-la-galerie-gaia.jpg
