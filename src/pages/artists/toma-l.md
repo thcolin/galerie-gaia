@@ -120,18 +120,6 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: 'Un petit Rétro-Crade '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011001-UnPetitRetroCrade-30x21cm_bd_1000p.jpg
-  technique: Technique mixte sur papier velin d'Arche
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 21
-    depth: 0
-  description: "Encadrement chêne verre anti-reflet  \nPrix sur demande\n\n2022"
-  price: ''
-  contextual: true
 - title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019042104-Littlewhite-70x50cm 2 2.jpg
