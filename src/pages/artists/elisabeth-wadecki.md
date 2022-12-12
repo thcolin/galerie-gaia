@@ -140,8 +140,8 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 0
-    width: 0
+    height: 130
+    width: 130
     depth: 0
   description: '2022 Œuvre subtile et donc difficile à photographier son rendu est
     superbe , nous vous conseillons de passer à la galerie '
@@ -187,7 +187,7 @@ works:
     height: 24
     width: 21
     depth: 0
-  description: "2022"
+  description: 2022 Œuvre encadrée sous verre baguette chêne
   price: 435
   contextual: true
 - title: 'En mon jardin n°1 '
