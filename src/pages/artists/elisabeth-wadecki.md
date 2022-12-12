@@ -234,8 +234,7 @@ works:
     height: 150
     width: 150
     depth: 0
-  description: '2018 Œuvre visible en Octobre 2021 à la [Galerie des Bigotes ](https://www.mairie-vannes.fr/vannesloisirs/agenda/galerie-des-bigotes/
-    "musée vannes ")Association des Amis du musée de Vannes '
+  description: 2018 visible sur demande en réserve dans l'atelier de l'artiste
   price: 5000
   contextual: true
 - title: Le soleil se lève et tout devient nuit
