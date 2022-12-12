@@ -171,7 +171,7 @@ works:
   price: ''
   contextual: true
 - title: Un petit Rétro-Crade
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011005-UnPetitRetroCrade-30x21cm._bd_1000p.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-l2022011001-UnPetitRetroCrade-30x21cm_bd_1000p.jpg
   technique: 'Technqiue mixte sur papier velin d''Arche '
   fields: []
   styles: []
@@ -187,7 +187,7 @@ works:
     2022
   price: ''
   contextual: true
-- title: Encadrement Petit Crade
+- title: Encadrement Petit Rétro Crade
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma-lUnPetitRetroCrade-Atelier_TomaL_004_bd_1000p.jpg
   technique: Baguette chêne, passe partout kraft verre anti-reflet
   fields: []
