@@ -13,7 +13,6 @@ artists:
 - artist: src/pages/artists/jouet-michel.md
 - artist: src/pages/artists/viallat-claude.md
 - artist: src/pages/artists/engels-didier.md
-- artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/go-segawa.md
 - artist: src/pages/artists/xavier-jallais.md
 - artist: src/pages/artists/d-harcourt-victoire.md
@@ -21,6 +20,7 @@ artists:
 - artist: src/pages/artists/duhec-olivier.md
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/jacques-le-brusq.md
+- artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/shirley-jaffe.md
 - artist: src/pages/artists/peron-yann.md
@@ -32,6 +32,7 @@ artists:
 - artist: src/pages/artists/job.md
 - artist: src/pages/artists/chretien-manolo.md
 - artist: src/pages/artists/philippe-lecomte.md
+- artist: src/pages/artists/wolfe-judith.md
 - artist: src/pages/artists/tangui-robert.md
 - artist: src/pages/artists/marie-vandooren.md
 - artist: src/pages/artists/man-pia.md
@@ -39,15 +40,15 @@ artists:
 - artist: src/pages/artists/the-blind.md
 - artist: src/pages/artists/parrein-pascale.md
 - artist: src/pages/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert.md
+- artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/belaud-cindy.md
-- artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/jorj-morin.md
 - artist: src/pages/artists/jacqueline-pecantet.md
 - artist: src/pages/artists/villegle.md
 - artist: src/pages/artists/morellet-francois.md
 - artist: src/pages/artists/estampes.md
+- artist: src/pages/artists/rich-designer.md
 - artist: src/pages/artists/mathilde-guiho.md
-- artist: src/pages/artists/elisabeth-wadecki.md
 - artist: src/pages/artists/dimitri-bourriau.md
 - artist: src/pages/artists/sebastien-bouchard.md
 - artist: src/pages/artists/marianne-abergel.md
@@ -57,7 +58,6 @@ artists:
 - artist: src/pages/artists/boris-jakobek.md
 - artist: src/pages/artists/kazy-usclef.md
 - artist: src/pages/artists/dimitri-roubichou.md
-- artist: src/pages/artists/olivier-fremont.md
 - artist: src/pages/artists/alain-clement.md
 - artist: src/pages/artists/daha-daha.md
 - artist: src/pages/artists/rycho-ryszard-swierad.md
