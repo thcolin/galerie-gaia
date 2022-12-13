@@ -27,6 +27,20 @@ exhibitions:
   start: "0"
   end: 
 works:
+- title: Carr'aimant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick
+    argant-carraimantIMG_6648.JPG
+  technique: 'Grès sur socle en bois '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 23
+    width: 13
+    depth: 12
+  description: "Hauteur totale avec le socle 23cm  \nGrès 12X12X13 cm "
+  price: 0
+  contextual: true
 - title: Carr'aimant tout en grès
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
     argant - carrémant tout en grés.jpg
@@ -40,40 +54,18 @@ works:
   description: 2 formes superposées en grès et articulées sur un axe
   price: 1200
   contextual: true
-- title: Les grands Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/les-grands-carraimants.jpg
-  technique: grés sur socle bois
+- title: Carr'aimant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick
+    argant-carraimantIMG_6647.JPG
+  technique: Grès sur socle bois huilé
   dimensions:
-    height: 
-    width: 
-    depth: 
-  description: Toute la production est vendue...soyez patient ils reviennent pour
-    Noël 2022!
-  price: 
+    height: 23
+    width: 13
+    depth: 12
+  description: "Hauteur totale avec le socle 23cm  \nGrès 12X12X13 cm "
+  price: 800
   sold: false
-  contextual: true
-- title: Petit Ange
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/petit-ange.jpg
-  technique: bronze doré
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
-- title: Opus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/opus.jpg
-  technique: bronze blanc
-  dimensions:
-    height: 
-    width: 
-    depth: 
-  description: ''
-  price: 
-  sold: false
-  contextual: true
+  contextual: false
 redirect_from:
 - "/artistes/51-annick-argant/"
 styles:
