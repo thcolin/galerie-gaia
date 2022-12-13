@@ -17,6 +17,34 @@ biography: |-
   Pour comprendre et voir le travail in situ, l’artiste accepte d’**ouvrir** **son** **atelier** sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
 exhibitions: []
 works:
+- title: Nuage (détail)
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
+    fremont - nuage -IMG_6729.jpg
+  technique: 'Fil d''acier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 3200
+  contextual: false
+- title: 'Nuage '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
+    fremont - nuage -IMG_6727.jpg
+  technique: 'Fibre d''acier sur socle en marbre '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 35
+    width: 32
+    depth: 28
+  description: 'Socle en marbre 8 cm d''épaisseur 25X32 cm '
+  price: 3200
+  contextual: false
 - title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-olivier
     fremont- composition sur socle.JPG
