@@ -52,6 +52,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Blue lemon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_blue
     lemon_70x50.jpg
@@ -66,6 +67,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Deep inside
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_deep
     inside_70x50.jpg
@@ -80,6 +82,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Féminité
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_féminité_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
@@ -93,6 +96,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Hypnotic
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_hypnotic_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
@@ -106,6 +110,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Totem
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/MURIELKERBA_totem_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
@@ -119,6 +124,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Alvéoles argent
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_alveoles-argent_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
@@ -130,8 +136,9 @@ works:
     depth: 
   description: 'pièce unique '
   price: 700
-  sold: false
+  sold: true
   contextual: true
+  weight: 
 - title: Algue pétrole
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-muriel-kerba_algue-petrole_70x50.jpg
   technique: monotype en sérigraphie sur papier Fabriano 285g
@@ -145,6 +152,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 seo:
   title: ''
