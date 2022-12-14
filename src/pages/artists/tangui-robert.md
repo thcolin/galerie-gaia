@@ -20,87 +20,10 @@ biography: "# Tangui Robert\n\nTangui Robert est un architecte de formation, et 
   Architecture of Nantes, and creates. "
 exhibitions: []
 works:
-- title: Jardin Nuages - Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Jardin nuages nantes-40x50 copie.jpg
-  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
-- title: Nantes musée des arts
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Tangui Robert-Capillaire des murailles-30x40 copie.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: Capillaire des murailles
-  price: 380
-  contextual: true
 - title: Reflet Loire - Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Reflet Loire Nantes-30x40.jpg
   technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
-- title: Parvis cathédrale - Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Parvis cathédrale-Nantes-21x29,7 copie.jpg
-  technique: Eau forte et photographie - Edition 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 29.7
-    width: 21
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Tympan
-    Nantes-24x30.jpg
-  technique: Gravure sur zinc et piquetage photos - Edition en 20 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 24
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Sortie du musée I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Sortie du musée I_Pariétaire de Judée-30x40.jpg
-  technique: 'Eau forte et photographie - Edition 20 exemplaires '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
-- title: Maison Toulu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Maison Toulu-30x40_1.jpg
-  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
   fields: []
   styles: []
   dimensions:
@@ -123,15 +46,28 @@ works:
   description: ''
   price: 280
   contextual: true
-- title: 'Etude jardin des plantes '
+- title: Jardin Nuages - Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
-    Robert-Etude- jardin des plantes-Nantes-30x40.jpg
-  technique: 'Eau forte et photographie /20 exemplaires '
+    Robert-Jardin nuages nantes-40x50 copie.jpg
+  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
   fields: []
   styles: []
   dimensions:
-    height: 30
-    width: 40
+    height: 40
+    width: 50
+    depth: 0
+  description: ''
+  price: 450
+  contextual: true
+- title: Maison Toulu
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
+    Robert-Maison Toulu-30x40_1.jpg
+  technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
+  fields: []
+  styles: []
+  dimensions:
+    height: 40
+    width: 30
     depth: 0
   description: ''
   price: 380
@@ -227,42 +163,6 @@ works:
   description: ''
   price: 380
   contextual: true
-- title: 'Musée d''Arts et Théâtre Graslin Nantes '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-et-graslin-40x50.jpg
-  technique: 'Dessin, fusain et aquarelle '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: ''
-  price: 450
-  contextual: true
-- title: Musée d'Arts de Nantes et Beguin Say
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say-40x50.jpg
-  technique: Dessin, fusain et aquarelle
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: Pièce unique
-  price: 450
-  contextual: true
-- title: Musée d'Arts et Beguin Say
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-musee-des-arts-des-beguin-say_2-30x40.jpg
-  technique: Dessin, fusain aquarelle
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 40
-    depth: 0
-  description: Pièce unique
-  price: 450
-  contextual: true
 - title: Jardin des plantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-jardin-des-plantes-40x50.jpg
   technique: Gravure sur zinc et piquetage photos Edition en 20 exemplaires
@@ -290,68 +190,6 @@ works:
   description: ''
   price: 380
   contextual: true
-- title: 'Château des Ducs et Musée d''Arts de Nantes '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-nantes-chateau-des-ducs-et-musee-des-arts-50x70.jpg
-  technique: Dessin fusain et aquarelle
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: Pièce unique
-  price: 480
-  contextual: true
-- title: Sans titre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-sans-titre-30x24.jpg
-  technique: Gravure sur zinc eau forte
-  dimensions:
-    height: 30
-    width: 24
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Resurgence VII
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-resurgence-vii-30x40.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
-- title: Resurgence VI
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-resurgence-vi-40x30.jpg
-  technique: Gravure sur zinc et piquetage photos
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 380
-  contextual: true
-- title: En rester là
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tangui-robert-en-rester-la-30x40.jpg
-  technique: 'Gravure sur zinc et piquetage photos '
-  dimensions:
-    height: 30
-    width: 40
-    depth: 0
-  description: 'Réhausse à la peinture or '
-  price: 380
-  contextual: true
-- title: Yang Shuo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Yang
-    Shuo-40x50_1.jpg
-  technique: Gravure sur zinc et piquetage photos Epreuve d'artiste
-  dimensions:
-    height: 40
-    width: 50
-  description: œuvre encadrée cadre standard bois naturel montage caisson
-  price: 450
-  contextual: true
 - title: 'Xia Men '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Xia
     Men-24x30_1.jpg
@@ -370,17 +208,6 @@ works:
     width: 30
   description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2017"
   price: 380
-  contextual: true
-- title: Alcantara
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Alcantara-40x50_1.jpg
-  technique: 'Gravure sur zinc et photographies Edition en 20 exemplaires '
-  dimensions:
-    height: 40
-    width: 50
-    depth: 
-  description: "œuvre encadrée cadre standard bois naturel montage caisson  \n2018"
-  price: 450
-  sold: false
   contextual: true
 - title: Salento
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Salento-40x50_1.jpg
@@ -408,28 +235,6 @@ works:
   - Oeuvre sur papier
   styles:
   - Figuratif
-- title: 'Reliquat I '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/reliquat-i-420.jpg
-  technique: 'Gravure eau-forte réhaussée or Edition en 20 exemplaires '
-  dimensions:
-    height: 30
-    width: 20
-    depth: 
-  description: "œuvre encadrée cadre standard aluminium couleur chêne  \n2018"
-  price: 280
-  sold: false
-  contextual: true
-- title: 'Pêcheur – Grande rivière '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pecheur-grande-riviere-17.jpg
-  technique: Gravure sur zinc et piquetage photographique Edition en 7 exemplaires
-  dimensions:
-    height: 26
-    width: 39
-    depth: 
-  description: "œuvre encadrée montage dans une boîte originale d'entomologiste   \n2015 "
-  price: 380
-  sold: false
-  contextual: true
 redirect_from:
 - "/artistes/25-tangui-robert/"
 styles:
