@@ -28,62 +28,20 @@ exhibitions:
   end: 28 Mars 2021
   start: 11 Mars 2021
 works:
-- title: 'Abandoned place #1'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: Tirage sur dibond 30 exemplaires
-  price: 350
-  contextual: true
-- title: 'Abandoned place #2'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie  '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: Tirage sur dibond 30 exemplaires
-  price: 350
-  contextual: true
-- title: 'Abandoned place #4'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
-  technique: 'Photographie '
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 40
-    width: 60
-    depth: 0
-  description: Tirage sur dibond 30 exemplaires
-  price: 350
-  contextual: true
-- title: IDFRA LGF
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
-    LGF-130X81.jpg
+- title: 117 R.I
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-117 R.I  92x73cm.jpg
   technique: Acrylique sur toile
-  fields: []
+  fields:
+  - Peinture
   styles: []
   dimensions:
-    height: 130
-    width: 89
+    height: 92
+    width: 73
     depth: 0
   description: "2022"
-  price: 3400
+  price: 2500
   contextual: true
-  sold: true
 - title: IDFRA LGF
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-galerie-gaia-edwin-wide-IDFRA LGF-130X81.jpg
@@ -128,6 +86,48 @@ works:
     depth: 0
   description: "2022"
   price: 2500
+  contextual: true
+- title: 'Abandoned place #1'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-1-sur-10-exemplaires-50_70.jpg
+  technique: 'Photographie '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 60
+    depth: 0
+  description: Tirage sur dibond 30 exemplaires
+  price: 350
+  contextual: true
+- title: 'Abandoned place #2'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-2-sur-10-exemplaires-50_70.jpg
+  technique: 'Photographie  '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 60
+    depth: 0
+  description: Tirage sur dibond 30 exemplaires
+  price: 350
+  contextual: true
+- title: 'Abandoned place #4'
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-abandoned-places-4-sur-10-exemplaires-50_70.jpg
+  technique: 'Photographie '
+  fields:
+  - Photographie
+  styles:
+  - Figuratif
+  dimensions:
+    height: 40
+    width: 60
+    depth: 0
+  description: Tirage sur dibond 30 exemplaires
+  price: 350
   contextual: true
 - title: IDFRA DJ
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
@@ -190,20 +190,6 @@ works:
   price: 2500
   contextual: true
   sold: true
-- title: 117 R.I
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-117 R.I  92x73cm.jpg
-  technique: Acrylique sur toile
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 92
-    width: 73
-    depth: 0
-  description: "2022"
-  price: 2500
-  contextual: true
 - title: Soldat 1915
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     Wide-SOLDAT 1915-195x130cm.jpg
