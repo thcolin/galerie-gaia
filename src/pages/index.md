@@ -1,7 +1,6 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_ORANGE_MP.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019042104-Littlewhite-70x50cm 2.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2154.jpg
