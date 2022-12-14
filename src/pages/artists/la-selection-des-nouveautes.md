@@ -37,7 +37,7 @@ works:
   description: Abonnez-vous sur Instagram
   price: 1060
   contextual: false
-  technique: photographie grattéé pièce unique
+  technique: photographie grattée pièce unique
 - title: 'Valérie Le Roux  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/728A8D14-797C-4822-9A18-F9EEF0697D8E.JPG
   technique: Sériraphie édition limitée à 30 exemplaires
