@@ -39,7 +39,7 @@ works:
     width: 13
     depth: 13
   description: "Hauteur totale avec le socle 34cm  \nGrès 13X13X13 cm "
-  price: 900
+  price: 950
   contextual: true
 - title: Carr'aimant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick
