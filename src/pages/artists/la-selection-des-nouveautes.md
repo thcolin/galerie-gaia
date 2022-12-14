@@ -11,6 +11,19 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: Versant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2215.JPG
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "[Versant](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/)"
+  price: ''
+  contextual: true
 - title: Calendrier de l'avent 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ 0 CALENDRIER DE
     L'AVENT COUVERTURE .jpg
