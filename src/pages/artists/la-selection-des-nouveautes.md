@@ -12,8 +12,8 @@ biography: |-
 exhibitions: []
 works:
 - title: Calendrier de l'avent 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-12-01 à 11.08.59.png
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ 0 CALENDRIER DE
+    L'AVENT COUVERTURE .jpg
   fields: []
   styles: []
   weight: 0
