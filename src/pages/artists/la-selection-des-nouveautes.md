@@ -64,6 +64,44 @@ works:
   description: "[Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/)"
   price: 472.5
   contextual: false
+- title: Dimitri Roubichou
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/B892D069-9796-4789-A423-02FE888E168F.JPG
+  technique: 'Photographie tirage sur papier '
+  fields:
+  - Photographie
+  styles: []
+  dimensions:
+    height: 30
+    width: 30
+    depth: 0
+  description: "# "
+  price: 367.5
+  contextual: false
+- title: Toma-l
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2096.JPG
+  technique: Technique mixte  sur papier
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: 'prix sur demande '
+  price: ''
+  contextual: false
+- title: Yves Tilly
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 NOEL TILLY.jpg
+  technique: Sculpture bois
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 800
+  contextual: false
 - title: Carr'aimant tout en grès de Annick Argant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
     argant - carrémant tout en grés.jpg
@@ -96,32 +134,6 @@ works:
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
-- title: Dimitri Roubichou
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/B892D069-9796-4789-A423-02FE888E168F.JPG
-  technique: 'Photographie tirage sur papier '
-  fields:
-  - Photographie
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: "# "
-  price: 367.5
-  contextual: false
-- title: Toma-l
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2096.JPG
-  technique: Technique mixte  sur papier
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: 'prix sur demande '
-  price: ''
-  contextual: false
 - title: Job Isthme Engels
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2149.jpg
   technique: ''
@@ -133,18 +145,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: false
-- title: Yves Tilly
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 NOEL TILLY.jpg
-  technique: Sculpture bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 800
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg

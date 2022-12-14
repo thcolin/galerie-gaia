@@ -28,7 +28,7 @@ exhibitions:
   end: 
 works:
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G galerie-gaia-annick
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GivreG galerie-gaia-annick
     argant-carraimantIMG_6662.JPG
   technique: 'Grès amovible sur un axe sur socle en bois huilé '
   fields: []
