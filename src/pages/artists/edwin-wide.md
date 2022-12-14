@@ -70,22 +70,33 @@ works:
   description: Tirage sur dibond 30 exemplaires
   price: 350
   contextual: true
-- title: TPDNE 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
-    wide-TPDNE1 100x150 cm.jpg
-  technique: Impression sur dibond tirage disponible 2/2
-  fields:
-  - Art numérique
-  styles:
-  - Figuratif
+- title: IDFRA LGF
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
+    LGF-130X81.jpg
+  technique: Acrylique sur toile
+  fields: []
+  styles: []
   dimensions:
-    height: 150
-    width: 100
+    height: 130
+    width: 89
     depth: 0
-  description: "2022  \nCe portrait n'existe pas, il a été conçu par l'artiste à partir
-    d'une banque d'image d'une centaine de portraits. Un visage imaginaire comme un
-    peintre s'inspirant d'un modèle qui lui échappe!"
-  price: 3000
+  description: "2022"
+  price: 3400
+  contextual: true
+  sold: true
+- title: IDFRA LGF
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-galerie-gaia-edwin-wide-IDFRA LGF-130X81.jpg
+  technique: ACRYLIQUE SUR TOILE
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 81
+    depth: 0
+  description: ''
+  price: 3500
   contextual: true
 - title: TPDNE 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
@@ -132,6 +143,23 @@ works:
   price: 3400
   contextual: true
   sold: true
+- title: TPDNE 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
+    wide-TPDNE1 100x150 cm.jpg
+  technique: Impression sur dibond tirage disponible 2/2
+  fields:
+  - Art numérique
+  styles:
+  - Figuratif
+  dimensions:
+    height: 150
+    width: 100
+    depth: 0
+  description: "2022  \nCe portrait n'existe pas, il a été conçu par l'artiste à partir
+    d'une banque d'image d'une centaine de portraits. Un visage imaginaire comme un
+    peintre s'inspirant d'un modèle qui lui échappe!"
+  price: 3000
+  contextual: true
 - title: 'Hors champ '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Hors-champ.jpg
@@ -160,20 +188,6 @@ works:
     depth: 0
   description: "2022"
   price: 2500
-  contextual: true
-  sold: true
-- title: IDFRA LGF
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-IDFRA
-    LGF-130X81.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 89
-    depth: 0
-  description: "2022"
-  price: 3400
   contextual: true
   sold: true
 - title: 117 R.I
