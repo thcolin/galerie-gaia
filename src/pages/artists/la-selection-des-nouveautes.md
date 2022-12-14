@@ -11,6 +11,19 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: Job
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2234.JPG
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 91
+    depth: 0
+  description: "[Job]()"
+  price: 2300
+  contextual: false
 - title: Calendrier de l'avent 2022
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ 0 CALENDRIER DE
     L'AVENT COUVERTURE .jpg
@@ -50,6 +63,32 @@ works:
     depth: 0
   description: "[Marie Bathellier](https://galeriegaia.fr/artists/bathelier-marie/)"
   price: 600
+  contextual: false
+- title: François Bard
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2237.JPG
+  technique: Estampe 8/25
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "[François Bard](https://galeriegaia.fr/artists/bard-francois/)"
+  price: 900
+  contextual: false
+- title: Yann Peron
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2232.JPG
+  technique: 'aquarelle sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 29
+    width: 83
+    depth: 0
+  description: "[Yann Peron](https://galeriegaia.fr/artists/peron-yann/)"
+  price: 0
   contextual: false
 - title: 'Aline Isoard '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/607B730F-E70B-4F6C-A3F5-47B1E154F073.JPG
