@@ -40,56 +40,6 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
   (école d'architecture de la ville de Paris)"
 exhibitions: []
 works:
-- title: Grande Courbe
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL- Frontalité1- 46x22 cm.jpg
-  technique: Céramique
-  dimensions:
-    height: 46
-    width: 22
-    depth: 0
-  description: "2019"
-  price: 1500
-  contextual: false
-  styles:
-  - Abstrait
-- title: Sister 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-©Marianne-Abergel-Cobalt-sister-2.jpg
-  technique: 'Céramique Porcelaine teintée dans la masse, oxyde de Cobalt '
-  fields: []
-  styles: []
-  dimensions:
-    height: 19
-    width: 19
-    depth: 0
-  description: Chaque pétale de faïence est accumulée individuellement
-  price: 1400
-  contextual: false
-- title: Sister 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-©Marianne-Abergel-Coblat-sister-1.jpg
-  technique: 'Céramique Porcelaine teintée dans la masse, oxyde de Cobalt '
-  fields: []
-  styles: []
-  dimensions:
-    height: 18
-    width: 19
-    depth: 19
-  description: Chaque pétale de faïence est accumulée individuellement
-  price: 1200
-  contextual: false
-- title: Sisters en duo
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL-Sisters- 39x19 cm.jpg
-  technique: Céramique Porcelaine teintée dans la masse, oxyde de Cobalt
-  dimensions:
-    height: 39
-    width: 19
-    depth: 0
-  description: "Chaque pétale de faïence est accumulée individuellement   \n2019"
-  price: 2400
-  contextual: false
-  styles:
-  - Abstrait
 - title: Grande chimère lièvre céladon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2021.jpg
   technique: Grès émaillé
@@ -102,58 +52,17 @@ works:
   description: ''
   price: 650
   contextual: false
-- title: Duo de Totem
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Duo Totem Marianne
-    Abergel.jpg
-  technique: Grès
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "Totem vendu seul 450€  \nTotem vendu en duo 850€"
-  price: 450
-  contextual: false
-- title: Totem 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem4a.jpg
-  technique: Céramique,
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 30
-    width: 15
-    depth: 3
-  description: ''
-  price: 450
-  contextual: false
-- title: Totem 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ABERGEL-Totem2a.jpg
-  technique: Céramique
-  fields: []
-  styles:
-  - Abstrait
-  dimensions:
-    height: 30
-    width: 12
-    depth: 2
-  description: ''
-  price: 450
-  contextual: false
-- title: Lièvre 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-lièvre
-    2-06.21.jpg
-  technique: 'Grès oxyde de cuivre '
+- title: Lièvre vert clair
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
+  technique: Grès émaillé
   fields: []
   styles: []
   dimensions:
-    height: 20
+    height: 16
     width: 12
-    depth: 7
+    depth: 6
   description: ''
-  price: 560
+  price: 280
   contextual: false
 - title: 'Lièvre 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-lièvre
@@ -167,18 +76,6 @@ works:
     depth: 7
   description: ''
   price: 560
-  contextual: false
-- title: Lièvre vert clair
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
-  technique: Grès émaillé
-  fields: []
-  styles: []
-  dimensions:
-    height: 16
-    width: 12
-    depth: 6
-  description: ''
-  price: 280
   contextual: false
 - title: Chimère cachée Le lièvre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
