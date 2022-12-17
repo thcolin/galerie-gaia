@@ -78,8 +78,9 @@ works:
     width: 55
     depth: 0
   description: "2021"
-  price: 1100
+  price: ''
   contextual: true
+  sold: true
 - title: Ne plus savoir où aller
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
     plus savoir où aller, 100x81, 2021.jpg

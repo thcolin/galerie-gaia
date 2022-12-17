@@ -106,7 +106,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2014
-  price: ''
+  price: 130
   contextual: false
 - title: Goutte rouge Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
