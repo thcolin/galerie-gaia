@@ -49,7 +49,7 @@ works:
     50 exemplaires limités
 
     Création et tirage en 2016
-  price: ''
+  price: 80
   contextual: false
 - title: 'œuf posé I  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -88,23 +88,7 @@ works:
     width: 7.5
     depth: 7.5
   description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: ''
-  contextual: false
-- title: Mass
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-MASS.jpg
-  technique: 'impression jet d’encre sur polyester  '
-  fields: []
-  styles: []
-  dimensions:
-    height: 6
-    width: 12
-    depth: 12
-  description: |-
-    25 exemplaires limités
-
-    Création et tirage en 2019
-  price: 160
+  price: 130
   contextual: false
 - title: Life II Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -151,7 +135,7 @@ works:
     50 Exemplaires limités
 
     Création et tirage en 2016
-  price: ''
+  price: 160
   contextual: false
 - title: Green in Sphere
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
