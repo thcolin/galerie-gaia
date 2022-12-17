@@ -33,7 +33,7 @@ biography: |-
 
   Exhibitions:
 
-  * 1962-1964: Retrospective exhibition in Knoedler Gallery (New York), Gallery Krugier (Geneva) and Walker Art Center (Minneapolis)
+  * 1962-1964: Retrospective exhibition in Knoedler Gallery (New York),Gallery Krugier (Geneva) and Walker Art Center (Minneapolis)
   * 1970-1971: Retrospective exhibition in the national museum of modern art (Paris)
   * 1973-1974: Maeght foundation
   * 1984: "Oeuvre lithographié 1979-1981", Practice of prints in the history and arts museum (Geneva)
@@ -57,7 +57,7 @@ works:
     depth: 0
   description: Projet d'encadrement avec verre musée baguette chêne et montage caisson
     réalisée par notre atelier d'encadrement
-  price: 1700
+  price: 1800
   contextual: false
 - title: 'MP 167 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-167-32100.jpg
@@ -89,7 +89,7 @@ works:
     width: 55
     depth: 
   description: "1980"
-  price: 1700
+  price: 1800
   sold: false
   contextual: true
 - title: 'MP 361 '
@@ -100,7 +100,7 @@ works:
     width: 54
     depth: 
   description: '1980 '
-  price: 1700
+  price: 1800
   sold: false
   contextual: true
 - title: 'MP 371 '
@@ -111,7 +111,7 @@ works:
     width: 60
     depth: 
   description: '1980 '
-  price: 1700
+  price: 1800
   sold: false
   contextual: true
 redirect_from:
