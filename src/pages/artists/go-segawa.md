@@ -23,6 +23,19 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: Mass
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 6
+    width: 12
+    depth: 12
+  description: ''
+  price: 160
+  contextual: true
+  technique: 'Impression jet d’encre sur polyester '
 - title: Goutte collante I Ed.6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-goutte_collante_I_UV_print_2018.jpg
@@ -137,125 +150,6 @@ works:
     Création et tirage en 2016
   price: 160
   contextual: false
-- title: Green in Sphere
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-Green_in_Sphere_UV_print_2021.jpg
-  technique: Impression UV sur polycarbonate
-  fields: []
-  styles: []
-  dimensions:
-    height: 15
-    width: 15
-    depth: 15
-  description: |-
-    Ed.6 2021
-
-    Vernis
-  price: 700
-  contextual: false
-- title: Red in Sphere
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-Red_in_Spher_UV_print_2018.jpg
-  technique: Impression UV sur polycarbonate
-  fields: []
-  styles: []
-  dimensions:
-    height: 15
-    width: 15
-    depth: 15
-  description: Vernis 2018
-  price: 700
-  contextual: false
-- title: Transparency III - blue Ed.50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 7.5
-    width: 7.5
-    depth: 7.5
-  description: |-
-    50 exemplaires limités
-
-    Création et tirage en 2017
-  price: ''
-  contextual: false
-- title: Transparency IV - green Ed.50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_IV_green_2018.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 7.5
-    width: 7.5
-    depth: 7.5
-  description: |-
-    50 exemplaires limités
-
-    Création et tirage en 2018
-  price: ''
-  contextual: false
-  technique: Impression jet d'encre sur polyester
-- title: Colline rouge Ed.20
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia colline_rouge_ed20_2017.jpg
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 3.6
-    width: 14.2
-    depth: 14.2
-  description: |-
-    20 exemplaires limités
-
-    2017
-  price: ''
-  contextual: false
-- title: Cube in red Ed.50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go-segawa-cube-in-red.png
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 7.5
-    width: 7.5
-    depth: 7.5
-  description: |-
-    50 Exemplaires
-
-    Création et tirage en 2013
-  price: ''
-  contextual: false
-- title: Squares in Blue Ed.25
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Segawa_SquareInBlue(4:25)_8,5x8,5x8,5.jpeg
-  technique: 'Impression jet d''encre sur polyester '
-  fields: []
-  styles: []
-  dimensions:
-    height: 8.5
-    width: 8.5
-    depth: 8.5
-  description: |-
-    25 exemplaires limités
-
-    Création et tirage en 2018
-  price: ''
-  contextual: false
-- title: Collision II Ed.25
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/capture-d-ecran-2020-12-07-a-17-22-39.png
-  technique: Impression jet d'encre sur polyester
-  fields: []
-  styles: []
-  dimensions:
-    height: 8.5
-    width: 8.5
-    depth: 8.5
-  description: |-
-    Edition en 25 exemplaires
-
-    Création et tirage en 2018
-  price: ''
-  contextual: false
 - title: Boite plexi
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/5-volumes-empilees.jpg
   technique: ''
@@ -264,7 +158,7 @@ works:
     width: 
     depth: 
   description: "Idée pour les mettre en valeur une cloche en plexi  \nCommande sur
-    mesure - devis possible"
+    mesure - devis possible à partir de 50€"
   price: 
   sold: false
   contextual: false
