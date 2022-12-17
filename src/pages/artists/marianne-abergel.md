@@ -41,7 +41,7 @@ biography: "# Marianne Abergel\n\nTerre  : Lorsque Marianne Abergel nous parle d
 exhibitions: []
 works:
 - title: Grande chimère lièvre céladon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel-grande-chimère-lièvre-céladon-2021.jpg
   technique: Grès émaillé
   fields: []
   styles: []
@@ -50,10 +50,10 @@ works:
     width: 9
     depth: 10
   description: ''
-  price: 650
+  price: 700
   contextual: false
 - title: Lièvre vert clair
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Marianne-Abergel--lièvre-vert-clair-2021.jpg
   technique: Grès émaillé
   fields: []
   styles: []
@@ -65,7 +65,7 @@ works:
   price: 280
   contextual: false
 - title: 'Lièvre 1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-lièvre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/©Marianne-Abergel-lièvre
     1-06.21.jpg
   technique: Grès oxyde de cuivre
   fields: []
@@ -79,7 +79,7 @@ works:
   contextual: false
 - title: Chimère cachée Le lièvre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL-chimère cachée-lièvre.jpg
+    ABERGEL-chimère cachée-lièvre.jpg
   technique: Grès blanc et émail pointe or
   dimensions:
     height: 8
@@ -91,7 +91,7 @@ works:
   contextual: false
 - title: Chimère cachée La girafe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -Marianne
-    ABERGEL-chimère cachée-girafe.jpg
+    ABERGEL-chimère cachée-girafe.jpg
   technique: Porcelaine et or
   dimensions:
     height: 10
