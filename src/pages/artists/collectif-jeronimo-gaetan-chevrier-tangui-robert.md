@@ -129,6 +129,19 @@ works:
   description: "2021"
   price: 380
   contextual: true
+- title: Strates 55
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2257.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 60
+    width: 40
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: Strates 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 58 _ 30x40cm
     _ 12ex _ web.jpg
