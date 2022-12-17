@@ -35,7 +35,7 @@ works:
   description: ''
   price: 160
   contextual: true
-  technique: 'Impression jet d’encre sur polyester '
+  technique: Impression jet d’encre sur polyester Edition limitée à 25
 - title: Goutte collante I Ed.6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
     segawa-goutte_collante_I_UV_print_2018.jpg
