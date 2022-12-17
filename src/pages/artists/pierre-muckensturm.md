@@ -6,6 +6,7 @@ fields:
 - Oeuvre sur papier
 - Peinture
 - Dessin
+- Sculpture
 birth: "0"
 death: "0"
 expose: true
