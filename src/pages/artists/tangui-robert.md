@@ -20,6 +20,34 @@ biography: "# Tangui Robert\n\nTangui Robert est un architecte de formation, et 
   Architecture of Nantes, and creates. "
 exhibitions: []
 works:
+- title: Trentemoult
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Depuis
+    Trentemoult-Nantes-18x24.jpg
+  technique: 'Eau forte et photographie édition limitée à 20 exemplaires '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 18
+    width: 24
+    depth: 0
+  description: ''
+  price: 180
+  contextual: true
+- title: Bras de la madeleine et jardin des plantes Nantes
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-bras
+    de la madeleine et jardin des plantes-30x40.jpg
+  technique: Eau forte et photographie édition limitée à 20 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 30
+    width: 40
+    depth: 0
+  description: ''
+  price: 380
+  contextual: true
 - title: Reflet Loire - Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia@Tangui
     Robert-Reflet Loire Nantes-30x40.jpg
