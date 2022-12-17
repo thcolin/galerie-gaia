@@ -50,21 +50,6 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\n> Un colle
   Burban"
 exhibitions: []
 works:
-- title: Echo IV
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0887.jpg
-  technique: Serigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: |-
-    Edition : 4/9
-
-    2022
-  price: 510
-  contextual: true
 - title: Echo V
   technique: Serigraphie
   fields: []

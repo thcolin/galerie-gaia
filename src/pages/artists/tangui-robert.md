@@ -20,6 +20,20 @@ biography: "# Tangui Robert\n\nTangui Robert est un architecte de formation, et 
   Architecture of Nantes, and creates. "
 exhibitions: []
 works:
+- title: Louvèche II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Louvèche
+    II-40x50.jpg
+  technique: 'Eau forte et photographie épinglée édition limitée à 20 exemplaires '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 50
+    depth: 0
+  description: ''
+  price: 480
+  contextual: true
 - title: Loire LI
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Loire
     LI-30x40.jpg
