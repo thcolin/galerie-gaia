@@ -166,19 +166,6 @@ works:
   description: Vernis 2018
   price: 700
   contextual: false
-- title: Beans I Ed.50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-Beans_I.jpg
-  technique: 'Impression jet d’encre sur polyester   '
-  fields: []
-  styles: []
-  dimensions:
-    height: 6.5
-    width: 6.5
-    depth: 6.5
-  description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: ''
-  contextual: false
 - title: Transparency III - blue Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia Transparency_III_blue_2017.jpg
   technique: Impression jet d'encre sur polyester
@@ -222,21 +209,6 @@ works:
     20 exemplaires limités
 
     2017
-  price: ''
-  contextual: false
-- title: Mass Ed.25
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
-  technique: 'Impression jet d''encre sur polyester '
-  fields: []
-  styles: []
-  dimensions:
-    height: 6
-    width: 12
-    depth: 12
-  description: |-
-    25 exemplaires limités
-
-    Création et tirage en 2019
   price: ''
   contextual: false
 - title: Cube in red Ed.50
