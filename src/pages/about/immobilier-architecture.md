@@ -29,15 +29,15 @@ content:
     pour accompagner la transformation de l’entreprise.\n\nL’art en entreprise permet
     pour un dirigeant – et pour ses services RH – d’incarner cette recherche de sens,
     avec une œuvre créée in situ racontant les histoires humaines qui la composent.\n\nMon
-    intention en créant Galerie Gaïa Studio est de proposer aux entreprises en quête
-    de rupture, une démarche audacieuse, différente et innovante en  jouant un rôle
-    d'incubateur artistique.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire
-    de l’art, j’ai mené des missions de médiation, de coordination et de développement
-    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
-    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
-    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
-    est de continuer à accompagner les artistes, les institutions et les entreprises
-    à penser et produire un projet artistique, suivi de chantier inclus."
+    intention en créant Galerie Gaïa Studio est de proposer un sourcing artistique
+    lié à l'intention architecturale et une coordination du projet in situ.\n\n**INÈS
+    BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire de l’art, j’ai mené des missions
+    de médiation, de coordination et de développement de projets artistiques durant
+    15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme la biennale
+    d’art contemporain Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou
+    et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer à accompagner
+    les artistes, les institutions et les entreprises à penser et produire un projet
+    artistique, suivi de chantier inclus."
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
