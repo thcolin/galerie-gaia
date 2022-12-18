@@ -1,16 +1,16 @@
 ---
 template: about
 content:
-- column: "**Galerie Gaïa Studio accompagne les cabinets d’architecture,  \nles architectes
-    indépendants, ainsi que les architectes d’intérieur.**\n\n**Nous offrons également
-    notre expertise aux groupes hôteliers, aux promoteurs immobiliers et aux signataires
-    de la charte _1 immeuble 1 œuvre_.**\n\n**Enfin, nous conseillons les collectivités
-    qui souhaitent valoriser leurs territoires.**\n\n**1. CONCEVOIR**\n\nIl s’agit
-    d’analyser vos besoins. Une évaluation constituée d’entretiens, d’études de
-    vos espaces et d’échanges autour de vos sensibilités plastiques. Cette récolte
-    de matière nous permet d’apporter une réflexion juste et personnalisée. Nous
-    développons alors un projet sur-mesure avec une identité artistique forte, qui
-    sublime votre lieu et vos valeurs.\n\n**2. PRODUIRE**\n\nC’est d’abord planifier
+- column: "**Galerie Gaïa Studio conçoit des projets artistiques en accompagnant
+    les cabinets d’architecture, les architectes indépendants, ainsi que les architectes
+    d’intérieur.**\n\n**Nous proposons également notre expertise aux groupes hôteliers,
+    aux promoteurs immobiliers et aux signataires de la charte _1 immeuble 1 œuvre_.**\n\n**Aussi,
+    nous conseillons les collectivités qui souhaitent valoriser leurs territoires.**\n\n**1.
+    CONCEVOIR**\n\nIl s’agit d’analyser vos besoins. Une évaluation constituée d’entretiens,
+    d’études de vos espaces et d’échanges autour de vos sensibilités plastiques.
+    Cette récolte de matière nous permet d’apporter une réflexion juste et personnalisée.
+    Nous développons alors un projet sur-mesure avec une identité artistique forte,
+    qui sublime votre lieu et vos valeurs.\n\n**2. PRODUIRE**\n\nC’est d’abord planifier
     la fabrication d’une œuvre. C’est faire le lien avec l’artiste, questionner son
     concept, demander des maquettes...  \nC’est plus largement questionner la faisabilité
     d’un projet pour enfin concevoir un budget et penser l’administratif (contrats,
@@ -28,14 +28,16 @@ content:
     20 ans comme directrice d’agence chez Manpower France et 5 ans comme Chef de projets
     pour accompagner la transformation de l’entreprise.\n\nL’art en entreprise permet
     pour un dirigeant – et pour ses services RH – d’incarner cette recherche de sens,
-    avec une œuvre créée in situ racontant les histoires humaines qui la composent.\n\n**INÈS
-    BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire de l’art, j’ai mené des missions
-    de médiation, de coordination et de développement de projets artistiques durant
-    15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme la biennale
-    d’art contemporain Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou
-    et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer à accompagner
-    les artistes, les institutions et les entreprises à penser et produire un projet
-    artistique, suivi de chantier inclus."
+    avec une œuvre créée in situ racontant les histoires humaines qui la composent.\n\nMon
+    intention en créant Galerie Gaïa Studio est de proposer aux entreprises en quête
+    de rupture, une démarche audacieuse, différente et innovante en  jouant un rôle
+    d'incubateur artistique.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire
+    de l’art, j’ai mené des missions de médiation, de coordination et de développement
+    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
+    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
+    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
+    est de continuer à accompagner les artistes, les institutions et les entreprises
+    à penser et produire un projet artistique, suivi de chantier inclus."
   contact:
     display: true
     placeholder: Renseignement projet immobilier - décoration
