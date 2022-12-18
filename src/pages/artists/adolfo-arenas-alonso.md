@@ -91,7 +91,7 @@ works:
     depth: 
   description: Dessin original effectué au crayon
   price: 600
-  sold: false
+  sold: true
   contextual: false
 redirect_from:
 - "/artistes/42-adolfo-arenas-alonso/"
