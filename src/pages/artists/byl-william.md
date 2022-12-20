@@ -15,16 +15,16 @@ location: France
 birth: ''
 death: ''
 expose: true
-biography: "William Byl est passionné par le dessin depuis l'enfance, et se forme
-  à l'école des Beaux- Arts de Cholet.  \nIl découvre la céramique des années
-  1950 et il est fasciné par les réalisations de Jean Derval, René Maurel, Roger
-  Capron, François Raty, Jacques Blin, Luc Lanel et quelques autres...\n\nEn 2013,
-  William Byl choisi d’utiliser la terre comme nouveau mode d’expression et explore
-  les techniques du modelage et de la céramique.\n\nWilliam BYL créé des figures
-  oniriques aux formes animales ou anthropomorphes enrichies de motifs géométriques
-  et de scarifications évoquant parfois l’Afrique où il a passé ses premières
-  années.\n\nSes pièces, en grès chamotté, sont recouvertes de jus d’oxydes de
-  manière à laisser apparaître l’aspect brut du matériau."
+biography: "William Byl est passionné par le dessin depuis l'enfance, et se forme
+  à l'école des Beaux- Arts de Cholet.  \nIl découvre la céramique des années 1950
+  et il est fasciné par les réalisations de Jean Derval, René Maurel, Roger Capron,
+  François Raty, Jacques Blin, Luc Lanel et quelques autres...\n\nEn 2013, William
+  Byl choisi d’utiliser la terre comme nouveau mode d’expression et explore les techniques
+  du modelage et de la céramique.\n\nWilliam BYL créé des figures oniriques aux formes
+  animales ou anthropomorphes enrichies de motifs géométriques et de scarifications
+  évoquant parfois l’Afrique où il a passé ses premières années.\n\nSes pièces, en
+  grès chamotté, sont recouvertes de jus d’oxydes de manière à laisser apparaître
+  l’aspect brut du matériau."
 works:
 - title: Cheval  sable
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
@@ -38,7 +38,7 @@ works:
     depth: 10
   description: "2022"
   price: 1600
-  sold: false
+  sold: true
   contextual: false
   weight: 
 - title: 'Taureau noir '
@@ -68,7 +68,7 @@ works:
     depth: 12
   description: "2022"
   price: 2600
-  sold: false
+  sold: true
   contextual: false
   weight: 
 - title: 'Cheval noir '
@@ -83,7 +83,7 @@ works:
     depth: 15
   description: "2022"
   price: 2600
-  sold: false
+  sold: true
   contextual: false
   weight: 
 - title: Tatou
