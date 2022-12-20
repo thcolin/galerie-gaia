@@ -29,7 +29,7 @@ works:
 - title: Cheval  sable
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylchevalroux40x42.JPG
-  technique: 'Grès roux '
+  technique: Grès roux
   fields: []
   styles: []
   dimensions:
@@ -59,7 +59,7 @@ works:
 - title: Buffle sable
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylbuffleroux51x50.JPG
-  technique: 'Grès roux '
+  technique: Grès roux
   fields: []
   styles: []
   dimensions:
@@ -74,7 +74,7 @@ works:
 - title: 'Cheval noir '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-william
     byl-bylchevalnoir48.5x53.JPG
-  technique: Grès noir recouvert de jus d'oxyde noir
+  technique: Grès noir recouvert de jus d'oxyde noi
   fields: []
   styles: []
   dimensions:
