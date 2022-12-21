@@ -107,22 +107,10 @@ works:
     height: 48
     width: 38
     depth: 0
-  description: "2022"
+  description: Réservé M DENECHAUD
   price: 400
   contextual: true
-- title: XXI 79 182
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
-    XXI 79 182 copie.jpg
-  technique: Crayon et encre noire sur papier 170 g
-  fields: []
-  styles: []
-  dimensions:
-    height: 42
-    width: 30
-    depth: 0
-  description: "2021"
-  price: 600
-  contextual: true
+  sold: true
 - title: 'XXI 67 175 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
     XXI 67 175 copie.jpg
@@ -187,19 +175,6 @@ works:
     depth: 0
   description: "2021"
   price: 600
-  contextual: true
-- title: 'XXI 48 150 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
-    XXI 48 150 copie.jpg
-  technique: Encre noire et crayon sur papier Fabriano 160 g
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: "2021"
-  price: 450
   contextual: true
 - title: 'XXI 25 034 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre muckensturm
