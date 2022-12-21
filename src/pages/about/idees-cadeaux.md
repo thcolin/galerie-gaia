@@ -5,7 +5,7 @@ content:
     retraite\n\n## La Carte Cadeau\n\nUne sélection dans le [catalogue](https://galeriegaia.fr/catalogue/
     \"catalogue galerie gaia\") de la galerie permettra de choisir  \nparmi **+70
     artistes et  +900 œuvres disponibles livrables dans le monde entier.**  \n**A
-    partir de 50€ sans limite dans le temps.**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nantes-carte-cadeau-recto2.jpg)\n\n##
+    partir de 50€ sans limite dans le temps**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/PHOTO-2022-12-06-19-05-30.jpg)\n\n##
     Encadrement sur mesure Nantes\n\nEncadrer c'est **conserver et sublimer une œuvre**.
     \ \nNous vous conseillons avec mon atelier d'encadrement **pour toutes œuvres
     acquises ou non à la galerie.**\n\n**Le +** optez pour le **verre musée** qui
