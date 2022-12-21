@@ -48,20 +48,6 @@ works:
   price: 
   sold: false
   contextual: true
-- title: 'Buste '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
-    usclef-IMG_6673.jpg
-  technique: Acrylique et technique mixte sur toile
-  dimensions:
-    height: 60
-    width: 60
-    depth: 
-  description: '2022 '
-  price: 735
-  sold: false
-  contextual: true
-  fields:
-  - Dessin
 - title: La danse des couteaux
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-kazy
     usclef-IMG_6676.jpg
