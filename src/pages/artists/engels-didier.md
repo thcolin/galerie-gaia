@@ -48,6 +48,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: Stained glass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dideir engels- galerie
     gaia- proue.jpg
@@ -58,12 +59,13 @@ works:
   dimensions:
     height: 150
     width: 100
-    depth: 0
+    depth: 
   description: "Encadrement caisse américaine noire  \nTirage en 8 exemplaires + 2
     EA (épreuve d'artiste)"
-  price: 4750
+  price: 5200
   sold: false
   contextual: true
+  weight: 
 - title: 36 PART1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-didier-engels-containers.jpg
   technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
@@ -73,12 +75,13 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: "Encadrement caisse américaine noire  \nTirage en 8 exemplaires + 2
     EA (épreuve d'artiste)"
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: 36 PART2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_5426.jpg
   technique: 'tirées sur papier Hahnemuhle, collées sur alu-dibond, ensuite recouvertes
@@ -88,12 +91,13 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: "Encadrement caisse américaine noire  \nTirage en 8 exemplaires + 2
     EA (épreuve d'artiste)"
   price: 4000
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 
 ---
