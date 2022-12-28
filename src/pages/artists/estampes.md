@@ -87,8 +87,11 @@ works:
     height: 80
     width: 61
     depth: 
-  description: "# Gérard Traquandi"
-  price: 800
+  description: |-
+    # Gérard Traquandi
+
+    Encadrement Nielsen Noir
+  price: 930
   sold: false
   contextual: true
 - title: 'Gérard Traquandi - Sans Titre (orange) '
@@ -98,8 +101,11 @@ works:
     height: 80
     width: 61
     depth: 
-  description: "# Gérard Traquandi"
-  price: 800
+  description: |-
+    # Gérard Traquandi
+
+    Encadrement Nielsen Noir
+  price: 930
   sold: false
   contextual: true
 - title: Gérard Tranquandi duo en situation
@@ -110,7 +116,7 @@ works:
     width: 60
     depth: 0
   description: "# Gérard Traquandi"
-  price: 1500
+  price: 1860
   contextual: false
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
     cleon.jpg
