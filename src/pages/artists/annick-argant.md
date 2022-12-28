@@ -127,7 +127,7 @@ works:
   contextual: false
 - title: Carr'aimant tout en grès
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
-    argant - carrémant tout en grés.jpg
+    argant - carrémant tout en grés.jpg
   technique: 'Grès  '
   fields: []
   styles: []
