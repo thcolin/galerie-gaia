@@ -1,13 +1,10 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
-    l-2019042104-Littlewhite-70x50cm 2.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_MP_recto.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
     fremont - nuage -IMG_6727.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2154.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Georges
-    Rousse - Marseille 2013-2014  - Galerie Catherine Putman.jpg
 redirect_from:
 - "/plan/"
 seo:

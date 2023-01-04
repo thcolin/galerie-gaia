@@ -1156,6 +1156,17 @@ articles:
   - Exposition
   title: Exposition Jean-François MOLLIERE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_AFF_B1.jpg
-  content: wx<
+  content: |-
+    Une lumière, une atmosphère, un grain singulier.
+
+    Jean-François Mollière nous fait découvrir son intime perception des mégapoles et ses réalités fantasmées des paysages désertiques. Un ailleurs poétique, souvent mystérieux, sans aucun doute le début de narrations cinématographiques.
+
+    La série montrée à la galerie Gaïa s’articule autour de 2 thématiques qui semble si différentes. La première, architecturé et incarné des grandes villes de l’Est américain, nous plonge dans des vapeurs et des flottements intemporelles. La seconde, désertique, chaude et minéral de la Namibie, s’écarte radicalement des représentations classiques de ces vastes paysages. Dans ces espaces que tous opposent, la lumière s’impose et stimule l’onirisme.
+
+    Auteur & photojournaliste indépendant, Jean-François Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture.
+
+    \-Premier Prix Ilford de la photographie Noir et Blanc de l’année 1998
+
+    \-Prix Ilford 1996 et 2000
 
 ---
