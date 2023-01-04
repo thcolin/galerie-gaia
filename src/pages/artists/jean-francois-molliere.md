@@ -54,6 +54,30 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   La Martiniére Release October 2012"
 exhibitions: []
 works:
+- title: Exposition 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_A5_recto.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Une lumière, une atmosphère, un grain singulier.\n\nJean-François
+    Mollière nous fait découvrir son intime perception des mégapoles et ses réalités
+    fantasmées des paysages désertiques. Un ailleurs poétique, souvent mystérieux,
+    sans aucun doute le début de narrations cinématographiques.\n\nLa série montrée
+    à la galerie Gaïa s’articule autour de 2 thématiques qui semble si différentes.
+    La première, architecturé et incarné des grandes villes de l’Est américain, nous
+    plonge dans des vapeurs et des flottements intemporelles. La seconde, désertique,
+    chaude et minéral de la Namibie, s’écarte radicalement des représentations classiques
+    de ces vastes paysages. Dans ces espaces que tous opposent, la lumière s’impose
+    et stimule l’onirisme. \n\nAuteur & photojournaliste indépendant, Jean-François
+    Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art,
+    du sport, et de l’architecture.\n\n* Premier Prix Ilford de la photographie Noir
+    et Blanc de l’année 1998\n* Prix Ilford 1996 et 2000"
+  price: ''
+  contextual: false
 - title: Chicago 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-CHICAGO 58 X 65.25.jpg
