@@ -1150,5 +1150,12 @@ articles:
     \"catalogue galerie\")  \nles 9 artistes exposé-es en 2022\n\nToma-l  \nEdwin
     Wide  \nMarie Bathelier  \nFrançoise Paressant  \nIsthme  \nJob  \nJudith Wolfe
     \ \nPierre Tual  \nGeorges Rousse"
+- template: article
+  date: '2023-01-10T11:29:02Z'
+  categories:
+  - Exposition
+  title: Exposition Jean-François MOLLIERE
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_AFF_B1.jpg
+  content: wx<
 
 ---
