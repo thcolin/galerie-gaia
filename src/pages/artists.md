@@ -2,6 +2,7 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/bard-francois.md
@@ -28,7 +29,6 @@ artists:
 - artist: src/pages/artists/bathelier-marie.md
 - artist: src/pages/artists/aline-isoard.md
 - artist: src/pages/artists/franco-salas-borquez.md
-- artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/job.md
 - artist: src/pages/artists/chretien-manolo.md
 - artist: src/pages/artists/philippe-lecomte.md

@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Décembre 2022
+title: Janvier 2023
 location: ''
 birth: "0"
 death: "0"
@@ -12,8 +12,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Calendrier de l'avent 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ 0 CALENDRIER DE
-    L'AVENT COUVERTURE .jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_Logo_300x130.png
   fields: []
   styles: []
   weight: 0
