@@ -46,7 +46,16 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: ''
+  description: "La série montrée à la galerie Gaïa s’articule autour de deux thématiques
+    qui semblent s’opposer.\n\nLa première, architecturée et incarnée des grandes
+    villes de l’Est américain, nous plonge dans des vapeurs et des flottements intemporels.\n\nLa
+    seconde, désertique, chaude et minérale de la Namibie, s’écarte radicalement des
+    représentations classiques de ces vastes paysages.\n\nQuelques contrastes qui
+    doucement s’immiscent en nous et stimulent l’onirisme.\n\nAuteur & photojournaliste
+    indépendant, Jean-François Molliere a collaboré à de nombreux ouvrages et magazines
+    dans le domaine de l’art, du sport, et de l’architecture.  \n  \n\\-Premier Prix
+    Ilford de la photographie Noir et Blanc de l’année 1998\n\n\\-Prix Ilford 1996
+    et 2000"
   price: ''
   contextual: false
   technique: A partir de 11H
@@ -76,19 +85,6 @@ works:
   description: Tirage en 5 exemplaires caisse américaine noire en bois
   price: 1300
   contextual: true
-- title: Chicago 45
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 45 80X80.jpg
-  technique: Tirage jet d'encre pigmentaire sur papier contrecollé sur dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: 'Tirage à 5 exemplaires caisse américaine noire '
-  price: 1500
-  contextual: true
 - title: Chicago 27
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-Chicago 27 90X70.jpg
@@ -100,32 +96,6 @@ works:
     width: 79
     depth: 0
   description: Tirage en 5 exemplaires  caisse américaine noire en bois
-  price: 1800
-  contextual: true
-- title: 'New York 44 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-NY 44-80 X 80.jpg
-  technique: Tirage jet d'encre pigmentaire sur papier contrecollé sur dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: 'Tirage à 5 exemplaires caisse américaine noire '
-  price: 1500
-  contextual: true
-- title: 'Chicago 45 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-Chicago 45 80X80.jpg
-  technique: 'Tirage jet d''encre pigmentaire '
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: Tirage en 5 exemplaires caisse américaine noire bois
   price: 1800
   contextual: true
 - title: New York 7
