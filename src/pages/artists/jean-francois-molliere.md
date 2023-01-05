@@ -15,16 +15,13 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   590€.**\n\n***\n\nAuteur photographe, reporter indépendant et journaliste, le manceau
   Jean-François Mollière a collaboré à de nombreux ouvrages et magazines dans le domaine
   de l’art, du sport, et de l’architecture. Directeur artistique, Jean-François Mollière
-  scénographie également des aménagements photographiques de lieux publics et privés.
-  \n\nQuête d’une mise en abîme, celle de la fiction dans le réel, du reflet sur la
-  surface, de l’image dans le cadre.\n\nQuête du champ des possibles dans ce besoin
-  en tension qui précède l’acte photographique.\n\nQuête de l’autre, en qui l’on se
-  reconnaît.\n\nEn 30 ans de recherches photographiques, Jean-François Mollière n’a
-  cessé de se défaire des accoutumances, d’aller là où l’imaginaire devient plus fort.
-  Pour battre en brèche l’inéluctabilité de la finitude, pour résister, inexorablement.
-  On reconnaît dans sa photographie, des images, des icônes très inspirées par le
-  cinéma et la peinture.\" \n\nValérie Fade-Py\n\n**Récompenses :**\n\n* Premier Prix
-  Ilford de la photographie Noir et Blanc de l'année 1998\n* Prix Ilford 1996 et 2000\n\n**Livres
+  scénographie également des aménagements photographiques de lieux publics et privés.\n\nEn
+  30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire
+  des accoutumances, d’aller là où l’imaginaire devient plus fort. Pour battre en
+  brèche l’inéluctabilité de la finitude, pour résister, inexorablement. On reconnaît
+  dans sa photographie, des images, des icônes très inspirées par le cinéma et la
+  peinture.\"\n\nValérie Fade-Py\n\n**Récompenses :**\n\n* Premier Prix Ilford de
+  la photographie Noir et Blanc de l'année 1998\n* Prix Ilford 1996 et 2000\n\n**Livres
   :**\n\n* \"Des Routes\" Production Edition Macadam Photographies 1994\n* \"24 Heures
   Production Edition\"Transit Collectif de Photographes 1996\n* \"Près de Etoiles\"
   Production Edition \"Près des Etoiles\" Juin 2012\n* \" Hand Art\" Production FFHB
@@ -33,24 +30,14 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   and journalist from Mance, has collaborated on numerous books and magazines in the
   fields of art, sports and architecture. As an artistic director, he also designs
   photographic installations for public and private places. These commissioned works
-  necessarily bear the imprint of his photographic research.\n\nA research that takes
-  the form of itineraries, a quest for protean images.\n\nA quest for a mise en abyme,
-  that of fiction in reality, of the reflection on the surface, of the image in the
-  frame.\n\nQuest for the field of possibilities in this need in tension which precedes
-  the photographic act.\n\nQuest for the other, in whom one recognizes oneself.\n\nAn
-  image long sought after, sifted through the sieve of anecdotal seduction, a tested
-  image.\n\nIn 30 years of photographic research, Jean-François Mollière has never
-  ceased to break away from habit, to go where the imagination becomes stronger. To
-  beat back the ineluctability of finitude, to resist, inexorably. We recognize in
-  his photography, images, icons very inspired by cinema and painting.\" Valerie Fade-Py\n\nAwards:\n\n*
-  First Ilford Prize for Black and White Photography of the Year 1998\n* Ilford Award
-  1996 and 2000\n\nBooks:\n\n* \"Des Routes\" Production Edition Macadam Photographs
-  1994\n* \"24 Hours Production Edition \"Transit Collective of Photographers 1996\n*
-  \"Near the Stars\" Production Edition \"Near the Stars\" June 2012\n* \"Hand Art\"
-  Production FFHB Edition De La Martiniére Release October 2012"
+  necessarily bear the imprint of his photographic research.\n\nIn 30 years of photographic
+  research, Jean-François Mollière has never ceased to break away from habit, to go
+  where the imagination becomes stronger. To beat back the ineluctability of finitude,
+  to resist, inexorably. We recognize in his photography, images, icons very inspired
+  by cinema and painting.\" Valerie Fade-Py"
 exhibitions: []
 works:
-- title: Exposition 2023
+- title: 'Vernissage en présence de l''artiste samedi 14 janvier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
   fields: []
   styles: []
@@ -59,21 +46,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Une lumière, une atmosphère, un grain singulier.\n\nJean-François
-    Mollière nous fait découvrir son intime perception des mégapoles et ses réalités
-    fantasmées des paysages désertiques. Un ailleurs poétique, souvent mystérieux,
-    sans aucun doute le début de narrations cinématographiques.\n\nLa série montrée
-    à la galerie Gaïa s’articule autour de 2 thématiques qui semble si différentes.
-    La première, architecturé et incarné des grandes villes de l’Est américain, nous
-    plonge dans des vapeurs et des flottements intemporelles. La seconde, désertique,
-    chaude et minéral de la Namibie, s’écarte radicalement des représentations classiques
-    de ces vastes paysages. Dans ces espaces que tous opposent, la lumière s’impose
-    et stimule l’onirisme. \n\nAuteur & photojournaliste indépendant, Jean-François
-    Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art,
-    du sport, et de l’architecture.\n\n* Premier Prix Ilford de la photographie Noir
-    et Blanc de l’année 1998\n* Prix Ilford 1996 et 2000"
+  description: ''
   price: ''
   contextual: false
+  technique: A partir de 11H
 - title: Chicago 49
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-CHICAGO 58 X 65.25.jpg
