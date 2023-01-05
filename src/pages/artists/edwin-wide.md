@@ -142,7 +142,7 @@ works:
   description: "2022"
   price: 3400
   contextual: true
-  sold: true
+  sold: false
 - title: TPDNE 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-TPDNE1 100x150 cm.jpg
@@ -174,7 +174,7 @@ works:
   price: 3400
   contextual: true
   technique: Acrylique sur toile
-  sold: true
+  sold: false
 - title: Bal Angers 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin
     wide-Bal Angers 3 116x89 cm.jpg
@@ -189,7 +189,7 @@ works:
   description: "2022"
   price: 2500
   contextual: true
-  sold: true
+  sold: false
 - title: Soldat 1915
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     Wide-SOLDAT 1915-195x130cm.jpg
