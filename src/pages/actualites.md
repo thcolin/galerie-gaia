@@ -1156,19 +1156,18 @@ articles:
   - Exposition
   title: Exposition Jean-François MOLLIERE
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
-  content: |-
-    La série montrée à la galerie Gaïa s’articule autour de deux thématiques qui semblent s’opposer.
-
-    La première, architecturée et incarnée des grandes villes de l’Est américain, nous plonge dans des vapeurs et des flottements intemporels.
-
-    La seconde, désertique, chaude et minérale de la Namibie, s’écarte radicalement des représentations classiques de ces vastes paysages.
-
-    Quelques contrastes qui doucement s’immiscent en nous et stimulent l’onirisme.
-
-    Auteur & photojournaliste indépendant, Jean-François Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture.
-
-    \-Premier Prix Ilford de la photographie Noir et Blanc de l’année 1998
-
-    \-Prix Ilford 1996 et 2000
+  content: "Une lumière, une atmosphère, un grain singulier.  \nJean-François Mollière
+    nous fait découvrir son intime perception des mégapoles et ses réalités fantasmées
+    des paysages désertiques.  \nUn ailleurs poétique, souvent mystérieux, sans aucun
+    doute le début de narrations cinématographiques.\n\nLa série montrée à la galerie
+    Gaïa s’articule autour de deux thématiques qui semblent s’opposer.  \nLa première,
+    architecturée et incarnée des grandes villes de l’Est américain, nous plonge dans
+    des vapeurs et des flottements intemporels.  \nLa seconde, désertique, chaude
+    et minérale de la Namibie, s’écarte radicalement des représentations classiques
+    de ces vastes paysages.\n\nQuelques contrastes qui doucement s’immiscent en nous
+    et stimulent l’onirisme.\n\nAuteur & photojournaliste indépendant, Jean-François
+    Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art,
+    du sport, et de l’architecture.\n\n\\-Premier Prix Ilford de la photographie Noir
+    et Blanc de l’année 1998\n\n\\-Prix Ilford 1996 et 2000"
 
 ---

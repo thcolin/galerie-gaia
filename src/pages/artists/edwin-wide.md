@@ -203,6 +203,7 @@ works:
   description: Vendu
   price: ''
   contextual: true
+  sold: true
 - title: IDFRA EA
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Edwin
     WIDE Donnart-IDFRA EA-130x97cm.jpg
@@ -225,7 +226,7 @@ works:
     height: 195
     width: 130
     depth: 0
-  description: "2017"
+  description: 2017 Disponible en réserve sur rendez-vous atelier d'artiste
   price: 5000
   contextual: true
 - title: 6-11-19 22H01
@@ -240,17 +241,6 @@ works:
     depth: 0
   description: "2019"
   price: 2700
-  contextual: true
-- title: 03/01/18 14:15
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/030118-1415.jpg
-  technique: Technique mixte spray & acrylique sur bois
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: "2018"
-  price: 2400
-  sold: false
   contextual: true
 - title: Fresque Urbaine Nantes Rue Arche Sèche
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-edwin-wide-fresque-arche-seche-nantes.jpg
