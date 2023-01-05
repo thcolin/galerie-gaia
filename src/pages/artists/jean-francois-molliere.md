@@ -51,7 +51,7 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
 exhibitions: []
 works:
 - title: Exposition 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_A5_recto.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
   fields: []
   styles: []
   weight: 0

@@ -2,7 +2,6 @@
 template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_MP_recto.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
     fremont - nuage -IMG_6727.jpg
 redirect_from:
