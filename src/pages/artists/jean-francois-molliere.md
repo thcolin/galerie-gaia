@@ -37,6 +37,34 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   by cinema and painting.\" Valerie Fade-Py"
 exhibitions: []
 works:
+- title: New York 59
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF0045 new.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 91
+    width: 69
+    depth: 0
+  description: 'caisse américaine bois noir '
+  price: 2200
+  contextual: true
+- title: Paysages sensibles 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0709 L 92 x
+    H 90 paysages sensibles 2.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 92
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 1800
+  contextual: true
 - title: 'Paysages sensibles 5 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1880 L 48 x
     H 50 Paysages sensibles 5.jpg
