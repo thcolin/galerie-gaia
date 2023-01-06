@@ -3,6 +3,8 @@ template: home
 carousel:
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
     françois molliere -DSF0045 new.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1144 75x63 Paysagesc
+    sensibles 3.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
     françois molliere -DSF0668-Pano v 230,30 cm x 108 cm.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier

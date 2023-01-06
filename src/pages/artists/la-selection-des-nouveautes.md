@@ -11,19 +11,17 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
-- title: Calendrier de l'avent 2022
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_Logo_300x130.png
+- title: Nouveautés
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
   styles: []
-  weight: 0
   dimensions:
     height: 0
     width: 0
     depth: 0
-  description: "Pour découvrir tous les jours nos propositions   \nAbonnes vous sur
-    Instagram Facebook"
+  description: ''
   price: ''
-  contextual: true
+  contextual: false
 - title: Versant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2215.JPG
   technique: Sérigraphie
@@ -284,17 +282,6 @@ works:
     depth: 0
   description: '# [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
     "van velde bram") '
-  price: ''
-  contextual: false
-- title: Nouveautés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
   price: ''
   contextual: false
 redirect_from:
