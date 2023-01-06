@@ -37,6 +37,111 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   by cinema and painting.\" Valerie Fade-Py"
 exhibitions: []
 works:
+- title: 'Vernissage en présence de l''artiste samedi 14 janvier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "La série montrée à la galerie Gaïa s’articule autour de deux thématiques
+    qui semblent s’opposer.\n\nLa première, architecturée et incarnée des grandes
+    villes de l’Est américain, nous plonge dans des vapeurs et des flottements intemporels.\n\nLa
+    seconde, désertique, chaude et minérale de la Namibie, s’écarte radicalement des
+    représentations classiques de ces vastes paysages.\n\nQuelques contrastes qui
+    doucement s’immiscent en nous et stimulent l’onirisme.\n\nAuteur & photojournaliste
+    indépendant, Jean-François Molliere a collaboré à de nombreux ouvrages et magazines
+    dans le domaine de l’art, du sport, et de l’architecture.  \n  \n\\-Premier Prix
+    Ilford de la photographie Noir et Blanc de l’année 1998\n\n\\-Prix Ilford 1996
+    et 2000"
+  price: ''
+  contextual: false
+  technique: A partir de 11H
+- title: Paysages sensibles 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0709 L 92 x
+    H 90 paysages sensibles 2.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 92
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 1800
+  contextual: true
+- title: 'Paysages sensibles 5 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1880 L 48 x
+    H 50 Paysages sensibles 5.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 48
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 1300
+  contextual: true
+- title: Paysages sensibles 4
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF9829 90 x 90
+    Paysages sensibles 4.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 90
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 1800
+  contextual: true
+- title: Paysage sensible 1
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0168 L 110 x
+    93 paysages sensibles 1.jpg
+  technique: 'Photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 47
+    width: 45
+    depth: 0
+  description: 'Caisse américaine noire '
+  price: 1300
+  contextual: true
+- title: Paysage sensible 7
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSCF2654 60 x 45
+    paysages sensibles 7.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 45
+    width: 60
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 1400
+  contextual: true
+- title: New York 69
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF2670.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 87
+    width: 130
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 2500
+  contextual: true
 - title: New York 72
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
     françois molliere -DSF2451-Pano.jpg
@@ -93,97 +198,6 @@ works:
   description: 'caisse américaine bois noir '
   price: 2200
   contextual: true
-- title: Paysages sensibles 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0709 L 92 x
-    H 90 paysages sensibles 2.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 90
-    width: 92
-    depth: 0
-  description: Caisse américaine bois noir
-  price: 1800
-  contextual: true
-- title: 'Paysages sensibles 5 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1880 L 48 x
-    H 50 Paysages sensibles 5.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 50
-    width: 48
-    depth: 0
-  description: Caisse américaine bois noir
-  price: 1300
-  contextual: true
-- title: Paysages sensibles 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF9829 90 x 90
-    Paysages sensibles 4.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: Caisse américaine bois noir
-  price: 1800
-  contextual: true
-- title: Paysage sensible 7
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSCF2654 60 x 45
-    paysages sensibles 7.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 45
-    width: 60
-    depth: 0
-  description: Caisse américaine bois noir
-  price: 1400
-  contextual: true
-- title: Paysage sensible 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0168 L 110 x
-    93 paysages sensibles 1.jpg
-  technique: 'Photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 47
-    width: 45
-    depth: 0
-  description: 'Caisse américaine noire '
-  price: 1300
-  contextual: true
-- title: 'Vernissage en présence de l''artiste samedi 14 janvier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: "La série montrée à la galerie Gaïa s’articule autour de deux thématiques
-    qui semblent s’opposer.\n\nLa première, architecturée et incarnée des grandes
-    villes de l’Est américain, nous plonge dans des vapeurs et des flottements intemporels.\n\nLa
-    seconde, désertique, chaude et minérale de la Namibie, s’écarte radicalement des
-    représentations classiques de ces vastes paysages.\n\nQuelques contrastes qui
-    doucement s’immiscent en nous et stimulent l’onirisme.\n\nAuteur & photojournaliste
-    indépendant, Jean-François Molliere a collaboré à de nombreux ouvrages et magazines
-    dans le domaine de l’art, du sport, et de l’architecture.  \n  \n\\-Premier Prix
-    Ilford de la photographie Noir et Blanc de l’année 1998\n\n\\-Prix Ilford 1996
-    et 2000"
-  price: ''
-  contextual: false
-  technique: A partir de 11H
 - title: Chicago 46
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-Chicago 46-58x58.jpg

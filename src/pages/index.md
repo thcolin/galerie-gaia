@@ -1,7 +1,10 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF0045 new.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF0668-Pano v 230,30 cm x 108 cm.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
     fremont - nuage -IMG_6727.jpg
 redirect_from:
