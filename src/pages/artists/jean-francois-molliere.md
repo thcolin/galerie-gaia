@@ -59,19 +59,6 @@ works:
   price: ''
   contextual: false
   technique: A partir de 11H
-- title: Chicago 49
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
-    francois molliere-CHICAGO 58 X 65.25.jpg
-  technique: Tirage jet d'encre pigmentaire sur dibond
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 58
-    depth: 0
-  description: Tirage en 5 exemplaires caisse américaine noire
-  price: 1300
-  contextual: true
 - title: Chicago 46
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
     francois molliere-Chicago 46-58x58.jpg
@@ -119,30 +106,6 @@ works:
     depth: 0
   description: " Encadrement blanc standard 1/10"
   price: 590
-  contextual: true
-- title: New York 17
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-new-york-17-l-0-30m-x-h-0-30-m.jpg
-  technique: 'Photographie tirage jet d''encre pigmentaire '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: Tirage 10 exemplaires
-  price: 590
-  contextual: true
-- title: New York 13
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jeanfrancois-molliere-new-york-13-75-x-68.jpg
-  technique: 'Photographie tirage jet d''encre pigmentaire sur dibond '
-  fields: []
-  styles: []
-  dimensions:
-    height: 75
-    width: 68
-    depth: 0
-  description: 'Tirage en 2/5 exemplaires caisse américaine noire bois '
-  price: 1500
   contextual: true
 - title: New York 11
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg
