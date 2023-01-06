@@ -140,29 +140,6 @@ works:
     blanc standard 1/10
   price: 590
   contextual: true
-- title: New York 9
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere  New
-    York 3 061.JPG
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  dimensions:
-    height: 80
-    width: 65
-    depth: 0
-  description: "caisse américaine bois noir  \ntirage 2/5 "
-  price: 1800
-  contextual: true
-- title: Chicago 25
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago25-40x40.jpg
-  technique: 'Photographie jet d''encre pigmentaire '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: 'œuvre encadrée '
-  price: 590
-  contextual: true
 - title: Chicago 21
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean-francois-molliere-chicago-21-86x80-light.jpg
   technique: 'Photographie '
@@ -173,17 +150,6 @@ works:
   description: "Tirage jet d'encre pigmentaire papier contrecollé dibond caisse américaine
     noire 1/10  \nLe grand format 112X105 de l'exposition est épuisé."
   price: 1800
-  contextual: true
-- title: Tokyo 7
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere Des
-    souvenirs de Villes Des Souvenirs d'Amours 22 26.JPG
-  technique: photographie tirage papier fine art contrecollé sur dibond caisse américaine
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 590
   contextual: true
 - title: Tokyo 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/JF Molliere Des
