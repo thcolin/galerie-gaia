@@ -31,7 +31,7 @@ exhibitions:
   start: Eté 2018
 works:
 - title: Corail kaki bleu ciel et bleu cobalt
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6333.jpg
   technique: Sérigraphie Edition limitée à 30 exemplaires
   fields: []
@@ -45,7 +45,7 @@ works:
   price: 180
   contextual: true
 - title: Grande coupe algue curry
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6317.jpg
   technique: 'Céramique pièce unique '
   fields:
@@ -87,20 +87,6 @@ works:
   description: ''
   price: 90
   contextual: true
-- title: Trio algues bleues
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valerie
-    leroux-IMG_6494.jpg
-  technique: Sérigraphie Edition limitée n° 7/50
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 45
-    width: 92
-    depth: 0
-  description: ''
-  price: 85
-  contextual: true
 - title: Sérigraphie bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - valerie
     leroux -serigraphie bleue.jpg
@@ -116,7 +102,7 @@ works:
   price: 180
   contextual: true
 - title: Végétal orange vif et bleu marine format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6337.jpg
   technique: Sérigraphie Edition limitée à 50 exemplaires
   fields: []
@@ -130,7 +116,7 @@ works:
   price: 85
   contextual: true
 - title: Végétal bleu ciel et foncé format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6336.jpg
   technique: Sérigraphie Edition limitée à 50 exemplaires
   fields: []
@@ -144,7 +130,7 @@ works:
   price: 85
   contextual: true
 - title: Vase vert clair
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     le roux-galerie-gaia-IMG_6318.jpg
   technique: 'Céramique pièce unique '
   fields:
@@ -159,7 +145,7 @@ works:
   price: 175
   contextual: false
 - title: Algue bleu ciel et foncé  format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6335.jpg
   technique: Sérigraphie Edition limitée à 50 exemplaires
   fields: []
@@ -173,7 +159,7 @@ works:
   price: 85
   contextual: true
 - title: Corail Orange Bleu marine format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6342.jpg
   technique: 'Sérigraphie '
   fields: []
@@ -187,7 +173,7 @@ works:
   price: 85
   contextual: true
 - title: Végétal orange vif format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6339.jpg
   technique: Sérigraphie Edition limitée à 80 exemplaires
   fields: []
@@ -215,7 +201,7 @@ works:
   price: 198
   contextual: false
 - title: Corail orangé et bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6332.jpg
   technique: Sérigraphie Edition limitée à 30 exemplaires
   fields: []
@@ -229,7 +215,7 @@ works:
   price: 180
   contextual: true
 - title: 'Trio végetal rouge bleu marine et clair '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6328.jpg
   technique: Sérigraphie Edition limitée à 50 exemplaires
   fields: []
@@ -243,7 +229,7 @@ works:
   price: 85
   contextual: true
 - title: 'Algue jaune '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6325.jpg
   technique: Sérigraphie Edition limitée à 50 exemplaires
   fields: []
@@ -257,7 +243,7 @@ works:
   price: 95
   contextual: true
 - title: Algue vert argile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6326.jpg
   technique: Sérigraphie Edition en 50 exemplaire
   fields: []
@@ -271,7 +257,7 @@ works:
   price: 95
   contextual: true
 - title: Sérigraphie orange
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6331.jpg
   technique: Sérigraphie Edition 30 exemplaires sur papier frangé
   fields: []
@@ -294,7 +280,7 @@ works:
   description: ''
   price: 180
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6330.jpg
   title: Sérigraphie verte
   technique: Sérigraphie Edition 30 exemplaires sur papier frangé
@@ -311,18 +297,6 @@ works:
     depth: 0
   description: Edition limitée 50 exemplaires
   price: 95
-  contextual: true
-- title: Balânes -  bleu sur fond vert argile
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143707.jpg
-  technique: 'Sérigraphie  signée numérotée en 21/50 '
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: "2020"
-  price: 90
   contextual: true
 - title: 'Trio Poissons rayés rouge orangé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211113_143438.jpg
@@ -351,7 +325,7 @@ works:
   fields:
   - Oeuvre sur papier
 - title: 'Homard rouge '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
     leroux-IMG_6324.jpg
   technique: 'Sérigraphie '
   fields: []
