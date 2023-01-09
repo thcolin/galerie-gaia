@@ -21,20 +21,21 @@ biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 
   brèche l’inéluctabilité de la finitude, pour résister, inexorablement. On reconnaît
   dans sa photographie, des images, des icônes très inspirées par le cinéma et la
   peinture.\"\n\nValérie Fade-Py\n\n**Récompenses :**\n\n* Premier Prix Ilford de
-  la photographie Noir et Blanc de l'année 1998\n* Prix Ilford 1996 et 2000\n\n**Livres
-  :**\n\n* \"Des Routes\" Production Edition Macadam Photographies 1994\n* \"24 Heures
-  Production Edition\"Transit Collectif de Photographes 1996\n* \"Près de Etoiles\"
-  Production Edition \"Près des Etoiles\" Juin 2012\n* \" Hand Art\" Production FFHB
-  Edition De La Martiniére Sortie Octobre 2012\n\n> A photographic research synonymous
-  with multiple quests\n\n\"Jean-François Mollière, a photographer, freelance reporter
-  and journalist from Mance, has collaborated on numerous books and magazines in the
-  fields of art, sports and architecture. As an artistic director, he also designs
-  photographic installations for public and private places. These commissioned works
-  necessarily bear the imprint of his photographic research.\n\nIn 30 years of photographic
-  research, Jean-François Mollière has never ceased to break away from habit, to go
-  where the imagination becomes stronger. To beat back the ineluctability of finitude,
-  to resist, inexorably. We recognize in his photography, images, icons very inspired
-  by cinema and painting.\" Valerie Fade-Py"
+  la photographie Noir et Blanc de l'année 1998\n* Prix Ilford 1996 et 2000\n* Prix
+  de la photographie urbaine de la MEP 2021 (Maison Européenne de la photographie)
+  et du magazine Fisheye\n\n**Livres :**\n\n* \"Des Routes\" Production Edition Macadam
+  Photographies 1994\n* \"24 Heures Production Edition\"Transit Collectif de Photographes
+  1996\n* \"Près de Etoiles\" Production Edition \"Près des Etoiles\" Juin 2012\n*
+  \" Hand Art\" Production FFHB Edition De La Martiniére Sortie Octobre 2012\n\n>
+  A photographic research synonymous with multiple quests\n\n\"Jean-François Mollière,
+  a photographer, freelance reporter and journalist from Mance, has collaborated on
+  numerous books and magazines in the fields of art, sports and architecture. As an
+  artistic director, he also designs photographic installations for public and private
+  places. These commissioned works necessarily bear the imprint of his photographic
+  research.\n\nIn 30 years of photographic research, Jean-François Mollière has never
+  ceased to break away from habit, to go where the imagination becomes stronger. To
+  beat back the ineluctability of finitude, to resist, inexorably. We recognize in
+  his photography, images, icons very inspired by cinema and painting.\" Valerie Fade-Py"
 exhibitions: []
 works:
 - title: 'Vernissage en présence de l''artiste samedi 14 janvier '

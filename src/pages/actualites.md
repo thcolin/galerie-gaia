@@ -1167,7 +1167,8 @@ articles:
     de ces vastes paysages.\n\nQuelques contrastes qui doucement s’immiscent en nous
     et stimulent l’onirisme.\n\nAuteur & photojournaliste indépendant, Jean-François
     Molliere a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art,
-    du sport, et de l’architecture.\n\n\\-Premier Prix Ilford de la photographie Noir
-    et Blanc de l’année 1998\n\n\\-Prix Ilford 1996 et 2000"
+    du sport, et de l’architecture.\n\nPremier Prix Ilford de la photographie Noir
+    et Blanc de l’année 1998  \nPrix Ilford 1996 et 2000  \nPrix de la photographie
+    urbaine de la MEP 2021 (Maison Européenne de la photographie) et du magazine Fisheye"
 
 ---
