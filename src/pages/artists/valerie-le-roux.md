@@ -172,20 +172,6 @@ works:
   description: ''
   price: 85
   contextual: true
-- title: Végétal orange vif format allongé
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-valérie
-    leroux-IMG_6339.jpg
-  technique: Sérigraphie Edition limitée à 80 exemplaires
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 92
-    width: 32
-    depth: 0
-  description: ''
-  price: 85
-  contextual: true
 - title: Grande bouteille motif bleu et noir
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_6348.jpg
   technique: 'Céramique pièce unique '
