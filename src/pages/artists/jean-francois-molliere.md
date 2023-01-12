@@ -6,36 +6,37 @@ field: Photographe
 birth: "0"
 death: "0"
 expose: true
-biography: "# Jean-François Mollière\n\n**Photos grand  format éditées en 5 exemplaires
-  \ tirage sur papier jet d'encre pigmentaire contrecollé sur dibon et encadré dans
-  caisse américaine bois :  \nFormat supérieur à 100cm   2 200€  \nFormat entre 80
-  et 90cm     1800€  \nFormat entre 50 et 70cm     1500€**\n\n**Photos entre 40X40
-  ou 40X30 cm éditées en 10 exemplaires  tirage sur papier jet d'encre pigmentaire
-  contrecollé sur dibond et encadrée dans un cadre bois avec passe-partout blanc :
-  590€.**\n\n***\n\nAuteur photographe, reporter indépendant et journaliste, le manceau
-  Jean-François Mollière a collaboré à de nombreux ouvrages et magazines dans le domaine
-  de l’art, du sport, et de l’architecture. Directeur artistique, Jean-François Mollière
-  scénographie également des aménagements photographiques de lieux publics et privés.\n\nEn
-  30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire
-  des accoutumances, d’aller là où l’imaginaire devient plus fort. Pour battre en
-  brèche l’inéluctabilité de la finitude, pour résister, inexorablement. On reconnaît
-  dans sa photographie, des images, des icônes très inspirées par le cinéma et la
-  peinture.\"\n\nValérie Fade-Py\n\n**Récompenses :**\n\n* Premier Prix Ilford de
-  la photographie Noir et Blanc de l'année 1998\n* Prix Ilford 1996 et 2000\n* Prix
-  de la photographie urbaine de la MEP 2021 (Maison Européenne de la photographie)
-  et du magazine Fisheye\n\n**Livres :**\n\n* \"Des Routes\" Production Edition Macadam
-  Photographies 1994\n* \"24 Heures Production Edition\"Transit Collectif de Photographes
-  1996\n* \"Près de Etoiles\" Production Edition \"Près des Etoiles\" Juin 2012\n*
-  \" Hand Art\" Production FFHB Edition De La Martiniére Sortie Octobre 2012\n\n>
-  A photographic research synonymous with multiple quests\n\n\"Jean-François Mollière,
-  a photographer, freelance reporter and journalist from Mance, has collaborated on
-  numerous books and magazines in the fields of art, sports and architecture. As an
-  artistic director, he also designs photographic installations for public and private
-  places. These commissioned works necessarily bear the imprint of his photographic
-  research.\n\nIn 30 years of photographic research, Jean-François Mollière has never
-  ceased to break away from habit, to go where the imagination becomes stronger. To
-  beat back the ineluctability of finitude, to resist, inexorably. We recognize in
-  his photography, images, icons very inspired by cinema and painting.\" Valerie Fade-Py"
+biography: |-
+  # Jean-François Mollière
+
+  **Photos grand  format éditées en 9 exemplaires  tirage sur papier jet d'encre pigmentaire contrecollé sur dibon et encadré dans caisse américaine bois :**
+
+  ***
+
+  Auteur photographe, reporter indépendant et journaliste, le manceau Jean-François Mollière a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture. Directeur artistique, Jean-François Mollière scénographie également des aménagements photographiques de lieux publics et privés.
+
+  En 30 ans de recherches photographiques, Jean-François Mollière n’a cessé de se défaire des accoutumances, d’aller là où l’imaginaire devient plus fort. Pour battre en brèche l’inéluctabilité de la finitude, pour résister, inexorablement. On reconnaît dans sa photographie, des images, des icônes très inspirées par le cinéma et la peinture."
+
+  Valérie Fade-Py
+
+  **Récompenses :**
+
+  * Premier Prix Ilford de la photographie Noir et Blanc de l'année 1998
+  * Prix Ilford 1996 et 2000
+  * Prix de la photographie urbaine de la MEP 2021 (Maison Européenne de la photographie) et du magazine Fisheye
+
+  **Livres :**
+
+  * "Des Routes" Production Edition Macadam Photographies 1994
+  * "24 Heures Production Edition"Transit Collectif de Photographes 1996
+  * "Près de Etoiles" Production Edition "Près des Etoiles" Juin 2012
+  * " Hand Art" Production FFHB Edition De La Martiniére Sortie Octobre 2012
+
+  > A photographic research synonymous with multiple quests
+
+  "Jean-François Mollière, a photographer, freelance reporter and journalist from Mance, has collaborated on numerous books and magazines in the fields of art, sports and architecture. As an artistic director, he also designs photographic installations for public and private places. These commissioned works necessarily bear the imprint of his photographic research.
+
+  In 30 years of photographic research, Jean-François Mollière has never ceased to break away from habit, to go where the imagination becomes stronger. To beat back the ineluctability of finitude, to resist, inexorably. We recognize in his photography, images, icons very inspired by cinema and painting." Valerie Fade-Py
 exhibitions: []
 works:
 - title: 'Vernissage en présence de l''artiste samedi 14 janvier '
@@ -72,7 +73,7 @@ works:
     width: 92
     depth: 0
   description: Caisse américaine bois noir
-  price: 1800
+  price: 2200
   contextual: true
 - title: 'Paysages sensibles 5 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1880 L 48 x
@@ -81,11 +82,11 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 50
-    width: 48
+    height: 55
+    width: 53
     depth: 0
   description: Caisse américaine bois noir
-  price: 1300
+  price: 980
   contextual: true
 - title: Paysages sensibles 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF9829 90 x 90
@@ -99,7 +100,7 @@ works:
     width: 90
     depth: 0
   description: Caisse américaine bois noir
-  price: 1800
+  price: 2200
   contextual: true
 - title: Paysage sensible 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0168 L 110 x
@@ -109,11 +110,11 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 47
-    width: 45
+    height: 98
+    width: 115
     depth: 0
   description: 'Caisse américaine noire '
-  price: 1300
+  price: 2400
   contextual: true
 - title: Paysage sensible 7
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSCF2654 60 x 45
@@ -123,11 +124,11 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 45
+    height: 50
     width: 60
     depth: 0
   description: Caisse américaine bois noir
-  price: 1400
+  price: 990
   contextual: true
 - title: New York 69
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
@@ -137,11 +138,11 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 87
-    width: 130
+    height: 92
+    width: 135
     depth: 0
   description: Caisse américaine bois noir
-  price: 2500
+  price: 2800
   contextual: true
 - title: New York 72
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
