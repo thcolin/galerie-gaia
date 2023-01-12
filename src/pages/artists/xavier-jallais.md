@@ -41,6 +41,34 @@ biography: |-
   To understand and see the work in situ, the artist agrees to open his studio by appointment. Contact me to organize a private visit at 02-40-48-14-91 (max 6 visitors)
 exhibitions: []
 works:
+- title: Avant d'aller plus loin
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 97
+    depth: 0
+  description: Encadrement caisse américaine 2022
+  price: 2900
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-1
+    Avant d'aller plus loin.jpg
+- title: Ne plus savoir où aller
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
+    plus savoir où aller, 100x81, 2021.jpg
+  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 100
+    width: 81
+    depth: 0
+  description: ''
+  price: 1700
+  contextual: true
 - title: Ailleurs ou nulle part
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ailleurs
     ou nulle part.jpg
@@ -70,20 +98,6 @@ works:
   price: ''
   contextual: true
   sold: true
-- title: Ne plus savoir où aller
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
-    plus savoir où aller, 100x81, 2021.jpg
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: ''
-  price: 1700
-  contextual: true
 - title: Le bâtisseur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Un
     départ, à l'aube, 150x100, 2021.jpg
@@ -98,20 +112,6 @@ works:
   contextual: true
   fields:
   - Peinture
-- title: Avant d'aller plus loin
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: Encadrement caisse américaine 2022
-  price: 2900
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-1
-    Avant d'aller plus loin.jpg
 - title: Cerf 1 (4/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²

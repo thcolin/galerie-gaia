@@ -130,20 +130,6 @@ works:
   description: Caisse américaine bois noir
   price: 990
   contextual: true
-- title: New York 69
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF2670.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 92
-    width: 135
-    depth: 0
-  description: Caisse américaine bois noir
-  price: 2800
-  contextual: true
 - title: New York 72
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
     françois molliere -DSF2451-Pano.jpg
@@ -257,6 +243,20 @@ works:
     depth: 0
   description: Tirage en 5 exemplaires caisse américaine noire bois
   price: 2200
+  contextual: true
+- title: New York 69
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF2670.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 92
+    width: 135
+    depth: 0
+  description: Caisse américaine bois noir
+  price: 2800
   contextual: true
 - title: Tokyo 9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-tokyo-9-58x70.jpg
