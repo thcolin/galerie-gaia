@@ -152,8 +152,8 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 66
-    width: 66
+    height: 71
+    width: 71
     depth: 0
   description: Caisse américaine bois noir
   price: 1600
@@ -170,7 +170,7 @@ works:
     width: 58
     depth: 0
   description: Caisse américaine bois noir
-  price: 1400
+  price: 1600
   contextual: true
 - title: New York 50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
@@ -184,7 +184,7 @@ works:
     width: 150
     depth: 0
   description: ''
-  price: 2300
+  price: 2800
   contextual: true
 - title: New York 59
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
@@ -198,7 +198,7 @@ works:
     width: 69
     depth: 0
   description: 'caisse américaine bois noir '
-  price: 2200
+  price: 1800
   contextual: true
 - title: Chicago 46
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
@@ -211,7 +211,7 @@ works:
     width: 58
     depth: 0
   description: Tirage en 5 exemplaires caisse américaine noire en bois
-  price: 1300
+  price: 1600
   contextual: true
 - title: Chicago 27
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean
@@ -232,11 +232,11 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 102
-    width: 73
+    height: 120
+    width: 84
     depth: 0
   description: ''
-  price: 1800
+  price: 2400
   contextual: true
 - title: Tokyo 6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg
