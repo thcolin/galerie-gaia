@@ -339,14 +339,13 @@ works:
   contextual: true
 - title: New York 20
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1348.jpg
-  technique: photographie Edition tirage papier fine art sur dibond 1/5
+  technique: 'photographie Edition tirage papier fine art sur dibond '
   dimensions:
     height: 58
     width: 70
     depth: 
-  description: " caisse américaine bois  \nAutre format disponible  40X45cm 8/10 590€
-    encadrement bois blanc"
-  price: 1800
+  description: caisse américaine bois
+  price: 1600
   sold: false
   contextual: true
 - title: Chicago 23
