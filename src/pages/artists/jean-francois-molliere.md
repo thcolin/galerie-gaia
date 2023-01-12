@@ -242,11 +242,11 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-tokyo-6-40-x-30-cm-jpeg.jpg
   technique: Photographie tirage jet d'encre pigmentaire papier contrecollé dibond
   dimensions:
-    height: 35
-    width: 45
+    height: 36
+    width: 55
     depth: 0
-  description: " Encadrement blanc standard 1/10"
-  price: 590
+  description: 'Encadrement baguette blanche sous verre '
+  price: 890
   contextual: true
 - title: New York 11
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-molliere-jf-new-york-11-70-x-70-cm-jpeg.jpg
@@ -256,7 +256,7 @@ works:
     width: 90
     depth: 0
   description: Tirage en 5 exemplaires caisse américaine noire bois
-  price: 1800
+  price: 2200
   contextual: true
 - title: Tokyo 9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jf-molliere-tokyo-9-58x70.jpg
@@ -327,15 +327,14 @@ works:
   contextual: true
 - title: New York 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1347.jpg
-  technique: 'photographie edition 15 exemplaires '
+  technique: 'Tirage papier fine art sur dibon '
   dimensions:
     height: 80
     width: 80
     depth: 
-  description: "Tirage papier fine art sur dibon caisse américaine bois  \nPhotographie
-    visible à la brasserie [Le Molière](https://www.lemoliere.fr/ \"barsserie le Molière
-    \") à Nantes "
-  price: ''
+  description: "caisse américaine bois  \nPhotographie visible à la brasserie [Le
+    Molière](https://www.lemoliere.fr/ \"barsserie le Molière \") à Nantes"
+  price: 1800
   sold: false
   contextual: true
 - title: New York 20
