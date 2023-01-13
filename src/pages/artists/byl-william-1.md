@@ -36,20 +36,6 @@ works:
   price: 800
   sold: false
   contextual: false
-- title: Noire 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0014-01.jpg
-  technique: Bois brulé
-  fields: []
-  styles: []
-  weight: 10
-  dimensions:
-    height: 24
-    width: 36
-    depth: 29
-  description: ''
-  price: 1200
-  sold: false
-  contextual: false
 - title: Noire 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0013-01.jpg
   technique: Bois brulé
