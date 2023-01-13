@@ -47,6 +47,38 @@ biography: "# Pierre Muckensturm\n\nPierre MUCKENSTURM vit et travaille en Franc
   Show at La Ligne Gallery . Zürich . CH\n\n***"
 exhibitions: []
 works:
+- title: XXII 104 343 vue de biais
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 101 343 - de
+    biais copie.jpg
+  technique: métal et peinture, extrusions horizontales de seize carrés naturels positionnés
+    à 45°
+  fields:
+  - Sculpture
+  styles: []
+  weight: 0
+  dimensions:
+    height: 60
+    width: 60
+    depth: 22
+  description: "2022   \nVendue avec le protocole d'accrochage"
+  price: 3700
+  contextual: false
+- title: XXII 104 343
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 101 343 - avec
+    ombres copie.jpg
+  technique: métal et peinture, extrusions horizontales de seize carrés naturels positionnés
+    à 45°
+  fields:
+  - Sculpture
+  styles: []
+  weight: 0
+  dimensions:
+    height: 60
+    width: 60
+    depth: 22
+  description: "2022  \nvendue avec le protocole de montage"
+  price: 3700
+  contextual: false
 - title: XXII 104 348 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 104 348 - in
     situ copie.jpg
