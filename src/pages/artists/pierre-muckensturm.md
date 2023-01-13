@@ -82,7 +82,8 @@ works:
 - title: XXII 104 348 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 104 348 - in
     situ copie.jpg
-  technique: extrusions horizontales de seize carrés naturels positionnés à 45°
+  technique: acier et peinture, extrusions horizontales de seize carrés naturels positionnés
+    à 45°
   fields: []
   styles: []
   weight: 0
@@ -90,13 +91,14 @@ works:
     height: 63
     width: 63
     depth: 21
-  description: 2022 présentation
+  description: "2022   \nvendue avec le protocole d'accrochage"
   price: 3700
   contextual: false
 - title: XXII 104 348
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 104 348 - de
     face copie.jpg
-  technique: extrusions horizontales de seize carrés naturels positionnés à 45°
+  technique: acier peint, extrusions horizontales de seize carrés naturels positionnés
+    à 45°
   fields:
   - Sculpture
   styles: []
@@ -105,7 +107,7 @@ works:
     height: 63
     width: 63
     depth: 21
-  description: "2022  \nInstallation vendue avec le protocole d'installation"
+  description: "2022  \nInstallation vendue avec le protocole d'accrochage"
   price: 3700
   contextual: false
 - title: XXII 41 074
