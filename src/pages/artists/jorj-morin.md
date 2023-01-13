@@ -72,22 +72,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Tapisserie Signaux indécis
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-signauxindecis1973-118x184.jpg
-  technique: Tapisserie Lissier Pierre Daquin Atelier St Cyr
-  dimensions:
-    height: 118
-    width: 184
-    depth: 
-  description: Vendu
-  price: 
-  sold: false
-  contextual: true
-  fields:
-  - Textile
-  styles:
-  - Abstrait
-  weight: 
 - title: 'Pierre gravée '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-pierre
     gravée.jpg
