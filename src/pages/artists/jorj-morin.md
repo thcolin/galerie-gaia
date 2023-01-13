@@ -57,21 +57,6 @@ works:
   price: 150
   sold: false
   contextual: true
-- title: Lutteurs 1978
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6427.jpg
-  technique: 'Eau forte 5/50 réhausse aquarelle '
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 30
-    width: 20
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: true
 - title: L'arbre noué 1971
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
     noué.jpg
@@ -343,21 +328,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Buste sans visage 1981
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6419.jpg
-  technique: 'Eau forte 5/50 réhausse aquarelle '
-  fields: []
-  styles: []
-  dimensions:
-    height: 28.5
-    width: 19
-    depth: 
-  description: ''
-  price: 150
-  sold: false
-  contextual: true
-  weight: 
 - title: Coeur (II) 1977
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
     (II).JPG
@@ -430,21 +400,6 @@ works:
     depth: 
   description: ''
   price: 350
-  sold: false
-  contextual: true
-  weight: 
-- title: Fleur d'hiver 1981
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6420.jpg
-  technique: Eau forte 8/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 20
-    depth: 
-  description: ''
-  price: 150
   sold: false
   contextual: true
   weight: 

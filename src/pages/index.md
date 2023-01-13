@@ -1,6 +1,8 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 101 343 - détail
+    copie.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
     françois molliere -DSF0045 new.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1144 75x63 Paysagesc
