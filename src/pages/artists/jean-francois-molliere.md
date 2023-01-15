@@ -9,9 +9,7 @@ expose: true
 biography: |-
   # Jean-François Mollière
 
-  **Photos grand  format éditées en 9 exemplaires  tirage sur papier jet d'encre pigmentaire contrecollé sur dibon et encadré dans caisse américaine bois :**
-
-  ***
+  **Photos  éditées en 9 exemplaires  tirage sur papier jet d'encre pigmentaire contrecollé sur dibond et encadré dans une caisse américaine en bois.**
 
   Auteur photographe, reporter indépendant et journaliste, le manceau Jean-François Mollière a collaboré à de nombreux ouvrages et magazines dans le domaine de l’art, du sport, et de l’architecture. Directeur artistique, Jean-François Mollière scénographie également des aménagements photographiques de lieux publics et privés.
 
