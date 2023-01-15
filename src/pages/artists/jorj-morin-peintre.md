@@ -41,19 +41,6 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
-- title: 'Espace clos '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1225.jpg
-  technique: Céramique
-  fields:
-  - Céramique
-  styles: []
-  dimensions:
-    height: 26
-    width: 29
-    depth: 6
-  description: 'Prix sur demande '
-  price: ''
-  contextual: false
 - title: Formes Ailées
   fields: []
   styles: []
