@@ -13,7 +13,7 @@
     {
       "title": "Simplicité",
       "icon": "lock",
-      "content": "Procédez au paiement par virement"
+      "content": "paiement en ligne "
     },
     {
       "title": "Livraison",
@@ -28,7 +28,7 @@
     {
       "title": "Sérénité",
       "icon": "happy",
-      "content": "7 jours pour regarder si votre oeuvre est bien celle que vous recherchiez"
+      "content": "7 jours pour changer d'avis"
     }
   ]
 }
