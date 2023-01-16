@@ -22,6 +22,35 @@ biography: |-
   >
   > Parfois il est juste bon de se laisser aller à la douceur d'une atmosphère légère.
 works:
+- title: Taillefer
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Taillefer-1mx1m.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 100
+    width: 100
+    depth: 
+  description: 2023 Encadrement bois naturel
+  price: 2000
+  sold: false
+  contextual: true
+  weight: 
+- title: Les collines au vent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Les Collines
+    au vent-1mx1m.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: 2023 encadrement bois naturel
+  price: 2000
+  sold: false
+  contextual: true
 - title: Brigneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
   technique: Acrylique sur toile
@@ -30,11 +59,12 @@ works:
   dimensions:
     height: 130
     width: 91
-    depth: 0
+    depth: 
   description: encadrement en bois naturel
   price: 2400
   sold: false
   contextual: true
+  weight: 
 - title: Sur les quais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-job-sur
     les quais.jpg
@@ -44,38 +74,12 @@ works:
   dimensions:
     height: 97
     width: 130
-    depth: 0
+    depth: 
   description: Cadre en bois 4cm hauteur
   price: 2400
   sold: false
   contextual: true
-- title: 'Brigneau 3 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau
-    3-130 x 94 cms.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 134
-    width: 100
-    depth: 0
-  description: Encadrement bois naturel
-  price: 2400
-  sold: false
-  contextual: true
-- title: Panam
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Pan Am- 90x90.jpeg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 90
-    width: 90
-    depth: 0
-  description: 'Vendu '
-  price: 1700
-  sold: false
-  contextual: true
+  weight: 
 - title: Portrait de Philippe Bigot
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
     philippe bigot job pornichet canapé.jpg
@@ -83,13 +87,14 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 
+    width: 
+    depth: 
   description: ''
   price: 
   sold: false
   contextual: false
+  weight: 
 exhibitions:
 - title: Exposition Médiathèque Camille Flamarion Pornichet
   location: La Baule Pornichet
