@@ -1,10 +1,11 @@
 ---
 template: about
 seo:
-  type: article
-  title: Galerie Gaia Studio
-  heading: ''
-  description: ''
+  type: website
+  title: Galerie Gaia Studio, conception de projets artistiques
+  heading: Galerie Gaia Studio
+  description: conception de projet artistique, 1immeuble 1 oeuvre, 1% artistique,
+    oeuvre monumentale, appel d'offre artistique, appel à projet artistique
   image: ''
 content:
 - column: "**FAIRE RÉSIDENCE, C’EST RACONTER UNE HISTOIRE COMMUNE**\n\n**Accueillir
