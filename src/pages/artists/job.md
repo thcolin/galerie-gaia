@@ -32,7 +32,7 @@ works:
     width: 100
     depth: 
   description: 2023 Encadrement bois naturel
-  price: 2000
+  price: 1900
   sold: false
   contextual: true
   weight: 
@@ -48,7 +48,7 @@ works:
     width: 100
     depth: 0
   description: 2023 encadrement bois naturel
-  price: 2000
+  price: 1900
   sold: false
   contextual: true
 - title: Brigneau
