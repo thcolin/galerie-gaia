@@ -2,7 +2,7 @@
 template: about
 seo:
   type: article
-  title: ''
+  title: Galerie Gaia Studio
   heading: ''
   description: ''
   image: ''
