@@ -90,6 +90,36 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Black beauty
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre-galerie
+    gaia-cheval noir 22X30.jpeg
+  technique: Huile sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 22
+    width: 30
+    depth: 0
+  description: ''
+  price: 400
+  contextual: true
+- title: 'Cactus et cheval '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carrée- cactus cheval 24X32.jpeg
+  technique: Collage et Technique mixte sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 32
+    width: 24
+    depth: 0
+  description: 2022 œuvre encadrée sous verre baguette chêne
+  price: 400
+  contextual: true
 - title: 'Le boxeur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
   technique: Huile sur toile technique mixte
@@ -242,21 +272,6 @@ works:
   description: "Vendu pour la collection de l'Artothèque Nantes  \n2020"
   price: ''
   contextual: true
-- title: Saguaro
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-saguaro-34x29.jpg
-  technique: 'Huile sur papier et technique mixte '
-  dimensions:
-    height: 34
-    width: 29
-    depth: 0
-  description: |-
-    2020
-
-    Encadrement chêne 30€
-  price: 300
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Jean Genet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg
   technique: 'Huile sur toile '
