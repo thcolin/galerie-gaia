@@ -102,7 +102,7 @@ works:
     height: 22
     width: 30
     depth: 0
-  description: ''
+  description: "2021"
   price: 400
   contextual: true
 - title: 'Cactus et cheval '
