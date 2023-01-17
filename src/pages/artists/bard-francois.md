@@ -17,9 +17,8 @@ expose: true
 biography: ''
 works:
 - title: 'Le Kilt '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
-    Le Kilt, Impression pigmentaire sur papier Hahnemühle, Pigment print on Hahnemühle
-    paper, 30 x 20 cm, 12 x 8 in.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -francois
+    bard - kilt.jpg
   technique: 'Digigraphie  Edition limitée N° 21/25 '
   fields: []
   styles: []
@@ -28,10 +27,11 @@ works:
     height: 30
     width: 21
     depth: 
-  description: ''
-  price: 490
+  description: "Encadrement sur-mesure montage coffret verre musée   \nTravail effectué
+    par l'Eclat de Verre Nantes"
+  price: 790
   sold: false
-  contextual: true
+  contextual: false
 - title: La guerre c'est maintenant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
     La guerre c'est maintenant,Impression pigmentaire sur papier Hahnemühle,Pigment
@@ -43,7 +43,7 @@ works:
   dimensions:
     height: 53
     width: 60
-    depth: 0
+    depth: 
   description: ''
   price: 900
   sold: false

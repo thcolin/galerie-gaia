@@ -75,18 +75,20 @@ works:
   description: "[Job]()"
   price: 380
   contextual: false
-- title: François Bard
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2237.JPG
-  technique: Estampe 8/25
-  fields: []
+- title: François Bard - kilt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -francois
+    bard - kilt.jpg
+  technique: Estampe 21/25
+  fields:
+  - Oeuvre sur papier
   styles: []
   weight: 0
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
+    height: 42
+    width: 38
+    depth: 3
   description: "[François Bard](https://galeriegaia.fr/artists/bard-francois/)"
-  price: 900
+  price: 790
   contextual: false
 - title: Yann Peron
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2232.JPG
@@ -209,18 +211,6 @@ works:
     isthme \")\n\n[l'Aménité](https://www.lamenite-restaurant-nantes.com/ \"l'aménité\")
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
-  contextual: false
-- title: Job Isthme Engels
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2149.jpg
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 134
-    width: 100
-    depth: 0
-  description: ''
-  price: ''
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg
