@@ -61,18 +61,19 @@ works:
   description: "[Edwin Wide]() "
   price: 0
   contextual: true
-- title: Job
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2234.JPG
+- title: Job - Kercabellec
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - job
+    -IMG_7081.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
   weight: 0
   dimensions:
-    height: 130
-    width: 91
-    depth: 0
+    height: 29
+    width: 33
+    depth: 4
   description: "[Job]()"
-  price: 2300
+  price: 380
   contextual: false
 - title: François Bard
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2237.JPG
