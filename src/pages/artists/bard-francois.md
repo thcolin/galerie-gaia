@@ -16,38 +16,6 @@ death: ''
 expose: true
 biography: ''
 works:
-- title: 'Le Kilt '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -francois
-    bard - kilt.jpg
-  technique: 'Digigraphie  Edition limitée N° 21/25 '
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 30
-    width: 21
-    depth: 
-  description: "Encadrement sur-mesure montage coffret verre musée   \nTravail effectué
-    par l'Eclat de Verre Nantes"
-  price: 790
-  sold: false
-  contextual: false
-- title: La guerre c'est maintenant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
-    La guerre c'est maintenant,Impression pigmentaire sur papier Hahnemühle,Pigment
-    print on Hahnemühle paper,53 x 60 cm, 21 x 24 in (2) .jpg
-  technique: 'Digigraphie  Edition limitée N° 22/25 '
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 53
-    width: 60
-    depth: 
-  description: ''
-  price: 900
-  sold: false
-  contextual: true
 - title: Cours
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
     Cours !, Impression pigmentaire sur papier Hahnemuhle, Pigment print on Hahnemühle
@@ -64,6 +32,38 @@ works:
   price: 900
   sold: false
   contextual: true
+- title: La guerre c'est maintenant
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
+    La guerre c'est maintenant,Impression pigmentaire sur papier Hahnemühle,Pigment
+    print on Hahnemühle paper,53 x 60 cm, 21 x 24 in (2) .jpg
+  technique: 'Digigraphie  Edition limitée N° 22/25 '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 53
+    width: 60
+    depth: 
+  description: ''
+  price: 900
+  sold: false
+  contextual: true
+- title: 'Le Kilt '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -francois
+    bard - kilt.jpg
+  technique: 'Digigraphie  Edition limitée N° 21/25 '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 30
+    width: 21
+    depth: 
+  description: "Encadrement sur-mesure montage coffret verre musée   \nTravail effectué
+    par l'Eclat de Verre Nantes"
+  price: 790
+  sold: false
+  contextual: false
 - title: La nuit sans brise
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/François Bard,
     La Nuit sans brise, Impression pigmentaire sur papier Hanhmühle, Pigment print
@@ -76,7 +76,8 @@ works:
     height: 65
     width: 60
     depth: 
-  description: Œuvre encadrée sous verre musée
+  description: "Œuvre encadrée sur mesure baguette bois blanche sous verre musée   \nTravail
+    effectué par Eclat de Verre Nantes"
   price: 1200
   sold: false
   contextual: true
