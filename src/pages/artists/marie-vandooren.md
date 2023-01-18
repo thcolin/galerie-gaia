@@ -44,6 +44,34 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
+- title: Piscine et végétation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.piscineetvégétation.9ex.50x70.2023
+    copie.jpg
+  technique: Sérigraphie édition limitée à 9 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "2023"
+  price: 200
+  contextual: true
+- title: Béton et végétation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.bétonet
+    végétation.50x70.10ex.2023 copie.jpg
+  technique: Sérigraphie en édition limitée à 9 exemplaires
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: "2023"
+  price: 200
+  contextual: true
 - title: Plongeoir fumée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.plongeoir
     fumée.2022.50x70.jpg
