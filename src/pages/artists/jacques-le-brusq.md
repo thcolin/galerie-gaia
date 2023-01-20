@@ -173,6 +173,21 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: 'Contre jour '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
+    le brusq-contre jour -2561.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: 
+  sold: false
+  contextual: true
 - title: 'Rhuys Opus 1 Toile '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-Rhuys opus 1 22 11 2022 30X30.jpg
@@ -415,53 +430,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 9517 VER CLA FLO
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-9517-VER-CLA-FLO-OPUS-1_2018_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2018 Œuvre présentée en format 100X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
-  weight: 
-- title: 7750 RHUYS OPUS 1 encadrée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-K 7750 RHUYS OPUS 1-100X70.jpg
-  technique: Huile sur  papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: ''
-  price: 4000
-  sold: false
-  contextual: true
-  weight: 
-- title: '7749 RHUYS OPUS 2 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE
-    BRUSQ-rhuys opus 2 C.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 70
-    depth: 
-  description: 2016 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
-  weight: 
 - title: 'BR MO NO OPUS 2 dans l''atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
     Le Brusq-ES-16-10-21 -04.jpg
@@ -477,21 +445,6 @@ works:
   price: 
   sold: false
   contextual: false
-  weight: 
-- title: '7732 GAR LEM OPUS 2 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K-7732-GAR-LEM-OPUS-2_2017_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2017 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
   weight: 
 - title: 29 AFR OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
@@ -523,79 +476,6 @@ works:
   price: 4000
   sold: false
   contextual: false
-  weight: 
-- title: '13 BR FL VE '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/13-BR FL VE_2020_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2020 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
-  weight: 
-- title: '04 VER CLA FLO '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/04-VER-CLA-FLO-OPUS-2_2019_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: Réservé
-  price: 4000
-  sold: true
-  contextual: true
-  weight: 
-- title: Rhuys vers Kernes Opus 2 en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
-    le brusq-RHUYS VER KERNES OPUS 2.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 53
-    width: 43
-    depth: 
-  description: "Huile sur papier 27 x 32  \nFormat encadré 53X43 cm baguette chêne
-    verre antireflet qualité musée"
-  price: 2500
-  sold: false
-  contextual: true
-  weight: 
-- title: Rhuys vers kernes Opus 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques-lebrusq-rhuys-vesr-kernes-opus2.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 27
-    width: 32
-    depth: 
-  description: Format encadré 53X43 cm  baguette chêne verre antireflet qualité musée
-  price: 2500
-  sold: false
-  contextual: true
-  weight: 
-- title: Rhuys vers kerne Opus 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mg_5399.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 27
-    width: 32
-    depth: 
-  description: ".Format encadré 53X42 cm baguette chêne verre antireflet qualité musée"
-  price: 2500
-  sold: false
-  contextual: true
   weight: 
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
