@@ -181,6 +181,7 @@ works:
   description: ''
   price: 290
   contextual: true
+  sold: true
 - title: 2020SPp8D
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Philippe Lecomte
     - 2020_8D - 38x28.jpg
