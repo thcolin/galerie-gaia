@@ -17,6 +17,19 @@ biography: |-
   Pour comprendre et voir le travail in situ, l’artiste accepte d’**ouvrir** **son** **atelier** sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
 exhibitions: []
 works:
+- title: 'Ailes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7033.jpg
+  technique: Composition acier soudé patiné sur socle de marbre
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 50
+    depth: 35
+  description: ''
+  price: 6000
+  contextual: false
 - title: 'Nuage '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
     fremont - nuage -IMG_6727.jpg
