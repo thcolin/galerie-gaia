@@ -1,7 +1,7 @@
 ---
 template: artist
 title: 'Fremont Olivier '
-location: Nantes
+location: ''
 fields:
 - Sculpture
 birth: "0"
