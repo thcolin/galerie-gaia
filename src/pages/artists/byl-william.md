@@ -15,13 +15,13 @@ location: France
 birth: ''
 death: ''
 expose: true
-biography: "Soyez patient pour 2023 une nouvelle sélection arrive.  \nSi vous voulez
-  être informé de leur arrivée contact@galeriegaia.fr\n\nWilliam Byl est passionné
-  par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts de Cholet
-  \ \nIl découvre la céramique des années 1950 et il est fasciné par les réalisations
-  de Jean Derval, René Maurel, Roger Capron, François Raty, Jacques Blin, Luc Lanel
-  et quelques autres...\n\nEn 2013, William Byl choisi d’utiliser la terre comme nouveau
-  mode d’expression et explore les techniques du modelage et de la céramique.\n\nWilliam
+biography: "**Soyez patient pour 2023 une nouvelle sélection arrive.  \nSi vous voulez
+  être informé de leur arrivée** [**contact@galeriegaia.fr**]()\n\nWilliam Byl est
+  passionné par le dessin depuis l'enfance, et se forme à l'école des Beaux- Arts
+  de Cholet  \nIl découvre la céramique des années 1950 et il est fasciné par les
+  réalisations de Jean Derval, René Maurel, Roger Capron, François Raty, Jacques Blin,
+  Luc Lanel et quelques autres...\n\nEn 2013, William Byl choisi d’utiliser la terre
+  comme nouveau mode d’expression et explore les techniques du modelage et de la céramique.\n\nWilliam
   BYL créé des figures oniriques aux formes animales ou anthropomorphes enrichies
   de motifs géométriques et de scarifications évoquant parfois l’Afrique où il a passé
   ses premières années.\n\nSes pièces, en grès chamotté, sont recouvertes de jus d’oxydes
