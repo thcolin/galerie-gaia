@@ -48,23 +48,23 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
-- title: Boires de Loire
+- title: 'Jardin des plantes Nantes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
-    peron- py architecture-P22-16 ENTIER.jpg
-  technique: Aquarelle Sennelier+ rehauts de graphite, de pastel gras et d’encre Papier
-    aquarelle marouflé sur carton et sous- verre anti-reflet
+    peron- py architecture-P22-19 ENTIER.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
+    et sous- verre anti-reflet
   fields: []
   styles: []
   dimensions:
     height: 29
     width: 83
     depth: 
-  description: Cette aquarelle, prise sur le vif, devant une succession de boires
-    de Loire, saisie le bleu du ciel qui se reflète par petites touches comme un ricochet
-    et vient illuminer les verts sombres du fleuve laissés dans l’ombre. Traités par
-    griffures à l’encre, les nuages viennent se mélanger aux frondaisons des frênes
-    et des peupliers. Instant de bonheur de fin d’été passé à côté d’Anna qui peint
-    également.
+  description: Cette aquarelle, prise sur le vif au jardin des plantes de Nantes est
+    la seconde d’une série de travaux sur les reflets dans les milieux naturels.Ce
+    sont les gunnera au bord de l’étang qui m’ont séduits. Les ombres qui les découpent,
+    leur présence exotique qui semble cacher un mammifère tapi dans l’obscurité. Essai
+    de reflets et de couleurs observées longtemps avant de poser le pinceau sur la
+    feuille. Anna revient.
   price: 980
   sold: false
   contextual: true
@@ -83,27 +83,6 @@ works:
   description: Cette oeuvre a été peinte de mémoire. Vitesse et sensations de défilement
     ont guidé mes gestes. Le champ de blé se mélange aux frondaisons des chênes qui
     s’étirent en trainées de verts sombres.
-  price: 980
-  sold: false
-  contextual: true
-  weight: 
-- title: 'Jardin des plantes Nantes '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
-    peron- py architecture-P22-19 ENTIER.jpg
-  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
-    et sous- verre anti-reflet
-  fields: []
-  styles: []
-  dimensions:
-    height: 29
-    width: 83
-    depth: 
-  description: Cette aquarelle, prise sur le vif au jardin des plantes de Nantes est
-    la seconde d’une série de travaux sur les reflets dans les milieux naturels.Ce
-    sont les gunnera au bord de l’étang qui m’ont séduits. Les ombres qui les découpent,
-    leur présence exotique qui semble cacher un mammifère tapi dans l’obscurité. Essai
-    de reflets et de couleurs observées longtemps avant de poser le pinceau sur la
-    feuille. Anna revient.
   price: 980
   sold: false
   contextual: true
@@ -180,7 +159,7 @@ works:
     height: 130
     width: 90
     depth: 
-  description: Vendue
+  description: ''
   price: 3700
   sold: false
   contextual: true
@@ -241,24 +220,6 @@ works:
   price: 4000
   sold: false
   contextual: true
-  weight: 
-- fields: []
-  styles: []
-  dimensions:
-    height: 95
-    width: 95
-    depth: 
-  description: |-
-    L’huile projetée sur la toile de lin à grands coups de pinceaux, superposée à un contour de graphite tantôt effacé, tantôt essuyé, confèrent au sujet pourtant statique un mouvement d’introspection ou d’implosion. On a l’impression que l’homme tombe à l’intérieur de lui- même au passage de l’an 2000, année de réalisation de cette peinture d’après modèle vivant.
-
-    Le rouge incandescent de son corps l’illumine de ses entrailles rageuses et résignées. Acceptation, souffrance et force de vivre.
-  price: 6500
-  contextual: true
-  title: Implosion
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann-peron-implosion.JPG
-  technique: Huile Sennelier+ rehauts de pastel à l’huile / Toile de lin tendue sur
-    châssis bois
-  sold: false
   weight: 
 - title: Portrait de l'artiste
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-emile21
