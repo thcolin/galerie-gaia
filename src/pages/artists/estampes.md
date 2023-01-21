@@ -11,32 +11,6 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
-- title: Miró Exposition Barcelone 1973
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
-  technique: Affiche de collection en parfait état
-  dimensions:
-    height: 75
-    width: 57
-    depth: 0
-  description: "# Miro "
-  price: 140
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
-- title: Frederic Poincelet - Massilia
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: 'Edition : 2/20'
-  price: 650
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0085.jpeg
-  technique: Lithographie
 - title: 'Frederic Poincelet - Sans titre #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0060.jpeg
   technique: Lithographie
@@ -52,6 +26,18 @@ works:
     2017
   price: 460
   contextual: true
+- title: Frederic Poincelet - Massilia
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: 'Edition : 2/20'
+  price: 650
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0085.jpeg
+  technique: Lithographie
 - title: 'Frederic Poincelet - Sans titre #2'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0057.jpeg
   technique: Lithographie
@@ -64,6 +50,20 @@ works:
   description: "Edition: 4/20  \n2017"
   price: 460
   contextual: true
+- title: Miró Exposition Barcelone 1973
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
+  technique: Affiche de collection en parfait état
+  dimensions:
+    height: 75
+    width: 57
+    depth: 0
+  description: "# Miro "
+  price: 140
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
 - title: 'Frederic Poincelet - Sans titre #3 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
   technique: 'Lithographie '
@@ -217,39 +217,6 @@ works:
     depth: 0
   description: ''
   price: 480
-  contextual: true
-- title: Jean Messagier - Les porteurs de presqu'île
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/messagier-les-porteurs-de-presquile.jpg
-  technique: 'Pointe sèche et aquatinte Epreuve d''artiste 1966 '
-  dimensions:
-    height: 55
-    width: 75
-    depth: 
-  description: "# Jean Messagier"
-  price: 850
-  sold: false
-  contextual: true
-- title: 'Gérard Traquandi - Sans titre  '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-ange-66x50.jpg
-  technique: Eau forte 16/19 2006
-  dimensions:
-    height: 66
-    width: 50
-    depth: 
-  description: "# Gerard Traquandi "
-  price: 400
-  sold: false
-  contextual: true
-- title: 'Gérard Traquandi - Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-gerard-traquandi-trait2-66x50.jpg
-  technique: Eau forte 16/19 2006
-  dimensions:
-    height: 66
-    width: 50
-    depth: 
-  description: "# Gerard Traquandi"
-  price: 550
-  sold: false
   contextual: true
 - title: Georges Autard - "Perte de sens"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/georges-autard-perte-de-sens.jpg
