@@ -181,11 +181,11 @@ works:
   styles: []
   weight: 
   dimensions:
-    height: 0
-    width: 0
+    height: 61
+    width: 50
     depth: 0
-  description: ''
-  price: 
+  description: "2006"
+  price: 4000
   sold: false
   contextual: true
 - title: 'Rhuys Opus 1 Toile '
