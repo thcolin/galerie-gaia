@@ -173,6 +173,36 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: Terre labourée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
+    le brusq-terre labourée-2565.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 38
+    width: 46
+    depth: 0
+  description: "1998"
+  price: 3000
+  sold: false
+  contextual: true
+- title: L'Ouvert Opus 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
+    le brusq-l ouvert opus 2-2573.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 46
+    width: 38
+    depth: 0
+  description: "2010"
+  price: 3000
+  sold: false
+  contextual: true
 - title: L'Ouvech Opus 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
     le brusq-l ouvert opus 1-2576.jpg
