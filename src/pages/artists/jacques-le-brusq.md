@@ -173,6 +173,21 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: VER CLA FLO Opus 5
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
+    le brusq-ver cla flo opus 5-2593.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 60
+    width: 73
+    depth: 0
+  description: "2020"
+  price: 4800
+  sold: false
+  contextual: true
 - title: Terre labourée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
     le brusq-terre labourée-2565.jpg
@@ -233,7 +248,7 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: Terre labourée
+- title: Contre jour
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
     le brusq-contre jour-2579.jpg
   technique: 'Huile sur toile '
@@ -241,11 +256,11 @@ works:
   styles: []
   weight: 
   dimensions:
-    height: 38
-    width: 46
+    height: 50
+    width: 61
     depth: 0
-  description: "1998"
-  price: 3000
+  description: "2006"
+  price: 4000
   sold: false
   contextual: true
 - title: 'Contre jour '
