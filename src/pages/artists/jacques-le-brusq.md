@@ -173,6 +173,21 @@ biography: "# Jacques Le Brusq\n\nL'artiste est né en 1938 à Rennes. Entre 197
   Contemporary Art Fund Albert Bourgeois Gallery Fougères\n* BNF Bibilothèque Nationale
   de France Paris\n* Artothèque Angers"
 works:
+- title: VER CLA FLO Opus 6
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
+    le brusq-ver cla flo opus 6-2585.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 60
+    width: 75
+    depth: 0
+  description: "2021"
+  price: 4800
+  sold: false
+  contextual: true
 - title: VER CLA FLO Opus 5
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
     le brusq-ver cla flo opus 5-2593.jpg
