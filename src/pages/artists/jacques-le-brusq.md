@@ -323,20 +323,6 @@ works:
   price: 18000
   sold: false
   contextual: true
-- title: En Beauce Opus 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-2_1998_huile-toile_120x114cm.jpg
-  technique: Huile sur toile montée sur châssis
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 114
-    depth: 
-  description: "1998"
-  price: 10000
-  sold: false
-  contextual: true
-  weight: 
 - title: Vers le jardin
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie gaia_2021-12-29_Jacques_Le_Brusq_vers
     le jardin.jpg.jpg
@@ -429,6 +415,20 @@ works:
   sold: false
   contextual: true
   weight: 
+- title: En Beauce Opus 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia_le-brusq_en-beauce-opus-2_1998_huile-toile_120x114cm.jpg
+  technique: Huile sur toile montée sur châssis
+  fields: []
+  styles: []
+  dimensions:
+    height: 120
+    width: 114
+    depth: 
+  description: "1998"
+  price: 10000
+  sold: false
+  contextual: true
+  weight: 
 - title: En Beauce Opus 2 en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/20211110_150930.jpg
   technique: 'Huile sur toile '
@@ -471,21 +471,6 @@ works:
   sold: false
   contextual: false
   weight: 
-- title: 5390 BR PAY FLO OPUS 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CHR-5390-BR-PAY-FLO_2015_jacques-le-brusq_galerie-gaia.jpg
-  technique: Huile sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2015 Œuvre présentée en format 100 X70 sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: true
-  weight: 
 - title: 5390 BR PAY FLO OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-CHR 5390 BR PAY FLO OPUS1-100X70.jpg
@@ -501,22 +486,6 @@ works:
   price: 4000
   sold: false
   contextual: true
-  weight: 
-- title: '7731 GAR LEM OPUS 1 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/K7731-GAR-LEM-OPUS-1_2017_jacques-le-brusq_galerie-gaia.jpg
-  technique: Huile sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2017 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: false
   weight: 
 - title: 7731 GAR LEM OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
@@ -535,22 +504,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 'BR MO NO OPUS 2 dans l''atelier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
-    Le Brusq-ES-16-10-21 -04.jpg
-  technique: 'Huile sur toile '
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 
-  description: "2020  \nLes visuels des 4 toiles sont disponibles sur demande galeriegaia@orange.fr"
-  price: 
-  sold: false
-  contextual: false
-  weight: 
 - title: 29 AFR OPUS 1 encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jacques
     le brusq-29 AFR OPUS 100X70.jpg
@@ -567,21 +520,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 29 AFR OPUS 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/29-AFR OPUS1_2019_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 63
-    depth: 
-  description: 2019 Œuvre présentée en format 100 X70  sous verre anti-reflet encadrement
-    bois naturel
-  price: 4000
-  sold: false
-  contextual: false
-  weight: 
 - title: Exposition Le Présent du Monde
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/AfficheGAIA-JLB_211022-WEB.jpg
   technique: ''
@@ -597,19 +535,21 @@ works:
   sold: false
   contextual: false
   weight: 
-- title: '03 PAY VE FON '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/03-PAY-VE-FON_2019_jacques-le-brusq_galerie-gaia.jpg
-  technique: 'Huile sur papier '
-  fields: []
+- title: 'BR MO NO OPUS 2 dans l''atelier '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Jacques
+    Le Brusq-ES-16-10-21 -04.jpg
+  technique: 'Huile sur toile '
+  fields:
+  - Peinture
   styles: []
   dimensions:
-    height: 48
-    width: 63
+    height: 120
+    width: 120
     depth: 
-  description: Collection privée Galerie Gaïa
+  description: "2020  \nLes visuels des 4 toiles sont disponibles sur demande galeriegaia@orange.fr"
   price: 
   sold: false
-  contextual: true
+  contextual: false
   weight: 
 - title: La Brèche Opus 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/sans-nom-16.jpg
