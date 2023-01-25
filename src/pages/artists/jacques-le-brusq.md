@@ -233,7 +233,7 @@ works:
   price: 3000
   sold: false
   contextual: true
-- title: L'Ouvech Opus 1
+- title: L'Ouvert Opus 1
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jacques
     le brusq-l ouvert opus 1-2576.jpg
   technique: Huile sur toile
