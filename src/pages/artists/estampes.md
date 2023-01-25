@@ -180,7 +180,7 @@ works:
   description: "# Shirley Jaffe"
   price: 2200
   sold: false
-  contextual: true
+  contextual: false
 - title: Chillida Exposition 1971 Barcelone
   technique: Affiche de collection en parfait état
   dimensions:
