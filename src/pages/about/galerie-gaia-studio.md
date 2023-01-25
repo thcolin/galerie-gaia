@@ -47,15 +47,15 @@ content:
     d’histoire de l’art et diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
     20 ans comme directrice d’agence chez Manpower France et comme Chef de projets
     pour accompagner la transformation de l’entreprise pendant 5 ans.\n\nL’art en
-    entreprise permet pour un dirigeant –et pour ses services RH– d’incarner cette
+    entreprise permet pour un dirigeant – et pour ses services RH – d’incarner cette
     recherche de sens, avec une œuvre créée in situ racontant les histoires humaines
     qui la composent.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire
     de l’art, j’ai mené des missions de médiation, de coordination et de développement
-    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
-    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
-    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
-    est de continuer à accompagner les artistes, les institutions et les entreprises
-    à penser et produire un projet artistique, suivi de chantier inclus."
+    de projets artistiques durant 15 ans.\n\nJ’ai travaillé pour des structures comme
+    la biennale d’art contemporain Estuaire Nantes-Saint Nazaire, Tripode, le Centre
+    Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer
+    à accompagner les artistes, les institutions et les entreprises à penser et
+    produire un projet artistique, suivi de chantier inclus."
   contact:
     placeholder: Un message à nous adresser ?
     display: false

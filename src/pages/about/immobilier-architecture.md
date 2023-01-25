@@ -24,23 +24,20 @@ content:
     ainsi qu’auprès d’entreprises. Galerie Gaia Studio mobilise des savoir-faire
     et met en place des collaborations pertinentes pour faire rayonner les ambitions
     et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE _Directrice_**\n\nPassionnée
-    d’histoire de l’art et diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
-    20 ans comme directrice d’agence chez Manpower France et 5 ans comme Chef de projets
-    pour accompagner la transformation de l’entreprise.\n\nL’art en entreprise permet
-    pour un dirigeant – et pour ses services RH – d’incarner cette recherche de sens,
-    avec une œuvre créée in situ racontant les histoires humaines qui la composent.\n\nMon
-    intention en créant Galerie Gaïa Studio est de proposer un sourcing artistique
-    lié à l'intention architecturale et une coordination du projet in situ.\n\n**INÈS
-    BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire de l’art, j’ai mené des missions
-    de médiation, de coordination et de développement de projets artistiques durant
-    15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme la biennale
-    d’art contemporain Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou
-    et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer à accompagner
-    les artistes, les institutions et les entreprises à penser et produire un projet
-    artistique, suivi de chantier inclus."
+    d’histoire de l’art et d'architecture, diplômée de l’école de commerce IDRAC
+    (Lyon), j’ai travaillé 20 ans comme directrice d’agence et Chef de projets chez
+    Manpower France .\n\nMon intention en créant Galerie Gaïa Studio est de proposer
+    un sourcing artistique lié à l'intention architecturale et la coordination du
+    projet in situ.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire de
+    l’art, j’ai mené des missions de médiation, de coordination et de développement
+    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
+    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
+    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
+    est de continuer à accompagner les artistes, les institutions et les entreprises
+    à penser et produire un projet artistique, suivi de chantier inclus."
   contact:
     display: true
-    placeholder: Renseignement projet immobilier - décoration
+    placeholder: 'Renseignement pour un projet immobilier '
 - contact:
     placeholder: Un message à nous adresser ?
   column: "![café le Molière Christophe Vinet architecte décorateur d'intérieur nantes
