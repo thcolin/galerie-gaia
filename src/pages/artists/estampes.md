@@ -11,6 +11,34 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: 'Gérard Traquandi - Sans Titre (orange) '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
+  technique: Aquatinte 12/19
+  dimensions:
+    height: 80
+    width: 61
+    depth: 
+  description: |-
+    # Gérard Traquandi
+
+    Encadrement Nielsen Noir
+  price: 930
+  sold: false
+  contextual: true
+- title: 'Traquandi - Sans Titre (noir) '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
+  technique: Aquatinte 12/19 2013
+  dimensions:
+    height: 80
+    width: 61
+    depth: 
+  description: |-
+    # Gérard Traquandi
+
+    Encadrement Nielsen Noir
+  price: 930
+  sold: false
+  contextual: true
 - title: 'Frederic Poincelet - Sans titre #1'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0060.jpeg
   technique: Lithographie
@@ -80,34 +108,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: 'Traquandi - Sans Titre (noir) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
-  technique: Aquatinte 12/19 2013
-  dimensions:
-    height: 80
-    width: 61
-    depth: 
-  description: |-
-    # Gérard Traquandi
-
-    Encadrement Nielsen Noir
-  price: 930
-  sold: false
-  contextual: true
-- title: 'Gérard Traquandi - Sans Titre (orange) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
-  technique: Aquatinte 12/19
-  dimensions:
-    height: 80
-    width: 61
-    depth: 
-  description: |-
-    # Gérard Traquandi
-
-    Encadrement Nielsen Noir
-  price: 930
-  sold: false
-  contextual: true
 - title: Gérard Tranquandi duo en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
   technique: Aquatinte
@@ -170,17 +170,6 @@ works:
   contextual: true
   styles:
   - Figuartif
-- title: 'Shirley Jaffe - Sans Titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg
-  technique: Sérigraphie atelier Byse Lille 25/70 2002
-  dimensions:
-    height: 65
-    width: 50
-    depth: 
-  description: "# Shirley Jaffe"
-  price: 2200
-  sold: false
-  contextual: false
 - title: Chillida Exposition 1971 Barcelone
   technique: Affiche de collection en parfait état
   dimensions:
