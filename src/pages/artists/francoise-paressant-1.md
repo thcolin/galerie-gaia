@@ -392,19 +392,21 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: CDC 002
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-cdc002.jpg
-  technique: Collage découpé cousu
-  fields: []
+- title: 'Sonatine en situation '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-tapisserie
+    francoise paressant ES.jpg
+  technique: 'Tapisserie papier tissé '
+  fields:
+  - Textile
   styles: []
   dimensions:
     height: 20
     width: 20
     depth: 
-  description: Œuvre encadrée dans caisse américaine noir mat Offert
-  price: 300
+  description: "Tapisserie présentée lors de l'exposition en Juin 2022  \nVendue"
+  price: 
   sold: false
-  contextual: true
+  contextual: false
   weight: 
 - title: A/F 005
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-a-f-50x50-005.jpg
