@@ -21,7 +21,7 @@ exhibitions: []
 works:
 - title: Point d'équilibre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/WEB_1_point-dequilibre-©isabellehealy.jpg
-  technique: Bronze fonderie Barthélémy
+  technique: Bronze fonderie Barthélémy N°7/8
   fields: []
   styles: []
   dimensions:
@@ -38,7 +38,7 @@ works:
   contextual: false
 - title: Détail de Point d'équilibre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-WEB_6_point-dequilibre-©isabellehealy.jpg
-  technique: Bronze 4/8
+  technique: Bronze 7/8
   fields: []
   styles: []
   dimensions:
@@ -101,7 +101,7 @@ works:
     width: 30
     depth: 24
   description: 2022 Fonderie Barthelemy
-  price: 3700
+  price: 3900
   contextual: false
 - title: Les Albatros
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Healy_LesAlbatros_50x43x14.jpg
@@ -115,30 +115,6 @@ works:
   description: "Fonderie Barthélemy Crest (26)  \nVisible à la galerie "
   price: 5500
   contextual: false
-- title: Le Papillon
-  technique: Bronze 8/8
-  fields: []
-  styles: []
-  dimensions:
-    height: 38
-    width: 20
-    depth: 6
-  description: Sculpture disponible sur commande
-  price: 1800
-  contextual: false
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-papillon-face.JPG
-- title: Détail Le Papillon
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-LE_PAPILLON_©isabelle-healy-3.jpg
-  technique: 'Bronze 7/8 '
-  fields: []
-  styles: []
-  dimensions:
-    height: 38
-    width: 20
-    depth: 6
-  description: ''
-  price: 1800
-  contextual: true
 - title: Anouck
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ANOUK_©isabelleheally.jpg
   technique: 'Bronze III/IV '
@@ -150,7 +126,7 @@ works:
     depth: 5
   description: "Les 8 premières éditions ont été vendues.  \nReste disponible seulement
     1 Epreuve d'Artiste"
-  price: 2600
+  price: 2800
   contextual: true
 - title: La sphère des possibles
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-sphere-des-possibles.jpg
