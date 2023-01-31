@@ -69,24 +69,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 'Sur la route '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
-    peron- py architecture-P22-23 ENTIER 2.jpg
-  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur carton
-    et sous- verre anti-reflet
-  fields: []
-  styles: []
-  dimensions:
-    height: 29
-    width: 83
-    depth: 
-  description: Cette oeuvre a été peinte de mémoire. Vitesse et sensations de défilement
-    ont guidé mes gestes. Le champ de blé se mélange aux frondaisons des chênes qui
-    s’étirent en trainées de verts sombres.
-  price: 980
-  sold: false
-  contextual: true
-  weight: 
 - title: Paysage de Loire
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
     peron- py architecture-P22-17 ENTIER 2.jpg
