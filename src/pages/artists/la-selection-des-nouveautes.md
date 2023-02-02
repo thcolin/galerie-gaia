@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Janvier 2023
+title: Février 2023
 location: ''
 birth: "0"
 death: "0"
@@ -22,6 +22,22 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: 'Le Point d''équilibre -Isabelle Healy '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg
+  technique: Bronze 8/8
+  dimensions:
+    height: 40
+    width: 40
+  description: |-
+    # [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
+
+    Parce que l’Amour est indispensable pour garder l’équilibre. Pour le point du « i » du verbe Aimer. Pour la fragilité de la Vie à deux. Sceller un baiser pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être salvateur. Pour le déséquilibre que nous subissons parfois...
+  price: 5900
+  contextual: false
+  fields:
+  - Sculpture
+  styles:
+  - Figuratif
 - title: Versant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2215.JPG
   technique: Sérigraphie
@@ -35,19 +51,6 @@ works:
   description: "[Versant](https://galeriegaia.fr/artists/collectif-jeronimo-gaetan-chevrier-tangui-robert/)"
   price: ''
   contextual: true
-- title: 'Marie Bathellier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2228.JPG
-  technique: 'Technique mixte sur papier '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 46
-    width: 30
-    depth: 0
-  description: "[Marie Bathellier](https://galeriegaia.fr/artists/bathelier-marie/)"
-  price: 600
-  contextual: false
 - title: Edwin Wide
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2240.JPG
   technique: 'Acrylique sur bois '
@@ -212,22 +215,6 @@ works:
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
-- title: 'Le Point d''équilibre -Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg
-  technique: Bronze 4/8
-  dimensions:
-    height: 40
-    width: 40
-  description: |-
-    # [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
-
-    Parce que l’Amour est indispensable pour garder l’équilibre. Pour le point du « i » du verbe Aimer. Pour la fragilité de la Vie à deux. Sceller un baiser pour l’éternité. Pour tenir debout malgré tout. Pour la beauté d’un geste. Pour la grâce d’un couple. Pour montrer que s’abandonner et lâcher prise peut être salvateur. Pour le déséquilibre que nous subissons parfois...
-  price: 5900
-  contextual: false
-  fields:
-  - Sculpture
-  styles:
-  - Figuratif
 - title: Fête foraine par Marie Vandooren
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandoorenn-
     fette foraine ES.jpg

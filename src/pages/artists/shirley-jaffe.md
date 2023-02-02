@@ -37,11 +37,12 @@ works:
   dimensions:
     height: 65
     width: 50
-    depth: 0
+    depth: 
   description: "2002"
-  price: 2200
-  sold: false
+  price: 
+  sold: true
   contextual: true
+  weight: 
 exhibitions: []
 
 ---
