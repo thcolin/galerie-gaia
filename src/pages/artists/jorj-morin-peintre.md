@@ -4,7 +4,6 @@ title: Morin Jorj Peinture Céramique
 location: Nantes
 fields:
 - Peinture
-- Céramique
 birth: "1909"
 death: "1995"
 expose: true
@@ -41,42 +40,6 @@ works:
     morin-ressac-60x81-1983.jpg
   title: 'Resac '
   technique: 'Acrylique sur toile '
-- title: Formes Ailées
-  fields: []
-  styles: []
-  dimensions:
-    height: 65
-    width: 65
-    depth: 0
-  description: Réservée
-  price: ''
-  contextual: false
-  technique: Marbre blanc & travertin
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5126.JPG
-- title: 'Deux Personnages '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1206.JPG
-  technique: ''
-  fields: []
-  styles: []
-  dimensions:
-    height: 39
-    width: 25
-    depth: 0
-  description: "1966"
-  price: 1800
-  contextual: true
-- title: Porte de l'Aube
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1226.jpg
-  technique: Marbre rose & vert
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 20
-    depth: 0
-  description: "1973"
-  price: 2000
-  contextual: true
 - title: 'Arbre à couleurs '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj
     morin-fleurs coupés-1978.jpg
