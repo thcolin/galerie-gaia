@@ -70,27 +70,14 @@ works:
   fields: []
   styles: []
   dimensions:
-    height: 97
-    width: 130
+    height: 130
+    width: 97
     depth: 0
-  description: "2022"
-  price: 3500
+  description: "2022  \nprix sur demande "
+  price: ''
   contextual: true
 - title: 'Entre bleus #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Entre-bleus#5-100cmx81cm-acrylique
-    sur toile-2022.jpg
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: "2022"
-  price: 1995
-  contextual: true
-- title: 'Entre bleus #6'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Entre-bleus#6-100cmx81cm-acrylique
     sur toile-2022.jpg
   technique: Acrylique sur toile
   fields: []
