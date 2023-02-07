@@ -40,7 +40,7 @@ works:
   price: 800
   contextual: true
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6662.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG-6662.JPG
   technique: 'Grès amovible sur un axe sur socle en bois huilé '
   fields: []
   styles: []
@@ -53,7 +53,7 @@ works:
   price: 950
   contextual: true
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6657.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6647.JPG
   technique: 'Grès amovible sur axe  sur un socle en bois '
   fields: []
   styles: []
