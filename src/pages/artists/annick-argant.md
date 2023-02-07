@@ -28,8 +28,7 @@ exhibitions:
   end: 
 works:
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GivreG galerie-gaia-annick
-    argant-carraimantIMG_6662.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6662.JPG
   technique: 'Grès amovible sur un axe sur socle en bois huilé '
   fields: []
   styles: []
@@ -42,8 +41,7 @@ works:
   price: 950
   contextual: true
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G galerie-gaia-annick
-    argant-carraimantIMG_6657.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6657.JPG
   technique: 'Grès amovible sur axe  sur un socle en bois '
   fields: []
   styles: []
@@ -56,8 +54,7 @@ works:
   price: 800
   contextual: false
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G galerie-gaia-annick
-    argant-carraimantIMG_6656.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6656.JPG
   technique: 'Grès amovible sur un axe sur un socle en bois '
   fields: []
   styles: []
@@ -70,8 +67,7 @@ works:
   price: 800
   contextual: false
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G galerie-gaia-annick
-    argant-carraimantIMG_6654.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6654.JPG
   technique: 'Grès amovible sur un axe sur socle bois '
   fields: []
   styles: []
