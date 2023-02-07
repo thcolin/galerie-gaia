@@ -9,7 +9,7 @@ artists:
 - artist: src/pages/artists/toma-l.md
 - artist: src/pages/artists/byl-william.md
 - artist: src/pages/artists/isthme.md
-- artist: src/pages/artists/byl-william-1.md
+- artist: src/pages/artists/tilly-yves.md
 - artist: src/pages/artists/francoise-paressant-1.md
 - artist: src/pages/artists/jouet-michel.md
 - artist: src/pages/artists/viallat-claude.md

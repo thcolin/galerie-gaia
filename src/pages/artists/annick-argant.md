@@ -27,6 +27,18 @@ exhibitions:
   start: "0"
   end: 
 works:
+- title: 'Les carraimants en duo '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6720.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 23
+    width: 12
+    depth: 11
+  description: 'de retour en force à la galerie '
+  price: 800
+  contextual: true
 - title: Carr'aimant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6662.JPG
   technique: 'Grès amovible sur un axe sur socle en bois huilé '
@@ -80,22 +92,7 @@ works:
   price: 800
   contextual: false
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G galerie-gaia-annick
-    argant-carraimantIMG_6652.JPG
-  technique: Grès amovible sur un axe sur socle en bois
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 23
-    width: 13
-    depth: 12
-  description: "Hauteur totale avec le socle 23cm  \nGrès 12X12X13 cm "
-  price: 800
-  contextual: false
-- title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/G galerie-gaia-annick
-    argant-carraimantIMG_6648.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6651.JPG
   technique: 'Grès amovible sur un axe sur socle en bois '
   fields: []
   styles: []
@@ -121,8 +118,7 @@ works:
   price: 1200
   contextual: true
 - title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-annick
-    argant-carraimantIMG_6647.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6647.JPG
   technique: Grès sur socle bois huilé
   dimensions:
     height: 23
