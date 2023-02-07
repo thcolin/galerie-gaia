@@ -37,28 +37,20 @@ biography: |-
   In 30 years of photographic research, Jean-François Mollière has never ceased to break away from habit, to go where the imagination becomes stronger. To beat back the ineluctability of finitude, to resist, inexorably. We recognize in his photography, images, icons very inspired by cinema and painting." Valerie Fade-Py
 exhibitions: []
 works:
-- title: 'Vernissage en présence de l''artiste samedi 14 janvier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_MOLLIERE_INSTA_1.jpg
+- title: New York 59
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF0045 new.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
   fields: []
   styles: []
   weight: 0
   dimensions:
-    height: 0
-    width: 0
+    height: 91
+    width: 69
     depth: 0
-  description: "La série montrée à la galerie Gaïa s’articule autour de deux thématiques
-    qui semblent s’opposer.\n\nLa première, architecturée et incarnée des grandes
-    villes de l’Est américain, nous plonge dans des vapeurs et des flottements intemporels.\n\nLa
-    seconde, désertique, chaude et minérale de la Namibie, s’écarte radicalement des
-    représentations classiques de ces vastes paysages.\n\nQuelques contrastes qui
-    doucement s’immiscent en nous et stimulent l’onirisme.\n\nAuteur & photojournaliste
-    indépendant, Jean-François Molliere a collaboré à de nombreux ouvrages et magazines
-    dans le domaine de l’art, du sport, et de l’architecture.  \n  \n\\-Premier Prix
-    Ilford de la photographie Noir et Blanc de l’année 1998\n\n\\-Prix Ilford 1996
-    et 2000"
-  price: ''
-  contextual: false
-  technique: A partir de 11H
+  description: 'caisse américaine bois noir '
+  price: 1800
+  contextual: true
 - title: Paysages sensibles 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0709 L 92 x
     H 90 paysages sensibles 2.jpg
@@ -183,20 +175,6 @@ works:
     depth: 0
   description: ''
   price: 2800
-  contextual: true
-- title: New York 59
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF0045 new.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 91
-    width: 69
-    depth: 0
-  description: 'caisse américaine bois noir '
-  price: 1800
   contextual: true
 - title: Chicago 46
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jean

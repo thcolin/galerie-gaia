@@ -2,6 +2,7 @@
 template: artists
 artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
+- artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/jean-francois-molliere.md
 - artist: src/pages/artists/georges-rousse.md
 - artist: src/pages/artists/pierre-tual.md
@@ -61,7 +62,6 @@ artists:
 - artist: src/pages/artists/alain-clement.md
 - artist: src/pages/artists/daha-daha.md
 - artist: src/pages/artists/rycho-ryszard-swierad.md
-- artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/jorj-morin-peintre.md
 - artist: src/pages/artists/combas.md
 - artist: src/pages/artists/virginie-chardon.md
