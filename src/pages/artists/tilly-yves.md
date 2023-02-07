@@ -78,20 +78,6 @@ works:
   price: 800
   sold: false
   contextual: false
-- title: Prunus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0011-01~2.jpg
-  technique: Prunier
-  fields: []
-  styles: []
-  weight: 2
-  dimensions:
-    height: 26
-    width: 9
-    depth: 10
-  description: Vendu
-  price: 
-  sold: false
-  contextual: false
 exhibitions:
 - title: 'Galerie Cécile Loiret '
   location: Vannes
