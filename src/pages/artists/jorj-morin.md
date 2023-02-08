@@ -27,8 +27,24 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: Quatre paires d'yeux.
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.QUATRE
+    PAIRES D YEUX.37x27.jpg
+  technique: Eau forte 1/50
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 37
+    width: 27
+    depth: 0
+  description: "1989"
+  price: 250
+  sold: false
+  contextual: true
 - title: Une branche verte
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.UNE
+    BRANCHE VERTE.37x27.jpg
   technique: Eau forte 1/50
   fields: []
   styles: []
@@ -42,7 +58,8 @@ works:
   sold: false
   contextual: true
 - title: Reguards inquets
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE.GAIA.J.MORIN.REGARDS
+    INQUETS.37x27.jpg
   technique: Eau forte 1/50
   fields: []
   styles: []
