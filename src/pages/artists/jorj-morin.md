@@ -90,7 +90,7 @@ works:
 - title: Les yeux rouges
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     morin-IMG_6426.jpg
-  technique: 1978 Eau forte 14/50 réhausse aquarelle
+  technique: " Eau forte 14/50 réhausse aquarelle"
   fields: []
   styles: []
   weight: 
@@ -98,7 +98,7 @@ works:
     height: 30
     width: 20
     depth: 
-  description: ''
+  description: "1978"
   price: 150
   sold: false
   contextual: true
@@ -207,7 +207,7 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Noeud majuscule 1975
+- title: Noeud majuscule
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-noeud
     majuscule.JPG
   technique: Eau forte 7/50
@@ -217,12 +217,12 @@ works:
     height: 50
     width: 37.5
     depth: 
-  description: ''
+  description: "1975"
   price: 350
   sold: false
   contextual: true
   weight: 
-- title: Mouvement mécanique 1982
+- title: 'Mouvement mécanique '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-mouvements
     mécaniques.JPG
   technique: Eau forte 3/50
@@ -232,12 +232,12 @@ works:
     height: 38
     width: 28.5
     depth: 
-  description: ''
+  description: "1982"
   price: 250
   sold: false
   contextual: true
   weight: 
-- title: Massif forestier 1976
+- title: Massif forestier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-massif
     forestier.JPG
   technique: Eau forte 3/50
@@ -247,7 +247,7 @@ works:
     height: 44.5
     width: 55.5
     depth: 
-  description: ''
+  description: "1976"
   price: 450
   sold: false
   contextual: true
@@ -267,7 +267,7 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Le temps suspendu 1968
+- title: 'Le temps suspendu '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     temps suspendu.JPG
   technique: Eau forte 7/50
@@ -277,12 +277,12 @@ works:
     height: 32.5
     width: 50.5
     depth: 
-  description: ''
+  description: "1968"
   price: 350
   sold: false
   contextual: true
   weight: 
-- title: Le point retenu 1986
+- title: Le point retenu
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     point retenu.JPG
   technique: Monotype + Dessin
@@ -292,7 +292,7 @@ works:
     height: 51
     width: 33
     depth: 
-  description: ''
+  description: "1986"
   price: 350
   sold: false
   contextual: true
