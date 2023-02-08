@@ -252,7 +252,7 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Le vent qui va 1974
+- title: 'Le vent qui va '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     vent qui va.JPG
   technique: Eau forte 7/50
@@ -262,7 +262,7 @@ works:
     height: 38
     width: 61
     depth: 
-  description: ''
+  description: "1974"
   price: 450
   sold: false
   contextual: true
@@ -297,7 +297,7 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Le coeur sensible 1974
+- title: 'Le coeur sensible '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     coeur sensible.JPG
   technique: Eau forte 5/50
@@ -307,12 +307,12 @@ works:
     height: 45.5
     width: 61
     depth: 
-  description: ''
+  description: "1974"
   price: 450
   sold: false
   contextual: true
   weight: 
-- title: Le château vertical 1968
+- title: 'Le château vertical '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
     château vertical.JPG
   technique: Eau forte 1/50
@@ -322,12 +322,12 @@ works:
     height: 50.5
     width: 32.5
     depth: 
-  description: ''
+  description: "1968"
   price: 450
   sold: false
   contextual: true
   weight: 
-- title: L'échelle de Jacob 1971
+- title: 'L''échelle de Jacob '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'échelle
     de jacob.JPG
   technique: Eau forte 10/50
@@ -337,12 +337,12 @@ works:
     height: 61
     width: 38
     depth: 
-  description: ''
+  description: "1971"
   price: 450
   sold: false
   contextual: true
   weight: 
-- title: Jeu d'aiguilles 1984
+- title: 'Jeu d''aiguilles '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-jeu
     d'aiguilles.JPG
   technique: Eau forte 4/7
@@ -352,12 +352,12 @@ works:
     height: 38
     width: 28.5
     depth: 
-  description: ''
+  description: "1984"
   price: 250
   sold: false
   contextual: true
   weight: 
-- title: Coeur (II) 1977
+- title: Coeur (II)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
     (II).JPG
   technique: Eau forte 3/50
@@ -367,12 +367,12 @@ works:
     height: 28.5
     width: 19
     depth: 
-  description: ''
+  description: "1977"
   price: 150
   sold: false
   contextual: true
   weight: 
-- title: Cat 328 1974
+- title: 'Cat 328 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-cat
     328.JPG
   technique: Eau forte 1/4
@@ -382,12 +382,12 @@ works:
     height: 50
     width: 34
     depth: 
-  description: ''
+  description: "1978"
   price: 450
   sold: false
   contextual: true
   weight: 
-- title: Espace agité 1968
+- title: Espace agité
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-espace
     agité.JPG
   technique: Eau forte 2/50
@@ -397,7 +397,7 @@ works:
     height: 33
     width: 50
     depth: 
-  description: ''
+  description: "1968"
   price: 450
   sold: false
   contextual: true
@@ -417,7 +417,7 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Colonne sensible 1971
+- title: 'Colonne sensible '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-colonnes
     sensibles.JPG
   technique: Eau forte 10/50
@@ -427,12 +427,12 @@ works:
     height: 61
     width: 38
     depth: 
-  description: ''
+  description: _1971_
   price: 350
   sold: false
   contextual: true
   weight: 
-- title: Fleur dansant 1981
+- title: Fleur dansant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     morin-IMG_6421.jpg
   technique: Eau forte 17/50
@@ -440,14 +440,14 @@ works:
     height: 30
     width: 20
     depth: 
-  description: ''
+  description: "1981"
   price: 150
   sold: false
   contextual: true
   fields: []
   styles: []
   weight: 
-- title: Bouquet Composé 1978
+- title: 'Bouquet Composé '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     morin-IMG_6422.jpg
   technique: 'Eau forte 27/50 réhausse aquarelle '
@@ -455,14 +455,14 @@ works:
     height: 30
     width: 20
     depth: 
-  description: ''
+  description: "1978"
   price: 150
   sold: false
   contextual: true
   fields: []
   styles: []
   weight: 
-- title: Point rouge 1978
+- title: 'Point rouge '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     morin-IMG_6423.jpg
   technique: Eau forte 18/50
@@ -470,14 +470,14 @@ works:
     height: 30
     width: 21
     depth: 
-  description: ''
+  description: "1978"
   price: 150
   sold: false
   contextual: true
   fields: []
   styles: []
   weight: 
-- title: Cyclope 1978
+- title: Cyclope
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     morin-IMG_6424.jpg
   technique: Eau forte 17/50
@@ -485,7 +485,7 @@ works:
     height: 30
     width: 20
     depth: 
-  description: ''
+  description: "1978"
   price: 150
   sold: false
   contextual: true
@@ -524,14 +524,14 @@ works:
   styles:
   - Abstrait
   weight: 
-- title: Exposition Polymorphie 2020
+- title: 'Exposition Polymorphie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/exposition-polymorphie-2020.jpg
   technique: ''
   dimensions:
     height: 
     width: 
     depth: 
-  description: "Tapisserie Espace Nacrée et L oeil vigilant \nSculpture Gérard Voisin"
+  description: 2020 Tapisserie Espace Nacrée et L oeil vigilant Sculpture Gérard Voisin
   price: 
   sold: false
   contextual: true
