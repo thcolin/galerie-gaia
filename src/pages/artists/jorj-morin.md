@@ -87,10 +87,10 @@ works:
   price: 
   sold: false
   contextual: true
-- title: Les yeux rouges 1978
+- title: Les yeux rouges
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
     morin-IMG_6426.jpg
-  technique: Eau forte 14/50 réhausse aquarelle
+  technique: 1978 Eau forte 14/50 réhausse aquarelle
   fields: []
   styles: []
   weight: 
@@ -102,7 +102,7 @@ works:
   price: 150
   sold: false
   contextual: true
-- title: L'arbre noué 1971
+- title: L'arbre noué
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'arbre
     noué.jpg
   technique: Eau forte 10/50
@@ -112,7 +112,7 @@ works:
     height: 61
     width: 45.5
     depth: 
-  description: ''
+  description: '1971 '
   price: 450
   sold: false
   contextual: true
@@ -132,7 +132,7 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Trois signes non identifiés 1971
+- title: 'Trois signes non identifiés '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-trois
     signes non identifiés.JPG
   technique: Eau forte 10/50
@@ -142,12 +142,12 @@ works:
     height: 61
     width: 38
     depth: 
-  description: ''
+  description: "1971"
   price: 450
   sold: false
   contextual: true
   weight: 
-- title: Vents tournants 1986
+- title: 'Vents tournants '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-vents
     tournants.JPG
   technique: Eau forte 1/50
@@ -157,12 +157,12 @@ works:
     height: 38
     width: 28.5
     depth: 
-  description: ''
+  description: "1986"
   price: 250
   sold: false
   contextual: true
   weight: 
-- title: Un oeil polyvalent 1976
+- title: 'Un oeil polyvalent '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-un
     oeil polyvalent.JPG
   technique: Eau forte 11/50
@@ -172,12 +172,12 @@ works:
     height: 
     width: 
     depth: 
-  description: ''
+  description: "1976"
   price: 150
   sold: false
   contextual: true
   weight: 
-- title: Signaux optiques 1971
+- title: Signaux optiques
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-signaux
     optiques.jpg
   technique: Eau forte 7/50
@@ -187,12 +187,12 @@ works:
     height: 61
     width: 45.5
     depth: 
-  description: ''
+  description: "1971"
   price: 450
   sold: false
   contextual: true
   weight: 
-- title: Sans titre 1987
+- title: 'Sans titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-sans
     titre (2).JPG
   technique: 'Eau forte '
@@ -202,7 +202,7 @@ works:
     height: 40
     width: 60
     depth: 
-  description: ''
+  description: "1987"
   price: 450
   sold: false
   contextual: true
