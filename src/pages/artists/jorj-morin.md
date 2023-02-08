@@ -27,6 +27,35 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
+- title: 'En forme de feuille '
+  image: ''
+  technique: Eau forte 21/50
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 28
+    width: 18
+    depth: 0
+  description: "1972"
+  price: 150
+  sold: false
+  contextual: true
+- title: La tour de guet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.LA
+    TOUR DE GUET.29x19.jpg
+  technique: Eau forte 29/30
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 28
+    width: 18
+    depth: 0
+  description: "1980"
+  price: 150
+  sold: false
+  contextual: true
 - title: Regards dispercés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.REGARD
     DISPERCE.29x19.jpg
