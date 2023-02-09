@@ -71,23 +71,10 @@ works:
     height: 200
     width: 300
     depth: 0
-  description: 'Visible sur rendez-vous '
-  price: 12000
+  description: Vendue, d'autres oeuvres de ce format disponible sur demande
+  price: ''
   contextual: false
   technique: 'Huile sur toile '
-- title: 'L ''Indomptable '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-limdoptable-sea-oil-painting-by-franco-salas-borquez_5.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 200
-    width: 300
-    depth: 0
-  description: "# Franco Salas Borquez\n\nPensez cette toile comme une fresque murale,
-    Visible sur rendez-vous "
-  price: 12000
-  contextual: true
 - title: 'Le duel '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/franco-salas-borquez-galerie-gaia-Le
     duel 130 x 130 cm huile sur toile 2021.JPG
