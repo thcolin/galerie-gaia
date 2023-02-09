@@ -65,19 +65,6 @@ works:
   description: Caisse américaine bois noir
   price: 2200
   contextual: true
-- title: 'Paysages sensibles 5 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1880 L 48 x
-    H 50 Paysages sensibles 5.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 55
-    width: 53
-    depth: 0
-  description: Caisse américaine bois noir
-  price: 980
-  contextual: true
 - title: Paysages sensibles 4
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF9829 90 x 90
     Paysages sensibles 4.jpg
@@ -146,20 +133,6 @@ works:
     width: 63
     depth: 0
   description: 2022 encadrement caisse américaine bois noir
-  price: 1600
-  contextual: true
-- title: New York 64
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF0951 58 cm x 58 cm.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 58
-    width: 58
-    depth: 0
-  description: Caisse américaine bois noir
   price: 1600
   contextual: true
 - title: New York 50
@@ -313,18 +286,6 @@ works:
     depth: 
   description: N° 3/5 caisse américaine bois
   price: 1500
-  sold: false
-  contextual: true
-- title: New York 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1347.jpg
-  technique: 'Tirage papier fine art sur dibon '
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: "caisse américaine bois  \nPhotographie visible à la brasserie [Le
-    Molière](https://www.lemoliere.fr/ \"barsserie le Molière \") à Nantes"
-  price: 1800
   sold: false
   contextual: true
 - title: New York 20
