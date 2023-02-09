@@ -1,11 +1,11 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-confluence.png
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou
     mia20X20.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-COARI-30
     cm x 30 cm - 30 tirages.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Akémi.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-aline-isoard-pont
     15-2021,60x60w.jpg
 redirect_from:
