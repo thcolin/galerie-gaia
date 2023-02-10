@@ -83,21 +83,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: War is peace
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-war
-    is peace-48x48.jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles: []
-  dimensions:
-    height: 48
-    width: 48
-    depth: 
-  description: ''
-  price: 30
-  sold: false
-  contextual: true
-  weight: 
 - title: Scotus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-scotus-50x70.jpg
   technique: Sérigraphie
