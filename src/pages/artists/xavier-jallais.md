@@ -55,20 +55,6 @@ works:
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-1
     Avant d'aller plus loin.jpg
-- title: Ne plus savoir où aller
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ne
-    plus savoir où aller, 100x81, 2021.jpg
-  technique: Collage de sable, cendre, acrylique et huile sur toile montée sur châssis
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 100
-    width: 81
-    depth: 0
-  description: ''
-  price: 1700
-  contextual: true
 - title: Ailleurs ou nulle part
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ailleurs
     ou nulle part.jpg
@@ -83,35 +69,6 @@ works:
   description: "2022"
   price: 900
   contextual: true
-- title: Je viens d'ailleurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Je
-    viens d'ailleurs.jpg
-  technique: Acrylique sur carton encadrée sous verre baguette blanche
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 75
-    width: 55
-    depth: 0
-  description: "2021"
-  price: ''
-  contextual: true
-  sold: true
-- title: Le bâtisseur
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Un
-    départ, à l'aube, 150x100, 2021.jpg
-  technique: collage de sable, cendre, acrylique et huile sur toile
-  dimensions:
-    height: 150
-    width: 100
-    depth: 
-  description: 'Visible sur demande '
-  price: 3000
-  sold: false
-  contextual: true
-  fields:
-  - Peinture
 - title: Cerf 1 (4/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
