@@ -70,7 +70,7 @@ works:
   description: "2022"
   price: 900
   contextual: true
-- title: Cerf 1 (4/7)
+- title: 'Cerf 1 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cerf-1-47.jpg
   technique: Eau forte sur zinc, tirage 7 ex sur RBK Rives 300g/m²
   dimensions:
