@@ -92,5 +92,8 @@
   "browserslist": [
     ">0.25%",
     "not dead"
-  ]
+  ],
+  "resolutions": {
+    "postcss": "^8.2.12"
+  }
 }
