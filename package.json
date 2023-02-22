@@ -4,12 +4,12 @@
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop",
+    "dev": "node --openssl-legacy-provider node_modules/.bin/gatsby develop",
     "start": "yarn run develop",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build --prefix-paths",
-    "serve": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby serve",
+    "build": "node --openssl-legacy-provider node_modules/.bin/gatsby build --prefix-paths",
+    "serve": "node --openssl-legacy-provider node_modules/.bin/gatsby serve",
     "lint": "npx standardx --fix --verbose | npx snazzy",
-    "forestry:preview": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop -p 8080 -H 0.0.0.0"
+    "forestry:preview": "node --openssl-legacy-provider node_modules/.bin/gatsby develop -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
     "@brainhubeu/react-carousel": "1.13.19",
