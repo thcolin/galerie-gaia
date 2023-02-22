@@ -90,6 +90,18 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Exposition du 7 au 25 mars 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vernissage jeudi 9 Mars 2023 18H
+  price: ''
+  contextual: true
 - title: Black beauty
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre-galerie
     gaia-cheval noir 22X30.jpeg

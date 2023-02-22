@@ -1181,7 +1181,7 @@ articles:
 
     Exposition du 7 au 25 Mars 2023
 
-    **Laure Carré** entre tous les matins dans son atelier là où les rêves sont encore chauds !
+    [**Laure Carré**](https://galeriegaia.fr/artists/laure-carre/ "Laure Carré") entre tous les matins dans son atelier là où les rêves sont encore chauds !
 
     Méthodiquement elle installe ses toiles, prépare ses couleurs dans une ambiance de café-clope-musique. Ce qui se passe ensuite, dépasse l’intention consciente. Comme le dit Jacques le Brusq qui aime la peinture de Laure pour sa totale liberté : « ça peint ». Laure accepte ce qui arrive sur la toile et se plaît ensuite à vivre (arranger) les vides, à installer les couleurs, à dessiner des contours pour faire apparaître des histoires où les repentirs deviennent des fantômes cachés (et des fantômes cachés sous le repentir). Onirisme par absence formelle de structure, pouvoir narratif déroutant avec des thèmes récurrents comme le cheval, les corps alanguis, des visages qui surgissent partiellement, acceptons de suivre l’artiste dans ce chambardement. Laure peint de la main droite ou de la main gauche non par facilité mais pour aller chercher soit des intentions soit des intuitions. Au passage il se pourrait bien que les formes qui surgissent se retrouvent tête en bas, non par seul hommage à Baselitz, mais aussi parce qu’ils flottent réellement.
 
