@@ -27,21 +27,6 @@ biography: |-
   L’exposition Polymorphie organisée en 2020 par la Galerie Gaïa peut être définie par bien des termes, mais celui de rétrospective n'en fait pas partie. Ainsi, il s'agit du désir de faire découvrir à un public non familier à l'art de Morin comme il est passionnant de regarder un artiste se confronter à des supports différents et qui offrent des contraintes jubilatoires. Qu’importe les dates de ces œuvres passées, car au présent, ses lignes claires et cette palette de couleurs nous font intimement vibrer.
 exhibitions: []
 works:
-- title: 'Bride abattue '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.BRIDE
-    ABATTUE.37x27.jpg
-  technique: Eau forte 3/50
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 37
-    width: 27
-    depth: 0
-  description: "1984"
-  price: 250
-  sold: false
-  contextual: true
 - title: 'Sentiers perdus '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.SENTIER
     PERDUS.37x27.jpg
@@ -52,7 +37,7 @@ works:
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1984"
   price: 250
   sold: false
@@ -67,7 +52,7 @@ works:
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1986"
   price: 250
   sold: false
@@ -82,22 +67,7 @@ works:
   dimensions:
     height: 37
     width: 27
-    depth: 0
-  description: "1986"
-  price: 250
-  sold: false
-  contextual: true
-- title: 'Massif montagneux '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE.GAIA.J.MORIN.MASSIF
-    MONTAGNEUX.37x27.jpg
-  technique: Eau forte 4/50
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 37
-    width: 27
-    depth: 0
+    depth: 
   description: "1986"
   price: 250
   sold: false
@@ -111,7 +81,7 @@ works:
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1987"
   price: 250
   sold: false
@@ -121,11 +91,11 @@ works:
   technique: Eau forte 1/50
   fields: []
   styles: []
-  weight: 0
+  weight: 
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1989"
   price: 250
   sold: false
@@ -135,11 +105,11 @@ works:
   technique: Eau forte 1/50
   fields: []
   styles: []
-  weight: 0
+  weight: 
   dimensions:
     height: 28
     width: 18
-    depth: 0
+    depth: 
   description: "1989"
   price: 150
   sold: false
@@ -154,21 +124,7 @@ works:
   dimensions:
     height: 28
     width: 18
-    depth: 0
-  description: "1972"
-  price: 150
-  sold: false
-  contextual: true
-- title: 'En forme de feuille '
-  image: ''
-  technique: Eau forte 21/50
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 28
-    width: 18
-    depth: 0
+    depth: 
   description: "1972"
   price: 150
   sold: false
@@ -179,11 +135,11 @@ works:
   technique: Eau forte 29/30
   fields: []
   styles: []
-  weight: 0
+  weight: 
   dimensions:
     height: 28
     width: 18
-    depth: 0
+    depth: 
   description: "1980"
   price: 150
   sold: false
@@ -198,23 +154,8 @@ works:
   dimensions:
     height: 28
     width: 18
-    depth: 0
+    depth: 
   description: "1978"
-  price: 150
-  sold: false
-  contextual: true
-- title: Bouquet bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.BOUQUET
-    BLEU.29x19.jpg
-  technique: Eau forte 15/50
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 28
-    width: 18
-    depth: 0
-  description: "1976"
   price: 150
   sold: false
   contextual: true
@@ -228,7 +169,7 @@ works:
   dimensions:
     height: 28
     width: 18
-    depth: 0
+    depth: 
   description: "1974"
   price: 150
   sold: false
@@ -243,7 +184,7 @@ works:
   dimensions:
     height: 28
     width: 18
-    depth: 0
+    depth: 
   description: "1968"
   price: 150
   sold: false
@@ -254,11 +195,11 @@ works:
   technique: Eau forte 1/50
   fields: []
   styles: []
-  weight: 0
+  weight: 
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1989"
   price: 250
   sold: false
@@ -269,16 +210,16 @@ works:
   technique: Eau forte 1/50
   fields: []
   styles: []
-  weight: 0
+  weight: 
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1989"
   price: 250
   sold: false
   contextual: true
-- title: Reguards inquets
+- title: Regards inquiets
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE.GAIA.J.MORIN.REGARDS
     INQUETS.37x27.jpg
   technique: Eau forte 1/50
@@ -288,7 +229,7 @@ works:
   dimensions:
     height: 37
     width: 27
-    depth: 0
+    depth: 
   description: "1988"
   price: 150
   sold: false
@@ -648,7 +589,7 @@ works:
     height: 61
     width: 38
     depth: 
-  description: _1971_
+  description: "1971"
   price: 350
   sold: false
   contextual: true

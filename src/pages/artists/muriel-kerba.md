@@ -92,9 +92,9 @@ works:
     height: 70
     width: 50
     depth: 
-  description: 'pièce unique '
+  description: vendue
   price: 700
-  sold: false
+  sold: true
   contextual: true
   weight: 
 - title: Hypnotic
