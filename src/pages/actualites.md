@@ -1170,5 +1170,23 @@ articles:
     du sport, et de l’architecture.\n\nPremier Prix Ilford de la photographie Noir
     et Blanc de l’année 1998  \nPrix Ilford 1996 et 2000  \nPrix de la photographie
     urbaine de la MEP 2021 (Maison Européenne de la photographie) et du magazine Fisheye"
+- template: article
+  date: '2023-03-07T08:53:59Z'
+  categories:
+  - Exposition
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
+  title: Exposition Laure Carré
+  content: |-
+    **VERNISSAGE JEUDI 9 MARS 18H**
+
+    Exposition du 7 au 25 Mars 2023
+
+    **Laure Carré** entre tous les matins dans son atelier là où les rêves sont encore chauds !
+
+    Méthodiquement elle installe ses toiles, prépare ses couleurs dans une ambiance de café-clope-musique. Ce qui se passe ensuite, dépasse l’intention consciente. Comme le dit Jacques le Brusq qui aime la peinture de Laure pour sa totale liberté : « ça peint ». Laure accepte ce qui arrive sur la toile et se plaît ensuite à vivre (arranger) les vides, à installer les couleurs, à dessiner des contours pour faire apparaître des histoires où les repentirs deviennent des fantômes cachés (et des fantômes cachés sous le repentir). Onirisme par absence formelle de structure, pouvoir narratif déroutant avec des thèmes récurrents comme le cheval, les corps alanguis, des visages qui surgissent partiellement, acceptons de suivre l’artiste dans ce chambardement. Laure peint de la main droite ou de la main gauche non par facilité mais pour aller chercher soit des intentions soit des intuitions. Au passage il se pourrait bien que les formes qui surgissent se retrouvent tête en bas, non par seul hommage à Baselitz, mais aussi parce qu’ils flottent réellement.
+
+    Les œuvres présentées à la galerie se composent d’huiles sur toile, collages et dessins, souvenirs de paysages et de scènes intimes où l'artiste s’affranchit de la technique pour imposer la singularité de son geste.
+
+    Diplômée de Duperré, de la Parson School of New York et d'Olivier de Serre, Laure Carré expose dès ses débuts à New York, Paris et Tokyo. Son travail reconnaissable au premier regard, en fait une artiste dont vous garderez quelques réminiscences.
 
 ---
