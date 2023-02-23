@@ -58,9 +58,9 @@ content:
     display: true
     placeholder: Renseignement location & défiscalisation
 - column: |-
-    ![https://galeriegaia.fr/artists/isabelle-healy/](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isabelle-healy-notre heritage seul.png "ISABELLE HEALY DEFISCALISATION OEUVRE ART")
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-tapisserie francoise paressant ES.jpg)
 
-    Mon Héritage - bronze de [Isabelle Healy](https://galeriegaia.fr/artists/isabelle-healy/ "isabelle healy")
+    [Françoise Paressant](https://galeriegaia.fr/about/courtier-en-art/) - Galerie Chevalier Parsua Paris
 
     ![https://galeriegaia.fr/artists/laure-carre/](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure carre rose.jpg "LAURE CARRE COSENTINO PARIS")
 
