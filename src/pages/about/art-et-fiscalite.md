@@ -58,15 +58,17 @@ content:
     display: true
     placeholder: Renseignement location & défiscalisation
 - column: |-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-tapisserie francoise paressant ES.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaiat francoise paressant ES.jpg)
 
     [Françoise Paressant](https://galeriegaia.fr/about/courtier-en-art/) - Tapisserie - partenariat Galerie Chevalier Parsua Paris
 
     ![https://galeriegaia.fr/artists/laure-carre/](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-cosentino-laure carre rose.jpg "LAURE CARRE COSENTINO PARIS")
 
-     [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure carré") - peinture - Showroom Cosentino Paris
+    [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure carré") - peinture - Showroom Cosentino Paris
 
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en situation chez MS.jpg)[Toma-l]() - Dessin sur lithographie - Conseil collection privée
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/en situation chez MS.jpg)
+
+    [Toma-l]() - Dessin sur lithographie - Conseil collection privée
   contact:
     placeholder: Un message à nous adresser ?
     display: false
