@@ -14,7 +14,7 @@ title: Man et Pia
 location: ''
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: "Pia Laureau et Manolo Chrétien se sont rencontrés en 1987 aux Arts Appliqués
   Olivier de Serres à Paris.\n\nDepuis, ils unissent leurs regards au sein du duo
   Man&Pia, une collaboration artistique à quatre mains.\n\nLe duo s'attache à explorer
@@ -44,6 +44,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: Take a long way home
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-man&pia_Manolo_Chretien_TAKE-A-LONG-WAY-HOME-81x130.jpg
   technique: Peinture acrylique sur toile
@@ -57,6 +58,7 @@ works:
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: 'A forest '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-A-FOREST-93x120.jpeg
   technique: 'Peinture acrylique sur toile '
@@ -70,6 +72,7 @@ works:
   price: 4000
   sold: false
   contextual: true
+  weight: 
 - title: Dancing in the street
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-DANCING-IN-THE-STREET-94x184.jpg
   technique: Acrylique
@@ -83,6 +86,7 @@ works:
   price: 5500
   sold: false
   contextual: true
+  weight: 
 - title: 'On our way '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-ON-OUR-WAY-80X76.jpg
   technique: Peinture acrylique sur toile
@@ -96,6 +100,7 @@ works:
   price: 2200
   sold: false
   contextual: true
+  weight: 
 - title: Below the cherry moon - 2020
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-BELOW-THE-CHERRY-MOON-93x150.jpg
   technique: Peinture acrylique sur toile
@@ -109,6 +114,7 @@ works:
   price: 4980
   sold: false
   contextual: true
+  weight: 
 exhibitions: []
 
 ---

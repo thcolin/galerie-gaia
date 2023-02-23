@@ -8,7 +8,7 @@ title: 'Kerba Muriel '
 location: ''
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: "# Muriel Kerba\n\nAborder le travail de Muriel Kerba relève de la spéléologie.
   \ \nDe l’étude d’un terrain, sa consistance, sa couleur, sa texture,  \nsa composition,
   on pourrait dire de même de ses œuvres.  \nDe l’étude des couches d’un sol, leur

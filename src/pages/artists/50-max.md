@@ -20,21 +20,6 @@ biography: "# Déco arty à petit prix\n\nDes éditions limitées à petit prix,
   au grès de mes recherches pour un accrochage qui créé un style unique, comme vous
   !"
 works:
-- title: Milk
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Milk-64x45.jpg
-  technique: 'Sérigraphie '
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 64
-    width: 45
-    depth: 
-  description: Sympa pour la déco de la cuisine !
-  price: 30
-  sold: false
-  contextual: true
-  weight: 
 - title: Garbage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Doe
     eyed-61x45,6 .jpg
@@ -48,6 +33,21 @@ works:
     depth: 
   description: Chambre ado ou espace de co-working ambiance musicale et graphique
   price: 50
+  sold: false
+  contextual: true
+  weight: 
+- title: Milk
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Milk-64x45.jpg
+  technique: 'Sérigraphie '
+  fields: []
+  styles:
+  - Figuratif
+  dimensions:
+    height: 64
+    width: 45
+    depth: 
+  description: Sympa pour la déco de la cuisine !
+  price: 30
   sold: false
   contextual: true
   weight: 
@@ -108,21 +108,6 @@ works:
     width: 
     depth: 
   description: 'Affiche concert Metal ambiance home office graphique '
-  price: 30
-  sold: false
-  contextual: true
-  weight: 
-- title: Tonkart
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie-Gaia-Ozaer-61,5x45,2.jpg
-  technique: Sérigraphie
-  fields: []
-  styles:
-  - Figuratif
-  dimensions:
-    height: 62
-    width: 45
-    depth: 
-  description: Ambiance chambre ado sympa!
   price: 30
   sold: false
   contextual: true
