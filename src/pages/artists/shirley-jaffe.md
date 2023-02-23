@@ -12,7 +12,7 @@ title: Jaffe Shirley
 location: ''
 birth: 2 octobre 1923
 death: 29 septembre 2016
-expose: false
+expose: true
 biography: "Américaine installée à Paris depuis 1949, la peintre Shirley Jaffe à perfectionné
   ses abstractions géométriques à la fois ludique et rigoureuse depuis la fin des
   années 60. Elle expose avec Jean Fournier avant de rejoindre la[ Galerie Obadia](https://www.nathalieobadia.com/fr/artists/43-shirley-jaffe-estate/overview/)\n\nSes

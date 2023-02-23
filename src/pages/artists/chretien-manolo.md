@@ -14,7 +14,7 @@ title: Chrétien Manolo
 location: ''
 birth: ''
 death: ''
-expose: true
+expose: false
 biography: "# Manolo Chrétien\n\n« G R A V I T Y »\n\nDepuis le ciel jusqu’à la terre,
   le plasticien-photographe Manolo Chrétien est fasciné par les effets de la gravitation
   sur les éléments. Pression atmosphérique, déformation de la matière, distorsion,
@@ -91,6 +91,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: Cockpit Concorde in situ dans des bureaux
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/CONCORDE-COCKPIT-INSITU.jpg
   technique: Photo sublimation sur feuille d'aluminium brossée brillant
@@ -104,6 +105,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: Mirage
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-MIRAGE-60x90.jpg
   technique: Photographie sur aluminium brossé
@@ -118,6 +120,7 @@ works:
   price: 3000
   sold: false
   contextual: true
+  weight: 
 - title: Beech Wing
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-BEECH-WING-80x120.jpg
   technique: Photographie sur aluminium brossé
@@ -132,6 +135,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: 'New wave #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#6.jpeg
   technique: Photographie sur aluminium brossé
@@ -145,6 +149,7 @@ works:
   price: 5500
   sold: false
   contextual: true
+  weight: 
 - title: 'New Wave #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#5.jpeg
   technique: Photographie sur aluminium brossé
@@ -158,6 +163,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: 'New wave #2'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/NEW-WAVE#2.jpg
   technique: Photographie sur aluminium brossé
@@ -171,6 +177,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: 'Exoplanéte #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-PLANETE-12-50X50-1C5A0957.jpg
   technique: 'Photo sublimation sur feuille d''aluminium brossée brillant caisse américaine
@@ -186,6 +193,7 @@ works:
   price: 
   sold: false
   contextual: true
+  weight: 
 - title: 'Exoplanète #5 in situ'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/EXOPLANETE#1-INSITU.jpg
   technique: ''
@@ -199,6 +207,7 @@ works:
   price: 3000
   sold: false
   contextual: true
+  weight: 
 - title: 'Exoplanète #6'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-100X100-BISCAROSSE-1C5A6271.jpg
   technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
@@ -213,6 +222,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: Alumination Green and Red (diptyque)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-v1GREEN
     RED-9637 9627.jpeg
@@ -231,6 +241,7 @@ works:
   price: 5600
   sold: false
   contextual: true
+  weight: 
 - title: Alumination Green and Red (diptyque) in situ
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GREEN&RED-INSITU.jpg
   technique: 'Photo sublimation sur feuille d''aluminium brossée brillant '
@@ -244,6 +255,7 @@ works:
   price: 5600
   sold: false
   contextual: true
+  weight: 
 - title: Indian sabre 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-indian-sabre-two-120X120.jpeg
   technique: Photo sublimation sur feuille d'aluminium brossée brillant caisse américaine
@@ -260,6 +272,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: Indian sabre 2 in situ
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-INDIAN-SABRE-INSITU.jpg
   technique: ''
@@ -273,6 +286,7 @@ works:
   price: 4500
   sold: false
   contextual: true
+  weight: 
 - title: T Bird Carman
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manolo-chretien-90x60cm-TBIRD-KARMAN-1C5A5473.jpeg
   technique: Photo sublimation sur feuille d'aluminium brossée brillant
@@ -288,6 +302,7 @@ works:
   description: "# Manolo Chretien\n\n90X60 cm 3 exemplaires 2800€  \n120X80 cm 3 exemplaires
     4500€  \n150X100 cm 3 exemplaires 6800€\n\n180X120 cm 2 EA 9800€\n\nEdition limitée
     à 11 exemplaires"
+  weight: 
 exhibitions:
 - title: ''
   location: ''

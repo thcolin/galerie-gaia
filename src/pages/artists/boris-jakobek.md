@@ -6,7 +6,7 @@ fields:
 - Oeuvre sur papier
 birth: "0"
 death: "0"
-expose: true
+expose: false
 biography: |-
   # Boris Jakobek
 
