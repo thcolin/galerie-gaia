@@ -22,6 +22,20 @@ biography: |-
   >
   > Parfois il est juste bon de se laisser aller à la douceur d'une atmosphère légère.
 works:
+- title: Bella Giornata
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-bella giornata-100x100.jpg
+  technique: 'Acrylique sur toile '
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: '2023 œuvre encadrée bois naturelle '
+  price: 1800
+  sold: false
+  contextual: true
 - title: Taillefer
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Taillefer-1mx1m.jpg
   technique: 'Acrylique sur toile '
@@ -46,7 +60,7 @@ works:
   dimensions:
     height: 100
     width: 100
-    depth: 0
+    depth: 
   description: 2023 encadrement bois naturel
   price: 1900
   sold: false
@@ -61,7 +75,7 @@ works:
   dimensions:
     height: 29
     width: 33
-    depth: 0
+    depth: 
   description: 2022 encadrement bois naturel
   price: 380
   sold: false

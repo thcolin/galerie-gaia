@@ -64,19 +64,19 @@ works:
   description: "[Edwin Wide]() "
   price: 0
   contextual: true
-- title: Job - Kercabellec
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - job
-    -IMG_7081.jpg
+- title: Job - Bella giornata
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-bella giornata-au
+    mur.jpg
   technique: 'Acrylique sur toile '
   fields: []
   styles: []
   weight: 0
   dimensions:
-    height: 29
-    width: 33
+    height: 100
+    width: 100
     depth: 4
   description: "[Job]()"
-  price: 380
+  price: 1800
   contextual: false
 - title: François Bard - kilt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -francois
