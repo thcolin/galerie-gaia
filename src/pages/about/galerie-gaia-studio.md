@@ -65,14 +65,6 @@ content:
     ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG)
 
     70 ans de Adélis avec une oeuvre sur toile de Kazy 5x3 mètres
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre galerie gaia studio NB.png)
-
-    Elisabeth Givre Directrice Galerie Gaïa Studio
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines ben brahim galerie gaia studio NB.png)
-
-    Inès Ben Brahim Adjointe Galerie Gaia Studio
   contact:
     placeholder: Un message à nous adresser ?
     display: false
