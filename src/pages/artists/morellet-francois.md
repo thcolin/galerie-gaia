@@ -30,6 +30,22 @@ biography: |-
 
   For instance, the table below is entitled 3 superimposed grids 0 °, + 15 °, - 15 ° (In French: "3grillages superposés  0 °, + 15 °, – 15 °) (1959), so he superimposed 3 grids inclined respectively at 0 °, + 15 ° and - 15 °.
 works:
+- title: 'Système Hasards et Téléphone '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-francois
+    morellet planche telIMG_7465.jpg
+  technique: Lithographie N°1/75 sur papier Velin Arche
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 
+  dimensions:
+    height: 46
+    width: 64
+    depth: 0
+  description: 1997 Parafit état - pièce rare N°1/75
+  price: 2500
+  sold: false
+  contextual: true
 - title: 'Intégralité du coffret des 11 lithographies '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francois-morellet-coffret.jpg
   technique: 11 lithographies originales signées et numérotées de 1 à 30 sur papier
