@@ -75,19 +75,6 @@ works:
   description: N° 2/6
   price: 480
   contextual: true
-- title: Strates 54
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia versants
-    strate 54 60X40 5ex.jpg
-  technique: 'Sérigraphie 5 passages 1 couleur '
-  fields: []
-  styles: []
-  dimensions:
-    height: 60
-    width: 40
-    depth: 0
-  description: "2021"
-  price: 380
-  contextual: true
 - title: Strates 58
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/STRATES 58 _ 30x40cm
     _ 12ex _ web.jpg
@@ -153,21 +140,6 @@ works:
     depth: 0
   description: |-
     Edition : 5/15
-
-    2022
-  price: 185
-  contextual: true
-- title: Strates 70
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0898.jpg
-  technique: Serigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 25
-    depth: 0
-  description: |-
-    Edition : 13/16
 
     2022
   price: 185
