@@ -36,8 +36,8 @@ works:
     height: 146
     width: 114
     depth: 0
-  description: '2022 prix sur demande '
-  price: ''
+  description: '2022 '
+  price: 3800
   contextual: true
 - title: Blue Pacifique II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme-pacifique2-100X81.jpg
