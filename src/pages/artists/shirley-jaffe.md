@@ -31,7 +31,7 @@ biography: "Américaine installée à Paris depuis 1949, la peintre Shirley Jaff
 works:
 - title: 'Sans Titre '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/shirley-jaffe-sans-titre-2570.jpg
-  technique: Sérigraphie atelier Byse Lille 25/70
+  technique: Sérigraphie atelier Byse Lille N°17/70 et 22/70
   fields: []
   styles: []
   dimensions:
@@ -39,7 +39,7 @@ works:
     width: 50
     depth: 
   description: "2002"
-  price: 
+  price: 2200
   sold: true
   contextual: true
   weight: 
