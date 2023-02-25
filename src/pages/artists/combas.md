@@ -55,9 +55,9 @@ works:
   description: "1997 Atelier Buyse Lille   \nDédicace au crayon de papier \"sète sur
     oeuf\" en clin d'oeil à la ville natale de Combas et en référence à la numérotation
     7/9"
-  price: 0
+  price: 2200
   contextual: true
-- title: 'Dragon '
+- title: Dragon EA 6/9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-combas
     dragon 6:9.jpg
   technique: Lithographie 5 couleurs EA 6/9
