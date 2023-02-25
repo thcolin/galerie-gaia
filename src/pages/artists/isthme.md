@@ -48,7 +48,8 @@ works:
     height: 100
     width: 81
     depth: 0
-  description: "2022"
+  description: 2022 Exposée au restaurant l['Aménité](https://www.lamenite-restaurant-nantes.com/
+    "restaurant l aménité")
   price: 1900
   contextual: true
   sold: false
@@ -89,20 +90,6 @@ works:
   description: "2022"
   price: 1995
   contextual: true
-- title: 'Entre Bleus #3'
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHMEBlue Majuscule
-    #5, 2022-120 x 120 cm -Acrylique sur toile  -.jpg'
-  technique: Acrylique sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 120
-    width: 120
-    depth: 0
-  description: "2022"
-  price: 4200
-  contextual: true
-  sold: true
 - title: 'Petits Equilibres #1'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-Petits Equilibres
     #1-2022-Linogravure:Lithographie et acrylique sur papier Arches-76x56cm.jpg'
@@ -181,20 +168,6 @@ works:
   description: "2021"
   price: 750
   contextual: true
-- title: 'Deep Blue # 4b'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ISTHME-2021-Deep
-    Blue#4b-acrylique sur toile-130x97cm-jpg.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 97
-    depth: 0
-  description: "2021"
-  price: 3500
-  contextual: true
-  sold: true
 - title: 'Ar Men #a'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Nuits
     en mer, Ar Men a-146x114-2022-acrylique sur toile.jpg
@@ -208,6 +181,7 @@ works:
   description: "Œuvre sur châssis 2022  \nPrix sur demande "
   price: ''
   contextual: true
+  sold: true
 - title: 'Deep blue #20'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Isthme-Deep
     blue20-2022-146X114-acrylique sur toile.jpg
@@ -221,6 +195,7 @@ works:
   description: "Œuvre sur châssis - 2022  \nPrix sur demande "
   price: ''
   contextual: true
+  sold: true
 - title: 'Deep blue #10'
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-2021-Deep
     Blue #10-146X114-Acrylique sur toile.jpg'
@@ -235,6 +210,7 @@ works:
   description: 2021 Prix sur demande
   price: ''
   contextual: true
+  sold: true
 - title: Nuit en mer IV
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/nuit-en-mer-iv-425.jpg
   technique: 'Lithographie 4/25 '
