@@ -50,22 +50,6 @@ biography: "# Tangui Robert Jeronimo Gaetan Chevrier pour Versants\n\n> Un colle
   Burban"
 exhibitions: []
 works:
-- title: Echo V
-  technique: Serigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: |-
-    Edition : 10/12
-
-    2022
-  price: 510
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0889.jpg
-  sold: true
 - title: Strates 42
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0893.jpg
   technique: Sérigraphie 2/4
@@ -78,32 +62,6 @@ works:
   description: Encadrement chêne verre musée anti-reflet
   price: 200
   contextual: true
-- title: Strates 49
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    49_fond.jpg
-  technique: Sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
-- title: Strates 50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
-    50_fond.jpg
-  technique: Sérigraphie en 10 exemplaires
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: ''
-  price: 280
-  contextual: true
 - title: Strates 52
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-versantsSTRATES
     52_fond.jpg
@@ -114,7 +72,7 @@ works:
     height: 80
     width: 60
     depth: 0
-  description: ''
+  description: N° 2/6
   price: 480
   contextual: true
 - title: Strates 54
@@ -298,6 +256,22 @@ works:
   contextual: false
   fields:
   - Fresque
+- title: Echo V
+  technique: Serigraphie
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: |-
+    Edition : 10/12
+
+    2022
+  price: 510
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0889.jpg
+  sold: true
 - title: Gaïa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/serigraphie-pour-gaia.jpg
   technique: 'Sérigraphie en 20 exemplaires '
