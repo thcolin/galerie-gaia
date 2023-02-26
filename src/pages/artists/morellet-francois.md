@@ -42,7 +42,7 @@ works:
     height: 46
     width: 64
     depth: 0
-  description: 1997 Parafit état - pièce rare N°1/75
+  description: 1997 Parfait état - pièce rare N°1/75
   price: 2500
   sold: false
   contextual: true
