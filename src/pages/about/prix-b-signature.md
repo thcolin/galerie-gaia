@@ -1,7 +1,9 @@
 ---
 template: about
 content:
-- column: "# Prix groupe B Signature "
+- column: "# Prix B Signature \n\nPour l'art contemporain en partenariat avec la Galerie
+    Gaia\n\nPour candidater remplissez le formulaire \n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
+    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")"
   contact:
     display: true
     placeholder: Renseignement courtage en art
