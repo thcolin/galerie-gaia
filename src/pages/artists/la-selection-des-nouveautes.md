@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Février 2023
+title: Mars 2023
 location: ''
 birth: "0"
 death: "0"
@@ -185,7 +185,7 @@ works:
   contextual: false
 - title: Carr'aimant tout en grès de Annick Argant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
-    argant - carrémant tout en grés.jpg
+    argant - carrémant tout en grés.jpg
   technique: 'Grès '
   fields:
   - Céramique
@@ -200,7 +200,7 @@ works:
   contextual: false
 - title: Blue Pacifique II par Isthme installé à l'Aménité
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-isthme
-    ES amenité.jpg
+    ES amenité.jpg
   technique: 'Acrylique sur toile '
   fields:
   - Peinture
