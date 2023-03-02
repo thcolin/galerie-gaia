@@ -44,8 +44,21 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
+- title: 'Petit cube dans végétation '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Marie Vandooren.GalerieGaia.Sanstitre.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: "2022"
+  price: 150
+  contextual: true
 - title: Piscine et végétation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.piscineetvégétation.9ex.50x70.2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.piscineetvégétation.9ex.50x70.2023
     copie.jpg
   technique: Sérigraphie édition limitée à 9 exemplaires
   fields: []
@@ -59,8 +72,8 @@ works:
   price: 200
   contextual: true
 - title: Béton et végétation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.bétonet
-    végétation.50x70.10ex.2023 copie.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.bétonet
+    végétation.50x70.10ex.2023 copie.jpg
   technique: Sérigraphie en édition limitée à 9 exemplaires
   fields: []
   styles: []
@@ -74,7 +87,7 @@ works:
   contextual: true
 - title: Plongeoir fumée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.plongeoir
-    fumée.2022.50x70.jpg
+    fumée.2022.50x70.jpg
   technique: Sérigraphie
   fields: []
   styles: []
@@ -124,7 +137,7 @@ works:
   description: Exemplaire 5/12
   price: 200
   contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.colimaçon.50x70.2021.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.colimaçon.50x70.2021.jpg
 - title: La forme du ciel 3
   technique: Découpage et sérigraphie
   fields: []
@@ -139,7 +152,7 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laformeduciel3.marievandooren.découpageetsérigraphie.24x30.jpg
 - title: 'Jardin des plantes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.jardin
-    des plantes.sérigraphie.2022.50x70 .jpg
+    des plantes.sérigraphie.2022.50x70 .jpg
   technique: 'Sérigraphie '
   fields: []
   styles: []
@@ -152,7 +165,7 @@ works:
   contextual: true
 - title: 'Fête foraine '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.cieux
-    forains.50x70.sérigraphie.2022 .jpg
+    forains.50x70.sérigraphie.2022 .jpg
   technique: 'Sérigraphie '
   fields: []
   styles: []
