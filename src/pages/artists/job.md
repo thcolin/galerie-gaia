@@ -65,21 +65,6 @@ works:
   price: 1900
   sold: false
   contextual: true
-- title: Kercabellec
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - job
-    -IMG_7080.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 29
-    width: 33
-    depth: 
-  description: 2022 encadrement bois naturel
-  price: 380
-  sold: false
-  contextual: true
 - title: Brigneau
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-Job-Brigneau-1300x820.jpg
   technique: Acrylique sur toile
