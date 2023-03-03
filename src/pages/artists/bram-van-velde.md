@@ -45,20 +45,17 @@ biography: |-
   * 2011: Bram van Velde - Geer Van Velde, Museum Belvédère, Heerenveen
 exhibitions: []
 works:
-- title: Bram Van Velde encadrée
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -bram
-    van velde ES cadre2022.jpg
-  technique: Lithographie
-  fields: []
-  styles: []
+- title: 'MP 361 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-361-63100.jpg
+  technique: Lithographie 63/100
   dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Projet d'encadrement avec verre musée baguette chêne et montage caisson
-    réalisée par notre atelier d'encadrement
+    height: 59
+    width: 54
+    depth: 
+  description: '1980 '
   price: 1800
-  contextual: false
+  sold: false
+  contextual: true
 - title: 'MP 167 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-167-32100.jpg
   technique: Lithographie 32/100
@@ -92,17 +89,6 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: 'MP 361 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-361-63100.jpg
-  technique: Lithographie 63/100
-  dimensions:
-    height: 59
-    width: 54
-    depth: 
-  description: '1980 '
-  price: 1800
-  sold: false
-  contextual: true
 - title: 'MP 371 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mp-371-84100.jpg
   technique: Lithographie 84/100
@@ -114,6 +100,20 @@ works:
   price: 1800
   sold: false
   contextual: true
+- title: Bram Van Velde encadrée
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -bram
+    van velde ES cadre2022.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Projet d'encadrement avec verre musée baguette chêne et montage caisson
+    réalisée par notre atelier d'encadrement
+  price: 1800
+  contextual: false
 redirect_from:
 - "/artistes/90-bram-van-velde/"
 styles:

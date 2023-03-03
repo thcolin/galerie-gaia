@@ -69,55 +69,6 @@ works:
   description: ''
   price: 450
   contextual: true
-- title: Mala bestia 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak02.jpg
-  technique: Photo et peinture or sous verre
-  fields:
-  - Photographie
-  styles:
-  - Figuratif
-  dimensions:
-    height: 18
-    width: 18
-    depth: 0
-  description: Pièce unique encadrée
-  price: 238
-  contextual: true
-- title: Mala bestia 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-robak03.jpg
-  technique: Photographie et peinture or sous verre
-  fields: []
-  styles: []
-  dimensions:
-    height: 18
-    width: 18
-    depth: 0
-  description: Pièce unique encadrée
-  price: 238
-  contextual: true
-- title: Mala bestia 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-rycho-scarabe1.jpg
-  technique: Photo et peinture or sous verre
-  fields: []
-  styles: []
-  dimensions:
-    height: 18
-    width: 18
-    depth: 0
-  description: Pièce unique encadrée
-  price: 238
-  contextual: true
-- title: Albert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/albert.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 96
-    width: 70
-    depth: 
-  description: ''
-  price: 700
-  sold: false
-  contextual: true
 - title: St Lui
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/st-lui.jpg
   technique: 'Photographie tirage papier Edition en 21 exemplaires '
@@ -127,17 +78,6 @@ works:
     depth: 
   description: ''
   price: 600
-  sold: false
-  contextual: true
-- title: Titanic
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/titanic.jpg
-  technique: 'Photographie tirage papier Edition en 21 exemplaires '
-  dimensions:
-    height: 96
-    width: 70
-    depth: 
-  description: ''
-  price: 700
   sold: false
   contextual: true
 - title: 3 FRERES
