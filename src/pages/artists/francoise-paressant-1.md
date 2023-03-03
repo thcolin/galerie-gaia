@@ -37,6 +37,22 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: Sans titre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
+    sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
+  technique: Acrylique sur papier japon marouflé sur toile
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 140
+    width: 130
+    depth: 
+  description: "2012"
+  price: 5400
+  sold: false
+  contextual: true
+  weight: 
 - title: Sans titre Papier fait main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-PàP
     puzzle 120x100 2001 copie 2.jpg
@@ -119,22 +135,6 @@ works:
     chevalier\")  \nSignature au dos"
   price: 
   sold: true
-  contextual: true
-  weight: 
-- title: Sans titre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
-    sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
-  technique: Acrylique sur papier japon marouflé sur toile
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 140
-    width: 130
-    depth: 
-  description: "2012"
-  price: 5400
-  sold: false
   contextual: true
   weight: 
 - title: Sans titre Papier fait main teinté en situation
