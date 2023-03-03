@@ -90,6 +90,31 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Blue jeans '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue jeans 41X33.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: ''
+  price: 490
+  contextual: true
+- title: Blue boxer
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Blue boxer 89X116.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 89
+    width: 116
+    depth: 0
+  description: "2022"
+  price: 2200
+  contextual: true
 - title: 'Bal masqué '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Bal masqué 120X120.jpg
   technique: 'Huile sur toile '
