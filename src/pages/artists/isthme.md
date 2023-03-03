@@ -74,8 +74,8 @@ works:
     height: 130
     width: 97
     depth: 0
-  description: "2022  \nprix sur demande "
-  price: ''
+  description: "2022"
+  price: 3500
   contextual: true
 - title: 'Entre bleus #5'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-ISTHME-Entre-bleus#5-100cmx81cm-acrylique
