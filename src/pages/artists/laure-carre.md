@@ -115,7 +115,7 @@ works:
     width: 30
     depth: 0
   description: "2021"
-  price: 400
+  price: 330
   contextual: true
 - title: 'Cactus et cheval '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
@@ -130,7 +130,7 @@ works:
     width: 24
     depth: 0
   description: 2022 œuvre encadrée sous verre baguette chêne
-  price: 400
+  price: 330
   contextual: true
 - title: 'Le boxeur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
@@ -154,7 +154,7 @@ works:
     width: 24
     depth: 0
   description: '2022 œuvre encadrée sous verre et passe partout blanc '
-  price: 400
+  price: 330
   contextual: true
 - title: Autoportrait rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
