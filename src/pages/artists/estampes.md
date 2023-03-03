@@ -11,6 +11,19 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: 'Soulié Tony - La rue de la soie '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5735.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 76
+    depth: 0
+  description: ''
+  price: 890
+  contextual: true
 - title: 'Gérard Traquandi - Sans Titre (orange) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
   technique: Aquatinte 12/19
