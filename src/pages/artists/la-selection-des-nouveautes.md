@@ -22,6 +22,22 @@ works:
   description: ''
   price: ''
   contextual: false
+- title: Le boxeur Laure Carré  à l'atelier
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre la boxeuse ES.jpg
+  technique: 'Huile sur toile '
+  fields:
+  - Peinture
+  styles:
+  - Figuratif
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
+    carré")'
+  price: 1500
+  contextual: true
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2758 (1).jpg
   technique: Bronze 7/8
@@ -147,9 +163,8 @@ works:
     extraordinaire restaurant de nos voisins tenu par le talentueux Richard Cornet "
   price: 1900
   contextual: false
-- title: Fête foraine par Marie Vandooren
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marie-vandoorenn-
-    fette foraine ES.jpg
+- title: Petit cube dans végétation par Marie Vandooren
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2759.jpg
   technique: 'Sérigraphie '
   fields:
   - Sculpture
@@ -161,22 +176,6 @@ works:
   description: '[Marie Vandooren](https://galeriegaia.fr/artists/marie-vandooren/
     "Marie Vandooren")'
   price: 200
-  contextual: true
-- title: Le boxeur Laure Carré  à l'atelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carre la boxeuse ES.jpg
-  technique: 'Huile sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
-    carré")'
-  price: 1500
   contextual: true
 - title: 'Bram Van Velde encadré par notre atelier '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -bram
