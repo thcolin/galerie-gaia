@@ -11,6 +11,18 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1326042_1_l.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 80
+    width: 80
+    depth: 0
+  description: '2021 signature main en bas à droite '
+  price: 900
+  contextual: false
+  title: Cleon Peterson Flowers of evil the kiss (white)
+  technique: Sérigraphie 121/125
 - title: 'Soulié Tony - La rue de la soie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5735.jpg
   technique: Lithographie
@@ -116,19 +128,6 @@ works:
   description: "# Gérard Traquandi"
   price: 1860
   contextual: false
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia peterson
-    cleon.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 80
-    depth: 0
-  description: '2021 signature main en bas à droite '
-  price: 900
-  contextual: false
-  title: Cleon Peterson Flowers of evil the kiss (white)
-  technique: Sérigraphie 121/125
 - title: 'Hervé Di Rosa - Le promeneur '
   technique: Eau forte 48/60 1987
   fields: []
