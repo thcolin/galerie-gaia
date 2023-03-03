@@ -90,6 +90,19 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Full moon
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/full moon 41X33.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: "2023"
+  price: 490
+  contextual: true
 - title: 'Dream country '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dream country 90X116.jpg
   technique: Huile sur toile
