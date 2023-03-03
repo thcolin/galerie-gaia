@@ -37,19 +37,19 @@ biography: |-
   In 30 years of photographic research, Jean-François Mollière has never ceased to break away from habit, to go where the imagination becomes stronger. To beat back the ineluctability of finitude, to resist, inexorably. We recognize in his photography, images, icons very inspired by cinema and painting." Valerie Fade-Py
 exhibitions: []
 works:
-- title: New York 59
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF0045 new.jpg
-  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+- title: Paysage sensible 3
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF1144 75x63 Paysagesc
+    sensibles 3.jpg
+  technique: 'Photographie tirage papier fine art contrecollé sur dibon '
   fields: []
   styles: []
   weight: 0
   dimensions:
-    height: 91
-    width: 69
+    height: 85
+    width: 95
     depth: 0
-  description: 'caisse américaine bois noir '
-  price: 1800
+  description: Caisse américaine noire
+  price: 2200
   contextual: true
 - title: Paysages sensibles 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_DSF0709 L 92 x
@@ -109,7 +109,7 @@ works:
   contextual: true
 - title: New York 72
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF2451-Pano.jpg
+    françois molliere -DSF2451-Pano.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   fields: []
   styles: []
@@ -123,7 +123,7 @@ works:
   contextual: true
 - title: New York 67
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF4875 58 X 58 CM.jpg
+    françois molliere -DSF4875 58 X 58 CM.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   fields: []
   styles: []
@@ -135,9 +135,23 @@ works:
   description: 2022 encadrement caisse américaine bois noir
   price: 1600
   contextual: true
+- title: New York 59
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
+    françois molliere -DSF0045 new.jpg
+  technique: 'photographie tirage papier fine art contrecollé sur dibon '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 91
+    width: 69
+    depth: 0
+  description: 'caisse américaine bois noir '
+  price: 1800
+  contextual: true
 - title: New York 50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF0668-Pano v 230,30 cm x 108 cm.jpg
+    françois molliere -DSF0668-Pano v 230,30 cm x 108 cm.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   fields: []
   styles: []
@@ -209,7 +223,7 @@ works:
   contextual: true
 - title: New York 69
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - jean
-    françois molliere -DSF2670.jpg
+    françois molliere -DSF2670.jpg
   technique: 'photographie tirage papier fine art contrecollé sur dibon '
   fields: []
   styles: []
