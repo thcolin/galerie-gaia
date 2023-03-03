@@ -23,6 +23,19 @@ biography: |-
   Throughout his creations, he has shown a growing interest in sculptures, casts, and even ephemeral substances such as smoke. However, one question has become the common thread of his future creations: how to transform a drawing into volume? Go Segawa managed to move the two-dimensional drawing to the illusion of three-dimensional space. Thus, he created and still creates gravity-free sculptures, in which the three conceptually different elements are represented: two-dimensional, three-dimensional and gravity, which confuses the viewers' perception of space.
 exhibitions: []
 works:
+- title: Dark & Yellow Ed.50
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
+    segawa-Dark_&_Yellow.jpg
+  technique: 'Impression jet d’encre sur polyester '
+  fields: []
+  styles: []
+  dimensions:
+    height: 7.5
+    width: 7.5
+    depth: 7.5
+  description: "50 exemplaires limités \n\nCréation et tirage en 2016"
+  price: 130
+  contextual: false
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
   fields: []
@@ -89,19 +102,6 @@ works:
     depth: 18.2
   description: "2018"
   price: 700
-  contextual: false
-- title: Dark & Yellow Ed.50
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
-    segawa-Dark_&_Yellow.jpg
-  technique: 'Impression jet d’encre sur polyester '
-  fields: []
-  styles: []
-  dimensions:
-    height: 7.5
-    width: 7.5
-    depth: 7.5
-  description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: 130
   contextual: false
 - title: Life II Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go

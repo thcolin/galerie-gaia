@@ -50,7 +50,7 @@ works:
   price: 930
   sold: false
   contextual: true
-- title: 'Traquandi - Sans Titre (noir) '
+- title: 'Gerard Traquandi - Sans Titre (noir) '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
   technique: Aquatinte 12/19 2013
   dimensions:
@@ -64,6 +64,16 @@ works:
   price: 930
   sold: false
   contextual: true
+- title: Gérard Tranquandi duo en situation
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
+  technique: Aquatinte
+  dimensions:
+    height: 80
+    width: 60
+    depth: 0
+  description: "# Gérard Traquandi"
+  price: 1860
+  contextual: false
 - title: Frederic Poincelet - Massilia
   fields: []
   styles: []
@@ -118,16 +128,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: Gérard Tranquandi duo en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
-  technique: Aquatinte
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: "# Gérard Traquandi"
-  price: 1860
-  contextual: false
 - title: 'Hervé Di Rosa - Le promeneur '
   technique: Eau forte 48/60 1987
   fields: []

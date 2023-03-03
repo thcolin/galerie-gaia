@@ -44,6 +44,20 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
+- title: Vestige 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.vestige2.2021.50x70
+    .jpg
+  technique: Sérigraphie
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 50
+    width: 70
+    depth: 0
+  description: 6/11 2021
+  price: 200
+  contextual: true
 - title: 'Petit cube dans végétation '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Marie Vandooren.GalerieGaia.Sanstitre.jpg
   technique: Sérigraphie
@@ -112,20 +126,6 @@ works:
   price: 200
   contextual: true
   sold: true
-- title: Vestige 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.vestige2.2021.50x70
-    .jpg
-  technique: Sérigraphie
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 50
-    width: 70
-    depth: 0
-  description: 6/11 2021
-  price: 200
-  contextual: true
 - title: Colimaçon
   technique: 'Sérigraphie '
   fields: []

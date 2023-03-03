@@ -48,6 +48,22 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- title: 'Petite oblique contre le mur '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -pierre
+    tual -petite obliqueES .jpeg
+  technique: Acier corten
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 176
+    width: 80
+    depth: 60
+  description: "1986"
+  price: 12000
+  sold: false
+  contextual: false
+  weight: 
 - title: 'Le cirque '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
     tualLe cirque  Bronze TEP  1:1 .jpeg
@@ -119,7 +135,7 @@ works:
   weight: 
 - title: Le manège
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
-    tual-Le Manège  Bronze TEP 1-1.jpeg
+    tual-Le Manège  Bronze TEP 1-1.jpeg
   technique: 'Bronze à la cire perdue Fonderie TEP Athènes '
   fields:
   - Sculpture
@@ -132,22 +148,6 @@ works:
   price: 
   sold: false
   contextual: true
-  weight: 
-- title: 'Petite oblique contre le mur '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -pierre
-    tual -petite obliqueES .jpeg
-  technique: Acier corten
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 176
-    width: 80
-    depth: 60
-  description: "1986"
-  price: 12000
-  sold: false
-  contextual: false
   weight: 
 - title: Monotype 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre-tual-monotype
@@ -167,7 +167,7 @@ works:
   weight: 
 - title: Jour de Vénus
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tualJour de Vénus  Bronze 1:1 .jpeg
+    tualJour de Vénus  Bronze 1:1 .jpeg
   technique: Bronze à angle droit Fonderie Landowski Paris
   fields:
   - Sculpture
