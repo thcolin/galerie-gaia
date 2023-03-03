@@ -23,7 +23,7 @@ works:
   price: ''
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1607.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2758 (1).jpg
   technique: Bronze 8/8
   dimensions:
     height: 40
