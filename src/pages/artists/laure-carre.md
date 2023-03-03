@@ -90,6 +90,32 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Dream country '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dream country 90X116.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 116
+    depth: 0
+  description: "2023"
+  price: 2200
+  contextual: true
+- title: C'est la vie
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/c est la vie 116X89.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 116
+    width: 89
+    depth: 0
+  description: "2023"
+  price: 2200
+  contextual: true
 - title: 'Blue jeans '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue jeans 41X33.jpg
   fields: []
