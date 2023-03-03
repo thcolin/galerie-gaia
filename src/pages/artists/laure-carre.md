@@ -90,6 +90,19 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Bal masqué '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Bal masqué 120X120.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 100
+    width: 100
+    depth: 0
+  description: ''
+  price: 2200
+  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
   fields: []
@@ -116,6 +129,19 @@ works:
     depth: 0
   description: "2021"
   price: 330
+  contextual: true
+- title: Ronde sentimentale
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre-Ronde sentimentale-73X100.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 73
+    width: 100
+    depth: 0
+  description: "2022"
+  price: 1700
   contextual: true
 - title: 'Cactus et cheval '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
@@ -195,6 +221,19 @@ works:
   description: ''
   price: 4300
   contextual: true
+- title: 'Mannequin atelier Manrique '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg
+  technique: Dessin huile sur papier encadrement baguette chêne
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  dimensions:
+    height: 21
+    width: 29
+    depth: 0
+  description: "2020"
+  price: 330
+  contextual: true
 - title: Triptyque Autoportrait
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
     LAURE.jpeg
@@ -208,19 +247,6 @@ works:
   description: Triptyque 12 000€
   price: 12000
   contextual: false
-- title: Ronde sentimentale
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carre-Ronde sentimentale-73X100.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 73
-    width: 100
-    depth: 0
-  description: "2022"
-  price: 1700
-  contextual: true
 - title: Main rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Laure
     Carre Main rose.jpg
@@ -246,19 +272,6 @@ works:
   description: "2020"
   price: 500
   contextual: true
-- title: 'Mannequin atelier Manrique '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg
-  technique: Dessin huile sur papier encadrement baguette chêne
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 21
-    width: 29
-    depth: 0
-  description: "2020"
-  price: 330
-  contextual: true
 - title: Walking shadow
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg
   technique: Dessin huile sur papier encadrement baguette chêne
@@ -272,6 +285,15 @@ works:
   description: "2020"
   price: 330
   contextual: true
+- title: Jean Genet
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg
+  technique: 'Huile sur toile '
+  dimensions:
+    height: 86
+    width: 72
+  description: 06/2018 Toile visible sur demande
+  price: 1600
+  contextual: true
 - title: Rêve de cheval
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg
   technique: 'Huile sur toile et technique mixte '
@@ -284,41 +306,6 @@ works:
   description: "Vendu pour la collection de l'Artothèque Nantes  \n2020"
   price: ''
   contextual: true
-- title: Jean Genet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 86
-    width: 72
-  description: 06/2018
-  price: 1600
-  contextual: true
-- title: 'Walk in the kingdom '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/walk-in-the-kingdom-1418.jpg
-  technique: Lithographie 14/18
-  dimensions:
-    height: 50
-    width: 33
-    depth: 
-  description: " Imprimé au musée de l'imprimerie de Nantes en 2017."
-  price: 200
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-- title: 'Rencontre royale '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/rencontre-royale-910.jpg
-  technique: Lithographie 9/10
-  dimensions:
-    height: 50
-    width: 33
-    depth: 
-  description: '2016 '
-  price: 200
-  sold: false
-  contextual: true
-  fields:
-  - Oeuvre sur papier
 - title: Atelier Laure Carré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier-laure-carre-elisabeth-givre.jpg
   fields: []
@@ -329,20 +316,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: false
-- title: 'Atelier '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-atelier.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: |-
-    # Laure Carré atelier
-
-    Pour comprendre et voir le travail in situ, l’artiste accepte d’ouvrir son atelier sur rendez-vous. Contactez-moi pour organiser une visite privée au 02-40-48-14-91 (max 6 personnes)
-  price: 0
   contextual: false
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/salle-dattente.jpg
