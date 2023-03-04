@@ -90,6 +90,21 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Paysage du nord '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/paysage du nord
+    21X30 p.jpeg
+  technique: 'Huile sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 30
+    depth: 0
+  description: 2022 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
@@ -101,6 +116,152 @@ works:
     depth: 0
   description: Vernissage jeudi 9 Mars 2023 18H
   price: ''
+  contextual: true
+- title: Roc et cactus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc et cactus 75X75
+    T.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 75
+    width: 75
+    depth: 0
+  description: "2021"
+  price: 1400
+  contextual: true
+- title: 'Au fil du temps '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2023"
+  price: 4000
+  contextual: true
+- title: Small pocket
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/small pocket 41X33.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: "2023"
+  price: 550
+  contextual: true
+- title: Moutain dance
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mountain dance 89X116.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 89
+    width: 116
+    depth: 0
+  description: "2023"
+  price: 2400
+  contextual: true
+- title: 'Montagnes heureuses '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/montagnes heureuses
+    130X162.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2023"
+  price: 4000
+  contextual: true
+- title: Le volcan
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le volcan 40X40.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: "2021"
+  price: 600
+  contextual: true
+- title: 'Yellow shoes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/yellow shoes 114X146.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 114
+    width: 146
+    depth: 0
+  description: "2023"
+  price: 3400
+  contextual: true
+- title: Le haut vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le haut vert 41X33.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: '2023 Œuvre encadrée baguette chêne '
+  price: 600
+  contextual: true
+- title: 'Le cheval noir '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le cheval noir 81X116.jpg
+  technique: 'Huile sir toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 81
+    width: 116
+    depth: 0
+  description: "2023"
+  price: 2400
+  contextual: true
+- title: 'Le dernier souffle '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -le dernier souffle 20X29 p.jpeg
+  technique: 'Huile sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 29
+    depth: 0
+  description: 2022 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
+- title: In the shadow of her cloud
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/In the shadow of
+    her cloud 27X35.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 27
+    width: 35
+    depth: 0
+  description: "2023"
+  price: 550
   contextual: true
 - title: Le baiser
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
@@ -176,137 +337,6 @@ works:
     depth: 0
   description: 2020 Œuvre encadrée baguette chêne sous verre
   price: 350
-  contextual: true
-- title: Roc et cactus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc et cactus 75X75
-    T.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 75
-    width: 75
-    depth: 0
-  description: "2021"
-  price: 1400
-  contextual: true
-- title: 'Au fil du temps '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 130
-    width: 162
-    depth: 0
-  description: "2023"
-  price: 4000
-  contextual: true
-- title: 'Yellow shoes '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/yellow shoes 114X146.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 114
-    width: 146
-    depth: 0
-  description: "2023"
-  price: 3400
-  contextual: true
-- title: Small pocket
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/small pocket 41X33.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 41
-    width: 33
-    depth: 0
-  description: "2023"
-  price: 550
-  contextual: true
-- title: Moutain dance
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mountain dance 89X116.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 89
-    width: 116
-    depth: 0
-  description: "2023"
-  price: 2400
-  contextual: true
-- title: 'Montagnes heureuses '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/montagnes heureuses
-    130X162.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 130
-    width: 162
-    depth: 0
-  description: "2023"
-  price: 4000
-  contextual: true
-- title: Le volcan
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le volcan 40X40.jpg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: "2021"
-  price: 600
-  contextual: true
-- title: Le haut vert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le haut vert 41X33.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 41
-    width: 33
-    depth: 0
-  description: '2023 Œuvre encadrée baguette chêne '
-  price: 600
-  contextual: true
-- title: 'Le cheval noir '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le cheval noir 81X116.jpg
-  technique: 'Huile sir toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 81
-    width: 116
-    depth: 0
-  description: "2023"
-  price: 2400
-  contextual: true
-- title: In the shadow of her cloud
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/In the shadow of
-    her cloud 27X35.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 27
-    width: 35
-    depth: 0
-  description: "2023"
-  price: 550
   contextual: true
 - title: 'Hide and seek '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hide and seek 30X40.jpg
