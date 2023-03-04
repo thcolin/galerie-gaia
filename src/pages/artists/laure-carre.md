@@ -90,6 +90,45 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Le volcan
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le volcan 40X40.jpg
+  technique: Huile sur toile
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 40
+    depth: 0
+  description: "2021"
+  price: 600
+  contextual: true
+- title: Le haut vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le haut vert 41X33.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: '2023 Œuvre encadrée baguette chêne '
+  price: 600
+  contextual: true
+- title: 'Le cheval noir '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le cheval noir 81X116.jpg
+  technique: 'Huile sir toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 81
+    width: 116
+    depth: 0
+  description: "2023"
+  price: 2400
+  contextual: true
 - title: In the shadow of her cloud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/In the shadow of
     her cloud 27X35.jpg
