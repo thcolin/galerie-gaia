@@ -90,6 +90,44 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Au fil du temps '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2023"
+  price: 4000
+  contextual: true
+- title: 'Yellow shoes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/yellow shoes 114X146.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 114
+    width: 146
+    depth: 0
+  description: "2023"
+  price: 3400
+  contextual: true
+- title: Small pocket
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/small pocket 41X33.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: "2023"
+  price: 550
+  contextual: true
 - title: 'Roc and cactus '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc and cactus 75X75.jpg
   technique: 'Huile sur toile '
