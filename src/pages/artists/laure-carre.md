@@ -90,6 +90,46 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: In the shadow of her cloud
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/In the shadow of
+    her cloud 27X35.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 27
+    width: 35
+    depth: 0
+  description: "2023"
+  price: 550
+  contextual: true
+- title: 'Hide and seek '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hide and seek 30X40.jpg
+  technique: Huile sur toile et collage
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: "2023"
+  price: 550
+  contextual: true
+- title: Green suit
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Green suit 41X33.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 41
+    width: 33
+    depth: 0
+  description: 2023 Œuvre encadrée caisse américaine chêne
+  price: 600
+  contextual: true
 - title: Green cloud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/green cloud 60X73.jpg
   technique: 'Huile sur toile '
