@@ -90,6 +90,34 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Allongée sans souci
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -allongee sans souci p.jpeg
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 18
+    width: 30
+    depth: 0
+  description: 2020 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
+- title: Roc et cactus
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc et cactus 75X75
+    T.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 75
+    width: 75
+    depth: 0
+  description: "2021"
+  price: 1400
+  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
@@ -139,19 +167,6 @@ works:
     depth: 0
   description: "2023"
   price: 550
-  contextual: true
-- title: 'Roc and cactus '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc and cactus 75X75.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 75
-    width: 75
-    depth: 0
-  description: "2020"
-  price: 1400
   contextual: true
 - title: Moutain dance
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mountain dance 89X116.jpg
