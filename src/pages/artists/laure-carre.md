@@ -90,6 +90,18 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Exposition du 7 au 25 mars 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vernissage jeudi 9 Mars 2023 18H
+  price: ''
+  contextual: true
 - title: Full moon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/full moon 41X33.jpg
   technique: Huile sur toile
@@ -161,23 +173,11 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 100
-    width: 100
+    height: 120
+    width: 120
     depth: 0
   description: ''
   price: 2200
-  contextual: true
-- title: Exposition du 7 au 25 mars 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Vernissage jeudi 9 Mars 2023 18H
-  price: ''
   contextual: true
 - title: Black beauty
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre-galerie
@@ -191,8 +191,8 @@ works:
     height: 22
     width: 30
     depth: 0
-  description: "2021"
-  price: 330
+  description: Œuvre encadrée baguette chêne sous verre 2021
+  price: 350
   contextual: true
 - title: Ronde sentimentale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
@@ -205,7 +205,7 @@ works:
     width: 100
     depth: 0
   description: "2022"
-  price: 1700
+  price: 1800
   contextual: true
 - title: 'Cactus et cheval '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
@@ -220,7 +220,7 @@ works:
     width: 24
     depth: 0
   description: 2022 œuvre encadrée sous verre baguette chêne
-  price: 330
+  price: 350
   contextual: true
 - title: 'Buste de femme '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1787.jpg
@@ -233,7 +233,7 @@ works:
     width: 24
     depth: 0
   description: '2022 œuvre encadrée sous verre et passe partout blanc '
-  price: 330
+  price: 350
   contextual: true
 - title: 'Mannequin atelier Manrique '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg
