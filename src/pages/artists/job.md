@@ -64,7 +64,10 @@ works:
     height: 100
     width: 100
     depth: 
-  description: 2023 encadrement bois naturel
+  description: |-
+    Encadrement bois naturel
+
+    2023
   price: 1900
   sold: false
   contextual: true
@@ -77,7 +80,9 @@ works:
     height: 130
     width: 91
     depth: 
-  description: Encadrement en bois naturel
+  description: |2-
+
+    Encadrement en bois naturel
   price: 2400
   sold: false
   contextual: true
