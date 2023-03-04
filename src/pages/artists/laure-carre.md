@@ -91,7 +91,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Exposition du 7 au 25 mars 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
   styles: []
   weight: 0
@@ -336,7 +336,7 @@ works:
   price: 2400
   contextual: true
 - title: 'Bal masqué '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Bal masqué 120X120.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Bal masqué 120X120.jpg
   technique: 'Huile sur toile '
   fields: []
   styles: []
@@ -378,7 +378,7 @@ works:
   contextual: true
 - title: 'Cactus et cheval '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carrée- cactus cheval 24X32.jpeg
+    carrée- cactus cheval 24X32.jpeg
   technique: Collage et Technique mixte sur papier
   fields:
   - Oeuvre sur papier
