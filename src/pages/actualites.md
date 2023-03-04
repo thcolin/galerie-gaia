@@ -1174,7 +1174,7 @@ articles:
   date: '2023-03-07T08:53:59Z'
   categories:
   - Exposition
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   title: Exposition Laure Carré
   content: |-
     **VERNISSAGE JEUDI 9 MARS 18H**

@@ -3,7 +3,7 @@ template: catalogue
 title: Le Catalogue
 description: "# Essayez une œuvre chez vous !\n\nOui mais laquelle ?  \nLaissez-vous
   guider par de l'abstraction ou de la figuration, une  technique, un format, un budget.
-  \ \n**70 artistes +900 œuvres** sont dans ce catalogue qui stimulera votre curiosité.
+  \ \n**50 artistes +700 œuvres** sont dans ce catalogue qui stimulera votre curiosité.
   \ \nLe site est mis à jour quotidiennement.  \nEt pour celles et ceux qui croient
   **au hasard, bon vagabondage...**"
 seo:
