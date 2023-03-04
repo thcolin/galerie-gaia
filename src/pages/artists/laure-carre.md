@@ -90,6 +90,19 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Green cloud
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/green cloud 60X73.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 60
+    width: 73
+    depth: 0
+  description: "2023"
+  price: 1100
+  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
   fields: []
