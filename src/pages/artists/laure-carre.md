@@ -90,6 +90,18 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Exposition du 7 au 25 mars 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vernissage jeudi 9 Mars 2023 18H
+  price: ''
+  contextual: true
 - title: 'Au fil du temps '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
   technique: 'Huile sur toile '
@@ -244,7 +256,7 @@ works:
     width: 33
     depth: 0
   description: 2023 Œuvre encadrée caisse américaine chêne
-  price: 600
+  price: 590
   contextual: true
 - title: Green cloud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/green cloud 60X73.jpg
@@ -258,18 +270,6 @@ works:
     depth: 0
   description: "2023"
   price: 1100
-  contextual: true
-- title: Exposition du 7 au 25 mars 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_CARRÉ_A5_.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Vernissage jeudi 9 Mars 2023 18H
-  price: ''
   contextual: true
 - title: Full moon
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/full moon 41X33.jpg
