@@ -90,6 +90,45 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Roc and cactus '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc and cactus 75X75.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 75
+    width: 75
+    depth: 0
+  description: "2020"
+  price: 1400
+  contextual: true
+- title: Moutain dance
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mountain dance 89X116.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 89
+    width: 116
+    depth: 0
+  description: "2023"
+  price: 2400
+  contextual: true
+- title: 'Montagnes heureuses '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/montagnes heureuses
+    130X162.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2023"
+  price: 4000
+  contextual: true
 - title: Le volcan
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le volcan 40X40.jpg
   technique: Huile sur toile
