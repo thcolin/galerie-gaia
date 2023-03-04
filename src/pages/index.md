@@ -1,11 +1,10 @@
 ---
 template: home
 carousel:
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure
     carrée green suit sunny day.jpeg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@dimitriroubichou-COARI-30
-    cm x 30 cm - 30 tirages.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dream country 90X116.jpg
 redirect_from:
 - "/plan/"
 seo:
