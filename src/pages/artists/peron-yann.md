@@ -48,6 +48,22 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: Dos d'Alice
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2022-02-05 à 18.50.13.png
+  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
+    sur cp peuplier
+  fields: []
+  styles: []
+  dimensions:
+    height: 130
+    width: 90
+    depth: 
+  description: ''
+  price: 3700
+  sold: false
+  contextual: true
+  weight: 
 - title: 'Jardin des plantes Nantes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
     peron- py architecture-P22-19 ENTIER.jpg
@@ -127,22 +143,6 @@ works:
     pages, ce qui cadre le motif comme un paysage, vécu comme un moment passé avec
     la Nature. Merci à elle pour sa générosité et sa beauté.
   price: 980
-  sold: false
-  contextual: true
-  weight: 
-- title: Dos d'Alice
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-02-05 à 18.50.13.png
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 90
-    depth: 
-  description: ''
-  price: 3700
   sold: false
   contextual: true
   weight: 
