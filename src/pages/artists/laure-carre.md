@@ -90,6 +90,48 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'L''acrobate '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -l'acrobate 21X30 p.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 30
+    depth: 0
+  description: 2022 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
+- title: Face à face
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -face à face 21X29 p.jpeg
+  technique: Huile sur papier
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 29
+    depth: 0
+  description: 2022 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
+- title: Coup de vent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -coup de vent 21X30 p.jpeg
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 30
+    depth: 0
+  description: 2022 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
 - title: Allongée sans souci
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -allongee sans souci p.jpeg
