@@ -90,21 +90,6 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
-- title: 'Paysage du nord '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/paysage du nord
-    21X30 p.jpeg
-  technique: 'Huile sur papier '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  weight: 0
-  dimensions:
-    height: 21
-    width: 30
-    depth: 0
-  description: 2022 Œuvre encadrée baguette chêne sous verre
-  price: 350
-  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
@@ -262,6 +247,36 @@ works:
     depth: 0
   description: "2023"
   price: 550
+  contextual: true
+- title: Tête et main
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tete et mai 19X24
+    p.jpeg
+  technique: Huile sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 24
+    depth: 0
+  description: 2021 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
+- title: 'Paysage du nord '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/paysage du nord
+    21X30 p.jpeg
+  technique: 'Huile sur papier '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 30
+    depth: 0
+  description: 2022 Œuvre encadrée baguette chêne sous verre
+  price: 350
   contextual: true
 - title: Le baiser
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
