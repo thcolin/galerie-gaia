@@ -90,11 +90,39 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Exposition du 7 au 25 mars 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vernissage jeudi 9 Mars 2023 18H
+  price: ''
+  contextual: true
+- title: Le baiser
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -le baiser 18X16 p.jpeg
+  technique: Huile sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 18
+    width: 16
+    depth: 0
+  description: 2023 Œuvre encadrée baguette chêne sous verre
+  price: 350
+  contextual: true
 - title: 'L''acrobate '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -l'acrobate 21X30 p.jpeg
   technique: 'Huile sur toile '
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   weight: 0
   dimensions:
@@ -108,7 +136,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -face à face 21X29 p.jpeg
   technique: Huile sur papier
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   weight: 0
   dimensions:
@@ -122,7 +151,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -coup de vent 21X30 p.jpeg
   technique: 'Huile sur papier '
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   weight: 0
   dimensions:
@@ -136,7 +166,8 @@ works:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -allongee sans souci p.jpeg
   technique: 'Huile sur papier '
-  fields: []
+  fields:
+  - Oeuvre sur papier
   styles: []
   weight: 0
   dimensions:
@@ -159,18 +190,6 @@ works:
     depth: 0
   description: "2021"
   price: 1400
-  contextual: true
-- title: Exposition du 7 au 25 mars 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Vernissage jeudi 9 Mars 2023 18H
-  price: ''
   contextual: true
 - title: 'Au fil du temps '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
