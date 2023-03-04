@@ -245,22 +245,9 @@ works:
     height: 21
     width: 29
     depth: 0
-  description: "2020"
-  price: 330
+  description: 2020 Œuvre encadrée baguette chêne sous verre
+  price: 350
   contextual: true
-- title: Triptyque Autoportrait
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
-    LAURE.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: Triptyque 12 000€
-  price: 12000
-  contextual: false
 - title: Main rose
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Laure
     Carre Main rose.jpg
@@ -272,7 +259,7 @@ works:
     width: 27
     depth: 0
   description: '2022, classieusement irrévérencieux comme il se doit avec Laure '
-  price: 350
+  price: 450
   contextual: true
 - title: Nostalgie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg
@@ -284,7 +271,7 @@ works:
     width: 40
     depth: 0
   description: "2020"
-  price: 500
+  price: 550
   contextual: true
 - title: Walking shadow
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg
@@ -296,8 +283,8 @@ works:
     height: 29
     width: 31
     depth: 0
-  description: "2020"
-  price: 330
+  description: 2020 Œuvre encadrée baguette chêne sous verre
+  price: 350
   contextual: true
 - title: Rêve de cheval
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg
@@ -311,6 +298,19 @@ works:
   description: "Vendu pour la collection de l'Artothèque Nantes  \n2020"
   price: ''
   contextual: true
+- title: Autoportrait
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/TRIPTYQUE CARRE
+    LAURE.jpeg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  dimensions:
+    height: 160
+    width: 130
+    depth: 0
+  description: Triptyque 10 000€
+  price: 4000
+  contextual: false
 - title: Atelier Laure Carré
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/atelier-laure-carre-elisabeth-givre.jpg
   fields: []
