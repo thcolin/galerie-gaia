@@ -45,9 +45,12 @@ works:
     height: 100
     width: 100
     depth: 
-  description: 2023 Encadrement bois naturel
+  description: |-
+    2023 Encadrement bois naturel
+
+    Reservé
   price: 1900
-  sold: false
+  sold: true
   contextual: true
   weight: 
 - title: Les collines au vent
@@ -74,7 +77,7 @@ works:
     height: 130
     width: 91
     depth: 
-  description: "Réservé  \nencadrement en bois naturel"
+  description: Encadrement en bois naturel
   price: 2400
   sold: false
   contextual: true
