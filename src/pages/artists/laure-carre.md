@@ -101,7 +101,7 @@ works:
     width: 33
     depth: 0
   description: "2023"
-  price: 490
+  price: 550
   contextual: true
 - title: 'Dream country '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dream country 90X116.jpg
@@ -114,7 +114,7 @@ works:
     width: 116
     depth: 0
   description: "2023"
-  price: 2200
+  price: 2400
   contextual: true
 - title: C'est la vie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/c est la vie 116X89.jpg
@@ -222,17 +222,6 @@ works:
   description: 2022 œuvre encadrée sous verre baguette chêne
   price: 330
   contextual: true
-- title: 'Le boxeur '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/la-boxeuse-amoureuse.jpg
-  technique: Huile sur toile technique mixte
-  dimensions:
-    height: 80
-    width: 80
-    depth: 
-  description: ''
-  price: 1500
-  sold: false
-  contextual: true
 - title: 'Buste de femme '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_1787.jpg
   technique: Technique mixte sur papier
@@ -245,45 +234,6 @@ works:
     depth: 0
   description: '2022 œuvre encadrée sous verre et passe partout blanc '
   price: 330
-  contextual: true
-- title: Autoportrait rose
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    rose-160X130.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: ''
-  price: 4300
-  contextual: true
-- title: Autoportrait bleu
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    bleu-160X130.jpeg
-  technique: Huile sur toile
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: ''
-  price: 4300
-  contextual: true
-- title: Autoportrait jaune
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-autoportrait
-    jaune-160X130.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 160
-    width: 130
-    depth: 0
-  description: ''
-  price: 4300
   contextual: true
 - title: 'Mannequin atelier Manrique '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-manequin-atelier-manrique-21x29.jpeg
@@ -348,15 +298,6 @@ works:
     depth: 0
   description: "2020"
   price: 330
-  contextual: true
-- title: Jean Genet
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@laurecarre-jeanjeunet-huile-92X728.jpeg
-  technique: 'Huile sur toile '
-  dimensions:
-    height: 86
-    width: 72
-  description: 06/2018 Toile visible sur demande
-  price: 1600
   contextual: true
 - title: Rêve de cheval
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-reve-de-cheval-50x65.jpg
