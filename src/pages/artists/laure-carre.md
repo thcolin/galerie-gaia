@@ -127,7 +127,7 @@ works:
     width: 89
     depth: 0
   description: "2023"
-  price: 2200
+  price: 2400
   contextual: true
 - title: 'Blue jeans '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/blue jeans 41X33.jpg
@@ -139,7 +139,7 @@ works:
     width: 33
     depth: 0
   description: ''
-  price: 490
+  price: 550
   contextual: true
 - title: Blue boxer
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Blue boxer 89X116.jpg
@@ -152,7 +152,7 @@ works:
     width: 116
     depth: 0
   description: "2022"
-  price: 2200
+  price: 2400
   contextual: true
 - title: 'Bal masqué '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Bal masqué 120X120.jpg
