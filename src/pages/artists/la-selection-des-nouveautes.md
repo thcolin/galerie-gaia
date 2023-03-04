@@ -22,22 +22,22 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Le boxeur Laure Carré  à l'atelier
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carre la boxeuse ES.jpg
+- title: Petites toiles visible à l'exposition de Laure Carré du 7 au 25 Mars
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure
+    carrée green suit sunny day.jpeg
   technique: 'Huile sur toile '
   fields:
   - Peinture
   styles:
   - Figuratif
   dimensions:
-    height: 80
-    width: 80
+    height: 41
+    width: 33
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
-  price: 1500
-  contextual: true
+  price: 690
+  contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2758 (1).jpg
   technique: Bronze 7/8
