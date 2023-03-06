@@ -36,23 +36,6 @@ works:
   price: 1800
   sold: false
   contextual: true
-- title: Taillefer
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Taillefer-1mx1m.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 100
-    width: 100
-    depth: 
-  description: |-
-    2023 Encadrement bois naturel
-
-    Reservé
-  price: 1900
-  sold: true
-  contextual: true
-  weight: 
 - title: Les collines au vent
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Les Collines
     au vent-1mx1m.jpg
