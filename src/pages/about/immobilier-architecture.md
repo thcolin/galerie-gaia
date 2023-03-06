@@ -19,22 +19,23 @@ content:
     jusqu’à son installation sur site.\n\n**3. COMMUNIQUER**\n\nPenser une stratégie
     de communication interne et externe, c’est analyser vos publics, valoriser le
     projet et lui apporter une lisibilité.  \nC’est penser une médiation pertinente
-    pour vos salariées et vos collaborateurs.\n\n**GALERIE GAÏA STUDIO**\n\nGalerie
-    Gaïa Studio conçoit des œuvres d’art à destination d’acteurs publics et privés
-    ainsi qu’auprès d’entreprises. Galerie Gaia Studio mobilise des savoir-faire
-    et met en place des collaborations pertinentes pour faire rayonner les ambitions
-    et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE _Directrice_**\n\nPassionnée
-    d’histoire de l’art et d'architecture, diplômée de l’école de commerce IDRAC
-    (Lyon), j’ai travaillé 20 ans comme directrice d’agence et Chef de projets chez
-    Manpower France .\n\nMon intention en créant Galerie Gaïa Studio est de proposer
-    un sourcing artistique lié à l'intention architecturale et la coordination du
-    projet in situ.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée en histoire de
-    l’art, j’ai mené des missions de médiation, de coordination et de développement
-    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
-    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
-    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
-    est de continuer à accompagner les artistes, les institutions et les entreprises
-    à penser et produire un projet artistique, suivi de chantier inclus."
+    pour les collaborateurs, le grand public, et les institutionnels impliqués dans
+    le projet.\n\n**GALERIE GAÏA STUDIO**\n\nGalerie Gaïa Studio conçoit des œuvres
+    d’art à destination d’acteurs publics et privés ainsi qu’auprès d’entreprises.
+    Galerie Gaia Studio mobilise des savoir-faire et met en place des collaborations
+    pertinentes pour faire rayonner les ambitions et les valeurs de ses clients.\n\n**ÉLISABETH
+    GIVRE _Directrice_**\n\nPassionnée d’histoire de l’art et d'architecture, diplômée
+    de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme directrice
+    d’agence et Chef de projets chez Manpower France .\n\nMon intention en créant
+    Galerie Gaïa Studio est de proposer un sourcing artistique lié à l'intention architecturale
+    et la coordination du projet in situ.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée
+    en histoire de l’art, j’ai mené des missions de médiation, de coordination et
+    de développement de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé
+    pour des structures différentes comme la biennale d’art contemporain Estuaire
+    Nantes-Saint Nazaire, Tripode, le Centre Pompidou et le Louvre.\n\nMa mission
+    pour Galerie Gaïa Studio est de continuer à accompagner les artistes, les institutions
+    et les entreprises à penser et produire un projet artistique, suivi de chantier
+    inclus."
   contact:
     display: true
     placeholder: 'Renseignement pour un projet immobilier '
