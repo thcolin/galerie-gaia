@@ -27,16 +27,17 @@ content:
     faire rayonner les ambitions et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE
     _Directrice_**\n\nPassionnée d’histoire de l’art et d'architecture, diplômée
     de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme directrice
-    d’agence et Chef de projets chez Manpower France .\n\nMon intention en créant
-    Galerie Gaïa Studio est de proposer un sourcing artistique lié à l'intention architecturale
-    et la coordination du projet in situ.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée
-    en histoire de l’art, j’ai mené des missions de médiation, de coordination et
-    de développement de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé
-    pour des structures différentes comme la biennale d’art contemporain Estuaire
-    Nantes-Saint Nazaire, Tripode, le Centre Pompidou et le Louvre.\n\nMa mission
-    pour Galerie Gaïa Studio est de continuer à accompagner les artistes, les institutions
-    et les entreprises à penser et produire un projet artistique, suivi de chantier
-    inclus."
+    d’agences et Chef de projets chez Manpower France .\n\nMon intention en créant
+    Galerie Gaïa Studio est de concevoir une réalisation artistique sur-mesure en
+    effectuant un sourcing d'artistes en lien avec l'intention architecturale. Et
+    aussi vous accompagner sur la coordination du projet in situ.\n\n**INÈS BEN BRAHIM
+    _Adjointe_**\n\nDiplômée en histoire de l’art, j’ai mené des missions de médiation,
+    de coordination et de développement de projets artistiques durant 15 ans.\n\nJ’ai
+    donc travaillé pour des structures différentes comme la biennale d’art contemporain
+    Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou et le Louvre.\n\nMa
+    mission pour Galerie Gaïa Studio est de continuer à accompagner les artistes,
+    les institutions et les entreprises à penser et produire un projet artistique,
+    suivi de chantier inclus."
   contact:
     display: true
     placeholder: 'Renseignement pour un projet immobilier '
