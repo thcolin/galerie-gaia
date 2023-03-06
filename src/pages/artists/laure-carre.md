@@ -102,20 +102,6 @@ works:
   description: Vernissage jeudi 9 Mars 2023 18H
   price: ''
   contextual: true
-- title: Roc et cactus
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/roc et cactus 75X75
-    T.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 75
-    width: 75
-    depth: 0
-  description: "2021"
-  price: 1400
-  contextual: true
 - title: 'Au fil du temps '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
   technique: 'Huile sur toile '
@@ -141,6 +127,20 @@ works:
     depth: 0
   description: "2023"
   price: 550
+  contextual: true
+- title: 'Roc and cactus '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carré roc cactus 75X75.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 75
+    width: 75
+    depth: 0
+  description: "2020"
+  price: 1400
   contextual: true
 - title: Moutain dance
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mountain dance 89X116.jpg
