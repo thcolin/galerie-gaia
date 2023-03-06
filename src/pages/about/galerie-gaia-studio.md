@@ -65,8 +65,8 @@ content:
     d'entreprises \n\n![https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural
     11 compressions 500x200 15000 € .jpg](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural
     11 compressions 500x200 15000 € .jpg)\n\n[Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/
-    \"1 immeuble 1 oeuvre\") Installation murale tôles d’acier froissées 6m x 3m\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG)70
-    ans de Adélis avec une œuvre sur toile de Kazy 5x3 mètres"
+    \"1 immeuble 1 oeuvre\") Installation murale tôles d’acier froissées 6m x 3m\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG)
+    Kazy pour les 70 ans d'Adélis bailleur sociale œuvre sur toile de 5m x 3m"
   contact:
     placeholder: Un message à nous adresser ?
     display: false
