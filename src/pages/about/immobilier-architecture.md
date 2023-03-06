@@ -22,22 +22,24 @@ content:
     une lisibilité.  \nC’est penser une médiation pertinente pour les collaborateurs,
     le grand public, et les institutionnels impliqués dans le projet.\n\n**GALERIE
     GAÏA STUDIO**\n\nGalerie Gaïa Studio conçoit des œuvres d’art à destination
-    d’acteurs publics et privés ainsi qu’auprès d’entreprises. Galerie Gaia Studio
-    mobilise des savoir-faire et met en place des collaborations pertinentes pour
-    faire rayonner les ambitions et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE
-    _Directrice_**\n\nPassionnée d’histoire de l’art et d'architecture, diplômée
-    de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme directrice
-    d’agences et Chef de projets chez Manpower France .\n\nMon intention en créant
-    Galerie Gaïa Studio est de concevoir une réalisation artistique sur-mesure en
-    effectuant un sourcing d'artistes en lien avec l'intention architecturale. Et
-    aussi vous accompagner sur la coordination du projet in situ.\n\n**INÈS BEN BRAHIM
-    _Adjointe_**\n\nDiplômée en histoire de l’art, j’ai mené des missions de médiation,
-    de coordination et de développement de projets artistiques durant 15 ans.\n\nJ’ai
-    donc travaillé pour des structures différentes comme la biennale d’art contemporain
-    Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou et le Louvre.\n\nMa
-    mission pour Galerie Gaïa Studio est de continuer à accompagner les artistes,
-    les institutions et les entreprises à penser et produire un projet artistique,
-    suivi de chantier inclus."
+    d’acteurs publics et des entreprises.   \nGalerie Gaia Studio mobilise des savoir-faire
+    et met en place des collaborations pertinentes pour faire rayonner les ambitions
+    et les valeurs de ses clients.\n\n**ÉLISABETH GIVRE _Directrice_**\n\nPassionnée
+    d’histoire de l’art et d'architecture, diplômée de l’école de commerce IDRAC
+    (Lyon), j’ai travaillé 20 ans comme directrice d’agences et chef de projets pour
+    Manpower France.\n\nMon intention en créant Galerie Gaïa Studio est d'accompagner
+    des structures pour concevoir des réalisations artistiques sur-mesure.   \nLa
+    particularité de notre démarche et de faire sens en sourçant des artistes qui
+    s'inspireront de l'histoire du lieu et de l'intention architecturale pour ensuite
+    \ imaginer leur création. \n\nCet accompagnement intègre la coordination du projet
+    et sa mise en œuvre in situ.\n\n**INÈS BEN BRAHIM _Adjointe_**\n\nDiplômée
+    en histoire de l’art, j’ai mené des missions de médiation, de coordination et
+    de développement de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé
+    pour des structures différentes comme la biennale d’art contemporain Estuaire
+    Nantes-Saint Nazaire, Tripode, le Centre Pompidou et le Louvre.\n\nMa mission
+    pour Galerie Gaïa Studio est de continuer à accompagner les artistes, les institutions
+    et les entreprises à penser et produire un projet artistique, suivi de chantier
+    inclus."
   contact:
     display: true
     placeholder: 'Renseignement pour un projet immobilier '
