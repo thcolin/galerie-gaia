@@ -41,10 +41,10 @@ content:
     [Supralog](https://www.reseau-entreprendre.org/fr/blog/artiste-plasticien-en-residence-dans-une-entreprise/
     \"supralog\") éditeur de logiciel accueille en résidence un artiste  Matthieu
     Schmitt et découvre la richesse des rencontres qui ont fait naître des interactions
-    riches en créativité avec tous les services de l'entreprise . \n\n\"L’art en entreprise
-    permet pour un dirigeant – et pour ses services RH – d’incarner cette recherche
-    de sens, avec une œuvre créée in situ racontant les histoires humaines qui la
-    composent.\""
+    riches en créativité avec tous les services de l'entreprise .\n\n**\"L’art en
+    entreprise** permet pour un dirigeant – et pour ses services RH – d’incarner cette
+    **recherche de sens,** avec une œuvre créée in situ racontant les histoires
+    humaines qui la composent.\""
   contact:
     placeholder: Un message à nous adresser ?
     display: false
