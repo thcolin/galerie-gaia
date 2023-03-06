@@ -9,14 +9,15 @@ seo:
   image: ''
 content:
 - column: "**FAIRE RÉSIDENCE, C’EST RACONTER UNE HISTOIRE COMMUNE**\n\n**Accueillir
-    un artiste en résidence, c’est un levier fort d’innovation, d’ouverture et d’audace.
-    \ \nFaire le choix de la création artistique, c’est rayonner auprès de sa clientèle,
-    c’est stimuler ses collaborateurs en leur offrant une expérience sensible et
-    c’est soutenir la création contemporaine en partageant  \nvos savoir-faire :
-    l’art devient un vecteur de communication singularisant et cultive votre marque
-    employeur.  \nCo-produire une œuvre avec votre ADN et vos valeurs sublime le sentiment
-    de fierté de vos collaborateurs.  \nL’œuvre devient un élément concret de votre
-    culture d’entreprise.**\n\n**1. CONCEVOIR**\n\nIl s’agit d’analyser vos besoins.
+    un artiste en résidence**, c’est un levier fort d’innovation, d’ouverture et
+    d’audace.   \nFaire le choix de la création artistique, c’est rayonner auprès
+    de sa clientèle, de ses fournisseurs et des institutionnels de votre environnement.
+    \            C’est stimuler ses collaborateurs en leur offrant une expérience
+    de co-production qui révéle l'ADN de votre société et donne du sens à leurs métiers.
+    \     \nC’est soutenir la création contemporaine en partageant les savoir-faire
+    de votre entreprise.   \nL’art devient un vecteur de communication singularisant
+    et cultive votre **marque employeur**.  \nL’œuvre produite incarne concrètement
+    votre politique **RSE**.\n\n**1. CONCEVOIR**\n\nIl s’agit d’analyser vos besoins.
     Une évaluation qui se fait lors d’entretiens, d’études de vos espaces et d’échanges
     autour de vos sensibilités plastiques. Cette _récolte de matière_ nous permet
     d’apporter une réflexion juste et personnalisée. Nous développons alors un
