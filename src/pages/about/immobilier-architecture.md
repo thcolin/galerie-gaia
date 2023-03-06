@@ -45,15 +45,16 @@ content:
     placeholder: 'Renseignement pour un projet immobilier '
 - contact:
     placeholder: Un message à nous adresser ?
-  column: "![café le Molière Christophe Vinet architecte décorateur d'intérieur nantes
-    loire atlantique](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
+  column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-HD_0.jpg)Fresque
+    Versant - programme immobilier - Nantes\n\n![café le Molière Christophe Vinet
+    architecte décorateur d'intérieur nantes loire atlantique](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@brasserielemoliere@jeanfrancoismoliere.jpg
     \"Brasserie le Moliere Nantes \")\n\nBrasserie Café Le Molière à Nantes - Réalisation
     Architecte décorateur  Christophe Vinet - Photos [Jean-François Molliere]()\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/masque.jpg)\n\n“Le
     masque” de [Kazy Usclef](https://galeriegaia.fr/artists/kazy-usclef/ \"1% artistique\")
     \ installation pour le hall d’un immeuble de La Nantaise d'Habitation en 2023
     (Hauteur 3m x Largeur 2,5m)  \n2023 direction un immeuble nantais  \n[Groupe Bati-Nantes](https://www.batinantes.fr/
     \"bati nantes\") -  [In Situ Architecture](https://insituacv.com/ \"in situ acv\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural-11-compressions-500x200-15000-1.jpg)\n\nProjet
-    d'installation Murale de tôles d'acier froissées 6 x 3 mètres   \npar [Olivier
+    d'installation Murale de tôles d'acier froissées 6 x 3 mètres  \npar [Olivier
     Fremont](https://galeriegaia.fr/artists/olivier-fremont/ \"1 immeuble 1 oeuvre\")"
 seo:
   title: Architecture - Galerie Gaïa, galerie d'art contemporain
