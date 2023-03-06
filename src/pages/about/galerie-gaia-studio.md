@@ -61,11 +61,12 @@ content:
     placeholder: Un message à nous adresser ?
     display: false
 - column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/whome projet
-    galerie gaia studio.jpg)Cindy Belaud - Edwin Wide - Projet pour Whome - Nantes\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG)70
-    ans de Adélis avec une œuvre sur toile de Kazy 5x3 mètres\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural
-    11 compressions 500x200 15000 € .jpg)Projet d’installation Murale de tôles d’acier
-    froissées 6 x 3 mètres  \npar [Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/
-    \"1 immeuble 1 oeuvre\") "
+    galerie gaia studio.jpg)Cindy Belaud & Edwin Wide - Projet pour Whome Immobilier
+    d'entreprises \n\n![https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural
+    11 compressions 500x200 15000 € .jpg](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural
+    11 compressions 500x200 15000 € .jpg)\n\n[Olivier Fremont](https://galeriegaia.fr/artists/olivier-fremont/
+    \"1 immeuble 1 oeuvre\") Installation murale tôles d’acier froissées 6m x 3m\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@kazy-adelis.JPG)70
+    ans de Adélis avec une œuvre sur toile de Kazy 5x3 mètres"
   contact:
     placeholder: Un message à nous adresser ?
     display: false
