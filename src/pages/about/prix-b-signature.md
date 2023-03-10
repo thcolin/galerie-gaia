@@ -1,10 +1,10 @@
 ---
 template: about
 content:
-- column: "# Prix B Signature\n\nen partenariat avec Galerie Gaïa Studio\n\nPour candidater
-    remplissez le formulaire\n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\nDans les 7 hôtels du Groupe B Signature,«
-    le luxe est pensé comme une émotion». Ces hôtels sont autant d’écrins où naissent
+- column: "# Prix B Signature 2023\n\nCoordination du projet par Galerie Gaïa Studio\n\nPour
+    candidater remplissez le formulaire [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
+    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\nDans les 7 hôtels du Groupe B Signature,
+    « le luxe est pensé comme une émotion». Ces hôtels sont autant d’écrins où naissent
     la création, l’innovation et la poésie. L’art s’est naturellement installé dans
     les hôtels du groupe comme une signature subtile et élégante. Il s’agit de faire
     vivre au public une expérience sensible et singulière.\n\nPour la première fois
@@ -12,33 +12,43 @@ content:
     décide de renforcer son lien avec l’art et s’engage durablement dans le soutien
     de la création contemporaine.\n\nAinsi est créé le Prix B Signature pour l’art
     contemporain, sous l’impulsion d’Anne Jousse, Présidente du groupe. Il s’adresse
-    largement à tout artiste plasticien.ne français. se ou vivant en France.\n\n**MODALITÉS**\n\nL’appel
-    à candidature est lancé le 1er Mars 2023.  \nClôture de la réception des dossiers
-    papiers le 30 Avril 2023.  \nA l’issue d’un processus de sélection, quinze artistes
-    sont pré-selectionnés pour le jury, qui se réunit pour délibérer le 14 Juin 2023.
-    \ \nLe ou la lauréate, élu·e le 14 Juin 2023 par un jury de professionnels, reçoit
-    une dotation de 10 000 € d’aide à la création et à la production.  \nLivraison
-    et vernissage de l’œuvre en octobre 2023.\n\nL’artiste lauréat bénéficie de l’accompagnement
-    et d’une exposition en juin 2024, au sein de de la Galerie Gaia partenaire du
-    Prix B Signature.\n\n**A QUI S ADRESSE L APPEL À CANDIDATURE**\n\nAux artistes
-    plasticien·ne·s, photographie, peinture, sculpture bas reliefs.\n\n**QUELLES SONT
-    LES CONDITIONS DE PARTICIPATION**\n\n\\-Être Français·e ou vivre et travailler
-    en France en date du dépôt de candidature.\n\n**QUE DOIT IMPERATIVEMENT CONTENIR
-    LE DOSSIER**\n\n\\-Le dossier doit être présenté au format A4.\n\n\\-Une page
-    de garde où figurent les nom et prénom du candidat·e, son adresse postale, son
-    adresse mail et son numéro de téléphone.\n\n\\-Un Curriculum Vitae\n\n\\-Un texte
-    court d’introduction sur la pratique de l’artiste ainsi que quelques notes d’explication
-    sur son travail.\n\nLes textes devront être rédigés en français.\n\n\\-Présenter
-    différents visuels qui devront permettre au comité de sélection de se faire une
-    idée précise de la pratique des candidat.e.s\n\nAttention, aucune œuvre originale
-    ne doit être envoyée.\n\n## Quelles sont les attentes artistiques du jury?\n\n\\-Bien
-    qu’il soit difficile d’établir une liste objective de critères esthétiques, techniques
-    et conceptuels, le comité de sélection attire l’attention des candidat.es sur
-    quelques essentiels qui guideront ses choix\n\n\\-l’eco-conception de l’oeuvre.\n\n\\-l’originalité
-    et la singularité de la pratique.\n\n\\-la maîtrise des techniques mises en oeuvre
-    dans les proposi- tions.\n\nLa sélection du lauréat.e se fait uniquement sur dossier,
-    au- cune demande de maquette, d’esquisse ou de dessin prépara- toire n’est demandé
-    avant la délibération du jury."
+    largement à tout artiste plasticien.ne français.se ou vivant en France.\n\n**MODALITÉS
+    :**\n\nL’appel à candidature est lancé le 1er Mars 2023.  \nClôture de la réception
+    des dossiers papier le 30 Avril 2023.  \nA l’issue d’un processus de sélection,
+    quinze artistes sont pré-selectionné.es pour le jury, qui se réunit pour délibérer
+    le 14 Juin 2023.  \nLe ou la lauréate, élu·e le 14 Juin 2023 par un jury de professionnels,
+    reçoit une dotation de 10 000 € d’aide à la création et à la production.  \nLivraison
+    de l’œuvre première semaine d'octobre 2023, et vernissage mi-octobre 2023.\n\nL’artiste
+    lauréat bénéficie de l’accompagnement et d’une exposition en juin 2024, au sein
+    de de la Galerie Gaïa partenaire du Prix B Signature.\n\n**A QUI S'ADRESSE L'APPEL
+    À CANDIDATURE :**\n\nAux artistes plasticien·ne·s, photographie, peinture, sculpture
+    bas reliefs.\n\n**QUELLES SONT LES CONDITIONS DE PARTICIPATION :**\n\n\\-Être
+    Français·e ou vivre et travailler en France en date du dépôt de candidature.\n\n**QUE
+    DOIT IMPÉRATIVEMENT CONTENIR LE DOSSIER :**\n\n\\- Le dossier doit être présenté
+    au format A4.  \n\\-Une page de garde où figurent les nom et prénom du candidat·e,
+    son adresse postale, son adresse mail et son numéro de téléphone.  \n\\-Un Curriculum
+    Vitae  \n\\-Un texte court d’introduction sur la pratique de l’artiste ainsi que
+    quelques notes d’explication sur son travail.  \n\\-Les textes devront être rédigés
+    en français.  \n\\-Présenter différents visuels qui devront permettre au comité
+    de sélection de se faire une idée précise de la pratique des candidat.e.s\n\nAttention,
+    aucune œuvre originale ne doit être envoyée.\n\n**QUELLES SONT LES ATTENTES ARTISTIQUES
+    DU JURY :**\n\nBien qu’il soit difficile d’établir une liste objective de critères
+    esthétiques, techniques et conceptuels, le comité de sélection attire l’attention
+    des candidat.es sur quelques essentiels qui guideront ses choix :\n\n\\-l’éco-conception
+    de l’œuvre.  \n\\-l’originalité et la singularité de la pratique.  \n\\-la maîtrise
+    des techniques mises en œuvre dans les propositions.\n\nLa sélection du lauréat.e
+    se fait uniquement sur dossier, aucune demande de maquette, d’esquisse ou de dessin
+    préparatoire n’est exigée avant la délibération du jury.\n\n**CAHIER DES CHARGES
+    :** \n\nLe lauréat devra s’adapter à un cahier des charges précis. L’œuvre devra
+    prendre en considération son impact environnemental, dans ses différentes étapes
+    de création, dans ses choix des matériaux utilisés, son transport mais aussi sa
+    conservation.\n\nL’œuvre ne pourra dépasser les dimensions suivantes: 200x127cm.
+    \ \nAttention, pour les volumes seuls les bas-reliefs seront retenus.  \nL’œuvre
+    sera installée dans un lieu de passage du public.\n\nLes dossiers devront être
+    envoyés par voie postale **avant le 30 avril 2023 minuit** à l’adresse suivante
+    :   \n**Galerie Gaïa Studio   \nPrix B Signature  \n4 Rue Fénelon 44000 Nantes**\n\n**RAPPEL
+    :** \n\nPour candidater remplissez le formulaire\n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
+    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")"
   contact:
     display: true
     placeholder: Renseignement courtage en art
