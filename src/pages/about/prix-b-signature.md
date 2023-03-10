@@ -3,15 +3,15 @@ template: about
 content:
 - column: "# Prix B Signature 2023\n\nCoordination du projet par Galerie Gaïa Studio\n\nPour
     candidater remplissez le formulaire [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\nDans les 7 hôtels du Groupe B Signature,
+    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n**Dans les 7 hôtels du Groupe B Signature**,
     « le luxe est pensé comme une émotion». Ces hôtels sont autant d’écrins où naissent
     la création, l’innovation et la poésie. L’art s’est naturellement installé dans
     les hôtels du groupe comme une signature subtile et élégante. Il s’agit de faire
-    vivre au public une expérience sensible et singulière.\n\nPour la première fois
-    en 2023, la Galerie Gaïa participe à l’accompagnement du Groupe B Signature qui
-    décide de renforcer son lien avec l’art et s’engage durablement dans le soutien
-    de la création contemporaine.\n\nAinsi est créé le Prix B Signature pour l’art
-    contemporain, sous l’impulsion d’Anne Jousse, Présidente du groupe. Il s’adresse
+    vivre au public une expérience sensible et singulière.\n\n**Pour la première fois
+    en 2023**, la Galerie Gaïa participe à l’accompagnement du Groupe B Signature
+    qui décide de renforcer son lien avec l’art et s’engage durablement dans le soutien
+    de la création contemporaine.\n\n**Ainsi est créé le Prix B Signature pour l’art
+    contemporain**, **sous l’impulsion d’Anne Jousse, Présidente du groupe**. Il s’adresse
     largement à tout artiste plasticien.ne français.se ou vivant en France.\n\n**MODALITÉS
     :**\n\nL’appel à candidature est lancé le 1er Mars 2023.  \nClôture de la réception
     des dossiers papier le 30 Avril 2023.  \nA l’issue d’un processus de sélection,
