@@ -43,7 +43,9 @@ content:
     display: true
     placeholder: Renseignement courtage en art
 - column: |-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature Hotels & Resorts.jpg)[https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)
+
+    [https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
 
     ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-09 à 13.10.53.png)[https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr "https://www.hotelmontalembert-paris.com/fr")
   contact:
