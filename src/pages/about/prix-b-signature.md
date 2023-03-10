@@ -48,6 +48,8 @@ content:
     [https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
 
     ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-09 à 13.10.53.png)[https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr "https://www.hotelmontalembert-paris.com/fr")
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-10 à 15.46.11.png)
   contact:
     placeholder: Un message à nous adresser ?
 seo:
