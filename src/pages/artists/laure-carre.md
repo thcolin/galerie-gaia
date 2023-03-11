@@ -376,8 +376,8 @@ works:
     height: 41
     width: 33
     depth: 0
-  description: 2023 Œuvre encadrée caisse américaine chêne
-  price: 590
+  description: Vendu
+  price: ''
   contextual: true
 - title: Green cloud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/green cloud 60X73.jpg
