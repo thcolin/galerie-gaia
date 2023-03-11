@@ -469,21 +469,6 @@ works:
   description: ''
   price: 2200
   contextual: true
-- title: Black beauty
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carre-galerie
-    gaia-cheval noir 22X30.jpeg
-  technique: Huile sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  weight: 0
-  dimensions:
-    height: 22
-    width: 30
-    depth: 0
-  description: Œuvre encadrée baguette chêne sous verre 2021
-  price: 350
-  contextual: true
 - title: Ronde sentimentale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
     carre-Ronde sentimentale-73X100.jpeg
