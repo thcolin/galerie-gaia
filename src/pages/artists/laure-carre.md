@@ -415,8 +415,8 @@ works:
     height: 90
     width: 116
     depth: 0
-  description: "2023"
-  price: 2400
+  description: 'Vendu '
+  price: ''
   contextual: true
 - title: C'est la vie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/c est la vie 116X89.jpg
