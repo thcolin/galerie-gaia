@@ -363,8 +363,8 @@ works:
     height: 40
     width: 30
     depth: 0
-  description: "2023"
-  price: 550
+  description: 'Réservée '
+  price: ''
   contextual: true
 - title: Green suit
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Green suit 41X33.jpg
