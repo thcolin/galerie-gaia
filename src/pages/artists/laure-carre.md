@@ -323,7 +323,7 @@ works:
   description: 2022 Œuvre encadrée baguette chêne sous verre
   price: 350
   contextual: true
-- title: Coup de vent
+- title: Vent fort
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -coup de vent 21X30 p.jpeg
   technique: 'Huile sur papier '
@@ -335,8 +335,8 @@ works:
     height: 21
     width: 30
     depth: 0
-  description: 2022 Œuvre encadrée baguette chêne sous verre
-  price: 350
+  description: Vendu
+  price: ''
   contextual: true
 - title: Allongée sans souci
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
