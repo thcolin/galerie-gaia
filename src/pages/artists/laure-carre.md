@@ -305,8 +305,8 @@ works:
     height: 21
     width: 30
     depth: 0
-  description: 2022 Œuvre encadrée baguette chêne sous verre
-  price: 350
+  description: Vendu
+  price: ''
   contextual: true
 - title: Face à face
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
@@ -560,8 +560,8 @@ works:
     height: 40
     width: 40
     depth: 0
-  description: "2020"
-  price: 550
+  description: 'Vendu '
+  price: ''
   contextual: true
 - title: Walking shadow
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg
