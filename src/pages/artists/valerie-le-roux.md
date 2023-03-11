@@ -38,8 +38,8 @@ works:
   styles: []
   weight: 0
   dimensions:
-    height: 92
-    width: 45
+    height: 76
+    width: 56
     depth: 0
   description: ''
   price: 180
