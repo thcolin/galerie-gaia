@@ -61,8 +61,8 @@ content:
   contact:
     placeholder: Un message à nous adresser ?
 seo:
-  title: Prix B Signature
-  heading: B Signature
+  title: 'B Signature groupe hotellier nantais groupe Besse hotellerie de luxe '
+  heading: Prix B Signature
   type: website
   description: 'Création d''un prix d''art contemporain avec le groupe hotelier nantais
     B Signature Présidente Anne Jousse hôtellerie de luxe 4 étoiles '
