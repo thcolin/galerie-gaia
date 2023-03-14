@@ -22,9 +22,9 @@ works:
   description: ''
   price: ''
   contextual: false
-- title: Petites toiles visible à l'exposition de Laure Carré du 7 au 25 Mars
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure
-    carrée green suit sunny day.jpeg
+- title: Yellow shoes  - exposition de Laure Carré jusqu'au 25 Mars
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre-yellow shoes.jpg
   technique: 'Huile sur toile '
   fields:
   - Peinture
@@ -37,6 +37,19 @@ works:
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
   price: 690
+  contextual: false
+- title: Toma-l
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Atelier_toma-L_2022_01.jpg
+  technique: Technique mixte  sur papier
+  fields:
+  - Peinture
+  styles: []
+  dimensions:
+    height: 70
+    width: 50
+    depth: 0
+  description: '[Toma-l](https://galeriegaia.fr/artists/toma-l/ "TOMA L")'
+  price: ''
   contextual: false
 - title: 'Le Point d''équilibre -Isabelle Healy '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2758 (1).jpg
@@ -105,19 +118,6 @@ works:
     depth: 0
   description: "# "
   price: 367.5
-  contextual: false
-- title: Toma-l
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2747 2.JPG
-  technique: Technique mixte  sur papier
-  fields:
-  - Peinture
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: '[Toma-l](https://galeriegaia.fr/artists/toma-l/ "TOMA L")'
-  price: ''
   contextual: false
 - title: Yves Tilly
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 NOEL TILLY.jpg

@@ -7,7 +7,7 @@ fields:
 - Textile
 birth: "1909"
 death: "1995"
-expose: true
+expose: false
 biography: |-
   # Jorj Morin (Georges)
 

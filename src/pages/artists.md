@@ -4,12 +4,12 @@ artists:
 - artist: src/pages/artists/la-selection-des-nouveautes.md
 - artist: src/pages/artists/laure-carre.md
 - artist: src/pages/artists/jean-francois-molliere.md
-- artist: src/pages/artists/tilly-yves.md
 - artist: src/pages/artists/pierre-tual.md
 - artist: src/pages/artists/toma-l.md
-- artist: src/pages/artists/byl-william.md
+- artist: src/pages/artists/tilly-yves.md
 - artist: src/pages/artists/annick-argant.md
 - artist: src/pages/artists/isthme.md
+- artist: src/pages/artists/byl-william.md
 - artist: src/pages/artists/jacques-le-brusq.md
 - artist: src/pages/artists/pierre-muckensturm.md
 - artist: src/pages/artists/francoise-paressant-1.md
