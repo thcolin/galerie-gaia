@@ -133,7 +133,7 @@ works:
   description: 2021 Prix sur demande
   price: ''
   contextual: true
-- title: 'Diptyque Little grey '
+- title: Diptyque Little grey and color
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2022110601-2022110602-LittleGreyAndColor-2x76x56cm.jpg
   technique: diptyque technique mixte sur papier, cadre noir, verre musée
   fields: []
@@ -146,7 +146,7 @@ works:
   description: "2022 format diptyque (2X 59 L) x 79H  \nPrix sur demande "
   price: ''
   contextual: true
-- title: 'Little grey and color '
+- title: 5 Little grey and color En situation atelier
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Atelier_toma-L_2022_01.jpg
   technique: 2 diptyques, 1 solo Technique mixte sur papier, cadre noir, verre musée
   fields: []
