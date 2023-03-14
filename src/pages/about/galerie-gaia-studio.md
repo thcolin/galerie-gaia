@@ -2,10 +2,11 @@
 template: about
 seo:
   type: website
-  title: Galerie Gaia Studio, conception de projets artistiques
-  heading: Résidence en Entreprise
-  description: accueil d'artiste en résidence en entreprise politique RSE , ressources
-    humaines, marque employeur, conception de projet artistique Ruptur
+  title: Galerie Gaia Studio, résidence d'artiste en entreprise conception de projets
+    artistiques
+  heading: Art et Entreprise
+  description: accueil d'artiste en résidence en entreprise politique RSE , recyclage,
+    ressources humaines, marque employeur, conception de projet artistique Ruptur
   image: ''
 content:
 - column: "**FAIRE RÉSIDENCE, C’EST RACONTER UNE HISTOIRE COMMUNE**\n\n**Accueillir
