@@ -120,6 +120,20 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: Tow boys trash
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2022061801-TOWBOYSTRASH-105x75cm
+    - copie.jpg
+  technique: 'Technique mixte sur Papier, caisse américaine noir '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 109
+    width: 79
+    depth: 0
+  description: '2022 Pris sur demande '
+  price: ''
+  contextual: true
 - title: Simple brut
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2019112502-SimpleColor-121x91cm.jpg
   technique: Technique mixte sur toile châssis à clefs

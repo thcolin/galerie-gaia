@@ -31,12 +31,12 @@ works:
   styles:
   - Figuratif
   dimensions:
-    height: 41
-    width: 33
+    height: 114
+    width: 146
     depth: 0
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
-  price: 690
+  price: 3400
   contextual: false
 - title: Toma-l
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Atelier_toma-L_2022_01.jpg
