@@ -26,6 +26,10 @@ content:
   contact:
     display: true
     placeholder: Renseignement évènementiel
+- column: '![Exposition dans le hall du groupe Keran](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@keran@basso.jpg
+    "Keran exposition Giani Basso")'
+  contact:
+    placeholder: Un message à nous adresser ?
 seo:
   title: Evènementiel - Galerie Gaïa, galerie d'art contemporain
   heading: Evènementiel RSE
