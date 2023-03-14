@@ -1,27 +1,36 @@
 ---
 template: about
 content:
-- column: "# Cadeau original, cadeau d'anniversaire, liste de mariage, départ à la
-    retraite\n\n## La Carte Cadeau\n\nUne sélection dans le [catalogue](https://galeriegaia.fr/catalogue/
-    \"catalogue galerie gaia\") de la galerie permettra de choisir  \nparmi **+70
-    artistes et  +900 œuvres disponibles livrables dans le monde entier.**  \n**A
-    partir de 50€ sans limite dans le temps**\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/PHOTO-2022-12-06-19-05-30.jpg)\n\n##
-    Encadrement sur mesure Nantes\n\nEncadrer c'est **conserver et sublimer une œuvre**.
-    \ \nNous vous conseillons avec mon atelier d'encadrement **pour toutes œuvres
-    acquises ou non à la galerie.**\n\n**Le +** optez pour le **verre musée** qui
-    protège à 98% des UV du soleil et de la lune, en plus il est anti-reflet.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie
-    gaia -bram van velde 1 ES cadre2022.jpg)Lithographie de [Bram Van Velde](https://galeriegaia.fr/artists/bram-van-velde/
-    \"barm van velde \") baguette chêne montage caisson et verre anti-reflet."
+- column: "**ÉLISABETH GIVRE _Directrice_**\n\nPassionnée d’histoire de l’art et
+    d’architecture, diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
+    20 ans comme directrice d’agences et chef de projets pour Manpower France.\n\nMon
+    intention en créant Galerie Gaïa Studio est d’accompagner des structures pour
+    concevoir des réalisations artistiques sur-mesure.  \nLa particularité de notre
+    démarche et de faire sens en sélectionnant des artistes qui s’inspireront de l’histoire
+    du lieu et de l’intention architecturale pour ensuite imaginer leur création.\n\nCet
+    accompagnement intègre la coordination du projet et sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
+    givre galerie gaia studio NB.png)"
   contact:
     display: true
     placeholder: Renseignements cartes de voeux
+- column: |-
+    **INÈS BEN BRAHIM _Adjointe_**
+
+    Diplômée en histoire de l’art, j’ai mené des missions de médiation, de coordination et de développement de projets artistiques durant 15 ans.
+
+    J’ai donc travaillé pour des structures différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire, Tripode, le Centre Pompidou et le Louvre.
+
+    Ma mission pour Galerie Gaïa Studio est de continuer à accompagner les artistes, les institutions et les entreprises à penser et produire un projet artistique, suivi de chantier inclus.
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines ben brahim galerie gaia studio NB.png)
+  contact:
+    placeholder: Un message à nous adresser ?
 seo:
-  title: Idées cadeaux - Galerie Gaïa, galerie d'art contemporain
-  heading: Idées cadeaux
+  title: L'équipe - Galerie Gaïa, conception de projet artistique
+  heading: 'L''équipe Galerie Gaia Studio '
   type: website
-  description: 'Œuvres d''art, encadrement, cartes cadeaux et cartes de voeux : des
-    idées cadeaux originales pour les anniversaires, mariages, départs à la retraite…'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-stpehanie
-    billarant-Ville rêvée nantes1bd.jpg
+  description: 'évènementiel , accompagnement conception de projet artistique, 1 immeuble
+    1 œuvre , oeuvre promotion immobilière, '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg
 
 ---
