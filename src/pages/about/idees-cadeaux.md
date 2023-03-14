@@ -17,7 +17,7 @@ content:
     \"Pole des arts visuels \")  \nAdhérent des [Amis du Musée des Arts de Nantes]()"
   contact:
     display: true
-    placeholder: Renseignements cartes de voeux
+    placeholder: Prendre contact avec notre équipe
 - column: "**INÈS BEN BRAHIM   \n_Adjointe_**\n\nDiplômée en histoire de l’art,
     j’ai mené des missions de médiation, de coordination et de développement de
     projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
@@ -30,7 +30,7 @@ content:
     placeholder: Un message à nous adresser ?
 seo:
   title: L'équipe - Galerie Gaïa, conception de projet artistique
-  heading: 'L''équipe Gaia Studio '
+  heading: 'L''équipe Gaïa Studio '
   type: website
   description: évènementiel , accompagnement conception de projet artistique, 1 immeuble
     1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur
