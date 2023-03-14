@@ -11,7 +11,9 @@ content:
     accompagnement intègre la coordination du projet et sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
     givre galerie gaia studio NB.png)\n\nPrésidente de Art Galeries Nantes  \nMembre
     de [Ruptur](https://www.ruptur.fr/ \"RUPTUR \") acteur d'une économie créative
-    et environnementale  \nMembre de AMO  \nAdhérent du Pôle des Arts Visuels 44"
+    et environnementale  \nMembre de [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
+    \"amo \")  \nAdhérent du [Pôle des Arts Visuels Pays de Loire](https://poleartsvisuels-pdl.fr/
+    \"Pole des arts visuels \")  \nAdhérent des [Amis du Musée des Arts de Nantes]() "
   contact:
     display: true
     placeholder: Renseignements cartes de voeux
