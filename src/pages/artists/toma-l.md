@@ -120,6 +120,32 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'RSB 36 '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041901-RSB36WINTERYELLOW-ColorsonPaper-120x80cm.jpg
+  technique: Technique mixte sur papier Velin d’arche, cadre en chêne
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 124
+    width: 84
+    depth: 0
+  description: 2021 prix sur demande
+  price: ''
+  contextual: true
+- title: FRE 12
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021051501-FRE12-ColorsonLargePaper-01-161x122cm.jpg
+  technique: Technique mixte sur papier Velin d’arche, cadre en chêne
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 164
+    width: 125
+    depth: 0
+  description: 2021 prix sur demande
+  price: ''
+  contextual: true
 - title: 'RSB14 TUXPAN '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041401-RSB14TUXPAN-ColorsonPaper-120x80cm.jpg
   technique: Technique mixte sur papier Velin d’arche, cadre en chêne
