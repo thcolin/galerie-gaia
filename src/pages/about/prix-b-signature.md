@@ -61,11 +61,11 @@ content:
   contact:
     placeholder: Un message à nous adresser ?
 seo:
-  title: Courtier en art - Galerie Gaïa, galerie d'art contemporain
-  heading: Courtier en art
+  title: Prix B Signature
+  heading: B Signature
   type: website
-  description: Conseil, sélection, négociation, livraison... Elisabeth Givre, directrice
-    de Galerie Gaïa, courtier en art, accompagne vos acquisitions patrimoniales.
+  description: 'Création d''un prix d''art contemporain avec le groupe hotelier nantais
+    B Signature Présidente Anne Jousse hôtellerie de luxe 4 étoiles '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
     galerie gaia- article ouest france.png
 
