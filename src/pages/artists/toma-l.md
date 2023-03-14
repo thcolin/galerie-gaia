@@ -120,6 +120,19 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'RSB14 TUXPAN '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2021041401-RSB14TUXPAN-ColorsonPaper-120x80cm.jpg
+  technique: Technique mixte sur papier Velin d’arche, cadre en chêne
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 124
+    width: 84
+    depth: 0
+  description: '2021 prix sur demande '
+  price: ''
+  contextual: true
 - title: 'Little graphite and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-toma
     l-2019042104-Littlewhite-70x50cm 2 2.jpg
