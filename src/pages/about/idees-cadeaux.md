@@ -27,10 +27,10 @@ content:
     placeholder: Un message à nous adresser ?
 seo:
   title: L'équipe - Galerie Gaïa, conception de projet artistique
-  heading: 'L''équipe Galerie Gaia Studio '
+  heading: 'L''équipe Gaia Studio '
   type: website
-  description: 'évènementiel , accompagnement conception de projet artistique, 1 immeuble
-    1 œuvre , oeuvre promotion immobilière, '
+  description: évènementiel , accompagnement conception de projet artistique, 1 immeuble
+    1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg
 
 ---

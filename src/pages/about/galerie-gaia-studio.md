@@ -3,9 +3,9 @@ template: about
 seo:
   type: website
   title: Galerie Gaia Studio, conception de projets artistiques
-  heading: Galerie Gaia Studio
-  description: conception de projet artistique, 1immeuble 1 oeuvre, 1% artistique,
-    oeuvre monumentale, appel d'offre artistique, appel à projet artistique
+  heading: Résidence en Entreprise
+  description: conception de projet artistique, accueil artiste en résidence en entreprise
+    politique RSE , ressources humaines, marque employeur
   image: ''
 content:
 - column: "**FAIRE RÉSIDENCE, C’EST RACONTER UNE HISTOIRE COMMUNE**\n\n**Accueillir
