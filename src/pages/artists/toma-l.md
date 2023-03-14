@@ -120,6 +120,19 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
+- title: 'Little grey and color '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Atelier_toma-L_2022_01.jpg
+  technique: 2 diptyques, 1 solo Technique mixte sur papier, cadre noir, verre musée
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 79
+    width: 59
+    depth: 0
+  description: 2022 prix sur demande
+  price: ''
+  contextual: true
 - title: Simple brut
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2019112502-SimpleColor-121x91cm.jpg
   technique: Technique mixte sur toile châssis à clefs
