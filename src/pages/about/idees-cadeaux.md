@@ -3,17 +3,18 @@ template: about
 content:
 - column: "**ÉLISABETH GIVRE  \n_Directrice_**\n\nPassionnée d’histoire de l’art
     et d’architecture, diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
-    20 ans comme directrice d’agences et chef de projets pour Manpower France.\n\nMon
-    intention en créant Galerie Gaïa Studio est d’accompagner des structures pour
-    concevoir des réalisations artistiques sur-mesure.  \nLa particularité de notre
-    démarche et de faire sens en sélectionnant des artistes qui s’inspireront de l’histoire
-    du lieu et de l’intention architecturale pour ensuite imaginer leur création.\n\nCet
-    accompagnement intègre la coordination du projet et sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
+    20 ans comme directrice d’agences et chef de projets pour Manpower France.\n\n**Mon
+    intention** en créant Galerie Gaïa Studio est d’accompagner des structures privées
+    et publics pour concevoir des réalisations artistiques sur-mesure.  \nLa particularité
+    de notre démarche et de **faire sens** en sélectionnant des artistes qui s’inspireront
+    de l’histoire d'un lieu et de l’intention architecturale pour ensuite imaginer
+    leur création.\n\nCet accompagnement intègre la coordination du projet et sa mise
+    en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
     givre galerie gaia studio NB.png)\n\nPrésidente de Art Galeries Nantes  \nMembre
     de [Ruptur](https://www.ruptur.fr/ \"RUPTUR \") acteur d'une économie créative
     et environnementale  \nMembre de [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
     \"amo \")  \nAdhérent du [Pôle des Arts Visuels Pays de Loire](https://poleartsvisuels-pdl.fr/
-    \"Pole des arts visuels \")  \nAdhérent des [Amis du Musée des Arts de Nantes]() "
+    \"Pole des arts visuels \")  \nAdhérent des [Amis du Musée des Arts de Nantes]()"
   contact:
     display: true
     placeholder: Renseignements cartes de voeux
