@@ -120,19 +120,6 @@ exhibitions:
   start: 21 Mai
   end: 20 Juin
 works:
-- title: Little simple brut
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2451.jpeg
-  technique: Couture et technique mixte sur papier, cadre en chêne, verre musée
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 50
-    width: 40
-    depth: 0
-  description: '2022 Prix sur demande '
-  price: ''
-  contextual: false
 - title: Simple brut
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2019112502-SimpleColor-121x91cm.jpg
   technique: Technique mixte sur toile châssis à clefs
@@ -160,6 +147,19 @@ works:
   description: '2022 Pris sur demande '
   price: ''
   contextual: true
+- title: Little simple brut
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2451.jpeg
+  technique: Couture et technique mixte sur papier, cadre en chêne, verre musée
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 40
+    depth: 0
+  description: '2022 Prix sur demande '
+  price: ''
+  contextual: false
 - title: 'Little grey and color '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/2022110601-LittleGreyAndColor-76x56cm-D.jpg
   technique: Technique mixte sur papier, cadre noir, verre musée

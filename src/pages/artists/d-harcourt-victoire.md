@@ -38,6 +38,21 @@ biography: |-
 
   Victoire d'Harcourt's work often expresses a double feeling that links both strength and fragility in a whole whose balance is precarious.
 works:
+- title: Alliance XII
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - victoire
+    d'harcourt-alliance XII.JPG
+  technique: Bronze II/IV Bronze Fonderie Fusions David Gourcuff
+  fields: []
+  styles: []
+  dimensions:
+    height: 34
+    width: 50
+    depth: 32
+  description: ''
+  price: 6000
+  sold: false
+  contextual: false
+  weight: 
 - title: Equilibre Mini
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-victoire
     d'harcourt-equilibre mini.jpg
@@ -78,21 +93,6 @@ works:
     depth: 5
   description: "2022"
   price: 2400
-  sold: false
-  contextual: false
-  weight: 
-- title: Alliance XII
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - victoire
-    d'harcourt-alliance XII.JPG
-  technique: Bronze II/IV Bronze Fonderie Fusions David Gourcuff
-  fields: []
-  styles: []
-  dimensions:
-    height: 34
-    width: 50
-    depth: 32
-  description: ''
-  price: 6000
   sold: false
   contextual: false
   weight: 
