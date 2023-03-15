@@ -1,18 +1,18 @@
 ---
 template: about
 content:
-- column: "# Prix B Signature 2023\n\nCoordination du projet par Galerie Gaïa Studio\n\nPour
-    candidater remplissez le formulaire [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n**Dans les 7 hôtels du Groupe B Signature**,
-    « le luxe est pensé comme une émotion». Ces hôtels sont autant d’écrins où naissent
-    la création, l’innovation et la poésie. L’art s’est naturellement installé dans
-    les hôtels du groupe comme une signature subtile et élégante. Il s’agit de faire
-    vivre au public une expérience sensible et singulière.\n\n**Pour la première fois
-    en 2023**, la Galerie Gaïa participe à l’accompagnement du Groupe B Signature
-    qui décide de renforcer son lien avec l’art et s’engage durablement dans le soutien
-    de la création contemporaine.\n\n**Ainsi est créé le Prix B Signature pour l’art
-    contemporain**, **sous l’impulsion d’Anne Jousse, Présidente du groupe**. Il s’adresse
-    largement à tout artiste plasticien.ne français.se ou vivant en France.\n\n**MODALITÉS
+- column: "# Prix B Signature 2023\n\nCoordination du projet par Galerie Gaïa Studio\n\n**Dans
+    les 7 hôtels du Groupe B Signature**, « le luxe est pensé comme une émotion».
+    Ces hôtels sont autant d’écrins où naissent la création, l’innovation et la poésie.
+    L’art s’est naturellement installé dans les hôtels du groupe comme une signature
+    subtile et élégante. Il s’agit de faire vivre au public une expérience sensible
+    et singulière.\n\n**Pour la première fois en 2023**, la Galerie Gaïa participe
+    à l’accompagnement du Groupe B Signature qui décide de renforcer son lien avec
+    l’art et s’engage durablement dans le soutien de la création contemporaine.\n\n**Ainsi
+    est créé le Prix B Signature pour l’art contemporain**, **sous l’impulsion d’Anne
+    Jousse, Présidente du groupe**. Il s’adresse largement à tout artiste plasticien.ne
+    français.se ou vivant en France.\n\nPour candidater remplissez le formulaire  \n
+    [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7 \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n**MODALITÉS
     :**\n\nL’appel à candidature est lancé le 1er Mars 2023.  \nClôture de la réception
     des dossiers papier le 30 Avril 2023.  \nA l’issue d’un processus de sélection,
     quinze artistes sont pré-selectionné.es pour le jury, qui se réunit pour délibérer
@@ -39,15 +39,15 @@ content:
     des techniques mises en œuvre dans les propositions.\n\nLa sélection du lauréat.e
     se fait uniquement sur dossier, aucune demande de maquette, d’esquisse ou de dessin
     préparatoire n’est exigée avant la délibération du jury.\n\n**CAHIER DES CHARGES
-    :** \n\nLe lauréat devra s’adapter à un cahier des charges précis. L’œuvre devra
+    :**\n\nLe lauréat devra s’adapter à un cahier des charges précis. L’œuvre devra
     prendre en considération son impact environnemental, dans ses différentes étapes
     de création, dans ses choix des matériaux utilisés, son transport mais aussi sa
     conservation.\n\nL’œuvre ne pourra dépasser les dimensions suivantes: 200x127cm.
     \ \nAttention, pour les volumes seuls les bas-reliefs seront retenus.  \nL’œuvre
     sera installée dans un lieu de passage du public.\n\nLes dossiers devront être
     envoyés par voie postale **avant le 30 avril 2023 minuit** à l’adresse suivante
-    :   \n**Galerie Gaïa Studio   \nPrix B Signature  \n4 Rue Fénelon 44000 Nantes**\n\n**RAPPEL
-    :** \n\nPour candidater remplissez le formulaire\n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
+    :  \n**Galerie Gaïa Studio  \nPrix B Signature  \n4 Rue Fénelon 44000 Nantes**\n\n**RAPPEL**
+    pour candidater remplissez le formulaire\n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
     \"https://forms.gle/DZmKBvtHT4P2xeaK7\")"
   contact:
     display: true
