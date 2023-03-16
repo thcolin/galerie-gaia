@@ -1,12 +1,12 @@
 ---
 template: about
 content:
-- column: "# Nos engagements, nos valeurs \n\n#### Pour concevoir avec vous un projet
+- column: "# Nos engagements, nos valeurs\n\n#### Pour concevoir avec vous un projet
     artistique, Galerie Gaïa Studio s’engage sur 7 valeurs fondatrices.\n\n**L’Humain**
     \ \nLe respect de la création est fondamental dans un projet de conception artistique.
     Nous sommes attentifs à ce que le client soit respecté dans son attendu et que
     l’artiste soit respecté dans son intention créatrice. Le statut de commande artistique
-    ne peut intégrer une obligation esthétique normée.\n\n**La Diversité**   \nLes
+    ne peut intégrer une obligation esthétique normée.\n\n**La Diversité**  \nLes
     principes de parité nous sont essentiels. Notre sélection d’artistes est assumée
     suivant une équité de représentation, hommes - femmes, artiste confirmé.es - artistes
     jeunes diplômé.es, sans préjugé sur les opinions, le handicap, l'âge ou la nationalité.\n\n**L’Environnement**
@@ -24,7 +24,7 @@ content:
     quelle que soit la forme de sa création, de **droits d'auteur**. Certains de ces
     droits peuvent être cédés, par l'intermédiaire d'un **contrat de cession de droits.**
     Nous prenons soin, dans une relation contractuelle, que la propriété intellectuelle
-    soit rémunérée légalement.\n\n**La Rémunération**   \nArtiste, un métier. Le travail
+    soit rémunérée légalement.\n\n**La Rémunération**  \nArtiste, un métier. Le travail
     de recherche, de production, de monstration et de médiation doit être rémunéré.
     Nous défendons ce respect d’une juste rémunération, d’une transparence dans notre
     répartition et du règlement immédiat à l’auteur.trice à réception d’une réalisation
@@ -33,15 +33,15 @@ content:
     pertinente, simple et adaptée fait partie de chaque projet."
   contact:
     placeholder: Un message à nous adresser ?
-- column: "**ÉLISABETH GIVRE  \n_Directrice_**\n\nPassionnée d’histoire de l’art
-    et d’architecture, diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé
-    20 ans comme directrice d’agences et chef de projets pour Manpower France.\n\n**Mon
-    intention** en créant Galerie Gaïa Studio est d’accompagner des structures privées
-    et publics pour **concevoir des projets artistiques sur-mesure**.  \nLa particularité
-    de notre démarche et de **faire sens** en sélectionnant des artistes qui s’inspireront
-    pour créer des savoir-faire de l'entreprise, de l’histoire d'un lieu ou de l’intention
-    architecturale d'un projet immobilier. \n\nCet accompagnement intègre la coordination
-    du projet jusqu'à sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
+- column: "# **ÉLISABETH GIVRE\n\n_Directrice_**\n\n#### Passionnée d’histoire de
+    l’art et d’architecture,\n\ndiplômée de l’école de commerce IDRAC (Lyon), j’ai
+    travaillé 20 ans comme directrice d’agences et chef de projets pour Manpower
+    France.\n\n**Mon intention** en créant Galerie Gaïa Studio est d’accompagner des
+    structures privées et publics pour **concevoir des projets artistiques sur-mesure**.
+    \ \nLa particularité de notre démarche et de **faire sens** en sélectionnant des
+    artistes qui s’inspireront pour créer des savoir-faire de l'entreprise, de l’histoire
+    d'un lieu ou de l’intention architecturale d'un projet immobilier.\n\nCet accompagnement
+    intègre la coordination du projet jusqu'à sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
     givre galerie gaia studio NB.png)\n\nPrésidente de Art Galeries Nantes  \nMembre
     de [Ruptur](https://www.ruptur.fr/ \"RUPTUR \") acteur d'une économie créative
     et environnementale  \nMembre de [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
