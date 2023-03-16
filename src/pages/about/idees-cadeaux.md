@@ -29,11 +29,11 @@ content:
   contact:
     placeholder: Un message à nous adresser ?
 seo:
-  title: L'équipe - Galerie Gaïa, conception de projet artistique
-  heading: 'L''équipe Gaïa Studio '
+  title: Galerie Gaïa Studio   les engagements de l'équipe conception de projet artistique
+  heading: Galerie Gaïa Studio
   type: website
-  description: évènementiel , accompagnement conception de projet artistique, 1 immeuble
-    1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur
+  description: " événementiel accompagnement conception de projet artistique, 1 immeuble
+    1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg
 
 ---
