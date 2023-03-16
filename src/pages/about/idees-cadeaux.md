@@ -33,15 +33,14 @@ content:
     pertinente, simple et adaptée fait partie de chaque projet."
   contact:
     placeholder: Un message à nous adresser ?
-- column: "# Elisabeth Givre   \nDirectrice\n\nPassionnée d'histoire de l'art et d'architecture,
+- column: "# Elisabeth Givre\n\nDirectrice\n\nPassionnée d'histoire de l'art et d'architecture,
     diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme
     directrice d’agences et chef de projets pour Manpower France.\n\n**Mon intention**
     en créant Galerie Gaïa Studio est d’accompagner des structures privées et publics
     pour **concevoir des projets artistiques sur-mesure**.  \nLa particularité de
     notre démarche et de **faire sens** en sélectionnant des artistes qui s’inspireront
     pour créer des savoir-faire de l'entreprise, de l’histoire d'un lieu ou de l’intention
-    architecturale d'un projet immobilier.\n\nCet accompagnement intègre la coordination
-    du projet jusqu'à sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
+    architecturale d'un projet immobilier.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
     givre galerie gaia studio NB.png)\n\nPrésidente de Art Galeries Nantes  \nMembre
     de [Ruptur](https://www.ruptur.fr/ \"RUPTUR \") acteur d'une économie créative
     et environnementale  \nMembre de [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
