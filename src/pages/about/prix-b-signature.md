@@ -63,10 +63,11 @@ content:
     placeholder: Un message à nous adresser ?
 seo:
   title: 'B Signature groupe hotellier nantais groupe Besse hotellerie de luxe '
-  heading: Prix B Signature
+  heading: Appel à candidature
   type: website
-  description: 'Création d''un prix d''art contemporain avec le groupe hotelier nantais
-    B Signature Présidente Anne Jousse hôtellerie de luxe 4 étoiles '
+  description: 'Création d''un prix d''art contemporain avec le groupe nantais B Signature
+    Anne Jousse hôtellerie de luxe 4 étoiles, appel à candidature pour une residence
+    d''artiste à la galerie gaia aout '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
     galerie gaia- article ouest france.png
 
