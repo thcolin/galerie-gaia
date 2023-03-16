@@ -33,7 +33,7 @@ content:
     pertinente, simple et adaptée fait partie de chaque projet."
   contact:
     placeholder: Un message à nous adresser ?
-- column: "# **ÉLISABETH GIVRE\n\n_Directrice_**\n\n#### Passionnée d’histoire de
+- column: "# **ÉLISABETH GIVRE\n\nDirectrice**\n\n#### Passionnée d’histoire de
     l’art et d’architecture,\n\ndiplômée de l’école de commerce IDRAC (Lyon), j’ai
     travaillé 20 ans comme directrice d’agences et chef de projets pour Manpower
     France.\n\n**Mon intention** en créant Galerie Gaïa Studio est d’accompagner des
@@ -50,9 +50,9 @@ content:
   contact:
     display: true
     placeholder: Prendre contact avec notre équipe
-- column: "**INÈS BEN BRAHIM   \n_Adjointe_**\n\nDiplômée en histoire de l’art,
-    j’ai mené des missions de médiation, de coordination et de développement de
-    projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
+- column: "# INÈS BEN BRAHIM  \nAdjointe\n\n#### Diplômée en histoire de l’art,
+    \n\nj’ai mené des missions de médiation, de coordination et de développement
+    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
     différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
     Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
     est de continuer à accompagner les artistes, les institutions et les entreprises
