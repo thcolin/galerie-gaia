@@ -2,18 +2,18 @@
 template: about
 content:
 - column: "# Défiscaliser une œuvre d'art\n\nPour renforcer l'identité de votre entreprise
-    auprès de vos clients et collaborateurs une table de ping pong c'est bien, mais
-    **une œuvre d'art unique et originale** incarnera encore plus  vos valeurs et
-    votre différence !\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection
-    d’œuvres** disponibles dans le [**catalogue**](https://galeriegaia.fr/catalogue/
-    \"catalogue galerie gaia\") **sur le site** de la galerie (photos - sérigraphies
-    - sculptures- peintures).\n* **Sourcing d’œuvres spécifiques** selon vos critères
-    de style et de budget.\n* Création d'une **fresque murale** intérieure ou extérieure,
-    \ par un artiste graffeur (street-art)\n* **Réalisation d'une installation** visuelle,
+    auprès de vos clients et collaborateurs une table de ping-pong c'est bien, mais
+    une **œuvre d'art unique, originale** incarnera encore plus vos valeurs et votre
+    différence !\n\nNous vous accompagnons dans chaque étape :\n\n* **Sélection d’œuvres**
+    disponibles dans le [**catalogue**](https://galeriegaia.fr/catalogue/ \"catalogue
+    galerie gaia\") **sur le site** de la galerie (photos - sérigraphies - sculptures-
+    peintures).\n* **Sourcing d’œuvres spécifiques** selon vos critères de style et
+    de budget.\n* Création d'une **fresque murale** intérieure ou extérieure,  par
+    un artiste graffeur (street-art)\n* **Réalisation d'une installation** visuelle,
     sonore, lumineuse, mobile sur mesure avec des matériaux de recyclage de votre
-    entreprise...([rubrique architecture)](https://galeriegaia.fr/about/immobilier-architecture/
-    \"conception oeuvre\")\n\n  **Les +**  RSE, marque employeur,  bien-être au travail
-    , créativité\n\nDeux solutions possibles pour des choix stratégiques patrimoniaux
+    entreprise. Voir notre solution[ Art et Entreprise](https://galeriegaia.fr/about/galerie-gaia-studio/
+    \"ART EN ENTREPRISE\"). \n\n  **Les +**  RSE, marque employeur,  bien-être au
+    travail , créativité\n\nDeux solutions d'achat pour des choix stratégiques patrimoniaux
     et fiscaux différents : leasing avec option d'achat ou achat en défiscalisation\n\n##
     **Leasing**\n\nNous avons retenu le professionnalisme de la société [BAIL ART,](https://bail-art.com/financement/
     \"BAIL ART SIMULATEUR\") pour faciliter l'accès à des œuvres d'art avec la location
@@ -38,7 +38,7 @@ content:
     :**\n\n* Une entreprise réalisant 350 000€ de chiffre d’affaire\n* La déduction
     sur le résultat fiscal est plafonnée à 5 pour mille du chiffre d’affaire soit
     350 000 x 0,005 = 1750€ de plafond annuel déductible\n* La déduction de 25% du
-    1/5ème de l’œuvre : 1600€ X 0,25 = 400€\n* Economie totale : 2000€ \n\n_données
+    1/5ème de l’œuvre : 1600€ X 0,25 = 400€\n* Economie totale : 2000€\n\n_données
     chiffrées février 2023_\n\n## Courtier en art\n\nLe métier de courtier en art
     consiste à vous **conseiller** sur une sélection d'[**artistes émergents**](https://galeriegaia.fr/catalogue/
     \"catalogue artiste emergents\") **ou confirmés** en vue d'**acquisitions à titre
