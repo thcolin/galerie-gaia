@@ -16,8 +16,7 @@ content:
     au transport et à la conservation des œuvres. Les multiples étapes de production
     sont questionnées pour être économes en ressources.\n\n**Le Partage et la transmission**
     \ \nChacun invente, développe, accumule des connaissances et des savoir-faire
-    dans son éco-système. Certaines innovations sont brevetées. Certaines peuvent
-    être partagées. Nos projets ambitionnent de faire se rencontrer des entreprises
+    dans son éco-système. Nos projets ambitionnent de faire se rencontrer des entreprises
     industrielles et de services avec nos artistes, pour partager autant des machines
     outils, que des solutions logistiques, que des savoir-faire.\n\n**La Propriété
     intellectuelle**  \nDès l'achèvement de son œuvre originale, l'artiste bénéficie,
@@ -34,13 +33,13 @@ content:
   contact:
     placeholder: Un message à nous adresser ?
 - column: "# Elisabeth Givre\n\nDirectrice\n\nPassionnée d'histoire de l'art et d'architecture,
-    diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme
-    directrice d’agences et chef de projets pour Manpower France.\n\n**Mon intention**
-    en créant Galerie Gaïa Studio est d’accompagner des structures privées et publics
-    pour **concevoir des projets artistiques sur-mesure**.  \nLa particularité de
-    notre démarche et de **faire sens** en sélectionnant des artistes qui s’inspireront
-    pour créer des savoir-faire de l'entreprise, de l’histoire d'un lieu ou de l’intention
-    architecturale d'un projet immobilier.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
+    diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme directrice
+    d’agences et chef de projets pour Manpower France.\n\n**Mon intention** en créant
+    Galerie Gaïa Studio est d’accompagner des structures privées et publics pour **concevoir
+    des projets artistiques sur-mesure**.  \nLa particularité de notre démarche et
+    de **faire sens** en sélectionnant des artistes qui s’inspireront pour créer des
+    savoir-faire de l'entreprise, de l’histoire d'un lieu ou de l’intention architecturale
+    d'un projet immobilier.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
     givre galerie gaia studio NB.png)\n\nPrésidente de Art Galeries Nantes  \nMembre
     de [Ruptur](https://www.ruptur.fr/ \"RUPTUR \") acteur d'une économie créative
     et environnementale  \nMembre de [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
@@ -49,13 +48,13 @@ content:
   contact:
     display: true
     placeholder: Prendre contact avec notre équipe
-- column: "# Inès Ben Brahim\n\nAdjointe\n\nDiplômée en histoire de l'art, j’ai mené
-    des missions de médiation, de coordination et de développement de projets artistiques
-    durant 15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme
-    la biennale d’art contemporain Estuaire Nantes Saint-Nazaire, Tripode, le Centre
-    Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer
-    à accompagner les artistes, les institutions et les entreprises à penser et
-    produire un projet artistique, suivi de chantier inclus.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines
+- column: "# Inès Ben Brahim\n\nAdjointe\n\nDiplômée en histoire de l'art, j’ai mené
+    des missions de médiation, de coordination et de développement de projets artistiques
+    durant 15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme la
+    biennale d’art contemporain Estuaire Nantes Saint-Nazaire, Tripode, le Centre
+    Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer
+    à accompagner les artistes, les institutions et les entreprises à penser et produire
+    un projet artistique, suivi de chantier inclus.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines
     ben brahim galerie gaia studio NB.png)\n\ncrédit photos [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/
     \"dimitri roubichou \") "
   contact:
