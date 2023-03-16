@@ -33,15 +33,15 @@ content:
     pertinente, simple et adaptée fait partie de chaque projet."
   contact:
     placeholder: Un message à nous adresser ?
-- column: "# **ÉLISABETH GIVRE\n\nDirectrice**\n\n#### Passionnée d’histoire de
-    l’art et d’architecture,\n\ndiplômée de l’école de commerce IDRAC (Lyon), j’ai
-    travaillé 20 ans comme directrice d’agences et chef de projets pour Manpower
-    France.\n\n**Mon intention** en créant Galerie Gaïa Studio est d’accompagner des
-    structures privées et publics pour **concevoir des projets artistiques sur-mesure**.
-    \ \nLa particularité de notre démarche et de **faire sens** en sélectionnant des
-    artistes qui s’inspireront pour créer des savoir-faire de l'entreprise, de l’histoire
-    d'un lieu ou de l’intention architecturale d'un projet immobilier.\n\nCet accompagnement
-    intègre la coordination du projet jusqu'à sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
+- column: "# Elisabeth Givre   \nDirectrice\n\nPassionnée d'histoire de l'art et d'architecture,
+    diplômée de l’école de commerce IDRAC (Lyon), j’ai travaillé 20 ans comme
+    directrice d’agences et chef de projets pour Manpower France.\n\n**Mon intention**
+    en créant Galerie Gaïa Studio est d’accompagner des structures privées et publics
+    pour **concevoir des projets artistiques sur-mesure**.  \nLa particularité de
+    notre démarche et de **faire sens** en sélectionnant des artistes qui s’inspireront
+    pour créer des savoir-faire de l'entreprise, de l’histoire d'un lieu ou de l’intention
+    architecturale d'un projet immobilier.\n\nCet accompagnement intègre la coordination
+    du projet jusqu'à sa mise en œuvre in situ.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth
     givre galerie gaia studio NB.png)\n\nPrésidente de Art Galeries Nantes  \nMembre
     de [Ruptur](https://www.ruptur.fr/ \"RUPTUR \") acteur d'une économie créative
     et environnementale  \nMembre de [AMO](https://www.linkedin.com/in/amo-bretagne-pays-de-loire-961183164/?originalSubdomain=fr
@@ -50,13 +50,13 @@ content:
   contact:
     display: true
     placeholder: Prendre contact avec notre équipe
-- column: "# INÈS BEN BRAHIM  \nAdjointe\n\n#### Diplômée en histoire de l’art,
-    \n\nj’ai mené des missions de médiation, de coordination et de développement
-    de projets artistiques durant 15 ans.\n\nJ’ai donc travaillé pour des structures
-    différentes comme la biennale d’art contemporain Estuaire Nantes-Saint Nazaire,
-    Tripode, le Centre Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio
-    est de continuer à accompagner les artistes, les institutions et les entreprises
-    à penser et produire un projet artistique, suivi de chantier inclus.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines
+- column: "# Inès Ben Brahim   \nAdjointe\n\nDiplômée en histoire de l'art, j’ai mené
+    des missions de médiation, de coordination et de développement de projets artistiques
+    durant 15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme
+    la biennale d’art contemporain Estuaire Nantes Saint-Nazaire, Tripode, le Centre
+    Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer
+    à accompagner les artistes, les institutions et les entreprises à penser et
+    produire un projet artistique, suivi de chantier inclus.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines
     ben brahim galerie gaia studio NB.png)"
   contact:
     placeholder: Un message à nous adresser ?
