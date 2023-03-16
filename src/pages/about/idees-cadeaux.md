@@ -49,18 +49,15 @@ content:
   contact:
     display: true
     placeholder: Prendre contact avec notre équipe
-- column: |-
-    # Inès Ben Brahim
-
-    Adjointe
-
-    Diplômée en histoire de l'art, j’ai mené des missions de médiation, de coordination et de développement de projets artistiques durant 15 ans.
-
-    J’ai donc travaillé pour des structures différentes comme la biennale d’art contemporain Estuaire Nantes Saint-Nazaire, Tripode, le Centre Pompidou et le Louvre.
-
-    Ma mission pour Galerie Gaïa Studio est de continuer à accompagner les artistes, les institutions et les entreprises à penser et produire un projet artistique, suivi de chantier inclus.
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines ben brahim galerie gaia studio NB.png)
+- column: "# Inès Ben Brahim\n\nAdjointe\n\nDiplômée en histoire de l'art, j’ai mené
+    des missions de médiation, de coordination et de développement de projets artistiques
+    durant 15 ans.\n\nJ’ai donc travaillé pour des structures différentes comme
+    la biennale d’art contemporain Estuaire Nantes Saint-Nazaire, Tripode, le Centre
+    Pompidou et le Louvre.\n\nMa mission pour Galerie Gaïa Studio est de continuer
+    à accompagner les artistes, les institutions et les entreprises à penser et
+    produire un projet artistique, suivi de chantier inclus.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ines
+    ben brahim galerie gaia studio NB.png)\n\ncrédit photos [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/
+    \"dimitri roubichou \") "
   contact:
     placeholder: Un message à nous adresser ?
 seo:
