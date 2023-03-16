@@ -1,9 +1,9 @@
 ---
 template: about
 content:
-- column: "# Anniversaire d'entreprise Evénementiel \n\n#### Une exposition pour votre
-    entreprise\n\nEn commissaire d'exposition, Galerie Gaïa Studio  vous propose :\n\n*
-    Une sélection d'[**artistes nantais, régionaux**](https://galeriegaia.fr/catalogue/
+- column: "# Anniversaire d'entreprise\n\n# Événementiel\n\n#### Une exposition pour
+    votre entreprise\n\nEn commissaire d'exposition, Galerie Gaïa Studio  vous propose
+    :\n\n* Une sélection d'[**artistes nantais, régionaux**](https://galeriegaia.fr/catalogue/
     \"artistes nantais galerie gaia\") **ou nationaux**  pour créer une expérience
     client singulière avec la médiation artistique lors du vernissage.\n* Un choix
     d'artistes pour vivre une **performance en live** lors d'une soirée privée, d'un
@@ -32,7 +32,7 @@ content:
     placeholder: Un message à nous adresser ?
 seo:
   title: Evènementiel - Galerie Gaïa, galerie d'art contemporain
-  heading: Evènementiel RSE
+  heading: Evènementiel & RSE
   type: website
   description: Event arty, team building , évènement original d'entreprise, anniversaire
     d'entreprise, fresque street art, RSE, marque employeur, Ruptur
