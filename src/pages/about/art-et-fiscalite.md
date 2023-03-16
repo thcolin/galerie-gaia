@@ -74,7 +74,7 @@ content:
     display: false
 seo:
   title: Défiscaliser leasing courtier curator Galerie Gaïa, galerie d'art contemporain
-  heading: Leasing et Courtage
+  heading: Défiscalisation
   type: website
   description: 'Défiscalisation art acquisition, location, leasing : Elisabeth Givre,
     directrice de la Galerie Gaïa, conseille les entreprises et professions libérales.'

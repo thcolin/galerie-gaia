@@ -32,7 +32,7 @@ content:
     placeholder: Un message à nous adresser ?
 seo:
   title: Evènementiel - Galerie Gaïa, galerie d'art contemporain
-  heading: Evènementiel & RSE
+  heading: 'Evènementiel '
   type: website
   description: Event arty, team building , évènement original d'entreprise, anniversaire
     d'entreprise, fresque street art, RSE, marque employeur, Ruptur
