@@ -278,36 +278,6 @@ works:
   description: 2022 Œuvre encadrée baguette chêne sous verre
   price: 350
   contextual: true
-- title: Le baiser
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
-    carré -le baiser 18X16 p.jpeg
-  technique: Huile sur papier
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  weight: 0
-  dimensions:
-    height: 18
-    width: 16
-    depth: 0
-  description: 2023 Œuvre encadrée baguette chêne sous verre
-  price: 350
-  contextual: true
-- title: 'L''acrobate '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
-    carré -l'acrobate 21X30 p.jpeg
-  technique: 'Huile sur toile '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  weight: 0
-  dimensions:
-    height: 21
-    width: 30
-    depth: 0
-  description: Vendu
-  price: ''
-  contextual: true
 - title: Face à face
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -face à face 21X29 p.jpeg
@@ -323,21 +293,6 @@ works:
   description: 2022 Œuvre encadrée baguette chêne sous verre
   price: 350
   contextual: true
-- title: Vent fort
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
-    carré -coup de vent 21X30 p.jpeg
-  technique: 'Huile sur papier '
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  weight: 0
-  dimensions:
-    height: 21
-    width: 30
-    depth: 0
-  description: Vendu
-  price: ''
-  contextual: true
 - title: Allongée sans souci
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -allongee sans souci p.jpeg
@@ -352,32 +307,6 @@ works:
     depth: 0
   description: 2020 Œuvre encadrée baguette chêne sous verre
   price: 350
-  contextual: true
-- title: 'Hide and seek '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hide and seek 30X40.jpg
-  technique: Huile sur toile et collage
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 40
-    width: 30
-    depth: 0
-  description: 'Réservée '
-  price: ''
-  contextual: true
-- title: Green suit
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Green suit 41X33.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 41
-    width: 33
-    depth: 0
-  description: Vendu
-  price: ''
   contextual: true
 - title: Green cloud
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/green cloud 60X73.jpg
@@ -519,44 +448,6 @@ works:
   dimensions:
     height: 21
     width: 29
-    depth: 0
-  description: 2020 Œuvre encadrée baguette chêne sous verre
-  price: 350
-  contextual: true
-- title: Main rose
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaia Laure
-    Carre Main rose.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 35
-    width: 27
-    depth: 0
-  description: '2022, classieusement irrévérencieux comme il se doit avec Laure '
-  price: 450
-  contextual: true
-- title: Nostalgie
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-nostalgie-40x40.jpeg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 40
-    depth: 0
-  description: 'Vendu '
-  price: ''
-  contextual: true
-- title: Walking shadow
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-laure-carre-walking-shadow-29x31.jpeg
-  technique: Dessin huile sur papier encadrement baguette chêne
-  fields:
-  - Oeuvre sur papier
-  styles: []
-  dimensions:
-    height: 29
-    width: 31
     depth: 0
   description: 2020 Œuvre encadrée baguette chêne sous verre
   price: 350
