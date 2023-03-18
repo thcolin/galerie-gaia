@@ -90,6 +90,43 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Exposition du 7 au 25 mars 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vernissage jeudi 9 Mars 2023 18H
+  price: ''
+  contextual: true
+- title: 'Au fil du temps '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2023"
+  price: 4000
+  contextual: true
+- title: 'Pleine lune '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7707.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 33
+    width: 43
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: false
 - title: 'Boxeur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7708.JPG
   technique: 'Huile sur papier '
@@ -143,31 +180,6 @@ works:
     depth: 0
   description: 'Œuvre encadrée sous verre '
   price: 350
-  contextual: true
-- title: Exposition du 7 au 25 mars 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Vernissage jeudi 9 Mars 2023 18H
-  price: ''
-  contextual: true
-- title: 'Au fil du temps '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 130
-    width: 162
-    depth: 0
-  description: "2023"
-  price: 4000
   contextual: true
 - title: Small pocket
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/small pocket 41X33.jpg
