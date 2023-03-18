@@ -90,6 +90,32 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Boxeur '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7708.JPG
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 44
+    width: 32
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
+- title: Dog Woman
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7713.jpg
+  technique: 'Encre sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 31
+    width: 25
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
 - title: Le perplexe
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -le perplexe 40X30 p.jpeg
