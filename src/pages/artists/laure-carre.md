@@ -90,6 +90,34 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Le perplexe
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -le perplexe 40X30 p.jpeg
+  technique: 'Collage et huile sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: 'Oeuvre encadrée sous verre '
+  price: 350
+  contextual: true
+- title: Coup de vent
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -laure
+    carré-coup de vent 21X30 p.jpeg
+  technique: 'Huile sur papier '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 21
+    width: 30
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
