@@ -9,7 +9,7 @@ expose: true
 biography: |-
   # Art Galeries Nantes
 
-  ## Galerie Albane l'Artichaut Galerie Le 56  Galerie des oubliés  Le Triphasé  Galerie Gaïa
+  ## Galerie Albane l'Artichaut Galerie Le 56  Galerie des oubliés  Le Triphasé  Le Jardin des Formes Galerie Gaïa
 
   En 2015, rue Fénelon, l’idée d’association germe ! En 2016, l’association loi 1901 Art Galeries Nantes est créée. Elle fédère alors 14 galeries et lieux de diffusion nantais. A l’actif, de l’association, trois « Nuits des Galeries » - qui se révèleront des succès – lors desquelles chacun a pu se déplacer d’un lieu à l’autre, d’une découverte à l’autre, d’une surprise à l’autre : parce que l’idée avait vu le jour, les galeries ont ouvert la nuit ! En 2020, 9 galeries restent présentes au sein de l’association. Certaines galeries ont disparu du paysage nantais. En effet, une page de cette histoire privée et artistique s’est tournée, par choix personnel et/ou par impératifs économiques. Cependant, la relève est assurée et se profile ainsi une dynamique qui permettra aux artistes d’être toujours représentés et cela dans toutes leurs formes d’expression. Les objectifs d’Art Galeries Nantes sont :
 
@@ -23,6 +23,21 @@ biography: |-
   * Concevoir, organiser et accompagner toutes manifestations artistiques collectives.
 exhibitions: []
 works:
+- title: '2 Avril 2023 14H 18H Le Dimanche des Galeries '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
+    2023-03-18 à 15.13.54.png
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Toutes les galeries de l'association Art Galeries Nantes seront ouvertes
+    le dimanche 2 Avril de 14H à 18H   \nLE 56 / LES OUBLIES / LE TRIPHASE / LE JARDIN
+    DES FORMES / ALBANE"
+  price: ''
+  contextual: false
 - title: Art Galeries Nantes
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Art_Galeries_logo_jaune.png
   technique: 'Suivez-nous sur Instagram @artgaleriesnantes '
@@ -58,33 +73,6 @@ works:
     width: 0
     depth: 0
   description: 'Novembre 2022 à la Cale 2 des créateurs '
-  price: ''
-  contextual: true
-- title: Les galeristes de l'association Art Galeries Nantes
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-nuit
-    galeries5IMG_6202.JPG
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
-- title: 'La liste des 6 galeries de la Nuit des Galeries #5'
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Flyer_LANUITDESGALERIES_verso_web.jpg
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Galerie Albane](https://www.galerie-albane.com/ "albane galerie")
-    - [le 56](https://le56.fr/ "GALERIE LE 56") - [Le Triphazé]() - [Galerie des oubliés](https://galeriedesoublies.com/
-    "LES OUBLIES GALERIE") - [Le Rez de Chaussée](https://lerezdechaussee-nantes.com/
-    "LE RDC NANTES ")'
   price: ''
   contextual: true
 - title: 'Dimanche 1er Mai 2022 les galeries d''art nantaises sont ouvertes '
