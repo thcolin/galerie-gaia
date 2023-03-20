@@ -1,7 +1,7 @@
 ---
 template: about
 content:
-- column: "#### Concevoir une œuvre au sein d'un projet architectural, c'est penser
+- column: "### Concevoir une œuvre au sein d'un projet architectural, c'est penser
     son environnement.\n\n**Galerie Gaïa** **Studio** conçoit des projets artistiques
     en accompagnant les cabinets d’architecture, les promoteurs immobiliers et/ou
     signataires de la charte du Ministère de la Culture 1 immeuble 1 œuvre.\n\nGalerie
