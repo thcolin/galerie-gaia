@@ -32,8 +32,8 @@ seo:
   title: Evènementiel - Galerie Gaïa, galerie d'art contemporain
   heading: 'Evènementiel '
   type: website
-  description: Event arty, team building , évènement original d'entreprise, anniversaire
-    d'entreprise, fresque street art, RSE, marque employeur, Ruptur
+  description: anniversaire d'entreprise, Event arty, team building , évènement original
+    d'entreprise, fresque street art, RSE, marque employeur, économie bleue
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg
 redirect_from:
 - "/location-de-salle-a-nantes/"
