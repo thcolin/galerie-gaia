@@ -486,7 +486,7 @@ works:
     depth: 
   description: ''
   price: 600
-  sold: false
+  sold: true
   contextual: true
   fields:
   - Oeuvre sur papier
