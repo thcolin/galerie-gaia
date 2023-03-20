@@ -10,7 +10,7 @@ seo:
     Ruptur, évènementiel atypique, '
   image: ''
 content:
-- column: "# **FAIRE RÉSIDENCE,   \nC’EST RACONTER UNE HISTOIRE COMMUNE**\n\n**Accueillir
+- column: "### Faire résidence c'est raconter une histoire commune \n\n**Accueillir
     un artiste en résidence**, c’est un levier fort d’innovation, d’ouverture et d’audace.
     \ \nFaire le choix de la création artistique, c’est **rayonner auprès de sa clientèle**,
     de ses fournisseurs et des institutionnels de votre environnement.             C’est
