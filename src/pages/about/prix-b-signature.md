@@ -12,7 +12,7 @@ content:
     de la création contemporaine.\n\n**Ainsi est créé le Prix B Signature pour l’art
     contemporain**, **sous l’impulsion d’Anne Jousse, Présidente du groupe**. Il s’adresse
     largement à tout artiste plasticien.ne français.se ou vivant en France.\n\nPour
-    candidater remplissez le formulaire  \n [https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
+    candidater remplissez le formulaire  \n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
     \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n**MODALITÉS :**\n\nL’appel à candidature
     est lancé le 1er Mars 2023.  \nClôture de la réception des dossiers papier le
     30 Avril 2023.  \nA l’issue d’un processus de sélection, quinze artistes sont
@@ -26,7 +26,7 @@ content:
     bas reliefs.\n\n**QUELLES SONT LES CONDITIONS DE PARTICIPATION :**\n\n\\-Être
     Français·e ou vivre et travailler en France en date du dépôt de candidature.\n\n**QUE
     DOIT IMPÉRATIVEMENT CONTENIR LE DOSSIER :**\n\n\\- Le dossier doit être présenté
-    au format A4.  \n\\-Une page de garde où figurent les nom et prénom du candidat·e,
+    au format A4.  \n\\-Une page de garde où figurent les noms et prénoms du candidat·e,
     son adresse postale, son adresse mail et son numéro de téléphone.  \n\\-Un Curriculum
     Vitae  \n\\-Un texte court d’introduction sur la pratique de l’artiste ainsi que
     quelques notes d’explication sur son travail.  \n\\-Les textes devront être rédigés
