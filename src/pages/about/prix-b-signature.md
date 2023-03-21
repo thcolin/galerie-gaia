@@ -53,12 +53,14 @@ content:
   contact:
     display: true
     placeholder: Renseignement courtage en art
-- column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)\n\n[https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr
-    \"https://bsignaturehotels.com/fr\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture
-    d’écran 2023-03-09 à 13.10.53.png)[https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr
-    \"https://www.hotelmontalembert-paris.com/fr\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture
-    d’écran 2023-03-10 à 15.46.11.png)Œuvre de Manuel Merida installée dans le hall
-    de l'Hôtel Montalembert Paris "
+- column: |-
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)
+
+    [https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
+
+    [https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr "https://www.hotelmontalembert-paris.com/fr")
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-10 à 15.46.11.png)Œuvre de Manuel Merida installée dans le hall de l'Hôtel Montalembert Paris
   contact:
     placeholder: Un message à nous adresser ?
 seo:
