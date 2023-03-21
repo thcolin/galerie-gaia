@@ -116,7 +116,7 @@ works:
   price: 4000
   contextual: true
 - title: 'Boxeur '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7708.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carré.JPG
   technique: 'Huile sur papier '
   fields: []
   styles: []
