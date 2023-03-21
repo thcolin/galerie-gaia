@@ -53,10 +53,7 @@ content:
   contact:
     display: true
     placeholder: Renseignement courtage en art
-- column: |-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)
-
-    [https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
+- column: |2-
 
     [https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr "https://www.hotelmontalembert-paris.com/fr")
 
