@@ -49,11 +49,15 @@ content:
     envoyés par voie postale **avant le 30 avril 2023 minuit** à l’adresse suivante
     :  \n**Galerie Gaïa Studio  \nPrix B Signature  \n4 Rue Fénelon 44000 Nantes**\n\n**RAPPEL**
     pour candidater remplissez le formulaire\n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")"
+    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n![https://bsignaturehotels.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo
+    B Signature.jpg \"B signature \")"
   contact:
     display: true
     placeholder: Renseignement courtage en art
-- column: |2-
+- column: |-
+    ![https://www.hotelmontalembert-paris.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - hotel montalembert-entree-003.jpg "hotel montalembert")
+
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - hotel montalembert-Montalembert-J2-0616-23121_retoucheFA copie.jpg)
 
     [https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr "https://www.hotelmontalembert-paris.com/fr")
 
