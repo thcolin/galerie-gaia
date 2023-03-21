@@ -90,7 +90,79 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
-- title: Hide and seek 32
+- title: Exposition du 7 au 25 mars 2023
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: Vernissage jeudi 9 Mars 2023 18H
+  price: ''
+  contextual: true
+- title: 'Sweet home '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -sweet home 18.jpeg
+  technique: Dessin collage sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 20
+    width: 30
+    depth: 0
+  description: '2018 Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
+- title: 'Songe '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -songe.jpeg
+  technique: 'Huile sur papier, collage '
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 30
+    width: 25
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
+- title: 'La fille aux bottes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -la fille aux bottes 20.jpeg
+  technique: Encre et collage sur papier
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 30
+    width: 20
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
+- title: 'Jeune fille '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -jeune fille 21.jpg
+  technique: Huile sur papier collage sur toile brute
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 30
+    width: 20
+    depth: 0
+  description: 'Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
+- title: 'Hide and seek '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -hide and seek 23.jpeg
   technique: 'Huile et collage sur toile '
@@ -101,7 +173,7 @@ works:
     height: 30
     width: 18
     depth: 0
-  description: "2022"
+  description: "2023"
   price: 350
   contextual: true
 - fields:
@@ -119,18 +191,6 @@ works:
     carré -dance around the pound 22.jpeg
   title: 'Dance around the pound '
   technique: 'Huile sur toile '
-- title: Exposition du 7 au 25 mars 2023
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: Vernissage jeudi 9 Mars 2023 18H
-  price: ''
-  contextual: true
 - title: 'Au fil du temps '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
   technique: 'Huile sur toile '
