@@ -115,18 +115,6 @@ works:
   description: "2023"
   price: 4000
   contextual: true
-- title: 'Pleine lune '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7707.jpg
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 33
-    width: 43
-    depth: 0
-  description: 'Œuvre encadrée sous verre '
-  price: 350
-  contextual: false
 - title: 'Boxeur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7708.JPG
   technique: 'Huile sur papier '
@@ -299,20 +287,6 @@ works:
     depth: 0
   description: 2022 Œuvre encadrée baguette chêne sous verre
   price: 350
-  contextual: true
-- title: In the shadow of her cloud
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/In the shadow of
-    her cloud 27X35.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 27
-    width: 35
-    depth: 0
-  description: "2023"
-  price: 550
   contextual: true
 - title: Tête et main
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/tete et mai 19X24
