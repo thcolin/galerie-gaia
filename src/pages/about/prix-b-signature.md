@@ -59,7 +59,7 @@ content:
 
     ![https://www.hotelmontalembert-paris.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-10 à 15.46.11.png "hotel montalembert manuel merida")Œuvre de Manuel Merida installée dans le hall de l'Hôtel Montalembert Paris
 
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)
+    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)[https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
   contact:
     placeholder: Un message à nous adresser ?
 seo:
