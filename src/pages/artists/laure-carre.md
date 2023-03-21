@@ -117,6 +117,20 @@ works:
   description: '2018 Œuvre encadrée sous verre '
   price: 350
   contextual: true
+- title: Boxeur
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carré.JPG
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 0
+  dimensions:
+    height: 44
+    width: 32
+    depth: 0
+  description: '2023 Œuvre encadrée sous verre '
+  price: 350
+  contextual: true
+  technique: Huile sur papier
 - title: 'Songe '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
     carré -songe.jpeg
@@ -203,19 +217,6 @@ works:
     depth: 0
   description: "2023"
   price: 4000
-  contextual: true
-- title: 'Boxeur '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/laure carré.JPG
-  technique: 'Huile sur papier '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 44
-    width: 32
-    depth: 0
-  description: 'Œuvre encadrée sous verre '
-  price: 350
   contextual: true
 - title: Dog Woman
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7713.jpg
