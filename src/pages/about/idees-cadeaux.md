@@ -59,7 +59,7 @@ content:
     ben brahim galerie gaia studio NB.png)\n\ncrédit photos [Dimitri Roubichou](https://galeriegaia.fr/artists/dimitri-roubichou/
     \"dimitri roubichou \") "
   contact:
-    placeholder: Un message à nous adresser ?
+    placeholder: Prendre contact avec notre équipe
 seo:
   title: Galerie Gaïa Studio   les engagements de l'équipe conception de projet artistique
   heading: Le Studio

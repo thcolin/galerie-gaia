@@ -28,7 +28,7 @@ content:
     le grand public, et les institutionnels impliqués dans le projet."
   contact:
     display: true
-    placeholder: Renseignement pour un projet architectural
+    placeholder: Prise de contact pour un projet
 - contact:
     placeholder: Un message à nous adresser ?
   column: "![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-fresque-HD_0.jpg)Fresque
