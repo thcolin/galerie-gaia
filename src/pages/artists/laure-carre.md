@@ -90,6 +90,35 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: Hide and seek 32
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -hide and seek 23.jpeg
+  technique: 'Huile et collage sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 30
+    width: 18
+    depth: 0
+  description: "2022"
+  price: 350
+  contextual: true
+- fields:
+  - Peinture
+  styles: []
+  weight: 0
+  dimensions:
+    height: 18
+    width: 30
+    depth: 0
+  description: "2022"
+  price: 350
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
+    carré -dance around the pound 22.jpeg
+  title: 'Dance around the pound '
+  technique: 'Huile sur toile '
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
