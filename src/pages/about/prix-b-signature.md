@@ -57,11 +57,9 @@ content:
 - column: |-
     ![https://www.hotelmontalembert-paris.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - hotel montalembert-entree-003.jpg "hotel montalembert")
 
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - hotel montalembert-Montalembert-J2-0616-23121_retoucheFA copie.jpg)
+    ![https://www.hotelmontalembert-paris.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - hotel montalembert-Montalembert-J2-0616-23121_retoucheFA copie.jpg "hotel montalembert")
 
-    [https://www.hotelmontalembert-paris.com/fr](https://www.hotelmontalembert-paris.com/fr "https://www.hotelmontalembert-paris.com/fr")
-
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-10 à 15.46.11.png)Œuvre de Manuel Merida installée dans le hall de l'Hôtel Montalembert Paris
+    ![https://www.hotelmontalembert-paris.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-10 à 15.46.11.png "hotel montalembert manuel merida")Œuvre de Manuel Merida installée dans le hall de l'Hôtel Montalembert Paris
   contact:
     placeholder: Un message à nous adresser ?
 seo:
