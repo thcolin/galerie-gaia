@@ -66,7 +66,7 @@ works:
     height: 70
     width: 60
     depth: 30
-  description: "Vendu avec socle en acier et sangle en cuir  \nSur commande"
+  description: Vendu avec socle en acier et sangle en cuir
   price: 6900
   contextual: false
 - title: Stan le bouledog anglais
