@@ -32,8 +32,8 @@ works:
     height: 100
     width: 100
     depth: 0
-  description: '2023 œuvre encadrée bois naturelle '
-  price: 1800
+  description: Réservée
+  price: 
   sold: true
   contextual: true
 - title: Les collines au vent

@@ -301,9 +301,9 @@ works:
     height: 60
     width: 50
     depth: 
-  description: "Proposition en triptyque 1900€ , le chien n'est pas compris dans le
-    prix...  \nDisponible sur demande "
-  price: 1900
+  description: Proposition en triptyque 1900€ , le chien n'est pas compris dans le
+    prix...Réservé
+  price: 
   sold: false
   contextual: true
   weight: 
