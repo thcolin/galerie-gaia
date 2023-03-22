@@ -22,16 +22,16 @@ biography: 'Chaque pièce de bois a été récupérée sur la presqu''île de Rh
   essences de bois, la façon dont les entrailles sont réalisées et la saison de coupe,
   le résultat diffère restant aléatoire pour l''essentiel. '
 works:
-- title: Chêne vert
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0007-01~2.jpg
+- title: Chêne vert 2
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0009-01.jpg
   technique: Chêne
   fields: []
   styles: []
   weight: 2
   dimensions:
-    height: 37
-    width: 13
-    depth: 15
+    height: 38
+    width: 12
+    depth: 12
   description: ''
   price: 800
   sold: false
@@ -64,18 +64,18 @@ works:
   price: 800
   sold: false
   contextual: false
-- title: Chêne vert 2
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0009-01.jpg
+- title: Chêne vert
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yves-tillyIMG-20221101-WA0007-01~2.jpg
   technique: Chêne
   fields: []
   styles: []
   weight: 2
   dimensions:
-    height: 38
-    width: 12
-    depth: 12
-  description: ''
-  price: 800
+    height: 37
+    width: 13
+    depth: 15
+  description: Réservée
+  price: 
   sold: false
   contextual: false
 exhibitions:
