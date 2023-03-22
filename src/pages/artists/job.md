@@ -34,7 +34,7 @@ works:
     depth: 0
   description: '2023 œuvre encadrée bois naturelle '
   price: 1800
-  sold: false
+  sold: true
   contextual: true
 - title: Les collines au vent
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Les Collines
