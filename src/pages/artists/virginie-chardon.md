@@ -57,6 +57,20 @@ works:
   description: 'Visible à la galerie plus de visuels sur demande '
   price: 5800
   contextual: false
+- title: 'EIKO La Crécerelle '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - virgine-chardon-LA
+    CRECERELLE 2.jpg
+  technique: Bronze Fonderie Rosini N°1/8
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 43
+    width: 24
+    depth: 36
+  description: Visible à la galerie plus de visuels sur demande
+  price: 5300
+  contextual: false
 - title: 'Les soeurs coréennes vue de côté '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - virgine-chardon-IMG_9905photoshop.jpg
   technique: Bronze Fonderie Rosini N°2/8
