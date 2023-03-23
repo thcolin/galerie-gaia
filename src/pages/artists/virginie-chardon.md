@@ -43,10 +43,10 @@ biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant t
   - Bruxelles\n\n  ART EXPO by Maison & Jardin - Atelier Basfroi - Paris"
 exhibitions: []
 works:
-- title: 'La petite coréenne '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/LA PETITE CORÉENNE
-    .JPG
-  technique: Bronze Fonderie Rosini N°1/8
+- title: La petite coréenne
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - virgine-chardon-LA
+    PETITE CORÉENNE 3.JPG
+  technique: 'Bronze Rosini N°1/8 '
   fields: []
   styles: []
   weight: 0
