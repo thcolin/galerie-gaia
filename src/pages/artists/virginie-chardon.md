@@ -43,14 +43,27 @@ biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant t
   - Bruxelles\n\n  ART EXPO by Maison & Jardin - Atelier Basfroi - Paris"
 exhibitions: []
 works:
+- title: 'Les soeurs coréennes '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - virgine-chardon-IMG_9893photoshop.jpg
+  technique: 'Bronze Fonderie Rosini N°2/8 '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 32
+    depth: 30
+  description: 'Visible à la galerie, plus de visuels sur demande '
+  price: 8000
+  contextual: true
 - title: Hipolyte le morse
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hipolyte-le-morse.jpg
-  technique: 'bronze '
+  technique: bronze pièces numérotée  3/8 Fonderie Paumelle
   dimensions:
     height: 77
     width: 44
     depth: 32
-  description: "pièces numérotée /8  \nFonderie Paumelle"
+  description: 'Visible sur demande '
   price: 6800
   sold: false
   contextual: false
@@ -64,40 +77,41 @@ works:
     height: 70
     width: 60
     depth: 30
-  description: Vendu avec socle en acier et sangle en cuir
+  description: "Vendu avec socle en acier et sangle en cuir   \nvisible à la galerie
+    plus de visuels sur demande "
   price: 7200
   contextual: false
 - title: 'Cesar et Virginie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Gorille
     et Virginie.jpg
-  technique: Bronze
+  technique: Bronze Edition en 8 exemplaires Fonderie Delorme
   fields: []
   styles: []
   dimensions:
     height: 80
     width: 64
     depth: 45
-  description: "Edition en 8 exemplaires + IV EA  \nFonderie Delorme"
+  description: 'visible sur demande '
   price: 12900
   contextual: false
 - title: Le pélican
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-pelican.jpg
-  technique: bronze
+  technique: bronze Edition en 8 exemplaires Fonderie Rosini
   dimensions:
     height: 60
     width: 26
     depth: 61
-  description: "pièces numérotées /8  \nFonderie Rosini"
+  description: 'visible sur demande plus de visuels sur demande '
   price: 6700
   sold: false
   contextual: false
 - title: Stan le bouledog anglais
-  technique: 'Bronze '
+  technique: 'Bronze Edition en 8 exemplaires Fonderie Paumelle '
   dimensions:
     height: 25
     width: 53
     depth: 41
-  description: "pièces numérotées /8  \nFonderie Paumelle"
+  description: visible sur demande plus de visuels sur demande
   price: 5400
   contextual: false
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/VirginieChardon-sculptureBronze-paris-STAN-442A2910.jpg
