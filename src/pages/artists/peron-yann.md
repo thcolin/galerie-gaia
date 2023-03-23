@@ -48,22 +48,6 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
-- title: Dos d'Alice
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran
-    2022-02-05 à 18.50.13.png
-  technique: Aquarelle Sennelier + rehauts de pastel à l'huile / Papier arche marouflé
-    sur cp peuplier
-  fields: []
-  styles: []
-  dimensions:
-    height: 130
-    width: 90
-    depth: 
-  description: ''
-  price: 3700
-  sold: false
-  contextual: true
-  weight: 
 - title: 'Jardin des plantes Nantes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
     peron- py architecture-P22-19 ENTIER.jpg
@@ -178,28 +162,6 @@ works:
     depth: 
   description: ''
   price: 
-  sold: false
-  contextual: true
-  weight: 
-- title: Salomé 2015-02
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Galerie Gaïa- 01.jpg
-  technique: Huile Sennelier + graphite 9B / Papier blanc d'atelier marouflé sur cp
-    peuplier Cadre CP Bouleau - profondeur 15 cm - vernis mat
-  fields: []
-  styles: []
-  dimensions:
-    height: 168
-    width: 123.2
-    depth: 
-  description: "Format tableau hors cadre : 115 x 160 cm  \n  \nCette œuvre a été
-    réalisée lors d’une année complète en résidence à l’atelier avec un modèle durant
-    les années 2014 et 2015. Elle a fait partie de l’exposition qui s’est tenue en
-    juin 2015 , intitulée «  Bruts d’atelier ».\n\nCe croquis peint exécuté avec célérité
-    et force remplit le vide blanc qui l’entoure à la manière des estampes japonaises.
-    La tension entre ce grand aplat blanc qu’est la texture vierge du papier et les
-    entrelacs formés par les coups de graphite et les touches de peinture nerveuses
-    dessine la silhouette onctueuse de ce modèle bien vivant."
-  price: 4000
   sold: false
   contextual: true
   weight: 
