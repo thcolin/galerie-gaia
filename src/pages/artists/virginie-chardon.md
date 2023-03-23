@@ -43,7 +43,34 @@ biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant t
   - Bruxelles\n\n  ART EXPO by Maison & Jardin - Atelier Basfroi - Paris"
 exhibitions: []
 works:
-- title: 'Les soeurs coréennes '
+- title: 'La petite coréenne '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/LA PETITE CORÉENNE
+    .JPG
+  technique: Bronze Fonderie Rosini N°1/8
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 26
+    width: 20.5
+    depth: 18
+  description: 'Visible à la galerie plus de visuels sur demande '
+  price: 5800
+  contextual: false
+- title: 'Les soeurs coréennes vue de côté '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - virgine-chardon-IMG_9905photoshop.jpg
+  technique: Bronze Fonderie Rosini N°2/8
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 32
+    width: 50
+    depth: 30
+  description: 'Visible à la galerie plus de visuels sur demande '
+  price: 8000
+  contextual: false
+- title: Les soeurs coréennes vue de face
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - virgine-chardon-IMG_9893photoshop.jpg
   technique: 'Bronze Fonderie Rosini N°2/8 '
   fields: []
@@ -55,7 +82,7 @@ works:
     depth: 30
   description: 'Visible à la galerie, plus de visuels sur demande '
   price: 8000
-  contextual: true
+  contextual: false
 - title: Hipolyte le morse
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hipolyte-le-morse.jpg
   technique: bronze pièces numérotée  3/8 Fonderie Paumelle
