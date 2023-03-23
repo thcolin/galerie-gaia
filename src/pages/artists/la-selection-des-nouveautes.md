@@ -11,21 +11,6 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
-- title: La petite coréenne de Virginie Chardon
-  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -
-    virgine-chardon-LA PETITE CORÉENNE #3.JPG'
-  technique: Bronze Fonderie Rosini
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
-    "virginie chardon")'
-  price: 5800
-  contextual: false
 - title: Nouveautés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
@@ -52,6 +37,21 @@ works:
   description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
     carré")'
   price: 3400
+  contextual: false
+- title: La petite coréenne de Virginie Chardon
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -
+    virgine-chardon-LA PETITE CORÉENNE #3.JPG'
+  technique: Bronze Fonderie Rosini
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
+    "virginie chardon")'
+  price: 5800
   contextual: false
 - title: Toma-l
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Atelier_toma-L_2022_01.jpg
