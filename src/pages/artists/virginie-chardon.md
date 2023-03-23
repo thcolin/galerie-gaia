@@ -118,34 +118,34 @@ works:
 - title: James le cocker anglais
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-STAN
     détail.jpg
-  technique: 'bronze '
+  technique: bronze  Fonderie Paumelle Edition 8 exemplaires
   dimensions:
     height: 50
     width: 40
     depth: 46
-  description: Fonderie Paumelle Edition 8 exemplaires + IV EA
+  description: 'Plus de visuels et visible sur demande '
   price: 7800
-  contextual: false
-- title: Omer Le Dog Allemand
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Omer.jpg
-  technique: bronze
-  dimensions:
-    height: 50
-    width: 46
-    depth: 40
-  description: "pièce numérotée /8  \nFonderie Candide"
-  price: 7800
-  sold: false
   contextual: false
 - title: Balthazar l'Orang Outan
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/balthazar.jpg
-  technique: bronze
+  technique: 'bronze Edition en 8 exemplaires Fonderie Paumelle '
   dimensions:
     height: 43
     width: 30
     depth: 38
-  description: "pièces numérotées /8  \nFonderie Paumelle"
+  description: visible et plus de visuels sur demande
   price: 5900
+  sold: false
+  contextual: false
+- title: Omer Le Dog Allemand
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Omer.jpg
+  technique: bronze  Edition en 8 exemplaires Fonderie Candide
+  dimensions:
+    height: 50
+    width: 46
+    depth: 40
+  description: visible et plus de visuels sur demande
+  price: 7800
   sold: false
   contextual: false
 - title: 'Omer avec Virginie '
