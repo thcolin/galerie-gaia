@@ -43,6 +43,30 @@ biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant t
   - Bruxelles\n\n  ART EXPO by Maison & Jardin - Atelier Basfroi - Paris"
 exhibitions: []
 works:
+- title: Hipolyte le morse
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hipolyte-le-morse.jpg
+  technique: 'bronze '
+  dimensions:
+    height: 77
+    width: 44
+    depth: 32
+  description: "pièces numérotée /8  \nFonderie Paumelle"
+  price: 6800
+  sold: false
+  contextual: false
+- title: Le cachalot
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-IMG_9741.jpg
+    retouche.jpg
+  technique: 'Bronze Fonderie Rosini N°3/8 '
+  fields: []
+  styles: []
+  dimensions:
+    height: 70
+    width: 60
+    depth: 30
+  description: Vendu avec socle en acier et sangle en cuir
+  price: 7200
+  contextual: false
 - title: 'Cesar et Virginie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-Gorille
     et Virginie.jpg
@@ -56,18 +80,16 @@ works:
   description: "Edition en 8 exemplaires + IV EA  \nFonderie Delorme"
   price: 12900
   contextual: false
-- title: Le cachalot
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-virginie-chardon-IMG_9741.jpg
-    retouche.jpg
-  technique: Bronze
-  fields: []
-  styles: []
+- title: Le pélican
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-pelican.jpg
+  technique: bronze
   dimensions:
-    height: 70
-    width: 60
-    depth: 30
-  description: Vendu avec socle en acier et sangle en cuir
-  price: 6900
+    height: 60
+    width: 26
+    depth: 61
+  description: "pièces numérotées /8  \nFonderie Rosini"
+  price: 6700
+  sold: false
   contextual: false
 - title: Stan le bouledog anglais
   technique: 'Bronze '
@@ -99,28 +121,6 @@ works:
     depth: 40
   description: "pièce numérotée /8  \nFonderie Candide"
   price: 7800
-  sold: false
-  contextual: false
-- title: Hipolyte le morse
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/hipolyte-le-morse.jpg
-  technique: 'bronze '
-  dimensions:
-    height: 77
-    width: 44
-    depth: 32
-  description: "pièces numérotée /8  \nFonderie Paumelle"
-  price: 6800
-  sold: false
-  contextual: false
-- title: Le pélican
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/le-pelican.jpg
-  technique: bronze
-  dimensions:
-    height: 60
-    width: 26
-    depth: 61
-  description: "pièces numérotées /8  \nFonderie Rosini"
-  price: 6700
   sold: false
   contextual: false
 - title: Balthazar l'Orang Outan
