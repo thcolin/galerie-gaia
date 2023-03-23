@@ -11,7 +11,8 @@ content:
     l’art et s’engage durablement dans le soutien de la création contemporaine.\n\n**Ainsi
     est créé le Prix B Signature pour l’art contemporain**, **sous l’impulsion d’Anne
     Jousse, Présidente du groupe**. Il s’adresse largement à tout artiste plasticien.ne
-    français.se ou vivant en France.\n\nPour candidater remplissez le formulaire  \n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
+    français.se ou vivant en France.\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Logo-Bessé-Signature-transparent.png)\n\nPour
+    candidater remplissez le formulaire  \n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
     \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n**MODALITÉS :**\n\nL’appel à candidature
     est lancé le 1er Mars 2023.  \nClôture de la réception des dossiers papier le
     30 Avril 2023.  \nA l’issue d’un processus de sélection, quinze artistes sont
@@ -48,7 +49,7 @@ content:
     envoyés par voie postale **avant le 30 avril 2023 minuit** à l’adresse suivante
     :  \n**Galerie Gaïa Studio  \nPrix B Signature  \n4 Rue Fénelon 44000 Nantes**\n\n**RAPPEL**
     pour candidater remplissez le formulaire\n\n[https://forms.gle/DZmKBvtHT4P2xeaK7](https://forms.gle/DZmKBvtHT4P2xeaK7
-    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")"
+    \"https://forms.gle/DZmKBvtHT4P2xeaK7\")\n\n![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Logo-Bessé-Signature-transparent.png)"
   contact:
     display: true
     placeholder: Poser une question sur l'appel à projet B Signature
@@ -59,7 +60,7 @@ content:
 
     ![https://www.hotelmontalembert-paris.com/fr](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran 2023-03-10 à 15.46.11.png "hotel montalembert manuel merida")Œuvre de Manuel Merida installée dans le hall de l'Hôtel Montalembert Paris
 
-    ![](https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/logo B Signature.jpg)[https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
+    [https://bsignaturehotels.com/fr](https://bsignaturehotels.com/fr "https://bsignaturehotels.com/fr")
   contact:
     placeholder: Un message à nous adresser ?
 seo:
