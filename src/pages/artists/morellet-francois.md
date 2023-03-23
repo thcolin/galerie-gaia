@@ -30,6 +30,22 @@ biography: |-
 
   For instance, the table below is entitled 3 superimposed grids 0 °, + 15 °, - 15 ° (In French: "3grillages superposés  0 °, + 15 °, – 15 °) (1959), so he superimposed 3 grids inclined respectively at 0 °, + 15 ° and - 15 °.
 works:
+- title: 'Systeme Hasards et Téléphone '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-francois
+    morellet planche telIMG_7465.jpg
+  technique: Lithographie Planche numérotée 1/75
+  fields:
+  - Oeuvre sur papier
+  styles: []
+  weight: 
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 1997 pièce rare en parfait état
+  price: 2500
+  sold: false
+  contextual: true
 - title: 'Système Hasards et Téléphone '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-francois
     morellet planche telIMG_7465.jpg
