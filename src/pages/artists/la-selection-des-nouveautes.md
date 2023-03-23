@@ -11,6 +11,21 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: La petite coréenne de Virginie Chardon
+  image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -
+    virgine-chardon-LA PETITE CORÉENNE #3.JPG'
+  technique: Bronze Fonderie Rosini
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
+    "virginie chardon")'
+  price: 5800
+  contextual: false
 - title: Nouveautés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
@@ -94,18 +109,6 @@ works:
   description: "[Yann Peron](https://galeriegaia.fr/artists/peron-yann/)"
   price: 0
   contextual: false
-- title: Françoise Paressant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/926D65C1-C40A-4718-8D4F-DEE69DF02E1D.JPG
-  technique: Papier cousu
-  fields: []
-  styles: []
-  dimensions:
-    height: 30
-    width: 30
-    depth: 0
-  description: "[Paressant](https://galeriegaia.fr/artists/francoise-paressant-1/)"
-  price: 472.5
-  contextual: false
 - title: Dimitri Roubichou
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/B892D069-9796-4789-A423-02FE888E168F.JPG
   technique: 'Photographie tirage sur papier '
@@ -118,18 +121,6 @@ works:
     depth: 0
   description: "# "
   price: 367.5
-  contextual: false
-- title: Yves Tilly
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/8 NOEL TILLY.jpg
-  technique: Sculpture bois
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: 800
   contextual: false
 - title: Carr'aimant tout en grès de Annick Argant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -annick
