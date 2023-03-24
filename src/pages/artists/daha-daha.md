@@ -50,9 +50,9 @@ works:
     height: 25
     width: 7
     depth: 5
-  description: 'Goutte rouge de [Go Segawa](https://galeriegaia.fr/artists/go-segawa/
-    "go segawa") '
-  price: 300
+  description: "Goutte rouge de [Go Segawa](https://galeriegaia.fr/artists/go-segawa/
+    \"go segawa\")  \nMaquette pour projet d'architecture urbaine "
+  price: ''
   contextual: false
 - title: Ellipse en situation
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Capture d’écran

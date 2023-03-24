@@ -65,8 +65,9 @@ works:
     height: 25
     width: 30
     depth: 15
-  description: "2022"
-  price: 1800
+  description: '2022 cette œuvre va faire l''objet d''un projet d''étude pour être
+    réalisée en bronze . A votre disposition pour tout renseignement '
+  price: ''
   contextual: false
   technique: Composition acider soudé patiné
 - title: Mural 11
