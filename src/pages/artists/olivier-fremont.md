@@ -58,18 +58,6 @@ works:
   description: ''
   price: 6000
   contextual: false
-- title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia- olivier
-    fremont - CITY -IMG_6734.jpg
-  dimensions:
-    height: 25
-    width: 30
-    depth: 15
-  description: '2022 cette œuvre va faire l''objet d''un projet d''étude pour être
-    réalisée en bronze . A votre disposition pour tout renseignement '
-  price: ''
-  contextual: false
-  technique: Composition acider soudé patiné
 - title: Mural 11
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural 11 compressions
     500x200 15000 € .jpg

@@ -590,17 +590,6 @@ works:
   price: 400
   sold: false
   contextual: true
-- title: '172J230923 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/172j230921-611.jpg
-  technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives Edition 6/11
-  dimensions:
-    height: 76
-    width: 56
-    depth: 
-  description: "2017"
-  price: 600
-  sold: false
-  contextual: true
 - title: 186s19111 (9/25)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/186s19111-925.jpg
   technique: Carborundum et pointe sèche sur cuivre sur papier BFK Rives
