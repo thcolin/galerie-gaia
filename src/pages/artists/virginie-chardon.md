@@ -14,33 +14,27 @@ biography: "# Virginie Chardon\n\nVirginie Chardon nous interroge en sculptant t
   on y trouve toute l’humanité des différentes espèces animales.Modelées en terre,
   ses pièces sont réalisées en bronze pour révéler toute la noblesse du sujet.\n\nCe
   que l’on dit de ses sculptures : elles occupent l’espace par leur personnalité et
-  leur vitalité, elles apportent une vraie signature au lieu.\n\nENGLISH VERSION \n\nVirginie
+  leur vitalité, elles apportent une vraie signature au lieu.\n\nENGLISH VERSION\n\nVirginie
   Chardon questions us by sculpting all the animals’ human attitudes, the human being’s
   mirror. Always imbued with childish gentleness, her work captures animal’s expression
   with simplicity and subtlety.\n\nBy paying specific attention to faces and looks,
   her portraits are lively in which we find all the different animal species’ humanity.
   Modeled in clay, her pieces are made in bronze revealing the nobility of the model.\n\nWhat
   we say about her sculptures: with their personality and their vitality they strongly
-  occupy the space, bringing a real signature to the places  \n  \nVirginie Chardon\n\n**EXPOSITIONS**\n\n*
+  occupy the space, bringing a real signature to the places\n\nVirginie Chardon\n\n**EXPOSITIONS**\n\n*
   2018 : Octobre :13ème Biennale de sculpture animalière de Rambouillet – PRIX D’HONNEUR\n*
   2019 :  \n  Février : ART CAPITAL - Grand Palais - Paris  \n  Février à Avril :
-  GALERIE GAÎA - Nantes  \n  Mai : WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD
+  GALERIE GAÏA - Nantes  \n  Mai : WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD
   - Mall Galleries London  \n  Novembre- Décembre : SNAA Salon Nationale des Artistes
   Animaliers - Bry Sur Marne\n* 2020 :  \n  Février : ART CAPITAL - GRAND PALAIS,
   Paris - **MENTION  \n  Juin : ART EXPO by Maison & Jardin - Atelier Basfroi - Paris
   11ème  \n  Exposition à la Chapelle du Bourg – Arradon (56)\n* 2021 :\n\n  LE BASILE
   Hôtel – Collection Permanente - Paris  \n  GALERIE Philippe HEIM – Les Sablons,
   Bruxelles  \n  SAB Expo Septembre Galerie Costermans - Bruxelles  \n  ART EXPO by
-  Maison & Jardin – Atelier Basfroi - Paris\n\n**EXHIBITIONS**\n\n* 2018 : October
-  : 13th Biennial of animal sculpture in Rambouillet - PRIX D'HONNEUR\n* 2019 :February
-  : ART CAPITAL - Grand Palais - ParisFebruary to April : GALERIE GAÎA - NantesMay
-  : WILDLIFE ARTIST OF THE YEAR 2019 DAVID SHEPERD - Mall Galleries LondonNovember-
-  December : SNAA Salon Nationale des Artistes Animaliers - Bry Sur Marne\n* 2020
-  :February : ART CAPITAL - GRAND PALAIS, Paris - **MENTIONJune : ART EXPO by Maison
-  & Jardin - Atelier Basfroi - Paris 11èmeExhibition at the Chapelle du Bourg - Arradon
-  (56)\n* 2021 :\n\n  LE BASILE Hôtel - Permanent Collection - Paris\n\n  GALERIE
-  Philippe HEIM - Les Sablons, Bruxelles\n\n  SAB Expo September Galerie Costermans
-  - Bruxelles\n\n  ART EXPO by Maison & Jardin - Atelier Basfroi - Paris"
+  Maison & Jardin – Atelier Basfroi - Paris\n* 2022 : \n\n  Février ART CAPITAL -
+  Grand Palais, Paris\n\n  Janvier à juillet : GALERIE Philippe HEIM – Les Sablons,
+  Bruxelles\n\n  Septembre: SAB Expo – Galerie Costermans, Bruxelles\n\n  Novembre
+  à décembre : SNAA Salon National des Artistes Animaliers, Bry / Marne"
 exhibitions: []
 works:
 - title: La petite coréenne
@@ -68,7 +62,10 @@ works:
     height: 43
     width: 24
     depth: 36
-  description: Visible à la galerie plus de visuels sur demande
+  description: |-
+    Visible à la galerie plus de visuels sur demande
+
+    Ce petit rapace, au caractère particulièrement démonstratif, dispose de tout un panel de manifestations vocales. La plus connue étant la série de sons clairs qui lui aurait valu son nom.
   price: 5300
   contextual: false
 - title: 'Les soeurs coréennes vue de côté '
