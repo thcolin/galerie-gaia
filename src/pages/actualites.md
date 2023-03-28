@@ -1188,5 +1188,16 @@ articles:
     Les œuvres présentées à la galerie se composent d’huiles sur toile, collages et dessins, souvenirs de paysages et de scènes intimes où l'artiste s’affranchit de la technique pour imposer la singularité de son geste.
 
     Diplômée de Duperré, de la Parson School of New York et d'Olivier de Serre, Laure Carré expose dès ses débuts à New York, Paris et Tokyo. Son travail reconnaissable au premier regard, en fait une artiste dont vous garderez quelques réminiscences.
+- template: article
+  date: '2023-04-02T20:34:46Z'
+  categories:
+  - Exposition
+  title: 4eme Dimanche des Galeries de Art Galeries Nantes le 2 Avril 14H-18H
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Flyer-A6-AGN-avril-2023_web
+    (003)-1.jpg
+  content: "L'association Art Galeries Nantes organise son 4ème Dimanche des Galeries
+    \ \nDimanche 2 Avril de 14H à 18H  \nDes expositions, des concerts, des rencontres
+    et des galeristes qui vous accueillent pour partager leurs émotions artistiques
+    !"
 
 ---
