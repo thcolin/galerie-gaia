@@ -66,7 +66,7 @@ works:
     height: 0
     width: 0
   description: 'Installation de 11 pièces  selon le plan d''accrochage le gabarit
-    total est de 2m hauteur x 5m largeur 15 000€ '
+    total est de 2m hauteur x 5m largeur Prix sur demande '
   price: ''
   contextual: false
 redirect_from:
