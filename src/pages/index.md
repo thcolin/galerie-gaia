@@ -1,10 +1,11 @@
 ---
 template: home
 carousel:
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/yellow shoes 114X146.jpg
-- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/XXII 101 343 - de
+    biais copie.jpg
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural 11 compressions
     500x200 15000 € .jpg
+- image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/yellow shoes 114X146.jpg
 redirect_from:
 - "/plan/"
 seo:
