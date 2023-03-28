@@ -22,20 +22,6 @@ biography: |-
   >
   > Parfois il est juste bon de se laisser aller à la douceur d'une atmosphère légère.
 works:
-- title: Bella Giornata
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-bella giornata-100x100.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 100
-    width: 100
-    depth: 0
-  description: Réservée
-  price: 
-  sold: true
-  contextual: true
 - title: Les collines au vent
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-Les Collines
     au vent-1mx1m.jpg
