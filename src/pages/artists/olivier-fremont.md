@@ -58,7 +58,7 @@ works:
   description: ''
   price: 6000
   contextual: false
-- title: Mural 11
+- title: Mur 11
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/mural 11 compressions
     500x200 15000 € .jpg
   technique: 'Compressions '
