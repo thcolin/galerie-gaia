@@ -48,7 +48,10 @@ works:
     height: 26
     width: 20.5
     depth: 18
-  description: 'Visible à la galerie plus de visuels sur demande '
+  description: |-
+    Visible à la galerie plus de visuels sur demande
+
+    Inspirée du photographe de mode Kim Kyung Soo, découvert au salon de la photographie au Grand Palais. Cette petite fille recroqueviller sur son tabouret en habit traditionnel, dégage une certaine douceur et mélancolie.
   price: 5800
   contextual: false
 - title: 'EIKO La Crécerelle '
@@ -78,7 +81,10 @@ works:
     height: 32
     width: 50
     depth: 30
-  description: 'Visible à la galerie plus de visuels sur demande '
+  description: |-
+    Visible à la galerie plus de visuels sur demande
+
+    Inspirée du photographe de mode Kim Kyung Soo, les sœurs coréennes mettent à l’honneur la splendeur des costumes traditionnels : le Hanbok, qu’elles portent lors de la fête ‘Chuseok’.
   price: 8000
   contextual: false
 - title: Les soeurs coréennes vue de face
@@ -91,7 +97,10 @@ works:
     height: 50
     width: 32
     depth: 30
-  description: 'Visible à la galerie, plus de visuels sur demande '
+  description: |-
+    Visible à la galerie, plus de visuels sur demande
+
+    Inspirée du photographe de mode Kim Kyung Soo, les sœurs coréennes mettent à l’honneur la splendeur des costumes traditionnels : le Hanbok, qu’elles portent lors de la fête ‘Chuseok’.
   price: 8000
   contextual: false
 - title: Hipolyte le morse
@@ -115,8 +124,10 @@ works:
     height: 70
     width: 60
     depth: 30
-  description: "Vendu avec socle en acier et sangle en cuir   \nvisible à la galerie
-    plus de visuels sur demande "
+  description: "Vendu avec socle en acier et sangle en cuir, visible à la galerie
+    plus de visuels sur demande  \n  \nAu centre de la galerie de Paléontologie et
+    d’Anatomie Comparée du Jardin des Plantes, cet incroyable squelette qui surplombe
+    ce musée m’a toujours fasciné, c’est ainsi que cette pièce est née."
   price: 7200
   contextual: false
 - title: 'Cesar et Virginie '
