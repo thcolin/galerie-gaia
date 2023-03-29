@@ -71,7 +71,7 @@ works:
   styles: []
   weight: 
   dimensions:
-    height: 135
+    height: 155
     width: 114
     depth: 0
   description: 'Prix sur demande '
