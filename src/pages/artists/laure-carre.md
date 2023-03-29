@@ -90,6 +90,19 @@ biography: |-
   * 1994 Airspace Gallery - New York - USA
 exhibitions: []
 works:
+- title: 'Au fil du temps '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
+  technique: 'Huile sur toile '
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 130
+    width: 162
+    depth: 0
+  description: "2023"
+  price: 4000
+  contextual: true
 - title: Exposition du 7 au 25 mars 2023
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAIA-CARRÉ-INSTA.jpg
   fields: []
@@ -205,19 +218,6 @@ works:
     carré -dance around the pound 22.jpeg
   title: 'Dance around the pound '
   technique: 'Huile sur toile '
-- title: 'Au fil du temps '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
-  technique: 'Huile sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 130
-    width: 162
-    depth: 0
-  description: "2023"
-  price: 4000
-  contextual: true
 - title: Dog Woman
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7713.jpg
   technique: 'Encre sur papier '
