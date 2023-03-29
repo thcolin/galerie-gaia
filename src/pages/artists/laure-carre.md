@@ -193,21 +193,6 @@ works:
   description: "2023"
   price: 450
   contextual: true
-- fields:
-  - Peinture
-  styles: []
-  weight: 0
-  dimensions:
-    height: 18
-    width: 30
-    depth: 0
-  description: "2022"
-  price: 350
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - laure
-    carré -dance around the pound 22.jpeg
-  title: 'Dance around the pound '
-  technique: 'Huile sur toile '
 - title: Dog Woman
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_7713.jpg
   technique: 'Encre sur papier '
