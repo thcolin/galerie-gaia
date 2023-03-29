@@ -48,6 +48,51 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: 'Ciel de nénuphars '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-p22-27 ENTIER 2.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 115
+    width: 114
+    depth: 0
+  description: 'Prix sur demande '
+  price: 
+  sold: false
+  contextual: true
+- title: 'Ombres de l''onde '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-p22-26 ENTIER.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 135
+    width: 114
+    depth: 0
+  description: 'Prix sur demande '
+  price: 
+  sold: false
+  contextual: true
+- title: Reflet de l'Erdre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-p22-25 ENTIER.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 135
+    width: 114
+    depth: 0
+  description: Prix sur demande
+  price: 
+  sold: false
+  contextual: true
 - title: Profondeurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
     peron-p22-24 ENTIER.jpg
