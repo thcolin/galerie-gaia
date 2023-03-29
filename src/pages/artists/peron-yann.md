@@ -48,6 +48,36 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: Profondeurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-p22-24 ENTIER.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 135
+    width: 114
+    depth: 0
+  description: "Encadrement sur mesure bois   \nPrix sur demande "
+  price: 
+  sold: false
+  contextual: true
+- title: Ombres de surface
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-p22-23 ENTIER.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 135
+    width: 114
+    depth: 0
+  description: "Encadrement sur mesure   \nPrix sur demande "
+  price: 
+  sold: false
+  contextual: true
 - title: 'Jardin des plantes Nantes '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
     peron- py architecture-P22-19 ENTIER.jpg
