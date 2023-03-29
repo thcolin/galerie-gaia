@@ -88,7 +88,11 @@ biography: |-
   * 1995 Cultural Center - Les Parasols - Rungis
   * 1994 Gallery P Montigny - Paris
   * 1994 Airspace Gallery - New York - USA
-exhibitions: []
+exhibitions:
+- title: 'Laure Carré '
+  location: 'Galerie Gaia Nantes '
+  start: 7 Mars 2023
+  end: 25 Mars 2023
 works:
 - title: 'Au fil du temps '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_9091.jpg
@@ -633,5 +637,12 @@ redirect_from:
 - "/artistes/76-laure-carre/"
 styles:
 - Figuratif
+seo:
+  title: 'Laure Carré '
+  heading: 'laure carré '
+  type: website
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
+    carre-yellow shoes.jpg
+  description: 'Laure Carré Yellow shoes '
 
 ---
