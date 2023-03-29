@@ -268,5 +268,9 @@ redirect_from:
 - "/artistes/97-elisabeth-wadecki/"
 styles:
 - Abstrait
+seo:
+  title: Elisabeth Wadecki
+  heading: 'Elisabeth Wadecki Galerie gaia '
+  type: website
 
 ---
