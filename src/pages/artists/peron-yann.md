@@ -59,7 +59,13 @@ works:
     height: 135
     width: 114
     depth: 0
-  description: Encadrement sur mesure 500€
+  description: "Encadrement sur mesure bois 500€  \nL’ombre des arbres fruitiers et
+    des roseaux projetée sur la surface de l’Erdre, confère à la réflexion sur la
+    Nature. Les mouvements incessants que prodigue le vent dans les feuilles créent
+    une superposition de leurs silhouettes noires- marrons sur les gris- bleus du
+    ciel reflété à la surface de l’eau. L’acte de peindre ces éléments conjugue patience
+    et méditation. Je m’emplis de ces taches et de ces traits au bout de mes pinceaux
+    comme une respiration lente et contemplative. Un vrai  bonheur que j’aimerai partager."
   price: 4900
   sold: false
   contextual: true
@@ -134,8 +140,13 @@ works:
     height: 135
     width: 114
     depth: 0
-  description: "Encadrement sur mesure bois   \nPrix sur demande "
-  price: 
+  description: Peut- être est- ce due à la chaleur de cet été 2022? La Loire, une
+    des artères de la Terre qui pompe vers le coeur de la terre, l’eau qui se tarit
+    et se retire sur les bancs de sable et de vase. Elle découvre les boires, et baisse
+    les eaux de ses affluents comme l’Erdre laissant les nénuphars se plier dans leur
+    ombres reflétées sur l’onde stagnante. Elle renferme notre perception évanescente
+    du ciel et la profondeur de la Terre.
+  price: 4900
   sold: false
   contextual: true
 - title: 'Jardin des plantes Nantes '
