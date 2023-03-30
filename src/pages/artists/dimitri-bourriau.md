@@ -36,6 +36,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: Cochlea
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_Cochlea_2019.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -49,6 +50,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: Atlantis Teatro
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-DimitriBourriau_AtlantisTeatro_2020.jpg
   technique: Tirage papier contrecollé sur Dibon N°4/15
@@ -79,6 +81,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Bank
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_bank_2017.jpg
   technique: 'Photo argentique tirage papier sur dibond 15 exemplaires '
@@ -93,6 +96,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Jumanji Theater
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/jumanji-theater.jpg
   technique: Tirage papier contrecollé sur Dibon 3/15
@@ -106,6 +110,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Indépendance day
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_IndepenceDay_2018.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -119,6 +124,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: Noratlas
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DimitriBourriau_Noratlas_2016.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -132,6 +138,7 @@ works:
   price: 3500
   sold: false
   contextual: true
+  weight: 
 - title: Théâtre de Bel Air
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-dimitri-bourriau_theatre-bel-air-nantes.jpg
   technique: Photographie sur papier baryté collé dibond
@@ -150,6 +157,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Snow storm
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dimitribourriau_snowstorm_2019.jpg
   technique: Photographie Tirage papier contrecollé dibond 15 exemplaires
@@ -157,15 +165,16 @@ works:
     height: 149
     width: 100
     depth: 
-  description: |-
-    Tirage à 15 exemplaires sur dibond avec caisse US livré à domicile
-
-    [vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0 "dimitri bourriau") du 1er lancement du programme Buran
+  description: "Le prix comprend un encadrement en  caisse américaine de votre choix
+    (bois ou alu) livré à domicile.  \nFormat 150X100 3500€ (prochain tirage N°6/15)
+    \ \nFormat 120X80 2900€ (tirage N°1/15)  \n[vidéo](https://www.youtube.com/watch?v=WPFC7sdOBE0
+    \"dimitri bourriau\") du 1er lancement du programme Buran"
   price: 3500
   sold: false
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Dictator's Villa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/dictator.jpg
   technique: Tirage papier contrecollé sur Dibon 2/15 exemplaire
@@ -179,6 +188,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Buzludzha - Bulgarie
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie.jpg
   technique: Tirage papier contrecollé dibon
@@ -193,6 +203,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Buzludzha - Bulgarie interieur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/buzludzha-bulgarie-interieur.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -206,6 +217,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Soviet Spa
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/soviet-spa.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -219,6 +231,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: Greenhouse 3
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/greenhouse-3.jpg
   technique: Tirage papier contrecollé sur Dibon 15 exemplaires
@@ -234,6 +247,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 - title: 'Portrait '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-dimitri
     bourriau-portrait.jpg
@@ -248,6 +262,7 @@ works:
   contextual: true
   fields: []
   styles: []
+  weight: 
 redirect_from:
 - "/artistes/98-dimitri-bourriau/"
 styles:
