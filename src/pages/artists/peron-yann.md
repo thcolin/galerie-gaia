@@ -59,8 +59,8 @@ works:
     height: 135
     width: 114
     depth: 0
-  description: "Encadrement sur mesure   \nPrix sur demande "
-  price: 
+  description: Encadrement sur mesure 500€
+  price: 4900
   sold: false
   contextual: true
 - title: Nénuphars de l'Erdre
@@ -74,8 +74,8 @@ works:
     height: 148
     width: 114
     depth: 0
-  description: 'Prix sur demande '
-  price: 
+  description: ''
+  price: 4900
   sold: false
   contextual: true
 - title: 'Ciel de nénuphars '
@@ -90,7 +90,7 @@ works:
     width: 114
     depth: 0
   description: 'Prix sur demande '
-  price: 
+  price: 4900
   sold: false
   contextual: true
 - title: 'Ombres de l''onde '
@@ -104,8 +104,8 @@ works:
     height: 155
     width: 114
     depth: 0
-  description: 'Prix sur demande '
-  price: 
+  description: ''
+  price: 4900
   sold: false
   contextual: true
 - title: Reflet de l'Erdre
@@ -119,8 +119,8 @@ works:
     height: 135
     width: 114
     depth: 0
-  description: Prix sur demande
-  price: 
+  description: ''
+  price: 4900
   sold: false
   contextual: true
 - title: Profondeurs
