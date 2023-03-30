@@ -33,8 +33,8 @@ works:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: "50 exemplaires limités \n\nCréation et tirage en 2016"
-  price: 130
+  description: Prix sur demande 50 exemplaires limités création et tirage en 2016
+  price: ''
   contextual: false
 - title: Mass
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@gosegawa-MASS_2019-6X12X12.jpg
@@ -45,8 +45,8 @@ works:
     height: 6
     width: 12
     depth: 12
-  description: ''
-  price: 160
+  description: Prix sur demande
+  price: ''
   contextual: true
   technique: Impression jet d’encre sur polyester Edition limitée à 25
 - title: Goutte collante I Ed.6
@@ -71,11 +71,8 @@ works:
     height: 6.5
     width: 6.5
     depth: 6.5
-  description: |-
-    50 exemplaires limités
-
-    Création et tirage en 2016
-  price: 80
+  description: Prix sur demande 50 exemplaires limités Création et tirage en 2016
+  price: ''
   contextual: false
 - title: 'œuf posé I  '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -87,8 +84,8 @@ works:
     height: 5.6
     width: 9.6
     depth: 9.6
-  description: "50 exemplaires limités \n\nCréation en 2015 \n\nTirage en 2016"
-  price: 130
+  description: Prix sur demande 50 exemplaires limités Création en 2015
+  price: ''
   contextual: false
 - title: 2 balles collées I Ed.6
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -113,13 +110,8 @@ works:
     height: 7.5
     width: 7.5
     depth: 7.5
-  description: |-
-    Impression jet d’encre sur polyester
-
-    50 exemplaires limités
-
-    Création et tirage en 2014
-  price: 130
+  description: Prix sur demande  50 exemplaires limités
+  price: ''
   contextual: false
 - title: Goutte rouge Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
@@ -131,8 +123,8 @@ works:
     height: 6.6
     width: 11.3
     depth: 11.3
-  description: "50 exemplaires \n\nCréation et tirage en 2011"
-  price: 200
+  description: Prix sur demande 50 exemplaires Création et tirage en 2011
+  price: ''
   contextual: false
 - title: Les gouttes Ed.50
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-go
