@@ -40,23 +40,6 @@ biography: "# Robert Combas\n\n> La \"figuration libre\", art minimaliste et con
   I am completely free, even by the format.\""
 exhibitions: []
 works:
-- title: Dragon EA 7/9
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-combas
-    dragon 7:9.jpg
-  technique: 'Lithographie 5 couleurs '
-  fields:
-  - Estampe
-  styles: []
-  weight: 0
-  dimensions:
-    height: 56
-    width: 76
-    depth: 0
-  description: "1997 Atelier Buyse Lille   \nDédicace au crayon de papier \"sète sur
-    oeuf\" en clin d'oeil à la ville natale de Combas et en référence à la numérotation
-    7/9"
-  price: 2200
-  contextual: true
 - title: Dragon EA 6/9
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-combas
     dragon 6:9.jpg
