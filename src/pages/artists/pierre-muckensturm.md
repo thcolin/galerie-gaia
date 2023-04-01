@@ -546,17 +546,6 @@ works:
   description: "2020"
   price: 500
   contextual: true
-- title: 191J24012 (6/30)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/191j24012-330.jpg
-  technique: Carborundum sur zinc sur papier BFK Rives
-  dimensions:
-    height: 76
-    width: 56
-    depth: 
-  description: '2019 '
-  price: 600
-  sold: false
-  contextual: true
 - title: 184J210811 (4/7)
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/184j210811-47.jpg
   technique: Carborundum et pointe sèche sur zinc sur papier BFK Rives
