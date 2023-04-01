@@ -55,7 +55,7 @@ works:
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-1
     Avant d'aller plus loin.jpg
-  sold: false
+  sold: true
 - title: Ailleurs ou nulle part
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-xavier-jallais-Ailleurs
     ou nulle part.jpg
