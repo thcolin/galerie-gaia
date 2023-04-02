@@ -59,14 +59,13 @@ works:
     height: 135
     width: 114
     depth: 0
-  description: "Encadrement sur mesure bois 500€  \nL’ombre des arbres fruitiers et
-    des roseaux projetée sur la surface de l’Erdre, confère à la réflexion sur la
-    Nature. Les mouvements incessants que prodigue le vent dans les feuilles créent
-    une superposition de leurs silhouettes noires- marrons sur les gris- bleus du
-    ciel reflété à la surface de l’eau. L’acte de peindre ces éléments conjugue patience
-    et méditation. Je m’emplis de ces taches et de ces traits au bout de mes pinceaux
-    comme une respiration lente et contemplative. Un vrai  bonheur que j’aimerai partager."
-  price: 4900
+  description: "Vendu\n\nL’ombre des arbres fruitiers et des roseaux projetée sur
+    la surface de l’Erdre, confère à la réflexion sur la Nature. Les mouvements incessants
+    que prodigue le vent dans les feuilles créent une superposition de leurs silhouettes
+    noires- marrons sur les gris- bleus du ciel reflété à la surface de l’eau. L’acte
+    de peindre ces éléments conjugue patience et méditation. Je m’emplis de ces taches
+    et de ces traits au bout de mes pinceaux comme une respiration lente et contemplative. "
+  price: 
   sold: false
   contextual: true
 - title: Nénuphars de l'Erdre
@@ -81,7 +80,7 @@ works:
     width: 114
     depth: 0
   description: ''
-  price: 4900
+  price: 4500
   sold: false
   contextual: true
 - title: 'Ciel de nénuphars '
@@ -95,8 +94,8 @@ works:
     height: 115
     width: 114
     depth: 0
-  description: 'Prix sur demande '
-  price: 4900
+  description: ''
+  price: 4500
   sold: false
   contextual: true
 - title: 'Ombres de l''onde '
@@ -111,7 +110,7 @@ works:
     width: 114
     depth: 0
   description: ''
-  price: 4900
+  price: 4500
   sold: false
   contextual: true
 - title: Reflet de l'Erdre
@@ -126,7 +125,7 @@ works:
     width: 114
     depth: 0
   description: ''
-  price: 4900
+  price: 4500
   sold: false
   contextual: true
 - title: Profondeurs
@@ -146,7 +145,7 @@ works:
     les eaux de ses affluents comme l’Erdre laissant les nénuphars se plier dans leur
     ombres reflétées sur l’onde stagnante. Elle renferme notre perception évanescente
     du ciel et la profondeur de la Terre.
-  price: 4900
+  price: 4500
   sold: false
   contextual: true
 - title: 'Jardin des plantes Nantes '
