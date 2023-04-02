@@ -48,6 +48,26 @@ biography: |-
 
   So I am exhibiting this first work by my son Emile, painted during 2020, a special year. It is a portrait from a series, where the paint in successive layers lets other colors appear in transparency. This painting is important to me because it marks a turning point both in the change of format and technique as well as in the subject more focused on the body, face and hands."
 works:
+- title: Profondeurs
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-p22-24 ENTIER.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 135
+    width: 114
+    depth: 0
+  description: Peut- être est- ce due à la chaleur de cet été 2022? La Loire, une
+    des artères de la Terre qui pompe vers le coeur de la terre, l’eau qui se tarit
+    et se retire sur les bancs de sable et de vase. Elle découvre les boires, et baisse
+    les eaux de ses affluents comme l’Erdre laissant les nénuphars se plier dans leur
+    ombres reflétées sur l’onde stagnante. Elle renferme notre perception évanescente
+    du ciel et la profondeur de la Terre.
+  price: 4500
+  sold: false
+  contextual: true
 - title: Ombres de surface
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
     peron-P22-31 ENTIER- 2.jpg
@@ -125,26 +145,6 @@ works:
     width: 114
     depth: 0
   description: ''
-  price: 4500
-  sold: false
-  contextual: true
-- title: Profondeurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
-    peron-p22-24 ENTIER.jpg
-  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
-  fields: []
-  styles: []
-  weight: 
-  dimensions:
-    height: 135
-    width: 114
-    depth: 0
-  description: Peut- être est- ce due à la chaleur de cet été 2022? La Loire, une
-    des artères de la Terre qui pompe vers le coeur de la terre, l’eau qui se tarit
-    et se retire sur les bancs de sable et de vase. Elle découvre les boires, et baisse
-    les eaux de ses affluents comme l’Erdre laissant les nénuphars se plier dans leur
-    ombres reflétées sur l’onde stagnante. Elle renferme notre perception évanescente
-    du ciel et la profondeur de la Terre.
   price: 4500
   sold: false
   contextual: true
