@@ -53,10 +53,11 @@ const Navigation = ({ pageContext, ...props }) => {
               <li><Link to='/le-lieu/' activeStyle={{ textDecoration: 'underline' }}>Le Lieu</Link></li>
               <li>
                 <details css={Navigation.styles.details} open={submenu}>
-                  <summary onClick={() => setSubmenu(!submenu)}>Prestations</summary>
+                  <summary onClick={() => setSubmenu(!submenu)}>Studio</summary>
                   <ol css={Navigation.styles.list}>
                     {pageContext.pages
                       .filter(page => page.relativeDir === 'about')
+                      .sort((a, b) => a.page.frontmatter.index - b.page.frontmatter.index)
                       .map((page, index) => (
                         <li key={index}><Link to={page.url} activeStyle={{ textDecoration: 'underline' }}>{page.frontmatter.seo.heading}</Link></li>
                       ))

@@ -3,7 +3,7 @@ import { useForm } from 'react-hook-form'
 import Icon from 'components/Icon'
 import theme from 'theme'
 
-const Contact = ({ id, placeholder = 'Un message à nous adresser ?', success = '', inputs = [], method = 'message', toggle, ...props }) => {
+const Contact = ({ id, button = '', placeholder = 'Un message à nous adresser ?', success = '', inputs = [], method = 'message', toggle, ...props }) => {
   const [toggled, setToggled] = useState(false)
   const { register, watch, handleSubmit, formState: { isSubmitting, isSubmitSuccessful } } = useForm({ mode: 'onChange' })
   const onSubmit = async data => {
@@ -26,7 +26,7 @@ const Contact = ({ id, placeholder = 'Un message à nous adresser ?', success = 
       {toggle && (
         <button onClick={() => setToggled(!toggled)} className={`contact-form ${toggled ? 'active' : ''}`}>
           <Icon children={{ buy: 'palette', message: 'informations', newsletter: 'send' }[method]} style={{ margin: '0 0.5rem 0 0' }} />
-          {{
+          {button || {
             buy: `Acquérir cette oeuvre`,
             message: `Poser une question`,
             newsletter: `S'inscrire à la newsletter`,

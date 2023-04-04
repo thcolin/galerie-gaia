@@ -24,6 +24,7 @@ const About = ({ ...props }) => {
               {contact.display && (
                 <Contact
                   id="uT-oykFnR_MeNQndwoxtc"
+                  button={contact.button}
                   placeholder={contact.placeholder}
                   toggle={true}
                   inputs={[
