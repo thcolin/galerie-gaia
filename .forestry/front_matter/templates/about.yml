@@ -32,6 +32,11 @@ fields:
       label: Placeholder
       description: Incitation
       default: Un message à nous adresser ?
+    - name: button
+      type: text
+      config:
+        required: false
+      label: Button
     label: Contact
     description: Contact
   config:
