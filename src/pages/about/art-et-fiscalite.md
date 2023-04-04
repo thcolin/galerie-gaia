@@ -83,5 +83,6 @@ seo:
 redirect_from:
 - "/prestations/"
 - "/defiscalisation-oeuvre-d-art/"
+index: 5
 
 ---

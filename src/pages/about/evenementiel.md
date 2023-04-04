@@ -37,5 +37,6 @@ seo:
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia@nathalieperie-teambuilding-1.jpg
 redirect_from:
 - "/location-de-salle-a-nantes/"
+index: 3
 
 ---

@@ -71,5 +71,6 @@ seo:
     d''artiste à la galerie gaia aout '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-
     galerie gaia- article ouest france.png
+index: 4
 
 ---

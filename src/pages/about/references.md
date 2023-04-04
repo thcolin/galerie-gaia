@@ -32,5 +32,6 @@ seo:
     !
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/elisabeth givre-galerie
     gaia - galeriste un métier presse océan.jpg
+index: 6
 
 ---

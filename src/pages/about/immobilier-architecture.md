@@ -48,5 +48,6 @@ seo:
     murales, street art...
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-magazinecoté
     ouest-labaule pornichet.jpg
+index: 1
 
 ---

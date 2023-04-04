@@ -40,6 +40,16 @@ fields:
     labelField: column
   label: Content
   description: Contenu
+- name: index
+  type: number
+  label: Index
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: template
   type: text
   config:

@@ -67,5 +67,6 @@ seo:
   description: " événementiel accompagnement conception de projet artistique, 1 immeuble
     1 œuvre , oeuvre promotion immobilière, RSE, marque employeur Ruptur"
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/DSC_3559-2.jpg
+index: 0
 
 ---

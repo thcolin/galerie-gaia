@@ -61,5 +61,6 @@ content:
   contact:
     placeholder: Un message à nous adresser ?
     display: false
+index: 2
 
 ---
