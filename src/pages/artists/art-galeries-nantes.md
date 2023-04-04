@@ -172,7 +172,7 @@ works:
     width: 30
     depth: 
   description: 2016 Stéphanie Billarant Bruno Dumas
-  price: 10
+  price: 1
   sold: false
   contextual: true
   fields:
