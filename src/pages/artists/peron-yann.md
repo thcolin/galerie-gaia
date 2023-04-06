@@ -58,7 +58,7 @@ works:
   dimensions:
     height: 135
     width: 114
-    depth: 0
+    depth: 
   description: Peut- être est- ce due à la chaleur de cet été 2022? La Loire, une
     des artères de la Terre qui pompe vers le coeur de la terre, l’eau qui se tarit
     et se retire sur les bancs de sable et de vase. Elle découvre les boires, et baisse
@@ -66,6 +66,26 @@ works:
     ombres reflétées sur l’onde stagnante. Elle renferme notre perception évanescente
     du ciel et la profondeur de la Terre.
   price: 4500
+  sold: false
+  contextual: true
+- title: Ombres de surface
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia - yann
+    peron-P22-31 ENTIER- 2.jpg
+  technique: Aquarelle Sennelier+ rehauts d’encre Papier aquarelle marouflé sur bois
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 135
+    width: 114
+    depth: 
+  description: "Vendu\n\nL’ombre des arbres fruitiers et des roseaux projetée sur
+    la surface de l’Erdre, confère à la réflexion sur la Nature. Les mouvements incessants
+    que prodigue le vent dans les feuilles créent une superposition de leurs silhouettes
+    noires- marrons sur les gris- bleus du ciel reflété à la surface de l’eau. L’acte
+    de peindre ces éléments conjugue patience et méditation. Je m’emplis de ces taches
+    et de ces traits au bout de mes pinceaux comme une respiration lente et contemplative. "
+  price: 
   sold: false
   contextual: true
 - title: Nénuphars de l'Erdre
@@ -78,7 +98,7 @@ works:
   dimensions:
     height: 148
     width: 114
-    depth: 0
+    depth: 
   description: ''
   price: 4500
   sold: false
@@ -93,7 +113,7 @@ works:
   dimensions:
     height: 115
     width: 114
-    depth: 0
+    depth: 
   description: ''
   price: 4500
   sold: false
@@ -108,7 +128,7 @@ works:
   dimensions:
     height: 155
     width: 114
-    depth: 0
+    depth: 
   description: ''
   price: 4500
   sold: false
@@ -123,7 +143,7 @@ works:
   dimensions:
     height: 135
     width: 114
-    depth: 0
+    depth: 
   description: ''
   price: 4500
   sold: false
@@ -186,26 +206,6 @@ works:
     surlignée au crayon gras, les boires du fleuve recueillent les reflets du ciel
     conférant aux bancs de sable une présence flottante. Nous sommes ailleurs lorsque
     que l’on se couche dans le lit de la Loire. La paradis est tout près.
-  price: 980
-  sold: false
-  contextual: true
-  weight: 
-- title: Eau douce du Havre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-yann
-    peron- py architecture-P22-15 ENTIER RECADRE.jpg
-  technique: Aquarelle Sennelier+ rehauts de graphite Papier aquarelle marouflé sur
-    carton et sous- verre anti-reflet
-  fields: []
-  styles: []
-  dimensions:
-    height: 29
-    width: 83
-    depth: 
-  description: Cette aquarelle prise sur le vif, les pieds dans la rivière traduit
-    l’onde aquatique comme autant de reflets venant des risées du ciel que des mouvements
-    sous l’eau du Havre. Extrait de mon carnet de croquis, ce format contient deux
-    pages, ce qui cadre le motif comme un paysage, vécu comme un moment passé avec
-    la Nature. Merci à elle pour sa générosité et sa beauté.
   price: 980
   sold: false
   contextual: true
