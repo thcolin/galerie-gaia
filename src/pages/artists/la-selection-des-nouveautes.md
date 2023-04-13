@@ -1,6 +1,6 @@
 ---
 template: artist
-title: Mars 2023
+title: Avril 2023
 location: ''
 birth: "0"
 death: "0"
@@ -21,22 +21,6 @@ works:
     depth: 0
   description: ''
   price: ''
-  contextual: false
-- title: Yellow shoes  - exposition de Laure Carré jusqu'au 25 Mars
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-laure
-    carre-yellow shoes.jpg
-  technique: 'Huile sur toile '
-  fields:
-  - Peinture
-  styles:
-  - Figuratif
-  dimensions:
-    height: 114
-    width: 146
-    depth: 0
-  description: '# [Laure Carré](https://galeriegaia.fr/artists/laure-carre/ "laure
-    carré")'
-  price: 3400
   contextual: false
 - title: La petite coréenne de Virginie Chardon
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -
@@ -82,22 +66,8 @@ works:
   - Sculpture
   styles:
   - Figuratif
-- title: Job - Bella giornata
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/Job-bella giornata-au
-    mur.jpg
-  technique: 'Acrylique sur toile '
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 100
-    width: 100
-    depth: 4
-  description: "[Job]()"
-  price: 1800
-  contextual: false
 - title: Yann Peron
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_2232.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_8150.JPG
   technique: 'aquarelle sur papier '
   fields: []
   styles: []
