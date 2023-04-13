@@ -21,7 +21,7 @@ content:
     de l’œuvre première semaine d'octobre 2023, et vernissage mi-octobre 2023.\n\nL’artiste
     lauréat bénéficie de l’accompagnement et d’une exposition en juin 2024, au sein
     de de la Galerie Gaïa partenaire du Prix B Signature.\n\n**A QUI S'ADRESSE L'APPEL
-    À CANDIDATURE :**\n\nAux artistes plasticien·ne·s, photographie, peinture, sculpture
+    À CANDIDATURE :**\n\nAux artistes plasticien·ne·s, photographe, peintre, et volume
     bas reliefs.\n\n**QUELLES SONT LES CONDITIONS DE PARTICIPATION :**\n\n\\-Être
     Français·e ou vivre et travailler en France en date du dépôt de candidature.\n\n**QUE
     DOIT IMPÉRATIVEMENT CONTENIR LE DOSSIER :**\n\n\\- Le dossier doit être présenté
