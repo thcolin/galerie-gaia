@@ -11,6 +11,20 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: Victoire D'Harcourt
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_8229.JPG
+  technique: Poudre de marbre et résine
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: '[Victoire D''Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
+    "Victoire d''Harcourt") '
+  price: 0
+  contextual: false
 - title: Nouveautés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
   fields: []
