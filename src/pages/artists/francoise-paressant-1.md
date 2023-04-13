@@ -37,6 +37,20 @@ biography: |-
   * 2003: A drawing was offered by the Friends of the Museum of Arts of Nantes
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
+- title: 'Sans titre '
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-paressant.JPG
+  technique: Papier teinté tissé superposé
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 27
+    width: 16
+    depth: 0
+  description: 'Œuvre encadrée bois blanc sur fond blanc sans vitre '
+  price: 980
+  sold: false
+  contextual: true
 - title: Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-francoise-paressant-acrylique
     sur papier marouflé sur toile 140 cm x 130 cm 2012 - copie.jpg
