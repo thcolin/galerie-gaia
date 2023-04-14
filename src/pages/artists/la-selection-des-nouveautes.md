@@ -38,7 +38,20 @@ works:
     à Saint Germain des Prés, à deux pas du [Louvre](https://www.louvre.fr)
   price: 0
   contextual: false
-- title: La petite coréenne de Virginie Chardon
+- title: 'Olivier Frémont '
+  technique: Installation de 11 pièces de metal compressé
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: 'Prix sur demande '
+  price: 0
+  contextual: true
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3040.jpg
+- title: Virginie Chardon
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -
     virgine-chardon-LA PETITE CORÉENNE #3.JPG'
   technique: Bronze Fonderie Rosini
@@ -49,8 +62,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/
-    "virginie chardon")'
+  description: |-
+    [Virginie Chardon](https://galeriegaia.fr/artists/virginie-chardon/ "virginie chardon")
+
+    La petite coréene
   price: 5800
   contextual: false
 - title: Toma-l
