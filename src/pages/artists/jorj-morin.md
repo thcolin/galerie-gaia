@@ -237,9 +237,9 @@ works:
   sold: false
   contextual: true
 - title: Isthme noir
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6425.jpg
-  technique: Eau forte 14/50 réhausse aquarelle
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.ISTHME
+    NOIR.29x19.jpg
+  technique: 'Eau forte 14/50 '
   fields: []
   styles: []
   weight: 150
@@ -252,9 +252,9 @@ works:
   sold: false
   contextual: true
 - title: Les yeux rouges
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6426.jpg
-  technique: " Eau forte 14/50 réhausse aquarelle"
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.LES
+    YEUX ROUGE.29x19.jpg
+  technique: " Eau forte 14/50 "
   fields: []
   styles: []
   weight: 
@@ -282,8 +282,8 @@ works:
   contextual: true
   weight: 
 - title: 'Pierre gravée '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-morin-pierre
-    gravée.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.PIERRE
+    GRAVEE.37x27.jpg
   technique: Eau forte
   fields: []
   styles: []
