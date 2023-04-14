@@ -21,7 +21,7 @@ biography: "# Tangui Robert\n\nTangui Robert est un architecte de formation, et 
 exhibitions: []
 works:
 - title: Louvèche II
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Louvèche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/@Tangui Robert-Louvèche
     II-40x50.jpg
   technique: 'Eau forte et photographie épinglée édition limitée à 20 exemplaires '
   fields: []

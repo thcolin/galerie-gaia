@@ -47,7 +47,7 @@ works:
     height: 27
     width: 16
     depth: 0
-  description: 'Œuvre encadrée bois blanc sur fond blanc sans vitre '
+  description: Œuvre encadrée bois blanc sur fond blanc sans vitre
   price: 980
   sold: false
   contextual: true

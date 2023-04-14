@@ -5,10 +5,9 @@ location: ''
 birth: "0"
 death: "0"
 expose: true
-biography: |-
-  # Idées cadeaux originales
-
-  Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
+biography: Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la
+  galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie
+  et/ou expédiée par colissimo.
 exhibitions: []
 works:
 - title: Nouveautés
