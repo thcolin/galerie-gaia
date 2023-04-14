@@ -312,8 +312,8 @@ works:
   contextual: true
   weight: 
 - title: 'Vents tournants '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-vents
-    tournants.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.VENT
+    TOURNANTES.37x27.jpg
   technique: Eau forte 1/50
   fields: []
   styles: []
@@ -327,8 +327,8 @@ works:
   contextual: true
   weight: 
 - title: 'Un oeil polyvalent '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-un
-    oeil polyvalent.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.UN
+    OEIL POLYVALENT.29x19.jpg
   technique: Eau forte 11/50
   fields: []
   styles: []
