@@ -356,21 +356,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-sans
-    titre (2).JPG
-  technique: 'Eau forte '
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 60
-    depth: 
-  description: "1987"
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
 - title: Noeud majuscule
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-noeud
     majuscule.JPG
@@ -387,8 +372,8 @@ works:
   contextual: true
   weight: 
 - title: 'Mouvement mécanique '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-mouvements
-    mécaniques.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.MOUVEMENT
+    MECANIQUE.37x27.jpg
   technique: Eau forte 3/50
   fields: []
   styles: []
@@ -476,21 +461,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: 'Le château vertical '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-le
-    château vertical.JPG
-  technique: Eau forte 1/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 50.5
-    width: 32.5
-    depth: 
-  description: "1968"
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
 - title: 'L''échelle de Jacob '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-l'échelle
     de jacob.JPG
@@ -522,8 +492,7 @@ works:
   contextual: true
   weight: 
 - title: Coeur (II)
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-coeur
-    (II).JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA (1).J.MORIN.COEUR.29x19.jpg
   technique: Eau forte 3/50
   fields: []
   styles: []
@@ -533,51 +502,6 @@ works:
     depth: 
   description: "1977"
   price: 150
-  sold: false
-  contextual: true
-  weight: 
-- title: 'Cat 328 '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-cat
-    328.JPG
-  technique: Eau forte 1/4
-  fields: []
-  styles: []
-  dimensions:
-    height: 50
-    width: 34
-    depth: 
-  description: "1978"
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Espace agité
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-espace
-    agité.JPG
-  technique: Eau forte 2/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 33
-    width: 50
-    depth: 
-  description: "1968"
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
-- title: Construction ephémère
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-constructions
-    ephémères.JPG
-  technique: Eau forte 10/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 44.5
-    depth: 
-  description: ''
-  price: 450
   sold: false
   contextual: true
   weight: 
@@ -597,8 +521,8 @@ works:
   contextual: true
   weight: 
 - title: Fleur dansant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6421.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.FLEUR
+    DANSANTE.29x19.jpg
   technique: Eau forte 17/50
   dimensions:
     height: 30
