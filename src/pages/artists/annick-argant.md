@@ -106,17 +106,6 @@ works:
   description: 2 formes superposées en grès et articulées sur un axe
   price: 1200
   contextual: true
-- title: Carr'aimant
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gaia -annick argant-carraimantIMG_6647.JPG
-  technique: Grès sur socle bois huilé
-  dimensions:
-    height: 23
-    width: 13
-    depth: 12
-  description: "Hauteur totale avec le socle 23cm  \nGrès 12X12X13 cm "
-  price: 800
-  sold: false
-  contextual: false
 redirect_from:
 - "/artistes/51-annick-argant/"
 styles:
