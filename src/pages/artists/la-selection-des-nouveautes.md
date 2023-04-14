@@ -12,7 +12,7 @@ biography: |-
 exhibitions: []
 works:
 - title: Nouveautés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA COM NOUVEATÉS.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA_Instagram_Gabarit(1).jpg
   fields: []
   styles: []
   dimensions:
@@ -32,8 +32,8 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: '[Victoire D''Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
-    "Victoire d''Harcourt") '
+  description: "[Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
+    \"Victoire d'Harcourt\")\n\nInstallation d'un bas relief "
   price: 0
   contextual: false
 - title: La petite coréenne de Virginie Chardon
