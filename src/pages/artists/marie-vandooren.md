@@ -47,7 +47,7 @@ works:
 - title: Vestige 2
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.vestige2.2021.50x70
     .jpg
-  technique: Sérigraphie
+  technique: Sérigraphie.
   fields:
   - Oeuvre sur papier
   styles: []
