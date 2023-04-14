@@ -341,21 +341,6 @@ works:
   sold: false
   contextual: true
   weight: 
-- title: Signaux optiques
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-signaux
-    optiques.jpg
-  technique: Eau forte 7/50
-  fields: []
-  styles: []
-  dimensions:
-    height: 61
-    width: 45.5
-    depth: 
-  description: "1971"
-  price: 450
-  sold: false
-  contextual: true
-  weight: 
 - title: Noeud majuscule
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-jorj-morin-noeud
     majuscule.JPG
