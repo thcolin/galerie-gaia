@@ -33,8 +33,9 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "[Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
-    \"Victoire d'Harcourt\")\n\nInstallation d'un bas relief "
+  description: Installation d'un bas relief de l'artiste [Victoire D'Harcourt](https://galeriegaia.fr/artists/d-harcourt-victoire/
+    "Victoire d'Harcourt") à [l'Hotel Montalembert](https://www.hotelmontalembert-paris.com/fr)
+    à Saint Germain des Prés, à deux pas du [Louvre](https://www.louvre.fr)
   price: 0
   contextual: false
 - title: La petite coréenne de Virginie Chardon
