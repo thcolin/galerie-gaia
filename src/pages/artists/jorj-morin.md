@@ -89,7 +89,7 @@ works:
   contextual: true
 - title: Entrelacs ( II )
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.ENTRELACS.37x27.jpg
-  technique: Eau forte 1/50.
+  technique: Eau forte 1/50
   fields: []
   styles: []
   weight: 
@@ -102,7 +102,8 @@ works:
   sold: false
   contextual: true
 - title: 'Petit bois habité '
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.PETIT
+    BOIS HABITE.29x19.jpg
   technique: Eau forte 1/50
   fields: []
   styles: []
@@ -118,7 +119,7 @@ works:
 - title: 'Une certaine cohésion '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.UNE
     CERTAINE COHESION.29x19.jpg
-  technique: Eau forte 17/50
+  technique: Eau forte 17/50.
   fields: []
   styles: []
   weight: 
