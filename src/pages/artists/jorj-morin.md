@@ -566,8 +566,7 @@ works:
   styles: []
   weight: 
 - title: Cyclope
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-georges
-    morin-IMG_6424.jpg
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.CYCLOPE.29x19.jpg
   technique: Eau forte 17/50
   dimensions:
     height: 30
