@@ -30,7 +30,7 @@ works:
 - title: 'Sentiers perdus '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.SENTIER
     PERDUS.37x27.jpg
-  technique: Eau forte 9/50
+  technique: Eau forte 9/50.
   fields: []
   styles: []
   weight: 
