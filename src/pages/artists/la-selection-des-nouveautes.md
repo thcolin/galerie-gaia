@@ -11,6 +11,17 @@ biography: |-
   Retrouvez dans cette rubrique des **nouveautés** sélectionnées par  la galerie et **mise en situation**. Chaque œuvre est disponible à la vente en galerie e/ou expédiée par colissimo.
 exhibitions: []
 works:
+- title: Nouveautés
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GAÏA COM NOUVEATÉS.jpg
+  fields: []
+  styles: []
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: ''
+  price: ''
+  contextual: false
 - title: Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_8229.JPG
   technique: Poudre de marbre et résine
@@ -25,20 +36,9 @@ works:
     "Victoire d''Harcourt") '
   price: 0
   contextual: false
-- title: Nouveautés
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-exclu-new21.png
-  fields: []
-  styles: []
-  dimensions:
-    height: 0
-    width: 0
-    depth: 0
-  description: ''
-  price: ''
-  contextual: false
 - title: La petite coréenne de Virginie Chardon
   image: 'https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -
-    virgine-chardon-LA PETITE CORÉENNE #3.JPG'
+    virgine-chardon-LA PETITE CORÉENNE #3.JPG'
   technique: Bronze Fonderie Rosini
   fields: []
   styles: []
