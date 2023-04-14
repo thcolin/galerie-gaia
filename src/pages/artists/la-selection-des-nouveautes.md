@@ -22,6 +22,7 @@ works:
   description: ''
   price: ''
   contextual: false
+  technique: "."
 - title: Victoire D'Harcourt
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_8229.JPG
   technique: Poudre de marbre et résine
