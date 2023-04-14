@@ -134,7 +134,7 @@ works:
 - title: La tour de guet
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.LA
     TOUR DE GUET.29x19.jpg
-  technique: Eau forte 29/30
+  technique: Eau forte 29/30.
   fields: []
   styles: []
   weight: 
@@ -149,7 +149,7 @@ works:
 - title: Regards dispercés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.REGARD
     DISPERCE.29x19.jpg
-  technique: Eau forte 4/50
+  technique: Eau forte 4/50.
   fields: []
   styles: []
   weight: 
