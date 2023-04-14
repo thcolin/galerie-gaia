@@ -38,7 +38,7 @@ biography: |-
   * 2021: Exhibition tapestry Art Paris with the Gallery Chevalier Paris
 works:
 - title: 'Sans titre '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia-paressant.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3084.jpg
   technique: Papier teinté tissé superposé
   fields: []
   styles: []
