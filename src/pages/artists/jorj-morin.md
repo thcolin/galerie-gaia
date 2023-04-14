@@ -73,7 +73,8 @@ works:
   sold: false
   contextual: true
 - title: 'L''oeil inquiet '
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.L
+    OEIL INQUET.37x27.jpg
   technique: Eau forte 4/50
   fields: []
   styles: []
@@ -88,7 +89,7 @@ works:
   contextual: true
 - title: Entrelacs ( II )
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/GALERIE GAIA.J.MORIN.ENTRELACS.37x27.jpg
-  technique: Eau forte 1/50
+  technique: Eau forte 1/50.
   fields: []
   styles: []
   weight: 
