@@ -97,7 +97,7 @@ works:
   styles:
   - Figuratif
 - title: Yann Peron
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_8150.JPG
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_8150.jpg
   technique: 'aquarelle sur papier '
   fields: []
   styles: []
