@@ -36,56 +36,6 @@ works:
   description: ''
   price: 890
   contextual: true
-- title: 'Gérard Traquandi - Sans Titre (orange) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/traquandi-sans-titre-orange-1219.jpg
-  technique: Aquatinte 12/19
-  dimensions:
-    height: 80
-    width: 61
-    depth: 
-  description: |-
-    # Gérard Traquandi
-
-    Encadrement Nielsen Noir
-  price: 930
-  sold: false
-  contextual: true
-- title: 'Gerard Traquandi - Sans Titre (noir) '
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galeriegaia_Traquandi_SansTitre(noir)_80x61-01.jpg
-  technique: Aquatinte 12/19 2013
-  dimensions:
-    height: 80
-    width: 61
-    depth: 
-  description: |-
-    # Gérard Traquandi
-
-    Encadrement Nielsen Noir
-  price: 930
-  sold: false
-  contextual: true
-- title: Gérard Tranquandi duo en situation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-tranquandi-duo.jpg
-  technique: Aquatinte
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: "# Gérard Traquandi"
-  price: 1860
-  contextual: false
-- title: Frederic Poincelet - Massilia
-  fields: []
-  styles: []
-  dimensions:
-    height: 80
-    width: 60
-    depth: 0
-  description: 'Edition : 2/20'
-  price: 650
-  contextual: true
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0085.jpeg
-  technique: Lithographie
 - title: 'Frederic Poincelet - Sans titre #2'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0057.jpeg
   technique: Lithographie
@@ -98,20 +48,6 @@ works:
   description: "Edition: 4/20  \n2017"
   price: 460
   contextual: true
-- title: Miró Exposition Barcelone 1973
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
-  technique: Affiche de collection en parfait état
-  dimensions:
-    height: 75
-    width: 57
-    depth: 0
-  description: "# Miro "
-  price: 140
-  contextual: true
-  fields:
-  - Oeuvre sur papier
-  styles:
-  - Abstrait
 - title: 'Frederic Poincelet - Sans titre #3 '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/frederic-poincelet-sans-titre-3-420.jpg
   technique: 'Lithographie '
@@ -128,6 +64,20 @@ works:
   contextual: true
   styles:
   - Figuratif
+- title: Miró Exposition Barcelone 1973
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-miro-1973-75x57.jpg
+  technique: Affiche de collection en parfait état
+  dimensions:
+    height: 75
+    width: 57
+    depth: 0
+  description: "# Miro "
+  price: 140
+  contextual: true
+  fields:
+  - Oeuvre sur papier
+  styles:
+  - Abstrait
 - title: 'Hervé Di Rosa - Le promeneur '
   technique: Eau forte 48/60 1987
   fields: []
