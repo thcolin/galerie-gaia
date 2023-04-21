@@ -11,6 +11,22 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: Balthasar Burkhard - Maiko, 1988 - 2000
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3162.jpg
+  technique: ''
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 60
+    width: 45
+    depth: 0
+  description: |-
+    Édition : 1/33
+
+    1988 - 2000
+  price: 1290
+  contextual: true
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1326042_1_l.jpg
   fields: []
   styles: []
