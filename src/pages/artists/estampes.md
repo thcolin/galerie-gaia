@@ -130,7 +130,7 @@ works:
     Édition : 5/19
 
     2006
-  price: 980
+  price: 900
   contextual: true
   title: Gerard Traquandi - Sans titre
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gerard_traquandi_galerie_catherine_putman_493.jpg
