@@ -11,6 +11,38 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- title: Jean Dewasne - Longitude est
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3177.jpg
+  technique: lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 57/300
+
+    1968
+  price: 560
+  contextual: true
+- title: Jean Dewasne - Longitude est
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/_longitude_est_galerie_catherine_putman_1317.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 116/300
+
+    1968
+  price: 560
+  contextual: true
 - title: Balthasar Burkhard -Rio Negro
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3162.jpg
   technique: Héliogravure
