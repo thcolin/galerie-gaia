@@ -10,7 +10,7 @@ expose: true
 biography: |-
   # Alain Clément
 
-  > Une peinture structurée
+  Une peinture structurée
 
   Alain Clément est né à Neuilly-sur-Seine en 1941. A partir de 1970 il enseigne à l’école des Beaux-arts de Montpellier. Puis, en 1985, l'artiste prend la direction des Beaux-Arts de Nîmes et quitte ainsi ceux de Montpellier.  Il vit et travaille entre Nîmes, Paris et Berlin. L’artiste développe depuis près de trente ans un portfolio d'œuvres abstraites, parmi lesquelles les sculptures, gravures, et surtout les peintures  réunissent sensibilité, structure, et plaisir optique. Les agencements muraux qu'il réalise sont de grandes lignes colorées, structurant l'environnement qu'ils occupent.
 
