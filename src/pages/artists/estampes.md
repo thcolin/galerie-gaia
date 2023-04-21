@@ -11,6 +11,22 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
+- fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: |-
+    Édition : 5/19
+
+    2006
+  price: 980
+  contextual: true
+  title: Gerard Traquandi - Sans titre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gerard_traquandi_galerie_catherine_putman_493.jpg
+  technique: Eau-forte
 - title: Jean Dewasne - Longitude est
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3177.jpg
   technique: lithographie
@@ -168,19 +184,6 @@ works:
   contextual: true
   styles:
   - Figuratif
-- title: Pierre Alechinsky - "Ziggourat II"
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre-alechinsky-ziggourat-ii.jpg
-  technique: Lithographie 19/66 1985
-  dimensions:
-    height: 72
-    width: 50
-    depth: 
-  description: "# Pierre Alechinsky"
-  price: 1375
-  sold: false
-  contextual: true
-  styles:
-  - Figuartif
 - title: Chillida Exposition 1971 Barcelone
   technique: Affiche de collection en parfait état
   dimensions:
