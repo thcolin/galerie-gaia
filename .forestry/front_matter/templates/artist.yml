@@ -214,6 +214,7 @@ fields:
   hidden: true
   default: artist
 pages:
+- src/pages/artists/alechinsky-pierre.md
 - src/pages/artists/bard-francois.md
 - src/pages/artists/belaud-cindy.md
 - src/pages/artists/brigitte-marionneau.md
