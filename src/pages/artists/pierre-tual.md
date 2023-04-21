@@ -55,11 +55,10 @@ works:
     height: 0
     width: 0
     depth: 0
-  description: "Cette sculpture de Pierre Tual est installée depuis 1989 sur la rue
-    de la Jussienne, dans le 2e arrondissement de Paris. \n\nLa rue de la Jussienne
-    s'élargit pour former une sorte de placette pavée juste avant de déboucher sur
-    la rue Étienne-Marcel et la sculpture profite de cet emplacement.\n\nDimension
-    : 3,80 × 2,40 × 5,80 m"
+  description: |-
+    Cette sculpture monumental de Pierre Tual est installée depuis 1989 sur la rue de la Jussienne, dans le 2e arrondissement de Paris.
+
+    Dimension : 3,80 × 2,40 × 5,80 m
   price: 
   contextual: false
   title: L'Arche
