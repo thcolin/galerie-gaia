@@ -49,7 +49,7 @@ biography: "Pierre Alechinsky est né à Bruxelles en 1927. De 1944 à 1948, il 
   Il vit et travaille à Bougival"
 works:
 - title: 'Prologue '
-  image: ''
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/pierre_alechinsky_prologue_galerie_catherine_putman_951.jpg
   technique: Lithographie
   fields: []
   styles: []
