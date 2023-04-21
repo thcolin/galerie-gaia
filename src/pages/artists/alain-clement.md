@@ -48,7 +48,7 @@ works:
     Edition : 10/19
 
     2006
-  price: 1000
+  price: 990
   contextual: true
 redirect_from:
 - "/artistes/89-alain-clement/"
