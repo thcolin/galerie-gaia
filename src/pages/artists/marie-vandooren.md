@@ -80,8 +80,11 @@ works:
     height: 40
     width: 30
     depth: 0
-  description: ''
-  price: 0
+  description: |-
+    Edition : 2/6
+
+    2023
+  price: 140
   contextual: true
 - title: Fumée II
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3211.jpg

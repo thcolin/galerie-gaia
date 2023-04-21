@@ -48,6 +48,57 @@ biography: "# Pierre Tual\n\n> \"Quand je plie une feuille de métal, l'espace e
   Workshop la Commanderie des Templiers and Elancourt 78\n* 1991 - Workshop la Forge
   des Aulnays 61\n* 1991 - 2001 Teacher at the Quai, School of Art in Mulhouse"
 works:
+- fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 0
+    width: 0
+    depth: 0
+  description: "Cette sculpture de Pierre Tual est installée depuis 1989 sur la rue
+    de la Jussienne, dans le 2e arrondissement de Paris. \n\nLa rue de la Jussienne
+    s'élargit pour former une sorte de placette pavée juste avant de déboucher sur
+    la rue Étienne-Marcel et la sculpture profite de cet emplacement.\n\nDimension
+    : 3,80 × 2,40 × 5,80 m"
+  price: 
+  contextual: false
+  title: L'Arche
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/cf4e6c81-8c35-40fd-810b-84999041665a.JPG
+  technique: 'Sculpture acier '
+  sold: false
+- title: Kérinos
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
+    tual-kerinos.JPG
+  technique: " Sculpture ruban de fer peint époxy , cuit au four"
+  fields:
+  - Sculpture
+  styles: []
+  dimensions:
+    height: 64
+    width: 108
+    depth: 60
+  description: "2004"
+  price: 11000
+  sold: false
+  contextual: false
+  weight: 
+- title: Kerinos étude
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
+    tual-kerinos dessin C.jpg
+  technique: 'Fusain sur papier '
+  fields:
+  - Dessin
+  styles: []
+  dimensions:
+    height: 70
+    width: 100
+    depth: 
+  description: "dessin de la sculpture Kerinos  \nprix avec encadrement chêne verre
+    musée anti-reflet"
+  price: 2095
+  sold: false
+  contextual: true
+  weight: 
 - title: 'Petite oblique contre le mur '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -pierre
     tual -petite obliqueES .jpeg
@@ -99,39 +150,6 @@ works:
   price: 
   sold: false
   contextual: false
-  weight: 
-- title: Kérinos
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
-    tual-kerinos.JPG
-  technique: " Sculpture ruban de fer peint époxy , cuit au four"
-  fields:
-  - Sculpture
-  styles: []
-  dimensions:
-    height: 64
-    width: 108
-    depth: 60
-  description: "2004"
-  price: 11000
-  sold: false
-  contextual: false
-  weight: 
-- title: Kerinos étude
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-pierre
-    tual-kerinos dessin C.jpg
-  technique: 'Fusain sur papier '
-  fields:
-  - Dessin
-  styles: []
-  dimensions:
-    height: 70
-    width: 100
-    depth: 
-  description: "dessin de la sculpture Kerinos  \nprix avec encadrement chêne verre
-    musée anti-reflet"
-  price: 2095
-  sold: false
-  contextual: true
   weight: 
 - title: Le manège
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia-pierre
