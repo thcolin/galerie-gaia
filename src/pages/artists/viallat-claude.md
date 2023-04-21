@@ -50,7 +50,7 @@ works:
     Edition : 21/30
 
     2015
-  price: 2600
+  price: 2250
   contextual: true
   title: 'Sans titre #21.'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
@@ -68,7 +68,7 @@ works:
     Edition : 6/30
 
     2015
-  price: 2600
+  price: 2250
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0200.jpeg
   technique: Monotype à encrage
