@@ -45,6 +45,83 @@ biography: |-
   * 2011: Bram van Velde - Geer Van Velde, Museum Belvédère, Heerenveen
 exhibitions: []
 works:
+- title: Sans titre MP 340.
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3197.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    depth: 0
+    height: 95
+    width: 65
+  description: |-
+    Édition : 97/100
+
+    1979
+  contextual: true
+  price: 2500
+- title: Fleur légère MP 382
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3147.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 53
+    width: 33
+    depth: 0
+  description: |-
+    Édition : 81/100
+
+    1981
+  price: 850
+  contextual: true
+- title: Sans titre MP 396
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3195.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 100
+    width: 56
+    depth: 0
+  description: |-
+    Édition : 99/100
+
+    1981
+  contextual: true
+  price: 2500
+- title: Sans titre MP 200
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3192 (1).jpg
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    depth: 0
+    height: 90
+    width: 65
+  description: ''
+  price: 2600
+  contextual: true
+  technique: Lithographie
+- title: Sans titre MP 178
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3200.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 90
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 97/100
+
+    1975
+  price: 2500
+  contextual: true
 - title: Bram Van Velde encadrée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie gaia -bram
     van velde ES cadre2022.jpg
