@@ -89,7 +89,7 @@ works:
     Édition : 17/33
 
     2002-2003
-  price: 1350
+  price: 1290
   contextual: true
 - title: Balthasar Burkhard - Maiko
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3159.jpg
@@ -105,7 +105,7 @@ works:
     Édition : 1/33
 
     1988 - 2000.
-  price: 1290
+  price: 1150
   contextual: true
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1326042_1_l.jpg
   fields: []
