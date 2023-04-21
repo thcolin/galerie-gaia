@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Templates</title>
+  </head>
+  <body>
+    <div id="snipcart-templates">
+      <address-fields section="top">
+        <div style="padding: 16px 0 8px 0;">
+          <snipcart-label for="phone">Numéro de téléphone</snipcart-label>
+          <snipcart-input name="phone" required></snipcart-input>
+        </div>
+      </address-fields>
+      <billing section="bottom">
+        <fieldset class="snipcart-form__set">
+          <div class="snipcart-form__field">
+            <div class="snipcart-form__field-checkbox">
+              <snipcart-checkbox name="subscribeToNewsletter"></snipcart-checkbox>
+              <snipcart-label for="subscribeToNewsletter" class="snipcart__font--tiny snipcart-form__label--checkbox">
+                S'inscrire à la newsletter
+              </snipcart-label>
+            </div>
+          </div>
+        </fieldset>
+      </billing>
+      <payment section="bottom">
+        <div style="padding: 24px 0 0;">
+          <p>
+            <snipcart-checkbox name="privacy-policy" required></snipcart-checkbox>
+            <snipcart-label for="privacy-policy">J'ai lu et j'accepte la politique de confidentialité</snipcart-label>
+            <p style="line-height: 1.5; font-size: smaller; text-align: justify; padding: 8px 0;">
+              Les informations recueillies via le site www.galeriegaia.fr (ci-après désigné « le Site ») ont vocation à être traitées par la Galerie Gaïa, responsable de traitement, aux fins de traitement de votre demande de renseignement. Les informations ci dessus sont obligatoires pour la gestion de vos demandes. Conformément à la réglementation applicable en matière de protection des données à caractère personnel, vous disposez d’un droit d’accès de rectification et de portabilité des informations vous concernant; d'un droit de limitation, d’effacement et d’opposition pour des motifs légitimes au traitement de vos données; de la possibilité de nous transmettre des directives afin d’organiser le sort des données vous concernant (conservation, effacement, communication à un tiers, etc.) en cas de décès; Vous pouvez exercer ces droits en écrivant à l'adresse électronique suivante : galeriegaia@orange.fr. Toutefois, votre opposition peut, en pratique et selon le cas, avoir une incidence sur votre demande d’information. Pour plus d’informations concernant ce traitement contactez-nous à l'adresse galeriegaia@orange.fr.
+            </p>
+          </p>
+        </div>
+      </payment>
+    </div>
+  </body>
+</html>
