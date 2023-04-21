@@ -30,6 +30,40 @@ biography: "Jean Messagier est un peintre, graveur, sculpteur français.  \n  \n
   abstrait. Lui-même n’a jamais voulu se définir, il a toujours renoncé à la dualité
   abstraction – figuration."
 works:
+- title: Catastrophe printanière
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3171.jpg
+  technique: Aquatinte et pointe sèche
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 45
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 11/20
+
+    1986
+  price: 740
+  sold: false
+  contextual: true
+- title: Signature d'une convention tripartite et potagère par avril-mai-juin
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3182.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 22/75
+
+    1978
+  price: 270
+  sold: false
+  contextual: true
 - title: Printemps à mille coeur
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3168.jpg
   technique: Pointe séche
