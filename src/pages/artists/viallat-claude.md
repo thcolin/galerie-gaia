@@ -39,38 +39,41 @@ works:
   sold: false
   contextual: true
   description: '1997 Atelier Buyse Lille '
+  weight: 
 - fields: []
   styles: []
   dimensions:
     height: 20
     width: 48
-    depth: 0
+    depth: 
   description: |-
     Edition : 21/30
 
     2015
-  price: 2000
+  price: 2600
   contextual: true
   title: 'Sans titre #21.'
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0195.jpeg
   technique: 'Monotype à encrage '
   sold: false
+  weight: 
 - title: 'Sans titre #6'
   fields: []
   styles: []
   dimensions:
     height: 20
     width: 48
-    depth: 0
+    depth: 
   description: |-
     Edition : 6/30
 
     2015
-  price: 2000
+  price: 2600
   contextual: true
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_0200.jpeg
   technique: Monotype à encrage
   sold: false
+  weight: 
 exhibitions: []
 
 ---
