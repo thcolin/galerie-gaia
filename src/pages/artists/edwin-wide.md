@@ -1,16 +1,15 @@
 ---
 template: artist
-title: Edwin Wide Donnart
+title: Donnart Edwin - Wide
 location: ''
 fields:
-- Street art
 - Photographie
 - Peinture
 birth: "0"
 death: "0"
 expose: true
 biography: |-
-  # Edwin Wide Donnart
+  # Edwin Donnart - Wide
 
   Depuis son enfance, Edwin Wide est fasciné par les espaces abandonnés, cédés par l’homme au sauvage. Ces ruines modernes nous renvoient à notre propre temporalité, à l’impermanence de toute chose. Cela fait 20 ans qu’il réalise des peintures, par essence éphémères, dans ces lieux en décomposition. Cette pratique a développé chez Edwin Wide Donnart un intérêt pour l’obsolescence produite par le temps et l’a amené dans cette recherche d’esthétisation de l’éphémère vers le [**Glitch art**](https://www.beauxarts.com/grand-format/le-glitch-ou-le-bug-erige-au-rang-dart/ "glitch beaux arts magazine"). Cet art consiste à reconnaitre la beauté dans les erreurs d’affichage des images numériques, sous la forme de fragmentations, de répétitions et d’artefacts.
 

@@ -1,6 +1,5 @@
 ---
-fields:
-- Street art
+fields: []
 styles:
 - Abstrait
 seo:
@@ -56,6 +55,7 @@ works:
   price: 700
   sold: false
   contextual: true
+  weight: 
 - title: Extrait de la Série jeux de sociétés
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
     blind-5-JEUX DE SOCIÉTÉ.jpg
@@ -73,6 +73,7 @@ works:
   price: 150
   sold: false
   contextual: false
+  weight: 
 - title: Je gueule, tu gueules...ils braillent
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/article-galerie-gaïa-
     05.jpg
@@ -88,6 +89,7 @@ works:
   price: 700
   sold: false
   contextual: false
+  weight: 
 - title: TOUCHE PAR CE REGARD
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
     blind-12-JEUX DE SOCIÉTÉ.jpg
@@ -102,6 +104,7 @@ works:
   price: 150
   sold: false
   contextual: false
+  weight: 
 - title: TOUCHER L HORIZON DU BOUT DES DOIGTS
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
     blind-7-JEUX DE SOCIÉTÉ.jpg
@@ -116,6 +119,7 @@ works:
   price: 150
   sold: false
   contextual: false
+  weight: 
 - title: TOUCHER AVEC LES MAINS PROPRES
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
     blind-6-JEUX DE SOCIÉTÉ.jpg
@@ -130,6 +134,7 @@ works:
   price: 150
   sold: false
   contextual: false
+  weight: 
 - title: TOUCHEZ PAS A MADAME
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-the
     blind-1-JEUX DE SOCIÉTÉ.jpg
@@ -144,6 +149,7 @@ works:
   sold: false
   contextual: false
   description: ''
+  weight: 
 exhibitions: []
 
 ---
