@@ -11,22 +11,6 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
-- fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 66
-    width: 50
-    depth: 0
-  description: |-
-    Édition : 5/19
-
-    2006
-  price: 980
-  contextual: true
-  title: Gerard Traquandi - Sans titre
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gerard_traquandi_galerie_catherine_putman_493.jpg
-  technique: Eau-forte
 - title: Jean Dewasne - Longitude est
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3177.jpg
   technique: lithographie
@@ -58,6 +42,38 @@ works:
 
     1968
   price: 560
+  contextual: true
+- title: Yasse Tabuchi - Au loin la mer
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3188.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 122/300
+
+    1970
+  price: 420
+  contextual: true
+- title: Yasse Tabuchi - L'été hilare
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3185.jpg
+  technique: Lithographie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 50
+    width: 65
+    depth: 0
+  description: |-
+    Édition : 104/300
+
+    1968
+  price: 420
   contextual: true
 - title: Balthasar Burkhard -Rio Negro
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3162.jpg
@@ -103,6 +119,22 @@ works:
   contextual: false
   title: Cleon Peterson Flowers of evil the kiss (white)
   technique: Sérigraphie 121/125
+- fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: |-
+    Édition : 5/19
+
+    2006
+  price: 980
+  contextual: true
+  title: Gerard Traquandi - Sans titre
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/gerard_traquandi_galerie_catherine_putman_493.jpg
+  technique: Eau-forte
 - title: 'Soulié Tony - La rue de la soie '
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_5735.jpg
   technique: Lithographie
