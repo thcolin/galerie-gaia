@@ -11,9 +11,25 @@ biography: "# CLEON PETERSON DI ROSA BASELITZ BURAGLIO ALECHINSKI TRAQUANDI JAFF
   GAROUSTE LINDSTROM"
 exhibitions: []
 works:
-- title: Balthasar Burkhard - Maiko, 1988 - 2000
+- title: Balthasar Burkhard -Rio Negro
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3162.jpg
-  technique: ''
+  technique: Héliogravure
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 60
+    width: 45
+    depth: 0
+  description: |-
+    Édition : 17/33
+
+    2002-2003
+  price: 1350
+  contextual: true
+- title: Balthasar Burkhard - Maiko
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3159.jpg
+  technique: Héliogravure
   fields: []
   styles: []
   weight: 0
@@ -24,7 +40,7 @@ works:
   description: |-
     Édition : 1/33
 
-    1988 - 2000
+    1988 - 2000.
   price: 1290
   contextual: true
 - image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/1326042_1_l.jpg
