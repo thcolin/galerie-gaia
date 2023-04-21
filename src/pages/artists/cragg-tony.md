@@ -36,7 +36,7 @@ works:
     Édition : 11/20
 
     2003
-  price: 1900
+  price: 1650
   sold: false
   contextual: true
 - title: 'Nature, nature #1'
@@ -53,7 +53,7 @@ works:
     Édition : 4/24
 
     2007
-  price: 2200
+  price: 1900
   sold: false
   contextual: true
 exhibitions: []
