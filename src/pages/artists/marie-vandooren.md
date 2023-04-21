@@ -44,6 +44,32 @@ biography: "# Marie Vandooren\n\n> Sa transcription des espaces urbains\n\nMarie
   in suspense."
 exhibitions: []
 works:
+- title: Fumée III
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3209.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: ''
+  price: 0
+  contextual: true
+- title: Fumée II
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3211.jpg
+  technique: Sérigraphie
+  fields: []
+  styles: []
+  weight: 0
+  dimensions:
+    height: 40
+    width: 30
+    depth: 0
+  description: 'Edition : 8/9'
+  price: 140
+  contextual: true
 - title: Fumée I
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3210.jpg
   technique: Sérigraphie
