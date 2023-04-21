@@ -85,20 +85,6 @@ works:
   description: "2023"
   price: 200
   contextual: true
-- title: Béton et végétation
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren.bétonet
-    végétation.50x70.10ex.2023 copie.jpg
-  technique: Sérigraphie en édition limitée à 9 exemplaires
-  fields: []
-  styles: []
-  weight: 0
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: "2023"
-  price: 200
-  contextual: true
 - title: Plongeoir fumée
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.plongeoir
     fumée.2022.50x70.jpg
@@ -188,30 +174,6 @@ works:
   description: ''
   price: 140
   contextual: true
-- title: Forme d'architecture 1
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture1.70x50.jpg
-  technique: 'Acrylique sur papier '
-  fields: []
-  styles: []
-  dimensions:
-    height: 57
-    width: 42
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
-- title: Palindrome 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/ galerie-gaia-marievandooren.palindrome3.50x70cm.5ex.2019.jpg
-  technique: Sérigraphie
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: 5/5
-  price: 200
-  contextual: true
 - title: 3 nageurs
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren_3nageurs_sérigraphie_30x40_2021.jpg
   technique: Sérigraphie trichromie 4/8
@@ -237,30 +199,6 @@ works:
   description: ''
   price: 200
   contextual: true
-- title: Forme d'architecture 4
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture4.70x50.jpg
-  technique: Acrylique sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 70
-    width: 50
-    depth: 0
-  description: ''
-  price: 500
-  contextual: true
-- title: Forme d'architecture 3
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren.acryliquesurpapier.formed'architecture3.40x50.jpg
-  technique: Acrylique sur papier
-  fields: []
-  styles: []
-  dimensions:
-    height: 40
-    width: 50
-    depth: 0
-  description: ''
-  price: 400
-  contextual: true
 - title: Béton volant
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-betonvolant-50x70-2021.jpg
   technique: sérigraphie en 16 exemplaires
@@ -283,28 +221,6 @@ works:
     depth: 0
   description: 13/16 2019
   price: 130
-  contextual: true
-- title: Palindrome 3 couleurs
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/palindrome.jpg
-  technique: Sérigraphie en 20 exemplaires
-  dimensions:
-    height: 70
-    width: 50
-    depth: 
-  description: 11/18
-  price: 200
-  sold: false
-  contextual: true
-- title: Montagne
-  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/marievandooren-montagne-50x70-2020-200euros-pg.jpg
-  technique: Sérigraphie en 10 exemplaires
-  dimensions:
-    height: 50
-    width: 70
-    depth: 
-  description: "2020"
-  price: 200
-  sold: false
   contextual: true
 - title: Piscine végétale
   image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/galerie-gaia-marievandooren-serigraphie-piscine-vegetale-50x70-2020.jpg
