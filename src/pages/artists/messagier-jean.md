@@ -78,6 +78,40 @@ works:
   sold: false
   contextual: true
   price: 600
+- title: Printemps aux primevères
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3217 (1).jpg
+  technique: Pointe séche
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 65
+    width: 50
+    depth: 0
+  description: |-
+    Édition : 7/10
+
+    1992
+  price: 800
+  sold: false
+  contextual: true
+- title: Samuel Beckett
+  image: https://galerie-gaia.s3.eu-west-3.amazonaws.com/forestry/IMG_3165.jpg
+  technique: Aquatinte et pointe sèche
+  fields: []
+  styles: []
+  weight: 
+  dimensions:
+    height: 66
+    width: 50
+    depth: 0
+  description: |-
+    Édition : 5/15
+
+    1991
+  price: 600
+  sold: false
+  contextual: true
 exhibitions: []
 
 ---
